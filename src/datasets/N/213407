@@ -1,0 +1,8 @@
+AC   Q5KY48;
+UPF0317 protein GK2103.
+"Thermoadaptation trait revealed by the genome sequence of
+thermophilic Geobacillus kaustophilus.";
+-!- SIMILARITY: Belongs to the UPF0317 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

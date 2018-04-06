@@ -1,0 +1,41 @@
+AC   Q91VN0; O88883; Q9R208;
+Low-density lipoprotein receptor-related protein 5 precursor (LRP7)
+(Lr3).
+"Cloning of a novel member of the low-density lipoprotein receptor
+family.";
+"Molecular cloning of mouse Lrp7(Lr3) cDNA and chromosomal mapping of
+orthologous genes in mouse and human.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Involved in the Wnt/beta catenin signaling pathway,
+    probably by acting as a coreceptor together with Frizzled for Wnt
+    (By similarity).
+-!- SUBUNIT: Interacts with different Wnt/Frizzled complexes.
+    Interacts with axin (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=1;
+      Comment=A number of isoforms are produced;
+    Name=1;
+      IsoId=Q91VN0-1; Sequence=Displayed;
+-!- TISSUE SPECIFICITY: Widely expressed, with the highest expression
+    levels in liver, heart, and lung and the lowest levels in brain
+    and spleen.
+-!- DEVELOPMENTAL STAGE: Expressed before or on embryonic day 7.
+-!- PTM: Phosphorylation of the PPPSP motif creates an inducible
+    docking site for axin (By similarity).
+-!- SIMILARITY: Belongs to the LDLR family.
+-!- SIMILARITY: Contains 4 EGF-like domains.
+-!- SIMILARITY: Contains 3 LDL-receptor class A domains.
+-!- SIMILARITY: Contains 20 LDL-receptor class B repeats.
+ GO:0005739; C:mitochondrion; IDA:MGI.
+ GO:0009952; P:anterior/posterior pattern formation; IGI:MGI.
+ GO:0042074; P:cell migration involved in gastrulation; IGI:MGI.
+ GO:0042733; P:embryonic digit morphogenesis; IGI:MGI.
+ GO:0010003; P:gastrulation (sensu Mammalia); IGI:MGI.
+ GO:0016055; P:Wnt receptor signaling pathway; IGI:MGI.
+Alternative splicing; Developmental protein; EGF-like domain;
+Endocytosis; Glycoprotein; Membrane; Phosphorylation; Receptor;
+Repeat; Signal; Transmembrane; Wnt signaling pathway.
+TMONE

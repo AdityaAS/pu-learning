@@ -1,0 +1,59 @@
+AC   Q9Z1X4; Q80VD5; Q812A1; Q8BP80; Q8C2H8; Q8K588;
+Interleukin enhancer-binding factor 3.
+"Cloning and expression of cyclosporin A- and FK506-sensitive nuclear
+factor of activated T-cells: NF45 and NF90.";
+"Cloning and characterization of the mouse interleukin enhancer
+binding factor 3 (Ilf3) homolog in a screen for RNA binding
+proteins.";
+"Alternative splicing generates two mRNA transcripts of mouse
+interleukin enhancer binding factor 3 (Ilf3).";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Ilf3 and NF90 associate with the axonal targeting element of Tau
+mRNA.";
+-!- FUNCTION: May facilitate double-stranded RNA-regulated gene
+    expression at the level of post-transcription. Can act as a
+    translation inhibitory protein which binds to coding sequences of
+    acid beta-glucosidase (GCase) and other mRNAs and functions at the
+    initiation phase of GCase mRNA translation, probably by inhibiting
+    its binding to polysomes. Can regulate protein arginine N-
+    methyltransferase 1 activity. Can promote the formation of stable
+    DNA-dependent protein kinase holoenzyme complexes on DNA (By
+    similarity).
+-!- SUBUNIT: Interacts with FUS and SMN proteins and with PRMT1. Forms
+    a complex with ILF2. Can also bind to PRKDC/XRCC7: this may
+    stabilize the interaction of PRKDC/XRCC7 and the heterodimeric
+    complex of G22P1/KU70 and XRCC5/KU80. Forms a heteromeric complex
+    with ZNF346 and ILF3. Found in a nuclear export complex with XPO5,
+    ILF3, Ran and double-stranded RNA or double-stranded minihelix VA1
+    RNA. Found in a nuclear export complex with XPO5, RAN, ILF3,
+    ZNF346 and double-stranded RNA. Interacts with XPO5 and ZNF346 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q9Z1X4-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9Z1X4-2; Sequence=VSP_013406, VSP_013407, VSP_013408;
+    Name=3;
+      IsoId=Q9Z1X4-3; Sequence=VSP_013406;
+-!- TISSUE SPECIFICITY: Ubiquitous. Expressed at high levels in the
+    thymus, testis, ovary and at lower levelss in the spleen.
+-!- PTM: Phosphorylated by RNA-dependent protein kinase (EIF2AK2) (By
+    similarity).
+-!- PTM: Methylated by protein arginine N-methyltransferase 1 (By
+    similarity).
+-!- SIMILARITY: Contains 2 DRBM (double-stranded RNA-binding) domains.
+-!- SIMILARITY: Contains 1 DZF domain.
+-!- CAUTION: Ref.2 sequence differs from that shown due to frameshifts
+    in positions 73 and 87.
+-!- CAUTION: Ref.4 (BAC36863) sequence differs from that shown due to
+    a frameshift in position 491.
+ GO:0003677; F:DNA binding; TAS:MGI.
+ GO:0005515; F:protein binding; TAS:MGI.
+Alternative splicing; Direct protein sequencing; DNA-binding;
+Methylation; Nuclear protein; Phosphorylation; Repeat; RNA-binding;
+Transcription; Transcription regulation.
+TMZERO

@@ -1,0 +1,27 @@
+AC   Q6ZRI6; Q71JB1; Q7L3S0; Q8N3F2; Q96FB6; Q9NTU5;
+Uncharacterized protein C15orf39.
+"Towards a catalog of human genes and proteins: sequencing and
+analysis of 500 novel complete protein coding human cDNAs.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Large-scale cDNA transfection screening for genes related to cancer
+development and progression.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q6ZRI6-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q6ZRI6-2; Sequence=VSP_019540, VSP_019541;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q6ZRI6-3; Sequence=VSP_019538, VSP_019539;
+-!- CAUTION: Ref.3 sequence differs from that shown due to a
+    frameshift in position 267.
+-!- CAUTION: Ref.6 (CAD39045) sequence differs from that shown due to
+    a frameshift in position 900.
+Alternative splicing; Polymorphism.
+TMZERO

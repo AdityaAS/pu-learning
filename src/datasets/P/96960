@@ -1,0 +1,16 @@
+AC   P15685;
+Maltose permease MAL61 (Maltose transport protein MAL61).
+"Primary structure of the maltose-permease-encoding gene of
+Saccharomyces carlsbergensis.";
+"The maltose permease encoded by the MAL61 gene of Saccharomyces
+cerevisiae exhibits both sequence and structural homology to other
+sugar transporters.";
+"Primary structure of the maltase gene of the MAL6 locus of
+Saccharomyces carlsbergensis.";
+-!- FUNCTION: Transporter for maltose.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Maltose metabolism; Membrane; Sugar transport; Transmembrane;
+Transport.
+TMTWELVE

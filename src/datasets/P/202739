@@ -1,0 +1,9 @@
+AC   P03657;
+Gene I protein.
+"Nucleotide sequence and genome organisation of filamentous
+bacteriophages f1 and fd.";
+"Nucleotide sequence of bacteriophage f1 DNA.";
+-!- FUNCTION: The exact function of this protein is not known although
+    it may be involved in phage assembly.
+ATP-binding; Nucleotide-binding; Phage maturation.
+TMZERO

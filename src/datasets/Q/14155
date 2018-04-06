@@ -1,0 +1,26 @@
+AC   P0A301; P50004;
+ATP synthase subunit beta (EC 3.6.3.14) (ATPase subunit beta) (ATP
+synthase F1 sector subunit beta).
+"The ATP synthase (F1F0) of Streptomyces lividans: sequencing of the
+atp operon and phylogenetic considerations with subunit beta.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane. The catalytic sites are hosted
+    primarily by the beta subunits (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a(1), b(2) and c(9-12). The alpha and
+    beta chains form an alternating ring which encloses part of the
+    gamma chain. CF(1) is attached to CF(0) by a central stalk formed
+    by the gamma and epsilon chains, while a peripheral stalk is
+    formed by the delta and b chains (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+ GO:0042777; P:ATP synthesis coupled proton transport (sen...; IEA:HAMAP.
+ATP synthesis; ATP-binding; CF(1); Direct protein sequencing;
+Hydrogen ion transport; Hydrolase; Ion transport; Membrane;
+Nucleotide-binding; Transport.
+TMZERO

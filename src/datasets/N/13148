@@ -1,0 +1,26 @@
+AC   Q7RZT9;
+Serine/threonine-protein kinase tel-1 (EC 2.7.11.1) (DNA-damage
+checkpoint kinase tel-1) (Telomere length regulation protein 1) (ATM
+homolog).
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: Serine/threonine protein kinase which activates
+    checkpoint signaling upon genotoxic stresses such as ionizing
+    radiation (IR), ultraviolet light (UV), or DNA replication
+    stalling, thereby acting as a DNA damage sensor. Recognizes the
+    substrate consensus sequence [ST]-Q. Phosphorylates 'Ser-130' of
+    histone H2A at sites of DNA damage, involved in the regulation of
+    DNA damage response mechanism. Required for the control of
+    telomere length and genome stability (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SUBUNIT: Associates with DNA double-strand breaks (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Note=Localizes to
+    nuclear DNA repair foci with other DNA repair proteins in response
+    to DNA double strand breaks (By similarity).
+-!- SIMILARITY: Belongs to the PI3/PI4-kinase family. ATM subfamily.
+-!- SIMILARITY: Contains 1 FAT domain.
+-!- SIMILARITY: Contains 1 FATC domain.
+-!- SIMILARITY: Contains 1 PI3K/PI4K domain.
+Chromatin regulator; Chromosomal protein; DNA damage; DNA repair;
+Kinase; Nuclear protein; Serine/threonine-protein kinase; Telomere;
+Transferase.
+TMZERO

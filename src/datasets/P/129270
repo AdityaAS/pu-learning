@@ -1,0 +1,20 @@
+AC   P13794;
+Outer membrane porin F precursor.
+"Sequence and transcriptional start site of the Pseudomonas aeruginosa
+outer membrane porin protein F gene.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"Biofouling in water treatment systems: effect of membrane properties
+on biofilm formation.";
+-!- FUNCTION: Has porin activity, forming small water-filled channels.
+    Also has a structural role in determining cell shape and ability
+    to grow in low-osmolarity medium.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- PTM: Contains two disulfide bonds.
+-!- SIMILARITY: Belongs to the ompA family.
+-!- SIMILARITY: Contains 1 OmpA-like domain.
+Cell shape; Complete proteome; Direct protein sequencing;
+Ion transport; Membrane; Outer membrane; Porin; Repeat; Signal;
+Transmembrane; Transport.
+TMZERO

@@ -1,0 +1,13 @@
+AC   P87200; Q6CAQ1;
+Peroxisomal membrane protein PEX17 (Peroxin-17).
+"The peroxin Pex17p of the yeast Yarrowia lipolytica is associated
+peripherally with the peroxisomal membrane and is required for the
+import of a subset of matrix proteins.";
+"Genome evolution in yeasts.";
+-!- FUNCTION: Involved in peroxisome biosynthesis. Required for the
+    import of a subset of matrix proteins into peroxisomes.
+-!- SUBCELLULAR LOCATION: Peroxisome; peroxisomal membrane; multi-pass
+    membrane protein. Note=Probably associated with the matrix face of
+    the membrane.
+Complete proteome; Membrane; Peroxisome; Transmembrane.
+TMEIGHT

@@ -1,0 +1,17 @@
+AC   Q59049;
+Adenine phosphoribosyltransferase (EC 2.4.2.7) (APRT).
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+-!- FUNCTION: Catalyzes a salvage reaction resulting in the formation
+    of AMP, that is energically less costly than de novo synthesis.
+-!- CATALYTIC ACTIVITY: AMP + diphosphate = adenine + 5-phospho-alpha-
+    D-ribose 1-diphosphate.
+-!- PATHWAY: Purine salvage.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the purine/pyrimidine
+    phosphoribosyltransferase family.
+ GO:0003999; F:adenine phosphoribosyltransferase activity; IEA:HAMAP.
+ GO:0006168; P:adenine salvage; IEA:HAMAP.
+Complete proteome; Glycosyltransferase; Purine salvage; Transferase.
+TMZERO

@@ -1,0 +1,38 @@
+AC   Q08036;
+Nucleoprotein.
+"Analysis of the evolution and variation of the human influenza A
+virus nucleoprotein gene from 1933 to 1990.";
+-!- FUNCTION: Encapsidates the negative strand viral RNA, protecting
+    it from nucleases. The encapsidated genomic RNA is termed the
+    ribonucleoprotein (RNP) and serves as template for transcription
+    and replication. The RNP needs to be localized in the nucleus to
+    start an infectious cycle, but is too large to diffuse through the
+    nuclear pore complex. NP comprises at least 2 nuclear localization
+    signals and is responsible of the active RNP import into the
+    nucleus through the cellular importin alpha/beta pathway. Later in
+    the infection, nucleus export of RNP are mediated through viral
+    proteins NEP interacting with M1 which binds nucleoproteins. It is
+    possible that the nucleoprotein binds directly exportin-1 (XPO1)
+    and plays an active role in RNP nuclear export. M1 interaction
+    with RNP seems to hide nucleoprotein's nuclear localization
+    signals. Soon after a virion infects a new cell, M1 dissociates
+    from the RNP under acidification of the virion driven by M2
+    protein. Dissociation of M1 from RNP unmask nucleoprotein's
+    nuclear localization signals, targeting the RNP to the nucleus (By
+    similarity).
+-!- SUBUNIT: Homomultimerizes to form the nucleocapsid. May bind human
+    exportin-1. Binds to viral genomic RNA. Protein-RNA contacts are
+    mediated by a combination of electrostatic interactions between
+    positively charged residues and the phosphate backbone and planar
+    interactions between aromatic side chains and bases (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- PTM: Late in virus-infected cells, may be cleaved from a 56-kDa
+    protein to a 53-kDa protein by a cellular caspase. This cleavage
+    might be a marker for the onset of apoptosis in infected cells or
+    have a specific function in virus host interaction (By
+    similarity).
+-!- SIMILARITY: Belongs to the influenza viruses nucleoprotein family.
+Host-virus interaction; Nuclear protein; RNA-binding;
+Viral nucleoprotein; Virion protein.
+TMZERO

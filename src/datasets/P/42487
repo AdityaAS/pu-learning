@@ -1,0 +1,27 @@
+AC   P18777;
+Anaerobic dimethyl sulfoxide reductase chain C (DMSO reductase anchor
+subunit).
+"Nucleotide sequence of the dmsABC operon encoding the anaerobic
+dimethylsulphoxide reductase of Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The topology of the anchor subunit of dimethyl sulfoxide reductase of
+Escherichia coli.";
+"Organization of dimethyl sulfoxide reductase in the plasma membrane
+of Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Terminal reductase during anaerobic growth on various
+    sulfoxide and N-oxide compounds. DmsC anchors the dmsAB dimer to
+    the membrane and stabilizes it.
+-!- SUBUNIT: Heterotrimeric enzyme composed of a catalytic heterodimer
+    (DmsAB) and a membrane anchor protein (DmsC).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: To E.coli ynfH.
+Complete proteome; Inner membrane; Membrane; Oxidoreductase;
+Transmembrane.
+TMEIGHT

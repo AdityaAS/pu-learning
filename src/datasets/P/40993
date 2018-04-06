@@ -1,0 +1,20 @@
+AC   P0AEE7; P02927; P17775;
+D-galactose-binding periplasmic protein precursor (GBP) (D-galactose/
+D-glucose-binding protein) (GGBP).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: This protein is involved in the active transport of
+    galactose and glucose. It plays a role in the chemotaxis towards
+    the two sugars by interacting with the trg chemoreceptor (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- DOMAIN: The calcium-binding site is structurally similar to that
+    of EF-hand proteins, but is in two parts, with the last calcium
+    ligand provided by Glu-228 (By similarity).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 2
+    family.
+Calcium; Chemotaxis; Complete proteome; Periplasmic; Signal;
+Sugar transport; Transport.
+TMZERO

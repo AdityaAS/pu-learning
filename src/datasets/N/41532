@@ -1,0 +1,18 @@
+AC   Q05621;
+Dihydropteroate synthase (EC 2.5.1.15) (DHPS) (Dihydropteroate
+pyrophosphorylase) (Fragment).
+"Cloning and sequence analysis of the genes encoding
+phosphotransbutyrylase and butyrate kinase from Clostridium
+acetobutylicum NCIMB 8052.";
+-!- FUNCTION: DHPS catalyzes the formation of the immediate precursor
+    of folic acid. It is implicated in resistance to sulfonamide.
+-!- CATALYTIC ACTIVITY: 2-amino-4-hydroxy-6-hydroxymethyl-7,8-
+    dihydropteridine diphosphate + 4-aminobenzoate = diphosphate +
+    dihydropteroate.
+-!- PATHWAY: Cofactor biosynthesis; tetrahydrofolate biosynthesis;
+    tetrahydrofolate from 2-amino-4-hydroxy-6-hydroxymethyl-7,8-
+    dihydropteridine diphosphate and 4-aminobenzoate: step 1.
+-!- SIMILARITY: Belongs to the DHPS family.
+-!- SIMILARITY: Contains 1 pterin-binding domain.
+Antibiotic resistance; Folate biosynthesis; Transferase.
+TMZERO

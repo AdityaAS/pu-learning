@@ -1,0 +1,14 @@
+AC   Q6GK27;
+Protein essA precursor.
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Required for secretion of esxA (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type I membrane
+    protein (Potential).
+-!- MISCELLANEOUS: This strain lacks esaC and esxB. EsaC is probably
+    involved in the establishment of infection in the host; esxB is an
+    exoprotein that may interact with esxA and it is important for the
+    virulence of some S.aureus strains.
+-!- SIMILARITY: Belongs to the essA family.
+Complete proteome; Membrane; Signal; Transmembrane; Virulence.
+TMONE

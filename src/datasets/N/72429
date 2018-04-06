@@ -1,0 +1,47 @@
+AC   P03444;
+Hemagglutinin precursor [Contains: Hemagglutinin HA1 chain]
+(Fragment).
+"Sequence relationships among the hemagglutinin genes of 12 subtypes
+of influenza A virus.";
+-!- FUNCTION: Binds to sialic acid-containing receptors on the cell
+    surface, bringing about the attachment of the virus particle to
+    the cell. Plays a major role in the determination of host range
+    restriction and virulence. Class I viral fusion protein.
+    Responsible for penetration of the virus into the cell cytoplasm
+    by mediating the fusion of the membrane of the endocytosed virus
+    particle with the endosomal membrane. Low pH in endosomes induce
+    an irreversible conformational change in HA2, releasing the fusion
+    hydrophobic peptide. Several trimers are required to form a
+    competent fusion pore.
+-!- SUBUNIT: Homotrimer of disulfide-linked HA1-HA2.
+-!- SUBCELLULAR LOCATION: Cell membrane; apical cell membrane; single-
+    pass type I membrane protein. Note=Targeted to the apical plasma
+    membrane in epithelial polarized cells through a signal present in
+    the transmembrane domain. Associated with glycosphingolipid- and
+    cholesterol-enriched detergent-resistant lipid rafts.
+-!- PTM: In natural infection, inactive HA is matured into HA1 and HA2
+    outside the cell by one or more trypsin-like, arginine-specific
+    endoprotease secreted by the bronchial epithelial cells. One
+    identified protease that may be involved in this process is
+    tryptase Clara.
+-!- PTM: Palmitoylated (By similarity).
+-!- MISCELLANEOUS: Major glycoprotein, comprises over 80% of the
+    envelope proteins present in virus particle.
+-!- MISCELLANEOUS: The extent of infection into host organism is
+    determined by HA. Influenza viruses bud from the apical surface of
+    polarized epithelial cells (e.g. bronchial epithelial cells) into
+    lumen of lungs and are therefore usually pneumotropic. The reason
+    is that HA is cleaved by tryptase clara which is restricted to
+    lungs. However, HAs of H5 and H7 pantropic avian viruses subtypes
+    can be cleaved by furin and subtilisin-type enzymes, allowing the
+    virus to grow in other organs than lungs.
+-!- MISCELLANEOUS: The influenza A genome consist of 8 RNA segments.
+    Genetic variation of hemagglutinin and/or neuraminidase genes
+    results in the emergence of new influenza strains. The mechanism
+    of variation can be the result of point mutations or the result of
+    genetic reassortment between segments of two different strains.
+-!- SIMILARITY: Belongs to the influenza viruses hemagglutinin family.
+Envelope protein; Fusion protein; Glycoprotein; Hemagglutinin;
+Lipoprotein; Membrane; Palmitate; Signal; Transmembrane;
+Virion protein.
+TMZERO

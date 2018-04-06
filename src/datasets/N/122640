@@ -1,0 +1,14 @@
+AC   Q838N8;
+Pyrrolidone-carboxylate peptidase (EC 3.4.19.3) (5-oxoprolyl-
+peptidase) (Pyroglutamyl-peptidase I) (PGP-I) (Pyrase).
+"Role of mobile DNA in the evolution of vancomycin-resistant
+Enterococcus faecalis.";
+-!- FUNCTION: Removes 5-oxoproline from various penultimate amino acid
+    residues except L-proline (By similarity).
+-!- CATALYTIC ACTIVITY: Release of an N-terminal pyroglutamyl group
+    from a polypeptide, the second amino acid generally not being Pro.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the peptidase C15 family.
+Complete proteome; Hydrolase; Protease; Thiol protease.
+TMZERO

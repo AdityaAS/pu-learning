@@ -1,0 +1,16 @@
+AC   P42637;
+Tropomyosin 1 (TMI) (Polypeptide 49).
+"Schistosoma mansoni tropomyosin: cDNA characterization, sequence,
+expression, and gene product localization.";
+-!- FUNCTION: Tropomyosin, in association with the troponin complex,
+    plays a central role in the calcium dependent regulation of muscle
+    contraction.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- DEVELOPMENTAL STAGE: Expressed at much higher levels in the adult
+    worm stage as compared to the cercariae and the egg stages.
+-!- DOMAIN: The molecule is in a coiled coil structure that is formed
+    by 2 polypeptide chains. The sequence exhibits a prominent seven-
+    residues periodicity.
+-!- SIMILARITY: Belongs to the tropomyosin family.
+Coiled coil; Repeat.
+TMZERO

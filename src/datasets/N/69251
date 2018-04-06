@@ -1,0 +1,21 @@
+AC   Q08484; O00028;
+GTPase-activating protein GYP1 (GAP for YPT1).
+"The sequence of a 54.7 kb fragment of yeast chromosome XV reveals the
+presence of two tRNAs and 24 new open reading frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Yeast rab GTPase-activating protein Gyp1p localizes to the Golgi
+apparatus and is a negative regulator of Ypt1p.";
+"Global analysis of protein expression in yeast.";
+"Crystal structure of the GAP domain of Gyp1p: first insights into
+interaction with Ypt/Rab proteins.";
+-!- FUNCTION: Stimulates specifically the GTPase activity of YPT1.
+    Functions on the Golgi as a negative regulator of YPT1.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi stack.
+-!- MISCELLANEOUS: Present with 206 molecules/cell.
+-!- SIMILARITY: Contains 1 Rab-GAP TBC domain.
+ GO:0005794; C:Golgi apparatus; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005097; F:Rab GTPase activator activity; IDA:SGD.
+ GO:0016192; P:vesicle-mediated transport; IDA:SGD.
+3D-structure; Complete proteome; Golgi apparatus; GTPase activation.
+TMZERO

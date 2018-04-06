@@ -1,0 +1,39 @@
+AC   O43502;
+DNA repair protein RAD51 homolog 3 (R51H3) (RAD51-like protein 2).
+"Isolation and characterization of RAD51C, a new human member of the
+RAD51 family of related genes.";
+"NIEHS-SNPs, environmental genome project, NIEHS ES15478, Department
+of Genome Sciences, Seattle, WA (URL: http://egp.gs.washington.edu).";
+"Identification and purification of two distinct complexes containing
+the five RAD51 paralogs.";
+"Mediator function of the human Rad51B-Rad51C complex in Rad51/RPA-
+catalyzed DNA strand exchange.";
+"RAD51C interacts with RAD51B and is central to a larger protein
+complex in vivo exclusive of RAD51.";
+"Interactions involving the Rad51 paralogs Rad51C and XRCC3 in human
+cells.";
+"Involvement of Rad51C in two distinct protein complexes of Rad51
+paralogs in human cells.";
+"Complex formation by the human Rad51B and Rad51C DNA repair proteins
+and their activities in vitro.";
+-!- FUNCTION: Involved in the homologous recombination repair (HRR)
+    pathway of double-stranded DNA breaks arising during DNA
+    replication or induced by DNA-damaging agents. The RAD51B-RAD51C
+    dimer exhibits single-stranded DNA-dependent ATPase activity. The
+    BCDX2 complex binds single-stranded DNA, single-stranded gaps in
+    duplex DNA and specifically to nicks in duplex DNA.
+-!- SUBUNIT: Interacts with RAD51B and XRCC3. Part of a BCDX2 complex
+    consisting of RAD51B, RAD51C, RAD51D and XRCC2. Part of a complex
+    consisting of RAD51B, RAD51C, RAD51D, XRCC2 and XRCC3. Part of a
+    complex with RAD51B and RAD51.
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- TISSUE SPECIFICITY: Expressed in a variety of tissues, with
+    highest expression in testis, heart muscle, spleen and prostate.
+-!- SIMILARITY: Belongs to the recA family. RAD51 subfamily.
+ GO:0005634; C:nucleus; TAS:ProtInc.
+ GO:0003677; F:DNA binding; TAS:ProtInc.
+ GO:0006310; P:DNA recombination; TAS:ProtInc.
+ GO:0006281; P:DNA repair; TAS:ProtInc.
+ATP-binding; DNA damage; DNA recombination; DNA repair; DNA-binding;
+Nuclear protein; Nucleotide-binding; Polymorphism.
+TMZERO

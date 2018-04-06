@@ -1,0 +1,12 @@
+AC   Q6DIJ1;
+Tyrosyl-tRNA synthetase, cytoplasmic (EC 6.1.1.1) (Tyrosyl--tRNA
+ligase) (TyrRS).
+-!- CATALYTIC ACTIVITY: ATP + L-tyrosine + tRNA(Tyr) = AMP +
+    diphosphate + L-tyrosyl-tRNA(Tyr).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+-!- SIMILARITY: Contains 1 tRNA-binding domain.
+Aminoacyl-tRNA synthetase; ATP-binding; Ligase; Nucleotide-binding;
+Protein biosynthesis; RNA-binding; tRNA-binding.
+TMZERO

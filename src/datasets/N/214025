@@ -1,0 +1,12 @@
+AC   Q8ZE38;
+UPF0283 membrane protein YPO2347/y1985/YP2134.
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the UPF0283 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+THTHREE

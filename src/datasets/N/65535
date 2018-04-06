@@ -1,0 +1,13 @@
+AC   Q7SXE4;
+Golgin subfamily A member 5 (Golgin-84).
+-!- FUNCTION: Involved in maintaining Golgi structure. Stimulates the
+    formation of Golgi stacks and ribbons. Involved in intra-Golgi
+    retrograde transport (By similarity).
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type IV membrane protein (By similarity).
+ GO:0005794; C:Golgi apparatus; ISS:UniProtKB.
+ GO:0042803; F:protein homodimerization activity; ISS:UniProtKB.
+ GO:0007030; P:Golgi organization and biogenesis; ISS:UniProtKB.
+ GO:0048193; P:Golgi vesicle transport; ISS:UniProtKB.
+Coiled coil; Golgi apparatus; Membrane; Transmembrane.
+TMONE

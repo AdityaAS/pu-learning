@@ -1,0 +1,15 @@
+AC   P46903;
+ATP-binding transport protein natA (Na(+) ABC transporter).
+"A two-gene ABC-type transport system that extrudes Na+ in Bacillus
+subtilis is induced by ethanol or protonophore.";
+"A 32 kb nucleotide sequence from the region of the lincomycin-
+resistance gene (22 degrees-25 degrees) of the Bacillus subtilis
+chromosome and identification of the site of the lin-2 mutation.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in ATP-dependent electrogenic sodium extrusion.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Ion transport; Nucleotide-binding;
+Sodium; Sodium transport; Transport.
+TMZERO

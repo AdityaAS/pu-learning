@@ -1,0 +1,13 @@
+AC   Q9Z854;
+UPF0235 protein CPn_0497/CP_0257/CPj0497/CpB0517.
+"Comparative genomes of Chlamydia pneumoniae and C. trachomatis.";
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+"Comparison of whole genome sequences of Chlamydia pneumoniae J138
+from Japan and CWL029 from USA.";
+"The genome sequence of Chlamydia pneumoniae TW183 and comparison with
+other Chlamydia strains based on whole genome sequence analysis.";
+-!- SIMILARITY: Belongs to the UPF0235 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

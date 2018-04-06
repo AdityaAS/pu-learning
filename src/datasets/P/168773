@@ -1,0 +1,31 @@
+AC   O43868; O43239;
+Sodium/nucleoside cotransporter 2 (Na(+)/nucleoside cotransporter 2)
+(Sodium-coupled nucleoside transporter 2) (Concentrative nucleoside
+transporter 2) (CNT 2) (hCNT2) (Sodium/purine nucleoside co-
+transporter) (SPNT).
+"Na+-dependent purine nucleoside transporter from human kidney:
+cloning and functional characterization.";
+"Molecular cloning, functional expression and chromosomal localization
+of a cDNA encoding a human Na+/nucleoside cotransporter (hCNT2)
+selective for purine nucleosides and uridine.";
+"Identification of amino acid residues responsible for the pyrimidine
+and purine nucleoside specificities of human concentrative Na(+)
+nucleoside cotransporters hCNT1 and hCNT2.";
+-!- FUNCTION: Sodium-dependent and purine-selective transporter.
+    Exhibits the transport characteristics of the nucleoside transport
+    system cif or N1 subtype (N1/cif) (selective for purine
+    nucleosides and uridine). Plays a critical role in specific uptake
+    and salvage of purine nucleosides in kidney and other tissues.
+-!- ENZYME REGULATION: Inhibited by formycin B.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in heart and skeletal muscle
+    followed by liver, kidney, intestine, pancreas, placenta and
+    brain. Weak expression in lung.
+-!- SIMILARITY: Belongs to the SLC28A transporter family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0015211; F:purine nucleoside transporter activity; TAS:ProtInc.
+ GO:0006139; P:nucleobase, nucleoside, nucleotide and nucl...; TAS:ProtInc.
+ GO:0015860; P:purine nucleoside transport; TAS:ProtInc.
+Membrane; Polymorphism; Transmembrane; Transport.
+TMFOURTEEN

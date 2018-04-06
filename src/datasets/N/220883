@@ -1,0 +1,8 @@
+AC   Q32JD6;
+UPF0178 protein yaiI.
+"Genome dynamics and diversity of Shigella species, the etiologic
+agents of bacillary dysentery.";
+-!- SIMILARITY: Belongs to the UPF0178 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

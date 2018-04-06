@@ -1,0 +1,8 @@
+AC   Q92M88;
+UPF0082 protein R02753.
+"Analysis of the chromosome sequence of the legume symbiont
+Sinorhizobium meliloti strain 1021.";
+-!- SIMILARITY: Belongs to the UPF0082 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

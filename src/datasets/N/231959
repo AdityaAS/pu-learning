@@ -1,0 +1,20 @@
+AC   Q969S3;
+Zinc finger protein 622 (Zinc finger-like protein 9).
+"Phosphorylation of a novel zinc-finger-like protein, ZPR9, by murine
+protein serine/threonine kinase 38 (MPK38).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Enhancement of B-MYB transcriptional activity by ZPR9, a novel zinc
+finger protein.";
+-!- FUNCTION: May behave as an activator of the bound transcription
+    factor, MYBL2, and be involved in embryonic development.
+-!- SUBUNIT: Homo- and heterodimer. Interacts with MELK and MYBL2.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- TISSUE SPECIFICITY: Expressed in lung, kidney, spleen, liver and
+    brain with lowest expression in kidney.
+-!- PTM: Phosphorylated by MELK. The phosphorylation may redirect the
+    protein to the nucleus.
+-!- SIMILARITY: Contains 2 U1-type zinc fingers.
+Metal-binding; Nuclear protein; Phosphorylation; Repeat; Zinc;
+Zinc-finger.
+TMZERO

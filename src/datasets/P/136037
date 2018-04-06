@@ -1,0 +1,19 @@
+AC   P69802; P08187; Q47351;
+Mannose permease IIC component (PTS system mannose-specific EIIC
+component) (EIIC-Man) (EII-P-Man).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in mannose transport (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIIC type-4 domain.
+Complete proteome; Formylation; Inner membrane; Membrane;
+Phosphotransferase system; Sugar transport; Transmembrane; Transport.
+TMSIX

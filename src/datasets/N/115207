@@ -1,0 +1,9 @@
+AC   P41301;
+NADH-ubiquinone oxidoreductase chain 4L (EC 1.6.5.3) (NADH
+dehydrogenase subunit 4L).
+"Comparison between the complete mtDNA sequences of the blue and the
+fin whale, two species that can hybridize in nature.";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SIMILARITY: Belongs to the complex I subunit 4L family.
+Mitochondrion; NAD; Oxidoreductase; Ubiquinone.
+TMZERO

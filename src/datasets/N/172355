@@ -1,0 +1,25 @@
+AC   O94494;
+Centromere protein sim4 (Silencing in the middle of the centromere
+protein 4).
+"The genome sequence of Schizosaccharomyces pombe.";
+"Sim4: a novel fission yeast kinetochore protein required for
+centromeric silencing and chromosome segregation.";
+-!- FUNCTION: Has a role in the maintenance of core chromatin
+    structure and kinetochore function. Required for the localization
+    of mis6 and cnp1 to the kinetochore.
+-!- SUBUNIT: Interacts with mis6.
+-!- INTERACTION:
+    P87227:mis6; NbExp=2; IntAct=EBI-1148540, EBI-1148555;
+-!- SUBCELLULAR LOCATION: Nucleus. Centromere. Note=Associates with
+    the central core region of the centromere.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0031511; C:Mis6-Sim4 complex; TAS:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0030702; P:chromatin silencing at centromere; IMP:GeneDB_SPombe.
+ GO:0007059; P:chromosome segregation; IMP:GeneDB_SPombe.
+ GO:0051382; P:kinetochore assembly; TAS:GeneDB_SPombe.
+ GO:0008104; P:protein localization; IGI:GeneDB_SPombe.
+Cell cycle; Cell division; Centromere; Chromosomal protein;
+Coiled coil; Complete proteome; Mitosis; Nuclear protein.
+TMZERO

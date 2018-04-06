@@ -1,0 +1,17 @@
+AC   Q822T3;
+3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38) (CMP-KDO
+synthetase) (CMP-2-keto-3-deoxyoctulosonic acid synthetase) (CKS).
+"Genome sequence of Chlamydophila caviae (Chlamydia psittaci GPIC):
+examining the role of niche-specific genes in the evolution of the
+Chlamydiaceae.";
+-!- FUNCTION: Activates KDO (a required 8-carbon sugar) for
+    incorporation into bacterial lipopolysaccharide in Gram-negative
+    bacteria (By similarity).
+-!- CATALYTIC ACTIVITY: CTP + 3-deoxy-D-manno-octulosonate =
+    diphosphate + CMP-3-deoxy-D-manno-octulosonate.
+-!- PATHWAY: Lipopolysaccharide biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the kdsB family.
+Complete proteome; Lipopolysaccharide biosynthesis;
+Nucleotidyltransferase; Transferase.
+TMZERO

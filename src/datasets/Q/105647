@@ -1,0 +1,15 @@
+AC   P0A4G3; P72538; Q54720; Q9L5X2; Q9L5X3; Q9L5X4; Q9R6P5;
+Manganese ABC transporter substrate-binding lipoprotein precursor
+(Pneumococcal surface adhesin A).
+"Identification of a psaA gene in viridans streptococcal strains.";
+"Genome of the bacterium Streptococcus pneumoniae strain R6.";
+-!- FUNCTION: Part of an ATP-driven transport system for manganese.
+    Also act as an adhesin which is involved on adherence to
+    extracellular matrix. It is an important factor in pathogenesis
+    and infection (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (By similarity).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 9
+    family. Lipoprotein receptor antigen (Lrai) subfamily.
+Complete proteome; Lipoprotein; Manganese; Membrane; Palmitate;
+Signal; Transport.
+TMZERO

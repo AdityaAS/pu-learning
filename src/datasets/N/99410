@@ -1,0 +1,17 @@
+AC   P68261; P26598;
+Methicillin resistance regulatory protein mecI.
+"Molecular cloning and nucleotide sequence determination of the
+regulator region of mecA gene in methicillin-resistant Staphylococcus
+aureus (MRSA).";
+"Cloning and nucleotide sequence determination of the entire mec DNA
+of pre-methicillin-resistant Staphylococcus aureus N315.";
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+"Three-dimensional structure of MecI. Molecular basis for
+transcriptional regulation of staphylococcal methicillin resistance.";
+-!- FUNCTION: Transcriptional repressor that constitutively blocks the
+    transcription of the gene for the penicillin-binding protein mecA.
+-!- SIMILARITY: Belongs to the blaI transcriptional regulatory family.
+3D-structure; Antibiotic resistance; Complete proteome; DNA-binding;
+Repressor; Transcription; Transcription regulation.
+TMZERO

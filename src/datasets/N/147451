@@ -1,0 +1,13 @@
+AC   Q9FF90;
+60S ribosomal protein L13-3.
+"Structural analysis of Arabidopsis thaliana chromosome 5. I. Sequence
+features of the 1.6 Mb regions covered by twenty physically assigned
+P1 clones.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"The organization of cytoplasmic ribosomal protein genes in the
+Arabidopsis genome.";
+-!- SIMILARITY: Belongs to the ribosomal protein L13e family.
+ GO:0005830; C:cytosolic ribosome (sensu Eukaryota); IDA:TAIR.
+Ribonucleoprotein; Ribosomal protein.
+TMZERO

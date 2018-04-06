@@ -1,0 +1,9 @@
+AC   Q6G2P7;
+S-adenosyl-methyltransferase mraW (EC 2.1.1.-).
+"The louse-borne human pathogen Bartonella quintana is a genomic
+derivative of the zoonotic agent Bartonella henselae.";
+-!- FUNCTION: Exhibits a S-adenosyl-dependent methyltransferase
+    activity (By similarity).
+-!- SIMILARITY: Belongs to the mraW family.
+Complete proteome; Methyltransferase; Transferase.
+TMZERO

@@ -1,0 +1,9 @@
+AC   P42360;
+Hypothetical ABC transporter ATP-binding protein in scaA 5'region
+(ORF1).
+"Nucleotide sequence of the Streptococcus gordonii PK488 coaggregation
+adhesin gene, scaA, and ATP-binding cassette.";
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Hypothetical protein; Nucleotide-binding; Transport.
+TMZERO

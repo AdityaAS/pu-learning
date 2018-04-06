@@ -1,0 +1,14 @@
+AC   Q3J9B8;
+tRNA pseudouridine synthase B (EC 5.4.99.-) (tRNA pseudouridine 55
+synthase) (Psi55 synthase) (tRNA-uridine isomerase) (tRNA
+pseudouridylate synthase).
+"Complete genome sequence of the marine, chemolithoautotrophic,
+ammonia-oxidizing bacterium Nitrosococcus oceani ATCC 19707.";
+-!- FUNCTION: Responsible for synthesis of pseudouridine from uracil-
+    55 in the psi GC loop of transfer RNAs (By similarity).
+-!- CATALYTIC ACTIVITY: tRNA uridine = tRNA pseudouridine.
+-!- SIMILARITY: Belongs to the pseudouridine synthase truB family.
+    Type 1 subfamily.
+ GO:0031119; P:tRNA pseudouridine synthesis; IEA:HAMAP.
+Complete proteome; Isomerase; tRNA processing.
+TMZERO

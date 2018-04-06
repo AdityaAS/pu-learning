@@ -1,0 +1,71 @@
+AC   Q07008;
+Neurogenic locus notch homolog protein 1 precursor (Notch 1)
+[Contains: Notch 1 extracellular truncation; Notch 1 intracellular
+domain].
+"A homolog of Drosophila Notch expressed during mammalian
+development.";
+"Notch1 and Notch3 instructively restrict bFGF-responsive multipotent
+neural progenitor cells to an astroglial fate.";
+"Notch2: a second mammalian Notch gene.";
+"Expression patterns of Notch1, Notch2, and Notch3 suggest multiple
+functional roles for the Notch-DSL signaling system during brain
+development.";
+-!- FUNCTION: Functions as a receptor for membrane-bound ligands
+    Jagged1, Jagged2 and Delta1 to regulate cell-fate determination.
+    Upon ligand activation through the released notch intracellular
+    domain (NICD) it forms a transcriptional activator complex with
+    RBP-J kappa and activates genes of the enhancer of split locus.
+    Affects the implementation of differentiation, proliferation and
+    apoptotic programs. May be important for follicular
+    differentiation and possibly cell fate selection within the
+    follicle. During cerebellar development, may function as a
+    receptor for neuronal DNER and may be involved in the
+    differentiation of Bergmann glia (By similarity). Acts
+    instructively to control the cell fate determination of CNS
+    multipotent progenitor cells, resulting in astroglial induction
+    and neuron/oligodendrocyte suppression.
+-!- SUBUNIT: Heterodimer of a C-terminal fragment N(TM) and an N-
+    terminal fragment N(EC) which are probably linked by disulfide
+    bonds. Interacts with DNER, DTX1, DTX2 and RBPSUH. Also interacts
+    with MAML1, MAML2 and MAML3 which act as transcriptional
+    coactivators for NOTCH1 (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type I membrane
+    protein (By similarity). NICD: Nucleus (By similarity).
+    Note=Following proteolytical processing NICD is translocated to
+    the nucleus (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in the brain, kidney and spleen.
+    Expressed in postnatal central nervous system (CNS) germinal zones
+    and, in early postnatal life, within numerous cells throughout the
+    CNS. Found in both subventricular and ventricular germinal zones.
+-!- DEVELOPMENTAL STAGE: In the embryo, highest levels occur between
+    days 12 and 14 and decrease rapidly to much lower levels in the
+    adult.
+-!- PTM: Synthesized in the endoplasmic reticulum as an inactive form
+    which is proteolytically cleaved by a furin-like convertase in the
+    trans-Golgi network before it reaches the plasma membrane to yield
+    an active, ligand-accessible form. Cleavage results in a C-
+    terminal fragment N(TM) and a N-terminal fragment N(EC). Following
+    ligand binding, it is cleaved by TNF-alpha converting enzyme
+    (TACE) to yield a membrane-associated intermediate fragment called
+    notch extracellular truncation (NEXT). This fragment is then
+    cleaved by presenilin dependent gamma-secretase to release a
+    notch-derived peptide containing the intracellular domain (NICD)
+    from the membrane (By similarity).
+-!- PTM: Phosphorylated (By similarity).
+-!- SIMILARITY: Belongs to the NOTCH family.
+-!- SIMILARITY: Contains 5 ANK repeats.
+-!- SIMILARITY: Contains 36 EGF-like domains.
+-!- SIMILARITY: Contains 3 LNR (Lin/Notch) repeats.
+ GO:0003700; F:transcription factor activity; IMP:RGD.
+ GO:0016563; F:transcriptional activator activity; IMP:RGD.
+ GO:0007221; P:activation of Notch receptor target transcr...; IMP:RGD.
+ GO:0009790; P:embryonic development; IDA:RGD.
+ GO:0048709; P:oligodendrocyte differentiation; IEP:RGD.
+ GO:0045687; P:positive regulation of glial cell different...; IMP:RGD.
+ GO:0042246; P:tissue regeneration; IEP:RGD.
+3D-structure; Activator; ANK repeat; Calcium; Developmental protein;
+Differentiation; EGF-like domain; Glycoprotein; Membrane;
+Metal-binding; Notch signaling pathway; Nuclear protein;
+Phosphorylation; Receptor; Repeat; Signal; Transcription;
+Transcription regulation; Transmembrane.
+TMONE

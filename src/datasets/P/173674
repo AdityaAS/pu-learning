@@ -1,0 +1,21 @@
+AC   Q9EPZ7;
+Solute carrier organic anion transporter family member 1C1 (Solute
+carrier family 21 member 14) (Blood-brain barrier-specific anion
+transporter 1) (BBB-specific anion transporter type 1).
+"Blood-brain barrier genomics.";
+-!- FUNCTION: Mediates the Na(+)-independent high affinity transport
+    of organic anions such as the thyroid hormones thyroxine (T4) and
+    rT3. Other potential substrates, such as triiodothyronine (T3),
+    17-beta-glucuronosyl estradiol, estrone-3-sulfate and
+    sulfobromophthalein (BSP) are transported with much lower
+    efficiency (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in brain capillaries. Brain-
+    specific. Not detected in glioma cells, kidney, heart, lung or
+    liver.
+-!- SIMILARITY: Belongs to the organo anion transporter (TC 2.A.60)
+    family.
+ GO:0015125; F:bile acid transporter activity; IDA:RGD.
+ GO:0015721; P:bile acid transport; IDA:RGD.
+Glycoprotein; Ion transport; Membrane; Transmembrane; Transport.
+TMTEN

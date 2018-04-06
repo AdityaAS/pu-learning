@@ -1,0 +1,45 @@
+AC   P76387; O08003; O08004; P71236;
+Tyrosine-protein kinase wzc (EC 2.7.10.2).
+"Organization of the Escherichia coli K-12 gene cluster responsible
+for production of the extracellular polysaccharide colanic acid.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Cells of Escherichia coli contain a protein-tyrosine kinase, Wzc, and
+a phosphotyrosine-protein phosphatase, Wzb.";
+"Relationship between exopolysaccharide production and protein-
+tyrosine phosphorylation in Gram-negative bacteria.";
+"Tyrosine phosphorylation of protein kinase Wzc from Escherichia coli
+K12 occurs through a two-step process.";
+"Autophosphorylation of the Escherichia coli protein kinase Wzc
+regulates tyrosine phosphorylation of Ugd, a UDP-glucose
+dehydrogenase.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Required for the extracellular polysaccharide colanic
+    acid synthesis. The autophosphorylated form is inactive. Probably
+    involved in the export of colanic acid from the cell to medium.
+    Phosphorylates udg.
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- ENZYME REGULATION: Dephosphorylated and activated by wzb.
+-!- PATHWAY: Exopolysaccharide biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- PTM: Autophosphorylated. Seems to be phosphorylated through a
+    cooperative two-step mechanism. First, Tyr-569 is phosphorylated
+    in an intramolecular reaction that generates a significant
+    increase of protein kinase activity. Then Tyr-708, Tyr-710, Tyr-
+    711, Tyr-713 and Tyr-715 are phosphorylated in an intermolecular
+    Tyr-569-dependent reaction.
+-!- MISCELLANEOUS: Additional site-directed mutagenesis experiments
+    indicated that the tyrosine residues at positions 708, 710, 711,
+    713 and 715 are phosphorylation sites, whereas tyrosine at
+    position 705 is not.
+-!- SIMILARITY: Belongs to the etk/wzc family.
+Complete proteome; Exopolysaccharide synthesis; Inner membrane;
+Kinase; Membrane; Phosphorylation; Transferase; Transmembrane;
+Tyrosine-protein kinase.
+TMTWO

@@ -1,0 +1,17 @@
+AC   Q5YYP5;
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]
+imidazole-4-carboxamide isomerase (EC 5.3.1.16)
+(Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide
+isomerase).
+"The complete genomic sequence of Nocardia farcinica IFM 10152.";
+-!- CATALYTIC ACTIVITY: 1-(5-phosphoribosyl)-5-((5-
+    phosphoribosylamino)methylideneamino)imidazole-4-carboxamide = 5-
+    ((5-phospho-1-deoxyribulos-1-ylamino)methylideneamino)-1-(5-
+    phosphoribosyl)imidazole-4-carboxamide.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 4.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the hisA/hisF family.
+Amino-acid biosynthesis; Complete proteome; Histidine biosynthesis;
+Isomerase.
+TMZERO

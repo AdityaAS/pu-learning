@@ -1,0 +1,22 @@
+AC   O11780;
+Transforming growth factor-beta-induced protein ig-h3 precursor (Beta
+ig-h3) (Kerato-epithelin) (RGD-containing collagen-associated protein)
+(RGD-CAP).
+"Characterization of a cartilage-derived 66-kDa protein (RGD-CAP/beta
+ig-h3) that binds to collagen.";
+-!- FUNCTION: Binds to type I, II, and IV collagens. This adhesion
+    protein may play an important role in cell-collagen interactions.
+    In cartilage, may be involved in endochondral bone formation.
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space.
+    Note=May be associated both with microfibrils and with the cell
+    surface.
+-!- TISSUE SPECIFICITY: Widely distributed in various tissues except
+    for the brain. High levels in corneal epithelium.
+-!- DEVELOPMENTAL STAGE: Expressed in chondrocytes during all stages.
+    Highest levels during the prehypertrophic stage.
+-!- INDUCTION: By TGF-beta.
+-!- SIMILARITY: Contains 1 EMI domain.
+-!- SIMILARITY: Contains 4 FAS1 domains.
+Cell adhesion; Direct protein sequencing; Extracellular matrix;
+Repeat; Signal.
+TMZERO

@@ -1,0 +1,14 @@
+AC   P07921;
+Lactose permease.
+"Primary structure of the lactose permease gene from the yeast
+Kluyveromyces lactis. Presence of an unusual transcript structure.";
+"Genome evolution in yeasts.";
+-!- FUNCTION: LAC12 mediates the transport of lactose and it would
+    appear that the permease works in part by a proton symport
+    mechanism.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Glycoprotein; Membrane; Sugar transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

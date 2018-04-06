@@ -1,0 +1,41 @@
+AC   Q6PEE3;
+Ribonucleoside-diphosphate reductase M2 subunit B (EC 1.17.4.1) (TP53-
+inducible ribonucleotide reductase M2 B) (p53-inducible ribonucleotide
+reductase small subunit 2-like protein) (p53R2).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Mammalian p53R2 protein forms an active ribonucleotide reductase in
+vitro with the R1 protein, which is expressed both in resting cells in
+response to DNA damage and in proliferating cells.";
+"Impaired function of p53R2 in Rrm2b-null mice causes severe renal
+failure through attenuation of dNTP pools.";
+-!- FUNCTION: Plays a pivotal role in cell survival by repairing
+    damaged DNA in a p53/TP53-dependent manner. Supplies
+    deoxyribonucleotides for DNA repair in cells arrested at G1 or G2.
+    Contains an iron-tyrosyl free radical center required for
+    catalysis. Forms an active ribonucleotide reductase (RNR) complex
+    with RRM1 which is expressed both in resting and proliferating
+    cells in response to DNA damage.
+-!- CATALYTIC ACTIVITY: 2'-deoxyribonucleoside diphosphate +
+    thioredoxin disulfide + H(2)O = ribonucleoside diphosphate +
+    thioredoxin.
+-!- COFACTOR: Binds 2 iron ions per subunit (By similarity).
+-!- PATHWAY: Genetic information processing; DNA replication.
+-!- SUBUNIT: Heterotetramer with large (RRM1) subunit. Interacts with
+    p53/TP53. Interacts with RRM1 in response to DNA damage (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Note=Translocates
+    from cytoplasm to nucleus in response to DNA damage (By
+    similarity).
+-!- MISCELLANEOUS: Mice lacking Rrm2b develops normally until they is
+    weaned but from then has growth retardation and early mortality.
+    Pathological examination indicates that multiple organs has failed
+    and die from severe renal failure by the age of 14 weeks.
+-!- SIMILARITY: Belongs to the ribonucleoside diphosphate reductase
+    small chain family.
+ GO:0004748; F:ribonucleoside-diphosphate reductase activity; IDA:MGI.
+ GO:0009263; P:deoxyribonucleotide biosynthesis; IDA:MGI.
+DNA damage; DNA repair; DNA replication; Iron; Metal-binding;
+Nuclear protein; Oxidoreductase.
+TMZERO

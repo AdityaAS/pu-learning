@@ -1,0 +1,39 @@
+AC   P51811; Q4TTN6; Q8IUK6; Q9UC77;
+Membrane transport protein XK (Kx antigen) (Kell complex 37 kDa
+component) (XK-related protein 1).
+"Isolation of the gene for McLeod syndrome that encodes a novel
+membrane transport protein.";
+"A superfamily of XK-related genes (XRG) widely expressed in
+vertebrates and invertebrates.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Purification and partial characterization of the erythrocyte Kx
+protein deficient in McLeod patients.";
+"McLeod neuroacanthocytosis: genotype and phenotype.";
+"Point mutations causing the McLeod phenotype.";
+"McLeod phenotype associated with a XK missense mutation without
+hematologic, neuromuscular, or cerebral involvement.";
+-!- FUNCTION: May be involved in sodium-dependent transport of neutral
+    amino acids or oligopeptides.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: High levels in skeletal muscle, heart, brain,
+    and pancreas; low levels in placenta, lung, liver, and kidney.
+-!- PTM: Not glycosylated.
+-!- POLYMORPHISM: XK is responsible for the Kx blood group system.
+-!- DISEASE: Defects in XK are the cause of McLeod syndrome (MLS)
+    [MIM:314850]. It is an X-linked multisystem disorder characterized
+    by late onset abnormalities in the neuromuscular and hematopoietic
+    systems.
+-!- SIMILARITY: Belongs to the XK family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=XK".
+ GO:0016021; C:integral to membrane; TAS:HGNC.
+ GO:0005515; F:protein binding; IPI:HGNC.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Amino-acid transport; Blood group antigen; Direct protein sequencing;
+Disease mutation; Membrane; Transmembrane; Transport.
+TMTEN

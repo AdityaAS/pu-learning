@@ -1,0 +1,40 @@
+AC   Q9H936; Q8TBU8;
+Mitochondrial glutamate carrier 1 (GC-1) (Glutamate/H(+) symporter 1)
+(Solute carrier family 25 member 22).
+"Identification of the mitochondrial glutamate transporter. Bacterial
+expression, reconstitution, functional characterization, and tissue
+distribution of two human isoforms.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Impaired mitochondrial glutamate transport in autosomal recessive
+neonatal myoclonic epilepsy.";
+-!- FUNCTION: Involved in the transport of glutamate across the inner
+    mitochondrial membrane. Glutamate is cotransported with H(+).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (Potential).
+-!- TISSUE SPECIFICITY: Highly expressed in most tissues.
+-!- DISEASE: Defects in SLC25A22 are a cause of early myoclonic
+    encephalopathy (EME) [MIM:609304]; also known as neonatal epilepsy
+    with suppression-burst pattern. Severe neonatal epilepsies with
+    suppression-burst pattern are early-onset epileptic syndromes
+    characterized by a typical EEG pattern. The suppression-burst
+    pattern of the EEG is characterized by higher-voltage bursts of
+    slow waves mixed with multifocal spikes alternating with
+    isoelectric suppression phases. EME is characterized by a very
+    early onset, erratic and fragmentary myoclonus, massive myoclonus,
+    partial motor seizures and late tonic spasms. The prognosis of EME
+    is poor, with no effective treatment, and children with the
+    condition either die within 1 to 2 years after birth or survive in
+    a persistent vegetative state. EME inheritance is autosomal
+    recessive.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005743; C:mitochondrial inner membrane; IDA:UniProtKB.
+ GO:0005386; F:carrier activity; IDA:UniProtKB.
+ GO:0005313; F:L-glutamate transporter activity; IDA:UniProtKB.
+ GO:0015813; P:glutamate transport; IDA:UniProtKB.
+Disease mutation; Inner membrane; Membrane; Mitochondrion; Repeat;
+Symport; Transmembrane; Transport.
+TMFIVE

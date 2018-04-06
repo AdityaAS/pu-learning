@@ -1,0 +1,39 @@
+AC   P11168;
+Solute carrier family 2, facilitated glucose transporter member 2
+(Glucose transporter type 2, liver).
+"Sequence, tissue distribution, and chromosomal localization of mRNA
+encoding a human glucose transporter-like protein.";
+"Variability of the pancreatic islet beta cell/liver (GLUT 2) glucose
+transporter gene in NIDDM patients.";
+"A mutation in the Glut2 glucose transporter gene of a diabetic
+patient abolishes transport activity.";
+"A mutation in GLUT2, not in phosphorylase kinase subunits, in hepato-
+renal glycogenosis with Fanconi syndrome and low phosphorylase kinase
+activity.";
+"Mutation analysis of the GLUT2 gene in patients with Fanconi-Bickel
+syndrome.";
+-!- FUNCTION: Facilitative glucose transporter. This isoform likely
+    mediates the bidirectional transfer of glucose across the plasma
+    membrane of hepatocytes and is responsible for uptake of glucose
+    by the beta cells; may comprise part of the glucose-sensing
+    mechanism of the beta cell. May also participate with the
+    Na(+)/glucose cotransporter in the transcellular transport of
+    glucose in the small intestine and kidney.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Liver, insulin-producing beta cell, small
+    intestine and kidney.
+-!- DISEASE: Defects in SLC2A2 are the cause of Fanconi-Bickel
+    syndrome (FBS) [MIM:227810]. FBS is a rare, well-defined clinical
+    entity, inherited in an autosomal recessive mode and characterized
+    by hepatorenal glycogen accumulation, proximal renal tubular
+    dysfunction, and impaired utilization of glucose and galactose.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family. Glucose transporter subfamily.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0005355; F:glucose transporter activity; TAS:ProtInc.
+ GO:0005975; P:carbohydrate metabolism; TAS:ProtInc.
+ GO:0015758; P:glucose transport; TAS:ProtInc.
+Glycoprotein; Membrane; Polymorphism; Sugar transport; Transmembrane;
+Transport.
+TMTWELVE

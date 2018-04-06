@@ -1,0 +1,23 @@
+AC   P21765;
+Epididymal secretory glutathione peroxidase precursor (EC 1.11.1.9)
+(Epididymis-specific glutathione peroxidase-like protein) (EGLP)
+(Major androgen-regulated protein) (arMEP24).
+"Androgen-dependent protein secreted by mouse caput epididymis shows
+high homologies with different glutathione peroxidases.";
+"Structural organization and regulation of the gene for the androgen-
+dependent glutathione peroxidase-like protein specific to the mouse
+epididymis.";
+"A mouse cDNA sequence for epididymal androgen-regulated proteins
+related to glutathione peroxidase.";
+-!- FUNCTION: Protects cells and enzymes from oxidative damage, by
+    catalyzing the reduction of hydrogen peroxide, lipid peroxides and
+    organic hydroperoxide, by glutathione. May constitute a
+    glutathionine peroxidase-like protective system against peroxide
+    damage in sperm membrane lipids.
+-!- CATALYTIC ACTIVITY: 2 glutathione + H(2)O(2) = glutathione
+    disulfide + 2 H(2)O.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Epididymis.
+-!- SIMILARITY: Belongs to the glutathione peroxidase family.
+Oxidoreductase; Peroxidase; Signal.
+TMZERO

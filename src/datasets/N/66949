@@ -1,0 +1,56 @@
+AC   Q9BQQ3; Q8N272; Q96H42;
+Golgi reassembly-stacking protein 1 (Golgi reassembly-stacking protein
+of 65 kDa) (GRASP65) (Golgi peripheral membrane protein p65) (Golgi
+phosphoprotein 5) (GOLPH5).
+"Refined physical mapping and genomic structure of a 4-Mb region (AP-
+20) on human chromosome 3p22-p21.33 implicated in lung and kidney
+cancerogenesis.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Maintenance of Golgi structure and function depends on the integrity
+of ER export.";
+"A direct role for GRASP65 as a mitotically regulated Golgi stacking
+factor.";
+"Peripheral Golgi protein GRASP65 is a target of mitotic polo-like
+kinase (Plk) and Cdc2.";
+-!- FUNCTION: Stacking factor involved in the postmitotic assembly of
+    Golgi stacks from mitotic Golgi fragments. Key structural protein
+    required for the maintenance of the Golgi apparatus integrity: its
+    caspase-mediated cleavage is required for fragmentation of the
+    Golgi during apoptosis. Also mediates, via its interaction with
+    GM130, the docking of transport vesicles with the Golgi membranes.
+-!- SUBUNIT: Homodimer. Forms higher order oligomers under interphase
+    but not mitotic conditions. Dimers of the protein on one membrane
+    might be able to interact with dimers on another and so stack
+    cisternae. Interacts with the C-terminus of GM130 under both
+    mitotic and non-mitotic conditions. The interaction is critical
+    for the correct targeting of both proteins to the cis-Golgi. The
+    complex binds to the vesicle docking protein p115 (By similarity).
+-!- SUBCELLULAR LOCATION: Golgi apparatus; cis-Golgi network; cis-
+    Golgi network membrane; peripheral membrane protein; cytoplasmic
+    side. Note=Undergoes rapid exchange with the cytosol.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q9BQQ3-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9BQQ3-2; Sequence=VSP_011307;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q9BQQ3-3; Sequence=VSP_011306, VSP_011308, VSP_011309;
+      Note=No experimental confirmation available;
+-!- PTM: Phosphorylated by CDC2/B1 and PLK kinases during mitosis.
+    Phosphorylation cycle correlates with the cisternal stacking
+    cycle. Phosphorylation of the homodimer prevents the association
+    of dimers into higher order oligomers, leading to cisternal
+    unstacking.
+-!- PTM: Target for caspase-3 cleavage during apoptosis. The cleavage
+    contributes to Golgi fragmentation and occurs very early in the
+    execution phase of apoptosis (By similarity).
+-!- SIMILARITY: Belongs to the GORASP family.
+-!- SIMILARITY: Contains 1 PDZ (DHR) domain.
+Alternative splicing; Golgi apparatus; Lipoprotein; Membrane;
+Myristate; Phosphorylation; Protein transport; Transport.
+TMZERO

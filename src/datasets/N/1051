@@ -1,0 +1,16 @@
+AC   P31951; Q9RIA5;
+Antigen 85-B precursor (85B) (Extracellular alpha-antigen) (Antigen 85
+complex B) (Ag85B) (Mycolyl transferase 85B) (EC 2.3.1.-)
+(Fibronectin-binding protein B).
+"Nucleotide sequence of the gene coding for the 85-B antigen of
+Mycobacterium leprae.";
+"Massive gene decay in the leprosy bacillus.";
+-!- FUNCTION: Proteins of the antigen 85 complex are responsible for
+    the high affinity of mycobacteria to fibronectin. Possesses a
+    mycolyltransferase activity required for the biogenesis of
+    trehalose dimycolate (cord factor), a dominant structure necessary
+    for maintaining cell wall integrity (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the mycobacterial A85 antigen family.
+Acyltransferase; Complete proteome; Signal; Transferase.
+TMZERO

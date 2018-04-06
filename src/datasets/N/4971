@@ -1,0 +1,29 @@
+AC   P55008; Q9UKS9;
+Allograft inflammatory factor 1 (AIF-1) (Ionized calcium-binding
+adapter molecule 1) (Protein G1).
+"Allograft inflammatory factory-1. A cytokine-responsive macrophage
+molecule expressed in transplanted human hearts.";
+"cDNA cloning of human allograft inflammatory factor-1: tissue
+distribution, cytokine induction, and mRNA expression in injured rat
+carotid arteries.";
+"Novel calcium binding protein, Iba1 (ionized calcium binding adapter
+molecule 1), which is phosphorylated on serine.";
+"A new member of the Ig superfamily and a V-ATPase G subunit are among
+the predicted products of novel genes close to the TNF locus in the
+human MHC.";
+"Analysis of the gene-dense major histocompatibility complex class III
+region and its comparison to mouse.";
+"Homo sapiens 2,229,817bp genomic DNA of 6p21.3 HLA class I region.";
+"The DNA sequence and analysis of human chromosome 6.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May play a role in macrophage activation and function.
+-!- PTM: Phosphorylated on serine residues.
+-!- SIMILARITY: Contains 2 EF-hand domains.
+ GO:0005634; C:nucleus; TAS:ProtInc.
+ GO:0007050; P:cell cycle arrest; TAS:ProtInc.
+ GO:0006954; P:inflammatory response; TAS:ProtInc.
+ GO:0008285; P:negative regulation of cell proliferation; TAS:ProtInc.
+ GO:0006950; P:response to stress; TAS:ProtInc.
+3D-structure; Calcium; Phosphorylation; Repeat.
+TMZERO

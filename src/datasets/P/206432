@@ -1,0 +1,37 @@
+AC   P10090; Q9V3A2; Q9XY33;
+Protein white.
+"Sequence of a cDNA from the Drosophila melanogaster white gene.";
+"DNA sequence of the white locus of Drosophila melanogaster.";
+"Dual-tagging gene trap of novel genes in Drosophila melanogaster.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"From sequence to chromosome: the tip of the X chromosome of D.
+melanogaster.";
+"Cloning and characterization of the scarlet gene of Drosophila
+melanogaster.";
+"Sub-cellular localisation of the white/scarlet ABC transporter to
+pigment granule membranes within the compound eye of Drosophila
+melanogaster.";
+-!- FUNCTION: Part of a membrane-spanning permease system necessary
+    for the transport of pigment precursors into pigment cells
+    responsible for eye color. White dimerize with brown for the
+    transport of guanine. Scarlet and white complex transports a
+    metabolic intermediate (such as 3-hydroxy kynurenine) from the
+    cytoplasm into the pigment granules.
+-!- SUBUNIT: Heterodimer of white with either brown or scarlet.
+-!- INTERACTION:
+    Q9V6R2:CG13332; NbExp=1; IntAct=EBI-93778, EBI-185611;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+    Note=Pigment granules within pigment cells and retinula cells of
+    the compound eye (when complexed with st).
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0004888; F:transmembrane receptor activity; NAS:FlyBase.
+ GO:0042441; P:eye pigment metabolism; TAS:FlyBase.
+ GO:0006856; P:eye pigment precursor transport; TAS:FlyBase.
+ GO:0006727; P:ommochrome biosynthesis; IMP:FlyBase.
+ATP-binding; Complete proteome; Membrane; Nucleotide-binding; Pigment;
+Transmembrane; Transport.
+TMSIX

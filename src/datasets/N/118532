@@ -1,0 +1,23 @@
+AC   P29404;
+Opsin Rh4 (Inner R7 photoreceptor cells opsin).
+"Variable rates of evolution among Drosophila opsin genes.";
+"Comparative genome sequencing of Drosophila pseudoobscura:
+chromosomal, gene, and cis-element evolution.";
+-!- FUNCTION: Visual pigments are the light-absorbing molecules that
+    mediate vision. They consist of an apoprotein, opsin, covalently
+    linked to cis-retinal.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- PTM: Phosphorylated on some or all of the serine and threonine
+    residues present in the C-terminal region.
+-!- MISCELLANEOUS: Each Drosophila eye is composed of 800 facets or
+    ommatidia. Each ommatidium contains 8 photoreceptor cells (R1-R8),
+    the R1 to R6 cells are outer cells, while R7 and R8 are inner
+    cells.
+-!- MISCELLANEOUS: Opsin Rh4 is sensitive to UV light.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+    Opsin subfamily.
+Chromophore; Complete proteome; G-protein coupled receptor;
+Glycoprotein; Membrane; Phosphorylation; Photoreceptor protein;
+Receptor; Retinal protein; Sensory transduction; Transducer;
+Transmembrane; Vision.
+TMSEVEN

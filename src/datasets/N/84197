@@ -1,0 +1,19 @@
+AC   Q2FK15;
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+(4-diphosphocytidyl-2C-methyl-D-erythritol synthase) (MEP
+cytidylyltransferase) (MCT).
+"Complete genome sequence of USA300, an epidemic clone of community-
+acquired meticillin-resistant Staphylococcus aureus.";
+-!- FUNCTION: Catalyzes the formation of 4-diphosphocytidyl-2-C-
+    methyl-D-erythritol from CTP and 2-C-methyl-D-erythritol 4-
+    phosphate (MEP) (By similarity).
+-!- CATALYTIC ACTIVITY: CTP + 2-C-methyl-D-erythritol 4-phosphate =
+    diphosphate + 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol.
+-!- PATHWAY: Isoprenoid biosynthesis; isopentenyl-PP biosynthesis via
+    DXP pathway; isopentenyl-PP from 1-deoxy-D-xylulose 5-phosphate:
+    step 2.
+-!- SIMILARITY: Belongs to the ispD family.
+ GO:0016114; P:terpenoid biosynthesis; IEA:HAMAP.
+Complete proteome; Isoprene biosynthesis; Nucleotidyltransferase;
+Transferase.
+TMZERO

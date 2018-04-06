@@ -1,0 +1,11 @@
+AC   P14128;
+30S ribosomal protein S1 (Fragment).
+"Comparative studies on the structural gene for the ribosomal protein
+S1 in ten bacterial species.";
+-!- FUNCTION: Binds mRNA; thus facilitating recognition of the
+    initiation point. It is needed to translate mRNA with a short
+    Shine-Dalgarno (SD) purine-rich sequence (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S1P family.
+-!- SIMILARITY: Contains at least 5 S1 motif domains.
+Repeat; Ribonucleoprotein; Ribosomal protein; RNA-binding.
+TMZERO

@@ -1,0 +1,8 @@
+AC   O29392;
+UPF0145 protein AF_0869.
+"The complete genome sequence of the hyperthermophilic, sulphate-
+reducing archaeon Archaeoglobus fulgidus.";
+-!- SIMILARITY: Belongs to the UPF0145 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

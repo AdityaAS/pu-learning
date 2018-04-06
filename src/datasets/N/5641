@@ -1,0 +1,20 @@
+AC   Q6C3K2;
+Chitobiosyldiphosphodolichol beta-mannosyltransferase (EC 2.4.1.142)
+(GDP-mannose-dolichol diphosphochitobiose mannosyltransferase) (GDP-
+Man:GlcNAc2-PP-dolichol mannosyltransferase) (Beta-1,4-
+mannosyltransferase) (Asparagine-linked glycosylation protein 1).
+"Genome evolution in yeasts.";
+-!- FUNCTION: Participates in the formation of the lipid-linked
+    precursor oligosaccharide for N-glycosylation. Involved in
+    assembling the dolichol-pyrophosphate-GlcNAc(2)-Man(5)
+    intermediate on the cytoplasmic surface of the ER (By similarity).
+-!- CATALYTIC ACTIVITY: GDP-mannose + chitobiosyldiphosphodolichol =
+    GDP + beta-1,4-D-mannosylchitobiosyldiphosphodolichol.
+-!- PATHWAY: N-glycosylation.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 1 family.
+ GO:0004578; F:chitobiosyldiphosphodolichol beta-mannosylt...; IEA:EC.
+Complete proteome; Endoplasmic reticulum; Glycosyltransferase;
+Membrane; Transferase; Transmembrane.
+THTHREE

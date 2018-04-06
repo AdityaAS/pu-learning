@@ -1,0 +1,10 @@
+AC   Q8FL68;
+S-adenosyl-methyltransferase mraW (EC 2.1.1.-).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Exhibits a S-adenosyl-dependent methyltransferase
+    activity (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the mraW family.
+Complete proteome; Methyltransferase; Transferase.
+TMZERO

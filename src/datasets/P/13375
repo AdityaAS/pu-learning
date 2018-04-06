@@ -1,0 +1,27 @@
+AC   P21903;
+ATP synthase a chain, sodium ion specific (EC 3.6.3.15) (ATPase
+protein 6).
+"Sequence of subunits a and b of the sodium ion translocating
+adenosine triphosphate synthase of Propionigenium modestum.";
+"Cloning, sequencing and in vivo expression of genes encoding the F0
+part of the sodium-ion-dependent ATP synthase of Propionigenium
+modestum in Escherichia coli.";
+"Nucleotide sequence of the F0 subunits of the sodium dependent F1F0
+ATPase of Propionigenium modestum.";
+"Characterization of the genes coding for the F1F0 subunits of the
+sodium dependent ATPase of Propionigenium modestum.";
+-!- FUNCTION: Key component of the proton channel; it may play a
+    direct role in the translocation of protons across the membrane.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: The ATPase of P.modestum is of special interest
+    because it uses sodium ions instead of protons as the
+    physiological coupling ion.
+-!- SIMILARITY: Belongs to the ATPase A chain family.
+CF(0); Hydrogen ion transport; Ion transport; Membrane; Sodium;
+Sodium transport; Transmembrane; Transport.
+TMZERO

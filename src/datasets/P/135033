@@ -1,0 +1,13 @@
+AC   P31076;
+Polysulfide reductase chain B (Sulfur reductase chain B).
+"Cloning and nucleotide sequence of the psrA gene of Wolinella
+succinogenes polysulphide reductase.";
+"Complete genome sequence and analysis of Wolinella succinogenes.";
+-!- FUNCTION: Component of the phosphorylative electron transport
+    system with polysulfide as the terminal acceptor.
+-!- SUBUNIT: Functional polysulfide reductase is made up of three
+    different (A, B, and C) subunits.
+-!- SIMILARITY: Contains 4 4Fe-4S type ferredoxin domains.
+4Fe-4S; Complete proteome; Electron transport; Iron; Iron-sulfur;
+Metal-binding; Oxidoreductase; Transport.
+TMZERO

@@ -1,0 +1,19 @@
+AC   Q9V3D6;
+Probable cleavage and polyadenylation specificity factor subunit 2
+(Cleavage and polyadenylation specificity factor 100 kDa subunit)
+(CPSF 100 kDa subunit).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"Full length Drosophila melanogaster cDNA sequence.";
+-!- FUNCTION: CPSF plays a key role in pre-mRNA 3'-end formation,
+    recognizing the AAUAAA signal sequence and interacting with
+    poly(A)polymerase and other factors to bring about cleavage and
+    poly(A) addition (By similarity).
+-!- SUBUNIT: CPSF is a heterotetramer composed of four distinct
+    subunits 160, 100, 70 and 30 kDa (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Belongs to the RNA-metabolizing metallo-beta-
+    lactamase-like family. CPSF2/YSH1 subfamily.
+Complete proteome; mRNA processing; Nuclear protein; RNA-binding.
+TMZERO

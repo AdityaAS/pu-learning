@@ -1,0 +1,29 @@
+AC   Q63016; Q9QWL4;
+Large neutral amino acids transporter small subunit 1 (L-type amino
+acid transporter 1) (4F2 light chain) (4F2 LC) (4F2LC) (Integral
+membrane protein E16) (TA1 protein).
+"Expression cloning and characterization of a transporter for large
+neutral amino acids activated by the heavy chain of 4F2 antigen
+(CD98).";
+"TA1, a highly conserved oncofetal complementary DNA from rat
+hepatoma, encodes an integral membrane protein associated with liver
+development, carcinogenesis, and cell activation.";
+-!- FUNCTION: Sodium-independent, high-affinity transport of large
+    neutral amino acids. Involved in cellular amino acid uptake.
+-!- SUBUNIT: Disulfide-linked heterodimer with the amino acid
+    transport protein SLC3A2/4F2hc.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Expressed hepatoma but not in normal liver.
+    Also expressed in placenta, testis, brain, ovary, spleen, mammary
+    gland, and uterus.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. L-type amino acid transporter (LAT) (TC 2.A.3.8)
+    family.
+ GO:0016021; C:integral to membrane; ISS:UniProtKB.
+ GO:0015171; F:amino acid transporter activity; ISS:UniProtKB.
+ GO:0042605; F:peptide antigen binding; ISS:UniProtKB.
+ GO:0015804; P:neutral amino acid transport; ISS:UniProtKB.
+Amino-acid transport; Glycoprotein; Membrane; Phosphorylation;
+Transmembrane; Transport.
+TMTWELVE

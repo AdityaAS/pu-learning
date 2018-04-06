@@ -1,0 +1,24 @@
+AC   P24011; O34404;
+Cytochrome c oxidase subunit 2 precursor (EC 1.9.3.1) (Cytochrome c
+oxidase polypeptide II) (Cytochrome aa3 subunit 2) (Caa-3605 subunit
+2) (Oxidase aa(3) subunit 2).
+"The Bacillus subtilis cytochrome-c oxidase. Variations on a conserved
+protein theme.";
+"Bacillus subtilis chromosomal region downstream nprE.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Subunits I and II form the functional core of the enzyme
+    complex. Electrons originating in cytochrome c are transferred via
+    heme a and Cu(A) to the binuclear center formed by heme a3 and
+    Cu(B).
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- COFACTOR: Copper A.
+-!- COFACTOR: Heme group.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 2 family.
+-!- SIMILARITY: Contains 1 cytochrome c domain.
+Complete proteome; Copper; Electron transport; Heme; Iron;
+Lipoprotein; Membrane; Metal-binding; Oxidoreductase; Palmitate;
+Respiratory chain; Signal; Transmembrane; Transport.
+TMTWO

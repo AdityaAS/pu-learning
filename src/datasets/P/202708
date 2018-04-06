@@ -1,0 +1,14 @@
+AC   Q01146;
+DNA transfer protein gp16.
+"Cloning, sequencing, and overexpression of gene 16 of Salmonella
+bacteriophage P22.";
+"Sequence of the genome of Salmonella bacteriophage P22.";
+"Sequence of a DNA injection gene from Salmonella typhimurium phage
+P22.";
+"Nucleotide sequence of the bacteriophage P22 genes required for DNA
+packaging.";
+-!- FUNCTION: Required for ejection of the phage DNA from the phage
+    particle and injection of that DNA into the host.
+-!- SIMILARITY: To phage APSE-1 p35.
+Direct protein sequencing; Late protein.
+TMZERO

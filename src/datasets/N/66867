@@ -1,0 +1,23 @@
+AC   Q9N2J2;
+Phospholipid hydroperoxide glutathione peroxidase, mitochondrial
+precursor (EC 1.11.1.12) (PHGPx) (Glutathione peroxidase 4) (GPx-4).
+"Bovine phospholipid hydroperoxide glutathione peroxidase.";
+-!- FUNCTION: Could play a major role in protecting mammals from the
+    toxicity of ingested lipid hydroperoxides. Essential for embryonic
+    development. Protects from radiation and oxidative damage (By
+    similarity).
+-!- CATALYTIC ACTIVITY: 2 glutathione + a lipid hydroperoxide =
+    glutathione disulfide + lipid + 2 H(2)O.
+-!- SUBCELLULAR LOCATION: Mitochondrion (By similarity). Cytoplasm (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative initiation; Named isoforms=2;
+    Name=Mitochondrial;
+      IsoId=Q9N2J2-1; Sequence=Displayed;
+    Name=Cytoplasmic;
+      IsoId=Q9N2J2-2; Sequence=VSP_018738;
+-!- SIMILARITY: Belongs to the glutathione peroxidase family.
+ GO:0047066; F:phospholipid-hydroperoxide glutathione pero...; IEA:EC.
+Alternative initiation; Developmental protein; Mitochondrion;
+Oxidoreductase; Peroxidase; Selenium; Selenocysteine; Transit peptide.
+TMZERO

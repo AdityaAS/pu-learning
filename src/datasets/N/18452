@@ -1,0 +1,26 @@
+AC   Q64658;
+Cytochrome P450 11B2, mitochondrial precursor (EC 1.14.15.4)
+(EC 1.14.15.5) (C450XIB2) (Aldosterone synthase) (P-450Aldo) (ALDOS)
+(Aldosterone-synthesizing enzyme) (Steroid 18-hydroxylase) (P-450C18).
+"The presence of two cytochrome P450 aldosterone synthase mRNAs in the
+hamster adrenal.";
+"Characterization of the hamster CYP11B2 gene encoding adrenal
+cytochrome P450 aldosterone synthase.";
+-!- FUNCTION: Converts 11-deoxycorticosterone into corticosterone, 18-
+    hydroxycorticosterone, and aldosterone. Also can catalyze the
+    conversion of 11-deoxycortisol to cortisol, 18-hydroxycortisol and
+    cortisone (By similarity).
+-!- CATALYTIC ACTIVITY: A steroid + reduced adrenal ferredoxin + O(2)
+    = an 11-beta-hydroxysteroid + oxidized adrenal ferredoxin + H(2)O.
+-!- CATALYTIC ACTIVITY: Corticosterone + reduced adrenal ferredoxin +
+    O(2) = 18-hydroxycorticosterone + oxidized adrenal ferredoxin +
+    H(2)O.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- TISSUE SPECIFICITY: Adrenal gland.
+-!- INDUCTION: By low sodium intake.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+ GO:0047783; F:corticosterone 18-monooxygenase activity; IEA:EC.
+ GO:0004507; F:steroid 11-beta-monooxygenase activity; IEA:EC.
+Heme; Iron; Membrane; Metal-binding; Mitochondrion; Monooxygenase;
+Oxidoreductase; Steroidogenesis; Transit peptide.
+TMZERO

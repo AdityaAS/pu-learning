@@ -1,0 +1,19 @@
+AC   O44411; Q8MXI6;
+Probable nucleolar GTP-binding protein 1.
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Involved in the biogenesis of the 60S ribosomal subunit
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=a;
+      IsoId=O44411-1; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=b;
+      IsoId=O44411-2; Sequence=VSP_015667;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the GTP1/OBG family. NOG subfamily.
+Alternative splicing; Complete proteome; GTP-binding; Nuclear protein;
+Nucleotide-binding; Ribosome biogenesis.
+TMZERO

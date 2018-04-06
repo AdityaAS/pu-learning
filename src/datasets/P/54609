@@ -1,0 +1,24 @@
+AC   P69380; P32159; Q2M8L1;
+Ferrous-iron efflux pump fieF.
+"Analysis of the Escherichia coli genome. III. DNA sequence of the
+region from 87.2 to 89.2 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Oligomeric state of the Escherichia coli metal transporter YiiP.";
+"FieF (YiiP) from Escherichia coli mediates decreased cellular
+accumulation of iron and relieves iron stress.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Iron-efflux transporter responsible for iron
+    detoxification. Also able to transport Zn(2+) in a proton-
+    dependent manner.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the cation diffusion facilitator (CDF)
+    transporter (TC 2.A.4) family. FieF subfamily.
+ GO:0005215; F:transporter activity; IEA:HAMAP.
+Complete proteome; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Transmembrane; Transport.
+TMSIX

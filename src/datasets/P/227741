@@ -1,0 +1,14 @@
+AC   Q04301;
+Vacuolar basic amino acid transporter 1.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); IDA:SGD.
+ GO:0005286; F:basic amino acid permease activity; IDA:SGD.
+ GO:0015802; P:basic amino acid transport; IMP:SGD.
+Complete proteome; Membrane; Transmembrane; Transport; Vacuole.
+TMTHIRTEEN

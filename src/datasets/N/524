@@ -1,0 +1,13 @@
+AC   Q6P7I0;
+3-hydroxyanthranilate 3,4-dioxygenase (EC 1.13.11.6) (3-HAO) (3-
+hydroxyanthranilic acid dioxygenase) (3-hydroxyanthranilate
+oxygenase).
+-!- CATALYTIC ACTIVITY: 3-hydroxyanthranilate + O(2) = 2-amino-3-
+    carboxymuconate semialdehyde.
+-!- COFACTOR: Fe(2+) ion (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; NAD(+) biosynthesis; pyridine-2,3-
+    dicarboxylate from L-kynurenine: step 3.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the 3-HAO family.
+Dioxygenase; Iron; Oxidoreductase.
+TMZERO

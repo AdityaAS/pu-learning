@@ -1,0 +1,28 @@
+AC   P34230;
+Peroxisomal long-chain fatty acid import protein 1 (Peroxisomal ABC
+transporter 2).
+"A Saccharomyces cerevisiae homolog of the human adrenoleukodystrophy
+transporter is a heterodimer of two half ATP-binding cassette
+transporters.";
+"Sequencing and analysis of 51.6 kilobases on the left arm of
+chromosome XI from Saccharomyces cerevisiae reveals 23 open reading
+frames including the FAS1 gene.";
+"The yeast YKL741 gene situated on the left arm of chromosome XI codes
+for a homologue of the human ALD protein.";
+"Complete DNA sequence of yeast chromosome XI.";
+"The ABC transporter proteins Pat1 and Pat2 are required for import of
+long-chain fatty acids into peroxisomes of Saccharomyces cerevisiae.";
+-!- FUNCTION: Involved in the import of activated long-chain fatty
+    acids from the cytosol to the peroxisomal matrix.
+-!- SUBUNIT: Forms an heterodimer with PXA1.
+-!- SUBCELLULAR LOCATION: Peroxisome; peroxisomal membrane; multi-pass
+    membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0005779; C:integral to peroxisomal membrane; IDA:SGD.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; IDA:SGD.
+ GO:0015908; P:fatty acid transport; IDA:SGD.
+ATP-binding; Complete proteome; Glycoprotein; Membrane;
+Nucleotide-binding; Peroxisome; Transmembrane; Transport.
+TMFOUR

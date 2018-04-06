@@ -1,0 +1,18 @@
+AC   P42601; Q2M9B8; Q6BF48;
+Protein alx.
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Alkaline induction of a novel gene locus, alx, in Escherichia coli.";
+"pH-dependent expression of periplasmic proteins and amino acid
+catabolism in Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By extreme alkaline conditions.
+-!- SIMILARITY: Belongs to the terC family.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMNINE

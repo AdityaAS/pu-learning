@@ -1,0 +1,21 @@
+AC   P61999; P29095; Q51731;
+Transcription initiation factor IIB (TFIIB).
+"Complete nucleotide sequence of an archaeal (Pyrococcus woesei) gene
+encoding a homolog of eukaryotic transcription factor IIB (TFIIB).";
+"Nucleotide sequence of a DNA region comprising the gene for
+elongation factor 1 alpha (EF-1 alpha) from the ultrathermophilic
+archaeote Pyrococcus woesei: phylogenetic implications.";
+"TFIIB, an evolutionary link between the transcription machineries of
+archaebacteria and eukaryotes.";
+"The 2.1-A crystal structure of an archaeal preinitiation complex:
+TATA-box-binding protein/transcription factor (II)B core/TATA-box.";
+-!- FUNCTION: Stabilizes TBP binding to an archaeal box-A promoter.
+    Also responsible for recruiting RNA polymerase II to the pre-
+    initiation complex (DNA-TBP-TFIIB).
+-!- COFACTOR: Binds 1 zinc ion per subunit.
+-!- SIMILARITY: Belongs to the TFIIB family.
+-!- SIMILARITY: Contains 1 TFIIB-type zinc finger.
+ GO:0003700; F:transcription factor activity; IEA:HAMAP.
+3D-structure; Metal-binding; Repeat; Transcription;
+Transcription regulation; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,16 @@
+AC   Q94JN2;
+Profilin (Minor food allergen Ana c 1).
+"IgE reactivity to profilin in pollen-sensitized subjects with adverse
+reactions to banana and pineapple.";
+-!- FUNCTION: Binds to actin and affects the structure of the
+    cytoskeleton. At high concentrations, profilin prevents the
+    polymerization of actin, whereas it enhances it at low
+    concentrations. By binding to PIP2, it inhibits the formation of
+    IP3 and DG (By similarity).
+-!- SUBUNIT: Occurs in many kinds of cells as a complex with monomeric
+    actin in a 1:1 ratio.
+-!- ALLERGEN: Causes an allergic reaction in human. Binds to IgE. This
+    is a food allergen.
+-!- SIMILARITY: Belongs to the profilin family.
+Actin-binding; Allergen; Cytoskeleton.
+TMZERO

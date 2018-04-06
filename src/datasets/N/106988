@@ -1,0 +1,25 @@
+AC   Q9PNQ2;
+UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide)
+pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+(EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc
+transferase).
+"The genome sequence of the food-borne pathogen Campylobacter jejuni
+reveals hypervariable sequences.";
+-!- FUNCTION: Cell wall formation. Catalyzes the transfer of a GlcNAc
+    subunit on undecaprenyl-pyrophosphoryl-MurNAc-pentapeptide (lipid
+    intermediate I) to form undecaprenyl-pyrophosphoryl-MurNAc-
+    (pentapeptide)GlcNAc (lipid intermediate II) (By similarity).
+-!- CATALYTIC ACTIVITY: UDP-N-acetylglucosamine + Mur2Ac(oyl-L-Ala-
+    gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol = UDP +
+    GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-
+    diphosphoundecaprenol.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 28 family. MurG
+    subfamily.
+ GO:0009252; P:peptidoglycan biosynthesis; IEA:HAMAP.
+Cell cycle; Cell division; Cell shape; Cell wall; Complete proteome;
+Glycosyltransferase; Inner membrane; Membrane;
+Peptidoglycan synthesis; Transferase.
+TMZERO

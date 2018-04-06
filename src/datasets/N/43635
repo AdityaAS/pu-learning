@@ -1,0 +1,16 @@
+AC   Q9AIU7;
+DNA ligase (EC 6.5.1.2) (Polydeoxyribonucleotide synthase [NAD+]).
+"Cloning and functional characterization of an NAD(+)-dependent DNA
+ligase from Staphylococcus aureus.";
+-!- FUNCTION: This protein catalyzes the formation of phosphodiester
+    linkages between 5'-phosphoryl and 3'-hydroxyl groups in double-
+    stranded DNA using NAD as a coenzyme and as the energy source for
+    the reaction. It is essential for DNA replication and repair of
+    damaged DNA.
+-!- CATALYTIC ACTIVITY: NAD(+) + (deoxyribonucleotide)(n) +
+    (deoxyribonucleotide)(m) = AMP + nicotinamide nucleotide +
+    (deoxyribonucleotide)(n+m).
+-!- SIMILARITY: Belongs to the NAD-dependent DNA ligase family.
+-!- SIMILARITY: Contains 1 BRCT domain.
+DNA damage; DNA repair; DNA replication; Ligase; NAD.
+TMZERO

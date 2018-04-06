@@ -1,0 +1,16 @@
+AC   Q718F4; Q2M5D6; Q95P85;
+Peptide BmKb1 precursor (Anti-microbial peptide-like protein) (BmKb1*)
+(BmKb1') (Toxin peptide 6).
+"Identification and functional characterization of novel scorpion
+venom peptides with no disulfide bridge from Buthus martensii
+Karsch.";
+"Genomic organization of four novel nondisulfide-bridged peptides from
+scorpion Mesobuthus martensii Karsch: gaining insight into
+evolutionary mechanism.";
+-!- FUNCTION: Has antibacterial activity against Gram-positive
+    bacteria S.aureus, M.luteus, B.subtilis, and Gram-negative
+    bacteria E.coli, and P.aeruginosa.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+Amidation; Antibiotic; Antimicrobial; Signal.
+TMZERO

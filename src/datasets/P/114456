@@ -1,0 +1,17 @@
+AC   P43436;
+V-type sodium ATP synthase subunit E (EC 3.6.3.14) (Na(+)-
+translocating ATPase subunit E).
+"Sequencing and characterization of the ntp gene cluster for vacuolar-
+type Na(+)-translocating ATPase of Enterococcus hirae.";
+"Operon of vacuolar-type Na(+)-ATPase of Enterococcus hirae.";
+-!- FUNCTION: Involved in ATP-driven sodium extrusion.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the V-ATPase E subunit family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0046933; F:hydrogen-transporting ATP synthase activity...; IEA:HAMAP.
+ GO:0042777; P:ATP synthesis coupled proton transport (sen...; IEA:HAMAP.
+ATP synthesis; Hydrogen ion transport; Hydrolase; Ion transport;
+Transport.
+TMZERO

@@ -1,0 +1,11 @@
+AC   P03559;
+Inclusion body matrix protein (Viroplasmin).
+"Nucleotide sequence of cauliflower mosaic virus DNA.";
+-!- FUNCTION: Enhances the translation of downstream ORFs on
+    polycistronic mRNAs derived from cauliflower mosaic virus.
+-!- SUBCELLULAR LOCATION: Cytoplasmic inclusion body.
+-!- MISCELLANEOUS: The inclusion bodies are the site of viral DNA
+    synthesis, virion assembly and accumulation in the infected cell.
+-!- SIMILARITY: Belongs to the caulimoviruses viroplasmin family.
+Translation regulation.
+TMZERO

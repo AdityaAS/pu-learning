@@ -1,0 +1,21 @@
+AC   P17794;
+Protein virB4 precursor.
+"The virB operon of Agrobacterium tumefaciens pTiC58 encodes 11 open
+reading frames.";
+"Molecular characterization of the vir regulon of Agrobacterium
+tumefaciens: complete nucleotide sequence and gene organization of the
+28.63-kbp regulon cloned as a single unit.";
+"Characterization of the virB operon of an Agrobacterium tumefaciens
+Ti plasmid: nucleotide sequence and protein analysis.";
+"The genome of the natural genetic engineer Agrobacterium tumefaciens
+C58.";
+"Genome sequence of the plant pathogen and biotechnology agent
+Agrobacterium tumefaciens C58.";
+-!- FUNCTION: A possible function of virB4 might be to provide the
+    energy, via hydrolysis of ATP, for translocation of virulence
+    proteins of the transfer of a T-DNA-protein complex across the
+    agrobacterium membrane.
+-!- SIMILARITY: To A.tumefaciens trbE.
+ATP-binding; Complete proteome; Crown gall tumor; Nucleotide-binding;
+Plasmid; Signal.
+TMZERO

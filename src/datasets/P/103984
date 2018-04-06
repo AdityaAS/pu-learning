@@ -1,0 +1,68 @@
+AC   O95255; P78420; Q9UMZ7;
+Multidrug resistance-associated protein 6 (ATP-binding cassette sub-
+family C member 6) (Anthracycline resistance-associated protein)
+(Multi-specific organic anion transporter-E) (MOAT-E).
+"Expression of human MRP6, a homologue of the multidrug resistance
+protein gene MRP1, in tissues and cancer cells.";
+"Genome duplications and other features in 12 Mb of DNA sequence from
+human chromosome 16p and 16q.";
+"MOAT-E (ARA) is a full-length MRP/cMOAT subfamily transporter
+expressed in kidney and liver.";
+"Loss of ATP-dependent transport activity in pseudoxanthoma elasticum-
+associated mutants of human ABCC6 (MRP6).";
+"Molecular genetics of pseudoxanthoma elasticum: a metabolic disorder
+at the environment-genome interface?";
+"Homozygosity for the R1268Q mutation in MRP6, the pseudoxanthoma
+elasticum gene, is not disease-causing.";
+"Identification of two polymorphisms (c189G>C; c190T>C) in exon 2 of
+the human MRP6 gene (ABCC6) by screening of Pseudoxanthoma elasticum
+patients: possible sequence correction?";
+"Mutations of the gene encoding the transmembrane transporter protein
+ABC-C6 cause pseudoxanthoma elasticum.";
+"Mutations in a gene encoding an ABC transporter cause pseudoxanthoma
+elasticum.";
+"Pseudoxanthoma elasticum: mutations in the MRP6 gene encoding a
+transmembrane ATP-binding cassette (ABC) transporter.";
+"A spectrum of ABCC6 mutations is responsible for pseudoxanthoma
+elasticum.";
+"Identification of ABCC6 pseudogenes on human chromosome 16p:
+implications for mutation detection in pseudoxanthoma elasticum.";
+"ABCC6 gene polymorphism associated with variation in plasma
+lipoproteins.";
+-!- FUNCTION: May participate directly in the active transport of
+    drugs into subcellular organelles or influence drug distribution
+    indirectly. Transports glutathione conjugates as Leukotriene-c4
+    (LTC4) and N-ethylmaleimide S-glutathione (NEM-GS).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- TISSUE SPECIFICITY: Expressed in kidney and liver. Very low
+    expression in other tissues.
+-!- DISEASE: Defects in ABCC6 are a cause of autosomal dominant
+    pseudoxanthoma elasticum (AD-PXE) [MIM:177850]. PXE is a disorder
+    characterized by calcification of elastic fibers in skin, arteries
+    and retina that results in dermal lesions with associated laxity
+    and loss of elasticity, arterial insufficiency and retinal
+    hemorrhages leading to macular degeneration.
+-!- DISEASE: Defects in ABCC6 are a cause of autosomal recessive
+    pseudoxanthoma elasticum (AR-PXE) [MIM:264800].
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+-!- CAUTION: Ref.2 sequence differs from that shown due to erroneous
+    gene model prediction.
+-!- WEB RESOURCE: NAME=Mutations of the ABCC6 gene;
+    NOTE=Retina International's Scientific Newsletter;
+    URL="http://www.retina-international.com/sci-news/abcc6mut.htm".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ABCC6".
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0005524; F:ATP binding; TAS:ProtInc.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; TAS:ProtInc.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0042493; P:response to drug; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+ATP-binding; Disease mutation; Glycoprotein; Membrane;
+Nucleotide-binding; Polymorphism; Repeat; Sensory transduction;
+Transmembrane; Transport; Vision.
+TMSEVENTEEN

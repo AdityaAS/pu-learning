@@ -1,0 +1,22 @@
+AC   P37344; P76039;
+Psp operon transcriptional activator.
+"Identification, nucleotide sequence, and characterization of PspF,
+the transcriptional activator of the Escherichia coli stress-induced
+psp operon.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Characterization and sequence of the Escherichia coli stress-induced
+psp operon.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+"Large scale bacterial gene discovery by similarity search.";
+-!- FUNCTION: Transcriptional activator for the phage shock protein
+    (psp) operon (pspABCE).
+-!- SIMILARITY: Contains 1 sigma-54 factor interaction domain.
+3D-structure; Activator; ATP-binding; Complete proteome; DNA-binding;
+Nucleotide-binding; Transcription; Transcription regulation;
+Two-component regulatory system.
+TMZERO

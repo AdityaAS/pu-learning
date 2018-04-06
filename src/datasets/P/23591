@@ -1,0 +1,11 @@
+AC   P14665;
+Bactericidin B-5P precursor (Cecropin-like peptide B-5).
+"A family of bacteria-regulated, cecropin D-like peptides from Manduca
+sexta.";
+-!- FUNCTION: Cecropins have lytic and antibacterial activity against
+    several Gram-positive and Gram-negative bacteria.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the cecropin family.
+Amidation; Antibiotic; Antimicrobial; Immune response;
+Innate immunity; Signal.
+TMZERO

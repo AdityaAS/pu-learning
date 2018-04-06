@@ -1,0 +1,20 @@
+AC   P50408;
+Vacuolar ATP synthase subunit F (EC 3.6.3.14) (V-ATPase F subunit)
+(Vacuolar proton pump F subunit) (V-ATPase 14 kDa subunit).
+"Identification of a 14-kDa subunit associated with the catalytic
+sector of clathrin-coated vesicle H+-ATPase.";
+-!- FUNCTION: Subunit of the peripheral V1 complex of vacuolar ATPase
+    essential for assembly or catalytic function. V-ATPase is
+    responsible for acidifying a variety of intracellular compartments
+    in eukaryotic cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'' and d).
+-!- SIMILARITY: Belongs to the V-ATPase F subunit family.
+ GO:0042625; F:ATPase activity, coupled to transmembrane m...; IDA:RGD.
+ATP synthesis; Direct protein sequencing; Hydrogen ion transport;
+Hydrolase; Ion transport; Transport.
+TMZERO

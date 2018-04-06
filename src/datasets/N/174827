@@ -1,0 +1,34 @@
+AC   P46965;
+Signal peptidase complex subunit SPC1 (Microsomal signal peptidase
+subunit 1).
+"The homologue of mammalian SPC12 is important for efficient signal
+peptidase activity in Saccharomyces cerevisiae.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"The yeast SPC22/23 homolog Spc3p is essential for signal peptidase
+activity.";
+"Interactions between Spc2p and other components of the endoplasmic
+reticulum translocation sites of the yeast Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Nonessential component of the signal peptidase complex
+    (SPC), which catalyzes the cleavage of N-terminal signal sequences
+    of proteins targeted to the endoplasmic reticulum. Signal peptide
+    cleavage occurs during the translocation (cotranslationally or
+    posttranslationally) through the translocon pore into the
+    endoplasmic reticulum. SPC3 is not required for signal peptidase
+    activity.
+-!- SUBUNIT: Component of the signal peptidase complex (SPC), which
+    consists of SPC1, SPC2, SPC3 and SEC11. SPC associates with the
+    translocon complex. SPC1 interacts with SBH1 and SEB2.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 5550 molecules/cell.
+-!- SIMILARITY: Belongs to the SPCS1 family.
+ GO:0005787; C:signal peptidase complex; IDA:SGD.
+ GO:0003674; F:molecular_function; TAS:SGD.
+ GO:0045047; P:protein targeting to ER; IGI:SGD.
+ GO:0006465; P:signal peptide processing; IGI:SGD.
+Complete proteome; Endoplasmic reticulum; Membrane; Transmembrane.
+TMTWO

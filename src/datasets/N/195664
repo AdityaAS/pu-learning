@@ -1,0 +1,70 @@
+AC   Q9NUW8; Q2HXX4; Q96BK7; Q9NZM7; Q9NZM8;
+Tyrosyl-DNA phosphodiesterase 1 (EC 3.1.4.-) (Tyr-DNA
+phosphodiesterase 1).
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"NIEHS-SNPs, environmental genome project, NIEHS ES15478, Department
+of Genome Sciences, Seattle, WA (URL: http://egp.gs.washington.edu).";
+"The DNA sequence and analysis of human chromosome 14.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Yeast gene for a Tyr-DNA phosphodiesterase that repairs topoisomerase
+I complexes.";
+"The tyrosyl-DNA phosphodiesterase Tdp1 is a member of the
+phospholipase D superfamily.";
+"Conversion of phosphoglycolate to phosphate termini on 3' overhangs
+of DNA double strand breaks by the human tyrosyl-DNA phosphodiesterase
+hTdp1.";
+"Insights into substrate binding and catalytic mechanism of human
+tyrosyl-DNA phosphodiesterase (Tdp1) from vanadate and tungstate-
+inhibited structures.";
+"The crystal structure of human tyrosyl-DNA phosphodiesterase, Tdp1.";
+"Crystal structure of a transition state mimic for tdp1 assembled from
+vanadate, DNA, and a topoisomerase I-derived Peptide.";
+"Mutation of TDP1, encoding a topoisomerase I-dependent DNA damage
+repair enzyme, in spinocerebellar ataxia with axonal neuropathy.";
+-!- FUNCTION: Involved in repairing covalent topoisomerase I-DNA
+    complexes. To modulate the topological changes induced during DNA
+    replication and transcription, topoisomerase I transiently breaks
+    a DNA strand and forms a covalent linkage between the active-site
+    tyrosine and the 3'phosphate of the broken DNA strand. The strand
+    is subsequently religated by nucleophilic attack of the 5'hydroxyl
+    on this phosphodiester bond. Under certain conditions,
+    nucleophilic attack of the 5'hydroxyl does not occur and the
+    topoisomerase I forms a stalled covalent complex with the DNA.
+    Efficient repair of these stalled complexes requires an enzyme
+    that catalyzes the hydrolysis of the phosphodiester bond between
+    the tyrosine residue and the DNA 3'phosphate. Has also been shown
+    to remove glycolate from single-stranded DNA containing a 3'-
+    phosphoglycolate, suggesting a role in repair of free-radical
+    mediated DNA double-strand breaks (By similarity).
+-!- CATALYTIC ACTIVITY: Catalyzes the hydrolysis of a phosphodiester
+    bond between a tyrosine residue and a DNA 3'phosphate.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- TISSUE SPECIFICITY: Ubiquitously expressed. Similar expression
+    throughout the central nervous system (whole brain, amygdala,
+    caudate nucleus, cerebellum, cerebral cortex, frontal lobe,
+    hippocampus, medulla oblongata, occipital lobe, putamen,
+    substantia nigra, temporal lobe, thalamus, nucleus accumbens and
+    spinal cord) and increased expression in testis and thymus.
+-!- DOMAIN: Composed of two similar domains that are related by a
+    pseudo-2-fold axis of symmetry.
+-!- DISEASE: Defects in TDP1 are the cause of spinocerebellar ataxia
+    with axonal neuropathy (SCAN1) [MIM:607250]. SCAN1 is a hereditary
+    autosomal recessive form of ataxia associated with neuropathy. The
+    disease segregated as an autosomal recessive ataxia with
+    peripheral axonal motor and sensory neuropathy, distal muscular
+    atrophy, pes cavus and steppage gait as seen in Charcot-Marie-
+    Tooth neuropathy. All affected individuals have normal
+    intelligence. Loss-of-function mutations in TDP1 may cause SCAN1
+    either by interfering with DNA transcription or by inducing
+    apoptosis in postmitotic neurons.
+-!- SIMILARITY: Belongs to the phospholipase D family.
+-!- SIMILARITY: Contains 2 PLD phosphodiesterase domains.
+ GO:0005634; C:nucleus; NAS:UniProtKB.
+ GO:0017005; F:tyrosyl-DNA phosphodiesterase activity; NAS:UniProtKB.
+ GO:0006281; P:DNA repair; NAS:UniProtKB.
+3D-structure; Disease mutation; DNA damage; DNA repair; Hydrolase;
+Nuclear protein; Polymorphism; Repeat.
+TMZERO

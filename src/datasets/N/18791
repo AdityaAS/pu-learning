@@ -1,0 +1,16 @@
+AC   O81346; Q9SMR0;
+Cytochrome P450 79B2 (EC 1.14.-.-).
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"The presence of CYP79 homologues in glucosinolate-producing plants
+shows evolutionary conservation of the enzymes in the conversion of
+amino acid to aldoxime in the biosynthesis of cyanogenic glucosides
+and glucosinolates.";
+-!- FUNCTION: Converts amino acids to aldoximes in glucosinolate
+    biosynthesis.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+Heme; Iron; Membrane; Metal-binding; Monooxygenase; Oxidoreductase;
+Transmembrane.
+TMZERO

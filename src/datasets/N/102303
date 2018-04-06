@@ -1,0 +1,12 @@
+AC   P57971;
+Probable molybdopterin-guanine dinucleotide biosynthesis protein A.
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- FUNCTION: Links a guanosine 5'-phosphate to molydopterin (MPT)
+    forming molybdopterin guanine dinucleotide (MGD) (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; molybdopterin biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the mobA family.
+ GO:0005525; F:GTP binding; IEA:HAMAP.
+Complete proteome; GTP-binding; Molybdenum cofactor biosynthesis;
+Nucleotide-binding.
+TMZERO

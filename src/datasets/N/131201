@@ -1,0 +1,15 @@
+AC   Q3IP66;
+Probable DNA primase small subunit (EC 2.7.7.-).
+"Living with two extremes: conclusions from the genome sequence of
+Natronomonas pharaonis.";
+-!- FUNCTION: DNA primase is the polymerase that synthesizes small RNA
+    primers for the Okazaki fragments on both template strands at
+    replication forks during chromosomal DNA synthesis (By
+    similarity).
+-!- SUBUNIT: Heterodimer of a small subunit and a large subunit (By
+    similarity).
+-!- SIMILARITY: Belongs to the eukaryotic-type primase small subunit
+    family.
+Complete proteome; DNA replication; DNA-directed RNA polymerase;
+Nucleotidyltransferase; Primosome; Transferase.
+TMZERO

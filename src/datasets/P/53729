@@ -1,0 +1,28 @@
+AC   P13036; Q2M624;
+Iron(III) dicitrate transport protein fecA precursor.
+"Genetics of the iron dicitrate transport system of Escherichia
+coli.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Novel two-component transmembrane transcription control: regulation
+of iron dicitrate transport in Escherichia coli K-12.";
+"Nucleotide sequences of the fecBCDE genes and locations of the
+proteins suggest a periplasmic-binding-protein-dependent transport
+mechanism for iron(III) dicitrate in Escherichia coli.";
+-!- FUNCTION: FecA is the outer membrane receptor protein in the
+    Fe(3+) dicitrate transport system.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- INDUCTION: For induction, the tonB and the exbB proteins have to
+    be active. Regulation by the iron level mediated by the fur
+    protein and induction by citrate plus iron suggest that the Fe(3+)
+    dicitrate complex must enter the periplasm where it binds to a
+    transmembrane protein, which regulates transcription of the fec
+    genes directly or via a further inductor.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ion transport; Iron; Iron transport; Membrane; Outer membrane;
+Receptor; Signal; TonB box; Transport.
+TMZERO

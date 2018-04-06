@@ -1,0 +1,26 @@
+AC   O54699;
+Equilibrative nucleoside transporter 2 (Equilibrative
+nitrobenzylmercaptopurine riboside-insensitive nucleoside transporter)
+(Equilibrative NBMPR-insensitive nucleoside transporter) (Nucleoside
+transporter, ei-type) (Solute carrier family 29 member 2).
+"Molecular cloning and functional characterization of
+nitrobenzylthioinosine (NBMPR)-sensitive (es) and NBMPR-insensitive
+(ei) equilibrative nucleoside transporter proteins (rENT1 and rENT2)
+from rat tissues.";
+-!- FUNCTION: Mediates both influx and efflux of nucleosides across
+    the membrane (equilibrative transporter). It is insensitive (EI)
+    to low concentrations of the inhibitor nitrobenzylmercaptopurine
+    riboside (NBMPR) and is sodium-independent. Specific for
+    nucleosides, but may also transport hypoxanthine. May also play a
+    role in the efflux of inosine and hypoxanthine from muscle cells
+    during the net degradation of purine nucleotides that occurs
+    during strenuous exercise and/or in the reuptake of these purines
+    during the recovery process (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Resistant to dipyridamole and dilazep inhibition
+    (anticancer chemotherapeutics drugs).
+-!- SIMILARITY: Belongs to the SLC29A transporter family.
+ GO:0005337; F:nucleoside transporter activity; IDA:RGD.
+ GO:0015858; P:nucleoside transport; IDA:RGD.
+Glycoprotein; Membrane; Nuclear protein; Transmembrane; Transport.
+TMELEVEN

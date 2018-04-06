@@ -1,0 +1,24 @@
+AC   P0AAG9; P23199; P76442;
+Galactose/methyl galactoside import ATP-binding protein mglA
+(EC 3.6.3.17).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Part of the ABC transporter complex mglABC involved in
+    galactose/methyl galactoside import. Responsible for energy
+    coupling to the transport system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + monosaccharide(Out) = ADP +
+    phosphate + monosaccharide(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (mglA), two transmembrane proteins (mglC) and a solute-binding
+    protein (mglB) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+    Galactose/methyl galactoside importer (TC 3.A.1.2.3) subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0015407; F:monosaccharide-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Nucleotide-binding; Repeat; Sugar transport; Transport.
+TMZERO

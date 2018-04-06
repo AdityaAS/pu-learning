@@ -1,0 +1,18 @@
+AC   Q9WUV0; Q3TMI6;
+Origin recognition complex subunit 5.
+"Identification and characterization of MmORC4 and MmORC5, two
+subunits of the mouse origin of replication recognition complex.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Component of the origin recognition complex (ORC) that
+    binds origins of replication. It has a role in both chromosomal
+    replication and mating type transcriptional silencing. Binds to
+    the ARS consensus sequence (ACS) of origins of replication in an
+    ATP-dependent manner.
+-!- SUBUNIT: ORC is composed of six subunits.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the ORC5 family.
+ GO:0006260; P:DNA replication; TAS:MGI.
+ATP-binding; DNA replication; Nuclear protein; Nucleotide-binding.
+TMZERO

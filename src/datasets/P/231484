@@ -1,0 +1,20 @@
+AC   O81123;
+Zinc transporter 1 precursor (ZRT/IRT-like protein 1).
+"Identification of a family of zinc transporter genes from Arabidopsis
+that respond to zinc deficiency.";
+"Structural analysis of Arabidopsis thaliana chromosome 3. I. Sequence
+features of the regions of 4,504,864 bp covered by sixty P1 and TAC
+clones.";
+-!- FUNCTION: Mediates zinc uptake from the rhizosphere. May also
+    transport copper and cadmium ions.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Expressed predominantly in the roots of zinc-
+    deficient plants.
+-!- INDUCTION: By zinc starvation.
+-!- MISCELLANEOUS: Zinc uptake is inhibited by copper and cadmium
+    ions.
+-!- SIMILARITY: Belongs to the ZIP transporter (TC 2.A.5) family.
+Ion transport; Membrane; Signal; Transmembrane; Transport; Zinc;
+Zinc transport.
+TMEIGHT

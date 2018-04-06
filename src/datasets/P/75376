@@ -1,0 +1,11 @@
+AC   P16465;
+Hemolysin activator protein precursor.
+"Nucleotide sequencing of the Proteus mirabilis calcium-independent
+hemolysin genes (hpmA and hpmB) reveals sequence similarity with the
+Serratia marcescens hemolysin genes (shlA and shlB).";
+-!- FUNCTION: Interacts with the cell-bound hemolysin. Necessary for
+    the extracellular secretion and activation of the hemolysin.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: Belongs to the peptidase M19 family.
+Cytolysis; Hemolysis; Membrane; Outer membrane; Signal; Transmembrane.
+TMFIVE

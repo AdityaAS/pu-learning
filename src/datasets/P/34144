@@ -1,0 +1,21 @@
+AC   Q06686;
+Copper transport protein CTR3 (Copper transporter 3).
+"A widespread transposable element masks expression of a yeast copper
+transport gene.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Required for high affinity copper (probably reduced Cu
+    I) transport into the cell.
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; cytoplasmic vesicle
+    membrane; multi-pass membrane protein.
+-!- INDUCTION: By copper deprivation and repressed by copper excess.
+-!- SIMILARITY: Belongs to the SLC31A transporter family.
+ GO:0005887; C:integral to plasma membrane; IDA:SGD.
+ GO:0015088; F:copper uptake transporter activity; IDA:SGD.
+ GO:0015677; P:copper ion import; IDA:SGD.
+Complete proteome; Copper; Copper transport; Ion transport; Membrane;
+Transmembrane; Transport.
+THTHREE

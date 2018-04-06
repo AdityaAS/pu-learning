@@ -1,0 +1,18 @@
+AC   Q9USV7;
+Copper transport protein ctr6 (Copper transporter 6).
+"The genome sequence of Schizosaccharomyces pombe.";
+"Ctr6, a vacuolar membrane copper transporter in Schizosaccharomyces
+pombe.";
+-!- FUNCTION: Mobilizes stored copper from the vacuole to the
+    cytoplasm under conditions of copper limitation.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- INDUCTION: By copper deprivation.
+-!- SIMILARITY: Belongs to the SLC31A transporter family.
+ GO:0005774; C:vacuolar membrane; IDA:GeneDB_SPombe.
+ GO:0005375; F:copper ion transporter activity; TAS:GeneDB_SPombe.
+ GO:0006825; P:copper ion transport; IDA:GeneDB_SPombe.
+Complete proteome; Copper; Copper transport; Ion transport; Membrane;
+Transmembrane; Transport; Vacuole.
+TMTWO

@@ -1,0 +1,22 @@
+AC   O27600;
+Tungsten-containing formylmethanofuran dehydrogenase 2 subunit C
+(EC 1.2.99.5) (Tungsten-containing formylmethanofuran dehydrogenase II
+subunit C).
+"Complete genome sequence of Methanobacterium thermoautotrophicum
+deltaH: functional analysis and comparative genomics.";
+-!- FUNCTION: Catalyzes the reversible oxidation of CO(2) and
+    methanofuran (MFR) to N-formylmethanofuran (CHO-MFR). Can only
+    oxidize formylmethanofuran. This enzyme is oxygen-labile.
+-!- CATALYTIC ACTIVITY: Formylmethanofuran + H(2)O + acceptor = CO(2)
+    + methanofuran + reduced acceptor.
+-!- COFACTOR: Tungsten.
+-!- ENZYME REGULATION: Not inactivated by cyanide.
+-!- PATHWAY: Methanogenesis; first step.
+-!- SUBUNIT: This enzyme is composed of seven subunits fwdA (65 kDa),
+    fwdB (53 kDa), fwdC (31 kDa), fwdD (15 kDa), fwdE, fwdF and fwdG
+    (By similarity).
+-!- INDUCTION: By growth on tungsten or molybdenum under anaerobic
+    conditions.
+-!- SIMILARITY: Belongs to the fwdC/fmdC family.
+Complete proteome; Methanogenesis; Oxidoreductase; Repeat; Tungsten.
+TMZERO

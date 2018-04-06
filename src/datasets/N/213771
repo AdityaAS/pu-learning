@@ -1,0 +1,8 @@
+AC   Q8TYR8;
+UPF0284 protein MK0224.
+"The complete genome of hyperthermophile Methanopyrus kandleri AV19
+and monophyly of archaeal methanogens.";
+-!- SIMILARITY: Belongs to the UPF0284 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

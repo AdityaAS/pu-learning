@@ -1,0 +1,23 @@
+AC   P56513;
+Phospholemman precursor (FXYD domain-containing ion transport
+regulator 1).
+"Purification and complete sequence determination of the major plasma
+membrane substrate for cAMP-dependent protein kinase and protein
+kinase C in myocardium.";
+-!- FUNCTION: Induces a hyperpolarization-activated chloride current
+    when expressed in Xenopus oocytes. May have a functional role in
+    muscle contraction.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Present in heart, esophagus, stomach, aorta,
+    skeletal muscle, smooth muscle, and liver but absent from brain
+    and kidney.
+-!- PTM: Major plasma membrane substrate for cAMP-dependent protein
+    kinase (PK-A) and protein kinase C (PK-C) in several different
+    tissues. Phosphorylated in response to insulin and adrenergic
+    stimulation (By similarity).
+-!- SIMILARITY: Belongs to the FXYD family.
+Chloride; Chloride channel; Direct protein sequencing; Ion transport;
+Ionic channel; Membrane; Phosphorylation; Signal; Transmembrane;
+Transport.
+TMONE

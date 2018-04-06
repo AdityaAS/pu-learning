@@ -1,0 +1,42 @@
+AC   Q9TTY5;
+Platelet-activating factor receptor (PAF-R) (PAFr).
+"Comparison of the coding sequence of the platelet-activating factor
+receptor gene in three species.";
+"Molecular characterization of bovine platelet-actvating factor
+receptor transcripts and their detection in different tissues of
+cattle.";
+"Fluorometric detection of platelet activating factor receptor in
+cultured oviductal epithelial and stromal cells and endometrial
+stromal cells from bovine at different stages of the oestrous cycle
+and early pregnancy.";
+"Platelet-activating factor (PAF)-like activity, localization of PAF
+receptor (PAF-R) and PAF-acetylhydrolase (PAF-AH) activity in bovine
+endometrium at different stages of the estrous cycle and early
+pregnancy.";
+-!- FUNCTION: Receptor for platelet activating factor, a chemotactic
+    phospholipid mediator that possesses potent inflammatory, smooth-
+    muscle contractile and hypotensive activity. Seems to mediate its
+    action via a G protein that activates a phosphatidylinositol-
+    calcium second messenger system. May be involved in the
+    morphological and physical modifications of the oviduct and uterus
+    during the estrus cycle and early pregnancy (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Found in oviductal epithelial and stroma
+    cells. Levels in the oviduct are raised at days 2-4 of both
+    pregnancy and of the estrus cycle. In the endometrium,
+    localization is predominantly to the apical borders of glandular
+    and luminal epithelial cells. Expressed at lower levels in
+    endometrial stromal cells. Levels in the endometrium are increased
+    at day 20 of pregnancy (at protein level).
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+ GO:0005887; C:integral to plasma membrane; ISS:UniProtKB.
+ GO:0005886; C:plasma membrane; IDA:UniProtKB.
+ GO:0004992; F:platelet activating factor receptor activity; ISS:UniProtKB.
+ GO:0019735; P:antimicrobial humoral response (sensu Verte...; ISS:UniProtKB.
+ GO:0006935; P:chemotaxis; ISS:UniProtKB.
+ GO:0007186; P:G-protein coupled receptor protein signalin...; ISS:UniProtKB.
+ GO:0006954; P:inflammatory response; ISS:UniProtKB.
+ GO:0007565; P:pregnancy; IEP:UniProtKB.
+Chemotaxis; G-protein coupled receptor; Glycoprotein; Membrane;
+Pregnancy; Receptor; Transducer; Transmembrane.
+TMSEVEN

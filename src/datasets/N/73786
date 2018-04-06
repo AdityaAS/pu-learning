@@ -1,0 +1,14 @@
+AC   Q92QB5;
+Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) (PRA-CH).
+"Analysis of the chromosome sequence of the legume symbiont
+Sinorhizobium meliloti strain 1021.";
+-!- CATALYTIC ACTIVITY: 1-(5-phosphoribosyl)-AMP + H(2)O = 1-(5-
+    phosphoribosyl)-5-((5-
+    phosphoribosylamino)methylideneamino)imidazole-4-carboxamide.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 3.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the PRA-CH family.
+Amino-acid biosynthesis; Complete proteome; Histidine biosynthesis;
+Hydrolase.
+TMZERO

@@ -1,0 +1,42 @@
+AC   P06971; P71280; P75665;
+Ferrichrome-iron receptor precursor (Ferric hydroxamate uptake)
+(Ferric hydroxamate receptor).
+"Protein fusions of beta-galactosidase to the ferrichrome-iron
+receptor of Escherichia coli K-12.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+2.4-4.1 min (110,917-193,643 bp) region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"Nucleotide sequence of the fhuC and fhuD genes involved in iron (III)
+hydroxamate transport: domains in FhuC homologous to ATP-binding
+proteins.";
+"Energy-coupled transport through the outer membrane of Escherichia
+coli small deletions in the gating loop convert the FhuA transport
+protein into a diffusion channel.";
+"FhuA, a transporter of the Escherichia coli outer membrane, is
+converted into a channel upon binding of bacteriophage T5.";
+"Siderophore-mediated iron transport: crystal structure of FhuA with
+bound lipopolysaccharide.";
+"Transmembrane signaling across the ligand-gated FhuA receptor:
+crystal structures of free and ferrichrome-bound states reveal
+allosteric changes.";
+"Crystal structure of the antibiotic albomycin in complex with the
+outer membrane transporter FhuA.";
+-!- FUNCTION: This receptor binds the ferrichrome-iron ligand. It
+    interacts with the tonB protein, which is responsible for energy
+    coupling of the ferrichrome-promoted iron transport system. Acts
+    as a receptor for bacteriophage T5 as well as T1, phi80 and
+    colicin M. Binding of T5 triggers the opening of a high
+    conductance ion channel. Can also transport the antibiotic
+    albomycin.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ion transport; Iron; Iron transport; Membrane; Outer membrane;
+Phage recognition; Receptor; Signal; TonB box; Transmembrane;
+Transport.
+TMTWENTYTWO

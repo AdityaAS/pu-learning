@@ -1,0 +1,29 @@
+AC   P07340; Q63062;
+Sodium/potassium-transporting ATPase subunit beta-1 (Sodium/potassium-
+dependent ATPase beta-1 subunit).
+"Rat-brain Na,K-ATPase beta-chain gene: primary structure, tissue-
+specific expression, and amplification in ouabain-resistant HeLa C+
+cells.";
+"Multiple mRNAs from rat kidney and brain encode a single Na+,K+-
+ATPase beta subunit protein.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Characterization of the 5' flanking region of the rat Na+/K(+)-ATPase
+beta 1 subunit gene.";
+-!- FUNCTION: This is the non-catalytic component of the active
+    enzyme, which catalyzes the hydrolysis of ATP coupled with the
+    exchange of Na(+) and K(+) ions across the plasma membrane. The
+    beta subunit regulates, through assembly of alpha/beta
+    heterodimers, the number of sodium pumps transported to the plasma
+    membrane.
+-!- SUBUNIT: Composed of three subunits: alpha (catalytic), beta and
+    gamma.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein.
+-!- SIMILARITY: Belongs to the Na+/K+ and H+/K+ ATPases subunit beta
+    family.
+ GO:0001666; P:response to hypoxia; IDA:RGD.
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Signal-anchor; Sodium; Sodium transport; Sodium/potassium transport;
+Transmembrane; Transport.
+TMONE

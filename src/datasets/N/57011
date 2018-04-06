@@ -1,0 +1,14 @@
+AC   Q9CP58;
+Fumarate reductase subunit C.
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- FUNCTION: Seems to be involved in the anchoring of the catalytic
+    components of the fumarate reductase complex to the cytoplasmic
+    membrane (By similarity).
+-!- SUBUNIT: Part of an enzyme complex containing four subunits: a
+    flavoprotein (frdA), an iron-sulfur protein (frdB), and two
+    hydrophobic anchor proteins (frdC and frdD) (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the frdC family.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+THTHREE

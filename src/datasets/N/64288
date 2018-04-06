@@ -1,0 +1,17 @@
+AC   O69664;
+Glycerol kinase (EC 2.7.1.30) (ATP:glycerol 3-phosphotransferase)
+(Glycerokinase) (GK).
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+-!- FUNCTION: Key enzyme in the regulation of glycerol uptake and
+    metabolism.
+-!- CATALYTIC ACTIVITY: ATP + glycerol = ADP + sn-glycerol 3-
+    phosphate.
+-!- PATHWAY: Glycerol utilization; rate-limiting step.
+-!- SIMILARITY: Belongs to the FGGY kinase family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ATP-binding; Complete proteome; Glycerol metabolism; Kinase;
+Nucleotide-binding; Transferase.
+TMZERO

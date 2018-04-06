@@ -1,0 +1,28 @@
+AC   Q16878; P78513; Q6FHZ8; Q8TB64;
+Cysteine dioxygenase type 1 (EC 1.13.11.20) (Cysteine dioxygenase type
+I) (CDO) (CDO-I).
+"Human cysteine dioxygenase type I: primary structure derived from
+base sequencing of cDNA.";
+"Structural organization, chromosomal localization and tissue
+distribution of the human cysteine dioxygenase gene.";
+"Human cysteine dioxygenase type I (CDO-I; EC 1.13.11.20): 5' flanking
+region and intron-exon structure of the gene.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Large-scale characterization of HeLa cell nuclear phosphoproteins.";
+-!- CATALYTIC ACTIVITY: L-cysteine + O(2) = 3-sulfinoalanine.
+-!- COFACTOR: Binds 1 iron ion per subunit.
+-!- PATHWAY: Cysteine metabolism.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the cysteine dioxygenase family.
+ GO:0005829; C:cytosol; TAS:UniProtKB.
+ GO:0017172; F:cysteine dioxygenase activity; ISS:UniProtKB.
+ GO:0006534; P:cysteine metabolism; TAS:UniProtKB.
+ GO:0006118; P:electron transport; TAS:UniProtKB.
+ GO:0006954; P:inflammatory response; TAS:UniProtKB.
+ GO:0000097; P:sulfur amino acid biosynthesis; TAS:UniProtKB.
+ GO:0042412; P:taurine biosynthesis; TAS:UniProtKB.
+Dioxygenase; Iron; Oxidoreductase; Phosphorylation; Polymorphism.
+TMZERO

@@ -1,0 +1,7 @@
+AC   Q88X33;
+UPF0342 protein lp_1415.
+"Complete genome sequence of Lactobacillus plantarum WCFS1.";
+-!- SIMILARITY: Belongs to the UPF0342 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

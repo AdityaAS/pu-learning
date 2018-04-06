@@ -1,0 +1,15 @@
+AC   Q5HF63;
+Acetate kinase (EC 2.7.2.1) (Acetokinase).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- CATALYTIC ACTIVITY: ATP + acetate = ADP + acetyl phosphate.
+-!- CATALYTIC ACTIVITY: ATP + propanoate = ADP + propanoyl phosphate.
+-!- PATHWAY: Metabolic intermediate biosynthesis; acetyl-CoA
+    biosynthesis; acetyl-CoA from acetate: step 1.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the acetokinase family.
+ GO:0008776; F:acetate kinase activity; IEA:HAMAP.
+Complete proteome; Kinase; Transferase.
+TMZERO

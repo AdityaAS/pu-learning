@@ -1,0 +1,20 @@
+AC   P13857;
+Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-) (Acetylating
+enzyme for N-terminal of ribosomal protein L7/L12).
+"Cloning and molecular characterization of the gene rimL which encodes
+an enzyme acetylating ribosomal protein L12 of Escherichia coli K12.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: This enzyme acetylates the N-terminal serine of
+    ribosomal protein L7/L12.
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + ribosomal-protein L-serine = CoA
+    + ribosomal-protein N-acetyl-L-serine.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the acetyltransferase family. RimL
+    subfamily.
+-!- SIMILARITY: Contains 1 N-acetyltransferase domain.
+Acyltransferase; Complete proteome; Transferase.
+TMZERO

@@ -1,0 +1,8 @@
+AC   Q87VV9;
+UPF0247 protein PSPTO_4826.
+"The complete genome sequence of the Arabidopsis and tomato pathogen
+Pseudomonas syringae pv. tomato DC3000.";
+-!- SIMILARITY: Belongs to the UPF0247 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

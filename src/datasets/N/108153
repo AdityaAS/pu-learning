@@ -1,0 +1,39 @@
+AC   Q9H1R3; Q96I84;
+Myosin light chain kinase 2, skeletal/cardiac muscle (EC 2.7.11.18)
+(MLCK2).
+"The overall pattern of cardiac contraction depends on a spatial
+gradient of myosin regulatory light chain phosphorylation.";
+"Full-length sequencing of 100 cDNA clones from human adult skeletal
+muscle.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Implicated in the level of global muscle contraction and
+    cardiac function. Phosphorylates a specific serine in the N-
+    terminus of a myosin light chain.
+-!- CATALYTIC ACTIVITY: ATP + [myosin light-chain] = ADP + [myosin
+    light-chain] phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Note=Colocalizes with
+    phosphorylated myosin light chain (RLCP) at filaments of the
+    myofibrils.
+-!- TISSUE SPECIFICITY: Heart and skeletal muscles. Increased
+    expression in the apical tissue compared to the interventricular
+    septal tissue.
+-!- DISEASE: Defects in MYLK2 are a cause of familial hypertrophic
+    cardiomyopathy (CMH) [MIM:192600]; also designated FHC or HCM.
+    Familial hypertrophic cardiomyopathy is a heart disorder
+    characterized by ventricular hypertrophy, which is usually
+    asymmetric and often involves the interventricular septum. The
+    prevalence of the disease in the general population is 0.2%. FHC
+    is clinically heterogeneous, with inter- and intrafamilial
+    variations ranging from benign to malignant forms with high risk
+    of cardiac failure and sudden cardiac death.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+-!- WEB RESOURCE: NAME=Familial hypertrophic cardiomyopathy mutation
+    database;
+    URL="http://www.angis.org.au/Databases/Heart/heartbreak.html".
+Acetylation; ATP-binding; Calmodulin-binding; Cardiomyopathy;
+Disease mutation; Kinase; Nucleotide-binding; Phosphorylation;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

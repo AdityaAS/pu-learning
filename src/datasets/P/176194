@@ -1,0 +1,28 @@
+AC   P36057;
+Signal recognition particle receptor subunit beta (SR-beta).
+"DNA sequencing of a 36.2 kb fragment located between the FAS1 and LAP
+loci of chromosome XI of Saccharomyces cerevisiae.";
+"Complete DNA sequence of yeast chromosome XI.";
+"Global analysis of protein expression in yeast.";
+"Structural basis for the function of the beta subunit of the
+eukaryotic signal recognition particle receptor.";
+-!- FUNCTION: Has GTPase activity. May mediate the membrane
+    association of SR alpha (By similarity).
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain.
+-!- INTERACTION:
+    P32916:SRP101; NbExp=2; IntAct=EBI-18091, EBI-18098;
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane (Potential).
+-!- MISCELLANEOUS: Present with 8250 molecules/cell.
+-!- SIMILARITY: Belongs to the SRP receptor beta subunit family.
+ GO:0030176; C:integral to endoplasmic reticulum membrane; IDA:SGD.
+ GO:0005785; C:signal recognition particle receptor complex; TAS:SGD.
+ GO:0005525; F:GTP binding; IPI:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0005047; F:signal recognition particle binding; IMP:SGD.
+ GO:0045047; P:protein targeting to ER; IMP:SGD.
+ GO:0006614; P:SRP-dependent cotranslational protein targe...; TAS:SGD.
+3D-structure; Complete proteome; Endoplasmic reticulum; GTP-binding;
+Membrane; Nucleotide-binding; Receptor; Ribonucleoprotein;
+Signal recognition particle; Transmembrane.
+TMONE

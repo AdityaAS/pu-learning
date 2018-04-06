@@ -1,0 +1,17 @@
+AC   Q9SZC9; O48600; O81870;
+Putative copper-transporting ATPase PAA1 (EC 3.6.3.4).
+"Cloning of a cDNA encoding a putative metal-transporting P-type
+ATPase from Arabidopsis thaliana.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+-!- FUNCTION: Involved in copper transport (Potential).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Cu(2+)(In) = ADP + phosphate +
+    Cu(2+)(Out).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IB subfamily.
+-!- SIMILARITY: Contains 1 HMA domain.
+ATP-binding; Copper; Copper transport; Hydrolase; Ion transport;
+Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Transmembrane; Transport.
+TMEIGHT

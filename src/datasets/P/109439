@@ -1,0 +1,19 @@
+AC   P42432;
+Nitrate transporter.
+"The nasB operon and nasA gene are required for nitrate/nitrite
+assimilation in Bacillus subtilis.";
+"The 25 degrees-36 degrees region of the Bacillus subtilis chromosome:
+determination of the sequence of a 146 kb segment and identification
+of 113 genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Purification and in vitro activities of the Bacillus subtilis TnrA
+transcription factor.";
+-!- FUNCTION: May function as a nitrate transporter.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- INDUCTION: Positively regulated by tnrA under conditions of
+    nitrogen limitation.
+-!- SIMILARITY: Belongs to the narK/nasA transporter family.
+Complete proteome; Membrane; Nitrate assimilation; Transmembrane;
+Transport.
+TMNINE

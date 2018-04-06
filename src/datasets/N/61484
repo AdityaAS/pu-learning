@@ -1,0 +1,19 @@
+AC   Q2PQH8;
+Glycogen debranching enzyme (Glycogen debrancher) [Includes: 4-alpha-
+glucanotransferase (EC 2.4.1.25) (Oligo-1,4-1,4-glucantransferase);
+Amylo-alpha-1,6-glucosidase (EC 3.2.1.33) (Amylo-1,6-glucosidase)
+(Dextrin 6-alpha-D-glucosidase)].
+"Glycogen storage disease type IIIa in curly coated retrievers.";
+-!- FUNCTION: Multifunctional enzyme acting as 1,4-alpha-D-glucan:1,4-
+    alpha-D-glucan 4-alpha-D-glycosyltransferase and amylo-1,6-
+    glucosidase in glycogen degradation (By similarity).
+-!- CATALYTIC ACTIVITY: Transfers a segment of a 1,4-alpha-D-glucan to
+    a new position in an acceptor, which may be glucose or a 1,4-
+    alpha-D-glucan.
+-!- CATALYTIC ACTIVITY: Hydrolysis of (1->6)-alpha-D-glucosidic branch
+    linkages in glycogen phosphorylase limit dextrin.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the glycogen debranching enzyme family.
+Glycogen biosynthesis; Glycogen storage disease; Glycosidase;
+Glycosyltransferase; Hydrolase; Multifunctional enzyme; Transferase.
+TMZERO

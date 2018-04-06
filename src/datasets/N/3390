@@ -1,0 +1,20 @@
+AC   P60713; P02570; P70514; P99021; Q11211; Q64316;
+Actin, cytoplasmic 1 (Beta-actin).
+-!- FUNCTION: Actins are highly conserved proteins that are involved
+    in various types of cell motility and are ubiquitously expressed
+    in all eukaryotic cells.
+-!- SUBUNIT: Polymerization of globular actin (G-actin) leads to a
+    structural filament (F-actin) in the form of a two-stranded helix.
+    Each actin can bind to 4 others. Found in a complex with XPO6,
+    Ran, ACTB and PFN1. Interacts with XPO6 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: In vertebrates 3 main groups of actin isoforms,
+    alpha, beta and gamma have been identified. The alpha actins are
+    found in muscle tissues and are a major constituent of the
+    contractile apparatus. The beta and gamma actins coexist in most
+    cell types as components of the cytoskeleton and as mediators of
+    internal cell motility.
+-!- SIMILARITY: Belongs to the actin family.
+Acetylation; ATP-binding; Cytoskeleton; Methylation;
+Nucleotide-binding; Phosphorylation; Structural protein.
+TMZERO

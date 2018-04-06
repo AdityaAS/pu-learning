@@ -1,0 +1,28 @@
+AC   Q9JHI9; Q3UHZ9; Q8BME5; Q8BUM5; Q9JIM9; Q9JKP4;
+Solute carrier family 40 member 1 (Ferroportin-1) (Iron-regulated
+transporter 1) (Metal transporter protein 1) (MTP1).
+"A novel mammalian iron-regulated protein involved in intracellular
+iron metabolism.";
+"Positional cloning of zebrafish ferroportin1 identifies a conserved
+vertebrate iron exporter.";
+"A novel duodenal iron-regulated transporter, IREG1, implicated in the
+basolateral transfer of iron to the circulation.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May be involved in iron export from duodenal epithelial
+    cell and also in transfer of iron between maternal and fetal
+    circulation. Mediates iron efflux in the presence of a ferroxidase
+    (hephaestin and/or ceruloplasmin).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Note=Localized to the basolateral membrane of polarized epithelial
+    cells.
+-!- TISSUE SPECIFICITY: High expression in spleen, liver, kidney,
+    heart and duodenum.
+-!- SIMILARITY: Belongs to the SLC40A transporter family.
+ GO:0008021; C:synaptic vesicle; IDA:MGI.
+ GO:0005381; F:iron ion transporter activity; IDA:MGI.
+ GO:0006826; P:iron ion transport; IDA:MGI.
+Glycoprotein; Ion transport; Iron; Iron transport; Membrane;
+Transmembrane; Transport.
+TMTEN

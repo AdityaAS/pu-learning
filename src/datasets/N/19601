@@ -1,0 +1,14 @@
+AC   Q6GLS4;
+CaM kinase-like vesicle-associated protein.
+-!- FUNCTION: Does not appear to have detectable kinase activity.
+-!- COFACTOR: Calcium (By similarity).
+-!- SUBUNIT: Interacts with calmodulin, in the presence of calcium (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; peripheral membrane protein (By
+    similarity). Note=May be associated with vesicular structures (By
+    similarity).
+-!- DOMAIN: The protein kinase domain is predicted to be catalytically
+    inactive.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005954; C:calcium- and calmodulin-dependent protein k...; TAS:UniProtKB.
+TMZERO

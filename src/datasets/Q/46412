@@ -1,0 +1,30 @@
+AC   P51907; O88389; Q63727; Q9JJP8;
+Excitatory amino acid transporter 3 (Sodium-dependent
+glutamate/aspartate transporter 3) (Excitatory amino-acid carrier 1).
+"Cloning and expression of a neuronal rat brain glutamate
+transporter.";
+"Neuronal high-affinity glutamate transport in the rat central nervous
+system.";
+"Nerve injury enhances rat neuronal glutamate transporter expression:
+identification by differential display PCR.";
+"Characterization and distribution of the neuronal glutamate
+transporter EAAC1 in rat brain.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Rat C6 and human astrocytic tumor cells express a neuronal type of
+glutamate transporter.";
+"Modulation of the neuronal glutamate transporter EAAC1 by the
+interacting protein GTRAP3-18.";
+-!- FUNCTION: Transports L-glutamate and also L- and D-aspartate.
+    Essential for terminating the postsynaptic action of glutamate by
+    rapidly removing released glutamate from the synaptic cleft. Acts
+    as a symport by cotransporting sodium. Negatively regulated by
+    ARL6IP5.
+-!- SUBUNIT: Interacts with ARL6IP5/PRAF3.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed to a high extent in brain and
+    kidney, and to a lower extent in heart, lung and skeletal muscle.
+-!- SIMILARITY: Belongs to the sodium:dicarboxylate (SDF) symporter
+    (TC 2.A.23) family.
+Glycoprotein; Membrane; Symport; Transmembrane; Transport.
+TMTEN

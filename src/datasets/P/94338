@@ -1,0 +1,29 @@
+AC   P75957; Q9R7N6;
+Lipoprotein-releasing system ATP-binding protein lolD (EC 3.6.3.-).
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"A new ABC transporter mediating the detachment of lipid-modified
+proteins from membranes.";
+"Disruption of lolCDE, encoding an ATP-binding cassette transporter,
+is lethal for Escherichia coli and prevents release of lipoproteins
+from the inner membrane.";
+-!- FUNCTION: Part of the ABC transporter complex lolCDE involved in
+    the translocation of mature outer membrane-directed lipoproteins,
+    from the inner membrane to the periplasmic chaperone, lolA.
+    Responsible for the formation of the lolA-lipoprotein complex in
+    an ATP-dependent manner. Such a release is dependent of the
+    sorting-signal (absence of an Asp at position 2 of the mature
+    lipoprotein) and of lolA.
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (lolD) and two transmembrane proteins (lolC and lolE).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. Lipoprotein
+    translocase (TC 3.A.1.125) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Direct protein sequencing; Hydrolase;
+Inner membrane; Membrane; Nucleotide-binding; Transport.
+TMZERO

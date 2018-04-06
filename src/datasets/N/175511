@@ -1,0 +1,27 @@
+AC   P35326;
+Small proline-rich protein 2A (SPR-2A) (2-1).
+"Characterization of the human spr2 promoter: induction after UV
+irradiation or TPA treatment and regulation during differentiation of
+cultured primary keratinocytes.";
+"Molecular characterization and evolution of the SPRR family of
+keratinocyte differentiation markers encoding small proline-rich
+proteins.";
+-!- FUNCTION: Cross-linked envelope protein of keratinocytes. It is a
+    keratinocyte protein that first appears in the cell cytosol, but
+    ultimately becomes cross-linked to membrane proteins by
+    transglutaminase. All that results in the formation of an
+    insoluble envelope beneath the plasma membrane.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- INDUCTION: During squamous differentiation of epidermal
+    keratinocytes.
+-!- SIMILARITY: Belongs to the cornifin (SPRR) family.
+ GO:0001533; C:cornified envelope; NAS:UniProtKB.
+ GO:0005737; C:cytoplasm; IDA:UniProtKB.
+ GO:0005488; F:binding; IDA:UniProtKB.
+ GO:0005198; F:structural molecule activity; TAS:UniProtKB.
+ GO:0007566; P:embryo implantation; TAS:UniProtKB.
+ GO:0008544; P:epidermis development; NAS:UniProtKB.
+ GO:0030216; P:keratinocyte differentiation; NAS:UniProtKB.
+ GO:0042698; P:menstrual cycle; TAS:UniProtKB.
+Keratinization; Repeat; Structural protein.
+TMZERO

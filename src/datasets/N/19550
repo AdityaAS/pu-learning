@@ -1,0 +1,28 @@
+AC   Q4VIT5;
+Calreticulin precursor.
+"A mutant cell with a novel defect in MHC class I quality control.";
+-!- FUNCTION: Molecular calcium binding chaperone promoting folding,
+    oligomeric assembly and quality control in the ER via the
+    calreticulin/calnexin cycle. This lectin interacts transiently
+    with almost all of the monoglucosylated glycoproteins that are
+    synthesized in the ER. Interacts with the DNA-binding domain of
+    NR3C1 and mediates its nuclear export (By similarity).
+-!- SUBUNIT: Monomer. Interacts with PDIA3/ERp57 and with NR3C1 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    lumen (By similarity).
+-!- DOMAIN: Can be divided into a N-terminal globular domain, a
+    proline-rich P-domain forming an elongated arm-like structure and
+    a C-terminal acidic domain. The P-domain binds one molecule of
+    calcium with high affinity, whereas the acidic C-domain binds
+    multiple calcium ions with low affinity (By similarity).
+-!- DOMAIN: The interaction with glycans occurs through a binding site
+    in the globular lectin domain (By similarity).
+-!- DOMAIN: The zinc binding sites are localized to the N-domain (By
+    similarity).
+-!- DOMAIN: Associates with PDIA3 through the tip of the extended arm
+    formed by the P-domain (By similarity).
+-!- SIMILARITY: Belongs to the calreticulin family.
+Calcium; Chaperone; Endoplasmic reticulum; Lectin; Metal-binding;
+Repeat; Signal; Zinc.
+TMZERO

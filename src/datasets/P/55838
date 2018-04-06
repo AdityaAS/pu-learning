@@ -1,0 +1,12 @@
+AC   P0A1L2; P54699;
+Flagellar protein fliO.
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the fliO/mopB family.
+Chemotaxis; Complete proteome; Flagellar rotation; Flagellum;
+Membrane; Transmembrane.
+TMONE

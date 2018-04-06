@@ -1,0 +1,53 @@
+AC   P06881; Q93048; Q9UCP0;
+Calcitonin gene-related peptide 1 precursor (Calcitonin gene-related
+peptide I) (CGRP-I) (Alpha-type CGRP).
+"Alternative RNA processing events in human calcitonin/calcitonin
+gene-related peptide gene expression.";
+"Structure and methylation of the human calcitonin/alpha-CGRP gene.";
+"Structure and expression of a gene encoding human calcitonin and
+calcitonin gene related peptide.";
+"Expression of the human calcitonin/CGRP gene in lung and thyroid
+carcinoma.";
+"Calcitonin gene related peptide coding sequence is conserved in the
+human genome and is expressed in medullary thyroid carcinoma.";
+"Expression and function of the human calcitonin/alpha-CGRP gene in
+health and disease.";
+"Isolation and characterization of human calcitonin gene-related
+peptide.";
+"Identification in the human central nervous system, pituitary, and
+thyroid of a novel calcitonin gene-related peptide, and partial amino
+acid sequence in the spinal cord.";
+"Isolation and characterization of peptides which act on rat
+platelets, from a pheochromocytoma.";
+"Solution structure of human calcitonin gene-related peptide by 1H NMR
+and distance geometry with restrained molecular dynamics.";
+"Solution structures of calcitonin-gene-related-peptide analogues of
+calcitonin-gene-related peptide and amylin.";
+-!- FUNCTION: CGRP induces vasodilation. It dilates a variety of
+    vessels including the coronary, cerebral and systemic vasculature.
+    Its abundance in the CNS also points toward a neurotransmitter or
+    neuromodulator role. It also elevates platelet cAMP.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=3;
+      IsoId=P06881-1; Sequence=Displayed;
+    Name=1;
+      IsoId=P01258-1; Sequence=External;
+    Name=2;
+      IsoId=P01258-2; Sequence=External;
+-!- SIMILARITY: Belongs to the calcitonin family.
+ GO:0005783; C:endoplasmic reticulum; TAS:ProtInc.
+ GO:0005615; C:extracellular space; TAS:ProtInc.
+ GO:0005625; C:soluble fraction; TAS:ProtInc.
+ GO:0005102; F:receptor binding; TAS:ProtInc.
+ GO:0007190; P:adenylate cyclase activation; TAS:ProtInc.
+ GO:0008217; P:blood pressure regulation; NAS:UniProtKB.
+ GO:0007267; P:cell-cell signaling; TAS:ProtInc.
+ GO:0007204; P:elevation of cytosolic calcium ion concentr...; TAS:ProtInc.
+ GO:0007188; P:G-protein signaling, coupled to cAMP nucleo...; TAS:ProtInc.
+ GO:0007202; P:phospholipase C activation; TAS:ProtInc.
+ GO:0001501; P:skeletal development; TAS:ProtInc.
+3D-structure; Alternative splicing; Amidation;
+Cleavage on pair of basic residues; Direct protein sequencing;
+Hormone; Signal.
+TMZERO

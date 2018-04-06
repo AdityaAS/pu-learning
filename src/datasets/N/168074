@@ -1,0 +1,21 @@
+AC   Q6FAQ2;
+Crossover junction endodeoxyribonuclease ruvC (EC 3.1.22.4) (Holliday
+junction nuclease ruvC) (Holliday junction resolvase ruvC).
+"Unique features revealed by the genome sequence of Acinetobacter sp.
+ADP1, a versatile and naturally transformation competent bacterium.";
+-!- FUNCTION: Nuclease that resolves Holliday junction intermediates
+    in genetic recombination. Cleaves the cruciform structure in
+    supercoiled DNA by nicking to strands with the same polarity at
+    sites symmetrically opposed at the junction in the homologous arms
+    and leaves a 5'-terminal phosphate and a 3'-terminal hydroxyl
+    group (By similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage at a junction such as
+    a reciprocal single-stranded crossover between two homologous DNA
+    duplexes (Holliday junction).
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the ruvC family.
+ GO:0008821; F:crossover junction endodeoxyribonuclease ac...; IEA:HAMAP.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Complete proteome; DNA damage; DNA recombination; DNA repair;
+Hydrolase; Magnesium; Metal-binding; Nuclease.
+TMZERO

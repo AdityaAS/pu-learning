@@ -1,0 +1,34 @@
+AC   P54715;
+PTS system maltose-specific EIICB component [Includes: Maltose
+permease IIC component (PTS system maltose-specific EIIC component);
+Maltose-specific phosphotransferase enzyme IIB component (EC 2.7.1.69)
+(PTS system maltose-specific EIIB component)].
+"Determination of a 12 kb nucleotide sequence around the 76 degrees
+region of the Bacillus subtilis chromosome.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Regulation of the glv operon in Bacillus subtilis: YfiA (GlvR) is a
+positive regulator of the operon that is repressed through CcpA and
+cre.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in maltose transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- INDUCTION: By maltose; repressed by glucose.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-1 domain.
+Complete proteome; Membrane; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase;
+Transmembrane; Transport.
+TMTWELVE

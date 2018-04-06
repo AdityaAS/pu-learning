@@ -1,0 +1,28 @@
+AC   Q9UGP8; O95380; Q86VS9; Q8IWL0; Q9NTE0;
+Translocation protein SEC63 homolog.
+"Molecular characterization of a novel mammalian DnaJ-like Sec63p
+homolog.";
+"Mammalian Sec61 is associated with Sec62 and Sec63.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Mutations in SEC63 cause autosomal dominant polycystic liver
+disease.";
+-!- FUNCTION: Required for integral membrane and secreted preprotein
+    translocation across the endoplasmic reticulum membrane.
+-!- SUBUNIT: Part of the multicomponent translocon that contains the
+    trimeric SEC61 complex, SEC62 and SEC63.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Widely expressed, with high levels in the
+    liver.
+-!- DISEASE: Defects in SEC63 are a cause of autosomal dominant
+    polycystic liver disease (PCLD) [MIM:174050].
+-!- SIMILARITY: Contains 1 J domain.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SEC63".
+ GO:0005783; C:endoplasmic reticulum; TAS:ProtInc.
+ GO:0004872; F:receptor activity; TAS:ProtInc.
+ GO:0006612; P:protein targeting to membrane; TAS:ProtInc.
+Chaperone; Disease mutation; Endoplasmic reticulum; Membrane;
+Microsome; Protein transport; Transmembrane; Transport.
+THTHREE

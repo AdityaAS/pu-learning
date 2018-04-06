@@ -1,0 +1,33 @@
+AC   Q7XBQ9; Q7XA18; Q7XA41;
+Disease resistance protein RGA2 (RGA2-blb) (Blight resistance protein
+RPI).
+"Gene RB cloned from Solanum bulbocastanum confers broad spectrum
+resistance to potato late blight.";
+"An ancient R gene from the wild potato species Solanum bulbocastanum
+confers broad-spectrum resistance to Phytophthora infestans in
+cultivated potato and tomato.";
+-!- FUNCTION: Disease resistance protein. Resistance proteins guard
+    the plant against pathogens that contain an appropriate avirulence
+    protein via a direct or indirect interaction with this avirulence
+    protein. That triggers a defense system which restricts the
+    pathogen growth. Confers a broad resistance to all known races of
+    P.infestans.
+-!- INDUCTION: Constitutively expressed.
+-!- BIOTECHNOLOGY: Can be introduced into cultivated potato
+    (S.tuberosum) or tomato (L.esculentum) to transfer a broad-
+    spectrum late blight resistance to cultivated Solanaceae from
+    sexually incompatible host species.
+-!- MISCELLANEOUS: Belongs to a four-gene family located at the same
+    locus. Although the four genes are expressed in the resistant
+    haplotype, only RGA2 confers the resistance to P.infestans. In the
+    susceptible haplotype, RGA1 and RGA3 are likely to be pseudogenes
+    created by deletions and mutations, while RGA2 contains also
+    several modifications.
+-!- SIMILARITY: Belongs to the disease resistance NB-LRR family.
+-!- SIMILARITY: Contains 14 LRR (leucine-rich) repeats.
+-!- SIMILARITY: Contains 1 NB-ARC domain.
+-!- CAUTION: Ref.1 (AAP45164 and AAP45188) sequences differ from that
+    shown due to erroneous gene model prediction.
+ATP-binding; Leucine-rich repeat; Nucleotide-binding; Plant defense;
+Repeat.
+TMZERO

@@ -1,0 +1,13 @@
+AC   P57965;
+NADH pyrophosphatase (EC 3.6.1.22).
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- CATALYTIC ACTIVITY: NAD(+) + H(2)O = AMP + NMN.
+-!- COFACTOR: Divalent ions. Magnesium or manganese (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the Nudix hydrolase family. NudC subfamily.
+ GO:0016818; F:hydrolase activity, acting on acid anhydrid...; IEA:HAMAP.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0030145; F:manganese ion binding; IEA:HAMAP.
+ GO:0000210; F:NAD+ diphosphatase activity; IEA:EC.
+Complete proteome; Hydrolase; Magnesium; Manganese; NAD.
+TMZERO

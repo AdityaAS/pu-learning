@@ -1,0 +1,70 @@
+AC   P49821; O60924; O60940; Q16104; Q96BF8; Q96HS7;
+NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial
+precursor (EC 1.6.5.3) (EC 1.6.99.3) (NADH-ubiquinone oxidoreductase
+51 kDa subunit) (Complex I-51kD) (CI-51kD) (NADH dehydrogenase
+flavoprotein 1).
+"The structure of the human NDUFV1 gene encoding the 51-kDa subunit of
+mitochondrial complex I.";
+"Cloning of the human mitochondrial 51 kDa subunit (NDUFV1) reveals a
+100% antisense homology of its 3'UTR with the 5'UTR of the gamma-
+interferon inducible protein (IP-30) precursor: is this a link between
+mitochondrial myopathy and inflammation?";
+"Gene expression profiling in the human hypothalamus-pituitary-adrenal
+axis and full-length cDNA cloning.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The human mitochondrial NADH: ubiquinone oxidoreductase 51-kDa
+subunit maps adjacent to the glutathione S-transferase P1-1 gene on
+chromosome 11q13.";
+"Chromosomal localization of the human gene encoding the 51-kDa
+subunit of mitochondrial complex I (NDUFV1) to 11q13.";
+"Mutant NDUFV1 subunit of mitochondrial complex I causes
+leukodystrophy and myoclonic epilepsy.";
+"Large-scale deletion and point mutations of the nuclear NDUFV1 and
+NDUFS1 genes in mitochondrial complex I deficiency.";
+-!- FUNCTION: Transfer of electrons from NADH to the respiratory
+    chain. The immediate electron acceptor for the enzyme is believed
+    to be ubiquinone.
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- CATALYTIC ACTIVITY: NADH + acceptor = NAD(+) + reduced acceptor.
+-!- COFACTOR: Binds 1 FMN (Potential).
+-!- COFACTOR: Binds 1 4Fe-4S cluster (Potential).
+-!- SUBUNIT: Complex I is composed of 45 different subunits. This is a
+    component of the flavoprotein-sulfur (FP) fragment of the enzyme.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    peripheral membrane protein; matrix side.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=P49821-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P49821-2; Sequence=VSP_003730;
+      Note=No experimental confirmation available;
+-!- DISEASE: Defects in NDUFV1 are a cause of Alexander disease
+    [MIM:203450]. Alexander disease is characterized clinically by
+    development of megalencephaly in infancy accompanied by
+    progressive spasticity and dementia.
+-!- DISEASE: Defects in NDUFV1 are a cause of Leigh syndrome (LS)
+    [MIM:256000]. LS is a severe neurological disorder characterized
+    by bilaterally symmetrical necrotic lesions in subcortical brain
+    regions.
+-!- DISEASE: Defects in NDUFV1 are a cause of complex I mitochondrial
+    respiratory chain deficiency [MIM:252010]. Complex I (NADH-
+    ubiquinone oxidoreductase), the largest complex of the
+    mitochondrial respiratory chain, contains more than 40 subunits.
+    It is embedded in the inner mitochondrial membrane and is partly
+    protruding in the matrix. Complex I deficiency is the most common
+    cause of mitochondrial disorders. It represents largely one-third
+    of all cases of respiratory chain deficiency and is responsible
+    for a variety of clinical symptoms, ranging from neurological
+    disorders to cardiomyopathy, liver failure, and myopathy.
+-!- SIMILARITY: Belongs to the complex I 51 kDa subunit family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=NDUFV1".
+ GO:0005743; C:mitochondrial inner membrane; NAS:ProtInc.
+ GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; TAS:ProtInc.
+4Fe-4S; Acetylation; Alternative splicing; Disease mutation;
+Flavoprotein; FMN; Iron; Iron-sulfur; Leigh syndrome; Metal-binding;
+Mitochondrion; NAD; Oxidoreductase; Polymorphism; Transit peptide;
+Ubiquinone.
+TMZERO

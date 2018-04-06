@@ -1,0 +1,14 @@
+AC   P38662;
+Lectin [Contains: Lectin alpha chain; Lectin beta chain].
+"The complete primary structure of a unique mannose/glucose-specific
+lectin from field bean (Dolichos lab lab).";
+-!- FUNCTION: D-mannose/D-glucose-binding lectin. Requires Ca(2+) and
+    Mn(2+) ions for full activity.
+-!- SUBUNIT: Tetramer of two alpha and two beta chains.
+-!- PTM: The N-terminus of alpha chain is blocked. The alpha and beta
+    chains are produced by proteolytic processing, with probably the
+    loss of intervening amino acid(s).
+-!- SIMILARITY: Belongs to the leguminous lectin family.
+Calcium; Direct protein sequencing; Glycoprotein; Lectin; Manganese;
+Metal-binding.
+TMZERO

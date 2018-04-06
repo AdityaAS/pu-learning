@@ -1,0 +1,11 @@
+AC   Q7MQ06;
+D-tyrosyl-tRNA(Tyr) deacylase (EC 3.1.-.-).
+"Comparative genome analysis of Vibrio vulnificus, a marine
+pathogen.";
+-!- FUNCTION: Hydrolyzes D-tyrosyl-tRNA(Tyr) into D-tyrosine and free
+    tRNA(Tyr). Could be a defense mechanism against a harmful effect
+    of D-tyrosine (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the DTD family.
+Complete proteome; Hydrolase.
+TMZERO

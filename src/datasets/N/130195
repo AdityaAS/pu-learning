@@ -1,0 +1,13 @@
+AC   P84371;
+Pyrokinin-6 (Psefo-PK-6) (FXPRL-amide).
+"Peptidomics of neurohemal organs from species of the cockroach family
+Blattidae: how do neuropeptides of closely related species differ?";
+-!- FUNCTION: Myoactive (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed in the brain, suboesophageal
+    ganglion and in the retrocerebral complex (mainly corpora allata).
+-!- MASS SPECTROMETRY: MW=1540.8; METHOD=MALDI; RANGE=1-14;
+    NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the pyrokinin family.
+Amidation; Direct protein sequencing; Neuropeptide.
+TMZERO

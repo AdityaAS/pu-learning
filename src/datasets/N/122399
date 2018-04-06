@@ -1,0 +1,28 @@
+AC   Q9NRJ7; Q8IYD5; Q96SE9; Q9HCF1;
+Protocadherin beta 16 precursor (PCDH-beta16) (Protocadherin 3X).
+"The human and murine protocadherin-beta one-exon gene families show
+high evolutionary conservation, despite the difference in gene
+number.";
+"Comparative DNA sequence analysis of mouse and human protocadherin
+gene clusters.";
+"Prediction of the coding sequences of unidentified human genes.
+XVIII. The complete sequences of 100 new cDNA clones from brain which
+code for large proteins in vitro.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Exploring proteomes and analyzing protein processing by mass
+spectrometric identification of sorted N-terminal peptides.";
+-!- FUNCTION: Potential calcium-dependent cell-adhesion protein. May
+    be involved in the establishment and maintenance of specific
+    neuronal connections in the brain.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (By similarity).
+-!- SIMILARITY: Contains 6 cadherin domains.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0005515; F:protein binding; NAS:UniProtKB.
+ GO:0016339; P:calcium-dependent cell-cell adhesion; NAS:UniProtKB.
+ GO:0007268; P:synaptic transmission; TAS:UniProtKB.
+ GO:0007416; P:synaptogenesis; TAS:UniProtKB.
+Calcium; Cell adhesion; Direct protein sequencing; Glycoprotein;
+Membrane; Polymorphism; Repeat; Signal; Transmembrane.
+TMONE

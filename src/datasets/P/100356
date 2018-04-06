@@ -1,0 +1,27 @@
+AC   P28635;
+D-methionine-binding lipoprotein metQ precursor.
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+4.0 - 6.0 min (189,987 - 281,416bp) region.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification, cloning, and characterization of rcsF, a new
+regulator gene for exopolysaccharide synthesis that suppresses the
+division mutation ftsZ84 in Escherichia coli K-12.";
+"The metD D-methionine transporter locus of Escherichia coli is an ABC
+transporter gene cluster.";
+-!- FUNCTION: This protein is a component of a D-methionine permease,
+    a binding protein-dependent, ATP-driven transport system.
+-!- INTERACTION:
+    P0A6Y8:dnaK; NbExp=1; IntAct=EBI-1114713, EBI-542092;
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Probable).
+-!- MISCELLANEOUS: The metNIQ system is also to be able to transport
+    the toxic methionine analog alpha-methyl-methionine.
+-!- SIMILARITY: Belongs to the nlpA lipoprotein family.
+-!- CAUTION: Ref.6 sequence differs from that shown in position 217
+    onward due to a frameshift.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Amino-acid transport; Complete proteome; Lipoprotein; Membrane;
+Palmitate; Signal; Transport.
+TMZERO

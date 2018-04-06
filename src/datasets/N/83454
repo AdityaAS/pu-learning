@@ -1,0 +1,22 @@
+AC   Q59S66;
+Spindle assembly checkpoint kinase (EC 2.7.11.1) (Aurora kinase).
+"The diploid genome sequence of Candida albicans.";
+-!- FUNCTION: Required for high-fidelity chromosome segregation during
+    the later part of each cell cycle. Acts in opposition to the
+    phosphatase PP1. Has a role in attaching the kinetochores to the
+    microtubules and ensuring that sister kinetochores connect to
+    opposite poles. The promotion of bi-orientation is achieved by
+    selectively detaching kinetochore-microtubule attachments that are
+    not under tension (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Spindle (By
+    similarity). Kinetochore (By similarity). Note=Associates with the
+    mitotic spindle and on elongated and disassembling spindles. Also
+    associated with the kinetochore (By similarity).
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. Aurora
+    subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ATP-binding; Cell cycle; Chromosome partition; Kinase;
+Nuclear protein; Nucleotide-binding; Serine/threonine-protein kinase;
+Transferase.
+TMZERO

@@ -1,0 +1,35 @@
+AC   O52475;
+Photosystem I P700 chlorophyll a apoprotein A2 (PsaB).
+"Molecular cloning of the psaA and psaB genes for the core proteins of
+photosystem I from the thermophilic cyanobacterium Mastigocladus
+laminosus.";
+-!- FUNCTION: PsaA and psaB bind P700, the primary electron donor of
+    photosystem I (PSI), as well as the electron acceptors A0, A1 and
+    FX. PSI is a plastocyanin/cytochrome c6-ferredoxin oxidoreductase,
+    converting photonic excitation into a charge separation, which
+    transfers an electron from the donor P700 chlorophyll pair to the
+    spectroscopically characterized acceptors A0, A1, FX, FA and FB in
+    turn. Oxidized P700 is reduced on the lumenal side of the
+    thylakoid membrane by plastocyanin or cytochrome c6.
+-!- COFACTOR: PSI electron transfer chain: 5 chlorophyll a, 1
+    chlorophyll a', 2 phylloquinones and 3 4Fe-4S clusters. PSI core
+    antenna: 90 chlorophyll a, 22 carotenoids, 3 phospholipids and 1
+    galactolipid. P700 is a chlorophyll a/chlorophyll a' dimer, A0 is
+    one or more chlorophyll a, A1 is one or both phylloquinones and FX
+    is a shared 4Fe-4S iron-sulfur center (By similarity).
+-!- SUBUNIT: The psaA/B heterodimer binds the P700 chlorophyll special
+    pair and subsequent electron acceptors. PSI consists of a core
+    antenna complex that captures photons, and an electron transfer
+    chain that converts photonic excitation into a charge separation.
+    The cyanobacterial PSI reaction center is composed of one copy
+    each of psaA,B,C,D,E,F,I,J,K,L,M and X, and forms trimeric
+    complexes (By similarity).
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; multi-pass
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the psaA/psaB family.
+ GO:0009055; F:electron carrier activity; IEA:HAMAP.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+4Fe-4S; Chlorophyll; Chromophore; Electron transport; Iron;
+Iron-sulfur; Magnesium; Membrane; Metal-binding; Photosynthesis;
+Photosystem I; Thylakoid; Transmembrane; Transport.
+TMELEVEN

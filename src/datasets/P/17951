@@ -1,0 +1,13 @@
+AC   P54104;
+Branched-chain amino acid transport system carrier protein (Branched-
+chain amino acid uptake carrier).
+"Cloning and characterization of brnQ, a gene encoding a low-affinity,
+branched-chain amino acid carrier in Lactobacillus delbruckii subsp.
+lactis DSM7290.";
+-!- FUNCTION: Component of the transport system for branched-chain
+    amino acids (leucine, isoleucine and valine) Which is coupled to a
+    proton motive force.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the braC/braZ/brnQ transporter family.
+Amino-acid transport; Membrane; Transmembrane; Transport.
+TMTWELVE

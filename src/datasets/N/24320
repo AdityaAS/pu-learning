@@ -1,0 +1,12 @@
+AC   Q983S3;
+10 kDa chaperonin 4 (Protein Cpn10 4) (groES protein 4).
+"Complete genome structure of the nitrogen-fixing symbiotic bacterium
+Mesorhizobium loti.";
+-!- FUNCTION: Binds to Cpn60 in the presence of Mg-ATP and suppresses
+    the ATPase activity of the latter.
+-!- SUBUNIT: Heptamer of 7 subunits arranged in a ring (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the groES chaperonin family.
+Chaperone; Complete proteome.
+TMZERO

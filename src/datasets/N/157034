@@ -1,0 +1,26 @@
+AC   P60198; Q9A056;
+Ribonuclease Z (EC 3.1.26.11) (RNase Z) (tRNase Z) (tRNA 3
+endonuclease).
+"Genome sequence of a serotype M3 strain of group A Streptococcus:
+phage-encoded toxins, the high-virulence phenotype, and clone
+emergence.";
+"Genome sequence of an M3 strain of Streptococcus pyogenes reveals a
+large-scale genomic rearrangement in invasive strains and new insights
+into phage evolution.";
+-!- FUNCTION: Zinc phosphodiesterase, which displays some tRNA 3'-
+    processing endonuclease activity. Probably involved in tRNA
+    maturation, by removing a 3' trailer from precursor tRNA (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of RNA, removing
+    extra 3' nucleotides from tRNA precursor, generating 3' termini of
+    tRNAs. A 3'-hydroxy group is left at the tRNA terminus and a 5'-
+    phosphoryl group is left at the trailer molecule.
+-!- COFACTOR: Binds 2 zinc ions (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the RNase Z family.
+ GO:0042781; F:3'-tRNA processing endoribonuclease activity; IEA:HAMAP.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+ GO:0008033; P:tRNA processing; IEA:HAMAP.
+Complete proteome; Endonuclease; Hydrolase; Metal-binding; Nuclease;
+tRNA processing; Zinc.
+TMZERO

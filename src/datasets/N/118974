@@ -1,0 +1,19 @@
+AC   Q9VT20;
+Putative odorant receptor 67b.
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Probable role in the odorant response, being an odorant
+    receptor.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the G-protein coupled receptor Dr-or
+    family.
+ GO:0016021; C:integral to membrane; ISS:UniProtKB.
+ GO:0004984; F:olfactory receptor activity; ISS:UniProtKB.
+ GO:0007186; P:G-protein coupled receptor protein signalin...; ISS:UniProtKB.
+ GO:0007608; P:sensory perception of smell; ISS:UniProtKB.
+Complete proteome; G-protein coupled receptor; Glycoprotein;
+Hypothetical protein; Membrane; Olfaction; Receptor;
+Sensory transduction; Transducer; Transmembrane.
+TMSEVEN

@@ -1,0 +1,41 @@
+AC   P91679; O77281; Q7KVX8; Q8IRT2; Q95TX0; Q9TY25; Q9TY26; Q9W4P7;
+AC   Q9W4P8;
+Oligopeptide transporter 1 (Protein YIN).
+"Genes expressed in neurons of adult male Drosophila.";
+"The opt1 gene of Drosophila melanogaster encodes a proton-dependent
+dipeptide transporter.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: Important role in absorbtion of dietary peptides. High-
+    affinity transporter of alanylalanine. Dipeptide transport
+    activity is proton dependent.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=48.8 uM for alanylalanine;
+    pH dependence:
+      Optimum pH is 6;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=A;
+      IsoId=P91679-1; Sequence=Displayed;
+    Name=B;
+      IsoId=P91679-2; Sequence=VSP_015662;
+    Name=C;
+      IsoId=P91679-3; Sequence=VSP_015663;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Expressed in thorax and abdomen of females:
+    apical epithelial membranes of midgut, rectum, and reproductive
+    tract. Also expressed in neuropil of the central nervous system,
+    with elevated expression within the alpha- and beta-lobes of the
+    mushroom bodies.
+-!- DEVELOPMENTAL STAGE: Expressed both maternally and zygotically.
+-!- SIMILARITY: Belongs to the PTR2/POT transporter (TC 2.A.17)
+    family.
+ GO:0005887; C:integral to plasma membrane; IDA:FlyBase.
+ GO:0005427; F:proton-dependent oligopeptide transporter a...; IDA:FlyBase.
+Alternative splicing; Complete proteome; Membrane; Peptide transport;
+Protein transport; Transmembrane; Transport.
+TMTEN

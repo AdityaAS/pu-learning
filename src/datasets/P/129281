@@ -1,0 +1,19 @@
+AC   P32977;
+Porin O precursor.
+"Polyphosphate-selective porin OprO of Pseudomonas aeruginosa:
+expression, purification and sequence.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Anion specific, the binding site has higher affinity for
+    phosphate than chloride ions. Porin O has a higher affinity for
+    polyphosphates (tripolyphosphate and pyrophosphate) while porin P
+    has a higher affinity for orthophosphate.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- DEVELOPMENTAL STAGE: Expressed only during the stationary growth
+    phase.
+-!- INDUCTION: By phosphate starvation.
+-!- SIMILARITY: Belongs to the oprO/oprP family.
+Chloride; Complete proteome; Ion transport; Membrane; Outer membrane;
+Porin; Signal; Transmembrane; Transport.
+TMZERO

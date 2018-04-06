@@ -1,0 +1,13 @@
+AC   Q4UYN4;
+Betaine aldehyde dehydrogenase (EC 1.2.1.8) (BADH).
+"Comparative and functional genomic analyses of the pathogenicity of
+phytopathogen Xanthomonas campestris pv. campestris.";
+-!- CATALYTIC ACTIVITY: Betaine aldehyde + NAD(+) + H(2)O = betaine +
+    NADH.
+-!- PATHWAY: Amine and polyamine biosynthesis; betaine biosynthesis;
+    betaine from betaine aldehyde: single step [final step].
+-!- SIMILARITY: Belongs to the aldehyde dehydrogenase family.
+ GO:0008886; F:glyceraldehyde-3-phosphate dehydrogenase (N...; IEA:HAMAP.
+ GO:0019285; P:glycine betaine biosynthesis from choline; IEA:HAMAP.
+Complete proteome; NAD; Oxidoreductase.
+TMZERO

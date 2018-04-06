@@ -1,0 +1,17 @@
+AC   Q56953;
+Chelated iron transport system membrane protein yfeB.
+"An ABC transporter system of Yersinia pestis allows utilization of
+chelated iron by Escherichia coli SAB11.";
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: Part of an ATP-driven transport system yfeABCD for
+    chelated iron.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Nucleotide-binding; Transport.
+TMZERO

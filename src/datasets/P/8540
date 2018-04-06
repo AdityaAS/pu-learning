@@ -1,0 +1,25 @@
+AC   P56627; O88815;
+Aquaporin-9 (AQP-9).
+"Molecular characterization of a broad selectivity neutral solute
+channel.";
+"Cloning and functional expression of rAQP9L a new member of aquaporin
+family from rat liver.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Forms a channel with a broad specificity. Mediates
+    passage of a wide variety of non-charged solutes including
+    carbamides, polyols, purines, and pyrimidines in a phloretin- and
+    mercury-sensitive manner, whereas amino acids, cyclic sugars,
+    Na(+), K(+), Cl(-), and deprotonated monocarboxylates are
+    excluded. Also permeable to urea but not to glycerol.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+ GO:0016323; C:basolateral plasma membrane; IDA:RGD.
+ GO:0015250; F:water channel activity; IDA:RGD.
+ GO:0015722; P:canalicular bile acid transport; IDA:RGD.
+ GO:0006833; P:water transport; IDA:RGD.
+Membrane; Repeat; Transmembrane; Transport.
+TMSIX

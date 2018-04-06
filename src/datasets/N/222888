@@ -1,0 +1,10 @@
+AC   Q10328;
+Putative homeobox protein C32A11.03c.
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0003700; F:transcription factor activity; TAS:GeneDB_SPombe.
+ GO:0006355; P:regulation of transcription, DNA-dependent; IGI:GeneDB_SPombe.
+Complete proteome; DNA-binding; Homeobox; Nuclear protein.
+TMZERO

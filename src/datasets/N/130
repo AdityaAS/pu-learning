@@ -1,0 +1,18 @@
+AC   Q91896; O57469;
+14-3-3 protein zeta.
+"Sequence and expression analysis of a Xenopus laevis cDNA which
+encodes a homologue of mammalian 14-3-3 zeta protein.";
+"14-3-3 proteins act as negative regulators of the mitotic inducer
+Cdc25 in Xenopus egg extracts.";
+-!- FUNCTION: Adapter protein implicated in the regulation of a large
+    spectrum of both general and specialized signaling pathway. Binds
+    to a large number of partners, usually by recognition of a
+    phosphoserine or phosphothreonine motif. Binding generally results
+    in the modulation of the activity of the binding partner.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: Present in all adult tissues examined with the
+    highest levels in the brain.
+-!- SIMILARITY: Belongs to the 14-3-3 family.
+Acetylation.
+TMZERO

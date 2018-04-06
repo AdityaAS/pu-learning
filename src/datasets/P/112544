@@ -1,0 +1,20 @@
+AC   P35113;
+Nopaline transport system permease protein nocM.
+"Opine transport genes in the octopine (occ) and nopaline (noc)
+catabolic regions in Ti plasmids of Agrobacterium tumefaciens.";
+"The genome of the natural genetic engineer Agrobacterium tumefaciens
+C58.";
+"Genome sequence of the plant pathogen and biotechnology agent
+Agrobacterium tumefaciens C58.";
+-!- FUNCTION: Component of the nopaline active transport system
+    probably consisting of four subunits: Q, M, P and T. This system
+    is also capable of transporting octopine provided that catabolic
+    functions are induced with nopaline.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Complete proteome; Inner membrane; Membrane; Plasmid; Transmembrane;
+Transport.
+TMFIVE

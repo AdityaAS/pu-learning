@@ -1,0 +1,21 @@
+AC   P09141;
+Alkanal monooxygenase beta chain (EC 1.14.14.3) (Bacterial luciferase
+beta chain).
+"Nucleotide sequence of part of Photobacterium leiognathi lux
+region.";
+"Nucleotide sequence of genes for alpha- and beta-subunits of
+luciferase from Photobacterium leiognathi.";
+"Isolation of bioluminescent functions from Photobacterium leiognathi:
+analysis of luxA, luxB, luxG and neighboring genes.";
+-!- FUNCTION: Light-emitting reaction in luminous bacteria. The
+    specific role of the beta subunit is unknown, but it is absolutely
+    required for bioluminescence activity.
+-!- CATALYTIC ACTIVITY: RCHO + reduced FMN + O(2) = RCOOH + FMN +
+    H(2)O + light.
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain.
+-!- SIMILARITY: Belongs to the bacterial luciferase oxidoreductase
+    family.
+ GO:0047646; F:alkanal monooxygenase (FMN-linked) activity; IEA:EC.
+Flavoprotein; FMN; Luminescence; Monooxygenase; Oxidoreductase;
+Photoprotein.
+TMZERO

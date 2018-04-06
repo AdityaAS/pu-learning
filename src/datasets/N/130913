@@ -1,0 +1,15 @@
+AC   Q5DU99;
+Plasmid recombination enzyme type 3 (Plasmid recombinase)
+(Mobilization protein).
+"Staphylococcal tetracycline-MLSB resistance plasmid pSTE2 is the
+product of an RSA-mediated in vivo recombination.";
+-!- FUNCTION: The interaction of the RSA site and the PRE protein may
+    not only serves a function in plasmid maintenance, but may also
+    contributes to the distribution of small antibiotic resistance
+    plasmids among Gram-positive bacteria (By similarity).
+-!- MISCELLANEOUS: Contains conserved positively charged amino acids
+    probably involved in the binding of the pre protein to the RSA
+    site (By similarity).
+-!- SIMILARITY: Belongs to the plasmid mobilization pre family.
+DNA-binding; Plasmid.
+TMZERO

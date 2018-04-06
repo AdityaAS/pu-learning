@@ -1,0 +1,26 @@
+AC   P69450; P00843; Q33180; Q6QY78; Q7G7F1; Q9XPT1;
+ATP synthase C chain (EC 3.6.3.14) (Lipid-binding protein) (ATPase
+subunit III).
+"The complete sequence of the rice (Oryza sativa) chloroplast genome:
+intermolecular recombination between distinct tRNA genes accounts for
+a major plastid DNA inversion during the evolution of the cereals.";
+"A comparison of rice chloroplast genomes.";
+"In-depth view of structure, activity, and evolution of rice
+chromosome 10.";
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: A stretch of the chloroplast genome is duplicated
+    within chromosome 10 resulting in the duplication of the gene. The
+    expression of these duplicated genes (Os10g0355100, Os10g0527100)
+    has not been demonstrated.
+-!- SIMILARITY: Belongs to the ATPase C chain family.
+ GO:0009536; C:plastid; IC:Gramene.
+CF(0); Chloroplast; Hydrogen ion transport; Ion transport;
+Lipid-binding; Membrane; Plastid; Transmembrane; Transport.
+TMTWO

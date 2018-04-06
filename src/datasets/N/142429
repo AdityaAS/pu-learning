@@ -1,0 +1,15 @@
+AC   Q9J7Z2;
+RNA-directed RNA polymerase (EC 2.7.7.48) (RdRp) (RNA replicase)
+(Protein A).
+"Characterization and construction of functional cDNA clones of
+Pariacoto virus, the first Alphanodavirus isolated outside
+Australasia.";
+-!- FUNCTION: Replicates the viral genome which is composed of two RNA
+    segments, RNA1 and RNA2.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SIMILARITY: Belongs to the nodaviruses RNA polymerase family.
+-!- SIMILARITY: Contains 1 RdRp catalytic domain.
+Nucleotide-binding; Nucleotidyltransferase; RNA replication;
+RNA-directed RNA polymerase; Transferase.
+TMZERO

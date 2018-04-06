@@ -1,0 +1,10 @@
+AC   O77526;
+Beta-2-microglobulin precursor.
+"Beta-2-microglobulin in neotropical primates (Platyrrhini).";
+-!- FUNCTION: Beta-2-microglobulin is the beta-chain of major
+    histocompatibility complex class I molecules.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Contains 1 Ig-like C1-type (immunoglobulin-like)
+    domain.
+Immune response; Immunoglobulin domain; MHC I; Signal.
+TMZERO

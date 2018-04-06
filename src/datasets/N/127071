@@ -1,0 +1,22 @@
+AC   Q94G00;
+Peptidyl-prolyl cis-trans isomerase 1 (EC 5.2.1.8) (Rotamase Pin1)
+(PPIase Pin1) (MdPin1).
+"Functional conservation of phosphorylation-specific prolyl isomerases
+in plants.";
+-!- FUNCTION: Prolyl cis/trans isomerase with specificity for phospho-
+    Ser-Pro bonds.
+-!- CATALYTIC ACTIVITY: Peptidylproline (omega=180) = peptidylproline
+    (omega=0).
+-!- ENZYME REGULATION: Inhibited in vitro by juglone.
+-!- DEVELOPMENTAL STAGE: Expressed in 1 to 3 week-old fruit but not in
+    mature fruit. Expression is tightly associated with cell division.
+-!- MISCELLANEOUS: Like all plant Pin1-type PPIases, do not contain
+    the N-terminal WW domain found in other eukaryotic parvulins, but
+    contains a four-amino acid insertion next to the phospho-specific
+    recognition site of the active site. These extra amino acids may
+    be important for mediating the substrate interaction of plant
+    enzymes.
+-!- SIMILARITY: Belongs to the ppiC/parvulin rotamase family.
+-!- SIMILARITY: Contains 1 PpiC domain.
+Isomerase; Rotamase.
+TMZERO

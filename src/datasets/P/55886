@@ -1,0 +1,12 @@
+AC   P54702;
+Flagellar biosynthetic protein fliR.
+"The FliO, FliP, FliQ, and FliR proteins of Salmonella typhimurium:
+putative components for flagellar assembly.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Role in flagellar biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the fliR/mopE/spaR family.
+Complete proteome; Flagellum; Inner membrane; Membrane; Transmembrane.
+TMFIVE

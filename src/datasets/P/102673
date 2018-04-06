@@ -1,0 +1,15 @@
+AC   P0AF07; P09349;
+Chemotaxis protein motB (Motility protein B).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Required for the rotation of the flagellar motor. Might
+    be a linker that fastens the torque-generating machinery to the
+    cell wall (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the motB family.
+-!- SIMILARITY: Contains 1 OmpA-like domain.
+Chemotaxis; Complete proteome; Flagellar rotation; Flagellum;
+Inner membrane; Membrane; Signal-anchor; Transmembrane.
+TMONE

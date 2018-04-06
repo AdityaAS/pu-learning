@@ -1,0 +1,25 @@
+AC   P49863;
+Granzyme K precursor (EC 3.4.21.-) (Granzyme-3) (NK-tryptase-2) (NK-
+TRYP-2) (Fragmentin-3).
+"Cloning of cDNA for human granzyme 3.";
+"Cloning and expression of a second human natural killer cell granule
+tryptase, HNK-Tryp-2/granzyme 3.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Characterization of three serine esterases isolated from human IL-2
+activated killer cells.";
+"Purification of three cytotoxic lymphocyte granule serine proteases
+that induce apoptosis through distinct substrate and target cell
+interactions.";
+"The 2.2-A crystal structure of human pro-granzyme K reveals a rigid
+zymogen with unusual features.";
+-!- SUBCELLULAR LOCATION: Secreted protein. Cytoplasmic granule.
+-!- TISSUE SPECIFICITY: Expressed in lung, spleen, thymus and
+    peripheral blood leukocytes.
+-!- SIMILARITY: Belongs to the peptidase S1 family. Granzyme
+    subfamily.
+-!- SIMILARITY: Contains 1 peptidase S1 domain.
+ GO:0008236; F:serine-type peptidase activity; TAS:ProtInc.
+3D-structure; Direct protein sequencing; Hydrolase; Protease;
+Serine protease; Signal; Zymogen.
+TMZERO

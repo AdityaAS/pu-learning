@@ -1,0 +1,12 @@
+AC   P72131; Q9R7G8;
+HTH-type transcriptional regulator ptxR.
+"Isolation and characterization of a Pseudomonas aeruginosa gene,
+ptxR, which positively regulates exotoxin A production.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Transcriptional activator of the toxA (exotoxin) and
+    regA genes.
+-!- SIMILARITY: Contains 1 HTH lysR-type DNA-binding domain.
+Activator; Complete proteome; DNA-binding; Transcription;
+Transcription regulation.
+TMZERO

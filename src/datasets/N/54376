@@ -1,0 +1,15 @@
+AC   Q8TAT2; Q8NBN0;
+Fibroblast growth factor-binding protein 3 precursor (FGF-binding
+protein 3) (FGF-BP3) (FGFBP-3).
+"Identification and characterization of a novel member of the
+fibroblast growth factor-binding protein family, FGF-BP3.";
+"HRI human cDNA sequencing project.";
+"The DNA sequence and comparative analysis of human chromosome 10.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBUNIT: Interacts with FGF1.
+-!- SUBCELLULAR LOCATION: Secreted protein (Probable).
+-!- SIMILARITY: Belongs to the fibroblast growth factor-binding
+    protein family.
+Growth factor binding; Polymorphism; Signal.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P37083;
+Sorbose permease IID component (PTS system sorbose-specific EIID
+component) (EIID-Sor).
+"Sequence of the sor-operon for L-sorbose utilization from Klebsiella
+pneumoniae KAY2026.";
+"Molecular analysis of the phosphoenolpyruvate-dependent L-sorbose:
+phosphotransferase system from Klebsiella pneumoniae and of its
+multidomain structure.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in sorbose transport.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- DOMAIN: The EIID domain, with its homologous EIIC domain, forms
+    the PTS system translocation channel and contains part of its
+    specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIID domain.
+Inner membrane; Membrane; Phosphotransferase system; Sugar transport;
+Transmembrane; Transport.
+TMSIX

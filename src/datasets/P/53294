@@ -1,0 +1,20 @@
+AC   P21409;
+Iron(III)-transport system permease protein sfuB.
+"Nucleotide sequences of the sfuA, sfuB, and sfuC genes of Serratia
+marcescens suggest a periplasmic-binding-protein-dependent iron
+transport mechanism.";
+-!- FUNCTION: Part of the ABC transporter complex fbpABC
+    (TC 3.A.1.10.1) involved in Fe(3+) ions import. Probably
+    responsible for the translocation of the substrate across the
+    membrane (By similarity).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (fbpC), two transmembrane proteins (fbpB) and a solute-binding
+    protein (fbpA) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. FbpB subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+Inner membrane; Ion transport; Iron; Iron transport; Membrane; Repeat;
+Transmembrane; Transport.
+TMTWELVE

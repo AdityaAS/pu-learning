@@ -1,0 +1,16 @@
+AC   P45419;
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+(EC 2.7.8.5) (Phosphatidylglycerophosphate synthase) (PGP synthase).
+"Global regulation of expression of antifungal factors by a
+Pseudomonas fluorescens biological control strain.";
+-!- FUNCTION: This protein catalyzes the committed step to the
+    synthesis of the acidic phospholipids (By similarity).
+-!- CATALYTIC ACTIVITY: CDP-diacylglycerol + sn-glycerol 3-phosphate =
+    CMP + 3(3-sn-phosphatidyl)-sn-glycerol 1-phosphate.
+-!- PATHWAY: Acidic phospholipids biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the CDP-alcohol phosphatidyltransferase
+    class-I family.
+Membrane; Phospholipid biosynthesis; Transferase; Transmembrane.
+TMFOUR

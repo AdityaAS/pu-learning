@@ -1,0 +1,21 @@
+AC   P80214;
+Bacteriocin plantaricin-A precursor.
+"The gene encoding plantaricin A, a bacteriocin from Lactobacillus
+plantarum C11, is located on the same transcription unit as an agr-
+like regulatory system.";
+"Characterization of the locus responsible for the bacteriocin
+production in Lactobacillus plantarum C11.";
+"Complete genome sequence of Lactobacillus plantarum WCFS1.";
+"Purification and characterization of plantaricin A, a Lactobacillus
+plantarum bacteriocin whose activity depends on the action of two
+peptides.";
+-!- FUNCTION: This heat stable bacteriocin inhibits the growth of
+    closely related Lactobacillus species. It may act as a pore-
+    forming protein, creating a channel in the cell membrane through a
+    "barrel stave" mechanism.
+-!- SUBUNIT: Active plantaricin A is composed of an alpha chain and a
+    beta chain.
+-!- MISCELLANEOUS: The beta chain sequence is shown.
+3D-structure; Antibiotic; Antimicrobial; Bacteriocin;
+Complete proteome; Direct protein sequencing.
+TMZERO

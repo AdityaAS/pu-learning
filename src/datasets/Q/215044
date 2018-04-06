@@ -1,0 +1,10 @@
+AC   Q9HZT7;
+UPF0059 membrane protein PA2910.
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the UPF0059 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMSIX

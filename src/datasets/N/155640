@@ -1,0 +1,15 @@
+AC   Q819V8;
+Ribonuclease III (EC 3.1.26.3) (RNase III).
+"Genome sequence of Bacillus cereus and comparative analysis with
+Bacillus anthracis.";
+-!- FUNCTION: Digests double-stranded RNA. Involved in the processing
+    of ribosomal RNA precursors and of some mRNAs (By similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+    phosphomonoester.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Contains 1 DRBM (double-stranded RNA-binding) domain.
+-!- SIMILARITY: Contains 1 RNase III domain.
+ GO:0006397; P:mRNA processing; IEA:HAMAP.
+ GO:0006364; P:rRNA processing; IEA:HAMAP.
+Complete proteome; Endonuclease; Hydrolase; Nuclease; RNA-binding.
+TMZERO

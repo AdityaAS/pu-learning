@@ -1,0 +1,24 @@
+AC   P46720;
+Solute carrier organic anion transporter family member 1A1 (Solute
+carrier family 21 member 1) (Sodium-independent organic anion
+transporter 1) (Organic anion-transporting polypeptide 1).
+"Expression cloning of a rat liver Na(+)-independent organic anion
+transporter.";
+"Interaction with PDZK1 is required for expression of organic anion
+transporting protein 1A1 on the hepatocyte surface.";
+-!- FUNCTION: Mediates the Na(+)-independent transport of organic
+    anions such as bromosulfobromophthalein (BSP) and conjugated
+    (taurocholate) and unconjugated (cholate) bile acids.
+-!- SUBUNIT: Binds to PDZK1. Interaction with PDZK1 is required for
+    expression on hepatocyte surface.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in liver and kidney, and at
+    lower levels in brain, lung, skeletal muscle and proximal colon.
+-!- PTM: Glycosylated.
+-!- SIMILARITY: Belongs to the organo anion transporter (TC 2.A.60)
+    family.
+ GO:0005887; C:integral to plasma membrane; TAS:RGD.
+ GO:0008514; F:organic anion transporter activity; IEP:RGD.
+ GO:0015711; P:organic anion transport; IEP:RGD.
+Glycoprotein; Ion transport; Membrane; Transmembrane; Transport.
+TMELEVEN

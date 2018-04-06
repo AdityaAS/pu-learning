@@ -1,0 +1,9 @@
+AC   P63294; P41521;
+Glucagon-like peptide (GLP).
+"The primary structure of glucagon-like peptide but not insulin has
+been conserved between the American eel, Anguilla rostrata and the
+European eel, Anguilla anguilla.";
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the glucagon family.
+Amidation; Direct protein sequencing.
+TMZERO

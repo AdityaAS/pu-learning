@@ -1,0 +1,30 @@
+AC   Q12171;
+Mitochondrial distribution and morphology protein 32, mitochondrial
+precursor.
+"Analysis of a 35.6 kb region on the right arm of Saccharomyces
+cerevisiae chromosome XV.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Genetic basis of mitochondrial function and morphology in
+Saccharomyces cerevisiae.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"Mdm31 and Mdm32 are inner membrane proteins required for maintenance
+of mitochondrial shape and stability of mitochondrial DNA nucleoids in
+yeast.";
+-!- FUNCTION: Involved in the organization of the mitochondrial
+    membranes and the global structure of the mitochondria. Also
+    required for mitochondrial distribution and mobility as well as
+    for the maintenance of mitochondrial DNA nucleoids structures.
+-!- SUBUNIT: Interacts with MDM31. Participates to a complex of about
+    175 kDa.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 10400 molecules/cell.
+ GO:0005743; C:mitochondrial inner membrane; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0006873; P:cell ion homeostasis; IMP:SGD.
+ GO:0000001; P:mitochondrion inheritance; IMP:SGD.
+ GO:0007005; P:mitochondrion organization and biogenesis; IMP:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Transit peptide; Transmembrane.
+TMTWO

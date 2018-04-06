@@ -1,0 +1,24 @@
+AC   O34741;
+Bacitracin export permease protein bceB.
+"Sequencing and functional annotation of the Bacillus subtilis genes
+in the 200 kb rrnB-dnaB region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"YtsCD and YwoA, two independent systems that confer bacitracin
+resistance to Bacillus subtilis.";
+"The BceRS two-component regulatory system induces expression of the
+bacitracin transporter, BceAB, in Bacillus subtilis.";
+"Cell wall stress responses in Bacillus subtilis: the regulatory
+network of the bacitracin stimulon.";
+-!- FUNCTION: Part of the ABC transporter complex bceAB
+    (TC 3.A.1.123.5) involved in bacitracin export.
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (bceA) and two transmembrane proteins (bceB) (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: Expression is induced by bacitracin, via the two-
+    component regulatory system bceS/bceR.
+-!- SIMILARITY: Belongs to the ABC-4 integral membrane protein family.
+Antibiotic resistance; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTEN

@@ -1,0 +1,22 @@
+AC   P60369; Q70LJ4;
+Keratin-associated protein 10-3 (Keratin-associated protein 10.3)
+(High sulfur keratin-associated protein 10.3) (Keratin-associated
+protein 18-3) (Keratin-associated protein 18.3).
+"A cluster of 21 keratin-associated protein genes within introns of
+another gene on human chromosome 21q22.3.";
+"The DNA sequence of human chromosome 21.";
+"Hair keratin associated proteins: characterization of a second high
+sulfur KAP gene domain on human chromosome 21.";
+-!- FUNCTION: In the hair cortex, hair keratin intermediate filaments
+    are embedded in an interfilamentous matrix, consisting of hair
+    keratin-associated proteins (KRTAP), which are essential for the
+    formation of a rigid and resistant hair shaft through their
+    extensive disulfide bond cross-linking with abundant cysteine
+    residues of hair keratins. The matrix proteins include the high-
+    sulfur and high-glycine-tyrosine keratins.
+-!- SUBUNIT: Interacts with hair keratins.
+-!- TISSUE SPECIFICITY: Restricted to hair root, not detected in any
+    other tissues.
+-!- SIMILARITY: Belongs to the KRTAP type 10 family.
+Keratin; Repeat.
+TMZERO

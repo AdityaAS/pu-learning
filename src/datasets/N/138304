@@ -1,0 +1,18 @@
+AC   Q71YI5;
+Orotate phosphoribosyltransferase (EC 2.4.2.10) (OPRT) (OPRTase).
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- CATALYTIC ACTIVITY: Orotidine 5'-phosphate + diphosphate = orotate
+    + 5-phospho-alpha-D-ribose 1-diphosphate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- PATHWAY: Nucleotide biosynthesis; UMP biosynthesis; UMP from
+    HCO(3)(-): step 5.
+-!- PATHWAY: Context: Pyrimidine biosynthesis.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the purine/pyrimidine
+    phosphoribosyltransferase family. PyrE subfamily.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Complete proteome; Glycosyltransferase; Magnesium;
+Pyrimidine biosynthesis; Transferase.
+TMZERO

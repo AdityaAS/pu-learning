@@ -1,0 +1,18 @@
+AC   P0AAE0; P39312; Q2M697;
+D-serine/D-alanine/glycine transporter.
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Permease that is involved in the transport across the
+    cytoplasmic membrane of D-alanine, D-serine and glycine.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Amino acid transporter (AAT) (TC 2.A.3.1) family.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,21 @@
+AC   Q8FMI4;
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+(MECPS) (MECDP-synthase).
+"Comparative complete genome sequence analysis of the amino acid
+replacements responsible for the thermostability of Corynebacterium
+efficiens.";
+-!- FUNCTION: Converts 4-diphosphocytidyl-2-C-methyl-D-erythritol 2-
+    phosphate into 2-C-methyl-D-erythritol 2,4-cyclodiphosphate
+    (MECDP) and CMP (By similarity).
+-!- CATALYTIC ACTIVITY: 2-phospho-4-(cytidine 5'-diphospho)-2-C-
+    methyl-D-erythritol = 2-C-methyl-D-erythritol 2,4-cyclodiphosphate
+    + CMP.
+-!- COFACTOR: Binds 1 divalent metal cation per subunit (By
+    similarity).
+-!- PATHWAY: Isoprenoid biosynthesis; isopentenyl-PP biosynthesis via
+    DXP pathway; isopentenyl-PP from 1-deoxy-D-xylulose 5-phosphate:
+    step 4.
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SIMILARITY: Belongs to the ispF family.
+Complete proteome; Isoprene biosynthesis; Lyase; Metal-binding.
+TMZERO

@@ -1,0 +1,14 @@
+AC   P13166;
+Polymerase acidic protein (RNA-directed RNA polymerase subunit P2).
+"Evolutionary pathways of the PA genes of influenza A viruses.";
+-!- FUNCTION: Implicated in endonuclease cleavage of capped RNA
+    primers. Displays an elongation factor activity in viral RNA
+    synthesis. Dispensable for viral transcription, but not
+    replication.
+-!- SUBUNIT: Influenza RNA polymerase is composed of three subunits:
+    PB1, PB2 and PA.
+-!- PTM: Phosphorylated on serines and threonines by host kinases,
+    including human casein kinase II (By similarity).
+-!- SIMILARITY: Belongs to the influenza viruses PA family.
+Phosphorylation.
+TMZERO

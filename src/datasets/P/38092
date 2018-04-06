@@ -1,0 +1,12 @@
+AC   P46024;
+Protective surface antigen D15 precursor (80 kDa D15 antigen) (D-15-
+Ag) (Outer membrane protein D15).
+"The sequencing of the 80-kDa D15 protective surface antigen of
+Haemophilus influenzae.";
+"Outer membrane protein D15 is conserved among Haemophilus influenzae
+species and may represent a universal protective antigen against
+invasive disease.";
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: Belongs to the surface antigen D15 family.
+Membrane; Outer membrane; Signal.
+TMZERO

@@ -1,0 +1,25 @@
+AC   O13967; Q96WS3;
+1,3-beta-glucan synthase component bgs2 (EC 2.4.1.34) (1,3-beta-D-
+glucan-UDP glucosyltransferase) (Meiotic expression up-regulated
+protein 21).
+"The genome sequence of Schizosaccharomyces pombe.";
+"Comprehensive isolation of meiosis-specific genes identifies novel
+proteins and unusual non-coding transcripts in Schizosaccharomyces
+pombe.";
+"bgs2+, a sporulation-specific glucan synthase homologue is required
+for proper ascospore wall maturation in fission yeast.";
+"Bgs2p, a 1,3-beta-glucan synthase subunit, is essential for
+maturation of ascospore wall in Schizosaccharomyces pombe.";
+-!- FUNCTION: Has a role in ascospore development where it is required
+    for the assembly of a functional spore wall.
+-!- CATALYTIC ACTIVITY: UDP-glucose + (1,3-beta-D-glucosyl)(n) = UDP +
+    (1,3-beta-D-glucosyl)(n+1).
+-!- SUBCELLULAR LOCATION: Forespore; forespore inner membrane; multi-
+    pass membrane protein.
+-!- INDUCTION: By sporulation.
+-!- SIMILARITY: Belongs to the glycosyltransferase 48 family.
+ GO:0005628; C:prospore membrane; IDA:GeneDB_SPombe.
+ GO:0030476; P:spore wall assembly (sensu Fungi); IMP:GeneDB_SPombe.
+Complete proteome; Glycosyltransferase; Meiosis; Membrane;
+Sporulation; Transferase; Transmembrane.
+TMSIXTEEN

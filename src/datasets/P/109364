@@ -1,0 +1,26 @@
+AC   P10903;
+Nitrite extrusion protein 1 (Nitrite facilitator 1).
+"The narK gene product participates in nitrate transport induced in
+Escherichia coli nitrate-respiring cells.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The narX and narL genes encoding the nitrate-sensing regulators of
+Escherichia coli are homologous to a family of prokaryotic two-
+component regulatory genes.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in excretion of nitrite produced by the
+    dissimilatory reduction of nitrate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By nitrate under anaerobic conditions.
+-!- MISCELLANEOUS: Since the transport is controlled by oxygen, five
+    Cys residues in narK may play an important role in sensing redox
+    potential to regulate the facilitator.
+-!- SIMILARITY: Belongs to the narK/nasA transporter family.
+Complete proteome; Inner membrane; Membrane; Nitrate assimilation;
+Transmembrane; Transport.
+TMTWELVE

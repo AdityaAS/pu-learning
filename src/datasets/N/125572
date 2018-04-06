@@ -1,0 +1,18 @@
+AC   P39671;
+Phosphoglucomutase (EC 5.4.2.2) (Glucose phosphomutase) (PGM).
+"A chromosomal cluster of genes encoding ADP-glucose synthetase,
+glycogen synthase and phosphoglucomutase in Agrobacterium
+tumefaciens.";
+"Biochemical characterization of avirulent exoC mutants of
+Agrobacterium tumefaciens.";
+-!- FUNCTION: This enzyme participates in both the breakdown and
+    synthesis of glucose. Required for the synthesis of capsular
+    polysaccharide and normal lipopolysaccharide.
+-!- CATALYTIC ACTIVITY: Alpha-D-glucose 1-phosphate = alpha-D-glucose
+    6-phosphate.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the phosphohexose mutase family.
+ GO:0004614; F:phosphoglucomutase activity; IEA:EC.
+Carbohydrate metabolism; Glucose metabolism; Isomerase; Magnesium;
+Metal-binding; Phosphorylation.
+TMZERO

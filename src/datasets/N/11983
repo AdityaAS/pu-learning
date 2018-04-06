@@ -1,0 +1,12 @@
+AC   Q93MH5;
+Acid shock protein precursor.
+"Molecular characterization of the acid-inducible asr gene of
+Escherichia coli and its role in acid stress response.";
+-!- FUNCTION: Required for growth and/or survival at acidic conditions
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- PTM: Proteolytic processing gives rise to the active protein (By
+    similarity).
+-!- SIMILARITY: Belongs to the asr family.
+Periplasmic; Signal.
+TMZERO

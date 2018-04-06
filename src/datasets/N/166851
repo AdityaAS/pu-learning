@@ -1,0 +1,20 @@
+AC   Q05856;
+Small nuclear ribonucleoprotein-associated protein B (snRNP-B) (Sm
+protein B) (Sm-B) (SmB).
+"Comparison of the Drosophila melanogaster, human and murine Sm B
+cDNAs: evolutionary conservation.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: May have a functional role in pre-mRNA splicing or in
+    snRNP structure.
+-!- INTERACTION:
+    Q9V6S8:CG13337; NbExp=1; IntAct=EBI-155615, EBI-172635;
+    Q9VSJ8:exo70; NbExp=1; IntAct=EBI-155615, EBI-107639;
+    Q9VMC0:osm-6; NbExp=1; IntAct=EBI-155615, EBI-100152;
+-!- SUBCELLULAR LOCATION: Nucleus.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Nuclear protein; Repeat; Ribonucleoprotein;
+RNA-binding.
+TMZERO

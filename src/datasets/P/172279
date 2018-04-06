@@ -1,0 +1,26 @@
+AC   Q9GZC8;
+Systemic RNA interference defective protein 1 precursor (Systemic RNAi
+enabling protein).
+"Systemic RNAi in C. elegans requires the putative transmembrane
+protein SID-1.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"Transport of dsRNA into cells by the transmembrane protein SID-1.";
+-!- FUNCTION: Required cell-autonomously for spread of dsRNA in
+    systemic RNA interference (RNAi) between tissues to silence gene
+    expression distant from the site of initiation. Not required to
+    initiate or maintain an RNAi response or for cell-autonomous RNAi.
+    Required for import of RNAi; enables passive cellular uptake of
+    dsRNA.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Expressed in most non-neuronal cells,
+    including body wall muscle cells.
+-!- SIMILARITY: Belongs to the SID1 family.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0005886; C:plasma membrane; IDA:WormBase.
+ GO:0005215; F:transporter activity; NAS:UniProtKB.
+ GO:0016246; P:RNA interference; IEP:UniProtKB.
+Complete proteome; Glycoprotein; Membrane;
+RNA-mediated gene silencing; Signal; Transmembrane.
+TMELEVEN

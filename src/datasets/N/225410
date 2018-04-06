@@ -1,0 +1,10 @@
+AC   P38813;
+Uncharacterized protein YHR101C precursor.
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"Global analysis of protein expression in yeast.";
+-!- MISCELLANEOUS: Present with 3460 molecules/cell.
+ GO:0030176; C:integral to endoplasmic reticulum membrane; IDA:SGD.
+ GO:0009272; P:cell wall biosynthesis (sensu Fungi); IGI:SGD.
+Complete proteome; Membrane; Signal; Transmembrane.
+TMONE

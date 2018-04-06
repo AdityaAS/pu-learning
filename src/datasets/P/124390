@@ -1,0 +1,13 @@
+AC   P0AFI9; P71230; P77406;
+Putative permease perM.
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the UPF0118 (perM) family.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMSEVEN

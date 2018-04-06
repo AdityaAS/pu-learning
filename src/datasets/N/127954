@@ -1,0 +1,11 @@
+AC   Q49427; Q49240;
+Fatty acid/phospholipid synthesis protein plsX.
+"The minimal gene complement of Mycoplasma genitalium.";
+"A survey of the Mycoplasma genitalium genome by using random
+sequencing.";
+-!- FUNCTION: Not known, probably involved in fatty acid or
+    phospholipid synthesis (By similarity).
+-!- SIMILARITY: Belongs to the plsX family.
+Complete proteome; Fatty acid biosynthesis; Lipid synthesis;
+Phospholipid biosynthesis.
+TMZERO

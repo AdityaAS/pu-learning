@@ -1,0 +1,63 @@
+AC   P51170; P78437; Q6PCC2; Q93023; Q93024; Q93025; Q93026; Q93027;
+AC   Q96TD2;
+Amiloride-sensitive sodium channel gamma-subunit (Epithelial Na+
+channel subunit gamma) (Gamma ENaC) (Nonvoltage-gated sodium channel 1
+subunit gamma) (SCNEG) (Gamma NaCH).
+"Cloning, chromosomal localization, and physical linkage of the beta
+and gamma subunits (SCNN1B and SCNN1G) of the human epithelial
+amiloride-sensitive sodium channel.";
+"Cloning and expression of the beta- and gamma-subunits of the human
+epithelial sodium channel.";
+"Novel mutations responsible for autosomal recessive multisystem
+pseudohypoaldosteronism and sequence variants in epithelial sodium
+channel alpha-, beta-, and gamma-subunit genes.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Genomic organization and the 5' flanking region of the gamma subunit
+of the human amiloride-sensitive epithelial sodium channel.";
+"Hypertension caused by a truncated epithelial sodium channel gamma
+subunit: genetic heterogeneity of Liddle syndrome.";
+"Identification of novel human WW domain-containing proteins by
+cloning of ligand targets.";
+"The Nedd4-like protein KIAA0439 is a potential regulator of the
+epithelial sodium channel.";
+"Ubiquitin-protein ligase WWP2 binds to and downregulates the
+epithelial Na(+) channel.";
+"Polymorphisms of amiloride-sensitive sodium channel subunits in five
+sporadic cases of pseudohypoaldosteronism: do they have pathologic
+potential?";
+"Patterns of single-nucleotide polymorphisms in candidate genes for
+blood-pressure homeostasis.";
+-!- FUNCTION: Sodium permeable non-voltage-sensitive ion channel
+    inhibited by the diuretic amiloride. Mediates the electrodiffusion
+    of the luminal sodium (and water, which follows osmotically)
+    through the apical membrane of epithelial cells. Controls the
+    reabsorption of sodium in kidney, colon, lung and sweat glands.
+    Also plays a role in taste perception.
+-!- SUBUNIT: Heterotetramer of two alpha, one beta and one gamma
+    subunit. A delta subunit can replace the alpha subunit. Interacts
+    with the WW domains of NEDD4, NEDD4L, WWP1 and WWP2.
+-!- SUBCELLULAR LOCATION: Cell membrane; apical cell membrane; multi-
+    pass membrane protein. Note=Apical membrane of epithelial cells.
+-!- PTM: Phosphorylated on serine and threonine residues (By
+    similarity).
+-!- PTM: Ubiquitinated; this targets individual subunits for
+    endocytosis and proteasome-mediated degradation (By similarity).
+-!- DISEASE: Defects in SCNN1G are a cause of Liddle syndrome
+    [MIM:177200]. It is an autosomal dominant disorder characterized
+    by pseudoaldosteronism and hypertension associated with
+    hypokalemic alkalosis. The disease is caused by constitutive
+    activation of the renal epithelial sodium channel.
+-!- SIMILARITY: Belongs to the amiloride-sensitive sodium channel
+    family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SCNN1G".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0015280; F:amiloride-sensitive sodium channel activity; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0007588; P:excretion; TAS:ProtInc.
+ GO:0006814; P:sodium ion transport; TAS:ProtInc.
+Glycoprotein; Ion transport; Ionic channel; Membrane; Phosphorylation;
+Polymorphism; Sensory transduction; Sodium; Sodium channel;
+Sodium transport; Taste; Transmembrane; Transport; Ubl conjugation.
+TMTWO

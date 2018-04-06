@@ -1,0 +1,12 @@
+AC   Q7M7Q6;
+Spermidine synthase (EC 2.5.1.16) (Putrescine aminopropyltransferase)
+(SPDSY).
+"Complete genome sequence and analysis of Wolinella succinogenes.";
+-!- CATALYTIC ACTIVITY: S-adenosylmethioninamine + putrescine = 5'-
+    methylthioadenosine + spermidine.
+-!- SIMILARITY: Belongs to the spermidine/spermine synthase family.
+ GO:0004766; F:spermidine synthase activity; IEA:HAMAP.
+ GO:0008295; P:spermidine biosynthesis; IEA:HAMAP.
+Complete proteome; Polyamine biosynthesis; Spermidine biosynthesis;
+Transferase.
+TMZERO

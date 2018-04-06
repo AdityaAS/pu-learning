@@ -1,0 +1,23 @@
+AC   P14319;
+Quaternary ammonium compound-resistance protein qacC (Quaternary
+ammonium determinant C) (Ethidium bromide resistance protein)
+(Multidrug resistance protein).
+"Nucleotide sequence of a gene that encodes resistance to ethidium
+bromide from a transferable plasmid in Staphylococcus aureus.";
+"A staphylococcal multidrug resistance gene product is a member of a
+new protein family.";
+"Structure and evolution of a family of genes encoding antiseptic and
+disinfectant resistance in Staphylococcus aureus.";
+"High-level resistance to ethidium bromide and antiseptics in
+Staphylococcus aureus.";
+"Physical and biochemical characterization of the qacA gene encoding
+antiseptic and disinfectant resistance in Staphylococcus aureus.";
+"Molecular characterization of the staphylococcal multidrug resistance
+export protein QacC.";
+-!- FUNCTION: Multidrug exporter. Is implicated for the resistance to
+    bacteriocidal quaternary ammonium compounds and ethidium bromide.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the small multidrug resistance (SMR)
+    protein family.
+Membrane; Plasmid; Transmembrane; Transport.
+TMFOUR

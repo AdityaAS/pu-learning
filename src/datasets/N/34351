@@ -1,0 +1,13 @@
+AC   P80232;
+Cuticle protein 70, isoforms A and B (LM-70A/LM-70B).
+"Combined plasma-desorption mass spectrometry and Edman degradation
+applied to simultaneous sequence determination of isoforms of
+structural proteins from the cuticle of Locusta migratoria.";
+-!- FUNCTION: Component of the cuticle of migratory locust which
+    contains more than 100 different structural proteins.
+-!- DOMAIN: The tetrapeptide (A-A-P-[AV]) repeats found throughout the
+    protein are also present in many proteins constituting the
+    protective envelope of other species.
+-!- MISCELLANEOUS: The sequence shown here is that of isoform LM-70A.
+Cuticle; Direct protein sequencing; Repeat; Structural protein.
+TMZERO

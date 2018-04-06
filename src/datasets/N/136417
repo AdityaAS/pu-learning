@@ -1,0 +1,16 @@
+AC   Q8YFK1;
+Phosphoribosylamine--glycine ligase (EC 6.3.4.13) (GARS) (Glycinamide
+ribonucleotide synthetase) (Phosphoribosylglycinamide synthetase).
+"The genome sequence of the facultative intracellular pathogen
+Brucella melitensis.";
+-!- CATALYTIC ACTIVITY: ATP + 5-phospho-D-ribosylamine + glycine = ADP
+    + phosphate + 1-N-(5-phospho-D-ribosyl)glycinamide.
+-!- PATHWAY: Nucleotide biosynthesis; IMP biosynthesis; 1-N-(5-
+    phospho-D-ribosyl)glycinamide from 5-phospho-alpha-D-ribose 1-
+    diphosphate: step 2.
+-!- PATHWAY: Context: Purine biosynthesis.
+-!- SIMILARITY: Belongs to the GARS family.
+-!- SIMILARITY: Contains 1 ATP-grasp domain.
+ GO:0006164; P:purine nucleotide biosynthesis; IEA:HAMAP.
+Complete proteome; Ligase; Purine biosynthesis.
+TMZERO

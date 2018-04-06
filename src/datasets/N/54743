@@ -1,0 +1,10 @@
+AC   Q8K9F0;
+DNA-binding protein fis.
+"50 million years of genomic stasis in endosymbiotic bacteria.";
+-!- FUNCTION: Activates ribosomal RNA transcription. Plays a direct
+    role in upstream activation of rRNA promoters (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the transcriptional regulatory fis family.
+Activator; Complete proteome; DNA-binding; Transcription;
+Transcription regulation.
+TMZERO

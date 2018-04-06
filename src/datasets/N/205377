@@ -1,0 +1,42 @@
+AC   P38959; P87334; Q12011;
+Vacuolar protein sorting-associated protein 41 (Vacuolar morphogenesis
+protein 2).
+"Vam2/Vps41p and Vam6/Vps39p are components of a protein complex on
+the vacuolar membranes and involved in the vacuolar assembly in the
+yeast Saccharomyces cerevisiae.";
+"Analysis of a 32.8 kb segment of yeast chromosome IV reveals 21 open
+reading frames, including TPS2, PPH3, RAD55, SED1, PDC2, AFR1, SSS1,
+SLU7 and a tRNA for arginine.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Characterization of VPS41, a gene required for vacuolar trafficking
+and high-affinity iron transport in yeast.";
+"Global analysis of protein expression in yeast.";
+"Purification of active HOPS complex reveals its affinities for
+phosphoinositides and the SNARE Vam7p.";
+-!- FUNCTION: Required for vacuolar assembly and vacuolar traffic.
+    Acts as component of the HOPS complex that acts during the docking
+    stage of vacuole fusion. HOPS is an effector for the vacuolar Rab
+    GTPase YPT7 and is required for vacuolar SNARE complex assembly.
+    It remains bound to SNARE complexes after vacuole fusion.
+-!- SUBUNIT: Component of the HOPS complex which is composed of PEP5,
+    VPS16, PEP3, VPS33, VPS39 and VPS41. HOPS associates with
+    phosphoinositides and the PX domain of VAM7. Interacts with VAM7
+    and VPS39.
+-!- INTERACTION:
+    P38623:RCK2; NbExp=1; IntAct=EBI-20432, EBI-14885;
+-!- MISCELLANEOUS: Present with 1170 molecules/cell.
+-!- SIMILARITY: Belongs to the VPS41 family.
+-!- SIMILARITY: Contains 1 clathrin repeat.
+-!- SIMILARITY: Contains 5 WD repeats.
+ GO:0005768; C:endosome; IDA:SGD.
+ GO:0030897; C:HOPS complex; IPI:SGD.
+ GO:0000324; C:vacuole (sensu Fungi); IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0017112; F:Rab guanyl-nucleotide exchange factor activity; IPI:SGD.
+ GO:0015031; P:protein transport; IMP:UniProtKB.
+ GO:0006624; P:vacuolar protein processing or maturation; IMP:SGD.
+ GO:0007034; P:vacuolar transport; IMP:UniProtKB.
+ GO:0042144; P:vacuole fusion, non-autophagic; IDA:SGD.
+Complete proteome; Protein transport; Repeat; Transport; Vacuole;
+WD repeat.
+TMZERO

@@ -1,0 +1,41 @@
+AC   P39794; O34771;
+PTS system trehalose-specific EIIBC component (EIIBC-Tre) (EII-Tre)
+[Includes: Trehalose-specific phosphotransferase enzyme IIB component
+(EC 2.7.1.69) (PTS system trehalose-specific EIIB component);
+Trehalose permease IIC component (PTS system trehalose-specific EIIC
+component)].
+"Analysis of DNA flanking the treA gene of Bacillus subtilis reveals
+genes encoding a putative specific enzyme IITre and a potential
+regulator of the trehalose operon.";
+"Cloning and sequencing of a 40.6 kb segment in the 73 degrees-76
+degrees region of the Bacillus subtilis chromosome containing genes
+for trehalose metabolism and acetoin utilization.";
+"Cloning and sequencing of a 35.7 kb in the 70 degree-73 degree region
+of the Bacillus subtilis genome reveal genes for a new two-component
+system, three spore germination proteins, an iron uptake system and a
+general stress response protein.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Cleavage of trehalose-phosphate in Bacillus subtilis is catalysed by
+a phospho-alpha-(1-1)-glucosidase encoded by the treA gene.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in trehalose transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIIB type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-1 domain.
+Complete proteome; Membrane; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase;
+Transmembrane; Transport.
+TMTEN

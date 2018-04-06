@@ -1,0 +1,23 @@
+AC   P60061; P39268; P39269; Q2M6I9;
+Arginine/agmatine antiporter.
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"YjdE (AdiC) is the arginine:agmatine antiporter essential for
+arginine-dependent acid resistance in Escherichia coli.";
+"Arginine-agmatine antiporter in extreme acid resistance in
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Exchange of extracellular arginine for intracellular
+    agmatine. Required for arginine-dependent acid resistance.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By acidic conditions.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily.
+Amino-acid transport; Antiport; Complete proteome; Inner membrane;
+Membrane; Transmembrane; Transport.
+TMTWELVE

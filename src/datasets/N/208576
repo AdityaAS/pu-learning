@@ -1,0 +1,9 @@
+AC   Q5LWN8;
+UPF0176 protein SPO0091.
+"Genome sequence of Silicibacter pomeroyi reveals adaptations to the
+marine environment.";
+-!- SIMILARITY: Belongs to the UPF0176 family.
+-!- SIMILARITY: Contains 1 rhodanese domain.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

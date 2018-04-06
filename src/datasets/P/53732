@@ -1,0 +1,22 @@
+AC   P15029; Q2M627;
+Iron(III) dicitrate transport system permease protein fecD.
+"Nucleotide sequences of the fecBCDE genes and locations of the
+proteins suggest a periplasmic-binding-protein-dependent transport
+mechanism for iron(III) dicitrate in Escherichia coli.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for citrate-dependent Fe(3+). Probably responsible for the
+    translocation of the substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. FecCD subfamily.
+Complete proteome; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Transmembrane; Transport.
+TMNINE

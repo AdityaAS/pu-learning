@@ -1,0 +1,46 @@
+AC   Q07914;
+Mitochondrial import inner membrane translocase subunit TIM14
+(Presequence translocated-associated motor subunit PAM18).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Tim14, a novel key component of the import motor of the TIM23 protein
+translocase of mitochondria.";
+"A J-protein is an essential subunit of the presequence translocase-
+associated protein import motor of mitochondria.";
+"J protein cochaperone of the mitochondrial inner membrane required
+for protein import into the mitochondrial matrix.";
+"The presequence translocase-associated protein import motor of
+mitochondria. Pam16 functions in an antagonistic manner to Pam18.";
+"Pam16 has an essential role in the mitochondrial protein import
+motor.";
+"Pam17 is required for architecture and translocation activity of the
+mitochondrial protein import motor.";
+"Role of Pam16's degenerate J domain in protein import across the
+mitochondrial inner membrane.";
+-!- FUNCTION: Essential component of the PAM complex, a complex
+    required for the translocation of transit peptide-containing
+    proteins from the inner membrane into the mitochondrial matrix in
+    an ATP-dependent manner. In the complex, it is required to
+    stimulate activity of mtHSP70 (SSC1).
+-!- SUBUNIT: Homodimer and heterodimer with PAM16/TIM16.
+    Homodimerization may not be relevant in vivo, while
+    heterodimerizazion is essential for regulate activity of mtHSP70.
+    Component of the PAM complex, at least composed of mtHsp70, MGE1,
+    TIM44, PAM16, PAM17 and PAM18/TIM14. Interacts directly with
+    mtHsp70. Interacts directly with TIM17 subunit of the TIM23
+    complex.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    single-pass membrane protein.
+-!- DOMAIN: The J domain is essential for co-chaperone activity and
+    mediates the heterodimerization with the J-like domain of PAM16.
+-!- SIMILARITY: Belongs to the TIM14 family.
+-!- SIMILARITY: Contains 1 J domain.
+ GO:0001405; C:presequence translocase-associated import m...; IPI:SGD.
+ GO:0001671; F:ATPase stimulator activity; IDA:SGD.
+ GO:0008565; F:protein transporter activity; IMP:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; IMP:SGD.
+3D-structure; Chaperone; Complete proteome; Inner membrane; Membrane;
+Mitochondrion; Protein transport; Translocation; Transmembrane;
+Transport.
+TMONE

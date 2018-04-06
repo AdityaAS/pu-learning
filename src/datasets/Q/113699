@@ -1,0 +1,22 @@
+AC   P70553; Q496Z6;
+Natural resistance-associated macrophage protein 1 (NRAMP 1).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Genomic cloning and genetic mapping of the rat Nramp1 (Bcg) gene on
+chromosome 9.";
+-!- FUNCTION: Divalent transition metal (iron and manganese)
+    transporter involved in iron metabolism and host resistance to
+    certain pathogens. Macrophage-specific membrane transport
+    function. Controls natural resistance to infection with
+    intracellular parasites. Pathogen resistance involves
+    sequestration of Fe(2+) and Mn(2+), cofactors of both prokaryotic
+    and eukaryotic catalases and superoxide dismutases, not only to
+    protect the macrophage against its own generation of reactive
+    oxygen species, but to deny the cations to the pathogen for
+    synthesis of its protective enzymes (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the NRAMP family.
+Glycoprotein; Ion transport; Iron; Iron transport; Membrane;
+Transmembrane; Transport.
+TMTEN

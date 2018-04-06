@@ -1,0 +1,18 @@
+AC   O58885;
+Xaa-Pro dipeptidase (EC 3.4.13.9) (X-Pro dipeptidase) (Proline
+dipeptidase) (Prolidase) (Imidodipeptidase).
+"Complete sequence and gene organization of the genome of a hyper-
+thermophilic archaebacterium, Pyrococcus horikoshii OT3.";
+-!- FUNCTION: Splits dipeptides with a prolyl or hydroxyprolyl residue
+    in the C-terminal position and nonpolar amino acid at the N-
+    terminal position (By similarity).
+-!- CATALYTIC ACTIVITY: Hydrolysis of Xaa-|-Pro dipeptides; also acts
+    on aminoacyl-hydroxyproline analogs. No action on Pro-|-Pro.
+-!- COFACTOR: Binds 2 manganese ions per subunit (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the peptidase M24B family.
+ GO:0004251; F:X-Pro dipeptidase activity; IEA:EC.
+3D-structure; Complete proteome; Dipeptidase; Hydrolase; Manganese;
+Metal-binding; Metalloprotease; Protease.
+TMZERO

@@ -1,0 +1,25 @@
+AC   P51178;
+1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase delta 1
+(EC 3.1.4.11) (Phosphoinositide phospholipase C) (PLC-delta-1)
+(Phospholipase C-delta-1) (PLC-III).
+"Cloning and identification of amino acid residues of human
+phospholipase C delta 1 essential for catalysis.";
+-!- FUNCTION: The production of the second messenger molecules
+    diacylglycerol (DAG) and inositol 1,4,5-trisphosphate (IP3) is
+    mediated by activated phosphatidylinositol-specific phospholipase
+    C enzymes.
+-!- CATALYTIC ACTIVITY: 1-phosphatidyl-1D-myo-inositol 4,5-
+    bisphosphate + H(2)O = 1D-myo-inositol 1,4,5-trisphosphate +
+    diacylglycerol.
+-!- COFACTOR: Binds 3 calcium ions per subunit. Two of the calcium
+    ions are bound to the C2 domain (By similarity).
+-!- SIMILARITY: Contains 1 C2 domain.
+-!- SIMILARITY: Contains 2 EF-hand domains.
+-!- SIMILARITY: Contains 1 PH domain.
+-!- SIMILARITY: Contains 1 PI-PLC X-box domain.
+-!- SIMILARITY: Contains 1 PI-PLC Y-box domain.
+ GO:0004435; F:phosphoinositide phospholipase C activity; TAS:ProtInc.
+ GO:0006644; P:phospholipid metabolism; TAS:ProtInc.
+Calcium; Hydrolase; Lipid degradation; Metal-binding; Repeat;
+Transducer.
+TMZERO

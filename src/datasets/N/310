@@ -1,0 +1,29 @@
+AC   Q9TNN7; O02866; O62888; Q9TPV8; Q9TPX2;
+HLA class I histocompatibility antigen, Cw-5 alpha chain precursor
+(MHC class I antigen Cw*5).
+"New HLA-C alleles, on the basis of their transmembrane or cytoplasmic
+regions.";
+"Cw*0501new.";
+"HLA-C locus polymorphisms in Japanese.";
+"Novel HLA-C allele.";
+"Identification of a novel HLA-Cw*05 allele, Cw*0503.";
+"New HLA-Cw5 antigen.";
+-!- FUNCTION: Involved in the presentation of foreign antigens to the
+    immune system.
+-!- SUBUNIT: Heterodimer of an alpha chain and a beta chain (beta-2-
+    microglobulin). Interacts with human herpesvirus 8 MIR1 protein
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- PTM: Polyubiquitinated in a post ER compartment by interaction
+    with human herpesvirus 8 MIR1 protein. This targets the protein
+    for rapid degradation via the ubiquitin system (By similarity).
+-!- POLYMORPHISM: The following alleles of Cw-5 are known: Cw*0501
+    Cw*0502, Cw*0503 and Cw*0504. The sequence shown is that of
+    Cw*0501.
+-!- SIMILARITY: Belongs to the MHC class I family.
+-!- SIMILARITY: Contains 1 Ig-like C1-type (immunoglobulin-like)
+    domain.
+Glycoprotein; Host-virus interaction; Immune response; Membrane;
+MHC I; Polymorphism; Signal; Transmembrane; Ubl conjugation.
+TMONE

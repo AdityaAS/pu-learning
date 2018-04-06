@@ -1,0 +1,14 @@
+AC   P28611;
+Chemotaxis protein motA (Motility protein A).
+"An operon of Bacillus subtilis motility genes transcribed by the
+sigma D form of RNA polymerase.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Required for rotation of the flagellar motor. Probable
+    transmembrane proton channel.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the motA family.
+Chemotaxis; Complete proteome; Flagellar rotation; Flagellum;
+Hydrogen ion transport; Ion transport; Membrane; Transmembrane;
+Transport.
+TMFOUR

@@ -1,0 +1,28 @@
+AC   P18873;
+Guanine nucleotide-binding protein G(o) subunit alpha 2.
+"Alternative splicing produces transcripts encoding two forms of the
+alpha subunit of GTP-binding protein Go.";
+-!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+    involved as modulators or transducers in various transmembrane
+    signaling systems. The G(o) protein function is not clear.
+-!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+    gamma. The alpha chain contains the guanine nucleotide binding
+    site.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Alpha-2;
+      IsoId=P18873-1; Sequence=Displayed;
+    Name=Alpha-1;
+      IsoId=P18872-1; Sequence=External;
+-!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+ GO:0005834; C:heterotrimeric G-protein complex; TAS:MGI.
+ GO:0005624; C:membrane fraction; TAS:MGI.
+ GO:0005525; F:GTP binding; IMP:MGI.
+ GO:0003924; F:GTPase activity; TAS:MGI.
+ GO:0050875; P:cellular physiological process; IMP:MGI.
+ GO:0007212; P:dopamine receptor signaling pathway; IMP:MGI.
+ GO:0007626; P:locomotory behavior; IMP:MGI.
+ GO:0008016; P:regulation of heart contraction; IMP:MGI.
+ADP-ribosylation; Alternative splicing; GTP-binding; Lipoprotein;
+Myristate; Nucleotide-binding; Palmitate; Transducer.
+TMZERO

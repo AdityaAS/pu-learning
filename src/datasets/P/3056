@@ -1,0 +1,17 @@
+AC   Q06598;
+Arsenical-resistance protein ACR3.
+"Isolation of three contiguous genes, ACR1, ACR2 and ACR3, involved in
+resistance to arsenic compounds in the yeast Saccharomyces
+cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+-!- FUNCTION: Involved in resistance to arsenic compounds.
+-!- INTERACTION:
+    P02829:HSP82; NbExp=1; IntAct=EBI-2122, EBI-8659;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ACR3 family.
+ GO:0015105; F:arsenite transporter activity; IGI:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015700; P:arsenite transport; IGI:SGD.
+Arsenical resistance; Complete proteome; Membrane; Transmembrane.
+TMTEN

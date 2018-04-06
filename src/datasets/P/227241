@@ -1,0 +1,15 @@
+AC   P75796; Q9R3H8;
+Hypothetical ABC transporter ATP-binding protein yliA.
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Probably part of a binding-protein-dependent transport
+    system yliABCD. Probably responsible for energy coupling to the
+    transport system.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ATP-binding; Complete proteome; Hypothetical protein;
+Nucleotide-binding; Repeat; Transport.
+TMZERO

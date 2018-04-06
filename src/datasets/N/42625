@@ -1,0 +1,15 @@
+AC   Q8EU88;
+Chromosomal replication initiator protein dnaA.
+"Genome sequence of Oceanobacillus iheyensis isolated from the Iheya
+Ridge and its unexpected adaptive capabilities to extreme
+environments.";
+-!- FUNCTION: Plays an important role in the initiation and regulation
+    of chromosomal replication. Binds to the origin of replication; it
+    binds specifically double-stranded DNA at a 9 bp consensus (dnaA
+    box): 5'-TTATC[CA]A[CA]A-3'. DnaA binds to ATP and to acidic
+    phospholipids (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the dnaA family.
+ATP-binding; Complete proteome; DNA replication; DNA-binding;
+Nucleotide-binding.
+TMZERO

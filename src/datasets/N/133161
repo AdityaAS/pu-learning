@@ -1,0 +1,15 @@
+AC   P12191;
+Photosystem I reaction center subunit IX (PSI-J).
+"Structure and organization of Marchantia polymorpha chloroplast
+genome. III. Gene organization of the large single copy region from
+rbcL to trnI(CAU).";
+"Chloroplast gene organization deduced from complete sequence of
+liverwort Marchantia polymorpha chloroplast DNA.";
+-!- FUNCTION: May help in the organization of the psaE and psaF
+    subunits (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; single-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the psaJ family.
+Chloroplast; Membrane; Photosynthesis; Photosystem I; Plastid;
+Thylakoid; Transmembrane.
+TMONE

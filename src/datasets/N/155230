@@ -1,0 +1,30 @@
+AC   Q13084; Q4TT39; Q96S26; Q9BQD8; Q9BR04;
+39S ribosomal protein L28, mitochondrial precursor (L28mt) (MRP-L28)
+(Melanoma antigen p15) (Melanoma-associated antigen recognized by T
+lymphocytes).
+"Sequence, structure and pathology of the fully annotated terminal 2
+Mb of the short arm of human chromosome 16.";
+"The sequence and analysis of duplication-rich human chromosome 16.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Cloning of a new gene encoding an antigen recognized by melanoma-
+specific HLA-A24-restricted tumor-infiltrating lymphocytes.";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"The large subunit of the mammalian mitochondrial ribosome. Analysis
+of the complement of ribosomal proteins present.";
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- TISSUE SPECIFICITY: Found in a variety of normal tissues including
+    spleen, testes, thymus, liver, kidney, brain, adrenal, lung and
+    retinal tissue.
+-!- MISCELLANEOUS: Potentially represents an important therapeutic
+    reagent for HLA-A24 patients. This antigen is recognized by tumor-
+    infiltrating lymphocyte (TIL) 1290 in the context of HLA-A24.
+-!- SIMILARITY: Belongs to the ribosomal protein L28P family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction.
+ GO:0005761; C:mitochondrial ribosome; NAS:UniProtKB.
+ GO:0003735; F:structural constituent of ribosome; NAS:UniProtKB.
+ GO:0006412; P:protein biosynthesis; NAS:UniProtKB.
+Mitochondrion; Ribonucleoprotein; Ribosomal protein; Transit peptide.
+TMZERO

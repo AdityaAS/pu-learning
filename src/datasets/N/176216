@@ -1,0 +1,20 @@
+AC   Q9DBG7; Q8VC45; Q921H1;
+Signal recognition particle receptor subunit alpha (SR-alpha) (Docking
+protein alpha) (DP-alpha).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Ensures, in conjunction with SRP, the correct targeting
+    of the nascent secretory proteins to the endoplasmic reticulum
+    membrane system (By similarity).
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; peripheral membrane protein (By similarity).
+    Note=Thought to be anchored in the membrane through an interaction
+    with SR-beta, which contains a bona fide transmembrane domain (By
+    similarity).
+-!- SIMILARITY: Belongs to the GTP-binding SRP family.
+Endoplasmic reticulum; GTP-binding; Membrane; Nucleotide-binding;
+Phosphorylation; Receptor; Ribonucleoprotein;
+Signal recognition particle; Transmembrane.
+TMONE

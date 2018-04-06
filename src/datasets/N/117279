@@ -1,0 +1,14 @@
+AC   Q8NGS5; Q96R41;
+Olfactory receptor 13C4.
+"Genome-wide discovery and analysis of human seven transmembrane helix
+receptor genes.";
+"DEFOG: a practical scheme for deciphering families of genes.";
+-!- FUNCTION: Putative odorant receptor.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+-!- WEB RESOURCE: NAME=Human Olfactory Receptor Data Exploratorium
+    (HORDE);
+    URL="http://bip.weizmann.ac.il/cgi-bin/HORDE/showGene.pl?key=symbol&value=OR13C4".
+G-protein coupled receptor; Glycoprotein; Membrane; Olfaction;
+Receptor; Sensory transduction; Transducer; Transmembrane.
+TMSEVEN

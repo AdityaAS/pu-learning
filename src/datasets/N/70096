@@ -1,0 +1,43 @@
+AC   P84040; P02307; Q4ABE0; Q9VFH7;
+Histone H4.
+"tRNA derived insertion element in histone gene repeating unit of
+Drosophila melanogaster.";
+"Identification and characterization of the Drosophila histone H4
+replacement gene.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"A histone code in meiosis: the histone kinase, NHK-1, is required for
+proper chromosomal architecture in Drosophila oocytes.";
+-!- FUNCTION: Core component of nucleosome. Nucleosomes wrap and
+    compact DNA into chromatin, limiting DNA accessibility to the
+    cellular machineries which require DNA as a template. Histones
+    thereby play a central role in transcription regulation, DNA
+    repair, DNA replication and chromosomal stability. DNA
+    accessibility is regulated via a complex set of post-translational
+    modifications of histones, also called histone code, and
+    nucleosome remodelling.
+-!- SUBUNIT: The nucleosome is a histone octamer containing two
+    molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4
+    heterotetramer and two H2A-H2B heterodimers. The octamer wraps
+    approximately 147 bp of DNA.
+-!- INTERACTION:
+    Q09472:EP300 (xeno); NbExp=1; IntAct=EBI-185028, EBI-447295;
+    Q8WXI9:GATAD2B (xeno); NbExp=1; IntAct=EBI-185028, EBI-923440;
+    Q86YP4:p66alpha (xeno); NbExp=1; IntAct=EBI-185028, EBI-726224;
+    Q92831:PCAF (xeno); NbExp=1; IntAct=EBI-185028, EBI-477430;
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- PTM: Acetylated on Lys-5 and Lys-12 during prophase I of meiosis.
+    Phosphorylation of H2A 'Thr-119' is a prerequisite for H4 Lys-5
+    acetylation but not for H4 Lys-12 acetylation.
+-!- SIMILARITY: Belongs to the histone H4 family.
+ GO:0000786; C:nucleosome; IDA:UniProtKB.
+ GO:0035059; C:RCAF complex; IDA:FlyBase.
+ GO:0003677; F:DNA binding; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0016321; P:female meiosis chromosome segregation; IMP:FlyBase.
+ GO:0006334; P:nucleosome assembly; IDA:UniProtKB.
+Acetylation; Chromosomal protein; Complete proteome; DNA-binding;
+Nuclear protein; Nucleosome core.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q92339;
+High-affinity gluconate transporter ght3 (Hexose transporter 3).
+"Multiple hexose transporters of Schizosaccharomyces pombe.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: High-affinity gluconate transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+ GO:0005887; C:integral to plasma membrane; TAS:GeneDB_SPombe.
+ GO:0015149; F:hexose transporter activity; TAS:GeneDB_SPombe.
+ GO:0015749; P:monosaccharide transport; TAS:GeneDB_SPombe.
+Complete proteome; Glycoprotein; Membrane; Repeat; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

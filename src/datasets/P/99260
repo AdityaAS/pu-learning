@@ -1,0 +1,25 @@
+AC   P76398; O08005;
+Multidrug resistance protein mdtB (Multidrug transporter mdtB).
+"The putative response regulator BaeR stimulates multidrug resistance
+of Escherichia coli via a novel multidrug exporter system, MdtABC.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The baeSR two-component regulatory system activates transcription of
+the yegMNOB (mdtABCD) transporter gene cluster in Escherichia coli and
+increases its resistance to novobiocin and deoxycholate.";
+-!- FUNCTION: The mdtABC tripartite complex confers resistance against
+    novobiocin and deoxycholate.
+-!- SUBUNIT: Part of a tripartite efflux system composed of mdtA, mdtB
+    and mdtC. MdtB forms a heteromultimer with mdtC.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- INDUCTION: The mdtABC operon is transcriptionally activated by
+    baeR.
+-!- MISCELLANEOUS: MdtABC requires tolC for its function.
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+ GO:0005215; F:transporter activity; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMELEVEN

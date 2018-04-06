@@ -1,0 +1,44 @@
+AC   P62395; P10409; P75641;
+Secretion monitor precursor.
+"Sequence analysis, transcriptional organization, and insertional
+mutagenesis of the envA gene of Escherichia coli.";
+"Nucleotide sequence of the secA gene and secA(Ts) mutations
+preventing protein export in Escherichia coli.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The first gene in the Escherichia coli secA operon, gene X, encodes a
+nonessential secretory protein.";
+"Regulation of Escherichia coli secA by cellular protein secretion
+proficiency requires an intact gene X signal sequence and an active
+translocon.";
+"Revised translation start site for secM defines an atypical signal
+peptide that regulates Escherichia coli secA expression.";
+"Secretion monitor, SecM, undergoes self-translation arrest in the
+cytosol.";
+"The ribosomal exit tunnel functions as a discriminating gate.";
+"Critical regions of secM that control its translation and secretion
+and promote secretion-specific secA regulation.";
+"Translocon 'pulling' of nascent secM controls the duration of its
+translational pause and secretion-responsive secA regulation.";
+"Control of SecA and SecM translation by protein secretion.";
+-!- FUNCTION: Regulates secA expression by translational coupling of
+    the secM secA operon. Ribosomes translating the C-terminal region
+    of secM can disrupt an RNA repressor helix that normally blocks
+    secA translation initiation, derepressing the expression of secA.
+    Translational pausing of secM at Pro-166 under secretion-limiting
+    conditions increases the duration of the disruption and thus
+    increases secA expression. This is controlled by interaction of
+    the secM signal peptide with secA and the translocon, possibly by
+    secA pulling the paused secM out of the ribosome. The arrest
+    sequence (150-FXXXXWIXXXXGIRAGP-166) is sufficient to cause arrest
+    of unrelated proteins. Elongation arrest can be alleviated by
+    mutations in the 23S rRNA or in ribosomal protein L22.
+-!- SUBCELLULAR LOCATION: Cytoplasm; cytosol. Periplasm. Note=The
+    active form is cytosolic, while the periplasmic form is rapidly
+    degraded, mainly by the tail-specific protease.
+-!- SIMILARITY: Belongs to the secM family.
+Complete proteome; Periplasmic; Signal.
+TMZERO

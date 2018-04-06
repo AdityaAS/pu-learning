@@ -1,0 +1,12 @@
+AC   P0AFF3; P33031; P77236;
+Nucleoside permease nupC (Nucleoside-transport system protein nupC).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Transports nucleosides with a high affinity except
+    guanosine and deoxyguanosine. Driven by a proton motive force (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the SLC28A transporter family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMNINE

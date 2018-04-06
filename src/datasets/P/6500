@@ -1,0 +1,19 @@
+AC   P0AE16; P36670; Q2MBZ3;
+Protein ampG.
+"AmpG, a signal transducer in chromosomal beta-lactamase induction.";
+"The signal transducer encoded by ampG is essential for induction of
+chromosomal AmpC beta-lactamase in Escherichia coli by beta-lactam
+antibiotics and 'unspecific' inducers.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Probably acts as a permease in the beta-lactamase
+    induction system and in peptidoglycan recycling.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTEN

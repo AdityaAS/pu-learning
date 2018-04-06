@@ -1,0 +1,10 @@
+AC   Q07831;
+Nonpathogenic pore-forming peptide precursor (APNP).
+"Comparison of pore-forming peptides from pathogenic and nonpathogenic
+Entamoeba histolytica.";
+-!- FUNCTION: Forms pores in the membrane of host tissues. Implicated
+    in the cytolytic activity of the parasite.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Contains 1 saposin B-type domain.
+Direct protein sequencing; Signal.
+TMZERO

@@ -1,0 +1,13 @@
+AC   Q9TTQ3;
+Small inducible cytokine A2 precursor (CCL2) (Monocyte chemotactic
+protein 1) (MCP-1) (Monocyte chemoattractant protein 1).
+"Cloning of equine chemokines eotaxin, monocyte chemoattractant
+protein (MCP)-1, MCP-2 and MCP-4, mRNA expression in tissues and
+induction by IL-4 in dermal fibroblasts.";
+-!- FUNCTION: Chemotactic factor that attracts monocytes, but not
+    neutrophils (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the intercrine beta (chemokine CC) family.
+Chemotaxis; Cytokine; Inflammatory response;
+Pyrrolidone carboxylic acid; Signal.
+TMZERO

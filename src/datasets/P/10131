@@ -1,0 +1,24 @@
+AC   P38724;
+Siderophore iron transporter ARN2 (Triacetylfusarinine C transporter
+1) (Triacetylfusarinine C permease).
+"Desferrioxamine-mediated iron uptake in Saccharomyces cerevisiae.
+Evidence for two pathways of iron uptake.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"Identification of a fungal triacetylfusarinine C siderophore
+transport gene (TAF1) in Saccharomyces cerevisiae as a member of the
+major facilitator superfamily.";
+-!- FUNCTION: Involved in the transport of siderophore
+    triacestylfusarinine C and so has a role in iron homeostasis.
+-!- SUBCELLULAR LOCATION: Endosome; endosomal membrane; multi-pass
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+ GO:0016023; C:cytoplasmic membrane-bound vesicle; TAS:SGD.
+ GO:0005768; C:endosome; TAS:SGD.
+ GO:0015343; F:siderophore-iron transporter activity; IDA:SGD.
+ GO:0006879; P:iron ion homeostasis; IMP:SGD.
+ GO:0009237; P:siderophore metabolism; IMP:SGD.
+ GO:0015892; P:siderophore-iron transport; IDA:SGD.
+Complete proteome; Ion transport; Iron; Iron transport; Membrane;
+Transmembrane; Transport.
+TMFOURTEEN

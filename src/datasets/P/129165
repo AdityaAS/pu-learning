@@ -1,0 +1,12 @@
+AC   O06873;
+Chemotaxis protein pomA.
+"Putative channel components for the fast-rotating sodium-driven
+flagellar motor of a marine bacterium.";
+-!- FUNCTION: Required for rotation of the fast rotating sodium-driven
+    polar flagellar motor. Probable transmembrane proton channel.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the motA family.
+Chemotaxis; Flagellar rotation; Flagellum; Hydrogen ion transport;
+Inner membrane; Ion transport; Membrane; Transmembrane; Transport.
+TMFOUR

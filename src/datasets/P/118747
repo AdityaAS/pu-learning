@@ -1,0 +1,15 @@
+AC   P46922;
+Glycine betaine-binding protein precursor.
+"OpuA, an osmotically regulated binding protein-dependent transport
+system for the osmoprotectant glycine betaine in Bacillus subtilis.";
+"The 25 degrees-36 degrees region of the Bacillus subtilis chromosome:
+determination of the sequence of a 146 kb segment and identification
+of 113 genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in a multicomponent binding-protein-dependent
+    transport system for glycine betaine.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor.
+3D-structure; Amino-acid transport; Complete proteome; Lipoprotein;
+Membrane; Palmitate; Signal; Transport.
+TMZERO

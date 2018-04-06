@@ -1,0 +1,15 @@
+AC   P46249; Q9MD55;
+Preprotein translocase secY subunit.
+"A model for the evolution of the plastid sec apparatus inferred from
+secY gene phylogeny.";
+"The structure and gene repertoire of an ancient red algal plastid
+genome.";
+-!- FUNCTION: Involved in protein export. Probably interacts with
+    other proteins to allow the translocation of proteins across the
+    chloroplast endoplasmic reticulum (CER) membranes.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the secY/SEC61-alpha family.
+Chloroplast; Membrane; Plastid; Protein transport; Translocation;
+Transmembrane; Transport.
+TMNINE

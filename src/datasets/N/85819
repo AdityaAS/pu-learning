@@ -1,0 +1,32 @@
+AC   P50446; Q9Z332;
+Keratin, type II cytoskeletal 6A (Cytokeratin-6A) (CK 6A) (K6a
+keratin) (Keratin-6 alpha) (mK6-alpha).
+"The complete cDNA and deduced amino acid sequence of a type II mouse
+epidermal keratin of 60,000 Da: analysis of sequence differences
+between type I and type II keratins.";
+"The two functional keratin 6 genes of mouse are differentially
+regulated and evolved independently from their human orthologs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of a cloned sequence activated during multi-stage
+carcinogenesis in mouse skin.";
+-!- FUNCTION: There are two types of cytoskeletal and microfibrillar
+    keratin: I (acidic; 40-55 kDa) [K9 to K20] and II (neutral to
+    basic; 56-70 kDa) [K1 to K8]. Both a basic and an acidic keratin
+    are required for filament assembly.
+-!- SUBUNIT: Heterodimer of a type I and a type II keratin. KRT6
+    isomers associate with KRT16 and/or KRT17.
+-!- TISSUE SPECIFICITY: Predominates in the adult trunk skin, tongue,
+    trachea/esophagus and eye. In adult skin, localization is
+    restricted to hair follicles, where it is localized predominantly
+    in the outer root sheath.
+-!- INDUCTION: With the exception of specific body sites, keratin 6
+    expression is induced under conditions of epithelial
+    hyperproliferation such as wound healing, certain skin diseases,
+    cancer, and by treatment of the skin with the phorbol ester PMA.
+-!- SIMILARITY: Belongs to the intermediate filament family.
+ GO:0045109; P:intermediate filament organization; IGI:MGI.
+ GO:0031424; P:keratinization; IGI:MGI.
+ GO:0002009; P:morphogenesis of an epithelium; IGI:MGI.
+Coiled coil; Intermediate filament; Keratin; Phosphorylation.
+TMZERO

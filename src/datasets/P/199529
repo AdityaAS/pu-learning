@@ -1,0 +1,46 @@
+AC   Q09068; Q8VN83; Q8VN86; Q8VN88; Q8VN89; Q9S0Q4;
+Acid-activated urea channel (Urease accessory protein ureI).
+"Expression of Helicobacter pylori urease genes in Escherichia coli
+grown under nitrogen-limiting conditions.";
+"Identification of the urease operon in Helicobacter pylori and its
+control by mRNA decay in response to pH.";
+"Recombination and mutation during long-term gastric colonization by
+Helicobacter pylori: estimates of clock rates, recombination size and
+minimal age.";
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+"The Helicobacter pylori UreI protein is not involved in urease
+activity but is essential for bacterial survival in vivo.";
+"A H+-gated urea channel: the link between Helicobacter pylori urease
+and gastric colonization.";
+"Sites of pH regulation of the urea channel of Helicobacter pylori.";
+"The Helicobacter pylori UreI protein: role in adaptation to acidity
+and identification of residues essential for its activity and for acid
+activation.";
+"Interactions among the seven Helicobacter pylori proteins encoded by
+the urease gene cluster.";
+-!- FUNCTION: Functions as a specific, H(+)-activated urea channel
+    that increases the rate of urea entry into the cytoplasm,
+    resulting in activation of cytoplasmic urease at acidic medium pH.
+    Is essential for H.pylori gastric survival and colonization. Is
+    necessary for the adaptation of urease activity to the
+    extracellular pH, as in the presence of urea, ureI rapidly
+    enhances the production of ammonia in the extracellular medium
+    when the pH of the medium was decreased to pH5 or below.
+-!- SUBUNIT: Forms a membrane complex with the urease ureA/ureB.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: UreI-mediated transport is urea-specific, passive,
+    non-saturable, non-electrogenic, and temperature independent.
+-!- SIMILARITY: Belongs to the amiS/ureI family.
+-!- CAUTION: Was originally (Ref.1) thought to be an accessory protein
+    required for nickel incorporation at the urease active site or for
+    nickel transport. Actually, has been shown (Ref.5) not to be
+    required for the assembly of a catalytically active urease.
+-!- CAUTION: In Ref.7, mutational analysis indicated that His-123,
+    His-131, and His-193 were important for acid activation of urea
+    uptake in the Xenopus oocytes model, but in H.pylori itself
+    (Ref.8) His-193 seems to be the only histidine that is crucial for
+    ureI activation at low pH.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMSIX

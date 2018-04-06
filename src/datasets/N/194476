@@ -1,0 +1,11 @@
+AC   P70059;
+Trypsin precursor (EC 3.4.21.4).
+-!- CATALYTIC ACTIVITY: Preferential cleavage: Arg-|-Xaa, Lys-|-Xaa.
+-!- COFACTOR: Binds 1 calcium ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space.
+-!- SIMILARITY: Belongs to the peptidase S1 family.
+-!- SIMILARITY: Contains 1 peptidase S1 domain.
+ GO:0004295; F:trypsin activity; IEA:EC.
+Calcium; Digestion; Hydrolase; Metal-binding; Protease;
+Serine protease; Signal; Zymogen.
+TMZERO

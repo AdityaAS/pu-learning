@@ -1,0 +1,23 @@
+AC   P59998; O15509; Q6P0W5; Q96QJ3;
+Actin-related protein 2/3 complex subunit 4 (ARP2/3 complex 20 kDa
+subunit) (p20-ARC).
+"Mammalian actin-related protein 2/3 complex localizes to regions of
+lamellipodial protrusion and is composed of evolutionarily conserved
+proteins.";
+"The human Arp2/3 complex is composed of evolutionarily conserved
+subunits and is localized to cellular regions of dynamic actin
+filament assembly.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Exploring proteomes and analyzing protein processing by mass
+spectrometric identification of sorted N-terminal peptides.";
+-!- FUNCTION: Part of a complex implicated in the control of actin
+    polymerization in cells.
+-!- SUBUNIT: Belongs to a complex composed of ARP2, ARP3, ARPC1,
+    ARPC2, ARPC3, ARPC4 and ARPC5.
+-!- SIMILARITY: Belongs to the ARPC4 family.
+ GO:0005885; C:Arp2/3 protein complex; TAS:UniProtKB.
+ GO:0005200; F:structural constituent of cytoskeleton; TAS:UniProtKB.
+ GO:0045010; P:actin nucleation; TAS:UniProtKB.
+3D-structure; Acetylation; Cytoskeleton; Direct protein sequencing.
+TMZERO

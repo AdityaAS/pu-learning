@@ -1,0 +1,13 @@
+AC   P47633;
+10 kDa chaperonin (Protein Cpn10) (groES protein).
+"The minimal gene complement of Mycoplasma genitalium.";
+"A survey of the Mycoplasma genitalium genome by using random
+sequencing.";
+-!- FUNCTION: Binds to Cpn60 in the presence of Mg-ATP and suppresses
+    the ATPase activity of the latter.
+-!- SUBUNIT: Heptamer of 7 subunits arranged in a ring (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the groES chaperonin family.
+Chaperone; Complete proteome.
+TMZERO

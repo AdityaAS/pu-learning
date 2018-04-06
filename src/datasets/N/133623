@@ -1,0 +1,12 @@
+AC   Q7VAG9;
+PsbF-like protein.
+"Genome sequence of the cyanobacterium Prochlorococcus marinus SS120,
+a nearly minimal oxyphototrophic genome.";
+-!- FUNCTION: Unknown. Resembles psbF, one of the subunits of the
+    photosystem II reaction center. However is encodes asparagine
+    rather than histidine at the site psbF uses to bind heme.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the psbE/psbF family.
+Complete proteome; Membrane; Transmembrane.
+TMTWO

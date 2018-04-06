@@ -1,0 +1,11 @@
+AC   Q6GHJ9;
+UPF0122 protein SAR1212.
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Not known. Could take part in the signal recognition
+    particle (SRP) pathway. This is inferred due to the conservation
+    of its genetic proximity to ftsY/ffh. May be a regulatory protein.
+-!- SIMILARITY: Belongs to the UPF0122 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

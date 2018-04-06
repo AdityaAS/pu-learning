@@ -1,0 +1,18 @@
+AC   Q6FNL3;
+H/ACA ribonucleoprotein complex subunit 3 (Nucleolar protein family A
+member 3) (snoRNP protein NOP10).
+"Genome evolution in yeasts.";
+-!- FUNCTION: Required for ribosome biogenesis. Part of a complex
+    which catalyzes pseudouridylation of rRNA. This involves the
+    isomerization of uridine such that the ribose is subsequently
+    attached to C5, instead of the normal N1. Pseudouridine ("psi")
+    residues may serve to stabilize the conformation of rRNAs (By
+    similarity).
+-!- SUBUNIT: Component of the small nucleolar ribonucleoprotein
+    particles containing H/ACA-type snoRNAs (H/ACA snoRNPs) (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus (By similarity).
+-!- SIMILARITY: Belongs to the NOP10 family.
+Complete proteome; Nuclear protein; Ribonucleoprotein;
+Ribosome biogenesis; rRNA processing.
+TMZERO

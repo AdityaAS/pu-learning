@@ -1,0 +1,21 @@
+AC   P10154;
+Lymphotoxin-alpha precursor (LT-alpha) (TNF-beta) (Tumor necrosis
+factor ligand superfamily member 1).
+"Structural analysis of the rabbit TNF locus, containing the genes
+encoding TNF-beta (lymphotoxin) and TNF-alpha (tumor necrosis
+factor).";
+"Cloning and structural analysis of genes coding for tumor necrosis
+factor and lymphotoxin in rabbits.";
+-!- FUNCTION: Cytokine that in its homotrimeric form binds to
+    TNFRSF1A/TNFR1, TNFRSF1B/TNFBR and TNFRSF14/HVEM. In its
+    heterotrimeric form with LTB binds to TNFRSF3/LTBR. Lymphotoxin is
+    produced by lymphocytes and cytotoxic for a wide range of tumor
+    cells in vitro and in vivo.
+-!- SUBUNIT: Homotrimer, and heterotrimer of either two LTB and one
+    LTA subunits or (less prevalent) two LTA and one LTB subunits (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Homotrimer: Secreted protein (By
+    similarity). Heterotrimer: Membrane (By similarity).
+-!- SIMILARITY: Belongs to the tumor necrosis factor family.
+Cytokine; Glycoprotein; Signal.
+TMZERO

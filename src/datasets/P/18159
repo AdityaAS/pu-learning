@@ -1,0 +1,56 @@
+AC   P06129; Q2M8R1;
+Vitamin B12 transporter btuB precursor (Cobalamin receptor) (Outer
+membrane cobalamin translocator).
+"Nucleotide sequence of the gene for the vitamin B12 receptor protein
+in the outer membrane of Escherichia coli.";
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The trmA promoter has regulatory features and sequence elements in
+common with the rRNA P1 promoter family of Escherichia coli.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"The Escherichia coli mutant requiring D-glutamic acid is the result
+of mutations in two distinct genetic loci.";
+"Point mutations in a conserved region (TonB box) of Escherichia coli
+outer membrane protein BtuB affect vitamin B12 transport.";
+"Coupled changes in translation and transcription during cobalamin-
+dependent regulation of btuB expression in Escherichia coli.";
+"Site-directed disulfide bonding reveals an interaction site between
+energy-coupling protein TonB and BtuB, the outer membrane cobalamin
+transporter.";
+"Transport-defective mutations alter the conformation of the energy-
+coupling motif of an outer membrane transporter.";
+"The Escherichia coli outer membrane cobalamin transporter BtuB:
+structural analysis of calcium and substrate binding, and
+identification of orthologous transporters by sequence/structure
+conservation.";
+"Crystallization and initial X-ray diffraction of BtuB, the integral
+membrane cobalamin transporter of Escherichia coli.";
+"Substrate-induced transmembrane signaling in the cobalamin
+transporter BtuB.";
+"The structure of BtuB with bound colicin E3 R-domain implies a
+translocon.";
+-!- FUNCTION: Involved in the active translocation of vitamin B12
+    (cyanocobalamin) across the outer membrane to the periplasmic
+    space. It derives its energy for transport by interacting with the
+    trans-periplasmic membrane protein tonB. Is also a receptor for
+    bacteriophages BF23 and C1, and for A and E colicins.
+-!- ENZYME REGULATION: Calcium increases vitamin B12 binding affinity
+    by a factor of 50-100.
+-!- INTERACTION:
+    P00646:ceaC; NbExp=1; IntAct=EBI-1037258, EBI-1029919;
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Constitutively expressed.
+-!- MISCELLANEOUS: Primary control of btuB expression by cobalamin
+    occurs at the level of translation initiation.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family. BtuB
+    (TC 1.B.14.3.1) subfamily.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Calcium; Complete proteome; Direct protein sequencing;
+Membrane; Metal-binding; Outer membrane; Phage recognition; Receptor;
+Signal; TonB box; Transmembrane; Transport.
+TMTWENTYTWO

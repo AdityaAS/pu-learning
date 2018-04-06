@@ -1,0 +1,28 @@
+AC   P32293;
+Auxin-induced protein 22A (Indole-3-acetic acid-induced protein ARG3).
+"cDNA cloning of indole-3-acetic acid regulated genes: Aux22 and SAUR
+from mung bean (Vigna radiata) hypocotyl tissue.";
+-!- FUNCTION: Aux/IAA proteins are short-lived transcriptional factors
+    that function as repressor of early auxin response genes at low
+    auxin concentrations. Repression is thought to result from the
+    interaction with auxin response factors (ARFs), proteins that bind
+    to the auxin-responsive promoter element (AuxRE). Formation of
+    heterodimers with ARF proteins may alter their ability to modulate
+    early auxin response genes expression (By similarity).
+-!- SUBUNIT: Homo and heterodimers (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- DEVELOPMENTAL STAGE: Found in elongating hypocotyls.
+-!- INDUCTION: By auxin and cycloheximide.
+-!- DOMAIN: The N-terminal half of the protein contains two conserved
+    domains I and II. Domain I includes a slightly degenerated ERF-
+    associated amphiphilic repression (EAR) motif which seems to be
+    involved in the activity of transcriptional repression. Domain II
+    is required for the correct degradation of the protein through the
+    SCF-mediated ubiquitin-proteasome pathway. Interactions between
+    Aux/IAA proteins and auxin response factors (ARFs) occur through
+    their C-terminal dimerization domains III and IV (By similarity).
+-!- SIMILARITY: Belongs to the Aux/IAA family.
+-!- SIMILARITY: Contains 1 Aux/IAA-ARF domain.
+Auxin signaling pathway; Nuclear protein; Repressor; Transcription;
+Transcription regulation.
+TMZERO

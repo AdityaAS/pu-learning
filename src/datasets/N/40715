@@ -1,0 +1,15 @@
+AC   Q73SV2;
+Deoxyribose-phosphate aldolase (EC 4.1.2.4) (Phosphodeoxyriboaldolase)
+(Deoxyriboaldolase) (DERA).
+"The complete genome sequence of Mycobacterium avium subspecies
+paratuberculosis.";
+-!- CATALYTIC ACTIVITY: 2-deoxy-D-ribose 5-phosphate = D-
+    glyceraldehyde 3-phosphate + acetaldehyde.
+-!- PATHWAY: Metabolic intermediate biosynthesis; 5-phospho-alpha-D-
+    ribose 1-diphosphate biosynthesis; 5-phospho-alpha-D-ribose 1-
+    diphosphate from D-ribose 5-phosphate (route II): step 1.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the deoC/fbaB aldolase family. DeoC type 1
+    subfamily.
+Complete proteome; Lyase; Schiff base.
+TMZERO

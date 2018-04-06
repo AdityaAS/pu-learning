@@ -1,0 +1,14 @@
+AC   Q5HS36;
+tRNA modification GTPase trmE.
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Exhibits a very high intrinsic GTPase hydrolysis rate.
+    Involved in the biosynthesis of the hypermodified nucleoside 5-
+    methylaminomethyl-2-thiouridine, which is found in the wobble
+    position of some tRNAs (By similarity).
+-!- SIMILARITY: Belongs to the era/trmE GTP-binding protein family.
+    TrmE subfamily.
+Complete proteome; GTP-binding; Nucleotide-binding; tRNA processing.
+TMZERO

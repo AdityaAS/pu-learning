@@ -1,0 +1,11 @@
+AC   Q8FW65;
+Putative Holliday junction resolvase (EC 3.1.-.-).
+"The Brucella suis genome reveals fundamental similarities between
+animal and plant pathogens and symbionts.";
+-!- FUNCTION: Could be a nuclease that resolves Holliday junction
+    intermediates in genetic recombination.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the yqgF HJR family.
+Complete proteome; DNA damage; DNA recombination; DNA repair;
+Hydrolase; Nuclease.
+TMZERO

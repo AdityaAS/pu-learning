@@ -1,0 +1,69 @@
+AC   P68187; P02914; Q2M6R9; Q47348;
+Maltose/maltodextrin import ATP-binding protein malK (EC 3.6.3.19).
+"Sequence of the malK gene in E.coli K12.";
+"Comparison of sequences from the malB regions of Salmonella
+typhimurium and Enterobacter aerogenes with Escherichia coli K12: a
+potential new regulatory site in the interoperonic region.";
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"A DNA sequence containing the control regions of the malEFG and malK-
+lamB operons in Escherichia coli K12.";
+"Overproduction, solubilization, and reconstitution of the maltose
+transport system from Escherichia coli.";
+"Regulation of the maltose transport system of Escherichia coli by the
+glucose-specific enzyme III of the phosphoenolpyruvate-sugar
+phosphotransferase system. Characterization of inducer exclusion-
+resistant mutants and reconstitution of inducer exclusion in
+proteoliposomes.";
+"Purification and characterization of the membrane-associated
+components of the maltose transport system from Escherichia coli.";
+"The activities of the Escherichia coli MalK protein in maltose
+transport, regulation, and inducer exclusion can be separated by
+mutations.";
+"The ATP-binding cassette subunit of the maltose transporter MalK
+antagonizes MalT, the activator of the Escherichia coli mal regulon.";
+"Subunit interactions in ABC transporters: a conserved sequence in
+hydrophobic membrane proteins of periplasmic permeases defines an
+important site of interaction with the ATPase subunits.";
+"ATP modulates subunit-subunit interactions in an ATP-binding cassette
+transporter (MalFGK2) determined by site-directed chemical cross-
+linking.";
+"Structural model of MalK, the ABC subunit of the maltose transporter
+of Escherichia coli: implications for mal gene regulation, inducer
+exclusion, and subunit assembly.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Maltose/maltodextrin system of Escherichia coli: transport,
+metabolism, and regulation.";
+"Import of solutes by ABC transporters - The maltose and other
+systems.";
+"A tweezers-like motion of the ATP-binding cassette dimer in an ABC
+transport cycle.";
+-!- FUNCTION: Part of the ABC transporter complex malEFGK involved in
+    maltose/maltodextrin import. Responsible for energy coupling to
+    the transport system.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + maltose(Out) = ADP + phosphate +
+    maltose(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (malK), two transmembrane proteins (malG and malF) and a solute-
+    binding protein (malE).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- MISCELLANEOUS: Target for inducer exclusion, mediated by the
+    unphosphorylated enzyme III of the phosphotransferase system for
+    glucose and resulting in the inhibition of maltose transport.
+-!- MISCELLANEOUS: Acts as a repressor of mal genes. In absence of
+    maltose, the C-terminus of malK interacts with malT, then malT
+    becomes inactive and the mal genes are not activated. In presence
+    of maltose, malK is tightly associated with the malFG complex and
+    has no affinity for malT.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+    Maltooligosaccharide importer (TC 3.A.1.1.1) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0015423; F:maltose-transporting ATPase activity; IEA:EC.
+3D-structure; ATP-binding; Complete proteome; Hydrolase;
+Inner membrane; Membrane; Nucleotide-binding; Sugar transport;
+Transport.
+TMZERO

@@ -1,0 +1,84 @@
+AC   Q62962; O55163;
+Amiloride-sensitive cation channel 1, neuronal (Amiloride-sensitive
+brain sodium channel) (Amiloride-sensitive brain sodium channel 2)
+(Amiloride-sensitive cation channel neuronal 1) (Acid-sensing ion
+channel 2) (Brain sodium channel 1) (BNaC1) (BNC1) (Mammalian
+degenerin homolog) (MDEG).
+"The mammalian degenerin MDEG, an amiloride-sensitive cation channel
+activated by mutations causing neurodegeneration in Caenorhabditis
+elegans.";
+"A modulatory subunit of acid sensing ion channels in brain and dorsal
+root ganglion cells.";
+"The acid-sensitive ionic channel subunit ASIC and the mammalian
+degenerin MDEG form a heteromultimeric H+-gated Na+ channel with novel
+properties.";
+"Zn2+ and H+ are coactivators of acid-sensing ion channels.";
+"Nonsteroid anti-inflammatory drugs inhibit both the activity and the
+inflammation-induced expression of acid-sensing ion channels in
+nociceptors.";
+"Functional implications of the localization and activity of acid-
+sensitive channels in rat peripheral nervous system.";
+"ASIC2b-dependent regulation of ASIC3, an essential acid-sensing ion
+channel subunit in sensory neurons via the partner protein PICK-1.";
+"Analysis of the membrane topology of the acid-sensing ion channel
+2a.";
+-!- FUNCTION: Cation channel with high affinity for sodium, which is
+    gated by extracellular protons and inhibited by the diuretic
+    amiloride. Also permeable for Li(+) and K(+). Activation by an
+    extracellular pH drop is followed by a rapid pH-independent
+    inactivation. Heteromeric channel assembly seems to modulate
+    channel properties.
+-!- SUBUNIT: Homotetramer or heterotetramer with other ASIC proteins
+    (Probable). Interacts with PRKCABP and STOM (By similarity).
+    Interacts with ACCN2. Isoform 2 interacts with ACCN3.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Note=Localized at the plasma membrane of neurons, in the soma and
+    punctated peripheral processes.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=Mdeg1, Asic2a;
+      IsoId=Q62962-1; Sequence=Displayed;
+    Name=2; Synonyms=Mdeg2, Asic2b;
+      IsoId=Q62962-2; Sequence=VSP_015594, VSP_015595;
+      Note=Seems to be inactive as monomer or in a monomeric assembly
+      and is not activated by mutagenesis of Gly-430. Mutagenesis of
+      Ser-60 into Gly reduces activation by PKC through PRKCABP/PICK-1
+      of a ACCN3/ASIC3-ACCN1/ASIC2b channel;
+-!- TISSUE SPECIFICITY: Expressed in sciatic nerve and dorsal root
+    ganglion (DRG) (at protein level). Both isoforms display the same
+    expression pattern except in DRG where isoform 2 is more
+    abundantly expressed. Widely distributed throughout the brain.
+    Highly expressed in the main olfactory bulb, neo- and allo-
+    cortical regions, hippocampal formation, habenula, basolateral
+    amygdaloid nuclei, and cerebellum. In the olfactory system,
+    expressed in the glomerular cell layer, the internal granular
+    layer, and the mitral and internal plexiform cell layers. Within
+    the glomerular layer, restricted to the periglomerular cells. In
+    the neocortex, strongly expressed in the large pyramidal neurons
+    in all cortical layers as well as in the oligo-, astro-, or micro-
+    glia cells. In the hippocampal formation, expressed in dentate
+    granule cells and hilar neurons, as well as in pyramidal cells of
+    CA1-CA3 subfields. Expressed in stratum oriens and radiatum of all
+    subfields. Within the thalamus, expressed moderately in the medial
+    and lateral habenula. In the cerebellar cortex expressed in
+    Purkinje cells and granule cells. Expressed at low levels in
+    choroid plexus.
+-!- DEVELOPMENTAL STAGE: Appears just before birth, reaches maximum
+    levels after birth, then declines slightly until adulthood.
+-!- INDUCTION: Up-regulation upon tissues inflammation is abolished by
+    anti-inflammatory drugs.
+-!- MISCELLANEOUS: Regulated by Zn(2+). Inhibited by anti-inflammatory
+    drugs like salicylic acid.
+-!- SIMILARITY: Belongs to the amiloride-sensitive sodium channel
+    family.
+ GO:0015280; F:amiloride-sensitive sodium channel activity; IMP:RGD.
+ GO:0005248; F:voltage-gated sodium channel activity; IDA:RGD.
+ GO:0006812; P:cation transport; TAS:RGD.
+ GO:0001101; P:response to acid; IMP:RGD.
+ GO:0019233; P:sensory perception of pain; IPI:RGD.
+ GO:0050915; P:sensory perception of sour taste; TAS:RGD.
+ GO:0006814; P:sodium ion transport; IDA:RGD.
+Alternative splicing; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Sodium; Sodium channel; Sodium transport; Transmembrane;
+Transport.
+TMTWO

@@ -1,0 +1,65 @@
+AC   P97690;
+Structural maintenance of chromosomes protein 3 (Chondroitin sulfate
+proteoglycan 6) (Chromosome segregation protein SmcD) (Bamacan)
+(Basement membrane-associated chondroitin proteoglycan).
+"cDNA cloning of the basement membrane chondroitin sulfate
+proteoglycan core protein, bamacan: a five domain structure including
+coiled-coil motifs.";
+"Association of mammalian SMC1 and SMC3 proteins with meiotic
+chromosomes and synaptonemal complexes.";
+-!- FUNCTION: Involved in chromosome cohesion during cell cycle and in
+    DNA repair. Central component of cohesin complex. The cohesin
+    complex is required for the cohesion of sister chromatids after
+    DNA replication. The cohesin complex apparently forms a large
+    proteinaceous ring within which sister chromatids can be trapped.
+    At anaphase, the complex is cleaved and dissociates from
+    chromatin, allowing sister chromatids to segregate. The cohesin
+    complex may also play a role in spindle pole assembly during
+    mitosis (By similarity).
+-!- SUBUNIT: Forms a heterodimer with SMC1A or SMC1B in cohesin
+    complexes. Cohesin complexes are composed of the SMC1 (SMC1A or
+    SMC1B) and SMC3 heterodimer attached via their hinge domain, RAD21
+    which link them, and one STAG protein (STAG1, STAG2 or STAG3),
+    which interacts with RAD21. Also found in meiosis-specific cohesin
+    complexes. Interacts with NUMA1, and forms a ternary complex with
+    KIF3B and KIFAP3, suggesting a function in tethering the
+    chromosomes to the spindle pole and a function in chromosome
+    movement. Interacts with MXI1, MXD3 and MXD4. Found in a complex
+    with SMC1A, CDCA5 and RAD21, PDS5A/APRIN and PDS5B/SCC-112 (By
+    similarity). Interacts with SYCP2.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Note=Associates
+    with chromatin. Before prophase it is scattered along chromosome
+    arms. During prophase, most of cohesin complexes dissociate from
+    chromatin probably because of phosphorylation by PLK, except at
+    centromeres, where cohesin complexes remain. At anaphase, the
+    RAD21 subunit of the cohesin complex is cleaved, leading to the
+    dissociation of the complex from chromosomes, allowing chromosome
+    separation (By similarity).
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- DOMAIN: The flexible hinge domain, which separates the large
+    intramolecular coiled coil regions, allows the heterotypic
+    interaction with the corresponding domain of SMC1A or SMC1B,
+    forming a V-shaped heterodimer. The two heads of the heterodimer
+    are then connected by different ends of the cleavable RAD21
+    protein, forming a ring structure (By similarity).
+-!- SIMILARITY: Belongs to the SMC family. SMC3 subfamily.
+-!- CAUTION: Ref.1 originally reported this protein to be a
+    proteoglycan (thus explaining its name). Although not excluded,
+    such secreted function is not clear.
+ GO:0005604; C:basement membrane; IDA:RGD.
+ GO:0008278; C:cohesin complex; ISS:UniProtKB.
+ GO:0005737; C:cytoplasm; ISS:UniProtKB.
+ GO:0016363; C:nuclear matrix; ISS:UniProtKB.
+ GO:0000922; C:spindle pole; ISS:UniProtKB.
+ GO:0045502; F:dynein binding; ISS:UniProtKB.
+ GO:0005201; F:extracellular matrix structural constituent; IEP:RGD.
+ GO:0003777; F:microtubule motor activity; ISS:UniProtKB.
+ GO:0046982; F:protein heterodimerization activity; ISS:UniProtKB.
+ GO:0007126; P:meiosis; ISS:UniProtKB.
+ GO:0007052; P:mitotic spindle organization and biogenesis; ISS:UniProtKB.
+ GO:0007165; P:signal transduction; ISS:UniProtKB.
+ GO:0007062; P:sister chromatid cohesion; ISS:UniProtKB.
+ATP-binding; Cell cycle; Cell division; Chromosome partition;
+Coiled coil; DNA damage; DNA repair; Meiosis; Mitosis;
+Nuclear protein; Nucleotide-binding; Phosphorylation.
+TMZERO

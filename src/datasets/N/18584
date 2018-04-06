@@ -1,0 +1,16 @@
+AC   P90771; O02645;
+Probable cytochrome P450 CYP36A1 (EC 1.14.-.-).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Cytochromes P450 are a group of heme-thiolate
+    monooxygenases. They oxidize a variety of structurally unrelated
+    compounds, including steroids, fatty acids, and xenobiotics.
+-!- INTERACTION:
+    O18302:ZK849.2a; NbExp=1; IntAct=EBI-316576, EBI-312747;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Heme; Iron; Membrane; Metal-binding; Monooxygenase;
+Oxidoreductase; Transmembrane.
+THTHREE

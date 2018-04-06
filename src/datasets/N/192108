@@ -1,0 +1,17 @@
+AC   Q9RHS9;
+tRNA (uracil-5-)-methyltransferase (EC 2.1.1.35) (tRNA(M-5-U54)-
+methyltransferase) (RUMT).
+"Cloning and characterization of the Pseudomonas fluorescens ATP-
+binding cassette exporter, HasDEF, for the heme acquisition protein
+HasA.";
+-!- FUNCTION: Catalyzes the formation of 5-methyl-uridine at position
+    54 (M-5-U54) in all tRNA (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + tRNA containing
+    uridine at position 54 = S-adenosyl-L-homocysteine + tRNA
+    containing ribothymidine at position 54.
+-!- SIMILARITY: Belongs to the RNA M5U methyltransferase family. TrmA
+    subfamily.
+ GO:0006400; P:tRNA modification; IEA:HAMAP.
+Methyltransferase; S-adenosyl-L-methionine; Transferase;
+tRNA processing.
+TMZERO

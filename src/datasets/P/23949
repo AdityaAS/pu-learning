@@ -1,0 +1,14 @@
+AC   P22687;
+Cholesteryl ester transfer protein precursor (Lipid transfer protein
+I) (Fragment).
+"Cloning and mRNA tissue distribution of rabbit cholesteryl ester
+transfer protein.";
+-!- FUNCTION: Involved in the transfer of insoluble cholesteryl esters
+    in the reverse transport of cholesterol.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+-!- SIMILARITY: Belongs to the BPI/LBP/Plunc superfamily. BPI/LBP
+    family.
+Cholesterol metabolism; Glycoprotein; Lipid metabolism;
+Lipid transport; Signal; Steroid metabolism; Transport.
+TMZERO

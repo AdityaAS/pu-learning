@@ -1,0 +1,54 @@
+AC   O08721;
+Netrin receptor UNC5A precursor (Unc-5 homolog A) (Unc-5 homolog 1).
+"Vertebrate homologues of C. elegans UNC-5 are candidate netrin
+receptors.";
+"A ligand-gated association between cytoplasmic domains of UNC5 and
+DCC family receptors converts netrin-induced growth cone attraction to
+repulsion.";
+"Expression patterns of the netrin receptor UNC5H1 among developing
+motor neurons in the embryonic rat hindbrain.";
+"Netrin-1 acts as a survival factor via its receptors UNC5H and DCC.";
+"UNC5H1 induces apoptosis via its juxtamembrane region through an
+interaction with NRAGE.";
+"Surface expression of the netrin receptor UNC5H1 is regulated through
+a protein kinase C-interacting protein/protein kinase-dependent
+mechanism.";
+-!- FUNCTION: Receptor for netrin required for axon guidance. Mediates
+    axon repulsion of neuronal growth cones in the developing nervous
+    system upon ligand binding. Axon repulsion in growth cones may be
+    caused by its association with DCC that may trigger signaling for
+    repulsion. It also acts as a dependence receptor required for
+    apoptosis induction when not associated with netrin ligand.
+-!- SUBUNIT: Interacts with the cytoplasmic part of DCC. Interacts
+    with MAGED1. Interacts with PRKCABP, possibly mediating some
+    interaction with PKC.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type I membrane
+    protein. Note=The interaction with PRKCABP regulates its surface
+    expression and leads to its removal from surface of neurons and
+    growth cones.
+-!- TISSUE SPECIFICITY: Mainly expressed in regions of differentiating
+    neurons. Expressed at early stages of neural tube development in
+    the ventral spinal cord. In developing hindbrain, it colocalizes
+    with a number of cranial motor neuron subpopulations from
+    embryonic E11 to E14, while DCC is expressed by motor neurons at
+    E12. Also expressed in non-neural structures, such as the basal
+    plane of the hindbrain and midbrain, in the developing
+    hypothalamus, thalamus and in the pallidum.
+-!- DOMAIN: The ZU5 domain mediates the interaction with MAGED1, which
+    participates in the induction of apoptosis.
+-!- PTM: Phosphorylated on cytoplasmic tyrosine residues (By
+    similarity). Phosphorylated by PKC in vitro.
+-!- PTM: Proteolytically cleaved by caspases during apoptosis. The
+    cleavage does not take place when the receptor is associated with
+    netrin ligand. Its cleavage by caspases is required to induce
+    apoptosis.
+-!- SIMILARITY: Belongs to the UNC-5 family.
+-!- SIMILARITY: Contains 1 death domain.
+-!- SIMILARITY: Contains 1 Ig-like (immunoglobulin-like) domain.
+-!- SIMILARITY: Contains 1 Ig-like C2-type (immunoglobulin-like)
+    domain.
+-!- SIMILARITY: Contains 2 TSP type-1 domains.
+-!- SIMILARITY: Contains 1 ZU5 domain.
+Apoptosis; Developmental protein; Glycoprotein; Immunoglobulin domain;
+Membrane; Phosphorylation; Receptor; Repeat; Signal; Transmembrane.
+TMONE

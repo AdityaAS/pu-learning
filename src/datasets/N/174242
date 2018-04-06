@@ -1,0 +1,12 @@
+AC   P09539;
+Somatotropin precursor (Growth hormone).
+"cDNA cloning and primary structure of yellow tail (Seriola
+quinqueradiata) pregrowth hormone.";
+-!- FUNCTION: Growth hormone plays an important role in growth control
+    and is involved in the regulation of several anabolic processes.
+    Implicated as an osmoregulatory substance important for seawater
+    adaptation.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the somatotropin/prolactin family.
+Hormone; Pyrrolidone carboxylic acid; Signal.
+TMZERO

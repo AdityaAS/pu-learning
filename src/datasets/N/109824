@@ -1,0 +1,32 @@
+AC   Q60HG4;
+NADH-cytochrome b5 reductase (EC 1.6.2.2) (B5R) (Diaphorase-1)
+(Cytochrome b5 reductase 3) [Contains: NADH-cytochrome b5 reductase
+membrane-bound form; NADH-cytochrome b5 reductase soluble form].
+"Isolation and characterization of cDNA for macaque neurological
+disease genes.";
+-!- FUNCTION: Desaturation and elongation of fatty acids, cholesterol
+    biosynthesis, drug metabolism, and, in erythrocyte, methemoglobin
+    reduction (By similarity).
+-!- CATALYTIC ACTIVITY: NADH + 2 ferricytochrome b5 = NAD(+) + 2
+    ferrocytochrome b5.
+-!- COFACTOR: FAD (By similarity).
+-!- PATHWAY: Microsomal electron transport system.
+-!- SUBCELLULAR LOCATION: Isoform 1: Endoplasmic reticulum;
+    endoplasmic reticulum membrane; lipid-anchor; cytoplasmic side (By
+    similarity). Mitochondrion; mitochondrial outer membrane; lipid-
+    anchor; cytoplasmic side (By similarity). Isoform 2: Cytoplasm.
+    Note=Isoform 2 produces the soluble form found in erythrocytes (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative promoter usage; Named isoforms=2;
+    Name=1; Synonyms=M;
+      IsoId=Q60HG4-1; Sequence=Displayed;
+    Name=2; Synonyms=S;
+      IsoId=Q60HG4-2; Sequence=VSP_013359;
+-!- SIMILARITY: Belongs to the flavoprotein pyridine nucleotide
+    cytochrome reductase family.
+Acetylation; Alternative promoter usage; Cholesterol biosynthesis;
+Endoplasmic reticulum; FAD; Flavoprotein; Lipid synthesis;
+Lipoprotein; Membrane; Myristate; NAD; Oxidoreductase;
+Steroid biosynthesis; Sterol biosynthesis.
+TMZERO

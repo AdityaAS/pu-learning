@@ -1,0 +1,21 @@
+AC   Q8A488;
+50S ribosomal protein L5.
+"A genomic view of the human-Bacteroides thetaiotaomicron symbiosis.";
+-!- FUNCTION: This is 1 of the proteins that binds and probably
+    mediates the attachment of the 5S RNA into the large ribosomal
+    subunit, where it forms part of the central protuberance. In the
+    70S ribosome it contacts protein S13 of the 30S subunit (bridge
+    B1b), connecting the 2 subunits; this bridge is implicated in
+    subunit movement. Contacts the P site tRNA; the 5S rRNA and some
+    of its associated proteins might help stabilize positioning of
+    ribosome-bound tRNAs (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit; part of the 5S
+    rRNA/L5/L18/L25 subcomplex. Contacts the 5S rRNA and the P site
+    tRNA. Forms a bridge to the 30S subunit in the 70S ribosome (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L5P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding; tRNA-binding.
+TMZERO

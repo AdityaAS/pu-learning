@@ -1,0 +1,82 @@
+AC   Q9UNQ0; O95374; Q53ZQ1; Q569L4; Q5YLG4; Q86V64; Q8IX16; Q96LD6;
+AC   Q96TA8; Q9BY73; Q9NUS0;
+ATP-binding cassette sub-family G member 2 (Placenta-specific ATP-
+binding cassette transporter) (Breast cancer resistance protein)
+(Mitoxantrone resistance-associated protein) (CD338 antigen) (CDw338).
+"A human placenta-specific ATP-binding cassette gene (ABCP) on
+chromosome 4q22 that is involved in multidrug resistance.";
+"A multidrug resistance transporter from human MCF-7 breast cancer
+cells.";
+"Breast cancer resistance protein constitutes a 140-kDa complex as a
+homodimer.";
+"Identification of breast cancer resistant protein/mitoxantrone
+resistance/placenta-specific, ATP-binding cassette transporter as a
+transporter of NB-506 and J-107088, topoisomerase I inhibitors with an
+indolocarbazole structure.";
+"The ABC transporter Bcrp1/ABCG2 is expressed in a wide variety of
+stem cells and is a molecular determinant of the side-population
+phenotype.";
+"The expression and functional characterization of ABCG2 in brain
+endothelial cells and vessels.";
+"Cell line K562 resistant to Hoechst 33342.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Molecular cloning of cDNAs which are highly overexpressed in
+mitoxantrone-resistant cells: demonstration of homology to ABC
+transport genes.";
+"Role of ABCG1 and other ABCG family members in lipid metabolism.";
+"Catalog of 605 single-nucleotide polymorphisms (SNPs) among 13 genes
+encoding human ATP-binding cassette transporters: ABCA4, ABCA7, ABCA8,
+ABCD1, ABCD3, ABCD4, ABCE1, ABCF1, ABCG1, ABCG2, ABCG4, ABCG5, and
+ABCG8.";
+"Eight novel single nucleotide polymorphisms in ABCG2/BCRP in Japanese
+cancer patients administered irinotacan.";
+"Single nucleotide polymorphisms modify the transporter activity of
+ABCG2.";
+"N-linked glycosylation of the human ABC transporter ABCG2 on
+asparagine 596 is not essential for expression, transport activity, or
+trafficking to the plasma membrane.";
+"Effect of Walker A mutation (K86M) on oligomerization and surface
+targeting of the multidrug resistance transporter ABCG2.";
+"Single amino acid (482) variants of the ABCG2 multidrug transporter:
+major differences in transport capacity and substrate recognition.";
+-!- FUNCTION: Xenobiotic transporter that may play an important role
+    in the exclusion of xenobiotics from the brain. May be involved in
+    brain-to-blood efflux. Appears to play a major role in the
+    multidrug resistance phenotype of several cancer cell lines. When
+    overexpressed, the transfected cells become resistant to
+    mitoxantrone, daunorubicin and doxorubicin, display diminished
+    intracellular accumulation of daunorubicin, and manifest an ATP-
+    dependent increase in the efflux of rhodamine 123.
+-!- SUBUNIT: Monomer or homodimer; disulfide-linked.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9UNQ0-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9UNQ0-2; Sequence=VSP_014232, VSP_014233;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Highly expressed in placenta. Low expression
+    in small intestine, liver and colon.
+-!- INDUCTION: Up-regulated in brain tumors.
+-!- PTM: Glycosylation-deficient ABCG2 is normally expressed and
+    functional.
+-!- SIMILARITY: Belongs to the ABC transporter family. ABCG (White)
+    subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- CAUTION: Ref.12 sequences differ from that shown due to several
+    frameshifts.
+-!- CAUTION: Ref.12 sequences differ from that shown due to sequencing
+    errors.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0005524; F:ATP binding; TAS:ProtInc.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; TAS:ProtInc.
+ GO:0042493; P:response to drug; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Alternative splicing; ATP-binding; Glycoprotein; Membrane;
+Nucleotide-binding; Polymorphism; Transmembrane; Transport.
+TMSIX

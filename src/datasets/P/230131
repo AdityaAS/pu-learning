@@ -1,0 +1,12 @@
+AC   Q01251;
+Yop proteins translocation lipoprotein J precursor (Lipoprotein ylpB).
+"Analysis of virC, an operon involved in the secretion of Yop proteins
+by Yersinia enterocolitica.";
+-!- FUNCTION: Required for the export process of the Yop proteins.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor
+    (Probable).
+-!- INDUCTION: At 37 degrees Celsius in the absence of calcium.
+-!- SIMILARITY: Belongs to the yscJ lipoprotein family.
+Lipoprotein; Membrane; Outer membrane; Palmitate; Plasmid;
+Protein transport; Signal; Transmembrane; Transport; Virulence.
+TMONE

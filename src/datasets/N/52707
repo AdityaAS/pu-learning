@@ -1,0 +1,11 @@
+AC   Q8DSN8;
+(3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.-)
+((3R)-hydroxymyristoyl ACP dehydrase).
+"Genome sequence of Streptococcus mutans UA159, a cariogenic dental
+pathogen.";
+-!- FUNCTION: Involved in saturated fatty acids biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the thioester dehydratase family.
+ GO:0009245; P:lipid A biosynthesis; IEA:HAMAP.
+Complete proteome; Lipid A biosynthesis; Lipid synthesis; Lyase.
+TMZERO

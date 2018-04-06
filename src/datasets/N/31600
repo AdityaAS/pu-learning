@@ -1,0 +1,18 @@
+AC   Q64583;
+Cytochrome P450 2B15 (EC 1.14.14.1) (CYPIIB15).
+"Cloning and sequencing of a novel rat cytochrome P450 2B-encoding
+gene.";
+-!- FUNCTION: Cytochromes P450 are a group of heme-thiolate
+    monooxygenases. In liver microsomes, this enzyme is involved in an
+    NADPH-dependent electron transport pathway. It oxidizes a variety
+    of structurally unrelated compounds, including steroids, fatty
+    acids, and xenobiotics (By similarity).
+-!- CATALYTIC ACTIVITY: RH + reduced flavoprotein + O(2) = ROH +
+    oxidized flavoprotein + H(2)O.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; peripheral membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+ GO:0050381; F:unspecific monooxygenase activity; IEA:EC.
+Endoplasmic reticulum; Heme; Iron; Membrane; Metal-binding; Microsome;
+Monooxygenase; Oxidoreductase; Phosphorylation.
+TMZERO

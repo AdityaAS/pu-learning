@@ -1,0 +1,21 @@
+AC   P04667; Q91477; Q91478; Q91479;
+Insulin precursor [Contains: Insulin B chain; Insulin A chain].
+"Sequence of the salmon (Oncorhynchus keta) preproinsulin gene.";
+"Nucleotide sequence of cloned insulin cDNA of Oncorhyncus keta.";
+"Nucleotide sequence analysis of the cloned salmon preproinsulin
+cDNA.";
+"Cloning of the insulin gene of a fish (Oncorhynchus keta) in
+Escherichia coli.";
+"Amino acid sequence of the insulin of the dog salmon Oncorhynchus
+keta.";
+-!- FUNCTION: Insulin decreases blood glucose concentration. It
+    increases cell permeability to monosaccharides, amino acids and
+    fatty acids. It accelerates glycolysis, the pentose phosphate
+    cycle, and glycogen synthesis in liver.
+-!- SUBUNIT: Heterodimer of a B chain and an A chain linked by two
+    disulfide bonds.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the insulin family.
+Carbohydrate metabolism; Direct protein sequencing;
+Glucose metabolism; Hormone; Signal.
+TMZERO

@@ -1,0 +1,21 @@
+AC   Q6HG59;
+1-deoxy-D-xylulose 5-phosphate reductoisomerase 1 (EC 1.1.1.267) (DXP
+reductoisomerase 1) (1-deoxyxylulose-5-phosphate reductoisomerase 1)
+(2-C-methyl-D-erythritol 4-phosphate synthase 1).
+"Pathogenomic sequence analysis of Bacillus cereus and Bacillus
+thuringiensis isolates closely related to Bacillus anthracis.";
+-!- FUNCTION: Catalyzes the NADP-dependent rearrangement and reduction
+    of 1-deoxy-D-xylulose-5-phosphate (DXP) to 2-C-methyl-D-erythritol
+    4-phosphate (MEP) (By similarity).
+-!- CATALYTIC ACTIVITY: 2-C-methyl-D-erythritol 4-phosphate + NADP(+)
+    = 1-deoxy-D-xylulose 5-phosphate + NADPH.
+-!- COFACTOR: Divalent cation (By similarity).
+-!- PATHWAY: Isoprenoid biosynthesis; isopentenyl-PP biosynthesis via
+    DXP pathway; isopentenyl-PP from 1-deoxy-D-xylulose 5-phosphate:
+    step 1.
+-!- SIMILARITY: Belongs to the DXR family.
+ GO:0030604; F:1-deoxy-D-xylulose-5-phosphate reductoisome...; IEA:HAMAP.
+ GO:0016114; P:terpenoid biosynthesis; IEA:HAMAP.
+Complete proteome; Isoprene biosynthesis; Metal-binding; NADP;
+Oxidoreductase.
+TMZERO

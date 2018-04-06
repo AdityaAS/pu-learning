@@ -1,0 +1,14 @@
+AC   P96095;
+Hydroxylamine reductase (EC 1.7.-.-) (Hybrid-cluster protein) (HCP).
+"A geographically widespread plasmid from Thiobacillus ferrooxidans
+has genes for ferredoxin-, FNR-, prismane- and NADH-oxidoreductase-
+like proteins which are also located on the chromosome.";
+-!- FUNCTION: Catalyzes the reduction of hydroxylamine to form NH(3)
+    and H(2)O (By similarity).
+-!- COFACTOR: Binds 1 2Fe-2S cluster (By similarity).
+-!- COFACTOR: Binds 1 hybrid 4Fe-2O-2S cluster (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the HCP family.
+ GO:0050418; F:hydroxylamine reductase activity; IEA:HAMAP.
+2Fe-2S; Iron; Iron-sulfur; Metal-binding; Oxidoreductase; Plasmid.
+TMZERO

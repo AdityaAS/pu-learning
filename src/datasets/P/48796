@@ -1,0 +1,17 @@
+AC   P31442; Q2M7Y6;
+Multidrug resistance protein D.
+"An E. coli gene emrD is involved in adaptation to low energy shock.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Multidrug resistance pump that participates in a low
+    energy shock adaptative response.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

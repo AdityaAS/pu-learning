@@ -1,0 +1,48 @@
+AC   P13945; Q4JFT4;
+Beta-3 adrenergic receptor (Beta-3 adrenoceptor) (Beta-3
+adrenoreceptor).
+"Molecular characterization of the human beta 3-adrenergic receptor.";
+"The promoter and intron/exon structure of the human and mouse beta 3-
+adrenergic-receptor genes.";
+"Molecular cloning of a human beta 3-adrenergic receptor cDNA.";
+"cDNA clones of human proteins involved in signal transduction
+sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Rodent and human beta 3-adrenergic receptor genes contain an intron
+within the protein-coding block.";
+"Genetic variation in the beta 3-adrenergic receptor and an increased
+capacity to gain weight in patients with morbid obesity.";
+"Association of Trp64Arg mutation of the beta3-adrenergic-receptor
+with NIDDM and body weight gain.";
+"Pharmacological characterization of a recently described human beta
+3-adrenergic receptor mutant.";
+"Patterns of single-nucleotide polymorphisms in candidate genes for
+blood-pressure homeostasis.";
+-!- FUNCTION: Beta-adrenergic receptors mediate the catecholamine-
+    induced activation of adenylate cyclase through the action of G
+    proteins. Beta-3 is involved in the regulation of lipolysis and
+    thermogenesis.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed mainly in adipose tissues.
+-!- POLYMORPHISM: The variant Arg-64 seems to be associated with
+    weight gain (obesity) and to is also associated with
+    susceptibility to non-insulin-dependent diabetes mellitus (NIDDM).
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0043235; C:receptor complex; IDA:HGNC.
+ GO:0015052; F:beta3-adrenergic receptor activity; TAS:ProtInc.
+ GO:0042803; F:protein homodimerization activity; IDA:HGNC.
+ GO:0007190; P:adenylate cyclase activation; IDA:HGNC.
+ GO:0005975; P:carbohydrate metabolism; TAS:ProtInc.
+ GO:0006112; P:energy reserve metabolism; TAS:ProtInc.
+ GO:0007188; P:G-protein signaling, coupled to cAMP nucleo...; TAS:ProtInc.
+ GO:0006091; P:generation of precursor metabolites and energy; TAS:ProtInc.
+ GO:0043410; P:positive regulation of MAPKKK cascade; IDA:HGNC.
+Diabetes mellitus; G-protein coupled receptor; Glycoprotein;
+Lipoprotein; Membrane; Obesity; Palmitate; Phosphorylation;
+Polymorphism; Receptor; Transducer; Transmembrane.
+TMSEVEN

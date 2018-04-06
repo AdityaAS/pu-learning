@@ -1,0 +1,24 @@
+AC   Q71Y64;
+Segregation and condensation protein B.
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- FUNCTION: Participates to chromosomal partition during cell
+    division. May act via the formation of a condensin-like complex
+    containing smc and scpA that pull DNA away from mid-cell into both
+    cell halves (By similarity).
+-!- SUBUNIT: Homodimer. Homodimerization may be required to stabilize
+    the binding of scpA to the smc head domains. Component of a
+    cohesin-like complex composed of scpA, scpB and the smc homodimer,
+    in which scpA and scpB bind to the head domain of smc. The
+    presence of the three proteins is required for the association of
+    the complex with DNA (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Note=Associated
+    with two foci at the outer edges of the nucleoid region in young
+    cells, and at four foci within both cell halves in older cells (By
+    similarity).
+-!- SIMILARITY: Belongs to the scpB family.
+ GO:0007059; P:chromosome segregation; IEA:HAMAP.
+ GO:0006260; P:DNA replication; IEA:HAMAP.
+Cell cycle; Cell division; Chromosome partition; Complete proteome.
+TMZERO

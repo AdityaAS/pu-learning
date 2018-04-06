@@ -1,0 +1,9 @@
+AC   P28976;
+RNA-directed RNA polymerase (EC 2.7.7.48) (L protein).
+"Tomato spotted wilt virus L RNA encodes a putative RNA polymerase.";
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SIMILARITY: Contains 1 RdRp catalytic domain.
+Nucleotide-binding; Nucleotidyltransferase; RNA replication;
+RNA-directed RNA polymerase; Transferase.
+TMZERO

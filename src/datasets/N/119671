@@ -1,0 +1,17 @@
+AC   Q5HGR3;
+Ornithine carbamoyltransferase (EC 2.1.3.3) (OTCase).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- CATALYTIC ACTIVITY: Carbamoyl phosphate + L-ornithine = phosphate
+    + L-citrulline.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; L-
+    arginine from L-ornithine and carbamoyl phosphate: step 1.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the ATCase/OTCase family.
+ GO:0006526; P:arginine biosynthesis; IEA:HAMAP.
+ GO:0019546; P:arginine deiminase pathway; IEA:HAMAP.
+Amino-acid biosynthesis; Arginine biosynthesis; Complete proteome;
+Transferase.
+TMZERO

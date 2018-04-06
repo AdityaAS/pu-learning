@@ -1,0 +1,33 @@
+AC   Q9C966;
+Auxin-responsive protein IAA15 (Indoleacetic acid-induced protein 15).
+"Nucleotide sequence of the putative Arabidopsis IAA21.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Genetics of Aux/IAA and ARF action in plant growth and development.";
+"Aux/IAA proteins contain a potent transcriptional repression
+domain.";
+-!- FUNCTION: Aux/IAA proteins are short-lived transcriptional factors
+    that function as repressor of early auxin response genes at low
+    auxin concentrations. Repression is thought to result from the
+    interaction with auxin response factors (ARFs), proteins that bind
+    to the auxin-responsive promoter element (AuxRE). Formation of
+    heterodimers with ARF proteins may alter their ability to modulate
+    early auxin response genes expression.
+-!- SUBUNIT: Homo and heterodimers (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- INDUCTION: By auxin (By similarity).
+-!- DOMAIN: The N-terminal half of the protein contains two conserved
+    domains I and II. Domain I includes a slightly degenerated ERF-
+    associated amphiphilic repression (EAR) motif which seems to be
+    involved in the activity of transcriptional repression. Domain II
+    is required for the correct degradation of the protein through the
+    SCF-mediated ubiquitin-proteasome pathway. Interactions between
+    Aux/IAA proteins and auxin response factors (ARFs) occur through
+    their C-terminal dimerization domains III and IV.
+-!- SIMILARITY: Belongs to the Aux/IAA family.
+-!- SIMILARITY: Contains 1 Aux/IAA-ARF domain.
+-!- CAUTION: Was originally (Ref.1) erroneously termed IAA21.
+ GO:0045449; P:regulation of transcription; TAS:TAIR.
+Auxin signaling pathway; Nuclear protein; Repressor; Transcription;
+Transcription regulation.
+TMZERO

@@ -1,0 +1,12 @@
+AC   O40619;
+Replication protein E1 (EC 3.6.1.-) (ATP-dependent helicase E1).
+-!- FUNCTION: ATP-dependent DNA helicase required for initiation of
+    viral DNA replication. It forms a complex with the viral E2
+    protein. The E1-E2 complex binds to the replication origin which
+    contains binding sites for both proteins.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the papillomaviruses E1 protein family.
+-!- SIMILARITY: Contains 1 SF3 helicase domain.
+ATP-binding; DNA replication; DNA-binding; Early protein; Helicase;
+Hydrolase; Nuclear protein; Nucleotide-binding.
+TMZERO

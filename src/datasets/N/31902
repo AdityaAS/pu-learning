@@ -1,0 +1,14 @@
+AC   P07126; P05520;
+Phycocyanobilin lyase subunit alpha (EC 4.-.-.-) (Phycocyanin operon
+protein cpcE).
+"A multigene family in Calothrix sp. PCC 7601 encodes phycocyanin, the
+major component of the cyanobacterial light harvesting antenna.";
+"Molecular characterization and evolution of sequences encoding light-
+harvesting components in the chromatically adapting cyanobacterium
+Fremyella diplosiphon.";
+-!- FUNCTION: Required for the chromophorylation of the cpcA gene
+    product.
+-!- SUBUNIT: CpcE and cpcF associate to form a lyase.
+-!- SIMILARITY: Belongs to the cpcE/rpcE/pecE family.
+Lyase; Phycobilisome.
+TMZERO

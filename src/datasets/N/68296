@@ -1,0 +1,20 @@
+AC   P24473; O09034;
+Glutathione S-transferase kappa 1 (EC 2.5.1.18) (GST 13-13)
+(Glutathione S-transferase subunit 13) (GST class-kappa) (GSTK1-1)
+(rGSTK1).
+"Glutathione S-transferase class Kappa: characterization by the
+cloning of rat mitochondrial GST and identification of a human
+homologue.";
+"A novel glutathione transferase (13-13) isolated from the matrix of
+rat liver mitochondria having structural similarity to class theta
+enzymes.";
+-!- FUNCTION: Might confer protection against genotoxic and cytotoxic
+    electrophiles in the mitochondrial compartment.
+-!- CATALYTIC ACTIVITY: RX + glutathione = HX + R-S-glutathione.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix.
+-!- SIMILARITY: Belongs to the GST superfamily. Kappa family.
+ GO:0005759; C:mitochondrial matrix; TAS:RGD.
+3D-structure; Acetylation; Direct protein sequencing; Mitochondrion;
+Transferase.
+TMZERO

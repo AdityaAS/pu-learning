@@ -1,0 +1,30 @@
+AC   Q9Y2W1; Q5VTK6;
+Thyroid hormone receptor-associated protein 3 (Thyroid hormone
+receptor-associated protein complex 150 kDa component) (Trap150).
+"Identity between TRAP and SMCC complexes indicates novel pathways for
+the function of nuclear receptors and diverse mammalian activators.";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Large-scale characterization of HeLa cell nuclear phosphoproteins.";
+"A probability-based approach for high-throughput protein
+phosphorylation analysis and site localization.";
+"Phosphoproteome analysis of the human mitotic spindle.";
+-!- FUNCTION: Plays a role in transcriptional coactivation.
+-!- SUBUNIT: Subunit of the large multiprotein complex TRAP.
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- TISSUE SPECIFICITY: Ubiquitous.
+ GO:0000119; C:mediator complex; IDA:UniProtKB.
+ GO:0005634; C:nucleus; IDA:UniProtKB.
+ GO:0030374; F:ligand-dependent nuclear receptor transcrip...; NAS:UniProtKB.
+ GO:0004872; F:receptor activity; IDA:UniProtKB.
+ GO:0016455; F:RNA polymerase II transcription mediator ac...; IDA:UniProtKB.
+ GO:0046966; F:thyroid hormone receptor binding; IDA:UniProtKB.
+ GO:0042809; F:vitamin D receptor binding; NAS:UniProtKB.
+ GO:0030521; P:androgen receptor signaling pathway; IDA:UniProtKB.
+ GO:0045944; P:positive regulation of transcription from R...; IDA:MGI.
+ GO:0006367; P:transcription initiation from RNA polymeras...; IDA:UniProtKB.
+Activator; ATP-binding; Direct protein sequencing; Nuclear protein;
+Nucleotide-binding; Phosphorylation; Polymorphism; Receptor;
+Transcription; Transcription regulation.
+TMZERO

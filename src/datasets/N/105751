@@ -1,0 +1,19 @@
+AC   Q9SH14; Q8LB82;
+Membrane-anchored ubiquitin-fold protein 5 precursor (Membrane-
+anchored ub-fold protein 5) (AtMUB5).
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Full-length cDNA from Arabidopsis thaliana.";
+"MUBS: a family of ubiquitin-fold proteins that are plasma membrane-
+anchored by prenylation.";
+-!- FUNCTION: May serve as docking site to facilitate the association
+    of other proteins to the plasma membrane.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor.
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- INDUCTION: Not induced by pathogens, cycloheximide and ozone
+    treatment.
+-!- MISCELLANEOUS: Heat stable and remains soluble at temperatures
+    exceeding 90 degrees Celsius.
+-!- SIMILARITY: Contains 1 ubiquitin-like domain.
+Lipoprotein; Membrane; Methylation; Prenylation.
+TMZERO

@@ -1,0 +1,36 @@
+AC   P00436;
+Protocatechuate 3,4-dioxygenase alpha chain (EC 1.13.11.3) (3,4-PCD).
+"Cloning, sequencing, and expression of the Pseudomonas putida
+protocatechuate 3,4-dioxygenase genes.";
+"The primary structure of the alpha subunit of protocatechuate 3,4-
+dioxygenase. II. Isolation and sequence of overlap peptides and
+complete sequence.";
+"Structure and assembly of protocatechuate 3,4-dioxygenase.";
+"Structure of protocatechuate 3,4-dioxygenase from Pseudomonas
+aeruginosa at 2.15-A resolution.";
+"Structures of competitive inhibitor complexes of protocatechuate 3,4-
+dioxygenase: multiple exogenous ligand binding orientations within the
+active site.";
+"Crystal structures of substrate and substrate analog complexes of
+protocatechuate 3,4-dioxygenase: endogenous Fe3+ ligand displacement
+in response to substrate binding.";
+"Crystal structure and resonance Raman studies of protocatechuate 3,4-
+dioxygenase complexed with 3,4-dihydroxyphenylacetate.";
+-!- FUNCTION: Plays an essential role in the utilization of numerous
+    aromatic and hydroaromatic compounds via the beta-ketoadipate
+    pathway.
+-!- CATALYTIC ACTIVITY: 3,4-dihydroxybenzoate + O(2) = 3-carboxy-
+    cis,cis-muconate.
+-!- COFACTOR: Binds Fe(3+) ion per subunit.
+-!- PATHWAY: Aromatic compound metabolism; beta-ketoadipate pathway;
+    3-carboxy-cis,cis-muconate from 3,4-dihydroxybenzoate: single
+    step.
+-!- SUBUNIT: The enzyme is an oligomer of 12 copies of the alpha and
+    beta chains.
+-!- SIMILARITY: Belongs to the intradiol ring-cleavage dioxygenase
+    family.
+-!- CAUTION: Strain ATCC 23975 was originally classified as being from
+    Pseudomonas aeruginosa.
+3D-structure; Aromatic hydrocarbons catabolism; Dioxygenase;
+Direct protein sequencing; Iron; Oxidoreductase.
+TMZERO

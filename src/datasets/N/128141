@@ -1,0 +1,24 @@
+AC   Q867X0; Q19637;
+Poly(ADP-ribose) glycohydrolase pme-3 (EC 3.2.1.143) (Poly ADP-ribose
+metabolism enzyme 3).
+"Characterization of poly(ADP-ribose) glycohydrolases in the nematode
+Caenorhabditis elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Poly(ADP-ribose) synthesized after DNA damage is only
+    present transiently and is rapidly degraded by poly(ADP-ribose)
+    glycohydrolase. Poly(ADP-ribose) metabolism may be required for
+    maintenance of the normal function of neuronal cells (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Hydrolyzes poly(ADP-ribose) at glycosidic
+    (1''-2') linkage of ribose-ribose bond to produce free ADP-ribose.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=a; Synonyms=long;
+      IsoId=Q867X0-1; Sequence=Displayed;
+    Name=b; Synonyms=short;
+      IsoId=Q867X0-2; Sequence=VSP_051616, VSP_051617;
+-!- SIMILARITY: Belongs to the poly(ADP-ribose) glycohydrolase family.
+ GO:0005975; P:carbohydrate metabolism; ISS:UniProtKB.
+Alternative splicing; Complete proteome; Hydrolase.
+TMZERO

@@ -1,0 +1,93 @@
+AC   P16615; P16614;
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 2 (EC 3.6.3.8)
+(Calcium pump 2) (SERCA2) (SR Ca(2+)-ATPase 2) (Calcium-transporting
+ATPase sarcoplasmic reticulum type, slow twitch skeletal muscle
+isoform) (Endoplasmic reticulum class 1/2 Ca(2+) ATPase).
+"Molecular cloning of cDNAs from human kidney coding for two
+alternatively spliced products of the cardiac Ca2+-ATPase gene.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Large-scale characterization of HeLa cell nuclear phosphoproteins.";
+"Spectrum of novel ATP2A2 mutations in patients with Darier's
+disease.";
+"ATP2A2 mutations in Darier's disease: variant cutaneous phenotypes
+are associated with missense mutations, but neuropsychiatric features
+are independent of mutation class.";
+"ATP2A2 mutations in Darier's disease and their relationship to
+neuropsychiatric phenotypes.";
+"Mutations in ATP2A2, encoding a Ca2+ pump, cause Darier disease.";
+"Acrokeratosis verruciformis of Hopf is caused by mutation in ATP2A2:
+evidence that it is allelic to Darier's disease.";
+-!- FUNCTION: This magnesium-dependent enzyme catalyzes the hydrolysis
+    of ATP coupled with the translocation of calcium from the cytosol
+    to the sarcoplasmic reticulum lumen. Isoform SERCA2A is involved
+    in the regulation of the contraction/relaxation cycle.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Ca(2+)(Cis) = ADP + phosphate +
+    Ca(2+)(Trans).
+-!- ENZYME REGULATION: Reversibly inhibited by phospholamban (PLN) at
+    low calcium concentrations. Dephosphorylated PLN decreases the
+    apparent affinity of the ATPase for calcium. This inhibition is
+    regulated by the phosphorylation of PLN (By similarity).
+-!- SUBUNIT: Associated with phospholamban (PLN) (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein. Sarcoplasmic reticulum;
+    sarcoplasmic reticulum membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+      Comment=SERCA2 transcripts differ only in their 3'UTR region and
+      are expressed in a tissue-specific manner;
+    Name=SERCA2B; Synonyms=ATP2A2B, Class 2-4, HK1;
+      IsoId=P16615-1; Sequence=Displayed;
+      Note=Ubiquitous housekeeping isoform;
+    Name=SERCA2A; Synonyms=ATP2A2A, Class 1, HK2;
+      IsoId=P16615-2; Sequence=VSP_000358;
+      Note=Cardiac/slow twitch, muscle specific isoform. Has a lower
+      affinity for calcium and a higher catalytic turnover rate;
+-!- TISSUE SPECIFICITY: Isoform SERCA2A is highly expressed in heart
+    and slow twitch skeletal muscle. Isoform SERCA2B is widely
+    expressed, in smooth muscle and nonmuscle tissues such as in adult
+    skin epidermis.
+-!- DISEASE: Defects in ATP2A2 are a cause of acrokeratosis
+    verruciformis (AKV) [MIM:101900]; also known as Hopf disease. AKV
+    is a localized disorder of keratinization, which is inherited as
+    an autosomal dominant trait. Its onset is early in life with
+    multiple flat-topped, flesh-colored papules on the hands and feet,
+    punctate keratoses on the palms and soles, with varying degrees of
+    nail involvement. The histopathology shows a distinctive pattern
+    of epidermal features with hyperkeratosis, hypergranulosis, and
+    acanthosis together with papillomatosis. These changes are
+    frequently associated with circumscribed elevations of the
+    epidermis that are said to resemble church spires. There are no
+    features of dyskeratosis or acantholysis, the typical findings in
+    lesions of Darier disease.
+-!- DISEASE: Defects in ATP2A2 are the cause of Darier disease (DD)
+    [MIM:124200]; also known as Darier-White disease (DAR). DD is an
+    autosomal dominantly inherited skin disorder characterized by loss
+    of adhesion between epidermal cells (acantholysis) and abnormal
+    keratinization. Patients with mild disease may have no more than a
+    few scattered keratotic papules or subtle nail changes, whereas
+    those with severe disease are handicapped by widespread malodorous
+    keratotic plaques. In a few families, neuropsychiatric
+    abnormalities such as mild mental retardation, schizophrenia,
+    bipolar disorder and epilepsy have been reported. Stress, UV
+    exposure, heat, sweat, friction, and oral contraception exacerbate
+    disease symptoms. Prevalence has been estimated at 1 in 50000.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIA subfamily.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ATP2A2".
+ GO:0005789; C:endoplasmic reticulum membrane; IDA:UniProtKB.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0005792; C:microsome; TAS:ProtInc.
+ GO:0016529; C:sarcoplasmic reticulum; IDA:UniProtKB.
+ GO:0005388; F:calcium-transporting ATPase activity; TAS:ProtInc.
+ GO:0048155; F:S100 alpha binding; IPI:UniProtKB.
+ GO:0007155; P:cell adhesion; TAS:ProtInc.
+ GO:0008544; P:epidermis development; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Alternative splicing; ATP-binding; Calcium; Calcium transport;
+Disease mutation; Endoplasmic reticulum; Epilepsy; Hydrolase;
+Ion transport; Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Sarcoplasmic reticulum; Transmembrane; Transport.
+TMTEN

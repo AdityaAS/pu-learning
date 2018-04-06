@@ -1,0 +1,40 @@
+AC   Q9Z1E3; Q80ZX5;
+NF-kappa-B inhibitor alpha (I-kappa-B-alpha) (IkappaBalpha) (IKB-
+alpha).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Structural analysis, expression, and chromosomal localization of the
+mouse ikba gene.";
+-!- FUNCTION: Inhibits NF-kappa-B by complexing with and trapping it
+    in the cytoplasm. May be involved in regulation of transcriptional
+    responses to NF-kappa-B, including cell adhesion, immune and
+    proinflammatory responses, apoptosis, differentiation and growth.
+    Controlled by sequential serine-phosphorylation, ubiquitination
+    and degradation. Tyrosine-phosphorylation could only lead to
+    dissociation from NF-kappa-B (By similarity).
+-!- SUBUNIT: Interacts with p65 (RELA). Interacts with NKIRAS1 and
+    NKIRAS2 (By similarity).
+-!- INTERACTION:
+    O88895:Hdac3; NbExp=1; IntAct=EBI-644427, EBI-302263;
+    Q04207:Rela; NbExp=2; IntAct=EBI-644427, EBI-644400;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: Highly expressed in lymph node, thymus
+    followed by liver, brain, muscle, kidney, gastrointestinal and
+    reproductive tract.
+-!- PTM: Phosphorylated; disables inhibition of NF-kappa-B DNA-binding
+    activity (By similarity).
+-!- PTM: Ubiquitinated; subsequent to stimulus-dependent
+    phosphorylation on serines, polyubiquitination targets the protein
+    for rapid degradation via the ubiquitin system (By similarity).
+-!- SIMILARITY: Belongs to the NF-kappa-B inhibitor family.
+-!- SIMILARITY: Contains 5 ANK repeats.
+ GO:0005737; C:cytoplasm; IDA:MGI.
+ GO:0005829; C:cytosol; IDA:MGI.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0045638; P:negative regulation of myeloid cell differe...; IMP:MGI.
+ GO:0045746; P:negative regulation of Notch signaling pathway; IMP:MGI.
+ GO:0000060; P:protein import into nucleus, translocation; IDA:MGI.
+ GO:0042127; P:regulation of cell proliferation; IDA:MGI.
+ANK repeat; Phosphorylation; Repeat; Ubl conjugation.
+TMZERO

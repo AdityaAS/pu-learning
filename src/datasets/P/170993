@@ -1,0 +1,40 @@
+AC   P0AGA2; P03844; Q2M6W5;
+Preprotein translocase secY subunit.
+"The spc ribosomal protein operon of Escherichia coli: sequence and
+cotranscription of the ribosomal protein genes and a protein export
+gene.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Topology analysis of the SecY protein, an integral membrane protein
+involved in protein export in Escherichia coli.";
+"Biochemical analysis of the biogenesis and function of the
+Escherichia coli export factor SecY.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Structure, function, and biogenesis of SecY, an integral membrane
+protein involved in protein export.";
+"Temperature-sensitive sec mutants of Escherichia coli: inhibition of
+protein export at the permissive temperature.";
+"Characterization of cold-sensitive secY mutants of Escherichia
+coli.";
+"Novel prlA alleles defective in supporting staphylokinase processing
+in Escherichia coli.";
+"PrlA suppressor mutations cluster in regions corresponding to three
+distinct topological domains.";
+"The allele-specific synthetic lethality of prlA-prlG double mutants
+predicts interactive domains of SecY and SecE.";
+-!- FUNCTION: Involved in protein export. Interacts with secA and secE
+    to allow the translocation of proteins across the plasma membrane,
+    by forming part of a channel.
+-!- SUBUNIT: One of seven secretory proteins (secA-F and secY) that
+    comprise the prokaryotic protein translocation apparatus.
+-!- INTERACTION:
+    P10408:secA; NbExp=1; IntAct=EBI-761422, EBI-543213;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the secY/SEC61-alpha family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Complete proteome; Inner membrane; Membrane;
+Protein transport; Translocation; Transmembrane; Transport.
+TMTEN

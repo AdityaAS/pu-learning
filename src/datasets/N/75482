@@ -1,0 +1,30 @@
+AC   P54869; Q64740; Q9DBK1; Q9DBM4;
+Hydroxymethylglutaryl-CoA synthase, mitochondrial precursor
+(EC 2.3.3.10) (HMG-CoA synthase) (3-hydroxy-3-methylglutaryl coenzyme
+A synthase).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Human mitochondrial HMG CoA synthase: liver cDNA and partial genomic
+cloning, chromosome mapping to 1p12-p13, and possible role in
+vertebrate evolution.";
+"Substrate and functional diversity of lysine acetylation revealed by
+a proteomics survey.";
+-!- FUNCTION: This enzyme condenses acetyl-CoA with acetoacetyl-CoA to
+    form HMG-CoA, which is the substrate for HMG-CoA reductase.
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + H(2)O + acetoacetyl-CoA = (S)-3-
+    hydroxy-3-methylglutaryl-CoA + CoA.
+-!- PATHWAY: Metabolic intermediate biosynthesis; mevalonate
+    biosynthesis; R-mevalonate from acetyl-CoA: step 2.
+-!- PATHWAY: Context: Ketone body biosynthesis.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- TISSUE SPECIFICITY: Liver and kidney.
+-!- PTM: Acetylation of Lys-427 is observed in liver mitochondria from
+    fasted mice but not from fed mice.
+-!- SIMILARITY: Belongs to the HMG-CoA synthase family.
+ GO:0005743; C:mitochondrial inner membrane; IDA:MGI.
+ GO:0005739; C:mitochondrion; IDA:MGI.
+Acetylation; Cholesterol biosynthesis; Lipid synthesis; Mitochondrion;
+Steroid biosynthesis; Sterol biosynthesis; Transferase;
+Transit peptide.
+TMZERO

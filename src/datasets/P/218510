@@ -1,0 +1,13 @@
+AC   P52876;
+UPF0016 protein sll0615.
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. I. Sequence features in the 1 Mb
+region from map positions 64% to 92% of the genome.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the UPF0016 family.
+Complete proteome; Membrane; Transmembrane.
+TMFIVE

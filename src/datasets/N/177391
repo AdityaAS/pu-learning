@@ -1,0 +1,10 @@
+AC   P26047; Q9L9X1;
+Signal-transduction and transcriptional-control protein.
+"The predicted protein product of a putative regulatory gene from
+Clostridium beijerinckii NRRL B593 is homologous to the NtrC subfamily
+of transcriptional regulators.";
+-!- SIMILARITY: Contains 1 PAS (PER-ARNT-SIM) domain.
+-!- SIMILARITY: Contains 1 sigma-54 factor interaction domain.
+ATP-binding; DNA-binding; Nucleotide-binding; Transcription;
+Transcription regulation; Two-component regulatory system.
+TMZERO

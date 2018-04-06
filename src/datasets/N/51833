@@ -1,0 +1,35 @@
+AC   O95990; Q96NH4;
+Protein FAM107A (Down-regulated in renal cell carcinoma 1) (Protein
+TU3A).
+"Loss of expression of the DRR1 gene at chromosomal segment 3p21.1 in
+renal cell carcinoma.";
+"Isolation and characterization of the novel gene, TU3A, in a commonly
+deleted region on 3p14.3->p14.2 in renal cell carcinoma.";
+"Towards a catalog of human genes and proteins: sequencing and
+analysis of 500 novel complete protein coding human cDNAs.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Systematic subcellular localization of novel proteins identified by
+large-scale cDNA sequencing.";
+-!- FUNCTION: When transfected into cell lines in which it is not
+    expressed, suppresses cell growth. May play a role in tumor
+    development.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O95990-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O95990-2; Sequence=VSP_009232;
+      Note=May be due to an intron retention. No experimental
+      confirmation available;
+-!- TISSUE SPECIFICITY: Widely expressed in normal tissues. Expression
+    is reduced or absent in a number of cancer cell lines.
+-!- SIMILARITY: Belongs to the FAM107 family.
+ GO:0005634; C:nucleus; IDA:UniProtKB.
+ GO:0001558; P:regulation of cell growth; IDA:UniProtKB.
+Alternative splicing; Coiled coil; Growth regulation; Nuclear protein;
+Polymorphism.
+TMZERO

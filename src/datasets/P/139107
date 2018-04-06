@@ -1,0 +1,13 @@
+AC   P0A0J8; P23215;
+Antiseptic resistance protein.
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: Confers export-mediated resistance against antiseptic
+    and disinfectant compounds such as intercalating dyes, quaternary
+    ammonium salts and diamidines (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Antibiotic resistance; Complete proteome; Membrane; Plasmid;
+Transmembrane; Transport.
+TMFOURTEEN

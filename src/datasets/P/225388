@@ -1,0 +1,22 @@
+AC   P38988;
+Putative mitochondrial carrier protein YHM1/SHM1.
+"SHM1: a multicopy suppressor of a temperature-sensitive null mutation
+in the HMG1-like abf2 gene.";
+"The sequence of 23 kb surrounding the SNF3 locus on the left arm of
+yeast chromosome IV reveals the location of five known genes and
+characterizes at least six new open reading frames including putative
+genes for ribosomal protein L35 and a sugar transport protein.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (Potential).
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0001409; F:guanine nucleotide transporter activity; IDA:SGD.
+ GO:0001408; P:guanine nucleotide transport; IDA:SGD.
+ GO:0006879; P:iron ion homeostasis; IMP:SGD.
+ GO:0000002; P:mitochondrial genome maintenance; IMP:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion; Repeat;
+Transmembrane; Transport.
+TMFOUR

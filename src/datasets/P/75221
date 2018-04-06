@@ -1,0 +1,51 @@
+AC   Q84TI7; O82614; Q68KI5; Q9M570; Q9SV90;
+Sodium transporter HKT1 (AtHKT1).
+"The Arabidopsis HKT1 gene homolog mediates inward Na(+) currents in
+Xenopus laevis oocytes and Na(+) uptake in Saccharomyces cerevisiae.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Evidence in support of a four transmembrane-pore-transmembrane
+topology model for the Arabidopsis thaliana Na+/K+ translocating
+AtHKT1 protein, a member of the superfamily of K+ transporters.";
+"AtHKT1 is a salt tolerance determinant that controls Na(+) entry into
+plant roots.";
+"Glycine residues in potassium channel-like selectivity filters
+determine potassium selectivity in four-loop-per-subunit HKT
+transporters from plants.";
+"Altered shoot/root Na+ distribution and bifurcating salt sensitivity
+in Arabidopsis by genetic disruption of the Na+ transporter AtHKT1.";
+"Functional analysis of AtHKT1 in Arabidopsis shows that Na(+)
+recirculation by the phloem is crucial for salt tolerance.";
+"AtHKT1 facilitates Na+ homeostasis and K+ nutrition in planta.";
+"Microarray-based rapid cloning of an ion accumulation deletion mutant
+in Arabidopsis thaliana.";
+-!- FUNCTION: Sodium transporter protein, which plays a central role
+    in plant tolerance to salt. Upon prolongated exposure to high
+    concentrations, Na(+) translocates from the roots to the
+    transpiring leaves where it can increase to toxic level. Involved
+    in Na(+) recirculation from shoots to roots, probably by mediating
+    Na(+) loading into the phloem sap in shoots and unloading in
+    roots, thereby removing large amounts of Na(+) from the shoot.
+    Does not transport K(+) but regulates K(+) nutrient status via its
+    ability to facilitate Na(+) homeostasis. Probably not involved in
+    root uptake of Na(+).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in roots. Expressed in
+    flowers, leaves and stems. Expressed in the vascular tissues of
+    every organs. In roots, leaves and flower peduncles, it is only
+    expressed in the phloem tissues. Not expressed in root peripheral
+    cells.
+-!- PTM: N-glycosylated. Not essential for functional expression and
+    membrane targeting.
+-!- MISCELLANEOUS: In contrast to K(+) channel proteins, it lacks a
+    conserved Gly at position 68, explaining why it does not act as a
+    K(+) transporter.
+-!- SIMILARITY: Belongs to the trkH potassium transport family. HKT
+    subfamily.
+-!- CAUTION: Ref.3 sequence differs from that shown due to erroneous
+    gene model prediction.
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Sodium; Sodium transport; Transmembrane; Transport.
+TMEIGHT

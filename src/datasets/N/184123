@@ -1,0 +1,12 @@
+AC   P25260;
+Type II restriction enzyme HgiEI (EC 3.1.21.4) (Endonuclease HgiEI)
+(R.HgiEI).
+"Organization and gene expression within restriction-modification
+systems of Herpetosiphon giganteus.";
+-!- FUNCTION: Recognizes the double-stranded sequence GGWCC and
+    cleaves after G-1.
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of DNA to give
+    specific double-stranded fragments with terminal 5'-phosphates.
+ GO:0009036; F:Type II site-specific deoxyribonuclease act...; IEA:EC.
+Endonuclease; Hydrolase; Nuclease; Restriction system.
+TMZERO

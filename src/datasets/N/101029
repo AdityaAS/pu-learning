@@ -1,0 +1,12 @@
+AC   Q8BML1; Q3UPU6;
+Protein MICAL-2.
+"The transcriptional landscape of the mammalian genome.";
+"MICALs, a family of conserved flavoprotein oxidoreductases, function
+in plexin-mediated axonal repulsion.";
+-!- COFACTOR: FAD (Potential).
+-!- SUBUNIT: Interacts with VIM and PLXNA4.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Contains 1 CH (calponin-homology) domain.
+-!- SIMILARITY: Contains 1 LIM zinc-binding domain.
+Cytoskeleton; FAD; Flavoprotein; LIM domain; Metal-binding; Zinc.
+TMZERO

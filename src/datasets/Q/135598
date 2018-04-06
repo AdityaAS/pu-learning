@@ -1,0 +1,15 @@
+AC   O51507;
+Phosphocarrier protein HPr (Histidine-containing protein).
+"Genomic sequence of a Lyme disease spirochaete, Borrelia
+burgdorferi.";
+-!- FUNCTION: This is a component of the phosphoenolpyruvate-dependent
+    sugar phosphotransferase system (PTS), a major carbohydrate active
+    -transport system. The phosphoryl group from phosphoenolpyruvate
+    (PEP) is transferred to the phosphoryl carrier protein HPr by
+    enzyme I. Phospho-HPr then transfers it to the permease (enzymes
+    II/III). HPr is common to all PTS (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the HPr family.
+Complete proteome; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transport.
+TMZERO

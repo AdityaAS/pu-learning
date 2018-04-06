@@ -1,0 +1,67 @@
+AC   P35179;
+Protein transport protein SSS1 (Sec61 complex subunit SSS1) (Sec61
+complex subunit gamma) (Ssh1 complex subunit SSS1) (Ssh1 complex
+subunit gamma).
+"The yeast SSS1 gene is essential for secretory protein translocation
+and encodes a conserved protein of the endoplasmic reticulum.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Oligomeric rings of the Sec61p complex induced by ligands required
+for protein translocation.";
+"The aqueous pore through the translocon has a diameter of 40-60 A
+during cotranslational protein translocation at the ER membrane.";
+"The translocon: a dynamic gateway at the ER membrane.";
+"Evolutionarily conserved binding of ribosomes to the translocation
+channel via the large ribosomal RNA.";
+"Global analysis of protein localization in budding yeast.";
+"Subunits of the translocon interact with components of the
+oligosaccharyl transferase complex.";
+-!- FUNCTION: Part of the Sec61 complex, which is the major component
+    of channel-forming translocon complex that mediates protein
+    translocation across the endoplasmic reticulum (ER). The
+    functional states of the translocon complex include co- and
+    posttranslational ER import, cotranslational membrane protein
+    integration and retrograde transport of misfolded proteins out of
+    the ER. In the cotranslational pathway, ribosomes synthesizing
+    presecretory proteins are targeted to the translocon by the
+    cytosolic signal recognition particle (SRP) and its ER-localized
+    receptor. The association of the Sec61 complex with the ribosome
+    is mediated by the 28S rRNA of the large ribosomal subunit. SRP-
+    independent posttranslational translocation requires the
+    association of additional factors, such as the Sec62/63 complex
+    and KAR2. Also part of the Ssh1 complex, which probably is the
+    major component of a channel-forming translocon complex that may
+    function exclusively in the cotranslational pathway of protein ER
+    import.
+-!- SUBUNIT: Component of the heterotrimeric Sec61 complex, which is
+    composed of SSH1, SBH1 and SSS1. Presumably three to four Sec61
+    heterotrimers assemble into an oligomeric ring with a central
+    aeqeous pore. In cotranslational ER import, the pore diameter
+    varies from 9-15 A in a ribosome-free resting state to 40-60 A in
+    a functional state when associated with the ribosome. The Sec61
+    complex is part of a channel-forming translocon complex whose
+    composition seem to change dependent upon different functional
+    states. During posttranslational ER import the Sec61 complex
+    associates with the Sec62/63 complex to form the Sec complex. SSH1
+    is a component of the heterotrimeric Ssh1 complex, which is
+    composed of SSH1, SEB2 and SSS1. SBH1 interacts with OST1, OST4,
+    SWP1 AND WBP1 components of the OT complex.
+-!- INTERACTION:
+    P41543:OST1; NbExp=1; IntAct=EBI-16406, EBI-12651;
+    Q99380:OST4; NbExp=1; IntAct=EBI-16406, EBI-12689;
+    Q02795:SWP1; NbExp=1; IntAct=EBI-16406, EBI-12666;
+    P33767:WBP1; NbExp=1; IntAct=EBI-16406, EBI-12658;
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; single-pass membrane protein.
+-!- SIMILARITY: Belongs to the secE/SEC61-gamma family.
+ GO:0005789; C:endoplasmic reticulum membrane; IDA:SGD.
+ GO:0031206; C:Sec complex-associated translocon complex; TAS:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0008565; F:protein transporter activity; TAS:SGD.
+ GO:0031204; P:posttranslational protein targeting to memb...; TAS:SGD.
+ GO:0009306; P:protein secretion; IMP:SGD.
+ GO:0006616; P:SRP-dependent cotranslational protein targe...; TAS:SGD.
+Complete proteome; Endoplasmic reticulum; Membrane; Protein transport;
+Translocation; Transmembrane; Transport.
+TMONE

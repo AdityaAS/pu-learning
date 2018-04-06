@@ -1,0 +1,25 @@
+AC   P0A1S0; P15430;
+Integration host factor alpha-subunit (IHF-alpha).
+"Nucleotide sequence of the Salmonella typhimurium himA gene.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: This protein is one of the two subunits of integration
+    host factor, a specific DNA-binding protein that functions in
+    genetic recombination as well as in transcriptional and
+    translational control.
+-!- FUNCTION: IHF also plays a crucial role in the lysogenic life
+    cycle of bacteriophage lambda, as it is required not only in the
+    recombination reaction, which inserts lambda DNA into the E.coli
+    chromosome, but also for the synthesis of int and cI repressor,
+    two phage proteins necessary for DNA insertion and repression,
+    respectively. The synthesis of int and cI proteins is regulated
+    indirectly by IHF via translational control of the lambda cII
+    protein.
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain.
+-!- SIMILARITY: Belongs to the bacterial histone-like protein family.
+ GO:0006310; P:DNA recombination; IEA:HAMAP.
+ GO:0006355; P:regulation of transcription, DNA-dependent; IEA:HAMAP.
+ GO:0006445; P:regulation of translation; IEA:HAMAP.
+Complete proteome; DNA recombination; DNA-binding; Transcription;
+Transcription regulation; Translation regulation.
+TMZERO

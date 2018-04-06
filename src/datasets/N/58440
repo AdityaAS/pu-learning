@@ -1,0 +1,17 @@
+AC   O16027;
+Glyceraldehyde-3-phosphate dehydrogenase 1 (EC 1.2.1.12) (GAPDH-1)
+(Fragment).
+"Cloning of a trans-spliced glyceraldehyde-3-phosphate-dehydrogenase
+gene from the potato cyst nematode Globodera rostochiensis and
+expression of its putative promoter region in Caenorhabditis
+elegans.";
+-!- CATALYTIC ACTIVITY: D-glyceraldehyde 3-phosphate + phosphate +
+    NAD(+) = 3-phospho-D-glyceroyl phosphate + NADH.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 1.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the glyceraldehyde-3-phosphate
+    dehydrogenase family.
+Glycolysis; NAD; Oxidoreductase.
+TMZERO

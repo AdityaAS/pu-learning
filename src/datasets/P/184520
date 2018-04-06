@@ -1,0 +1,26 @@
+AC   P13128; Q48747; Q57096; Q57206;
+Listeriolysin O precursor (Thiol-activated cytolysin) (LLO).
+"Nucleotide sequence of the listeriolysin gene from a Listeria
+monocytogenes serotype 1/2a strain.";
+"Expression in Escherichia coli and sequence analysis of the
+listeriolysin O determinant of Listeria monocytogenes.";
+"Listeria monocytogenes isolates can be classified into two major
+types according to the sequence of the listeriolysin gene.";
+"Identification and characterization of nucleotide sequence
+differences in three virulence-associated genes of Listeria
+monocytogenes strains representing clinically important serotypes.";
+"Comparative genomics of Listeria species.";
+"Identification of the structural gene encoding the SH-activated
+hemolysin of Listeria monocytogenes: listeriolysin O is homologous to
+streptolysin O and pneumolysin.";
+"Attenuated mutants of the intracellular bacterium Listeria
+monocytogenes obtained by single amino acid substitutions in
+listeriolysin O.";
+-!- FUNCTION: Sulfhydryl-activated toxin. Is able to lyse cholesterol
+    containing membranes. Can be reversibly inactivated by oxidation.
+    Cholesterol is the receptor for the binding of these toxins to
+    eukaryotic cell membranes.
+-!- SIMILARITY: Belongs to the thiol-activated cytolysin family.
+Complete proteome; Cytolysis; Hemolysis; Lipid-binding; Signal; Toxin;
+Virulence.
+TMZERO

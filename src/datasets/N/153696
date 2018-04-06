@@ -1,0 +1,9 @@
+AC   P15126;
+60S ribosomal protein L5-B.
+"Developmental expression and 5S rRNA-binding activity of Xenopus
+laevis ribosomal protein L5.";
+-!- FUNCTION: This protein binds 5S RNA.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the ribosomal protein L18P family.
+Ribonucleoprotein; Ribosomal protein; RNA-binding; rRNA-binding.
+TMZERO

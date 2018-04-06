@@ -1,0 +1,34 @@
+AC   P0A3R9; P01550;
+Neocarzinostatin precursor (NCS) (Mitomalcin) (MMC).
+"The amino acid sequence of neocarzinostatin apoprotein deduced from
+the base sequence of the gene.";
+"Reexamination of the primary structure of an antitumor protein,
+neocarzinostatin.";
+"A revised primary structure for neocarzinostatin based on fast atom
+bombardment and gas chromatographic-mass spectrometry.";
+"Two- and three-dimensional proton NMR studies of apo-
+neocarzinostatin.";
+"Crystal structure of apo-neocarzinostatin at 0.15-nm resolution.";
+"Crystal structure of neocarzinostatin, an antitumor protein-
+chromophore complex.";
+"Three-dimensional solution structure of apo-neocarzinostatin.";
+"Proton NMR studies of apo-neocarzinostatin from Streptomyces
+carzinostaticus. Sequence-specific assignment and secondary
+structure.";
+"Three-dimensional solution structure of apo-neocarzinostatin from
+Streptomyces carzinostaticus determined by NMR spectroscopy.";
+"Sequential 1H NMR assignments and secondary structure of
+aponeocarzinostatin in solution.";
+"Neocarzinostatin: interaction between the antitumor-active
+chromophore and the carrier protein.";
+"Location of the disulfide bonds in the antitumor protein
+neocarzinostatin.";
+-!- FUNCTION: NCS has antibiotic activity (for Gram-positive bacteria)
+    and antitumor activity (for certain mouse tumors). NCS binds non-
+    covalently to a chromophore which is the cytotoxic and mutagenic
+    component of the antibiotic. The chromophore binds to DNA as a
+    weak intercalator and causes single- and double-strand breaks.
+-!- SIMILARITY: Belongs to the neocarzinostatin family.
+3D-structure; Antibiotic; Antimicrobial; Direct protein sequencing;
+DNA-binding; Signal.
+TMZERO

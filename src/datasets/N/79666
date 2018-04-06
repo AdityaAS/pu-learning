@@ -1,0 +1,24 @@
+AC   Q8MX41;
+Chitinase-like protein Idgf1 precursor (Imaginal disk growth factor
+protein 1).
+"Polymorphism patterns in two tightly linked developmental genes,
+Idgf1 and Idgf3, of Drosophila melanogaster.";
+-!- FUNCTION: Cooperates with insulin-like peptides to stimulate the
+    proliferation, polarization and motility of imaginal disk cells.
+    May act by stabilizing the binding of insulin-like peptides to its
+    receptor through a simultaneous interaction with both molecules to
+    form a multiprotein signaling complex (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+    Note=Secreted in hemolymph (By similarity). It is probably
+    transported to target tissues via hemolymph (By similarity).
+-!- PTM: Glycosylated (By similarity).
+-!- MISCELLANEOUS: Lacks the typical Glu active site in position 150
+    that is replaced by a Gln residue, preventing the hydrolase
+    activity. Its precise function remains unclear.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 18 family. IDGF
+    subfamily.
+ GO:0005576; C:extracellular region; ISS:UniProtKB.
+ GO:0008084; F:imaginal disc growth factor activity; ISS:UniProtKB.
+ GO:0007444; P:imaginal disc development; ISS:UniProtKB.
+Developmental protein; Glycoprotein; Signal.
+TMZERO

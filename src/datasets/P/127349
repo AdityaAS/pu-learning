@@ -1,0 +1,101 @@
+AC   P98161; Q15140; Q15141;
+Polycystin-1 precursor (Autosomal dominant polycystic kidney disease
+protein 1).
+"Polycystic kidney disease: the complete structure of the PKD1 gene
+and its protein.";
+"The polycystic kidney disease 1 (PKD1) gene encodes a novel protein
+with multiple cell recognition domains.";
+"The polycystic kidney disease 1 gene encodes a 14 kb transcript and
+lies within a duplicated region on chromosome 16.";
+"The structure of a PKD domain from polycystin-1: implications for
+polycystic kidney disease.";
+"Polycystin channels and kidney disease.";
+"Screening the 3' region of the polycystic kidney disease 1 (PKD1)
+gene reveals six novel mutations.";
+"Identification of mutations in the duplicated region of the
+polycystic kidney disease 1 gene (PKD1) by a novel approach.";
+"New amino acid polymorphism, Ala/Val4058, in exon 45 of the
+polycystic kidney disease 1 gene: evolution of alleles.";
+"An unusual pattern of mutation in the duplicated portion of PKD1 is
+revealed by use of a novel strategy for mutation detection.";
+"Three novel mutations of the PKD1 gene in Italian families with
+autosomal dominant polycystic kidney disease.";
+"Novel and recurrent mutations in the PKD1 (polycystic kidney disease)
+gene.";
+"Loss of heterozygosity in polycystic kidney disease with a missense
+mutation in the repeated region of PKD1.";
+"Identification of mutations in the repeated part of the autosomal
+dominant polycystic kidney disease type 1 gene, PKD1, by long-range
+PCR.";
+"Mutation detection of PKD1 identifies a novel mutation common to
+three families with aneurysms and/or very-early-onset disease.";
+"DGGE screening of PKD1 gene reveals novel mutations in a large cohort
+of 146 unrelated patients.";
+"Novel mutations in the 3 region of the polycystic kidney disease 1
+(PKD1) gene.";
+"Mutational analysis within the 3' region of the PKD1 gene.";
+"Novel mutations in the duplicated region of PKD1 gene.";
+"Novel mutations in the duplicated region of the polycystic kidney
+disease 1 (PKD1) gene provides supporting evidence for gene
+conversion.";
+"Screening of the PKD1 duplicated region reveals multiple single
+nucleotide polymorphisms and a de novo mutation in Hellenic polycystic
+kidney disease families.";
+"Novel splicing and missense mutations in autosomal dominant
+polycystic kidney disease 1 (PKD1) gene: expression of mutated
+genes.";
+"Thirteen novel mutations of the replicated region of PKD1 in an Asian
+population.";
+"Novel mutations of the PKD1 gene in Korean patients with autosomal
+dominant polycystic kidney disease.";
+"Mutation analysis of the entire PKD1 gene: genetic and diagnostic
+implications.";
+"Novel PKD1 deletions and missense variants in a cohort of Hellenic
+polycystic kidney disease families.";
+"Mutation analysis of the entire replicated portion of PKD1 using
+genomic DNA samples.";
+"Mutational analysis within the 3' region of the PKD1 gene in Japanese
+families.";
+-!- FUNCTION: May be an ion-channel regulator. PKD1 and PKD2 may
+    function through a common signaling pathway that is necessary for
+    normal tubulogenesis. Involved in adhesive protein-protein and
+    protein-carbohydrate interactions.
+-!- SUBUNIT: Interacts with PKD2.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=P98161-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P98161-2; Sequence=VSP_009677, VSP_009678;
+    Name=3;
+      IsoId=P98161-3; Sequence=VSP_009678;
+-!- DOMAIN: The LDL-receptor class A domain is atypical; the potential
+    calcium-binding site is missing.
+-!- DISEASE: Defects in PKD1 are the cause of autosomal dominant
+    polycystic kidney disease type I (ADPKD) [MIM:173900]. ADPKD is a
+    common autosomal dominant genetic disease affecting about 1:400 to
+    1:1'000 individuals. It is characterized by progressive formation
+    and enlargement of cysts in both kidneys, typically leading to
+    end-stage renal disease in adult life. Cysts also occurs in the
+    liver and other organs.
+-!- SIMILARITY: Belongs to the polycystin family.
+-!- SIMILARITY: Contains 1 C-type lectin domain.
+-!- SIMILARITY: Contains 1 GPS domain.
+-!- SIMILARITY: Contains 1 LDL-receptor class A domain.
+-!- SIMILARITY: Contains 2 LRR (leucine-rich) repeats.
+-!- SIMILARITY: Contains 16 PKD domains.
+-!- SIMILARITY: Contains 1 PLAT domain.
+-!- SIMILARITY: Contains 1 REJ domain.
+-!- SIMILARITY: Contains 1 WSC domain.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=PKD1".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0007161; P:calcium-independent cell-matrix adhesion; TAS:ProtInc.
+ GO:0007156; P:homophilic cell adhesion; TAS:ProtInc.
+ GO:0009653; P:morphogenesis; TAS:ProtInc.
+3D-structure; Alternative splicing; Coiled coil; Disease mutation;
+Glycoprotein; Lectin; Leucine-rich repeat; Membrane; Polymorphism;
+Repeat; Signal; Transmembrane.
+TMELEVEN

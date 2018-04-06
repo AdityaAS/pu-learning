@@ -1,0 +1,12 @@
+AC   Q748A8;
+50S ribosomal protein L31.
+"Genome of Geobacter sulfurreducens: metal reduction in subsurface
+environments.";
+-!- FUNCTION: Binds the 23S rRNA (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L31P family. Type A
+    subfamily.
+Complete proteome; Metal-binding; Ribonucleoprotein;
+Ribosomal protein; RNA-binding; rRNA-binding; Zinc.
+TMZERO

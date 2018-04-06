@@ -1,0 +1,24 @@
+AC   O00400;
+Acetyl-coenzyme A transporter 1 (AT-1) (Acetyl-CoA transporter)
+(Solute carrier family 33 member 1).
+"Expression cloning and characterization of a cDNA encoding a novel
+membrane protein required for the formation of O-acetylated
+gangliosides: a putative acetyl CoA transporter.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Probable acetyl-CoA transporter necessary for O-
+    acetylation of gangliosides.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (Probable).
+-!- TISSUE SPECIFICITY: Ubiquitous. Detected in heart, brain,
+    placenta, lung, liver, skeletal muscle, kidney and pancreas. With
+    strongest signals in pancreas.
+-!- SIMILARITY: Belongs to the SLC33A transporter family.
+ GO:0005789; C:endoplasmic reticulum membrane; TAS:ProtInc.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0008521; F:acetyl-CoA transporter activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Endoplasmic reticulum; Glycoprotein; Membrane; Transmembrane;
+Transport.
+TMELEVEN

@@ -1,0 +1,65 @@
+AC   P17050;
+Alpha-N-acetylgalactosaminidase precursor (EC 3.2.1.49) (Alpha-
+galactosidase B).
+"Human alpha-N-acetylgalactosaminidase-molecular cloning, nucleotide
+sequence, and expression of a full-length cDNA. Homology with human
+alpha-galactosidase A suggests evolution from a common ancestral
+gene.";
+"Structural organization and complete sequence of the human alpha-N-
+acetylgalactosaminidase gene: homology with the alpha-galactosidase A
+gene provides evidence for evolution from a common ancestral gene.";
+"Molecular cloning of a full-length cDNA for human alpha-N-
+acetylgalactosaminidase (alpha-galactosidase B).";
+"Molecular cloning of two species of cDNAs for human alpha-N-
+acetylgalactosaminidase and expression in mammalian cells.";
+"A genome annotation-driven approach to cloning the human ORFeome.";
+"The DNA sequence of human chromosome 22.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Photolabeling of the alpha-neuraminidase/beta-galactosidase complex
+from human placenta with a photoreactive neuraminidase inhibitor.";
+"Schindler disease: the molecular lesion in the alpha-N-
+acetylgalactosaminidase gene that causes an infantile neuroaxonal
+dystrophy.";
+"The molecular lesion in the alpha-N-acetylgalactosaminidase gene that
+causes angiokeratoma corporis diffusum with glycopeptiduria.";
+"Human alpha-N-acetylgalactosaminidase (alpha-NAGA) deficiency: new
+mutations and the paradox between genotype and phenotype.";
+"A new case of alpha-N-acetylgalactosaminidase deficiency with
+angiokeratoma corporis diffusum, with Meniere's syndrome and without
+mental retardation.";
+-!- CATALYTIC ACTIVITY: Hydrolysis of terminal non-reducing N-acetyl-
+    D-galactosamine residues in N-acetyl-alpha-D-galactosaminides.
+-!- SUBCELLULAR LOCATION: Lysosome.
+-!- DISEASE: Defects in NAGA are the cause of Schindler disease
+    [MIM:609241]. Schindler disease is a form of NAGA deficiency
+    characterized by early onset neuroaxonal dystrophy and
+    neurological signs (convulsion during fever, epilepsy, psychomotor
+    retardation and hypotonia). NAGA deficiency is typically
+    classified in three main phenotypes: NAGA deficiency type I
+    (Schindler disease or Schindler disease type I) with severe
+    manifestations; NAGA deficiency type II (Kanzazi disease or
+    Schindler disease type II) which is mild; NAGA deficiency type III
+    (Schindler disease type III) characterized by mild-to-moderate
+    neurologic manifestations. NAGA deficiency results in the
+    increased urinary excretion of glycopeptides and oligosaccharides
+    containing alpha-N-acetylgalactosaminyl moieties. Inheritance is
+    autosomal recessive.
+-!- DISEASE: Defects in NAGA are the cause of Kanzaki disease
+    [MIM:609242]; also known as NAGA deficiency type II or Schindler
+    disease type II. Kanzaki disease is an autosomal recessive
+    disorder characterized by late onset, angiokeratoma corporis
+    diffusum and mild intellectual impairment.
+-!- MISCELLANEOUS: Alpha-galactosidase B was first found to be an
+    isoenzyme of alpha-galactosidases, but apparently it differs from
+    alpha-galactosidase A in substrate specificity and is alpha-N-
+    acetylgalactosaminidase.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 27 family.
+-!- CAUTION: Ref.3 sequence differs from that shown due to a
+    frameshift in position 320.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=NAGA".
+ GO:0008456; F:alpha-N-acetylgalactosaminidase activity; TAS:ProtInc.
+Direct protein sequencing; Disease mutation; Epilepsy; Glycoprotein;
+Glycosidase; Hydrolase; Lysosome; Signal.
+TMZERO

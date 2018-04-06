@@ -1,0 +1,57 @@
+AC   O15438; O60265; O60922; O75621; O95078; O95289; O95290; Q9UN52;
+Canalicular multispecific organic anion transporter 2 (ATP-binding
+cassette sub-family C member 3) (Multidrug resistance-associated
+protein 3) (Multi-specific organic anion transporter-D) (MOAT-D).
+"cDNA cloning and inducible expression of human multidrug resistance
+associated protein 3 (MRP3).";
+"Characterization of the human multidrug resistance protein isoform
+MRP3 localized to the basolateral hepatocyte membrane.";
+"Isolation of a novel human canalicular multispecific organic anion
+transporter, cMOAT2/MRP3, and its expression in cisplatin-resistant
+cancer cells with decreased ATP-dependent drug transport.";
+"Complete coding sequence of human MRP3, a homolog of the human
+multidrug resistance-associated protein MRP1.";
+"Human MRP3 transporter: identification of the 5'-flanking region,
+genomic organization and alternative splice variants.";
+"Identification of a novel splice variant of MRP3 involved in
+resistance to DNA damaging agents.";
+"Characterization of MOAT-C and MOAT-D, new members of the MRP/cMOAT
+subfamily of transporter proteins.";
+"Analysis of expression of cMOAT (MRP2), MRP3, MRP4, and MRP5,
+homologues of the multidrug resistance-associated protein gene (MRP1),
+in human cancer cell lines.";
+"An unappreciated role for RNA surveillance.";
+-!- FUNCTION: May act as an inducible transporter in the biliary and
+    intestinal excretion of organic anions.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+      Comment=Additional isoforms seem to exist;
+    Name=3;
+      IsoId=O15438-1; Sequence=Displayed;
+    Name=3A;
+      IsoId=O15438-2; Sequence=VSP_000042;
+      Note=May be produced at very low levels due to a premature stop
+      codon in the mRNA, leading to nonsense-mediated mRNA decay;
+    Name=3B;
+      IsoId=O15438-3; Sequence=VSP_000040, VSP_000041;
+      Note=May be produced at very low levels due to a premature stop
+      codon in the mRNA, leading to nonsense-mediated mRNA decay;
+    Name=3S1;
+      IsoId=O15438-4; Sequence=VSP_000043;
+-!- TISSUE SPECIFICITY: Mainly expressed in the liver. Also expressed
+    in small intestine, colon, prostate, testis, brain and at a lower
+    level in the kidney.
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0005524; F:ATP binding; TAS:ProtInc.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; TAS:ProtInc.
+ GO:0008514; F:organic anion transporter activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Alternative splicing; ATP-binding; Glycoprotein; Membrane;
+Nucleotide-binding; Polymorphism; Repeat; Transmembrane; Transport.
+TMSEVENTEEN

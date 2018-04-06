@@ -1,0 +1,38 @@
+AC   P39524;
+Probable phospholipid-transporting ATPase DRS2 (EC 3.6.3.1).
+"DRS1 to DRS7, novel genes required for ribosome assembly and function
+in Saccharomyces cerevisiae.";
+"The nucleotide sequence of chromosome I from Saccharomyces
+cerevisiae.";
+"Drs2p-dependent formation of exocytic clathrin-coated vesicles in
+vivo.";
+"Global analysis of protein expression in yeast.";
+"Cdc50p, a protein required for polarized growth, associates with the
+Drs2p P-type ATPase implicated in phospholipid translocation in
+Saccharomyces cerevisiae.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: This magnesium-dependent enzyme catalyzes the hydrolysis
+    of ATP coupled with the transport of phospholipids (Potential).
+    Seems to be involved in ribosome assembly.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBUNIT: Interacts with CDC50.
+-!- INTERACTION:
+    P32366:VMA6; NbExp=1; IntAct=EBI-3106, EBI-20201;
+-!- SUBCELLULAR LOCATION: Golgi apparatus; trans-Golgi network; trans-
+    Golgi network membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 606 molecules/cell.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IV subfamily.
+ GO:0005802; C:Golgi trans face; IDA:SGD.
+ GO:0004012; F:phospholipid-translocating ATPase activity; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006897; P:endocytosis; IGI:SGD.
+ GO:0006886; P:intracellular protein transport; IGI:SGD.
+ GO:0045332; P:phospholipid translocation; IMP:SGD.
+ GO:0006892; P:post-Golgi vesicle-mediated transport; IGI:SGD.
+ATP-binding; Complete proteome; Hydrolase; Magnesium; Membrane;
+Nucleotide-binding; Phosphorylation; Transmembrane.
+TMTEN

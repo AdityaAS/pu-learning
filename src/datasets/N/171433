@@ -1,0 +1,15 @@
+AC   P69193; P13823;
+Serine-repeat antigen protein precursor (p126) (111 kDa antigen).
+"Analysis of stage-specific transcripts of the Plasmodium falciparum
+serine repeat antigen (SERA) gene and transcription from the SERA
+locus.";
+-!- FUNCTION: It may function at the red blood cell membrane, perhaps
+    as a component that influences the invasion process.
+-!- SUBCELLULAR LOCATION: Vacuole. Note=Exported antigen that
+    accumulates in the parasitophorous vacuole.
+-!- PTM: Contains numerous possible O-linked glycosylation and serine
+    phosphorylation sites.
+-!- SIMILARITY: Belongs to the peptidase C1 family.
+Glycoprotein; Hydrolase; Malaria; Protease; Signal; Thiol protease;
+Vacuole.
+TMZERO

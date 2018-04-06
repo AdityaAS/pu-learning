@@ -1,0 +1,15 @@
+AC   Q9Z7Q9; Q9JQ37;
+50S ribosomal protein L23.
+"Comparative genomes of Chlamydia pneumoniae and C. trachomatis.";
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+"Comparison of whole genome sequences of Chlamydia pneumoniae J138
+from Japan and CWL029 from USA.";
+"The genome sequence of Chlamydia pneumoniae TW183 and comparison with
+other Chlamydia strains based on whole genome sequence analysis.";
+-!- FUNCTION: Binds to a specific region on the 23S rRNA (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L23P family.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

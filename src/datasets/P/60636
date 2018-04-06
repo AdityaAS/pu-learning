@@ -1,0 +1,25 @@
+AC   P15431;
+Gamma-aminobutyric-acid receptor subunit beta-1 precursor (GABA(A)
+receptor subunit beta-1).
+"GABAA receptor beta subunit heterogeneity: functional expression of
+cloned cDNAs.";
+"GABAA-receptor expressed from rat brain alpha- and beta-subunit cDNAs
+displays potentiation by benzodiazepine receptor ligands.";
+-!- FUNCTION: GABA, the major inhibitory neurotransmitter in the
+    vertebrate brain, mediates neuronal inhibition by binding to the
+    GABA/benzodiazepine receptor and opening an integral chloride
+    channel.
+-!- SUBUNIT: Binds UBQLN1 (By similarity). Generally pentameric. There
+    are five types of GABA(A) receptor chains: alpha, beta, gamma,
+    delta, and rho.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ligand-gated ionic channel (TC 1.A.9)
+    family.
+ GO:0004890; F:GABA-A receptor activity; IDA:RGD.
+ GO:0015276; F:ligand-gated ion channel activity; TAS:RGD.
+ GO:0006821; P:chloride transport; TAS:RGD.
+ GO:0007214; P:gamma-aminobutyric acid signaling pathway; TAS:RGD.
+Chloride; Chloride channel; Glycoprotein; Ion transport;
+Ionic channel; Membrane; Postsynaptic membrane; Signal; Transmembrane;
+Transport.
+TMFOUR

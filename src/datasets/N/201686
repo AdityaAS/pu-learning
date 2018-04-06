@@ -1,0 +1,23 @@
+AC   Q801E1;
+Ventral anterior homeobox 2.
+"Hedgehog signalling maintains the optic stalk-retinal interface
+through the regulation of Vax gene activity.";
+-!- FUNCTION: Required for closure of the choroid fissure and together
+    with Vax1 is required for optic nerve differentiation and to limit
+    retinal development to the optic cup.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in the anterior neural keel and
+    later in the preoptic area, optic stalk and ventral retina.
+-!- DEVELOPMENTAL STAGE: By 7 somites, detected in the anterior brain
+    and expression is strong within the optic stalks, preoptic area
+    and telencephalon by 12 somites. By 16 somites, expression in the
+    telencephalon is reduced but that in the preoptic area, optic
+    stalk and ventral retina remains and this pattern of expression is
+    similiar at 24 hpf (hours post-fertilization). By 48 hpf,
+    expression is restricted to the ventral preoptic area, anterior
+    dorsal hypothalamus and ventral retina.
+-!- SIMILARITY: Belongs to the EMX homeobox family.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+Developmental protein; DNA-binding; Homeobox; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

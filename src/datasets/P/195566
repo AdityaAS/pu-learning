@@ -1,0 +1,20 @@
+AC   P32089;
+Tricarboxylate transport protein, mitochondrial precursor (Citrate
+transport protein) (CTP) (Tricarboxylate carrier protein) (Solute
+carrier family 25 member 1).
+"The mitochondrial tricarboxylate transport protein. cDNA cloning,
+primary structure, and comparison with other mitochondrial transport
+proteins.";
+-!- FUNCTION: Involved in citrate-H+/malate exchange. Important for
+    the bioenergetics of hepatic cells as it provides a carbon source
+    for fatty acid and sterol biosyntheses, and NAD+ for the
+    glycolytic pathway.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0015137; F:citrate transporter activity; TAS:RGD.
+ GO:0006843; P:mitochondrial citrate transport; TAS:RGD.
+Direct protein sequencing; Inner membrane; Membrane; Mitochondrion;
+Repeat; Transit peptide; Transmembrane; Transport.
+TMSIX

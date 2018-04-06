@@ -1,0 +1,22 @@
+AC   Q9WTW7;
+Solute carrier family 23 member 1 (Sodium-dependent vitamin C
+transporter 1) (Na(+)/L-ascorbic acid transporter 1).
+"A family of mammalian Na+-dependent L-ascorbic acid transporters.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Sodium/ascorbate cotransporter. Mediates electrogenic
+    uptake of vitamin C, with a stoichiometry of 2 Na(+) for each
+    ascorbate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in the straight segment of
+    proximal tubules in the kidney, in intestine and liver. Detected
+    in epithelial cells of the bronchiole and epididymis.
+-!- PTM: Phosphorylated (By similarity).
+-!- SIMILARITY: Belongs to the xanthine/uracil permease family. SLC23A
+    subfamily.
+ GO:0005887; C:integral to plasma membrane; TAS:RGD.
+ GO:0008520; F:L-ascorbate:sodium symporter activity; IDA:RGD.
+ GO:0005215; F:transporter activity; IDA:RGD.
+Glycoprotein; Ion transport; Membrane; Phosphorylation; Sodium;
+Sodium transport; Symport; Transmembrane; Transport.
+TMTWELVE

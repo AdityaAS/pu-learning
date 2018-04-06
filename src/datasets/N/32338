@@ -1,0 +1,53 @@
+AC   P12271;
+Cellular retinaldehyde-binding protein (CRALBP).
+"Cloning of the cDNAs encoding the cellular retinaldehyde-binding
+protein from bovine and human retina and comparison of the protein
+structures.";
+"Molecular cloning and structural analysis of the human gene encoding
+cellular retinaldehyde-binding protein.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Structural and functional characterization of recombinant human
+cellular retinaldehyde-binding protein.";
+"Newfoundland rod-cone dystrophy, an early-onset retinal dystrophy, is
+caused by splice-junction mutations in RLBP1.";
+"Mutation of the gene encoding cellular retinaldehyde-binding protein
+in autosomal recessive retinitis pigmentosa.";
+"Bothnia dystrophy caused by mutations in the cellular retinaldehyde-
+binding protein gene (RLBP1) on chromosome 15q26.";
+-!- FUNCTION: Carries 11-cis-retinol and 11-cis-retinaldehyde as
+    endogenous ligands and may be a functional component of the visual
+    cycle.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: Retina and pineal gland.
+-!- DISEASE: Defects in RLBP1 are a cause of autosomal recessive
+    retinitis pigmentosa (arRP) [MIM:268000]. Retinitis pigmentosa
+    (RP) leads to degeneration of retinal photoreceptor cells.
+    Patients typically have night vision blindness and loss of
+    midperipheral visual field. As their condition progresses, they
+    lose their far peripheral visual field and eventually central
+    vision as well.
+-!- DISEASE: Defects in RLBP1 are the cause of Bothnia retinal
+    dystrophy [MIM:607475]; also known as Vasterbotten dystrophy. It
+    is an autosomal recessive retinitis pigmentosa. Affected
+    individuals show night blindness from early childhood with
+    features consistent with retinitis punctata albescens and macular
+    degeneration.
+-!- DISEASE: Defects in RLBP1 are the cause of Newfoundland rod-cone
+    dystrophy (NFRCD) [MIM:607476]. NFRCD is a retinal dystrophy
+    reminiscent of retinitis punctata albescens but with a
+    substantially lower age at onset and more-rapid and distinctive
+    progression.
+-!- SIMILARITY: Contains 1 CRAL-TRIO domain.
+-!- WEB RESOURCE: NAME=Mutations of the RLBP1 gene;
+    NOTE=Retina International's Scientific Newsletter;
+    URL="http://www.retina-international.com/sci-news/cralbp.htm".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=RLBP1".
+ GO:0005625; C:soluble fraction; TAS:ProtInc.
+ GO:0005488; F:binding; TAS:ProtInc.
+ GO:0007601; P:visual perception; TAS:ProtInc.
+ GO:0006776; P:vitamin A metabolism; TAS:ProtInc.
+Acetylation; Disease mutation; Retinitis pigmentosa; Retinol-binding;
+Sensory transduction; Transport; Vision.
+TMZERO

@@ -1,0 +1,16 @@
+AC   O23732;
+Glutathione synthetase, chloroplast precursor (EC 6.3.2.3)
+(Glutathione synthase) (GSH synthetase) (GSH-S).
+"cDNA cloning and expression analysis of genes encoding GSH synthesis
+in roots of the heavy-metal accumulator Brassica juncea L.: evidence
+for Cd-induction of a putative mitochondrial gamma-glutamylcysteine
+synthetase isoform.";
+-!- CATALYTIC ACTIVITY: ATP + gamma-L-glutamyl-L-cysteine + glycine =
+    ADP + phosphate + glutathione.
+-!- PATHWAY: Sulfur metabolism; glutathione biosynthesis; glutathione
+    from L-cysteine and L-glutamate: step 2 [final step].
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast (Potential).
+-!- SIMILARITY: Belongs to the eukaryotic GSH synthase family.
+ATP-binding; Chloroplast; Glutathione biosynthesis; Ligase;
+Nucleotide-binding; Plastid; Transit peptide.
+TMZERO

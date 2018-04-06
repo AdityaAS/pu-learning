@@ -1,0 +1,17 @@
+AC   P46274;
+Outer mitochondrial membrane protein porin (Voltage-dependent anion-
+selective channel protein) (VDAC).
+"Multiple cDNAs of wheat voltage-dependent anion channels (VDAC):
+isolation, differential expression, mapping and evolution.";
+-!- FUNCTION: Forms a channel through the cell membrane that allows
+    diffusion of small hydrophilic molecules. The channel adopts an
+    open conformation at low or zero membrane potential and a closed
+    conformation at potentials above 30-40 mV. The open state has a
+    weak anion selectivity whereas the closed state is cation-
+    selective (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane.
+-!- DOMAIN: Consists mainly of membrane-spanning sided beta-sheets.
+-!- SIMILARITY: Belongs to the eukaryotic mitochondrial porin family.
+Ion transport; Membrane; Mitochondrion; Outer membrane; Porin;
+Transmembrane; Transport.
+TMZERO

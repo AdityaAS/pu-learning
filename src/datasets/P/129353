@@ -1,0 +1,20 @@
+AC   P0AAF1; P24170;
+Putrescine-ornithine antiporter (Putrescine transport protein).
+"Coexistence of the genes for putrescine transport protein and
+ornithine decarboxylase at 16 min on Escherichia coli chromosome.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Probable putrescine-ornithine antiporter.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By low environmental pH.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily.
+Amino-acid transport; Antiport; Complete proteome; Inner membrane;
+Membrane; Transmembrane; Transport.
+TMTWELVE

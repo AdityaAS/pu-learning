@@ -1,0 +1,28 @@
+AC   P69831; P37189; P76411;
+Galactitol permease IIC component (PTS system galactitol-specific EIIC
+component) (EIIC-Gat).
+"Sequence of the gat operon for galactitol utilization from a wild-
+type strain EC3132 of Escherichia coli.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in galactitol transport.
+-!- SUBUNIT: Forms a complex with one each of subunit of gatA, gatB
+    and 2 subunits of gatC.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIIC type-2 domain.
+Complete proteome; Galactitol metabolism; Inner membrane; Membrane;
+Phosphotransferase system; Sugar transport; Transmembrane; Transport.
+TMTEN

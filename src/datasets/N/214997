@@ -1,0 +1,9 @@
+AC   Q92LX6;
+UPF0176 protein R02887.
+"Analysis of the chromosome sequence of the legume symbiont
+Sinorhizobium meliloti strain 1021.";
+-!- SIMILARITY: Belongs to the UPF0176 family.
+-!- SIMILARITY: Contains 1 rhodanese domain.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

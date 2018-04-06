@@ -1,0 +1,13 @@
+AC   Q92527; Q96QN1; Q9UDM3;
+Ankyrin repeat domain-containing protein 7 (Testis-specific protein
+TSA806).
+"The DNA sequence of human chromosome 7.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Isolation of three testis-specific genes (TSA303, TSA806, TSA903) by
+a differential mRNA display method.";
+-!- TISSUE SPECIFICITY: Testis specific.
+-!- SIMILARITY: Contains 5 ANK repeats.
+ GO:0008584; P:male gonad development; TAS:ProtInc.
+ANK repeat; Repeat.
+TMZERO

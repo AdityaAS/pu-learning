@@ -1,0 +1,15 @@
+AC   Q82QK2;
+Translation initiation factor IF-1 2.
+"Genome sequence of an industrial microorganism Streptomyces
+avermitilis: deducing the ability of producing secondary
+metabolites.";
+"Complete genome sequence and comparative analysis of the industrial
+microorganism Streptomyces avermitilis.";
+-!- FUNCTION: No specific function has so far been attributed to this
+    initiation factor; however, it seems to stimulate more or less all
+    the activities of the other two initiation factors, IF-2 and IF-3.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the IF-1 family.
+-!- SIMILARITY: Contains 1 S1-like domain.
+Complete proteome; Initiation factor; Protein biosynthesis.
+TMZERO

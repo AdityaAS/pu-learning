@@ -1,0 +1,60 @@
+AC   P04861;
+Protein C' [Contains: Protein C; Protein Y1; Protein Y2].
+"Sendai virus contains overlapping genes expressed from a single
+mRNA.";
+"Ribosomal initiation from an ACG codon in the Sendai virus P/C
+mRNA.";
+"A point mutation in the Sendai virus accessory C proteins attenuates
+virulence for mice, but not virus growth in cell culture.";
+"Proteolytic processing and translation initiation: two independent
+mechanisms for the expression of the Sendai virus Y proteins.";
+-!- FUNCTION: The different products prevent the establishment of
+    cellular antiviral state by blocking the interferon-alpha/beta
+    (IFN-alpha/beta) and IFN-gamma signaling pathways. They inhibit
+    IFN-alpha/beta induced tyrosine phosphorylation of STAT1 and
+    STAT2. Blocking the IFN-alpha/beta pathway requires binding to
+    STAT1 in the cytoplasm. They inhibit IFN-gamma induced serine
+    phosphorylation of STAT1. Block the IFN-gamma pathway in a STAT1-
+    binding independent mechanism, preventing the GAF (tyrosine-
+    phosphorylated STAT1 dimer) to bind its promoter in the nucleus.
+    May also have a role in preventing the cell to enter apoptosis.
+    Modulate regulation of viral transcription and replication.
+    Overexpression inhibits the viral RNA polymerase. The absence of
+    all C', C, Y1 and Y2 proteins leads to viral delayed growth. Plays
+    an important role in virion particles release. Modulates virion
+    shape (By similarity).
+-!- SUBUNIT: The different products bind the N-terminal part of
+    unphosphorylated and phosphorylated human STAT1, preventing the
+    formation of STAT1 homodimers and STAT1/STAT2 heterodimers (By
+    similarity). The binding of C protein to L protein has an
+    inhibitory effect on viral transcription and replication (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm. Note=Protein C' seems to localize
+    around the Golgi.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative initiation; Named isoforms=4;
+    Name=C';
+      IsoId=P04861-1; Sequence=Displayed;
+      Note=The initiator methionine is coded by an unusual start codon
+      ACG;
+    Name=C;
+      IsoId=P04861-2; Sequence=VSP_018933;
+      Note=Most abundant isoform in infected cells;
+    Name=Y1;
+      IsoId=P04861-3; Sequence=VSP_018934;
+    Name=Y2;
+      IsoId=P04861-4; Sequence=VSP_018935;
+-!- PTM: Y1 and Y2 proteins are produced not only by alternative
+    initiation, but also by preoteolytic cleavage of C'. Only
+    alternative initiation is detected in vitro, whereas in vivo
+    cleavage seems to be predominant.
+-!- MISCELLANEOUS: The C protein is found in virion at a ratio of
+    approximately 40 molecules per virion, presumably associated with
+    the nucleocapsid (By similarity).
+-!- MISCELLANEOUS: The P/V/C gene has two overlapping open reading
+    frames. One encodes the P/V/W proteins and the other the C/Y
+    proteins.
+-!- CAUTION: The C' protein uses an unusual ACG start codon.
+Alternative initiation; Direct protein sequencing;
+Host-virus interaction; Interferon antiviral system evasion.
+TMZERO

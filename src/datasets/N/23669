@@ -1,0 +1,13 @@
+AC   Q6CU65;
+Pre-mRNA-splicing factor CEF1.
+"Genome evolution in yeasts.";
+-!- FUNCTION: Involved in pre-mRNA splicing and cell cycle control (By
+    similarity).
+-!- SUBUNIT: Associated with the spliceosome (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the CEF1 family.
+-!- SIMILARITY: Contains 2 Myb DNA-binding domains.
+Cell cycle; Coiled coil; Complete proteome; DNA-binding;
+mRNA processing; mRNA splicing; Nuclear protein; Repeat; Spliceosome.
+TMZERO

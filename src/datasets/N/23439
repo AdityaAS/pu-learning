@@ -1,0 +1,23 @@
+AC   Q99L43; Q3TMD1; Q6NSU1;
+Phosphatidate cytidylyltransferase 2 (EC 2.7.7.41) (CDP-diglyceride
+synthetase 2) (CDP-diglyceride pyrophosphorylase 2) (CDP-
+diacylglycerol synthase 2) (CDS 2) (CTP:phosphatidate
+cytidylyltransferase 2) (CDP-DAG synthase 2) (CDP-DG synthetase 2).
+"Isolation and characterization of murine Cds (CDP-diacylglycerol
+synthase) 1 and 2.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Provides CDP-diacylglycerol an important precursor for
+    the synthesis of phosphatidylinositol, phosphatidylglycerol, and
+    cardiolipin (By similarity).
+-!- CATALYTIC ACTIVITY: CTP + phosphatidate = diphosphate + CDP-
+    diacylglycerol.
+-!- PATHWAY: Phospholipid biosynthesis.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein; matrix side (Potential).
+-!- SIMILARITY: Belongs to the CDS family.
+ GO:0005783; C:endoplasmic reticulum; IDA:MGI.
+Membrane; Nucleotidyltransferase; Phospholipid biosynthesis;
+Transferase; Transmembrane.
+TMSIX

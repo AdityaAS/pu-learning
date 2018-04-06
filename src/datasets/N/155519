@@ -1,0 +1,17 @@
+AC   Q9QYX2;
+Ribonuclease pancreatic precursor (EC 3.1.27.5) (RNase 1) (RNase A).
+"The phylogenetic position of 'Acomyinae' (Rodentia, Mammalia) as
+sister group of a Murinae + Gerbillinae clade: evidence from the
+nuclear ribonuclease gene.";
+-!- FUNCTION: Endonuclease that catalyzes the cleavage of RNA on the
+    3' side of pyrimidine nucleotides. Acts on single stranded and
+    double stranded RNA (By similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to nucleoside 3'-
+    phosphates and 3'-phosphooligonucleotides ending in Cp or Up with
+    2',3'-cyclic phosphate intermediates.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Pancreas.
+-!- SIMILARITY: Belongs to the pancreatic ribonuclease family.
+Endonuclease; Glycoprotein; Hydrolase; Nuclease; Signal.
+TMZERO

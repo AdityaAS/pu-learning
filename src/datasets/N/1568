@@ -1,0 +1,17 @@
+AC   Q9M3A3; Q8GXQ1;
+Protein ABIL2 (Abl interactor-like protein 2) (AtABIL2).
+"DISTORTED3/SCAR2 is a putative Arabidopsis WAVE complex subunit that
+activates the Arp2/3 complex and is required for epidermal
+morphogenesis.";
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"Functional annotation of a full-length Arabidopsis cDNA collection.";
+-!- FUNCTION: Involved in regulation of actin and microtubule
+    organization. Part of a WAVE complex that activates the Arp2/3
+    complex (By similarity).
+-!- SUBUNIT: Binds SCAR (By similarity).
+-!- SIMILARITY: Belongs to the ABI family.
+-!- CAUTION: Ref.3 sequence might be the product of an alternative
+    splicing.
+Cytoskeleton.
+TMZERO

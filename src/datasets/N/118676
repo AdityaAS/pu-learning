@@ -1,0 +1,24 @@
+AC   P28683;
+Green-sensitive opsin (Green cone photoreceptor pigment).
+"Primary structures of chicken cone visual pigments: vertebrate
+rhodopsins have evolved out of cone visual pigments.";
+"A visual pigment from chicken that resembles rhodopsin: amino acid
+sequence, gene structure, and functional expression.";
+-!- FUNCTION: Visual pigments are the light-absorbing molecules that
+    mediate vision. They consist of an apoprotein, opsin, covalently
+    linked to cis-retinal.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Absorption:
+      Abs(max)=508 nm;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: The color pigments are found in the cone
+    photoreceptor cells.
+-!- PTM: Phosphorylated on some or all of the serine and threonine
+    residues present in the C-terminal region.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+    Opsin subfamily.
+Chromophore; Direct protein sequencing; G-protein coupled receptor;
+Glycoprotein; Membrane; Phosphorylation; Photoreceptor protein;
+Receptor; Retinal protein; Sensory transduction; Transducer;
+Transmembrane; Vision.
+TMSEVEN

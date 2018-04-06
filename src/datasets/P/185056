@@ -1,0 +1,18 @@
+AC   P69427; O69415; O87926; P27856;
+Sec-independent protein translocase protein tatB.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Required for correct localization of precursor proteins
+    bearing signal peptides with the twin arginine conserved motif
+    S/T-R-R-X-F-L-K. This sec-independent pathway is termed TAT for
+    twin-arginine translocation system. This system mainly transports
+    proteins with bound cofactors that require folding prior to
+    export.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the tatB family.
+Complete proteome; Inner membrane; Membrane; Protein transport;
+Translocation; Transmembrane; Transport.
+TMONE

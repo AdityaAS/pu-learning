@@ -1,0 +1,36 @@
+AC   Q9FMA5;
+Cytochrome P450 85A1 (EC 1.14.-.-) (Brassinosteroid-6-oxidase 1)
+(BR6ox 1) (C6-oxidase 1).
+"Brassinosteroid-6-oxidases from Arabidopsis and tomato catalyze
+multiple C-6 oxidations in brassinosteroid biosynthesis.";
+"Structural analysis of Arabidopsis thaliana chromosome 5. IV.
+Sequence features of the regions of 1,456,315 bp covered by nineteen
+physically assigned P1 and TAC clones.";
+"Microarray analysis of brassinosteroid-regulated genes in
+Arabidopsis.";
+"Organ-specific expression of brassinosteroid-biosynthetic genes and
+distribution of endogenous brassinosteroids in Arabidopsis.";
+-!- FUNCTION: Catalyzes the C6-oxidation step in brassinosteroids
+    biosynthesis. Converts 6-deoxocastasterone to castasterone. May
+    also convert 6-deoxoteasterone to teasterone, 3-dehydro-6-
+    deoxoteasterone to 3-dehydroteasterone, and 6-deoxotyphasterol to
+    typhasterol.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q9FMA5-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9FMA5-2; Sequence=VSP_014451;
+      Note=Derived from EST data. No experimental confirmation
+      available;
+    Name=3;
+      IsoId=Q9FMA5-3; Sequence=VSP_014452, VSP_014453;
+      Note=Derived from EST data. No experimental confirmation
+      available;
+-!- TISSUE SPECIFICITY: Mainly expressed in apical shoots, siliques
+    and roots.
+-!- INDUCTION: Repressed by brassinolide treatment.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+Alternative splicing; Heme; Iron; Membrane; Metal-binding;
+Monooxygenase; Oxidoreductase; Transmembrane.
+TMONE

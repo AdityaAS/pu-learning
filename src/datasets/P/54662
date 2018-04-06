@@ -1,0 +1,16 @@
+AC   P33410;
+Outer membrane usher protein fimC precursor.
+"Characterization of a Bordetella pertussis fimbrial gene cluster
+which is located directly downstream of the filamentous haemagglutinin
+gene.";
+"Common accessory genes for the Bordetella pertussis filamentous
+hemagglutinin and fimbriae share sequence similarities with the papC
+and papD gene families.";
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the fimbrial export usher family.
+Complete proteome; Fimbria; Membrane; Outer membrane; Signal;
+Transmembrane; Transport.
+TMZERO

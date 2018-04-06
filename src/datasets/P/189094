@@ -1,0 +1,54 @@
+AC   P57744;
+Mitochondrial import inner membrane translocase subunit TIM8.
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Different import pathways through the mitochondrial intermembrane
+space for inner membrane proteins.";
+"Biogenesis of Tim proteins of the mitochondrial carrier import
+pathway: differential targeting mechanisms and crossing over with the
+main import pathway.";
+"The role of the TIM8-13 complex in the import of Tim23 into
+mitochondria.";
+"Two intermembrane space TIM complexes interact with different domains
+of Tim23p during its import into mitochondria.";
+"The essential function of the small Tim proteins in the TIM22 import
+pathway does not depend on formation of the soluble 70-kilodalton
+complex.";
+"The role of the Tim8p-Tim13p complex in a conserved import pathway
+for mitochondrial polytopic inner membrane proteins.";
+-!- FUNCTION: Mitochondrial intermembrane chaperone that participates
+    in the import and insertion of some multi-pass transmembrane
+    proteins into the mitochondrial inner membrane. Also required for
+    the transfer of beta-barrel precursors from the TOM complex to the
+    sorting and assembly machinery (SAM complex) of the outer
+    membrane. Acts as a chaperone-like protein that protects the
+    hydrophobic precursors from aggregation and guide them through the
+    mitochondrial intermembrane space. The TIM8-TIM13 complex is non
+    essential and only mediates the import of few proteins under
+    precise conditions, while the predominant TIM9-TIM10 70 kDa
+    complex is crucial and mediates the import of much more proteins.
+    Strictly required for import of TIM23 in some conditions, when a
+    low membrane potential exists in the mitochondria.
+-!- SUBUNIT: Heterohexamer; composed of 3 copies of TIM8 and 3 copies
+    of TIM13, named soluble 70 kDa complex. Associates with the TIM22
+    complex, whose core is composed of TIM18, TIM22 and TIM54.
+    Interacts with the transmembrane regions of multi-pass
+    transmembrane proteins in transit.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    peripheral membrane protein; intermembrane side. Note=Import into
+    inner membrane protein requires TIM5 function.
+-!- DOMAIN: The twin CX3C motif contains 4 conserved Cys residues that
+    form 2 disulfide bonds in the mitochondrial intermembrane space.
+    However, during the transit of TIM8 from cytoplasm into
+    mitochondrion, the Cys residues probably coordinate zinc, thereby
+    preventing folding and allowing its transfer across mitochondrial
+    outer membrane (Probable).
+-!- SIMILARITY: Belongs to the small Tim family.
+ GO:0042719; C:mitochondrial intermembrane space protein t...; IDA:SGD.
+ GO:0008565; F:protein transporter activity; IMP:SGD.
+ GO:0045039; P:protein import into mitochondrial inner mem...; IMP:SGD.
+Chaperone; Complete proteome; Inner membrane; Membrane; Metal-binding;
+Mitochondrion; Protein transport; Translocation; Transport; Zinc.
+TMZERO

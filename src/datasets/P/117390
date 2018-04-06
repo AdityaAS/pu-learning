@@ -1,0 +1,26 @@
+AC   P32332;
+Mitochondrial oxaloacetate transport protein (Mitochondrial carrier
+protein PMT).
+"Sequence and disruption analysis of a putative mitochondrial
+transporter protein gene.";
+"Identification of the yeast mitochondrial transporter for
+oxaloacetate and sulfate.";
+"Sequence of a segment of yeast chromosome XI identifies a new
+mitochondrial carrier, a new member of the G protein family, and a
+protein with the PAAKK motif of the H1 histones.";
+"Complete DNA sequence of yeast chromosome XI.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Transports oxaloacetate and sulfate.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (Potential).
+-!- MISCELLANEOUS: Present with 5350 molecules/cell.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005743; C:mitochondrial inner membrane; IDA:SGD.
+ GO:0000227; F:oxaloacetate carrier activity; IDA:SGD.
+ GO:0008271; F:sulfate porter activity; IDA:SGD.
+ GO:0015729; P:oxaloacetate transport; IDA:SGD.
+ GO:0008272; P:sulfate transport; IDA:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion; Repeat;
+Transmembrane; Transport.
+TMZERO

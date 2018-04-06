@@ -1,0 +1,20 @@
+AC   Q9VLC0;
+Vacuolar protein sorting-associated protein 54 (Protein scattered).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Genetic dissection of sperm individualization in Drosophila
+melanogaster.";
+-!- FUNCTION: May be involved in retrograde transport from early and
+    late endosomes to late Golgi (By similarity). Required during
+    spermatogenesis for sperm individualization.
+-!- SIMILARITY: Belongs to the VPS54 family.
+ GO:0005794; C:Golgi apparatus; ISS:UniProtKB.
+ GO:0005739; C:mitochondrion; ISS:UniProtKB.
+ GO:0006896; P:Golgi to vacuole transport; ISS:UniProtKB.
+ GO:0042147; P:retrograde transport, endosome to Golgi; ISS:UniProtKB.
+ GO:0007291; P:sperm individualization; IMP:FlyBase.
+Coiled coil; Complete proteome; Developmental protein;
+Differentiation; Protein transport; Spermatogenesis; Transport.
+TMZERO

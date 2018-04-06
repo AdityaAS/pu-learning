@@ -1,0 +1,19 @@
+AC   P68646; P31576; P75627;
+Ferredoxin-like protein fixX.
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The fix Escherichia coli region contains four genes related to
+carnitine metabolism.";
+"The fixA and fixB genes are necessary for anaerobic carnitine
+reduction in Escherichia coli.";
+-!- FUNCTION: Could be part of an electron transfer system required
+    for anaerobic carnitine reduction. Could be a 3Fe-4S cluster-
+    containing protein.
+-!- SIMILARITY: Belongs to the bacterial-type ferredoxin family. FixX
+    subfamily.
+4Fe-4S; Complete proteome; Electron transport; Iron; Iron-sulfur;
+Metal-binding; Transport.
+TMZERO

@@ -1,0 +1,15 @@
+AC   Q48BY7;
+Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49) (PEP
+carboxykinase) (Phosphoenolpyruvate carboxylase) (PEPCK).
+"Whole-genome sequence analysis of Pseudomonas syringae pv.
+phaseolicola 1448A reveals divergence among pathovars in genes
+involved in virulence and transposition.";
+-!- CATALYTIC ACTIVITY: ATP + oxaloacetate = ADP + phosphoenolpyruvate
+    + CO(2).
+-!- PATHWAY: Carbohydrate biosynthesis; gluconeogenesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the phosphoenolpyruvate carboxykinase [ATP]
+    family.
+ATP-binding; Complete proteome; Decarboxylase; Gluconeogenesis; Lyase;
+Nucleotide-binding.
+TMZERO

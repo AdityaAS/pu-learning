@@ -1,0 +1,20 @@
+AC   Q74LQ3;
+Phosphonates import ATP-binding protein phnC (EC 3.6.3.28).
+"The genome sequence of the probiotic intestinal bacterium
+Lactobacillus johnsonii NCC 533.";
+-!- FUNCTION: Part of the ABC transporter complex phnCDE involved in
+    phosphonates import. Responsible for energy coupling to the
+    transport system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + phosphonate(Out) = ADP +
+    phosphate + phosphonate(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (phnC), two transmembrane proteins (phnE) and a solute-binding
+    protein (phnD) (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Phosphonates
+    importer (TC 3.A.1.9.1) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Hydrolase; Membrane;
+Nucleotide-binding; Phosphonate transport; Transport.
+TMZERO

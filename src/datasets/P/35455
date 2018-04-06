@@ -1,0 +1,16 @@
+AC   P13627;
+Cytochrome c1 precursor.
+"The genes of the Paracoccus denitrificans bc1 complex. Nucleotide
+sequence and homologies between bacterial and mitochondrial
+subunits.";
+-!- FUNCTION: Component of the ubiquinol-cytochrome c reductase
+    complex (complex III or cytochrome b-c1 complex), which is a
+    respiratory chain that generates an electrochemical potential
+    coupled to ATP synthesis. c1 functions as an electron donor to
+    cytochrome c.
+-!- SUBUNIT: The main subunits of complex b-c1 are: cytochrome b,
+    cytochrome c1 and the Rieske protein.
+-!- PTM: Binds 1 heme group per subunit.
+Electron transport; Heme; Iron; Membrane; Metal-binding;
+Respiratory chain; Signal; Transmembrane; Transport.
+TMONE

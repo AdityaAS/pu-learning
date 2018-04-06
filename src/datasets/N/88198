@@ -1,0 +1,11 @@
+AC   Q7CQF3;
+Thymidine kinase (EC 2.7.1.21).
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- CATALYTIC ACTIVITY: ATP + thymidine = ADP + thymidine 5'-
+    phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the thymidine kinase family.
+ATP-binding; Complete proteome; DNA synthesis; Kinase;
+Nucleotide-binding; Transferase.
+TMZERO

@@ -1,0 +1,46 @@
+AC   P28288; Q15271; Q9H529;
+ATP-binding cassette sub-family D member 3 (70 kDa peroxisomal
+membrane protein) (PMP70).
+"Mutations in the 70K peroxisomal membrane protein gene in Zellweger
+syndrome.";
+"Nucleotide sequence of the human 70 kDa peroxisomal membrane protein:
+a member of ATP-binding cassette transporters.";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"Homo- and heterodimerization of peroxisomal ATP-binding cassette
+half-transporters.";
+"Human adrenoleukodystrophy protein and related peroxisomal ABC
+transporters interact with the peroxisomal assembly protein PEX19p.";
+"PEX19 binds multiple peroxisomal membrane proteins, is predominantly
+cytoplasmic, and is required for peroxisome membrane synthesis.";
+"Characterization and functional analysis of the nucleotide binding
+fold in human peroxisomal ATP binding cassette transporters.";
+-!- FUNCTION: Probable transporter. The nucleotide-binding fold acts
+    as an ATP-binding subunit with ATPase activity.
+-!- SUBUNIT: Can form heterodimers with ABCD1/ALD and ABCD2/ALDR.
+    Dimerization is necessary to form an active transporter. Interacts
+    with PEX19.
+-!- INTERACTION:
+    P33897:ABCD1; NbExp=1; IntAct=EBI-80992, EBI-81045;
+    P40855:PEX19; NbExp=1; IntAct=EBI-80992, EBI-594747;
+-!- SUBCELLULAR LOCATION: Peroxisome; peroxisomal membrane; multi-pass
+    membrane protein.
+-!- DISEASE: Defects in ABCD3 may be the cause of Zellweger syndrome
+    type 2 (ZWS-2) [MIM:170995]. ZWS-2 is an autosomal recessive
+    disorder due to defective import mechanisms for peroxisomal matrix
+    enzymes. The clinical phenotype includes characteristic facies,
+    progressive neurological dysfunction, liver disease and death in
+    infancy.
+-!- SIMILARITY: Belongs to the ABC transporter family. ALD subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0005779; C:integral to peroxisomal membrane; TAS:ProtInc.
+ GO:0005778; C:peroxisomal membrane; TAS:ProtInc.
+ GO:0005777; C:peroxisome; IDA:UniProtKB.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0015910; P:peroxisomal long-chain fatty acid import; TAS:ProtInc.
+ GO:0007031; P:peroxisome organization and biogenesis; TAS:ProtInc.
+Acetylation; ATP-binding; Disease mutation; Glycoprotein; Membrane;
+Nucleotide-binding; Peroxisome; Transmembrane; Transport;
+Zellweger syndrome.
+TMFOUR

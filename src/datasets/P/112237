@@ -1,0 +1,25 @@
+AC   P0A903; P21167; P76564;
+Lipoprotein 34 precursor.
+"A gene for a new lipoprotein in the dapA-purC interval of the
+Escherichia coli chromosome.";
+"DNA sequence of the purC gene encoding 5'-phosphoribosyl-5-
+aminoimidazole-4-N-succinocarboxamide synthetase and organization of
+the dapA-purC region of Escherichia coli K-12.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of a multicomponent complex required for outer
+membrane biogenesis in Escherichia coli.";
+"Protein complexes of the Escherichia coli cell envelope.";
+-!- FUNCTION: Non-essential lipoprotein.
+-!- SUBUNIT: Forms a heterooligomeric complex with yaeT, yfgL and
+    yfiO.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor.
+-!- CAUTION: Ref.2 (M33928) sequence differs from that shown due to
+    frameshifts in positions 50, 64, 81 and 134.
+Complete proteome; Lipoprotein; Membrane; Outer membrane; Palmitate;
+Signal.
+TMZERO

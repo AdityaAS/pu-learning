@@ -1,0 +1,30 @@
+AC   Q14005; Q16435; Q9UP18;
+Interleukin-16 precursor (IL-16) (Lymphocyte chemoattractant factor)
+(LCF).
+"GA-binding protein factors, in concert with the coactivator CREB
+binding protein/p300, control the induction of the interleukin 16
+promoter in T lymphocytes.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"Interleukin-16 or not?";
+"Molecular and functional analysis of a lymphocyte chemoattractant
+factor: association of biologic function with CD4 expression.";
+"Cloning, expression and purification of human interleukin-16.";
+"PDZ domain-mediated interaction of interleukin-16 precursor proteins
+with myosin phosphatase targeting subunits.";
+"Structure of interleukin 16 resembles a PDZ domain with an occluded
+peptide binding site.";
+-!- FUNCTION: Stimulates a migratory response in CD4+ lymphocytes,
+    monocytes, and eosinophils. Also induces T-lymphocyte expression
+    of interleukin 2 receptor. Ligand for CD4.
+-!- SUBUNIT: Homotetramer. The precursor protein interacts with
+    PPP1R12A.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Contains 2 PDZ (DHR) domains.
+-!- WEB RESOURCE: NAME=R&D Systems' cytokine source book: IL16;
+    URL="http://www.rndsystems.com/asp/g_sitebuilder.asp?bodyId=210".
+ GO:0005615; C:extracellular space; TAS:ProtInc.
+ GO:0006955; P:immune response; TAS:ProtInc.
+3D-structure; Chemotaxis; Cytokine; Phosphorylation; Polymorphism;
+Repeat.
+TMZERO

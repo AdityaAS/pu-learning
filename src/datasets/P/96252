@@ -1,0 +1,21 @@
+AC   P25737; Q2MAS3;
+Lysine-specific permease.
+"The lysP gene encodes the lysine-specific permease.";
+"Automated multiplex sequencing of the E.coli genome.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Topological analysis of the lysine-specific permease of Escherichia
+coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Permease that is involved in the transport across the
+    cytoplasmic membrane of lysine.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: High, in anaerobic media of low pH, containing lysine.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Amino acid transporter (AAT) (TC 2.A.3.1) family.
+Amino-acid transport; Complete proteome; Direct protein sequencing;
+Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

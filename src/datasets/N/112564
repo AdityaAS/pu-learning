@@ -1,0 +1,12 @@
+AC   P04674;
+Nodulation protein A (EC 2.3.1.-).
+"Conserved nodulation genes from the non-legume symbiont
+Bradyrhizobium sp. (Parasponia).";
+-!- FUNCTION: N-acyltransferase required for nodulation. Acts in the
+    production of a small, heat-stable compound (Nod) that stimulates
+    mitosis in various plant protoplasts.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the nodA family.
+ GO:0009877; P:nodulation; IEA:HAMAP.
+Acyltransferase; Nodulation; Transferase.
+TMZERO

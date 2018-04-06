@@ -1,0 +1,11 @@
+AC   P59244;
+Propionate kinase (EC 2.7.2.15).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- CATALYTIC ACTIVITY: ATP + propanoate = ADP + propanoyl phosphate.
+-!- CATALYTIC ACTIVITY: ATP + acetate = ADP + acetyl phosphate.
+-!- PATHWAY: Anaerobic degradation of L-threonine to propionate.
+-!- SIMILARITY: Belongs to the acetokinase family.
+ GO:0008776; F:acetate kinase activity; IEA:HAMAP.
+Complete proteome; Kinase; Transferase.
+TMZERO

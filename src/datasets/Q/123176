@@ -1,0 +1,14 @@
+AC   P51533;
+ATP-dependent permease PDR10.
+"Sequence of 29 kb around the PDR10 locus on the right arm of
+Saccharomyces cerevisiae chromosome XV: similarity to part of
+chromosome I.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family. PDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0006855; P:multidrug transport; IEP:SGD.
+ATP-binding; Complete proteome; Glycoprotein; Membrane;
+Nucleotide-binding; Repeat; Transmembrane; Transport.
+TMTWELVE

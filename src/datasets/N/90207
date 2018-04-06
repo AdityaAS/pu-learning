@@ -1,0 +1,12 @@
+AC   Q8Y9I9;
+Tagatose 1,6-diphosphate aldolase (EC 4.1.2.40) (Tagatose-bisphosphate
+aldolase) (D-tagatose-1,6-bisphosphate aldolase).
+"Comparative genomics of Listeria species.";
+-!- CATALYTIC ACTIVITY: D-tagatose 1,6-bisphosphate = glycerone
+    phosphate + D-glyceraldehyde 3-phosphate.
+-!- PATHWAY: Carbohydrate metabolism; galactose metabolism.
+-!- SIMILARITY: Belongs to the aldolase lacD family.
+ GO:0009025; F:tagatose-bisphosphate aldolase activity; IEA:HAMAP.
+ GO:0019512; P:lactose catabolism via tagatose-6-phosphate; IEA:HAMAP.
+Complete proteome; Lactose metabolism; Lyase.
+TMZERO

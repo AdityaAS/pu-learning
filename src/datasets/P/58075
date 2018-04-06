@@ -1,0 +1,15 @@
+AC   P24126;
+Fusaric acid resistance protein fusA precursor.
+"Molecular cloning and characterization of the fusaric acid-resistance
+gene from Pseudomonas cepacia.";
+-!- FUNCTION: Involved in the resistance (detoxification) of the
+    fungal toxin fusaric acid.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Potential).
+-!- SIMILARITY: Belongs to the outer membrane factor (OMF) (TC 1.B.17)
+    family.
+-!- CAUTION: Ref.1 (AAC60388) sequence differs from that shown due to
+    a frameshift in position 82.
+-!- CAUTION: Ref.1 (BAA02064) sequence differs from that shown due to
+    a frameshift in position 82.
+Lipoprotein; Membrane; Palmitate; Signal.
+TMZERO

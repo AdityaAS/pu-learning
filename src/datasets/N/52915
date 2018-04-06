@@ -1,0 +1,29 @@
+AC   Q8DB47;
+Fatty acid oxidation complex alpha subunit [Includes: Enoyl-CoA
+hydratase (EC 4.2.1.17); 3-hydroxyacyl-CoA dehydrogenase
+(EC 1.1.1.35); 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)].
+"Complete genome sequence of Vibrio vulnificus CMCP6.";
+-!- FUNCTION: Catalyzes the formation of an hydroxyacyl-CoA by
+    addition of water on enoyl-CoA. Also exhibits 3-hydroxyacyl-CoA
+    epimerase and 3-hydroxyacyl-CoA dehydrogenase activities (By
+    similarity).
+-!- CATALYTIC ACTIVITY: (3S)-3-hydroxyacyl-CoA = trans-2(or 3)-enoyl-
+    CoA + H(2)O.
+-!- CATALYTIC ACTIVITY: (S)-3-hydroxyacyl-CoA + NAD(+) = 3-oxoacyl-CoA
+    + NADH.
+-!- CATALYTIC ACTIVITY: (S)-3-hydroxybutanoyl-CoA = (R)-3-
+    hydroxybutanoyl-CoA.
+-!- PATHWAY: Lipid catabolism; beta-oxidation cycle; from acyl-CoA:
+    step B.
+-!- SUBUNIT: Heterotetramer of two alpha chains (fadJ) and two beta
+    chains (fadI) (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: In the N-terminal section; belongs to the enoyl-CoA
+    hydratase/isomerase family.
+-!- SIMILARITY: In the central section; belongs to the 3-hydroxyacyl-
+    CoA dehydrogenase family.
+ GO:0016042; P:lipid catabolism; IEA:HAMAP.
+Complete proteome; Fatty acid metabolism; Isomerase;
+Lipid degradation; Lipid metabolism; Lyase; Multifunctional enzyme;
+NAD; Oxidoreductase.
+TMZERO

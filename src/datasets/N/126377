@@ -1,0 +1,19 @@
+AC   P45609;
+Phosphate regulon sensor protein phoR (EC 2.7.13.3).
+"Phosphate regulon in members of the family Enterobacteriaceae:
+comparison of the phoB-phoR operons of Escherichia coli, Shigella
+dysenteriae, and Klebsiella pneumoniae.";
+-!- FUNCTION: Member of the two-component regulatory system phoR/phoB
+    involved in the phosphate regulon genes expression. PhoR may
+    function as a membrane-associated protein kinase that
+    phosphorylates phoB in response to environmental signals.
+-!- CATALYTIC ACTIVITY: ATP + protein L-histidine = ADP + protein N-
+    phospho-L-histidine.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Contains 1 histidine kinase domain.
+-!- SIMILARITY: Contains 1 PAS (PER-ARNT-SIM) domain.
+Inner membrane; Kinase; Membrane; Phosphate transport;
+Phosphorylation; Transferase; Transmembrane; Transport;
+Two-component regulatory system.
+TMTWO

@@ -1,0 +1,24 @@
+AC   Q6L370;
+DNA-directed RNA polymerase alpha chain (EC 2.7.7.6) (PEP) (Plastid-
+encoded RNA polymerase subunit alpha) (RNA polymerase subunit alpha).
+"Structural features and transcript-editing analysis of sugarcane
+(Saccharum officinarum L.) chloroplast genome.";
+-!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+    of DNA into RNA using the four ribonucleoside triphosphates as
+    substrates.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: In plastids the minimal PEP RNA polymerase catalytic core
+    is composed of four subunits: alpha, beta, beta', and beta''. When
+    a (nuclear-encoded) sigma factor is associated with the core the
+    holoenzyme is formed, which can initiate transcription (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- DOMAIN: The N-terminal domain is essential for RNAP assembly and
+    basal transcription, whereas the C-terminal domain is involved in
+    interaction with transcriptional regulators and with upstream
+    promoter elements (By similarity).
+-!- SIMILARITY: Belongs to the RNA polymerase alpha chain family.
+Chloroplast; DNA-directed RNA polymerase; Nucleotidyltransferase;
+Plastid; Transcription; Transferase.
+TMZERO

@@ -1,0 +1,23 @@
+AC   P39832; P76286;
+High-affinity zinc uptake system membrane protein znuB.
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Structure and regulation of the Escherichia coli ruv operon involved
+in DNA repair and recombination.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+"The ZnuABC high-affinity zinc uptake system and its regulator Zur in
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in the high-affinity zinc uptake transport
+    system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC-3 integral membrane protein family.
+Complete proteome; Inner membrane; Ion transport; Membrane;
+Transmembrane; Transport; Zinc; Zinc transport.
+TMSEVEN

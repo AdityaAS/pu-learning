@@ -1,0 +1,32 @@
+AC   Q01852;
+Import inner membrane translocase subunit TIM44, mitochondrial
+precursor (Mitochondrial protein import protein 1) (Inner membrane
+import site protein 45) (ISP45) (Membrane import machinery protein
+MIM44).
+"MPI1, an essential gene encoding a mitochondrial membrane protein, is
+possibly involved in protein import into yeast mitochondria.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IX.";
+"Protein import into yeast mitochondria: the inner membrane import
+site protein ISP45 is the MPI1 gene product.";
+"Pam17 is required for architecture and translocation activity of the
+mitochondrial protein import motor.";
+-!- FUNCTION: Essential component of the PAM complex, a complex
+    required for the translocation of transit peptide-containing
+    proteins from the inner membrane into the mitochondrial matrix in
+    an ATP-dependent manner. Recruits mitochondrial HSP70 and its co-
+    chaperone (MGE1) to drive protein translocation into the matrix
+    using ATP as an energy source.
+-!- SUBUNIT: Component of the PAM complex, at least composed of SSC1
+    (mtHsp70), MGE1, TIM44, PAM16/TIM16, PAM17 and PAM18/TIM14. Forms
+    part of the receptor complex that consists of at least 3 different
+    proteins (TIM17, TIM23, TIM44).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- SIMILARITY: Belongs to the Tim44 family.
+ GO:0005759; C:mitochondrial matrix; TAS:SGD.
+ GO:0001405; C:presequence translocase-associated import m...; IPI:SGD.
+ GO:0008565; F:protein transporter activity; TAS:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; TAS:SGD.
+ATP-binding; Complete proteome; Direct protein sequencing;
+Inner membrane; Membrane; Mitochondrion; Nucleotide-binding;
+Protein transport; Transit peptide; Translocation; Transport.
+TMZERO

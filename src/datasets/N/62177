@@ -1,0 +1,12 @@
+AC   Q5WSS3;
+Methyltransferase gidB (EC 2.1.-.-) (Glucose-inhibited division
+protein B).
+"Evidence in the Legionella pneumophila genome for exploitation of
+host cell functions and high genome plasticity.";
+-!- FUNCTION: Probable S-adenosyl-L-methionine dependent
+    methyltransferase specific for a sterol and/or lipid substrate (By
+    similarity).
+-!- SIMILARITY: Belongs to the gidB family.
+ GO:0008168; F:methyltransferase activity; IEA:HAMAP.
+Complete proteome; Methyltransferase; Transferase.
+TMZERO

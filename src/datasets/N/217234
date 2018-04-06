@@ -1,0 +1,7 @@
+AC   Q9CNF2;
+UPF0181 protein PM0480.
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- SIMILARITY: Belongs to the UPF0181 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

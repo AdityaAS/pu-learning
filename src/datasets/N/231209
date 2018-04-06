@@ -1,0 +1,26 @@
+AC   Q9UIJ5;
+Palmitoyltransferase ZDHHC2 (EC 2.3.1.-) (Zinc finger DHHC domain-
+containing protein 2) (DHHC-2) (Zinc finger protein 372) (Reduced
+expression associated with metastasis protein) (Ream) (Reduced
+expression in cancer protein) (Rec).
+"Isolation of a novel gene on 8p21.3-22 whose expression is reduced
+significantly in human colorectal cancers with liver metastasis.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Palmitoyltransferase specific for GAP43 and DLG4/PSD95
+    (By similarity).
+-!- CATALYTIC ACTIVITY: Palmitoyl-CoA + protein-cysteine = S-palmitoyl
+    protein + CoA.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Ubiquitously expressed. Reduced expression in
+    colorectal cancers.
+-!- DOMAIN: The DHHC domain is required for palmitoyltransferase
+    activity (By similarity).
+-!- DISEASE: Mutations in ZDHHC2 are found in hepatocellular carcinoma
+    and colorectal cancer.
+-!- SIMILARITY: Belongs to the DHHC palmitoyltransferase family.
+-!- SIMILARITY: Contains 1 DHHC-type zinc finger.
+Acyltransferase; Disease mutation; Membrane; Metal-binding;
+Transferase; Transmembrane; Zinc; Zinc-finger.
+TMFOUR

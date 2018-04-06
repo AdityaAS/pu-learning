@@ -1,0 +1,14 @@
+AC   P25914;
+Cholesteryl ester transfer protein (Lipid transfer protein I)
+(Fragment).
+"Mammalian adipose tissue and muscle are major sources of lipid
+transfer protein mRNA.";
+-!- FUNCTION: Involved in the transfer of insoluble cholesteryl esters
+    in the reverse transport of cholesterol.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Secreted in plasma.
+-!- SIMILARITY: Belongs to the BPI/LBP/Plunc superfamily. BPI/LBP
+    family.
+Cholesterol metabolism; Glycoprotein; Lipid metabolism;
+Lipid transport; Steroid metabolism; Transport.
+TMZERO

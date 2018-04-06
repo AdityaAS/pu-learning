@@ -1,0 +1,12 @@
+AC   P73182;
+Ferrous iron transport protein B homolog.
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- FUNCTION: GTP-driven Fe(2+) uptake system (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the feoB (TC 9.A.8) family.
+Complete proteome; GTP-binding; Ion transport; Iron; Iron transport;
+Membrane; Nucleotide-binding; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,11 @@
+AC   Q487Z2;
+30S ribosomal protein S10.
+"The psychrophilic lifestyle as revealed by the genome sequence of
+Colwellia psychrerythraea 34H through genomic and proteomic
+analyses.";
+-!- FUNCTION: Involved in the binding of tRNA to the ribosomes (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S10P family.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein.
+TMZERO

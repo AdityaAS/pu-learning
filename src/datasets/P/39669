@@ -1,0 +1,13 @@
+AC   P37735;
+C4-dicarboxylate-binding periplasmic protein precursor.
+"Purification, characterization and nucleotide sequence of the
+periplasmic C4-dicarboxylate-binding protein (DctP) from Rhodobacter
+capsulatus.";
+-!- FUNCTION: Binds C4-dicarboxylates; part of the binding-protein-
+    dependent transport system for uptake of C4-dicarboxylates.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 7
+    family.
+Direct protein sequencing; Periplasmic; Signal; Sugar transport;
+Transport.
+TMZERO

@@ -1,0 +1,41 @@
+AC   Q9JIN6;
+Calcium-activated potassium channel subunit beta 4 (Calcium-activated
+potassium channel, subfamily M subunit beta 4) (Maxi K channel subunit
+beta 4) (BK channel subunit beta 4) (Slo-beta 4) (K(VCA)beta 4)
+(Charybdotoxin receptor subunit beta 4) (BKbeta4).
+"A novel nervous system beta subunit that downregulates human large
+conductance calcium-dependent potassium channels.";
+-!- FUNCTION: Regulatory subunit of the calcium activated potassium
+    KCNMA1 (maxiK) channel. Modulates the calcium sensitivity and
+    gating kinetics of KCNMA1, thereby contributing to KCNMA1 channel
+    diversity. Decreases the gating kinetics and calcium sensitivity
+    of the KCNMA1 channel, but with fast deactivation kinetics. May
+    decrease KCNMA1 channel openings at low calcium concentrations but
+    increases channel openings at high calcium concentrations. Makes
+    KCNMA1 channel resistant to 100 nM charybdotoxin (CTX) toxin
+    concentrations (By similarity).
+-!- SUBUNIT: Interacts with KCNMA1 tetramer. There are probably 4
+    molecules of KCMNB4 per KCNMA1 tetramer.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- DOMAIN: Resistance to charybdotoxin (CTX) toxin is mediated by the
+    extracellular domain (By similarity).
+-!- PTM: Phosphorylated. Phosphorylation modulates its effect on
+    KCNMA1 activation kinetics (By similarity).
+-!- PTM: N-glycosylated. A highly glycosylated form is promoted by
+    KCNMA1. Glycosylation, which is not required for the interaction
+    with KCNMA1 and subcellular location, increases protection against
+    charybdotoxin (By similarity).
+-!- SIMILARITY: Belongs to the KCNMB family.
+ GO:0008076; C:voltage-gated potassium channel complex; ISS:UniProtKB.
+ GO:0015269; F:calcium-activated potassium channel activity; ISS:UniProtKB.
+ GO:0005515; F:protein binding; ISS:UniProtKB.
+ GO:0005513; P:detection of calcium ion; ISS:UniProtKB.
+ GO:0019228; P:generation of action potential; ISS:UniProtKB.
+ GO:0006813; P:potassium ion transport; ISS:UniProtKB.
+ GO:0001508; P:regulation of action potential; ISS:UniProtKB.
+ GO:0046928; P:regulation of neurotransmitter secretion; ISS:UniProtKB.
+ GO:0019229; P:regulation of vasoconstriction; ISS:UniProtKB.
+Glycoprotein; Ion transport; Ionic channel; Membrane; Phosphorylation;
+Transmembrane; Transport.
+TMTWO

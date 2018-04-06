@@ -1,0 +1,15 @@
+AC   P68179; Q42509;
+Low temperature-induced protein lt101.1 (Blt101) (Blt101.1).
+"Molecular analysis and spatial expression pattern of a low-
+temperature-specific barley gene, blt101.";
+"Identification of a novel low-temperature-response element in the
+promoter of the barley (Hordeum vulgare L) gene blt101.1.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Expressed in shoot meristems, mature leaves
+    and roots.
+-!- INDUCTION: By cold shock and salt stress, but not by drought or
+    abscisic acid (ABA).
+-!- SIMILARITY: Belongs to the UPF0057 (PMP3) family.
+Membrane; Transmembrane.
+TMTWO

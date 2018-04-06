@@ -1,0 +1,12 @@
+AC   Q9AG29;
+Peptide chain release factor 1 (RF-1).
+"Molecular cloning of the Streptococcus agalactiae gene encoding
+peptide-chain release factor.";
+-!- FUNCTION: Peptide chain release factor 1 directs the termination
+    of translation in response to the peptide chain termination codons
+    UAG and UAA (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the prokaryotic/mitochondrial release
+    factor family.
+Protein biosynthesis.
+TMZERO

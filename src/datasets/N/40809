@@ -1,0 +1,12 @@
+AC   P56463;
+Purine nucleoside phosphorylase deoD-type (EC 2.4.2.1) (PNP).
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+-!- CATALYTIC ACTIVITY: Purine nucleoside + phosphate = purine +
+    alpha-D-ribose 1-phosphate.
+-!- SUBUNIT: Homohexamer (By similarity).
+-!- SIMILARITY: Belongs to the PNP/UDP phosphorylase family.
+ GO:0016757; F:transferase activity, transferring glycosyl...; IEA:HAMAP.
+ GO:0042278; P:purine nucleoside metabolism; IEA:HAMAP.
+Complete proteome; Glycosyltransferase; Transferase.
+TMZERO

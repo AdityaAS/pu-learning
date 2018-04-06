@@ -1,0 +1,16 @@
+AC   P56785;
+Putative membrane protein ycf1.
+"Complete structure of the chloroplast genome of Arabidopsis
+thaliana.";
+-!- FUNCTION: Unknown. Its presence in a non-photosynthetic plant
+    (Epifagus virginiana) and experiments in tobacco indicate that it
+    may have a function which is probably not related to
+    photosynthesis.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast membrane;
+    multi-pass membrane protein (Potential).
+-!- MISCELLANEOUS: There is a partial copy of the N-terminus
+    (positions 1-343) of ycf1 in the inverted repeat (ycf1-A,
+    BAA84433).
+-!- SIMILARITY: Belongs to the ycf1 family.
+Chloroplast; Membrane; Plastid; Transmembrane.
+TMSEVEN

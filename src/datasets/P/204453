@@ -1,0 +1,8 @@
+AC   P16204;
+NB glycoprotein.
+"Antigenic, sequence, and crystal variation in influenza B
+neuraminidase.";
+-!- MISCELLANEOUS: NB is a protein found only in type B influenzas.
+    Its functional significance is not yet known.
+Glycoprotein; Membrane; Transmembrane.
+TMONE

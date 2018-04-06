@@ -1,0 +1,18 @@
+AC   O40980;
+Coat protein (Capsid protein) (CP).
+"Complete genomic RNA sequences of cucumber mosaic virus strain NT9
+from Taiwan.";
+-!- FUNCTION: Coat protein. Probably binds RNA and play a role in
+    packaging (By similarity).
+-!- DOMAIN: The N-terminal arginine-rich stretch does not seem to be
+    the major RNA-binding region that allows formation of an
+    infectious ribonucleoprotein complex (By similarity).
+-!- MISCELLANEOUS: The virus has a tripartite genome (RNA1, RNA2 and
+    RNA3) and an encapsidated subgenomic RNA (RNA4) from which the
+    coat protein is expressed. Virions are icosahedral, not enveloped,
+    with 32 capsomers per nucleocapsid.
+-!- SIMILARITY: Belongs to the cucumoviruses/bromoviruses coat protein
+    family.
+Acetylation; Capsid protein; Ribonucleoprotein; RNA-binding;
+Viral nucleoprotein; Virion protein.
+TMZERO

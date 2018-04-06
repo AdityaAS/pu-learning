@@ -1,0 +1,19 @@
+AC   Q1RGY9;
+NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.-) (NADPH-
+dependent nitrile oxidoreductase).
+"Genome sequence of Rickettsia bellii illuminates the role of amoebae
+in gene exchanges between intracellular pathogens.";
+-!- FUNCTION: Catalyzes the NADPH-dependent reduction of 7-cyano-7-
+    deazaguanine (preQ0) to 7-aminomethyl-7-deazaguanine (preQ1) (By
+    similarity).
+-!- CATALYTIC ACTIVITY: 7-aminomethyl-7-deazaguanine + 2 NADP(+) = 7-
+    cyano-7-deazaguanine + 2 NADPH.
+-!- PATHWAY: Nucleoside biosynthesis; queuosine biosynthesis;
+    queuosine-tRNA from GTP; step 2.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the GTP cyclohydrolase I family. QueF type
+    2 subfamily.
+ GO:0046857; F:oxidoreductase activity, acting on other ni...; IEA:HAMAP.
+ GO:0008616; P:queuosine biosynthesis; IEA:HAMAP.
+Complete proteome; NADP; Oxidoreductase; Queuosine biosynthesis.
+TMZERO

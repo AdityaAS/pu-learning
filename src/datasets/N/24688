@@ -1,0 +1,19 @@
+AC   Q9VPS5;
+Probable 60 kDa heat shock protein homolog 1, mitochondrial precursor
+(Hsp60) (60 kDa chaperonin) (CPN60) (Heat shock protein 60) (HSP-60).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Prevents misfolding and promotes the refolding and
+    proper assembly of unfolded polypeptides generated under stress
+    conditions (By similarity).
+-!- INTERACTION:
+    Q9VPH4:kin17; NbExp=1; IntAct=EBI-159512, EBI-193999;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix (By
+    similarity).
+-!- SIMILARITY: Belongs to the chaperonin (HSP60) family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0007286; P:spermatid development; IMP:FlyBase.
+ATP-binding; Chaperone; Complete proteome; Hypothetical protein;
+Mitochondrion; Nucleotide-binding; Transit peptide.
+TMZERO

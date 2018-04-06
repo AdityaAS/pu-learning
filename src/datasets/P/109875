@@ -1,0 +1,31 @@
+AC   O54701; O54706;
+Sodium/potassium/calcium exchanger 2 precursor (Na(+)/K(+)/Ca(2+)-
+exchange protein 2) (Retinal cone Na-Ca+K exchanger).
+"Molecular cloning of a novel potassium-dependent sodium-calcium
+exchanger from rat brain.";
+-!- FUNCTION: Critical component of the visual transduction cascade,
+    controlling the calcium concentration of outer segments during
+    light and darkness. Light causes a rapid lowering of cytosolic
+    free calcium in the outer segment of both retinal rod and cone
+    photoreceptors and the light-induced lowering of calcium is caused
+    by extrusion via this protein which plays a key role in the
+    process of light adaptation. Transports 1 Ca(2+) and 1 K(+) in
+    exchange for 4 Na(+).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O54701-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O54701-2; Sequence=VSP_006165;
+-!- TISSUE SPECIFICITY: Expressed abundantly in all regions of the
+    brain and weakly in the eye, large intestine and adrenal tissue.
+-!- SIMILARITY: Belongs to the sodium/potassium/calcium exchanger
+    family. SLC24A subfamily.
+ GO:0008273; F:calcium, potassium:sodium antiporter activity; TAS:RGD.
+ GO:0046983; F:protein dimerization activity; IMP:RGD.
+Alternative splicing; Antiport; Calcium; Calcium transport;
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Repeat; Sensory transduction; Signal; Sodium; Sodium transport;
+Symport; Transmembrane; Transport; Vision.
+TMELEVEN

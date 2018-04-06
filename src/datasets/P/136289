@@ -1,0 +1,46 @@
+AC   P40739; Q45661;
+PTS system beta-glucoside-specific EIIBCA component (EIIBCA-Bgl) (EII-
+Bgl) [Includes: Beta-glucoside-specific phosphotransferase enzyme IIB
+component (EC 2.7.1.69) (PTS system beta-glucoside-specific EIIB
+component); Beta-glucoside permease IIC component (PTS system beta-
+glucoside-specific EIIC component); Beta-glucoside-specific
+phosphotransferase enzyme IIA component (EC 2.7.1.-) (PTS system beta-
+glucoside-specific EIIA component)].
+"New beta-glucoside (bgl) genes in Bacillus subtilis: the bglP gene
+product has both transport and regulatory functions similar to those
+of BglF, its Escherichia coli homolog.";
+"Cloning and sequencing of a 29 kb region of the Bacillus subtilis
+genome containing the hut and wapA loci.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Suppression of the Bgl+ phenotype of a delta hns strain of
+Escherichia coli by a Bacillus subtilis antiterminator binding site.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in beta-glucoside transport (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-1 domain.
+Complete proteome; Membrane; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase;
+Transmembrane; Transport.
+TMTEN

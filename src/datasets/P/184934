@@ -1,0 +1,84 @@
+AC   Q03518; Q16149;
+Antigen peptide transporter 1 (APT1) (Peptide transporter TAP1) (ATP-
+binding cassette sub-family B member 2) (Peptide transporter PSF1)
+(Peptide supply factor 1) (PSF-1) (Peptide transporter involved in
+antigen processing 1).
+"DNA sequence analysis of 66 kb of the human MHC class II region
+encoding a cluster of genes for antigen processing.";
+"Two putative subunits of a peptide pump encoded in the human major
+histocompatibility complex class II region.";
+"Sequences encoded in the class II region of the MHC related to the
+'ABC' superfamily of transporters.";
+"Evolutionary dynamics of non-coding sequences within the class II
+region of the human MHC.";
+"TAP1 alleles in insulin-dependent diabetes mellitus: a newly defined
+centromeric boundary of disease susceptibility.";
+"A gene in the human major histocompatibility complex class II region
+controlling the class I antigen presentation pathway.";
+"New allelic polymorphisms in TAP genes.";
+"Multiple regions of the transporter associated with antigen
+processing (TAP) contribute to its peptide binding site.";
+"Molecular mechanism and species specificity of TAP inhibition by
+herpes simplex virus ICP47.";
+"The ER-luminal domain of the HCMV glycoprotein US6 inhibits peptide
+translocation by TAP.";
+"Downregulation of TAP1 in B lymphocytes by cellular and Epstein-Barr
+virus-encoded interleukin-10.";
+"The human cytomegalovirus gene product US6 inhibits ATP binding by
+TAP.";
+"Adenovirus E19 has two mechanisms for affecting class I MHC
+expression.";
+"Structure of the ABC ATPase domain of human TAP1, the transporter
+associated with antigen processing.";
+"Allelic variants of the human putative peptide transporter involved
+in antigen processing.";
+"A functionally defective allele of TAP1 results in loss of MHC class
+I antigen presentation in a human lung cancer.";
+"TAP1 polymorphisms in several human ethnic groups: characteristics,
+evolution, and genotyping strategies.";
+"Novel TAP1 polymorphisms in indigenous Zimbabweans: their potential
+implications on TAP function and in human diseases.";
+-!- FUNCTION: Involved in the transport of antigens from the cytoplasm
+    to the endoplasmic reticulum for association with MHC class I
+    molecules. Also acts as a molecular scaffold for the final stage
+    of MHC class I folding, namely the binding of peptide. Nascent MHC
+    class I molecules associate with TAP via tapasin. Inhibited by the
+    covalent attachment of herpes simplex virus ICP47 protein, which
+    blocks the peptide-binding site of TAP. Inhibited by human
+    cytomegalovirus US6 glycoprotein, which binds to the lumenal side
+    of the TAP complex and inhibits peptide translocation by
+    specifically blocking ATP-binding to TAP1 and prevents the
+    conformational rearrangement of TAP induced by peptide binding.
+    Inhibited by human adenovirus E3-19K glycoprotein, which binds the
+    TAP complex and acts as a tapasin inhibitor, preventing MHC class
+    I/TAP association. Expression of TAP1 is down-regulated by human
+    Epstein-Barr virus vIL-10 protein, thereby affecting the transport
+    of peptides into the endoplasmic reticulum and subsequent peptide
+    loading by MHC class I molecules.
+-!- SUBUNIT: Heterodimer of TAP1 and TAP2.
+-!- INTERACTION:
+    P27797:CALR; NbExp=1; IntAct=EBI-780739, EBI-1049597;
+    P07237:P4HB; NbExp=3; IntAct=EBI-780739, EBI-395883;
+    P30101:PDIA3; NbExp=3; IntAct=EBI-780739, EBI-979862;
+    Q03519:TAP2; NbExp=2; IntAct=EBI-780739, EBI-780781;
+    O15533:TAPBP; NbExp=4; IntAct=EBI-780739, EBI-874801;
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein. Note=The transmembrane
+    segments seem to form a pore in the membrane.
+-!- INDUCTION: By interferon gamma.
+-!- DOMAIN: The peptide-binding site is shared between the cytoplasmic
+    loops of TAP1 and TAP2.
+-!- POLYMORPHISM: There are five common alleles; TAP1*0101 (PSF1A),
+    TAP1*0201 (PSF1B), TAP1*0301 (PSF1C), TAP1*0104 and TAP1*x. The
+    sequence of TAP1*0101 is shown here.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0046982; F:protein heterodimerization activity; IPI:UniProtKB.
+ GO:0015833; P:peptide transport; NAS:UniProtKB.
+3D-structure; ATP-binding; Endoplasmic reticulum; Immune response;
+Membrane; Nucleotide-binding; Peptide transport; Polymorphism;
+Protein transport; Transmembrane; Transport.
+TMTEN

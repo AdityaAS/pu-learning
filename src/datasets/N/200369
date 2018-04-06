@@ -1,0 +1,18 @@
+AC   Q4UL10;
+UvrABC system protein C (Protein uvrC) (Excinuclease ABC subunit C).
+"The genome sequence of Rickettsia felis identifies the first putative
+conjugative plasmid in an obligate intracellular parasite.";
+-!- FUNCTION: The UvrABC repair system catalyzes the recognition and
+    processing of DNA lesions. UvrC both incises the 5' and 3' sides
+    of the lesion. The N-terminal half is responsible for the 3'
+    incision and the C-terminal half is responsible for the 5'
+    incision (By similarity).
+-!- SUBUNIT: Interacts with uvrB in an incision complex (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the uvrC family.
+-!- SIMILARITY: Contains 1 UVR domain.
+ GO:0009432; P:SOS response; IEA:HAMAP.
+Complete proteome; DNA damage; DNA excision; DNA repair;
+Excision nuclease; SOS response.
+TMZERO

@@ -1,0 +1,12 @@
+AC   P0AF19; P15300;
+N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25) (GlcNAc 6-P
+deacetylase).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- CATALYTIC ACTIVITY: N-acetyl-D-glucosamine 6-phosphate + H(2)O =
+    D-glucosamine 6-phosphate + acetate.
+-!- PATHWAY: N-acetylglucosamine utilization.
+-!- SIMILARITY: Belongs to the nagA family.
+Carbohydrate metabolism; Complete proteome; Hydrolase.
+TMZERO

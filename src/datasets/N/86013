@@ -1,0 +1,10 @@
+AC   P01841;
+Ig kappa-b5 chain C region.
+"Partial amino acid sequence of a rabbit immunoglobulin light chain of
+allotype b5.";
+"Partial primary structure of the immunoglobulin light chain constant
+region of a single rabbit of b5 allotype.";
+-!- SIMILARITY: Contains 1 Ig-like (immunoglobulin-like) domain.
+Direct protein sequencing; Immunoglobulin C region;
+Immunoglobulin domain.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P00502; Q6AZ72;
+Glutathione S-transferase alpha-1 (EC 2.5.1.18) (Glutathione S-
+transferase Ya-1) (GST Ya1) (Ligandin) (GST 1a-1a) (GST B) (GST 1-1)
+(GST A1-1).
+"The nucleotide sequence of a rat liver glutathione S-transferase
+subunit cDNA clone.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Rat glutathione S-transferase. Cloning of double-stranded cDNA and
+induction of its mRNA.";
+-!- FUNCTION: Conjugation of reduced glutathione to a wide number of
+    exogenous and endogenous hydrophobic electrophiles.
+-!- CATALYTIC ACTIVITY: RX + glutathione = HX + R-S-glutathione.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: In addition to its enzymatic activity, the
+    homodimer of Ya chains, called ligandin, binds various organic
+    anions, xenobiotics, and azocarcinogen dyes.
+-!- SIMILARITY: Belongs to the GST superfamily. Alpha family.
+3D-structure; Transferase.
+TMZERO

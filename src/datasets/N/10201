@@ -1,0 +1,53 @@
+AC   P07547;
+Pentafunctional AROM polypeptide [Includes: 3-dehydroquinate synthase
+(EC 4.2.3.4); 3-phosphoshikimate 1-carboxyvinyltransferase
+(EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP
+synthase) (EPSPS); Shikimate kinase (EC 2.7.1.71); 3-dehydroquinate
+dehydratase (EC 4.2.1.10) (3-dehydroquinase); Shikimate dehydrogenase
+(EC 1.1.1.25)].
+"The isolation and nucleotide sequence of the complex AROM locus of
+Aspergillus nidulans.";
+"Nucleotide sequence encoding the biosynthetic dehydroquinase function
+of the penta-functional arom locus of Aspergillus nidulans.";
+"Structure of dehydroquinate synthase reveals an active site capable
+of multistep catalysis.";
+-!- FUNCTION: The AROM polypeptide catalyzes 5 consecutive enzymatic
+    reactions in prechorismate polyaromatic amino acid biosynthesis.
+-!- CATALYTIC ACTIVITY: 3-deoxy-arabino-heptulonate 7-phosphate = 3-
+    dehydroquinate + phosphate.
+-!- CATALYTIC ACTIVITY: 3-dehydroquinate = 3-dehydroshikimate + H(2)O.
+-!- CATALYTIC ACTIVITY: Shikimate + NADP(+) = 3-dehydroshikimate +
+    NADPH.
+-!- CATALYTIC ACTIVITY: ATP + shikimate = ADP + shikimate 3-phosphate.
+-!- CATALYTIC ACTIVITY: Phosphoenolpyruvate + 3-phosphoshikimate =
+    phosphate + 5-O-(1-carboxyvinyl)-3-phosphoshikimate.
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 2.
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 3.
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 4.
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 5.
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 6.
+-!- PATHWAY: Context: Aromatic amino acids biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: In the N-terminal section; belongs to the
+    dehydroquinate synthase family.
+-!- SIMILARITY: In the 2nd section; belongs to the EPSP synthase
+    family.
+-!- SIMILARITY: In the 3rd section; belongs to the shikimate kinase
+    family.
+-!- SIMILARITY: In the C-terminal section; belongs to the shikimate
+    dehydrogenase family.
+3D-structure; Amino-acid biosynthesis;
+Aromatic amino acid biosynthesis; ATP-binding; Kinase; Lyase;
+Multifunctional enzyme; NADP; Nucleotide-binding; Oxidoreductase;
+Transferase.
+TMZERO

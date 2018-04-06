@@ -1,0 +1,10 @@
+AC   Q3AS98;
+Malate dehydrogenase (EC 1.1.1.37).
+"Complete sequence of Chlorobium chlorochromatii CaD3.";
+-!- FUNCTION: Catalyzes the reversible oxidation of malate to
+    oxaloacetate (By similarity).
+-!- CATALYTIC ACTIVITY: (S)-malate + NAD(+) = oxaloacetate + NADH.
+-!- SIMILARITY: Belongs to the LDH/MDH superfamily. MDH type 3 family.
+ GO:0006099; P:tricarboxylic acid cycle; IEA:HAMAP.
+Complete proteome; NAD; Oxidoreductase; Tricarboxylic acid cycle.
+TMZERO

@@ -1,0 +1,24 @@
+AC   P30531;
+Sodium- and chloride-dependent GABA transporter 1.
+"Cloning of the human brain GABA transporter.";
+-!- FUNCTION: Terminates the action of GABA by its high affinity
+    sodium-dependent reuptake into presynaptic terminals.
+-!- SUBUNIT: Interacts with MPP5 (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Membrane; multi-pass membrane protein. Note=Localized at the
+    plasma membrane and in a subset of intracellular vesicles.
+    Localized at the presynaptic terminals of interneurons (By
+    similarity).
+-!- DOMAIN: The PDZ domain-binding motif is involved in the
+    interaction with MPP5.
+-!- MISCELLANEOUS: This protein is the target of psychomotor
+    stimulants such as amphetamines or cocaine.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0007268; P:synaptic transmission; TAS:ProtInc.
+ GO:0006810; P:transport; NAS:ProtInc.
+Glycoprotein; Membrane; Neurotransmitter transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

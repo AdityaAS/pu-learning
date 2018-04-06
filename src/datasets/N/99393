@@ -1,0 +1,16 @@
+AC   Q6GI87;
+Adapter protein mecA.
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Enables the recognition and targeting of unfolded and
+    aggregated proteins to the clpC protease or to other proteins
+    involved in proteolysis (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- DOMAIN: The N-terminal domain probably binds unfolded/aggregated
+    proteins; the C-terminal domain interacts with ClpC.
+-!- SIMILARITY: Belongs to the mecA family.
+ GO:0030674; F:protein binding, bridging; IEA:HAMAP.
+ GO:0045808; P:negative regulation of establishment of com...; IEA:HAMAP.
+ GO:0042174; P:negative regulation of sporulation; IEA:HAMAP.
+Complete proteome.
+TMZERO

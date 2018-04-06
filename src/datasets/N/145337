@@ -1,0 +1,14 @@
+AC   O68249;
+3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase).
+"Tetrachloroethene dehalogenase from Dehalospirillum multivorans:
+cloning, sequencing of the encoding genes, and expression of the pceA
+gene in Escherichia coli.";
+-!- PATHWAY: Cofactor biosynthesis; riboflavin biosynthesis; 3,4-
+    dihydroxy-2-butanone 4-phosphate from D-ribulose 5-phosphate:
+    single step.
+-!- SIMILARITY: In the N-terminal section; belongs to the DHBP
+    synthase family.
+-!- SIMILARITY: In the C-terminal section; belongs to the GTP
+    cyclohydrolase II family.
+Riboflavin biosynthesis.
+TMZERO

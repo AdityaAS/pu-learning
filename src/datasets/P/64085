@@ -1,0 +1,13 @@
+AC   P0AEQ4; P10344;
+Glutamine-binding periplasmic protein precursor (GlnBP).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Involved in a glutamine-transport system glnHPQ (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- INDUCTION: By lack of glutamine (By similarity).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Amino-acid transport; Complete proteome; Periplasmic; Signal;
+Transport.
+TMZERO

@@ -1,0 +1,19 @@
+AC   Q8JHE9;
+Gamma-secretase subunit Aph-1b (Anterior-pharynx-defective protein
+1b).
+"aph-1 and pen-2 are required for Notch pathway signaling, gamma-
+secretase cleavage of betaAPP, and presenilin protein accumulation.";
+"Hematopoietic gene expression profile in zebrafish kidney marrow.";
+-!- FUNCTION: Essential subunit of the gamma-secretase complex, an
+    endoprotease complex that catalyzes the intramembrane cleavage of
+    integral proteins such as Notch receptors. It may represent a
+    stabilizing cofactor for the presenilin homodimer that promotes
+    the formation of a stable complex (By similarity).
+-!- SUBUNIT: Component of the gamma-secretase complex, a complex
+    composed of a presenilin homodimer (PSEN1 or PSEN2), nicastrin
+    (NCSTN), APH1 and PEN2 (Probable).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the APH-1 family.
+Membrane; Notch signaling pathway; Transmembrane.
+TMSEVEN

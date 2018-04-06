@@ -1,0 +1,11 @@
+AC   P35112;
+Regulatory protein nocR.
+"Nopaline causes a conformational change in the NocR regulatory
+protein-nocR promoter complex of Agrobacterium tumefaciens Ti plasmid
+pTiT37.";
+-!- FUNCTION: Positive regulatory protein for the noc operon involved
+    in nopaline catabolism and uptake.
+-!- SIMILARITY: Contains 1 HTH lysR-type DNA-binding domain.
+Activator; DNA-binding; Plasmid; Transcription;
+Transcription regulation.
+TMZERO

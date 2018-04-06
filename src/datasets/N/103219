@@ -1,0 +1,14 @@
+AC   Q9Z8C2;
+S-adenosyl-methyltransferase mraW (EC 2.1.1.-).
+"Comparative genomes of Chlamydia pneumoniae and C. trachomatis.";
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+"Comparison of whole genome sequences of Chlamydia pneumoniae J138
+from Japan and CWL029 from USA.";
+"The genome sequence of Chlamydia pneumoniae TW183 and comparison with
+other Chlamydia strains based on whole genome sequence analysis.";
+-!- FUNCTION: Exhibits a S-adenosyl-dependent methyltransferase
+    activity (By similarity).
+-!- SIMILARITY: Belongs to the mraW family.
+Complete proteome; Methyltransferase; Transferase.
+TMZERO

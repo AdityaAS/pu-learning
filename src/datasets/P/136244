@@ -1,0 +1,39 @@
+AC   P08470;
+PTS system sucrose-specific EIIBC component (EIIBC-Scr) (EII-Scr)
+[Includes: Sucrose-specific phosphotransferase enzyme IIB component
+(EC 2.7.1.69) (PTS system sucrose-specific EIIB component); Sucrose
+permease IIC component (PTS system sucrose-specific EIIC component)].
+"DNA sequence of the gene scrA encoding the sucrose transport protein
+EnzymeII(Scr) of the phosphotransferase system from enteric bacteria:
+homology of the EnzymeII(Scr) and EnzymeII(Bgl) proteins.";
+"Molecular analysis of two ScrR repressors and of a ScrR-FruR hybrid
+repressor for sucrose and D-fructose specific regulons from enteric
+bacteria.";
+"Molecular analysis of the scrA and scrB genes from Klebsiella
+pneumoniae and plasmid pUR400, which encode the sucrose transport
+protein Enzyme II Scr of the phosphotransferase system and a sucrose-
+6-phosphate invertase.";
+"Plasmid-mediated sucrose metabolism in Escherichia coli:
+characterization of scrY, the structural gene for a
+phosphoenolpyruvate-dependent sucrose phosphotransferase system outer
+membrane porin.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in sucrose transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIIB type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-1 domain.
+Inner membrane; Membrane; Phosphorylation; Phosphotransferase system;
+Plasmid; Sugar transport; Transferase; Transmembrane; Transport.
+TMTEN

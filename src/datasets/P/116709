@@ -1,0 +1,33 @@
+AC   P0AFE8; P31978; P78248;
+NADH-quinone oxidoreductase chain M (EC 1.6.99.5) (NADH dehydrogenase
+I, chain M) (NDH-1, chain M) (NUO13).
+"The gene locus of the proton-translocating NADH: ubiquinone
+oxidoreductase in Escherichia coli. Organization of the 14 genes and
+relationship between the derived proteins and subunits of
+mitochondrial complex I.";
+"Escherichia coli mutants lacking NADH dehydrogenase I have a
+competitive disadvantage in stationary phase.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain. The
+    immediate electron acceptor for the enzyme in this species is
+    believed to be ubiquinone. Couples the redox reaction to proton
+    translocation (for every two electrons transferred, four hydrogen
+    ions are translocated across the cytoplasmic membrane), and thus
+    conserves the redox energy in a proton gradient.
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- SUBUNIT: Composed of 13 different subunits. Subunits nuoA, H, J,
+    K, L, M, N constitute the membrane sector of the complex.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the complex I subunit 4 family.
+Complete proteome; Inner membrane; Membrane; NAD; Oxidoreductase;
+Quinone; Transmembrane; Ubiquinone.
+TMFOURTEEN

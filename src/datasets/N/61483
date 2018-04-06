@@ -1,0 +1,32 @@
+AC   Q02979;
+Glycerophosphodiester phosphodiesterase GDE1 (EC 3.1.4.46).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"Glycerophosphocholine-dependent growth requires Gde1p (YPL110c) and
+Git1p in Saccharomyces cerevisiae.";
+"Glycerophosphocholine catabolism as a new route for choline formation
+for phosphatidylcholine synthesis by the Kennedy pathway.";
+-!- FUNCTION: Glycerophosphocholine glycerophosphodiesterase
+    responsible for the hydrolysis of intracellular
+    glycerophosphocholine into glycerol-phosphate and choline. The
+    choline is used for phosphatidyl-choline synthesis. Required for
+    utilization of glycerophosphocholine as phosphate source.
+-!- CATALYTIC ACTIVITY: A glycerophosphodiester + H(2)O = an alcohol +
+    sn-glycerol 3-phosphate.
+-!- INTERACTION:
+    P38110:TEL1; NbExp=1; IntAct=EBI-31287, EBI-19099;
+    P43564:YFL034W; NbExp=1; IntAct=EBI-31287, EBI-22823;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: Present with 2300 molecules/cell.
+-!- SIMILARITY: Belongs to the GDE1 family.
+-!- SIMILARITY: Contains 6 ANK repeats.
+-!- SIMILARITY: Contains 1 GDPD domain.
+-!- SIMILARITY: Contains 1 PI-PLC X-box domain.
+-!- SIMILARITY: Contains 1 SPX domain.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0047389; F:glycerophosphocholine phosphodiesterase act...; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0046475; P:glycerophospholipid catabolism; IMP:SGD.
+ANK repeat; Complete proteome; Hydrolase; Repeat.
+TMZERO

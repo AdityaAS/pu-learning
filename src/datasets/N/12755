@@ -1,0 +1,23 @@
+AC   Q51MW4;
+Autophagy-related protein 8 precursor (Autophagy-related ubiquitin-
+like modifier ATG8).
+"The genome sequence of the rice blast fungus Magnaporthe grisea.";
+-!- FUNCTION: Involved in cytoplasm to vacuole transport (Cvt)
+    vesicles and autophagosomes formation. May mediate the delivery of
+    the vesicles and autophagosomes to the vacuole via the microtubule
+    cytoskeleton (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; cvt vesicle; cvt
+    vesicle membrane; lipid-anchor (By similarity). Cytoplasmic
+    vesicle; autophagosome; autophagosomal membrane; lipid-anchor (By
+    similarity). Vacuole; vacuolar membrane; lipid-anchor (By
+    similarity). Note=Membrane-associated through a lipid anchor (By
+    similarity). Cvt vesicles, autophagosomes and vacuolar (By
+    similarity).
+-!- PTM: The C-terminal 7 residues are removed to expose Gly-116 at
+    the C-terminus. The carboxyl-terminal Gly is then amidated with
+    phosphatidylethanolamine by an activating system similar to that
+    for ubiquitin (By similarity).
+-!- SIMILARITY: Belongs to the MAP1 LC3 family.
+Autophagy; Lipoprotein; Membrane; Protein transport; Transport;
+Ubl conjugation pathway.
+TMZERO

@@ -1,0 +1,13 @@
+AC   P69302; P11630;
+NADH-ubiquinone oxidoreductase chain 4L (EC 1.6.5.3) (NADH
+dehydrogenase subunit 4L).
+"The complete nucleotide sequence of the mitochondrial DNA genome of
+the rainbow trout, Oncorhynchus mykiss.";
+"Variation in salmonid mitochondrial DNA: evolutionary constraints and
+mechanisms of substitution.";
+"Cloning and sequence analysis of an XbaI fragment of rainbow trout
+mitochondrial DNA.";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SIMILARITY: Belongs to the complex I subunit 4L family.
+Mitochondrion; NAD; Oxidoreductase; Ubiquinone.
+TMZERO

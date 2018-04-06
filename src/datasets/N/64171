@@ -1,0 +1,15 @@
+AC   P64184; O07168;
+Glycerol-3-phosphate dehydrogenase 2 (EC 1.1.99.5).
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+-!- CATALYTIC ACTIVITY: sn-glycerol 3-phosphate + acceptor = glycerone
+    phosphate + reduced acceptor.
+-!- COFACTOR: FAD (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the FAD-dependent glycerol-3-phosphate
+    dehydrogenase family.
+Complete proteome; FAD; Flavoprotein; Glycerol metabolism;
+Oxidoreductase.
+TMZERO

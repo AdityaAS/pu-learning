@@ -1,0 +1,40 @@
+AC   Q8N130;
+Sodium-dependent phosphate transport protein 2C (Sodium/phosphate
+cotransporter 2C) (Na(+)/Pi cotransporter 2C) (Sodium-phosphate
+transport protein 2C) (Na(+)-dependent phosphate cotransporter 2C)
+(NaPi-2c) (Sodium/inorganic phosphate cotransporter IIC) (Solute
+carrier family 34 member 3).
+"Growth-related renal type II Na/Pi cotransporter.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"SLC34A3 mutations in patients with hereditary hypophosphatemic
+rickets with hypercalciuria predict a key role for the sodium-
+phosphate cotransporter NaPi-IIc in maintaining phosphate
+homeostasis.";
+"Hereditary hypophosphatemic rickets with hypercalciuria is caused by
+mutations in the sodium-phosphate cotransporter gene SLC34A3.";
+-!- FUNCTION: May be involved in actively transporting phosphate into
+    cells via Na(+) cotransport in the renal brush border membrane.
+    Probably mediates 20-30% of the apical influx.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=79 uM for phosphate;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DISEASE: Defects in SLC34A3 are the cause of hereditary
+    hypophosphatemic rickets with hypercalciuria (HHRH) [MIM:241530].
+    HHRH is an autosomal recessive form of hypophosphatemia
+    characterized by reduced renal phosphate reabsorption and rickets.
+    Increased serum levels of 1,25-dihydroxyvitamin D lead to increase
+    in urinary calcium excretion.
+-!- MISCELLANEOUS: A 2:1 stoichiometry to Na(+)/Pi is observed at pH
+    7.4.
+-!- SIMILARITY: Belongs to the SLC34A transporter family.
+ GO:0016324; C:apical plasma membrane; ISS:HGNC.
+ GO:0015321; F:sodium-dependent phosphate transporter acti...; IMP:HGNC.
+ GO:0005436; F:sodium:phosphate symporter activity; IMP:HGNC.
+ GO:0030643; P:phosphate ion homeostasis; IMP:HGNC.
+ GO:0006817; P:phosphate transport; IMP:HGNC.
+ GO:0006814; P:sodium ion transport; IMP:HGNC.
+Disease mutation; Glycoprotein; Ion transport; Membrane; Polymorphism;
+Sodium; Sodium transport; Symport; Transmembrane; Transport.
+TMEIGHT

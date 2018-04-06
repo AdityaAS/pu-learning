@@ -1,0 +1,23 @@
+AC   Q82E76;
+Porphobilinogen deaminase 1 (EC 2.5.1.61) (PBG 1) (Hydroxymethylbilane
+synthase 1) (HMBS 1) (Pre-uroporphyrinogen synthase 1).
+"Genome sequence of an industrial microorganism Streptomyces
+avermitilis: deducing the ability of producing secondary
+metabolites.";
+"Complete genome sequence and comparative analysis of the industrial
+microorganism Streptomyces avermitilis.";
+-!- FUNCTION: Tetrapolymerization of the monopyrrole PBG into the
+    hydroxymethylbilane pre-uroporphyrinogen in several discrete
+    steps.
+-!- CATALYTIC ACTIVITY: 4 porphobilinogen + H(2)O =
+    hydroxymethylbilane + 4 NH(3).
+-!- COFACTOR: Binds 1 dipyrromethane group covalently (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; porphyrin biosynthesis;
+    coproporphyrinogen III from 5-aminolevulinate: step 2.
+-!- SUBUNIT: Monomer (By similarity).
+-!- MISCELLANEOUS: The porphobilinogen subunits are added to the
+    dipyrromethan group.
+-!- SIMILARITY: Belongs to the HMBS family.
+ GO:0015995; P:chlorophyll biosynthesis; IEA:HAMAP.
+Complete proteome; Porphyrin biosynthesis; Transferase.
+TMZERO

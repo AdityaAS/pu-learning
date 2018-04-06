@@ -1,0 +1,11 @@
+AC   Q6F6N3;
+Chaperone protein dnaK (Heat shock protein 70) (Heat shock 70 kDa
+protein) (HSP70).
+"Unique features revealed by the genome sequence of Acinetobacter sp.
+ADP1, a versatile and naturally transformation competent bacterium.";
+-!- FUNCTION: Acts as a chaperone (By similarity).
+-!- INDUCTION: By stress conditions e.g. heat shock (By similarity).
+-!- SIMILARITY: Belongs to the heat shock protein 70 family.
+ATP-binding; Chaperone; Complete proteome; Heat shock;
+Nucleotide-binding; Phosphorylation.
+TMZERO

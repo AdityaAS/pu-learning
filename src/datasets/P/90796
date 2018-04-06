@@ -1,0 +1,9 @@
+AC   P0A312; Q00563;
+Bacteriocin lactococcin-A precursor (LCN-A).
+"Molecular analyses of the lactococcin A gene cluster from Lactococcus
+lactis subsp. lactis biovar diacetylactis WM4.";
+-!- FUNCTION: Kills Lactococci.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+Antibiotic; Antimicrobial; Bacteriocin; Membrane; Plasmid;
+Transmembrane.
+TMONE

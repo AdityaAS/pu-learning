@@ -1,0 +1,15 @@
+AC   P36837; P76706; Q2M7F8;
+Inner membrane transporter yhiP.
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the PTR2/POT transporter (TC 2.A.17)
+    family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMFIFTEEN

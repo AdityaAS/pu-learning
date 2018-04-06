@@ -1,0 +1,15 @@
+AC   Q8E794;
+Glycerol kinase (EC 2.7.1.30) (ATP:glycerol 3-phosphotransferase)
+(Glycerokinase) (GK).
+"Genome sequence of Streptococcus agalactiae, a pathogen causing
+invasive neonatal disease.";
+-!- FUNCTION: Key enzyme in the regulation of glycerol uptake and
+    metabolism.
+-!- CATALYTIC ACTIVITY: ATP + glycerol = ADP + sn-glycerol 3-
+    phosphate.
+-!- PATHWAY: Glycerol utilization; first (rate-limiting) step.
+-!- SIMILARITY: Belongs to the FGGY kinase family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ATP-binding; Complete proteome; Glycerol metabolism; Kinase;
+Nucleotide-binding; Transferase.
+TMZERO

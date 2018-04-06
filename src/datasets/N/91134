@@ -1,0 +1,10 @@
+AC   Q662S5;
+L-lactate dehydrogenase (EC 1.1.1.27) (L-LDH).
+"Comparative analysis of the Borrelia garinii genome.";
+-!- CATALYTIC ACTIVITY: (S)-lactate + NAD(+) = pyruvate + NADH.
+-!- PATHWAY: Anaerobic glycolysis; final step.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the LDH/MDH superfamily. LDH family.
+Complete proteome; Glycolysis; NAD; Oxidoreductase.
+TMZERO

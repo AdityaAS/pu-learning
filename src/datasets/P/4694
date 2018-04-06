@@ -1,0 +1,14 @@
+AC   Q9Z3R5;
+Alpha-glucosides-binding periplasmic protein aglE precursor.
+"A novel Sinorhizobium meliloti operon encodes an alpha-glucosidase
+and a periplasmic-binding-protein-dependent transport system for
+alpha-glucosides.";
+"Analysis of the chromosome sequence of the legume symbiont
+Sinorhizobium meliloti strain 1021.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for alpha-glucosides such as sucrose, maltose and trehalose.
+-!- SUBCELLULAR LOCATION: Periplasm (Probable).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 1
+    family.
+Complete proteome; Periplasmic; Signal; Sugar transport; Transport.
+TMZERO

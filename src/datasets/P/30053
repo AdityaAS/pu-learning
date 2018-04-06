@@ -1,0 +1,20 @@
+AC   P39694;
+ComE operon protein 1.
+"Characterization of comE, a late competence operon of Bacillus
+subtilis required for the binding and uptake of transforming DNA.";
+"Systematic sequencing of the 283 kb 210 degrees-232 degrees region of
+the Bacillus subtilis genome containing the skin element and many
+sporulation genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"ComEA, a Bacillus subtilis integral membrane protein required for
+genetic transformation, is needed for both DNA binding and
+transport.";
+-!- FUNCTION: Needed for both DNA binding and transport. It is
+    absolutely required for the uptake of transforming DNA but not for
+    binding. Its role in binding may be indirect.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type II membrane
+    protein.
+-!- SIMILARITY: Contains 2 HhH domains.
+Competence; Complete proteome; Membrane; Repeat; Transmembrane.
+TMONE

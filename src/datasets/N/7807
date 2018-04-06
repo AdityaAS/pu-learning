@@ -1,0 +1,14 @@
+AC   Q8FL98;
+Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+(Diadenosine tetraphosphatase) (Ap4A hydrolase) (Diadenosine 5',5'''-
+P1,P4-tetraphosphate pyrophosphohydrolase).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Hydrolyzes diadenosine 5',5'''-P1,P4-tetraphosphate to
+    yield ADP (By similarity).
+-!- CATALYTIC ACTIVITY: P(1),P(4)-bis(5'-adenosyl) tetraphosphate +
+    H(2)O = 2 ADP.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the Ap4A hydrolase family.
+Complete proteome; Hydrolase.
+TMZERO

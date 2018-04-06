@@ -1,0 +1,21 @@
+AC   O70247;
+Sodium-dependent multivitamin transporter (Na(+)-dependent
+multivitamin transporter).
+"Cloning and functional expression of a cDNA encoding a mammalian
+sodium-dependent vitamin transporter mediating the uptake of
+pantothenate, biotin, and lipoate.";
+"Cloning and characterization of rat kidney sodium dependent
+multivitamin transporter.";
+-!- FUNCTION: Transports pantothenate, biotin and lipoate in the
+    presence of sodium.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+ GO:0031526; C:brush border membrane; IDA:RGD.
+ GO:0012506; C:vesicle membrane; IDA:RGD.
+ GO:0008523; F:sodium-dependent multivitamin transporter a...; IDA:RGD.
+ GO:0015878; P:biotin transport; IDA:RGD.
+ GO:0015887; P:pantothenate transport; IDA:RGD.
+Biotin; Glycoprotein; Ion transport; Membrane; Sodium;
+Sodium transport; Symport; Transmembrane; Transport.
+TMTHIRTEEN

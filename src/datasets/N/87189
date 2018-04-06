@@ -1,0 +1,15 @@
+AC   Q83LP1; Q7C292;
+Cytidylate kinase (EC 2.7.4.14) (CK) (Cytidine monophosphate kinase)
+(CMP kinase).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- CATALYTIC ACTIVITY: ATP + (d)CMP = ADP + (d)CDP.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the cytidylate kinase family. Type 1
+    subfamily.
+ GO:0006220; P:pyrimidine nucleotide metabolism; IEA:HAMAP.
+ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+Transferase.
+TMZERO

@@ -1,0 +1,12 @@
+AC   P01454;
+Cytotoxin 9 (Toxin CM-2e).
+"Snake venom toxins. The amino acid sequence of three toxins (CM-2e,
+CM-4a and CM-) from Naja haje annulifera (Egyptian cobra) venom.";
+-!- FUNCTION: Shows cytolytic activity (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- TOXIC DOSE: LD(50) is 4.9 mg/kg by intravenous injection.
+-!- SIMILARITY: Belongs to the snake toxin family. Type IA cytotoxin
+    subfamily.
+Cardiotoxin; Cytolysis; Direct protein sequencing; Toxin.
+TMZERO

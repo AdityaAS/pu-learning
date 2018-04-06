@@ -1,0 +1,13 @@
+AC   P10250; Q2SRH2;
+Preprotein translocase secY subunit.
+"The ribosomal protein gene cluster of Mycoplasma capricolum.";
+-!- FUNCTION: Involved in protein export. Interacts with secA and secE
+    to allow the translocation of proteins across the plasma membrane,
+    by forming part of a channel.
+-!- SUBUNIT: One of seven secretory proteins (secA-F and secY) that
+    comprise the prokaryotic protein translocation apparatus.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the secY/SEC61-alpha family.
+Complete proteome; Membrane; Protein transport; Translocation;
+Transmembrane; Transport.
+TMTEN

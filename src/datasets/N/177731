@@ -1,0 +1,13 @@
+AC   P36011;
+Cell pattern formation-associated protein stuA.
+"StuA is required for cell pattern formation in Aspergillus.";
+-!- FUNCTION: Required for the orderly differentiation and spatial
+    organization of cell types of the conidiophore. Affects the
+    spatial localization of abaA and brlA. Expression of stuA is
+    dependent on a functional brlA protein.
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- DEVELOPMENTAL STAGE: Expression is increased 50-fold during the
+    establishment of developmental competence.
+-!- SIMILARITY: Belongs to the EFG1/PHD1/stuA family.
+DNA-binding; Nuclear protein; Transcription; Transcription regulation.
+TMZERO

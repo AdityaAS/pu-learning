@@ -1,0 +1,17 @@
+AC   P0AA82; P25525; Q2MC88;
+Cytosine permease.
+"Characterization of the Escherichia coli codBA operon encoding
+cytosine permease and cytosine deaminase.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Required for cytosine transport into the cell.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the purine-cytosine permease family.
+Complete proteome; Cytosine metabolism; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTWELVE

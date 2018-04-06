@@ -1,0 +1,38 @@
+AC   Q8Z1Z3;
+Acetylornithine/succinyldiaminopimelate aminotransferase (EC 2.6.1.11)
+(EC 2.6.1.17) (ACOAT) (Succinyldiaminopimelate transferase)
+(DapATase).
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: Involved in both the arginine and lysine biosynthetic
+    pathways (By similarity).
+-!- CATALYTIC ACTIVITY: 2-N-acetyl-L-ornithine + 2-oxoglutarate = N-
+    acetyl-L-glutamate 5-semialdehyde + L-glutamate.
+-!- CATALYTIC ACTIVITY: N-succinyl-L-2,6-diaminoheptanedioate + 2-
+    oxoglutarate = N-succinyl-2-L-amino-6-oxoheptanedioate + L-
+    glutamate.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; 2-N-
+    acetyl-L-ornithine from L-glutamate: step 4.
+-!- PATHWAY: Amino-acid biosynthesis; L-lysine biosynthesis via DAP
+    pathway; LL-diaminopimelate from tetrahydrodipicolinate
+    (succinylase route): step 2.
+-!- PATHWAY: Amino-acid biosynthesis; L-lysine biosynthesis via DAP
+    pathway; LL-diaminopimelate from tetrahydrodipicolinate
+    (succinylase route): step 2.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- MISCELLANEOUS: The reaction catalyzed by ACOAT is highly
+    reversible. This enzyme may also transaminate ornithine (By
+    similarity).
+-!- SIMILARITY: Belongs to the class-III pyridoxal-phosphate-dependent
+    aminotransferase family.
+ GO:0003992; F:acetylornithine transaminase activity; IEA:HAMAP.
+ GO:0009016; F:succinyldiaminopimelate transaminase activity; IEA:HAMAP.
+ GO:0006526; P:arginine biosynthesis; IEA:HAMAP.
+ GO:0009085; P:lysine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Aminotransferase; Arginine biosynthesis;
+Complete proteome; Lysine biosynthesis; Pyridoxal phosphate;
+Transferase.
+TMZERO

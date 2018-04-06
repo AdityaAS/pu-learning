@@ -1,0 +1,30 @@
+AC   P12939;
+Cytochrome P450 2D10 (EC 1.14.14.1) (CYPIID10) (P450-DB5) (P450-CMF1B)
+(Debrisoquine 4-hydroxylase).
+"The CYP2D gene subfamily: analysis of the molecular basis of the
+debrisoquine 4-hydroxylase deficiency in DA rats.";
+"Cytochrome P450CMF cDNA: nucleotide sequence of P450CMF1b.";
+"The rat P450 IID subfamily: complete sequences of four closely linked
+genes and evidence that gene conversions maintained sequence
+homogeneity at the heme-binding region of the cytochrome P450 active
+site.";
+"Four species of cDNAs for cytochrome P450 isozymes immunorelated to
+P450C-M/F encode for members of P450IID subfamily, increasing the
+number of members within the subfamily.";
+-!- FUNCTION: Cytochromes P450 are a group of heme-thiolate
+    monooxygenases. In liver microsomes, this enzyme is involved in an
+    NADPH-dependent electron transport pathway. It oxidizes a variety
+    of structurally unrelated compounds, including steroids, fatty
+    acids, and xenobiotics.
+-!- CATALYTIC ACTIVITY: RH + reduced flavoprotein + O(2) = ROH +
+    oxidized flavoprotein + H(2)O.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; peripheral membrane protein.
+-!- INDUCTION: P450 can be induced to high levels in liver and other
+    tissues by various foreign compounds, including drugs, pesticides,
+    and carcinogens.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+ GO:0004497; F:monooxygenase activity; TAS:RGD.
+Endoplasmic reticulum; Heme; Iron; Membrane; Metal-binding; Microsome;
+Monooxygenase; Oxidoreductase.
+TMZERO

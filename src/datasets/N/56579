@@ -1,0 +1,12 @@
+AC   P18625;
+Fos-related antigen 2.
+"Isolation and characterization of fra-2, an additional member of the
+fos gene family.";
+-!- SUBUNIT: Heterodimer with JUN.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- INDUCTION: Serum inducible, and cycloheximide superinducible.
+-!- SIMILARITY: Belongs to the bZIP family. Fos subfamily.
+-!- SIMILARITY: Contains 1 bZIP domain.
+Direct protein sequencing; DNA-binding; Nuclear protein;
+Proto-oncogene.
+TMZERO

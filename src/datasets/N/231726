@@ -1,0 +1,14 @@
+AC   P84587;
+Zinc finger protein 326 (Fragments).
+"Proteome analysis of a rat liver nuclear insoluble protein fraction
+and localization of a novel protein, ISP36, to compartments in the
+interchromatin space.";
+-!- FUNCTION: Probable transcriptional activator which may play a role
+    in neuronal differentiation. Able to bind DNA and activate
+    expression in vitro (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear matrix (By similarity).
+-!- SIMILARITY: Belongs to the AKAP95 family.
+Activator; Direct protein sequencing; DNA-binding; Metal-binding;
+Nuclear protein; Repeat; Transcription; Transcription regulation;
+Zinc; Zinc-finger.
+TMZERO

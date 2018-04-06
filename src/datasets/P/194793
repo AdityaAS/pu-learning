@@ -1,0 +1,12 @@
+AC   P0A928; P22786;
+Nucleoside-specific channel-forming protein tsx precursor.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Functions as substrate-specific channel for nucleosides
+    and deoxynucleosides (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+Complete proteome; Ion transport; Membrane; Outer membrane;
+Phage recognition; Porin; Signal; Transmembrane; Transport.
+TMZERO

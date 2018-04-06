@@ -1,0 +1,7 @@
+AC   Q8Y2R5;
+UPF0225 protein RSc0270.
+"Genome sequence of the plant pathogen Ralstonia solanacearum.";
+-!- SIMILARITY: Belongs to the UPF0225 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

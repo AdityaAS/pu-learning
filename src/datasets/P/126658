@@ -1,0 +1,12 @@
+AC   Q05181;
+Phthalate transporter.
+"Genes in PHT plasmid encoding the initial degradation pathway of
+phthalate in Pseudomonas putida.";
+-!- PATHWAY: Phthalate degradation.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Phthalate permease family.
+Aromatic hydrocarbons catabolism; Membrane; Plasmid; Transmembrane;
+Transport.
+TMEIGHT

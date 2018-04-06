@@ -1,0 +1,18 @@
+AC   Q6FBI3;
+3-dehydroquinate dehydratase (EC 4.2.1.10) (3-dehydroquinase) (Type II
+DHQase).
+"Unique features revealed by the genome sequence of Acinetobacter sp.
+ADP1, a versatile and naturally transformation competent bacterium.";
+-!- FUNCTION: Catalyzes a trans-dehydration via an enolate
+    intermediate (By similarity).
+-!- CATALYTIC ACTIVITY: 3-dehydroquinate = 3-dehydroshikimate + H(2)O.
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 3.
+-!- PATHWAY: Context: Aromatic amino acids biosynthesis.
+-!- SUBUNIT: Homododecamer (By similarity).
+-!- SIMILARITY: Belongs to the type-II 3-dehydroquinase family.
+ GO:0016089; P:aromatic amino acid family biosynthesis, sh...; IEA:HAMAP.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Complete proteome; Lyase.
+TMZERO

@@ -1,0 +1,16 @@
+AC   P0AA76; P31457; Q2M803;
+D-galactonate transporter.
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Intake of galactonate into the cell.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Phthalate permease family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMELEVEN

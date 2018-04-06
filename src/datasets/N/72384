@@ -1,0 +1,40 @@
+AC   P31613;
+Hemagglutinin-esterase precursor (EC 3.1.1.53) (HE) (E3 glycoprotein).
+"The hemagglutinin/esterase glycoprotein of bovine coronaviruses:
+sequence and functional comparisons between virulent and avirulent
+strains.";
+"Nucleotide and predicted amino acid sequences of all genes encoded by
+the 3' genomic portion (9.5 kb) of respiratory bovine coronaviruses
+and comparisons among respiratory and enteric coronaviruses.";
+-!- FUNCTION: Structural protein that makes short spikes at the
+    surface of the virus. Contains receptor binding and receptor-
+    destroying activities. Mediates de-O-acetylation of N-acetyl-9-O-
+    acetylneuraminic acid, which is probably the receptor determinant
+    recognized by the virus on the surface of erythrocytes and
+    susceptible cells. This receptor-destroying activity is important
+    for virus release as it probably helps preventing self-aggregation
+    and ensures the efficient spread of the progeny virus from cell to
+    cell. May serve as a secondary viral attachment protein for
+    initiating infection, the spike protein being the major one. Seems
+    to be a 'luxury' protein that is not absolutely necessary for
+    virus infection in culture. However, its presence in the virus may
+    alter its pathogenicity. May become a target for both the humoral
+    and the cellular branches of the immune system (By similarity).
+-!- CATALYTIC ACTIVITY: N-acetyl-O-acetylneuraminate + H(2)O = N-
+    acetylneuraminate + acetate.
+-!- SUBUNIT: Homodimer; disulfide-linked. Forms a complex with the M
+    protein in the pre-Golgi. Associates then with S-M complex to form
+    a ternary complex S-M-HE.
+-!- SUBCELLULAR LOCATION: Virion; virion membrane. Cell membrane;
+    single-pass membrane protein. Note=In infected cells becomes
+    incorporated into the envelope of virions during virus assembly at
+    the endoplasmic reticulum and cis Golgi. However, some may escape
+    incorporation into virions and subsequently migrate to the cell
+    surface.
+-!- PTM: N-glycosylated in the RER.
+-!- SIMILARITY: Belongs to the influenza type C/coronaviruses
+    hemagglutinin-esterase family.
+ GO:0001681; F:sialate O-acetylesterase activity; IEA:EC.
+Envelope protein; Glycoprotein; Hemagglutinin; Hydrolase; Membrane;
+Signal; Transmembrane; Virion protein.
+TMONE

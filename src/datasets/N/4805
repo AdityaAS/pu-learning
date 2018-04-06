@@ -1,0 +1,39 @@
+AC   O00253; O15459; Q2TBD9;
+Agouti-related protein precursor.
+"Hypothalamic expression of ART, a novel gene related to agouti, is
+up-regulated in obese and diabetic mutant mice.";
+"Antagonism of central melanocortin receptors in vitro and in vivo by
+agouti-related protein.";
+"The gene structure and minimal promoter of the human agouti related
+protein.";
+"Association between an agouti-related protein gene polymorphism and
+anorexia nervosa.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Determination of disulfide structure in agouti-related protein (AGRP)
+by stepwise reduction and alkylation.";
+"NMR structure of a minimized human agouti related protein prepared by
+total chemical synthesis.";
+"Design, pharmacology, and NMR structure of a minimized cystine knot
+with agouti-related protein activity.";
+"A polymorphism in the human agouti-related protein is associated with
+late-onset obesity.";
+-!- FUNCTION: Plays a role in weight homeostasis. May play a role in
+    the regulation of melanocortin receptors within the hypothalamus
+    and adrenal gland, and therefore in the central control of
+    feeding.
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- TISSUE SPECIFICITY: Expressed primarily in the adrenal gland,
+    subthalamic nucleus, and hypothalamus, with a lower level of
+    expression occurring in testis, lung, and kidney.
+-!- DISEASE: Defects in AGRP may be a cause of autosomal dominant
+    obesity [MIM:601665].
+-!- SIMILARITY: Contains 1 agouti domain.
+ GO:0005184; F:neuropeptide hormone activity; TAS:ProtInc.
+ GO:0005102; F:receptor binding; TAS:ProtInc.
+ GO:0007631; P:feeding behavior; TAS:ProtInc.
+ GO:0007218; P:neuropeptide signaling pathway; TAS:ProtInc.
+3D-structure; Disease mutation; Obesity; Signal.
+TMZERO

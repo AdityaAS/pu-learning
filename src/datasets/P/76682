@@ -1,0 +1,39 @@
+AC   P35674; O31180;
+Harpin hrpZ (HrpZ-Pss protein) (Harpin-Pss).
+"Pseudomonas syringae pv. syringae harpinPss: a protein that is
+secreted via the Hrp pathway and elicits the hypersensitive response
+in plants.";
+"Amplification, sequence and expression of the hrpZ gene of the
+bacterial canker pathogen, Pseudomonas syringae pv. syringae strain
+NV.";
+"Identification of a putative alternate sigma factor and
+characterization of a multicomponent regulatory cascade controlling
+the expression of Pseudomonas syringae pv. syringae Pss61 hrp and hrmA
+genes.";
+"The HrpZ proteins of Pseudomonas syringae pvs. syringae, glycinea,
+and tomato are encoded by an operon containing Yersinia ysc homologs
+and elicit the hypersensitive response in tomato but not soybean.";
+"The complete hrp gene cluster of Pseudomonas syringae pv. syringae 61
+includes two blocks of genes required for harpinPss secretion that are
+arranged colinearly with Yersinia ysc homologs.";
+"The interaction of harpinPss, with plant cell walls.";
+"An amphipathic protein from sweet pepper can dissociate harpinPss
+multimeric forms and intensify the harpinPss-mediated hypersensitive
+response.";
+-!- FUNCTION: Harpins are proteins able to elicit hypersensitive
+    response (HR) in non-host plants and are required for
+    pathogenicity in host plants. HrpZ forms ion-conducting pores
+    permeable for cations. Such pore-forming activity may allow
+    nutrient release and/or delivery of virulence factors during
+    bacterial colonization of host plants (By similarity).
+-!- SUBUNIT: Homomultimeric.
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+    Note=Secreted via type III secretion system (TTSS), delivered into
+    the host intercellular space. HrpZ travels through the hrp pilus
+    and it is secreted only from the pilus tip (By similarity).
+-!- INDUCTION: Regulated by hrpRS and hrpL.
+-!- DOMAIN: The glycine-rich region is characteristic of harpins.
+-!- SIMILARITY: Belongs to the harpin hrpZ family.
+Direct protein sequencing; Hypersensitive response elicitation;
+Ion transport; Ionic channel; Membrane; Repeat; Transport; Virulence.
+TMZERO

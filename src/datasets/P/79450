@@ -1,0 +1,20 @@
+AC   Q5HKQ0; Q54066;
+Biofilm PIA synthesis N-acetylglucosaminyltransferase icaA
+(EC 2.4.-.-) (Intercellular adhesion protein A).
+"Molecular basis of intercellular adhesion in the biofilm-forming
+Staphylococcus epidermidis.";
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+"Characterization of the N-acetylglucosaminyltransferase activity
+involved in the biosynthesis of the Staphylococcus epidermidis
+polysaccharide intercellular adhesin.";
+-!- FUNCTION: Along with icaD, exhibits a N-
+    acetylglucosaminyltransferase activity. IcaA represents the
+    catalytic enzyme that requires icaD for full activity.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the glycosyltransferase 2 family.
+Complete proteome; Glycosyltransferase; Membrane; Transferase;
+Transmembrane.
+TMFOUR

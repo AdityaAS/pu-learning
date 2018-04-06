@@ -1,0 +1,13 @@
+AC   Q755D2;
+U2 small nuclear ribonucleoprotein A' (U2 snRNP-A').
+"The Ashbya gossypii genome as a tool for mapping the ancient
+Saccharomyces cerevisiae genome.";
+-!- FUNCTION: Involved in pre-mRNA splicing (By similarity).
+-!- SUBUNIT: Associated with the spliceosome (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the U2 small nuclear ribonucleoprotein A
+    family.
+-!- SIMILARITY: Contains 2 LRR (leucine-rich) repeats.
+Complete proteome; Leucine-rich repeat; mRNA processing;
+mRNA splicing; Nuclear protein; Repeat; Spliceosome.
+TMZERO

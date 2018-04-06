@@ -1,0 +1,16 @@
+AC   P81424;
+71 kDa F-actin-binding protein (Fragment).
+"A new Tetrahymena actin-binding protein is localized in the division
+furrow.";
+-!- FUNCTION: Binds directly to F-actin and induces actin filament
+    bundling. May function as a regulator of actin filament
+    organization.
+-!- DEVELOPMENTAL STAGE: Colocalized with actin in the oral apparatus
+    in interphase cells. In dividing cells colocalized with actin in
+    the division furrow.
+-!- PTM: The N-terminus is blocked.
+-!- MISCELLANEOUS: On the 2D-gel the determined pI of this protein is:
+    7.5, its MW is: 71 kDa.
+-!- SIMILARITY: To yeast fimbrin.
+Actin-binding; Direct protein sequencing.
+TMZERO

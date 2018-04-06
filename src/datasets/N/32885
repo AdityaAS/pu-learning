@@ -1,0 +1,18 @@
+AC   P37269; Q31LQ5;
+Phytoene synthase (EC 2.5.1.-).
+"Molecular cloning and expression in Escherichia coli of a
+cyanobacterial gene coding for phytoene synthase, a carotenoid
+biosynthesis enzyme.";
+"Complete sequence of chromosome 1 of Synechococcus elongatus PCC
+7942.";
+-!- FUNCTION: Catalyzes the reaction from prephytoene diphosphate to
+    phytoene.
+-!- CATALYTIC ACTIVITY: 2 geranylgeranyl diphosphate = diphosphate +
+    prephytoene diphosphate.
+-!- CATALYTIC ACTIVITY: Prephytoene diphosphate = diphosphate +
+    phytoene.
+-!- PATHWAY: Carotenoid biosynthesis.
+-!- SIMILARITY: Belongs to the phytoene/squalene synthetase family.
+Carotenoid biosynthesis; Complete proteome; Multifunctional enzyme;
+Transferase.
+TMZERO

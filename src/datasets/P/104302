@@ -1,0 +1,17 @@
+AC   P0C0S2; P11666;
+Small-conductance mechanosensitive channel.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Mechanosensitive channel that participates in the
+    regulation of osmotic pressure changes within the cell. Forms an
+    ion channel of 1.0 nanosiemens conductance with a slight
+    preference for anions. The channel is sensitive to voltage (By
+    similarity).
+-!- SUBUNIT: Homoheptamer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the mscS (TC 1.A.23) family.
+Complete proteome; Inner membrane; Ion transport; Ionic channel;
+Membrane; Transmembrane; Transport.
+THTHREE

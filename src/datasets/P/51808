@@ -1,0 +1,39 @@
+AC   P26040; Q80ZT8; Q9DCI1;
+Ezrin (p81) (Cytovillin) (Villin-2).
+"Radixin is a novel member of the band 4.1 family.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Characterization of the NF2 protein merlin and the ERM protein ezrin
+in human, rat, and mouse central nervous system.";
+-!- FUNCTION: Probably involved in connections of major cytoskeletal
+    structures to the plasma membrane.
+-!- SUBUNIT: Interacts with SLC9A3R1 and PACE1. Interacts with MPP5
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane (By similarity). Note=Localization
+    to the apical membrane of parietal cells depends on the
+    interaction with MPP5. Microvillar peripheral membrane protein
+    (cytoplasmic side). Localizes to cell extensions and peripheral
+    processes of astrocytes (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in cerebrum and cerebellum (at
+    protein level). Component of the microvilli of intestinal
+    epithelial cells.
+-!- DEVELOPMENTAL STAGE: Detected in whole embryo from E5 with highest
+    expression at E8, E11, E12, and E18. Expressed at E18 in brain, a
+    clear reduction occurs after birth followed by a transient
+    increase around 2 weeks to 1 month. Hardly detected in adult
+    brain.
+-!- PTM: Phosphorylated by tyrosine-protein kinases.
+-!- SIMILARITY: Contains 1 FERM domain.
+ GO:0005884; C:actin filament; ISS:UniProtKB.
+ GO:0016324; C:apical plasma membrane; IDA:MGI.
+ GO:0005932; C:basal body; IDA:MGI.
+ GO:0019898; C:extrinsic to membrane; ISS:UniProtKB.
+ GO:0001931; C:uropod; IDA:MGI.
+ GO:0051015; F:actin filament binding; ISS:UniProtKB.
+ GO:0043621; F:protein self-association; ISS:UniProtKB.
+ GO:0051017; P:actin filament bundle formation; ISS:UniProtKB.
+ GO:0035088; P:establishment and/or maintenance of apical/...; IMP:MGI.
+Cell shape; Cytoskeleton; Membrane; Phosphorylation;
+Structural protein.
+TMZERO

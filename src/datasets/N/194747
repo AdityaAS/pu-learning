@@ -1,0 +1,26 @@
+AC   P35442;
+Thrombospondin-2 precursor.
+"Sequence and characterization of the complete human thrombospondin 2
+cDNA: potential regulatory role for the 3' untranslated region.";
+"Thrombospondin II: partial cDNA sequence, chromosome location, and
+expression of a second member of the thrombospondin gene family in
+humans.";
+"Disulfide connectivity of recombinant C-terminal region of human
+thrombospondin 2.";
+-!- FUNCTION: Adhesive glycoprotein that mediates cell-to-cell and
+    cell-to-matrix interactions. Can bind to fibrinogen, fibronectin,
+    laminin and type V collagen.
+-!- SUBUNIT: Homotrimer; disulfide-linked.
+-!- SIMILARITY: Belongs to the thrombospondin family.
+-!- SIMILARITY: Contains 3 EGF-like domains.
+-!- SIMILARITY: Contains 1 TSP C-terminal (TSPC) domain.
+-!- SIMILARITY: Contains 1 TSP N-terminal (TSPN) domain.
+-!- SIMILARITY: Contains 3 TSP type-1 domains.
+-!- SIMILARITY: Contains 7 TSP type-3 domains.
+-!- SIMILARITY: Contains 1 VWFC domain.
+-!- WEB RESOURCE: NAME=Atlas Genet. Cytogenet. Oncol. Haematol.;
+    URL="http://atlasgeneticsoncology.org/Genes/THBS2ID42549ch6q27.html".
+ GO:0008201; F:heparin binding; TAS:ProtInc.
+3D-structure; Calcium; Cell adhesion; EGF-like domain; Glycoprotein;
+Heparin-binding; Repeat; Signal.
+TMZERO

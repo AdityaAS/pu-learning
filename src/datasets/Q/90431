@@ -1,0 +1,22 @@
+AC   P29559;
+Lantibiotic nisin-Z precursor.
+"Identification and characterization of the lantibiotic nisin Z, a
+natural nisin variant.";
+"Genetic evidence that Lactococcus lactis JCM7638 produces a mutated
+form of nisin.";
+"The codon usage of the nisZ operon in Lactococcus lactis N8 suggests
+a non-lactococcal origin of the conjugative nisin-sucrose
+transposon.";
+-!- FUNCTION: Lanthionine-containing peptide antibiotic (lantibiotic)
+    active on Gram-positive bacteria. The bactericidal activity of
+    lantibiotics is based on depolarization of energized bacterial
+    cytoplasmic membranes, initiated by the formation of aqueous
+    transmembrane pores.
+-!- PTM: Maturation of lantibiotics involves the enzymic conversion of
+    Thr, and Ser into dehydrated AA and the formation of thioether
+    bonds with cysteine. This is followed by membrane translocation
+    and cleavage of the modified precursor.
+-!- SIMILARITY: Belongs to the type A lantibiotic family.
+3D-structure; Antibiotic; Antimicrobial; Bacteriocin; Lantibiotic;
+Thioether bond.
+TMZERO

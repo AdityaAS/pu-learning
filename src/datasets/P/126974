@@ -1,0 +1,13 @@
+AC   P22608; Q9HVQ0;
+Type 4 fimbrial assembly protein pilB.
+"Products of three accessory genes, pilB, pilC, and pilD, are required
+for biogenesis of Pseudomonas aeruginosa pili.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Involved in the translocation of the type IV pilin
+    (pilA).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the GSP E family.
+ATP-binding; Complete proteome; Fimbria; Nucleotide-binding;
+Transport.
+TMZERO

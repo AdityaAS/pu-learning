@@ -1,0 +1,18 @@
+AC   P45562; P77729;
+Xanthosine permease (Xanthosine transporter).
+"Identification and characterization of genes (xapA, xapB, and xapR)
+involved in xanthosine catabolism in Escherichia coli.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Nucleoside transport.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: To E.coli nupG and yegT.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

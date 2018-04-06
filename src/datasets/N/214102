@@ -1,0 +1,8 @@
+AC   Q8F3M0;
+UPF0102 protein LA_2381.
+"Unique physiological and pathogenic features of Leptospira
+interrogans revealed by whole-genome sequencing.";
+-!- SIMILARITY: Belongs to the UPF0102 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

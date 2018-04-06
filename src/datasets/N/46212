@@ -1,0 +1,21 @@
+AC   P03254;
+Early E1A 32 kDa protein.
+"Structure of two spliced mRNAs from the transforming region of human
+subgroup C adenoviruses.";
+"Nucleotide sequences from the adenovirus-2 genome.";
+-!- FUNCTION: Trans-activates early viral promoters and some cellular
+    promoters. The tumorigenesis-restraining activity of E1A may be
+    related to the disruption of the human CtBP-CtIP complex through
+    the CtBP binding motif.
+-!- SUBUNIT: Interacts with human UBE2I (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+      Comment=Isoforms are derived from the E1 region of the genome;
+    Name=1; Synonyms=Early E1A 32 kDa protein;
+      IsoId=P03254-1; Sequence=Displayed;
+    Name=2; Synonyms=Early E1A 26 kDa protein;
+      IsoId=P03254-2; Sequence=VSP_000197;
+Activator; Alternative splicing; DNA-binding; Early protein;
+Host-virus interaction; Metal-binding; Phosphorylation; Transcription;
+Transcription regulation; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,11 @@
+AC   P82291;
+Soluble cytochrome b558.
+"Structure and characterization of Ectothiorhodospira vacuolata
+cytochrome b(558), a prokaryotic homologue of cytochrome b(5).";
+-!- MASS SPECTROMETRY: MW=10094.7; METHOD=Electrospray; RANGE=1-90;
+    NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the cytochrome b5 family.
+-!- SIMILARITY: Contains 1 cytochrome b5 heme-binding domain.
+3D-structure; Direct protein sequencing; Electron transport; Heme;
+Iron; Metal-binding; Transport.
+TMZERO

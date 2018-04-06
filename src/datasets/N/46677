@@ -1,0 +1,15 @@
+AC   Q8CVW3;
+Ecotin precursor.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: General inhibitor of pancreatic serine proteases:
+    inhibits chymotrypsin, trypsin, elastases, factor X, kallikrein as
+    well as a variety of other proteases (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the protease inhibitor I11 (ecotin) family.
+ GO:0030569; F:chymotrypsin inhibitor activity; IEA:HAMAP.
+ GO:0030304; F:trypsin inhibitor activity; IEA:HAMAP.
+Complete proteome; Periplasmic; Protease inhibitor;
+Serine protease inhibitor; Signal.
+TMZERO

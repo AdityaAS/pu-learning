@@ -1,0 +1,19 @@
+AC   P36497;
+Pediocin PA-1 transport/processing ATP-binding protein pedD
+(EC 3.4.22.-) (Pediocin AcH transport ATP-binding protein papD).
+"Cloning, expression, and nucleotide sequence of genes involved in
+production of pediocin PA-1, and bacteriocin from Pediococcus
+acidilactici PAC1.0.";
+"Complete nucleotide sequence of pSMB 74, a plasmid encoding the
+production of pediocin AcH in Pediococcus acidilactici.";
+-!- FUNCTION: Involved in the export process of the bacteriocin
+    pediocin PA-1/AcH. Is also essential for pediocin production.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. HlyB subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 1 peptidase C39 domain.
+ATP-binding; Bacteriocin transport; Hydrolase; Membrane;
+Nucleotide-binding; Plasmid; Protease; Protein transport;
+Thiol protease; Transmembrane; Transport.
+TMSIX

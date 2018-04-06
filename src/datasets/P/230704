@@ -1,0 +1,13 @@
+AC   P39649;
+Hypothetical transport protein ywfM.
+"Bacillus subtilis genome project: cloning and sequencing of the 97 kb
+region from 325 degrees to 333 degrees.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the eamA transporter family.
+-!- SIMILARITY: Contains 2 DUF6 domains.
+Complete proteome; Hypothetical protein; Membrane; Repeat;
+Transmembrane; Transport.
+TMTEN

@@ -1,0 +1,18 @@
+AC   P0A1I1; P37601;
+Thiosulfate reductase electron transport protein phsB.
+"Sequence analysis of the phs operon in Salmonella typhimurium and the
+contribution of thiosulfate reduction to anaerobic energy
+metabolism.";
+"Cloning and characterization of a gene cluster, phsBCDEF, necessary
+for the production of hydrogen sulfide from thiosulfate by Salmonella
+typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Electron transport protein for the PHS system
+    oxidoreductase which produces hydrogen sulfide from thiosulfate
+    (Potential).
+-!- SUBUNIT: Probably composed of three subunits: phsA, phsB and phsC.
+-!- SIMILARITY: Contains 4 4Fe-4S type ferredoxin domains.
+4Fe-4S; Complete proteome; Electron transport; Iron; Iron-sulfur;
+Metal-binding; Transport.
+TMZERO

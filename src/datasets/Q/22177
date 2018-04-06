@@ -1,0 +1,15 @@
+AC   P0C1F7; P52224;
+Heme exporter protein D (Cytochrome c-type biogenesis protein ccmD).
+"A chromosomal locus required for copper resistance, competitive
+fitness, and cytochrome c biogenesis in Pseudomonas fluorescens.";
+-!- FUNCTION: Required for the export of heme to the periplasm for the
+    biogenesis of c-type cytochromes (Potential).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ccmD/cycX/helD family.
+-!- CAUTION: Ref.1 (AAC44225) sequence differs from that shown due to
+    a frameshift in position 26. This frameshift fuses together ccmD
+    and ccmE.
+Cytochrome c-type biogenesis; Inner membrane; Membrane; Transmembrane;
+Transport.
+TMONE

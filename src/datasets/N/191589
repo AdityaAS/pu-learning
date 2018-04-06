@@ -1,0 +1,10 @@
+AC   P33787;
+Protein traM.
+"Characterization and nucleotide sequence of the oriT-traM-finP region
+of the IncFVII plasmid pSU233.";
+-!- FUNCTION: Transfer gene protein. Is involved in the conjugation
+    process of bacterial cells for the exchange of plasmid DNA.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the traM family.
+Conjugation; DNA-binding; Plasmid.
+TMZERO

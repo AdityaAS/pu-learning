@@ -1,0 +1,138 @@
+AC   Q04656; O00227; O00745; Q9BYY8;
+Copper-transporting ATPase 1 (EC 3.6.3.4) (Copper pump 1) (Menkes
+disease-associated protein).
+"Isolation of a candidate gene for Menkes disease and evidence that it
+encodes a copper-transporting ATPase.";
+"Characterization of the exon structure of the Menkes disease gene
+using vectorette PCR.";
+"The DNA sequence of the human X chromosome.";
+"Molecular structure of the Menkes disease gene (ATP7A).";
+"Isolation of a candidate gene for Menkes disease that encodes a
+potential heavy metal binding protein.";
+"Isolation of a partial candidate gene for Menkes disease by
+positional cloning.";
+"Molecular phylogenetics and the origins of placental mammals.";
+"Multiple forms of the Menkes Cu-ATPase.";
+"Multiple transcripts coding for the menkes gene: evidence for
+alternative splicing of Menkes mRNA.";
+"Constitutive skipping of alternatively spliced exon 10 in the ATP7A
+gene abolishes Golgi localization of the menkes protein and produces
+the occipital horn syndrome.";
+"Evidence for a Menkes-like protein with a nuclear targeting
+sequence.";
+"Immunocytochemical localization of the Menkes copper transport
+protein (ATP7A) to the trans-Golgi network.";
+"The Menkes protein (ATP7A; MNK) cycles via the plasma membrane both
+in basal and elevated extracellular copper using a C-terminal di-
+leucine endocytic signal.";
+"Solution structure of the fourth metal-binding domain from the Menkes
+copper-transporting ATPase.";
+"Mutation spectrum of ATP7A, the gene defective in Menkes disease.";
+"Diverse mutations in patients with Menkes disease often lead to exon
+skipping.";
+"Identification of point mutations in 41 unrelated patients affected
+with Menkes disease.";
+"A C2055T transition in exon 8 of the ATP7A gene is associated with
+exon skipping in an occipital horn syndrome family.";
+"Defective copper-induced trafficking and localization of the Menkes
+protein in patients with mild and copper-treated classical Menkes
+disease.";
+"Identification of three novel mutations in the MNK gene in three
+unrelated Japanese patients with classical Menkes disease.";
+"A novel frameshift mutation in exon 23 of ATP7A (MNK) results in
+occipital horn syndrome and not in Menkes disease.";
+"ATP7A gene mutations in 16 patients with Menkes disease and a patient
+with occipital horn syndrome.";
+"Identification of four novel mutations in classical Menkes disease
+and successful prenatal DNA diagnosis.";
+"Identification and analysis of 21 novel disease-causing amino acid
+substitutions in the conserved part of ATP7A.";
+-!- FUNCTION: May supply copper to copper-requiring proteins within
+    the secretory pathway, when localized in the trans-Golgi network.
+    Under conditions of elevated extracellular copper, it relocalized
+    to the plasma membrane where it functions in the efflux of copper
+    from cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Cu(2+)(In) = ADP + phosphate +
+    Cu(2+)(Out).
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; trans-Golgi network; trans-
+    Golgi network membrane; multi-pass membrane protein. Cell
+    membrane; multi-pass membrane protein. Isoform 3: Cytoplasm;
+    cytosol (Probable). Isoform 5: Endoplasmic reticulum. Note=Cycles
+    constitutively between the trans-Golgi network (TGN) and the
+    plasma membrane. Predominantly found in the TGN and relocalized to
+    the plasma membrane in response to elevated copper levels.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=6;
+    Name=4;
+      IsoId=Q04656-1; Sequence=Displayed;
+    Name=1;
+      IsoId=Q04656-2; Sequence=VSP_000419;
+    Name=2;
+      IsoId=Q04656-3; Sequence=VSP_000420;
+    Name=3; Synonyms=2-16;
+      IsoId=Q04656-4; Sequence=VSP_000424;
+      Note=Lacks 6 transmembrane regions and 5 heavy-metal-associated
+      (HMA) domains;
+    Name=5;
+      IsoId=Q04656-5; Sequence=VSP_000425;
+      Note=Lacks the transmembrane domains 3 and 4. Expressed at a low
+      level in several tissues of normal individuals and is the only
+      isoform found in patients with OHS;
+    Name=6; Synonyms=NML45;
+      IsoId=Q04656-6; Sequence=VSP_000421, VSP_000422, VSP_000423;
+      Note=Lacks all transmembrane regions and 5
+      heavy-metal-associated (HMA) domains, but has a putative nuclear
+      localization signal attached at the N-terminus;
+-!- TISSUE SPECIFICITY: Found in most tissues except liver. Isoform 3
+    is widely expressed including in liver cell lines. Isoform 1 is
+    expressed in fibroblasts, choriocarcinoma, colon carcinoma and
+    neuroblastoma cell lines. Isoform 2 is expressed in fibroblasts,
+    colon carcinoma and neuroblastoma cell lines.
+-!- DOMAIN: The C-terminal di-leucine, 1487-Leu-Leu-1488, is an
+    endocytic targeting signal which functions in retrieving recycling
+    from the plasma membrane to the TGN. Mutation of the di-leucine
+    signal results in the accumulation of the protein in the plasma
+    membrane.
+-!- DISEASE: Defects in ATP7A are the cause of Menkes syndrome (MD)
+    [MIM:309400]; also known as kinky hair disease. MD is an X-linked
+    recessive disease characterized by progressive neurodegeneration
+    and connective-tissue disturbances: focal cerebral and cerebellar
+    degeneration, early retardation in growth, peculiar hair,
+    hypopigmentation, cutis laxa, vascular complications and death in
+    early childhood. It is due to a defect in absorption and transport
+    of copper.
+-!- DISEASE: Defects in ATP7A are the cause of occipital horn syndrome
+    (OHS) [MIM:304150]; also known as X-linked cutis laxa. Common
+    features are unusual facial appearance, skeletal abnormalities,
+    chronic diarrhea and genitourinary defects. The skeletal
+    abnormalities included occipital horns, short, broad clavicles,
+    deformed radii, ulnae and humeri, narrowing of the rib cage,
+    undercalcified long bones with thin cortical walls and coxa valga.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IB subfamily.
+-!- SIMILARITY: Contains 6 HMA domains.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ATP7A".
+ GO:0016323; C:basolateral plasma membrane; IDA:UniProtKB.
+ GO:0005794; C:Golgi apparatus; IDA:UniProtKB.
+ GO:0005802; C:Golgi trans face; IDA:UniProtKB.
+ GO:0030173; C:integral to Golgi membrane; TAS:UniProtKB.
+ GO:0005887; C:integral to plasma membrane; TAS:HGNC.
+ GO:0005770; C:late endosome; IDA:UniProtKB.
+ GO:0048471; C:perinuclear region; IDA:UniProtKB.
+ GO:0005886; C:plasma membrane; IDA:UniProtKB.
+ GO:0030140; C:trans-Golgi network transport vesicle; IMP:HGNC.
+ GO:0005524; F:ATP binding; TAS:HGNC.
+ GO:0005507; F:copper ion binding; IDA:UniProtKB.
+ GO:0004008; F:copper-exporting ATPase activity; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0006878; P:copper ion homeostasis; IMP:UniProtKB.
+ GO:0006825; P:copper ion transport; IMP:UniProtKB.
+ GO:0051353; P:positive regulation of oxidoreductase activity; IDA:UniProtKB.
+3D-structure; Alternative splicing; ATP-binding; Copper;
+Copper transport; Disease mutation; Endoplasmic reticulum;
+Glycoprotein; Golgi apparatus; Hydrolase; Ion transport; Magnesium;
+Membrane; Metal-binding; Nucleotide-binding; Phosphorylation;
+Polymorphism; Repeat; Transmembrane; Transport.
+TMEIGHT

@@ -1,0 +1,12 @@
+AC   Q40237;
+Major pollen allergen Lol p 5b precursor (Lol p Vb).
+"Cloning of a cDNA encoding a group-V (group-IX) allergen isoform from
+rye-grass pollen that demonstrates specific antigenic
+immunoreactivity.";
+-!- SUBCELLULAR LOCATION: Note=Starch granule (By similarity).
+-!- TISSUE SPECIFICITY: Pollen, starch granules (By similarity).
+-!- ALLERGEN: Causes an allergic reaction in human. Causes grass
+    pollen allergy.
+-!- SIMILARITY: Belongs to the Poa p IX/Phl p VI allergen family.
+Allergen; Repeat; Signal.
+TMZERO

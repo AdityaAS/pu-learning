@@ -1,0 +1,15 @@
+AC   P0A1W2; P23697;
+Signal peptidase I (EC 3.4.21.89) (SPase I) (Leader peptidase I).
+"Molecular cloning of the Salmonella typhimurium lep gene in
+Escherichia coli.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- CATALYTIC ACTIVITY: Cleavage of hydrophobic, N-terminal signal or
+    leader sequences from secreted and periplasmic proteins.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the peptidase S26 family.
+ GO:0009004; F:signal peptidase I activity; IEA:EC.
+Complete proteome; Hydrolase; Inner membrane; Membrane; Protease;
+Transmembrane.
+TMTWO

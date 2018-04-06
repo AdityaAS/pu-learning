@@ -1,0 +1,12 @@
+AC   P0A1F4; P18951;
+Inner membrane protein yghB.
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"DNA sequence of the metC gene and its flanking regions from
+Salmonella typhimurium LT2 and homology with the corresponding
+sequence of Escherichia coli.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the dedA family.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMFOUR

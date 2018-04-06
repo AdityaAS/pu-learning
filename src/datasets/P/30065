@@ -1,0 +1,20 @@
+AC   P25953;
+ComG operon protein 1.
+"Nucleotide sequence and genetic organization of the Bacillus subtilis
+comG operon.";
+"Systematic sequencing of the 283 kb 210 degrees-232 degrees region of
+the Bacillus subtilis genome containing the skin element and many
+sporulation genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"All seven comG open reading frames are required for DNA binding
+during transformation of competent Bacillus subtilis.";
+"Cell surface localization and processing of the ComG proteins,
+required for DNA binding during transformation of Bacillus subtilis.";
+-!- FUNCTION: Required for uptake of DNA by competent cells.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein;
+    cytoplasmic side.
+-!- SIMILARITY: Belongs to the GSP E family.
+ATP-binding; Competence; Complete proteome; Nucleotide-binding;
+Transport.
+TMZERO

@@ -1,0 +1,51 @@
+AC   P35938; Q67158; Q67159;
+Matrix protein 2 (Proton channel protein M2).
+"Primary structure of fragment 7 of the influenza virus
+A/USSR/90/77(H1N1) RNA.";
+"Assembly and budding of influenza virus.";
+"Proton conduction through the M2 protein of the influenza A virus; a
+quantitative, mechanistic analysis of experimental data.";
+"Computational studies of proton transport through the M2 channel.";
+"The closed state of a H+ channel helical bundle combining precise
+orientational and distance restraints from solid state NMR.";
+-!- FUNCTION: Forms a highly low-pH gated proton-selective channel.
+    When the environmental pH is lower than a threshold, the M2
+    channel is activated and selectively transports protons across the
+    membrane from the extracellular side to the cytoplasmic side.
+    Crucial for the uncoating process. When the virion is internalized
+    into the endosome, the channel acidifies the virion's interior,
+    promoting the dissociation of matrix protein 1 (M1) from the
+    ribonucleoprotein (RNP) thus allowing the transport of the RNP
+    from the virion into the cell's nucleus. Also plays a role in
+    viral proteins secretory pathway. Elevates the intravesicular pH
+    of normally acidic compartments, such as trans-Golgi network,
+    preventing newly formed hemagglutinin from premature switching to
+    the fusion-active conformation (By similarity).
+-!- ENZYME REGULATION: The M2 protein from most influenza A strains is
+    inhibited by amantadine and rimantadine, resulting in viral
+    uncoating incapacity. Emergence of amantadine-resistant variants
+    is usually rapid.
+-!- SUBUNIT: Homotetramer; composed of two disulfide-linked dimers
+    held together by noncovalent interactions (By similarity).
+-!- SUBCELLULAR LOCATION: Virion; virion membrane (By similarity).
+    Cell membrane; apical cell membrane; single-pass type III membrane
+    protein (By similarity). Note=Abundantly expressed at the apical
+    plasma membrane in infected polarized epithelial cells, in close
+    proximity to budding and assembled virions. Minor component of
+    virions (only 16-20 molecules/virion) (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+      Comment=Only the first 9 residues are shared by the 2 isoforms;
+    Name=M2;
+      IsoId=P35938-1; Sequence=Displayed;
+    Name=M1;
+      IsoId=P35937-1; Sequence=External;
+-!- MISCELLANEOUS: When the channel is activated, one or more
+    imidazole moities of His-37 probably become bi-protonated.
+-!- SIMILARITY: Belongs to the influenza viruses matrix protein M2
+    family.
+3D-structure; Alternative splicing; Glycoprotein;
+Hydrogen ion transport; Ion transport; Ionic channel; Lipoprotein;
+Membrane; Palmitate; Phosphorylation; Signal-anchor; Transmembrane;
+Transport.
+TMONE

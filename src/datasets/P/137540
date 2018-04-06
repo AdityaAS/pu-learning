@@ -1,0 +1,40 @@
+AC   P07117;
+Sodium/proline symporter (Proline permease).
+"Nucleotide sequence of putP, the proline carrier gene of Escherichia
+coli K12.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Evolutionary genetics of the proline permease gene (putP) and the
+control region of the proline utilization operon in populations of
+Salmonella and Escherichia coli.";
+"Nucleotide sequence of putC, the regulatory region for the put
+regulon of Escherichia coli K12.";
+"Site-specific alteration of cysteine 281, cysteine 344, and cysteine
+349 in the proline carrier of Escherichia coli.";
+"Proline carrier mutant of Escherichia coli K-12 with altered cation
+sensitivity of substrate-binding activity: cloning, biochemical
+characterization, and identification of the mutation.";
+"Sodium ion and proline binding sites in the Na+/proline symport
+carrier of Escherichia coli.";
+"Site-specific alteration of arginine 376, the unique positively
+charged amino acid residue in the mid-membrane-spanning regions of the
+proline carrier of Escherichia coli.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Catalyzes the sodium-dependent uptake of extracellular
+    L-proline. This protein is also capable of using lithium as the
+    transport cation.
+-!- SUBUNIT: Has been isolated from inner membrane preparations as a
+    homodimer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+Amino-acid transport; Complete proteome; Direct protein sequencing;
+Inner membrane; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMTWELVE

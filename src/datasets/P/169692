@@ -1,0 +1,23 @@
+AC   P60059; P38384; Q6IB25;
+Protein transport protein SEC61 subunit gamma.
+"Cloning and functional analysis of cDNAs with open reading frames for
+300 previously undefined genes expressed in CD34+ hematopoietic
+stem/progenitor cells.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Necessary for protein translocation in the endoplasmic
+    reticulum (By similarity).
+-!- SUBUNIT: Heterotrimeric complex composed of SEC61-alpha, SEC61-
+    beta and SEC61-gamma (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; single-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the secE/SEC61-gamma family.
+ GO:0005789; C:endoplasmic reticulum membrane; ISS:UniProtKB.
+ GO:0030176; C:integral to endoplasmic reticulum membrane; ISS:UniProtKB.
+ GO:0015450; F:protein translocase activity; ISS:UniProtKB.
+ GO:0006886; P:intracellular protein transport; ISS:UniProtKB.
+Endoplasmic reticulum; Membrane; Protein transport; Translocation;
+Transmembrane; Transport.
+TMONE

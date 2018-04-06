@@ -1,0 +1,13 @@
+AC   Q08081;
+Interleukin-2 precursor (IL-2) (T-cell growth factor) (TCGF).
+"Cross-species PCR cloning of gerbil (Meriones unguiculatus)
+interleukin-2 cDNA and its expression in COS-7 cells.";
+-!- FUNCTION: Produced by T-cells in response to antigenic or
+    mitogenic stimulation, this protein is required for T-cell
+    proliferation and other activities crucial to regulation of the
+    immune response. Can stimulate B-cells, monocytes, lymphokine-
+    activated killer cells, natural killer cells, and glioma cells.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the IL-2 family.
+Cytokine; Glycoprotein; Growth factor; Immune response; Signal.
+TMZERO

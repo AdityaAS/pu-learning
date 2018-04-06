@@ -1,0 +1,21 @@
+AC   P15047; P77100; Q2MBK5;
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28).
+"Nucleotide sequence of a cluster of Escherichia coli enterobactin
+biosynthesis genes: identification of entA and purification of its
+product 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase.";
+"Nucleotide sequence and transcriptional organization of the
+Escherichia coli enterobactin biosynthesis cistrons entB and entA.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- CATALYTIC ACTIVITY: 2,3-dihydro-2,3-dihydroxybenzoate + NAD(+) =
+    2,3-dihydroxybenzoate + NADH.
+-!- PATHWAY: Siderophore biosynthesis; enterobactin biosynthesis.
+-!- SUBUNIT: Homooctamer.
+-!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+    (SDR) family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Enterobactin biosynthesis; Ion transport; Iron; Iron transport; NAD;
+Oxidoreductase; Transport.
+TMZERO

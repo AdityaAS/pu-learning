@@ -1,0 +1,26 @@
+AC   O00584; Q5T8Q0; Q8TCU2; Q9BZ46; Q9BZ47;
+Ribonuclease T2 precursor (EC 3.1.27.-) (Ribonuclease 6).
+"Mammalian Rh/T2/S-glycoprotein ribonuclease family genes: cloning of
+a human member located in a region of chromosome 6 (6q27) frequently
+deleted in human malignancies.";
+"Physical and transcript map of the region between D6S264 and D6S149
+on chromosome 6q27, the minimal region of allele loss in sporadic
+epithelial ovarian cancer.";
+"The DNA sequence and analysis of human chromosome 6.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBCELLULAR LOCATION: Secreted protein (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O00584-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O00584-2; Sequence=VSP_008405, VSP_008406;
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- SIMILARITY: Belongs to the RNase T2 family.
+ GO:0005576; C:extracellular region; TAS:ProtInc.
+ GO:0004540; F:ribonuclease activity; TAS:ProtInc.
+ GO:0006401; P:RNA catabolism; TAS:ProtInc.
+Alternative splicing; Endonuclease; Glycoprotein; Hydrolase; Nuclease;
+Polymorphism; Signal.
+TMZERO

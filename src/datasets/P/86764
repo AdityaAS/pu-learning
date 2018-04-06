@@ -1,0 +1,113 @@
+AC   Q62976; O08626; O55180; O88659; Q7TMZ7; Q7TMZ8; Q7TQ55; Q7TQ56;
+AC   Q7TQ57; Q9WUI3;
+Calcium-activated potassium channel subunit alpha 1 (Calcium-activated
+potassium channel, subfamily M subunit alpha 1) (Maxi K channel)
+(MaxiK) (BK channel) (K(VCA)alpha) (BKCA alpha) (KCa1.1) (Slowpoke
+homolog) (Slo homolog) (Slo-alpha) (Slo1).
+"Increased expression of Ca2+-sensitive K+ channels in aorta of
+hypertensive rats.";
+"Functional characteristics of two BKCa channel variants
+differentially expressed in rat brain tissues.";
+"Cloning and expression of smooth muscle specific isoforms of a rat
+calcium-activated potassium channel.";
+"Identification and localization of Ca(2+)-activated K+ channels in
+rat sciatic nerve.";
+"Slo subunits cloned from freshly isolated rat cerebral artery
+myocytes.";
+"A novel MaxiK splice variant exhibits dominant-negative properties
+for surface expression.";
+-!- FUNCTION: Potassium channel activated by both membrane
+    depolarization or increase in cytosolic Ca(2+) that mediates
+    export of K(+). It is also activated by the concentration of
+    cytosolic Mg(2+). Its activation dampens the excitatory events
+    that elevate the cytosolic Ca(2+) concentration and/or depolarize
+    the cell membrane. It therefore contributes to repolarization of
+    the membrane potential. Plays a key role in controlling
+    excitability in a number of systems, such as regulation of the
+    contraction of smooth muscle, the tuning of hair cells in the
+    cochlea, regulation of transmitter release, and innate immunity.
+    In smooth muscles, its activation by high level of Ca(2+), caused
+    by ryanodine receptors in the sarcoplasmic reticulum, regulates
+    the membrane potential. In cochlea cells, its number and kinetic
+    properties partly determine the characteristic frequency of each
+    hair cell and thereby helps to establish a tonotopic map. Kinetics
+    of KCNMA1 channels are determined by alternative splicing,
+    phosphorylation status and its combination with modulating beta
+    subunits. Highly sensitive to both iberiotoxin (IbTx) and
+    charybdotoxin (CTX).
+-!- SUBUNIT: Homotetramer; which constitutes the calcium-activated
+    potassium channel. Interacts with beta subunits KCNMB1, KCNMB2,
+    KCNMB3 and KCNMB4. Beta subunits are accessory, and modulate its
+    activity (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Isoform 11: Endoplasmic reticulum; endoplasmic reticulum membrane;
+    multi-pass membrane protein. Note=Isoform 11 has a dominant-
+    negative effect on other isoforms, preventing their localization
+    to the cell membrane.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=11;
+      Comment=May be partially controlled by hormonal stress.
+      Additional isoforms seem to exist;
+    Name=1;
+      IsoId=Q62976-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q62976-2; Sequence=VSP_009970, VSP_009973, VSP_009976,
+                               VSP_009981;
+    Name=3;
+      IsoId=Q62976-3; Sequence=VSP_009970, VSP_009973, VSP_009976,
+                               VSP_009982;
+    Name=4; Synonyms=cvb2;
+      IsoId=Q62976-4; Sequence=VSP_009973, VSP_009976;
+    Name=5; Synonyms=B;
+      IsoId=Q62976-5; Sequence=VSP_009973, VSP_009975, VSP_009976;
+    Name=6; Synonyms=C;
+      IsoId=Q62976-6; Sequence=VSP_009972, VSP_009973, VSP_009976,
+                               VSP_009980;
+    Name=7; Synonyms=cvb1;
+      IsoId=Q62976-7; Sequence=VSP_009973, VSP_009976, VSP_009977,
+                               VSP_009980;
+    Name=8; Synonyms=STTEX;
+      IsoId=Q62976-8; Sequence=VSP_009974, VSP_009976, VSP_009980;
+    Name=9; Synonyms=A;
+      IsoId=Q62976-9; Sequence=VSP_009973, VSP_009976, VSP_009978,
+                               VSP_009979;
+    Name=10; Synonyms=SLON-1;
+      IsoId=Q62976-10; Sequence=VSP_009970, VSP_009976;
+    Name=11; Synonyms=SV1;
+      IsoId=Q62976-11; Sequence=VSP_009971;
+-!- DOMAIN: The S0 segment is essential for the modulation by the
+    accessory beta subunits KCNMB1, KCNMB2, KCNMB3 and KCNMB4 (By
+    similarity).
+-!- DOMAIN: The S4 segment, which is characterized by a series of
+    positively charged amino acids at every third position, is part of
+    the voltage-sensor (By similarity).
+-!- DOMAIN: The pore-forming domain (also referred as P region) is
+    imbedded into the membrane, and forms the selectivity filter of
+    the pore. It contains the signature sequence of potassium channels
+    that displays selectivity to potassium (By similarity).
+-!- DOMAIN: The RCK N-terminal domain mediates the
+    homotetramerization, thereby promoting the assembly of monomers
+    into functional potassium channel. It includes binding sites for
+    Ca(2+) and Mg(2+) (By similarity).
+-!- DOMAIN: The calcium bowl constitutes one of the Ca(2+) sensors and
+    probably acts as a Ca(2+)-binding site. There are however other
+    Ca(2+) sensors regions required for activation of the channel (By
+    similarity).
+-!- PTM: Phosphorylated (Probable). Phosphorylation by kinases such as
+    PKA and/or PKG. In smooth muscles, phosphorylation affects its
+    activity (By similarity).
+-!- MISCELLANEOUS: The protein was initially thought to contain two
+    functionally distinct parts: The core channel (from the N-terminus
+    to the S9 segment) that mediates the channel activity, and the
+    cytoplasmic tail (from the S9 segment to the C-terminus) that
+    mediates the calcium sensing. The situation is however more
+    complex, since the core channel contains binding sites for Ca(2+)
+    and Mg(2+).
+-!- SIMILARITY: Belongs to the potassium channel family. Calcium-
+    activated subfamily.
+-!- SIMILARITY: Contains 1 RCK N-terminal domain.
+Alternative splicing; Calcium; Endoplasmic reticulum; Ion transport;
+Ionic channel; Magnesium; Membrane; Metal-binding; Phosphorylation;
+Potassium; Potassium channel; Potassium transport; Transmembrane;
+Transport; Voltage-gated channel.
+TMSEVEN

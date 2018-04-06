@@ -1,0 +1,8 @@
+AC   Q72ZC1;
+UPF0173 metal-dependent hydrolase BCE_4747.
+"The genome sequence of Bacillus cereus ATCC 10987 reveals metabolic
+adaptations and a large plasmid related to Bacillus anthracis pXO1.";
+-!- SIMILARITY: Belongs to the UPF0173 family.
+ GO:0016787; F:hydrolase activity; IEA:HAMAP.
+Complete proteome; Hydrolase.
+TMZERO

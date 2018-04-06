@@ -1,0 +1,17 @@
+AC   P80495;
+Muscarinic toxin beta (MT-beta).
+"Muscarinic toxins from the black mamba Dendroaspis polylepis.";
+"Protein toxins that bind to muscarinic acetylcholine receptors.";
+"Kinetic evidence for different mechanisms of interaction of black
+mamba toxins MT alpha and MT beta with muscarinic receptors.";
+-!- FUNCTION: Binds reversibly to the muscarinic acetylcholine
+    receptor. The mechanism of toxin-receptor interaction comprise one
+    step.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the snake toxin family. Type A muscarinic
+    toxin subfamily.
+Acetylcholine receptor inhibitor; Direct protein sequencing;
+Neurotoxin; Postsynaptic neurotoxin; Toxin.
+TMZERO

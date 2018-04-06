@@ -1,0 +1,21 @@
+AC   Q6AE59;
+UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+(EC 6.3.2.13) (UDP-N-acetylmuramyl-tripeptide synthetase) (Meso-
+diaminopimelate-adding enzyme) (UDP-MurNAc-tripeptide synthetase).
+"The genome sequence of the Gram-positive sugarcane pathogen Leifsonia
+xyli subsp. xyli.";
+-!- FUNCTION: Cell wall formation. Diaminopimelic acid adding enzyme
+    (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + UDP-N-acetylmuramoyl-L-alanyl-D-
+    glutamate + meso-2,6-diaminoheptanedioate = ADP + phosphate + UDP-
+    N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diamino-
+    heptanedioate.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the murCDEF family.
+ GO:0008765; F:UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-...; IEA:HAMAP.
+ GO:0009252; P:peptidoglycan biosynthesis; IEA:HAMAP.
+ATP-binding; Cell cycle; Cell division; Cell shape; Cell wall;
+Complete proteome; Ligase; Nucleotide-binding;
+Peptidoglycan synthesis.
+TMZERO

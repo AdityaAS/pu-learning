@@ -1,0 +1,16 @@
+AC   P39064;
+Hypothetical protein ytxE.
+"Identification of genes involved in utilization of acetate and
+acetoin in Bacillus subtilis.";
+"Sequencing and functional annotation of the Bacillus subtilis genes
+in the 200 kb rrnB-dnaB region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: May be involved in some transport function.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type II membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the motB family.
+-!- SIMILARITY: Contains 1 OmpA-like domain.
+Complete proteome; Hypothetical protein; Membrane; Transmembrane;
+Transport.
+TMONE

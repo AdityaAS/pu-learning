@@ -1,0 +1,12 @@
+AC   Q59PE7; Q59PL8;
+Protein BCP1.
+"The diploid genome sequence of Candida albicans.";
+-!- FUNCTION: Involved in nuclear export, actin cytoskeleton
+    organization and vesicular transport (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the BCP1 family.
+-!- CAUTION: Ref.1 (EAK92410) sequence differs from that shown due to
+    erroneous gene model prediction.
+Nuclear protein; Protein transport; Transport.
+TMZERO

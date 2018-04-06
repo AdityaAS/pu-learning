@@ -1,0 +1,10 @@
+AC   P60783; P31056;
+UPF0078 membrane protein ygiH.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the UPF0078 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMFIVE

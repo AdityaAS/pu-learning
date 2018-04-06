@@ -1,0 +1,15 @@
+AC   P16571;
+Allophycocyanin beta chain.
+"Genes encoding core components of the phycobilisome in the
+cyanobacterium Calothrix sp. strain PCC 7601: occurrence of a
+multigene family.";
+-!- FUNCTION: Light-harvesting photosynthetic bile pigment-protein
+    from the phycobiliprotein complex. Allophycocyanin has a maximum
+    absorption at approximately 650 nanometers.
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain.
+-!- PTM: Contains one covalently linked phycocyanobilin chromophore
+    (By similarity).
+-!- SIMILARITY: Belongs to the phycobiliprotein family.
+Bile pigment; Chromophore; Electron transport; Methylation;
+Photosynthesis; Phycobilisome; Transport.
+TMZERO

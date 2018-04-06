@@ -1,0 +1,15 @@
+AC   Q6MU20;
+50S ribosomal protein L20.
+"The genome sequence of Mycoplasma mycoides subsp. mycoides SC type
+strain PG1T, the causative agent of contagious bovine pleuropneumonia
+(CBPP).";
+-!- FUNCTION: Binds directly to 23S ribosomal RNA and is necessary for
+    the in vitro assembly process of the 50S ribosomal subunit. It is
+    not involved in the protein synthesizing functions of that subunit
+    (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L20P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+ GO:0000027; P:ribosomal large subunit assembly and mainte...; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

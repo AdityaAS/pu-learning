@@ -1,0 +1,27 @@
+AC   P0AG78; P06997; Q2M8L3;
+Sulfate-binding protein precursor (Sulfate starvation-induced protein
+2) (SSI2).
+"Nucleotide sequence and high-level expression of the major
+Escherichia coli phosphofructokinase.";
+"Engineered interdomain disulfide in the periplasmic receptor for
+sulfate transport reduces flexibility. Site-directed mutagenesis and
+ligand-binding studies.";
+"Analysis of the Escherichia coli genome. III. DNA sequence of the
+region from 87.2 to 89.2 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Analysis of global responses by protein and peptide fingerprinting of
+proteins isolated by two-dimensional gel electrophoresis. Application
+to the sulfate-starvation response of Escherichia coli.";
+-!- FUNCTION: This protein specifically binds sulfate and is involved
+    in its transmembrane transport.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- INDUCTION: Repressed by sulfate or cysteine.
+-!- SIMILARITY: Belongs to the prokaryotic sulfate binding protein
+    family.
+Complete proteome; Direct protein sequencing; Periplasmic; Signal;
+Sulfate transport; Transport.
+TMZERO

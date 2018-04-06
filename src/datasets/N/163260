@@ -1,0 +1,14 @@
+AC   Q7WL33;
+30S ribosomal protein S18.
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+-!- FUNCTION: Binds as a heterodimer with protein S6 to the central
+    domain of the 16S rRNA, where it helps stabilize the platform of
+    the 30S subunit (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Forms a tight
+    heterodimer with protein S6 (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S18P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

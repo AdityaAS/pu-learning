@@ -1,0 +1,16 @@
+AC   P73410;
+Cysteine synthase (EC 2.5.1.47) (O-acetylserine sulfhydrylase) (O-
+acetylserine (Thiol)-lyase) (CSase).
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- CATALYTIC ACTIVITY: 3-O-acetyl-L-serine + H(2)S = L-cysteine +
+    acetate.
+-!- COFACTOR: Pyridoxal phosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-cysteine biosynthesis; L-
+    cysteine from L-serine: step 2 [final step].
+-!- SIMILARITY: Belongs to the cysteine synthase/cystathionine beta-
+    synthase family.
+Amino-acid biosynthesis; Complete proteome; Cysteine biosynthesis;
+Pyridoxal phosphate; Transferase.
+TMZERO

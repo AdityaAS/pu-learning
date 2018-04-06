@@ -1,0 +1,20 @@
+AC   Q6WXV7; Q6WXV8;
+Protocadherin-11 X-linked precursor (Protocadherin-11) (Protocadherin
+on the X chromosome).
+"Protocadherin X/Y, a neural cell surface adhesion molecule subject to
+differential and domain-specific selection in the course of hominid
+evolution.";
+-!- FUNCTION: Potential calcium-dependent cell-adhesion protein (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q6WXV7-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q6WXV7-2; Sequence=VSP_017994, VSP_017995;
+-!- SIMILARITY: Contains 7 cadherin domains.
+Alternative splicing; Calcium; Cell adhesion; Glycoprotein; Membrane;
+Repeat; Signal; Transmembrane.
+TMONE

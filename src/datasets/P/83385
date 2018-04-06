@@ -1,0 +1,10 @@
+AC   Q03945;
+Invasin ipaB (62 kDa antigen).
+"Nucleotide sequence of the ipaBCD structural genes of Shigella
+dysenteriae.";
+-!- FUNCTION: Associated with the entry of the bacteria into colonic
+    epithelial cells.
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=Secreted through a
+    type-III system (By similarity).
+Inner membrane; Membrane; Plasmid; Transmembrane; Virulence.
+TMTWO

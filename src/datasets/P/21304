@@ -1,0 +1,21 @@
+AC   Q05596;
+Cobalt import ATP-binding protein cbiO.
+"Characterization of the cobalamin (vitamin B12) biosynthetic genes of
+Salmonella typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Part of the ABC transporter complex cbiONQ involved in
+    cobalt import. Responsible for energy coupling to the transport
+    system.
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (cbiO), fused or not, two transmembrane proteins (cbiQ) and a
+    solute-binding protein (cbiN) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Cobalt importer
+    (TC 3.A.1.18.1) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Cobalt; Cobalt transport; Complete proteome;
+Inner membrane; Ion transport; Membrane; Nucleotide-binding;
+Transport.
+TMZERO

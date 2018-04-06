@@ -1,0 +1,18 @@
+AC   P54144;
+Ammonium transporter 1 member 1 precursor (AtAMT1;1).
+"Identification of a high affinity NH4+ transporter from plants.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"Three functional transporters for constitutive, diurnally regulated,
+and starvation-induced uptake of ammonium into Arabidopsis roots.";
+"Phosphoproteomics of the Arabidopsis plasma membrane and a new
+phosphorylation site database.";
+-!- FUNCTION: Involved in high affinity ammonium uptake.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: High expression in root.
+-!- SIMILARITY: Belongs to the ammonium transporter (TC 2.A.49)
+    family.
+Ammonia transport; Membrane; Phosphorylation; Signal; Transmembrane;
+Transport.
+TMNINE

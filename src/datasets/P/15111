@@ -1,0 +1,19 @@
+AC   P11718;
+Probable proton ATPase 1A (EC 3.6.3.6) (LDH1A protein).
+"Structure and expression of a tandem gene pair in Leishmania donovani
+that encodes a protein structurally homologous to eucaryotic cation-
+transporting ATPases.";
+"A tandem pair of Leishmania donovani cation transporting ATPase genes
+encode isoforms that are differentially expressed.";
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DEVELOPMENTAL STAGE: More abundant in promastigotes than
+    amastigotes.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIIA subfamily.
+ GO:0008553; F:hydrogen-exporting ATPase activity, phospho...; IEA:EC.
+ATP-binding; Hydrogen ion transport; Hydrolase; Ion transport;
+Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Transmembrane; Transport.
+TMTEN

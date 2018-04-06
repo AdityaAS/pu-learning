@@ -1,0 +1,14 @@
+AC   Q6FD84;
+Urease subunit beta (EC 3.5.1.5) (Urea amidohydrolase subunit beta).
+"Unique features revealed by the genome sequence of Acinetobacter sp.
+ADP1, a versatile and naturally transformation competent bacterium.";
+-!- CATALYTIC ACTIVITY: Urea + H(2)O = CO(2) + 2 NH(3).
+-!- PATHWAY: Nitrogen metabolism; urea degradation; CO(2) and NH(3)
+    from urea (urease route): single step [final step].
+-!- SUBUNIT: Heterotrimer of ureA (gamma), ureB (beta) and ureC
+    (alpha) subunits. Three heterotrimers associate to form the active
+    enzyme (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the urease beta subunit family.
+Complete proteome; Hydrolase.
+TMZERO

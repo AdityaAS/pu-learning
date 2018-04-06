@@ -1,0 +1,19 @@
+AC   P15729;
+Glucose transport protein.
+"Molecular and genetical analysis of the fructose-glucose transport
+system in the cyanobacterium Synechocystis PCC6803.";
+"Sequence conservation among the glucose transporter from the
+cyanobacterium Synechocystis sp. PCC 6803 and mammalian glucose
+transporters.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. I. Sequence features in the 1 Mb
+region from map positions 64% to 92% of the genome.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Membrane; Sugar transport; Transmembrane;
+Transport.
+TMTWELVE

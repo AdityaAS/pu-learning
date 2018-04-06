@@ -1,0 +1,15 @@
+AC   Q89B44;
+ATP synthase C chain (EC 3.6.3.14) (Lipid-binding protein).
+"Reductive genome evolution in Buchnera aphidicola.";
+-!- FUNCTION: This is one of the three chains of the nonenzymatic
+    component (CF(0) subunit) of the ATPase complex.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SIMILARITY: Belongs to the ATPase C chain family.
+CF(0); Complete proteome; Hydrogen ion transport; Ion transport;
+Lipid-binding; Membrane; Transmembrane; Transport.
+TMZERO

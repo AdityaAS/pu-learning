@@ -1,0 +1,30 @@
+AC   P0AGF4; P09098; Q2M6S3;
+D-xylose-proton symporter (D-xylose transporter).
+"The cloning and DNA sequence of the gene xylE for xylose-proton
+symport in Escherichia coli K12.";
+"Mammalian and bacterial sugar transport proteins are homologous.";
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"3' end of the malEFG operon in E.coli: localization of the
+transcription termination site.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Uptake of D-xylose across the boundary membrane with the
+    concomitant transport of protons into the cell (symport system).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By xylose.
+-!- MISCELLANEOUS: E.coli has two D-xylose transport systems that
+    accumulate sugar against a concentration gradient: the xylE system
+    which utilizes the electrochemical gradient of protons and that is
+    insensitive to cold osmotic shock and the xylF system that uses a
+    high-energy phosphate compound and is sensitive to cold osmotic
+    shock.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Inner membrane; Membrane; Sugar transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,23 @@
+AC   P0A382; P05069; P05628;
+Type-1Aa cytolytic delta-endotoxin (27 kDa cytolytic toxin).
+"Bacillus thuringiensis var. israelensis delta-endotoxin. Nucleotide
+sequence and characterization of the transcripts in Bacillus
+thuringiensis and Escherichia coli.";
+"Bacillus thuringiensis var. israelensis delta-endotoxin. Cloning and
+expression of the toxin in sporogenic and asporogenic strains of
+Bacillus subtilis.";
+"Single amino acid changes in the Bacillus thuringiensis var.
+israelensis delta-endotoxin affect the toxicity and expression of the
+protein.";
+"Molecular cloning and the nucleotide sequence of the Mr 28 000
+crystal protein gene of Bacillus thuringiensis subsp. israelensis.";
+-!- FUNCTION: Kills the larvae of dipteran insects by making pores in
+    the epithelial cell membrane of the insect midgut. Acts on
+    mosquitos and black flies.
+-!- DEVELOPMENTAL STAGE: The crystal protein is produced during
+    sporulation and is accumulated both as an inclusion and as part of
+    the spore coat.
+-!- PTM: Active after proteolytic processing.
+-!- SIMILARITY: Belongs to the cyt1/cyt2 endotoxin family.
+Plasmid; Sporulation; Toxin.
+TMZERO

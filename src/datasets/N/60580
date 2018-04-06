@@ -1,0 +1,18 @@
+AC   P32456; Q86TB0;
+Interferon-induced guanylate-binding protein 2 (GTP-binding protein 2)
+(Guanine nucleotide-binding protein 2) (GBP-2) (HuGBP-2).
+"Interferon-induced guanylate-binding proteins lack an N(T)KXD
+consensus motif and bind GMP in addition to GDP and GTP.";
+"GTPase properties of the interferon-induced human guanylate-binding
+protein 2.";
+-!- FUNCTION: Binds GTP, GDP and GMP. Hydrolyzes GTP very efficiently;
+    GDP rather than GMP is the major reaction product.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; cytoplasmic
+    side (Potential).
+-!- INDUCTION: By interferon gamma during macrophage activation.
+-!- SIMILARITY: Belongs to the GBP family.
+ GO:0005525; F:GTP binding; TAS:ProtInc.
+ GO:0006955; P:immune response; TAS:ProtInc.
+GTP-binding; Interferon induction; Lipoprotein; Membrane;
+Nucleotide-binding; Prenylation.
+TMZERO

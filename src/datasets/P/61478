@@ -1,0 +1,16 @@
+AC   Q01888;
+Grave disease carrier protein (GDC) (Mitochondrial solute carrier
+protein homolog) (Solute carrier family 25 member 16).
+"Sequence and pattern of expression of a bovine homologue of a human
+mitochondrial transport protein associated with Grave's disease.";
+-!- FUNCTION: Required for the accumulation of coenzyme A in the
+    mitochondrial matrix (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (By similarity).
+-!- TISSUE SPECIFICITY: Mostly in thyroid, liver, lung, kidney and to
+    a lesser extent in heart and skeletal muscle.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+Inner membrane; Membrane; Mitochondrion; Repeat; Transmembrane;
+Transport.
+THTHREE

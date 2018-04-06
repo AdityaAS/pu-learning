@@ -1,0 +1,60 @@
+AC   Q96J66; Q8TDJ0; Q96JA6; Q9BX80;
+ATP-binding cassette transporter sub-family C member 11 (Multidrug
+resistance-associated protein 8).
+"Two new genes from the human ATP-binding cassette transporter
+superfamily, ABCC11 and ABCC12, tandemly duplicated on chromosome
+16q12.";
+"Multiple splicing variants of two new human ATP-binding cassette
+transporters, ABCC11 and ABCC12.";
+"MRP8, a new member of ABC transporter superfamily, identified by EST
+database mining and gene prediction program, is highly expressed in
+breast cancer.";
+"MRP8, ATP-binding cassette C11 (ABCC11), is a cyclic nucleotide
+efflux pump and a resistance factor for fluoropyrimidines 2',3'-
+dideoxycytidine and 9'-(2'-phosphonylmethoxyethyl)adenine.";
+"Transport of bile acids, sulfated steroids, estradiol 17-beta-D-
+glucuronide, and leukotriene C4 by human multidrug resistance protein
+8 (ABCC11).";
+"A SNP in the ABCC11 gene is the determinant of human earwax type.";
+-!- FUNCTION: Participates in physiological processes involving bile
+    acids, conjugated steroids and cyclic nucleotides. Enhances the
+    cellular extrusion of cAMP and cGMP. Stimulates the ATP-dependent
+    uptake of a range of physiological and synthetic lipophilic
+    anions, including the glutathione S-conjugates leukotriene C4 and
+    dinitrophenyl S-glutathione, steroid sulfates such as
+    dehydroepiandrosterone 3-sulfate (DHEAS) and estrone 3-sulfate,
+    glucuronides such as estradiol 17-beta-D-glucuronide
+    (E(2)17betaG), the monoanionic bile acids glycocholate and
+    taurocholate, and methotrexate. Probably functions to secrete
+    earwax.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q96J66-1; Sequence=Displayed;
+    Name=2; Synonyms=Isoform A;
+      IsoId=Q96J66-2; Sequence=VSP_017351;
+-!- TISSUE SPECIFICITY: Expressed in many tissues. Not expressed in
+    kidney, spleen and colon. Highly expressed in breast cancer.
+    Expressed at moderate levels in normal breast and testis and at
+    very low levels in liver, brain and placenta.
+-!- POLYMORPHISM: The allele with Arg-184 is responsible for the dry
+    earwax phenotype [MIM:117800]. Human earwax is a mendelian trait
+    consisting of wet and dry types. The wet earwax is brownish and
+    sticky, whereas the dry type lacks cerumen. The wet cerumen
+    phenotype is completely dominant. The dry type is seen frequently
+    (80-95%) among East Asians, but uncommon (0-3%) in populations of
+    European and African origins. Intermediate frequencies (30-50%) of
+    the dry type are seen in populations of Southern Asia, the Pacific
+    Islands, Central Asia and Asia Minor, as well as among the Native
+    North American and Inuit of Asian ancestry.
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+-!- WEB RESOURCE: NAME=Protein Spotlight;
+    NOTE=Of earwax and migration - Issue 67 of February 2006;
+    URL="http://www.expasy.org/spotlight/back_issues/sptlt067.shtml".
+Alternative splicing; ATP-binding; Glycoprotein; Membrane;
+Nucleotide-binding; Polymorphism; Repeat; Transmembrane; Transport.
+TMELEVEN

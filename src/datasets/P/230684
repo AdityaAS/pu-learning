@@ -1,0 +1,18 @@
+AC   P39603;
+Spore morphogenesis and germination protein ywcE.
+"Bacillus subtilis genome project: cloning and sequencing of the 97 kb
+region from 325 degrees to 333 degrees.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"A gene encoding a holin-like protein involved in spore morphogenesis
+and spore germination in Bacillus subtilis.";
+-!- FUNCTION: Required for proper spore morphogenesis. Important for
+    spore germination.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+    Note=Inner and outer prespore membrane. Mother cell membrane.
+-!- DEVELOPMENTAL STAGE: Expressed at the onset of sporulation.
+-!- INDUCTION: Repressed by abrB during growth and activated at the
+    onset of sporulation in a spo0A-dependent manner.
+-!- SIMILARITY: Belongs to the ywcE family.
+Complete proteome; Germination; Membrane; Transmembrane.
+THTHREE

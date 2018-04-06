@@ -1,0 +1,25 @@
+AC   Q9KTJ4;
+D,D-heptose 1,7-bisphosphate phosphatase (EC 3.1.3.-) (D-glycero-D-
+manno-heptose 1,7-bisphosphate phosphatase).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+"Novel pathways for biosynthesis of nucleotide-activated glycero-
+manno-heptose precursors of bacterial glycoproteins and cell surface
+polysaccharides.";
+-!- FUNCTION: Converts the D-glycero-beta-D-manno-heptose 1,7-
+    bisphosphate intermediate into D-glycero-beta-D-manno-heptose 1-
+    phosphate by removing the phosphate group at the C-7 position (By
+    similarity).
+-!- CATALYTIC ACTIVITY: D-glycero-beta-D-manno-heptose 1,7-
+    bisphosphate + H(2)O = D-glycero-beta-D-manno-heptose 1-phosphate
+    + phosphate.
+-!- PATHWAY: Inner core lipopolysaccharide biosynthesis; ADP-L-
+    glycero-beta-D-manno-heptose biosynthesis; third step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- MISCELLANEOUS: This enzyme is insensitive to the anomeric
+    configuration of the D-glycero-D-manno-heptose 1,7-bisphosphate
+    (By similarity).
+-!- SIMILARITY: Belongs to the gmhB family.
+Carbohydrate metabolism; Complete proteome; Hydrolase;
+Lipopolysaccharide biosynthesis.
+TMZERO

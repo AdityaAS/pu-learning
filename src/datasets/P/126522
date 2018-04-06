@@ -1,0 +1,19 @@
+AC   P37602; P37603; Q56120;
+Thiosulfate reductase cytochrome B subunit.
+"Sequence analysis of the phs operon in Salmonella typhimurium and the
+contribution of thiosulfate reduction to anaerobic energy
+metabolism.";
+"Cloning and characterization of a gene cluster, phsBCDEF, necessary
+for the production of hydrogen sulfide from thiosulfate by Salmonella
+typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Membrane anchoring protein for the phs system
+    oxidoreductase which produces hydrogen sulfide from thiosulfate
+    (Potential).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- CAUTION: Ref.2 (AAA68434) sequence differs from that shown due to
+    a frameshift in position 196.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMFIVE

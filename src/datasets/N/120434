@@ -1,0 +1,21 @@
+AC   P00611; Q9I848;
+Phospholipase A2 isozyme 1 precursor (EC 3.1.1.4) (Phospholipase A2
+isozyme I) (Phosphatidylcholine 2-acylhydrolase) (GL5-1).
+"A comparative analysis of invaded sequences from group IA
+phospholipase A(2) genes provides evidence about the divergence period
+of genes groups and snake families.";
+"Amino acid sequences of three phospholipases A I, III and IV from the
+venom of the sea snake Laticauda semifasciata.";
+"Correction of amino acid sequence of phospholipase A2 I from the
+venom of Laticauda semifasciata (Erabu sea snake).";
+-!- FUNCTION: PA2 catalyzes the calcium-dependent hydrolysis of the 2-
+    acyl groups in 3-sn-phosphoglycerides.
+-!- CATALYTIC ACTIVITY: Phosphatidylcholine + H(2)O = 1-
+    acylglycerophosphocholine + a carboxylate.
+-!- COFACTOR: Binds 1 calcium ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the phospholipase A2 family.
+Calcium; Direct protein sequencing; Hydrolase; Lipid degradation;
+Metal-binding; Signal.
+TMZERO

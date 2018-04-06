@@ -1,0 +1,16 @@
+AC   Q56828;
+Outer membrane protein F precursor (Porin ompF) (Outer membrane
+protein opnP).
+"Functional and regulatory analysis of the OmpF-like porin, OpnP, of
+the symbiotic bacterium Xenorhabdus nematophilus.";
+-!- FUNCTION: OmpF is a porin that forms passive diffusion pores which
+    allow small molecular weight hydrophilic materials across the
+    outer membrane. It is also a receptor for the bacteriophage T2 (By
+    similarity).
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the Gram-negative porin family.
+Ion transport; Membrane; Outer membrane; Porin; Signal; Transmembrane;
+Transport.
+TMSEVENTEEN

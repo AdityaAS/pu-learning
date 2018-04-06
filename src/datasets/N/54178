@@ -1,0 +1,12 @@
+AC   Q7N7I1;
+Probable Fe(2+)-trafficking protein.
+"The genome sequence of the entomopathogenic bacterium Photorhabdus
+luminescens.";
+-!- FUNCTION: Could be a mediator in iron transactions between iron
+    acquisition and iron-requiring processes, such as synthesis and/or
+    repair of Fe-S clusters in biosynthetic enzymes (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the Fe(2+)-trafficking protein family.
+ GO:0005506; F:iron ion binding; IEA:HAMAP.
+Complete proteome; Iron.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q6HAA2;
+Crotasin precursor.
+"Identification of crotasin, a crotamine-related gene of Crotalus
+durissus terrificus.";
+-!- FUNCTION: Not known.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Highly expressed in pancreas, heart, liver,
+    brain and kidney. Expressed to a low extent in the venom gland.
+-!- SIMILARITY: Belongs to the snake toxin myotoxin family.
+ GO:0005575; C:cellular_component; NAS:UniProtKB.
+ GO:0003674; F:molecular_function; NAS:UniProtKB.
+ GO:0008150; P:biological_process; NAS:UniProtKB.
+Signal.
+TMZERO

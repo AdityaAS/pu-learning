@@ -1,0 +1,19 @@
+AC   Q03755; Q18693;
+Cuticlin-1 precursor.
+"cut-1 a Caenorhabditis elegans gene coding for a dauer-specific
+noncollagenous component of the cuticle.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Component of the cuticles. It forms a ribbon
+    approximately 2 microns wide running along the lateral lines
+    underneath the alae. Contributes to the formation of extracellular
+    envelopes protecting the organism from the environment.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Localized in a narrow band not exposed to the
+    exterior, running underneath the alae.
+-!- DEVELOPMENTAL STAGE: Expressed during dauer larva formation.
+-!- DOMAIN: The small repeats A-A-P-[AVI] are also present in many
+    proteins constituting the protective envelope of other species.
+-!- SIMILARITY: Contains 1 ZP domain.
+Complete proteome; Cuticle; Repeat; Signal.
+TMZERO

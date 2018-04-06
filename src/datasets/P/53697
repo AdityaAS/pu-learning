@@ -1,0 +1,34 @@
+AC   P24183; P78261;
+Formate dehydrogenase, nitrate-inducible, major subunit (EC 1.2.1.2)
+(Formate dehydrogenase-N subunit alpha) (FDH-N subunit alpha)
+(Anaerobic formate dehydrogenase major subunit).
+"Nitrate-inducible formate dehydrogenase in Escherichia coli K-12. I.
+Nucleotide sequence of the fdnGHI operon and evidence that opal (UGA)
+encodes selenocysteine.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Molecular basis of proton motive force generation: structure of
+formate dehydrogenase-N.";
+-!- FUNCTION: Formate dehydrogenase allows E.coli to use formate as
+    major electron donor during anaerobic respiration, when nitrate is
+    used as electron acceptor. The alpha subunit forms the active
+    site.
+-!- CATALYTIC ACTIVITY: Formate + NAD(+) = CO(2) + NADH.
+-!- COFACTOR: Binds 1 molybdenum ion per subunit.
+-!- COFACTOR: Binds 2 molybdopterin guanine dinucleotide (MGD) groups
+    per subunit.
+-!- COFACTOR: Binds 1 4Fe-4S cluster per subunit.
+-!- PATHWAY: Anaerobic nitrate respiration.
+-!- SUBUNIT: Trimer of heterotrimers, consisting of subunits alpha,
+    beta and gamma.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- INDUCTION: By nitrate under anaerobic conditions.
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+3D-structure; 4Fe-4S; Complete proteome; Iron; Iron-sulfur;
+Metal-binding; Molybdenum; NAD; Oxidoreductase; Periplasmic; Selenium;
+Selenocysteine.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P55061; O14938; Q643A7; Q96J50;
+Bax inhibitor 1 (BI-1) (Testis-enhanced gene transcript)
+(Transmembrane BAX inhibitor motif-containing protein 6).
+"Identification of a novel conserved human gene, TEGT.";
+"Eukaryotic homologs of BAX inhibitor-1 (BI-1) suppresses BAX- and
+hydrogen peroxide-induced cell death in endothelial cell lines.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Bax inhibitor-1, a mammalian apoptosis suppressor identified by
+functional screening in yeast.";
+-!- FUNCTION: Suppressor of apoptosis.
+-!- SUBUNIT: Interacts with BCL2 and BCL2L1/BCLX.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Highly abundant in testis.
+-!- SIMILARITY: Belongs to the BI1 family.
+ GO:0005783; C:endoplasmic reticulum; TAS:ProtInc.
+ GO:0005626; C:insoluble fraction; TAS:ProtInc.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005634; C:nucleus; TAS:ProtInc.
+Apoptosis; Membrane; Transmembrane.
+TMSIX

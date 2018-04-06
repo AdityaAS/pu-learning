@@ -1,0 +1,26 @@
+AC   P09456;
+cAMP-dependent protein kinase type I-alpha regulatory subunit.
+"Molecular cloning and cDNA structure of the regulatory subunit of
+type I cAMP-dependent protein kinase from rat brain.";
+-!- SUBUNIT: The inactive form of the enzyme is composed of two
+    regulatory chains and two catalytic chains. Activation by cAMP
+    produces two active catalytic monomers and a regulatory dimer that
+    binds four cAMP molecules. PRKAR1A also interacts with RFC2; the
+    complex may be involved in cell survival. Interacts with AKAP4 (By
+    similarity).
+-!- PTM: The pseudophosphorylation site binds to the substrate-binding
+    region of the catalytic chain, resulting in the inhibition of its
+    activity.
+-!- MISCELLANEOUS: Two types of regulatory chains are found: type I,
+    which predominates in skeletal muscle, and type II, which
+    predominates in cardiac muscle.
+-!- SIMILARITY: Belongs to the cAMP-dependent kinase regulatory chain
+    family.
+-!- SIMILARITY: Contains 2 cyclic nucleotide-binding domains.
+ GO:0008603; F:cAMP-dependent protein kinase regulator act...; TAS:RGD.
+ GO:0005515; F:protein binding; IDA:RGD.
+ GO:0007143; P:female meiosis; IEP:RGD.
+ GO:0045835; P:negative regulation of meiosis; IEP:RGD.
+Acetylation; cAMP; cAMP-binding; Nucleotide-binding; Phosphorylation;
+Repeat.
+TMZERO

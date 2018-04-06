@@ -1,0 +1,14 @@
+AC   Q6CJA0;
+Protein transport protein SEC22.
+"Genome evolution in yeasts.";
+-!- FUNCTION: Required for transport from the ER to the Golgi complex
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type IV membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the synaptobrevin family.
+-!- SIMILARITY: Contains 1 longin domain.
+-!- SIMILARITY: Contains 1 v-SNARE coiled-coil homology domain.
+Coiled coil; Complete proteome; Endoplasmic reticulum;
+ER-Golgi transport; Golgi apparatus; Membrane; Protein transport;
+Transmembrane; Transport.
+TMONE

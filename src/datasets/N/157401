@@ -1,0 +1,23 @@
+AC   Q8SR75;
+DNA-directed RNA polymerase II polypeptide 2 (EC 2.7.7.6) (RNA
+polymerase II subunit 2).
+"Genome sequence and gene compaction of the eukaryote parasite
+Encephalitozoon cuniculi.";
+-!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+    of DNA into RNA using the four ribonucleoside triphosphates as
+    substrates.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: RNA polymerase II consists of 12 different subunits. This
+    subunit is the second largest component of RNA polymerase II (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- MISCELLANEOUS: Three distinct zinc-containing RNA polymerases are
+    found in eukaryotic nuclei: polymerase I for the ribosomal RNA
+    precursor, polymerase II for the mRNA precursor, and polymerase
+    III for 5S and tRNA genes.
+-!- SIMILARITY: Belongs to the RNA polymerase beta chain family.
+Complete proteome; DNA-directed RNA polymerase; Metal-binding;
+Nuclear protein; Nucleotidyltransferase; Transcription; Transferase;
+Zinc; Zinc-finger.
+TMZERO

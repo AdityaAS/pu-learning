@@ -1,0 +1,27 @@
+AC   Q9VF36;
+Acylphosphatase-2 (EC 3.6.1.7) (Acylphosphate phosphohydrolase 2)
+(AcPDro2).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"Characterization of a novel Drosophila melanogaster
+acylphosphatase.";
+"Three-dimensional structural characterization of a novel Drosophila
+melanogaster acylphosphatase.";
+-!- CATALYTIC ACTIVITY: An acylphosphate + H(2)O = a carboxylate +
+    phosphate.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=0.80 mM for benzoylphosphate;
+    pH dependence:
+      Optimum pH is 4.8-5.8;
+-!- MASS SPECTROMETRY: MW=11778; METHOD=Electrospray; RANGE=1-102;
+    NOTE=Ref.3.
+-!- SIMILARITY: Belongs to the acylphosphatase family.
+-!- SIMILARITY: Contains 1 acylphosphatase-like domain.
+ GO:0005737; C:cytoplasm; TAS:UniProtKB.
+ GO:0003998; F:acylphosphatase activity; IDA:UniProtKB.
+ GO:0016787; F:hydrolase activity; IDA:UniProtKB.
+ GO:0044237; P:cellular metabolism; TAS:UniProtKB.
+3D-structure; Complete proteome; Hydrolase.
+TMZERO

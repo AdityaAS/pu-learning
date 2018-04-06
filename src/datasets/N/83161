@@ -1,0 +1,19 @@
+AC   P49899;
+Type III iodothyronine deiodinase (EC 1.97.1.11) (Type-III 5'
+deiodinase) (DIOIII) (Type 3 DI) (5DIII) (XL-15).
+"A thyroid hormone-regulated gene in Xenopus laevis encodes a type III
+iodothyronine 5-deiodinase.";
+-!- FUNCTION: Responsible for the deiodination of T4 (3,5,3',5'-
+    tetraiodothyronine) into RT3 (3,3',5'-triiodothyronine) and of T3
+    into T2 (3,3'-diiodothyronine). May play a protective role in
+    selected tissues by preventing their exposure to inappropriately
+    timed or excessive levels of thyroid hormone.
+-!- CATALYTIC ACTIVITY: 3,3',5'-triiodo-L-thyronine + iodide + A +
+    H(+) = L-thyroxine + AH(2).
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type II membrane
+    protein (By similarity). Endosome; endosomal membrane; single-pass
+    type II membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the iodothyronine deiodinase family.
+Membrane; Oxidoreductase; Selenium; Selenocysteine; Signal-anchor;
+Thyroid hormones biosynthesis; Transmembrane.
+TMONE

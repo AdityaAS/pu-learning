@@ -1,0 +1,17 @@
+AC   P18767;
+Beta-(1-->2)glucan export ATP-binding protein ndvA.
+"The ndvA gene product of Rhizobium meliloti is required for beta-
+(1-->2)glucan production and has homology to the ATP-binding export
+protein HlyB.";
+"Analysis of the chromosome sequence of the legume symbiont
+Sinorhizobium meliloti strain 1021.";
+-!- FUNCTION: Involved in the export of beta-(1,2)-glucan which are
+    required for nodulation of legume roots.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Membrane; Nodulation;
+Nucleotide-binding; Sugar transport; Transmembrane; Transport.
+TMSIX

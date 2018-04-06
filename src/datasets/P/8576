@@ -1,0 +1,41 @@
+AC   P53386; O74680;
+Aquaporin-1.
+"Aquaporins in Saccharomyces. Genetic and functional distinctions
+between laboratory and wild-type strains.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Molecular and functional study of AQY1 from Saccharomyces cerevisiae:
+role of the C-terminal domain.";
+"Polymorphism of Saccharomyces cerevisiae aquaporins.";
+"Aquaporin expression correlates with freeze tolerance in baker's
+yeast, and overexpression improves freeze tolerance in industrial
+strains.";
+"Topology models for 37 Saccharomyces cerevisiae membrane proteins
+based on C-terminal reporter fusions and predictions.";
+"Aquaporin-mediated improvement of freeze tolerance of Saccharomyces
+cerevisiae is restricted to rapid freezing conditions.";
+"The Saccharomyces cerevisiae aquaporin Aqy1 is involved in
+sporulation.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Water channel required to facilitate the transport of
+    water across membranes. Involved in sporulation, freeze tolerance
+    and osmotolerance. Is nonfunctional in most laboratory strains.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein. Cell membrane; multi-pass
+    membrane protein.
+-!- DEVELOPMENTAL STAGE: Expressed in spores.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- POLYMORPHISM: In strain S288c / AB972, a natural frameshift in
+    position 294 changes the frame and leads to a non-functional
+    protein.
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0015250; F:water channel activity; IGI:SGD.
+ GO:0030437; P:sporulation (sensu Fungi); IMP:SGD.
+ GO:0006833; P:water transport; IMP:SGD.
+Complete proteome; Membrane; Repeat; Transmembrane; Transport.
+TMSIX

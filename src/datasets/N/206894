@@ -1,0 +1,15 @@
+AC   P69285;
+Protein W.
+"Cloning and sequencing of the polymerase gene (P) of Sendai virus
+(strain Fushimi).";
+-!- RNA EDITING: Modified_positions=318; Note=Partially edited. RNA
+    editing at this position consists of an insertion of one or two
+    guanine nucleotides. The sequence displayed here is the W protein,
+    derived from the +2G edited RNA. The unedited RNA gives rise to
+    the P protein (AC P14252), the +1G edited RNA gives rise to the V
+    protein (AC P69284).
+-!- MISCELLANEOUS: The P/V/C gene has two overlapping open reading
+    frames. One encodes the P/V/W proteins and the other the C/Y
+    proteins.
+Phosphorylation; RNA editing.
+TMZERO

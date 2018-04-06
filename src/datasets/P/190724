@@ -1,0 +1,11 @@
+AC   P18177;
+Toxin B.
+"Nucleotide sequence of Clostridium difficile toxin B gene.";
+"Purification and characterization of toxin B from Clostridium
+difficile.";
+"Comparative sequence analysis of the Clostridium difficile toxins A
+and B.";
+-!- FUNCTION: Cytotoxin.
+-!- SIMILARITY: Contains 18 cell wall-binding repeats.
+3D-structure; Direct protein sequencing; Repeat; Toxin.
+TMZERO

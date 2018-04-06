@@ -1,0 +1,24 @@
+AC   P26023; O76914; Q24519; Q95SA5; Q9W4T3;
+Pre-intermoult gene 1 protein precursor (Gland-specific protein).
+"Upstream sequences of dosage-compensated and non-compensated alleles
+of the larval secretion protein gene Sgs-4 in Drosophila.";
+"Molecular organization of the Drosophila melanogaster Pig-1 gene.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"From sequence to chromosome: the tip of the X chromosome of D.
+melanogaster.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: Not known.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=A;
+      IsoId=P26023-1; Sequence=Displayed;
+    Name=B;
+      IsoId=P26023-2; Sequence=VSP_009275;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Low amounts in first to third instar larvae
+    salivary glands.
+-!- DEVELOPMENTAL STAGE: Throughout the larval period.
+Alternative splicing; Complete proteome; Repeat; Signal.
+TMZERO

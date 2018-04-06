@@ -1,0 +1,19 @@
+AC   Q02287;
+T-protein [Includes: Chorismate mutase (EC 5.4.99.5) (CM); Prephenate
+dehydrogenase (EC 1.3.1.12) (PDH)].
+"A monofunctional prephenate dehydrogenase created by cleavage of the
+5' 109 bp of the tyrA gene from Erwinia herbicola.";
+-!- CATALYTIC ACTIVITY: Chorismate = prephenate.
+-!- CATALYTIC ACTIVITY: Prephenate + NAD(+) = 4-hydroxyphenylpyruvate
+    + CO(2) + NADH.
+-!- PATHWAY: Amino-acid biosynthesis; L-tyrosine biosynthesis; L-
+    tyrosine from prephenate: step 1.
+-!- PATHWAY: Metabolic intermediate biosynthesis; prephenate
+    biosynthesis; prephenate from chorismate: single step [final
+    step].
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Contains 1 chorismate mutase domain.
+-!- SIMILARITY: Contains 1 prephenate/arogenate dehydrogenase domain.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis; Isomerase;
+Multifunctional enzyme; NAD; Oxidoreductase; Tyrosine biosynthesis.
+TMZERO

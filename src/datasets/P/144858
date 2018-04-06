@@ -1,0 +1,24 @@
+AC   Q12300;
+High-affinity glucose transporter RGT2.
+"Analysis of a 26,756 bp segment from the left arm of yeast chromosome
+IV.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Two glucose transporters in Saccharomyces cerevisiae are glucose
+sensors that generate a signal for induction of gene expression.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Low-affinity glucose transporter. Can function as a
+    sensor that generates an intracellular signal in the presence of
+    high level of glucose. Required for maximal expression of the high
+    glucose-induced HXT1 protein.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0005536; F:glucose binding; TAS:SGD.
+ GO:0004872; F:receptor activity; TAS:SGD.
+ GO:0009749; P:response to glucose stimulus; IMP:SGD.
+ GO:0007165; P:signal transduction; TAS:SGD.
+Complete proteome; Glycoprotein; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,26 @@
+AC   Q8ZWI8; Q9V2S8;
+Pyrophosphate-energized proton pump (EC 3.6.1.1) (Pyrophosphate-
+energized inorganic pyrophosphatase) (H+-PPase) (Membrane-bound
+proton-translocating pyrophosphatase).
+"A thermostable vacuolar-type membrane pyrophosphatase from the
+archaeon Pyrobaculum aerophilum: implications for the origins of
+pyrophosphate-energized pumps.";
+"Genome sequence of the hyperthermophilic crenarchaeon Pyrobaculum
+aerophilum.";
+-!- FUNCTION: Generates a proton motive force; it probably catalyzes a
+    fully reversible reaction, thus being able to synthesize
+    pyrophosphate when the proton motive force is sufficient.
+-!- CATALYTIC ACTIVITY: Diphosphate + H(2)O = 2 phosphate.
+-!- COFACTOR: Magnesium.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Temperature dependence:
+      Optimum temperature is 80 degrees Celsius;
+-!- SUBUNIT: Homodimer (Potential).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the H(+)-translocating pyrophosphatase
+    (TC 3.A.10) family. Type 2 subfamily.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Complete proteome; Hydrogen ion transport; Hydrolase; Ion transport;
+Magnesium; Membrane; Transmembrane; Transport.
+TMSIXTEEN

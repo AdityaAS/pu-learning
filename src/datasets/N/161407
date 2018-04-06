@@ -1,0 +1,14 @@
+AC   Q7MYH3;
+30S ribosomal protein S11.
+"The genome sequence of the entomopathogenic bacterium Photorhabdus
+luminescens.";
+-!- FUNCTION: Located on the platform of the 30S subunit, it bridges
+    several disparate RNA helices of the 16S rRNA. Forms part of the
+    Shine-Dalgarno cleft in the 70S ribosome (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Interacts with
+    proteins S7 and S18. Binds to IF-3 (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S11P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

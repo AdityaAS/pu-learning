@@ -1,0 +1,16 @@
+AC   Q03031;
+Oxaloacetate decarboxylase beta chain 2 (EC 4.1.1.3).
+"Sequence of the sodium ion pump oxaloacetate decarboxylase from
+Salmonella typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Lyase and sodium transporter.
+-!- CATALYTIC ACTIVITY: Oxaloacetate = pyruvate + CO(2).
+-!- COFACTOR: Sodium.
+-!- SUBUNIT: Heterotrimer of an alpha, a beta and a gamma subunit.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the gcdB/mmdB/oadB family.
+ GO:0008948; F:oxaloacetate decarboxylase activity; IEA:EC.
+Complete proteome; Decarboxylase; Ion transport; Lyase; Membrane;
+Sodium; Sodium transport; Transmembrane; Transport.
+TMNINE

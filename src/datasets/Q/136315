@@ -1,0 +1,33 @@
+AC   Q32DC5;
+PTS system N-acetylmuramic acid-specific EIIBC component (EIIBC-
+MurNAc) [Includes: N-acetylmuramic acid-specific phosphotransferase
+enzyme IIB component (EC 2.7.1.69) (PTS system N-acetylmuramic acid-
+specific EIIB component); N-acetylmuramic acid permease IIC component
+(PTS system N-acetylmuramic acid-specific EIIC component)].
+"Genome dynamics and diversity of Shigella species, the etiologic
+agents of bacillary dysentery.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in N-acetylmuramic acid (MurNAc)
+    transport, yielding cytoplasmic MurNAc-6-P. Is also able to take
+    up anhydro-N-acetylmuramic acid (anhMurNAc), but cannot
+    phosphorylate the carbon 6, probably because of the 1,6-anhydro
+    ring (By similarity).
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIIB type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-1 domain.
+Complete proteome; Inner membrane; Membrane; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase;
+Transmembrane; Transport.
+TMTEN

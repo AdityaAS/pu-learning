@@ -1,0 +1,9 @@
+AC   Q5UQL7;
+Probable capsid protein 1.
+"The 1.2-megabase genome sequence of Mimivirus.";
+-!- SIMILARITY: Belongs to the asfaviruses/iridoviruses capsid protein
+    family.
+-!- CAUTION: Ref.1 (AAV50694) sequence differs from that shown due to
+    erroneous gene model prediction.
+Capsid protein; Virion protein.
+TMZERO

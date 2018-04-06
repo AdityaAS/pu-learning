@@ -1,0 +1,18 @@
+AC   P29822;
+Lactose-binding protein precursor (LBP).
+"Molecular analysis of the lac operon encoding the binding-protein-
+dependent lactose transport system and beta-galactosidase in
+Agrobacterium radiobacter.";
+"Binding-protein-dependent lactose transport in Agrobacterium
+radiobacter.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for lactose.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- INDUCTION: By lactose and various galactosides, and subject to
+    catabolite repression by glucose, galactose and succinate. In
+    strain AR50 the expression of the lac operon is constitutive.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 1
+    family.
+Direct protein sequencing; Periplasmic; Signal; Sugar transport;
+Transport.
+TMZERO

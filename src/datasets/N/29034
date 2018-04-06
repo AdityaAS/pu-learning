@@ -1,0 +1,17 @@
+AC   Q9X1A7;
+Dephospho-CoA kinase (EC 2.7.1.24) (Dephosphocoenzyme A kinase).
+"Evidence for lateral gene transfer between Archaea and Bacteria from
+genome sequence of Thermotoga maritima.";
+-!- FUNCTION: Catalyzes the phosphorylation of the 3'-hydroxyl group
+    of dephosphocoenzyme A to form coenzyme A (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + dephospho-CoA = ADP + CoA.
+-!- PATHWAY: Cofactor biosynthesis; coenzyme A biosynthesis; coenzyme
+    A from pantothenate: step 5 [final step].
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the coaE family.
+-!- SIMILARITY: Contains 1 DPCK (dephospho-CoA kinase) domain.
+ GO:0004140; F:dephospho-CoA kinase activity; IEA:HAMAP.
+ GO:0015937; P:coenzyme A biosynthesis; IEA:HAMAP.
+3D-structure; ATP-binding; Coenzyme A biosynthesis; Complete proteome;
+Kinase; Nucleotide-binding; Transferase.
+TMZERO

@@ -1,0 +1,24 @@
+AC   P28011; Q40324;
+Aspartate aminotransferase 1 (EC 2.6.1.1) (Transaminase A).
+"Genomic structure, expression and evolution of the alfalfa aspartate
+aminotransferase genes.";
+"Isolation and analysis of a cDNA clone that encodes an alfalfa
+(Medicago sativa) aspartate aminotransferase.";
+-!- FUNCTION: Important for the metabolism of amino acids and Krebs-
+    cycle related organic acids. In plants, it is involved in nitrogen
+    metabolism and in aspects of carbon and energy metabolism.
+-!- CATALYTIC ACTIVITY: L-aspartate + 2-oxoglutarate = oxaloacetate +
+    L-glutamate.
+-!- COFACTOR: Pyridoxal phosphate.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: Nodules, roots, stems and leaves, in
+    decreasing order of aspartate aminotransferase 1 concentration. Is
+    the predominant aspartate aminotransferase isoenzyme in roots.
+-!- MISCELLANEOUS: In eukaryotes there are cytoplasmic, mitochondrial
+    and chloroplastic isozymes.
+-!- SIMILARITY: Belongs to the class-I pyridoxal-phosphate-dependent
+    aminotransferase family.
+ GO:0004069; F:aspartate transaminase activity; IEA:EC.
+Aminotransferase; Pyridoxal phosphate; Transferase.
+TMZERO

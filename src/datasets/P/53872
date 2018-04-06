@@ -1,0 +1,14 @@
+AC   P0AEL7; P14609;
+Ferrienterobactin-binding periplasmic protein precursor.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Binds ferrienterobactin; part of the binding-protein-
+    dependent transport system for uptake of ferrienterobactin (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 8
+    family.
+-!- SIMILARITY: Contains 1 Fe/B12 periplasmic-binding domain.
+Complete proteome; Ion transport; Iron; Iron transport; Periplasmic;
+Signal; Transport.
+TMZERO

@@ -1,0 +1,10 @@
+AC   Q493D9;
+Probable (di)nucleoside polyphosphate hydrolase (EC 3.6.1.-).
+"Genome sequence of Blochmannia pennsylvanicus indicates parallel
+evolutionary trends among bacterial mutualists of insects.";
+-!- FUNCTION: Hydrolyzes diadenosine polyphosphate (By similarity).
+-!- COFACTOR: Divalent ions (By similarity).
+-!- SIMILARITY: Belongs to the Nudix hydrolase family. NudH subfamily.
+ GO:0016818; F:hydrolase activity, acting on acid anhydrid...; IEA:HAMAP.
+Complete proteome; Hydrolase.
+TMZERO

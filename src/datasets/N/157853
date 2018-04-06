@@ -1,0 +1,13 @@
+AC   Q8V4V3;
+DNA-directed RNA polymerase 132 kDa polypeptide (EC 2.7.7.6).
+"Human monkeypox and smallpox viruses: genomic comparison.";
+-!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+    of DNA into RNA using the four ribonucleoside triphosphates as
+    substrates.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: This enzyme consists of at least eight subunits.
+-!- SIMILARITY: Belongs to the RNA polymerase beta chain family.
+DNA-directed RNA polymerase; Metal-binding; Nucleotidyltransferase;
+Transcription; Transferase; Zinc; Zinc-finger.
+TMZERO

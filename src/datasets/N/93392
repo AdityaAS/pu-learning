@@ -1,0 +1,11 @@
+AC   Q10120;
+Protein lin-52 (Abnormal cell lineage protein 52).
+"New genes that interact with lin-35 Rb to negatively regulate the
+let-60 ras pathway in Caenorhabditis elegans.";
+"2.2 Mb of contiguous nucleotide sequence from chromosome III of C.
+elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- SUBUNIT: Interacts with lin-35.
+Complete proteome.
+TMZERO

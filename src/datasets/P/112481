@@ -1,0 +1,24 @@
+AC   P08995;
+Nodulin-26 (N-26).
+"Soybean nodulin 26 is homologous to the major intrinsic protein of
+the bovine lens fiber membrane.";
+"Nodulin-26, a peribacteroid membrane nodulin is expressed
+independently of the development of the peribacteroid compartment.";
+"Determination of the site of phosphorylation of nodulin 26 by the
+calcium-dependent protein kinase from soybean nodules.";
+-!- FUNCTION: Aquaporins facilitate the transport of water and small
+    neutral solutes across cell membranes. This aquaporin may function
+    in transporting small molecules across the peribacteroid
+    membranes.
+-!- SUBCELLULAR LOCATION: Symbiosome; peribacteroid membrane; multi-
+    pass membrane protein.
+-!- INDUCTION: During nodulation in legume roots after Rhizobium
+    infection.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family. NIP
+    subfamily.
+3D-structure; Membrane; Nodulation; Phosphorylation; Repeat;
+Transmembrane; Transport.
+TMSIX

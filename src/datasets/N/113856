@@ -1,0 +1,10 @@
+AC   P68811; Q99VP3; Q9Z5C9;
+Protein nrdI.
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: Not known; probably involved in ribonucleotide reductase
+    function.
+-!- SIMILARITY: Belongs to the nrdI family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

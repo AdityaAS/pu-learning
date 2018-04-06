@@ -1,0 +1,11 @@
+AC   P41174;
+Monensin polyketide synthase acyl carrier protein (ACP).
+"Characterisation of actI-homologous DNA encoding polyketide synthase
+genes from the monensin producer Streptomyces cinnamonensis.";
+-!- FUNCTION: Acyl carrier protein.
+-!- PATHWAY: Antifungal biosynthesis; monensin biosynthesis.
+-!- PTM: 4'-phosphopantetheine is transferred from CoA to a specific
+    serine of the apo-ACP-like protein (Potential).
+-!- SIMILARITY: Contains 1 acyl carrier domain.
+Antibiotic biosynthesis; Phosphopantetheine.
+TMZERO

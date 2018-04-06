@@ -1,0 +1,19 @@
+AC   P36190;
+Ceratotoxin-A precursor 1.
+"cDNA sequence and expression of the ceratotoxin gene encoding an
+antibacterial sex-specific peptide from the medfly Ceratitis capitata
+(diptera).";
+"Purification and primary structure of ceratotoxin A and B, two
+antibacterial peptides from the female reproductive accessory glands
+of the medfly Ceratitis capitata (Insecta:Diptera).";
+-!- FUNCTION: Female-specific peptides with potent activity against
+    Gram-positive and Gram-negative bacteria. They have as well
+    hemolytic activity.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Temperature dependence:
+      Thermostable. Still active at 100 degrees Celsius;
+-!- SUBUNIT: Homopolymer of four to six subunits.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+Antibiotic; Antimicrobial; Cytolysis; Direct protein sequencing;
+Hemolysis; Immune response; Innate immunity; Signal.
+TMZERO

@@ -1,0 +1,215 @@
+AC   P08592;
+Amyloid beta A4 protein precursor (APP) (ABPP) (Alzheimer disease
+amyloid protein homolog) (Amyloidogenic glycoprotein) (AG) [Contains:
+Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99;
+Beta-amyloid protein 42 (Beta-APP42); Beta-amyloid protein 40 (Beta-
+APP40); C83; P3(42); P3(40); Gamma-CTF(59) (Gamma-secretase C-terminal
+fragment 59); Gamma-CTF(57) (Gamma-secretase C-terminal fragment 57);
+Gamma-CTF(50) (Gamma-secretase C-terminal fragment 50); C31].
+"Alzheimer's disease amyloidogenic glycoprotein: expression pattern in
+rat brain suggests a role in cell contact.";
+"Amyloid beta protein precursor is possibly a heparan sulfate
+proteoglycan core protein.";
+"Purification and tissue level of the beta-amyloid peptide precursor
+of rat brain.";
+"The sequence of the two extra exons in rat preA4.";
+"Distinct intramembrane cleavage of the beta-amyloid precursor protein
+family resembling gamma-secretase-like cleavage of Notch.";
+"APP gene family. Alternative splicing generates functionally related
+isoforms.";
+"The Alzheimer amyloid precursor proteoglycan (appican) is present in
+brain and is produced by astrocytes but not by neurons in primary
+neural cultures.";
+"Expression of the APP gene family in brain cells, brain development
+and aging.";
+"A 127-kDa protein (UV-DDB) binds to the cytoplasmic domain of the
+Alzheimer's amyloid precursor protein.";
+"The amyloid precursor protein interacts with Go heterotrimeric
+protein within a cell compartment specialized in signal
+transduction.";
+"The beta A4 amyloid precursor protein binding to copper.";
+"The chondroitin sulfate attachment site of appican is formed by
+splicing out exon 15 of the amyloid precursor gene.";
+"The A beta peptide of Alzheimer's disease directly produces hydrogen
+peroxide through metal ion reduction.";
+"Histidine-13 is a crucial residue in the zinc ion-induced aggregation
+of the A beta peptide of Alzheimer's disease.";
+"Role of glycine-33 and methionine-35 in Alzheimer's amyloid beta-
+peptide 1-42-associated oxidative stress and neurotoxicity.";
+"The cytoplasmic domain of Alzheimer's amyloid precursor protein is
+phosphorylated at Thr654, Ser655, and Thr668 in adult rat brain and
+cultured cells.";
+"Phosphorylation of the cytoplasmic domain of Alzheimer's beta-amyloid
+precursor protein at Ser655 by a novel protein kinase.";
+"Role of phosphorylation of Alzheimer's amyloid precursor protein
+during neuronal differentiation.";
+"Neuron-specific phosphorylation of Alzheimer's beta-amyloid precursor
+protein by cyclin-dependent kinase 5.";
+"Appican, the proteoglycan form of the amyloid precursor protein,
+contains chondroitin sulfate E in the repeating disaccharide region
+and 4-O-sulfated galactose in the linkage region.";
+-!- FUNCTION: Functions as a cell surface receptor and performs
+    physiological functions on the surface of neurons relevant to
+    neurite growth, neuronal adhesion and axonogenesis. Involved in
+    cell mobility and transcription regulation through protein-protein
+    interactions (By similarity). Can promote transcription activation
+    through binding to APBB1/Tip60 and inhibit Notch signaling through
+    interaction with Numb (By similarity). Couples to apoptosis-
+    inducing pathways such as those mediated by G(O) and JIP. Inhibits
+    G(o) alpha ATPase activity. Acts as a kinesin I membrane receptor,
+    mediating the axonal transport of beta-secretase and presenilin 1
+    (By similarity). May be involved in copper homeostasis/oxidative
+    stress through copper ion reduction. Can regulate neurite
+    outgrowth through binding to components of the extracellular
+    matrix such as heparin and collagen I and IV (By similarity). The
+    splice isoforms that contain the BPTI domain possess protease
+    inhibitor activity (By similarity).
+-!- FUNCTION: Beta-amyloid peptides are lipophilic metal chelators
+    with metal-reducing activity. Bind transient metals such as
+    copper, zinc and iron. Rat and mouse beta-amyloid peptides bind
+    only weakly transient metals and have little reducing activity due
+    to substitutions of transient metal chelating residues. Beta-APP42
+    may activate mononuclear phagocytes in the brain and elicit
+    inflammatory responses. Promotes both tau aggregation and TPK II-
+    mediated phosphorylation (By similarity).
+-!- FUNCTION: Appicans elicit adhesion of neural cells to the
+    extracellular matrix and may regulate neurite outgrowth in the
+    brain.
+-!- FUNCTION: The gamma-CTF peptides as well as the caspase-cleaved
+    peptides, including C31, are potent enhancers of neuronal
+    apoptosis (By similarity).
+-!- SUBUNIT: Binds, via its C-terminus, to the PID domain of several
+    cytoplasmic proteins, including APBB family members, the APBA
+    family, MAPK8IP1, SHC1 and Numb and Dab1 (By similarity). Binding
+    to Dab1 inhibits its serine phosphorylation (By similarity). Also
+    interacts with GPCR-like protein BPP, FPRL1, APPBP1, IB1, KNS2
+    (via its TPR domains), APPBP2 (via BaSS) (By similarity) and DDB1.
+    In vitro, it binds MAPT via the MT-binding domains (By
+    similarity). Associates with microtubules in the presence of ATP
+    and in a kinesin-dependent manner (By similarity). Interacts,
+    through a C-terminal domain, with GNAO1. Amyloid beta-42 binds
+    CHRNA7 in hippocampal neurons (By similarity). Beta-amyloid
+    associates with HADH2 (By similarity). Interacts with CPEB1 (By
+    similarity).
+-!- INTERACTION:
+    P46933:Apbb1; NbExp=1; IntAct=EBI-286155, EBI-286177;
+    O35827:Apbb3; NbExp=1; IntAct=EBI-286155, EBI-286163;
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein. Note=Cell surface protein that rapidly becomes
+    internalized via clathrin-coated pits. During maturation, the
+    immature APP (N-glycosylated in the endoplasmic reticulum) moves
+    to the Golgi complex where complete maturation occurs (O-
+    glycosylated and sulfated). After alpha-secretase cleavage,
+    soluble APP is released into the extracellular space and the C-
+    terminal is internalized to endosomes and lysosomes. Some APP
+    accumulates in secretory transport vesicles leaving the late Golgi
+    compartment and returns to the cell surface. Gamma-CTF(59) peptide
+    is located to both the cytoplasm and nuclei of neurons. It can be
+    translocated to the nucleus through association with Fe65 (By
+    similarity). Beta-APP42 associates with FPRL1 at the cell surface
+    and the complex is then rapidly internalized (By similarity). APP
+    sorts to the basolateral surface in epithelial cells (By
+    similarity). During neuronal differentiation, the Thr-743
+    phosphorylated form is located mainly in growth cones, moderately
+    in neurites and sparingly in the cell body.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=8;
+    Name=APP770;
+      IsoId=P08592-1; Sequence=Displayed;
+    Name=APP695;
+      IsoId=P08592-2; Sequence=VSP_000015, VSP_000016;
+    Name=L-APP677;
+      IsoId=P08592-3; Sequence=Not described;
+      Note=L-isoforms are referred to as appicans;
+    Name=L-APP696;
+      IsoId=P08592-4; Sequence=Not described;
+      Note=L-isoforms are referred to as appicans;
+    Name=APP714;
+      IsoId=P08592-5; Sequence=Not described;
+    Name=L-APP733;
+      IsoId=P08592-6; Sequence=Not described;
+      Note=L-isoforms are referred to as appicans;
+    Name=APP751;
+      IsoId=P08592-7; Sequence=Not described;
+    Name=L-APP752;
+      IsoId=P08592-8; Sequence=Not described;
+      Note=L-isoforms are referred to as appicans;
+-!- TISSUE SPECIFICITY: In the brain, non-L-APP isoforms are expressed
+    in neurons, isoform APP695 being the predominant form. In
+    astrocytes and microglial cells, almost 50% is L-isoform
+    (appican).
+-!- DEVELOPMENTAL STAGE: From 6 days to 7 months, levels of KPI-
+    containing isoforms increase in the brain cortex and hippocampus.
+    Levels of L-APP increase in all brian regions during the same
+    period, but levels are low compared to non-L-APP isoforms.
+-!- INDUCTION: Phosphorylation of mature, glycosylated APP occurs 48-
+    72 hours after treatment of neuronal cells with nerve growth
+    factor which correlates with the timing of neurite outgrowth.
+-!- DOMAIN: The basolateral sorting signal (BaSS) is required for
+    sorting of membrane proteins to the basolateral surface of
+    epithelial cells.
+-!- DOMAIN: The NPXY sequence motif found in many tyrosine-
+    phosphorylated proteins is required for the specific binding of
+    the PID domain. However, additional amino acids either N- or C-
+    terminal to the NPXY motif are often required for complete
+    interaction. The PID domain-containing proteins which bind APP
+    require the YENPTY motif for full interaction. These interactions
+    are independent of phosphorylation on the terminal tyrosine
+    residue. The NPXY site is also involved in clathrin-mediated
+    endocytosis.
+-!- PTM: Proteolytically processed under normal cellular conditions.
+    Cleavage by alpha-secretase or alternatively by beta-secretase
+    leads to generation and extracellular release of soluble APP
+    peptides, S-APP-alpha and S-APP-beta, respectively, and the
+    retention of corresponding membrane-anchored C-terminal fragments,
+    C83 and C99. Subsequent processing of C83 by gamma-secretase
+    yields P3 peptides. This is the major secretory pathway and is
+    non-amyloidogenic. Alternatively, presenilin/nicastrin-mediated
+    gamma-secretase processing of C99 releases the amyloid beta
+    proteins, amyloid-beta 40 (Abeta40) and amyloid-beta 42 (Abeta42),
+    major components of amyloid plaques, and the cytotoxic C-terminal
+    fragments, gamma-CTF(50), gamma-CTF(57) and gamma-CTF(59).
+-!- PTM: Proteolytically cleaved by caspases during neuronal apoptosis
+    (By similarity). Cleavage at Asp-739 by either caspase-3, -8 or -9
+    results in the production of the neurotoxic C31 peptide and the
+    increased production of beta-amyloid peptides (By similarity).
+-!- PTM: N-glycosylated.
+-!- PTM: O-glycosylated. O-linkage of chondroitin sulfate to the L-APP
+    isoforms produces the APP proteoglycan core proteins, the
+    appicans. The chondroitin sulfate chain of appicans contains 4-O-
+    sulfated galactose in the linkage region and chondroitin sulfate E
+    in the repeated disaccharide region.
+-!- PTM: Phosphorylation in the C-terminal on tyrosine, threonine and
+    serine residues is neuron-specific. Phosphorylation can affect APP
+    processing, neuronal differentiation and interaction with other
+    proteins. The Thr-743 phosphorylated form causes a conformational
+    change which reduces binding of Fe65 family members.
+    Phosphorylation on Tyr-757 is required for SHC binding.
+    Phosphorylated in the extracellular domain by casein kinases on
+    both soluble and membrane-bound APP. This phosphorylation is
+    inhibited by heparin.
+-!- PTM: Extracellular binding and reduction of copper, results in a
+    corresponding oxidation of Cys-144 and Cys-158, and the formation
+    of a disulfide bond (By similarity).
+-!- MASS SPECTROMETRY: MW=5911.3; METHOD=MALDI; RANGE=721-770;
+    NOTE=Ref.5.
+-!- MASS SPECTROMETRY: MW=6024.4; METHOD=MALDI; RANGE=720-770;
+    NOTE=Ref.5.
+-!- MISCELLANEOUS: Chelation of metal ions, notably copper, iron and
+    zinc, can induce histidine-bridging between beta-amyloid molecules
+    resulting in beta-amyloid-metal aggregates. Rat and mouse beta-
+    amyloid peptides have an arginine residue substituted for the
+    bridging histidine residue and are thus less capable of forming
+    amyloid aggegates. Extracellular zinc-binding increases binding of
+    heparin to APP and inhibits collagen-binding (By similarity).
+-!- SIMILARITY: Belongs to the APP family.
+-!- SIMILARITY: Contains 1 BPTI/Kunitz inhibitor domain.
+ GO:0016504; F:protease activator activity; IDA:RGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006917; P:induction of apoptosis; IDA:RGD.
+3D-structure; Alternative splicing; Amyloid; Apoptosis; Cell adhesion;
+Coated pits; Copper; Direct protein sequencing; Endocytosis;
+Glycoprotein; Heparin-binding; Iron; Membrane; Metal-binding;
+Notch signaling pathway; Phosphorylation; Protease inhibitor;
+Proteoglycan; Serine protease inhibitor; Signal; Transmembrane; Zinc.
+TMONE

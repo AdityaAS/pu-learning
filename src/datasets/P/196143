@@ -1,0 +1,25 @@
+AC   Q07307; Q5AXP8;
+Uric acid-xanthine permease (UAPA transporter).
+"Sequence and regulation of the uapA gene encoding a uric acid-
+xanthine permease in the fungus Aspergillus nidulans.";
+"The nucleobase-ascorbate transporter (NAT) signature motif in UapA
+defines the function of the purine translocation pathway.";
+"Sequencing of Aspergillus nidulans and comparative analysis with A.
+fumigatus and A. oryzae.";
+"Amino acid residues N450 and Q449 are critical for the uptake
+capacity and specificity of UapA, a prototype of a nucleobase-
+ascorbate transporter family.";
+"Transcription of purine transporter genes is activated during the
+isotropic growth phase of Aspergillus nidulans conidia.";
+"Comparative substrate recognition by bacterial and fungal purine
+transporters of the NAT/NCS2 family.";
+-!- FUNCTION: Uric acid-xanthine transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DEVELOPMENTAL STAGE: Not detected in resting conidiospores.
+    Transcription is activated during the isotropic growth phase of
+    conidiospores.
+-!- INDUCTION: Inducible by 2-thiouric acid, and highly repressible by
+    ammonium.
+-!- SIMILARITY: Belongs to the xanthine/uracil permease family.
+Membrane; Transmembrane; Transport.
+TMTWELVE

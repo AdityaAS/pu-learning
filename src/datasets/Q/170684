@@ -1,0 +1,19 @@
+AC   Q5HHR7;
+Preprotein translocase secA subunit.
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Involved in protein export. Interacts with the secY/secE
+    subunits. SecA has a central role in coupling the hydrolysis of
+    ATP to the transfer of pre-secretory proteins across the membrane
+    (By similarity).
+-!- SUBUNIT: Part of the prokaryotic protein translocation apparatus
+    which comprise secA, secB, secD, secE, secF, secG and secY (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein;
+    cytoplasmic side (By similarity).
+-!- SIMILARITY: Belongs to the secA family.
+ATP-binding; Complete proteome; Membrane; Nucleotide-binding;
+Protein transport; Translocation; Transport.
+TMZERO

@@ -1,0 +1,13 @@
+AC   P70786;
+Putative tartrate transporter.
+"Characterization and distribution of tartrate utilization genes in
+the grapevine pathogen Agrobacterium vitis.";
+-!- FUNCTION: Component of the tartrate utilization system and may
+    allow entry of tartrate and tartrate dehydrogenase.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: By tartrate.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Phthalate permease family.
+Membrane; Plasmid; Transmembrane; Transport.
+TMELEVEN

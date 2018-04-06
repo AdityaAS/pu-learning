@@ -1,0 +1,32 @@
+AC   P14090;
+Endoglucanase C precursor (EC 3.2.1.4) (Endo-1,4-beta-glucanase C)
+(Cellulase C).
+"Nucleotide sequence of the endoglucanase C gene (cenC) of
+Cellulomonas fimi, its high-level expression in Escherichia coli, and
+characterization of its products.";
+"Purification and characterization of endoglucanase C of Cellulomonas
+fimi, cloning of the gene, and analysis of in vivo transcripts of the
+gene.";
+"The binding of Cellulomonas fimi endoglucanase C (CenC) to cellulose
+and Sephadex is mediated by the N-terminal repeats.";
+"Members of the immunoglobulin superfamily in bacteria.";
+"Structure of the N-terminal cellulose-binding domain of Cellulomonas
+fimi CenC determined by nuclear magnetic resonance spectroscopy.";
+-!- FUNCTION: The biological conversion of cellulose to glucose
+    generally requires three types of hydrolytic enzymes: (1)
+    Endoglucanases which cut internal beta-1,4-glucosidic bonds; (2)
+    Exocellobiohydrolases that cut the dissaccharide cellobiose from
+    the nonreducing end of the cellulose polymer chain; (3) Beta-1,4-
+    glucosidases which hydrolyze the cellobiose and other short cello-
+    oligosaccharides to glucose.
+-!- CATALYTIC ACTIVITY: Endohydrolysis of 1,4-beta-D-glucosidic
+    linkages in cellulose, lichenin and cereal beta-D-glucans.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 9 (cellulase E)
+    family.
+-!- SIMILARITY: Contains 2 CBM-cenC (cenC-type cellulose-binding)
+    domains.
+-!- SIMILARITY: Contains 2 Ig-like (immunoglobulin-like) domains.
+3D-structure; Carbohydrate metabolism; Cellulose degradation;
+Direct protein sequencing; Glycosidase; Hydrolase;
+Immunoglobulin domain; Polysaccharide degradation; Repeat; Signal.
+TMZERO

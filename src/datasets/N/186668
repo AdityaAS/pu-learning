@@ -1,0 +1,12 @@
+AC   P42198;
+Transcription initiation factor IIB (TFIIB) (Fragment).
+"The primary structure of sensory rhodopsin II: a member of an
+additional retinal protein subgroup is coexpressed with its
+transducer, the halobacterial transducer of rhodopsin II.";
+-!- FUNCTION: Stabilizes TBP binding to an archaeal box-A promoter.
+    Also responsible for recruiting RNA polymerase II to the pre-
+    initiation complex (DNA-TBP-TFIIB) (By similarity).
+-!- SIMILARITY: Belongs to the TFIIB family.
+ GO:0003700; F:transcription factor activity; IEA:HAMAP.
+Repeat; Transcription; Transcription regulation.
+TMZERO

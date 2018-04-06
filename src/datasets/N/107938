@@ -1,0 +1,20 @@
+AC   Q29031;
+Myc proto-oncogene protein (c-Myc) (Transcription factor p64).
+"Isolation and characterization of the porcine c-myc proto-oncogene
+and chromosomal assignment to SSC 4p13.";
+-!- FUNCTION: Participates in the regulation of gene transcription.
+    Binds DNA both in a non-specific manner and also specifically to
+    recognizes the core sequence 5'-CAC[GA]TG-3'. Seems to activate
+    the transcription of growth-related genes (By similarity).
+-!- SUBUNIT: Efficient DNA binding requires dimerization with another
+    bHLH protein. Binds DNA as a heterodimer with MAX. Interacts with
+    TAF1C and SPAG9. Interacts with PARP10 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- PTM: Phosphorylated by PRKDC (By similarity).
+-!- DISEASE: Overexpression of C-Myc is implicated in the etiology of
+    a variety of hematopoietic tumors.
+-!- SIMILARITY: Contains 1 basic helix-loop-helix (bHLH) domain.
+Activator; DNA-binding; Glycoprotein; Nuclear protein;
+Phosphorylation; Proto-oncogene; Transcription;
+Transcription regulation.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q04064;
+Outer membrane porin protein BP0840 precursor.
+"Cloning and sequencing of the structural gene for the porin protein
+of Bordetella pertussis.";
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+-!- FUNCTION: Forms anion selective channels.
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: To bacterial outer membrane proteins and porins.
+Complete proteome; Direct protein sequencing; Ion transport; Membrane;
+Outer membrane; Porin; Signal; Transmembrane; Transport.
+TMZERO

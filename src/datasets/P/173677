@@ -1,0 +1,18 @@
+AC   Q00910;
+Solute carrier organic anion transporter family member 2A1 (Solute
+carrier family 21 member 2) (Prostaglandin transporter) (PGT) (Matrin
+F/G 1).
+"Molecular cloning of matrin F/G: a DNA binding protein of the nuclear
+matrix that contains putative zinc finger motifs.";
+"Identification and characterization of a prostaglandin transporter.";
+-!- FUNCTION: May mediate the release of newly synthesized
+    prostaglandins from cells, the transepithelial transport of
+    prostaglandins, and the clearance of prostaglandins from the
+    circulation. Transports PGD2, as well as PGE1, PGE2 and PGF2A.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the organo anion transporter (TC 2.A.60)
+    family.
+-!- CAUTION: Was originally (Ref.1) thought to be a nuclear DNA-
+    binding protein.
+Glycoprotein; Membrane; Transmembrane; Transport.
+TMTWELVE

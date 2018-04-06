@@ -1,0 +1,11 @@
+AC   P27691;
+Fimbrial protein precursor (Pilin) (Serogroup B1/AC127).
+"Sequence of fimbrial subunit-encoding genes from virulent and benign
+isolates of Dichelobacter (Bacteroides) nodosus.";
+-!- SUBUNIT: The pili are polar flexible filaments of about 5.4
+    nanometers diameter and 2.5 micrometers average length; they
+    consist of only a single polypeptide chain arranged in a helical
+    configuration of five subunits per turn in the assembled pilus.
+-!- SIMILARITY: Belongs to the N-Me-Phe pili family.
+Fimbria; Methylation.
+TMZERO

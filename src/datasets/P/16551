@@ -1,0 +1,14 @@
+AC   P07775; Q6FCA7;
+Benzoate membrane transport protein.
+"Nucleotide sequences of the Acinetobacter calcoaceticus benABC genes
+for benzoate 1,2-dioxygenase reveal evolutionary relationships among
+multicomponent oxygenases.";
+"Unique features revealed by the genome sequence of Acinetobacter sp.
+ADP1, a versatile and naturally transformation competent bacterium.";
+-!- FUNCTION: Probably involved in the transport of benzoate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: The ben operon encode the proteins responsible for
+    the degradation of benzoate to catechol.
+Aromatic hydrocarbons catabolism; Complete proteome; Membrane;
+Transmembrane; Transport.
+TMZERO

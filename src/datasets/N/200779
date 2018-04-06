@@ -1,0 +1,14 @@
+AC   Q6DFU4;
+Vacuolar protein sorting-associated protein 26A-B (Vesicle protein
+sorting 26A-B).
+-!- FUNCTION: Essential component of the retromer complex, a complex
+    required to retrieve lysosomal enzyme receptors (IGF2R and M6PR)
+    from endosomes to the trans-Golgi network. Also required to
+    regulate transcytosis of the polymeric immunoglobulin receptor
+    (pIgR-pIgA) (By similarity).
+-!- SUBUNIT: Component of the retromer complex (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm. Endosome; endosomal membrane;
+    peripheral membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the VPS26 family.
+Membrane; Protein transport; Transport.
+TMZERO

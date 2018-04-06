@@ -1,0 +1,24 @@
+AC   P41948;
+Ammonium transporter MEP2.
+"A family of ammonium transporters in Saccharomyces cerevisiae.";
+"A 43.5 kb segment of yeast chromosome XIV, which contains MFA2, MEP2,
+CAP/SRV2, NAM9, FKB1/FPR1/RBP1, MOM22 and CPT1, predicts an adenosine
+deaminase gene and 14 new open reading frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Transporter for ammonium to use as a nitrogen source.
+    The affinity of MEP2 is about twenty times higher than that of
+    MEP1.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ammonium transporter (TC 2.A.49)
+    family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0008519; F:ammonium transporter activity; IDA:SGD.
+ GO:0015696; P:ammonium transport; IMP:SGD.
+ GO:0019740; P:nitrogen utilization; IMP:SGD.
+ GO:0007124; P:pseudohyphal growth; IMP:SGD.
+Ammonia transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTEN

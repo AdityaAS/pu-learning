@@ -1,0 +1,29 @@
+AC   P0A855; P19935;
+Protein tolB precursor.
+"Nucleotide sequences of the tolA and tolB genes and localization of
+their products, components of a multistep translocation system in
+Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The excC gene of Escherichia coli K-12 required for cell envelope
+integrity encodes the peptidoglycan-associated lipoprotein (PAL).";
+"Maturation and localization of the TolB protein required for colicin
+import.";
+"Crystallization and preliminary crystallographic study of a component
+of the Escherichia coli Tol system: TolB.";
+"Structure of the Escherichia coli TolB protein determined by MAD
+methods at 1.95-A resolution.";
+-!- FUNCTION: Involved in the tonB-independent uptake of group A
+    colicins (colicins A, E1, E2, E3 and K). Necessary for the
+    colicins to reach their respective targets after initial binding
+    to the bacteria.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the tolB family.
+ GO:0017038; P:protein import; IEA:HAMAP.
+3D-structure; Bacteriocin transport; Complete proteome;
+Direct protein sequencing; Periplasmic; Protein transport; Signal;
+Transport.
+TMZERO

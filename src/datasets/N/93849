@@ -1,0 +1,45 @@
+AC   P37957; O34644; Q2XU59;
+Lipase precursor (EC 3.1.1.3) (Triacylglycerol lipase).
+"Cloning, nucleotide sequence and expression in Escherichia coli of a
+lipase gene from Bacillus subtilis 168.";
+"A 32 kb nucleotide sequence from the region of the lincomycin-
+resistance gene (22 degrees-25 degrees) of the Bacillus subtilis
+chromosome and identification of the site of the lin-2 mutation.";
+"Molecular characterization of a lipase from a strain of Bacillus
+subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Purification and preliminary characterization of the extracellular
+lipase of Bacillus subtilis 168, an extremely basic pH-tolerant
+enzyme.";
+"The crystal structure of Bacillus subtilis lipase: a minimal
+alpha/beta hydrolase fold enzyme.";
+"Alternate conformations observed in catalytic serine of Bacillus
+subtilis lipase determined at 1.3 A resolution.";
+-!- FUNCTION: Active toward p-nitrophenyl esters and triacylglycerides
+    with a marked preference for esters with C8 acyl groups.
+-!- CATALYTIC ACTIVITY: Triacylglycerol + H(2)O = diacylglycerol + a
+    carboxylate.
+-!- ENZYME REGULATION: Strongly inhibited when incubated with the
+    serine reagent phenylmethylsulfonyl fluoride. Activated by the
+    addition of calcium to the reaction mixture. When calcium was
+    incubated with the lipase but not added to the reaction mixture,
+    its effect is lower but still observable. Magnesium, manganese and
+    strontium are not able to replace calcium with full retention of
+    activity.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 10. The activity decreases strongly above pH 10.5
+      or below pH 6.5. The enzyme is remarkably stable at alkaline pH,
+      showing maximum stability at pH 12 and retaining more than 65%
+      of its activity after 24 hours at pH 13;
+    Temperature dependence:
+      Optimum temperature is 35 degrees Celsius. Stable for at least
+      30 minutes at 40 degrees Celsius. Virtually no activity remains
+      after 30 minutes at 55 degrees Celsius;
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- INDUCTION: Maximally expressed in late exponential growth phase.
+    Expression decreases rapidly in the stationary phase.
+ GO:0004806; F:triacylglycerol lipase activity; IEA:EC.
+3D-structure; Complete proteome; Hydrolase; Lipid degradation; Signal.
+TMZERO

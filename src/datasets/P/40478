@@ -1,0 +1,23 @@
+AC   P24585;
+Degenerin deg-1 (Degeneration of certain neurons protein 1).
+"Regulation of Caenorhabditis elegans degenerin proteins by a putative
+extracellular domain.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"The identification and suppression of inherited neurodegeneration in
+Caenorhabditis elegans.";
+-!- FUNCTION: Probable sodium channel subunit. Required by a subset of
+    neurons.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long;
+      IsoId=P24585-1; Sequence=Displayed;
+    Name=Short;
+      IsoId=P24585-2; Sequence=VSP_006198;
+-!- SIMILARITY: Belongs to the amiloride-sensitive sodium channel
+    family.
+Alternative splicing; Complete proteome; Glycoprotein; Ion transport;
+Ionic channel; Membrane; Neurodegeneration; Sodium; Sodium channel;
+Sodium transport; Transmembrane; Transport.
+TMTWO

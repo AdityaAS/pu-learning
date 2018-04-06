@@ -1,0 +1,20 @@
+AC   P18275;
+Arginine/ornithine antiporter.
+"The arc operon for anaerobic arginine catabolism in Pseudomonas
+aeruginosa contains an additional gene, arcD, encoding a membrane
+protein.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"arcD, the first gene of the arc operon for anaerobic arginine
+catabolism in Pseudomonas aeruginosa, encodes an arginine-ornithine
+exchanger.";
+-!- FUNCTION: Catalyzes an electroneutral exchange between arginine
+    and ornithine to allow high-efficiency energy conversion in the
+    arginine deiminase pathway.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily.
+Amino-acid transport; Antiport; Complete proteome; Inner membrane;
+Membrane; Transmembrane; Transport.
+TMTHIRTEEN

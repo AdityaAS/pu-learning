@@ -1,0 +1,15 @@
+AC   Q69FB6;
+Cytochrome P450 19A1 (EC 1.14.14.1) (Aromatase) (CYPXIX) (Estrogen
+synthetase) (P-450AROM).
+"Characterization of a cetacean aromatase (CYP19) and the phylogeny
+and functional conservation of vertebrate aromatase.";
+-!- FUNCTION: Catalyzes the formation of aromatic C18 estrogens from
+    C19 androgens.
+-!- CATALYTIC ACTIVITY: RH + reduced flavoprotein + O(2) = ROH +
+    oxidized flavoprotein + H(2)O.
+-!- SUBCELLULAR LOCATION: Membrane; peripheral membrane protein.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+ GO:0050381; F:unspecific monooxygenase activity; IEA:EC.
+Heme; Iron; Membrane; Metal-binding; Monooxygenase; Oxidoreductase;
+Phosphorylation.
+TMZERO

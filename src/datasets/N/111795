@@ -1,0 +1,10 @@
+AC   Q44145;
+Nitrogenase iron-molybdenum cofactor biosynthesis protein nifN.
+"Complete genomic sequence of the filamentous nitrogen-fixing
+cyanobacterium Anabaena sp. strain PCC 7120.";
+-!- FUNCTION: This protein may play a role in the biosynthesis of the
+    prosthetic group of nitrogenase (FeMo cofactor).
+-!- PATHWAY: Fe-Mo cofactor biosynthesis.
+-!- SIMILARITY: Belongs to the nifD/nifK/nifE/nifN family.
+Complete proteome; Nitrogen fixation.
+TMZERO

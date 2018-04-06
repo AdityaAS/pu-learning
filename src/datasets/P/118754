@@ -1,0 +1,15 @@
+AC   O32243; O31407;
+Glycine betaine/carnitine/choline-binding protein precursor
+(Osmoprotectant-binding protein).
+"Two evolutionarily closely related ABC transporters mediate the
+uptake of choline for synthesis of the osmoprotectant glycine betaine
+in Bacillus subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Member of a high affinity multicomponent binding-
+    protein-dependent transport system for glycine betaine, carnitine,
+    and choline.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Probable).
+Amino-acid transport; Complete proteome; Lipoprotein; Membrane;
+Palmitate; Signal; Transport.
+TMZERO

@@ -1,0 +1,8 @@
+AC   Q88YI4;
+UPF0042 protein lp_0779.
+"Complete genome sequence of Lactobacillus plantarum WCFS1.";
+-!- SIMILARITY: Belongs to the UPF0042 family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+ATP-binding; Complete proteome; Nucleotide-binding.
+TMZERO

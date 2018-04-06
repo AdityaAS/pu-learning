@@ -1,0 +1,33 @@
+AC   P41807;
+Vacuolar ATP synthase subunit H (EC 3.6.3.14) (V-ATPase H subunit)
+(Vacuolar proton pump subunit H) (V-ATPase 54 kDa subunit).
+"VMA13 encodes a 54-kDa vacuolar H(+)-ATPase subunit required for
+activity but not assembly of the enzyme complex in Saccharomyces
+cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Global analysis of protein expression in yeast.";
+"Crystal structure of the regulatory subunit H of the V-type ATPase of
+Saccharomyces cerevisiae.";
+-!- FUNCTION: Vacuolar ATPases regulate the organelle acidity. This
+    subunit is essential for activity, but not assembly, of the enzyme
+    complex.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'', d and e).
+-!- INTERACTION:
+    P33203:PRP40; NbExp=1; IntAct=EBI-20281, EBI-701;
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; peripheral
+    membrane protein.
+-!- MISCELLANEOUS: Present with 22500 molecules/cell.
+-!- SIMILARITY: Belongs to the V-ATPase H subunit family.
+ GO:0000221; C:hydrogen-transporting ATPase V1 domain; TAS:SGD.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); TAS:SGD.
+ GO:0046961; F:hydrogen-transporting ATPase activity, rota...; TAS:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0007035; P:vacuolar acidification; TAS:SGD.
+3D-structure; ATP synthesis; Complete proteome;
+Hydrogen ion transport; Hydrolase; Ion transport; Transport; Vacuole.
+TMZERO

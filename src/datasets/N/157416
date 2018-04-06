@@ -1,0 +1,31 @@
+AC   O74825;
+DNA-directed RNA polymerase II 16 kDa polypeptide (EC 2.7.7.6).
+"The Rpb4 subunit of fission yeast Schizosaccharomyces pombe RNA
+polymerase II is essential for cell viability and similar in structure
+to the corresponding subunits of higher eukaryotes.";
+"RNA polymerase II from Schizosaccharomyces pombe contains 12
+different subunits: identification and characterization of subunit
+Rpb4.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+    of DNA into RNA using the four ribonucleoside triphosphates as
+    substrates. Associates with rpb7.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: RNA polymerase II consists of 12 different subunits (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- MISCELLANEOUS: Three distinct zinc-containing RNA polymerases are
+    found in eukaryotic nuclei: polymerase I for the ribosomal RNA
+    precursor, polymerase II for the mRNA precursor, and polymerase
+    III for 5S and tRNA genes.
+-!- SIMILARITY: Belongs to the eukaryotic RPB4 RNA polymerase subunit
+    family.
+ GO:0016591; C:DNA-directed RNA polymerase II, holoenzyme; TAS:GeneDB_SPombe.
+ GO:0005739; C:mitochondrion; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0005515; F:protein binding; IGI:GeneDB_SPombe.
+ GO:0006366; P:transcription from RNA polymerase II promoter; TAS:GeneDB_SPombe.
+Complete proteome; DNA-directed RNA polymerase; Nuclear protein;
+Nucleotidyltransferase; Transcription; Transferase.
+TMZERO

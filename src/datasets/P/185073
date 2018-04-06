@@ -1,0 +1,35 @@
+AC   P69423; P27857; P27858; P76765; P76766; Q2M8E3;
+Sec-independent protein translocase protein tatC.
+"Overlapping functions of components of a bacterial Sec-independent
+protein export pathway.";
+"A novel and ubiquitous system for membrane targeting and secretion of
+cofactor-containing proteins.";
+"Analysis of the Escherichia coli genome: DNA sequence of the region
+from 84.5 to 86.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"TatB and TatC form a functional and structural unit of the twin-
+arginine translocase from Escherichia coli.";
+"An essential component of a novel bacterial protein export system
+with homologues in plastids and mitochondria.";
+"The Tat protein export pathway.";
+"Essential cytoplasmic domains in the Escherichia coli TatC protein.";
+"Functional complexity of the twin-arginine translocase TatC component
+revealed by site-directed mutagenesis.";
+"Rapid topology mapping of Escherichia coli inner-membrane proteins by
+prediction and PhoA/GFP fusion analysis.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Required for correct localization of precursor proteins
+    bearing signal peptides with the twin arginine conserved motif
+    S/T-R-R-X-F-L-K. This sec-independent pathway is termed TAT for
+    twin-arginine translocation system. This system mainly transports
+    proteins with bound cofactors that require folding prior to export
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the tatC family.
+Complete proteome; Direct protein sequencing; Inner membrane;
+Membrane; Protein transport; Translocation; Transmembrane; Transport.
+TMSIX

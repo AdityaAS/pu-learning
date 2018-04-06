@@ -1,0 +1,12 @@
+AC   Q5GRP0;
+Recombination protein recR.
+"The Wolbachia genome of Brugia malayi: endosymbiont evolution within
+a human pathogenic nematode.";
+-!- FUNCTION: May play a role in DNA repair. It seems to be involved
+    in an recBC-independent recombinational process of DNA repair. It
+    may act with recF and recO (By similarity).
+-!- SIMILARITY: Belongs to the recR family.
+ GO:0003677; F:DNA binding; IEA:HAMAP.
+Complete proteome; DNA damage; DNA recombination; DNA repair;
+Metal-binding; Zinc; Zinc-finger.
+TMZERO

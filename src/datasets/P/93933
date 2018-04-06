@@ -1,0 +1,30 @@
+AC   P0AD96; P02917; P76698; Q2M7C3; Q8CVL7; Q8X6S2;
+Leu/Ile/Val-binding protein precursor (LIV-BP).
+"The complete nucleotide sequences of the Escherichia coli LIV-BP and
+LS-BP genes. Implications for the mechanism of high-affinity branched-
+chain amino acid transport.";
+"The leucine binding proteins of Escherichia coli as models for
+studying the relationships between protein structure and function.";
+"Nucleotide sequence and genetic characterization reveal six essential
+genes for the LIV-I and LS transport systems of Escherichia coli.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The primary structure of a Leu, Ile and Val (LIV)-binding protein
+from Escherichia coli.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Periplasmic binding protein structure and function. Refined X-ray
+structures of the leucine/isoleucine/valine-binding protein and its
+complex with leucine.";
+-!- FUNCTION: This protein is a component of the leucine, isoleucine,
+    valine, (threonine) transport system, which is one of the two
+    periplasmic binding protein-dependent transport systems of the
+    high-affinity transport of the branched-chain amino acids.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the leucine-binding protein family.
+3D-structure; Amino-acid transport; Complete proteome;
+Direct protein sequencing; Periplasmic; Signal; Transport.
+TMZERO

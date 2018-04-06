@@ -1,0 +1,18 @@
+AC   P03587; O41352;
+RNA-directed RNA polymerase (EC 2.7.7.48) (183 kDa protein) [Contains:
+Methyltransferase/RNA helicase (MT/HEL) (126 kDa protein)].
+"Nucleotide sequence of the tobacco mosaic virus (tomato strain)
+genome and comparison with the common strain genome.";
+-!- FUNCTION: The longer protein is a RNA polymerase active in viral
+    RNA replication.
+-!- FUNCTION: The smaller protein is a methyltransferase active in RNA
+    capping and an RNA helicase.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- MISCELLANEOUS: Readthrough of the terminator codon UAG occurs
+    between codons for Gln-1116 and Gln-1118.
+-!- SIMILARITY: Contains 1 RdRp catalytic domain.
+ATP-binding; Helicase; Hydrolase; Nucleotide-binding;
+Nucleotidyltransferase; RNA replication; RNA-directed RNA polymerase;
+Transferase.
+TMZERO

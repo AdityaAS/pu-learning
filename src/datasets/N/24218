@@ -1,0 +1,29 @@
+AC   P24869;
+G2/mitotic-specific cyclin-2.
+"The role of CDC28 and cyclins during mitosis in the budding yeast S.
+cerevisiae.";
+"Cyclin-B homologs in Saccharomyces cerevisiae function in S phase and
+in G2.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Essential for the control of the cell cycle at the G2/M
+    (mitosis) transition. Interacts with the CDC2 protein kinase to
+    form MPF. G2/M cyclins accumulate steadily during G2 and are
+    abruptly destroyed at mitosis.
+-!- INTERACTION:
+    P00546:CDC28; NbExp=1; IntAct=EBI-4515, EBI-4253;
+    P47035:NET1; NbExp=1; IntAct=EBI-4515, EBI-25953;
+-!- DEVELOPMENTAL STAGE: Maximally expressed before mitosis. The
+    levels peak late in the G2 phase of the cell cycle and are at a
+    minimum in G1 phase.
+-!- MISCELLANEOUS: Present with 339 molecules/cell.
+-!- SIMILARITY: Belongs to the cyclin family. Cyclin AB subfamily.
+ GO:0005935; C:bud neck; IDA:SGD.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0005819; C:spindle; IDA:SGD.
+ GO:0005816; C:spindle pole body; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0000086; P:G2/M transition of mitotic cell cycle; IEP:SGD.
+Cell cycle; Cell division; Complete proteome; Cyclin; Mitosis.
+TMZERO

@@ -1,0 +1,45 @@
+AC   P17971; Q9VW11;
+Potassium voltage-gated channel protein Shal (Shal2).
+"K+ current diversity is produced by an extended gene family conserved
+in Drosophila and mouse.";
+"Shal, Shab, and Shaw: three genes encoding potassium channels in
+Drosophila.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Mediates the voltage-dependent potassium ion
+    permeability of excitable membranes. Assuming opened or closed
+    conformations in response to the voltage difference across the
+    membrane, the protein forms a potassium-selective channel through
+    which potassium ions may pass in accordance with their
+    electrochemical gradient. May play a role in the nervous system
+    and in the regulation of beating frequency in pacemaker cells.
+-!- SUBUNIT: Heterotetramer of potassium channel proteins (By
+    similarity).
+-!- INTERACTION:
+    Q9VYA8:CG11176; NbExp=1; IntAct=EBI-145706, EBI-95641;
+    Q9VBL2:CG5890; NbExp=1; IntAct=EBI-145706, EBI-105608;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=P17971-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P17971-2; Sequence=Not described;
+-!- DOMAIN: The N-terminus may be important in determining the rate of
+    inactivation of the channel while the tail may play a role in
+    modulation of channel activity and/or targeting of the channel to
+    specific subcellular compartments.
+-!- MISCELLANEOUS: The segment S4 is probably the voltage-sensor and
+    is characterized by a series of positively charged amino acids at
+    every third position.
+-!- SIMILARITY: Belongs to the potassium channel family. Shal
+    subfamily.
+ GO:0008076; C:voltage-gated potassium channel complex; TAS:FlyBase.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0005249; F:voltage-gated potassium channel activity; TAS:FlyBase.
+ GO:0006813; P:potassium ion transport; TAS:FlyBase.
+Alternative splicing; Complete proteome; Glycoprotein; Ion transport;
+Ionic channel; Membrane; Potassium; Potassium channel;
+Potassium transport; Transmembrane; Transport; Voltage-gated channel.
+TMSIX

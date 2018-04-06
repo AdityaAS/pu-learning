@@ -1,0 +1,14 @@
+AC   P06808;
+Lysis protein (Holin) (Protein rV).
+"Nucleotide sequence of gene t (lysis gene) of the E. coli phage T4.";
+"Bacteriophage T4 genome.";
+"Receptor-recognizing proteins of T-even type bacteriophages. Constant
+and hypervariable regions and an unusual case of evolution.";
+"The asiA gene of bacteriophage T4 codes for the anti-sigma 70
+protein.";
+-!- FUNCTION: At the end of the growth cycle, phage T4 expresses two
+    genes with lysis function, e and t. Nothing is known about the
+    gene product of t, although it has been suggested that it acts as
+    a phospholipase.
+Membrane; Phage lysis protein; Transmembrane.
+TMONE

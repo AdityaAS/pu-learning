@@ -1,0 +1,11 @@
+AC   P15746;
+General secretion pathway protein G precursor (Pullulanase secretion
+protein pulG).
+"Five additional genes in the pulC-O operon of the Gram-negative
+bacterium Klebsiella oxytoca UNF5023 which are required for
+pullulanase secretion.";
+-!- FUNCTION: Involved in a general secretion pathway (GSP) for the
+    export of proteins. Required for the translocation of pullulanase.
+-!- SIMILARITY: Belongs to the GSP G family.
+3D-structure; Methylation; Transport.
+TMZERO

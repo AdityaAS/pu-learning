@@ -1,0 +1,28 @@
+AC   O43031; Q9US93;
+Pre-mRNA-splicing factor spp2 (Complexed with cdc5 protein 28) (Cell
+cycle control protein cwf28).
+"The genome sequence of Schizosaccharomyces pombe.";
+"Large-scale screening of intracellular protein localization in living
+fission yeast cells by the use of a GFP-fusion genomic DNA library.";
+"Proteomics analysis reveals stable multiprotein complexes in both
+fission and budding yeasts containing Myb-related Cdc5p/Cef1p, novel
+pre-mRNA splicing factors, and snRNAs.";
+-!- FUNCTION: Involved in spliceosome maturation and the first step of
+    pre-mRNA splicing (By similarity).
+-!- SUBUNIT: Belongs to the 40S cdc5-associated complex (or cwf
+    complex), spliceosome sub-complex reminiscent of a late-stage
+    spliceosome composed of the U2, U5 and U6 snRNAs and at least
+    brr2, cdc5, cwf2, cwf3, cwf4, cwf5, cwf6, cwf7, cwf8, cwf9, cwf10,
+    cwf11, cwf12, cwf13, cwf14, cwf15, cwf16, cwf17, cwf18, cwf19,
+    cwf20, cwf21, cwf22, cwf23, cwf24, cwf25, cwf26, cwf27, cwf28,
+    ist3, lea1, msl1, prp5, prp10, prp12, prp17, prp22, sap61, sap62,
+    sap114, sap145, slu7, smb1, smd1, smd3, smf1, smg1 and syf2.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the SPP2 family.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0005819; C:spindle; IDA:GeneDB_SPombe.
+ GO:0005816; C:spindle pole body; IDA:GeneDB_SPombe.
+Coiled coil; Complete proteome; mRNA processing; mRNA splicing;
+Nuclear protein; Spliceosome.
+TMZERO

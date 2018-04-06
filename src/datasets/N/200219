@@ -1,0 +1,31 @@
+AC   O83154;
+UvrABC system protein B (Protein uvrB) (Excinuclease ABC subunit B).
+"Complete genome sequence of Treponema pallidum, the syphilis
+spirochete.";
+-!- FUNCTION: The UvrABC repair system catalyzes the recognition and
+    processing of DNA lesions. A damage recognition complex composed
+    of 2 uvrA and 2 uvrB subunits scans DNA for abnormalities. Upon
+    binding of the uvrA(2)B(2) complex to a putative damaged site, the
+    DNA wraps around one uvrB monomer. DNA wrap is dependent on ATP
+    binding by uvrB and probably causes local melting of the DNA
+    helix, facilitating insertion of uvrB beta-hairpin between the DNA
+    strands. Then uvrB probes one DNA strand for the presence of a
+    lesion. If a lesion is found the uvrA subunits dissociate and the
+    uvrB-DNA preincision complex is formed. This complex is
+    subsequently bound by uvrC and the second uvrB is released. If no
+    lesion is found, the DNA wraps around the other uvrB subunit that
+    will check the other stand for damage (By similarity).
+-!- SUBUNIT: Forms a heterotetramer with uvrA during the search for
+    lesions. Interacts with uvrC in an incision complex (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- DOMAIN: The beta-hairpin motif is involved in DNA binding (By
+    similarity).
+-!- SIMILARITY: Belongs to the uvrB family.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+-!- SIMILARITY: Contains 1 UVR domain.
+ GO:0009432; P:SOS response; IEA:HAMAP.
+ATP-binding; Complete proteome; DNA damage; DNA excision; DNA repair;
+Excision nuclease; Nucleotide-binding; SOS response.
+TMZERO

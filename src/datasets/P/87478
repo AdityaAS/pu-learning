@@ -1,0 +1,27 @@
+AC   P77338; Q2MBW2;
+Potassium efflux system kefA precursor (Protein aefA).
+"Characterisation of the aefA locus of E.coli.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Protection of Escherichia coli cells against extreme turgor by
+activation of MscS and MscL mechanosensitive channels: identification
+of genes required for MscS activity.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Mechanosensitive channel that opens in response to
+    stretch forces in the membrane lipid bilayer. May participate in
+    the regulation of osmotic pressure changes within the cell,
+    although it does not appear to have a major role in osmolarity
+    regulation. Forms an ion channel of 1.0 nanosiemens conductance.
+    The channel can remain active for between 30 seconds and over 3
+    minutes; it does not desensitize upon extended pressure. Its
+    activity is masked in wild-type cells by the mscS channel.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the mscS (TC 1.A.23) family.
+Coiled coil; Complete proteome; Inner membrane; Ion transport;
+Membrane; Potassium; Potassium transport; Signal; Transmembrane;
+Transport.
+TMELEVEN

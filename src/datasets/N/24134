@@ -1,0 +1,54 @@
+AC   O35732; O35707; O35733;
+CASP8 and FADD-like apoptosis regulator precursor (Cellular FLICE-like
+inhibitory protein) (c-FLIP) (Caspase-eight-related protein) (Casper)
+(Caspase-like apoptosis regulatory protein) (CLARP) (MACH-related
+inducer of toxicity) (MRIT) (Caspase homolog) (CASH) (Inhibitor of
+FLICE) (I-FLICE) (FADD-like antiapoptotic molecule 1) (FLAME-1)
+(Usurpin) [Contains: CASP8 and FADD-like apoptosis regulator subunit
+p43; CASP8 and FADD-like apoptosis regulator subunit p12].
+"CASH, a novel caspase homologue with death effector domains.";
+"Inhibition of death receptor signals by cellular FLIP.";
+"Requirement for Casper (c-FLIP) in regulation of death receptor-
+induced apoptosis and embryonic development.";
+"Inhibition of Fas-mediated apoptosis by the B cell antigen receptor
+through c-FLIP.";
+-!- FUNCTION: Apoptosis regulator protein which may function as a
+    crucial link between cell survival and cell death pathways in
+    mammalian cells. Acts as an inhibitor of TNFRSF6 mediated
+    apoptosis. A proteolytic fragment (p43) is likely retained in the
+    death-inducing signaling complex (DISC) thereby blocking further
+    recruitment and processing of caspase-8 at the complex. Full
+    length and shorter isoforms have been shown either to induce
+    apoptosis or to reduce TNFRSF-triggered apoptosis. Lacks enzymatic
+    (caspase) activity (By similarity).
+-!- SUBUNIT: TNFRSF6 stimulation triggers recruitment to the death-
+    inducing signaling complex (DISC) formed by TNFRSF6, FADD and
+    caspase-8. A proteolytic fragment (p43) stays associated with the
+    DISC (By similarity).
+-!- INTERACTION:
+    Q61160:Fadd; NbExp=1; IntAct=EBI-851729, EBI-524415;
+    Q8C863:Itch; NbExp=1; IntAct=EBI-851729, EBI-851782;
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=FLIP-L, CASH alpha;
+      IsoId=O35732-1; Sequence=Displayed;
+    Name=2; Synonyms=FLIP-S, CASH beta;
+      IsoId=O35732-2; Sequence=VSP_000842, VSP_000843;
+-!- TISSUE SPECIFICITY: Highly expressed in heart.
+-!- DEVELOPMENTAL STAGE: At embryonic days E9.5 and E10.5 highest
+    expression in developing heart.
+-!- INDUCTION: Isoform 1 but not isoform 2 is activated by BCR cross-
+    linking in primary B-cells.
+-!- DOMAIN: The caspase domain lacks the active sites residues
+    involved in catalysis.
+-!- PTM: Proteolytically processed; probably by caspase-8. Processing
+    likely occurs at the DISC and generates subunit p43 and p12 (By
+    similarity).
+-!- SIMILARITY: Belongs to the peptidase C14 family.
+-!- SIMILARITY: Contains 2 DED (death effector) domains.
+ GO:0005737; C:cytoplasm; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0043066; P:negative regulation of apoptosis; IMP:MGI.
+ GO:0043154; P:negative regulation of caspase activity; IMP:MGI.
+Alternative splicing; Apoptosis; Repeat.
+TMZERO

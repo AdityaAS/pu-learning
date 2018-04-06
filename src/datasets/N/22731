@@ -1,0 +1,16 @@
+AC   Q3C2E2;
+B-lymphocyte antigen CD20 (Membrane-spanning 4-domains subfamily A
+member 1).
+"Canine CD20 gene.";
+-!- FUNCTION: This protein may be involved in the regulation of B-cell
+    activation and proliferation (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- TISSUE SPECIFICITY: Expressed in PBMCs and lymph node from healthy
+    dogs, in B-cells of canine lymphoma, but not in T-cell lymphoma
+    cells and non-T and non-B-cell lymphoma cells.
+-!- PTM: Phosphorylated. Might be functionally regulated by protein
+    kinase(s) (By similarity).
+-!- SIMILARITY: Belongs to the MS4A family.
+B-cell activation; Membrane; Phosphorylation; Transmembrane.
+TMFOUR

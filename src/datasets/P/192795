@@ -1,0 +1,25 @@
+AC   P96116; Q56329;
+Periplasmic zinc-binding protein troA precursor (Tromp-1).
+"Porin activity and sequence analysis of a 31-kilodalton Treponema
+pallidum subsp. pallidum rare outer membrane protein (Tromp1).";
+"Identification and transcriptional analysis of a Treponema pallidum
+operon encoding a putative ABC transport system, an iron-activated
+repressor protein homolog, and a glycolytic pathway enzyme homolog.";
+"Complete genome sequence of Treponema pallidum, the syphilis
+spirochete.";
+"Physicochemical evidence that Treponema pallidum TroA is a zinc-
+containing metalloprotein that lacks porin-like structure.";
+"Treponema pallidum TroA is a periplasmic zinc-binding protein with a
+helical backbone.";
+-!- FUNCTION: Part of an ATP-driven transport system troABCD for zinc.
+    Substrate-binding protein involved in the transport of zinc across
+    the cytoplasmic membrane.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 9
+    family.
+-!- CAUTION: Was originally (Ref.1) thought to be an outer membrane
+    protein with porin-like properties.
+3D-structure; Complete proteome; Ion transport; Metal-binding;
+Periplasmic; Signal; Transport; Zinc; Zinc transport.
+TMZERO

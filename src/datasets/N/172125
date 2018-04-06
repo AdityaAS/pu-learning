@@ -1,0 +1,37 @@
+AC   P79858; P79859;
+Sonic hedgehog protein (SHH) (Fragments).
+"Evolutionary analyses of hedgehog and Hoxd-10 genes in fish species
+closely related to the zebrafish.";
+-!- FUNCTION: Intercellular signal essential for a variety of
+    patterning events during development. Signal produced by the
+    notochord that induces somite patterning, dorso-ventral patterning
+    of the brain and early patterning of the developing eyes. Displays
+    floor plate-inducing activity. Binds to the patched (PTC)
+    receptor, which functions in association with smoothened (SMO), to
+    activate the transcription of target genes. In the absence of SHH,
+    PTC represses the constitutive signaling activity of SMO (By
+    similarity).
+-!- SUBUNIT: N-product is active as a multimer (By similarity).
+-!- SUBCELLULAR LOCATION: Sonic hedgehog protein C-product: Secreted
+    protein; extracellular space (By similarity). Sonic hedgehog
+    protein N-product: Cell membrane; lipid-anchor (By similarity).
+    Note=The C-terminal peptide diffuses from the cell, while the N-
+    product either remains associated with lipid rafts at the cell
+    surface, or forms freely diffusible active multimers with its
+    hydrophobic lipid-modified N- and C-termini buried inside (By
+    similarity).
+-!- PTM: The C-terminal domain displays an autoproteolysis activity
+    and a cholesterol transferase activity. Both activities result in
+    the cleavage of the full-length protein and covalent attachment of
+    a cholesterol moiety to the C-terminal of the newly generated N-
+    terminal fragment (N-product). The N-product is the active species
+    in both local and long-range signaling, whereas the C-product has
+    no signaling activity.
+-!- PTM: Cholesterylation is required for N-product targeting to lipid
+    rafts and multimerization (By similarity).
+-!- PTM: N-palmitoylation is required for N-product multimerization
+    and full activity (By similarity).
+-!- SIMILARITY: Belongs to the hedgehog family.
+Autocatalytic cleavage; Developmental protein; Hydrolase; Lipoprotein;
+Membrane; Palmitate; Protease.
+TMZERO

@@ -1,0 +1,37 @@
+AC   P19145;
+General amino-acid permease GAP1.
+"GAP1, the general amino acid permease gene of Saccharomyces
+cerevisiae. Nucleotide sequence, protein similarity with the other
+bakers yeast amino acid permeases, and nitrogen catabolite
+repression.";
+"Complete DNA sequence of yeast chromosome XI.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Cysteine uptake by Saccharomyces cerevisiae is accomplished by
+multiple permeases.";
+"The fenpropimorph resistance gene FEN2 from Saccharomyces cerevisiae
+encodes a plasma membrane H+-pantothenate symporter.";
+"A proteomics approach to understanding protein ubiquitination.";
+"A subset of membrane-associated proteins is ubiquitinated in response
+to mutations in the endoplasmic reticulum degradation machinery.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Permease for various amino acids as well as for GABA.
+    Can also transport L-cysteine and beta-alanine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0005768; C:endosome; IDA:SGD.
+ GO:0030134; C:ER to Golgi transport vesicle; IDA:SGD.
+ GO:0005887; C:integral to plasma membrane; IDA:SGD.
+ GO:0005771; C:multivesicular body; IMP:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0000328; C:vacuolar lumen (sensu Fungi); IDA:SGD.
+ GO:0015359; F:amino acid permease activity; IMP:SGD.
+ GO:0005296; F:L-proline permease activity; IGI:SGD.
+ GO:0015203; F:polyamine transporter activity; IMP:SGD.
+ GO:0006865; P:amino acid transport; IMP:SGD.
+ GO:0015846; P:polyamine transport; IMP:SGD.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport; Ubl conjugation.
+TMTWELVE

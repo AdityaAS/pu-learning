@@ -1,0 +1,11 @@
+AC   Q6LA04;
+Maturase K (Intron maturase).
+"Molecular phylogeny of monocotyledons inferred from combined analysis
+of plastid matK and rbcL gene sequences.";
+-!- FUNCTION: Probably assists in splicing chloroplast group II
+    introns (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the intron maturase 2 family. MatK
+    subfamily.
+Chloroplast; mRNA processing; Plastid.
+TMZERO

@@ -1,0 +1,15 @@
+AC   P59314;
+N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38) (AGPR) (N-
+acetyl-glutamate semialdehyde dehydrogenase) (NAGSA dehydrogenase).
+"The Brucella suis genome reveals fundamental similarities between
+animal and plant pathogens and symbionts.";
+-!- CATALYTIC ACTIVITY: N-acetyl-L-glutamate 5-semialdehyde + NADP(+)
+    + phosphate = N-acetyl-5-glutamyl phosphate + NADPH.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; 2-N-
+    acetyl-L-ornithine from L-glutamate: step 3.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the NAGSA dehydrogenase family. Type 2
+    subfamily.
+Amino-acid biosynthesis; Arginine biosynthesis; Complete proteome;
+NADP; Oxidoreductase.
+TMZERO

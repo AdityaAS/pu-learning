@@ -1,0 +1,19 @@
+AC   P43568;
+Serine/threonine-protein kinase CAK1 (EC 2.7.11.22) (CDK-activating
+kinase).
+"The Cdk-activating kinase (CAK) from budding yeast.";
+"Analysis of the nucleotide sequence of chromosome VI from
+Saccharomyces cerevisiae.";
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+    CDC2/CDKX subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0019912; F:cyclin-dependent protein kinase activating ...; IDA:SGD.
+ GO:0000080; P:G1 phase of mitotic cell cycle; IMP:SGD.
+ GO:0000086; P:G2/M transition of mitotic cell cycle; IMP:SGD.
+ GO:0007126; P:meiosis; IGI:SGD.
+ GO:0006468; P:protein amino acid phosphorylation; IDA:SGD.
+ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

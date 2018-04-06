@@ -1,0 +1,7 @@
+AC   Q8D757;
+UPF0181 protein VV2_0310.
+"Complete genome sequence of Vibrio vulnificus CMCP6.";
+-!- SIMILARITY: Belongs to the UPF0181 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

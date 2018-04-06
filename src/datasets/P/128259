@@ -1,0 +1,16 @@
+AC   P87284;
+Plasma membrane proteolipid 3.
+"Membrane hyperpolarization and salt sensitivity induced by deletion
+of PMP3, a highly conserved small protein of yeast plasma membrane.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+-!- FUNCTION: Plays a role in the regulation of membrane potential.
+    Could mediate a proton leak.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the UPF0057 (PMP3) family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0006812; P:cation transport; IMP:SGD.
+Complete proteome; Direct protein sequencing; Membrane; Transmembrane.
+TMTWO

@@ -1,0 +1,28 @@
+AC   P21306;
+ATP synthase epsilon chain, mitochondrial (EC 3.6.3.14).
+"Isolation and complete amino acid sequence of the mitochondrial ATP
+synthase epsilon-subunit of the yeast Saccharomyces cerevisiae.";
+"ATP synthase of yeast mitochondria. Isolation and disruption of the
+ATP epsilon gene.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: This is the smallest of the 5 chains of the enzymatic
+    component (coupling factor CF(1)) of the mitochondrial ATPase
+    complex.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- MISCELLANEOUS: Present with 4280 molecules/cell.
+-!- SIMILARITY: Belongs to the eukaryotic ATPase epsilon family.
+ GO:0005756; C:proton-transporting ATP synthase, central s...; IMP:SGD.
+ GO:0015986; P:ATP synthesis coupled proton transport; IMP:SGD.
+ATP synthesis; CF(1); Complete proteome; Direct protein sequencing;
+Hydrogen ion transport; Hydrolase; Ion transport; Mitochondrion;
+Transport.
+TMZERO

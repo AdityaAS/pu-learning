@@ -1,0 +1,16 @@
+AC   P09731; Q7M6G4;
+Unique short US7 glycoprotein precursor (gpUS7) (HXLF5).
+"Sequence of the short unique region, short repeats, and part of the
+long repeats of human cytomegalovirus.";
+"Analysis of the protein-coding content of the sequence of human
+cytomegalovirus strain AD169.";
+"The human cytomegalovirus genome revisited: comparison with the
+chimpanzee cytomegalovirus genome.";
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; single-pass type I membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the cytomegaloviruses US6 family.
+-!- SIMILARITY: Contains 1 Ig-like H-type (immunoglobulin-like)
+    domain.
+Endoplasmic reticulum; Glycoprotein; Immunoglobulin domain; Membrane;
+Signal; Transmembrane.
+TMONE

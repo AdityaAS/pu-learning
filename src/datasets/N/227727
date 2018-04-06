@@ -1,0 +1,42 @@
+AC   Q04749;
+Target of rapamycin complex 2 subunit AVO2 (TORC2 subunit AVO2)
+(Adheres voraciously to TOR2 protein 2).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"Two TOR complexes, only one of which is rapamycin sensitive, have
+distinct roles in cell growth control.";
+"Tor kinases are in distinct membrane-associated protein complexes in
+Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"The pleckstrin homology domain proteins Slm1 and Slm2 are required
+for actin cytoskeleton organization in yeast and bind
+phosphatidylinositol-4,5-bisphosphate and TORC2.";
+"Molecular organization of target of rapamycin complex 2.";
+-!- FUNCTION: Component of TORC2, which regulates cell cycle-dependent
+    polarization of the actin-cytoskeleton and cell wall integrity.
+    TORC2 controls polarity of the actin cytoskeleton, which is
+    required for orienting the secretory pathway toward discrete
+    growth sites, via the RHO1/PKC1/MAPK cell integrity pathway.
+-!- SUBUNIT: The target of rapamycin complex 2 (TORC2) is composed of
+    at least AVO1, AVO2, BIT61, LST8, TOR2 and TSC11. TORC2 likely
+    forms a homodimer. Contrary to TORC1, TORC2 does not bind to and
+    is not sensitive to FKBP-rapamycin. AVO2 is peripherally
+    associated to AVO1 and TSC11.
+-!- INTERACTION:
+    P43603:YFR024C; NbExp=1; IntAct=EBI-28131, EBI-22980;
+    P53060:YGL250W; NbExp=1; IntAct=EBI-28131, EBI-24228;
+    P53955:YNL047C; NbExp=1; IntAct=EBI-28131, EBI-28706;
+    P32793:YSC84; NbExp=1; IntAct=EBI-28131, EBI-24460;
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein,
+    cytoplasmic side. Vacuole; vacuolar membrane; peripheral membrane
+    protein; cytoplasmic side.
+-!- MISCELLANEOUS: Present with 1180 molecules/cell.
+-!- SIMILARITY: Contains 5 ANK repeats.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0031932; C:TORC 2 complex; IPI:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0031505; P:cell wall organization and biogenesis (sens...; IPI:SGD.
+ GO:0030950; P:establishment and/or maintenance of actin c...; IPI:SGD.
+ GO:0001558; P:regulation of cell growth; IPI:SGD.
+ANK repeat; Complete proteome; Membrane; Repeat; Vacuole.
+TMZERO

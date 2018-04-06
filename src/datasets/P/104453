@@ -1,0 +1,17 @@
+AC   Q00752;
+Multiple sugar-binding transport ATP-binding protein msmK.
+"A binding protein-dependent transport system in Streptococcus mutans
+responsible for multiple sugar metabolism.";
+"Genome sequence of Streptococcus mutans UA159, a cariogenic dental
+pathogen.";
+-!- FUNCTION: Involved in a binding protein-dependent transport system
+    responsible for the uptake of melibiose, raffinose and
+    isomaltotriose. Probably responsible for energy coupling to the
+    transport system.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Membrane; Nucleotide-binding;
+Sugar transport; Transport.
+TMZERO

@@ -1,0 +1,19 @@
+AC   Q9WTR6;
+Cystine/glutamate transporter (Amino acid transport system xc-) (xCT).
+"Cloning and expression of a plasma membrane cystine/glutamate
+exchange transporter composed of two distinct proteins.";
+"Electrophile response element-mediated induction of the
+cystine/glutamate exchange transporter gene expression.";
+-!- FUNCTION: Sodium-independent, high-affinity exchange of anionic
+    amino acids with high specificity for anionic form of cystine and
+    glutamate.
+-!- SUBUNIT: Disulfide-linked heterodimer with the amino acid
+    transport protein SLC3A2/4F2hc.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. L-type amino acid transporter (LAT) (TC 2.A.3.8)
+    family.
+Amino-acid transport; Glycoprotein; Membrane; Transmembrane;
+Transport.
+TMTWELVE

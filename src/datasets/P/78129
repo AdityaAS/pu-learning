@@ -1,0 +1,12 @@
+AC   P15686; Q39523;
+H(+)/hexose cotransporter 1.
+"The hexose carrier from Chlorella. cDNA cloning of a eucaryotic H+-
+cotransporter.";
+"The Chlorella H+/hexose cotransporter gene.";
+-!- FUNCTION: Active uptake of hexoses.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: By glucose.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Membrane; Sugar transport; Symport; Transmembrane; Transport.
+TMTWELVE

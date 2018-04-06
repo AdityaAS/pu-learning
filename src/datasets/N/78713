@@ -1,0 +1,20 @@
+AC   P35452; Q9NS03;
+Homeobox protein Hox-D12 (Hox-4H).
+"The role of HOXD11 and HOXD12 for the mesomelic dysplasia Kantaptra
+type.";
+"EVX2, a human homeobox gene homologous to the even-skipped
+segmentation gene, is localized at the 5' end of HOX4 locus on
+chromosome 2.";
+-!- FUNCTION: Sequence-specific transcription factor which is part of
+    a developmental regulatory system that provides cells with
+    specific positional identities on the anterior-posterior axis.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the Abd-B homeobox family.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+ GO:0000228; C:nuclear chromosome; NAS:UniProtKB.
+ GO:0003700; F:transcription factor activity; NAS:UniProtKB.
+ GO:0007275; P:development; NAS:UniProtKB.
+ GO:0006355; P:regulation of transcription, DNA-dependent; NAS:UniProtKB.
+Developmental protein; DNA-binding; Homeobox; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

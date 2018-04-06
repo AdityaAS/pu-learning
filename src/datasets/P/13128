@@ -1,0 +1,30 @@
+AC   P40416;
+Iron-sulfur clusters transporter ATM1, mitochondrial precursor.
+"An ABC transporter in the mitochondrial inner membrane is required
+for normal growth of yeast.";
+"The ABC transporter Atm1p is required for mitochondrial iron
+homeostasis.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"The mitochondrial proteins Atm1p and Nfs1p are essential for
+biogenesis of cytosolic Fe/S proteins.";
+"Global analysis of protein expression in yeast.";
+"The mitochondrial ABC transporter Atm1p functions as a homodimer.";
+-!- FUNCTION: Performs an essential function in the generation of
+    cytoplasmic iron-sulfur proteins by mediating export of Fe/S
+    cluster precursors synthesized by NFS1 and other mitochondrial
+    proteins.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 3250 molecules/cell.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0005743; C:mitochondrial inner membrane; IDA:SGD.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; IMP:SGD.
+ GO:0006879; P:iron ion homeostasis; IMP:SGD.
+ATP-binding; Complete proteome; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Mitochondrion; Nucleotide-binding;
+Transit peptide; Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,17 @@
+AC   P0A2J6; P36669;
+Peptide transport system permease protein sapC.
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: Involved in a peptide intake transport system that plays
+    a role in the resistance to antimicrobial peptides (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. OppBC subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Complete proteome; Inner membrane; Membrane; Peptide transport;
+Protein transport; Transmembrane; Transport.
+TMSIX

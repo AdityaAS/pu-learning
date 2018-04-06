@@ -1,0 +1,14 @@
+AC   Q5FHH4;
+Pyridoxal phosphate biosynthetic protein pdxJ (PNP synthase).
+"Comparative genomic analysis of three strains of Ehrlichia
+ruminantium reveals an active process of genome size plasticity.";
+-!- FUNCTION: Catalyzes the condensation of 1-deoxy-D-xylulose-5-
+    phosphate (DXP) and 1-amino-3-(phosphohydroxy)propan-2-one to form
+    pyridoxine 5'-phosphate (PNP) (By similarity).
+-!- PATHWAY: De novo synthesis of pyridoxine (vitamin B6) and
+    pyridoxal phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the pdxJ family.
+ GO:0042823; P:pyridoxal phosphate biosynthesis; IEA:HAMAP.
+Complete proteome; Pyridoxine biosynthesis.
+TMZERO

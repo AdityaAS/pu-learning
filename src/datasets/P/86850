@@ -1,0 +1,42 @@
+AC   P15383;
+Potassium voltage-gated channel subfamily E member 1 (IKs producing
+slow voltage-gated potassium channel subunit beta Mink) (Minimal
+potassium channel) (Delayed rectifier potassium channel subunit IsK).
+"Cloning of a membrane protein that induces a slow voltage-gated
+potassium current.";
+"Cloning and expression of the delayed-rectifier IsK channel from
+neonatal rat heart and diethylstilbestrol-primed rat uterus.";
+"Estrogen induction of a small, putative K+ channel mRNA in rat
+uterus.";
+"Characterization of gene organization and generation of heterogeneous
+mRNA species of rat ISK protein.";
+"An amino acid mutation in a potassium channel that prevents
+inhibition by protein kinase C.";
+"Subunit composition of minK potassium channels.";
+-!- FUNCTION: Ancillary protein that assembles as a beta subunit with
+    a voltage-gated potassium channel complex of pore-forming alpha
+    subunits. Modulates the gating kinetics and enhances stability of
+    the channel complex. Assembled with KCNQ1/KVLQT1 is proposed to
+    form the slowly activating delayed rectifier cardiac potassium
+    (IKs) channel. The outward current reaches its steady state only
+    after 50 seconds. Assembled with KCNH2/HERG may modulate the
+    rapidly activating component of the delayed rectifying potassium
+    current in heart (IKr) (By similarity).
+-!- SUBUNIT: Associates with KCNQ1/KVLQT1 and KCNH2/HERG (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Restrictively localized in the apical membrane
+    portion of epithelial cells.
+-!- INDUCTION: By estrogen.
+-!- PTM: Phosphorylation inhibits the potassium current.
+-!- MISCELLANEOUS: Mutagenesis experiments were carried out by
+    expressing in Xenopus oocytes MinK mutant either individually
+    (homomultimers) or in combination with wild-type MinK
+    (heteromultimers) in a 1:1 ratio.
+-!- SIMILARITY: Belongs to the potassium channel KCNE family.
+ GO:0005251; F:delayed rectifier potassium channel activity; IMP:RGD.
+Glycoprotein; Ion transport; Ionic channel; Membrane; Phosphorylation;
+Potassium; Potassium channel; Potassium transport; Transmembrane;
+Transport; Voltage-gated channel.
+TMONE

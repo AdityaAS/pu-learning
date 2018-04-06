@@ -1,0 +1,21 @@
+AC   P69367; P75929; P77042; Q9R7P2;
+Multidrug resistance protein mdtH.
+"Cloning, overexpression, and characterization of glutaredoxin 2, an
+atypical glutaredoxin from Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Analysis of a complete library of putative drug transporter genes in
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Confers resistance to norfloxacin and enoxacin.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. DHA1
+    family. MdtH (TC 2.A.1.2.21) subfamily.
+Antibiotic resistance; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTEN

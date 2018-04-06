@@ -1,0 +1,19 @@
+AC   P50227;
+Sulfotransferase 1A1 (EC 2.8.2.1) (Aryl sulfotransferase) (Phenol
+sulfotransferase) (Phenol-sulfating phenol sulfotransferase) (P-PST).
+"Characterization of bovine tracheobronchial phenol sulphotransferase
+cDNA and detection of mRNA regulation by cortisol.";
+"Isolation and characterization of a bovine gene encoding phenol
+sulfotransferase.";
+-!- FUNCTION: Catalyzes the sulfate conjugation of catecholamines and
+    of phenolic drugs.
+-!- CATALYTIC ACTIVITY: 3'-phosphoadenylyl sulfate + a phenol =
+    adenosine 3',5'-bisphosphate + an aryl sulfate.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: Distal lung parenchyma.
+-!- SIMILARITY: Belongs to the sulfotransferase family.
+ GO:0004062; F:aryl sulfotransferase activity; IEA:EC.
+Catecholamine metabolism; Direct protein sequencing; Lipid metabolism;
+Steroid metabolism; Transferase.
+TMZERO

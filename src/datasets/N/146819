@@ -1,0 +1,15 @@
+AC   P49547;
+Chloroplast 50S ribosomal protein L5.
+"The chloroplast genome of a chlorophyll a+c-containing alga,
+Odontella sinensis.";
+-!- FUNCTION: Binds 5S rRNA, forms part of the central protuberance of
+    the 50S subunit (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit; contacts the 5S rRNA
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the ribosomal protein L5P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+Chloroplast; Plastid; Ribonucleoprotein; Ribosomal protein;
+RNA-binding; rRNA-binding.
+TMZERO

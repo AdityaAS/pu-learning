@@ -1,0 +1,11 @@
+AC   P10597;
+Invertase 5 precursor (EC 3.2.1.26) (Beta-fructofuranosidase 5)
+(Saccharase) (Fragment).
+"Structural analysis of the 5' regions of yeast SUC genes revealed
+analogous palindromes in SUC, MAL and GAL.";
+-!- CATALYTIC ACTIVITY: Hydrolysis of terminal non-reducing beta-D-
+    fructofuranoside residues in beta-D-fructofuranosides.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 32 family.
+ GO:0004564; F:beta-fructofuranosidase activity; IEA:EC.
+Glycoprotein; Glycosidase; Hydrolase; Signal.
+TMZERO

@@ -1,0 +1,29 @@
+AC   P38773;
+2-deoxyglucose-6-phosphate phosphatase 2 (EC 3.1.3.68) (2-DOG-6-P 2)
+(2-deoxyglucose-6-phosphatase 2).
+"DOGR1 and DOGR2: two genes from Saccharomyces cerevisiae that confer
+2-deoxyglucose resistance when overexpressed.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Active on 2-DOG-6P, not very active on fructose-1p.
+-!- CATALYTIC ACTIVITY: 2-deoxy-D-glucose 6-phosphate + H(2)O = 2-
+    deoxy-D-glucose + phosphate.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 6;
+    Temperature dependence:
+      Optimum temperature is 40 degrees Celsius;
+-!- INTERACTION:
+    P22696:ESS1; NbExp=1; IntAct=EBI-6028, EBI-6679;
+    P33203:PRP40; NbExp=1; IntAct=EBI-6028, EBI-701;
+    P43582:YFL010C; NbExp=1; IntAct=EBI-6028, EBI-22766;
+-!- MISCELLANEOUS: Present with 2400 molecules/cell.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0003850; F:2-deoxyglucose-6-phosphatase activity; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0030433; P:ER-associated protein catabolism; IMP:SGD.
+ GO:0006950; P:response to stress; IEP:SGD.
+Complete proteome; Hydrolase.
+TMZERO

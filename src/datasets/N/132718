@@ -1,0 +1,36 @@
+AC   Q9V5C6; O17313; Q8MKU6;
+Proteasome subunit alpha type 3 (EC 3.4.25.1) (20S proteasome subunit
+alpha-7).
+"Cloning of the Drosophila melanogaster alpha7 proteasome subunit
+gene.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: The proteasome is a multicatalytic proteinase complex
+    which is characterized by its ability to cleave peptides with Arg,
+    Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or
+    slightly basic pH. The proteasome has an ATP-dependent proteolytic
+    activity (By similarity).
+-!- CATALYTIC ACTIVITY: Cleavage of peptide bonds with very broad
+    specificity.
+-!- SUBUNIT: The proteasome is composed of at least 15 non identical
+    subunits which form a highly ordered ring-shaped structure (By
+    similarity).
+-!- INTERACTION:
+    Q9W137:CG4707; NbExp=1; IntAct=EBI-131307, EBI-140332;
+    P12881:Pros35; NbExp=1; IntAct=EBI-131307, EBI-183209;
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=A;
+      IsoId=Q9V5C6-1; Sequence=Displayed;
+    Name=B;
+      IsoId=Q9V5C6-2; Sequence=VSP_011805;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the peptidase T1A family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Alternative splicing; Complete proteome; Hydrolase; Nuclear protein;
+Protease; Proteasome; Threonine protease.
+TMZERO

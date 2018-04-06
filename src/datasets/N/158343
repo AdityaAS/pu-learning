@@ -1,0 +1,19 @@
+AC   Q81J48;
+DNA-directed RNA polymerase beta chain (EC 2.7.7.6) (RNAP beta
+subunit) (Transcriptase beta chain) (RNA polymerase beta subunit).
+"Genome sequence of Bacillus cereus and comparative analysis with
+Bacillus anthracis.";
+-!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+    of DNA into RNA using the four ribonucleoside triphosphates as
+    substrates.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: The RNAP catalytic core consists of 2 alpha, 1 beta, 1
+    beta' and 1 omega subunit. When a sigma factor is associated with
+    the core the holoenzyme is formed, which can initiate
+    transcription (By similarity).
+-!- SIMILARITY: Belongs to the RNA polymerase beta chain family.
+ GO:0006351; P:transcription, DNA-dependent; IEA:HAMAP.
+Complete proteome; DNA-directed RNA polymerase;
+Nucleotidyltransferase; Transcription; Transferase.
+TMZERO

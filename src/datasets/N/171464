@@ -1,0 +1,21 @@
+AC   Q13530; O43717; Q9BR33;
+Serine incorporator 3 (Tumor differentially expressed protein 1).
+"The human TDE gene homologue: localization to 20q13.1-13.3 and
+variable expression in human tumor cell lines and tissue.";
+"Hypothetical human protein SBBI99.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May be involved in cellular transformation.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- TISSUE SPECIFICITY: Ubiquitous. Expression levels were increased
+    fourfold to tenfold in lung tumor tissues compared with normal
+    pulmonary tissues.
+-!- SIMILARITY: Belongs to the TDE1 family.
+-!- CAUTION: Ref.2 (AAB48858) and Ref.3 (AAD34641) sequences differ
+    from that shown due to frameshifts in positions 321, 393, 407 and
+    459.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+Glycoprotein; Membrane; Polymorphism; Transmembrane.
+TMEIGHT

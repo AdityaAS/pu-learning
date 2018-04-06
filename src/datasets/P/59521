@@ -1,0 +1,14 @@
+AC   P0AEP2; P37021;
+Galactose-proton symporter (Galactose transporter).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Uptake of galactose across the boundary membrane with
+    the concomitant transport of protons into the cell (symport
+    system) (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Inner membrane; Membrane; Sugar transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

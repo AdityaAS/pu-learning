@@ -1,0 +1,16 @@
+AC   Q97FQ7;
+Glutamyl-tRNA(Gln) amidotransferase subunit A 1 (EC 6.3.5.-) (Glu-ADT
+subunit A 1).
+"Genome sequence and comparative analysis of the solvent-producing
+bacterium Clostridium acetobutylicum.";
+-!- FUNCTION: Furnishes a means for formation of correctly charged
+    Gln-tRNA(Gln) through the transamidation of misacylated Glu-
+    tRNA(Gln) in organisms which lack glutaminyl-tRNA synthetase. The
+    reaction takes place in the presence of glutamine and ATP through
+    an activated gamma-phospho-Glu-tRNA(Gln) (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + L-glutamyl-tRNA(Gln) + L-glutamine = ADP
+    + phosphate + L-glutaminyl-tRNA(Gln) + L-glutamate.
+-!- SUBUNIT: Heterotrimer of A, B and C subunits (By similarity).
+-!- SIMILARITY: Belongs to the amidase family.
+Complete proteome; Ligase; Protein biosynthesis.
+TMZERO

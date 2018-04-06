@@ -1,0 +1,19 @@
+AC   Q9JKA5; Q922D5;
+Cell surface A33 antigen precursor (Glycoprotein A33) (mA33).
+"Characterization of mouse A33 antigen; a definitive marker for
+basolateral surfaces of intestinal epithelial cells.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May play a role in cell-cell recognition and signaling
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (By similarity).
+-!- PTM: Palmitoylated (By similarity).
+-!- SIMILARITY: Contains 1 Ig-like C2-type (immunoglobulin-like)
+    domain.
+-!- SIMILARITY: Contains 1 Ig-like V-type (immunoglobulin-like)
+    domain.
+ GO:0005886; C:plasma membrane; IDA:MGI.
+Glycoprotein; Immunoglobulin domain; Lipoprotein; Membrane; Palmitate;
+Signal; Transmembrane.
+TMONE

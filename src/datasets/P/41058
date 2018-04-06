@@ -1,0 +1,11 @@
+AC   P0AA77; P31457;
+D-galactonate transporter.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Intake of galactonate into the cell (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Phthalate permease family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMELEVEN

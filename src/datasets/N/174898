@@ -1,0 +1,20 @@
+AC   Q9XWW1;
+Probable signal peptidase complex subunit 2 (EC 3.4.-.-) (Microsomal
+signal peptidase 25 kDa subunit) (SPase 25 kDa subunit).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Microsomal signal peptidase is a membrane-bound
+    endoproteinase that removes signal peptides from nascent proteins
+    as they are translocated into the lumen of the endoplasmic
+    reticulum (By similarity).
+-!- SUBUNIT: Complex of five different proteins: SEC11L1, SEC11L3,
+    SPCS1, SPCS2 and SPCS3 (By similarity).
+-!- INTERACTION:
+    Q18516:T07C4.1; NbExp=1; IntAct=EBI-330241, EBI-313698;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the SPCS2 family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Endoplasmic reticulum; Hydrolase; Membrane;
+Microsome; Protease; Transmembrane.
+TMTWO

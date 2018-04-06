@@ -1,0 +1,12 @@
+AC   P43728;
+GTP-binding protein era homolog.
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: Binds both GDP and GTP, has an intrinsic GTPase activity
+    and is essential for cell growth (By similarity).
+-!- SIMILARITY: Belongs to the era/trmE GTP-binding protein family.
+    Era subfamily.
+-!- SIMILARITY: Contains 1 KH type-2 domain.
+ GO:0050875; P:cellular physiological process; IEA:HAMAP.
+Complete proteome; GTP-binding; Nucleotide-binding; RNA-binding.
+TMZERO

@@ -1,0 +1,23 @@
+AC   P32804;
+Zinc-regulated transporter 1 (High-affinity zinc transport protein
+ZRT1).
+"Identification of a gene encoding a novel zinc finger protein in
+Saccharomyces cerevisiae.";
+"Sequence of a 39,411 bp DNA fragment covering the left end of
+chromosome VII of Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"The ZRT2 gene encodes the low affinity zinc transporter in
+Saccharomyces cerevisiae.";
+-!- FUNCTION: High-affinity zinc transport protein.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: Induced in activity >100-fold in response to zinc-
+    limiting growth conditions. Not expressed in zinc-replete cells.
+-!- MISCELLANEOUS: Inhibited by Cu(2+) and Fe(3+) ions.
+-!- SIMILARITY: Belongs to the ZIP transporter (TC 2.A.5) family.
+ GO:0005887; C:integral to plasma membrane; IMP:SGD.
+ GO:0000006; F:high affinity zinc uptake transporter activity; IMP:SGD.
+ GO:0006830; P:high-affinity zinc ion transport; IMP:SGD.
+Complete proteome; Ion transport; Membrane; Transmembrane; Transport;
+Zinc; Zinc transport.
+TMEIGHT

@@ -1,0 +1,17 @@
+AC   Q8EI18;
+Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+(EC 2.4.2.21) (NN:DBI PRT) (N(1)-alpha-phosphoribosyltransferase).
+"Genome sequence of the dissimilatory metal ion-reducing bacterium
+Shewanella oneidensis.";
+-!- FUNCTION: Catalyzes the synthesis of alpha-ribazole-5'-phosphate
+    from nicotinate mononucleotide (NAMN) and 5,6-
+    dimethylbenzimidazole (DMB).
+-!- CATALYTIC ACTIVITY: Beta-nicotinate D-ribonucleotide +
+    dimethylbenzimidazole = nicotinate + 1-N-(5-phospho-alpha-D-
+    ribosyl)-5,6-dimethylbenzimidazole.
+-!- PATHWAY: Cobalamin biosynthesis.
+-!- SIMILARITY: Belongs to the cobT family.
+ GO:0015420; F:cobalamin-transporting ATPase activity; IEA:HAMAP.
+Cobalamin biosynthesis; Complete proteome; Glycosyltransferase;
+Transferase.
+TMZERO

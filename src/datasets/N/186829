@@ -1,0 +1,24 @@
+AC   P27136; Q46M68;
+Carboxymethylenebutenolidase 1 (EC 3.1.1.45)
+(Carboxymethylenebutenolidase I) (Dienelactone hydrolase I) (DLH I).
+"Organization and sequence analysis of the 2,4-dichlorophenol
+hydroxylase and dichlorocatechol oxidative operons of plasmid pJP4.";
+"Genetic organization of the catabolic plasmid pJP4 from Ralstonia
+eutropha JMP134 (pJP4) reveals mechanisms of adaptation to
+chloroaromatic pollutants and evolution of specialized chloroaromatic
+degradation pathways.";
+"Complete sequence of plasmid 1 of Ralstonia eutropha JMP134.";
+-!- FUNCTION: Ring cleavage of cyclic ester dienelactone to produce
+    maleylacetate.
+-!- CATALYTIC ACTIVITY: 4-carboxymethylenebut-2-en-4-olide + H(2)O =
+    4-oxohex-2-enedioate.
+-!- PATHWAY: Aromatic compound metabolism; 3-chlorocatechol
+    degradation.
+-!- SUBUNIT: Monomer.
+-!- MISCELLANEOUS: Carboxymethylenebutenolidase is specific for
+    dienelactone and has no activity toward enol-lactones.
+-!- SIMILARITY: Belongs to the dienelactone hydrolase family.
+ GO:0008806; F:carboxymethylenebutenolidase activity; IEA:EC.
+Aromatic hydrocarbons catabolism; Complete proteome; Hydrolase;
+Plasmid; Serine esterase.
+TMZERO

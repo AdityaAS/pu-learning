@@ -1,0 +1,25 @@
+AC   P72324; Q3J3A1;
+Alcohol dehydrogenase class 3 (EC 1.1.1.1) (Alcohol dehydrogenase
+class III) (S-(hydroxymethyl)glutathione dehydrogenase) (EC 1.1.1.284)
+(Glutathione-dependent formaldehyde dehydrogenase) (FDH) (FALDH) (GSH-
+FDH).
+"Characterization of a glutathione-dependent formaldehyde
+dehydrogenase from Rhodobacter sphaeroides.";
+"Complete sequence of chromosome 1 of Rhodobacter sphaeroides 2.4.1.";
+-!- FUNCTION: Oxidizes long-chain aliphatic alcohols, long-chain
+    hydroxylated fatty acids and S-hydroxymethylglutathione (hmGSH) in
+    increasing order of preference. Shows little or no activity with
+    short-chain aliphatic alcohols.
+-!- CATALYTIC ACTIVITY: An alcohol + NAD(+) = an aldehyde or ketone +
+    NADH.
+-!- CATALYTIC ACTIVITY: S-(hydroxymethyl)glutathione + NAD(P)(+) = S-
+    formylglutathione + NAD(P)H.
+-!- COFACTOR: Binds 2 zinc ions per subunit (By similarity).
+-!- SUBUNIT: Homodimer (Probable).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the zinc-containing alcohol dehydrogenase
+    family. Class-III subfamily.
+ GO:0004022; F:alcohol dehydrogenase activity; IEA:EC.
+ GO:0051903; F:S-(hydroxymethyl)glutathione dehydrogenase ...; IEA:EC.
+Complete proteome; Metal-binding; NAD; Oxidoreductase; Zinc.
+TMZERO

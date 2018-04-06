@@ -1,0 +1,14 @@
+AC   P82664; Q9H3E5; Q9NVR3;
+Mitochondrial 28S ribosomal protein S10 (S10mt) (MRP-S10).
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The DNA sequence and analysis of human chromosome 6.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"A proteomics approach to the identification of mammalian
+mitochondrial small subunit ribosomal proteins.";
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- SIMILARITY: Belongs to the ribosomal protein S10P family.
+ GO:0005761; C:mitochondrial ribosome; IDA:UniProtKB.
+Mitochondrion; Ribonucleoprotein; Ribosomal protein.
+TMZERO

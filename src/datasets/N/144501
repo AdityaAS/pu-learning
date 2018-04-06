@@ -1,0 +1,16 @@
+AC   P27126; Q2M7U3;
+Lipopolysaccharide core biosynthesis protein rfaS.
+"Structures of the rfaB, rfaI, rfaJ, and rfaS genes of Escherichia
+coli K-12 and their roles in assembly of the lipopolysaccharide
+core.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- PATHWAY: Lipopolysaccharide core biosynthesis.
+-!- INTERACTION:
+    P28917:ydcC; NbExp=1; IntAct=EBI-1115041, EBI-1119872;
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Lipopolysaccharide biosynthesis.
+TMZERO

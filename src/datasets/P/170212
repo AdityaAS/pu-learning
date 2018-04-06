@@ -1,0 +1,21 @@
+AC   P22340;
+Sucrose porin precursor.
+"Plasmid-mediated sucrose metabolism in Escherichia coli:
+characterization of scrY, the structural gene for a
+phosphoenolpyruvate-dependent sucrose phosphotransferase system outer
+membrane porin.";
+"A sugar-specific porin, ScrY, is involved in sucrose uptake in
+enteric bacteria.";
+"Structure of the sucrose-specific porin ScrY from Salmonella
+typhimurium and its complex with sucrose.";
+-!- FUNCTION: Porin for sucrose uptake.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: The C-terminus helps to anchor the porin to the outer
+    membrane.
+-!- SIMILARITY: Belongs to the porin lamB family.
+3D-structure; Direct protein sequencing; Ion transport; Membrane;
+Outer membrane; Plasmid; Porin; Signal; Sugar transport;
+Transmembrane; Transport.
+TMZERO

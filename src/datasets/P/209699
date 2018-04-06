@@ -1,0 +1,12 @@
+AC   Q58623;
+Putative cation-transporting ATPase MJ1226 (EC 3.6.3.-).
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIIA subfamily.
+ATP-binding; Complete proteome; Hydrolase; Hypothetical protein;
+Membrane; Nucleotide-binding; Phosphorylation; Transmembrane.
+TMTEN

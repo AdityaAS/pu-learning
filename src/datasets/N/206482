@@ -1,0 +1,20 @@
+AC   Q9JHC6;
+WNT1-inducible signaling pathway protein 2 precursor (WISP-2)
+(Connective tissue growth factor-like protein) (CTGF-L) (CCN family
+protein COP-1).
+"Identification of rCop-1, a new member of the CCN protein family, as
+a negative regulator for cell transformation.";
+-!- FUNCTION: May play an important role in modulating bone turnover.
+    Promotes the adhesion of osteoblast cells and inhibits the binding
+    of fibrinogen to integrin receptors. In addition, inhibits
+    osteocalcin production (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (Probable).
+-!- SIMILARITY: Belongs to the CCN family.
+-!- SIMILARITY: Contains 1 IGFBP domain.
+-!- SIMILARITY: Contains 1 TSP type-1 domain.
+-!- SIMILARITY: Contains 1 VWFC domain.
+ GO:0009986; C:cell surface; IDA:RGD.
+ GO:0005737; C:cytoplasm; IDA:RGD.
+ GO:0008285; P:negative regulation of cell proliferation; IDA:RGD.
+Cell adhesion; Glycoprotein; Signal.
+TMZERO

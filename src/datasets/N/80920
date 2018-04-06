@@ -1,0 +1,27 @@
+AC   Q8BMB3; O88503; Q3UCK2;
+Eukaryotic translation initiation factor 4E type 2 (eIF4E type 2)
+(eIF-4E type 2) (mRNA cap-binding protein type 2) (eIF4E-2)
+(Eukaryotic translation initiation factor 4E-like 3) (eIF4E-like
+protein 4E-LP).
+"Characterization of mammalian eIF4E-family members.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Recognizes and binds the 7-methylguanosine-containing
+    mRNA cap during an early step in the initiation of protein
+    synthesis and facilitates ribosome binding by inducing the
+    unwinding of the mRNAs secondary structures.
+-!- SUBUNIT: eIF4F is a multi-subunit complex, the composition of
+    which varies with external and internal environmental conditions.
+    It is composed of at least eIF4A, eIF4E and eIF4G. eIF4E is also
+    known to interact with other partners (By similarity). EIF4E2
+    interacts with EIF4EBP1, EIF4EBP2 and EIF4EBP3 but not with eIF4G.
+-!- INTERACTION:
+    Q04637:EIF4G1 (xeno); NbExp=1; IntAct=EBI-398682, EBI-73711;
+-!- TISSUE SPECIFICITY: Widely expressed with highest levels in
+    testis, kidney and liver.
+-!- SIMILARITY: Belongs to the eukaryotic initiation factor 4E family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Initiation factor; Protein biosynthesis; RNA-binding;
+Translation regulation.
+TMZERO

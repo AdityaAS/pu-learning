@@ -1,0 +1,21 @@
+AC   Q9JJV3; Q543K0;
+Voltage-dependent calcium channel gamma-like subunit (Neuronal
+voltage-gated calcium channel gamma-like subunit) (Transmembrane
+protein 37).
+"A family of gamma-like calcium channel subunits.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Thought to stabilize the calcium channel in an
+    inactivated (closed) state (By similarity). Modulates calcium
+    current when coexpressed with CACNA1G.
+-!- SUBUNIT: The L-type calcium channel is composed of five subunits:
+    alpha-1, alpha-2/delta, beta and gamma (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the PMP-22/EMP/MP20 family. CACNG
+    subfamily.
+Calcium; Calcium channel; Calcium transport; Ion transport;
+Ionic channel; Membrane; Transmembrane; Transport;
+Voltage-gated channel.
+TMFOUR

@@ -1,0 +1,16 @@
+AC   P55934;
+Cyclic nucleotide-gated cation channel.
+"Molecular cloning and single-channel properties of the cyclic
+nucleotide-gated channel from catfish olfactory neurons.";
+-!- FUNCTION: This cyclic nucleotide-gated channel is activated
+    equally well by both cAMP and cGMP.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Olfactory neurons.
+-!- SIMILARITY: Belongs to the cyclic nucleotide-gated cation channel
+    (TC 1.A.1.5) family.
+-!- SIMILARITY: Contains 1 cyclic nucleotide-binding domain.
+cAMP; cAMP-binding; cGMP; cGMP-binding; Ion transport; Ionic channel;
+Membrane; Nucleotide-binding; Olfaction; Sensory transduction;
+Transmembrane; Transport.
+TMSIX

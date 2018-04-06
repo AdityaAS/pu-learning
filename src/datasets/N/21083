@@ -1,0 +1,17 @@
+AC   Q58917;
+Probable cobalt-precorrin-6Y C(5,15)-methyltransferase
+[decarboxylating] (EC 2.1.1.-) (Cobalt-precorrin-6 methyltransferase)
+(Cobalt-precorrin-6Y methylase).
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+-!- FUNCTION: Probably catalyzes the methylation of C-5 in cobalt-
+    precorrin-6Y to form cobalt-precorrin-7W-a (By similarity).
+-!- CATALYTIC ACTIVITY: 1 S-adenosyl-L-methionine + cobalt-precorrin-
+    6Y = 1 S-adenosyl-L-homocysteine + cobalt-precorrin-7W-a + CO(2).
+-!- PATHWAY: Cofactor biosynthesis; adenosylcobalamin biosynthesis;
+    cob(II)yrinic acid a,c-diamide from sirohydrochlorin (anaerobic
+    route): step 7.
+-!- SIMILARITY: Belongs to the precorrin methyltransferase family.
+Cobalamin biosynthesis; Complete proteome; Methyltransferase;
+Transferase.
+TMZERO

@@ -1,0 +1,20 @@
+AC   Q9W7S2;
+Acutolysin-1 precursor (EC 3.4.24.-).
+"Cloning and sequence analysis the cDNA of aculysin1 from Agkistrodon
+acutus.";
+-!- FUNCTION: This protein is an alkaline zinc metalloprotease from
+    snake venom that possesses weak hemorrhagic activity (By
+    similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- TISSUE SPECIFICITY: Venom gland.
+-!- SIMILARITY: Contains 1 peptidase M12B domain.
+ GO:0044421; C:extracellular region part; ISS:UniProtKB.
+ GO:0005509; F:calcium ion binding; ISS:UniProtKB.
+ GO:0004222; F:metalloendopeptidase activity; ISS:UniProtKB.
+ GO:0008270; F:zinc ion binding; ISS:UniProtKB.
+ GO:0009405; P:pathogenesis; ISS:UniProtKB.
+Hydrolase; Metal-binding; Metalloprotease; Protease; Signal; Toxin;
+Zinc; Zymogen.
+TMZERO

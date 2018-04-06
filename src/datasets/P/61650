@@ -1,0 +1,26 @@
+AC   P07869;
+Spore germination protein A2.
+"The nucleotide sequence and gene organization of the gerA spore
+germination operon of Bacillus subtilis 168.";
+"The yvsA-yvqA (293 degrees - 289 degrees) region of the Bacillus
+subtilis chromosome containing genes involved in metal ion uptake and
+a putative sigma factor.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Mammalian integral membrane receptors are homologous to facilitators
+and antiporters of yeast, fungi, and eubacteria.";
+-!- FUNCTION: Involved in the germinative response to L-alanine. Could
+    be an amino acid transporter. Forms a complex at the inner spore
+    membrane which acts as a receptor for L-alanine, thus is involved
+    in the stimulation of germination in response to alanine. Can
+    stimulate germination in the absence of gerD and gerK gene
+    products (fructose and glucose receptors, respectively), but the
+    response is improved in their presence.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- DEVELOPMENTAL STAGE: Expressed in the forespore compartment of the
+    developing sporangium.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Spore germination protein (SGP) (TC 2.A.3.9) family.
+Amino-acid transport; Complete proteome; Germination; Membrane;
+Transmembrane; Transport.
+TMELEVEN

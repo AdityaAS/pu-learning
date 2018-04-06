@@ -1,0 +1,32 @@
+AC   P50110;
+Sorting assembly machinery 37 kDa subunit (Mitochondrial 37 kDa outer
+membrane protein) (MAS37 protein).
+"Mas37p, a novel receptor subunit for protein import into
+mitochondria.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"An essential role of Sam50 in the protein sorting and assembly
+machinery of the mitochondrial outer membrane.";
+"Machinery for protein sorting and assembly in the mitochondrial outer
+membrane.";
+"Global analysis of protein expression in yeast.";
+"Assembly of the TOB complex of mitochondria.";
+-!- FUNCTION: Component of the mitochondrial outer membrane sorting
+    assembly machinery (SAM or TOB) complex, which is required for the
+    sorting of proteins with complicated topology, such as beta-barrel
+    proteins, to the mitochondrial outer membrane after import by the
+    TOM complex.
+-!- SUBUNIT: Component of the mitochondrial outer membrane sorting
+    assembly machinery (SAM or TOB) complex, which at least consists
+    of SAM35, SAM37 and SAM50. SAM37 interacts with TOM70.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 1580 molecules/cell.
+ GO:0001401; C:mitochondrial sorting and assembly machiner...; IDA:SGD.
+ GO:0005515; F:protein binding; IMP:SGD.
+ GO:0007008; P:outer mitochondrial membrane organization a...; IDA:SGD.
+Complete proteome; Membrane; Mitochondrion; Outer membrane;
+Protein transport; Transmembrane; Transport.
+TMTWO

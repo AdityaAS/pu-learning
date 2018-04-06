@@ -1,0 +1,15 @@
+AC   Q8K9Q5;
+Exoribonuclease 2 (EC 3.1.13.1) (Exoribonuclease II) (Ribonuclease II)
+(RNase II).
+"50 million years of genomic stasis in endosymbiotic bacteria.";
+-!- FUNCTION: Involved in mRNA degradation. Hydrolyzes single-stranded
+    polyribonucleotides processively in the 3' to 5' direction (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Exonucleolytic cleavage in the 3'- to 5'-
+    direction to yield nucleoside 5'-phosphates.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the ribonuclease II (RNB) family.
+-!- SIMILARITY: Contains 1 S1 motif domain.
+ GO:0006402; P:mRNA catabolism; IEA:HAMAP.
+Complete proteome; Exonuclease; Hydrolase; Nuclease; RNA-binding.
+TMZERO

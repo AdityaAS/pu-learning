@@ -1,0 +1,84 @@
+AC   P19334; Q7YU76; Q9VAE1;
+Transient receptor potential protein.
+"Molecular characterization of the Drosophila trp locus: a putative
+integral membrane protein required for phototransduction.";
+"Proper function of the Drosophila trp gene product during pupal
+development is important for normal visual transduction in the
+adult.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"Overlapping transcription units in the transient receptor potential
+locus of Drosophila melanogaster.";
+"TRP, a protein essential for inositide-mediated Ca2+ influx is
+localized adjacent to the calcium stores in Drosophila
+photoreceptors.";
+"Coassembly of TRP and TRPL produces a distinct store-operated
+conductance.";
+"Requirement for the PDZ domain protein, INAD, for localization of the
+TRP store-operated channel to a signaling complex.";
+"Olfactory adaptation depends on the Trp Ca2+ channel in Drosophila.";
+"Polyunsaturated fatty acids activate the Drosophila light-sensitive
+channels TRP and TRPL.";
+"Reversible phosphorylation of the signal transduction complex in
+Drosophila photoreceptors.";
+"TRP and the PDZ protein, INAD, form the core complex required for
+retention of the signalplex in Drosophila photoreceptor cells.";
+"Novel mechanism of massive photoreceptor degeneration caused by
+mutations in the trp gene of Drosophila.";
+"Metabolic stress reversibly activates the Drosophila light-sensitive
+channels TRP and TRPL in vivo.";
+"TRPgamma, a Drosophila TRP-related subunit, forms a regulated cation
+channel with TRPL.";
+"Single amino acid change in the fifth transmembrane segment of the
+TRP Ca2+ channel causes massive degeneration of photoreceptors.";
+"Phototransduction in Drosophila melanogaster.";
+-!- FUNCTION: A light-sensitive calcium channel that is required for
+    inositide-mediated Ca(2+) entry in the retina during phospholipase
+    C (PLC)-mediated phototransduction. Ca(2+) influx may then feed
+    back and inhibit PLC, thereby facilitating phosphatidylinositol
+    4,5 bisphosphate (PIP2) recycling. Trp and trpl act together in
+    the light response, though it is unclear whether as
+    heteromultimers or as distinct units, and are activated by fatty
+    acids and metabolic stress. Also required for olfactory adaptation
+    and may be involved in olfactory system development.
+-!- SUBUNIT: The C-terminus interacts with a PDZ domain of inaD to
+    form the core of the inaD signaling complex. Other members of the
+    complex include norpA (PLC), inaC (PKC), and possibly trpl, ninaC,
+    FKBP59, calmodulin and rhodopsin. Forms homomultimers and
+    heteromultimers with trpl. Interaction with trpl is mediated in
+    part by the N-terminal region and the transmembrane domains. Also
+    interacts, though to a lower extent, with trp-gamma.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable). Note=Localized on plasma membrane loops found at the
+    base of the rhabdomere, in close proximity to the calcium stores.
+-!- TISSUE SPECIFICITY: Expressed predominantly in the rhabdomeres of
+    photoreceptor cells. Expressed in the third antennal segment and
+    in the olfactory segment at approximately 70 hours after puparium
+    formation during antennal development.
+-!- PTM: Phosphorylated by inaC.
+-!- SIMILARITY: Belongs to the transient receptor family. STrpC
+    subfamily.
+-!- SIMILARITY: Contains 2 ANK repeats.
+-!- CAUTION: Ref.5 sequence differs from that shown due to a
+    frameshift in position 721.
+ GO:0016027; C:inaD signaling complex; IPI:UniProtKB.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0005886; C:plasma membrane; IDA:UniProtKB.
+ GO:0005516; F:calmodulin binding; TAS:FlyBase.
+ GO:0005218; F:intracellular ligand-gated calcium channel ...; NAS:FlyBase.
+ GO:0046982; F:protein heterodimerization activity; IPI:UniProtKB.
+ GO:0042803; F:protein homodimerization activity; IPI:UniProtKB.
+ GO:0015279; F:store-operated calcium channel activity; TAS:FlyBase.
+ GO:0006816; P:calcium ion transport; IMP:UniProtKB.
+ GO:0019722; P:calcium-mediated signaling; TAS:FlyBase.
+ GO:0050908; P:detection of light stimulus during visual p...; IMP:UniProtKB.
+ GO:0008377; P:light-induced release of internally sequest...; IDA:FlyBase.
+ GO:0008355; P:olfactory learning; IMP:UniProtKB.
+ GO:0030845; P:phospholipase C inhibition; IMP:FlyBase.
+ GO:0008104; P:protein localization; IMP:UniProtKB.
+ GO:0009416; P:response to light stimulus; IMP:UniProtKB.
+ANK repeat; Calcium; Calcium channel; Calcium transport;
+Complete proteome; Ion transport; Ionic channel; Membrane; Olfaction;
+Repeat; Sensory transduction; Transmembrane; Transport; Vision.
+TMSIX

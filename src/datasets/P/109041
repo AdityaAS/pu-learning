@@ -1,0 +1,12 @@
+AC   O42701;
+Na(+)/H(+) antiporter 2.
+"Characterization of a second gene (ZSOD22) of Na+/H+ antiporter from
+salt-tolerant yeast Zygosaccharomyces rouxii and functional expression
+of ZSOD2 and ZSOD22 in Saccharomyces cerevisiae.";
+-!- FUNCTION: Sodium export from cell, takes up external protons in
+    exchange for internal sodium ions. Seems to be poorly expressed.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the fungal Na(+)/H(+) exchanger family.
+Antiport; Glycoprotein; Ion transport; Membrane; Sodium;
+Sodium transport; Transmembrane; Transport.
+TMFOURTEEN

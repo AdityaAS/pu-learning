@@ -1,0 +1,17 @@
+AC   Q5KFV5; Q55QB1;
+Peptidyl-prolyl cis-trans isomerase D (EC 5.2.1.8) (PPIase D)
+(Rotamase D).
+"The genome of the basidiomycetous yeast and human pathogen
+Cryptococcus neoformans.";
+-!- FUNCTION: PPIases accelerate the folding of proteins. It catalyzes
+    the cis-trans isomerization of proline imidic peptide bonds in
+    oligopeptides (By similarity).
+-!- CATALYTIC ACTIVITY: Peptidylproline (omega=180) = peptidylproline
+    (omega=0).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the cyclophilin-type PPIase family. PPIase
+    D subfamily.
+-!- SIMILARITY: Contains 1 PPIase cyclophilin-type domain.
+-!- SIMILARITY: Contains 3 TPR repeats.
+Complete proteome; Isomerase; Repeat; Rotamase; TPR repeat.
+TMZERO

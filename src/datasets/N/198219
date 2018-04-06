@@ -1,0 +1,11 @@
+AC   P0A4P4; Q9XDS8;
+Uracil-DNA glycosylase (EC 3.2.2.-) (UDG).
+"Complete genome sequence and comparative genomic analysis of an
+emerging human pathogen, serotype V Streptococcus agalactiae.";
+-!- FUNCTION: Excises uracil residues from the DNA which can arise as
+    a result of misincorporation of dUMP residues by DNA polymerase or
+    due to deamination of cytosine (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the uracil-DNA glycosylase family.
+Complete proteome; DNA damage; DNA repair; Glycosidase; Hydrolase.
+TMZERO

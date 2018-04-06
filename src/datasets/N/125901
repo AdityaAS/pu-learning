@@ -1,0 +1,13 @@
+AC   P20776;
+C-phycocyanin alpha chain.
+"Genes for phycocyanin subunits in Synechocystis sp. strain PCC 6701
+and assembly mutant UV16.";
+-!- FUNCTION: Light-harvesting photosynthetic bile pigment-protein
+    from the phycobiliprotein complex.
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain.
+-!- PTM: Contains one covalently linked phycocyanobilin chromophore
+    (By similarity).
+-!- SIMILARITY: Belongs to the phycobiliprotein family.
+Bile pigment; Chromophore; Electron transport; Photosynthesis;
+Phycobilisome; Transport.
+TMZERO

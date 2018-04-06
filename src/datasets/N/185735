@@ -1,0 +1,16 @@
+AC   Q02879;
+TATA-box-binding protein 2 (TATA-box factor 2) (TATA-binding factor 2)
+(TATA sequence-binding protein 2) (TBP-2) (Transcription initiation
+factor TFIID TBP-2 subunit).
+"Wheat TFIID TATA binding protein.";
+-!- FUNCTION: General transcription factor that functions at the core
+    of the DNA-binding multiprotein factor TFIID. Binding of TFIID to
+    the TATA box is the initial transcriptional step of the pre-
+    initiation complex (PIC), playing a role in the activation of
+    eukaryotic genes transcribed by RNA polymerase II.
+-!- SUBUNIT: Belongs to the TFIID complex together with the TBP-
+    associated factors (TAFs). Binds DNA as monomer.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the TBP family.
+DNA-binding; Nuclear protein; Repeat; Transcription.
+TMZERO

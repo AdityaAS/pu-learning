@@ -1,0 +1,19 @@
+AC   P48244;
+Glutamate transport system permease protein gluC.
+"Structure of the gluABCD cluster encoding the glutamate uptake system
+of Corynebacterium glutamicum.";
+"Complete genomic sequence of Corynebacterium glutamicum ATCC 13032.";
+"The complete Corynebacterium glutamicum ATCC 13032 genome sequence
+and its impact on the production of L-aspartate-derived amino acids
+and vitamins.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for glutamate; probably responsible for the translocation of the
+    substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMSIX

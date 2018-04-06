@@ -1,0 +1,14 @@
+AC   P63646; Q8G1G1; Q8YGG0;
+Putative arginyl-tRNA--protein transferase (EC 2.3.2.8) (R-
+transferase) (Arginyltransferase).
+"The genome sequence of the facultative intracellular pathogen
+Brucella melitensis.";
+-!- FUNCTION: May conjugate Arg from its aminoacyl-tRNA to the N-
+    termini of proteins containing an N-terminal aspartate or
+    glutamate (Potential).
+-!- CATALYTIC ACTIVITY: L-arginyl-tRNA + protein = tRNA + L-arginyl-
+    protein.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the R-transferase family.
+Acyltransferase; Complete proteome; Transferase.
+TMZERO

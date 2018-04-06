@@ -1,0 +1,18 @@
+AC   P26435;
+Sodium/bile acid cotransporter (Na(+)/bile acid cotransporter)
+(Na(+)/taurocholate transport protein) (Sodium/taurocholate
+cotransporting polypeptide) (Solute carrier family 10 member 1).
+"Functional expression cloning and characterization of the hepatocyte
+Na+/bile acid cotransport system.";
+-!- FUNCTION: The hepatic sodium/bile acid uptake system exhibits
+    broad substrate specificity and transports various non-bile acid
+    organic compounds as well. It is strictly dependent on the
+    extracellular presence of sodium.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Liver and kidney.
+-!- SIMILARITY: Belongs to the sodium:bile acid symporter family.
+ GO:0008508; F:bile acid:sodium symporter activity; IDA:RGD.
+ GO:0015721; P:bile acid transport; IDA:RGD.
+Glycoprotein; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMSEVEN

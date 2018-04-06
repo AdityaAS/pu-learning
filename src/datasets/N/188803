@@ -1,0 +1,31 @@
+AC   Q724J4;
+Bifunctional protein tilS/hprT [Includes: tRNA(Ile)-lysidine synthase
+(EC 6.3.4.-) (tRNA(Ile)-lysidine synthetase) (tRNA(Ile)-2-lysyl-
+cytidine synthase); Hypoxanthine-guanine phosphoribosyltransferase
+(EC 2.4.2.8) (HGPRT) (HGPRTase)].
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- FUNCTION: Ligates lysine onto the cytidine present at position 34
+    of the AUA codon-specific tRNA(Ile) that contains the anticodon
+    CAU, in an ATP-dependent manner. Cytidine is converted to
+    lysidine, thus changing the amino acid specificity of the tRNA
+    from methionine to isoleucine (By similarity).
+-!- CATALYTIC ACTIVITY: IMP + diphosphate = hypoxanthine + 5-phospho-
+    alpha-D-ribose 1-diphosphate.
+-!- CATALYTIC ACTIVITY: GMP + diphosphate = guanine + 5-phospho-alpha-
+    D-ribose 1-diphosphate.
+-!- COFACTOR: Binds 2 magnesium ions per subunit. One of the ions does
+    not make direct protein contacts (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- DOMAIN: The N-terminal region contains the highly conserved SGGXDS
+    motif, predicted to be a P-loop motif involved in ATP binding.
+-!- SIMILARITY: In the N-terminal section; belongs to the tRNA(Ile)-
+    lysidine synthase family.
+-!- SIMILARITY: In the C-terminal section; belongs to the
+    purine/pyrimidine phosphoribosyltransferase family.
+ GO:0016549; P:tRNA editing; IEA:HAMAP.
+ATP-binding; Complete proteome; Glycosyltransferase; Ligase;
+Magnesium; Metal-binding; Nucleotide-binding; Transferase;
+tRNA processing.
+TMZERO

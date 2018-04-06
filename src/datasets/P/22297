@@ -1,0 +1,20 @@
+AC   P33927; Q2MAP7;
+Cytochrome c-type biogenesis protein ccmF.
+"Automated multiplex sequencing of the E.coli genome.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Escherichia coli genes required for cytochrome c maturation.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Required for the biogenesis of c-type cytochromes.
+    Possible subunit of a heme lyase.
+-!- INTERACTION:
+    Q9XI46:F9L1.17 (xeno); NbExp=1; IntAct=EBI-763370, EBI-763363;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the ccmF/cycK/ccl1/nrfE/ccsA family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Cytochrome c-type biogenesis; Inner membrane;
+Membrane; Transmembrane.
+TMFIFTEEN

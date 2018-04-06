@@ -1,0 +1,15 @@
+AC   P0AFS2; P76881; P77651;
+Inner membrane ABC transporter permease protein ydeZ.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Probably part of the binding-protein-dependent transport
+    system ego/ydeYZ. Probably responsible for the translocation of
+    the substrate across the membrane (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. AraH/rbsC subfamily.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTEN

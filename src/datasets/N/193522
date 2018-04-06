@@ -1,0 +1,20 @@
+AC   P21689;
+Anthranilate synthase component 1 (EC 4.1.3.27) (Anthranilate synthase
+component I).
+"Molecular characterization and expression analysis of the
+anthranilate synthase gene of Pseudomonas syringae subsp.
+savastanoi.";
+-!- CATALYTIC ACTIVITY: Chorismate + L-glutamine = anthranilate +
+    pyruvate + L-glutamate.
+-!- PATHWAY: Amino-acid biosynthesis; L-tryptophan biosynthesis; L-
+    tryptophan from chorismate: step 1.
+-!- SUBUNIT: Tetramer of two components I and two components II (By
+    similarity).
+-!- MISCELLANEOUS: Component I catalyzes the formation of anthranilate
+    using ammonia rather than glutamine, whereas component II provides
+    glutamine amidotransferase activity.
+-!- SIMILARITY: Belongs to the anthranilate synthase component I
+    family.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis; Lyase;
+Tryptophan biosynthesis.
+TMZERO

@@ -1,0 +1,14 @@
+AC   P69680; P37905;
+Ammonia channel precursor (Ammonia transporter).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Involved in the uptake of ammonia (By similarity).
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ammonium transporter (TC 2.A.49)
+    family.
+Ammonia transport; Complete proteome; Inner membrane; Membrane;
+Signal; Transmembrane; Transport.
+TMELEVEN

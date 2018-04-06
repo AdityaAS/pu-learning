@@ -1,0 +1,48 @@
+AC   Q9Y6L6; Q9NQ37; Q9UBF3; Q9UH89;
+Solute carrier organic anion transporter family member 1B1 (Solute
+carrier family 21 member 6) (Sodium-independent organic anion-
+transporting polypeptide 2) (OATP 2) (Liver-specific organic anion
+transporter 1) (LST-1) (OATP-C).
+"Identification of a novel gene family encoding human liver-specific
+organic anion transporter LST-1.";
+"A novel human hepatic organic anion transporting polypeptide (OATP2).
+Identification of a liver-specific human organic anion transporting
+polypeptide and identification of rat and human hydroxymethylglutaryl-
+CoA reductase inhibitor transporters.";
+"A novel human organic anion transporting polypeptide localized to the
+basolateral hepatocyte membrane.";
+"Localization and genomic organization of a new hepatocellular organic
+anion transporting polypeptide.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"Polymorphisms in OATP-C: identification of multiple allelic variants
+associated with altered transport activity among European- and
+African-Americans.";
+"A naturally occurring mutation in the SLC21A6 gene causing impaired
+membrane localization of the hepatocyte uptake transporter.";
+"Genetic polymorphisms of human organic anion transporters OATP-C
+(SLC21A6) and OATP-B (SLC21A9): allele frequencies in the Japanese
+population and functional analysis.";
+-!- FUNCTION: Mediates the Na(+)-independent transport of organic
+    anions such as pravastatin, taurocholate, methotrexate,
+    dehydroepiandrosterone sulfate, 17-beta-glucuronosyl estradiol,
+    estrone sulfate, prostaglandin E2, thromboxane B2, leukotriene C3,
+    leukotriene E4, thyroxine and triiodothyronine. May play an
+    important role in the clearance of bile acids and organic anions
+    from the liver.
+-!- SUBCELLULAR LOCATION: Cell membrane; basolateral cell membrane;
+    multi-pass membrane protein. Note=Detected in basolateral
+    membranes of hepatocytes.
+-!- TISSUE SPECIFICITY: Highly expressed in liver. Not detected in
+    heart, brain, placenta, lung, skeletal muscle, kidney, pancreas,
+    spleen, thymus, prostate, testis, ovary, small intestine, colon
+    and leukocyte.
+-!- SIMILARITY: Belongs to the organo anion transporter (TC 2.A.60)
+    family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0015347; F:sodium-independent organic anion transporte...; TAS:ProtInc.
+ GO:0015711; P:organic anion transport; TAS:ProtInc.
+Glycoprotein; Ion transport; Membrane; Polymorphism; Transmembrane;
+Transport.
+TMSEVEN

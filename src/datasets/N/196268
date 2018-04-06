@@ -1,0 +1,22 @@
+AC   Q5KN22; Q55YQ1;
+Ubiquitin-conjugating enzyme E2 2 (EC 6.3.2.19) (Ubiquitin-protein
+ligase UBC2) (Ubiquitin carrier protein UBC2).
+"The genome of the basidiomycetous yeast and human pathogen
+Cryptococcus neoformans.";
+-!- FUNCTION: Catalyzes the covalent attachment of ubiquitin to other
+    proteins. Plays a role in transcription regulation by catalyzing
+    the monoubiquitination of 'Lys-123' of histone H2B leading to the
+    methylation of histone H3 and the silencing of telomeric-
+    associated genes. Also involved in postreplication repair of UV-
+    damaged DNA, in N-end rule-dependent protein degradation and in
+    sporulation (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + ubiquitin + protein lysine = AMP +
+    diphosphate + protein N-ubiquityllysine.
+-!- PATHWAY: Ubiquitin conjugation; second step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the ubiquitin-conjugating enzyme family.
+Chromatin regulator; Complete proteome; DNA damage; DNA repair;
+Ligase; Nuclear protein; Sporulation; Transcription;
+Transcription regulation; Ubl conjugation pathway.
+TMZERO

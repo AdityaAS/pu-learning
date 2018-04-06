@@ -1,0 +1,19 @@
+AC   P04651;
+Lutropin subunit beta precursor (Luteinizing hormone subunit beta)
+(LSH-beta) (LSH-B) (LH-B) (Lutropin beta chain).
+"The gene for the beta subunit of bovine luteinizing hormone encodes a
+gonadotropin mRNA with an unusually short 5'-untranslated region.";
+"Analysis of several bovine lutropin beta subunit cDNAs reveals
+heterogeneity in nucleotide sequence.";
+"Luteinizing hormone. The primary structures of the beta-subunit from
+bovine and porcine species.";
+-!- FUNCTION: Promotes spermatogenesis and ovulation by stimulating
+    the testes and ovaries to synthesize steroids.
+-!- SUBUNIT: Heterodimer of a common alpha chain and a unique beta
+    chain which confers biological specificity to thyrotropin,
+    lutropin, follitropin and gonadotropin.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the glycoprotein hormones subunit beta
+    family.
+Direct protein sequencing; Glycoprotein; Hormone; Signal.
+TMZERO

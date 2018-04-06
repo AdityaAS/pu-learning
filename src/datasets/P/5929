@@ -1,0 +1,19 @@
+AC   P94575;
+Probable allantoin permease (Allantoin transport protein).
+"The Bacillus subtilis genome from gerBC (311 degrees) to licR (334
+degrees).";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Functional analysis of 14 genes that constitute the purine catabolic
+pathway in Bacillus subtilis and evidence for a novel regulon
+controlled by the PucR transcription activator.";
+-!- FUNCTION: Transport of allantoin.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- INDUCTION: Expression is very low in excess nitrogen (glutamate
+    plus ammonia) and is induced during limiting-nitrogen conditions
+    (glutamate). Expression is further induced when allantoin or
+    allantoate are added during limiting-nitrogen conditions.
+-!- SIMILARITY: Belongs to the purine-cytosine permease family.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTWELVE

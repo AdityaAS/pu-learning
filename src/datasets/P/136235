@@ -1,0 +1,21 @@
+AC   P37082;
+Sorbose permease IIC component (PTS system sorbose-specific EIIC
+component) (EIIC-Sor).
+"Sequence of the sor-operon for L-sorbose utilization from Klebsiella
+pneumoniae KAY2026.";
+"Molecular analysis of the phosphoenolpyruvate-dependent L-sorbose:
+phosphotransferase system from Klebsiella pneumoniae and of its
+multidomain structure.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in sorbose transport.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIIC type-4 domain.
+Inner membrane; Membrane; Phosphotransferase system; Sugar transport;
+Transmembrane; Transport.
+TMSEVEN

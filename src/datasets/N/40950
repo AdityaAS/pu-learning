@@ -1,0 +1,13 @@
+AC   P40526;
+Protein DFG10.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IX.";
+"Dissection of filamentous growth by transposon mutagenesis in
+Saccharomyces cerevisiae.";
+-!- FUNCTION: Not known; protein required for filamentous growth, cell
+    polarity, and cellular elongation.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the steroid 5-alpha reductase family.
+ GO:0007124; P:pseudohyphal growth; IMP:SGD.
+Complete proteome; Membrane; Transmembrane.
+TMFOUR

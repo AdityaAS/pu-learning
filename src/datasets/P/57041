@@ -1,0 +1,29 @@
+AC   P32791;
+Ferric reductase transmembrane component 1 precursor (EC 1.16.1.7)
+(Ferric-chelate reductase 1).
+"Ferric reductase of Saccharomyces cerevisiae: molecular
+characterization, role in iron uptake, and transcriptional control by
+iron.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Ferric iron reduction and iron assimilation in Saccharomyces
+cerevisiae.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Reductase activity that acts on Fe(3+)-chelates external
+    to the cell. Plays a role in iron uptake. May participate in the
+    transport of electrons from cytoplasm to an extracellular
+    substrate (Fe(3+) ion) via FAD and heme intermediates. May also
+    participate in Cu(2+) reduction and Cu(+) uptake.
+-!- CATALYTIC ACTIVITY: 2 Fe(2+) + NAD(+) = 2 Fe(3+) + NADH.
+-!- COFACTOR: FAD (Probable).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: By iron deprivation. Repressed by iron uptake.
+-!- MISCELLANEOUS: Present with 892 molecules/cell.
+-!- SIMILARITY: Contains 1 ferric oxidoreductase domain.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0000293; F:ferric-chelate reductase activity; IDA:SGD.
+ GO:0015677; P:copper ion import; IDA:SGD.
+ GO:0006826; P:iron ion transport; IDA:SGD.
+Complete proteome; Copper; Electron transport; FAD; Glycoprotein;
+Ion transport; Iron; Iron transport; Membrane; NAD; Oxidoreductase;
+Signal; Transmembrane; Transport.
+TMSEVEN

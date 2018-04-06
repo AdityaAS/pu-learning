@@ -1,0 +1,21 @@
+AC   Q871K1; Q1K6S2;
+Ubiquinol-cytochrome c reductase complex 14 kDa protein (EC 1.10.2.2)
+(Complex III subunit VII).
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: This is a component of the ubiquinol-cytochrome c
+    reductase complex (complex III or cytochrome b-c1 complex), which
+    is part of the mitochondrial respiratory chain. This component is
+    involved in redox-linked proton pumping (By similarity).
+-!- CATALYTIC ACTIVITY: QH(2) + 2 ferricytochrome c = Q + 2
+    ferrocytochrome c.
+-!- SUBUNIT: Fungi bc1 complex contains 10 subunits; 3 respiratory
+    subunits, 2 core proteins and 5 low-molecular weight proteins (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane
+    (Potential).
+-!- SIMILARITY: Belongs to the UQCRB/QCR7 family.
+Electron transport; Inner membrane; Membrane; Mitochondrion;
+Oxidoreductase; Respiratory chain; Transport.
+TMZERO

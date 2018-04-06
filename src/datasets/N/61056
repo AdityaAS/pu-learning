@@ -1,0 +1,33 @@
+AC   P23434; Q9H1E9;
+Glycine cleavage system H protein, mitochondrial precursor.
+"The glycine cleavage system: structure of a cDNA encoding human H-
+protein, and partial characterization of its gene in patients with
+hyperglycinemias.";
+"The primary structure of human H-protein of the glycine cleavage
+system deduced by cDNA cloning.";
+"NIEHS-SNPs, environmental genome project, NIEHS ES15478, Department
+of Genome Sciences, Seattle, WA (URL: http://egp.gs.washington.edu).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: The glycine cleavage system catalyzes the degradation of
+    glycine. The H protein shuttles the methylamine group of glycine
+    from the P protein to the T protein.
+-!- COFACTOR: Binds 1 lipoyl cofactor covalently.
+-!- SUBUNIT: The glycine cleavage system is composed of four proteins:
+    P, T, L and H.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- DISEASE: Defects in GCSH are a cause of non-ketotic
+    hyperglycinemia (NKH) [MIM:605899]; also known as glycine
+    encephalopathy (GCE). NKH is an autosomal recessive disease
+    characterized by accumulation of a large amount of glycine in body
+    fluid and by severe neurological symptoms.
+-!- SIMILARITY: Belongs to the gcvH family.
+-!- SIMILARITY: Contains 1 lipoyl-binding domain.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=GCSH".
+ GO:0005960; C:glycine cleavage complex; TAS:ProtInc.
+ GO:0005739; C:mitochondrion; TAS:ProtInc.
+ GO:0004047; F:aminomethyltransferase activity; TAS:ProtInc.
+ GO:0006546; P:glycine catabolism; TAS:ProtInc.
+Lipoyl; Mitochondrion; Polymorphism; Transit peptide.
+TMZERO

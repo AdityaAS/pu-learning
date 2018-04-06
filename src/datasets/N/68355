@@ -1,0 +1,13 @@
+AC   P67805; P30105;
+Glutathione S-transferase 1-1 (EC 2.5.1.18) (GST class-theta)
+(Fragment).
+"Sequence divergence of glutathione S-transferase coding regions among
+seven species in the melanogaster subgroup of Drosophila.";
+-!- FUNCTION: Conjugation of reduced glutathione to a wide number of
+    exogenous and endogenous hydrophobic electrophiles.
+-!- CATALYTIC ACTIVITY: RX + glutathione = HX + R-S-glutathione.
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the GST superfamily. Theta family.
+ GO:0004364; F:glutathione transferase activity; IEA:EC.
+Transferase.
+TMZERO

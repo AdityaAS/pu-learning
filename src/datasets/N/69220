@@ -1,0 +1,30 @@
+AC   Q9SAC6; Q93VD0; Q940Z0; Q9FPP2;
+Alpha-glucan water dikinase 1, chloroplast precursor (EC 2.7.9.4)
+(Protein starch-related R1) (Protein starch excess 1).
+"The Arabidopsis sex1 mutant is defective in the R1 protein, a general
+regulator of starch degradation in plants, and not in the chloroplast
+hexose transporter.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+-!- FUNCTION: Mediates the incorporation of phosphate into starch-like
+    alpha-glucan. Acts as an overall regulator of starch mobilization.
+    Required for starch degradation, suggesting that the phosphate
+    content of starch regulates its degradability.
+-!- CATALYTIC ACTIVITY: ATP + alpha-glucan + H(2)O = AMP + phospho-
+    alpha-glucan + phosphate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast. Note=Starch granules.
+-!- DEVELOPMENTAL STAGE: The level of protein does not vary in a
+    circadian rhythm and is stable throughout day and night (at
+    protein level).
+-!- SIMILARITY: Belongs to the PEP-utilizing enzyme family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to erroneous
+    gene model prediction.
+ GO:0050521; F:alpha-glucan, water dikinase activity; IEA:EC.
+ATP-binding; Carbohydrate metabolism; Chloroplast; Kinase;
+Nucleotide-binding; Phosphorylation; Plastid; Transferase;
+Transit peptide.
+TMZERO

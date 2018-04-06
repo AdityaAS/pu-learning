@@ -1,0 +1,64 @@
+AC   P11349;
+Respiratory nitrate reductase 1 beta chain (EC 1.7.99.4) (Nitrate
+reductase A subunit beta) (Quinol-nitrate oxidoreductase subunit
+beta).
+"Nitrate reductase of Escherichia coli: completion of the nucleotide
+sequence of the nar operon and reassessment of the role of the alpha
+and beta subunits in iron binding and electron transfer.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"narI region of the Escherichia coli nitrate reductase (nar) operon
+contains two genes.";
+"Roles of the narJ and narI gene products in the expression of nitrate
+reductase in Escherichia coli.";
+"EPR and redox characterization of iron-sulfur centers in nitrate
+reductases A and Z from Escherichia coli. Evidence for a high-
+potential and a low-potential class and their relevance in the
+electron-transfer mechanism.";
+"Site-directed mutagenesis of conserved cysteine residues within the
+beta subunit of Escherichia coli nitrate reductase. Physiological,
+biochemical, and EPR characterization of the mutated enzymes.";
+"Removal of the high-potential [4Fe-4S] center of the beta-subunit
+from Escherichia coli nitrate reductase. Physiological, biochemical,
+and EPR characterization of site-directed mutated enzymes.";
+"Complete coordination of the four Fe-S centers of the beta subunit
+from Escherichia coli nitrate reductase. Physiological, biochemical,
+and EPR characterization of site-directed mutants lacking the highest
+or lowest potential [4Fe-4S] clusters.";
+"The molybdenum cofactor of Escherichia coli nitrate reductase A
+(NarGHI). Effect of a mobAB mutation and interactions with [Fe-S]
+clusters.";
+"Insights into the respiratory electron transfer pathway from the
+structure of nitrate reductase A.";
+"Architecture of NarGH reveals a structural classification of Mo-
+bisMGD enzymes.";
+-!- FUNCTION: The nitrate reductase enzyme complex allows E.coli to
+    use nitrate as an electron acceptor during anaerobic growth. The
+    beta chain is an electron transfer unit containing four cysteine
+    clusters involved in the formation of iron-sulfur centers.
+    Electrons are transferred from the gamma chain to the molybdenum
+    cofactor of the alpha subunit.
+-!- CATALYTIC ACTIVITY: Nitrite + acceptor = nitrate + reduced
+    acceptor.
+-!- COFACTOR: Binds 3 4Fe-4S clusters per subunit.
+-!- COFACTOR: Binds 1 3Fe-4S cluster per subunit.
+-!- SUBUNIT: Dimer of heterotrimers each composed of an alpha, a beta
+    and a gamma chain. Alpha and beta are catalytic chains; gamma
+    chains are involved in binding the enzyme complex to the
+    cytoplasmic membrane.
+-!- INTERACTION:
+    P19319:narZ; NbExp=2; IntAct=EBI-555067, EBI-547262;
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein.
+-!- INDUCTION: By nitrate.
+-!- SIMILARITY: Contains 4 4Fe-4S type ferredoxin domains.
+-!- WEB RESOURCE: NAME=Worthington enzyme manual;
+    URL="http://www.worthington-biochem.com/NAR/".
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; 3Fe-4S; 4Fe-4S; Complete proteome;
+Direct protein sequencing; Electron transport; Iron; Iron-sulfur;
+Membrane; Metal-binding; Nitrate assimilation; Oxidoreductase;
+Transport.
+TMZERO

@@ -1,0 +1,20 @@
+AC   P45522; Q2M716;
+Glutathione-regulated potassium-efflux system protein kefB (K(+)/H(+)
+antiporter) (NEM-activable K(+)/H(+) antiporter).
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Evidence for multiple K+ export systems in Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Transport system that facilitates potassium-efflux,
+    possibly by potassium-proton antiport.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the monovalent cation:proton antiporter 2
+    (CPA2) transporter (TC 2.A.37) family. KefB subfamily.
+-!- SIMILARITY: Contains 1 RCK N-terminal domain.
+ GO:0015503; F:glutathione-regulated potassium exporter ac...; IEA:HAMAP.
+Antiport; Complete proteome; Inner membrane; Ion transport; Membrane;
+Potassium; Potassium transport; Transmembrane; Transport.
+TMTHIRTEEN

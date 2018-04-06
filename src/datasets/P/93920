@@ -1,0 +1,16 @@
+AC   P0A9S7; P22730; Q2M7B8;
+High-affinity branched-chain amino acid transport ATP-binding protein
+livG (LIV-I protein G).
+"Nucleotide sequence and genetic characterization reveal six essential
+genes for the LIV-I and LS transport systems of Escherichia coli.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Component of the leucine-specific transport system.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Amino-acid transport; ATP-binding; Complete proteome;
+Nucleotide-binding; Transport.
+TMZERO

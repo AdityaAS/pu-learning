@@ -1,0 +1,33 @@
+AC   P03819;
+Glutathione-regulated potassium-efflux system protein kefC (K(+)/H(+)
+antiporter).
+"The cloning and DNA sequence of the gene for the glutathione-
+regulated potassium-efflux system KefC of Escherichia coli.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the E coli gene coding for dihydrofolate
+reductase.";
+"The putative Na+/H+ antiporter (NapA) of Enterococcus hirae is
+homologous to the putative K+/H+ antiporter (KefC) of Escherichia
+coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Transport system that facilitates potassium-efflux,
+    possibly by potassium-proton antiport.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: KefC system is apparently under negative feedback
+    regulation by glutathione and removal of glutathione leads to
+    partial activation of the system. Complete activation requires the
+    formation of glutathione metabolites that carry a hydrophobic
+    substituent on the S-atom.
+-!- SIMILARITY: Belongs to the monovalent cation:proton antiporter 2
+    (CPA2) transporter (TC 2.A.37) family. KefC subfamily.
+-!- SIMILARITY: Contains 1 RCK N-terminal domain.
+ GO:0015503; F:glutathione-regulated potassium exporter ac...; IEA:HAMAP.
+Antiport; Complete proteome; Inner membrane; Ion transport; Membrane;
+Potassium; Potassium transport; Transmembrane; Transport.
+TMTHIRTEEN

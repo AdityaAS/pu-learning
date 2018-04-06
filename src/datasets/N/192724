@@ -1,0 +1,14 @@
+AC   Q8CXQ3;
+Probable tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+(EC 2.1.1.61).
+"The complete genomic sequence of Mycoplasma penetrans, an
+intracellular bacterial pathogen in humans.";
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + tRNA = S-adenosyl-L-
+    homocysteine + tRNA containing 5-methylaminomethyl-2-
+    thiouridylate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the trmU family.
+ GO:0006400; P:tRNA modification; IEA:HAMAP.
+Complete proteome; Methyltransferase; S-adenosyl-L-methionine;
+Transferase; tRNA processing.
+TMZERO

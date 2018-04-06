@@ -1,0 +1,20 @@
+AC   P36192; Q4V3H2; Q867E6; Q867G6; Q86BV6; Q86BV7; Q9V5F5;
+Defensin precursor.
+"Characterization and transcriptional profiles of a Drosophila gene
+encoding an insect defensin. A study in insect immunity.";
+"Molecular population genetics of inducible antibacterial peptide
+genes in Drosophila melanogaster.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Responsible for the anti Gram-positive activity of
+    immune hemolymph. Expressed in the absence of immune challenge
+    during metamorphosis.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the invertebrate defensin family. Type 1
+    subfamily.
+ GO:0006961; P:antibacterial humoral response (sensu Proto...; IEP:FlyBase.
+ GO:0050830; P:defense response to Gram-positive bacterium; IDA:FlyBase.
+Antibiotic; Antimicrobial; Complete proteome; Defensin;
+Immune response; Innate immunity; Polymorphism; Signal.
+TMZERO

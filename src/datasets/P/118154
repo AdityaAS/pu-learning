@@ -1,0 +1,16 @@
+AC   P05430;
+Major outer membrane protein P.IA precursor (Protein IA) (PIA) (Class
+1 protein).
+"Molecular cloning and characterization of the structural gene for
+protein I, the major outer membrane protein of Neisseria
+gonorrhoeae.";
+-!- FUNCTION: Serves as a slightly cation selective porin. Major
+    antigen on the gonococcal cell surface and it may have pathogenic
+    properties in addition to its porin activity.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the Gram-negative porin family.
+Ion transport; Membrane; Outer membrane; Porin; Signal; Transmembrane;
+Transport.
+TMZERO

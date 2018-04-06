@@ -1,0 +1,40 @@
+AC   P25714; Q2M818;
+Inner membrane protein oxaA.
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Physical mapping and nucleotide sequence of the rnpA gene that
+encodes the protein component of ribonuclease P in Escherichia coli.";
+"Membrane topology of the 60-kDa Oxa1p homologue from Escherichia
+coli.";
+"YidC, the Escherichia coli homologue of mitochondrial Oxa1p, is a
+component of the Sec translocase.";
+"YidC mediates membrane protein insertion in bacteria.";
+"SecDFyajC forms a heterotetrameric complex with YidC.";
+"Targeting, insertion, and localization of Escherichia coli YidC.";
+"A conserved function of YidC in the biogenesis of respiratory chain
+complexes.";
+"Defining the regions of Escherichia coli YidC that contribute to
+activity.";
+"YidC is strictly required for membrane insertion of subunits a and c
+of the F(1)F(0)ATP synthase and SecE of the SecYEG translocase.";
+"Protein complexes of the Escherichia coli cell envelope.";
+-!- FUNCTION: Inner membrane protein required for the insertion of
+    integral membrane proteins into the membrane. Probably plays an
+    essential role in the integration of proteins of the respiratory
+    chain complexes. Involved in integration of membrane proteins that
+    insert dependently and independently of the Sec translocase
+    complex. Essential for the integration of subunits a and c of the
+    F(1)F(0)ATP synthase, and secE proteins.
+-!- SUBUNIT: Interacts with secD and secF. Component of the SecDFyajC
+    complex, a heterotetrameric translocase complex. Specifically
+    interacts with transmembrane segments of nascent integral membrane
+    proteins during membrane integration. Found in 3 different
+    complexes in inner membrane preparations (Ref.13).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein. Note=Predominantly localized at the poles of cells.
+-!- SIMILARITY: Belongs to the OXA1/oxaA family. Type 1 subfamily.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMSIX

@@ -1,0 +1,21 @@
+AC   P17551; Q1L9W5; Q5NV00;
+Chromate transport protein.
+"Nucleotide sequence and expression of a plasmid-encoded chromate
+resistance determinant from Alcaligenes eutrophus.";
+"Sequence and features of the Ralstonia metallidurans CH34 heavy metal
+plasmids pMOL28 and pMOL30.";
+"Complete sequence of plasmid pMOL28 of Ralstonia metallidurans
+CH34.";
+"New genes involved in chromate resistance in Ralstonia metallidurans
+strain CH34.";
+-!- FUNCTION: This protein reduces chromate accumulation and is
+    essential for chromate resistance.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- INDUCTION: By chromate; induction increases when cells are grown
+    in the presence of high sulfate concentrations (3 mM SO4(2-)).
+-!- SIMILARITY: Belongs to the chromate ion transporter (CHR)
+    (TC 2.A.51) family.
+Chromate resistance; Complete proteome; Inner membrane; Membrane;
+Plasmid; Transmembrane; Transport.
+TMTWELVE

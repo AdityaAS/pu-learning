@@ -1,0 +1,12 @@
+AC   P68222; P02027; Q9TSL4;
+Hemoglobin subunit beta (Hemoglobin beta chain) (Beta-globin).
+"The primary structure of the beta-polypeptide chain of adult
+hemoglobin of the Japanese monkey (Macaca fuscata fuscata).";
+-!- FUNCTION: Involved in oxygen transport from the lung to the
+    various peripheral tissues.
+-!- SUBUNIT: Heterotetramer of two alpha chains and two beta chains.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- SIMILARITY: Belongs to the globin family.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

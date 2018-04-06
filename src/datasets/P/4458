@@ -1,0 +1,26 @@
+AC   P09167;
+Aerolysin precursor.
+"Nucleotide sequence of the gene for the hole-forming toxin aerolysin
+of Aeromonas hydrophila.";
+"Molecular cloning and expression in Escherichia coli of the
+structural gene for the hemolytic toxin aerolysin from Aeromonas
+hydrophila.";
+"Spectroscopic study of the activation and oligomerization of the
+channel-forming toxin aerolysin: identification of the site of
+proteolytic activation.";
+"Protonation of histidine-132 promotes oligomerization of the channel-
+forming toxin aerolysin.";
+"Conversion of a transmembrane to a water-soluble protein complex by a
+single point mutation.";
+"Structure of the Aeromonas toxin proaerolysin in its water-soluble
+and membrane-channel states.";
+-!- FUNCTION: Aerolysin is a cytolytic toxin exported by the Gram
+    negative Aeromonas bacteria. The mature toxin binds to eukaryotic
+    cells and aggregates to form holes approximatively 3 nm in
+    diameter, leading to destruction of the membrane permeability
+    barrier and osmotic lysis.
+-!- SUBUNIT: Homodimer in solution; heptamer in the membrane.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the aerolysin family.
+3D-structure; Direct protein sequencing; Membrane; Signal; Toxin.
+TMZERO

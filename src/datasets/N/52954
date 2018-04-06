@@ -1,0 +1,29 @@
+AC   Q46DY5;
+Fae/hps bifunctional enzyme [Includes: Formaldehyde-activating enzyme
+(EC 4.3.-.-) (Fae); 3-hexulose-6-phosphate synthase (EC 4.1.2.-) (HPS)
+(D-arabino-3-hexulose-6-phosphate formaldehyde lyase)].
+"The Methanosarcina barkeri genome: comparative analysis with
+Methanosarcina acetivorans and Methanosarcina mazei reveals extensive
+rearrangement within methanosarcinal genomes.";
+"Formaldehyde activating enzyme (Fae) and hexulose-6-phosphate
+synthase (Hps) in Methanosarcina barkeri: a possible function in
+ribose-5-phosphate biosynthesis.";
+-!- FUNCTION: Catalyzes the condensation of formaldehyde with
+    tetrahydromethanopterin (H(4)MPT) to 5,10-
+    methylenetetrahydromethanopterin.
+-!- FUNCTION: Catalyzes the formation of ribulose-5-phosphate and
+    formaldehyde from 3-hexulose-6-phosphate.
+-!- CATALYTIC ACTIVITY: D-arabino-3-hexulose 6-phosphate = D-ribulose
+    5-phosphate + formaldehyde.
+-!- PATHWAY: Carbohydrate biosynthesis; D-ribose 5-phosphate
+    biosynthesis.
+-!- SIMILARITY: In the N-terminal section; belongs to the
+    formaldehyde-activating enzyme family.
+-!- SIMILARITY: In the C-terminal section; belongs to the HPS/KGPDC
+    family. HPS subfamily.
+ GO:0016832; F:aldehyde-lyase activity; IEA:HAMAP.
+ GO:0016840; F:carbon-nitrogen lyase activity; IEA:HAMAP.
+ GO:0016051; P:carbohydrate biosynthesis; IEA:HAMAP.
+Carbohydrate metabolism; Complete proteome; Lyase;
+Multifunctional enzyme.
+TMZERO

@@ -1,0 +1,48 @@
+AC   P19493; Q64241;
+Glutamate receptor 4 precursor (GluR-4) (GluR4) (GluR-D) (Glutamate
+receptor ionotropic, AMPA 4) (AMPA-selective glutamate receptor 4).
+"A family of AMPA-selective glutamate receptors.";
+"Cloning of a novel glutamate receptor subunit, GluR5: expression in
+the nervous system during development.";
+"Flip and flop: a cell-specific functional switch in glutamate-
+operated channels of the CNS.";
+"Molecular cloning and development analysis of a new glutamate
+receptor subunit isoform in cerebellum.";
+"Clustering of AMPA receptors by the synaptic PDZ domain-containing
+protein PICK1.";
+-!- FUNCTION: Receptor for glutamate. L-glutamate acts as an
+    excitatory neurotransmitter at many synapses in the central
+    nervous system. The postsynaptic actions of Glu are mediated by a
+    variety of receptors that are named according to their selective
+    agonists. This receptor binds AMPA(quisqualate) > glutamate >
+    kainate.
+-!- SUBUNIT: Isoform 3 interacts with PRKCABP.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=Flop;
+      IsoId=P19493-1; Sequence=Displayed;
+    Name=2; Synonyms=Flip;
+      IsoId=P19493-2; Sequence=VSP_000123, VSP_000124, VSP_000125;
+    Name=3; Synonyms=4C flop;
+      IsoId=P19493-3; Sequence=VSP_000126;
+-!- PTM: Palmitoylated. Depalmitoylated upon glutamate stimulation.
+    Cys-611 palmitoylation leads to Golgi retention and decreased cell
+    surface expression. In contrast, Cys-837 palmitoylation does not
+    affect cell surface expression but regulates stimulation-dependent
+    endocytosis (By similarity).
+-!- SIMILARITY: Belongs to the glutamate-gated ion channel (TC 1.A.10)
+    family.
+ GO:0043025; C:cell soma; IDA:UniProtKB.
+ GO:0030425; C:dendrite; IMP:UniProtKB.
+ GO:0008328; C:ionotropic glutamate receptor complex; TAS:UniProtKB.
+ GO:0005886; C:plasma membrane; IMP:RGD.
+ GO:0014069; C:postsynaptic density; IDA:UniProtKB.
+ GO:0045202; C:synapse; IMP:UniProtKB.
+ GO:0004971; F:alpha-amino-3-hydroxy-5-methyl-4-isoxazole ...; IMP:RGD.
+ GO:0051968; P:positive regulation of synaptic transmissio...; IMP:UniProtKB.
+ GO:0050804; P:regulation of synaptic transmission; IMP:UniProtKB.
+Alternative splicing; Glycoprotein; Ion transport; Ionic channel;
+Lipoprotein; Membrane; Palmitate; Postsynaptic membrane; Receptor;
+Signal; Transmembrane; Transport.
+TMFOUR

@@ -1,0 +1,24 @@
+AC   P0AE06; P31223; Q2MBW4;
+Acriflavine resistance protein A precursor.
+"Molecular cloning and characterization of acrA and acrE genes of
+Escherichia coli.";
+"Nucleotide sequence of the acrAB operon from Escherichia coli.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Genes acrA and acrB encode a stress-induced efflux system of
+Escherichia coli.";
+"Molecular construction of a multidrug exporter system, AcrAB:
+molecular interaction between AcrA and AcrB, and cleavage of the N-
+terminal signal sequence of AcrA.";
+"Protein complexes of the Escherichia coli cell envelope.";
+-!- FUNCTION: AcrAB is a drug efflux protein with a broad substrate
+    specificity.
+-!- SUBUNIT: Homotrimeric; interacts with acrB.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; lipid-anchor.
+-!- SIMILARITY: Belongs to the membrane fusion protein (MFP)
+    (TC 8.A.1) family.
+3D-structure; Antibiotic resistance; Complete proteome;
+Inner membrane; Lipoprotein; Membrane; Palmitate; Signal; Transport.
+TMZERO

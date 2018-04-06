@@ -1,0 +1,13 @@
+AC   Q87L81;
+Glucose-6-phosphate isomerase (EC 5.3.1.9) (GPI) (Phosphoglucose
+isomerase) (PGI) (Phosphohexose isomerase) (PHI).
+"Genome sequence of Vibrio parahaemolyticus: a pathogenic mechanism
+distinct from that of V. cholerae.";
+-!- CATALYTIC ACTIVITY: D-glucose 6-phosphate = D-fructose 6-
+    phosphate.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; D-glyceraldehyde 3-
+    phosphate and glycerone phosphate from D-glucose: step 2.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the GPI family.
+Complete proteome; Gluconeogenesis; Glycolysis; Isomerase.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P39172; P76284;
+High-affinity zinc uptake system protein znuA precursor.
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Protein identification with N and C-terminal sequence tags in
+proteome projects.";
+"The ZnuABC high-affinity zinc uptake system and its regulator Zur in
+Escherichia coli.";
+-!- FUNCTION: Involved in the high-affinity zinc uptake transport
+    system.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 9
+    family.
+Complete proteome; Direct protein sequencing; Ion transport;
+Metal-binding; Periplasmic; Signal; Transport; Zinc; Zinc transport.
+TMZERO

@@ -1,0 +1,48 @@
+AC   P42702; Q6LCD9;
+Leukemia inhibitory factor receptor precursor (LIF receptor) (LIF-R)
+(CD118 antigen).
+"Leukemia inhibitory factor receptor is structurally related to the
+IL-6 signal transducer, gp130.";
+"Human LIF receptor 3' non-coding region.";
+"Null leukemia inhibitory factor receptor (LIFR) mutations in Stueve-
+Wiedemann/Schwartz-Jampel type 2 syndrome.";
+-!- FUNCTION: Signal-transducing molecule. May have a common pathway
+    with IL6ST. The soluble form inhibits the biological activity of
+    LIF by blocking its binding to receptors on target cells.
+-!- SUBUNIT: Heterodimer composed of LIFR and IL6ST.
+-!- SUBCELLULAR LOCATION: Isoform 1: Cell membrane; single-pass type I
+    membrane protein. Isoform 2: Secreted protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=Membrane;
+      IsoId=P42702-1; Sequence=Displayed;
+    Name=2; Synonyms=Secreted;
+      IsoId=P42702-2; Sequence=Not described;
+      Note=No experimental confirmation available;
+-!- DOMAIN: The WSXWS motif appears to be necessary for proper protein
+    folding and thereby efficient intracellular transport and cell-
+    surface receptor binding.
+-!- DOMAIN: The box 1 motif is required for JAK interaction and/or
+    activation.
+-!- DISEASE: Defects in LIFR are the cause of Stueve-Wiedemann
+    syndrome (SWS) [MIM:601559]; also called Schwartz-Jampel syndrome
+    type 2 or SJS2. SWS is a severe autosomal recessive condition and
+    belongs to the group of the bent-bone dysplasias. SWS is
+    characterized by bowing of the lower limbs, with internal cortical
+    thickening, wide metaphyses with abnormal trabecular pattern, and
+    camptodactyly. Additional features include feeding and swallowing
+    difficulties, as well as respiratory distress and hyperthermic
+    episodes, which cause death in the first months of life. The rare
+    survivors develop progressive scoliosis, spontaneous fractures,
+    bowing of the lower limbs, with prominent joints and dysautonomia
+    symptoms, including temperature instability, absent corneal and
+    patellar reflexes, and smooth tongue.
+-!- SIMILARITY: Belongs to the type I cytokine receptor family. Type 2
+    subfamily.
+-!- SIMILARITY: Contains 6 fibronectin type-III domains.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0004923; F:leukemia inhibitory factor receptor activity; TAS:ProtInc.
+ GO:0007166; P:cell surface receptor linked signal transdu...; TAS:ProtInc.
+Alternative splicing; Disease mutation; Glycoprotein; Membrane;
+Polymorphism; Receptor; Repeat; Signal; Transmembrane.
+TMONE

@@ -1,0 +1,29 @@
+AC   Q04544;
+Non-structural polyprotein [Contains: p48; Helicase (2C-like protein)
+(P2C); 3A-like protein; Viral genome-linked protein (VPg); Thiol
+protease P3C (EC 3.4.22.-) (3C-like protease) (3C-pro); RNA-directed
+RNA polymerase (EC 2.7.7.48)].
+"Sequence and genome organization of a human small round-structured
+(Norwalk-like) virus.";
+"A conserved sequence motif at the 5' terminus of the Southampton
+virus genome is characteristic of the Caliciviridae.";
+"Identification of further proteolytic cleavage sites in the
+Southampton calicivirus polyprotein by expression of the viral
+protease in E. coli.";
+-!- FUNCTION: P2C is important in RNA replication (By similarity).
+-!- FUNCTION: The cysteine protease is the protease responsible for
+    the post-translational processing of the polypeptide.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- PTM: Specific enzymatic cleavages by its own cysteine protease
+    yield mature proteins. The protease cleaves itself from the
+    nascent polyprotein autocatalytically (By similarity).
+-!- PTM: VPg is covalently attached to the 5'-end of the genomic RNA
+    (By similarity).
+-!- SIMILARITY: Contains 1 peptidase C37 domain.
+-!- SIMILARITY: Contains 1 RdRp catalytic domain.
+-!- SIMILARITY: Contains 1 SF3 helicase domain.
+ATP-binding; Covalent protein-RNA linkage; Helicase; Hydrolase;
+Nucleotide-binding; Nucleotidyltransferase; Protease; RNA replication;
+RNA-directed RNA polymerase; Thiol protease; Transferase.
+TMZERO

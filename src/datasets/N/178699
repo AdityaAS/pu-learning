@@ -1,0 +1,25 @@
+AC   P40825;
+Alanyl-tRNA synthetase, cytoplasmic (EC 6.1.1.7) (Alanine--tRNA
+ligase) (AlaRS).
+"Sequence of 29 kb around the PDR10 locus on the right arm of
+Saccharomyces cerevisiae chromosome XV: similarity to part of
+chromosome I.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: ATP + L-alanine + tRNA(Ala) = AMP +
+    diphosphate + L-alanyl-tRNA(Ala).
+-!- INTERACTION:
+    P39940:RSP5; NbExp=1; IntAct=EBI-18648, EBI-16219;
+    P40318:SSM4; NbExp=1; IntAct=EBI-18648, EBI-18208;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: Present with 33800 molecules/cell.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0004813; F:alanine-tRNA ligase activity; IGI:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006419; P:alanyl-tRNA aminoacylation; IGI:SGD.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

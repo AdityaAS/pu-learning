@@ -1,0 +1,18 @@
+AC   P24483;
+Adrenodoxin, mitochondrial precursor (Adrenal ferredoxin) (Ferredoxin-
+1).
+"Expression and regulation of adrenodoxin and P450scc mRNA in rodent
+tissues.";
+"Cloning and sequence analysis of a full-length cDNA of rat
+adrenodoxin.";
+-!- FUNCTION: Adrenodoxin transfers electrons from adrenodoxin
+    reductase to the cholesterol side chain cleavage cytochrome P450.
+-!- COFACTOR: Binds 1 2Fe-2S cluster.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix.
+-!- TISSUE SPECIFICITY: Found in all tissues, most abundant in
+    adrenals, ovaries and testes.
+-!- SIMILARITY: Belongs to the adrenodoxin/putidaredoxin family.
+-!- SIMILARITY: Contains 1 2Fe-2S ferredoxin-type domain.
+2Fe-2S; Electron transport; Iron; Iron-sulfur; Metal-binding;
+Mitochondrion; Transit peptide; Transport.
+TMZERO

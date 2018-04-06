@@ -1,0 +1,17 @@
+AC   P0A756; P45534; Q2M717;
+Glutathione-regulated potassium-efflux system ancillary protein kefG.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of an ancillary protein, YabF, required for activity
+of the KefC glutathione-gated potassium efflux system in Escherichia
+coli.";
+-!- FUNCTION: Required for full activity of kefB.
+-!- MISCELLANEOUS: It is unlikely that kefG has oxidoreductase
+    activity, it has probably evolved from its function as
+    oxidoreductase to be regulator of kefB.
+-!- SIMILARITY: Belongs to the NAD(P)H dehydrogenase (quinone) family.
+    KefG subfamily.
+ GO:0006813; P:potassium ion transport; IEA:HAMAP.
+Complete proteome.
+TMZERO

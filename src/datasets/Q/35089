@@ -1,0 +1,23 @@
+AC   Q80XF7;
+Gap junction alpha-12 protein (Connexin-47) (Cx47).
+"Genome sequence of the Brown Norway rat yields insights into
+mammalian evolution.";
+"The detection of hamster connexins: a comparison of expression
+profiles with wild-type mouse and the cancer-prone min mouse.";
+"Unique distributions of the gap junction proteins connexin29,
+connexin32, and connexin47 in oligodendrocytes.";
+-!- FUNCTION: One gap junction consists of a cluster of closely packed
+    pairs of transmembrane channels, the connexons, through which
+    materials of low MW diffuse from one cell to a neighboring cell.
+    May play a role in myelination in central and peripheral nervous
+    systems (By similarity).
+-!- SUBUNIT: A connexon is composed of a hexamer of connexins.
+    Interacts with TJP1 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Mainly expressed by oligodendrocytes in the
+    central nervous system. Expressed in optic nerve (at protein
+    level).
+-!- SIMILARITY: Belongs to the connexin family. Alpha-type (group II)
+    subfamily.
+Gap junction; Membrane; Phosphorylation; Transmembrane.
+TMFOUR

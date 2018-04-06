@@ -1,0 +1,16 @@
+AC   P79362; P79363;
+Bactenecin-5 precursor (Bac5) (OaBac5) (Cathelicidin-2).
+"Localization and genomic organization of sheep antimicrobial peptides
+genes.";
+-!- FUNCTION: Binds to the lipid A moiety of bacterial
+    lipipolysaccharides (LPS), a glycolipid present in the outer
+    membrane of all Gram-negative bacteria. Potent antimicrobial
+    activity (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- DOMAIN: BAC5 sequence consists almost exclusively of X-P-P-Y
+    repeats.
+-!- PTM: Elastase is responsible for its maturation (By similarity).
+-!- SIMILARITY: Belongs to the cathelicidin family.
+Amidation; Antibiotic; Antimicrobial; Pyrrolidone carboxylic acid;
+Repeat; Signal.
+TMZERO

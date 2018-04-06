@@ -1,0 +1,17 @@
+AC   O60104; Q9US98;
+RNA polymerase II mediator complex subunit 7.
+"The genome sequence of Schizosaccharomyces pombe.";
+"Large-scale screening of intracellular protein localization in living
+fission yeast cells by the use of a GFP-fusion genomic DNA library.";
+"Purification and characterization of RNA polymerase II holoenzyme
+from Schizosaccharomyces pombe.";
+-!- FUNCTION: Component of the RNA polymerase II holoenzyme and the
+    mediator of activation subcomplex.
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- SIMILARITY: Belongs to the mediator complex subunit 7 family.
+ GO:0000119; C:mediator complex; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0006366; P:transcription from RNA polymerase II promoter; TAS:GeneDB_SPombe.
+Complete proteome; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

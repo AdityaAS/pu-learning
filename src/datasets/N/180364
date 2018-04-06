@@ -1,0 +1,18 @@
+AC   Q9WUA2;
+Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20) (Phenylalanine--
+tRNA ligase beta chain) (PheRS).
+"Cloning of the cDNA encoding phenylalanyl tRNA synthetase regulatory
+alpha-subunit-like protein whose expression is down-regulated during
+differentiation.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- CATALYTIC ACTIVITY: ATP + L-phenylalanine + tRNA(Phe) = AMP +
+    diphosphate + L-phenylalanyl-tRNA(Phe).
+-!- SUBUNIT: Tetramer of two alpha and two beta chains (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the phenylalanyl-tRNA synthetase beta chain
+    family. Type 2 subfamily.
+Aminoacyl-tRNA synthetase; ATP-binding; Ligase; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

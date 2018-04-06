@@ -1,0 +1,15 @@
+AC   P0AGI5; P37389;
+Xylose transport system permease protein xylH.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for D-xylose. Probably responsible for the translocation of the
+    substrate across the membrane (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. AraH/rbsC subfamily.
+ GO:0015407; F:monosaccharide-transporting ATPase activity; IEA:EC.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMELEVEN

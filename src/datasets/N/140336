@@ -1,0 +1,42 @@
+AC   P06778;
+DNA repair and recombination protein RAD52.
+"Primary structure of the RAD52 gene in Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"The Rad52-Rad59 complex interacts with Rad51 and replication protein
+A.";
+"Global analysis of protein expression in yeast.";
+"Multiple start codons and phosphorylation result in discrete Rad52
+protein species.";
+-!- FUNCTION: Involved in DNA double-strand break (DSB) repair and
+    recombination. Promotes the annealing of complementary single-
+    stranded DNA and by stimulation of the RAD51 recombinase.
+-!- SUBUNIT: Part of a complex that includes RAD51, RAD52 and RAD59.
+-!- INTERACTION:
+    P40047:ALD5; NbExp=1; IntAct=EBI-14719, EBI-5792;
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative initiation; Named isoforms=3;
+    Name=1;
+      IsoId=P06778-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P06778-2; Sequence=VSP_019612;
+    Name=3;
+      IsoId=P06778-3; Sequence=VSP_019613;
+-!- MISCELLANEOUS: Present with 1080 molecules/cell.
+-!- SIMILARITY: Belongs to the RAD52 family.
+ GO:0000228; C:nuclear chromosome; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0000739; F:DNA strand annealing activity; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0000150; F:recombinase activity; IDA:SGD.
+ GO:0000727; P:double-strand break repair via break-induce...; TAS:SGD.
+ GO:0045002; P:double-strand break repair via single-stran...; IGI:SGD.
+ GO:0000707; P:meiotic DNA recombinase assembly; TAS:SGD.
+ GO:0006301; P:postreplication repair; IMP:SGD.
+ GO:0000722; P:telomere maintenance via recombination; IMP:SGD.
+Alternative initiation; Complete proteome; DNA damage;
+DNA recombination; DNA repair; Nuclear protein.
+TMZERO

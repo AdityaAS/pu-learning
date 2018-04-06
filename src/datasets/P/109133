@@ -1,0 +1,25 @@
+AC   P69856; P39372; Q2M602;
+Probable N-acetylneuraminic acid outer membrane channel protein nanC
+precursor (NanR-regulated channel) (Porin nanC).
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Function and expression of an N-acetylneuraminic acid-inducible outer
+membrane channel in Escherichia coli.";
+-!- FUNCTION: Outer membrane channel protein allowing the entry of N-
+    acetylneuraminic acid (Neu5Ac or sialic acid) into the bacteria
+    (Probable). NanC proteins form high-conductance channels which are
+    open at low membrane potentials and which have a weak anion
+    selectivity.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- INDUCTION: Induced by N-acetylneuraminate and modulated by N-
+    acetylglucosamine. This regulation occurs via the nanR and nagC
+    regulators. NanC expression is also activated by the regulators
+    cyclic AMP-catabolite activator protein, ompR, and cpxR.
+-!- SIMILARITY: Belongs to the oligogalacturonate-specific porin kdgM
+    (TC 1.B.35) family. NanC subfamily.
+Complete proteome; Ion transport; Membrane; Outer membrane; Porin;
+Signal; Sugar transport; Transmembrane; Transport.
+TMZERO

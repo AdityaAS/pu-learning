@@ -1,0 +1,16 @@
+AC   P30868; P77457;
+Glucuronide carrier protein (Glucuronide permease).
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Beta-glucuronidase from Escherichia coli as a gene-fusion marker.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the sodium:galactoside symporter family.
+Complete proteome; Inner membrane; Membrane; Sugar transport; Symport;
+Transmembrane; Transport.
+TMELEVEN

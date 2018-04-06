@@ -1,0 +1,13 @@
+AC   P15105; Q64432;
+Glutamine synthetase (EC 6.3.1.2) (Glutamate--ammonia ligase) (GS).
+"Mouse glutamine synthetase is encoded by a single gene that can be
+expressed in a localized fashion.";
+"Sequence of a mouse glutamine synthetase cDNA.";
+-!- CATALYTIC ACTIVITY: ATP + L-glutamate + NH(3) = ADP + phosphate +
+    L-glutamine.
+-!- SUBUNIT: Homooctamer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the glutamine synthetase family.
+ GO:0005739; C:mitochondrion; IDA:MGI.
+Acetylation; Direct protein sequencing; Ligase.
+TMZERO

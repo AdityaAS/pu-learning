@@ -1,0 +1,18 @@
+AC   Q7S7N3;
+Histone acetyltransferase type B subunit 2 (EC 2.3.1.48).
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: Component of the histone acetylase B (HAT-B) complex.
+    The complex acetylates 'Lys-12' of histone H4 which is required
+    for telomeric silencing (By similarity).
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + histone = CoA + acetylhistone.
+-!- SUBUNIT: Component of the HAT-B complex composed of at least hat-1
+    and hat-2. The HAT-B complex binds to histone H4 tail (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the WD repeat RBAP46/RBAP48/MSI1 family.
+-!- SIMILARITY: Contains 6 WD repeats.
+ GO:0004402; F:histone acetyltransferase activity; IEA:EC.
+Acyltransferase; Chromatin regulator; DNA damage; DNA repair;
+Nuclear protein; Repeat; Transferase; WD repeat.
+TMZERO

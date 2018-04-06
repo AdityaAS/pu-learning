@@ -1,0 +1,14 @@
+AC   Q5L3U7;
+Peptidyl-tRNA hydrolase (EC 3.1.1.29) (PTH).
+"Thermoadaptation trait revealed by the genome sequence of
+thermophilic Geobacillus kaustophilus.";
+-!- FUNCTION: The natural substrate for this enzyme may be peptidyl-
+    tRNAs which drop off the ribosome during protein synthesis (By
+    similarity).
+-!- CATALYTIC ACTIVITY: N-substituted aminoacyl-tRNA + H(2)O = N-
+    substituted amino acid + tRNA.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the PTH family.
+Complete proteome; Hydrolase.
+TMZERO

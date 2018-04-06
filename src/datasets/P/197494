@@ -1,0 +1,18 @@
+AC   Q9Z7N9; Q9JQ19;
+Probable hexose phosphate transport protein.
+"Comparative genomes of Chlamydia pneumoniae and C. trachomatis.";
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+"Comparison of whole genome sequences of Chlamydia pneumoniae J138
+from Japan and CWL029 from USA.";
+"The genome sequence of Chlamydia pneumoniae TW183 and comparison with
+other Chlamydia strains based on whole genome sequence analysis.";
+-!- FUNCTION: Transport protein for sugar phosphate uptake (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. SLC37A
+    family.
+Complete proteome; Membrane; Sugar transport; Transmembrane;
+Transport.
+TMELEVEN

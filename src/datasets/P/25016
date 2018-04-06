@@ -1,0 +1,25 @@
+AC   P31801;
+Calcium/proton antiporter.
+"Cloning and characterization of a putative Ca2+/H+ antiporter gene
+from Escherichia coli upon functional complementation of Na+/H+
+antiporter-deficient strains by the overexpressed gene.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: According to Ref.1 the natural activity of this protein
+    is as a calcium/proton antiporter, but it can act as a weak
+    sodium/proton antiporter. The presence of a preferred substrate
+    and normal pH cytoplasmic values might prevent significant
+    sodium/proton antiporter activity.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: Pronounced pH dependence. Inhibition by magnesium.
+-!- SIMILARITY: Belongs to the sodium/potassium/calcium exchanger
+    family.
+Antiport; Calcium; Complete proteome; Inner membrane; Ion transport;
+Membrane; Transmembrane; Transport.
+TMELEVEN

@@ -1,0 +1,21 @@
+AC   P16401; Q14529;
+Histone H1.5 (Histone H1a).
+"Human spleen histone H1. Isolation and amino acid sequences of three
+minor variants, H1a, H1c, and H1d.";
+"Characterization of the H1.5 gene completes the set of human H1
+subtype genes.";
+"The human and mouse replication-dependent histone genes.";
+"The DNA sequence and analysis of human chromosome 6.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Histones H1 are necessary for the condensation of
+    nucleosome chains into higher order structures.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the histone H1/H5 family.
+ GO:0000786; C:nucleosome; NAS:UniProtKB.
+ GO:0003677; F:DNA binding; NAS:UniProtKB.
+ GO:0007001; P:chromosome organization and biogenesis (sen...; NAS:UniProtKB.
+ GO:0006334; P:nucleosome assembly; NAS:UniProtKB.
+Acetylation; Chromosomal protein; Direct protein sequencing;
+DNA-binding; Nuclear protein; Phosphorylation.
+TMZERO

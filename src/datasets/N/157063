@@ -1,0 +1,20 @@
+AC   Q62191;
+52 kDa Ro protein (Sjoegren syndrome type A antigen) (SS-A) (Ro(SS-A))
+(52 kDa ribonucleoprotein autoantigen Ro/SS-A) (Tripartite motif-
+containing protein 21).
+"Structural differences between the human and mouse 52-kD Ro
+autoantigens associated with poorly conserved autoantibody activity
+across species.";
+-!- FUNCTION: Ribonucleoprotein particle composed of a single
+    polypeptide and one of four small RNA molecules. It is present in
+    all mammalian cells studied but has no known function (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- SIMILARITY: Belongs to the TRIM/RBCC family.
+-!- SIMILARITY: Contains 1 B box-type zinc finger.
+-!- SIMILARITY: Contains 1 B30.2/SPRY domain.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+ GO:0005737; C:cytoplasm; IDA:MGI.
+Coiled coil; DNA-binding; Metal-binding; Ribonucleoprotein;
+RNA-binding; Zinc; Zinc-finger.
+TMZERO

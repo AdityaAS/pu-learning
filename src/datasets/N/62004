@@ -1,0 +1,12 @@
+AC   Q88RX6;
+tRNA uridine 5-carboxymethylaminomethyl modification enzyme gidA
+(Glucose-inhibited division protein A).
+"Complete genome sequence of Lactobacillus plantarum WCFS1.";
+-!- FUNCTION: Involved in the 5-carboxymethylaminomethyl modification
+    (mnm(5)s(2)U) of the wobble uridine base in some tRNAs (By
+    similarity).
+-!- COFACTOR: FAD (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the gidA family.
+Complete proteome; FAD; Flavoprotein; tRNA processing.
+TMZERO

@@ -1,0 +1,17 @@
+AC   Q8GXD6; Q9C9H4;
+DEAD-box ATP-dependent RNA helicase 49 (EC 3.6.1.-).
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Functional annotation of a full-length Arabidopsis cDNA collection.";
+"DEAD-box RNA helicases in Arabidopsis thaliana: establishing a link
+between quantitative expression, gene structure and evolution of a
+family of genes.";
+-!- DOMAIN: The Q motif is unique to and characteristic of the DEAD
+    box family of RNA helicases and controls ATP binding and
+    hydrolysis.
+-!- SIMILARITY: Belongs to the DEAD box helicase family. DDX55/SPB4
+    subfamily.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ATP-binding; Helicase; Hydrolase; Nucleotide-binding; RNA-binding.
+TMZERO

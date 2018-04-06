@@ -1,0 +1,23 @@
+AC   Q8PXH2;
+DNA polymerase II large subunit (EC 2.7.7.7) (Pol II).
+"The genome of Methanosarcina mazei: evidence for lateral gene
+transfer between Bacteria and Archaea.";
+-!- FUNCTION: Possesses two activities: a DNA synthesis (polymerase)
+    and an exonucleolytic activity that degrades single stranded DNA
+    in the 3' to 5' direction. Has a template-primer preference which
+    is characteristic of a replicative DNA polymerase (By similarity).
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- CATALYTIC ACTIVITY: Degradation of single-stranded DNA. It acts
+    progressively in a 3'- to 5'-direction, releasing nucleoside 5'-
+    phosphates.
+-!- SUBUNIT: Heterodimer of a large subunit and a small subunit (By
+    similarity).
+-!- SIMILARITY: Belongs to the archaeal DNA polymerase II family.
+ GO:0008408; F:3'-5' exonuclease activity; IEA:HAMAP.
+ GO:0000738; P:DNA catabolism, exonucleolytic; IEA:HAMAP.
+ GO:0006261; P:DNA-dependent DNA replication; IEA:HAMAP.
+Complete proteome; DNA replication; DNA-binding;
+DNA-directed DNA polymerase; Exonuclease; Hydrolase;
+Multifunctional enzyme; Nuclease; Nucleotidyltransferase; Transferase.
+TMZERO

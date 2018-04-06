@@ -1,0 +1,17 @@
+AC   P22094;
+Glycerol facilitator-aquaporin gla (Aquaglyceroporin)
+(Glyceroaquaporin).
+"Molecular cloning and sequence analysis of the X-prolyl dipeptidyl
+aminopeptidase gene from Lactococcus lactis subsp. cremoris.";
+"Cloning and DNA sequence analysis of an X-prolyl dipeptidyl
+aminopeptidase gene from Lactococcus lactis subsp. lactis NCDO 763.";
+"Functional characterization of a microbial aquaglyceroporin.";
+-!- FUNCTION: Mixed channel protein that transports both water and
+    glycerol.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+Glycerol metabolism; Membrane; Repeat; Transmembrane; Transport.
+TMSIX

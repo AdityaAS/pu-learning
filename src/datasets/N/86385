@@ -1,0 +1,26 @@
+AC   P40376;
+cAMP-dependent protein kinase catalytic subunit (EC 2.7.11.11).
+"The Schizosaccharomyces pombe pka1 gene, encoding a homolog of cAMP-
+dependent protein kinase.";
+"Cloning of the pka1 gene encoding the catalytic subunit of the cAMP-
+dependent protein kinase in Schizosaccharomyces pombe.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- ENZYME REGULATION: Activated by cAMP (By similarity).
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. cAMP
+    subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005952; C:cAMP-dependent protein kinase complex; TAS:GeneDB_SPombe.
+ GO:0005737; C:cytoplasm; IDA:GeneDB_SPombe.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0004691; F:cAMP-dependent protein kinase activity; IGI:GeneDB_SPombe.
+ GO:0005515; F:protein binding; IPI:GeneDB_SPombe.
+ GO:0001315; P:age-dependent response to reactive oxygen s...; IGI:GeneDB_SPombe.
+ GO:0001300; P:chronological cell aging; IGI:GeneDB_SPombe.
+ GO:0031142; P:induction of conjugation upon nitrogen star...; IMP:GeneDB_SPombe.
+ GO:0045014; P:negative regulation of transcription by glu...; IMP:GeneDB_SPombe.
+ GO:0046999; P:regulation of conjugation; IMP:GeneDB_SPombe.
+ATP-binding; cAMP; Complete proteome; Kinase; Nucleotide-binding;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

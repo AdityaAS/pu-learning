@@ -1,0 +1,10 @@
+AC   Q00500;
+Cytochrome c-type biogenesis protein ccl1.
+"Bacterial cytochromes c biogenesis.";
+-!- FUNCTION: Required for the biogenesis of c-type cytochromes.
+    Possible subunit of a heme lyase.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ccmF/cycK/ccl1/nrfE/ccsA family.
+Cytochrome c-type biogenesis; Inner membrane; Membrane; Transmembrane.
+TMFIFTEEN

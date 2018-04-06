@@ -1,0 +1,13 @@
+AC   Q7VRS0;
+Probable malate:quinone oxidoreductase (EC 1.1.99.16) (Malate
+dehydrogenase [acceptor]) (MQO).
+"The genome sequence of Blochmannia floridanus: comparative analysis
+of reduced genomes.";
+-!- CATALYTIC ACTIVITY: (S)-malate + acceptor = oxaloacetate + reduced
+    acceptor.
+-!- COFACTOR: FAD (By similarity).
+-!- PATHWAY: Carbohydrate metabolism; tricarboxylic acid cycle.
+-!- SIMILARITY: Belongs to the MQO family.
+Complete proteome; FAD; Flavoprotein; Oxidoreductase;
+Tricarboxylic acid cycle.
+TMZERO

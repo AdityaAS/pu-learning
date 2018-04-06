@@ -1,0 +1,17 @@
+AC   P52179;
+Myomesin-1 (190 kDa titin-associated protein) (190 kDa connectin-
+associated protein).
+"The globular head domain of titin extends into the center of the
+sarcomeric M band. cDNA cloning, epitope mapping and immunoelectron
+microscopy of two titin-associated proteins.";
+-!- FUNCTION: Major component of the vertebrate myofibrillar M band.
+    Binds myosin, titin, and light meromyosin. This binding is dose
+    dependent.
+-!- SUBUNIT: Interacts with TTN/titin (By similarity).
+-!- SIMILARITY: Contains 5 fibronectin type-III domains.
+-!- SIMILARITY: Contains 5 Ig-like C2-type (immunoglobulin-like)
+    domains.
+ GO:0005863; C:striated muscle thick filament; TAS:ProtInc.
+ GO:0008307; F:structural constituent of muscle; TAS:ProtInc.
+Immunoglobulin domain; Muscle protein; Repeat; Thick filament.
+TMZERO

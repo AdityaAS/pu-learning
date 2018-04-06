@@ -1,0 +1,12 @@
+AC   Q24825;
+Pore-forming peptide ameobapore C precursor (EH-APP).
+"Amoebapores, a family of membranolytic peptides from cytoplasmic
+granules of Entamoeba histolytica: isolation, primary structure, and
+pore formation in bacterial cytoplasmic membranes.";
+-!- FUNCTION: Forms pores in the cytoplasmic membrane of host cells.
+    Has antibacterial activity against M.luteus, no activity against
+    E.coli. Implicated in the cytolytic activity of the parasite.
+-!- SUBCELLULAR LOCATION: Cytoplasmic granule.
+-!- SIMILARITY: Contains 1 saposin B-type domain.
+Antibiotic; Antimicrobial; Direct protein sequencing; Signal.
+TMZERO

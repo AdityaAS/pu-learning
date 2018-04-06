@@ -1,0 +1,32 @@
+AC   P10083; Q4V702; Q9W5G4;
+Achaete-scute complex protein T5 (Achaete).
+"The achaete-scute gene complex of D. melanogaster: conserved domains
+in a subset of genes required for neurogenesis and their homology to
+myc.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"From sequence to chromosome: the tip of the X chromosome of D.
+melanogaster.";
+-!- FUNCTION: AS-C proteins are involved in the determination of the
+    neuronal precursors in the peripheral nervous system and the
+    central nervous system.
+-!- SUBUNIT: Efficient DNA binding requires dimerization with another
+    bHLH protein.
+-!- TISSUE SPECIFICITY: L(1)SC, SC and AC strongly label the
+    presumptive stomatogastric nervous system, while ASE is more
+    prominent in the presumptive procephalic lobe.
+-!- SIMILARITY: Contains 1 basic helix-loop-helix (bHLH) domain.
+ GO:0003677; F:DNA binding; TAS:FlyBase.
+ GO:0016563; F:transcriptional activator activity; TAS:FlyBase.
+ GO:0008407; P:bristle morphogenesis; IMP:FlyBase.
+ GO:0007400; P:neuroblast fate determination; TAS:FlyBase.
+ GO:0009993; P:oogenesis (sensu Insecta); TAS:FlyBase.
+ GO:0007422; P:peripheral nervous system development; IMP:FlyBase.
+ GO:0045941; P:positive regulation of transcription; TAS:FlyBase.
+ GO:0007346; P:regulation of progression through mitotic c...; TAS:FlyBase.
+ GO:0006355; P:regulation of transcription, DNA-dependent; NAS:FlyBase.
+ GO:0007419; P:ventral cord development; NAS:FlyBase.
+Complete proteome; Developmental protein; Differentiation;
+DNA-binding; Neurogenesis.
+TMZERO

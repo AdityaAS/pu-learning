@@ -1,0 +1,14 @@
+AC   Q9R111;
+Guanine deaminase (EC 3.5.4.3) (Guanase) (Guanine aminase) (Guanine
+aminohydrolase) (GAH).
+"Cloning and characterization of human guanine deaminase. Purification
+and partial amino acid sequence of the mouse protein.";
+-!- FUNCTION: Catalyzes the hydrolytic deamination of guanine,
+    producing xanthine and ammonia.
+-!- CATALYTIC ACTIVITY: Guanine + H(2)O = xanthine + NH(3).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- PATHWAY: Purine nucleotide catabolism.
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the ATZ/TRZ family.
+Direct protein sequencing; Hydrolase; Zinc.
+TMZERO

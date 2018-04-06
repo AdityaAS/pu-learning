@@ -1,0 +1,17 @@
+AC   Q60183;
+V-type ATP synthase subunit E (EC 3.6.3.14) (V-type ATPase subunit E).
+"Subunit structure and organization of the genes of the A1A0 ATPase
+from the Archaeon Methanosarcina mazei Go1.";
+"The genome of Methanosarcina mazei: evidence for lateral gene
+transfer between Bacteria and Archaea.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: Composed of seven subunits; A, B, C, D, E, F and G.
+-!- SIMILARITY: Belongs to the V-ATPase E subunit family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0042777; P:ATP synthesis coupled proton transport (sen...; IEA:HAMAP.
+ATP synthesis; Complete proteome; Hydrogen ion transport; Hydrolase;
+Ion transport; Transport.
+TMZERO

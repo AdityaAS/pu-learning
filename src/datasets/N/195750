@@ -1,0 +1,12 @@
+AC   Q19673;
+Putative tyrosinase-like protein tyr-3 precursor.
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- COFACTOR: Binds 2 copper ions per subunit (By similarity).
+-!- SIMILARITY: Belongs to the tyrosinase family.
+-!- SIMILARITY: Contains 4 SXC (ShKT) domains.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction.
+Complete proteome; Copper; Hypothetical protein; Metal-binding;
+Monooxygenase; Oxidoreductase; Repeat; Signal.
+TMZERO

@@ -1,0 +1,18 @@
+AC   P0AFT4; O07985; P76315;
+Inner membrane amino-acid ABC transporter permease protein yecS.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Probably part of the binding-protein-dependent transport
+    system yecCS for an amino acid; probably responsible for the
+    translocation of the substrate across the membrane (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+THTHREE

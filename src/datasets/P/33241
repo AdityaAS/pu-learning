@@ -1,0 +1,32 @@
+AC   P35206;
+Mannosyl phosphorylinositol ceramide synthase regulatory protein CSG2
+precursor.
+"A novel protein, CSG2p, is required for Ca2+ regulation in
+Saccharomyces cerevisiae.";
+"The CLS2 gene encodes a protein with multiple membrane-spanning
+domains that is important Ca2+ tolerance in yeast.";
+"Complete DNA sequence of yeast chromosome II.";
+"The complete sequence of a 33 kb fragment on the right arm of
+chromosome II from Saccharomyces cerevisiae reveals 16 open reading
+frames, including ten new open reading frames, five previously
+identified genes and a homologue of the SCO1 gene.";
+"Accumulation of the cytochrome c oxidase subunits I and II in yeast
+requires a mitochondrial membrane-associated protein, encoded by the
+nuclear SCO1 gene.";
+"Csg1p and newly identified Csh1p function in mannosylinositol
+phosphorylceramide synthesis by interacting with Csg2p.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Required for calcium regulation. May regulate calcium
+    accumulation by a non-vacuole organelle. Also regulates the
+    activity of CSH1 and SUR1 during mannosyl phosphorylinositol
+    ceramide synthesis.
+-!- SUBUNIT: Heterodimer of CSH1 and CSG2, and SUR1 and CSG2.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+ GO:0030176; C:integral to endoplasmic reticulum membrane; IDA:SGD.
+ GO:0030234; F:enzyme regulator activity; IMP:SGD.
+ GO:0006874; P:calcium ion homeostasis; IMP:SGD.
+Complete proteome; Endoplasmic reticulum; Glycoprotein; Membrane;
+Signal; Transmembrane.
+TMNINE

@@ -1,0 +1,34 @@
+AC   P33399;
+La protein homolog (La ribonucleoprotein) (La autoantigen homolog).
+"La proteins from Drosophila melanogaster and Saccharomyces
+cerevisiae: a yeast homolog of the La autoantigen is dispensable for
+growth.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"A yeast RNA binding protein that resembles the human autoantigen
+La.";
+"A suppressor gene that enables Saccharomyces cerevisiae to grow
+without making sphingolipids encodes a protein that resembles an
+Escherichia coli fatty acyltransferase.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- FUNCTION: Binds to the precursors of polymerase III RNAs. Binds
+    preferentially to precursors ending in U residues.
+-!- INTERACTION:
+    P22696:ESS1; NbExp=1; IntAct=EBI-10046, EBI-6679;
+    P33203:PRP40; NbExp=1; IntAct=EBI-10046, EBI-701;
+    P39940:RSP5; NbExp=1; IntAct=EBI-10046, EBI-16219;
+    P40318:SSM4; NbExp=1; IntAct=EBI-10046, EBI-18208;
+    P43582:YFL010C; NbExp=1; IntAct=EBI-10046, EBI-22766;
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- SIMILARITY: Contains 1 HTH La-type RNA-binding domain.
+-!- SIMILARITY: Contains 1 RRM (RNA recognition motif) domain.
+ GO:0005730; C:nucleolus; IDA:SGD.
+ GO:0005654; C:nucleoplasm; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0003723; F:RNA binding; IDA:SGD.
+ GO:0008033; P:tRNA processing; IMP:SGD.
+Complete proteome; Nuclear protein; Phosphorylation; RNA-binding.
+TMZERO

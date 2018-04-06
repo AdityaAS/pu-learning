@@ -1,0 +1,24 @@
+AC   P31133; P77289;
+Putrescine-binding periplasmic protein precursor.
+"Characteristics of the operon for a putrescine transport system that
+maps at 19 minutes on the Escherichia coli chromosome.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Crystallization and preliminary X-ray analysis of the periplasmic
+receptor (PotF) of the putrescine transport system in Escherichia
+coli.";
+"Crystal structure and mutational analysis of the Escherichia coli
+putrescine receptor. Structural basis for substrate specificity.";
+-!- FUNCTION: Required for the activity of the bacterial periplasmic
+    transport system of putrescine. Polyamine binding protein.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein
+    potD/potF family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Periplasmic; Signal; Transport.
+TMZERO

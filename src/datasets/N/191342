@@ -1,0 +1,10 @@
+AC   P31308;
+Probable thiol peroxidase (EC 1.11.1.-).
+"Nucleotide sequence of a gene coding for a saliva-binding protein
+(SsaB) from Streptococcus sanguis 12 and possible role of the protein
+in coaggregation with actinomyces.";
+-!- FUNCTION: Has antioxidant activity. Could remove peroxides or
+    H(2)O(2) (By similarity).
+-!- SIMILARITY: Belongs to the ahpC/TSA family. Tpx subfamily.
+Antioxidant; Direct protein sequencing; Oxidoreductase; Peroxidase.
+TMZERO

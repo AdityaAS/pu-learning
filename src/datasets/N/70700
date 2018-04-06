@@ -1,0 +1,15 @@
+AC   P83132;
+Hemoglobin A subunit alpha-2 (Hemoglobin A alpha-2 chain).
+"The amino acid sequences of the alpha- and beta-globin chains of
+hemoglobin from the Aldabra giant tortoises, Geochelone gigantea.";
+-!- FUNCTION: Involved in oxygen transport from the lung to the
+    various peripheral tissues.
+-!- SUBUNIT: Tetramer of alpha-1, alpha-2 and two identical beta
+    chains.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- MISCELLANEOUS: Hemoglobin A is the major, and hemoglobin D the
+    minor hemoglobin of this species.
+-!- SIMILARITY: Belongs to the globin family.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

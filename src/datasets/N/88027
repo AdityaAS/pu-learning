@@ -1,0 +1,30 @@
+AC   Q8LBB2; Q9S7W6;
+SNF1-related protein kinase regulatory subunit gamma 1 (AKIN gamma1)
+(AKING1).
+"Arabidopsis thaliana proteins related to the yeast SIP and SNF4
+interact with AKINalpha1, an SNF1-like protein kinase.";
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+-!- FUNCTION: Putative regulatory subunit of the putative trimeric
+    SNF1-related protein kinase (SnRK) complex, which may play a role
+    in a signal transduction cascade regulating gene expression and
+    carbohydrate metabolism in higher plants. The SnRK complex may
+    also be involved in the regulation of fatty acid synthesis by
+    phosphorylation of acetyl-CoA carboxylase and in assimilation of
+    nitrogen by phosphorylating nitrate reductase.
+-!- SUBUNIT: Subunit of a probable heterotrimeric complex consisting
+    of an alpha catalytic, and a beta and gamma non-catalytic
+    regulatory subunit (KINB1 or KINB2, and KING1), respectively.
+-!- TISSUE SPECIFICITY: Expressed in vegetative organs and, to lower
+    extent, in reproductive organs.
+-!- INDUCTION: Strongly induced in the dark.
+-!- SIMILARITY: Belongs to the 5'-AMP-activated protein kinase gamma
+    subunit family.
+-!- SIMILARITY: Contains 3 CBS domains.
+ATP-binding; Carbohydrate metabolism; CBS domain;
+Fatty acid biosynthesis; Lipid synthesis; Nitrate assimilation;
+Nucleotide-binding; Repeat.
+TMZERO

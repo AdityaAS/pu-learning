@@ -1,0 +1,16 @@
+AC   Q56952;
+Periplasmic chelated iron-binding protein yfeA precursor.
+"An ABC transporter system of Yersinia pestis allows utilization of
+chelated iron by Escherichia coli SAB11.";
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: Part of an ATP-driven transport system yfeABCD for
+    chelated iron.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 9
+    family.
+Complete proteome; Ion transport; Iron; Iron transport; Metal-binding;
+Periplasmic; Signal; Transport.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P0A5A7; O53230;
+Protoporphyrinogen oxidase (EC 1.3.3.4) (PPO).
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Re-annotation of the genome sequence of Mycobacterium tuberculosis
+H37Rv.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+-!- FUNCTION: Catalyzes the 6-electron oxidation of protoporphyrinogen
+    IX to form protoporphyrin IX.
+-!- CATALYTIC ACTIVITY: Protoporphyrinogen-IX + 1.5 O(2) =
+    protoporphyrin-IX + 3 H(2)O.
+-!- COFACTOR: Binds 1 FAD per dimer (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; porphyrin biosynthesis;
+    protoporphyrin-IX from protoporphyrinogen-IX: single step [final
+    step].
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the protoporphyrinogen oxidase family.
+Complete proteome; FAD; Flavoprotein; Heme biosynthesis;
+Oxidoreductase; Porphyrin biosynthesis.
+TMZERO

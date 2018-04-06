@@ -1,0 +1,23 @@
+AC   P27245; P76882; P77582;
+Multiple antibiotic resistance protein marR.
+"Genetic and functional analysis of the multiple antibiotic resistance
+(mar) locus in Escherichia coli.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Repressor mutations in the marRAB operon that activate oxidative
+stress genes and multiple antibiotic resistance in Escherichia coli.";
+"Characterization of MarR, the repressor of the multiple antibiotic
+resistance (mar) operon in Escherichia coli.";
+"Mutational analysis of MarR, the negative regulator of marRAB
+expression in Escherichia coli, suggests the presence of two regions
+required for DNA binding.";
+-!- FUNCTION: Repressor of the marRAB operon which is involved in the
+    activation of both antibiotic resistance and oxidative stress
+    genes. Binds to the marO operator/promoter site.
+-!- SIMILARITY: Contains 1 HTH marR-type DNA-binding domain.
+3D-structure; Antibiotic resistance; Complete proteome; DNA-binding;
+Repressor; Transcription; Transcription regulation.
+TMZERO

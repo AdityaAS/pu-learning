@@ -1,0 +1,15 @@
+AC   P27611;
+Na(+)/H(+) antiporter (Sodium/proton antiporter) (Sodium/hydrogen
+antiporter).
+"Molecular cloning and sequencing of a gene from alkaliphilic Bacillus
+firmus OF4 that functionally complements an Escherichia coli strain
+carrying a deletion in the nhaA Na+/H+ antiporter gene.";
+"Role of the nhaC-encoded Na+/H+ antiporter of alkaliphilic Bacillus
+firmus OF4.";
+-!- FUNCTION: Na(+)/H(+) antiporter. Involved in pH homeostasis and
+    sodium extrusion.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the nhaC Na(+)/H(+) antiporter family.
+Antiport; Ion transport; Membrane; Sodium; Sodium transport;
+Transmembrane; Transport.
+TMTWELVE

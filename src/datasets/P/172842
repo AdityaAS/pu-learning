@@ -1,0 +1,26 @@
+AC   P22215;
+Protein SLY41.
+"Identification and structure of four yeast genes (SLY) that are able
+to suppress the functional loss of YPT1, a member of the RAS
+superfamily.";
+"Sequencing of a 35.71 kb DNA segment on the right arm of yeast
+chromosome XV reveals regions of similarity to chromosomes I and
+XIII.";
+"Sequence and analysis of a 36.2 kb fragment from the right arm of
+yeast chromosome XV reveals 19 open reading frames including SNF2 (5'
+end), CPA1, SLY41, a putative transport ATPase, a putative ribosomal
+protein and an SNF2 homologue.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Able to suppress the functional loss of YPT1. May form a
+    channel. Protein SLY41 is not essential for cell viability. The
+    SLY41 gene is a multicopy suppressor.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 784 molecules/cell.
+-!- SIMILARITY: Belongs to the TPT transporter family.
+ GO:0005783; C:endoplasmic reticulum; IDA:SGD.
+ GO:0006888; P:ER to Golgi vesicle-mediated transport; IGI:SGD.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMEIGHT

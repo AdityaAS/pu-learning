@@ -1,0 +1,16 @@
+AC   P17842;
+Transcription factor IIIA (Factor A) (TFIIIA).
+"Sequence variation in transcription factor IIIA.";
+"A finger protein structurally similar to TFIIIA that binds
+exclusively to 5S RNA in Xenopus.";
+-!- FUNCTION: Interacts with the internal control region (ICR) of
+    approximately 50 bases within the 5S RNA genes, is required for
+    correct transcription of these genes by RNA polymerase III. Also
+    binds the transcribed 5S RNA's.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Synthesized in oocytes and, in much lower
+    levels, in somatic cells.
+-!- SIMILARITY: Contains 9 C2H2-type zinc fingers.
+DNA-binding; Metal-binding; Nuclear protein; Repeat; RNA-binding;
+Transcription; Transcription regulation; Zinc; Zinc-finger.
+TMZERO

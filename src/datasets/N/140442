@@ -1,0 +1,10 @@
+AC   Q81LD7; Q6HSU0; Q6KM33;
+DNA repair protein radC homolog.
+"The genome sequence of Bacillus anthracis Ames and comparison to
+closely related bacteria.";
+"Bacillus anthracis comparative genomics.";
+"Complete genome sequence of Bacillus anthracis Sterne.";
+-!- FUNCTION: Involved in DNA repair (By similarity).
+-!- SIMILARITY: Belongs to the radC family.
+Complete proteome; DNA damage; DNA repair.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q01818;
+Chromaffin granule amine transporter (Vesicular amine transporter 1)
+(VAT1) (Solute carrier family 18 member 1).
+"A cDNA that suppresses MPP+ toxicity encodes a vesicular amine
+transporter.";
+-!- FUNCTION: Involved in the vesicular transport of biogenic amines.
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; cytoplasmic vesicle
+    membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Adrenal gland.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Vesicular transporter family.
+Glycoprotein; Membrane; Neurotransmitter transport; Transmembrane;
+Transport.
+TMTWELVE

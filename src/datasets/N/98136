@@ -1,0 +1,30 @@
+AC   Q88266; Q782E6;
+Matrix protein (M protein).
+"A field isolate of Sendai virus: its high virulence to mice and
+genetic divergence from prototype strains.";
+"Conserved and non-conserved regions in the Sendai virus genome:
+evolution of a gene possessing overlapping reading frames.";
+"Involvement of the leader sequence in Sendai virus pathogenesis
+revealed by recovery of a pathogenic field isolate from cDNA.";
+"Identification of mutations associated with attenuation of virulence
+of a field Sendai virus isolate by egg passage.";
+-!- FUNCTION: Plays a crucial role in virion assembly and budding.
+    Forms a shell at the inner face of the plasma membrane and
+    concentrates the HN and F glycoproteins. Acts as a negative
+    regulator for transcription and replication by sticking to the
+    nucleocapsid. This effect might be regulated by the cytoplasmic
+    interaction with tubulin that dissociates the M protein from the
+    nucleocapsid (By similarity).
+-!- SUBUNIT: Homomultimer. Binds to the cytoplasmic regions of F and
+    HN proteins. Interacts with nucleocapsid. Interacts with human
+    alpha-tubulin and beta-tubulin (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Note=During bud
+    formation, associates at the inner side of the plasma membrane of
+    infected cells (By similarity).
+-!- PTM: A large portion is phosphorylated in the cytoplasm, but not
+    in virion. However, this phosphorylation is not essential for
+    virus replication (By similarity).
+-!- SIMILARITY: Belongs to the paramyxoviruses M protein family.
+Host-virus interaction; Membrane; Phosphorylation;
+Viral matrix protein; Virion protein.
+TMZERO

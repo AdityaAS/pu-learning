@@ -1,0 +1,11 @@
+AC   P38577;
+Bacteriocin mesentericin Y105 precursor.
+"Mesentericin Y105 gene clusters in Leuconostoc mesenteroides Y105.";
+"Characterization and purification of mesentericin Y105, an anti-
+Listeria bacteriocin from Leuconostoc mesenteroides.";
+-!- FUNCTION: Bacteriocin active against Listeria monocytogenes.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the bacteriocin class IIA/YGNGV family.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing;
+Plasmid; Signal.
+TMZERO

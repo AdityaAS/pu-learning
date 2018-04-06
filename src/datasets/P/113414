@@ -1,0 +1,35 @@
+AC   Q06496;
+Sodium-dependent phosphate transport protein 2A (Sodium/phosphate
+cotransporter 2A) (Na(+)/Pi cotransporter 2A) (Sodium-phosphate
+transport protein 2A) (Na(+)-dependent phosphate cotransporter 2A)
+(NaPi-2a) (Solute carrier family 34 member 1).
+"Expression cloning of human and rat renal cortex Na/Pi cotransport.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Regulation of rat renal Na/Pi-cotransporter by parathyroid hormone:
+immunohistochemistry.";
+"Acute regulation by dietary phosphate of the sodium-dependent
+phosphate transporter (NaP(i)-2) in rat kidney.";
+"Parathyroid hormone leads to the lysosomal degradation of the renal
+type II Na/Pi cotransporter.";
+"Stoichiometry and Na+ binding cooperativity of rat and flounder renal
+type II Na+-Pi cotransporters.";
+"Studies on the topology of the renal type II NaPi-cotransporter.";
+"Cysteine residues and the structure of the rat renal proximal tubular
+type II sodium phosphate cotransporter (rat NaPi IIa).";
+-!- FUNCTION: May be involved in actively transporting phosphate into
+    cells via Na(+) cotransport in the renal brush border membrane.
+    Probably mediates 70-80% of the apical influx.
+-!- SUBUNIT: Interacts via its C-terminal region with PDZK2 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Kidney.
+-!- INDUCTION: By low-phosphate diet.
+-!- MISCELLANEOUS: The cotransport has a Na(+):Pi stoichiometry of 3:1
+    and is electrogenic.
+-!- MISCELLANEOUS: PTH induces lysosomal degradation of the
+    cotransporter.
+-!- SIMILARITY: Belongs to the SLC34A transporter family.
+Glycoprotein; Ion transport; Membrane; Phosphorylation; Sodium;
+Sodium transport; Symport; Transmembrane; Transport.
+TMEIGHT

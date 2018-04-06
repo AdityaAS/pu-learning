@@ -1,0 +1,19 @@
+AC   P0A5Y2; O86343; Q50794;
+Phosphate-binding protein 3 precursor (PBP-3) (PstS-3) (Antigen Ag88).
+"Identification of a second Mycobacterium tuberculosis gene cluster
+encoding proteins of an ABC phosphate transporter.";
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+"Three different putative phosphate transport receptors are encoded by
+the Mycobacterium tuberculosis genome and are present at the surface
+of Mycobacterium bovis BCG.";
+-!- FUNCTION: Required for binding-protein-mediated phosphate
+    transport.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Probable).
+-!- INDUCTION: By phosphate starvation.
+-!- SIMILARITY: Belongs to the pstS family.
+Complete proteome; Lipoprotein; Membrane; Palmitate;
+Phosphate transport; Signal; Transport.
+TMZERO

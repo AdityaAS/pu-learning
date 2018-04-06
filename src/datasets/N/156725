@@ -1,0 +1,18 @@
+AC   P66680; Q8XD98;
+Ribonuclease PH (EC 2.7.7.56) (RNase PH) (tRNA
+nucleotidyltransferase).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Phosphorolytic exoribonuclease that removes nucleotide
+    residues following the -CCA terminus of tRNA and adds nucleotides
+    to the ends of RNA molecules by using nucleoside diphosphates as
+    substrates. Also acts to regulate the attenuation of pyrE (By
+    similarity).
+-!- CATALYTIC ACTIVITY: tRNA(n+1) + phosphate = tRNA(n) + a nucleoside
+    diphosphate.
+-!- SIMILARITY: Belongs to the RNase PH family.
+ GO:0009022; F:tRNA nucleotidyltransferase activity; IEA:HAMAP.
+Complete proteome; Nucleotidyltransferase; Transferase;
+tRNA processing.
+TMZERO

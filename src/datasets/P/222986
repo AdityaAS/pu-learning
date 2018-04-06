@@ -1,0 +1,14 @@
+AC   P76111; Q2MBB3;
+Inner membrane protein ydcZ.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- INTERACTION:
+    P00363:frdA; NbExp=1; IntAct=EBI-550492, EBI-550480;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMFIVE

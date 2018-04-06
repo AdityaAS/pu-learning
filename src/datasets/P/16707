@@ -1,0 +1,17 @@
+AC   Q9S142; Q46777;
+Outer membrane lipoprotein bfpB precursor (Bundle-forming pilus B).
+"Enteropathogenic Escherichia coli: identification of a gene cluster
+coding for bundle-forming pilus morphogenesis.";
+"Complete DNA sequence and structural analysis of the enteropathogenic
+Escherichia coli adherence factor plasmid.";
+"BfpB, an outer membrane lipoprotein required for the biogenesis of
+bundle-forming pili in enteropathogenic Escherichia coli.";
+-!- FUNCTION: Is absolutely required for pilus biogenesis, and for
+    EPEC localized adherence and autoaggregation. Acts at a step in
+    the BFP biogenic pathway after production and processing of the
+    structural pilus subunit bfpA.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor.
+-!- INDUCTION: During exponential-phase growth; repressed by ammonium.
+Fimbria; Lipoprotein; Membrane; Outer membrane; Palmitate; Plasmid;
+Signal.
+TMZERO

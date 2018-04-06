@@ -1,0 +1,12 @@
+AC   P0A1L1; P54699;
+Flagellar protein fliO.
+"The FliO, FliP, FliQ, and FliR proteins of Salmonella typhimurium:
+putative components for flagellar assembly.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the fliO/mopB family.
+Chemotaxis; Complete proteome; Direct protein sequencing;
+Flagellar rotation; Flagellum; Membrane; Transmembrane.
+TMONE

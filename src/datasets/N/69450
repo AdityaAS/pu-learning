@@ -1,0 +1,11 @@
+AC   Q24704;
+Histone H1.1.
+"Histone H1 genes and histone gene clusters in the genus Drosophila.";
+"Drosophila virilis has atypical kinds and arrangements of histone
+repeats.";
+-!- FUNCTION: Histones H1 are necessary for the condensation of
+    nucleosome chains into higher order structures.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the histone H1/H5 family.
+Chromosomal protein; DNA-binding; Nuclear protein.
+TMZERO

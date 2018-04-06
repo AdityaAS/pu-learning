@@ -1,0 +1,18 @@
+AC   Q8DR59;
+Penicillin-binding protein 1A (PBP-1A) (Exported protein 2).
+"Nucleotide sequences of genes encoding penicillin-binding proteins
+from Streptococcus pneumoniae and Streptococcus oralis with high
+homology to Escherichia coli penicillin-binding proteins 1a and 1b.";
+"Genome of the bacterium Streptococcus pneumoniae strain R6.";
+"Genetic identification of exported proteins in Streptococcus
+pneumoniae.";
+-!- FUNCTION: Cell wall formation.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: In the N-terminal section; belongs to the
+    glycosyltransferase 51 family.
+-!- SIMILARITY: In the C-terminal section; belongs to the
+    transpeptidase family.
+3D-structure; Antibiotic resistance; Cell shape; Cell wall;
+Complete proteome; Multifunctional enzyme; Peptidoglycan synthesis.
+TMZERO

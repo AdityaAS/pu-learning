@@ -1,0 +1,18 @@
+AC   Q92J42;
+2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) (Alpha-
+ketoglutarate dehydrogenase).
+"Mechanisms of evolution in Rickettsia conorii and R. prowazekii.";
+-!- FUNCTION: The 2-oxoglutarate dehydrogenase complex catalyzes the
+    overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2). It
+    contains multiple copies of three enzymatic components: 2-
+    oxoglutarate dehydrogenase (E1), dihydrolipoamide
+    succinyltransferase (E2) and lipoamide dehydrogenase (E3) (By
+    similarity).
+-!- CATALYTIC ACTIVITY: 2-oxoglutarate + [dihydrolipoyllysine-residue
+    succinyltransferase] lipoyllysine = [dihydrolipoyllysine-residue
+    succinyltransferase] S-succinyldihydrolipoyllysine + CO(2).
+-!- COFACTOR: Thiamine pyrophosphate (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+Complete proteome; Flavoprotein; Glycolysis; Oxidoreductase;
+Thiamine pyrophosphate.
+TMZERO

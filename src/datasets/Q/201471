@@ -1,0 +1,20 @@
+AC   O97755;
+Vacuolar ATP synthase subunit D (EC 3.6.3.14) (V-ATPase D subunit)
+(Vacuolar proton pump D subunit) (V-ATPase 28 kDa accessory protein).
+"The rabbit vacuolar proton-ATPase Subunit D: alternative splicing and
+high expression in osteoclasts.";
+-!- FUNCTION: Subunit of the peripheral V1 complex of vacuolar ATPase.
+    Vacuolar ATPase is responsible for acidifying a variety of
+    intracellular compartments in eukaryotic cells, thus providing
+    most of the energy required for transport processes in the
+    vacuolar system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'' and d).
+-!- SIMILARITY: Belongs to the V-ATPase D subunit family.
+ATP synthesis; Hydrogen ion transport; Hydrolase; Ion transport;
+Transport.
+TMZERO

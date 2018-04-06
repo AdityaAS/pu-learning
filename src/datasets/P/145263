@@ -1,0 +1,14 @@
+AC   Q9Z3Q5;
+Rhizobactin receptor precursor (TonB-dependent siderophore receptor
+rhtA).
+"Genetic organization of the region encoding regulation, biosynthesis,
+and transport of rhizobactin 1021, a siderophore produced by
+Sinorhizobium meliloti.";
+"Nucleotide sequence and predicted functions of the entire
+Sinorhizobium meliloti pSymA megaplasmid.";
+-!- FUNCTION: Receptor for the siderophore rhizobactin.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+Complete proteome; Ion transport; Iron; Iron transport; Membrane;
+Outer membrane; Plasmid; Receptor; Signal; TonB box; Transport.
+TMZERO

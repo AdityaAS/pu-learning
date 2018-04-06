@@ -1,0 +1,9 @@
+AC   Q2P2A5;
+UPF0178 protein XOO2567.
+"Genome sequence of Xanthomonas oryzae pv. oryzae suggests
+contribution of large numbers of effector genes and insertion
+sequences to its race diversity.";
+-!- SIMILARITY: Belongs to the UPF0178 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

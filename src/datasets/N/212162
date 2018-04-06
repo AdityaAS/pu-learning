@@ -1,0 +1,7 @@
+AC   Q6MAG7;
+UPF0247 protein pc1708.
+"Illuminating the evolutionary history of chlamydiae.";
+-!- SIMILARITY: Belongs to the UPF0247 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

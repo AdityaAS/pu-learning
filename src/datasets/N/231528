@@ -1,0 +1,13 @@
+AC   Q8PM10;
+Cell division protein zipA homolog.
+"Comparison of the genomes of two Xanthomonas pathogens with differing
+host specificities.";
+-!- FUNCTION: Interacts directly with the cell division protein ftsZ.
+    Probable receptor for the septal ring structure, may anchor it to
+    the inner-membrane (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type I
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the zipA family.
+Cell cycle; Cell division; Complete proteome; Inner membrane;
+Membrane; Septation; Transmembrane.
+TMONE

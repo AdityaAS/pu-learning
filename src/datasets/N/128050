@@ -1,0 +1,27 @@
+AC   Q80UG2; Q5DTW8; Q8BKK9;
+Plexin-A4 precursor.
+"Identification and characterization of a novel mouse plexin, plexin-
+A4.";
+"The transcriptional landscape of the mammalian genome.";
+"Prediction of the coding sequences of mouse homologues of KIAA gene.
+The complete nucleotide sequences of mouse KIAA-homologous cDNAs
+identified by screening of terminal sequences of cDNA clones randomly
+sampled from size-fractionated libraries.";
+-!- FUNCTION: Forms a receptor complex with neuropilin-1 and can
+    propagate semaphorin-3A elicited inhibitory signals into cells and
+    neurons.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- TISSUE SPECIFICITY: Expressed in the developing nervous system.
+    Widely expressed in both the central and peripheral nervous
+    systems. Expressed in the peripheral ganglia, somatosensory,
+    olfactory, visual, auditory and equilibrium systems.
+-!- SIMILARITY: Belongs to the plexin family.
+-!- SIMILARITY: Contains 4 IPT/TIG domains.
+-!- SIMILARITY: Contains 3 PSI domains.
+-!- SIMILARITY: Contains 1 Sema domain.
+ GO:0017154; F:semaphorin receptor activity; IGI:MGI.
+ GO:0007399; P:nervous system development; IGI:MGI.
+ GO:0007165; P:signal transduction; IGI:MGI.
+Glycoprotein; Membrane; Receptor; Repeat; Signal; Transmembrane.
+TMONE

@@ -1,0 +1,17 @@
+AC   Q8N165; Q5T2I0; Q8NDB3;
+Serine/threonine-protein kinase PDIK1L (EC 2.7.11.1) (PDLIM1-
+interacting kinase 1-like).
+"Molecular cloning and characterization of a novel human kinase gene,
+PDIK1L.";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Expressed in liver, kidney, pancreas, spleen,
+    thymus and prostate.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ATP-binding; Kinase; Nuclear protein; Nucleotide-binding;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P31226;
+Saxiphilin precursor (SAX).
+"Molecular cloning of bullfrog saxiphilin: a unique relative of the
+transferrin family that binds saxitoxin.";
+"Purification and partial sequencing of saxiphilin, a saxitoxin-
+binding protein from the bullfrog, reveals homology to transferrin.";
+-!- FUNCTION: Binds specifically to the neurotoxin saxitoxin. Its
+    physiological role may be to transport or sequester an endogenous
+    organic molecule other than Fe(3+). It may participate in a
+    detoxification mechanism for neutralizing a microbial toxin.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Plasma. Highest levels of transcripts found in
+    the liver, the lung, the pancreas and the brain.
+-!- MISCELLANEOUS: The peptidase S60 domains do not have protease
+    function as the catalytic residues are missing.
+-!- SIMILARITY: Belongs to the transferrin family.
+-!- SIMILARITY: Contains 2 peptidase S60 domains.
+-!- SIMILARITY: Contains 2 thyroglobulin type-1 domains.
+Direct protein sequencing; Extracellular matrix; Repeat; Signal.
+TMZERO

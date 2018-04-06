@@ -1,0 +1,49 @@
+AC   P29503; Q26306; Q27273; Q8INP6; Q8INP7; Q960M1;
+Protein neuralized.
+"The Drosophila neurogenic gene neuralized encodes a novel protein and
+is expressed in precursors of larval and adult neurons.";
+"The Drosophila neuralized gene encodes a C3HC4 zinc finger.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: Involved in neurogenesis. Interacts with other
+    neurogenic proteins in the specification of the neuroblast versus
+    epidermoblast cell fate.
+-!- INTERACTION:
+    Q9V996:CG18584; NbExp=1; IntAct=EBI-197238, EBI-190547;
+    Q9V3S6:Tom; NbExp=1; IntAct=EBI-197238, EBI-119173;
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=P29503-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P29503-2; Sequence=VSP_008046;
+    Name=3;
+      IsoId=P29503-3; Sequence=VSP_008045;
+    Name=4;
+      IsoId=P29503-4; Sequence=VSP_008045, VSP_008046;
+-!- SIMILARITY: Contains 2 NHR (neuralized homology repeat) domains.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+-!- CAUTION: Ref.1 sequence differs from that shown due to frameshifts
+    in positions 406, 518, 554 and 709.
+ GO:0005737; C:cytoplasm; IDA:FlyBase.
+ GO:0048471; C:perinuclear region; IDA:FlyBase.
+ GO:0005886; C:plasma membrane; IDA:FlyBase.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0004842; F:ubiquitin-protein ligase activity; IDA:FlyBase.
+ GO:0008356; P:asymmetric cell division; TAS:FlyBase.
+ GO:0007398; P:ectoderm development; TAS:FlyBase.
+ GO:0007456; P:eye development (sensu Endopterygota); IMP:FlyBase.
+ GO:0007498; P:mesoderm development; IMP:FlyBase.
+ GO:0030707; P:ovarian follicle cell development (sensu In...; TAS:FlyBase.
+ GO:0007422; P:peripheral nervous system development; IMP:FlyBase.
+ GO:0045747; P:positive regulation of Notch signaling pathway; TAS:FlyBase.
+ GO:0007423; P:sensory organ development; IMP:FlyBase.
+ GO:0016360; P:sensory organ precursor cell fate determina...; IMP:FlyBase.
+ GO:0007476; P:wing morphogenesis; IMP:FlyBase.
+Alternative splicing; Complete proteome; Developmental protein;
+Differentiation; DNA-binding; Metal-binding; Neurogenesis;
+Nuclear protein; Repeat; Zinc; Zinc-finger.
+TMZERO

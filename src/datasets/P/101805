@@ -1,0 +1,12 @@
+AC   Q53902;
+Putative membrane protein actII-3.
+"The act cluster contains regulatory and antibiotic export genes,
+direct targets for translational control by the bldA tRNA gene of
+Streptomyces.";
+"Complete genome sequence of the model actinomycete Streptomyces
+coelicolor A3(2).";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the mmpL family.
+Complete proteome; Hypothetical protein; Membrane; Transmembrane.
+TMTWELVE

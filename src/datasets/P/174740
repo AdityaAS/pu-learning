@@ -1,0 +1,41 @@
+AC   P10946;
+Lantibiotic subtilin precursor.
+"Structure and expression of a gene encoding the precursor of
+subtilin, a small protein antibiotic.";
+"The subtilin gene of Bacillus subtilis ATCC 6633 is encoded in an
+operon that contains a homolog of the hemolysin B transport protein.";
+"Analysis of genes involved in biosynthesis of the lantibiotic
+subtilin.";
+"Determination of the sequence of spaE and identification of a
+promoter in the subtilin (spa) operon in Bacillus subtilis.";
+"Genes involved in self-protection against the lantibiotic subtilin
+produced by Bacillus subtilis ATCC 6633.";
+"Subtilin, VI: the structure of subtilin.";
+"The peptide antibiotic subtilin acts by formation of voltage-
+dependent multi-state pores in bacterial and artificial membranes.";
+"A novel post-translational modification of the peptide antibiotic
+subtilin: isolation and characterization of a natural variant from
+Bacillus subtilis A.T.C.C. 6633.";
+"Sequence-specific resonance assignment and conformational analysis of
+subtilin by 2D NMR.";
+"The antimicrobial effect of a structural variant of subtilin against
+outgrowing Bacillus cereus T spores and vegetative cells occurs by
+different mechanisms.";
+-!- FUNCTION: Lanthionine-containing peptide antibiotic (lantibiotic)
+    active on Gram-positive bacteria. The bactericidal activity of
+    lantibiotics is based on depolarization of energized bacterial
+    cytoplasmic membranes, initiated by the formation of aqueous
+    transmembrane pores.
+-!- PTM: Maturation of lantibiotics involves the enzymic conversion of
+    Thr, and Ser into dehydrated AA and the formation of thioether
+    bonds with cysteine. This is followed by membrane translocation
+    and cleavage of the modified precursor.
+-!- PTM: Succinylated subtilin is 10-20 times less active than
+    subtilin. The ratio subtilin/succinylated subtilin is about 1:2
+    after 24 hours growth.
+-!- MISCELLANEOUS: Subtilin activity is observed during stationary
+    phase, but not during exponential growth.
+-!- SIMILARITY: Belongs to the type A lantibiotic family.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing;
+Lantibiotic; Thioether bond.
+TMZERO

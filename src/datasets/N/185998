@@ -1,0 +1,25 @@
+AC   Q63396; Q5M805;
+Activated RNA polymerase II transcriptional coactivator p15 precursor
+(SUB1 homolog) (Positive cofactor 4) (PC4) (p14).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Molecular cloning and characterization of a cDNA clone for a protein
+specifically expressed in embryo as well as in a chemically induced
+pancreatic B cell tumor of rat.";
+-!- FUNCTION: General coactivator that functions cooperatively with
+    TAFs and mediates functional interactions between upstream
+    activators and the general transcriptional machinery. May be
+    involved in stabilizing the multiprotein transcription complex.
+    Binds single-stranded DNA. Also binds, in vitro, nonspecifically
+    to double-stranded DNA (ds DNA) (By similarity).
+-!- SUBUNIT: Interacts with CSTF2 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- PTM: Proteolysis is required for p9 DNA-binding activity (By
+    similarity).
+-!- PTM: Activity of p15 is controlled by protein kinases that target
+    the regulatory domain. Phosphorylation inactivates both ds DNA-
+    binding and cofactor function (By similarity).
+-!- SIMILARITY: Belongs to the transcriptional coactivator PC4 family.
+Activator; DNA-binding; Nuclear protein; Phosphorylation;
+Transcription; Transcription regulation.
+TMZERO

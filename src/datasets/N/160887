@@ -1,0 +1,29 @@
+AC   P53256; Q6TQU1;
+Exosome complex exonuclease RRP46 (EC 3.1.13.-) (Ribosomal RNA-
+processing protein 46).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"The yeast exosome and human PM-Scl are related complexes of 3'-->5'
+exonucleases.";
+"Sequencing and comparison of yeast species to identify genes and
+regulatory elements.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Component of the exosome 3'->5' exoribonuclease complex.
+    Required for the 3' processing of the 7S pre-RNA to the mature
+    5.8S rRNA.
+-!- SUBUNIT: Component of the exosome multienzyme ribonuclease complex
+    composed of at least 11 proteins: RRP4, RRP40, RRP41/SKI6, RRP42,
+    RRP43, RRP44/DIS3, RRP45, RRP46, MTR3, CSL4 and RRP6 (only in the
+    nuclear complex). Also associated with the GTPase Ran (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus; nucleolus.
+-!- MISCELLANEOUS: Present with 10800 molecules/cell.
+-!- SIMILARITY: Belongs to the RNase PH family.
+ GO:0000177; C:cytoplasmic exosome (RNase complex); IDA:SGD.
+ GO:0000176; C:nuclear exosome (RNase complex); IDA:SGD.
+ GO:0000175; F:3'-5'-exoribonuclease activity; TAS:SGD.
+ GO:0006365; P:35S primary transcript processing; TAS:SGD.
+ GO:0006402; P:mRNA catabolism; IPI:SGD.
+Complete proteome; Exonuclease; Exosome; Hydrolase; Nuclear protein;
+Nuclease; RNA-binding; rRNA processing.
+TMZERO

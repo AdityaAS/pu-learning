@@ -1,0 +1,15 @@
+AC   P20575;
+Anthranilate phosphoribosyltransferase (EC 2.4.2.18).
+"Evolutionary differences in chromosomal locations of four early genes
+of the tryptophan pathway in fluorescent pseudomonads: DNA sequences
+and characterization of Pseudomonas putida trpE and trpGDC.";
+-!- CATALYTIC ACTIVITY: N-(5-phospho-D-ribosyl)-anthranilate +
+    diphosphate = anthranilate + 5-phospho-alpha-D-ribose 1-
+    diphosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-tryptophan biosynthesis; L-
+    tryptophan from chorismate: step 2.
+-!- SIMILARITY: Belongs to the anthranilate phosphoribosyltransferase
+    family.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Glycosyltransferase; Transferase; Tryptophan biosynthesis.
+TMZERO

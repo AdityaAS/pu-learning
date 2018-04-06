@@ -1,0 +1,24 @@
+AC   P0AC02; P77146; Q47344;
+UPF0169 lipoprotein yfiO precursor.
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of two Escherichia coli K12 proteins which are induced
+in response to pollutant stress.";
+"Identification of a multicomponent complex required for outer
+membrane biogenesis in Escherichia coli.";
+"Protein complexes of the Escherichia coli cell envelope.";
+-!- SUBUNIT: Forms a heterooligomeric complex with yaeT, yfgL and
+    nlpB.
+-!- INTERACTION:
+    P76459:atoA; NbExp=1; IntAct=EBI-1128087, EBI-1128061;
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor
+    (Potential).
+-!- SIMILARITY: Belongs to the UPF0169 (comL) family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Lipoprotein; Membrane; Outer membrane; Palmitate;
+Signal.
+TMZERO

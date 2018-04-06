@@ -1,0 +1,17 @@
+AC   Q8ZYE7;
+Enolase (EC 4.2.1.11) (2-phosphoglycerate dehydratase) (2-phospho-D-
+glycerate hydro-lyase).
+"Genome sequence of the hyperthermophilic crenarchaeon Pyrobaculum
+aerophilum.";
+-!- CATALYTIC ACTIVITY: 2-phospho-D-glycerate = phosphoenolpyruvate +
+    H(2)O.
+-!- COFACTOR: Magnesium. Required for catalysis and for stabilizing
+    the dimer (By similarity).
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 4.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the enolase family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Complete proteome; Glycolysis; Lyase; Magnesium; Metal-binding.
+TMZERO

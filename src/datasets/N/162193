@@ -1,0 +1,19 @@
+AC   Q9Z9K1; Q9JPX4;
+30S ribosomal protein S14 type Z.
+"Sequence analysis of a 32-kb region including the major ribosomal
+protein gene clusters from alkaliphilic Bacillus sp. strain C-125.";
+"Complete genome sequence of the alkaliphilic bacterium Bacillus
+halodurans and genomic sequence comparison with Bacillus subtilis.";
+-!- FUNCTION: Binds 16S rRNA, required for the assembly of 30S
+    particles and may also be responsible for determining the
+    conformation of the 16S rRNA at the A site (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Contacts proteins S3
+    and S10 (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S14P family. Zinc-
+    binding S14P subfamily.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Complete proteome; Metal-binding; Ribonucleoprotein;
+Ribosomal protein; RNA-binding; rRNA-binding; Zinc.
+TMZERO

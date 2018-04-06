@@ -1,0 +1,12 @@
+AC   P0A2L4; O87575; Q9R874;
+Magnesium and cobalt efflux protein corC.
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: Plays a role in the transport of magnesium and cobalt
+    ions (By similarity).
+-!- SIMILARITY: Belongs to the UPF0053 family.
+-!- SIMILARITY: Contains 2 CBS domains.
+CBS domain; Cobalt; Complete proteome; Magnesium; Repeat; Transport.
+TMZERO

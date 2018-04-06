@@ -1,0 +1,17 @@
+AC   Q8M9Y8;
+Chloroplast 50S ribosomal protein L20.
+"The chloroplast and mitochondrial genome sequences of the charophyte
+Chaetosphaeridium globosum: insights into the timing of the events
+that restructured organelle DNAs within the green algal lineage that
+led to land plants.";
+-!- FUNCTION: Binds directly to 23S ribosomal RNA and is necessary for
+    the in vitro assembly process of the 50S ribosomal subunit. It is
+    not involved in the protein synthesizing functions of that subunit
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the ribosomal protein L20P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+ GO:0000027; P:ribosomal large subunit assembly and mainte...; IEA:HAMAP.
+Chloroplast; Plastid; Ribonucleoprotein; Ribosomal protein;
+RNA-binding; rRNA-binding.
+TMZERO

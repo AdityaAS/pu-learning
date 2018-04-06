@@ -1,0 +1,10 @@
+AC   P59819; Q48X94; Q99YF7;
+UPF0090 protein SPy1725/M5005_Spy1413.
+"Complete genome sequence of an M1 strain of Streptococcus pyogenes.";
+"Evolutionary origin and emergence of a highly successful clone of
+serotype M1 group A Streptococcus involved multiple horizontal gene
+transfer events.";
+-!- SIMILARITY: Belongs to the UPF0090 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

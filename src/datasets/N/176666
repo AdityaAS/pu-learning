@@ -1,0 +1,15 @@
+AC   Q825H1;
+Probable subtilase-type protease inhibitor precursor.
+"Genome sequence of an industrial microorganism Streptomyces
+avermitilis: deducing the ability of producing secondary
+metabolites.";
+"Complete genome sequence and comparative analysis of the industrial
+microorganism Streptomyces avermitilis.";
+-!- FUNCTION: Strong inhibitor of bacterial serine proteases such as
+    subtilisin (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- SIMILARITY: Belongs to the protease inhibitor I16 (SSI) family.
+Complete proteome; Protease inhibitor; Serine protease inhibitor;
+Signal.
+TMZERO

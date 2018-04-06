@@ -1,0 +1,14 @@
+AC   Q5HNJ0;
+Probable thiamine biosynthesis protein thiI.
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Required for the synthesis of the thiazole moiety (By
+    similarity).
+-!- PATHWAY: Thiamine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the thiI family.
+-!- SIMILARITY: Contains 1 THUMP domain.
+Complete proteome; Thiamine biosynthesis.
+TMZERO

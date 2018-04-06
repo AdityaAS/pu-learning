@@ -1,0 +1,19 @@
+AC   P61761; Q95172; Q95173;
+Major prion protein precursor (PrP) (PrP27-30) (PrP33-35C) (CD230
+antigen) (Fragment).
+"Evidence for an increased substitution rate of the hominoid prion
+protein gene during the period of brain expansion.";
+-!- FUNCTION: The function of PrP is not known. PrP is encoded in the
+    host genome and is expressed both in normal and infected cells.
+-!- SUBUNIT: PrP has a tendency to aggregate yielding polymers called
+    "rods".
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor.
+-!- DISEASE: PrP is found in high quantity in the brain of humans and
+    animals infected with the degenerative neurological diseases kuru,
+    Creutzfeldt-Jakob disease (CJD), Gerstmann-Straussler syndrome
+    (GSS), scrapie, bovine spongiform encephalopathy (BSE),
+    transmissible mink encephalopathy (TME), etc.
+-!- SIMILARITY: Belongs to the prion family.
+Glycoprotein; GPI-anchor; Lipoprotein; Membrane; Prion; Repeat;
+Signal.
+TMZERO

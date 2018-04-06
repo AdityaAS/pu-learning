@@ -1,0 +1,13 @@
+AC   Q6GHH7;
+Uridylate kinase (EC 2.7.4.-) (UK) (Uridine monophosphate kinase) (UMP
+kinase).
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Catalyzes the phosphorylation of UMP to UDP (By
+    similarity).
+-!- CATALYTIC ACTIVITY: ATP + UMP = ADP + UDP.
+-!- PATHWAY: Nucleotide biosynthesis; CTP biosynthesis; UDP from UMP
+    (UMPK route): single step.
+-!- SIMILARITY: Belongs to the UMP kinase family.
+Complete proteome; Kinase; Pyrimidine biosynthesis; Transferase.
+TMZERO

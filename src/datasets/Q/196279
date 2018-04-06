@@ -1,0 +1,14 @@
+AC   P25866;
+Ubiquitin-conjugating enzyme E2-17 kDa (EC 6.3.2.19) (Ubiquitin-
+protein ligase) (Ubiquitin carrier protein).
+"Cloning of a 16-kDa ubiquitin carrier protein from wheat and
+Arabidopsis thaliana. Identification of functional domains by in vitro
+mutagenesis.";
+-!- FUNCTION: Catalyzes the covalent attachment of ubiquitin to other
+    proteins.
+-!- CATALYTIC ACTIVITY: ATP + ubiquitin + protein lysine = AMP +
+    diphosphate + protein N-ubiquityllysine.
+-!- PATHWAY: Ubiquitin conjugation; second step.
+-!- SIMILARITY: Belongs to the ubiquitin-conjugating enzyme family.
+Ligase; Ubl conjugation pathway.
+TMZERO

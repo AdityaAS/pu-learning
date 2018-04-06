@@ -1,0 +1,20 @@
+AC   P63169; Q15701;
+Dynein light chain 1, cytoplasmic (Dynein light chain LC8-type 1) (8
+kDa dynein light chain) (DLC8) (Protein inhibitor of neuronal nitric
+oxide synthase) (PIN).
+"Cloning and structure of a rabbit protein inhibitor of neuronal
+nitric oxide synthase (PIN) gene and its pseudogene.";
+"Solution structure of a protein inhibitor of neuronal nitric oxide
+synthase.";
+-!- FUNCTION: May be involved in some aspects of dynein-related
+    intracellular transport and motility. May play a role in changing
+    or maintaining the spatial distribution of cytoskeletal structures
+    (By similarity).
+-!- FUNCTION: Binds and inhibits the catalytic activity of neuronal
+    nitric oxide synthase (By similarity).
+-!- SUBUNIT: Consists of at least two heavy chains and a number of
+    intermediate and light chains (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the dynein light chain family.
+Dynein; Microtubule; Motor protein.
+TMZERO

@@ -1,0 +1,11 @@
+AC   P0AG35; P27847;
+Homoserine/homoserine lactone efflux protein.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Conducts the efflux of homoserine and homoserine lactone
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the rht family.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMSIX

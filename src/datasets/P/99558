@@ -1,0 +1,34 @@
+AC   P01501; P01503;
+Melittin precursor (Allergen Api m 3) (Api m III).
+"Nucleotide sequence of cloned cDNA coding for honeybee
+prepromelittin.";
+"Sequence analysis of melittin from tryptic and peptic degradation
+products.";
+"Haemolytic activity and action on the surface tension of aqueous
+solutions of synthetic melittins and their derivatives.";
+"Isolation and structure of N 1-formyl melittin.";
+"Isolation and structures of grammistins, peptide toxins from the skin
+secretion of the soapfish Grammistes sexlineatus.";
+"The structure of melittin. II. Interpretation of the structure.";
+"The actions of melittin on membranes.";
+-!- FUNCTION: Main toxin of bee venom with strong hemolytic activity.
+    Integrates into cell membranes and has multiple effects, probably,
+    as a result of its interaction with negatively charged
+    phospholipids. It inhibits well known transport pumps such as the
+    Na(+)-K(+)-ATPase and the H(+)-K(+)-ATPase. Increases the
+    permeability of cell membranes to ions, particularly Na+ and
+    indirectly Ca(2+), because of the Na(+)-Ca(2+)-exchange.
+-!- SUBUNIT: Monomer and homotetramer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- ALLERGEN: Causes an allergic reaction in human.
+-!- TOXIC DOSE: LC(50) is 2.7 ug/ml against killifish.
+-!- MISCELLANEOUS: N-formyl-melittin major has 80% of the activity of
+    melittin.
+-!- SIMILARITY: Belongs to the melittin family.
+-!- WEB RESOURCE: NAME=Protein Spotlight;
+    NOTE=Why Pooh luvvs hunny - Issue 12 of July 2001;
+    URL="http://www.expasy.org/spotlight/back_issues/sptlt012.shtml".
+3D-structure; Allergen; Amidation; Cytolysis;
+Direct protein sequencing; Formylation; Hemolysis; Signal; Toxin.
+TMZERO

@@ -1,0 +1,47 @@
+AC   O80725;
+Multidrug resistance protein 4 (P-glycoprotein 4).
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"PGP4, an ATP binding cassette P-glycoprotein, catalyzes auxin
+transport in Arabidopsis thaliana roots.";
+"The Arabidopsis thaliana ABC protein superfamily, a complete
+inventory.";
+"Phosphoproteomics of the Arabidopsis plasma membrane and a new
+phosphorylation site database.";
+"MDR-like ABC transporter AtPGP4 is involved in auxin-mediated lateral
+root and root hair development.";
+-!- FUNCTION: Auxin influx transporter that mediates the transport of
+    auxin in roots. Contributes to the basipetal transport in
+    hypocotyls and root tips by establishing an auxin uptake sink in
+    the root cap. Confers sensitivity to 1-N-naphthylphthalamic acid
+    (NPA). Regulates the root elongation, the initiation of lateral
+    roots and the development of root hairs. Can transports IAA,
+    indole-3-propionic acid, NPA syringic acid, vanillic acid and some
+    auxin metabolites, but not 2,4-D and 1-naphthaleneacetic acid.
+-!- SUBUNIT: Interacts with 1-naphtylphthalamic acid (NPA).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Note=Non-polar distribution in apical cells. Apical (bottom)
+    localization in mature root cells. Basal (top) localization in the
+    root elongation zone.
+-!- TISSUE SPECIFICITY: Mostly expressed in roots, especially in the
+    root elongation zone and lateral roots. In mature portion of the
+    root, expressed in the epidermis and cortex. In the root
+    elongation zone, confined to epidermis. In root tips, present in
+    the root cap, S3 columella and epidermal cells.
+-!- DEVELOPMENTAL STAGE: Highly expressed at early stages of root
+    development.
+-!- INDUCTION: By auxin, and cytokinins such as kinetin. Repressed by
+    abscisic acid and cold treatment.
+-!- SIMILARITY: Belongs to the ABC transporter family. Multidrug
+    resistance exporter (TC 3.A.1.201) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0016020; C:membrane; IDA:TAIR.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; IDA:TAIR.
+ GO:0009926; P:auxin polar transport; TAS:TAIR.
+ GO:0009733; P:response to auxin stimulus; IEP:TAIR.
+ GO:0009735; P:response to cytokinin stimulus; IEP:TAIR.
+ATP-binding; Auxin signaling pathway; Direct protein sequencing;
+Glycoprotein; Membrane; Nucleotide-binding; Phosphorylation; Repeat;
+Transmembrane; Transport.
+TMTWELVE

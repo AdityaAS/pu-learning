@@ -1,0 +1,20 @@
+AC   P91454;
+Mitochondrial import inner membrane translocase subunit TIM14 (DnaJ
+homolog subfamily C member 21).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Probable component of the PAM complex, a complex
+    required for the translocation of transit peptide-containing
+    proteins from the inner membrane into the mitochondrial matrix in
+    an ATP-dependent manner. May act as a co-chaperone that stimulate
+    the ATP-dependent activity (By similarity).
+-!- SUBUNIT: Probable component of the PAM complex at least composed
+    of a mitochondrial HSP70 protein, GrpE, tim-44, tim-16 and tim-
+    14/dnj-21 (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    single-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the TIM14 family.
+-!- SIMILARITY: Contains 1 J domain.
+Chaperone; Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Protein transport; Translocation; Transmembrane; Transport.
+TMONE

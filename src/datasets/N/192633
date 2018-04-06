@@ -1,0 +1,12 @@
+AC   Q87TR6;
+tRNA modification GTPase trmE.
+"Genome sequence of Vibrio parahaemolyticus: a pathogenic mechanism
+distinct from that of V. cholerae.";
+-!- FUNCTION: Exhibits a very high intrinsic GTPase hydrolysis rate.
+    Involved in the biosynthesis of the hypermodified nucleoside 5-
+    methylaminomethyl-2-thiouridine, which is found in the wobble
+    position of some tRNAs (By similarity).
+-!- SIMILARITY: Belongs to the era/trmE GTP-binding protein family.
+    TrmE subfamily.
+Complete proteome; GTP-binding; Nucleotide-binding; tRNA processing.
+TMZERO

@@ -1,0 +1,21 @@
+AC   O12947;
+Protein-S-isoprenylcysteine O-methyltransferase (EC 2.1.1.100)
+(Isoprenylcysteine carboxylmethyltransferase) (Prenylcysteine carboxyl
+methyltransferase) (pcCMT) (Prenylated protein carboxyl
+methyltransferase) (PPMT) (Farnesyl cysteine carboxyl
+methyltransferase) (FCMT).
+"Genes encoding farnesyl cysteine carboxyl methyltransferase in
+Schizosaccharomyces pombe and Xenopus laevis.";
+-!- FUNCTION: Catalyzes the posttranslational methylation of
+    isoprenylated C-terminal cysteine residues.
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + protein C-terminal
+    S-farnesyl-L-cysteine = S-adenosyl-L-homocysteine + protein C-
+    terminal S-farnesyl-L-cysteine methyl ester.
+-!- COFACTOR: Divalent cations. Probably zinc (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the isoprenylcysteine O-methyltransferase
+    family.
+Endoplasmic reticulum; Membrane; Methyltransferase;
+S-adenosyl-L-methionine; Transferase; Transmembrane.
+TMFIVE

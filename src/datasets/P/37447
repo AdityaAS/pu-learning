@@ -1,0 +1,44 @@
+AC   P0ABI8; P18401; Q2MBZ5;
+Ubiquinol oxidase subunit 1 (EC 1.10.3.-) (Ubiquinol oxidase
+polypeptide I) (Cytochrome o subunit 1) (Oxidase BO(3) subunit 1)
+(Cytochrome o ubiquinol oxidase subunit 1) (Ubiquinol oxidase chain
+A).
+"The sequence of the cyo operon indicates substantial structural
+similarities between the cytochrome o ubiquinol oxidase of Escherichia
+coli and the aa3-type family of cytochrome c oxidases.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The use of gene fusions to determine the topology of all of the
+subunits of the cytochrome o terminal oxidase complex of Escherichia
+coli.";
+"Recent studies of the cytochrome o terminal oxidase complex of
+Escherichia coli.";
+"Substitutions of charged amino acid residues conserved in subunit I
+perturb the redox metal centers of the Escherichia coli bo-type
+ubiquinol oxidase.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"The structure of the ubiquinol oxidase from Escherichia coli and its
+ubiquinone binding site.";
+-!- FUNCTION: Cytochrome o terminal oxidase complex is the component
+    of the aerobic respiratory chain of E.coli that predominates when
+    cells are grown at high aeration. This ubiquinol oxidase shows
+    proton pump activity across the membrane in addition to the
+    electron transfer.
+-!- CATALYTIC ACTIVITY: Ubiquinol-8 + O(2) = Ubiquinone-8 + H(2)O.
+-!- COFACTOR: Binds 1 copper ion.
+-!- COFACTOR: Binds 2 protoheme IX (heme b55 and b562) groups.
+-!- SUBUNIT: Heterooctamer of two A chains, two B chains, two C chains
+    and two D chains.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: Ubiquinol oxidase catalyzes the terminal step in
+    the electron transport chain.
+-!- SIMILARITY: Belongs to the heme-copper respiratory oxidase family.
+3D-structure; Complete proteome; Copper; Electron transport; Heme;
+Hydrogen ion transport; Inner membrane; Ion transport; Iron; Membrane;
+Metal-binding; Oxidoreductase; Respiratory chain; Transmembrane;
+Transport.
+TMFIFTEEN

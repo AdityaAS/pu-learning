@@ -1,0 +1,50 @@
+AC   Q8BTY2; Q3U5H7;
+Sodium bicarbonate cotransporter 3 (Solute carrier family 4 member 7).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The cystic fibrosis transmembrane conductance regulator interacts
+with and regulates the activity of the HCO3- salvage transporter human
+Na+-HCO3-cotransport isoform 3.";
+"Blindness and auditory impairment caused by loss of the sodium
+bicarbonate cotransporter NBC3.";
+"Scaffold protein harmonin (USH1C) provides molecular links between
+Usher syndrome type 1 and type 2.";
+-!- FUNCTION: Electroneutral sodium- and bicarbonate-dependent
+    cotransporter with a Na(+):HCO3(-) 1:1 stoichiometry. Regulates
+    intracellular pH and may play a role in bicarbonate salvage in
+    secretory epithelia. May also have an associated sodium channel
+    activity.
+-!- ENZYME REGULATION: Transporter activity is regulated by
+    CA2/carbonic anhydrase 2, cAMP and PKA. Insensitive to stilbene
+    derivatives. May be inhibited by 5-(N-ethyl-N-isopropyl)-amiloride
+    (EIPA) (By similarity).
+-!- SUBUNIT: Forms a complex with ATP6V1B1 and SLC9A3R1/EBP50.
+    Interacts in a pH dependent-manner with CA2/carbonic anhydrase 2
+    (By similarity). Interacts with CFTR through SLC9A3R1/EBP50.
+    Interacts with USH1C.
+-!- SUBCELLULAR LOCATION: Cell membrane; basolateral cell membrane;
+    multi-pass membrane protein. Note=Also described at the apical
+    cell membrane. Localizes to the stereocilia of cochlear outer hair
+    cells and to the lateral membrane of cochlear inner hair cells (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8BTY2-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8BTY2-2; Sequence=VSP_017166, VSP_017167, VSP_017168;
+-!- TISSUE SPECIFICITY: Expressed in the spiral ligament throughout
+    the cochlea and in photoreceptors of the outer plexiform layer of
+    the retina (at protein level).
+-!- DOMAIN: The PDZ-binding motif mediates interaction with the CFTR,
+    SLC9A3R1/EBP50 complex and probably with USH1C (By similarity).
+-!- PTM: N-glycosylated (By similarity).
+-!- MISCELLANEOUS: Mice lacking Slc4a7 display deafness and blindness
+    due to degeneration of sensory receptors in internal ear and
+    retina.
+-!- SIMILARITY: Belongs to the anion exchanger (TC 2.A.31) family.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Phosphorylation; Sodium; Sodium transport; Symport; Transmembrane;
+Transport.
+TMNINE

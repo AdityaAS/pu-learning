@@ -1,0 +1,15 @@
+AC   Q39TA7;
+GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) (Glutamine
+amidotransferase) (GMP synthetase).
+"Complete sequence of Geobacter metallireducens GS-15.";
+-!- FUNCTION: Catalyzes the synthesis of GMP from XMP (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + xanthosine 5'-phosphate + L-glutamine +
+    H(2)O = AMP + diphosphate + GMP + L-glutamate.
+-!- PATHWAY: Nucleotide biosynthesis; GMP biosynthesis; GMP from XMP
+    (glutamine route): single step [final step].
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Contains 1 glutamine amidotransferase type-1 domain.
+-!- SIMILARITY: Contains 1 GMP-binding domain.
+ATP-binding; Complete proteome; Glutamine amidotransferase;
+GMP biosynthesis; Ligase; Nucleotide-binding; Purine biosynthesis.
+TMZERO

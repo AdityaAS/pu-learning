@@ -1,0 +1,27 @@
+AC   P26904; O34373; Q45678;
+Dipeptide transport system permease protein dppC.
+"A Bacillus subtilis dipeptide transport system expressed early during
+sporulation.";
+"Sequence of the Bacillus subtilis genome between xlyA and ykoR.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Characterization of signal-sequence-coding regions selected from the
+Bacillus subtilis chromosome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for dipeptides; probably responsible for the translocation of the
+    substrate across the membrane. Is expressed to facilitate
+    adaptation to nutrient deficiency conditions, which also induce
+    sporulation.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- DEVELOPMENTAL STAGE: Expressed early during sporulation.
+-!- INDUCTION: Nutrient deficiency conditions, which also induce
+    sporulation.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. OppBC subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- CAUTION: Ref.4 sequence differs from that shown due to sequencing
+    errors.
+Complete proteome; Membrane; Peptide transport; Protein transport;
+Sporulation; Transmembrane; Transport.
+TMSIX

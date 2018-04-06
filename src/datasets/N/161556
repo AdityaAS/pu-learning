@@ -1,0 +1,23 @@
+AC   Q492A9;
+30S ribosomal protein S12.
+"Genome sequence of Blochmannia pennsylvanicus indicates parallel
+evolutionary trends among bacterial mutualists of insects.";
+-!- FUNCTION: With S4 and S5 plays an important role in translational
+    accuracy (By similarity).
+-!- FUNCTION: Interacts with and stabilizes bases of the 16S rRNA that
+    are involved in tRNA selection in the A site and with the mRNA
+    backbone. Located at the interface of the 30S and 50S subunits, it
+    traverses the body of the 30S subunit contacting proteins on the
+    other side and probably holding the rRNA structure together. The
+    combined cluster of proteins S8, S12 and S17 appears to hold
+    together the shoulder and platform of the 30S subunit (By
+    similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Contacts proteins S8
+    and S17. May interact with IF1 in the 30S initiation complex (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S12P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding; tRNA-binding.
+TMZERO

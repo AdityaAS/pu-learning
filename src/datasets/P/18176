@@ -1,0 +1,33 @@
+AC   P06609; P77197;
+Vitamin B12 import system permease protein btuC.
+"Nucleotide sequence of the btuCED genes involved in vitamin B12
+transport in Escherichia coli and homology with components of
+periplasmic-binding-protein-dependent transport systems.";
+"Vitamin B12 transport in Escherichia coli K12 does not require the
+btuE gene of the btuCED operon.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of the periplasmic cobalamin-binding protein BtuF of
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"The E. coli BtuCD structure: a framework for ABC transporter
+architecture and mechanism.";
+-!- FUNCTION: Part of the ABC transporter complex btuCDF involved in
+    vitamin B12 import. Involved in the translocation of the substrate
+    across the membrane.
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (btuD), two transmembrane proteins (btuC) and a solute-binding
+    protein (btuF).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. FecCD subfamily.
+ GO:0015235; F:cobalamin transporter activity; IEA:HAMAP.
+ GO:0015889; P:cobalamin transport; IEA:HAMAP.
+3D-structure; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTEN

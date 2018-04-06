@@ -1,0 +1,12 @@
+AC   P0A051; P06696;
+Transposase A from transposon Tn554.
+"Cloning and nucleotide sequence determination of the entire mec DNA
+of pre-methicillin-resistant Staphylococcus aureus N315.";
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: One of three proteins encoded by transposon Tn554
+    required for its transposition (By similarity).
+-!- SIMILARITY: Belongs to the "phage" integrase family.
+Complete proteome; DNA integration; DNA recombination;
+Transposable element.
+TMZERO

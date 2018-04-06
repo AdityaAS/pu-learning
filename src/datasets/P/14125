@@ -1,0 +1,28 @@
+AC   P29707;
+ATP synthase subunit beta, sodium ion specific (EC 3.6.3.15) (Na(+)-
+translocating ATPase subunit beta).
+"Cloning and sequencing of the gene encoding the beta subunit of the
+sodium ion translocating ATP synthase of Propionigenium modestum.";
+"In vivo synthesis of ATPase complexes of Propionigenium modestum and
+Escherichia coli and analysis of their function.";
+"N-terminal amino acid sequences of the subunits of the Na(+)-
+translocating F1F0 ATPase from Propionigenium modestum.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a sodium ion
+    gradient across the membrane. The beta chain is the catalytic
+    subunit.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- MISCELLANEOUS: The ATPase of P.modestum is of special interest
+    because it uses sodium ions instead of protons as the
+    physiological coupling ion.
+-!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+ GO:0042777; P:ATP synthesis coupled proton transport (sen...; IEA:HAMAP.
+ATP synthesis; ATP-binding; CF(1); Direct protein sequencing;
+Hydrolase; Ion transport; Membrane; Nucleotide-binding; Sodium;
+Sodium transport; Transport.
+TMZERO

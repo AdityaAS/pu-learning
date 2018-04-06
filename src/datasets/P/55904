@@ -1,0 +1,12 @@
+AC   P0AEN0; P39174;
+Cystine-binding periplasmic protein precursor (CBP) (Protein fliY)
+(Sulfate starvation-induced protein 7) (SSI7).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Part of a binding-protein-dependent transport system for
+    cystine (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Complete proteome; Periplasmic; Signal; Transport.
+TMZERO

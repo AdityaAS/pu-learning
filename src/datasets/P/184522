@@ -1,0 +1,13 @@
+AC   P23564;
+Alveolysin precursor (Thiol-activated cytolysin).
+"Alveolysin, the thiol-activated toxin of Bacillus alvei, is
+homologous to listeriolysin O, perfringolysin O, pneumolysin, and
+streptolysin O and contains a single cysteine.";
+-!- FUNCTION: Sulfhydryl-activated toxin. Is able to lyse cholesterol
+    containing membranes. Can be reversibly inactivated by oxidation.
+    Cholesterol is the receptor for the binding of these toxins to
+    eukaryotic cell membranes.
+-!- SIMILARITY: Belongs to the thiol-activated cytolysin family.
+Cytolysis; Direct protein sequencing; Hemolysis; Lipid-binding;
+Signal; Toxin.
+TMZERO

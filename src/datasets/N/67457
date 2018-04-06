@@ -1,0 +1,23 @@
+AC   P48195;
+Protein grpE (HSP-70 cofactor).
+"Identification of a Caulobacter crescentus operon encoding hrcA,
+involved in negatively regulating heat-inducible transcription, and
+the chaperone gene grpE.";
+"Complete genome sequence of Caulobacter crescentus.";
+-!- FUNCTION: Participates actively in the response to hyperosmotic
+    and heat shock by preventing the aggregation of stress-denatured
+    proteins, in association with dnaK and grpE. It is the nucleotide
+    exchange factor for dnaK and may function as a thermosensor.
+    Unfolded proteins bind initially to dnaJ; upon interaction with
+    the dnaJ-bound protein, dnaK hydrolyzes its bound ATP, resulting
+    in the formation of a stable complex. GrpE releases ADP from dnaK;
+    ATP binding to dnaK triggers the release of the substrate protein,
+    thus completing the reaction cycle. Several rounds of ATP-
+    dependent interactions between dnaJ, dnaK and grpE are required
+    for fully efficient folding (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the grpE family.
+ GO:0030189; F:chaperone activator activity; IEA:HAMAP.
+Chaperone; Complete proteome; Heat shock.
+TMZERO

@@ -1,0 +1,17 @@
+AC   P63889; Q8XF34;
+Adenylyl-sulfate kinase (EC 2.7.1.25) (APS kinase) (Adenosine-5'-
+phosphosulfate kinase) (ATP adenosine-5'-phosphosulfate 3'-
+phosphotransferase).
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Catalyzes the synthesis of activated sulfate.
+-!- CATALYTIC ACTIVITY: ATP + adenylyl sulfate = ADP + 3'-
+    phosphoadenylyl sulfate.
+-!- PATHWAY: Sulfur metabolism; hydrogen sulfide biosynthesis; sulfite
+    from sulfate: step 2.
+-!- SIMILARITY: Belongs to the APS kinase family.
+ GO:0004020; F:adenylylsulfate kinase activity; IEA:HAMAP.
+ GO:0019344; P:cysteine biosynthesis; IEA:HAMAP.
+ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+Phosphorylation; Transferase.
+TMZERO

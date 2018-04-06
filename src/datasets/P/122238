@@ -1,0 +1,15 @@
+AC   P42086;
+Xanthine permease.
+"Xanthine metabolism in Bacillus subtilis: characterization of the
+xpt-pbuX operon and evidence for purine- and nitrogen-controlled
+expression of genes involved in xanthine salvage and catabolism.";
+"Organization of the Bacillus subtilis 168 chromosome between kdg and
+the attachment site of the SP beta prophage: use of long accurate PCR
+and yeast artificial chromosomes for sequencing.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Transport of xanthine in the cell.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the xanthine/uracil permease family.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTHIRTEEN

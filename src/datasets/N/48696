@@ -1,0 +1,13 @@
+AC   Q08000;
+Em protein H2.
+"Sequence analysis of two tandemly linked Em genes from wheat.";
+-!- FUNCTION: It is thought to provide protection for the cytoplasm
+    during the desiccation stage of embryo development.
+-!- DEVELOPMENTAL STAGE: Expressed principally in the later stages of
+    embryogenesis prior to dehydration of the grain.
+-!- INDUCTION: By abscisic acid (ABA) and osmotic stress.
+-!- MISCELLANEOUS: Wheat contains at least 10 different genes for Em
+    protein.
+-!- SIMILARITY: Belongs to the small hydrophilic plant seed protein
+    family.
+TMZERO

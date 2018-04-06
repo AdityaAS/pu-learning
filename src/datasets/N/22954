@@ -1,0 +1,22 @@
+AC   O97703;
+CD81 antigen.
+"African green monkey CD81 cDNA.";
+-!- FUNCTION: May play an important role in the regulation of lymphoma
+    cell growth.
+-!- SUBUNIT: Interacts directly with IGSF8 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the tetraspanin (TM4SF) family.
+ GO:0005887; C:integral to plasma membrane; ISS:UniProtKB.
+ GO:0005515; F:protein binding; ISS:UniProtKB.
+ GO:0000187; P:activation of MAPK activity; ISS:UniProtKB.
+ GO:0046718; P:entry of virus into host cell; ISS:UniProtKB.
+ GO:0006661; P:phosphatidylinositol biosynthesis; ISS:UniProtKB.
+ GO:0030384; P:phosphoinositide metabolism; ISS:UniProtKB.
+ GO:0043128; P:positive regulation of 1-phosphatidylinosit...; ISS:UniProtKB.
+ GO:0030890; P:positive regulation of B cell proliferation; ISS:UniProtKB.
+ GO:0008284; P:positive regulation of cell proliferation; ISS:UniProtKB.
+ GO:0050731; P:positive regulation of peptidyl-tyrosine ph...; ISS:UniProtKB.
+ GO:0008104; P:protein localization; ISS:UniProtKB.
+ GO:0046813; P:virion attachment, binding of host cell sur...; ISS:UniProtKB.
+Membrane; Transmembrane.
+TMFOUR

@@ -1,0 +1,18 @@
+AC   P60069;
+Chlorate reductase subunit beta (Chlorate reductase iron-sulfur
+subunit).
+"A gene cluster for chlorate metabolism in Ideonella dechloratans.";
+-!- FUNCTION: Electron transfer subunit of the terminal reductase
+    during anaerobic growth on chlorate (By similarity).
+-!- COFACTOR: Binds 1 3Fe-4S cluster (By similarity).
+-!- COFACTOR: Binds 3 4Fe-4S clusters (By similarity).
+-!- SUBUNIT: Heterotrimer of alpha, beta and gamma subunits.
+-!- SUBCELLULAR LOCATION: Periplasm. Note=Probably translocated
+    together with clrA, which possesses a Tat-type signal.
+-!- BIOTECHNOLOGY: Has potential use in bioremediation of waste sites
+    contaminated with chlorate, such as pulp and paper industry
+    wastewater.
+-!- SIMILARITY: Contains 4 4Fe-4S type ferredoxin domains.
+3Fe-4S; 4Fe-4S; Electron transport; Iron; Iron-sulfur; Metal-binding;
+Periplasmic; Transport.
+TMZERO

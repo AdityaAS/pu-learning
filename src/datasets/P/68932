@@ -1,0 +1,12 @@
+AC   P42237;
+Probable glucarate transporter (D-glucarate permease).
+"Determination of a 21548 bp nucleotide sequence around the 24 degrees
+region of the Bacillus subtilis chromosome.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Uptake of D-glucarate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Phthalate permease family.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,16 @@
+AC   Q47085;
+Achromobactin transport system permease protein cbrB.
+"Differential expression of two siderophore-dependent iron-acquisition
+pathways in Erwinia chrysanthemi 3937: characterization of a novel
+ferrisiderophore permease of the ABC transporter family.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    cbrABCD for uptake of the siderophore achromobactin. Probably
+    responsible for the translocation of the substrate across the
+    membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. FecCD subfamily.
+Inner membrane; Ion transport; Iron; Iron transport; Membrane;
+Transmembrane; Transport.
+TMNINE

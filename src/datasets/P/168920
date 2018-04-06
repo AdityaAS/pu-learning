@@ -1,0 +1,22 @@
+AC   P48065;
+Sodium- and chloride-dependent betaine transporter (Na+/Cl-
+betaine/GABA transporter) (BGT-1).
+"Molecular cloning and functional characterization of a GABA/betaine
+transporter from human kidney.";
+"Cloning and expression of a betaine/GABA transporter from human
+brain.";
+-!- FUNCTION: Transports betaine and GABA. May have a role in
+    regulation of GABAergic transmission in the brain through the
+    reuptake of GABA into presynaptic terminals, as well as in osmotic
+    regulation.
+-!- SUBUNIT: Interacts with LIN7C (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Liver, heart, skeletal muscle, placenta, and a
+    widespread distribution in the brain.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Glycoprotein; Membrane; Neurotransmitter transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

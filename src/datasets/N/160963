@@ -1,0 +1,10 @@
+AC   Q5WLR3;
+30S ribosomal protein S10.
+"The complete genome sequence of the alkaliphilic Bacillus clausii
+KSM-K16.";
+-!- FUNCTION: Involved in the binding of tRNA to the ribosomes (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S10P family.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein.
+TMZERO

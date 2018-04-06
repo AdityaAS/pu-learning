@@ -1,0 +1,14 @@
+AC   P60130; P29301;
+Photosystem II reaction center protein L (PSII-L) (PSII 5 kDa
+protein).
+"RNA editing in tobacco chloroplasts leads to the formation of a
+translatable psbL mRNA by a C to U substitution within the initiation
+codon.";
+-!- FUNCTION: Not known, it is however required for PSII activity (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; single-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the psbL family.
+Chloroplast; Membrane; Photosynthesis; Photosystem II; Plastid;
+Reaction center; Thylakoid; Transmembrane.
+TMONE

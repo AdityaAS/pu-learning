@@ -1,0 +1,17 @@
+AC   Q9SI20; Q7GA96; Q8LB45;
+Elongation factor 1-delta 2 (EF-1-delta 2) (Elongation factor 1B-beta
+2) (eEF-1B beta 2).
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+-!- FUNCTION: EF-1-beta and EF-1-delta stimulate the exchange of GDP
+    bound to EF-1-alpha to GTP (By similarity).
+-!- SUBUNIT: EF-1 is composed of 4 subunits: alpha, beta (1B-
+    alpha=beta'), delta (1B-beta), and gamma (1B-gamma) (By
+    similarity).
+-!- SIMILARITY: Belongs to the EF-1-beta/EF-1-delta family.
+-!- SIMILARITY: Contains 1 GST-like domain.
+Elongation factor; Protein biosynthesis.
+TMZERO

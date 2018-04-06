@@ -1,0 +1,8 @@
+AC   Q8EAS7;
+UPF0234 protein SO3815.
+"Genome sequence of the dissimilatory metal ion-reducing bacterium
+Shewanella oneidensis.";
+-!- SIMILARITY: Belongs to the UPF0234 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

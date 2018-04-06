@@ -1,0 +1,12 @@
+AC   P0AA83; P25525;
+Cytosine permease.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Required for cytosine transport into the cell (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the purine-cytosine permease family.
+Complete proteome; Cytosine metabolism; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTWELVE

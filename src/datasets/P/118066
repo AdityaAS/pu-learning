@@ -1,0 +1,13 @@
+AC   Q05811;
+Outer membrane protein IIIA precursor (OMPIIIA).
+"Cloning, nucleotide sequencing, and expression in Escherichia coli of
+a Rhizobium leguminosarum gene encoding a symbiotically repressed
+outer membrane protein.";
+-!- FUNCTION: May act as an outer membrane pore.
+-!- SUBUNIT: Forms calcium-stabilized oligomers.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- DEVELOPMENTAL STAGE: Repressed in the bacteroid form during
+    symbiosis.
+-!- PTM: Attached covalently to peptidoglycan.
+Direct protein sequencing; Membrane; Outer membrane; Signal.
+TMZERO

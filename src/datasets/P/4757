@@ -1,0 +1,15 @@
+AC   Q9X4Y1;
+Periplasmic alpha-galactoside-binding protein precursor.
+"Alpha-galactoside uptake in Rhizobium meliloti: isolation and
+characterization of agpA, a gene encoding a periplasmic binding
+protein required for melibiose and raffinose utilization.";
+"The complete sequence of the 1,683-kb pSymB megaplasmid from the N2-
+fixing endosymbiont Sinorhizobium meliloti.";
+-!- FUNCTION: Probably involved in an alpha-galactosides intake
+    transport system.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 5
+    family.
+Complete proteome; Periplasmic; Plasmid; Signal; Sugar transport;
+Transport.
+TMZERO

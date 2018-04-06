@@ -1,0 +1,9 @@
+AC   P20836;
+Bacterial RNA polymerase inhibitor.
+"Sequence of a conditionally essential region of bacteriophage T3,
+including the primary origin of DNA replication.";
+-!- FUNCTION: Bacterial RNA polymerase inhibitor, which is expressed
+    in the late stage of lytic development, is also essential for
+    continuous synthesis of phage DNA and functions in the packaging
+    of the viral genome into the mature phage particle.
+TMZERO

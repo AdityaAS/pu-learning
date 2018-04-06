@@ -1,0 +1,17 @@
+AC   P0AAD5; P18199; P76309;
+Tyrosine-specific transport protein (Tyrosine permease).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Involved in transporting tyrosine across the cytoplasmic
+    membrane (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- INDUCTION: Repressed by tyrosine and induced by phenylalanine
+    under the control of regulatory protein tyrR (By similarity).
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family. Mtr/tnaB/tyrP permease subfamily.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMELEVEN

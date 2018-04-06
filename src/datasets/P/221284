@@ -1,0 +1,13 @@
+AC   P77307; Q2MBT6;
+UPF0014 inner membrane protein ybbM.
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the UPF0014 family.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMSEVEN

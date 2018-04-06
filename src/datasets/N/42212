@@ -1,0 +1,13 @@
+AC   Q8Z3B8;
+Putative carboxymethylenebutenolidase (EC 3.1.1.45) (Dienelactone
+hydrolase) (DLH).
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- CATALYTIC ACTIVITY: 4-carboxymethylenebut-2-en-4-olide + H(2)O =
+    4-oxohex-2-enedioate.
+-!- SIMILARITY: Belongs to the dienelactone hydrolase family.
+ GO:0008806; F:carboxymethylenebutenolidase activity; IEA:EC.
+Complete proteome; Hydrolase; Hypothetical protein.
+TMZERO

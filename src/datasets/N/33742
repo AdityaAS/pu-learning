@@ -1,0 +1,12 @@
+AC   P63878; Q87F42; Q9PH21;
+Carbon storage regulator homolog.
+"Comparative analyses of the complete genome sequences of Pierce's
+disease and citrus variegated chlorosis strains of Xylella
+fastidiosa.";
+-!- FUNCTION: Could accelerate the degradation of some genes
+    transcripts potentially through selective RNA binding (By
+    similarity).
+-!- SIMILARITY: Belongs to the csrA family.
+ GO:0006402; P:mRNA catabolism; IEA:HAMAP.
+Complete proteome; RNA-binding.
+TMZERO

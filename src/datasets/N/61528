@@ -1,0 +1,19 @@
+AC   O14793; Q6B0H2;
+Growth/differentiation factor 8 precursor (GDF-8) (Myostatin).
+"Double muscling in cattle due to mutations in the myostatin gene.";
+"Organization of the human myostatin gene and expression in healthy
+men and HIV-infected men with muscle wasting.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Acts specifically as a negative regulator of skeletal
+    muscle growth.
+-!- SUBUNIT: Homodimer; disulfide-linked (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the TGF-beta family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=GDF8".
+ GO:0008083; F:growth factor activity; TAS:ProtInc.
+ GO:0007517; P:muscle development; TAS:ProtInc.
+ GO:0045941; P:positive regulation of transcription; IDA:HGNC.
+Cytokine; Glycoprotein; Growth factor; Polymorphism; Signal.
+TMZERO

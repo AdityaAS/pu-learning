@@ -1,0 +1,16 @@
+AC   Q19366;
+Probable DNA polymerase delta small subunit (EC 2.7.7.7).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: The function of the small subunit is not yet clear.
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- SUBUNIT: Heterodimer with subunits of 125 kDa and 50 kDa (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the DNA polymerase delta/II small subunit
+    family.
+Complete proteome; DNA replication; DNA-directed DNA polymerase;
+Hypothetical protein; Nuclear protein; Nucleotidyltransferase;
+Transferase.
+TMZERO

@@ -1,0 +1,17 @@
+AC   Q28520;
+Vitamin K-dependent protein S precursor (Fragment).
+"Identification of candidate residues for interaction of protein S
+with C4b binding protein and activated protein C.";
+-!- FUNCTION: Anticoagulant plasma protein; it is a cofactor to
+    activated protein C in the degradation of coagulation factors Va
+    and VIIIa. It helps to prevent coagulation and stimulating
+    fibrinolysis.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Plasma.
+-!- SIMILARITY: Contains 4 EGF-like domains.
+-!- SIMILARITY: Contains 1 Gla (gamma-carboxy-glutamate) domain.
+-!- SIMILARITY: Contains 2 laminin G-like domains.
+Blood coagulation; Calcium; EGF-like domain;
+Gamma-carboxyglutamic acid; Glycoprotein; Hydroxylation; Repeat;
+Zymogen.
+TMZERO

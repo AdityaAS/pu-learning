@@ -1,0 +1,28 @@
+AC   P52591;
+Nuclear envelope pore membrane protein POM 121 (Pore membrane protein
+of 121 kDa) (P145).
+"An integral membrane protein of the pore membrane domain of the
+nuclear envelope contains a nucleoporin-like region.";
+"Nuclear pore complexes form immobile networks and have a very low
+turnover in live mammalian cells.";
+"Correlation between nucleocytoplasmic transport and caspase-3-
+dependent dismantling of nuclear pores during apoptosis.";
+-!- FUNCTION: Essential component of the nuclear pore complex (NPC).
+    The repeat-containing domain may be involved in anchoring
+    components of the pore complex to the pore membrane. When
+    overexpressed in cells induces the formation of cytoplasmic
+    annulate lamellae (AL).
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear pore complex; single-pass
+    type II membrane protein. Endoplasmic reticulum; endoplasmic
+    reticulum membrane; single-pass type II membrane protein.
+    Note=Stably associated with the NPC throughout interphase and the
+    endoplasmic reticulum during metaphase.
+-!- DOMAIN: Contains F-X-F-G repeats.
+-!- PTM: Proteolytically cleaved by caspase-3 during apoptosis.
+ GO:0005643; C:nuclear pore; IDA:RGD.
+ GO:0017056; F:structural constituent of nuclear pore; IPI:RGD.
+ GO:0006999; P:nuclear pore organization and biogenesis; IPI:RGD.
+Direct protein sequencing; Endoplasmic reticulum; Membrane;
+mRNA transport; Nuclear pore complex; Nuclear protein;
+Protein transport; Repeat; Translocation; Transmembrane; Transport.
+TMONE

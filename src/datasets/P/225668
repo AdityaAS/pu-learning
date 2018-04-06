@@ -1,0 +1,16 @@
+AC   P26218; P76743; Q2M838;
+Putative outer membrane protein yieC precursor.
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Beta-glucoside (bgl) operon of Escherichia coli K-12: nucleotide
+sequence, genetic organization, and possible evolutionary relationship
+to regulatory components of two Bacillus subtilis genes.";
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the porin lamB family.
+Complete proteome; Hypothetical protein; Ion transport; Membrane;
+Outer membrane; Porin; Signal; Transmembrane; Transport.
+TMZERO

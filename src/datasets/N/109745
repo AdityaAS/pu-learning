@@ -1,0 +1,44 @@
+AC   Q89933; O92927; Q77M21; Q77M26; Q77M32; Q783Q8; Q83520; Q83523;
+AC   Q83526; Q83726; Q89890; Q91QN7; Q9IC39;
+Nucleoprotein (Protein N) (Nucleocapsid protein) (NP protein).
+"Infectious measles virus from cloned cDNA.";
+"Comparison of sequences of the H, F, and N coding genes of measles
+virus vaccine strains.";
+"Evolution of the nucleoprotein and matrix genes from wild-type
+strains of measles virus isolated from recent epidemics.";
+"Rescue of measles viruses from cloned DNA.";
+"New genetic group of measles virus isolated in the People's Republic
+of China.";
+"Comparison of predicted amino acid sequences of measles virus strains
+in the Edmonston vaccine lineage.";
+"The phosophoprotein of attenuated measles virus vaccine strain, AIK-
+C, contributes to its temperature-sensitive phenotype.";
+"The whole gene sequence of Measles virus.";
+"Measles virus nucleoprotein induces cell-proliferation arrest and
+apoptosis through NTAIL-NR and NCORE-FcgammaRIIB1 interactions,
+respectively.";
+-!- FUNCTION: Encapsidates the genome in a ratio of 1 N per 6
+    ribonucleotides, protecting it from nucleases. The nucleocapsid
+    (NC) has an helical structure with either 12.35 or 11.64 N per
+    turn, approximately 20nm in diameter, with a hollow central cavity
+    approximately 5nm in diameter. The encapsidated genomic RNA is
+    termed the NC and serves as template for transcription and
+    replication. During replication, encapsidation by N is coupled to
+    RNA synthesis and all replicative products are resistant to
+    nucleases. N is released in the blood following lysis of measles
+    infected cells, it interacts then with human FCGR2B on immune
+    cells, inducing apoptosis and blocking inflammatory immune
+    response. Ntail binds to a protein on human thymic epithelial
+    cells, termed Nucleoprotein Receptor (NR), inducing growth arrest.
+-!- SUBUNIT: Homomultimerizes to form the nucleocapsid. Binds to viral
+    genomic RNA. In nucleocapsid, binds the P protein and thereby
+    positions the polymerase on the template. Interacts with human
+    FCGR2B protein.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- DOMAIN: Ncore is globular and carries regions required for N self-
+    assembly and RNA-binding. Ntail is an intrinsically disordered
+    monomeric domain.
+-!- SIMILARITY: Belongs to the paramyxoviruses nucleocapsid family.
+Host-virus interaction; Ribonucleoprotein; RNA-binding;
+Viral nucleoprotein; Virion protein.
+TMZERO

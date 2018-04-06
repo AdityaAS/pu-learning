@@ -1,0 +1,37 @@
+AC   Q99624; Q6IB34;
+System N amino acid transporter 1 (SN1) (N-system amino acid
+transporter 1) (Solute carrier family 38 member 3).
+"Primary structure, genomic organization, and functional and
+electrogenic characteristics of human system N 1, a Na+- and H+-
+coupled glutamine transporter.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"The DNA sequence, annotation and analysis of human chromosome 3.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The 630-kb lung cancer homozygous deletion region on human chromosome
+3p21.3: identification and evaluation of the resident candidate tumor
+suppressor genes.";
+-!- FUNCTION: Sodium-dependent amino acid/proton antiporter. Mediates
+    electrogenic cotransport of glutamine and sodium ions in exchange
+    for protons. Also recognizes histidine, asparagine and alanine.
+    May mediate amino acid transport in either direction under
+    physiological conditions. May play a role in nitrogen metabolism
+    and synaptic transmission.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family.
+ GO:0005887; C:integral to plasma membrane; ISS:UniProtKB.
+ GO:0005886; C:plasma membrane; IDA:LIFEdb.
+ GO:0015180; F:L-alanine transporter activity; IDA:UniProtKB.
+ GO:0015182; F:L-asparagine transporter activity; IDA:UniProtKB.
+ GO:0015186; F:L-glutamine transporter activity; IDA:UniProtKB.
+ GO:0005290; F:L-histidine transporter activity; IDA:UniProtKB.
+ GO:0006867; P:asparagine transport; IDA:UniProtKB.
+ GO:0006868; P:glutamine transport; IDA:UniProtKB.
+ GO:0015817; P:histidine transport; IDA:UniProtKB.
+ GO:0015808; P:L-alanine transport; IDA:UniProtKB.
+Amino-acid transport; Antiport; Glycoprotein; Ion transport; Membrane;
+Sodium; Sodium transport; Symport; Transmembrane; Transport.
+TMTEN

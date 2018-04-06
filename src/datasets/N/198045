@@ -1,0 +1,36 @@
+AC   O94901; Q96CZ7; Q9HA14; Q9UH98;
+Sad1/unc-84 protein-like 1 (Unc-84 homolog A).
+"Prediction of the coding sequences of unidentified human genes. XI.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"UNC-84 localizes to the nuclear envelope and is required for nuclear
+migration and anchoring during C. elegans development.";
+"Nuclear membrane proteins with potential disease links found by
+subtractive proteomics.";
+-!- SUBUNIT: Interacts with TSNAX (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear membrane; multi-pass
+    membrane protein (Potential). Intracytoplasmic membrane; multi-
+    pass membrane protein (Potential). Cytoplasm; perinuclear region
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=O94901-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O94901-2; Sequence=VSP_007743, VSP_007744;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=O94901-3; Sequence=VSP_007745, VSP_007746;
+      Note=No experimental confirmation available;
+    Name=4;
+      IsoId=O94901-4; Sequence=VSP_007741, VSP_007742;
+-!- DOMAIN: The Unc84 domain may play a role in the nuclear anchoring
+    and/or migration.
+-!- SIMILARITY: Contains 1 Unc84 (SUN) domain.
+Alternative splicing; Coiled coil; Membrane; Nuclear protein;
+Transmembrane.
+TMTWO

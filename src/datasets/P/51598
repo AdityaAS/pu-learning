@@ -1,0 +1,15 @@
+AC   Q02728;
+Exopolysaccharide production protein exoF precursor.
+"Genetic analysis of the Rhizobium meliloti exoYFQ operon: ExoY is
+homologous to sugar transferases and ExoQ represents a transmembrane
+protein.";
+"The complete sequence of the 1,683-kb pSymB megaplasmid from the N2-
+fixing endosymbiont Sinorhizobium meliloti.";
+-!- FUNCTION: Involved in succinoglycan (EPS I) synthesis. Needed for
+    the addition of the first sugar (galactose) to the isoprenoid
+    carrier.
+-!- PATHWAY: Exopolysaccharide biosynthesis.
+-!- SUBCELLULAR LOCATION: Periplasm (Probable).
+Complete proteome; Exopolysaccharide synthesis; Periplasmic; Plasmid;
+Signal.
+TMZERO

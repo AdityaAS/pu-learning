@@ -1,0 +1,12 @@
+AC   P43139; Q89937; Q89938; Q89939;
+DNA polymerase (EC 2.7.7.7).
+"Genetic identification and nucleotide sequence of the DNA polymerase
+gene of African swine fever virus.";
+"Functional and molecular characterization of African swine fever
+virus mutants resistant to phosphonoacetic acid.";
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- SIMILARITY: Belongs to the DNA polymerase type-B family.
+DNA replication; DNA-binding; DNA-directed DNA polymerase;
+Nucleotidyltransferase; Repeat; Transferase.
+TMZERO

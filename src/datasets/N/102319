@@ -1,0 +1,15 @@
+AC   Q8ZKU9;
+Molybdopterin-guanine dinucleotide biosynthesis protein A (Protein
+FA).
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Links a guanosine 5'-phosphate to molydopterin (MPT)
+    forming molybdopterin guanine dinucleotide (MGD) (By similarity).
+-!- COFACTOR: Magnesium (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; molybdopterin biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the mobA family.
+ GO:0005525; F:GTP binding; IEA:HAMAP.
+Complete proteome; GTP-binding; Magnesium;
+Molybdenum cofactor biosynthesis; Nucleotide-binding.
+TMZERO

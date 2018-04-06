@@ -1,0 +1,19 @@
+AC   P21441;
+Multidrug resistance protein (EC 3.6.3.44) (P-glycoprotein).
+"The amplified H circle of methotrexate-resistant Leishmania
+tarentolae contains a novel P-glycoprotein gene.";
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + xenobiotic(In) = ADP + phosphate
+    + xenobiotic(Out).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: In this organism, this protein is encoded by a
+    gene, located in "H circle", a 68 kb duplex DNA circle containing
+    a 30 kb inverted repeat. Acquired resistance to methotrexate in
+    the organism is associated with the amplification of h circles
+    with increasing level of LTPGPA gene transcription.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; IEA:EC.
+Antibiotic resistance; ATP-binding; Glycoprotein; Hydrolase; Membrane;
+Nucleotide-binding; Repeat; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,39 @@
+AC   O23482; Q8H0V0; Q940I5;
+Probable oligopeptide transporter 3 (AtOPT3).
+"Analysis of 1.9 Mb of contiguous sequence from chromosome 4 of
+Arabidopsis thaliana.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"An oligopeptide transporter gene family in Arabidopsis.";
+"AtOPT3, a member of the oligopeptide transporter family, is essential
+for embryo development in Arabidopsis.";
+"Expression profiles of Arabidopsis thaliana in mineral deficiencies
+reveal novel transporters involved in metal homeostasis.";
+-!- FUNCTION: May be involved in the translocation of tetra- and
+    pentapeptides across the cellular membrane in an energy-dependent
+    manner. Acts also as a metal transporter that could be a component
+    of the copper transport machinery. Essential for early embryo
+    development.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Strong expression in flowers, leaves and
+    roots. Preferentially expressed in the vascular tissues of
+    seedlings and mature plants as well as in pollen and developing
+    embryos.
+-!- DEVELOPMENTAL STAGE: Expressed 2 to 4 hours after fertilization in
+    the embryo sac and subsequently in developing maternal tissues. By
+    the globular stage, expression is observed in the developing
+    endosperm, integument layers, the embryo proper, and the suspensor
+    of the developing embryo. From the heart stage onward, expression
+    observed in the embryo but neither in the suspensor nor in the
+    endosperm and integument tissues.
+-!- INDUCTION: Highly induced by iron, copper and manganese
+    deficiencies.
+-!- SIMILARITY: Belongs to the oligopeptide OPT transporter family.
+-!- CAUTION: Ref.1 and Ref.2 sequences differ from that shown due to
+    erroneous gene model prediction.
+Developmental protein; Membrane; Peptide transport; Protein transport;
+Transmembrane; Transport.
+TMSIXTEEN

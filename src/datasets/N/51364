@@ -1,0 +1,15 @@
+AC   Q6MDK5;
+Probable exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+(Exonuclease VII small subunit).
+"Illuminating the evolutionary history of chlamydiae.";
+-!- FUNCTION: Bidirectionally degrades single-stranded DNA into large
+    acid-insoluble oligonucleotides, which are then degraded further
+    into small acid-soluble oligonucleotides (By similarity).
+-!- CATALYTIC ACTIVITY: Exonucleolytic cleavage in either 5'- to 3'-
+    or 3'- to 5'-direction to yield nucleoside 5'-phosphates.
+-!- SUBUNIT: Heterooligomer composed of large and small subunits (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the xseB family.
+Complete proteome; Exonuclease; Hydrolase; Nuclease.
+TMZERO

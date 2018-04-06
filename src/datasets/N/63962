@@ -1,0 +1,14 @@
+AC   Q65SZ8;
+[Protein-PII] uridylyltransferase (EC 2.7.7.59) (PII uridylyl-
+transferase) (Uridylyl-removing enzyme) (UTase).
+"The genome sequence of the capnophilic rumen bacterium Mannheimia
+succiniciproducens.";
+-!- FUNCTION: Modifies, by uridylylation or deuridylylation the PII
+    (glnB) regulatory protein (By similarity).
+-!- CATALYTIC ACTIVITY: UTP + [protein-PII] = diphosphate + uridylyl-
+    [protein-PII].
+-!- SIMILARITY: Belongs to the glnD family.
+ GO:0009399; P:nitrogen fixation; IEA:HAMAP.
+Complete proteome; Nitrogen fixation; Nucleotidyltransferase;
+Transferase.
+TMZERO

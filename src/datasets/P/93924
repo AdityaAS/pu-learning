@@ -1,0 +1,14 @@
+AC   P0A9S9; P22730;
+High-affinity branched-chain amino acid transport ATP-binding protein
+livG (LIV-I protein G).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Component of the leucine-specific transport system (By
+    similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Amino-acid transport; ATP-binding; Complete proteome;
+Nucleotide-binding; Transport.
+TMZERO

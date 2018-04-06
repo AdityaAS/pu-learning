@@ -1,0 +1,15 @@
+AC   P78921; O74816;
+Probable T-complex protein 1 subunit theta (TCP-1-theta) (CCT-theta).
+"Identification of open reading frames in Schizosaccharomyces pombe
+cDNAs.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Molecular chaperone; assist the folding of proteins upon
+    ATP hydrolysis. Known to play a role, in vitro, in the folding of
+    actin and tubulin (By similarity).
+-!- SUBUNIT: Hetero-oligomeric complex of about 850 to 900 kDa that
+    forms two stacked rings, 12 to 16 nm in diameter (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the TCP-1 chaperonin family.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ATP-binding; Chaperone; Complete proteome; Nucleotide-binding.
+TMZERO

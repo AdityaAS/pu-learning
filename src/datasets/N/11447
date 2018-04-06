@@ -1,0 +1,12 @@
+AC   P52147;
+Arsenate reductase (EC 1.20.4.1) (Arsenical pump modifier).
+"The arsenical resistance operon of IncN plasmid R46.";
+-!- FUNCTION: Reduction of arsenate [As(V)] to arsenite [As(III)].
+    This protein expands the substrate specificity of arsAB pump which
+    can extrude arsenite and antimonite to allow for arsenate pumping
+    and resistance.
+-!- CATALYTIC ACTIVITY: Arsenate + glutaredoxin = arsenite +
+    glutaredoxin disulfide.
+-!- SIMILARITY: Belongs to the arsC family.
+Arsenical resistance; Oxidoreductase; Plasmid.
+TMZERO

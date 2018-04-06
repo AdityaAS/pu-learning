@@ -1,0 +1,17 @@
+AC   Q02356;
+AMP deaminase 2 (EC 3.5.4.6) (AMP deaminase isoform L) (Fragment).
+"Adenylate deaminase. A multigene family in humans and rats.";
+-!- FUNCTION: AMP deaminase plays a critical role in energy
+    metabolism.
+-!- CATALYTIC ACTIVITY: AMP + H(2)O = IMP + NH(3).
+-!- PATHWAY: Purine nucleotide cycle.
+-!- SUBUNIT: Homotetramer.
+-!- TISSUE SPECIFICITY: Three isoforms are present in mammals: AMP
+    deaminase 1 is the predominant form in skeletal muscle; AMP
+    deaminase 2 predominates in smooth muscle, non-muscle tissue,
+    embryonic muscle and undifferentiated myoblasts; AMP deaminase 3
+    is found in erythrocytes.
+-!- SIMILARITY: Belongs to the adenosine and AMP deaminases family.
+ GO:0003876; F:AMP deaminase activity; IEA:EC.
+Hydrolase; Nucleotide metabolism.
+TMZERO

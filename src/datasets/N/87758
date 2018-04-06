@@ -1,0 +1,12 @@
+AC   Q5RD71;
+Ketohexokinase (EC 2.7.1.3) (Hepatic fructokinase).
+-!- CATALYTIC ACTIVITY: ATP + D-fructose = ADP + D-fructose 1-
+    phosphate.
+-!- ENZYME REGULATION: Requires potassium. Inhibition by ADP (By
+    similarity).
+-!- PATHWAY: Carbohydrate metabolism; fructose metabolism.
+-!- SUBUNIT: Dimer of A-A, A-C or C-C (Probable).
+-!- SIMILARITY: Belongs to the carbohydrate kinase pfkB family.
+ GO:0004454; F:ketohexokinase activity; IEA:EC.
+Carbohydrate metabolism; Kinase; Transferase.
+TMZERO

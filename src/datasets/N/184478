@@ -1,0 +1,14 @@
+AC   Q5QD14;
+Trace amine-associated receptor 5.
+"Trace amine-associated receptors form structurally and functionally
+distinct subfamilies of novel G protein-coupled receptors.";
+-!- FUNCTION: Orphan receptor. Ligands are likely small molecules,
+    either sharing some similarities with trace amine as, e.g.
+    derivatives of indolamines (such as 5-methoxytryptamine) or of
+    phenylethylamines (such as phenylethanolamine) or being any kind
+    of metabolite of amino acids or biogenic amine neurotransmitters.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+G-protein coupled receptor; Glycoprotein; Membrane; Receptor;
+Transducer; Transmembrane.
+TMSEVEN

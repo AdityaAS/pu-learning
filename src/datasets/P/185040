@@ -1,0 +1,34 @@
+AC   P69425; O69415; O87926; P27856; Q2M8E2;
+Sec-independent protein translocase protein tatB.
+"Overlapping functions of components of a bacterial Sec-independent
+protein export pathway.";
+"A novel and ubiquitous system for membrane targeting and secretion of
+cofactor-containing proteins.";
+"Analysis of the Escherichia coli genome: DNA sequence of the region
+from 84.5 to 86.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"TatB and TatC form a functional and structural unit of the twin-
+arginine translocase from Escherichia coli.";
+"Sec-independent protein translocation in Escherichia coli. A distinct
+and pivotal role for the TatB protein.";
+"The Tat protein export pathway.";
+"Purified components of the Escherichia coli Tat protein transport
+system form a double-layered ring structure.";
+-!- FUNCTION: Required for correct localization of precursor proteins
+    bearing signal peptides with the twin arginine conserved motif
+    S/T-R-R-X-F-L-K. This sec-independent pathway is termed TAT for
+    twin-arginine translocation system. This system mainly transports
+    proteins with bound cofactors that require folding prior to
+    export.
+-!- SUBUNIT: So far, according to different studies, three types of
+    complexes have been observed. A tatABC complex, a spectrum of
+    homooligomeric tatA complexes and a complex containing only tatA
+    and tatB.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the tatB family.
+Complete proteome; Direct protein sequencing; Inner membrane;
+Membrane; Protein transport; Translocation; Transmembrane; Transport.
+TMONE

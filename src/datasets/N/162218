@@ -1,0 +1,27 @@
+AC   P0AG59; P02370; Q2M6X2;
+30S ribosomal protein S14.
+"The spc ribosomal protein operon of Escherichia coli: sequence and
+cotranscription of the ribosomal protein genes and a protein export
+gene.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Observation of Escherichia coli ribosomal proteins and their
+posttranslational modifications by mass spectrometry.";
+"All-atom homology model of the Escherichia coli 30S ribosomal
+subunit.";
+"Study of the structural dynamics of the E. coli 70S ribosome using
+real-space refinement.";
+"Structures of the bacterial ribosome at 3.5 A resolution.";
+-!- FUNCTION: Binds 16S rRNA, required for the assembly of 30S
+    particles and may also be responsible for determining the
+    conformation of the 16S rRNA at the A site.
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Contacts proteins S3
+    and S10 (By similarity).
+-!- MASS SPECTROMETRY: MW=11449.3; METHOD=MALDI; RANGE=1-100;
+    NOTE=Ref.5.
+-!- SIMILARITY: Belongs to the ribosomal protein S14P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ribonucleoprotein; Ribosomal protein.
+TMZERO

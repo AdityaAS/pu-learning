@@ -1,0 +1,29 @@
+AC   P50455; O05169;
+3-isopropylmalate dehydrogenase (EC 1.1.1.85) (Beta-IPM dehydrogenase)
+(IMDH) (3-IPM-DH).
+"Molecular and phylogenetic characterization of isopropylmalate
+dehydrogenase of a thermoacidophilic archaeon, Sulfolobus sp. strain
+7.";
+"Complete genome sequence of an aerobic thermoacidophilic
+Crenarchaeon, Sulfolobus tokodaii strain7.";
+"Purification and characterization of 3-isopropylmalate dehydrogenase
+from a thermoacidophilic archaebacterium Sulfolobus sp. strain 7.";
+"Crystal structure of IPMDH from Sulfolobus tokodaii.";
+-!- FUNCTION: Catalyzes the oxidation of 3-carboxy-2-hydroxy-4-
+    methylpentanoate (3-isopropylmalate) to 3-carboxy-4-methyl-2-
+    oxopentanoate. The product decarboxylates to 4-methyl-2
+    oxopentanoate.
+-!- CATALYTIC ACTIVITY: 3-carboxy-2-hydroxy-4-methylpentanoate +
+    NAD(+) = 3-carboxy-4-methyl-2-oxopentanoate + NADH.
+-!- COFACTOR: Binds 1 magnesium or manganese ion per subunit.
+-!- PATHWAY: Amino-acid biosynthesis; L-leucine biosynthesis; L-
+    leucine from 3-methyl-2-oxobutanoate: step 3.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+    dehydrogenases family.
+3D-structure; Amino-acid biosynthesis;
+Branched-chain amino acid biosynthesis; Complete proteome;
+Direct protein sequencing; Leucine biosynthesis; Magnesium; Manganese;
+Metal-binding; NAD; Oxidoreductase.
+TMZERO

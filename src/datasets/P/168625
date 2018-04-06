@@ -1,0 +1,16 @@
+AC   P55016;
+Solute carrier family 12 member 1 (Bumetanide-sensitive sodium-
+(potassium)-chloride cotransporter 2) (Kidney-specific Na-K-Cl
+symporter).
+"Molecular cloning, primary structure, and characterization of two
+members of the mammalian electroneutral sodium-(potassium)-chloride
+cotransporter family expressed in kidney.";
+-!- FUNCTION: Electrically silent transporter system. Mediates sodium
+    and chloride reabsorption. Plays a vital role in the regulation of
+    ionic balance and cell volume.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Predominant in kidney.
+-!- SIMILARITY: Belongs to the SLC12A transporter family.
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Sodium; Sodium transport; Symport; Transmembrane; Transport.
+TMTWELVE

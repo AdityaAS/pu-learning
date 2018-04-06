@@ -1,0 +1,15 @@
+AC   Q5E9Z5; Q08E41;
+Gap junction beta-6 protein.
+"Characterization of 954 bovine full-CDS cDNA sequences.";
+-!- FUNCTION: One gap junction consists of a cluster of closely packed
+    pairs of transmembrane channels, the connexons, through which
+    materials of low MW diffuse from one cell to a neighboring cell
+    (By similarity).
+-!- SUBUNIT: A connexon is composed of a hexamer of connexins (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- SIMILARITY: Belongs to the connexin family. Beta-type (group I)
+    subfamily.
+Gap junction; Membrane; Transmembrane.
+TMFOUR

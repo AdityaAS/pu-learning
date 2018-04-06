@@ -1,0 +1,13 @@
+AC   P82819;
+Ranatuerin-4.
+"Ranatuerins: antimicrobial peptides isolated from the skin of the
+American bullfrog, Rana catesbeiana.";
+-!- FUNCTION: Antibacterial activity against Gram-positive bacterium
+    S.aureus.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin glands.
+-!- SIMILARITY: Belongs to the frog skin active peptide (FSAP) family.
+    Brevinin subfamily.
+Amphibian defense peptide; Antibiotic; Antimicrobial;
+Direct protein sequencing.
+TMZERO

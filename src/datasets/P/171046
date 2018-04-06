@@ -1,0 +1,16 @@
+AC   P0A4H0; P31159; Q31L25;
+Preprotein translocase secY subunit.
+"Cloning and characterization of the secY gene from the cyanobacterium
+Synechococcus PCC7942.";
+"Complete sequence of chromosome 1 of Synechococcus elongatus PCC
+7942.";
+-!- FUNCTION: Involved in protein export. Interacts with secA and secE
+    to allow the translocation of proteins across the plasma membrane,
+    by forming part of a channel.
+-!- SUBUNIT: One of seven secretory proteins (secA-F and secY) that
+    comprise the prokaryotic protein translocation apparatus.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the secY/SEC61-alpha family.
+Complete proteome; Membrane; Protein transport; Translocation;
+Transmembrane; Transport.
+TMTEN

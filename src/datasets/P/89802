@@ -1,0 +1,15 @@
+AC   P63184; P30016; P76748;
+Low affinity potassium transport system protein kup (Kup system
+potassium uptake protein).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Responsible for the low-affinity transport of potassium
+    into the cell, with the probable concomitant uptake of protons
+    (symport system) (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the HAK/KUP transporter (TC 2.A.72) family.
+ GO:0015293; F:symporter activity; IEA:HAMAP.
+Complete proteome; Inner membrane; Ion transport; Membrane; Potassium;
+Potassium transport; Symport; Transmembrane; Transport.
+TMTWELVE

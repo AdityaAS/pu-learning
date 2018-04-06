@@ -1,0 +1,18 @@
+AC   P54571;
+Malate-2H(+)/Na(+)-lactate antiporter.
+"Systematic sequencing of the 283 kb 210 degrees-232 degrees region of
+the Bacillus subtilis genome containing the skin element and many
+sporulation genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Bacillus subtilis YqkI is a novel malic/Na+-lactate antiporter that
+enhances growth on malate at low protonmotive force.";
+-!- FUNCTION: Couples proton uptake and Na(+) efflux to the substrate-
+    product malate/lactate antiport, in an electroneutral malate-
+    2H(+)/Na(+)-lactate exchange. Plays a role in supporting growth to
+    high density on malate at reduced protonmotive force.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the nhaC Na(+)/H(+) antiporter family.
+Antiport; Complete proteome; Ion transport; Membrane; Sodium;
+Sodium transport; Transmembrane; Transport.
+TMTWELVE

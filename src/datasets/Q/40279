@@ -1,0 +1,15 @@
+AC   O16137;
+Defensin-2 precursor.
+"Midgut-specific immune molecules are produced by the blood-sucking
+insect Stomoxys calcitrans.";
+-!- FUNCTION: Antibacterial peptide active mostly against Gram-
+    negative bacteria. Its activity is enhanced by lipopolysaccharide.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Constitutively expressed in the anterior
+    midgut and is up-regulated by blood feeding. Not expressed in the
+    fat body or hemocytes.
+-!- SIMILARITY: Belongs to the invertebrate defensin family. Type 1
+    subfamily.
+Antibiotic; Antimicrobial; Defensin; Direct protein sequencing;
+Immune response; Innate immunity; Signal.
+TMZERO

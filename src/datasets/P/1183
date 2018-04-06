@@ -1,0 +1,24 @@
+AC   P46481; Q2M8X3;
+p-hydroxybenzoic acid efflux pump subunit aaeB (pHBA efflux pump
+protein B).
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Characterization of the Escherichia coli AaeAB efflux pump: a
+metabolic relief valve?";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Efflux pump whose substrates are p-hydroxybenzoic acid
+    (pHBA), 6-hydroxy-2-naphthoic and 2-hydroxycinnamate. Could
+    function as a metabolic relief valve, allowing to eliminate
+    certain compounds when they accumulate to high levels in the cell.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Positively coregulated with aaeA and aaeX by aaeR.
+-!- MISCELLANEOUS: Both aaeB and aaeA are required for the function of
+    the efflux system.
+-!- SIMILARITY: Belongs to the aromatic acid exporter ArAE (TC 2.A.85)
+    family.
+ GO:0006810; P:transport; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMELEVEN

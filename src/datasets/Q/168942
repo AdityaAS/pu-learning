@@ -1,0 +1,45 @@
+AC   Q9D687;
+Sodium-dependent neutral amino acid transporter B(0) (System B(0)
+neutral amino acid transporter) (B(0)AT1) (Solute carrier family 6
+member 19).
+"Molecular cloning of mouse amino acid transport system B(0), a
+neutral amino acid transporter related to Hartnup disorder.";
+"The transcriptional landscape of the mammalian genome.";
+"Characterization of mouse amino acid transporter B(0)AT1 (Slc6a19).";
+-!- FUNCTION: Transporter that mediates epithelial resorption of
+    neutral amino acids across the apical membrane of epithelial cells
+    in the kidney and intestine. It appears that leucine is the
+    preferred substrate, but all large neutral non-aromatic L-amino
+    acids bind to this transporter. Uptake of leucine is sodium-
+    dependent. In contrast to other members of the neurotransmitter
+    transporter family, does not appear to be chloride-dependent.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=630 uM for leucine;
+      KM=522 uM for glutamine;
+      KM=589 uM for phenylalanine;
+      Note=Vmax for leucine is about twice the value of Vmax for
+      glutamine, and three times the value of Vmax for phenylalanine.
+      KM and Vmax values are complex functions of the concentration of
+      substrate (L-amino acid) and cosubstrate (Na(+)) and the
+      membrane potential;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Expression observed in kidney, small
+    intestine, and skin. Expression not observed in other organs, such
+    as lung, skeletal muscle, brain, liver and pancreas. In kidney,
+    expression is localized in the renal cortex but not in the
+    medulla. Substantial amounts of expression in the proximal
+    tubules. The distal nephron segments and the glomeruli are
+    consistently negative. In the small intestine, expression is
+    exclusively localized in villus enterocytes. High resolution of
+    the hybridization-positive villi reveals a gradient of expression
+    with the highest levels in apical cells. Not detected in crypt
+    cells or in any other cell types of the small intestine.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+ GO:0015175; F:neutral amino acid transporter activity; IDA:MGI.
+ GO:0015804; P:neutral amino acid transport; IDA:MGI.
+Amino-acid transport; Glycoprotein; Membrane; Symport; Transmembrane;
+Transport.
+TMTWELVE

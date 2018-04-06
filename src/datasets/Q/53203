@@ -1,0 +1,11 @@
+AC   P46000;
+Outer membrane usher protein fasD precursor.
+"Permissive linker insertion sites in the outer membrane protein of
+987P fimbriae of Escherichia coli.";
+-!- FUNCTION: Involved in the export and assembly of the 987P fimbriae
+    subunits across the outer membrane.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the fimbrial export usher family.
+Fimbria; Membrane; Outer membrane; Signal; Transmembrane; Transport.
+TMZERO

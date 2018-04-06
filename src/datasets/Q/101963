@@ -1,0 +1,15 @@
+AC   Q97TN5;
+Probable manganese transport protein mntH.
+"Genome sequence and comparative analysis of the solvent-producing
+bacterium Clostridium acetobutylicum.";
+-!- FUNCTION: H(+)-stimulated, highly selective, manganese uptake
+    system (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the NRAMP family.
+ GO:0030145; F:manganese ion binding; IEA:HAMAP.
+ GO:0015293; F:symporter activity; IEA:HAMAP.
+ GO:0006828; P:manganese ion transport; IEA:HAMAP.
+Complete proteome; Manganese; Membrane; Plasmid; Symport;
+Transmembrane; Transport.
+TMELEVEN

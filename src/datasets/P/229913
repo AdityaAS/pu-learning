@@ -1,0 +1,13 @@
+AC   P45394; Q2M916;
+Inner membrane protein yrbG.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the sodium/potassium/calcium exchanger
+    family.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMTEN

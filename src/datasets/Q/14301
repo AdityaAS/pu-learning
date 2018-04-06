@@ -1,0 +1,21 @@
+AC   Q85FT3;
+ATP synthase epsilon chain (EC 3.6.3.14) (ATP synthase F1 sector
+epsilon subunit).
+"Complete sequence and analysis of the plastid genome of the
+unicellular red alga Cyanidioschyzon merolae.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; peripheral membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the ATPase epsilon chain family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0042777; P:ATP synthesis coupled proton transport (sen...; IEA:HAMAP.
+ATP synthesis; CF(1); Chloroplast; Hydrogen ion transport; Hydrolase;
+Ion transport; Membrane; Plastid; Thylakoid; Transport.
+TMZERO

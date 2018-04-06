@@ -1,0 +1,20 @@
+AC   O74983;
+Ubiquitin-conjugating enzyme spm2 (Ubiquitin-conjugating enzyme
+variant MMS2 homolog) (UEV MMS2).
+"Structural and functional conservation of error-free DNA
+postreplication repair in Schizosaccharomyces pombe.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Has a role in the DNA error-free postreplication repair
+    (PRR) pathway. Lacks catalytic activity by itself. The ubc13/spm2
+    heterodimer catalyzes the synthesis of non-canonical poly-
+    ubiquitin chains that are linked through 'Lys-63'.
+-!- SUBUNIT: Heterodimer with ubc13.
+-!- SIMILARITY: Belongs to the ubiquitin-conjugating enzyme family.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0005515; F:protein binding; IPI:GeneDB_SPombe.
+ GO:0042803; F:protein homodimerization activity; IGI:GeneDB_SPombe.
+ GO:0006301; P:postreplication repair; IMP:GeneDB_SPombe.
+ GO:0016567; P:protein ubiquitination; IDA:GeneDB_SPombe.
+Complete proteome; Ligase; Ubl conjugation pathway.
+TMZERO

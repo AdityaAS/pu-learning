@@ -1,0 +1,24 @@
+AC   P33532; O13866;
+Vitamin B6 transporter bsu1 (Vitamin B6 uptake protein 1) (Changed
+amiloride resistance protein 1) (Amiloride transporter car1).
+"The amiloride resistance gene, car1, of Schizosaccharomyces pombe.";
+"The genome sequence of Schizosaccharomyces pombe.";
+"Amiloride uptake and toxicity in fission yeast are caused by the
+pyridoxine transporter encoded by bsu1+ (car1+).";
+-!- FUNCTION: Thiamine-regulated, high affinity import carrier of
+    pyridoxine, pyridoxal and pyridoxamine. Also imports, but does not
+    export, amiloride and so confers sensitivity.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+    Note=During mitosis, localizes also to the septum.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. CAR1
+    family.
+ GO:0005887; C:integral to plasma membrane; NAS:GeneDB_SPombe.
+ GO:0005886; C:plasma membrane; TAS:GeneDB_SPombe.
+ GO:0031925; F:pyridoxal transporter activity; IDA:GeneDB_SPombe.
+ GO:0031927; F:pyridoxamine transporter activity; IDA:GeneDB_SPombe.
+ GO:0031928; F:pyridoxine transporter activity; IDA:GeneDB_SPombe.
+ GO:0031920; P:pyridoxal transport; IDA:GeneDB_SPombe.
+ GO:0031922; P:pyridoxamine transport; IDA:GeneDB_SPombe.
+ GO:0031923; P:pyridoxine transport; IDA:GeneDB_SPombe.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTWELVE

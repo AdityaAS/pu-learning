@@ -1,0 +1,35 @@
+AC   Q14849; Q53Y53; Q96HM9;
+StAR-related lipid transfer protein 3 (StARD3) (START domain-
+containing protein 3) (Metastatic lymph node protein 64) (Protein MLN
+64) (Protein CAB1).
+"Identification of four novel human genes amplified and overexpressed
+in breast carcinoma and localized to the q11-q21.3 region of
+chromosome 17.";
+"Isolation of a candidate gene, CAB1, for cholesterol transport to
+mitochondria from the c-ERBB-2 amplicon by a modified cDNA selection
+method.";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Structure and lipid transport mechanism of a StAR-related domain.";
+"The steroidogenic acute regulatory protein homolog MLN64, a late
+endosomal cholesterol-binding protein.";
+-!- FUNCTION: Binds and transports cholesterol. Promotes
+    steroidogenesis in placenta and brain.
+-!- SUBCELLULAR LOCATION: Endosome; late endosome; late endosomal
+    membrane; multi-pass membrane protein.
+-!- SIMILARITY: Contains 1 MENTAL domain.
+-!- SIMILARITY: Contains 1 START domain.
+-!- WEB RESOURCE: NAME=Atlas of Genetics and Cytogenetics in Oncology
+    and Haematology;
+    URL="http://atlasgeneticsoncology.org/Genes/MLN64ID202.html".
+ GO:0005737; C:cytoplasm; TAS:ProtInc.
+ GO:0015485; F:cholesterol binding; IDA:MGI.
+ GO:0008203; P:cholesterol metabolism; TAS:ProtInc.
+ GO:0006629; P:lipid metabolism; TAS:ProtInc.
+ GO:0006839; P:mitochondrial transport; TAS:ProtInc.
+ GO:0008202; P:steroid metabolism; TAS:ProtInc.
+3D-structure; Lipid transport; Lipid-binding; Membrane; Polymorphism;
+Steroidogenesis; Transmembrane; Transport.
+TMFOUR

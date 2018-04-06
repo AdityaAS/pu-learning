@@ -1,0 +1,16 @@
+AC   P0A0L9; Q53585;
+Enterotoxin type H precursor (SEH).
+"Genome and virulence determinants of high virulence community-
+acquired MRSA.";
+-!- FUNCTION: Staphylococcal enterotoxins cause the intoxication
+    staphylococcal food poisoning syndrome. The illness characterized
+    by high fever, hypotension, diarrhea, shock, and in some cases
+    death (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit. The zinc ion is necessary
+    for the toxin interaction with MHC class II (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- SIMILARITY: Belongs to the staphylococcal/streptococcal toxin
+    family.
+Complete proteome; Enterotoxin; Metal-binding; Signal; Superantigen;
+Toxin; Zinc.
+TMZERO

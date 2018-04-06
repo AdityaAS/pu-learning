@@ -1,0 +1,21 @@
+AC   P25930; Q3MHJ3;
+C-X-C chemokine receptor type 4 (CXC-R4) (CXCR-4) (Stromal cell-
+derived factor 1 receptor) (SDF-1 receptor) (Fusin) (Leukocyte-derived
+seven transmembrane domain receptor) (LESTR) (LCR1) (CD184 antigen).
+"Sequence and expression of a neuropeptide Y receptor cDNA.";
+"Role of chemokines in respiratory syncytial virus infection.";
+"A proposed bovine neuropeptide Y (NPY) receptor cDNA clone, or its
+human homologue, confers neither NPY binding sites nor NPY
+responsiveness on transfected cells.";
+-!- FUNCTION: Receptor for the C-X-C chemokine CXCL12/SDF-1.
+    Transduces a signal by increasing the intracellular calcium ions
+    level.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Brain, heart, kidney, lung and liver.
+-!- PTM: Sulfated (By similarity).
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+-!- CAUTION: Was originally (Ref.1) thought to be a receptor for
+    neuropeptide Y type 3 (NPY3R) (NPY3-R).
+G-protein coupled receptor; Glycoprotein; Membrane; Receptor;
+Sulfation; Transducer; Transmembrane.
+TMSEVEN

@@ -1,0 +1,30 @@
+AC   P62989; P02248; P02249; P02250; Q29120; Q63446; Q91887; Q91888;
+Ubiquitin.
+"Differential feeding-related regulation of ubiquitin and
+calbindin9kDa in rat duodenum.";
+"The carboxyl extensions of two rat ubiquitin fusion proteins are
+ribosomal proteins S27a and L40.";
+"Nucleotide sequence and expression of the rat polyubiquitin mRNA.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Protein modifier which can be covalently attached to
+    target lysines either as a monomer or as a lysine-linked polymer.
+    Attachment to proteins as a Lys-48-linked polymer usually leads to
+    their degradation by proteasome. Attachment to proteins as a
+    monomer or as an alternatively linked polymer does not lead to
+    proteasomal degradation and may be required for numerous
+    fonctions, including maintenance of chromatin structure,
+    regulation of gene expression, stress response, ribosome
+    biogenesis and DNA repair (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- PTM: Several types of polymeric chains can be formed, depending on
+    the lysine used for the assembly (By similarity).
+-!- MISCELLANEOUS: Ubiquitin is synthesized as a polyubiquitin
+    precursor with exact head to tail repeats, the number of repeats
+    differ between species and strains. In some species there is a
+    final amino-acid after the last repeat, here in rat a Tyr. Some
+    ubiquitin genes contain a single copy of ubiquitin fused to a
+    ribosomal protein (either L40 or S27a).
+-!- SIMILARITY: Belongs to the ubiquitin family.
+Direct protein sequencing; Nuclear protein; Ubl conjugation.
+TMZERO

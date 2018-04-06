@@ -1,0 +1,13 @@
+AC   Q8R5M3;
+Leucine-rich repeat-containing protein 15 precursor (rLib).
+"A novel member of the leucine-rich repeat superfamily induced in rat
+astrocytes by beta-amyloid.";
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- INDUCTION: By beta-amyloid.
+-!- SIMILARITY: Contains 15 LRR (leucine-rich) repeats.
+ GO:0005622; C:intracellular; IDA:RGD.
+ GO:0007154; P:cell communication; TAS:RGD.
+Glycoprotein; Leucine-rich repeat; Membrane; Repeat; Signal;
+Transmembrane.
+TMONE

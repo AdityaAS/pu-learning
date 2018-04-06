@@ -1,0 +1,50 @@
+AC   P09077; Q23990; Q24508; Q9V3Q3;
+Homeotic protein Sex combs reduced.
+"The homeotic gene Sex Combs Reduced of Drosophila: gene structure and
+embryonic expression.";
+"The sex combs reduced gene of Drosophila melanogaster has multiple
+transcripts.";
+"Complete sequence of the Antennapedia complex of Drosophila.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"Sequence of cDNA of homeodomain protein from sex combs reduced (Scr)
+gene.";
+"Cloning of the homeotic Sex Combs Reduced gene in Drosophila and in
+situ localization of its transcripts.";
+"A functional and structural analysis of the Sex combs reduced locus
+of Drosophila melanogaster.";
+"Hox genes and the evolution of the arthropod body plan.";
+-!- FUNCTION: Sequence-specific transcription factor which is part of
+    a developmental regulatory system that provides cells with
+    specific positional identities on the anterior-posterior axis.
+    Controls the segmental transformation of the first to the second
+    thoracic segment (prothorax to mesothorax) and of the labial palps
+    into maxillary palps. In embryo, required for fusion of labial
+    lobes and development of the T1 denticle belt. In adult,
+    expression in the head is necessary for proper development of the
+    labium. In the first thoracic segment of the adult, required for
+    proper development of the sex comb and to suppress improper
+    prothoracic wing development.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: In embryo, expressed in the labial and
+    anterior prothoracic segments and the extreme posterior of the
+    maxillary segment. In adult, expressed in the maxillary analgen of
+    the eye and antennal imaginal disk and the labial and T1 leg
+    imaginal disks.
+-!- SIMILARITY: Belongs to the Antp homeobox family. Deformed
+    subfamily.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+-!- CAUTION: Ref.1 sequence differs from that shown due to frameshifts
+    in positions 93 and 141.
+-!- CAUTION: Ref.7 (AAA19240) sequence differs from that shown due to
+    frameshifts in positions 35 and 79.
+ GO:0007494; P:midgut development; TAS:FlyBase.
+ GO:0007432; P:salivary gland determination; TAS:FlyBase.
+ GO:0007379; P:segment specification; NAS:FlyBase.
+ GO:0045498; P:sex comb development; IMP:FlyBase.
+ GO:0007548; P:sex differentiation; TAS:FlyBase.
+ GO:0007381; P:specification of segmental identity, labial...; TAS:FlyBase.
+Complete proteome; Developmental protein; DNA-binding; Homeobox;
+Nuclear protein.
+TMZERO

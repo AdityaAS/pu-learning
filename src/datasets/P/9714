@@ -1,0 +1,23 @@
+AC   P09551; P77476;
+Lysine-arginine-ornithine-binding periplasmic protein precursor (LAO-
+binding protein).
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The hisT-purF region of the Escherichia coli K-12 chromosome.
+Identification of additional genes of the hisT and purF operons.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+-!- FUNCTION: This periplasmic binding protein is involved in an
+    arginine transport system. ArgT and histidine-binding protein J
+    (hisJ) interact with a common membrane-bound receptor, hisP.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- PTM: Phosphorylated by argK.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Amino-acid transport; Complete proteome; Direct protein sequencing;
+Periplasmic; Phosphorylation; Signal; Transport.
+TMZERO

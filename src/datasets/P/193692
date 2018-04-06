@@ -1,0 +1,55 @@
+AC   Q7Z2W7; Q6QNH9; Q8TAC3; Q8TDX8; Q9BVK1;
+Transient receptor potential cation channel subfamily M member 8
+(Transient receptor potential-p8) (Trp-p8) (Long transient receptor
+potential channel 6) (LTrpC6).
+"Trp-p8, a novel prostate-specific gene, is up-regulated in prostate
+cancer and other malignancies and shares high homology with transient
+receptor potential calcium channel proteins.";
+"Characterization of heterologous expressed human TRPM8 channel in
+HEK293 cells.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Molecular cloning of a novel member of LTRP channel family, LTRPC6.";
+"Identification of an HLA-A*0201-restricted T-cell epitope derived
+from the prostate cancer-associated protein trp-p8.";
+"The principle of temperature-dependent gating in cold- and heat-
+sensitive TRP channels.";
+-!- FUNCTION: Receptor-activated non-selective cation channel involved
+    in detection of sensations such as coolness, by being activated by
+    cold temperature below 25 degrees Celsius. Activated by icilin,
+    eucalyptol, menthol, cold and modulation of intracellular pH.
+    Involved in menthol sensation. Permeable for monovalent cations
+    sodium, potassium, and cesium and divalent cation calcium.
+    Temperature sensing is tightly linked to voltage-dependent gating.
+    Activated upon depolarization, changes in temperature resulting in
+    graded shifts of its voltage-dependent activation curves. The
+    chemical agonists menthol functions as a gating modifier, shifting
+    activation curves towards physiological membrane potentials.
+    Temperature sensitivity arises from a tenfold difference in the
+    activation energies associated with voltage-dependent opening and
+    closing.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q7Z2W7-1; Sequence=Displayed;
+    Name=2; Synonyms=Beta;
+      IsoId=Q7Z2W7-2; Sequence=VSP_012331, VSP_012332, VSP_012333;
+    Name=3; Synonyms=Alpha;
+      IsoId=Q7Z2W7-3; Sequence=VSP_012330, VSP_012332, VSP_012333;
+-!- TISSUE SPECIFICITY: Expressed in prostate. Also expressed in most
+    in prostate tumors. Also expressed in non-prostatic primary tumors
+    such as colon, lung, breast and skin tumors.
+-!- MISCELLANEOUS: The sensation of coolness triggered by eucalyptol
+    or menthol may be explained by the fact that menthol and cool
+    temperatures sensations are detected by this protein.
+-!- MISCELLANEOUS: Its expression in most prostate tumors as well as
+    the presence of an immunogenic epitope suggest that it may be
+    suitable for the design of peptide vaccination strategies for
+    prostate cancers.
+-!- SIMILARITY: Belongs to the transient receptor family. LTrpC
+    subfamily.
+Alternative splicing; Ion transport; Ionic channel; Membrane;
+Sensory transduction; Transmembrane; Transport.
+TMSIX

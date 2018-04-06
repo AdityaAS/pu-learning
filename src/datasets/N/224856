@@ -1,0 +1,8 @@
+AC   P28606;
+Hypothetical 34.1 kDa protein in glnA 3'region.
+"The glnA gene of the cyanobacterium Agmenellum quadruplicatum PR-6 is
+nonessential for ammonium assimilation.";
+-!- FUNCTION: Putative deacetylase (By similarity).
+-!- SIMILARITY: Belongs to the histone deacetylase family.
+Hydrolase; Hypothetical protein.
+TMZERO

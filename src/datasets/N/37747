@@ -1,0 +1,23 @@
+AC   Q83QE0; Q7C088;
+Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+(SIR-HP) (SIRHP).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: This enzyme catalyzes the 6-electron reduction of
+    sulfite to sulfide. This is one of several activities required for
+    the biosynthesis of L-cysteine from sulfate (By similarity).
+-!- CATALYTIC ACTIVITY: H(2)S + 3 NADP(+) + 3 H(2)O = sulfite + 3
+    NADPH.
+-!- COFACTOR: Binds 1 siroheme per subunit (By similarity).
+-!- COFACTOR: Binds 1 4Fe-4S cluster per subunit (By similarity).
+-!- SUBUNIT: Alpha(8)-beta(4). The alpha component is a flavoprotein,
+    the beta component is a hemoprotein (By similarity).
+-!- SIMILARITY: Belongs to the nitrite and sulfite reductase 4Fe-4S
+    domain family.
+ GO:0000103; P:sulfate assimilation; IEA:HAMAP.
+4Fe-4S; Amino-acid biosynthesis; Complete proteome;
+Cysteine biosynthesis; Heme; Iron; Iron-sulfur; Metal-binding; NADP;
+Oxidoreductase.
+TMZERO

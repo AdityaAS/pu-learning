@@ -1,0 +1,13 @@
+AC   P31778;
+Regulatory protein hrpB.
+"Evidence that the hrpB gene encodes a positive regulator of
+pathogenicity genes from Pseudomonas solanacearum.";
+"Genome sequence of the plant pathogen Ralstonia solanacearum.";
+-!- FUNCTION: Positive regulation of hypersensitive response genes
+    involved in plant pathogenicity and partly of its own synthesis in
+    minimal medium.
+-!- SIMILARITY: Contains 1 HTH araC/xylS-type DNA-binding domain.
+Activator; Complete proteome; DNA-binding;
+Hypersensitive response elicitation; Plasmid; Transcription;
+Transcription regulation.
+TMZERO

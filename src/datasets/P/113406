@@ -1,0 +1,20 @@
+AC   Q61983;
+Sodium-dependent phosphate transport protein 1 (Sodium/phosphate
+cotransporter 1) (Na(+)/PI cotransporter 1) (Solute carrier family 17
+member 1) (Renal sodium-dependent phosphate transport protein 1)
+(Renal sodium-phosphate transport protein 1) (Renal Na(+)-dependent
+phosphate cotransporter 1).
+"Cloning, genetic mapping, and expression analysis of a mouse renal
+sodium-dependent phosphate cotransporter.";
+"Interaction of the type IIa Na/Pi-cotransporter with PDZ proteins.";
+-!- FUNCTION: Important for the resorption of phosphate by the kidney.
+    May be involved in actively transporting phosphate into cells via
+    Na(+) cotransport in the renal brush border membrane.
+-!- SUBUNIT: Interacts with PDZK1.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Kidney.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Sodium/anion cotransporter family.
+Glycoprotein; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMTEN

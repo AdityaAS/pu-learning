@@ -1,0 +1,20 @@
+AC   P29926;
+NADH-quinone oxidoreductase chain 14 (EC 1.6.99.5) (NADH dehydrogenase
+I, chain 14) (NDH-1, chain 14).
+"DNA sequencing of the seven remaining structural genes of the gene
+cluster encoding the energy-transducing NADH-quinone oxidoreductase of
+Paracoccus denitrificans.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain. The
+    immediate electron acceptor for the enzyme in this species is
+    believed to be ubiquinone. Couples the redox reaction to proton
+    translocation (for every two electrons transferred, four hydrogen
+    ions are translocated across the cytoplasmic membrane), and thus
+    conserves the redox energy in a proton gradient.
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- SUBUNIT: Composed of 14 different subunits. Subunits NQO7-14
+    constitute the membrane sector of the complex.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the complex I subunit 2 family.
+Membrane; NAD; Oxidoreductase; Quinone; Transmembrane; Ubiquinone.
+TMFOURTEEN

@@ -1,0 +1,48 @@
+AC   O52623;
+Guanine nucleotide exchange factor sopE (Effector protein sopE) (Toxin
+sopE).
+"A substrate of the centisome 63 type III protein secretion system of
+Salmonella typhimurium is encoded by a cryptic bacteriophage.";
+"S. typhimurium encodes an activator of Rho GTPases that induces
+membrane ruffling and nuclear responses in host cells.";
+"Isolation of a temperate bacteriophage encoding the type III effector
+protein SopE from an epidemic Salmonella typhimurium strain.";
+"Type III secretion chaperone-dependent regulation: activation of
+virulence genes by SicA and InvF in Salmonella typhimurium.";
+"SopE and SopE2 from Salmonella typhimurium activate different sets of
+RhoGTPases of the host cell.";
+"Role of the Salmonella pathogenicity island 1 (SPI-1) protein InvB in
+type III secretion of SopE and SopE2, two Salmonella effector proteins
+encoded outside of SPI-1.";
+"InvB is a type III secretion-associated chaperone for the Salmonella
+enterica effector protein SopE.";
+"Amino acids of the bacterial toxin SopE involved in G nucleotide
+exchange on Cdc42.";
+"Frequency and polymorphism of sopE in isolates of Salmonella enterica
+belonging to the ten most prevalent serotypes in England and Wales.";
+"Structural basis for the reversible activation of a Rho protein by
+the bacterial toxin SopE.";
+-!- FUNCTION: Activator for both CDC42 and RAC1 by directly engaging
+    these Rho GTPases and acting as potent guanine nucleotide exchange
+    factor (GEF). This activation results in actin cytoskeleton
+    rearrangements and stimulates membrane ruffling, promoting
+    bacterial entry into non-phagocytic cells. Also activates MAPK8,
+    indicating that it is capable of stimulating signaling pathways
+    that can lead to nuclear responses. Chaperone invB is required for
+    secretion and translocation of sopE.
+-!- INTERACTION:
+    P60953:CDC42 (xeno); NbExp=2; IntAct=EBI-602254, EBI-81752;
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=Secreted via the type
+    III secretion system 1 (SPI-1 TTSS).
+-!- INDUCTION: Transcriptionally activated by invF in association with
+    sicA.
+-!- MISCELLANEOUS: Encoded within a prophage region, which is only
+    present in very few Salmonella isolates. SopE-expressing
+    S.typhimurium strains are associated with severe epidemics.
+-!- SIMILARITY: Belongs to the GEF (guanine exchange factor) sopE
+    family.
+-!- CAUTION: sopE is not present in the complete genome strain LT2.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Direct protein sequencing; GTPase activation;
+Guanine-nucleotide releasing factor; Virulence.
+TMZERO

@@ -1,0 +1,9 @@
+AC   P0A5A4; P71561;
+ATP-dependent DNA helicase pcrA (EC 3.6.1.-).
+"The complete genome sequence of Mycobacterium bovis.";
+-!- SIMILARITY: Belongs to the helicase family. UvrD subfamily.
+-!- SIMILARITY: Contains 1 uvrD-like helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 uvrD-like helicase C-terminal domain.
+ATP-binding; Complete proteome; DNA damage; DNA repair; DNA-binding;
+Helicase; Hydrolase; Nucleotide-binding.
+TMZERO

@@ -1,0 +1,19 @@
+AC   P48997;
+Involucrin.
+"The involucrin genes of the mouse and the rat: study of their shared
+repeats.";
+"Identification and characterization of a novel component of the
+cornified envelope, cornifelin.";
+-!- FUNCTION: Part of the insoluble cornified cell envelope (CE) of
+    stratified squamous epithelia.
+-!- SUBUNIT: Directly or indirectly cross-linked to cornifelin (CNFN).
+-!- SUBCELLULAR LOCATION: Cytoplasm. Note=Constituent of the
+    scaffolding of the cornified envelope.
+-!- TISSUE SPECIFICITY: Keratinocytes of epidermis and other
+    stratified squamous epithelia.
+-!- PTM: Substrate of transglutaminase. Specific glutamines or lysines
+    are cross-linked to keratins, desmoplakin and to inter involucrin
+    molecules.
+-!- SIMILARITY: Belongs to the involucrin family.
+Keratinization; Repeat.
+TMZERO

@@ -1,0 +1,17 @@
+AC   O74849; Q96TK9;
+High-affinity fructose transporter ght6 (Hexose transporter 6)
+(Meiotic expression up-regulated protein 12).
+"Multiple hexose transporters of Schizosaccharomyces pombe.";
+"The genome sequence of Schizosaccharomyces pombe.";
+"Comprehensive isolation of meiosis-specific genes identifies novel
+proteins and unusual non-coding transcripts in Schizosaccharomyces
+pombe.";
+-!- FUNCTION: High-affinity fructose transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+ GO:0000935; C:barrier septum; IDA:GeneDB_SPombe.
+ GO:0051286; C:cell tip; IDA:GeneDB_SPombe.
+Complete proteome; Glycoprotein; Meiosis; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

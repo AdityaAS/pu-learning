@@ -1,0 +1,20 @@
+AC   Q6FKS8;
+ATP-dependent rRNA helicase SPB4 (EC 3.6.1.-).
+"Genome evolution in yeasts.";
+-!- FUNCTION: ATP-binding RNA helicase involved in the biogenesis of
+    60S ribosomal subunits. Required for the normal formation of 18S
+    rRNA through the processing of pre-rRNAs at sites A0, A1 and A2,
+    and the normal formation of 25S and 5.8S rRNAs through the
+    processing of pre-rRNAs at sites C1 and C2 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus (By similarity).
+-!- DOMAIN: The Q motif is unique to and characteristic of the DEAD
+    box family of RNA helicases and controls ATP binding and
+    hydrolysis.
+-!- SIMILARITY: Belongs to the DEAD box helicase family. DDX55/SPB4
+    subfamily.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ATP-binding; Coiled coil; Complete proteome; Helicase; Hydrolase;
+Nuclear protein; Nucleotide-binding; Ribosome biogenesis; RNA-binding;
+rRNA processing.
+TMZERO

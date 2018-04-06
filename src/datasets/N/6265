@@ -1,0 +1,16 @@
+AC   P26366;
+N-acetylmuramoyl-L-alanine amidase amiB precursor (EC 3.5.1.28).
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Nucleotide sequence of the Salmonella typhimurium mutL gene required
+for mismatch repair: homology of MutL to HexB of Streptococcus
+pneumoniae and to PMS1 of the yeast Saccharomyces cerevisiae.";
+-!- FUNCTION: Cell-wall hydrolase probably involved in cell-wall
+    hydrolysis, septation or recycling.
+-!- CATALYTIC ACTIVITY: Hydrolyzes the link between N-acetylmuramoyl
+    residues and L-amino acid residues in certain cell-wall
+    glycopeptides.
+-!- SIMILARITY: Belongs to the N-acetylmuramoyl-L-alanine amidase 3
+    family.
+Cell wall; Complete proteome; Hydrolase; Signal.
+TMZERO

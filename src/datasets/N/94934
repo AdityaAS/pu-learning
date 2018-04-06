@@ -1,0 +1,14 @@
+AC   Q7NH24;
+UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase 2
+(EC 2.3.1.-).
+"Complete genome structure of Gloeobacter violaceus PCC 7421, a
+cyanobacterium that lacks thylakoids.";
+-!- CATALYTIC ACTIVITY: UDP-3-O-(3-hydroxytetradecanoyl)glucosamine +
+    (R)-3-hydroxytetradecanoyl-[acyl-carrier-protein] = UDP-2,3-bis(3-
+    hydroxytetradecanoyl)glucosamine + [acyl-carrier-protein].
+-!- PATHWAY: Lipid A biosynthesis; third step.
+-!- SIMILARITY: Belongs to the transferase hexapeptide repeat family.
+    LpxD subfamily.
+Acyltransferase; Complete proteome; Lipid A biosynthesis;
+Lipid synthesis; Repeat; Transferase.
+TMZERO

@@ -1,0 +1,17 @@
+AC   P22520;
+Colicin V secretion/processing ATP-binding protein cvaB (EC 3.4.22.-).
+"Genetic analysis of an MDR-like export system: the secretion of
+colicin V.";
+"Characterization of a hemoglobin protease secreted by the pathogenic
+Escherichia coli strain EB1.";
+-!- FUNCTION: Involved, in conjunction with cvaA, in the secretion of
+    colicin V.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. HlyB subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 1 peptidase C39 domain.
+ATP-binding; Bacteriocin transport; Hydrolase; Membrane;
+Nucleotide-binding; Plasmid; Protease; Protein transport;
+Thiol protease; Transmembrane; Transport.
+TMSEVEN

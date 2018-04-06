@@ -1,0 +1,22 @@
+AC   P53322;
+High-affinity nicotinic acid transporter (Nicotinic acid permease).
+"Analysis of an 11.6 kb region from the right arm of chromosome VII of
+Saccharomyces cerevisiae between the RAD2 and the MES1 genes reveals
+the presence of three new genes.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Transcriptional regulation of the Saccharomyces cerevisiae DAL5 gene
+family and identification of the high affinity nicotinic acid permease
+TNA1 (YGR260w).";
+"A proteomics approach to understanding protein ubiquitination.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in the uptake of nicotinic acid.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Allantoate permease family.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0015664; F:nicotinamide mononucleotide permease activity; IEP:SGD.
+ GO:0015890; P:nicotinamide mononucleotide transport; IEP:SGD.
+Complete proteome; Membrane; Transmembrane; Transport;
+Ubl conjugation.
+TMELEVEN

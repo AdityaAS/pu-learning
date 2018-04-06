@@ -1,0 +1,12 @@
+AC   Q9ZHD2;
+Probable outer membrane lipoprotein silC precursor.
+"Molecular basis for resistance to silver cations in Salmonella.";
+-!- FUNCTION: Component of the sil cation-efflux system that confers
+    resistance to silver. May be part of a three-component
+    cation/proton antiporter.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor
+    (Potential).
+-!- SIMILARITY: Belongs to the outer membrane factor (OMF) (TC 1.B.17)
+    family.
+Lipoprotein; Membrane; Outer membrane; Palmitate; Plasmid; Signal.
+TMZERO

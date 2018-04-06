@@ -1,0 +1,84 @@
+AC   P06844; Q70DE7; Q70DE9; Q70DF1; Q70DF2;
+Protein SPT3 (Positive regulator of Ty transcription).
+"Analysis of the yeast SPT3 gene and identification of its product, a
+positive regulator of Ty transcription.";
+"Differential evolution of the Saccharomyces cerevisiae DUP240
+paralogs and implication of recombination in phylogeny.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"A subset of TAF(II)s are integral components of the SAGA complex
+required for nucleosome acetylation and transcriptional stimulation.";
+"The Spt components of SAGA facilitate TBP binding to a promoter at a
+post-activator-binding step in vivo.";
+"Expanded lysine acetylation specificity of Gcn5 in native
+complexes.";
+"Inhibition of TATA-binding protein function by SAGA subunits Spt3 and
+Spt8 at Gcn4-activated promoters.";
+"The S. cerevisiae SAGA complex functions in vivo as a coactivator for
+transcriptional activation by Gal4.";
+"Differential requirement of SAGA components for recruitment of TATA-
+box-binding protein to promoters in vivo.";
+"The novel SLIK histone acetyltransferase complex functions in the
+yeast retrograde response pathway.";
+"SALSA, a variant of yeast SAGA, contains truncated Spt7, which
+correlates with activated transcription.";
+"Global analysis of protein expression in yeast.";
+"Chd1 chromodomain links histone H3 methylation with SAGA- and SLIK-
+dependent acetylation.";
+"Molecular architecture of the S. cerevisiae SAGA complex.";
+-!- FUNCTION: Functions as component of the transcription regulatory
+    histone acetylation (HAT) complexes SAGA, SALSA and SLIK. SAGA is
+    involved in RNA polymerase II-dependent transcriptional regulation
+    of approximately 10% of yeast genes. At the promoters, SAGA is
+    required for recruitment of the basal transcription machinery. It
+    influences RNA polymerase II transcriptional activity through
+    different activities such as TBP interaction (SPT3, SPT8 and
+    SPT20) and promoter selectivity, interaction with transcription
+    activators (GCN5, ADA2, ADA3 and TRA1), and chromatin modification
+    through histone acetylation (GCN5) and deubiquitination (UBP8).
+    SAGA acetylates nucleosomal histone H3 to some extent at 'Lys-9',
+    'Lys-14', 'Lys-18' and 'Lys-23'. SAGA interacts with DNA via
+    upstream activating sequences (UASs). SALSA, an altered form of
+    SAGA, may be involved in positive transcriptional regulation. SPT3
+    is required for recruitment of TATA-binding protein (TBP) to SAGA-
+    dependent promoters. During SAGA-mediated transcriptional
+    inhibition, SPT3 and SPT8 prevent binding of TBP to the TATA box.
+    SLIK is proposed to have partly overlapping functions with SAGA.
+    It preferentially acetylates methylated histone H3, at least after
+    activation at the GAL1-10 locus. SPT factors 3, 7 and 8 are
+    required for the initiation of Ty transcription from the delta
+    promoter. SPT3 regulates Ty1 as well as the mating factor genes.
+-!- SUBUNIT: Component of the 1.8 MDa SAGA complex, which consists of
+    at least of TRA1, CHD1, SPT7, TAF5, ADA3, SGF73, SPT20/ADA5, SPT8,
+    TAF12, TAF6, HFI1/ADA1, UBP8, GCN5, ADA2, SPT3, SGF29, TAF10,
+    TAF9, SGF11 and SUS1. TAF5, TAF6, TAF9, TAF19, TAF12 and ADA1 seem
+    to be present in 2 copies. SAGA is built of 5 distinct domains
+    with specialized functions. Domain I (containing TRA1) probably
+    represents the activator interaction surface. Domain II
+    (containing TAF5 and TAF6, and probably TAF9 and TAF10), domain
+    III (containing GCN5, TAF10, SPT7, TAF5 and ADA1, and probably
+    ADA2, ADA3 and TAF12), and domain IV (containing HFI1/ADA1 and
+    TAF6, and probably TAF9) are believed to play primarily an
+    architectural role. Domain III also harbors the HAT activity.
+    Domain V (containing SPT3 and SPT20, and probably SPT8) represents
+    the TBP-interacting module, which may be associated transiently
+    with SAGA. SPT3 interacts directly with TBP (TATA-binding
+    protein). Component of the SALSA complex, which consists of at
+    least TRA1, SPT7 (C-terminal truncated form), TAF5, ADA3, SPT20,
+    TAF12, TAF6, HFI1, GCN5, ADA2 and SPT3. Component of the SLIK
+    complex, which of at least TRA1, CHD1, SPT7, TAF5, ADA3, SPT20,
+    RTG2, TAF12, TAF6, HFI1, UBP8, GCN5, ADA2, SPT3, SGF29, TAF10 and
+    TAF9.
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- MISCELLANEOUS: Present with 1710 molecules/cell.
+ GO:0000124; C:SAGA complex; IDA:SGD.
+ GO:0046695; C:SLIK (SAGA-like) complex; IPI:SGD.
+ GO:0003712; F:transcription cofactor activity; IDA:SGD.
+ GO:0016568; P:chromatin modification; TAS:SGD.
+ GO:0000747; P:conjugation with cellular fusion; TAS:SGD.
+ GO:0016573; P:histone acetylation; TAS:SGD.
+ GO:0001403; P:invasive growth (sensu Saccharomyces); IDA:SGD.
+ GO:0007124; P:pseudohyphal growth; IDA:SGD.
+ GO:0030437; P:sporulation (sensu Fungi); TAS:SGD.
+Activator; Complete proteome; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

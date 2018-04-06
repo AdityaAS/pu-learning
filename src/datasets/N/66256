@@ -1,0 +1,13 @@
+AC   Q6BHK4;
+Glycosylphosphatidylinositol anchor biosynthesis protein 11.
+"Genome evolution in yeasts.";
+-!- FUNCTION: Acts in the GPI biosynthetic pathway between GlcNAc-PI
+    synthesis and GPI transfer to protein (By similarity).
+-!- PATHWAY: Glycolipid biosynthesis; glycosylphosphatidylinositol-
+    anchor biosynthesis.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the PIGF family.
+Complete proteome; Endoplasmic reticulum; Glycoprotein;
+GPI-anchor biosynthesis; Membrane; Transmembrane.
+TMSIX

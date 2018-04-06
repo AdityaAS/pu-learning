@@ -1,0 +1,16 @@
+AC   Q03961;
+Polysialic acid transport protein kpsD precursor.
+"Nucleotide sequence and mutational analysis of the gene encoding
+KpsD, a periplasmic protein involved in transport of polysialic acid
+in Escherichia coli K1.";
+-!- FUNCTION: Involved in the translocation of the polysialic acid
+    capsule across the outer membrane to the cell surface. May
+    function as the periplasmic binding element of the PSA transport
+    system, in which it transiently interacts with the membrane
+    component of the transporter, binds polysaccharide and transports
+    the polymer to a component in the outer membrane.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: To E.coli K5 kpsD.
+Bacterial capsule; Direct protein sequencing; Periplasmic; Signal;
+Transport.
+TMZERO

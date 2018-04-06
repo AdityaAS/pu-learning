@@ -1,0 +1,16 @@
+AC   Q9TKZ2;
+Chloroplast envelope membrane protein.
+"The complete chloroplast DNA sequence of the green alga Nephroselmis
+olivacea: insights into the architecture of ancestral chloroplast
+genomes.";
+-!- FUNCTION: May be involved in proton extrusion. Indirectly promotes
+    efficient inorganic carbon uptake into chloroplasts (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast inner
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the cemA family.
+ GO:0015078; F:hydrogen ion transporter activity; IEA:HAMAP.
+ GO:0015992; P:proton transport; IEA:HAMAP.
+Chloroplast; Hydrogen ion transport; Ion transport; Membrane; Plastid;
+Transmembrane; Transport.
+TMFOUR

@@ -1,0 +1,57 @@
+AC   P35523;
+Chloride channel protein, skeletal muscle (Chloride channel protein 1)
+(ClC-1).
+"Multimeric structure of ClC-1 chloride channel revealed by mutations
+in dominant myotonia congenita (Thomsen).";
+"The skeletal muscle chloride channel in dominant and recessive human
+myotonia.";
+"Molecular basis of Thomsen's disease (autosomal dominant myotonia
+congenita).";
+"Genomic organization of the human muscle chloride channel CIC-1 and
+analysis of novel mutations leading to Becker-type myotonia.";
+"Proof of a non-functional muscle chloride channel in recessive
+myotonia congenita (Becker) by detection of a 4 base pair deletion.";
+"Nonsense and missense mutations of the muscle chloride channel gene
+in patients with myotonia congenita.";
+"Spectrum of mutations in the major human skeletal muscle chloride
+channel gene (CLCN1) leading to myotonia.";
+"Myotonia levior is a chloride channel disorder.";
+"Novel muscle chloride channel mutations and their effects on
+heterozygous carriers.";
+"ClC-1 chloride channel mutations in myotonia congenita: variable
+penetrance of mutations shifting the voltage dependence.";
+"Identification of five new mutations and three novel polymorphisms in
+the muscle chloride channel gene (CLCN1) in 20 Italian patients with
+dominant and recessive myotonia congenita.";
+"Novel muscle chloride channel (CLCN1) mutations in myotonia congenita
+with various modes of inheritance including incomplete dominance and
+penetrance.";
+-!- FUNCTION: Voltage-gated chloride channel. Chloride channels have
+    several functions including the regulation of cell volume;
+    membrane potential stabilization, signal transduction and
+    transepithelial transport.
+-!- SUBUNIT: Homotetramer (Probable).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Predominantly expressed in skeletal muscles.
+-!- DISEASE: Defects in CLCN1 are the cause of autosomal dominant
+    myotonia congenita (MCD) [MIM:160800]; also known as Thomsen
+    disease. MCD is characterized by skeletal muscle stiffness
+    (delayed relaxation), due to membrane hyperexcitability. A variant
+    form of Thomsen disease is myotonia levior that is characterized
+    by milder symptoms, later onset and absence of muscle hypo- and
+    hypertrophy.
+-!- DISEASE: Defects in CLCN1 are the cause of autosomal recessive
+    myotonia congenita (MCR) [MIM:255700]; also known as Becker
+    disease.
+-!- SIMILARITY: Belongs to the chloride channel (TC 1.A.11) family.
+-!- SIMILARITY: Contains 2 CBS domains.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=CLCN1".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005247; F:voltage-gated chloride channel activity; TAS:ProtInc.
+ GO:0006936; P:muscle contraction; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+CBS domain; Chloride; Chloride channel; Disease mutation;
+Ion transport; Ionic channel; Membrane; Polymorphism; Repeat;
+Transmembrane; Transport; Voltage-gated channel.
+TMTHIRTEEN

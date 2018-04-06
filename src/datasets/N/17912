@@ -1,0 +1,16 @@
+AC   P84832;
+Bradykinin-like peptide AR-10.
+"Bradykinin-related peptides and tryptophyllins in the skin secretions
+of the most primitive extant frog, Ascaphus truei.";
+-!- FUNCTION: Induces relaxation of mouse trachea that has been
+    precontracted with methacholine.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin glands.
+-!- MASS SPECTROMETRY: MW=1039.6; METHOD=MALDI; RANGE=1-10;
+    NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the bradykinin family.
+ GO:0005576; C:extracellular region; IDA:UniProtKB.
+ GO:0006952; P:defense response; IDA:UniProtKB.
+ GO:0050880; P:regulation of blood vessel size; IDA:UniProtKB.
+Amphibian defense peptide; Direct protein sequencing; Vasoactive.
+TMZERO

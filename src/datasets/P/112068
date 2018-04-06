@@ -1,0 +1,20 @@
+AC   P0AC26; P11097; P78112; Q2M733;
+Probable nitrite transporter.
+"Cloning of binding sequences for the Escherichia coli transcription
+activators, FNR and CRP: location of bases involved in discrimination
+between FNR and CRP.";
+"Nucleotide sequence, organisation and structural analysis of the
+products of genes in the nirB-cysG region of the Escherichia coli K-12
+chromosome.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: May act as a nitrite transporter.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the FNT transporter (TC 2.A.44) family.
+Complete proteome; Inner membrane; Membrane; Nitrate assimilation;
+Transmembrane; Transport.
+TMSIX

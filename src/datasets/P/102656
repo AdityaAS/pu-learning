@@ -1,0 +1,21 @@
+AC   O70324; Q8K3S9;
+Monocarboxylate transporter 8 (MCT 8) (Solute carrier family 16 member
+2) (X-linked PEST-containing transporter).
+"Cloning and localization of the murine Xpct gene: evidence for
+complex rearrangements during the evolution of the region around the
+Xist gene.";
+"Comparative sequence analysis of the X-inactivation center region in
+mouse, human and bovine.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Very active and specific thyroid hormone transporter.
+    Stimulates cellular uptake of thyroxine (T4), triiodothyronine
+    (T3), reverse triiodothyronine (rT3) and diidothyronine. Does not
+    transport Leu, Phe, Trp or Tyr (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- TISSUE SPECIFICITY: Highly expressed in liver and kidney.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Monocarboxylate porter (TC 2.A.1.13) family.
+Membrane; Repeat; Symport; Transmembrane; Transport.
+TMTWELVE

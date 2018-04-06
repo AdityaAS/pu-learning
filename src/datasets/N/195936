@@ -1,0 +1,18 @@
+AC   P06854;
+Thymidylate synthase (EC 2.1.1.45) (TS) (TSase).
+"The A+T-rich genome of Herpesvirus saimiri contains a highly
+conserved gene for thymidylate synthase.";
+"Organization of the thymidylate synthase gene of herpesvirus
+saimiri.";
+"Primary structure of the herpesvirus saimiri genome.";
+"Analysis of nucleotide sequence of the rightmost 43 kbp of
+herpesvirus saimiri (HVS) L-DNA: general conservation of genetic
+organization between HVS and Epstein-Barr virus.";
+-!- CATALYTIC ACTIVITY: 5,10-methylenetetrahydrofolate + dUMP =
+    dihydrofolate + dTMP.
+-!- PATHWAY: Nucleotide biosynthesis; deoxyribonucleotide
+    biosynthesis.
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the thymidylate synthase family.
+Methyltransferase; Nucleotide biosynthesis; Transferase.
+TMZERO

@@ -1,0 +1,19 @@
+AC   Q7SIF3;
+Arsenite oxidase small subunit (EC 1.20.98.1) (AOII).
+"Crystal structure of the 100 kDa arsenite oxidase from Alcaligenes
+faecalis in two crystal forms at 1.64 A and 2.03 A.";
+"The purification and characterization of arsenite oxidase from
+Alcaligenes faecalis, a molybdenum-containing hydroxylase.";
+-!- FUNCTION: Involved in the detoxification of arsenic. Oxidizes
+    As(III)O3(3-) (arsenite) to the somewhat less toxic As(V)O4(3-)
+    (arsenate).
+-!- CATALYTIC ACTIVITY: Arsenite + H(2)O + azurin(ox) = arsenate +
+    azurin(red).
+-!- COFACTOR: Binds 1 2Fe-2S cluster per subunit.
+-!- SUBUNIT: Heterodimer consisting of a large and a small subunit.
+-!- SIMILARITY: Belongs to the AOX family.
+-!- SIMILARITY: Contains 1 Rieske domain.
+ GO:0050611; F:arsenate reductase (azurin) activity; IEA:EC.
+2Fe-2S; 3D-structure; Direct protein sequencing; Iron; Iron-sulfur;
+Metal-binding; Oxidoreductase.
+TMZERO

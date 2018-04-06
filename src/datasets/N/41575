@@ -1,0 +1,15 @@
+AC   O77769; Q3MHX2;
+Short-chain dehydrogenase/reductase 3 (EC 1.1.-.-) (Retinal short-
+chain dehydrogenase/reductase 1) (retSDR1).
+"Molecular characterization of a novel short-chain
+dehydrogenase/reductase that reduces all-trans-retinal.";
+-!- FUNCTION: Catalyzes the reduction of all-trans-retinal to all-
+    trans-retinol in the presence of NADPH (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: In the retina, expressed in cone but not rod
+    outer segments.
+-!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+    (SDR) family.
+Membrane; NADP; Oxidoreductase; Transmembrane.
+TMFOUR

@@ -1,0 +1,8 @@
+AC   O24970;
+UPF0082 protein HP0162.
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+-!- SIMILARITY: Belongs to the UPF0082 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+3D-structure; Complete proteome.
+TMZERO

@@ -1,0 +1,24 @@
+AC   Q8ZBZ2;
+Na(+)-translocating NADH-quinone reductase subunit C (EC 1.6.5.-)
+(Na(+)-translocating NQR subunit C) (Na(+)-NQR subunit C) (NQR complex
+subunit C) (NQR-1 subunit C).
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: NQR complex catalyzes the reduction of ubiquinone-1 to
+    ubiquinol by two successive reactions, coupled with the transport
+    of Na(+) ions from the cytoplasm to the periplasm. NqrA to nqrE
+    are probably involved in the second step, the conversion of
+    ubisemiquinone to ubiquinol (By similarity).
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone + Na(+)(In) = NAD(+) +
+    ubiquinol + Na(+)(Out).
+-!- COFACTOR: FMN (By similarity).
+-!- SUBUNIT: Composed of six subunits; nqrA, nqrB, nqrC, nqrD, nqrE
+    and nqrF (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane (Potential).
+-!- SIMILARITY: Belongs to the nqrC family.
+Complete proteome; Flavoprotein; FMN; Inner membrane; Ion transport;
+Membrane; NAD; Oxidoreductase; Sodium; Sodium transport;
+Transmembrane; Transport; Ubiquinone.
+TMONE

@@ -1,0 +1,13 @@
+AC   P0AC27; P11097; P78112;
+Probable nitrite transporter.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: May act as a nitrite transporter (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the FNT transporter (TC 2.A.44) family.
+Complete proteome; Inner membrane; Membrane; Nitrate assimilation;
+Transmembrane; Transport.
+TMSIX

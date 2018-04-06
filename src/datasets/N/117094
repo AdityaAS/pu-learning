@@ -1,0 +1,20 @@
+AC   P15818; Q9YGI9;
+Long neurotoxin homolog precursor (BM10-1).
+"A cDNA sequence encoding a neurotoxin-homolog from Bungarus
+multicinctus.";
+"cDNA cloning and sequence analysis of six neurotoxin-like proteins
+from Chinese continental banded krait.";
+"Novel neurotoxins from Taiwan banded krait venom: purification,
+characterization and gene organization.";
+"Novel neurotoxins from Taiwan banded krait (Bungarus multicinctus)
+venom: purification, characterization and gene organization.";
+-!- FUNCTION: Inhibits carbachol-induced muscle contraction in a
+    reversible manner.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- MASS SPECTROMETRY: MW=7357; METHOD=Electrospray; RANGE=22-86;
+    NOTE=Ref.2.
+-!- SIMILARITY: Belongs to the snake toxin family. Orphan group IV
+    subfamily.
+Direct protein sequencing; Neurotoxin; Signal; Toxin.
+TMZERO

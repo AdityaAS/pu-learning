@@ -1,0 +1,24 @@
+AC   Q8FE75;
+Isopentenyl-diphosphate Delta-isomerase (EC 5.3.3.2) (IPP isomerase)
+(Isopentenyl pyrophosphate isomerase) (IPP:DMAPP isomerase).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Catalyzes the 1,3-allylic rearrangement of the
+    homoallylic substrate isopentenyl (IPP) to its highly
+    electrophilic allylic isomer, dimethylallyl diphosphate (DMAPP)
+    (By similarity).
+-!- CATALYTIC ACTIVITY: Isopentenyl diphosphate = dimethylallyl
+    diphosphate.
+-!- COFACTOR: Binds 1 magnesium ion per subunit. The magnesium ion
+    binds only when substrate is bound (By similarity).
+-!- COFACTOR: Binds 1 manganese ion per subunit (By similarity).
+-!- PATHWAY: Isoprenoid biosynthesis; dimethylallyl-PP biosynthesis;
+    dimethylallyl-PP from isopentenyl-PP: single step [final step].
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the IPP isomerase type 1 family.
+ GO:0015995; P:chlorophyll biosynthesis; IEA:HAMAP.
+ GO:0015979; P:photosynthesis; IEA:HAMAP.
+Complete proteome; Isomerase; Isoprene biosynthesis; Magnesium;
+Manganese; Metal-binding.
+TMZERO

@@ -1,0 +1,16 @@
+AC   Q603G2;
+Methionyl-tRNA formyltransferase (EC 2.1.2.9).
+"Genomic insights into methanotrophy: the complete genome sequence of
+Methylococcus capsulatus (Bath).";
+-!- FUNCTION: Modifies the free amino group of the aminoacyl moiety of
+    methionyl-tRNA(fMet). The formyl group appears to play a dual role
+    in the initiator identity of N-formylmethionyl-tRNA by: (I)
+    promoting its recognition by IF2 and (II) impairing its binding to
+    EFTu-GTP (By similarity).
+-!- CATALYTIC ACTIVITY: 10-formyltetrahydrofolate + L-methionyl-
+    tRNA(fMet) + H(2)O = tetrahydrofolate + N-formylmethionyl-
+    tRNA(fMet).
+-!- SIMILARITY: Belongs to the fmt family.
+Complete proteome; Methyltransferase; Protein biosynthesis;
+Transferase.
+TMZERO

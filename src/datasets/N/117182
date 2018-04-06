@@ -1,0 +1,14 @@
+AC   O57327;
+Alpha-neurotoxin NTX-4 precursor.
+"Postsynaptic alpha-neurotoxin gene of the spitting cobra, Naja naja
+sputatrix: structure, organization, and phylogenetic analysis.";
+-!- FUNCTION: Produces peripheral paralysis by blocking neuromuscular
+    transmission at the postsynaptic site. Binds to the muscular
+    nicotinic acetylcholine receptor (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the snake toxin family. Type I alpha-
+    neurotoxin subfamily.
+Acetylcholine receptor inhibitor; Neurotoxin; Postsynaptic neurotoxin;
+Signal; Toxin.
+TMZERO

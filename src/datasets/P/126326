@@ -1,0 +1,30 @@
+AC   P02932;
+Outer membrane pore protein E precursor.
+"Complete nucleotide sequence of phoE, the structural gene for the
+phosphate limitation inducible outer membrane pore protein of
+Escherichia coli K12.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+4.0 - 6.0 min (189,987 - 281,416bp) region.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Analysis of the Escherichia coli proBA locus by DNA and protein
+sequencing.";
+"Carboxy-terminal phenylalanine is essential for the correct assembly
+of a bacterial outer membrane protein.";
+"Structural architecture of an outer membrane channel as determined by
+electron crystallography.";
+"Crystal structures explain functional properties of two E. coli
+porins.";
+"Topology of PhoE porin: the 'eyelet' region.";
+-!- FUNCTION: Uptake of inorganic phosphate, phosphorylated compounds,
+    and some other negatively charged solutes.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By phosphate starvation.
+-!- SIMILARITY: Belongs to the Gram-negative porin family.
+3D-structure; Complete proteome; Ion transport; Membrane;
+Outer membrane; Porin; Signal; Transmembrane; Transport.
+TMZERO

@@ -1,0 +1,11 @@
+AC   P25271;
+Pheromonotropin (Pss-PT).
+"Isolation and primary structure of a novel pheromonotropic
+neuropeptide structurally related to leucopyrokinin from the armyworm
+larvae, Pseudaletia separata.";
+-!- FUNCTION: Hormone that controls sex pheromone production in
+    larvae.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the pyrokinin family.
+Amidation; Direct protein sequencing; Hormone; Neuropeptide.
+TMZERO

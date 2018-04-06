@@ -1,0 +1,17 @@
+AC   P57814;
+Phosphoheptose isomerase (EC 5.3.1.-) (Sedoheptulose 7-phosphate
+isomerase).
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- FUNCTION: Catalyzes the isomerization of sedoheptulose 7-phosphate
+    in D-glycero-D-mannoheptose 7-phosphate (By similarity).
+-!- CATALYTIC ACTIVITY: D-sedoheptulose 7-phosphate = D-glycero-alpha-
+    D-manno-heptose 7-phosphate + D-glycero-beta-D-manno-heptose 7-
+    phosphate.
+-!- PATHWAY: Inner core lipopolysaccharide biosynthesis; ADP-L-
+    glycero-beta-D-manno-heptose biosynthesis; first step.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the SIS family. GmhA subfamily.
+Carbohydrate metabolism; Complete proteome; Isomerase;
+Lipopolysaccharide biosynthesis.
+TMZERO

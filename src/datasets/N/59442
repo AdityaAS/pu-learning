@@ -1,0 +1,12 @@
+AC   P33710;
+Galanin precursor [Contains: Galanin; Galanin message-associated
+peptide (GMAP)] (Fragment).
+"Canine galanin: sequence, expression and pancreatic effects.";
+-!- FUNCTION: Contracts smooth muscle of the gastrointestinal and
+    genitourinary tract, regulates growth hormone release, modulates
+    insulin release, and may be involved in the control of adrenal
+    secretion.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the galanin family.
+Amidation; Cleavage on pair of basic residues; Hormone; Neuropeptide.
+TMZERO

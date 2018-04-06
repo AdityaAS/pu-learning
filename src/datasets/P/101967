@@ -1,0 +1,32 @@
+AC   P0A769; P77145;
+Manganese transport protein mntH.
+"The NRAMP proteins of Salmonella typhimurium and Escherichia coli are
+selective manganese transporters involved in the response to reactive
+oxygen.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of the Escherichia coli K-12 Nramp orthologue (MntH)
+as a selective divalent metal ion transporter.";
+"Determination of transmembrane topology of the Escherichia coli
+natural resistance-associated macrophage protein (Nramp) ortholog.";
+"Importance of conserved acidic residues in mntH, the Nramp homolog of
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: H(+)-stimulated, highly selective, manganese uptake
+    system. Can also transport cadmium, cobalt, iron, zinc and to a
+    lesser extent nickel and copper. Involved in response to reactive
+    oxygen.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the NRAMP family.
+ GO:0030145; F:manganese ion binding; IEA:HAMAP.
+ GO:0015293; F:symporter activity; IEA:HAMAP.
+ GO:0006828; P:manganese ion transport; IEA:HAMAP.
+Complete proteome; Inner membrane; Manganese; Membrane; Symport;
+Transmembrane; Transport.
+TMELEVEN

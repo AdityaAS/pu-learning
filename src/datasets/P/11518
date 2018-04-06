@@ -1,0 +1,19 @@
+AC   P0AAF6; P30858; P77355;
+Arginine transport ATP-binding protein artP.
+"Physical map location of the new artPIQMJ genes of Escherichia coli,
+encoding a periplasmic arginine transport system.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for arginine. Probably responsible for energy coupling to the
+    transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Amino-acid transport; ATP-binding; Complete proteome; Inner membrane;
+Membrane; Nucleotide-binding; Transport.
+TMZERO

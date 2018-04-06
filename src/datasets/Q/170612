@@ -1,0 +1,14 @@
+AC   Q99161; Q6CE92;
+Translocation protein SEC62.
+"Cloning the Yarrowia lipolytica homologue of the Saccharomyces
+cerevisiae SEC62 gene.";
+"Genome evolution in yeasts.";
+-!- FUNCTION: Required for preprotein translocation (By similarity).
+-!- SUBUNIT: Part of a complex that contains SEC61, SEC62, SEC63,
+    SEC66 and SEC72 (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the SEC62 family.
+Complete proteome; Endoplasmic reticulum; Membrane; Protein transport;
+Translocation; Transmembrane; Transport.
+TMTWO

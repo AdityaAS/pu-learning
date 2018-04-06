@@ -1,0 +1,35 @@
+AC   P62598;
+Two-component response regulator ARR12.
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"A new set of Arabidopsis expressed sequence tags from developing
+seeds. The metabolic pathway from carbohydrates to seed oil.";
+"Type-B response regulators display overlapping expression patterns in
+Arabidopsis.";
+-!- FUNCTION: Transcriptional activator that binds specifically to the
+    DNA sequence 5'-[AG]GATT-3'. Functions as a response regulator
+    involved in His-to-Asp phosphorelay signal transduction system.
+    Phosphorylation of the Asp residue in the receiver domain
+    activates the ability of the protein to promote the transcription
+    of target genes. Could directly activate some type-A response
+    regulators in response to cytokinins (By similarity).
+-!- SUBUNIT: Binds the target DNA as a monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Detected in the whole plant. Predominantly
+    expressed in leaves.
+-!- PTM: Two-component system major event consists of a His-to-Asp
+    phosphorelay between a sensor histidine kinase (HK) and a response
+    regulator (RR). In plants, the His-to-Asp phosphorelay involves an
+    additionnal intermediate named Histidine-containing
+    phosphotransfer protein (HPt). This multistep phosphorelay
+    consists of a His-Asp-His-Asp sequential transfer of a phosphate
+    group between first an His and an Asp of the HK protein, followed
+    by the transfer to a conserved His of the HPt protein and finally
+    the transfer to an Asp in the receiver domain of the RR protein.
+-!- SIMILARITY: Belongs to the ARR family. Type-B subfamily.
+-!- SIMILARITY: Contains 1 Myb-like GARP DNA-binding domain.
+-!- SIMILARITY: Contains 1 response regulatory domain.
+Activator; Cytokinin signaling pathway; DNA-binding; Nuclear protein;
+Phosphorylation; Transcription; Transcription regulation;
+Two-component regulatory system.
+TMZERO

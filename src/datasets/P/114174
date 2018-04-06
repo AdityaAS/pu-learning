@@ -1,0 +1,16 @@
+AC   P38045; Q31NV2;
+Nitrate transport ATP-binding protein nrtC.
+"Identification and characterization of a gene cluster involved in
+nitrate transport in the cyanobacterium Synechococcus sp. PCC7942.";
+"Complete sequence of chromosome 1 of Synechococcus elongatus PCC
+7942.";
+-!- FUNCTION: Probably part of a high-affinity binding-protein-
+    dependent transport system for nitrate. Probably responsible for
+    energy coupling to the transport system.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Membrane; Nitrate assimilation;
+Nucleotide-binding; Transport.
+TMZERO

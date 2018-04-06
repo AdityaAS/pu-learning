@@ -1,0 +1,15 @@
+AC   Q9DBV3;
+Probable ATP-dependent RNA helicase DHX34 (EC 3.6.1.-) (DEAH box
+protein 34).
+"Prediction of the coding sequences of mouse homologues of KIAA gene:
+III. The complete nucleotide sequences of 500 mouse KIAA-homologous
+cDNAs identified by screening of terminal sequences of cDNA clones
+randomly sampled from size-fractionated libraries.";
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: Probable ATP-binding RNA helicase.
+-!- SIMILARITY: Belongs to the DEAD box helicase family. DEAH
+    subfamily.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ATP-binding; Helicase; Hydrolase; Nucleotide-binding; RNA-binding.
+TMZERO

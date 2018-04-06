@@ -1,0 +1,21 @@
+AC   Q9ZAA6;
+Glutaconyl-CoA decarboxylase subunit beta (EC 4.1.1.70)
+(Carboxylyase).
+"The sodium ion translocating glutaconyl-CoA decarboxylase from
+Acidaminococcus fermentans: cloning and function of the genes forming
+a second operon.";
+-!- FUNCTION: Tunnel subunit of the primary sodium pump glutaconyl-CoA
+    decarboxylase (GCD).
+-!- CATALYTIC ACTIVITY: 4-carboxybut-2-enoyl-CoA = but-2-enoyl-CoA +
+    CO(2).
+-!- PATHWAY: Anaerobic glutamate metabolism; fifth step.
+-!- SUBUNIT: Heterooctamer consisting of two alpha, two beta, two
+    gamma and two delta subunits.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the gcdB/mmdB/oadB family.
+ GO:0018801; F:glutaconyl-CoA decarboxylase activity; IEA:EC.
+Decarboxylase; Direct protein sequencing; Ion transport; Lyase;
+Membrane; Sodium; Sodium transport; Transmembrane; Transport.
+TMELEVEN

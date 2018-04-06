@@ -1,0 +1,15 @@
+AC   Q99405; Q5WK05;
+M-protease precursor (EC 3.4.21.-).
+"The complete genome sequence of the alkaliphilic Bacillus clausii
+KSM-K16.";
+"Purification and properties of an alkaline protease from alkalophilic
+Bacillus sp. KSM-K16.";
+"Structure of a new alkaline serine protease (M-protease) from
+Bacillus sp. KSM-K16.";
+-!- COFACTOR: Binds 2 calcium ions per subunit.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the peptidase S8 family.
+3D-structure; Calcium; Complete proteome; Direct protein sequencing;
+Hydrolase; Metal-binding; Protease; Serine protease; Signal.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P32901;
+Peptide transporter PTR2 (Peptide permease PTR2).
+"Isolation and characterization of a Saccharomyces cerevisiae peptide
+transport gene.";
+"The complete sequence of a 15,820 bp segment of Saccharomyces
+cerevisiae chromosome XI contains the UBI2 and MPL1 genes and three
+new open reading frames.";
+"Complete DNA sequence of yeast chromosome XI.";
+"Phosphoproteome analysis by mass spectrometry and its application to
+Saccharomyces cerevisiae.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Uptake of small peptides.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the PTR2/POT transporter (TC 2.A.17)
+    family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0015197; F:peptide transporter activity; IMP:SGD.
+ GO:0015833; P:peptide transport; IMP:SGD.
+Complete proteome; Membrane; Peptide transport; Phosphorylation;
+Protein transport; Transmembrane; Transport.
+TMELEVEN

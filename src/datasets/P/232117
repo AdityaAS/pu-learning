@@ -1,0 +1,22 @@
+AC   Q62720;
+Zinc transporter 1 (ZnT-1) (Solute carrier family 30 member 1).
+"Cloning and functional characterization of a mammalian zinc
+transporter that confers resistance to zinc.";
+"Regulation of the zinc transporter ZnT-1 by dietary zinc.";
+-!- FUNCTION: May be involved in zinc transport out of the cell.
+-!- SUBUNIT: Multimer (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable). Note=Localized on the basolateral surface of the
+    enterocytes.
+-!- TISSUE SPECIFICITY: Widely expressed. The protein is detected in
+    duodenum and jejunum but not in ileum and colon.
+-!- INDUCTION: Slightly by zinc in the intestine, but not the liver.
+-!- SIMILARITY: Belongs to the cation diffusion facilitator (CDF)
+    transporter (TC 2.A.4) family. SLC30A subfamily.
+ GO:0016021; C:integral to membrane; IDA:RGD.
+ GO:0005886; C:plasma membrane; IDA:MGI.
+ GO:0005385; F:zinc ion transporter activity; IDA:MGI.
+ GO:0006829; P:zinc ion transport; IDA:MGI.
+Glycoprotein; Ion transport; Membrane; Repeat; Transmembrane;
+Transport; Zinc; Zinc transport.
+TMSIX

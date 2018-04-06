@@ -1,0 +1,20 @@
+AC   P71753; Q7D781;
+Sulfite reductase [ferredoxin] (EC 1.8.7.1).
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+"Siroheme- and [Fe4-S4]-dependent NirA from Mycobacterium tuberculosis
+is a sulfite reductase with a covalent Cys-Tyr bond in the active
+site.";
+-!- CATALYTIC ACTIVITY: H(2)S + 3 oxidized ferredoxin + 3 H(2)O =
+    sulfite + 3 reduced ferredoxin.
+-!- COFACTOR: Binds 1 siroheme per subunit.
+-!- COFACTOR: Binds 1 4Fe-4S cluster per subunit.
+-!- SUBUNIT: Monomer.
+-!- SIMILARITY: Belongs to the nitrite and sulfite reductase 4Fe-4S
+    domain family.
+ GO:0050311; F:sulfite reductase (ferredoxin) activity; IEA:EC.
+3D-structure; 4Fe-4S; Complete proteome; Heme; Iron; Iron-sulfur;
+Metal-binding; Oxidoreductase; Thioether bond.
+TMZERO

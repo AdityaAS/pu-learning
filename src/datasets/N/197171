@@ -1,0 +1,21 @@
+AC   Q8SPH5;
+Ubiquinol-cytochrome c reductase complex 11 kDa protein, mitochondrial
+precursor (EC 1.10.2.2) (Mitochondrial hinge protein) (Cytochrome c1
+nonheme 11 kDa protein) (Complex III subunit VIII).
+"Search for genes positively selected during primate evolution by 5'-
+end-sequence screening of cynomolgus monkey cDNAs.";
+-!- FUNCTION: This is a component of the ubiquinol-cytochrome c
+    reductase complex (complex III or cytochrome b-c1 complex), which
+    is part of the mitochondrial respiratory chain. This protein may
+    mediate formation of the complex between cytochromes c and c1.
+-!- CATALYTIC ACTIVITY: QH(2) + 2 ferricytochrome c = Q + 2
+    ferrocytochrome c.
+-!- SUBUNIT: The bc1 complex contains 11 subunits; 3 respiratory
+    subunits (cytochrome b, cytochrome c1, Rieske protein), 2 core
+    proteins and 6 low-molecular weight proteins.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- SIMILARITY: Belongs to the UQCRH/QCR6 family.
+Acetylation; Electron transport; Inner membrane; Membrane;
+Mitochondrion; Oxidoreductase; Respiratory chain; Transit peptide;
+Transport.
+TMZERO

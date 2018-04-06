@@ -1,0 +1,10 @@
+AC   O27830;
+Putative ATP-dependent helicase MTH_1802 (EC 3.6.1.-).
+"Complete genome sequence of Methanobacterium thermoautotrophicum
+deltaH: functional analysis and comparative genomics.";
+-!- SIMILARITY: Belongs to the helicase family.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ATP-binding; Complete proteome; Helicase; Hydrolase;
+Hypothetical protein; Nucleotide-binding.
+TMZERO

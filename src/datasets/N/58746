@@ -1,0 +1,14 @@
+AC   O84188;
+Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49) (G6PD).
+"Genome sequence of an obligate intracellular pathogen of humans:
+Chlamydia trachomatis.";
+-!- CATALYTIC ACTIVITY: D-glucose 6-phosphate + NADP(+) = D-glucono-
+    1,5-lactone 6-phosphate + NADPH.
+-!- PATHWAY: Carbohydrate degradation; pentose phosphate pathway; D-
+    ribulose 5-phosphate from D-glucose 6-phosphate (oxidative stage):
+    step 1.
+-!- SIMILARITY: Belongs to the glucose-6-phosphate dehydrogenase
+    family.
+Carbohydrate metabolism; Complete proteome; Glucose metabolism; NADP;
+Oxidoreductase.
+TMZERO

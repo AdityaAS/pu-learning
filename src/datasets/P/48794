@@ -1,0 +1,20 @@
+AC   P0AEJ0; P27304; P77725;
+Multidrug resistance protein B.
+"Emr, an Escherichia coli locus for multidrug resistance.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Translocase that confers resistance to substances of
+    high hydrophobicity.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. EmrB
+    family.
+Antibiotic resistance; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMFOURTEEN

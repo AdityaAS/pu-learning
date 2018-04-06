@@ -1,0 +1,11 @@
+AC   P38767;
+Uncharacterized transporter YHR032W.
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the multi antimicrobial extrusion (MATE)
+    (TC 2.A.66.1) family.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMFIVE

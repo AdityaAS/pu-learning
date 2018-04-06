@@ -1,0 +1,15 @@
+AC   Q60441; Q9R265;
+Mannose-P-dolichol utilization defect 1 protein (Suppressor of Lec15
+and Lec35 glycosylation mutation) (SL15).
+"Expression cloning of a novel suppressor of the Lec15 and Lec35
+glycosylation mutations of Chinese hamster ovary cells.";
+"Mutation in B4-2-1 CHO cells defective in MPD synthase activity.";
+-!- FUNCTION: Not known. May be involved in the synthesis of the sugar
+    donor Dol-P-Man which is required in the synthesis of N-linked and
+    O-linked oligosaccharides and for that of GPI anchors.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the MPDU1 family.
+-!- SIMILARITY: Contains 2 PQ-loop domains.
+Membrane; Repeat; Transmembrane.
+TMFIVE

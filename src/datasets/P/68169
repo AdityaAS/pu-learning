@@ -1,0 +1,14 @@
+AC   P15750;
+General secretion pathway protein K (Pullulanase secretion protein
+pulK).
+"Five additional genes in the pulC-O operon of the Gram-negative
+bacterium Klebsiella oxytoca UNF5023 which are required for
+pullulanase secretion.";
+"Five genes at the 3' end of the Klebsiella pneumoniae pulC operon are
+required for pullulanase secretion.";
+-!- FUNCTION: Involved in a general secretion pathway (GSP) for the
+    export of proteins. Required for the translocation of pullulanase.
+-!- SUBCELLULAR LOCATION: Cell inner membrane (Potential).
+-!- SIMILARITY: Belongs to the GSP K family.
+Inner membrane; Membrane; Transmembrane; Transport.
+TMONE

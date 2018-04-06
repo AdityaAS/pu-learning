@@ -1,0 +1,13 @@
+AC   Q5HIS9;
+30S ribosomal protein S6.
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Binds together with S18 to 16S ribosomal RNA (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S6P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

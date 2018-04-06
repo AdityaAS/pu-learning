@@ -1,0 +1,17 @@
+AC   O62768;
+Thioredoxin reductase 1, cytoplasmic (EC 1.8.1.9) (TR) (TR1).
+-!- CATALYTIC ACTIVITY: Thioredoxin + NADP(+) = thioredoxin disulfide
+    + NADPH.
+-!- COFACTOR: Binds 1 FAD per subunit (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- PTM: Contains a selenide-sulfide bond between Cys-497 and Sec-498.
+    This bond is speculated to serve as redox active pair (By
+    similarity).
+-!- MISCELLANEOUS: The active site is a redox-active disulfide bond.
+-!- SIMILARITY: Belongs to the class-I pyridine nucleotide-disulfide
+    oxidoreductase family.
+ GO:0004791; F:thioredoxin-disulfide reductase activity; IEA:EC.
+FAD; Flavoprotein; NADP; Oxidoreductase; Phosphorylation;
+Redox-active center; Selenium; Selenocysteine.
+TMZERO

@@ -1,0 +1,23 @@
+AC   P0AEG1; P37315; Q2M7K4;
+Dipeptide transport system permease protein dppC.
+"The dipeptide permease of Escherichia coli closely resembles other
+bacterial transport systems and shows growth-phase-dependent
+expression.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for dipeptides; probably responsible for the translocation of the
+    substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. OppBC subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Complete proteome; Inner membrane; Membrane; Peptide transport;
+Protein transport; Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,14 @@
+AC   P19053;
+Photosystem II reaction center protein J (PSII-J).
+"Nucleotide sequence of the rye chloroplast DNA fragment, comprising
+psbE and psbF genes.";
+"Photosystem II of rye. Nucleotide sequence of genes psbE, psbF, psbL
+and OPC40 of chloroplast DNA.";
+-!- FUNCTION: This protein is a component of the reaction center of
+    photosystem II. Its exact function is not yet known.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; single-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the psbJ family.
+Chloroplast; Membrane; Photosynthesis; Photosystem II; Plastid;
+Reaction center; Thylakoid; Transmembrane.
+TMONE

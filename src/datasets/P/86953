@@ -1,0 +1,69 @@
+AC   O43525;
+Potassium voltage-gated channel subfamily KQT member 3 (Voltage-gated
+potassium channel subunit Kv7.3) (Potassium channel subunit alpha
+KvLQT3) (KQT-like 3).
+"Moderate loss of function of cyclic-AMP-modulated KCNQ2/KCNQ3 K+
+channels causes epilepsy.";
+"A pore mutation in a novel KQT-like potassium channel gene in an
+idiopathic epilepsy family.";
+"Functional expression of two KvLQT1-related potassium channels
+responsible for an inherited idiopathic epilepsy.";
+"Two types of K(+) channel subunit, Erg1 and KCNQ2/3, contribute to
+the M-like current in a mammalian neuronal cell.";
+"M-type KCNQ2-KCNQ3 potassium channels are modulated by the KCNE2
+subunit.";
+"Surface expression and single channel properties of KCNQ2/KCNQ3, M-
+type K+ channels involved in epilepsy.";
+"Reconstitution of muscarinic modulation of the KCNQ2/KCNQ3 K(+)
+channels that underlie the neuronal M current.";
+"Inhibition of KCNQ1-4 potassium channels expressed in mammalian cells
+via M1 muscarinic acetylcholine receptors.";
+"Modulation of KCNQ2/3 potassium channels by the novel anticonvulsant
+retigabine.";
+"Retigabine, a novel anti-convulsant, enhances activation of KCNQ2/Q3
+potassium channels.";
+"The novel anticonvulsant retigabine activates M-currents in Chinese
+hamster ovary-cells tranfected with human KCNQ2/3 subunits.";
+"Characterization of KCNQ5/Q3 potassium channels expressed in
+mammalian cells.";
+"A novel mutation of KCNQ3 (c.925T-->C) in a Japanese family with
+benign familial neonatal convulsions.";
+"KCNQ2 and KCNQ3 potassium channel genes in benign familial neonatal
+convulsions: expansion of the functional and mutation spectrum.";
+-!- FUNCTION: Probably important in the regulation of neuronal
+    excitability. Associates with KCNQ2 or KCNQ5 to form a potassium
+    channel with essentially identical properties to the channel
+    underlying the native M-current, a slowly activating and
+    deactivating potassium conductance which plays a critical role in
+    determining the subthreshold electrical excitability of neurons as
+    well as the responsiveness to synaptic inputs.
+-!- SUBUNIT: Heteromultimer with KCNQ2 or KCNQ5. May associate with
+    KCNE2.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Predominantly expressed in brain.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids at
+    every third position (By similarity).
+-!- DISEASE: Defects in KCNQ3 are the cause of benign familial
+    neonatal convulsions type 2 (BFNC2) [MIM:121201]; also known as
+    epilepsy, benign neonatal type 2 (EBN2). BFNC2 is an autosomal
+    dominant form of epilepsy in the newborn that clears spontaneously
+    after a few weeks and is followed by normal psychomotor
+    development.
+-!- MISCELLANEOUS: Mutagenesis experiments were carried out in Xenopus
+    oocytes by coexpression of either KCNQ3(mut) and KCNQ2 at the
+    ratio of 1:1, or of KCNQ3(mut), KCNQ3(wt) and KCNQ2 at the ratio
+    of 1:1:2, to mimic the situation in a heterozygous patient with
+    BFNC2 disease.
+-!- SIMILARITY: Belongs to the potassium channel family. KQT
+    subfamily.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=KCNQ3".
+ GO:0008076; C:voltage-gated potassium channel complex; TAS:ProtInc.
+ GO:0005249; F:voltage-gated potassium channel activity; TAS:ProtInc.
+ GO:0006813; P:potassium ion transport; TAS:ProtInc.
+ GO:0007268; P:synaptic transmission; TAS:ProtInc.
+Disease mutation; Epilepsy; Ion transport; Ionic channel; Membrane;
+Potassium; Potassium channel; Potassium transport; Transmembrane;
+Transport; Voltage-gated channel.
+TMSIX

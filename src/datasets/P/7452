@@ -1,0 +1,20 @@
+AC   P22465; Q27586; Q9W5W5;
+Annexin-B10 (Annexin-10) (Annexin X).
+"Two novel annexins from Drosophila melanogaster. Cloning,
+characterization, and differential expression in development.";
+"Structure of the Drosophila melanogaster annexin X gene.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Cluster of tandem repeats in Drosophila genome comprising putative
+genes encoding cytoplasmic dynein intermediate chain and 3'-part of
+annexin X.";
+-!- DOMAIN: A pair of annexin repeats may form one binding site for
+    calcium and phospholipid.
+-!- SIMILARITY: Belongs to the annexin family.
+-!- SIMILARITY: Contains 4 annexin repeats.
+ GO:0005544; F:calcium-dependent phospholipid binding; IDA:FlyBase.
+Annexin; Calcium; Calcium/phospholipid-binding; Complete proteome;
+Repeat.
+TMZERO

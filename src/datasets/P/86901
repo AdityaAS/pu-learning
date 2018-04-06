@@ -1,0 +1,30 @@
+AC   P97438;
+Potassium channel subfamily K member 2 (Outward rectifying potassium
+channel protein TREK-1) (Two-pore potassium channel TPKC1) (TREK-1
+K(+) channel subunit).
+"Cloning, functional expression and brain localization of a novel
+unconventional outward rectifier K+ channel.";
+"Inhalational anesthetics activate two-pore-domain background K+
+channels.";
+-!- FUNCTION: Outward rectifying potassium channel.
+-!- SUBUNIT: Homodimer (Potential).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: High expression in brain and lung. Also
+    detected in kidney, heart and skeletal muscle. Not detected in
+    liver. In the brain, highest expression in olfactory bulb,
+    hippocampus and cerebellum.
+-!- MISCELLANEOUS: Inhibited by barium. Activated by volatile general
+    anaesthetics such as chloroform, diethyl ether, halothane and
+    isoflurane.
+-!- SIMILARITY: Belongs to the two pore domain potassium channel
+    (TC 1.A.1.8) family.
+ GO:0008076; C:voltage-gated potassium channel complex; IDA:MGI.
+ GO:0005249; F:voltage-gated potassium channel activity; IDA:MGI.
+ GO:0007186; P:G-protein coupled receptor protein signalin...; IDA:MGI.
+ GO:0006813; P:potassium ion transport; IDA:MGI.
+ GO:0030322; P:stabilization of membrane potential; TAS:MGI.
+Glycoprotein; Ion transport; Ionic channel; Membrane; Potassium;
+Potassium channel; Potassium transport; Transmembrane; Transport;
+Voltage-gated channel.
+TMFOUR

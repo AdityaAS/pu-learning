@@ -1,0 +1,18 @@
+AC   P79457; O97979;
+Ubiquitously transcribed Y chromosome tetratricopeptide repeat protein
+(Ubiquitously transcribed TPR protein ON the Y chromosome) (Male-
+specific histocompatibility antigen H-YDB).
+"The mouse Y chromosome interval necessary for spermatogonial
+proliferation is gene dense with syntenic homology to the human AZFa
+region.";
+"An H-YDb epitope is encoded by a novel mouse Y chromosome gene.";
+"Groucho/transducin-like enhancer of split (TLE) family members
+interact with the yeast transcriptional co-repressor SSN6 and
+mammalian SSN6-related proteins: implications for evolutionary
+conservation of transcription repression mechanisms.";
+-!- SUBUNIT: Binds TLE1 and TLE2.
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Contains 1 JmjC domain.
+-!- SIMILARITY: Contains 8 TPR repeats.
+Nuclear protein; Repeat; TPR repeat.
+TMZERO

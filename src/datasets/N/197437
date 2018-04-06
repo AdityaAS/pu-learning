@@ -1,0 +1,13 @@
+AC   O59819;
+Probable UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+(UDP-glucose pyrophosphorylase) (UDPGP) (UGPase).
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Plays a central role as a glucosyl donor in cellular
+    metabolic pathways (By similarity).
+-!- CATALYTIC ACTIVITY: UTP + alpha-D-glucose 1-phosphate =
+    diphosphate + UDP-glucose.
+-!- SIMILARITY: Belongs to the UDPGP type 1 family.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+Complete proteome; Nucleotidyltransferase; Transferase.
+TMZERO

@@ -1,0 +1,26 @@
+AC   Q93655; Q86R86;
+Sodium-dependent low-affinity dicarboxylate transporter 1
+(Na(+)/dicarboxylate cotransporter 1) (NaDC-1) (ceNaDC1).
+"Structural and functional characteristics of two sodium-coupled
+dicarboxylate transporters (ceNaDC1 and ceNaDC2) from Caenorhabditis
+elegans and their relevance to life span.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Low affinity sodium-dicarboxylate cotransporter that
+    accepts a range of tricarboxylic acid-cycle intermediates with 4-5
+    carbon atoms. There is no interaction with monocarboxylates.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Nad-1 and nad-2 are coexpressed in the
+    intestinal tract from early larvae to adults, expression is from
+    the pharynx through to the anus. Expression level is significantly
+    greater in the anterior half of the intestine than in the
+    posterior half.
+-!- DEVELOPMENTAL STAGE: Not detected in the embryo. Expressed from
+    early larvae at a high level, levels decrease in later larvae and
+    then increase again at adult stages.
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    NADC subfamily.
+Complete proteome; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMTWELVE

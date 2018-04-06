@@ -1,0 +1,67 @@
+AC   P18314;
+Urease alpha subunit (EC 3.5.1.5) (Urea amidohydrolase alpha subunit).
+"Sequence of the Klebsiella aerogenes urease genes and evidence for
+accessory proteins facilitating nickel incorporation.";
+"Klebsiella aerogenes urease gene cluster: sequence of ureD and
+demonstration that four accessory genes (ureD, ureE, ureF, and ureG)
+are involved in nickel metallocenter biosynthesis.";
+"Site-directed mutagenesis of the active site cysteine in Klebsiella
+aerogenes urease.";
+"Site-directed mutagenesis of Klebsiella aerogenes urease:
+identification of histidine residues that appear to function in nickel
+ligation, substrate binding, and catalysis.";
+"In vitro activation of urease apoprotein and role of UreD as a
+chaperone required for nickel metallocenter assembly.";
+"Evidence for the presence of urease apoprotein complexes containing
+UreD, UreF, and UreG in cells that are competent for in vivo enzyme
+activation.";
+"Requirement of carbon dioxide for in vitro assembly of the urease
+nickel metallocenter.";
+"Purification and activation properties of UreD-UreF-urease apoprotein
+complexes.";
+"GTP-dependent activation of urease apoprotein in complex with the
+UreD, UreF, and UreG accessory proteins.";
+"UreE stimulation of GTP-dependent urease activation in the UreD-UreF-
+UreG-urease apoprotein complex.";
+"Dual effects of ionic strength on Klebsiella aerogenes urease: pH-
+dependent activation and inhibition.";
+"Chemical cross-linking and mass spectrometric identification of sites
+of interaction for UreD, UreF, and urease.";
+"The crystal structure of urease from Klebsiella aerogenes.";
+"Structures of the Klebsiella aerogenes urease apoenzyme and two
+active-site mutants.";
+"Characterization of the mononickel metallocenter in H134A mutant
+urease.";
+"Structures of Cys319 variants and acetohydroxamate-inhibited
+Klebsiella aerogenes urease.";
+"Chemical rescue of Klebsiella aerogenes urease variants lacking the
+carbamylated-lysine nickel ligand.";
+"Characterization of metal-substituted Klebsiella aerogenes urease.";
+"Kinetic and structural characterization of urease active site
+variants.";
+-!- CATALYTIC ACTIVITY: Urea + H(2)O = CO(2) + 2 NH(3).
+-!- COFACTOR: Binds 2 nickel ions per subunit.
+-!- ENZYME REGULATION: The apoenzyme can be activated in vitro in the
+    presence of nickel ions and carbon dioxide, which promotes
+    carbamylation of Lys-217.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=2.3 mM for urea;
+      Vmax=1.9 mmol/min/mg enzyme;
+    pH dependence:
+      Optimum pH is 7.75;
+-!- PATHWAY: Nitrogen metabolism; urea degradation; CO(2) and NH(3)
+    from urea (urease route): single step [final step].
+-!- SUBUNIT: Heterotrimer of ureA (gamma), ureB (beta) and ureC
+    (alpha) subunits. Three heterotrimers associate to form the active
+    enzyme. The apoenzyme interacts with an accessory complex composed
+    of ureD, ureF and ureG, which is required for the assembly of the
+    nickel containing metallocenter of ureC. The ureE protein may also
+    play a direct role as a metallochaperone in nickel transfer to the
+    urease apoprotein.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- PTM: Carbamylation allows a single lysine to coordinate two nickel
+    ions.
+-!- SIMILARITY: Belongs to the urease family.
+3D-structure; Hydrolase; Metal-binding; Nickel.
+TMZERO

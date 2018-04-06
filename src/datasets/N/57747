@@ -1,0 +1,14 @@
+AC   Q9UZ61;
+Cell division protein ftsZ homolog 2.
+"An integrated analysis of the genome of the hyperthermophilic
+archaeon Pyrococcus abyssi.";
+-!- FUNCTION: This protein is essential to the cell-division process.
+    It seems to assemble into a dynamic ring on the inner surface of
+    the cytoplasmic membrane at the place where division will occur,
+    and the formation of the ring is the signal for septation to
+    begin. Binds to and hydrolyzes GTP (By similarity).
+-!- SUBUNIT: Aggregates to form a ring-like structure (By similarity).
+-!- SIMILARITY: Belongs to the ftsZ family.
+Cell cycle; Cell division; Complete proteome; GTP-binding;
+Nucleotide-binding; Septation.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q56983; Q66CR6;
+Outer membrane usher protein psaC precursor.
+"The psa locus is responsible for thermoinducible binding of Yersinia
+pseudotuberculosis to cultured cells.";
+"Insights into the evolution of Yersinia pestis through whole-genome
+comparison with Yersinia pseudotuberculosis.";
+-!- FUNCTION: Involved in the export and assembly of psaA (pH 6)
+    fimbrial subunits across the outer membrane.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the fimbrial export usher family.
+Complete proteome; Fimbria; Membrane; Outer membrane; Signal;
+Transmembrane; Transport.
+TMZERO

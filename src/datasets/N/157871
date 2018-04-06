@@ -1,0 +1,28 @@
+AC   O15318;
+DNA-directed RNA polymerase III subunit G (EC 2.7.7.6) (DNA-directed
+RNA polymerase III 32 kDa polypeptide) (RNA polymerase III C32
+subunit).
+"Three human RNA polymerase III-specific subunits form a subcomplex
+with a selective function in specific transcription initiation.";
+-!- FUNCTION: May direct with other members of the subcomplex RNA Pol
+    III binding to the TFIIIB-DNA complex via the interactions between
+    TFIIIB and POLR3F. May be involved either in the recruitment and
+    stabilization of the subcomplex within RNA polymerase III, or in
+    stimulating catalytic functions of other subunits during
+    initiation.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: RNA polymerase III consists of about 15 different
+    subunits (By similarity). Forms a subcomplex with POLR3C and
+    POLR3F.
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- MISCELLANEOUS: Three distinct zinc-containing RNA polymerases are
+    found in eukaryotic nuclei: polymerase I for the ribosomal RNA
+    precursor, polymerase II for the mRNA precursor, and polymerase
+    III for 5S and tRNA genes.
+ GO:0005666; C:DNA-directed RNA polymerase III complex; TAS:ProtInc.
+ GO:0003899; F:DNA-directed RNA polymerase activity; TAS:ProtInc.
+ GO:0006359; P:regulation of transcription from RNA polyme...; TAS:ProtInc.
+DNA-directed RNA polymerase; Nuclear protein; Nucleotidyltransferase;
+Transcription; Transferase.
+TMZERO

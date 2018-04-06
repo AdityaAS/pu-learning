@@ -1,0 +1,14 @@
+AC   Q81ZZ5;
+Homoserine O-acetyltransferase (EC 2.3.1.31) (Homoserine O-trans-
+acetylase) (Homoserine transacetylase) (HTA).
+"Complete genome sequence of the ammonia-oxidizing bacterium and
+obligate chemolithoautotroph Nitrosomonas europaea.";
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + L-homoserine = CoA + O-acetyl-L-
+    homoserine.
+-!- PATHWAY: Amino-acid biosynthesis; L-methionine biosynthesis; O-
+    acetyl-L-homoserine from L-homoserine: single step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the AB hydrolase superfamily. HTA family.
+Acyltransferase; Amino-acid biosynthesis; Complete proteome;
+Methionine biosynthesis; Transferase.
+TMZERO

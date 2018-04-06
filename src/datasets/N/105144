@@ -1,0 +1,29 @@
+AC   P14908;
+Mitochondrial replication protein MTF1 (Mitochondrial transcription
+factor mtTFB) (RF1023) (Mitochondrial-specificity factor).
+"A nuclear gene essential for mitochondrial replication suppresses a
+defect of mitochondrial transcription in Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"The yeast mitochondrial RNA polymerase specificity factor, MTF1, is
+similar to bacterial sigma factors.";
+"Assignment of a yeast protein necessary for mitochondrial
+transcription initiation.";
+"A point mutation in the core subunit gene of yeast mitochondrial RNA
+polymerase is suppressed by a high level of specificity factor MTF1.";
+"Global analysis of protein expression in yeast.";
+"Crystal structure of the transcription factor sc-mtTFB offers
+insights into mitochondrial transcription.";
+-!- FUNCTION: Essential for mitochondrial replication and
+    transcription. Confers selective promoter recognition on the core
+    subunit of the yeast mitochondrial RNA polymerase. Interacts with
+    DNA in a non-specific manner.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- MISCELLANEOUS: Present with 9380 molecules/cell.
+ GO:0005759; C:mitochondrial matrix; TAS:SGD.
+ GO:0003712; F:transcription cofactor activity; IGI:SGD.
+ GO:0006390; P:transcription from mitochondrial promoter; TAS:SGD.
+3D-structure; Complete proteome; Direct protein sequencing;
+DNA replication; DNA-binding; Mitochondrion; Transcription;
+Transcription regulation.
+TMZERO

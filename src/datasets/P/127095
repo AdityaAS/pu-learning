@@ -1,0 +1,35 @@
+AC   Q940Y5; O49308; Q9SQH5;
+Auxin efflux carrier component 7 (AtPIN7).
+"PIN gene family in Arabidopsis thaliana.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Efflux-dependent auxin gradients establish the apical-basal axis of
+Arabidopsis.";
+-!- FUNCTION: Acts as a component of the auxin efflux carrier.
+    Mediates the initial auxin gradient which contributes to the
+    establishment of the apical-basal axis in early embryogenesis.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q940Y5-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q940Y5-2; Sequence=VSP_009420, VSP_009421, VSP_009422;
+      Note=May be due to a competing donor splice site and to an
+      intron retention. No experimental confirmation available;
+-!- DEVELOPMENTAL STAGE: Expressed during early embryogenesis.
+    Detected apically in the basal cell lineage resulting from the
+    first zygotic division. At the 32-cell stage, localization shifts
+    to the basal side of the cells in the developing embryo.
+-!- MISCELLANEOUS: Loss-of-function mutants display altered embryo
+    with defects in stereotypical pattern of early embryogenesis.
+-!- SIMILARITY: Belongs to the auxin efflux carrier (TC 2.A.69)
+    family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to erroneous
+    gene model prediction.
+Alternative splicing; Auxin signaling pathway; Glycoprotein; Membrane;
+Transmembrane; Transport.
+TMTEN

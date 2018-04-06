@@ -1,0 +1,13 @@
+AC   P15643;
+General secretion pathway protein C (Pullulanase secretion envelope
+pulC).
+"Protein secretion by Gram-negative bacteria. Characterization of two
+membrane proteins required for pullulanase secretion by Escherichia
+coli K-12.";
+-!- FUNCTION: Involved in a general secretion pathway (GSP) for the
+    export of proteins. Required for the translocation of pullulanase.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the GSP C family.
+Inner membrane; Membrane; Transmembrane; Transport.
+TMONE

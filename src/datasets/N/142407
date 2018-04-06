@@ -1,0 +1,21 @@
+AC   P16512;
+RNA-directed RNA polymerase catalytic subunit (EC 2.7.7.48)
+(Polymerase basic protein 1) (PB1) (RNA-directed RNA polymerase
+subunit P1).
+"Avian-to-human transmission of the PB1 gene of influenza A viruses in
+the 1957 and 1968 pandemics.";
+-!- FUNCTION: RNA-dependent RNA polymerase which is responsible for
+    replication and transcription of virus segments. Binds the
+    promoter sequence of the encapsidated viral RNA. Displays an
+    endonuclease activity involved in cap-stealing. Cleaves cellular
+    pre-mRNA to generate primers for viral transcription.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: Influenza RNA polymerase is composed of three subunits:
+    PB1, PB2 and PA.
+-!- SIMILARITY: Belongs to the influenza viruses polymerase PB1
+    family.
+-!- SIMILARITY: Contains 1 RdRp catalytic domain.
+Nucleotide-binding; Nucleotidyltransferase; RNA replication;
+RNA-directed RNA polymerase; Transferase.
+TMZERO

@@ -1,0 +1,23 @@
+AC   Q6ENH7;
+ATP synthase subunit alpha (EC 3.6.3.14) (ATPase subunit alpha) (ATP
+synthase F1 sector subunit alpha).
+"The complete nucleotide sequence of wild rice (Oryza nivara)
+chloroplast genome: first genome wide comparative sequence analysis of
+wild and cultivated rice.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane. The alpha chain is a regulatory
+    subunit.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has four main subunits: a, b, b' and c (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; peripheral membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+ GO:0009536; C:plastid; IC:Gramene.
+ATP synthesis; ATP-binding; CF(1); Chloroplast;
+Hydrogen ion transport; Hydrolase; Ion transport; Membrane;
+Nucleotide-binding; Plastid; Thylakoid; Transport.
+TMZERO

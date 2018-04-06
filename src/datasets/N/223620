@@ -1,0 +1,18 @@
+AC   Q83KM9;
+Cellulose synthesis regulatory protein.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Involves in the regulation of cellulose production (By
+    similarity).
+-!- PATHWAY: Bacterial cellulose biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Contains 1 GGDEF domain.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a stop
+    codon at position 61 which was translated as Gln to extend the
+    sequence.
+-!- CAUTION: Could be the product of a pseudogene.
+Cellulose biosynthesis; Complete proteome; Membrane; Transmembrane.
+TMTWO

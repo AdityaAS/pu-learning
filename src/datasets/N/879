@@ -1,0 +1,16 @@
+AC   O74455;
+Probable 6-phosphogluconolactonase (EC 3.1.1.31) (6PGL).
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Hydrolysis of 6-phosphogluconolactone to 6-
+    phosphogluconate (By similarity).
+-!- CATALYTIC ACTIVITY: 6-phospho-D-glucono-1,5-lactone + H(2)O = 6-
+    phospho-D-gluconate.
+-!- PATHWAY: Carbohydrate degradation; pentose phosphate pathway; D-
+    ribulose 5-phosphate from D-glucose 6-phosphate (oxidative stage):
+    step 2.
+-!- SIMILARITY: Belongs to the glucosamine/galactosamine-6-phosphate
+    isomerase family. 6-phosphogluconolactonase subfamily.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+Complete proteome; Hydrolase.
+TMZERO

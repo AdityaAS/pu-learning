@@ -1,0 +1,23 @@
+AC   P19807;
+Choline transport protein.
+"Primary structure of the yeast choline transport gene and regulation
+of its expression.";
+"Sequence analysis of 203 kilobases from Saccharomyces cerevisiae
+chromosome VII.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Sole choline transporter in yeast.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Inhibition of activity by intracellular choline.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Amino acid/choline transporter (ACT) (TC 2.A.3.4)
+    family.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0015220; F:choline transporter activity; IMP:SGD.
+ GO:0015871; P:choline transport; IMP:SGD.
+Amino-acid transport; Complete proteome; Glycoprotein; Membrane;
+Transmembrane; Transport.
+TMELEVEN

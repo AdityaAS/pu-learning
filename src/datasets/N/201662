@@ -1,0 +1,8 @@
+AC   P19818;
+Aphid transmission protein (Protein 2).
+"Comparison of the predicted secondary structure of aphid transmission
+factor for transmissible and non-transmissible cauliflower mosaic
+virus strains.";
+-!- FUNCTION: This protein is involved in virus transmission.
+-!- SIMILARITY: Belongs to the caulimoviruses ORF II family.
+TMZERO

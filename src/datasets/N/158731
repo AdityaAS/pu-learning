@@ -1,0 +1,19 @@
+AC   Q7U8K3;
+DNA-directed RNA polymerase gamma chain (EC 2.7.7.6) (RNAP gamma
+subunit) (Transcriptase gamma chain) (RNA polymerase gamma subunit).
+"The genome of a motile marine Synechococcus.";
+-!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+    of DNA into RNA using the four ribonucleoside triphosphates as
+    substrates.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: In cyanobacteria the RNAP catalytic core is composed of 2
+    alpha, 1 beta, 1 beta', 1 gamma and 1 omega subunit. When a sigma
+    factor is associated with the core the holoenzyme is formed, which
+    can initiate transcription (By similarity).
+-!- SIMILARITY: Belongs to the RNA polymerase beta' chain family.
+    RpoC1 subfamily.
+ GO:0006351; P:transcription, DNA-dependent; IEA:HAMAP.
+Complete proteome; DNA-directed RNA polymerase;
+Nucleotidyltransferase; Transcription; Transferase.
+TMZERO

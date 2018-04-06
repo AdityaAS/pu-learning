@@ -1,0 +1,17 @@
+AC   P15365;
+Allantoate permease.
+"Structure and transcription of the allantoate permease gene (DAL5)
+from Saccharomyces cerevisiae.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Component of the allantoate transport system.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Allantoate permease family.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0015124; F:allantoate transporter activity; IMP:SGD.
+ GO:0015719; P:allantoate transport; IMP:SGD.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTWELVE

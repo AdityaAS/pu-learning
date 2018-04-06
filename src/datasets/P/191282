@@ -1,0 +1,19 @@
+AC   P52178;
+Triose phosphate/phosphate translocator, non-green plastid,
+chloroplast precursor (CTPT).
+"A new class of plastidic phosphate translocators: a putative link
+between primary and secondary metabolism by the
+phosphoenolpyruvate/phosphate antiporter.";
+-!- FUNCTION: Mediates the export of fixed carbons from the
+    chloroplasts into the cytosol in the form of triose phosphates.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast membrane;
+    multi-pass membrane protein (By similarity). Note=Located in zones
+    of contact between the inner and outer membrane of the chloroplast
+    (By similarity).
+-!- SIMILARITY: Belongs to the TPT transporter family. TPT
+    (TC 2.A.7.9.1) subfamily.
+-!- SIMILARITY: Contains 1 DUF6 domain.
+Chloroplast; Membrane; Plastid; Transit peptide; Transmembrane;
+Transport.
+TMFIVE

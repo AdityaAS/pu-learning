@@ -1,0 +1,44 @@
+AC   P70419; Q80V55;
+Polypeptide N-acetylgalactosaminyltransferase 3 (EC 2.4.1.41)
+(Protein-UDP acetylgalactosaminyltransferase 3) (UDP-
+GalNAc:polypeptide N-acetylgalactosaminyltransferase 3) (Polypeptide
+GalNAc transferase 3) (GalNAc-T3) (pp-GaNTase 3).
+"Cloning and expression of mouse UDP-GalNAc:polypeptide N-
+acetylgalactosaminyltransferase-T3.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Catalyzes the initial reaction in O-linked
+    oligosaccharide biosynthesis, the transfer of an N-acetyl-D-
+    galactosamine residue to a serine or threonine residue on the
+    protein receptor. Has activity toward HIV envelope glycoprotein
+    gp120, EA2, Muc2 and Muc5. Probably glycosylates fibronectin in
+    vivo. May be involved in phosphate homeostasis.
+-!- CATALYTIC ACTIVITY: UDP-N-acetyl-D-galactosamine + polypeptide =
+    UDP + N-acetyl-D-galactosaminyl-polypeptide.
+-!- COFACTOR: Manganese (By similarity).
+-!- COFACTOR: Calcium (By similarity).
+-!- PATHWAY: Glycosylation.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi stack; Golgi stack
+    membrane; single-pass type II membrane protein (By similarity).
+    Note=Resides preferentially in the trans and medial parts of the
+    Golgi stack (By similarity).
+-!- TISSUE SPECIFICITY: Highly expressed in the reproductive tract,
+    principally in the testis and uterus, and to a lesser degree in
+    the cervix with only trace levels in the ovary. Also expressed at
+    high level in sublingual gland, stomach and colon, with more
+    moderate amounts present in the submandibular and parotid gland as
+    well as the kidney.
+-!- DOMAIN: There are two conserved domains in the glycosyltransferase
+    region: the N-terminal domain (domain A, also called GT1 motif),
+    which is probably involved in manganese coordination and substrate
+    binding and the C-terminal domain (domain B, also called
+    Gal/GalNAc-T motif), which is probably involved in catalytic
+    reaction and UDP-Gal binding (By similarity).
+-!- DOMAIN: The ricin B-type lectin domain binds to GalNAc and
+    contributes to the glycopeptide specificity (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 2 family. GalNAc-T
+    subfamily.
+-!- SIMILARITY: Contains 1 ricin B-type lectin domain.
+Calcium; Glycoprotein; Glycosyltransferase; Golgi apparatus; Lectin;
+Manganese; Membrane; Signal-anchor; Transferase; Transmembrane.
+TMONE

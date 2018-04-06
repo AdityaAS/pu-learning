@@ -1,0 +1,19 @@
+AC   P45480; Q43879;
+Glutathione synthetase (EC 6.3.2.3) (Glutathione synthase) (GSH
+synthetase) (GSH-S) (GSHase).
+"Cloning and sequence of ftsZ and flanking regions from the
+cyanobacterium Anabaena PCC 7120.";
+"Complete genomic sequence of the filamentous nitrogen-fixing
+cyanobacterium Anabaena sp. strain PCC 7120.";
+"Analysis of genes encoding the cell division protein FtsZ and a
+glutathione synthetase homologue in the cyanobacterium Anabaena sp.
+PCC 7120.";
+-!- CATALYTIC ACTIVITY: ATP + gamma-L-glutamyl-L-cysteine + glycine =
+    ADP + phosphate + glutathione.
+-!- PATHWAY: Sulfur metabolism; glutathione biosynthesis; glutathione
+    from L-cysteine and L-glutamate: step 2 [final step].
+-!- SIMILARITY: Belongs to the prokaryotic GSH synthase family.
+-!- SIMILARITY: Contains 1 ATP-grasp domain.
+ATP-binding; Complete proteome; Glutathione biosynthesis; Ligase;
+Nucleotide-binding.
+TMZERO

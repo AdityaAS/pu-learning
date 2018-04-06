@@ -1,0 +1,14 @@
+AC   Q6CBC3;
+Autophagy-related protein 7 (Autophagy-related E1-like-activating
+enzyme ATG7).
+"Genome evolution in yeasts.";
+-!- FUNCTION: Probable E1-like activating enzyme involved in cytoplasm
+    to vacuole transport (Cvt) and autophagy (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- DOMAIN: The GxGxxG motif is important for the function, possibly
+    through binding with ATP (By similarity).
+-!- SIMILARITY: Belongs to the ATG7 family.
+Autophagy; Complete proteome; Protein transport; Transport;
+Ubl conjugation pathway.
+TMZERO

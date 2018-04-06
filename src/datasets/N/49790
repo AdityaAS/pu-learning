@@ -1,0 +1,177 @@
+AC   O12164;
+Envelope glycoprotein gp160 precursor (Env polyprotein) [Contains:
+Surface protein (SU) (Glycoprotein 120) (gp120); Transmembrane protein
+(TM) (Glycoprotein 41) (gp41)].
+"Molecular cloning and analysis of functional envelope genes from
+human immunodeficiency virus type 1 sequence subtypes A through G. The
+WHO and NIAID Networks for HIV Isolation and Characterization.";
+"Pathogens target DC-SIGN to influence their fate DC-SIGN functions as
+a pathogen receptor with broad specificity.";
+"The HIV Env-mediated fusion reaction.";
+"Mechanisms of apoptosis induction by the HIV-1 envelope.";
+"V3: HIV's switch-hitter.";
+"Emerging drug targets for antiretroviral therapy.";
+"HIV and the chemokine system: 10 years later.";
+-!- FUNCTION: The surface protein gp120 (SU) attaches the virus to the
+    host lymphoid cell by binding to the primary receptor CD4. This
+    interaction induces a structural rearrangement creating a high
+    affinity binding site for a chemokine coreceptor like CXCR4 and/or
+    CCR5. This peculiar 2 stage receptor-interaction strategy allows
+    gp120 to maintain the highly conserved coreceptor-binding site in
+    a cryptic conformation, protected from neutralizing antibodies.
+    Since CD4 also displays a binding site for the disulfide-isomerase
+    P4HB/PDI, a P4HB/PDI-CD4-CXCR4-gp120 complex may form. In that
+    complex, P4HB/PDI could reach and reduce gp120 disulfide bonds,
+    causing major conformational changes in gp120. TXN, another PDI
+    family member could also be involved in disulfide rearrangements
+    in Env during fusion. These changes are transmitted to the
+    transmembrane protein gp41 and are thought to activate its
+    fusogenic potential by unmasking its fusion peptide. Fusion occurs
+    at the host cell plasma membrane (By similarity).
+-!- FUNCTION: The transmembrane protein gp41 (TM) acts as a class I
+    viral fusion protein. Under the current model, the protein has at
+    least 3 conformational states: pre-fusion native state, pre-
+    hairpin intermediate state, and post-fusion hairpin state. During
+    viral and target cell membrane fusion, the coiled coil regions
+    (heptad repeats) assume a trimer-of-hairpins structure,
+    positioning the fusion peptide in close proximity to the C-
+    terminal region of the ectodomain. The formation of this structure
+    appears to drive apposition and subsequent fusion of viral and
+    target cell membranes. Membranes fusion leads to delivery of the
+    nucleocapsid into the cytoplasm (By similarity).
+-!- FUNCTION: The surface protein gp120 is a ligand for CD209/DC-SIGN
+    and CLEC4M/DC-SIGNR, which are respectively found on dendritic
+    cells (DCs), and on endothelial cells of liver sinusoids and lymph
+    node sinuses. These interactions allow capture of viral particles
+    at mucosal surfaces by these cells and subsequent transmission to
+    permissive cells. DCs are professional antigen presenting cells,
+    critical for host immunity by inducing specific immune responses
+    against a broad variety of pathogens. They act as sentinels in
+    various tissues where they take up antigen, process it, and
+    present it to T cells following migration to lymphoid organs. HIV
+    subverts the migration properties of dendritic cells to gain
+    access to CD4+ T cells in lymph nodes. Virus transmission to
+    permissive T-cells occurs either in trans (without DCs infection,
+    through viral capture and transmission), or in cis (following DCs
+    productive infection, through the usual CD4-gp120 interaction),
+    thereby inducing a robust infection. In trans infection, bound
+    virions remain infectious over days and it is proposed that they
+    are not degraded, but protected in non-lysosomal acidic organelles
+    within the DCs close to the cell membrane thus contributing to the
+    viral infectious potential during DCs' migration from the
+    periphery to the lymphoid tissues. On arrival at lymphoid tissues,
+    intact virions recycle back to DCs' cell surface allowing virus
+    transmission to CD4+ T cells. Virion capture also seems to lead to
+    MHC-II-restricted viral antigen presentation, and probably to the
+    activation of HIV-specific CD4+ cells (By similarity).
+-!- FUNCTION: The envelope glyprotein gp160 precursor down-modulates
+    cell surface CD4 antigen by interacting with it in the endoplasmic
+    reticulum and blocking its transport to the cell surface (By
+    similarity).
+-!- FUNCTION: Seems to contribute to T-cell depletion during HIV-1
+    infection. The envelope glycoproteins expressed on the surface of
+    infected cells induce apoptosis through an interaction with
+    uninfected cells expressing the receptor (CD4) and the coreceptors
+    CXCR4 or CCR5. This type of bystander killing may be obtained by
+    at least three distinct mechanisms. First, the interaction between
+    the 2 cells can induce cellular fusion followed by nuclear fusion
+    within the syncytium. Syncytia are condemned to die from
+    apoptosis. Second, the 2 interacting cells may not fuse entirely
+    and simply exchange plasma membrane lipids, after a sort of
+    hemifusion process, followed by rapid death. Third, it is possible
+    that virus-infected cells, on the point of undergoing apoptosis,
+    fuse with CD4-expressing cells, in which case apoptosis is rapidly
+    transmitted from one cell to the other and thus occurs in a sort
+    of contagious fashion (By similarity).
+-!- FUNCTION: Allows rapid transcytosis of the virus through CD4
+    negative cells such as simple epithelial monolayers of the
+    intestinal, rectal and endocervical epithelial barriers. Both
+    gp120 and gp41 specifically recognize glycosphingolipids
+    galactosyl-ceramide (GalCer) or 3' sulfo-galactosyl-ceramide
+    (GalS) present in the lipid rafts structures of epithelial cells.
+    Binding to these alternative receptors allows the rapid
+    transcytosis of the virus through the epithelial cells. This
+    transcytotic vesicle-mediated transport of virions from the apical
+    side to the basolateral side of the epithelial cells does not
+    involve infection of the cells themselves (By similarity).
+-!- SUBUNIT: The mature envelope protein (Env) consists of a
+    homotrimer of noncovalently associated gp120-gp41 heterodimers.
+    The resulting complex protrudes from the virus surface as a spike.
+    There seems to be as few as 10 spikes on the average virion.
+    Surface protein gp120 interacts with human CD4, CCR5 and CXCR4, to
+    form a P4HB/PDI-CD4-CXCR4-gp120 complex. Gp120 also interacts with
+    the C-type lectins CD209/DC-SIGN and CLEC4M/DC-SIGNR (collectively
+    referred to as DC-SIGN(R)). Gp120 and gp41 interact with GalCer
+    (By similarity).
+-!- SUBCELLULAR LOCATION: TM: Virion; virion membrane; single-pass
+    type I membrane protein. Cell membrane; single-pass type I
+    membrane protein. SU: Virion; virion membrane; peripheral membrane
+    protein. Cell membrane; peripheral membrane protein. Note=The
+    surface protein is not anchored to the viral envelope, but
+    associates with the extravirion surface through its binding to TM.
+    Both proteins are thought to be concentrated at the site of
+    budding and incorporated into the virions possibly by contacts
+    between the cytoplasmic tail of Env and the N-terminus of Gag (By
+    similarity).
+-!- DOMAIN: The YXXL motif is involved in determining the exact site
+    of viral release at the surface of infected mononuclear cells and
+    promotes endocytosis (By similarity).
+-!- DOMAIN: The 17 amino acids long immunosuppressive region is
+    present in many retroviral envelope proteins. Synthetic peptides
+    derived from this relatively conserved sequence inhibit immune
+    function in vitro and in vivo (By similarity).
+-!- DOMAIN: Some of the most genetically diverse regions of the viral
+    genome are present in Env. They are called variable regions 1
+    through 5 (V1 through V5). Coreceptor usage of gp120 is determined
+    mainly by the primary structure of the third variable region (V3)
+    in the outer domain of gp120. The sequence of V3 determines which
+    coreceptor, CCR5 and/or CXCR4 (corresponding to R5/macrophage,
+    X4/T cell and R5X4/T cell and macrophage tropism), is used to
+    trigger the fusion potential of the Env complex, and hence which
+    cells the virus can infect. Binding to CCR5 involves a region
+    adjacent in addition to V3 (By similarity).
+-!- PTM: Specific enzymatic cleavages in vivo yield mature proteins.
+    Envelope glycoproteins are synthesized as a inactive precursor
+    that is heavily N-glycosylated and processed likely by host cell
+    furin in the Golgi to yield the mature SU and TM proteins. The
+    cleavage site between SU and TM requires the minimal sequence
+    [KR]-X-[KR]-R. About 2 of the 9 disulfide bonds of gp41 are
+    reduced by P4HB/PDI, following binding to CD4 receptor (By
+    similarity).
+-!- PTM: Palmitoylation of the transmembrane protein and of Env
+    polyprotein (prior to its proteolytic cleavage) is essential for
+    their association with host cell membrane lipid rafts.
+    Palmitoylation is therefore required for envelope trafficking to
+    classical lipid rafts, but not for viral replication (By
+    similarity).
+-!- MISCELLANEOUS: Inhibitors targeting HIV-1 viral envelope proteins
+    are used as antiretroviral drugs. Attachment of virions to the
+    cell surface via nonspecific interactions and CD4 binding can be
+    blocked by inhibitors that include cyanovirin-N,
+    cyclotriazadisulfonamide analogs, PRO 2000, TNX 355 and PRO 542.
+    In addition, BMS 806 can block CD4-induced conformational changes.
+    Env interactions with the coreceptor molecules can be targeted by
+    CCR5 antagonists including SCH-D, maraviroc (UK 427857) and
+    aplaviroc (GW 873140), and the CXCR4 antagonist AMD 070. Fusion of
+    viral and cellular membranes can be inhibited by peptides such as
+    enfuvirtide and tifuvirtide (T 1249). Resistance to inhibitors
+    associated with mutations in Env are observed. Most of the time,
+    single mutations confer only a modest reduction in drug
+    susceptibility. Combination of several mutations is usually
+    required to develop a high-level drug resistance (By similarity).
+-!- MISCELLANEOUS: HIV-1 lineages are divided in three main groups, M
+    (for Major), O (for Outlier), and N (for New, or Non-M, Non-O).
+    The vast majority of strains found worldwide belong to the group
+    M. Group O seems to be endemic to and largely confined to Cameroon
+    and neighboring countries in West Central Africa, where these
+    viruses represent a small minority of HIV-1 strains. The group N
+    is represented by a limited number of isolates from Cameroonian
+    persons. The group M is further subdivided in 9 clades or subtypes
+    (A to D, F to H, J and K).
+-!- WEB RESOURCE: NAME=resdb; NOTE=HIV resistance database;
+    URL="http://resdb.lanl.gov/Resist_DB/".
+AIDS; Apoptosis; Cleavage on pair of basic residues; Coiled coil;
+Envelope protein; Fusion protein; Glycoprotein;
+Host-virus interaction; Lipoprotein; Membrane; Palmitate; Signal;
+Transmembrane; Viral immunoevasion; Virion protein.
+TMONE

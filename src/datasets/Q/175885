@@ -1,0 +1,16 @@
+AC   P49970;
+Signal recognition particle 54 kDa protein 3 (SRP54).
+-!- FUNCTION: Binds to the signal sequence of presecretory protein
+    when they emerge from the ribosomes and transfers them to TRAM
+    (translocating chain-associating membrane protein).
+-!- SUBUNIT: Signal recognition particle consists of a 7S RNA molecule
+    of 300 nucleotides and six protein subunits: SRP72, SRP68, SRP54,
+    SRP19, SRP14 and SRP9.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- DOMAIN: Has a two domain structure: the G-domain binds GTP; the M-
+    domain binds the 7S RNA in presence of SRP19 and also binds the
+    signal sequence.
+-!- SIMILARITY: Belongs to the GTP-binding SRP family.
+GTP-binding; Nucleotide-binding; Ribonucleoprotein; RNA-binding;
+Signal recognition particle.
+TMZERO

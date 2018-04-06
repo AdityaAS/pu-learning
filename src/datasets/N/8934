@@ -1,0 +1,25 @@
+AC   Q9ZPY6;
+Auxin response factor 11.
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Auxin-responsive gene expression: genes, promoters and regulatory
+factors.";
+-!- FUNCTION: Auxin response factors (ARFs) are transcriptional
+    factors that binds specifically to the DNA sequence 5'-TGTCTC-3'
+    found in the auxin-responsive promoter elements (AuxREs). Could
+    act as transcriptional activator or repressor. Formation of
+    heterodimers with Aux/IAA proteins may alter their ability to
+    modulate early auxin response genes expression.
+-!- SUBUNIT: Homo and heterodimers (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- DOMAIN: Interactions between auxin response factors (ARFs) and
+    Aux/IAA proteins occur through their C-terminal dimerization
+    domains III and IV.
+-!- SIMILARITY: Belongs to the ARF family.
+-!- SIMILARITY: Contains 1 Aux/IAA-ARF domain.
+-!- SIMILARITY: Contains 1 TF-B3 DNA-binding domain.
+-!- CAUTION: Ref.1 sequences differ from that shown due to erroneous
+    gene model prediction.
+Auxin signaling pathway; DNA-binding; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

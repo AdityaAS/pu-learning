@@ -1,0 +1,82 @@
+AC   Q68KI4; O04655; Q8LRL1; Q9ZPK3;
+Sodium/hydrogen exchanger 1 (Na(+)/H(+) exchanger 1) (NHE-1).
+"The Arabidopsis thaliana proton transporters, AtNhx1 and Avp1, can
+function in cation detoxification in yeast.";
+"Functional conservation between yeast and plant endosomal Na(+)/H(+)
+antiporters.";
+"Isolation and characterization of a Na(+)/H(+) antiporter gene from
+Arabidopsis.";
+"Sequence and analysis of chromosome 5 of the plant Arabidopsis
+thaliana.";
+"Salt tolerance conferred by overexpression of a vacuolar Na(+)/H(+)
+antiport in Arabidopsis.";
+"Arabidopsis thaliana and Saccharomyces cerevisiae NHX1 genes encode
+amiloride sensitive electroneutral Na(+)/H(+) exchangers.";
+"Engineering salt-tolerant Brassica plants: characterization of yield
+and seed oil quality in transgenic plants with increased vacuolar
+sodium accumulation.";
+"The Arabidopsis Na(+)/H(+) exchanger AtNHX1 catalyzes low affinity
+Na(+) and K(+) transport in reconstituted liposomes.";
+"Differential expression and function of Arabidopsis thaliana NHX
+Na(+)/H(+) antiporters in the salt stress response.";
+"Regulation of expression of the vacuolar Na(+)/H(+) antiporter gene
+AtNHX1 by salt stress and abscisic acid.";
+"Vacuolar cation/H(+) exchange, ion homeostasis, and leaf development
+are altered in a T-DNA insertional mutant of AtNHX1, the Arabidopsis
+vacuolar Na(+)/H(+) antiporter.";
+"Topological analysis of a plant vacuolar Na(+)/H(+) antiporter
+reveals a luminal C-terminus that regulates antiporter cation
+selectivity.";
+"Expression of an Arabidopsis vacuolar sodium/proton antiporter gene
+in cotton improves photosynthetic performance under salt conditions
+and increases fiber yield in the field.";
+"Vacuolar Na(+)/H(+) antiporter cation selectivity is regulated by
+calmodulin from within the vacuole in a Ca2(+)- and pH-dependent
+manner.";
+-!- FUNCTION: Acts in low affinity electroneutral exchange of protons
+    for cations such as Na(+) or K(+) across membranes. Can also
+    exchange Li(+) and Cs(+) with a lower affinity. Involved in
+    vacuolar ion compartmentalization necessary for cell volume
+    regulation and cytoplasmic Na(+) detoxification. Required during
+    leaves expansion, probably to stimulate epidermal cell expansion.
+    Confers competence to grow in high salinity conditions.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=24 mM for Na(+) (without CML18/CAM15);
+      KM=15 mM for Na(+) (in presence of CML18/CAM15);
+      KM=12 mM for K(+) (without CML18/CAM15);
+      KM=17 mM for K(+) (in presence of CML18/CAM15);
+-!- SUBUNIT: Calcium and pH-dependent interaction with CML18/CAM15
+    (increases when pH decreases, better at pH 5.5 than at pH 7.5).
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein. Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (Probable). Golgi apparatus;
+    Golgi apparatus membrane; multi-pass membrane protein (Probable).
+    Note=Tonoplast. Possibly also present in endoplasmic reticulum
+    (ER) and Golgi apparatus.
+-!- TISSUE SPECIFICITY: Ubiquitous, with higher levels around vascular
+    tissues and guard cells.
+-!- DEVELOPMENTAL STAGE: Present in flowers, particularly in petals,
+    stamens and anthers (including pollen). Slightly expressed in
+    developing ovaries, strongly expressed in developing embryos and
+    in siliques outer integuments (mostly in base and tips). During
+    first days after germination, mainly localized in roots, including
+    root tips. Later, ubiquitous except in root tips.
+-!- INDUCTION: Induced by NaCl, KCl and sorbitol in a ABA-dependent
+    but SOS signaling-independent manner. Also induced by abscisic
+    acid (ABA).
+-!- BIOTECHNOLOGY: Transgenic plants of agricultural interest (e.g.
+    cotton, Brassica napus) that overexpress NHX1 have enhanced
+    capability to grow on high saline soils.
+-!- MISCELLANEOUS: Inhibition of Na(+) transport activity but not of
+    K(+) transport activity is mediated by binding with CML18/CAM15.
+    Inhibited by the diuretic compound amiloride and its analogs
+    ethylisopropyl-amiloride (EIPA), 5-(N-ethyl-N-isopropyl)amiloride
+    (MIA), and benzamil. Also down-regulated by quinine.
+-!- SIMILARITY: Belongs to the Na(+)/H(+) exchanger (TC 2.A.36.5.1)
+    family.
+-!- CAUTION: Ref.5 sequence differs from that shown due to erroneous
+    gene model prediction.
+Antiport; Calmodulin-binding; Glycoprotein; Ion transport; Membrane;
+Sodium; Sodium transport; Transmembrane; Transport; Vacuole.
+TMTWELVE

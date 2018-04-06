@@ -1,0 +1,12 @@
+AC   P21867;
+HTH-type transcriptional regulator rafR (Raffinose operon repressor).
+"Regulatory elements of the raffinose operon: nucleotide sequences of
+operator and repressor genes.";
+-!- FUNCTION: The raffinose (raf) operon is negatively controlled by
+    the specific binding of raf repressor to raf operator (rafO) DNA.
+    Binds raffinose as an inducer.
+-!- SUBUNIT: Homotetramer.
+-!- SIMILARITY: Contains 1 HTH lacI-type DNA-binding domain.
+Direct protein sequencing; DNA-binding; Plasmid; Repressor;
+Transcription; Transcription regulation.
+TMZERO

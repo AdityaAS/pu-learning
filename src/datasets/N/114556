@@ -1,0 +1,25 @@
+AC   Q7YJS9;
+NAD(P)H-quinone oxidoreductase subunit 1, chloroplast (EC 1.6.5.-)
+(NAD(P)H dehydrogenase subunit 1) (NDH subunit 1) (NADH-plastoquinone
+oxidoreductase subunit 1).
+"The chloroplast genome of the 'basal' angiosperm Calycanthus fertilis
+-- structural and phylogenetic analyses.";
+-!- FUNCTION: NDH shuttles electrons from NAD(P)H:plastoquinone, via
+    FMN and iron-sulfur (Fe-S) centers, to quinones in the
+    photosynthetic chain and possibly in a chloroplast respiratory
+    chain. The immediate electron acceptor for the enzyme in this
+    species is believed to be plastoquinone. Couples the redox
+    reaction to proton translocation, and thus conserves the redox
+    energy in a proton gradient (By similarity).
+-!- CATALYTIC ACTIVITY: NAD(P)H + plastoquinone = NAD(P)(+) +
+    plastoquinol.
+-!- SUBUNIT: NDH is composed of at least 16 different subunits, 5 of
+    which are encoded in the nucleus (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the complex I subunit 1 family.
+ GO:0016655; F:oxidoreductase activity, acting on NADH or ...; IEA:HAMAP.
+ GO:0019684; P:photosynthesis, light reaction; IEA:HAMAP.
+Chloroplast; Membrane; NAD; NADP; Oxidoreductase; Plastid;
+Plastoquinone; Quinone; Thylakoid; Transmembrane.
+TMSIX

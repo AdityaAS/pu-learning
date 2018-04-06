@@ -1,0 +1,21 @@
+AC   P23101;
+Toluate 1,2-dioxygenase electron transfer component [Includes:
+Ferredoxin; Ferredoxin--NAD(+) reductase (EC 1.18.1.3)].
+"Potential DNA slippage structures acquired during evolutionary
+divergence of Acinetobacter calcoaceticus chromosomal benABC and
+Pseudomonas putida TOL pWW0 plasmid xylXYZ, genes encoding benzoate
+dioxygenases.";
+-!- FUNCTION: Electron transfer component of toluate 1,2-dioxygenase
+    system.
+-!- CATALYTIC ACTIVITY: Reduced ferredoxin + NAD(+) = oxidized
+    ferredoxin + NADH.
+-!- SUBUNIT: This dioxygenase system consists of three proteins: the
+    two subunits of the hydroxylase component (xylX and xylY), and an
+    electron transfer component (xylZ).
+-!- SIMILARITY: Belongs to the bacterial ring-hydroxylating
+    dioxygenase ferredoxin reductase family.
+-!- SIMILARITY: Contains 1 2Fe-2S ferredoxin-type domain.
+ GO:0008860; F:ferredoxin-NAD+ reductase activity; IEA:EC.
+2Fe-2S; Aromatic hydrocarbons catabolism; FAD; Flavoprotein; Iron;
+Iron-sulfur; Metal-binding; NAD; Oxidoreductase; Plasmid.
+TMZERO

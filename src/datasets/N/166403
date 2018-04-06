@@ -1,0 +1,13 @@
+AC   Q8TRT2;
+30S ribosomal protein S8P.
+"The genome of Methanosarcina acetivorans reveals extensive metabolic
+and physiological diversity.";
+-!- FUNCTION: One of the primary rRNA binding proteins, it binds
+    directly to 16S rRNA central domain where it helps coordinate
+    assembly of the platform of the 30S subunit (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit.
+-!- SIMILARITY: Belongs to the ribosomal protein S8P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

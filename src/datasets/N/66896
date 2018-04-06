@@ -1,0 +1,10 @@
+AC   Q99LJ6;
+Glutathione peroxidase 7 precursor (EC 1.11.1.9).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- CATALYTIC ACTIVITY: 2 glutathione + H(2)O(2) = glutathione
+    disulfide + 2 H(2)O.
+-!- SUBCELLULAR LOCATION: Secreted protein (Potential).
+-!- SIMILARITY: Belongs to the glutathione peroxidase family.
+Oxidoreductase; Peroxidase; Signal.
+TMZERO

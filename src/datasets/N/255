@@ -1,0 +1,22 @@
+AC   P10316;
+HLA class I histocompatibility antigen, A-69 alpha chain (MHC class I
+antigen A*69) (Aw-69) (A-28).
+"Exon shuffling in vivo can generate novel HLA class I molecules.";
+-!- FUNCTION: Involved in the presentation of foreign antigens to the
+    immune system.
+-!- SUBUNIT: Heterodimer of an alpha chain and a beta chain (beta-2-
+    microglobulin). Interacts with human herpesvirus 8 MIR1 protein
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- PTM: Polyubiquitinated in a post ER compartment by interaction
+    with human herpesvirus 8 MIR1 protein. This targets the protein
+    for rapid degradation via the ubiquitin system (By similarity).
+-!- POLYMORPHISM: The only allele of A-69 known is A*6901 which is
+    shown here.
+-!- SIMILARITY: Belongs to the MHC class I family.
+-!- SIMILARITY: Contains 1 Ig-like C1-type (immunoglobulin-like)
+    domain.
+Glycoprotein; Host-virus interaction; Immune response; MHC I;
+Ubl conjugation.
+TMZERO

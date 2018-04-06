@@ -1,0 +1,20 @@
+AC   Q27965; Q28122;
+Heat shock 70 kDa protein 1B (HSP70.2).
+"Partial and complete sequences of bovine HSP70-1 and HSP70-2 genes.";
+"Deletion of one of the duplicated Hsp70 genes causes hereditary
+myopathy of diaphragmatic muscles in Holstein-Friesian cattle.";
+"Heat-shock promoter-driven synthesis of secreted bovine herpesvirus
+glycoproteins in transfected cells.";
+-!- FUNCTION: In cooperation with other chaperones, Hsp70s stabilize
+    preexistent proteins against aggregation and mediate the folding
+    of newly translated polypeptides in the cytosol as well as within
+    organelles. These chaperones participate in all these processes
+    through their ability to recognize nonnative conformations of
+    other proteins. They bind extended peptide segments with a net
+    hydrophobic character exposed by polypeptides during translation
+    and membrane translocation, or following stress-induced damage (By
+    similarity).
+-!- INDUCTION: By heat shock.
+-!- SIMILARITY: Belongs to the heat shock protein 70 family.
+ATP-binding; Chaperone; Heat shock; Nucleotide-binding.
+TMZERO

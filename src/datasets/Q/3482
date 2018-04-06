@@ -1,0 +1,47 @@
+AC   P07845;
+Sticholysin-2 (Sticholysin II) (Cytolysin St II) (StnII) (Cytolysin
+III) (Cytotoxin).
+"Primary structure of Stoichactis helianthus cytolysin III.";
+"Primary structure of two cytolysin isoforms from Stichodactyla
+helianthus differing in their hemolytic activity.";
+"Cloning and expression of sticholysin II from sea anemone,
+Stichodactyla helianthus.";
+"Purification and characterization of two hemolysins from
+Stichodactyla helianthus.";
+"Properties of St I and St II, two isotoxins isolated from
+Stichodactyla helianthus: a comparison.";
+"Phenotypic selection and characterization of randomly produced non-
+haemolytic mutants of the toxic sea anemone protein sticholysin II.";
+"Model peptides mimic the structure and function of the N-terminus of
+the pore-forming toxin sticholysin II.";
+"Immunohistochemical targeting of sea anemone cytolysins on tentacles,
+mesenteric filaments and isolated nematocysts of Stichodactyla
+helianthus.";
+"Crystal and electron microscopy structures of sticholysin II
+actinoporin reveal insights into the mechanism of membrane pore
+formation.";
+-!- FUNCTION: This cardiac stimulatory and hemolytic pore-forming
+    protein forms cations-selective hydrophilic pores of around 1 nm.
+    Pore formation proceeds by membrane binding via a surface rich in
+    aromatic residues, followed by translocation of the N-terminal
+    region to the membrane and, finally, across the bilayer to form a
+    functional pore.
+-!- SUBUNIT: Tetramer in the presence of a lipidic interface. Monomer,
+    in soluble state (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=Found in nematocyst.
+-!- TISSUE SPECIFICITY: Expressed in tentacles and mesenteric
+    filaments.
+-!- DOMAIN: The N-terminal region, before the pore is formed, is bound
+    to the lipid membrane. It partitions into the lipid-water
+    interface and stabilizes the monomeric molecule on the membrane.
+    Finally, it traverses the bilayer, thus forming the transmembrane
+    pore (By similarity).
+-!- DOMAIN: The Trp-rich region is important for the binding to lipid
+    membrane (By similarity).
+-!- MASS SPECTROMETRY: MW=19293; MW_ERR=2; METHOD=Electrospray;
+    RANGE=1-175; NOTE=Ref.2.
+-!- SIMILARITY: Belongs to the sea anemone actinoporin family.
+3D-structure; Cytolysis; Direct protein sequencing; Hemolysis;
+Ion transport; Membrane; Nematocyst; Porin; Toxin; Transmembrane;
+Transport.
+TMZERO

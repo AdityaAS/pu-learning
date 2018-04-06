@@ -1,0 +1,13 @@
+AC   O19006;
+Bone morphogenetic protein 2 precursor (BMP-2).
+"Bone morphogenetic protein 2 transcripts in rapidly developing deer
+antler tissue contain an extended 5' non-coding region arising from a
+distal promoter.";
+-!- FUNCTION: Induces cartilage and bone formation.
+-!- SUBUNIT: Homodimer; disulfide-linked. Interacts with SOSTDC1 and
+    GREM2 (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- SIMILARITY: Belongs to the TGF-beta family.
+Chondrogenesis; Cytokine; Developmental protein; Differentiation;
+Glycoprotein; Growth factor; Osteogenesis; Signal.
+TMZERO

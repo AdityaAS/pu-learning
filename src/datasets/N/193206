@@ -1,0 +1,25 @@
+AC   O68427;
+Tryptophan biosynthesis protein trpCF [Includes: Indole-3-glycerol
+phosphate synthase (EC 4.1.1.48) (IGPS); N-(5'-phospho-
+ribosyl)anthranilate isomerase (EC 5.3.1.24) (PRAI)].
+"The endosymbiont (Buchnera) of the aphid Diuraphis noxia contains all
+the genes of the tryptophan biosynthetic pathway.";
+-!- FUNCTION: Bifunctional enzyme that catalyzes two sequential steps
+    of tryptophan biosynthetic pathway. The first reaction is
+    catalyzed by the isomerase, coded by the trpF domain; the second
+    reaction is catalyzed by the synthase, coded by the trpC domain.
+-!- CATALYTIC ACTIVITY: N-(5-phospho-beta-D-ribosyl)anthranilate = 1-
+    (2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate.
+-!- CATALYTIC ACTIVITY: 1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-
+    phosphate = C(1)-(3-indolyl)-glycerol 3-phosphate + CO(2) + H(2)O.
+-!- PATHWAY: Amino-acid biosynthesis; L-tryptophan biosynthesis; L-
+    tryptophan from chorismate: step 3.
+-!- PATHWAY: Amino-acid biosynthesis; L-tryptophan biosynthesis; L-
+    tryptophan from chorismate: step 4.
+-!- SIMILARITY: In the N-terminal section; belongs to the trpC family.
+-!- SIMILARITY: In the C-terminal section; belongs to the trpF family.
+ GO:0000162; P:tryptophan biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Decarboxylase; Isomerase; Lyase; Multifunctional enzyme;
+Tryptophan biosynthesis.
+TMZERO

@@ -1,0 +1,17 @@
+AC   Q5HPS2;
+Translation initiation factor IF-2.
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: One of the essential components for the initiation of
+    protein synthesis. Protects formylmethionyl-tRNA from spontaneous
+    hydrolysis and promotes its binding to the 30S ribosomal subunits.
+    Also involved in the hydrolysis of GTP during the formation of the
+    70S ribosomal complex (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the IF-2 family.
+ GO:0003924; F:GTPase activity; IEA:HAMAP.
+Complete proteome; GTP-binding; Initiation factor; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

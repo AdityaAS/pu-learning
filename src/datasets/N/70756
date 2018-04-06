@@ -1,0 +1,22 @@
+AC   P84791;
+Hemoglobin subunit alpha-D (Hemoglobin alpha-D chain) (Alpha-D-
+globin).
+"Molecular mechanism of high altitude respiration: primary structure
+of a minor hemoglobin component from Tufted duck (Aythya fuligula,
+Anseriformes).";
+-!- FUNCTION: Involved in oxygen transport from the lung to the
+    various peripheral tissues.
+-!- SUBUNIT: Heterotetramer of two alpha-D chains and two beta chains.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- DEVELOPMENTAL STAGE: In birds, the alpha-D chain occurs in a minor
+    hemoglobin component, called hemoglobin d, which is expressed in
+    late embryonic and adult life.
+-!- MASS SPECTROMETRY: MW=15745; METHOD=Electrospray; RANGE=1-141;
+    NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the globin family.
+ GO:0005833; C:hemoglobin complex; IDA:UniProtKB.
+ GO:0019825; F:oxygen binding; IDA:UniProtKB.
+ GO:0015671; P:oxygen transport; IDA:UniProtKB.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

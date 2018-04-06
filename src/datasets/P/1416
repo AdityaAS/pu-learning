@@ -1,0 +1,31 @@
+AC   Q9BZC7;
+ATP-binding cassette sub-family A member 2 (ATP-binding cassette
+transporter 2) (ATP-binding cassette 2).
+"Complete coding sequence, promoter region, and genomic structure of
+the human ABCA2 gene and evidence for sterol-dependent regulation in
+macrophages.";
+-!- FUNCTION: Probable transporter, its natural substrate has not been
+    found yet. May have a role in macrophage lipid metabolism and
+    neural development.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family. ABCA subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0043190; C:ATP-binding cassette (ABC) transporter complex; NAS:UniProtKB.
+ GO:0016023; C:cytoplasmic membrane-bound vesicle; ISS:UniProtKB.
+ GO:0016021; C:integral to membrane; IDA:UniProtKB.
+ GO:0005765; C:lysosomal membrane; IDA:UniProtKB.
+ GO:0005815; C:microtubule organizing center; ISS:UniProtKB.
+ GO:0005524; F:ATP binding; IDA:UniProtKB.
+ GO:0016887; F:ATPase activity; IDA:UniProtKB.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; NAS:UniProtKB.
+ GO:0042632; P:cholesterol homeostasis; IEP:UniProtKB.
+ GO:0006629; P:lipid metabolism; NAS:UniProtKB.
+ GO:0032383; P:regulation of intracellular cholesterol tra...; IMP:UniProtKB.
+ GO:0006357; P:regulation of transcription from RNA polyme...; IDA:UniProtKB.
+ GO:0042493; P:response to drug; TAS:UniProtKB.
+ GO:0048545; P:response to steroid hormone stimulus; IEP:UniProtKB.
+ GO:0006810; P:transport; NAS:UniProtKB.
+ATP-binding; Glycoprotein; Membrane; Nucleotide-binding; Repeat;
+Transmembrane; Transport.
+TMFOURTEEN

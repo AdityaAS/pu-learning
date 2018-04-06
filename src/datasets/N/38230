@@ -1,0 +1,14 @@
+AC   Q8YD04;
+D-amino acid dehydrogenase small subunit (EC 1.4.99.1).
+"The genome sequence of the facultative intracellular pathogen
+Brucella melitensis.";
+-!- FUNCTION: Oxidative deamination of D-amino acids (By similarity).
+-!- CATALYTIC ACTIVITY: A D-amino acid + H(2)O + acceptor = a 2-oxo
+    acid + NH(3) + reduced acceptor.
+-!- COFACTOR: FAD (By similarity).
+-!- SUBUNIT: Heterodimer of a small and a large subunit (By
+    similarity).
+-!- SIMILARITY: Belongs to the dadA oxidoreductase family.
+ GO:0008718; F:D-amino-acid dehydrogenase activity; IEA:HAMAP.
+Complete proteome; FAD; Flavoprotein; Oxidoreductase.
+TMZERO

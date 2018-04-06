@@ -1,0 +1,8 @@
+AC   Q9UTP0;
+60S ribosomal protein L30-2.
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- MISCELLANEOUS: There are two genes for L30E in S.pombe.
+-!- SIMILARITY: Belongs to the ribosomal protein L30e family.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+Complete proteome; Ribonucleoprotein; Ribosomal protein.
+TMZERO

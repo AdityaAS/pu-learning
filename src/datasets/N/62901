@@ -1,0 +1,26 @@
+AC   P52981;
+1,4-alpha-glucan branching enzyme (EC 2.4.1.18) (Glycogen branching
+enzyme) (BE) (1,4-alpha-D-glucan:1,4-alpha-D-glucan 6-glucosyl-
+transferase).
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. I. Sequence features in the 1 Mb
+region from map positions 64% to 92% of the genome.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- FUNCTION: Catalyzes the formation of the alpha-1,6-glucosidic
+    linkages in glycogen by scission of a 1,4-alpha-linked
+    oligosaccharide from growing alpha-1,4-glucan chains and the
+    subsequent attachment of the oligosaccharide to the alpha-1,6
+    position (By similarity).
+-!- CATALYTIC ACTIVITY: Transfers a segment of a 1,4-alpha-D-glucan
+    chain to a primary hydroxy group in a similar glucan chain.
+-!- PATHWAY: Glycogen biosynthesis; third step.
+-!- SUBUNIT: Monomer (By similarity).
+-!- INTERACTION:
+    P52231:trxA; NbExp=1; IntAct=EBI-862111, EBI-862916;
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 13 family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Glycogen biosynthesis; Glycosyltransferase;
+Transferase.
+TMZERO

@@ -1,0 +1,18 @@
+AC   P48632; Q51339;
+Ferripyoverdine receptor precursor.
+"Cloning and nucleotide sequence analysis of the ferripyoverdine
+receptor gene fpvA of Pseudomonas aeruginosa.";
+"Characterisation of the pvdE gene which is required for pyoverdine
+synthesis in Pseudomonas aeruginosa.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Receptor for the siderophore ferripyoverdine.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- INDUCTION: By the siderophore, pyoverdine, and under iron
+    starvation conditions.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+-!- CAUTION: It is uncertain whether Met-1 or Met-16 is the initiator.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ion transport; Iron; Iron transport; Membrane; Outer membrane;
+Receptor; Signal; TonB box; Transport.
+TMZERO

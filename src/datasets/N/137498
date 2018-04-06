@@ -1,0 +1,24 @@
+AC   Q03432;
+Formyltetrahydrofolate deformylase (EC 3.5.1.10) (Formyl-FH(4)
+hydrolase).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+"Cloning and sequencing of the Haemophilus influenzae aroA gene.";
+-!- FUNCTION: Produces formate from formyl-tetrahydrofolate. Provides
+    the major source of formate for the purT-dependent synthesis of
+    5'-phosphoribosyl-N-formylglycinamide (FGAR) during aerobic
+    growth. Has a role in regulating the one-carbon pool (By
+    similarity).
+-!- CATALYTIC ACTIVITY: 10-formyltetrahydrofolate + H(2)O = formate +
+    tetrahydrofolate.
+-!- ENZYME REGULATION: Activated by methionine, inhibited by glycine
+    (By similarity).
+-!- PATHWAY: Nucleotide biosynthesis; IMP biosynthesis; formate from
+    10-formyltetrahydrofolate: single step.
+-!- PATHWAY: Context: Purine biosynthesis.
+-!- SUBUNIT: Homohexamer (By similarity).
+-!- SIMILARITY: Belongs to the purU family.
+-!- SIMILARITY: Contains 1 ACT domain.
+Complete proteome; Hydrolase; One-carbon metabolism;
+Purine biosynthesis.
+TMZERO

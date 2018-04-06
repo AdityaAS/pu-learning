@@ -1,0 +1,13 @@
+AC   Q12428;
+Uncharacterized protein YPR002W.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Global analysis of protein expression in yeast.";
+-!- MISCELLANEOUS: Present with 2730 molecules/cell.
+-!- SIMILARITY: Belongs to the mmgE/prpD family.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005741; C:mitochondrial outer membrane; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0003674; F:molecular_function; TAS:SGD.
+ GO:0019541; P:propionate metabolism; IMP:SGD.
+Complete proteome.
+TMZERO

@@ -1,0 +1,11 @@
+AC   P60784; P31056;
+UPF0078 membrane protein ygiH.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the UPF0078 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMFIVE

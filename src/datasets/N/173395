@@ -1,0 +1,29 @@
+AC   Q9LUB6;
+F-box protein SNE (Protein SNEEZY) (Sleepy protein 2).
+"Structural analysis of Arabidopsis thaliana chromosome 5. X. Sequence
+features of the regions of 3,076,755 bp covered by sixty P1 and TAC
+clones.";
+"Arabidopsis cDNA clones.";
+"The Arabidopsis mutant sleepy1gar2-1 protein promotes plant growth by
+increasing the affinity of the SCFSLY1 E3 ubiquitin ligase for DELLA
+protein substrates.";
+"Recessive-interfering mutations in the gibberellin signaling gene
+SLEEPY1 are rescued by overexpression of its homologue, SNEEZY.";
+-!- FUNCTION: Essential component of a SCF-type E3 ligase complex that
+    positively regulates the gibberellin signaling pathway. Upon
+    gibberellin treatment, such complex probably mediates the
+    ubiquitination and subsequent degradation of DELLA proteins (GAI,
+    RGA and RGL2), some repressors of the gibberellin pathway, leading
+    to activate the pathway. Can partially complement the absence of
+    GID2/SLY1.
+-!- PATHWAY: Ubiquitin conjugation; third step.
+-!- SUBUNIT: Probable component of some SCF complex, which consist of
+    some SKP1, a cullin, SNE/SLY2 and some RING box protein. Interacts
+    directly with SKP1A and SKP1B.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- TISSUE SPECIFICITY: Highly expressed in flowers and at much lower
+    level in seedlings, rosette leaves and green siliques.
+-!- SIMILARITY: Contains 1 F-box domain.
+Gibberellin signaling pathway; Nuclear protein;
+Ubl conjugation pathway.
+TMZERO

@@ -1,0 +1,11 @@
+AC   Q7MBG5;
+Glutamyl-tRNA reductase (EC 1.2.1.70) (GluTR).
+"Complete genome sequence and analysis of Wolinella succinogenes.";
+-!- CATALYTIC ACTIVITY: L-glutamate 1-semialdehyde + NADP(+) +
+    tRNA(Glu) = L-glutamyl-tRNA(Glu) + NADPH.
+-!- PATHWAY: Cofactor biosynthesis; porphyrin biosynthesis; 5-
+    aminolevulinate from L-glutamyl-tRNA(Glu): step 1.
+-!- SIMILARITY: Belongs to the glutamyl-tRNA reductase family.
+ GO:0015995; P:chlorophyll biosynthesis; IEA:HAMAP.
+Complete proteome; NADP; Oxidoreductase; Porphyrin biosynthesis.
+TMZERO

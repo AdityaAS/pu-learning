@@ -1,0 +1,10 @@
+AC   O07881;
+Glucose uptake protein glcU.
+"Identification of a gene in Staphylococcus xylosus encoding a novel
+glucose uptake protein.";
+-!- FUNCTION: Involved in the uptake of glucose.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the GRP transporter (TC 2.A.7.5) family.
+Membrane; Sugar transport; Transmembrane; Transport.
+TMTEN

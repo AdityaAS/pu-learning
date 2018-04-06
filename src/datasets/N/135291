@@ -1,0 +1,11 @@
+AC   Q98FL2;
+Phosphate-binding periplasmic protein precursor (PBP).
+"Complete genome structure of the nitrogen-fixing symbiotic bacterium
+Mesorhizobium loti.";
+-!- FUNCTION: Required for binding-protein-mediated phosphate
+    transport (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (Potential).
+-!- SIMILARITY: Belongs to the pstS family.
+Complete proteome; Periplasmic; Phosphate transport; Signal;
+Transport.
+TMZERO

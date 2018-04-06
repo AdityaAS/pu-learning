@@ -1,0 +1,28 @@
+AC   P45187;
+Chromosome partition protein mukB (Structural maintenance of
+chromosome-related protein).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: Plays a central role in chromosome condensation,
+    segregation and cell cycle progression. Functions as a homodimer,
+    which is essential for chromosome partition. Involved in negative
+    DNA supercoiling in vivo, and by this means organize and compact
+    chromosomes. May achieve or facilitate chromosome segregation by
+    condensation DNA from both sides of a centrally located replisome
+    during cell division (By similarity).
+-!- SUBUNIT: Homodimerization via its hinge domain. Binds to DNA via
+    its C-terminal region. Interacts, and probably forms a ternary
+    complex, with mukE and mukF via its C-terminal region. The complex
+    formation is stimulated by calcium or magnesium. Interacts with
+    tubulin-related protein ftsZ (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm; nucleoid (By similarity).
+    Note=Restricted to the nucleoid region (By similarity).
+-!- DOMAIN: The hinge domain, which separates the large intramolecular
+    coiled coil regions, allows the homodimerization, forming a V-
+    shaped homodimer (By similarity).
+-!- SIMILARITY: Belongs to the SMC family. MukB subfamily.
+ GO:0006260; P:DNA replication; IEA:HAMAP.
+ATP-binding; Cell cycle; Cell division; Chromosome partition;
+Coiled coil; Complete proteome; DNA condensation; DNA-binding;
+Nucleotide-binding.
+TMZERO

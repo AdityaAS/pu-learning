@@ -1,0 +1,9 @@
+AC   Q9UX79;
+UPF0211 protein SSO0690.
+"Gene content and organization of a 281-kbp contig from the genome of
+the extremely thermophilic archaeon, Sulfolobus solfataricus P2.";
+"The complete genome of the crenarchaeon Sulfolobus solfataricus P2.";
+-!- SIMILARITY: Belongs to the UPF0211 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

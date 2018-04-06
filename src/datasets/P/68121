@@ -1,0 +1,14 @@
+AC   P15645;
+General secretion pathway protein E (Type II traffic warden ATPase)
+(Pullulanase secretion protein pulE).
+"Pullulanase secretion in Escherichia coli K-12 requires a cytoplasmic
+protein and a putative polytopic cytoplasmic membrane protein.";
+"Protein secretion by Gram-negative bacteria. Characterization of two
+membrane proteins required for pullulanase secretion by Escherichia
+coli K-12.";
+-!- FUNCTION: Involved in a general secretion pathway (GSP) for the
+    export of proteins. Required for the translocation of pullulanase.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the GSP E family.
+ATP-binding; Nucleotide-binding; Transport.
+TMZERO

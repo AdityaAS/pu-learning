@@ -1,0 +1,11 @@
+AC   O60184; Q9USA6;
+Protein C23E6.09 in chromosome II.
+"The genome sequence of Schizosaccharomyces pombe.";
+"Large-scale screening of intracellular protein localization in living
+fission yeast cells by the use of a GFP-fusion genomic DNA library.";
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- SIMILARITY: Contains 9 TPR repeats.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0003714; F:transcription corepressor activity; TAS:GeneDB_SPombe.
+Complete proteome; Nuclear protein; Repeat; TPR repeat.
+TMZERO

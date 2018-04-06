@@ -1,0 +1,43 @@
+AC   Q9VIP8; Q95SA0;
+Protein valois (MEP50 homolog).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Drosophila valois encodes a divergent WD protein that is required for
+Vasa localization and Oskar protein accumulation.";
+"Valois, a component of the nuage and pole plasm, is involved in
+assembly of these structures, and binds to Tudor and the
+methyltransferase Capsuleen.";
+-!- FUNCTION: Involved in specific localization of cytoplasmic
+    proteins during the formation of pole plasm. Required for
+    synthesis and/or stability of oskar protein (osk) and localization
+    of tudor (tud) in both the nuage and posterior pole of the oocyte.
+    Required for normal posterior localization of osk in later stages
+    of oogenesis and for posterior localization of the vasa (vas)
+    protein during the entire process of pole plasm assembly. May act
+    by regulating the complex that contains the arginine N-
+    methyltransferase csul.
+-!- SUBUNIT: Interacts with csul and tud.
+-!- INTERACTION:
+    Q9VID2:dimm; NbExp=1; IntAct=EBI-131470, EBI-166061;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: In oocytes, localizes to pole plasm and nuage
+    (at protein level). Expressed stronger in the germline than in
+    somatic cells. In the germarium it sometimes concentrates in
+    perinuclear aggregates that disappear by stage 2 of oogenesis. At
+    later stages, it is uniformly distributed in the nurse cells and
+    oocyte, as well as in young embryos, with no particular enrichment
+    at the posterior or inside the pole cells (at protein level).
+-!- DEVELOPMENTAL STAGE: Expressed both maternally and zygotically.
+    Abundant in ovaries, early embryos and adult females, but reduced
+    in adult males.
+-!- SIMILARITY: Contains 3 WD repeats.
+ GO:0005737; C:cytoplasm; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0007349; P:cellularization; IMP:FlyBase.
+ GO:0009880; P:embryonic pattern specification; IMP:UniProtKB.
+ GO:0048113; P:pole plasm assembly (sensu Insecta); NAS:FlyBase.
+Complete proteome; Developmental protein; Differentiation; Oogenesis;
+Repeat; WD repeat.
+TMZERO

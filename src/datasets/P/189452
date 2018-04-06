@@ -1,0 +1,18 @@
+AC   Q39002; Q94AN9; Q9C974;
+Chloroplast ADP,ATP carrier protein 1, chloroplast precursor (ADP/ATP
+translocase 1) (Adenine nucleotide translocase 1).
+"Molecular characterization of an Arabidopsis thaliana cDNA encoding a
+novel putative adenylate translocator of higher plants.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Characterization of a novel eukaryotic ATP/ADP translocator located
+in the plastid envelope of Arabidopsis thaliana L.";
+-!- FUNCTION: May function as an ATP importer.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ADP/ATP translocase tlc family.
+ATP-binding; Chloroplast; Membrane; Nucleotide-binding; Plastid;
+Transit peptide; Transmembrane; Transport.
+TMSIX

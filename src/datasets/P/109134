@@ -1,0 +1,19 @@
+AC   P69858; P39372;
+Probable N-acetylneuraminic acid outer membrane channel protein nanC
+precursor (Porin nanC).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Outer membrane channel protein allowing the entry of N-
+    acetylneuraminic acid (Neu5Ac or sialic acid) into the bacteria.
+    NanC proteins form high-conductance channels which are open at low
+    membrane potentials and which have a weak anion selectivity (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the oligogalacturonate-specific porin kdgM
+    (TC 1.B.35) family. NanC subfamily.
+Complete proteome; Ion transport; Membrane; Outer membrane; Porin;
+Signal; Sugar transport; Transmembrane; Transport.
+TMZERO

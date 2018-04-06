@@ -1,0 +1,17 @@
+AC   P0A2L3; O87575; Q9R874;
+Magnesium and cobalt efflux protein corC.
+"Magnesium transport in Salmonella typhimurium: sequence and
+characterization of the corB, corC, and corD genes.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Cloning and sequencing of apolipoprotein N-acyltransferase from
+Salmonella typhimurium.";
+"Magnesium transport in Salmonella typhimurium: the influence of new
+mutations conferring Co2+ resistance on the CorA Mg2+ transport
+system.";
+-!- FUNCTION: Plays a role in the transport of magnesium and cobalt
+    ions (By similarity).
+-!- SIMILARITY: Belongs to the UPF0053 family.
+-!- SIMILARITY: Contains 2 CBS domains.
+CBS domain; Cobalt; Complete proteome; Magnesium; Repeat; Transport.
+TMZERO

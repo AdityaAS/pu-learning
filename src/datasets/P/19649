@@ -1,0 +1,24 @@
+AC   P04817;
+Arginine permease.
+"Yeast arginine permease: nucleotide sequence of the CAN1 gene.";
+"Molecular characterization of the CAN1 locus in Saccharomyces
+cerevisiae. A transmembrane protein without N-terminal hydrophobic
+signal sequence.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Substrate specificity and gene expression of the amino-acid permeases
+in Saccharomyces cerevisiae.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- FUNCTION: High-affinity permease for arginine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0045121; C:lipid raft; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005288; F:arginine permease activity; TAS:SGD.
+ GO:0015174; F:basic amino acid transporter activity; IDA:SGD.
+ GO:0005293; F:lysine permease activity; TAS:SGD.
+ GO:0015802; P:basic amino acid transport; IDA:SGD.
+Amino-acid transport; Complete proteome; Membrane; Phosphorylation;
+Transmembrane; Transport.
+TMEIGHT

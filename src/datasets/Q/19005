@@ -1,0 +1,36 @@
+AC   O08532; O08533; O08534; O08535; O08536;
+Dihydropyridine-sensitive L-type calcium channel subunits alpha-
+2/delta precursor [Contains: L-type calcium channel subunit alpha-2;
+L-type calcium channel subunit delta].
+"Tissue-specific expression of splice variants of the mouse voltage-
+gated calcium channel alpha2/delta subunit.";
+-!- FUNCTION: Calcium channel protein which plays an important role in
+    excitation-contraction coupling.
+-!- SUBUNIT: The L-type calcium channel is composed of four subunits:
+    alpha-1, alpha-2, beta and gamma. Alpha-2 and delta forms
+    heterodimers that are disulfide-linked (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=5;
+    Name=2A;
+      IsoId=O08532-1; Sequence=Displayed;
+    Name=2B;
+      IsoId=O08532-2; Sequence=VSP_050444;
+    Name=2C;
+      IsoId=O08532-3; Sequence=VSP_050445;
+    Name=2D;
+      IsoId=O08532-4; Sequence=VSP_050445, VSP_050446;
+    Name=2E;
+      IsoId=O08532-5; Sequence=VSP_050444, VSP_050446;
+-!- TISSUE SPECIFICITY: Isoform 2A is expressed in skeletal muscle and
+    aorta. Isoform 2B is expressed in brain. Isoform 2C is expressed
+    in heart. Isoform 2D is expressed in heart and smooth muscle.
+    Isoform 2E is expressed in smooth muscle. All five isoforms are
+    expressed in the cardiovascular system.
+-!- PTM: Alpha-2 and delta subunits are proteolytically processed from
+    a precursor form.
+-!- SIMILARITY: Contains 1 VWFA domain.
+Alternative splicing; Calcium; Calcium channel; Calcium transport;
+Glycoprotein; Ion transport; Ionic channel; Membrane; Phosphorylation;
+Signal; Transmembrane; Transport; Voltage-gated channel.
+THTHREE

@@ -1,0 +1,39 @@
+AC   P62996; O15449; Q15815; Q64283;
+Arginine/serine-rich-splicing factor 10 (Transformer-2-beta) (HTRA2-
+beta) (Transformer 2 protein homolog) (Silica-induced gene 41 protein)
+(SIG-41).
+"Isolation of nine gene sequences induced by silica in murine
+macrophages.";
+"Molecular cloning of a mouse homologue for the Drosophila splicing
+regulator Tra2.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Comprehensive identification of phosphorylation sites in postsynaptic
+density preparations.";
+-!- FUNCTION: Sequence-specific RNA-binding protein which participates
+    in the control of pre-mRNA splicing (By similarity).
+-!- SUBUNIT: Found in a pre-mRNA exonic splicing enhancer (ESE)
+    complex with SFRS10, SNRP70, SNRPA1 and SRRM1. Binds to A3
+    enhancer proteins SFRS4, SFRS5, SFRS6 and SFRS9. Interacts with
+    CPSF6, RNPS1, SAFB/SAFB1 and phosphorylated FUSIP1 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=P62996-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P62996-2; Sequence=VSP_011509, VSP_011510;
+-!- TISSUE SPECIFICITY: Widely expressed. Highly expressed in uterus
+    and brain.
+-!- INDUCTION: Induced by reoxygenation following hypoxia and by
+    exposure to silica. Repressed by interferon gamma, LPS and TPA.
+-!- PTM: Phosphorylated in the RS domains (By similarity).
+-!- SIMILARITY: Belongs to the splicing factor SR family.
+-!- SIMILARITY: Contains 1 RRM (RNA recognition motif) domain.
+ GO:0005634; C:nucleus; ISS:UniProtKB.
+ GO:0000398; P:nuclear mRNA splicing, via spliceosome; ISS:UniProtKB.
+Alternative splicing; Methylation; mRNA processing; mRNA splicing;
+Nuclear protein; Phosphorylation; RNA-binding.
+TMZERO

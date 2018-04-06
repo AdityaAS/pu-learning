@@ -1,0 +1,16 @@
+AC   P26302;
+Phosphoribulokinase, chloroplast precursor (EC 2.7.1.19)
+(Phosphopentokinase) (PRKase) (PRK).
+"Complete coding sequence of wheat phosphoribulokinase: developmental
+and light-dependent expression of the mRNA.";
+"Structure and sequence of a wheat phosphoribulokinase gene.";
+-!- CATALYTIC ACTIVITY: ATP + D-ribulose 5-phosphate = ADP + D-
+    ribulose 1,5-bisphosphate.
+-!- ENZYME REGULATION: Light regulated via thioredoxin by reversible
+    oxidation/reduction of sulfhydryl/disulfide groups.
+-!- PATHWAY: Carbohydrate biosynthesis; Calvin cycle.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the phosphoribulokinase family.
+ATP-binding; Calvin cycle; Chloroplast; Kinase; Nucleotide-binding;
+Photosynthesis; Plastid; Transferase; Transit peptide.
+TMZERO

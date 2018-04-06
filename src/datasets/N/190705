@@ -1,0 +1,12 @@
+AC   P81598;
+Omega-atracotoxin-Hv1e (Omega-AcTx-Hv1e).
+"Structure-function studies of omega-atracotoxin, a potent antagonist
+of insect voltage-gated calcium channels.";
+-!- FUNCTION: Inhibits insect, but not mammalian, voltage-gated
+    calcium channel currents.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the omega-atracotoxin type 1 family.
+Calcium channel inhibitor; Direct protein sequencing;
+Ionic channel inhibitor; Neurotoxin; Toxin.
+TMZERO

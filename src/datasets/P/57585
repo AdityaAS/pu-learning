@@ -1,0 +1,31 @@
+AC   P21458; P21459;
+DNA translocase ftsK (DNA translocase SpoIIIE).
+"Nucleotide sequence of the sporulation operon, spoIIIE, of Bacillus
+subtilis.";
+"The role of the sporulation gene spoIIIE in the regulation of
+prespore-specific gene expression in Bacillus subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Bacillus subtilis spoIIIE protein required for DNA segregation during
+asymmetric cell division.";
+"An in vivo membrane fusion assay implicates SpoIIIE in the final
+stages of engulfment during Bacillus subtilis sporulation.";
+"Role of Bacillus subtilis SpoIIIE in DNA transport across the mother
+cell-prespore division septum.";
+"Role of cell-specific SpoIIIE assembly in polarity of DNA transfer.";
+-!- FUNCTION: DNA motor protein, which is both required to move DNA
+    out of the region of the septum during cell division and for the
+    septum formation. Tracks DNA in an ATP-dependent manner by
+    generating positive supercoils in front of it and negative
+    supercoils behind it.
+-!- SUBUNIT: Homohexamer. This suggests the formation of a ring
+    between the two cells at the septum that surrounds DNA (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Note=Located at the septum. The large C-terminal part of the
+    protein is cytoplasmic (Potential).
+-!- SIMILARITY: Contains 1 FtsK domain.
+ATP-binding; Cell cycle; Cell division; Chromosome partition;
+Complete proteome; DNA-binding; Membrane; Nucleotide-binding;
+Sporulation; Transmembrane.
+TMFIVE

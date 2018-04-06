@@ -1,0 +1,18 @@
+AC   O75002;
+Nuclear import protein mog1.
+"Fission yeast Mog1p homologue, which interacts with the small GTPase
+Ran, is required for mitosis-to-interphase transition and poly(A)(+)
+RNA metabolism.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Involved in the Ran-GTPase system for nuclear protein
+    import and poly(A)+ mRNA export. Required for mitosis-to-
+    interphase transition.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the MOG1 family.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0000216; P:M/G1 transition of mitotic cell cycle; IMP:GeneDB_SPombe.
+ GO:0016973; P:poly(A)+ mRNA export from nucleus; IMP:GeneDB_SPombe.
+Cell cycle; Cell division; Complete proteome; Mitosis; mRNA transport;
+Nuclear protein; Protein transport; Transport.
+TMZERO

@@ -1,0 +1,11 @@
+AC   P51002;
+Outer membrane protein ompK precursor.
+"Cloning and sequence analysis of Vibrio parahaemolyticus ompK gene
+encoding a 26-kDa outer membrane protein, OmpK, that serves as
+receptor for a broad-host-range vibriophage, KVP40.";
+-!- FUNCTION: Serves as receptor for a broad-host-range vibriophage,
+    KVP40.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: To E.coli tsx.
+Membrane; Outer membrane; Phage recognition; Signal.
+TMZERO

@@ -1,0 +1,12 @@
+AC   Q8CP75;
+Recombination protein U homolog.
+"Genome-based analysis of virulence genes in a non-biofilm-forming
+Staphylococcus epidermidis strain (ATCC 12228).";
+-!- FUNCTION: Required for DNA repair and intramolecular
+    recombination. Seems also to be required for chromosome
+    segregation (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the recU family.
+ GO:0007059; P:chromosome segregation; IEA:HAMAP.
+Complete proteome; DNA damage; DNA recombination; DNA repair.
+TMZERO

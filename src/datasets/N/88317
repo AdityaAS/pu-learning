@@ -1,0 +1,39 @@
+AC   P46863; Q8T0A6; Q9W0I8;
+Bipolar kinesin KRP-130 (Kinesin-like protein Klp61F).
+"The kinesin-like protein KLP61F is essential for mitosis in
+Drosophila.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Identification and partial characterization of six members of the
+kinesin superfamily in Drosophila.";
+"An essential bipolar mitotic motor.";
+-!- FUNCTION: Important role in mitotic dividing cells. Microtubule
+    motor required for spindle body separation. Slow plus-end directed
+    microtubule motor capable of cross-linking and sliding apart
+    antiparallel microtubules, thereby pushing apart the associated
+    spindle poles during spindle assembly and function.
+-!- SUBUNIT: Homotetramer.
+-!- INTERACTION:
+    Q9VKK6:CG14915; NbExp=1; IntAct=EBI-95528, EBI-140585;
+-!- DEVELOPMENTAL STAGE: Specifically expressed in proliferating
+    tissues during embryonic and larval development.
+-!- PTM: Phosphorylation of Thr-933 during mitosis controls the
+    association of Klp61F with the spindle apparatus (By similarity).
+-!- SIMILARITY: Belongs to the kinesin-like protein family. BimC
+    subfamily.
+-!- SIMILARITY: Contains 1 kinesin-motor domain.
+ GO:0005737; C:cytoplasm; IDA:FlyBase.
+ GO:0005783; C:endoplasmic reticulum; IDA:FlyBase.
+ GO:0005794; C:Golgi apparatus; IDA:FlyBase.
+ GO:0005871; C:kinesin complex; IDA:FlyBase.
+ GO:0003774; F:motor activity; IDA:FlyBase.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0007049; P:cell cycle; IMP:FlyBase.
+ GO:0007030; P:Golgi organization and biogenesis; IMP:FlyBase.
+ GO:0007100; P:mitotic centrosome separation; IGI:FlyBase.
+ATP-binding; Cell cycle; Cell division; Coiled coil;
+Complete proteome; Direct protein sequencing; Microtubule; Mitosis;
+Motor protein; Nucleotide-binding; Phosphorylation.
+TMZERO

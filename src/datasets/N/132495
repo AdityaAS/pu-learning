@@ -1,0 +1,17 @@
+AC   P12819;
+Protamine 1A (Protamine PRTP43/PPC 2E).
+"Rainbow trout protamines. Amino acid sequences of six distinct
+proteins from a single testis.";
+"Molecular analysis of the protamine multi-gene family in rainbow
+trout testis.";
+"Closely related mRNA sequences of protamines in rainbow trout
+testis.";
+-!- FUNCTION: Protamines substitute for histones in the chromatin of
+    sperm during the haploid phase of spermatogenesis. They compact
+    sperm DNA into a highly condensed, stable and inactive complex.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Testis.
+Chromosomal protein; Developmental protein; Differentiation;
+Direct protein sequencing; DNA condensation; DNA-binding;
+Nuclear protein; Nucleosome core; Spermatogenesis.
+TMZERO

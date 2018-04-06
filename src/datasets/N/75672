@@ -1,0 +1,27 @@
+AC   O75330; Q92767;
+Hyaluronan mediated motility receptor (Intracellular hyaluronic acid-
+binding protein) (Receptor for hyaluronan-mediated motility) (CD168
+antigen).
+"The human hyaluronan receptor RHAMM is expressed as an intracellular
+protein in breast cancer cells.";
+"The characterization of a human RHAMM cDNA: conservation of the
+hyaluronan-binding domains.";
+"Phosphoproteome analysis of the human mitotic spindle.";
+-!- FUNCTION: Involved in cell motility. When hyaluronan binds to
+    HMMR, the phosphorylation of a number of proteins, including the
+    focal adhesion kinase occurs. May also be involved in cellular
+    transformation and metastasis formation, and in regulating
+    extracellular-regulated kinase (ERK) activity.
+-!- SUBUNIT: Subunit of the HARC complex.
+-!- SUBCELLULAR LOCATION: Cell surface. Cytoplasm (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=A;
+      IsoId=O75330-1; Sequence=Displayed;
+    Name=B;
+      IsoId=O75330-2; Sequence=VSP_004286;
+-!- TISSUE SPECIFICITY: Expressed in breast cancer cell lines and in
+    normal breast tissue.
+Alternative splicing; Glycoprotein; Hyaluronic acid; Phosphorylation;
+Polymorphism; Proteoglycan; Repeat.
+TMZERO

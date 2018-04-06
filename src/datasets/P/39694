@@ -1,0 +1,13 @@
+AC   P0ABP4; Q47134; Q9ZBC9; Q9ZBD0;
+Anaerobic C4-dicarboxylate transporter dcuC.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Responsible for the transport of C4-dicarboxylates
+    during anaerobic growth (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the dcuC/dcuD transporter (TC 2.A.61)
+    family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,15 @@
+AC   Q52812; Q1MH71;
+General L-amino acid-binding periplasmic protein aapJ precursor.
+"The general L-amino acid permease of Rhizobium leguminosarum is an
+ABC uptake system that also influences efflux of solutes.";
+"The genome of Rhizobium leguminosarum has recognizable core and
+accessory components.";
+-!- FUNCTION: Part of a binding-protein-dependent transport system for
+    L-amino acids, affects the uptake as well as efflux of these amino
+    acids.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Amino-acid transport; Complete proteome; Periplasmic; Signal;
+Transport.
+TMZERO

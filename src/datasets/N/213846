@@ -1,0 +1,8 @@
+AC   Q8P8F8;
+UPF0061 protein XCC2284.
+"Comparison of the genomes of two Xanthomonas pathogens with differing
+host specificities.";
+-!- SIMILARITY: Belongs to the UPF0061 (SELO) family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

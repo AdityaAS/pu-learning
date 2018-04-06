@@ -1,0 +1,8 @@
+AC   Q26603;
+Homeobox protein SMOX-4 (Fragment).
+"Conserved classes of homeodomains in Schistosoma mansoni, an early
+bilateral metazoan.";
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+DNA-binding; Homeobox; Nuclear protein.
+TMZERO

@@ -1,0 +1,17 @@
+AC   Q9KDW4;
+S-adenosylmethionine decarboxylase proenzyme 2 (EC 4.1.1.50) (AdoMetDC
+2) (SamDC 2) [Contains: S-adenosylmethionine decarboxylase 2 beta
+chain; S-adenosylmethionine decarboxylase 2 alpha chain].
+"Complete genome sequence of the alkaliphilic bacterium Bacillus
+halodurans and genomic sequence comparison with Bacillus subtilis.";
+-!- FUNCTION: Decarboxylation of S-adenosylmethionine provides the
+    aminopropyl moiety required for spermidine biosynthesis from
+    putrescine (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine = (5-deoxy-5-
+    adenosyl)(3-aminopropyl)-methylsulfonium salt + CO(2).
+-!- COFACTOR: Pyruvoyl group (By similarity).
+-!- SIMILARITY: Belongs to the prokaryotic AdoMetDC family. Type 1
+    subfamily.
+Complete proteome; Decarboxylase; Lyase; Pyruvate;
+S-adenosyl-L-methionine; Spermidine biosynthesis; Zymogen.
+TMZERO

@@ -1,0 +1,16 @@
+AC   P50276;
+High-affinity methionine permease.
+"The study of methionine uptake in Saccharomyces cerevisiae reveals a
+new family of amino acid permeases.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High affinity permease for methionine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: To yeast low affinity methionine permease (MUP3).
+ GO:0000102; F:L-methionine porter activity; IDA:SGD.
+ GO:0000101; P:sulfur amino acid transport; IMP:SGD.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTEN

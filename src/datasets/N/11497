@@ -1,0 +1,14 @@
+AC   P14217;
+Arylsulfatase precursor (EC 3.1.6.1) (AS) (Aryl-sulfate
+sulphohydrolase).
+"Structure and expression of the gene encoding the periplasmic
+arylsulfatase of Chlamydomonas reinhardtii.";
+-!- CATALYTIC ACTIVITY: A phenol sulfate + H(2)O = a phenol + sulfate.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- INDUCTION: By sulfur deprivation.
+-!- SIMILARITY: Belongs to the sulfatase family.
+-!- CAUTION: Ref.1 (CAA34302 and CAA36545) sequences differ from that
+    shown due to several frameshifts.
+Direct protein sequencing; Glycoprotein; Hydrolase; Periplasmic;
+Signal.
+TMZERO

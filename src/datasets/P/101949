@@ -1,0 +1,16 @@
+AC   Q55282;
+Manganese transport system membrane protein mntB.
+"Molecular identification of an ABC transporter complex for manganese:
+analysis of a cyanobacterial mutant strain impaired in the
+photosynthetic oxygen evolution process.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+"Membrane topology of MntB, the transmembrane protein component of an
+ABC transporter system for manganese in the cyanobacterium
+Synechocystis sp. strain PCC 6803.";
+-!- FUNCTION: Part of an ATP-driven transport system for manganese.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC-3 integral membrane protein family.
+Complete proteome; Manganese; Membrane; Transmembrane; Transport.
+TMNINE

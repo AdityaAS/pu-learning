@@ -1,0 +1,14 @@
+AC   P32011;
+Daunorubicin resistance transmembrane protein.
+"A bacterial analog of the mdr gene of mammalian tumor cells is
+present in Streptomyces peucetius, the producer of daunorubicin and
+doxorubicin.";
+-!- FUNCTION: DrrA and drrB may act jointly to confer daunorubicin and
+    doxorubicin resistance by an export mechanism.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC-2 integral membrane protein family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-2 domain.
+Antibiotic resistance; Inner membrane; Membrane; Transmembrane;
+Transport.
+TMSIX

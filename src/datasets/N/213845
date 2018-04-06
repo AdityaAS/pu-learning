@@ -1,0 +1,8 @@
+AC   Q74AR8;
+UPF0054 protein GSU2284.
+"Genome of Geobacter sulfurreducens: metal reduction in subsurface
+environments.";
+-!- SIMILARITY: Belongs to the UPF0054 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

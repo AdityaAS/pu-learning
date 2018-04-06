@@ -1,0 +1,10 @@
+AC   Q5NID3;
+50S ribosomal protein L7/L12.
+"The complete genome sequence of Francisella tularensis, the causative
+agent of tularemia.";
+-!- FUNCTION: Seems to be the binding site for several of the factors
+    involved in protein synthesis and appears to be essential for
+    accurate translation (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L12P family.
+Complete proteome; Ribonucleoprotein; Ribosomal protein.
+TMZERO

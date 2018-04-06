@@ -1,0 +1,11 @@
+AC   Q06114; Q663L1;
+Protein yopB.
+"YopB and YopD constitute a novel class of Yersinia Yop proteins.";
+"Insights into the evolution of Yersinia pestis through whole-genome
+comparison with Yersinia pseudotuberculosis.";
+-!- FUNCTION: Plays a role in virulence.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: To Shigella invasion plasmid ipaB.
+Complete proteome; Direct protein sequencing; Membrane; Plasmid;
+Transmembrane; Virulence.
+TMTWO

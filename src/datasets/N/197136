@@ -1,0 +1,22 @@
+AC   P37440; P76963; P77140; P77442;
+Oxidoreductase ucpA (EC 1.-.-.-).
+"Characterization of the Escherichia coli gene encoding a new member
+of the short-chain dehydrogenase/reductase (SDR) family.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Sulfate and thiosulfate transport in Escherichia coli K-12:
+identification of a gene encoding a novel protein involved in
+thiosulfate binding.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+-!- INTERACTION:
+    P0A796:pfkA; NbExp=1; IntAct=EBI-559387, EBI-554405;
+-!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+    (SDR) family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Oxidoreductase.
+TMZERO

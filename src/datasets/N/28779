@@ -1,0 +1,19 @@
+AC   Q72K87;
+Phosphopantetheine adenylyltransferase (EC 2.7.7.3) (Pantetheine-
+phosphate adenylyltransferase) (PPAT) (Dephospho-CoA
+pyrophosphorylase).
+"The genome sequence of the extreme thermophile Thermus
+thermophilus.";
+-!- FUNCTION: Reversibly transfers an adenylyl group from ATP to 4'-
+    phosphopantetheine, yielding dephospho-CoA (dPCoA) and
+    pyrophosphate (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + pantetheine 4'-phosphate = diphosphate +
+    3'-dephospho-CoA.
+-!- PATHWAY: Cofactor biosynthesis; coenzyme A biosynthesis; coenzyme
+    A from pantothenate: step 4.
+-!- SUBUNIT: Homohexamer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the bacterial coaD family.
+Coenzyme A biosynthesis; Complete proteome; Nucleotidyltransferase;
+Transferase.
+TMZERO

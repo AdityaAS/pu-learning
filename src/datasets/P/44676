@@ -1,0 +1,19 @@
+AC   P26906; O34801;
+Dipeptide-binding protein dppE precursor.
+"A Bacillus subtilis dipeptide transport system expressed early during
+sporulation.";
+"Sequence of the Bacillus subtilis genome between xlyA and ykoR.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for dipeptides; probably responsible for the binding of dipeptides
+    with high affinity. Is expressed to facilitate adaptation to
+    nutrient deficiency conditions, which also induce sporulation.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Probable).
+-!- DEVELOPMENTAL STAGE: Expressed early during sporulation.
+-!- INDUCTION: Nutrient deficiency conditions.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 5
+    family.
+Complete proteome; Lipoprotein; Membrane; Palmitate;
+Peptide transport; Protein transport; Signal; Sporulation; Transport.
+TMZERO

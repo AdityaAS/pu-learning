@@ -1,0 +1,36 @@
+AC   Q96C86; Q8NHL8; Q9Y2S5;
+Scavenger mRNA decapping enzyme DcpS (EC 3.-.-.-) (DCS-1) (Hint-
+related 7meGMP-directed hydrolase) (Histidine triad protein member 5)
+(HINT-5).
+"Cloning and characterization of a novel member of the histidine triad
+protein family (HINT-5) in different vertebrate species.";
+"The scavenger mRNA decapping enzyme DcpS is a member of the HIT
+family of pyrophosphatases.";
+"Coordinate expression of NADPH-dependent flavin reductase, Fre-1, and
+Hint-related 7meGMP-directed hydrolase, DCS-1.";
+"Cloning and functional analysis of cDNAs with open reading frames for
+300 previously undefined genes expressed in CD34+ hematopoietic
+stem/progenitor cells.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Functional link between the mammalian exosome and mRNA decapping.";
+"DcpS can act in the 5'-3' mRNA decay pathway in addition to the 3'-5'
+pathway.";
+"Functional analysis of mRNA scavenger decapping enzymes.";
+"Insights into the structure, mechanism, and regulation of scavenger
+mRNA decapping activity.";
+-!- FUNCTION: Necessary for the complete degradation of mRNAs, both in
+    normal mRNA turnover and in nonsense-mediated mRNA decay. Removes
+    the 7-methyl guanine cap structure from mRNA fragments shorter
+    than 10 nucleotides that are produced by 3'->5' exosome-mediated
+    mRNA decay. Releases m7GMP. Can also degrade m7GDP to m7GMP. Has
+    no activity towards mRNA molecules longer than 25 nucleotides.
+-!- SUBUNIT: Homodimer. Associates with components of the exosome
+    multienzyme ribonuclease complex, such as EXOSC3 and EXOSC4.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- TISSUE SPECIFICITY: Detected in liver, brain, kidney, testis and
+    prostate.
+-!- SIMILARITY: Belongs to the HIT family.
+3D-structure; Hydrolase; Nonsense-mediated mRNA decay;
+Nuclear protein; Polymorphism.
+TMZERO

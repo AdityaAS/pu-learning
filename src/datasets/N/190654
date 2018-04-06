@@ -1,0 +1,18 @@
+AC   Q9CK41;
+Trimethylamine-N-oxide reductase precursor (EC 1.7.2.3) (TMAO
+reductase) (Trimethylamine oxidase).
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- FUNCTION: Reduces trimethylamine-N-oxide (TMAO) into
+    trimethylamine; an anaerobic reaction coupled to energy-yielding
+    reactions (By similarity).
+-!- CATALYTIC ACTIVITY: Trimethylamine + 2 (ferricytochrome c)-subunit
+    + H(2)O = trimethylamine N-oxide + 2 (ferrocytochrome c)-subunit +
+    2 H(+).
+-!- COFACTOR: Molybdenum (molybdopterin) (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- PTM: Predicted to be exported by the Tat system. The position of
+    the signal peptide cleavage has not been experimentally proven.
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+Complete proteome; Molybdenum; Oxidoreductase; Periplasmic; Signal.
+TMZERO

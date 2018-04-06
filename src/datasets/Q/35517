@@ -1,0 +1,11 @@
+AC   P54820;
+Cytochrome c-552 (Cytochrome c552).
+"Purification of Paracoccus denitrificans cytochrome c552 and sequence
+analysis of the gene.";
+-!- FUNCTION: Mediates the electron transport between the cytochrome
+    bc1 complex and cytochrome-c oxidase.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass membrane protein.
+-!- PTM: Binds 1 heme group per subunit.
+3D-structure; Direct protein sequencing; Electron transport; Heme;
+Iron; Membrane; Metal-binding; Transmembrane; Transport.
+TMONE

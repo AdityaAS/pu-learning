@@ -1,0 +1,16 @@
+AC   Q7J188; Q0G9J2;
+Photosystem II reaction center protein T (PSII-T).
+"Utility of 17 chloroplast genes for inferring the phylogeny of the
+basal angiosperms.";
+"The tortoise and the hare II: relative utility of 21 noncoding
+chloroplast DNA sequences for phylogenetic analysis.";
+"Complete chloroplast genome sequences of Drimys, Liriodendron, and
+Piper: implications for the phylogeny of magnoliids.";
+-!- FUNCTION: Seems to play a role in the dimerization of PSII (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; single-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the psbT family.
+Chloroplast; Membrane; Photosynthesis; Photosystem II; Plastid;
+Thylakoid; Transmembrane.
+TMONE

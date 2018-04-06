@@ -1,0 +1,17 @@
+AC   P69429; O65938; P27856;
+Sec-independent protein translocase protein tatA.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Required for correct localization of precursor proteins
+    bearing signal peptides with the twin arginine conserved motif
+    S/T-R-R-X-F-L-K. This sec-independent pathway is termed TAT for
+    twin-arginine translocation system. This system mainly transports
+    proteins with bound cofactors that require folding prior to
+    export.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the tatA/E family.
+ GO:0009306; P:protein secretion; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Protein transport;
+Translocation; Transmembrane; Transport.
+TMONE

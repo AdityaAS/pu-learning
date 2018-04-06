@@ -1,0 +1,17 @@
+AC   Q9UMX3;
+Bcl-2-related ovarian killer protein (Hbok).
+"Evolutionarily conserved Bok proteins in the Bcl-2 family.";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Mtd, a novel Bcl-2 family member activates apoptosis in the absence
+of heterodimerization with Bcl-2 and Bcl-XL.";
+-!- FUNCTION: May play a role in apoptosis.
+-!- TISSUE SPECIFICITY: Expressed in brain, liver, appendix and
+    lymphoid tissues.
+-!- SIMILARITY: Belongs to the Bcl-2 family.
+ GO:0046983; F:protein dimerization activity; ISS:UniProtKB.
+ GO:0006915; P:apoptosis; IDA:UniProtKB.
+Apoptosis.
+TMZERO

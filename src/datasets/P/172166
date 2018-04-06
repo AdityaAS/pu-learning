@@ -1,0 +1,23 @@
+AC   P53266;
+Protein SHY1.
+"The sequence of a 23.4 kb segment on the right arm of chromosome VII
+from Saccharomyces cerevisiae reveals CLB6, SPT6, RP28A and NUP57
+genes, a Ty3 element and 11 new open reading frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"SHY1, the yeast homolog of the mammalian SURF-1 gene, encodes a
+mitochondrial protein required for respiration.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Involved in the biogenesis of the COX complex.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 623 molecules/cell.
+-!- SIMILARITY: Belongs to the SURF1 family.
+ GO:0016021; C:integral to membrane; IDA:SGD.
+ GO:0005743; C:mitochondrial inner membrane; IDA:UniProtKB.
+ GO:0015232; F:heme transporter activity; IMP:UniProtKB.
+ GO:0051082; F:unfolded protein binding; IMP:SGD.
+ GO:0009060; P:aerobic respiration; IMP:SGD.
+ GO:0008535; P:cytochrome c oxidase complex assembly; IMP:UniProtKB.
+Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Transmembrane.
+TMTWO

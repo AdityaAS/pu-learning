@@ -1,0 +1,13 @@
+AC   P76201; P76901;
+Putative electron transfer flavoprotein subunit ydiQ.
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: May play a role in a redox process.
+-!- SUBUNIT: YdiR and ydiQ form a heterodimer (Probable).
+-!- SIMILARITY: Belongs to the ETF beta-subunit/fixA family.
+Complete proteome; Electron transport; FAD; Flavoprotein;
+Hypothetical protein; Transport.
+TMZERO

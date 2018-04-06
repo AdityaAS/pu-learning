@@ -1,0 +1,20 @@
+AC   P38104;
+Starvation-sensing protein rspA.
+"Sensing starvation: a homoserine lactone-dependent signaling pathway
+in Escherichia coli.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Probably involved in the degradation of homoserine
+    lactone (HSL) or of a metabolite of HSL that signals starvation.
+-!- INTERACTION:
+    P0A6F5:groL; NbExp=1; IntAct=EBI-1115648, EBI-543750;
+    P76056:intR; NbExp=1; IntAct=EBI-1115648, EBI-1119761;
+    P0A7D4:purA; NbExp=1; IntAct=EBI-1115648, EBI-561301;
+-!- SIMILARITY: Belongs to the mandelate racemase/muconate lactonizing
+    enzyme family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome.
+TMZERO

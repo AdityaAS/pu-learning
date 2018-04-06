@@ -1,0 +1,17 @@
+AC   P04479;
+Colicin-Ib.
+"DNA and amino acid sequence analysis of structural and immunity genes
+of colicins Ia and Ib.";
+"Organization of the colicin Ib gene. Promoter structure and immunity
+domain.";
+"Analysis of a cloned colicin Ib gene: complete nucleotide sequence
+and implications for regulation of expression.";
+-!- FUNCTION: This colicin is a channel-forming colicin. This class of
+    transmembrane toxins depolarize the cytoplasmic membrane, leading
+    to dissipation of cellular energy.
+-!- FUNCTION: Colicins are polypeptide toxins produced by and active
+    against, Escherichia coli and closely related bacteria.
+-!- SIMILARITY: Belongs to the channel forming colicin family.
+Antibiotic; Antimicrobial; Bacteriocin; Membrane; Plasmid;
+Transmembrane.
+TMONE

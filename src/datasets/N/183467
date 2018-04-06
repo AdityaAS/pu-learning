@@ -1,0 +1,24 @@
+AC   Q5E7U0;
+Valyl-tRNA synthetase (EC 6.1.1.9) (Valine--tRNA ligase) (ValRS).
+"Complete genome sequence of Vibrio fischeri: a symbiotic bacterium
+with pathogenic congeners.";
+-!- FUNCTION: Catalyzes the attachment of valine to tRNA(Val). As
+    ValRS can inadvertently accommodate and process structurally
+    similar amino acids such as threonine, to avoid such errors, it
+    has a "posttransfer" editing activity that hydrolyzes mischarged
+    Thr-tRNA(Val) in a tRNA-dependent manner (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + L-valine + tRNA(Val) = AMP + diphosphate
+    + L-valyl-tRNA(Val).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- DOMAIN: ValRS has two distinct active sites: one for
+    aminoacylation and one for editing. The misactivated threonine is
+    translocated from the active site to the editing site (By
+    similarity).
+-!- DOMAIN: The C-terminal coiled-coil domain is crucial for
+    aminoacylation activity (By similarity).
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family. ValS type 1 subfamily.
+Aminoacyl-tRNA synthetase; ATP-binding; Coiled coil;
+Complete proteome; Ligase; Nucleotide-binding; Protein biosynthesis.
+TMZERO

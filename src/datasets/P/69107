@@ -1,0 +1,24 @@
+AC   P53154;
+Glycerol uptake protein 1.
+"Sequence analysis of 203 kilobases from Saccharomyces cerevisiae
+chromosome VII.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"GUP1 and its close homologue GUP2, encoding multimembrane-spanning
+proteins involved in active glycerol uptake in Saccharomyces
+cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in active uptake of glycerol driven by
+    electrogenic proton symport.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Present with 672 molecules/cell.
+-!- SIMILARITY: Belongs to the membrane-bound acyltransferase family.
+ GO:0005783; C:endoplasmic reticulum; IDA:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0019563; P:glycerol catabolism; IGI:SGD.
+ GO:0015793; P:glycerol transport; IGI:SGD.
+ GO:0000723; P:telomere maintenance; IMP:SGD.
+Complete proteome; Membrane; Symport; Transmembrane; Transport.
+TMTEN

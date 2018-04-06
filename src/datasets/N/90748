@@ -1,0 +1,16 @@
+AC   Q4WS57; Q6MYA1;
+Leucine carboxyl methyltransferase 1 (EC 2.1.1.-) (Protein phosphatase
+methyltransferase 1).
+"Insight into the genome of Aspergillus fumigatus: analysis of a 922
+kb region encompassing the nitrate assimilation gene cluster.";
+"Genomic sequence of the pathogenic and allergenic filamentous fungus
+Aspergillus fumigatus.";
+-!- FUNCTION: Methylates the carboxyl group of the C-terminal leucine
+    residue of protein phosphatase 2A catalytic subunits to form
+    alpha-leucine ester residues (By similarity).
+-!- SIMILARITY: Belongs to the methyltransferase superfamily. LCMT
+    family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction.
+Complete proteome; Methyltransferase; Transferase.
+TMZERO

@@ -1,0 +1,19 @@
+AC   Q90ZY0; Q90VW6;
+Pleurocidin precursor.
+"Cloning and developmental expression of a family of pleurocidin-like
+antimicrobial peptides from winter flounder, Pleuronectes americanus
+(Walbaum).";
+"Identification, structure and differential expression of novel
+pleurocidins clustered on the genome of the winter flounder,
+Pseudopleuronectes americanus (Walbaum).";
+"Isolation and characterization of pleurocidin, an antimicrobial
+peptide in the skin secretions of winter flounder.";
+-!- FUNCTION: Antimicrobial peptide with potent activity against Gram-
+    positive and Gram-negative bacteria. Activity against E.coli and
+    B.subtilis. Weaker activity against L.mucor, s.marcescens and
+    P.aeruginosa. May play a role in innate host defense.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Goblet cells.
+-!- SIMILARITY: Belongs to the pleurocidin family.
+Antibiotic; Antimicrobial; Direct protein sequencing; Signal.
+TMZERO

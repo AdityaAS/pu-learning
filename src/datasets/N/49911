@@ -1,0 +1,14 @@
+AC   O54839; Q9QYG7;
+Eomesodermin homolog.
+"A novel mammalian T-box-containing gene, Tbr2, expressed in mouse
+developing brain.";
+"A combined analysis of genomic and primary protein structure defines
+the phylogenetic relationship of new members of the T-box family.";
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Contains 1 T-box DNA-binding domain.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0001824; P:blastocyst development; IMP:MGI.
+ GO:0030154; P:cell differentiation; IMP:MGI.
+Developmental protein; DNA-binding; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

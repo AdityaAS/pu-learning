@@ -1,0 +1,11 @@
+AC   Q9ZUP2;
+DNA repair protein recA homolog 3 (Recombinase A homolog 3).
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+-!- FUNCTION: Involved in recombination ability and DNA strand
+    transfer activity (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the recA family.
+ATP-binding; DNA damage; DNA recombination; DNA-binding;
+Nucleotide-binding.
+TMZERO

@@ -1,0 +1,27 @@
+AC   Q83RN5;
+Respiratory nitrate reductase 1 beta chain (EC 1.7.99.4).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: The nitrate reductase enzyme complex allows S.flexneri
+    to use nitrate as an electron acceptor during anaerobic growth.
+    The beta chain is an electron transfer unit containing four
+    cysteine clusters involved in the formation of iron-sulfur
+    centers. Electrons are transferred from the gamma chain to the
+    molybdenum cofactor of the alpha subunit (By similarity).
+-!- CATALYTIC ACTIVITY: Nitrite + acceptor = nitrate + reduced
+    acceptor.
+-!- COFACTOR: Binds 3 4Fe-4S clusters per subunit (By similarity).
+-!- COFACTOR: Binds 1 3Fe-4S cluster per subunit (By similarity).
+-!- SUBUNIT: Dimer of heterotrimers each composed of an alpha, a beta
+    and a gamma chain. Alpha and beta are catalytic chains; gamma
+    chains are involved in binding the enzyme complex to the
+    cytoplasmic membrane (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- SIMILARITY: Contains 4 4Fe-4S type ferredoxin domains.
+3Fe-4S; 4Fe-4S; Complete proteome; Electron transport; Iron;
+Iron-sulfur; Membrane; Metal-binding; Nitrate assimilation;
+Oxidoreductase; Transport.
+TMZERO

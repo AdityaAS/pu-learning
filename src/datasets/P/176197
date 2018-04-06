@@ -1,0 +1,16 @@
+AC   Q55027; Q31JV9; Q7BA82;
+Probable chromate transport protein.
+"Genes encoded on a cyanobacterial plasmid are transcriptionally
+regulated by sulfur availability and CysR.";
+"pANL, the large plasmid of Synechococcus elongatus PCC 7942.";
+"Complete sequence of plasmid 1 of Synechococcus elongatus PCC 7942.";
+-!- FUNCTION: May function in the active transport of chromate into
+    the cell under sulfur-deficient conditions.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: By sulfur deprivation.
+-!- SIMILARITY: Belongs to the chromate ion transporter (CHR)
+    (TC 2.A.51) family.
+Chromate resistance; Complete proteome; Membrane; Plasmid;
+Transmembrane; Transport.
+TMTEN

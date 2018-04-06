@@ -1,0 +1,20 @@
+AC   Q03412;
+Innexin unc-7 (Uncoordinated protein 7).
+"Molecular and genetic analysis of unc-7, a Caenorhabditis elegans
+gene required for coordinated locomotion.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Structural components of the gap junctions. Required for
+    coordinated locomotion.
+-!- SUBUNIT: Heterooligomer of unc-7 and unc-9 (Probable).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DEVELOPMENTAL STAGE: Present in all developmental stages but most
+    abundant in L1-L3 larvae.
+-!- SIMILARITY: Belongs to the pannexin family.
+ GO:0005921; C:gap junction; IMP:UniProtKB.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0005886; C:plasma membrane; IDA:WormBase.
+ GO:0015286; F:innexin channel activity; IMP:UniProtKB.
+ GO:0040011; P:locomotion; IMP:UniProtKB.
+Complete proteome; Gap junction; Membrane; Transmembrane.
+TMFOUR

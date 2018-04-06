@@ -1,0 +1,47 @@
+AC   P61316; P39178; Q8X5H8;
+Outer-membrane lipoprotein carrier protein precursor (P20).
+"A novel periplasmic carrier protein involved in the sorting and
+transport of Escherichia coli lipoproteins destined for the outer
+membrane.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Characterization of the RcsC->YojN->RcsB phosphorelay signaling
+pathway involved in capsular synthesis in Escherichia coli.";
+"Lipoprotein sorting signals evaluated as the LolA-dependent release
+of lipoproteins from the cytoplasmic membrane of Escherichia coli.";
+"Elucidation of the function of lipoprotein-sorting signals that
+determine membrane localization.";
+"Aminoacylation of the N-terminal cysteine is essential for Lol-
+dependent release of lipoproteins from membranes but does not depend
+on lipoprotein sorting signals.";
+"Mutant of LolA, a lipoprotein-specific molecular chaperone of
+Escherichia coli, defective in the transfer of lipoproteins to LolB.";
+"Dominant negative mutant of a lipoprotein-specific molecular
+chaperone, LolA, tightly associates with LolCDE.";
+"A practical phasing procedure using the MAD method without the aid of
+XAFS measurements: successful solution in the structure determination
+of the outer-membrane lipoprotein carrier LolA.";
+"Crystal structures of bacterial lipoprotein localization factors,
+LolA and LolB.";
+-!- FUNCTION: Participates in the translocation of lipoproteins from
+    the inner membrane to the outer membrane. Only forms a complex
+    with a lipoprotein if the residue after the N-terminal Cys is not
+    an aspartate (The Asp acts as a targeting signal to indicate that
+    the lipoprotein should stay in the inner membrane); the inner
+    membrane retention signal functions at the release step.
+-!- FUNCTION: May act as a regulator of the RCS-phosphorelay signal
+    transduction pathway.
+-!- SUBUNIT: Monomer.
+-!- INTERACTION:
+    P69776:lpp; NbExp=1; IntAct=EBI-553532, EBI-909750;
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the lolA family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Chaperone; Complete proteome; Direct protein sequencing;
+Periplasmic; Protein transport; Signal; Transport.
+TMZERO

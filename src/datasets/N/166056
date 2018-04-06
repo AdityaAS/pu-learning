@@ -1,0 +1,18 @@
+AC   Q71WB7;
+30S ribosomal protein S7.
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- FUNCTION: One of the primary rRNA binding proteins, it binds
+    directly to 16S rRNA where it nucleates assembly of the head
+    domain of the 30S subunit. Is located at the subunit interface
+    close to the decoding center, probably blocks exit of the E-site
+    tRNA (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Contacts proteins S9
+    and S11 (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S7P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding; tRNA-binding.
+TMZERO

@@ -1,0 +1,78 @@
+AC   Q6NXK8; Q50K97;
+Amiloride-sensitive cation channel 2, neuronal (Acid-sensing ion
+channel) (Acid-sensing ion channel 1) (Brain sodium channel 2).
+"Mus musculus mRNA for ASIC1b.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The acid-activated ion channel ASIC contributes to synaptic
+plasticity, learning, and memory.";
+"Acid-sensing ion channel 1 is localized in brain regions with high
+synaptic density and contributes to fear conditioning.";
+"Neuroprotection in ischemia: blocking calcium-permeable acid-sensing
+ion channels.";
+"The ion channel ASIC1 contributes to visceral but not cutaneous
+mechanoreceptor function.";
+"Stomatin modulates gating of acid-sensing ion channels.";
+-!- FUNCTION: Cation channel with high affinity for sodium, which is
+    gated by extracellular protons and inhibited by the diuretic
+    amiloride. Also permeable for Ca(2+), Li(+) and K(+). Generates a
+    biphasic current with a fast inactivating and a slow sustained
+    phase. Mediates glutamate-independent Ca(2+) entry into neurons
+    upon acidosis. This Ca(2+) overloading is toxic for cortical
+    neurons and may be in part responsible for ischemic brain injury.
+    Heteromeric channel assembly seems to modulate channel properties.
+-!- SUBUNIT: Homotetramer or heterotetramer with other ASIC proteins
+    (Probable). Interacts with PRKCABP and ACCN1 (By similarity).
+    Interacts with STOM.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity). Note=Localizes in synaptosomes at dendritic
+    synapses of neurons. Colocalizes with DLG4.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=Asic1a, Asic alpha;
+      IsoId=Q6NXK8-1; Sequence=Displayed;
+    Name=2; Synonyms=Asic1b, Asic beta;
+      IsoId=Q6NXK8-2; Sequence=VSP_015614, VSP_015615;
+-!- TISSUE SPECIFICITY: Expressed in brain areas receiving strong
+    excitatory corticofugal input. In hippocampus, expressed in the
+    hilus of the dentate gyrus. In the cerebral cortex expressed in
+    anterior and posterior cingulate cortex, sensory and motor
+    cortices. In the sensory cortex strongest expression is detected
+    in the whisker barrel field. In sensorimotor and cingulate cortex
+    expression is elevated in layer III. Also expressed in basal
+    ganglia, striatum, ventral pallidum, olfactory tubercle, and
+    nucleus accumbens. Weakly expressed in thalamus with the exception
+    of the habenula and the medial septal nuclei. In olfactory bulb,
+    preferentially expressed in the glomerular layer, within
+    glomeruli. Expressed in cerebellum in the molecular and granule
+    cell layers. Strongly expressed in amygdala complex, particularly
+    in the lateral and basolateral nuclei. Isoform 1 is more abundant
+    in brain compared to isoform 2 (at protein level). Expressed in
+    the nodose ganglion and dorsal root ganglion.
+-!- PTM: Phosphorylation by PKA regulates interaction with PRKCABP and
+    subcellular location. Phosphorylation by PKC may regulate the
+    channel (By similarity).
+-!- MISCELLANEOUS: Potentiated by Ca(2+), Mg(2+), Ba(2+), multivalent
+    cations and potentiated by FMRFamide-related neuropeptides. PH
+    dependence may be regulated by serine proteases. Inhibited by
+    anti-inflammatory drugs like salicylic acid (By similarity).
+-!- MISCELLANEOUS: Mice lacking Accn2 display reduced spatial learning
+    and memory capability, associated with absence of proton-gated
+    currents in hippocampal neurons and impairment of hippocampal long
+    term potentiation (LTP). They also show an increased
+    mechanosensitivity of colonic and gastroesophageal
+    mechanoreceptors and prolonged gastric emptying and an altered
+    fear conditioning.
+-!- SIMILARITY: Belongs to the amiloride-sensitive sodium channel
+    family.
+ GO:0005887; C:integral to plasma membrane; IDA:MGI.
+ GO:0019717; C:synaptosome; IDA:MGI.
+ GO:0005261; F:cation channel activity; IDA:MGI.
+ GO:0008306; P:associative learning; IMP:MGI.
+ GO:0006812; P:cation transport; IDA:MGI.
+ GO:0007613; P:memory; IMP:MGI.
+ GO:0001101; P:response to acid; IDA:MGI.
+Alternative splicing; Calcium; Calcium transport; Glycoprotein;
+Ion transport; Ionic channel; Membrane; Phosphorylation; Sodium;
+Sodium channel; Sodium transport; Transmembrane; Transport.
+TMTWO

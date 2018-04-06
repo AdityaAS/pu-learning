@@ -1,0 +1,19 @@
+AC   P33675; O69010; Q5NM28;
+Enolase (EC 4.2.1.11) (2-phosphoglycerate dehydratase) (2-phospho-D-
+glycerate hydro-lyase).
+"Molecular characterization of the Zymomonas mobilis enolase (eno)
+gene.";
+"The genome sequence of the ethanologenic bacterium Zymomonas mobilis
+ZM4.";
+-!- CATALYTIC ACTIVITY: 2-phospho-D-glycerate = phosphoenolpyruvate +
+    H(2)O.
+-!- COFACTOR: Magnesium. Required for catalysis and for stabilizing
+    the dimer.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 4.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the enolase family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Complete proteome; Glycolysis; Lyase; Magnesium; Metal-binding.
+TMZERO

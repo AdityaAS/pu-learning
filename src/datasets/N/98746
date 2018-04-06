@@ -1,0 +1,18 @@
+AC   P11561;
+Methyl-coenzyme M reductase subunit beta (EC 2.8.4.1) (Coenzyme-B
+sulfoethylthiotransferase beta).
+"Comparative analysis of genes encoding methyl coenzyme M reductase in
+methanogenic bacteria.";
+-!- FUNCTION: Reduction of methyl-coenzyme M (2-(methylthio)
+    ethanesulfonic acid) with 7-mercaptoheptanoylthreonine phosphate
+    to methane and an heterodisulfide.
+-!- CATALYTIC ACTIVITY: 2-(methylthio)ethanesulfonate (methyl-CoM) +
+    N-(7-mercaptoheptanoyl)threonine 3-O-phosphate (coenzyme B) = CoM-
+    S-S-CoB + methane.
+-!- COFACTOR: Binds 2 coenzyme F430 noncovalently per hexamer.
+    Coenzyme F430 is a yellow nickel porphinoid (By similarity).
+-!- PATHWAY: Methanogenesis; last step.
+-!- SUBUNIT: Hexamer of two alpha, two beta, and two gamma chains.
+ GO:0050524; F:coenzyme-B sulfoethylthiotransferase activity; IEA:EC.
+Methanogenesis; Transferase.
+TMZERO

@@ -1,0 +1,17 @@
+AC   P45955; P75756;
+Hypothetical protein ybgF precursor.
+"The excC gene of Escherichia coli K-12 required for cell envelope
+integrity encodes the peptidoglycan-associated lipoprotein (PAL).";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Detection of new genes in a bacterial genome using Markov models for
+three gene classes.";
+-!- SIMILARITY: To P.putida hypothetical protein PP1224 precursor
+    (ORF2) (AC P43037).
+-!- CAUTION: Ref.1 (X65796) sequence differs from that shown due to
+    frameshifts in positions 24 and 41.
+Complete proteome; Hypothetical protein; Signal.
+TMZERO

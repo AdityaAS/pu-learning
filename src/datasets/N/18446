@@ -1,0 +1,21 @@
+AC   P97720;
+Cytochrome P450 11B1, mitochondrial precursor (EC 1.14.15.4) (CYPXIB1)
+(P450C11) (Steroid 11-beta-hydroxylase).
+"The hamster adrenal cytochrome P450C11 has equipotent 11beta-
+hydroxylase and 19-hydroxylase activities, but no aldosterone synthase
+activity.";
+-!- FUNCTION: Forms corticosterone from 11-deoxycorticosterone.
+    Possesses high and nearly equal 11-beta-hydroxylase and 19-
+    hydroxylase activities and a lower 18-hydroxylase activity.
+    Involved in the formation of the precursor of 19-nor-
+    deoxycorticosterone, a very potent mineralocorticoid involved in
+    the development of essential hypertension.
+-!- CATALYTIC ACTIVITY: A steroid + reduced adrenal ferredoxin + O(2)
+    = an 11-beta-hydroxysteroid + oxidized adrenal ferredoxin + H(2)O.
+-!- PATHWAY: Glucocorticoid formation; last step.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+ GO:0004507; F:steroid 11-beta-monooxygenase activity; IEA:EC.
+Heme; Iron; Membrane; Metal-binding; Mitochondrion; Monooxygenase;
+Oxidoreductase; Steroidogenesis; Transit peptide.
+TMZERO

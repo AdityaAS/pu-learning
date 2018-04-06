@@ -1,0 +1,33 @@
+AC   P37702; Q8H7H2; Q93Z31; Q940N8;
+Myrosinase precursor (EC 3.2.1.147) (Sinigrinase) (Thioglucosidase).
+"Arabidopsis cDNA sequence encoding myrosinase.";
+"The myrosinase gene family in Arabidopsis thaliana: gene
+organization, expression and evolution.";
+"Sequence and analysis of chromosome 5 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Signal peptide selection derived cDNAs from Arabidopsis thaliana
+leaves and guard cells.";
+"An inventory of 1152 expressed sequence tags obtained by partial
+sequencing of cDNAs from Arabidopsis thaliana.";
+-!- FUNCTION: Degradation of glucosinolates (glucose residue linked by
+    a thioglucoside bound to an amino acid derivative) to glucose,
+    sulfate and any of the products: thiocyanates, isothiocyanates,
+    nitriles, epithionitriles or oxazolidine-2-thiones.
+-!- CATALYTIC ACTIVITY: A thioglucoside + H(2)O = a sugar + a thiol.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- INTERACTION:
+    Q42403:TRX3; NbExp=1; IntAct=EBI-449510, EBI-449157;
+-!- SUBCELLULAR LOCATION: Vacuole (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=1;
+      Comment=A number of isoforms are produced. According to EST
+      sequences;
+    Name=1;
+      IsoId=P37702-1; Sequence=Displayed;
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 1 family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Alternative splicing; Glycoprotein; Glycosidase; Hydrolase; Signal;
+Vacuole.
+TMZERO

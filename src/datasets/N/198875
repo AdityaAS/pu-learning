@@ -1,0 +1,15 @@
+AC   Q6MS86;
+Uracil phosphoribosyltransferase (EC 2.4.2.9) (UMP pyrophosphorylase)
+(UPRTase).
+"The genome sequence of Mycoplasma mycoides subsp. mycoides SC type
+strain PG1T, the causative agent of contagious bovine pleuropneumonia
+(CBPP).";
+-!- CATALYTIC ACTIVITY: UMP + diphosphate = uracil + 5-phospho-alpha-
+    D-ribose 1-diphosphate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- PATHWAY: Pyrimidine salvage pathway.
+-!- SIMILARITY: Belongs to the UPRTase family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0008655; P:pyrimidine salvage; IEA:HAMAP.
+Complete proteome; Glycosyltransferase; Magnesium; Transferase.
+TMZERO

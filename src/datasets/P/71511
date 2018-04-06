@@ -1,0 +1,22 @@
+AC   Q47142; O05660; P77638;
+Probable 3-phenylpropionic acid transporter.
+"Characterization of the hca cluster encoding the dioxygenolytic
+pathway for initial catabolism of 3-phenylpropionic acid in
+Escherichia coli K-12.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Probable permease involved in the uptake of 3-
+    phenylpropionic acid.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the lacY/rafB permease family. HcaT
+    subfamily.
+-!- CAUTION: Ref.1 (CAA86021) sequence differs from that shown due to
+    a frameshift in position 208.
+Complete proteome; Inner membrane; Membrane; Symport; Transmembrane;
+Transport.
+TMTWELVE

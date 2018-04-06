@@ -1,0 +1,24 @@
+AC   P18776; P77745;
+Anaerobic dimethyl sulfoxide reductase chain B (DMSO reductase iron-
+sulfur subunit).
+"Nucleotide sequence of the dmsABC operon encoding the anaerobic
+dimethylsulphoxide reductase of Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Electron paramagnetic resonance spectroscopic characterization of
+dimethyl sulfoxide reductase of Escherichia coli.";
+"Alteration of the iron-sulfur cluster composition of Escherichia coli
+dimethyl sulfoxide reductase by site-directed mutagenesis.";
+-!- FUNCTION: Electron transfer subunit of the terminal reductase
+    during anaerobic growth on various sulfoxide and N-oxide
+    compounds.
+-!- COFACTOR: Binds 4 4Fe-4S clusters.
+-!- SUBUNIT: Heterotrimeric enzyme composed of a catalytic heterodimer
+    (DmsAB) and a membrane anchor protein (DmsC).
+-!- SIMILARITY: Contains 4 4Fe-4S type ferredoxin domains.
+4Fe-4S; Complete proteome; Direct protein sequencing;
+Electron transport; Iron; Iron-sulfur; Metal-binding; Transport.
+TMZERO

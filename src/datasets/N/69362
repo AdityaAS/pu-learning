@@ -1,0 +1,19 @@
+AC   P48197;
+DNA gyrase subunit B (EC 5.99.1.3).
+"Complete genome sequence of Caulobacter crescentus.";
+"Asymmetric expression of the gyrase B gene from the replication-
+competent chromosome in the Caulobacter crescentus predivisional
+cell.";
+-!- FUNCTION: DNA gyrase negatively supercoils closed circular double-
+    stranded DNA in an ATP-dependent manner and also catalyzes the
+    interconversion of other topological isomers of double-stranded
+    DNA rings, including catenanes and knotted rings.
+-!- CATALYTIC ACTIVITY: ATP-dependent breakage, passage and rejoining
+    of double-stranded DNA.
+-!- SUBUNIT: Made up of two chains. The A chain is responsible for DNA
+    breakage and rejoining; the B chain catalyzes ATP hydrolysis. The
+    enzyme forms an A2B2 tetramer.
+-!- SIMILARITY: Belongs to the type II topoisomerase family.
+ATP-binding; Complete proteome; Isomerase; Nucleotide-binding;
+Topoisomerase.
+TMZERO

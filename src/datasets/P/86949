@@ -1,0 +1,136 @@
+AC   O43526; O43796; O75580; O95845; Q5VYT8; Q96J59; Q99454;
+Potassium voltage-gated channel subfamily KQT member 2 (Voltage-gated
+potassium channel subunit Kv7.2) (Neuroblastoma-specific potassium
+channel subunit alpha KvLQT2) (KQT-like 2).
+"Identification and cloning of neuroblastoma-specific and nerve
+tissue-specific genes through compiled expression profiles.";
+"A novel potassium channel gene, KCNQ2, is mutated in an inherited
+epilepsy of newborns.";
+"A potassium channel mutation in neonatal human epilepsy.";
+"KCNQ2 and KCNQ3 potassium channel subunits: molecular correlates of
+the M-channel.";
+"The KCNQ2 potassium channel: splice variants, functional and
+developmental expression. Brain localization and comparison with
+KCNQ3.";
+"Functional expression of two KvLQT1-related potassium channels
+responsible for an inherited idiopathic epilepsy.";
+"Differential expression of KCNQ2 splice variants: implications to M
+current function during neuronal development.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Moderate loss of function of cyclic-AMP-modulated KCNQ2/KCNQ3 K+
+channels causes epilepsy.";
+"Two types of K(+) channel subunit, Erg1 and KCNQ2/3, contribute to
+the M-like current in a mammalian neuronal cell.";
+"M-type KCNQ2-KCNQ3 potassium channels are modulated by the KCNE2
+subunit.";
+"Surface expression and single channel properties of KCNQ2/KCNQ3, M-
+type K+ channels involved in epilepsy.";
+"Reconstitution of muscarinic modulation of the KCNQ2/KCNQ3 K(+)
+channels that underlie the neuronal M current.";
+"Inhibition of KCNQ1-4 potassium channels expressed in mammalian cells
+via M1 muscarinic acetylcholine receptors.";
+"Modulation of KCNQ2/3 potassium channels by the novel anticonvulsant
+retigabine.";
+"Retigabine, a novel anti-convulsant, enhances activation of KCNQ2/Q3
+potassium channels.";
+"The novel anticonvulsant retigabine activates M-currents in Chinese
+hamster ovary-cells tranfected with human KCNQ2/3 subunits.";
+"Colocalization and coassembly of two human brain M-type potassium
+channel subunits that are mutated in epilepsy.";
+"An unappreciated role for RNA surveillance.";
+"Structural and mutational analysis of KCNQ2, the major gene locus for
+benign familial neonatal convulsions.";
+"Benign familial neonatal convulsions (BFNC) resulting from mutation
+of the KCNQ2 voltage sensor.";
+"Myokymia and neonatal epilepsy caused by a mutation in the voltage
+sensor of the KCNQ2 K+ channel.";
+"KCNQ2 and KCNQ3 potassium channel genes in benign familial neonatal
+convulsions: expansion of the functional and mutation spectrum.";
+"Neonatal convulsions and epileptic encephalopathy in an Italian
+family with a missense mutation in the fifth transmembrane region of
+KCNQ2.";
+"A novel mutation in KCNQ2 associated with BFNC, drug resistant
+epilepsy, and mental retardation.";
+-!- FUNCTION: Probably important in the regulation of neuronal
+    excitability. Associates with KCNQ3 to form a potassium channel
+    with essentially identical properties to the channel underlying
+    the native M-current, a slowly activating and deactivating
+    potassium conductance which plays a critical role in determining
+    the subthreshold electrical excitability of neurons as well as the
+    responsiveness to synaptic inputs. KCNQ2/KCNQ3 current is blocked
+    by linopirdine and XE991, and activated by the anticonvulsant
+    retigabine. Muscarinic agonist oxotremorine-M strongly suppress
+    KCNQ2/KCNQ3 current in cells in which cloned KCNQ2/KCNQ3 channels
+    were coexpressed with M1 muscarinic receptors.
+-!- SUBUNIT: Heteromultimer with KCNQ3. May associate with KCNE2.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=6;
+      Comment=Additional isoforms seem to exist;
+    Name=1;
+      IsoId=O43526-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O43526-2; Sequence=VSP_000988;
+    Name=3;
+      IsoId=O43526-3; Sequence=VSP_000985, VSP_000988;
+      Note=May be produced at very low levels due to a premature stop
+      codon in the mRNA, leading to nonsense-mediated mRNA decay;
+    Name=4;
+      IsoId=O43526-4; Sequence=VSP_000989, VSP_000990;
+    Name=5;
+      IsoId=O43526-5; Sequence=VSP_000984, VSP_000988;
+    Name=6; Synonyms=HNSPC;
+      IsoId=O43526-6; Sequence=VSP_000986, VSP_000987;
+-!- TISSUE SPECIFICITY: In adult and fetal brain. Highly expressed in
+    areas containing neuronal cell bodies, low in spinal chord and
+    corpus callosum. Isoform 2 is preferentially expressed in
+    differentiated neurons, whereas isoform 6 is prominent in fetal
+    brain, undifferentiated neuroblastoma cells, and brain tumors.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids at
+    every third position (By similarity).
+-!- PTM: In Xenopus oocytes KCNQ2/KCNQ3 heteromeric current can be
+    increased by intracellular cyclic AMP, an effect that depends on
+    phosphorylation of Ser-52 in the N-terminus region.
+-!- DISEASE: Defects in KCNQ2 are the cause of benign familial
+    neonatal convulsions type 1 (BFNC1) [MIM:121200]; also known as
+    epilepsy, benign neonatal type 1 (EBN1). BFNC1 is an autosomal
+    dominant form of epilepsy in the newborn that clears spontaneously
+    after a few weeks and is followed by normal psychomotor
+    development.
+-!- DISEASE: Defects in KCNQ2 are the cause of myokymia with neonatal
+    epilepsy [MIM:606437]. Neonatal epilepsy or benign familial
+    neonatal convulsions (BFNC) is a generalized, idiopathic epilepsy
+    syndrome of the newborn. Neonatal epilepsy with myokymia consists
+    of a syndrome in which neonatal epilepsy is followed later in life
+    by myokymia, the spontaneous involuntary contractions of skeletal
+    muscles fiber groups that can be observed as vermiform movement of
+    the overlying skin. Electromyography typically shows continuous
+    motor unit activity with spontaneous oligo- and multiplet-
+    discharges of high intraburst frequency (myokymic discharges).
+-!- MISCELLANEOUS: Inclusion of isoform 6 in heteromultimers results
+    in attenuation of potassium current. Prominent expression of
+    isoform 6 in the developing brain may alter firing repertoires of
+    immature neurons excitability to provide cues for proliferation
+    rather than differentiation.
+-!- MISCELLANEOUS: Mutagenesis experiments were carried out in Xenopus
+    oocytes by coexpression of either KCNQ2(mut) and KCNQ3 at the
+    ratio of 1:1, or of KCNQ2(mut), KCNQ2(wt) and KCNQ3 at the ratio
+    of 1:1:2, to mimic the situation in a heterozygous patient with
+    BFNC1 disease.
+-!- SIMILARITY: Belongs to the potassium channel family. KQT
+    subfamily.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=KCNQ2".
+ GO:0008076; C:voltage-gated potassium channel complex; TAS:ProtInc.
+ GO:0005249; F:voltage-gated potassium channel activity; TAS:ProtInc.
+ GO:0007399; P:nervous system development; TAS:ProtInc.
+ GO:0006813; P:potassium ion transport; TAS:ProtInc.
+ GO:0007268; P:synaptic transmission; TAS:ProtInc.
+Alternative splicing; Disease mutation; Epilepsy; Ion transport;
+Ionic channel; Membrane; Phosphorylation; Polymorphism; Potassium;
+Potassium channel; Potassium transport; Transmembrane; Transport;
+Voltage-gated channel.
+TMSIX

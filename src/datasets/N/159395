@@ -1,0 +1,20 @@
+AC   Q7NK60;
+DNA-directed RNA polymerase omega chain (EC 2.7.7.6) (RNAP omega
+subunit) (Transcriptase omega chain) (RNA polymerase omega subunit).
+"Complete genome structure of Gloeobacter violaceus PCC 7421, a
+cyanobacterium that lacks thylakoids.";
+-!- FUNCTION: Promotes RNA polymerase assembly. Latches the N- and C-
+    terminal regions of the beta' subunit thereby facilitating its
+    interaction with the beta and alpha subunits (By similarity).
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: In cyanobacteria the RNAP catalytic core is composed of 2
+    alpha, 1 beta, 1 beta', 1 gamma and 1 omega subunit. When a sigma
+    factor is associated with the core the holoenzyme is formed, which
+    can initiate transcription (By similarity).
+-!- SIMILARITY: Belongs to the RNA polymerase omega chain family.
+ GO:0003677; F:DNA binding; IEA:HAMAP.
+ GO:0006351; P:transcription, DNA-dependent; IEA:HAMAP.
+Complete proteome; DNA-directed RNA polymerase;
+Nucleotidyltransferase; Transcription; Transferase.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q3Z6S3;
+Glutamyl-tRNA synthetase (EC 6.1.1.17) (Glutamate--tRNA ligase)
+(GluRS).
+"Genome sequence of the PCE-dechlorinating bacterium Dehalococcoides
+ethenogenes.";
+-!- CATALYTIC ACTIVITY: ATP + L-glutamate + tRNA(Glu) = AMP +
+    diphosphate + L-glutamyl-tRNA(Glu).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

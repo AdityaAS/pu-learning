@@ -1,0 +1,47 @@
+AC   P29973; Q16279; Q16485;
+cGMP-gated cation channel alpha 1 (CNG channel alpha 1) (CNG-1) (CNG1)
+(Cyclic nucleotide-gated channel alpha 1) (Cyclic nucleotide-gated
+channel, photoreceptor) (Cyclic nucleotide-gated cation channel 1)
+(Rod photoreceptor cGMP-gated channel subunit alpha).
+"Primary structure and chromosomal localization of human and mouse rod
+photoreceptor cGMP-gated cation channel.";
+"Human rod photoreceptor cGMP-gated channel: amino acid sequence, gene
+structure, and functional expression.";
+"Expression of cyclic nucleotide-gated cation channels in non-sensory
+tissues and cells.";
+"Mutations in the gene encoding the alpha subunit of the rod cGMP-
+gated channel in autosomal recessive retinitis pigmentosa.";
+"Autosomal recessive retinitis pigmentosa in a Pakistani family mapped
+to CNGA1 with identification of a novel mutation.";
+-!- FUNCTION: Visual signal transduction is mediated by a G-protein
+    coupled cascade using cGMP as second messenger. This protein can
+    be activated by cyclic GMP which leads to an opening of the cation
+    channel and thereby causing a depolarization of rod
+    photoreceptors.
+-!- SUBUNIT: Homotetramer or higher oligomer. Forms heterooligomeric
+    complex with CNG4.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Rod cells in the retina.
+-!- DISEASE: Defects in CNGA1 are a cause of autosomal recessive
+    retinitis pigmentosa (ARRP) [MIM:268000]. Retinitis pigmentosa
+    (RP) [MIM:268000] leads to degeneration of retinal photoreceptor
+    cells. Patients typically have night vision blindness and loss of
+    midperipheral visual field. As their condition progresses, they
+    lose their far peripheral visual field and eventually central
+    vision as well.
+-!- SIMILARITY: Belongs to the cyclic nucleotide-gated cation channel
+    (TC 1.A.1.5) family.
+-!- SIMILARITY: Contains 1 cyclic nucleotide-binding domain.
+-!- WEB RESOURCE: NAME=Mutations of the CNGA1 gene;
+    NOTE=Retina International's Scientific Newsletter;
+    URL="http://www.retina-international.com/sci-news/cnga1mut.htm".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=CNGA1".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+ GO:0007601; P:visual perception; TAS:ProtInc.
+cGMP; cGMP-binding; Disease mutation; Glycoprotein; Ion transport;
+Ionic channel; Membrane; Nucleotide-binding; Polymorphism;
+Retinitis pigmentosa; Sensory transduction; Transmembrane; Transport;
+Vision.
+TMSIX

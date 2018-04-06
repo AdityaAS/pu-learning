@@ -1,0 +1,16 @@
+AC   P38580;
+Bacteriocin carnobacteriocin B2 precursor (Carnocin CP52).
+"Chemical and genetic characterization of bacteriocins produced by
+Carnobacterium piscicola LV17B.";
+"Characteristics and genetic determinants of bacteriocin activities
+produced by Carnobacterium piscicola CP5 isolated from cheese.";
+"Solution structure of carnobacteriocin B2 and implications for
+structure-activity relationships among type IIa bacteriocins from
+lactic acid bacteria.";
+-!- FUNCTION: Has antibacterial activity against Listeria and
+    Enterococcus.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the bacteriocin class IIA/YGNGV family.
+3D-structure; Antibiotic; Antimicrobial; Bacteriocin;
+Direct protein sequencing; Plasmid.
+TMZERO

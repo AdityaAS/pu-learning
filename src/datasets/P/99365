@@ -1,0 +1,19 @@
+AC   Q27433;
+Mechanosensory protein 2.
+"A stomatin-like protein necessary for mechanosensation in C.
+elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"The mechanosensory protein MEC-6 is a subunit of the C. elegans
+touch-cell degenerin channel.";
+-!- FUNCTION: Positively regulates the activity of the putative
+    mechanosensory transduction channel. May link the mechanosensory
+    channel and the microtubule cytoskeleton of the touch receptor
+    neurons. Required for the function of a set of six touch receptor
+    neurons.
+-!- SUBUNIT: The channel is probably composed of at least the mec-2,
+    mec-4, mec-6 and mec-10 subunits.
+-!- SIMILARITY: Belongs to the band 7/mec-2 family.
+ GO:0043005; C:neuron projection; IDA:WormBase.
+Complete proteome; Membrane; Transmembrane.
+TMONE

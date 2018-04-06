@@ -1,0 +1,15 @@
+AC   P0A3R6; P04980;
+Pertussis toxin subunit 4 precursor (PTX S4) (Islet-activating protein
+S4) (IAP S4).
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+-!- FUNCTION: PTX oligomer B binds to receptors on the eukaryotic cell
+    surface and facilitates the translocation of the toxic subunit
+    across the cell membrane (By similarity).
+-!- SUBUNIT: Pertussis toxin contains five different chains, S1-S5.
+    They are organized into 2 functional subunits: A, composed of S1
+    (which is toxic) and B, containing S2, S3, S5, and two copies of
+    S4 (B binds to the membrane receptors). Dimers of S2-S4 and S3-S4
+    are held together by S5 (By similarity).
+Complete proteome; Membrane; Signal; Toxin; Whooping cough.
+TMZERO

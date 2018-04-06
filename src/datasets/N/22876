@@ -1,0 +1,22 @@
+AC   P10252;
+CD48 antigen precursor (MRC OX-45 surface antigen) (BCM1 surface
+antigen) (BLAST-1).
+"The MRC OX-45 antigen of rat leukocytes and endothelium is in a
+subset of the immunoglobulin superfamily with CD2, LFA-3 and
+carcinoembryonic antigens.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Ligand for CD2. Might facilitate interaction between
+    activated lymphocytes. Probably involved in regulating T-cell
+    activation.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor.
+-!- SIMILARITY: Contains 1 Ig-like C2-type (immunoglobulin-like)
+    domain.
+-!- SIMILARITY: Contains 1 Ig-like V-type (immunoglobulin-like)
+    domain.
+ GO:0046658; C:anchored to plasma membrane; IDA:RGD.
+ GO:0005886; C:plasma membrane; IDA:RGD.
+ GO:0045576; P:mast cell activation; IMP:RGD.
+Glycoprotein; GPI-anchor; Immunoglobulin domain; Lipoprotein;
+Membrane; Repeat; Signal.
+TMZERO

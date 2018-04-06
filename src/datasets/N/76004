@@ -1,0 +1,19 @@
+AC   Q9Z2X5;
+Homer protein homolog 3 (Homer-3) (VASP/Ena-related gene up-regulated
+during seizure and LTP 3) (Vesl-3).
+"Rattus norvegicus mRNA for Vesl-3, complete cds.";
+-!- FUNCTION: Postsynaptic density scaffolding protein. Binds and
+    cross-links cytoplasmic regions of GRM1, GRM5, ITPR1, DNM3, RYR1,
+    RYR2, SHANK1 and SHANK3. By physically linking GRM1 and GRM5 with
+    ER-associated ITPR1 receptors it aids the coupling of surface
+    receptors to intracellular calcium release (By similarity).
+-!- SUBUNIT: Encodes coiled-coil structures that mediate homo- and
+    heteromultimerization (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Note=Postsynaptic
+    density of neuronal cells (By similarity).
+-!- DOMAIN: The WH1 domain interacts with the PPXXF motif in GRM1,
+    GRM5, RYR1, RYR2, ITPR1, SHANK 1 and SHANK3.
+-!- SIMILARITY: Belongs to the Homer family.
+-!- SIMILARITY: Contains 1 WH1 domain.
+Coiled coil; Phosphorylation.
+TMZERO

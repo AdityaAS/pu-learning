@@ -1,0 +1,22 @@
+AC   Q9STX0;
+Probable WRKY transcription factor 7 (WRKY DNA-binding protein 7).
+"Evidence for an important role of WRKY DNA binding proteins in the
+regulation of NPR1 gene expression.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+"A new member of the Arabidopsis WRKY transcription factor family,
+AtWRKY6, is associated with both senescence- and defence-related
+processes.";
+-!- FUNCTION: Transcription factor. Interacts specifically with the W
+    box (5'-(T)TGAC(C/T)-3'), a frequently occurring elicitor-
+    responsive cis-acting element (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- TISSUE SPECIFICITY: In young, mature and senescent leaves.
+-!- INDUCTION: By salicylic acid and strongly during leaf senescence.
+-!- SIMILARITY: Belongs to the WRKY group II-d family.
+-!- SIMILARITY: Contains 1 WRKY DNA-binding domain.
+DNA-binding; Nuclear protein; Transcription; Transcription regulation.
+TMZERO

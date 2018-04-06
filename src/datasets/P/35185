@@ -1,0 +1,32 @@
+AC   P08033;
+Gap junction beta-1 protein (Connexin-32) (Cx32) (GAP junction 28 kDa
+liver protein).
+"Molecular cloning of cDNA for rat liver gap junction protein.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of a rat liver cDNA and mRNA coding for the 28 kDa gap
+junction protein.";
+"The Mr 28,000 gap junction proteins from rat heart and liver are
+different but related.";
+"Structure of a gap junction gene: rat connexin-32.";
+"Topological analysis of the major protein in isolated intact rat
+liver gap junctions and gap junction-derived single membrane
+structures.";
+"Topography of connexin32 in rat liver gap junctions. Evidence for an
+intramolecular disulphide linkage connecting the two extracellular
+peptide loops.";
+-!- FUNCTION: One gap junction consists of a cluster of closely packed
+    pairs of transmembrane channels, the connexons, through which
+    materials of low MW diffuse from one cell to a neighboring cell.
+-!- SUBUNIT: A connexon is composed of a hexamer of connexins.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the connexin family. Beta-type (group I)
+    subfamily.
+ GO:0005783; C:endoplasmic reticulum; IMP:RGD.
+ GO:0005921; C:gap junction; IDA:RGD.
+ GO:0005243; F:gap-junction forming channel activity; IDA:RGD.
+ GO:0007154; P:cell communication; TAS:RGD.
+ GO:0051259; P:protein oligomerization; IDA:RGD.
+ GO:0015868; P:purine ribonucleotide transport; IDA:RGD.
+Direct protein sequencing; Gap junction; Membrane; Transmembrane.
+TMFOUR

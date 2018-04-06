@@ -1,0 +1,25 @@
+AC   Q9UW81; Q7RVS2;
+Opsin-1 (NR).
+"The nop-1 gene of Neurospora crassa encodes a seven transmembrane
+helix retinal-binding protein homologous to archaeal rhodopsins.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+"A eukaryotic protein, NOP-1, binds retinal to form an archaeal
+rhodopsin-like photochemically reactive pigment.";
+"Photochemical reaction cycle and proton transfers in Neurospora
+rhodopsin.";
+"A Fourier transform infrared study of Neurospora rhodopsin:
+similarities with archaeal rhodopsins.";
+-!- FUNCTION: Could facilitate a sensory photoresponse.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- DEVELOPMENTAL STAGE: Highest expression in sexually differentiated
+    cultures and conidia when there has been exposure to light. Also
+    expressed during vegetative growth.
+-!- PTM: Binds all-trans retinal via a protonated Schiff base linkage.
+-!- SIMILARITY: Belongs to the archaeal/bacterial/fungal opsin family.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0005503; F:all-trans retinal binding; IDA:UniProtKB.
+ GO:0009416; P:response to light stimulus; NAS:UniProtKB.
+Chromophore; Membrane; Photoreceptor protein; Receptor;
+Retinal protein; Schiff base; Sensory transduction; Transmembrane.
+TMSEVEN

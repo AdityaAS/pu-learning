@@ -1,0 +1,9 @@
+AC   Q5LII9;
+Protein mraZ.
+"Extensive DNA inversions in the B. fragilis genome control variable
+gene expression.";
+-!- SUBUNIT: Homooctamer. Forms a ring (By similarity).
+-!- SIMILARITY: Belongs to the mraZ family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

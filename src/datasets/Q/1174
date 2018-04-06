@@ -1,0 +1,14 @@
+AC   Q57JA3;
+p-hydroxybenzoic acid efflux pump subunit aaeA (pHBA efflux pump
+protein A).
+"The genome sequence of Salmonella enterica serovar Choleraesuis, a
+highly invasive and resistant zoonotic pathogen.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein (Potential).
+-!- MISCELLANEOUS: Both aaeA and aaeB are required for the function of
+    the efflux system (By similarity).
+-!- SIMILARITY: Belongs to the membrane fusion protein (MFP)
+    (TC 8.A.1) family.
+ GO:0006810; P:transport; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMONE

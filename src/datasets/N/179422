@@ -1,0 +1,15 @@
+AC   Q9CE80;
+Aspartyl-tRNA synthetase (EC 6.1.1.12) (Aspartate--tRNA ligase)
+(AspRS).
+"The complete genome sequence of the lactic acid bacterium Lactococcus
+lactis ssp. lactis IL1403.";
+-!- CATALYTIC ACTIVITY: ATP + L-aspartate + tRNA(Asp) = AMP +
+    diphosphate + L-aspartyl-tRNA(Asp).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

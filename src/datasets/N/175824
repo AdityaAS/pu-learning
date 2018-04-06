@@ -1,0 +1,17 @@
+AC   P60382; Q99ZF7;
+Regulatory protein spx.
+"Genome sequence and comparative microarray analysis of serotype M18
+group A Streptococcus strains associated with acute rheumatic fever
+outbreaks.";
+-!- FUNCTION: Interferes with activator-stimulated transcription by
+    interaction with the RNA polymerase alpha-CTD. May function to
+    globally reduce transcription of genes involved in growth- and
+    development-promoting processes and to increase transcription of
+    genes involved in thiol homeostasis, during periods of extreme
+    stress (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the arsC family. Spx subfamily.
+ GO:0030528; F:transcription regulator activity; IEA:HAMAP.
+Complete proteome; Redox-active center; Transcription;
+Transcription regulation.
+TMZERO

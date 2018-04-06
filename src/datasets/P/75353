@@ -1,0 +1,11 @@
+AC   P55870;
+Hemolysin ahh1 precursor.
+"Nucleotide sequence and expression of an extracellular hemolysin gene
+of Aeromonas hydrophila.";
+-!- FUNCTION: Bacterial hemolysins are exotoxins that attack blood
+    cell membranes and cause cell rupture by mechanisms not clearly
+    defined.
+-!- SIMILARITY: Belongs to the hlyA hemolysin family.
+-!- SIMILARITY: Contains 1 ricin B-type lectin domain.
+Cytolysis; Hemolysis; Lectin; Signal; Toxin.
+TMZERO

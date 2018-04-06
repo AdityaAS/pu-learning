@@ -1,0 +1,20 @@
+AC   P77348;
+Periplasmic murein peptide-binding protein precursor.
+"MppA, a periplasmic binding protein essential for import of the
+bacterial cell wall peptide L-alanyl-gamma-D-glutamyl-meso-
+diaminopimelate.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Essential for the uptake of the murein peptide L-alanyl-
+    gamma-D-glutamyl-meso-diaminopimelate. Also transports some alpha-
+    linked peptides such as Pro-Phe-Lys with low affinity. The
+    transport is effected by the oligopeptide permease system.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 5
+    family.
+Complete proteome; Direct protein sequencing; Peptide transport;
+Periplasmic; Protein transport; Signal; Transport.
+TMZERO

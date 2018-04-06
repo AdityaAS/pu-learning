@@ -1,0 +1,23 @@
+AC   P38356;
+Metal homeostatis protein BSD2.
+"The requirement for yeast superoxide dismutase is bypassed through
+mutations in BSD2, a novel metal homeostasis gene.";
+"The sequence of a 32,420 bp segment located on the right arm of
+chromosome II from Saccharomyces cerevisiae.";
+"Complete DNA sequence of yeast chromosome II.";
+"Global analysis of protein expression in yeast.";
+"A proteomics approach to understanding protein ubiquitination.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- INTERACTION:
+    P02829:HSP82; NbExp=1; IntAct=EBI-3783, EBI-8659;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Present with 3070 molecules/cell.
+ GO:0005783; C:endoplasmic reticulum; IDA:SGD.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0030001; P:metal ion transport; IMP:SGD.
+ GO:0006623; P:protein targeting to vacuole; IMP:SGD.
+Complete proteome; Membrane; Transmembrane; Ubl conjugation.
+THTHREE

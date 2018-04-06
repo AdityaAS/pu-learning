@@ -1,0 +1,20 @@
+AC   O05783;
+NADPH-ferredoxin reductase fprA (EC 1.18.1.2) (NFR).
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+"Mycobacterium tuberculosis FprA, a novel bacterial NADPH-ferredoxin
+reductase.";
+"Kinetic, spectroscopic and thermodynamic characterization of the
+Mycobacterium tuberculosis adrenodoxin reductase homologue FprA.";
+"A covalent modification of NADP+ revealed by the atomic resolution
+structure of FprA, a Mycobacterium tuberculosis oxidoreductase.";
+-!- CATALYTIC ACTIVITY: Reduced ferredoxin + NADP(+) = oxidized
+    ferredoxin + NADPH.
+-!- COFACTOR: FAD.
+-!- SUBUNIT: Monomer.
+ GO:0004324; F:ferredoxin-NADP+ reductase activity; IEA:EC.
+3D-structure; Complete proteome; Direct protein sequencing; FAD;
+Flavoprotein; NADP; Oxidoreductase.
+TMZERO

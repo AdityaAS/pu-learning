@@ -1,0 +1,32 @@
+AC   P35755; Q53439;
+Iron-utilization periplasmic protein precursor (Major ferric iron-
+binding protein) (Iron-regulated 40 kDa protein) (MIRP) (Fe(3+)-
+binding protein).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+"Identification of a locus involved in the utilization of iron by
+Haemophilus influenzae.";
+"Identification of two iron-repressed periplasmic proteins in
+Haemophilus influenzae.";
+"Two-dimensional map of the proteome of Haemophilus influenzae.";
+"Structure of Haemophilus influenzae Fe(+3)-binding protein reveals
+convergent evolution within a superfamily.";
+"Crystallographic and biochemical analyses of the metal-free
+Haemophilus influenzae Fe(3+)-binding protein.";
+-!- FUNCTION: Part of the ABC transporter complex fbpABC
+    (TC 3.A.1.10.1) involved in Fe(3+) ions import. This protein
+    specifically binds Fe(3+) and is involved in its transmembrane
+    transport (By similarity).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (fbpC), two transmembrane proteins (fbpB) and a solute-binding
+    protein (fbpA) (Probable).
+-!- SUBCELLULAR LOCATION: Periplasm (Probable).
+-!- INDUCTION: By iron deprivation.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 1
+    family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 14.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ion transport; Iron; Iron transport; Metal-binding; Periplasmic;
+Signal; Transport.
+TMZERO

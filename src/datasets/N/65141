@@ -1,0 +1,32 @@
+AC   P37291;
+Serine hydroxymethyltransferase, cytosolic (EC 2.1.2.1) (Serine
+methylase) (Glycine hydroxymethyltransferase) (SHMT).
+"Cloning and molecular characterization of three genes, including two
+genes encoding serine hydroxymethyltransferases, whose inactivation is
+required to render yeast auxotrophic for glycine.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Two-dimensional electrophoretic separation of yeast proteins using a
+non-linear wide range (pH 3-10) immobilized pH gradient in the first
+dimension; reproducibility and evidence for isoelectric focusing of
+alkaline (pI > 7) proteins.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Interconversion of serine and glycine.
+-!- CATALYTIC ACTIVITY: 5,10-methylenetetrahydrofolate + glycine +
+    H(2)O = tetrahydrofolate + L-serine.
+-!- COFACTOR: Pyridoxal phosphate.
+-!- PATHWAY: One-carbon metabolism; tetrahydrofolate pathway.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- INTERACTION:
+    P22035:BAS1; NbExp=1; IntAct=EBI-7744, EBI-3428;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: In eukaryotes there are two forms of the enzymes: a
+    cytosolic one and a mitochondrial one.
+-!- MISCELLANEOUS: Present with 67600 molecules/cell.
+-!- SIMILARITY: Belongs to the SHMT family.
+ GO:0005737; C:cytoplasm; TAS:SGD.
+ GO:0004372; F:glycine hydroxymethyltransferase activity; TAS:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006730; P:one-carbon compound metabolism; TAS:SGD.
+Complete proteome; Direct protein sequencing; One-carbon metabolism;
+Pyridoxal phosphate; Transferase.
+TMZERO

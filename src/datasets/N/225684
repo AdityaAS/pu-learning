@@ -1,0 +1,14 @@
+AC   Q3T196;
+Protein YIF1A (YIP1-interacting factor homolog A).
+-!- FUNCTION: Possible role in transport between endoplasmic reticulum
+    and Golgi (By similarity).
+-!- SUBUNIT: Interacts with YIPF5 (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein. Golgi apparatus; Golgi
+    apparatus membrane; multi-pass membrane protein. Note=Cycles
+    between the endoplasmic reticulum and the endoplasmic reticulum-
+    Golgi intermediate compartment (By similarity).
+-!- SIMILARITY: Belongs to the YIF1 family.
+Endoplasmic reticulum; ER-Golgi transport; Golgi apparatus; Membrane;
+Protein transport; Transmembrane; Transport.
+TMFIVE

@@ -1,0 +1,14 @@
+AC   Q53117;
+Nitrile hydratase subunit beta (EC 4.2.1.84) (Nitrilase) (NHase).
+"Purification, cloning, and primary structure of a new enantiomer-
+selective amidase from a Rhodococcus strain: structural evidence for a
+conserved genetic coupling with nitrile hydratase.";
+-!- FUNCTION: NHase catalyzes the hydration of various nitrile
+    compounds to the corresponding amides.
+-!- CATALYTIC ACTIVITY: An aliphatic amide = a nitrile + H(2)O.
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain.
+-!- BIOTECHNOLOGY: Industrial production of acrylamide is now being
+    developed using some of these enzymes.
+-!- SIMILARITY: Belongs to the nitrile hydratase subunit beta family.
+Lyase.
+TMZERO

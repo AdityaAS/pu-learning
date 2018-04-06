@@ -1,0 +1,13 @@
+AC   Q6UIM1;
+Zinc finger HIT domain-containing protein 3 (Thyroid receptor-
+interacting protein 3) (TRIP-3) (Thyroid hormone receptor interactor
+3) (Fragment).
+"Elevated gene expression levels distinguish human from non-human
+primate brains.";
+-!- FUNCTION: Thyroid receptor interacting proteins (TRIPs)
+    specifically interact with the ligand binding domain of the
+    thyroid receptor (TR). TRIP3 requires the presence of thyroid
+    hormone for its interaction (By similarity).
+-!- SIMILARITY: Contains 1 HIT-type zinc finger.
+Metal-binding; Zinc; Zinc-finger.
+TMZERO

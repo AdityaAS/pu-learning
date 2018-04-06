@@ -1,0 +1,44 @@
+AC   Q62381; Q3UTT9; Q8BNP5;
+Tolloid-like protein 1 precursor (EC 3.4.24.-) (mTll).
+"Characterization of a novel gene product (mammalian tolloid-like)
+with high sequence similarity to mammalian tolloid/bone morphogenetic
+protein-1.";
+"The transcriptional landscape of the mammalian genome.";
+"Mammalian BMP-1/Tolloid-related metalloproteinases, including novel
+family member mammalian Tolloid-like 2, have differential enzymatic
+activities and distributions of expression relevant to patterning and
+skeletogenesis.";
+"The mammalian Tolloid-like 1 gene, Tll1, is necessary for normal
+septation and positioning of the heart.";
+"Bone morphogenetic protein-1 processes probiglycan.";
+"Multiple bone morphogenetic protein 1-related mammalian
+metalloproteinases process pro-lysyl oxidase at the correct
+physiological site and control lysyl oxidase activation in mouse
+embryo fibroblast cultures.";
+-!- FUNCTION: Protease which processes procollagen C-propeptides, such
+    as chordin, pro-biglycan and pro-lysyl oxidase. Required for the
+    embryonic development, especially heart development. Predominant
+    protease, which in the development, influences dorsal-ventral
+    patterning and skeletogenesis.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q62381-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q62381-2; Sequence=VSP_017199, VSP_017200;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Highly expressed in brain and kidney and
+    weakly in lung, skeletal muscle. A perceptible level of expression
+    is observed in heart and testis.
+-!- DEVELOPMENTAL STAGE: Expressed at detectable level on E7, at
+    increased level on E11, at maximal level on E15. Then, expression
+    decreases from E17. Expressed in the developing neural tube.
+-!- SIMILARITY: Belongs to the peptidase M12A family.
+-!- SIMILARITY: Contains 5 CUB domains.
+-!- SIMILARITY: Contains 2 EGF-like domains.
+Alternative splicing; Calcium; Developmental protein; Differentiation;
+EGF-like domain; Glycoprotein; Hydrolase; Metal-binding;
+Metalloprotease; Protease; Repeat; Signal; Zinc; Zymogen.
+TMZERO

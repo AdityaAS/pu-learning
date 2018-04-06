@@ -1,0 +1,79 @@
+AC   O60494; Q5VTA6; Q96RU9;
+Cubilin precursor (Intrinsic factor-cobalamin receptor) (Intrinsic
+factor-vitamin B12 receptor) (460 kDa receptor) (Intestinal intrinsic
+factor receptor).
+"The human intrinsic factor-vitamin B12 receptor, cubilin: molecular
+characterization and chromosomal mapping of the gene to 10p within the
+autosomal recessive megaloblastic anemia (MGA1) region.";
+"The DNA sequence and comparative analysis of human chromosome 10.";
+"The intrinsic factor-vitamin B12 receptor, cubilin, is a high-
+affinity apolipoprotein A-I receptor facilitating endocytosis of high-
+density lipoprotein.";
+"Cubilin dysfunction causes abnormal metabolism of the steroid hormone
+25(OH) vitamin D(3).";
+"Megalin-dependent cubilin-mediated endocytosis is a major pathway for
+the apical uptake of transferrin in polarized epithelia.";
+"The functional cobalamin (vitamin B12)-intrinsic factor receptor is a
+novel complex of cubilin and amnionless.";
+"Mutations in CUBN, encoding the intrinsic factor-vitamin B12
+receptor, cubilin, cause hereditary megaloblastic anaemia 1.";
+"Cubilin P1297L mutation associated with hereditary megaloblastic
+anemia 1 causes impaired recognition of intrinsic factor-vitamin B(12)
+by cubilin.";
+-!- FUNCTION: Cotransporter which plays a role in lipoprotein, vitamin
+    and iron metabolism, by facilitating their uptake. Binds to ALB,
+    MB, Kappa and lambda-light chains, TF, hemoglobin, GC, SCGB1A1,
+    APOA1, high density lipoprotein, and the GIF-cobalamin complex.
+    The binding of all ligands required calcium. Serves as important
+    transporter in several absorptive epithelia, including intestine,
+    renal proximal tubules and embryonic yolk sac. Interaction with
+    LRP2 mediates its trafficking throughout vesicles and facilitates
+    the uptake of specific ligands like GC, hemoglobin, ALB, TF and
+    SCGB1A1. Interaction with AMN controls its trafficking to the
+    plasma membrane and facilitates endocytosis of ligands. May play
+    an important role in the development of the peri-implantation
+    embryo through internalization of APOA1 and cholesterol. Binds to
+    LGALS3 at the maternal-fetal interface.
+-!- SUBUNIT: Interacts with LRP2 in a dual-receptor complex in a
+    calcium-dependent manner. Component of the cubam complex composed
+    of CUBN and AMN.
+-!- SUBCELLULAR LOCATION: Endosome; endosomal membrane; peripheral
+    membrane protein (By similarity). Lysosome; lysosomal membrane;
+    peripheral membrane protein (By similarity). Note=Colocalizes with
+    AMN and LRP2 in the endocytotic apparatus of epithelial cells (By
+    similarity).
+-!- TISSUE SPECIFICITY: Expressed in kidney proximal tubule cells,
+    placenta, visceral yolk-sac cells and in absorptive intestinal
+    cells. Expressed in the epithelium of intestine and kidney.
+-!- DOMAIN: The CUB domains 5 to 8 mediate binding to GIF and ALB. CUB
+    domains 1 and 2 mediate interaction with LRP2.
+-!- PTM: The precursor is cleaved by a trans-Golgi proteinase furin.
+    The result is a propeptide cleaved off.
+-!- PTM: N-glycosylated.
+-!- DISEASE: Defects in CUBN are a cause of recessive hereditary
+    megaloblastic anemia 1 (MGA1) [MIM:261100]; also referred to as
+    MGA1 Norwegian type or Imerslund-Grasbeck syndrome (I-GS). MGA1 is
+    due to selective malabsorption of vitamin B12. Defects in vitamin
+    B12 absorption lead to impaired function of thymidine synthase. As
+    a consequence DNA synthesis is interrupted. Rapidly dividing cells
+    involved in erythropoiesis are particularly affected.
+-!- SIMILARITY: Contains 27 CUB domains.
+-!- SIMILARITY: Contains 7 EGF-like domains.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=CUBN".
+ GO:0031526; C:brush border membrane; NAS:UniProtKB.
+ GO:0031232; C:extrinsic to external side of plasma membrane; NAS:UniProtKB.
+ GO:0016020; C:membrane; TAS:ProtInc.
+ GO:0042803; F:protein homodimerization activity; IDA:UniProtKB.
+ GO:0004872; F:receptor activity; TAS:ProtInc.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0015889; P:cobalamin transport; TAS:ProtInc.
+ GO:0007582; P:physiological process; TAS:ProtInc.
+ GO:0006898; P:receptor-mediated endocytosis; NAS:UniProtKB.
+ GO:0001894; P:tissue homeostasis; NAS:UniProtKB.
+Calcium; Cholesterol metabolism; Cobalamin; Cobalt;
+Direct protein sequencing; Disease mutation; EGF-like domain;
+Endocytosis; Glycoprotein; Lipid metabolism; Polymorphism;
+Protein transport; Receptor; Repeat; Signal; Steroid metabolism;
+Transport.
+TMZERO

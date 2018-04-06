@@ -1,0 +1,33 @@
+AC   Q13423; Q16796; Q8N3V4;
+NAD(P) transhydrogenase, mitochondrial precursor (EC 1.6.1.2)
+(Pyridine nucleotide transhydrogenase) (Nicotinamide nucleotide
+transhydrogenase).
+"Cloning and deduced amino acid sequence of human nicotinamide
+nucleotide transhydrogenase.";
+"The cDNA sequence of proton-pumping nicotinamide nucleotide
+transhydrogenase from man and mouse.";
+"The high-resolution structure of the NADP(H)-binding component (dIII)
+of proton-translocating transhydrogenase from human heart
+mitochondria.";
+-!- FUNCTION: The transhydrogenation between NADH and NADP is coupled
+    to respiration and ATP hydrolysis and functions as a proton pump
+    across the membrane.
+-!- CATALYTIC ACTIVITY: NADPH + NAD(+) = NADP(+) + NADH.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein; matrix side (Potential).
+-!- SIMILARITY: In the N-terminal section; belongs to the AlaDH/PNT
+    family.
+-!- SIMILARITY: In the C-terminal section; belongs to the PNT beta
+    subunit family.
+ GO:0005746; C:mitochondrial electron transport chain; TAS:UniProtKB.
+ GO:0005739; C:mitochondrion; IDA:LIFEdb.
+ GO:0051287; F:NAD binding; TAS:UniProtKB.
+ GO:0003957; F:NAD(P)+ transhydrogenase (B-specific) activity; TAS:UniProtKB.
+ GO:0050661; F:NADP binding; IDA:UniProtKB.
+ GO:0006118; P:electron transport; TAS:UniProtKB.
+ GO:0015992; P:proton transport; TAS:UniProtKB.
+ GO:0006099; P:tricarboxylic acid cycle; TAS:UniProtKB.
+3D-structure; Membrane; Mitochondrion; NAD; NADP; Oxidoreductase;
+Transit peptide; Transmembrane.
+TMFOURTEEN

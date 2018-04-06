@@ -1,0 +1,64 @@
+AC   P19490;
+Glutamate receptor 1 precursor (GluR-1) (GluR-A) (GluR-K1) (Glutamate
+receptor ionotropic, AMPA 1) (AMPA-selective glutamate receptor 1).
+"Cloning by functional expression of a member of the glutamate
+receptor family.";
+"A family of AMPA-selective glutamate receptors.";
+"Molecular cloning and functional expression of glutamate receptor
+subunit genes.";
+"Flip and flop: a cell-specific functional switch in glutamate-
+operated channels of the CNS.";
+"Identification of a Ca2+/calmodulin-dependent protein kinase II
+regulatory phosphorylation site in non-N-methyl-D-aspartate glutamate
+receptors.";
+"Antibody specific for phosphorylated AMPA-type glutamate receptors at
+GluR2 Ser-696.";
+"Phosphorylation of the alpha-amino-3-hydroxy-5-methylisoxazole4-
+propionic acid receptor GluR1 subunit by calcium/calmodulin-dependent
+kinase II.";
+"SAP97 is associated with the alpha-amino-3-hydroxy-5-methylisoxazole-
+4-propionic acid receptor GluR1 subunit.";
+-!- FUNCTION: Receptor for glutamate. L-glutamate acts as an
+    excitatory neurotransmitter at many synapses in the central
+    nervous system. The postsynaptic actions of Glu are mediated by a
+    variety of receptors that are named according to their selective
+    agonists. This receptor binds AMPA(quisqualate) > glutamate >
+    kainate.
+-!- SUBUNIT: Binds to DLG1.
+-!- INTERACTION:
+    P70569:Myo5b; NbExp=1; IntAct=EBI-371642, EBI-975940;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Flop;
+      IsoId=P19490-1; Sequence=Displayed;
+    Name=Flip;
+      IsoId=P19490-2; Sequence=VSP_000097, VSP_000098, VSP_000099,
+                               VSP_000100, VSP_000101;
+-!- PTM: Palmitoylated. Depalmitoylated upon glutamate stimulation.
+    Cys-603 palmitoylation leads to Golgi retention and decreased cell
+    surface expression. In contrast, Cys-829 palmitoylation does not
+    affect cell surface expression but regulates stimulation-dependent
+    endocytosis (By similarity).
+-!- POLYMORPHISM: Both variants Ser-710 and Thr-710 are phosphorylated
+    at this position.
+-!- SIMILARITY: Belongs to the glutamate-gated ion channel (TC 1.A.10)
+    family.
+ GO:0043025; C:cell soma; IDA:UniProtKB.
+ GO:0043198; C:dendritic shaft; IDA:UniProtKB.
+ GO:0005769; C:early endosome; IDA:UniProtKB.
+ GO:0008328; C:ionotropic glutamate receptor complex; TAS:UniProtKB.
+ GO:0045202; C:synapse; IMP:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0042803; F:protein homodimerization activity; TAS:UniProtKB.
+ GO:0019228; P:generation of action potential; IMP:UniProtKB.
+ GO:0050806; P:positive regulation of synaptic transmission; IMP:UniProtKB.
+ GO:0031623; P:receptor internalization; IDA:UniProtKB.
+ GO:0001919; P:regulation of receptor recycling; IMP:UniProtKB.
+ GO:0048167; P:regulation of synaptic plasticity; IMP:UniProtKB.
+ GO:0010226; P:response to lithium ion; IEP:UniProtKB.
+ GO:0035249; P:synaptic transmission, glutamatergic; NAS:UniProtKB.
+Alternative splicing; Glycoprotein; Ion transport; Ionic channel;
+Lipoprotein; Membrane; Palmitate; Phosphorylation; Polymorphism;
+Postsynaptic membrane; Receptor; Signal; Transmembrane; Transport.
+TMFOUR

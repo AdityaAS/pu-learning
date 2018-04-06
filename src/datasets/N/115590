@@ -1,0 +1,13 @@
+AC   P24999;
+NADH-ubiquinone oxidoreductase chain 5 (EC 1.6.5.3) (NADH
+dehydrogenase subunit 5) (Fragment).
+"Nucleotide sequence of nine protein-coding genes and 22 tRNAs in the
+mitochondrial DNA of the sea star Pisaster ochraceus.";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (Probable).
+-!- SIMILARITY: Belongs to the complex I subunit 5 family.
+ GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:EC.
+Inner membrane; Membrane; Mitochondrion; NAD; Oxidoreductase;
+Transmembrane; Ubiquinone.
+TMZERO

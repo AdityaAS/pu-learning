@@ -1,0 +1,13 @@
+AC   P56116;
+Chaperone protein htpG (Heat shock protein htpG) (High temperature
+protein G).
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+-!- FUNCTION: Molecular chaperone. Has ATPase activity (By
+    similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the heat shock protein 90 family.
+ATP-binding; Chaperone; Complete proteome; Heat shock;
+Nucleotide-binding.
+TMZERO

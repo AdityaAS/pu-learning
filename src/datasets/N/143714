@@ -1,0 +1,22 @@
+AC   Q6DLS0;
+Renin precursor (EC 3.4.23.15) (Angiotensinogenase).
+"Cloning and sequence analysis of cDNA for cynomolgus renin
+precursor.";
+-!- FUNCTION: Renin is a highly specific endopeptidase, whose only
+    known function is to generate angiotensin I from angiotensinogen
+    in the plasma, initiating a cascade of reactions that produce an
+    elevation of blood pressure and increased sodium retention by the
+    kidney (By similarity).
+-!- CATALYTIC ACTIVITY: Cleavage of Leu-|-Xaa bond in angiotensinogen
+    to generate angiotensin I.
+-!- ENZYME REGULATION: Interaction with ATP6AP2 results in a 5-fold
+    increased efficiency in angiotensinogen processing (By
+    similarity).
+-!- SUBUNIT: Interacts with ATP6AP2 (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity). Membrane
+    (By similarity). Note=Associated to membranes via binding to
+    ATP6AP2 (By similarity).
+-!- SIMILARITY: Belongs to the peptidase A1 family.
+ GO:0004195; F:renin activity; IEA:EC.
+Aspartyl protease; Glycoprotein; Hydrolase; Protease; Signal; Zymogen.
+TMZERO

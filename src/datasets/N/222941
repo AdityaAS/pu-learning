@@ -1,0 +1,24 @@
+AC   Q19084; Q3S1M1; Q7Z290;
+Tyramine receptor tyra-2.
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: G-protein coupled receptor for tyramine, a known
+    neurotransmitter and neuromodulator and direct precursor of
+    octopamine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=c;
+      IsoId=Q19084-1; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=a;
+      IsoId=Q19084-2; Sequence=VSP_018118;
+      Note=No experimental confirmation available;
+    Name=b;
+      IsoId=Q19084-3; Sequence=VSP_018117;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+Alternative splicing; Complete proteome; G-protein coupled receptor;
+Glycoprotein; Membrane; Receptor; Transducer; Transmembrane.
+TMSEVEN

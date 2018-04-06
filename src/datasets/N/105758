@@ -1,0 +1,14 @@
+AC   Q8C6Z1; Q3UQC4; Q6XYQ9; Q7TMH6; Q8CE82;
+Mucin-15 precursor.
+"Cloning and characterization of two mouse MUC15 splice forms.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- PTM: Highly glycosylated (N- and O-linked carbohydrates) (By
+    similarity).
+-!- CAUTION: Ref.1 (AAO45176 and AAO45177) sequences differ from that
+    shown due to frameshifts in positions 165 and 196.
+Glycoprotein; Membrane; Signal; Transmembrane.
+TMONE

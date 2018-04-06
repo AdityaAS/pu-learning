@@ -1,0 +1,9 @@
+AC   P67190; Q9A1E6;
+UPF0082 protein spyM18_0311.
+"Genome sequence and comparative microarray analysis of serotype M18
+group A Streptococcus strains associated with acute rheumatic fever
+outbreaks.";
+-!- SIMILARITY: Belongs to the UPF0082 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

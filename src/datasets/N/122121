@@ -1,0 +1,14 @@
+AC   O36431;
+Polymerase basic protein 2 (RNA-directed RNA polymerase subunit P3).
+"The three subunits of the polymerase and the nucleoprotein of
+influenza B virus are the minimum set of viral proteins required for
+expression of a model RNA template.";
+-!- FUNCTION: Involved in transcription initiation and cap-stealing
+    mechanism, in which cellular capped pre-mRNA are used to generate
+    primers for viral transcription. Binds the cap of the target pre-
+    RNA which is subsequently cleaved by PB1 (By similarity).
+-!- SUBUNIT: Influenza RNA polymerase is composed of three subunits:
+    PB1, PB2 and PA.
+-!- SIMILARITY: Belongs to the influenza viruses PB2 family.
+mRNA capping; mRNA processing.
+TMZERO

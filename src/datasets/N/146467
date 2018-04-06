@@ -1,0 +1,21 @@
+AC   P06589;
+Chloroplast 50S ribosomal protein L22.
+"The sequence of the maize plastid encoded rpl 22 locus.";
+"Transfer of rpl22 to the nucleus greatly preceded its loss from the
+chloroplast and involved the gain of an intron.";
+"Complete sequence of the maize chloroplast genome: gene content,
+hotspots of divergence and fine tuning of genetic information by
+transcript editing.";
+-!- FUNCTION: This protein binds specifically to 23S rRNA (By
+    similarity).
+-!- FUNCTION: The globular domain of the protein is located near the
+    polypeptide exit tunnel on the outside of the subunit, while an
+    extended beta-hairpin is found that lines the wall of the exit
+    tunnel in the center of the 70S ribosome (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the ribosomal protein L22P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Chloroplast; Plastid; Ribonucleoprotein; Ribosomal protein;
+RNA-binding; rRNA-binding.
+TMZERO

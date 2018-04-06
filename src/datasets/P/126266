@@ -1,0 +1,19 @@
+AC   P16682; Q2M6J9;
+Phosphonates-binding periplasmic protein precursor.
+"Molecular biology of carbon-phosphorus bond cleavage. Cloning and
+sequencing of the phn (psiD) genes involved in alkylphosphonate uptake
+and C-P lyase activity in Escherichia coli B.";
+"Molecular analysis of the cryptic and functional phn operons for
+phosphonate use in Escherichia coli K-12.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for alkylphosphonates.
+-!- SUBCELLULAR LOCATION: Periplasm (Potential).
+-!- MISCELLANEOUS: The sequence shown is that of strain K12.
+Complete proteome; Periplasmic; Phosphonate transport; Signal;
+Transport.
+TMZERO

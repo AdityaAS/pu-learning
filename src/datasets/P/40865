@@ -1,0 +1,62 @@
+AC   Q9BUN8;
+Derlin-1 (Degradation in endoplasmic reticulum protein 1) (Der1-like
+protein 1) (DERtrin-1).
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"A membrane protein required for dislocation of misfolded proteins
+from the ER.";
+"A membrane protein complex mediates retro-translocation from the ER
+lumen into the cytosol.";
+"The retrotranslocation protein derlin-1 binds peptide:N-glycanase to
+the endoplasmic reticulum.";
+"Recruitment of the p97 ATPase and ubiquitin ligases to the site of
+retrotranslocation at the endoplasmic reticulum membrane.";
+"Multiprotein complexes that link dislocation, ubiquitination, and
+extraction of misfolded proteins from the endoplasmic reticulum
+membrane.";
+"Derlin-2 and Derlin-3 are regulated by the mammalian unfolded protein
+response and are required for ER-associated degradation.";
+-!- FUNCTION: Functional component of endoplasmic reticulum-associated
+    degradation (ERAD) for misfolded lumenal proteins. May act by
+    forming a channel that allows the retrotranslocation of misfolded
+    proteins into the cytosol where they are ubiquitinated and
+    degraded by the proteasome. May mediate the interaction between
+    VCP and the degradation substrate. In case of infection by
+    cytomegaloviruses, it plays a central role in the export from the
+    ER and subsequent degradation of MHC class I heavy chains via its
+    interaction with US11 viral protein, which recognizes and
+    associates with MHC class I heavy chains. Also participates in the
+    degradation process of misfolded cytomegalovirus US2 protein.
+-!- SUBUNIT: Forms homo- and heterooligomers with DERL2 and DERL3;
+    binding to DERL3 is poorer than that between DERL2 and DERL3.
+    Interacts with AMFR, SELS/VIMP, SEL1L, SYVN1 and VCP, as well as
+    with SEL1L-SYVN1 and VCP-SELS protein complexes; this interaction
+    is weaker than that observed between DERL2 and these complexes.
+    Interacts with the cytomegalovirus US11 protein. Interacts with
+    NGLY1. Does not bind to EDEM1.
+-!- INTERACTION:
+    P13569:CFTR; NbExp=1; IntAct=EBI-398977, EBI-349854;
+    P09727:US11 (xeno); NbExp=1; IntAct=EBI-398977, EBI-399060;
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- INDUCTION: Up-regulated in response to ER stress via the ERN1-XBP1
+    pathway of the unfolded protein response (UPR) (By similarity).
+-!- SIMILARITY: Belongs to the derlin family.
+ GO:0005783; C:endoplasmic reticulum; IDA:UniProtKB.
+ GO:0030176; C:integral to endoplasmic reticulum membrane; IDA:UniProtKB.
+ GO:0042288; F:MHC class I protein binding; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0004872; F:receptor activity; NAS:UniProtKB.
+ GO:0030433; P:ER-associated protein catabolism; IDA:UniProtKB.
+ GO:0045184; P:establishment of protein localization; TAS:UniProtKB.
+ GO:0019060; P:intracellular transport of viral proteins i...; TAS:UniProtKB.
+ GO:0030970; P:retrograde protein transport, ER to cytosol; IDA:UniProtKB.
+ GO:0030968; P:unfolded protein response; IDA:UniProtKB.
+Endoplasmic reticulum; Host-virus interaction; Membrane; Polymorphism;
+Protein transport; Transmembrane; Transport;
+Unfolded protein response.
+TMFOUR

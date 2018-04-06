@@ -1,0 +1,27 @@
+AC   P14175;
+Glycine betaine/L-proline transport ATP-binding protein proV.
+"Nucleotide sequence of the osmoregulatory proU operon of Escherichia
+coli.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Molecular characterization of the proU loci of Salmonella typhimurium
+and Escherichia coli encoding osmoregulated glycine betaine transport
+systems.";
+"Protein complexes of the Escherichia coli cell envelope.";
+-!- FUNCTION: Involved in a multicomponent binding-protein-dependent
+    transport system for glycine betaine/L-proline.
+-!- INTERACTION:
+    P0A935:mltA; NbExp=1; IntAct=EBI-546797, EBI-1130483;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 2 CBS domains.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Amino-acid transport; ATP-binding; CBS domain; Complete proteome;
+Inner membrane; Membrane; Nucleotide-binding; Repeat; Transport.
+TMZERO

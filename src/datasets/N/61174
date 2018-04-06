@@ -1,0 +1,22 @@
+AC   Q6HDT8;
+Probable glycine dehydrogenase [decarboxylating] subunit 2
+(EC 1.4.4.2) (Glycine decarboxylase subunit 2) (Glycine cleavage
+system P-protein subunit 2).
+"Pathogenomic sequence analysis of Bacillus cereus and Bacillus
+thuringiensis isolates closely related to Bacillus anthracis.";
+-!- FUNCTION: The glycine cleavage system catalyzes the degradation of
+    glycine. The P protein binds the alpha-amino group of glycine
+    through its pyridoxal phosphate cofactor; CO(2) is released and
+    the remaining methylamine moiety is then transferred to the
+    lipoamide cofactor of the H protein (By similarity).
+-!- CATALYTIC ACTIVITY: Glycine + H-protein-lipoyllysine = H-protein-
+    S-aminomethyldihydrolipoyllysine + CO(2).
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- SUBUNIT: The glycine cleavage system is composed of four proteins:
+    P, T, L and H. In this organism, the P 'protein' is an heterodimer
+    of two subunits (By similarity).
+-!- SIMILARITY: Belongs to the gcvP family. C-terminal subunit
+    subfamily.
+ GO:0019464; P:glycine decarboxylation via glycine cleavag...; IEA:HAMAP.
+Complete proteome; Oxidoreductase; Pyridoxal phosphate.
+TMZERO

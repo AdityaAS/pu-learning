@@ -1,0 +1,9 @@
+AC   P65439; Q99UT2;
+Protein mraZ.
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- SUBUNIT: Homooctamer. Forms a ring (By similarity).
+-!- SIMILARITY: Belongs to the mraZ family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

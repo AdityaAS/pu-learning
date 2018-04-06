@@ -1,0 +1,22 @@
+AC   Q10715;
+Angiotensin-converting enzyme precursor (EC 3.4.15.1) (Dipeptidyl
+carboxypeptidase I) (Kininase II).
+"Cloning and characterisation of angiotensin-converting enzyme from
+the dipteran species, Haematobia irritans exigua, and its expression
+in the maturing male reproductive system.";
+-!- FUNCTION: Involved in the specific maturation or degradation of a
+    number of bioactive peptides.
+-!- CATALYTIC ACTIVITY: Release of a C-terminal dipeptide,
+    oligopeptide-|-Xaa-Yaa, when Xaa is not Pro, and Yaa is neither
+    Asp nor Glu. Thus, conversion of angiotensin I to angiotensin II,
+    with increase in vasoconstrictor activity, but no action on
+    angiotensin II.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space
+    (Probable).
+-!- TISSUE SPECIFICITY: Expressed in the compound ganglion and in the
+    posterior region of the midgut.
+-!- SIMILARITY: Belongs to the peptidase M2 family.
+Carboxypeptidase; Glycoprotein; Hydrolase; Metal-binding;
+Metalloprotease; Protease; Signal; Zinc.
+TMZERO

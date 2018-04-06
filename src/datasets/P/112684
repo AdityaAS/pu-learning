@@ -1,0 +1,11 @@
+AC   P24145;
+Nodulation protein T precursor.
+"Molecular characterization of the nodulation gene, nodT, from two
+biovars of Rhizobium leguminosarum.";
+"Molecular linkage of the nif/fix and nod gene regions in Rhizobium
+leguminosarum biovar trifolii.";
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Potential).
+-!- SIMILARITY: Belongs to the outer membrane factor (OMF) (TC 1.B.17)
+    family.
+Lipoprotein; Membrane; Nodulation; Palmitate; Plasmid; Signal.
+TMZERO

@@ -1,0 +1,30 @@
+AC   Q02383; Q6X2M6;
+Semenogelin-2 precursor (Semenogelin II) (SGII).
+"Molecular cloning of epididymal and seminal vesicular transcripts
+encoding a semenogelin-related protein.";
+"Gene structure of semenogelin I and II. The predominant proteins in
+human semen are encoded by two homologous genes on chromosome 20.";
+"Evolution of the hominoid semenogelin genes, the major proteins of
+ejaculated semen.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"Isolation and structure determination of two peptides occurring in
+human seminal plasma.";
+"Isolation and characterization of the major gel proteins in human
+semen, semenogelin I and semenogelin II.";
+"Characterization of semenogelin II and its molecular interaction with
+prostate-specific antigen and protein C inhibitor.";
+-!- FUNCTION: Participates in the formation of a gel matrix (sperm
+    coagulum) entrapping the accessory gland secretions and ejaculated
+    spermatozoa.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Seminal vesicles, and to a much lesser extent,
+    epididymis.
+-!- PTM: Semenogelin-2 is thought to form both the 71 kDa polypeptide
+    and, in its glycosylated form, the 76 kDa polypeptide.
+-!- SIMILARITY: Belongs to the semenogelin family.
+-!- WEB RESOURCE: NAME=Protein Spotlight;
+    NOTE=Shackled sperm - Issue 62 of September 2005;
+    URL="http://www.expasy.org/spotlight/back_issues/sptlt062.shtml".
+ GO:0005615; C:extracellular space; TAS:ProtInc.
+Direct protein sequencing; Glycoprotein; Polymorphism; Repeat; Signal.
+TMZERO

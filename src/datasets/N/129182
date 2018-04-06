@@ -1,0 +1,20 @@
+AC   P54832;
+Serum paraoxonase/arylesterase 2 (EC 3.1.1.2) (EC 3.1.8.1) (PON 2)
+(Serum aryldialkylphosphatase 2) (A-esterase 2) (Aromatic esterase 2).
+"The human serum paraoxonase/arylesterase gene (PON1) is one member of
+a multigene family.";
+-!- FUNCTION: Hydrolyzes the toxic metabolites of a variety of
+    organophosphorus insecticides. Capable of hydrolyzing a broad
+    spectrum of organophosphate substrates and a number of aromatic
+    carboxylic acid esters.
+-!- CATALYTIC ACTIVITY: A phenyl acetate + H(2)O = a phenol + acetate.
+-!- CATALYTIC ACTIVITY: An aryl dialkyl phosphate + H(2)O = dialkyl
+    phosphate + an aryl alcohol.
+-!- SUBCELLULAR LOCATION: Membrane; peripheral membrane protein (By
+    similarity).
+-!- PTM: Glycosylated (By similarity).
+-!- PTM: The signal sequence is not cleaved (By similarity).
+-!- SIMILARITY: Belongs to the paraoxonase family.
+ GO:0004063; F:aryldialkylphosphatase activity; IEA:EC.
+Glycoprotein; Hydrolase; Membrane; Signal.
+TMZERO

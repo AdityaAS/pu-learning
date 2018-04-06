@@ -1,0 +1,22 @@
+AC   Q668V6;
+Penicillin-insensitive murein endopeptidase precursor (EC 3.4.24.-)
+(D-alanyl-D-alanine-endopeptidase) (DD-endopeptidase).
+"Insights into the evolution of Yersinia pestis through whole-genome
+comparison with Yersinia pseudotuberculosis.";
+-!- FUNCTION: Involved in the removal of murein from the sacculus. May
+    also facilitate integration of nascent murein strands into the
+    sacculus by cleaving the peptide bonds between neighboring strands
+    in mature murein (By similarity).
+-!- CATALYTIC ACTIVITY: Splits the D-alanyl-gamma-meso-2,6-diamino-
+    pimelyl peptide bond connecting neighboring peptidoglycan strands.
+-!- COFACTOR: Binds 2 zinc ions per subunit. Zinc ion 1 is bound in
+    the active site. Zinc ion 2 is bound at the dimer interface by
+    residues from both subunits (By similarity).
+-!- SUBUNIT: Dimer (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the peptidase M74 family.
+ GO:0004222; F:metalloendopeptidase activity; IEA:HAMAP.
+ GO:0000270; P:peptidoglycan metabolism; IEA:HAMAP.
+Complete proteome; Hydrolase; Metal-binding; Metalloprotease;
+Periplasmic; Protease; Signal; Zinc.
+TMZERO

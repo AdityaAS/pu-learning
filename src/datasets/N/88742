@@ -1,0 +1,19 @@
+AC   P0AEX5; P37307; P76684; Q2M721;
+Probable phosphoribulokinase (EC 2.7.1.19) (Phosphopentokinase)
+(PRKase) (PRK).
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The nucleotide sequence of the Escherichia coli crp divergent RNA and
+an overlapping ORF.";
+"New genes in old sequence: a strategy for finding genes in the
+bacterial genome.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+"Large scale bacterial gene discovery by similarity search.";
+-!- CATALYTIC ACTIVITY: ATP + D-ribulose 5-phosphate = ADP + D-
+    ribulose 1,5-bisphosphate.
+-!- SIMILARITY: Belongs to the phosphoribulokinase family.
+ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+Transferase.
+TMZERO

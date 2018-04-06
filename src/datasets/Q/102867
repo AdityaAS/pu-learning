@@ -1,0 +1,15 @@
+AC   O61703;
+Phosphate carrier protein, mitochondrial precursor (Phosphate
+transport protein) (PTP).
+"Identification and developmental expression of the mitochondrial
+phosphate transport protein gene from the spruce budworm,
+Choristoneura fumiferana.";
+-!- FUNCTION: Transport of phosphate groups from the cytosol to the
+    mitochondrial matrix.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+Inner membrane; Membrane; Mitochondrion; Repeat; Transit peptide;
+Transmembrane; Transport.
+TMFOUR

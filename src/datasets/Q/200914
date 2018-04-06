@@ -1,0 +1,18 @@
+AC   Q5R6I1;
+Vacuolar ATP synthase subunit d (EC 3.6.3.14) (V-ATPase d subunit)
+(Vacuolar proton pump subunit d).
+-!- FUNCTION: Subunit of the integral membrane V0 complex of vacuolar
+    ATPase. Vacuolar ATPase is responsible for acidifying a variety of
+    intracellular compartments in eukaryotic cells, thus providing
+    most of the energy required for transport processes in the
+    vacuolar system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'' and d) (By similarity).
+-!- SIMILARITY: Belongs to the V-ATPase V0D/AC39 subunit family.
+ATP synthesis; Hydrogen ion transport; Hydrolase; Ion transport;
+Transport.
+TMZERO

@@ -1,0 +1,74 @@
+AC   Q91VE0; O88562;
+Long-chain fatty acid transport protein 4 (EC 6.2.1.-) (Fatty acid
+transport protein 4) (FATP-4) (Solute carrier family 27 member 4).
+"Mouse fatty acid transport protein 4 (FATP4): characterization of the
+gene and functional assessment as a very long chain acyl-CoA
+synthetase.";
+"The transcriptional landscape of the mammalian genome.";
+"Cloning of mouse full open reading frames in Gateway(R) system entry
+vector (pDONR201).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"A family of fatty acid transporters conserved from mycobacterium to
+man.";
+"Identification of the major intestinal fatty acid transport
+protein.";
+"Targeted deletion of fatty acid transport protein-4 results in early
+embryonic lethality.";
+"Mice with targeted disruption of the fatty acid transport protein 4
+(Fatp 4, Slc27a4) gene show features of lethal restrictive
+dermopathy.";
+"Cloning of wrinkle-free, a previously uncharacterized mouse mutation,
+reveals crucial roles for fatty acid transport protein 4 in skin and
+hair development.";
+"Enzymatic properties of purified murine fatty acid transport protein
+4 and analysis of acyl-CoA synthetase activities in tissues from FATP4
+null mice.";
+"Comparative biochemical studies of the murine fatty acid transport
+proteins (FATP) expressed in yeast.";
+-!- FUNCTION: Involved in translocation of long-chain fatty acids
+    (LFCA) across the plasma membrane. Appears to be the principal
+    fatty acid transporter in small intestinal enterocytes. Plays a
+    role in the formation of the epidermal barrier. Required for fat
+    absorption in early embryogenesis. Has acyl-CoA ligase activity
+    for long-chain and very-long-chain fatty acids.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Most abundantly expressed in small intestine,
+    brain, kidney, liver, skin and heart. In small intestine,
+    expressed at high levels on the apical side of mature enterocytes.
+    Highly expressed by the epithelial cells of the visceral endoderm
+    and localized to the brush-border membrane of extraembryonic
+    endodermal cells (at protein level).
+-!- DISEASE: Defects in Slc27a4 are the cause of wrinkle-free (wrfr)
+    phenotype. It is a spontaneous, autosomal recessive mutation
+    resulting in very tight, thick skin and is secondary characterized
+    by severe breathing difficulties. Mice die shortly after birth.
+    This phenotype is similar to human restrictive dermopathy, a very
+    rare human genetic disorder.
+-!- MISCELLANEOUS: Slc27a4 deficient mice display features of a
+    neonatally lethal restrictive dermopathy. Their skin is
+    characterized by hyperproliferative hyperkeratosis with a
+    disturbed epidermal barrier, a flat dermal-epidermal junction, a
+    reduced number of pilo-sebaceous structures, and a compact dermis.
+    The rigid skin consistency results in an altered body shape with
+    facial dysmorphia, generalized joint flexion contractures and
+    impaired movement including suckling and breathing deficiencies.
+    Lipid analysis demonstrates a disturbed fatty acid composition of
+    epidermal ceramides, in particular a decrease in the C26:0 and
+    C26:0-OH fatty acid substitutes.
+-!- MISCELLANEOUS: Deletion of Slc27a4 results in embryonic lethality,
+    which has been attributed to a requirement for fat absorption
+    early in embryonic development across the visceral endoderm.
+-!- SIMILARITY: Belongs to the ATP-dependent AMP-binding enzyme
+    family.
+-!- CAUTION: Ref.5 (AAC40188) sequence differs from that shown due
+    several frameshifts.
+-!- CAUTION: Ref.5 (AAC40188) sequence differs from that shown due a
+    N-terminal sequence of unknown origin.
+ GO:0005886; C:plasma membrane; TAS:MGI.
+ GO:0004467; F:long-chain-fatty-acid-CoA ligase activity; TAS:MGI.
+ GO:0001676; P:long-chain fatty acid metabolism; TAS:MGI.
+Fatty acid metabolism; Ligase; Lipid metabolism; Lipid transport;
+Membrane; Nucleotide-binding; Transmembrane; Transport.
+TMTWO

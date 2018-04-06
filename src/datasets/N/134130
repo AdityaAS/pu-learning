@@ -1,0 +1,11 @@
+AC   Q8YYG7;
+Photosystem II reaction center protein M (PSII-M).
+"Complete genomic sequence of the filamentous nitrogen-fixing
+cyanobacterium Anabaena sp. strain PCC 7120.";
+-!- FUNCTION: Not known.
+-!- SIMILARITY: Belongs to the psbM family.
+ GO:0030096; C:photosystem II (sensu Cyanobacteria); NAS:UniProtKB.
+ GO:0015979; P:photosynthesis; NAS:UniProtKB.
+Complete proteome; Membrane; Photosynthesis; Photosystem II;
+Thylakoid; Transmembrane.
+TMONE

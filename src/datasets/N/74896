@@ -1,0 +1,17 @@
+AC   Q3J4H6;
+Putative histidinol dehydrogenase 2 (EC 1.1.1.23) (HDH 2).
+"Complete sequence of chromosome 1 of Rhodobacter sphaeroides 2.4.1.";
+-!- FUNCTION: Catalyzes the sequential NAD-dependent oxidations of L-
+    histidinol to L-histidinaldehyde and then to L-histidine (By
+    similarity).
+-!- CATALYTIC ACTIVITY: L-histidinol + 2 NAD(+) = L-histidine + 2
+    NADH.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 9
+    [final step].
+-!- SIMILARITY: Belongs to the histidinol dehydrogenase family.
+-!- CAUTION: Could lack activity as the potential substrate and zinc-
+    binding sites are missing.
+Amino-acid biosynthesis; Complete proteome; Histidine biosynthesis;
+NAD; Oxidoreductase.
+TMZERO

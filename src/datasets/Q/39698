@@ -1,0 +1,12 @@
+AC   Q9KLS6;
+Probable anaerobic C4-dicarboxylate transporter dcuC.
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Responsible for the transport of C4-dicarboxylates
+    during anaerobic growth (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the dcuC/dcuD transporter (TC 2.A.61)
+    family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

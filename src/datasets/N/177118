@@ -1,0 +1,11 @@
+AC   Q7RTT6;
+Protein SSX6.
+"The DNA sequence of the human X chromosome.";
+"The SSX gene family: characterization of 9 complete genes.";
+-!- FUNCTION: Could act as a modulator of transcription.
+-!- TISSUE SPECIFICITY: Not detected in any normal tissues. Expressed
+    in a melanoma cell line.
+-!- SIMILARITY: Belongs to the SSX family.
+-!- SIMILARITY: Contains 1 KRAB-related domain.
+Transcription; Transcription regulation.
+TMZERO

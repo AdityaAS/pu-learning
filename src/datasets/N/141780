@@ -1,0 +1,41 @@
+AC   Q8C2Q3; Q3TJB6; Q91Z21; Q9DBI6;
+RNA-binding protein 14 (RNA-binding motif protein 14).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of phosphoproteins and their phosphorylation sites in
+the WEHI-231 B lymphoma cell line.";
+"Comprehensive identification of phosphorylation sites in postsynaptic
+density preparations.";
+-!- FUNCTION: May function as a nuclear receptor coactivator,
+    enhancing transcription through other coactivators such as NCOA6
+    and CITED1 (By similarity).
+-!- SUBUNIT: Interacts with NCOA6, CITED1 and XRCC5/KU86 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8C2Q3-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8C2Q3-2; Sequence=VSP_015080;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Contains 2 RRM (RNA recognition motif) domains.
+ GO:0000119; C:mediator complex; ISS:UniProtKB.
+ GO:0030529; C:ribonucleoprotein complex; ISS:UniProtKB.
+ GO:0005667; C:transcription factor complex; ISS:UniProtKB.
+ GO:0030374; F:ligand-dependent nuclear receptor transcrip...; ISS:UniProtKB.
+ GO:0030674; F:protein binding, bridging; ISS:UniProtKB.
+ GO:0003723; F:RNA binding; ISS:UniProtKB.
+ GO:0016455; F:RNA polymerase II transcription mediator ac...; ISS:UniProtKB.
+ GO:0006310; P:DNA recombination; ISS:UniProtKB.
+ GO:0006281; P:DNA repair; ISS:UniProtKB.
+ GO:0006260; P:DNA replication; ISS:UniProtKB.
+ GO:0030520; P:estrogen receptor signaling pathway; ISS:UniProtKB.
+ GO:0042921; P:glucocorticoid receptor signaling pathway; ISS:UniProtKB.
+ GO:0016575; P:histone deacetylation; ISS:UniProtKB.
+ GO:0045944; P:positive regulation of transcription from R...; ISS:UniProtKB.
+ GO:0009725; P:response to hormone stimulus; ISS:UniProtKB.
+Alternative splicing; Nuclear protein; Phosphorylation; Repeat;
+RNA-binding; Transcription; Transcription regulation.
+TMZERO

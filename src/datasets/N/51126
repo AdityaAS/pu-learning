@@ -1,0 +1,13 @@
+AC   Q9ZFV7;
+Ethanolamine utilization protein eutS.
+"The 17-gene ethanolamine (eut) operon of Salmonella typhimurium
+encodes five homologues of carboxysome shell proteins.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: May be involved in the formation of a specific
+    microcompartment in the cell in which the metabolism of
+    potentially toxic by-products takes place.
+-!- PATHWAY: Ethanolamine utilization.
+-!- SIMILARITY: Belongs to the eutS/pduU family.
+Complete proteome.
+TMZERO

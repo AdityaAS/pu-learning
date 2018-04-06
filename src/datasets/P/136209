@@ -1,0 +1,29 @@
+AC   P69794; P17335; Q47092; Q47093; Q47094; Q57128;
+N,N'-diacetylchitobiose-specific phosphotransferase enzyme IIA
+component (EC 2.7.1.-) (PTS system N,N'-diacetylchitobiose-specific
+EIIA component) (EIIA-Chb) (EIII-Chb).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in N,N'-diacetylchitobiose
+    transport (By similarity).
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- PATHWAY: N,N'-diacetylchitobiose utilization.
+-!- SUBUNIT: Homodimer; in both its unphosphorylated and
+    phosphorylated forms (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- INDUCTION: By N,N'-diacetylchitobiose (By similarity).
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-3 domain.
+Complete proteome; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport.
+TMZERO

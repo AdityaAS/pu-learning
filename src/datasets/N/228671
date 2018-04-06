@@ -1,0 +1,34 @@
+AC   P34161;
+Homeobox protein YOX1.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"In vitro binding to the leucine tRNA gene identifies a novel yeast
+homeobox gene.";
+"Conserved homeodomain proteins interact with MADS box protein Mcm1 to
+restrict ECB-dependent transcription to the M/G1 phase of the cell
+cycle.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Transcriptional repressor required to restrict
+    transcription of ECB-dependent genes to the G1/M phase by
+    repressing their transcription during the interval from late G1 to
+    M phases. Genes that contain a ECB (early cell box) element in
+    their transcription regulatory region are transcribed only during
+    G1/M phases. In vitro, is capable of binding to the DNA of the
+    leucine tRNA gene.
+-!- SUBUNIT: Interacts with MCM1.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- DEVELOPMENTAL STAGE: Expressed from late G1 phase.
+-!- INDUCTION: Transcriptionally activated by SWI4-SWI6 heterodimer.
+-!- MISCELLANEOUS: Present with 861 molecules/cell.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0003677; F:DNA binding; IDA:SGD.
+ GO:0016566; F:specific transcriptional repressor activity; IDA:SGD.
+ GO:0000083; P:G1/S-specific transcription in mitotic cell...; IPI:SGD.
+ GO:0000122; P:negative regulation of transcription from R...; IDA:SGD.
+ GO:0007346; P:regulation of progression through mitotic c...; IMP:SGD.
+Cell cycle; Complete proteome; DNA-binding; Homeobox; Nuclear protein;
+Repressor; Transcription; Transcription regulation.
+TMZERO

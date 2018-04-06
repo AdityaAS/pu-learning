@@ -1,0 +1,21 @@
+AC   P61828; P00841; Q37750;
+ATP synthase protein 9, mitochondrial (EC 3.6.3.14) (Lipid-binding
+protein).
+"Comparative analysis of the region of the mitochondrial genome
+containing the ATPase subunit 9 gene in the two related yeast species
+Saccharomyces douglasii and Saccharomyces cerevisiae.";
+-!- FUNCTION: This protein is one of the chains of the nonenzymatic
+    membrane component (F0) of mitochondrial ATPase.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. In yeast, the
+    dimeric form of ATP synthase consists of 18 polypeptides: alpha,
+    beta, gamma, delta, epsilon, 4 (B), 5 (OSCP), 6 (A), 8, 9 (C), d,
+    E (Tim11), f, g, h, i, j and k.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    multi-pass membrane protein (Potential).
+-!- SIMILARITY: Belongs to the ATPase C chain family.
+CF(0); Formylation; Hydrogen ion transport; Ion transport;
+Lipid-binding; Membrane; Mitochondrion; Transmembrane; Transport.
+TMTWO

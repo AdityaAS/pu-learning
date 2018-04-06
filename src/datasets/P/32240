@@ -1,0 +1,16 @@
+AC   P0A368; P02965; P09664; P09665; P16478; Q9RED5;
+Pesticidal crystal protein cry1Aa (Insecticidal delta-endotoxin
+CryIA(a)) (Crystaline entomocidal protoxin) (133 kDa crystal protein).
+"Nucleotide sequence of a gene cloned from Bacillus thuringiensis
+subspecies entomocidus coding for an insecticidal protein toxic for
+Bombyx mori.";
+-!- FUNCTION: Promotes colloidosmotic lysis by binding to the midgut
+    epithelial cells of many lepidopteran larvae.
+-!- DEVELOPMENTAL STAGE: The crystal protein is produced during
+    sporulation and is accumulated both as an inclusion and as part of
+    the spore coat.
+-!- MISCELLANEOUS: Toxic segment of the protein is located in the N-
+    terminus.
+-!- SIMILARITY: Belongs to the delta endotoxin family.
+Sporulation; Toxin.
+TMZERO

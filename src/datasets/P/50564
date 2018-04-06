@@ -1,0 +1,14 @@
+AC   P17261;
+Transmembrane protein ERS1 (ERD suppressor).
+"ERS1 a seven transmembrane domain protein from Saccharomyces
+cerevisiae.";
+"The complete DNA sequence of yeast chromosome III.";
+-!- FUNCTION: Suppressor of yeast ERD1 (required for the retention of
+    endogenous ER proteins).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Contains 2 PQ-loop domains.
+ GO:0005768; C:endosome; IDA:SGD.
+ GO:0005773; C:vacuole; IDA:SGD.
+Complete proteome; Glycoprotein; Membrane; Repeat; Transmembrane;
+Transport.
+TMSEVEN

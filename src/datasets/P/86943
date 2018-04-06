@@ -1,0 +1,40 @@
+AC   P97414; O88702; Q7TNZ1; Q7TPL7; Q80VR7;
+Potassium voltage-gated channel subfamily KQT member 1 (Voltage-gated
+potassium channel subunit Kv7.1) (IKs producing slow voltage-gated
+potassium channel subunit alpha KvLQT1) (KQT-like 1).
+"Isoproterenol exacerbates a long QT phenotype in Kcnq1-deficient
+neonatal mice: possible roles for human-like Kcnq1 isoform 1 and slow
+delayed rectifier K+ current.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"K(V)LQT1 and IsK (minK) proteins associate to form the I(Ks) cardiac
+potassium current.";
+"Syntenic organization of the mouse distal chromosome 7 imprinting
+cluster and the Beckwith-Wiedemann syndrome region in chromosome
+11p15.5.";
+-!- FUNCTION: Probably important in cardiac repolarization. Associates
+    with KCNE1 (MinK) to form the I(Ks) cardiac potassium current.
+    Elicits a rapidly activating, potassium-selective outward current.
+-!- SUBUNIT: Heteromultimer with KCNE1 (MinK).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=I;
+      IsoId=P97414-1; Sequence=Displayed;
+    Name=II;
+      IsoId=P97414-2; Sequence=VSP_011748, VSP_000983;
+-!- TISSUE SPECIFICITY: Expressed in heart, kidney and salivary
+    glands. Detected in the cochlea. Almost undetectable in brain,
+    skeletal muscle and liver. Widely expressed in embryonic and
+    neonatal tissues.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids at
+    every third position.
+-!- SIMILARITY: Belongs to the potassium channel family. KQT
+    subfamily.
+ GO:0016458; P:gene silencing; IMP:MGI.
+ GO:0006349; P:imprinting; IMP:MGI.
+Alternative splicing; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Phosphorylation; Potassium; Potassium channel;
+Potassium transport; Transmembrane; Transport; Voltage-gated channel.
+TMSIX

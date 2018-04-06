@@ -1,0 +1,44 @@
+AC   Q20471; Q2PJ71; Q565A9; Q5MCN7; Q5MCN8; Q5WRP4; Q8I4I6;
+Casein kinase I isoform delta (EC 2.7.11.1) (Protein kinase 20).
+"Developmental timing in C. elegans is regulated by kin-20 and tim-1,
+homologs of core circadian clock genes.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Casein kinases are operationally defined by their
+    preferential utilization of acidic proteins such as caseins as
+    substrates. It can phosphorylate a large number of proteins.
+    Participates in Wnt signaling (By similarity). Is a developmental
+    timer that specifies temporal cell fate selection; acts to control
+    the temporal identity of hypodermal seam cells. Required during
+    late-larval development to prevent adult fates, particularly cell
+    cycle exit and fusion, from being expressed too early.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- ENZYME REGULATION: Exhibits substrate-dependent heparin activation
+    (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=5;
+    Name=c;
+      IsoId=Q20471-3; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=a; Synonyms=kin-20A, kin-20C;
+      IsoId=Q20471-1; Sequence=VSP_016942;
+    Name=b;
+      IsoId=Q20471-5; Sequence=VSP_018519, VSP_016942;
+      Note=No experimental confirmation available;
+    Name=d;
+      IsoId=Q20471-4; Sequence=VSP_016943;
+      Note=No experimental confirmation available;
+    Name=e; Synonyms=kin-20B;
+      IsoId=Q20471-2; Sequence=VSP_007173, VSP_016942;
+-!- TISSUE SPECIFICITY: Expressed throughout larval development and
+    into the adult stage in both hypodermal seam cells and the
+    hermaphrodite specific neuron.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. Casein
+    kinase I subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+Alternative splicing; ATP-binding; Biological rhythms;
+Complete proteome; Developmental protein; Kinase; Nucleotide-binding;
+Phosphorylation; Serine/threonine-protein kinase; Transferase.
+TMZERO

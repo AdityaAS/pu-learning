@@ -1,0 +1,15 @@
+AC   Q8FAX1;
+Multidrug resistance protein mdtN.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Could be involved in resistance to puromycin,
+    acriflavine and tetraphenylarsonium chloride (By similarity).
+-!- SUBUNIT: Could be part of a tripartite efflux system composed of
+    mdtN, mdtO and mdtP (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein (Potential).
+-!- SIMILARITY: Belongs to the membrane fusion protein (MFP)
+    (TC 8.A.1) family.
+Antibiotic resistance; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMONE

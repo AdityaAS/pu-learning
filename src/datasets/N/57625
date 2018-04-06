@@ -1,0 +1,20 @@
+AC   Q92L89;
+DNA translocase ftsK.
+"Analysis of the chromosome sequence of the legume symbiont
+Sinorhizobium meliloti strain 1021.";
+-!- FUNCTION: DNA motor protein, which is both required to move DNA
+    out of the region of the septum during cell division and for the
+    septum formation. Tracks DNA in an ATP-dependent manner by
+    generating positive supercoils in front of it and negative
+    supercoils behind it (By similarity).
+-!- SUBUNIT: Homohexamer. This suggests the formation of a ring
+    between the two cells at the septum that surrounds DNA (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein; cytoplasmic side. Note=Located at the septum. The large
+    C-terminal part of the protein is cytoplasmic (Potential).
+-!- SIMILARITY: Contains 1 FtsK domain.
+ATP-binding; Cell cycle; Cell division; Chromosome partition;
+Complete proteome; DNA-binding; Inner membrane; Membrane;
+Nucleotide-binding; Transmembrane.
+THTHREE

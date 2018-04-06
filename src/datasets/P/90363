@@ -1,0 +1,50 @@
+AC   P02943; Q2M6R8;
+Maltoporin precursor (Maltose-inducible porin) (Lambda receptor
+protein).
+"Gene sequence of the lambda receptor, an outer membrane protein of E.
+coli K12.";
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Sequence determinants in the lamB gene of Escherichia coli
+influencing the binding and pore selectivity of maltoporin.";
+"DNA sequence encoding the signal peptide of the lambda receptor in E.
+coli K 12.";
+"DNA sequence encoding the NH2-terminal peptide involved in transport
+of lambda receptor, an Escherichia coli secretory protein.";
+"Genetic analysis of sequences in maltoporin that contribute to
+binding domains and pore structure.";
+"Role of a disulfide bond in the thermal stability of the LamB protein
+trimer in Escherichia coli outer membrane.";
+"Permissive sites and topology of an outer membrane protein with a
+reporter epitope.";
+"A model of maltodextrin transport through the sugar-specific porin,
+LamB, based on deletion analysis.";
+"Sucrose transport through maltoporin mutants of Escherichia coli.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Structural basis for sugar translocation through maltoporin channels
+at 3.1-A resolution.";
+"Crystal structures of various maltooligosaccharides bound to
+maltoporin reveal a specific sugar translocation pathway.";
+"Channel specificity: structural basis for sugar discrimination and
+differential flux rates in maltoporin.";
+-!- FUNCTION: Involved in the transport of maltose and maltodextrins,
+    indispensable for translocation of dextrins containing more than
+    three glucosyl moieties. A hydrophobic path ("greasy slide") of
+    aromatic residues serves to guide and select the sugars for
+    transport through the channel. Also acts as a receptor for several
+    bacteriophages including lambda.
+-!- SUBUNIT: Homotrimer formed of three 18-stranded antiparallel beta-
+    barrels, containing three independent channels.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By maltose.
+-!- SIMILARITY: Belongs to the porin lamB family.
+ GO:0015288; F:porin activity; IEA:HAMAP.
+ GO:0015768; P:maltose transport; IEA:HAMAP.
+3D-structure; Complete proteome; Ion transport; Membrane;
+Outer membrane; Phage recognition; Porin; Signal; Sugar transport;
+Transmembrane; Transport.
+TMEIGHTEEN

@@ -1,0 +1,23 @@
+AC   Q9ZP19; Q84V53;
+Polyphenol oxidase I, chloroplast (EC 1.10.3.1) (PPO-I) (Catechol
+oxidase I).
+"Cloning and characterization of cDNA coding for Ipomoea batatas
+catechol oxidase.";
+"Sequencing and cloning of genomic DNA encoding two isozymes of
+Ipomoea batatas catechol oxidase.";
+"Crystal structure of a plant catechol oxidase containing a dicopper
+center.";
+-!- FUNCTION: Catalyzes the oxidation of mono- and o-diphenols to o-
+    diquinones.
+-!- CATALYTIC ACTIVITY: 2 catechol + O(2) = 2 1,2-benzoquinone + 2
+    H(2)O.
+-!- COFACTOR: Binds 2 copper ions per subunit.
+-!- ENZYME REGULATION: Inhibited by phenylthiourea.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    lumen (By similarity).
+-!- SIMILARITY: Belongs to the tyrosinase family.
+ GO:0004097; F:catechol oxidase activity; IEA:EC.
+3D-structure; Chloroplast; Copper; Metal-binding; Oxidoreductase;
+Plastid; Thioether bond; Thylakoid.
+TMZERO

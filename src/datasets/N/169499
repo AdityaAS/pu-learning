@@ -1,0 +1,12 @@
+AC   O76156;
+Sulfate adenylyltransferase (EC 2.7.7.4) (Sulfate adenylate
+transferase) (SAT) (ATP-sulfurylase).
+"Entamoeba histolytica ATP sulfurylase.";
+-!- CATALYTIC ACTIVITY: ATP + sulfate = diphosphate + adenylyl
+    sulfate.
+-!- PATHWAY: Sulfur metabolism; hydrogen sulfide biosynthesis; sulfite
+    from sulfate: step 1.
+-!- SIMILARITY: Belongs to the sulfate adenylyltransferase family.
+Amino-acid biosynthesis; Cysteine biosynthesis;
+Methionine biosynthesis; Nucleotidyltransferase; Transferase.
+TMZERO

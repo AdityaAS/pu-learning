@@ -1,0 +1,15 @@
+AC   P76169; Q2MB80;
+UPF0060 membrane protein ynfA.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Rapid topology mapping of Escherichia coli inner-membrane proteins by
+prediction and PhoA/GFP fusion analysis.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the UPF0060 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMFOUR

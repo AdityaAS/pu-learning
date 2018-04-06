@@ -1,0 +1,17 @@
+AC   O15182; Q9BS23;
+Centrin-3.
+"Identification of a new mammalian centrin gene, more closely related
+to Saccharomyces cerevisiae CDC31 gene.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Plays a fundamental role in microtubule-organizing
+    center structure and function.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Centrosome. Note=Centrosome of interphase
+    and mitotic cells.
+-!- SIMILARITY: Belongs to the centrin family.
+-!- SIMILARITY: Contains 4 EF-hand domains.
+ GO:0005814; C:centriole; TAS:ProtInc.
+ GO:0007098; P:centrosome cycle; TAS:ProtInc.
+Calcium; Cell cycle; Cell division; Mitosis; Repeat.
+TMZERO

@@ -1,0 +1,25 @@
+AC   P03013;
+DNA-invertase hin.
+"Analysis of the nucleotide sequence of an invertible controlling
+element.";
+"Analysis of the functional components of the phase variation
+system.";
+"Phase variation: evolution of a controlling element.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Hin recombinase bound to DNA: the origin of specificity in major and
+minor groove interactions.";
+"The Hin invertasome: protein-mediated joining of distant
+recombination sites at the enhancer.";
+-!- FUNCTION: A DNA fragment of approximately 900 base pairs, adjacent
+    to the fljB (H2) gene, which specifies the synthesis of phase-2
+    flagellin, can exist in either orientation with respect to fljB.
+    The orientation of the inversion region controls expression of
+    fljB. The hin gene occupies about two-thirds of the inversion
+    region; it is required for the inversion of the fljB controlling
+    region.
+-!- SIMILARITY: Belongs to the site-specific recombinase resolvase
+    family.
+3D-structure; Complete proteome; DNA integration; DNA invertase;
+DNA recombination; DNA-binding.
+TMZERO

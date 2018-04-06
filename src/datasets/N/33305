@@ -1,0 +1,14 @@
+AC   Q83K04;
+Protein csiD.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: May be involved in the control of utilization of gamma-
+    aminobutyric acid (By similarity).
+-!- COFACTOR: Binds 1 iron ion per subunit (By similarity).
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the csiD family.
+ GO:0005506; F:iron ion binding; IEA:HAMAP.
+Complete proteome; Iron; Metal-binding.
+TMZERO

@@ -1,0 +1,10 @@
+AC   P43528;
+Heat-labile enterotoxin IIB, A chain precursor (LT-IIB).
+"Cloning, nucleotide sequence, and hybridization studies of the type
+IIb heat-labile enterotoxin gene of Escherichia coli.";
+"Crystal structure of a new heat-labile enterotoxin, LT-IIb.";
+-!- FUNCTION: The biological activity of the toxin is produced by the
+    A chain, which activates intracellular adenyl cyclase.
+-!- SUBUNIT: Heterohexamer of one A chain and of five B chains.
+3D-structure; Enterotoxin; Signal; Toxin.
+TMZERO

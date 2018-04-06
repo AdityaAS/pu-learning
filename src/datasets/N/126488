@@ -1,0 +1,17 @@
+AC   P34205;
+Deoxyribodipyrimidine photo-lyase (EC 4.1.99.3) (DNA photolyase)
+(Photoreactivating enzyme).
+"Visible light-inducible photolyase gene from the goldfish Carassius
+auratus.";
+-!- FUNCTION: Involved in repair of UV radiation-induced DNA damage.
+    Catalyzes the light-dependent monomerization (300-600 nm) of
+    cyclobutyl pyrimidine dimers (in cis-syn configuration), which are
+    formed between adjacent bases on the same DNA strand upon exposure
+    to ultraviolet radiation.
+-!- CATALYTIC ACTIVITY: Cyclobutadipyrimidine (in DNA) = 2 pyrimidine
+    residues (in DNA).
+-!- INDUCTION: By visible light.
+-!- SIMILARITY: Belongs to the DNA photolyase class-2 family.
+-!- SIMILARITY: Contains 1 DNA photolyase domain.
+Chromophore; DNA damage; DNA repair; DNA-binding; FAD; Lyase.
+TMZERO

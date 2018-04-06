@@ -1,0 +1,28 @@
+AC   Q27522;
+Probable S-adenosylmethionine synthetase tag-32 (EC 2.5.1.6)
+(Methionine adenosyltransferase) (AdoMet synthetase).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Catalyzes the formation of S-adenosylmethionine from
+    methionine and ATP (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + L-methionine + H(2)O = phosphate +
+    diphosphate + S-adenosyl-L-methionine.
+-!- COFACTOR: Binds 2 divalent ions per subunit. Magnesium or Cobalt
+    (By similarity).
+-!- COFACTOR: Binds 1 potassium ion per subunit (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; S-adenosyl-L-methionine
+    biosynthesis; S-adenosyl-L-methionine from L-methionine: single
+    step [final step].
+-!- PATHWAY: Context: Activated methyl cycle.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=a;
+      IsoId=Q27522-1; Sequence=Displayed;
+    Name=b;
+      IsoId=Q27522-2; Sequence=VSP_005960;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the AdoMet synthetase family.
+Alternative splicing; ATP-binding; Complete proteome; Magnesium;
+Metal-binding; Nucleotide-binding; One-carbon metabolism; Potassium;
+Transferase.
+TMZERO

@@ -1,0 +1,11 @@
+AC   Q30U33;
+Thiazole biosynthesis protein thiG.
+"Complete sequence of Thiomicrospira denitrificans ATCC 33889.";
+-!- FUNCTION: Required for the synthesis of the thiazole moiety of
+    thiamine (By similarity).
+-!- COFACTOR: FMN (Potential).
+-!- PATHWAY: Thiamine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the thiG family.
+Complete proteome; Flavoprotein; FMN; Thiamine biosynthesis.
+TMZERO

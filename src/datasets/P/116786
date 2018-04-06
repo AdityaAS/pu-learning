@@ -1,0 +1,16 @@
+AC   P0AFF4; P09452; P76653; Q2M9M9;
+Nucleoside permease nupG (Nucleoside-transport system protein nupG).
+"Studies on the sequence and structure of the Escherichia coli K-12
+nupG gene, encoding a nucleoside-transport system.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Transports nucleosides with a high affinity. Driven by a
+    proton motive force.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: To E.coli xapB and yegT.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

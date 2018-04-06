@@ -1,0 +1,27 @@
+AC   Q9NR63; Q53TW1; Q9NP41;
+Cytochrome P450 26B1 (EC 1.14.-.-) (P450 26A2) (P450 retinoic acid-
+inactivating 2) (P450RAI-2) (Retinoic acid-metabolizing cytochrome).
+"Identification of the human cytochrome P450, P450RAI-2, which is
+predominantly expressed in the adult cerebellum and is responsible for
+all-trans-retinoic acid metabolism.";
+"Generation and annotation of the DNA sequences of human chromosomes 2
+and 4.";
+-!- FUNCTION: Plays a key role in retinoic acid metabolism. Involved
+    in the specific inactivation of all-trans-retinoic acid (RA).
+    Responsible for generation of several hydroxylated forms of RA,
+    including 4-OH-RA, 4-oxo-RA, and 18-OH-RA.
+-!- ENZYME REGULATION: Has a preferred activity towards the following
+    substrates: all-trans-RA > 9-cis-RA > 13-cis-RA.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; peripheral membrane protein (By similarity).
+-!- TISSUE SPECIFICITY: Highly expressed in brain, particularly in the
+    cerebellum and pons.
+-!- INDUCTION: By retinoic acid.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+ GO:0005783; C:endoplasmic reticulum; NAS:UniProtKB.
+ GO:0005792; C:microsome; NAS:UniProtKB.
+ GO:0004497; F:monooxygenase activity; NAS:UniProtKB.
+ GO:0006118; P:electron transport; NAS:UniProtKB.
+Endoplasmic reticulum; Heme; Iron; Membrane; Metal-binding; Microsome;
+Monooxygenase; Oxidoreductase; Polymorphism.
+TMZERO

@@ -1,0 +1,21 @@
+AC   Q71XX5;
+UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+(EC 6.3.2.13) (UDP-N-acetylmuramyl-tripeptide synthetase) (Meso-
+diaminopimelate-adding enzyme) (UDP-MurNAc-tripeptide synthetase).
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- FUNCTION: Cell wall formation. Diaminopimelic acid adding enzyme
+    (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + UDP-N-acetylmuramoyl-L-alanyl-D-
+    glutamate + meso-2,6-diaminoheptanedioate = ADP + phosphate + UDP-
+    N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diamino-
+    heptanedioate.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the murCDEF family.
+ GO:0008765; F:UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-...; IEA:HAMAP.
+ATP-binding; Cell cycle; Cell division; Cell shape; Cell wall;
+Complete proteome; Ligase; Nucleotide-binding;
+Peptidoglycan synthesis.
+TMZERO

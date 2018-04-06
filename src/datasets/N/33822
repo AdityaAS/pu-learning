@@ -1,0 +1,10 @@
+AC   Q8C008; Q8C060;
+Ankyrin repeat-containing protein C20orf12 homolog.
+"The transcriptional landscape of the mammalian genome.";
+"Comprehensive identification of phosphorylation sites in postsynaptic
+density preparations.";
+-!- SIMILARITY: Contains 2 ANK repeats.
+-!- CAUTION: Ref.1 (BAC27747) sequence differs from that shown due to
+    a frameshift in position 7.
+ANK repeat; Phosphorylation; Repeat.
+TMZERO

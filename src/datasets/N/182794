@@ -1,0 +1,14 @@
+AC   P26636;
+Seryl-tRNA synthetase, cytoplasmic (EC 6.1.1.11) (Serine--tRNA ligase)
+(SerRS) (Fragment).
+"A seryl-tRNA synthetase gene is coamplified with the adenylate
+deaminase 2 gene in coformycin resistant Chinese hamster
+fibroblasts.";
+-!- CATALYTIC ACTIVITY: ATP + L-serine + tRNA(Ser) = AMP + diphosphate
+    + L-seryl-tRNA(Ser).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Ligase; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

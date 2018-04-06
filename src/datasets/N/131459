@@ -1,0 +1,10 @@
+AC   Q8PD33;
+Ribosomal protein L11 methyltransferase (EC 2.1.1.-) (L11 Mtase).
+"Comparison of the genomes of two Xanthomonas pathogens with differing
+host specificities.";
+-!- FUNCTION: Methylates ribosomal protein L11 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the methyltransferase superfamily. PrmA
+    family.
+Complete proteome; Methyltransferase; Transferase.
+TMZERO

@@ -1,0 +1,27 @@
+AC   P13123; Q4JCI7;
+DNA-binding protein 7d (7 kDa DNA-binding protein d) (Sac7d)
+[Contains: DNA-binding protein 7a (7 kDa DNA-binding protein a)
+(Sac7a); DNA-binding protein 7b (7 kDa DNA-binding protein b)
+(Sac7b)].
+"Gene cloning, expression, and characterization of the Sac7 proteins
+from the hyperthermophile Sulfolobus acidocaldarius.";
+"The genome of Sulfolobus acidocaldarius, a model organism of the
+Crenarchaeota.";
+"The amino acid sequence of a small DNA binding protein from the
+archaebacterium Sulfolobus solfataricus.";
+"Microsequence analysis of DNA-binding proteins 7a, 7b, and 7e from
+the archaebacterium Sulfolobus acidocaldarius.";
+"Solution structure of the DNA-binding protein Sac7d from the
+hyperthermophile Sulfolobus acidocaldarius.";
+"The hyperthermophile chromosomal protein Sac7d sharply kinks DNA.";
+-!- FUNCTION: Constrain negative DNA supercoils; may be involved in
+    maintaining the integrity of their genome at high temperature.
+-!- SUBUNIT: Monomer.
+-!- PTM: Lys-4 was 70% monomethylated in form 7a, 25% in form 7b, and
+    20% in form 7d. Lys-6 was 50% monomethylated in form 7a, 40% in
+    form 7b, and 50% in form 7d.
+-!- SIMILARITY: Belongs to the 7 kDa DNA-binding/endoribonuclease P2
+    family.
+3D-structure; Complete proteome; Direct protein sequencing;
+DNA-binding; Methylation.
+TMZERO

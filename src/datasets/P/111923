@@ -1,0 +1,26 @@
+AC   P33593; Q2M7E2;
+Nickel import ATP-binding protein nikD (EC 3.6.3.24).
+"The nik operon of Escherichia coli encodes a periplasmic binding-
+protein-dependent transport system for nickel.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Part of the ABC transporter complex nikABCDE involved in
+    nickel import. Responsible for energy coupling to the transport
+    system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Ni(2+)(Out) = ADP + phosphate +
+    Ni(2+)(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins (nikD
+    and nikE), two transmembrane proteins (nikB and nikC) and a
+    solute-binding protein (nikA) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Nickel importer
+    (TC 3.A.1.5.3) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0015413; F:nickel-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Nickel; Nickel transport; Nucleotide-binding; Transport.
+TMZERO

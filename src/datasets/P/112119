@@ -1,0 +1,18 @@
+AC   Q03203;
+Nisin transport ATP-binding protein nisT.
+"Biosynthesis of the lantibiotic nisin: genomic organization and
+membrane localization of the NisB protein.";
+"Characterization of the nisin gene cluster nisABTCIPR of Lactococcus
+lactis. Requirement of expression of the nisA and nisI genes for
+development of immunity.";
+"Characterization of the nisin gene as part of a polycistronic operon
+in the chromosome of Lactococcus lactis ATCC 11454.";
+-!- FUNCTION: Probably implicated in the export process of the
+    lantibiotic nisin.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. HlyB subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Bacteriocin transport; Membrane; Nucleotide-binding;
+Protein transport; Transmembrane; Transport.
+TMFIVE

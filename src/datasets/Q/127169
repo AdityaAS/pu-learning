@@ -1,0 +1,9 @@
+AC   P49022;
+Phage infection protein.
+"Cloning of a chromosomal gene required for phage infection of
+Lactococcus lactis subsp. lactis C2.";
+-!- FUNCTION: Required for phage infection.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-2 domain.
+Membrane; Transmembrane.
+TMSIX

@@ -1,0 +1,11 @@
+AC   P18750;
+Oocyte zinc finger protein XLCOF6.1 (Fragment).
+"Second-order repeats in Xenopus laevis finger proteins.";
+-!- FUNCTION: May be involved in transcriptional regulation.
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+    family.
+-!- SIMILARITY: Contains at least 8 C2H2-type zinc fingers.
+DNA-binding; Metal-binding; Nuclear protein; Transcription;
+Transcription regulation; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,18 @@
+AC   P0AGA5; P03844;
+Preprotein translocase secY subunit.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Involved in protein export. Interacts with secA and secE
+    to allow the translocation of proteins across the plasma membrane,
+    by forming part of a channel (By similarity).
+-!- SUBUNIT: One of seven secretory proteins (secA-F and secY) that
+    comprise the prokaryotic protein translocation apparatus (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the secY/SEC61-alpha family.
+Complete proteome; Inner membrane; Membrane; Protein transport;
+Translocation; Transmembrane; Transport.
+TMTEN

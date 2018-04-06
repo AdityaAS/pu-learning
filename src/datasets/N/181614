@@ -1,0 +1,11 @@
+AC   Q7U6T1;
+Leucyl-tRNA synthetase (EC 6.1.1.4) (Leucine--tRNA ligase) (LeuRS).
+"The genome of a motile marine Synechococcus.";
+-!- CATALYTIC ACTIVITY: ATP + L-leucine + tRNA(Leu) = AMP +
+    diphosphate + L-leucyl-tRNA(Leu).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

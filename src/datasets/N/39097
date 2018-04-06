@@ -1,0 +1,19 @@
+AC   Q5KHB7; Q55SY3;
+ATP-dependent RNA helicase DBP3 (EC 3.6.1.-).
+"The genome of the basidiomycetous yeast and human pathogen
+Cryptococcus neoformans.";
+-!- FUNCTION: ATP-dependent RNA helicase required for 60S ribosomal
+    subunit synthesis. Involved in efficient pre-rRNA processing,
+    predominantly at site A3, which is necessary for the normal
+    formation of 25S and 5.8S rRNAs (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus (By similarity).
+-!- DOMAIN: The Q motif is unique to and characteristic of the DEAD
+    box family of RNA helicases and controls ATP binding and
+    hydrolysis.
+-!- SIMILARITY: Belongs to the DEAD box helicase family. DDX5/DBP2
+    subfamily.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ATP-binding; Complete proteome; Helicase; Hydrolase; Nuclear protein;
+Nucleotide-binding; Ribosome biogenesis; RNA-binding; rRNA processing.
+TMZERO

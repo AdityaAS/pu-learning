@@ -1,0 +1,18 @@
+AC   Q41364;
+2-oxoglutarate/malate translocator, chloroplast precursor.
+"The 2-oxoglutarate/malate translocator of chloroplast envelope
+membranes: molecular cloning of a transporter containing a 12-helix
+motif and expression of the functional protein in yeast cells.";
+-!- FUNCTION: Transports carbon skeletons into chloroplasts for net
+    glutamate synthesis. This translocator exchanges malate for
+    internal succinate, fumarate and 2-oxoglutarate but not for
+    aspartate and glutamate.
+-!- SUBUNIT: Monomer (Probable).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast inner
+    membrane; multi-pass membrane protein.
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    SODIT1 subfamily.
+Chloroplast; Direct protein sequencing; Membrane; Plastid;
+Transit peptide; Transmembrane; Transport.
+TMTHIRTEEN

@@ -1,0 +1,21 @@
+AC   Q9UFN0; Q9BRV7; Q9H843; Q9P083;
+Protein NipSnap3A (NipSnap4) (Target for Salmonella secreted protein
+C) (TassC).
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Human partial CDS from CD34+ stem cells.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of a NIPSNAP homologue as host cell target for
+Salmonella virulence protein SpiC.";
+-!- SUBUNIT: Interacts with the Salmonella typhimurium virulence
+    protein spiC.
+-!- SUBCELLULAR LOCATION: Cytoplasm; cytosol. Note=May be part of some
+    vesicular structure distinct from lysosomal vesicles.
+-!- TISSUE SPECIFICITY: Ubiquitous. Highly expressed in liver, kidney
+    and muscle. Expressed at intermediate level in brain, heart,
+    colon, thymus, kidney, small intestine, placenta, lung, leukocytes
+    and spleen.
+-!- SIMILARITY: Belongs to the NipSnap family.
+Polymorphism.
+TMZERO

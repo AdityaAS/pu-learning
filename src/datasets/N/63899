@@ -1,0 +1,13 @@
+AC   P54806;
+Nitrogen fixation nifHD2 region glnB-like protein 2 (ORF-125).
+"Nucleotide sequence of nifH regions from Methanobacterium ivanovii
+and Methanosarcina barkeri 227 and characterization of glnB-like
+genes.";
+"Cloning, DNA sequencing, and characterization of a nifD-homologous
+gene from the archaeon Methanosarcina barkeri 227 which resembles
+nifD1 from the eubacterium Clostridium pasteurianum.";
+-!- FUNCTION: Could be involved in the regulation of nitrogen
+    fixation.
+-!- SIMILARITY: Belongs to the P(II) protein family.
+Nitrogen fixation; Transcription; Transcription regulation.
+TMZERO

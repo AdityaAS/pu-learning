@@ -1,0 +1,11 @@
+AC   P66483; Q8NT03;
+30S ribosomal protein S19.
+"Comparative complete genome sequence analysis of the amino acid
+replacements responsible for the thermostability of Corynebacterium
+efficiens.";
+-!- FUNCTION: Protein S19 forms a complex with S13 that binds strongly
+    to the 16S ribosomal RNA (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S19P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein.
+TMZERO

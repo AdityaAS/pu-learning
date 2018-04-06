@@ -1,0 +1,38 @@
+AC   P05306;
+PTS system sucrose-specific EIIBC component (EIIBC-Scr) (EII-Scr)
+[Includes: Sucrose-specific phosphotransferase enzyme IIB component
+(EC 2.7.1.69) (PTS system sucrose-specific EIIB component); Sucrose
+permease IIC component (PTS system sucrose-specific EIIC component)].
+"Bacillus subtilis sucrose-specific enzyme II of the
+phosphotransferase system: expression in Escherichia coli and homology
+to enzymes II from enteric bacteria.";
+"Bacillus subtilis genome project: cloning and sequencing of the 97 kb
+region from 325 degrees to 333 degrees.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Detecting and analyzing DNA sequencing errors: toward a higher
+quality of the Bacillus subtilis genome sequence.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in sucrose transport (By
+    similarity).
+-!- FUNCTION: Acts as both a kinase and a phosphatase on sacT (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIIB type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-1 domain.
+Complete proteome; Membrane; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase;
+Transmembrane; Transport.
+TMTEN

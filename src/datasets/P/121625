@@ -1,0 +1,23 @@
+AC   P16256; P76679; Q2M8V7;
+Sodium/pantothenate symporter (Pantothenate permease).
+"Cloning, sequence, and expression of the pantothenate permease (panF)
+gene of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Cloning and characterization of the E. coli fabEG operon encoding
+subunits of acetyl-CoA carboxylase.";
+"Cotranscription of two genes necessary for ribosomal protein L11
+methylation (prmA) and pantothenate transport (panF) in Escherichia
+coli K-12.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Catalyzes the sodium-dependent uptake of extracellular
+    pantothenate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+Complete proteome; Inner membrane; Ion transport; Membrane; Sodium;
+Sodium transport; Symport; Transmembrane; Transport.
+TMTWELVE

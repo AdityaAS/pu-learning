@@ -1,0 +1,13 @@
+AC   Q8XCU1;
+UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.-).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Catalyzes the hydrolysis of the pyrophosphate bond of
+    UDP-2,3-diacylglucosamine to yield 2,3-diacylglucosamine 1-
+    phosphate (lipid X) and UMP (By similarity).
+-!- PATHWAY: Lipid A biosynthesis; fourth step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the lpxH family.
+Complete proteome; Hydrolase; Lipid A biosynthesis; Lipid synthesis.
+TMZERO

@@ -1,0 +1,11 @@
+AC   P27872;
+Probable opine utilization operon repressor (Fragment).
+"Organization of the agropine synthesis region of the T-DNA of the Ri
+plasmid from Agrobacterium rhizogenes.";
+-!- FUNCTION: Possible repressor for genes for mannityl-opine
+    utilization and / or plasmid conjugative transfer.
+-!- PATHWAY: Agropine / mannopine biosynthesis.
+-!- SIMILARITY: Contains 1 HTH lacI-type DNA-binding domain.
+DNA-binding; Plasmid; Repressor; Transcription;
+Transcription regulation.
+TMZERO

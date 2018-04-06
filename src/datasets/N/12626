@@ -1,0 +1,21 @@
+AC   Q5A950; Q5A9F2; Q9Y752;
+Sterol 3-beta-glucosyltransferase (EC 2.4.1.173) (Autophagy-related
+protein 26) (UDP-glycosyltransferase 51).
+"Cloning and functional expression of UGT genes encoding sterol
+glucosyltransferases from Saccharomyces cerevisiae, Candida albicans,
+Pichia pastoris, and Dictyostelium discoideum.";
+"The diploid genome sequence of Candida albicans.";
+-!- FUNCTION: May be involved in decane metabolism and autophagy (By
+    similarity). Involved in the biosynthesis of sterol glucoside.
+-!- CATALYTIC ACTIVITY: UDP-glucose + a sterol = UDP + a sterol 3-
+    beta-D-glucoside.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Membrane;
+    peripheral membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 28 family.
+-!- SIMILARITY: Contains 2 GRAM domains.
+-!- SIMILARITY: Contains 1 PH domain.
+ GO:0016906; F:sterol 3-beta-glucosyltransferase activity; IEA:EC.
+Autophagy; Glycosyltransferase; Lipid synthesis; Membrane;
+Protein transport; Repeat; Steroid biosynthesis; Sterol biosynthesis;
+Transferase; Transport.
+TMZERO

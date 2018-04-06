@@ -1,0 +1,11 @@
+AC   Q9HUM9;
+30S ribosomal protein S6.
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Binds together with S18 to 16S ribosomal RNA (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S6P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

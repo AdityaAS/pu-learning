@@ -1,0 +1,29 @@
+AC   P61916; Q15668; Q29413;
+Epididymal secretory protein E1 precursor (Niemann-Pick disease type
+C2 protein) (hE1).
+"Region-specific variation of gene expression in the human epididymis
+as revealed by in situ hybridization with tissue-specific cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of HE1 as the second gene of Niemann-Pick C disease.";
+"Niemann-Pick disease type C: spectrum of HE1 mutations and
+genotype/phenotype correlations in the NPC2 group.";
+"Frontal lobe atrophy due to a mutation in the cholesterol binding
+protein HE1/NPC2.";
+-!- FUNCTION: May be involved in the regulation of the lipid
+    composition of sperm membranes during the maturation in the
+    epididymis (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (Potential).
+-!- TISSUE SPECIFICITY: Epididymis.
+-!- DISEASE: Defects in NPC2 are the cause of Niemann-Pick disease
+    type C2 (NPC2) [MIM:607625]. NPC2 is a fatal autosomal recessive
+    hereditary disease characterized by the accumulation of low-
+    density lipoprotein-derived cholesterol in lysosomes.
+-!- SIMILARITY: Belongs to the NPC2 family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=NPC2".
+ GO:0019899; F:enzyme binding; IPI:UniProtKB.
+ GO:0042632; P:cholesterol homeostasis; IDA:UniProtKB.
+ GO:0019747; P:regulation of isoprenoid metabolism; TAS:UniProtKB.
+Glycoprotein; Polymorphism; Signal.
+TMZERO

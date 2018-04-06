@@ -1,0 +1,15 @@
+AC   Q5PJT2;
+Probable oxaloacetate decarboxylase gamma chain 2 (EC 4.1.1.3).
+"Comparison of genome degradation in Paratyphi A and Typhi, human-
+restricted serovars of Salmonella enterica that cause typhoid.";
+-!- FUNCTION: Lyase and sodium transporter (By similarity).
+-!- CATALYTIC ACTIVITY: Oxaloacetate = pyruvate + CO(2).
+-!- COFACTOR: Sodium (By similarity).
+-!- SUBUNIT: Heterotrimer of an alpha, a beta and a gamma subunit (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the oadG family.
+Complete proteome; Decarboxylase; Ion transport; Lyase; Membrane;
+Sodium; Sodium transport; Transmembrane; Transport.
+TMONE

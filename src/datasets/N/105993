@@ -1,0 +1,19 @@
+AC   Q49Z47;
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2 (EC 2.5.1.7)
+(Enoylpyruvate transferase 2) (UDP-N-acetylglucosamine enolpyruvyl
+transferase 2) (EPT 2).
+"Whole genome sequence of Staphylococcus saprophyticus reveals the
+pathogenesis of uncomplicated urinary tract infection.";
+-!- FUNCTION: Cell wall formation. Adds enolpyruvyl to UDP-N-
+    acetylglucosamine (By similarity).
+-!- CATALYTIC ACTIVITY: Phosphoenolpyruvate + UDP-N-acetyl-D-
+    glucosamine = phosphate + UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-
+    glucosamine.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the EPSP synthase family. MurA subfamily.
+ GO:0008760; F:UDP-N-acetylglucosamine 1-carboxyvinyltrans...; IEA:HAMAP.
+ GO:0009252; P:peptidoglycan biosynthesis; IEA:HAMAP.
+Cell cycle; Cell division; Cell shape; Cell wall; Complete proteome;
+Peptidoglycan synthesis; Transferase.
+TMZERO

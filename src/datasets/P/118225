@@ -1,0 +1,15 @@
+AC   P97085; Q9KU90; Q9L5A3;
+Outer membrane protein U precursor (Porin ompU).
+"Cloning and characterization of the gene encoding the OmpU outer
+membrane protein of Vibrio cholerae.";
+"Cloning and expression of ompU of Vibrio cholerae and its
+antigenicity analysis.";
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the Gram-negative porin family.
+Complete proteome; Ion transport; Membrane; Outer membrane; Porin;
+Signal; Transmembrane; Transport.
+TMZERO

@@ -1,0 +1,30 @@
+AC   P32944;
+Mitosis inhibitor protein kinase SWE1 (EC 2.7.11.1).
+"Properties of Saccharomyces cerevisiae wee1 and its differential
+regulation of p34CDC28 in response to G1 and G2 cyclins.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"The Saccharomyces cerevisiae bud-neck proteins Kcc4 and Gin4 have
+distinct but partially-overlapping cellular functions.";
+-!- FUNCTION: Protein kinase that acts both on serines and on
+    tyrosines. It acts as a negative regulator of entry into mitosis
+    (G2 to M transition). Phosphorylates and inhibits CDC28.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SUBUNIT: Interacts with KCC4.
+-!- INTERACTION:
+    P25389:KCC4; NbExp=1; IntAct=EBI-18607, EBI-9607;
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. WEE1
+    subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005935; C:bud neck; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0004672; F:protein kinase activity; IDA:SGD.
+ GO:0000078; P:cell morphogenesis checkpoint; IDA:SGD.
+ GO:0000086; P:G2/M transition of mitotic cell cycle; IDA:SGD.
+ GO:0008361; P:regulation of cell size; IMP:SGD.
+ GO:0000079; P:regulation of cyclin-dependent protein kina...; IDA:SGD.
+ GO:0040020; P:regulation of meiosis; IEP:SGD.
+ATP-binding; Cell cycle; Cell division; Complete proteome; Kinase;
+Mitosis; Nucleotide-binding; Transferase; Tyrosine-protein kinase.
+TMZERO

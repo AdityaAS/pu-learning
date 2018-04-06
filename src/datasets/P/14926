@@ -1,0 +1,28 @@
+AC   P09457;
+ATP synthase subunit 5, mitochondrial precursor (EC 3.6.3.14)
+(Oligomycin sensitivity conferral protein) (OSCP) (ATP synthase chain
+5).
+"The sequence of the yeast ATP5 gene.";
+"The gene coding for the yeast oligomycin sensitivity-conferring
+protein.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: This protein seems to be part of the stalk that links
+    CF(0) to CF(1). It either transmits conformational changes from
+    CF(0) into CF(1) or is implicated in proton conduction.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- MISCELLANEOUS: Present with 32400 molecules/cell.
+-!- SIMILARITY: Belongs to the ATPase delta chain family.
+ GO:0000274; C:proton-transporting ATP synthase, stator st...; IMP:SGD.
+ GO:0015986; P:ATP synthesis coupled proton transport; IMP:SGD.
+ATP synthesis; CF(1); Complete proteome; Hydrogen ion transport;
+Hydrolase; Ion transport; Mitochondrion; Transit peptide; Transport.
+TMZERO

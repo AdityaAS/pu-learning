@@ -1,0 +1,11 @@
+AC   P0A9R8; P10115;
+Cell division ATP-binding protein ftsE.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Not known. Is coded in an operon essential for cell
+    division (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Cell cycle; Cell division; Complete proteome;
+Nucleotide-binding.
+TMZERO

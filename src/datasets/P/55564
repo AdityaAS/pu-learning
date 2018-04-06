@@ -1,0 +1,16 @@
+AC   P40729;
+Flagellar biosynthesis protein flhA.
+"Molecular characterization of the Salmonella typhimurium flhB operon
+and its protein products.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Required for formation of the rod structure of the
+    flagellar apparatus. Together with fliI and fliH, may constitute
+    the export apparatus of flagellin.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the FHIPEP (flagella/HR/invasion proteins
+    export pore) family.
+Complete proteome; Flagellum; Inner membrane; Membrane;
+Protein transport; Transmembrane; Transport.
+TMEIGHT

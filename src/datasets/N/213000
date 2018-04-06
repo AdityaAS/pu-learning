@@ -1,0 +1,8 @@
+AC   Q8FYA6;
+UPF0178 protein BR1979.
+"The Brucella suis genome reveals fundamental similarities between
+animal and plant pathogens and symbionts.";
+-!- SIMILARITY: Belongs to the UPF0178 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

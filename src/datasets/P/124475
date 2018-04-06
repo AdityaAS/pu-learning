@@ -1,0 +1,22 @@
+AC   P38921;
+Putative mitochondrial carrier protein PET8.
+"Two yeast chromosomes are related by a fossil duplication of their
+centromeric regions.";
+"Organization of the centromeric region of chromosome XIV in
+Saccharomyces cerevisiae.";
+"Nucleotide sequence analysis of an 8887 bp region of the left arm of
+yeast chromosome XIV, encompassing the centromere sequence.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Global analysis of protein expression in yeast.";
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (Potential).
+-!- MISCELLANEOUS: Present with 521 molecules/cell.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0000095; F:S-adenosylmethionine transporter activity; IDA:SGD.
+ GO:0015805; P:S-adenosylmethionine transport; IDA:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion; Repeat;
+Transmembrane; Transport.
+TMFOUR

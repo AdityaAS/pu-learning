@@ -1,0 +1,30 @@
+AC   O35949;
+Elongation of very long chain fatty acids protein 3 (Cold-inducible
+glycoprotein of 30 kDa) (CIN-2).
+"Cig30, a mouse member of a novel membrane protein gene family, is
+involved in the recruitment of brown adipose tissue.";
+"Cig30 and Pitx3 genes are arranged in a partially overlapping tail-
+to-tail array resulting in complementary transcripts.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May be involved in a membrane event related to cellular
+    proliferation in brown adipose tissue. Could be implicated in
+    synthesis of very long chain fatty acids and sphingolipids. May
+    catalyze one or both of the reduction reaction in fatty acid
+    elongation, i.e., conversion of beta-ketoacyl CoA to beta-
+    hydroxyacyl CoA or reduction of trans-2-enoyl CoA to the saturated
+    acyl CoA derivative.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (Potential).
+-!- TISSUE SPECIFICITY: Readily detected in brown adipose tissue and
+    liver. Weak expression in kidney, white adipose tissue, heart and
+    skin. Not detected in lung, testis, muscle, spleen, brain, thymus
+    and intestine.
+-!- INDUCTION: Elevated in brown adipose tissue in conditions of brown
+    fat recruitment, namely cold stress, perinatal development and
+    after diet-induced thermogenesis. A synergistic action of both
+    catecholamines and glucocorticoids is required for the induction.
+-!- SIMILARITY: Belongs to the ELO family.
+Endoplasmic reticulum; Fatty acid biosynthesis; Glycoprotein;
+Lipid synthesis; Membrane; Transmembrane.
+TMFIVE

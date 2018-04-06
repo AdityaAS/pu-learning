@@ -1,0 +1,11 @@
+AC   Q25390;
+Alpha-scruin.
+"Sequence and domain organization of scruin, an actin-cross-linking
+protein in the acrosomal process of Limulus sperm.";
+-!- FUNCTION: Actin bundling protein found in the acrosomal sperm
+    process.
+-!- TISSUE SPECIFICITY: Sperm.
+-!- SIMILARITY: Contains 1 IQ domain.
+-!- SIMILARITY: Contains 12 Kelch repeats.
+Kelch repeat; Repeat.
+TMZERO

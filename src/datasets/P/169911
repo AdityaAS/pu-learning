@@ -1,0 +1,37 @@
+AC   Q9JK00;
+Sodium channel subunit beta-3 precursor.
+"Beta3: an additional auxiliary subunit of the voltage-sensitive
+sodium channel that modulates channel gating with distinct kinetics.";
+"Differential modulation of sodium channel gating and persistent
+sodium currents by the beta1, beta2, and beta3 subunits.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Sodium channel beta1 and beta3 subunits associate with neurofascin
+through their extracellular immunoglobulin-like domain.";
+"Role of auxiliary beta1-, beta2-, and beta3-subunits and their
+interaction with Na(v)1.8 voltage-gated sodium channel.";
+-!- FUNCTION: Modulates channel gating kinetics. Causes unique
+    persistent sodium currents. Inactivates the sodium channel opening
+    more slowly than the subunit beta-1. Its association with
+    neurofascin may target the sodium channels to the nodes of Ranvier
+    of developing axons and retain these channels at the nodes in
+    mature myelinated axons.
+-!- SUBUNIT: The voltage-sensitive sodium channel consists of an ion
+    conducting pore forming alpha-subunit regulated by one or more
+    beta-1, beta-2 and/or beta-3 subunits. Beta-1 and beta-3 are non-
+    covalently associated with alpha, while beta-2 is covalently
+    linked by disulfide bonds. Beta-1 or beta-3 subunits associate
+    with neurofascin. Associates with SCN10A.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Expressed broadly in neurons in the central
+    and peripheral nervous systems, but not in glia and most non-
+    neuronal cells. Weak detection in lung and adrenal gland.
+-!- SIMILARITY: Contains 1 Ig-like C2-type (immunoglobulin-like)
+    domain.
+ GO:0016021; C:integral to membrane; IDA:RGD.
+ GO:0016974; F:sodium channel auxiliary protein activity; IDA:RGD.
+Glycoprotein; Immunoglobulin domain; Ion transport; Ionic channel;
+Membrane; Signal; Sodium; Sodium channel; Sodium transport;
+Transmembrane; Transport; Voltage-gated channel.
+TMONE

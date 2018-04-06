@@ -1,0 +1,11 @@
+AC   Q493V5;
+30S ribosomal protein S6.
+"Genome sequence of Blochmannia pennsylvanicus indicates parallel
+evolutionary trends among bacterial mutualists of insects.";
+-!- FUNCTION: Binds together with S18 to 16S ribosomal RNA (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S6P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

@@ -1,0 +1,13 @@
+AC   P36680; P75645; Q8KJQ6; Q8KMZ7;
+UPF0289 protein yacF.
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+2.4-4.1 min (110,917-193,643 bp) region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- SIMILARITY: Belongs to the UPF0289 family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to several
+    frameshifts.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

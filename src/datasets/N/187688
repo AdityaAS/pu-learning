@@ -1,0 +1,22 @@
+AC   Q723Y9;
+Thiamine-phosphate pyrophosphorylase (EC 2.5.1.3) (TMP
+pyrophosphorylase) (TMP-PPase) (Thiamine-phosphate synthase).
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- FUNCTION: Condenses 4-methyl-5-(beta-hydroxyethyl)thiazole
+    monophosphate (THZ-P) and 4-amino-5-hydroxymethyl pyrimidine
+    pyrophosphate (HMP-PP) to form thiamine monophosphate (TMP) (By
+    similarity).
+-!- CATALYTIC ACTIVITY: 2-methyl-4-amino-5-hydroxymethylpyrimidine
+    diphosphate + 4-methyl-5-(2-phosphono-oxyethyl)thiazole =
+    diphosphate + thiamine monophosphate.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; thiamine pyrophosphate
+    biosynthesis; thiamine pyrophosphate from 4-amino-2-methyl-5-
+    diphosphomethylpyrimidine and 4-methyl-5-(2-phosphoethyl)-
+    thiazole: step 1.
+-!- SIMILARITY: Belongs to the TMP-PPase family.
+Complete proteome; Magnesium; Metal-binding; Thiamine biosynthesis;
+Transferase.
+TMZERO

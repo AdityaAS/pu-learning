@@ -1,0 +1,14 @@
+AC   O91740;
+Polymerase basic protein 2 (RNA-directed RNA polymerase subunit P3).
+"Phylogenetic analysis of the entire genome of influenza A (H3N2)
+viruses from Japan: evidence for genetic reassortment of the six
+internal genes.";
+-!- FUNCTION: Involved in transcription initiation and cap-stealing
+    mechanism, in which cellular capped pre-mRNA are used to generate
+    primers for viral transcription. Binds the cap of the target pre-
+    RNA which is subsequently cleaved by PB1.
+-!- SUBUNIT: Influenza RNA polymerase is composed of three subunits:
+    PB1, PB2 and PA.
+-!- SIMILARITY: Belongs to the influenza viruses PB2 family.
+mRNA capping; mRNA processing.
+TMZERO

@@ -1,0 +1,20 @@
+AC   Q8SXX4; Q9VT10; Q9VT12;
+Capon-like protein.
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Discovery of genes with highly restricted expression patterns in the
+Drosophila wing disc using DNA oligonucleotide microarrays.";
+-!- FUNCTION: Putative adapter protein (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8SXX4-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8SXX4-2; Sequence=VSP_012464;
+-!- TISSUE SPECIFICITY: Expressed at higher level in wing imaginal
+    disk.
+-!- SIMILARITY: Contains 1 PID domain.
+Alternative splicing; Coiled coil; Complete proteome.
+TMZERO

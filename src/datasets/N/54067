@@ -1,0 +1,13 @@
+AC   P18820;
+Ferredoxin (Fragment).
+"Comparative properties of ferredoxins from a marine and freshwater
+species of Porphyridium.";
+-!- FUNCTION: Ferredoxins are iron-sulfur proteins that transfer
+    electrons in a wide variety of metabolic reactions.
+-!- COFACTOR: Binds 1 2Fe-2S cluster.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the 2Fe2S plant-type ferredoxin family.
+-!- SIMILARITY: Contains 1 2Fe-2S ferredoxin-type domain.
+2Fe-2S; Chloroplast; Direct protein sequencing; Electron transport;
+Iron; Iron-sulfur; Metal-binding; Plastid; Transport.
+TMZERO

@@ -1,0 +1,13 @@
+AC   P29136;
+Metalloendoproteinase 1 precursor (EC 3.4.24.-) (SMEP1).
+"Construction and characterization of the soybean leaf
+metalloproteinase cDNA.";
+"Sequencing and characterization of the soybean leaf
+metalloproteinase.";
+-!- FUNCTION: Specificity similar to that of mammalian matrix
+    metalloproteases. May act against cell wall components.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the peptidase M10A family.
+Direct protein sequencing; Hydrolase; Metal-binding; Metalloprotease;
+Protease; Signal; Zinc; Zymogen.
+TMZERO

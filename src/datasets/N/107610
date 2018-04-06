@@ -1,0 +1,11 @@
+AC   Q7V9M5;
+DNA mismatch repair protein mutS.
+"Genome sequence of the cyanobacterium Prochlorococcus marinus SS120,
+a nearly minimal oxyphototrophic genome.";
+-!- FUNCTION: This protein is involved in the repair of mismatches in
+    DNA. It is possible that it carries out the mismatch recognition
+    step. This protein has a weak ATPase activity (By similarity).
+-!- SIMILARITY: Belongs to the DNA mismatch repair mutS family.
+ATP-binding; Complete proteome; DNA damage; DNA repair; DNA-binding;
+Nucleotide-binding.
+TMZERO

@@ -1,0 +1,12 @@
+AC   P69433; P75904;
+Biofilm PGA synthesis protein pgaD.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Required for the synthesis of the beta-1,6-GlcNAc
+    polysaccharide (PGA) that seems to serve as a biofilm adhesin (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMTWO

@@ -1,0 +1,42 @@
+AC   Q9V6X7; Q86SA7; Q8MSR1;
+GDP-fucose protein O-fucosyltransferase 1 precursor (EC 2.4.1.221)
+(Peptide-O-fucosyltransferase 1) (O-FucT-1) (Neurotic protein).
+"Neurotic, a novel maternal neurogenic gene, encodes an O-
+fucosyltransferase that is essential for Notch-Delta interactions.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Modification of epidermal growth factor-like repeats with O-fucose:
+molecular cloning and expression of a novel GDP-fucose protein O-
+fucosyltransferase.";
+"Composition of Drosophila melanogaster proteome involved in
+fucosylated glycan metabolism.";
+-!- FUNCTION: Catalyzes the reaction that attaches fucose through an
+    O-glycosidic linkage to a conserved serine or threonine residue in
+    EGF domains. Plays a crucial role in Notch signaling; essential
+    for the interaction of Notch with its ligand Delta, and for the
+    ability of Fringe to modulate this interaction.
+-!- CATALYTIC ACTIVITY: Transfers an alpha-L-fucosyl residue from GDP-
+    beta-L-fucose to the serine hydroxy group of a protein acceptor.
+-!- PATHWAY: Glycosylation.
+-!- INTERACTION:
+    Q9V5K1:CG12901; NbExp=1; IntAct=EBI-97485, EBI-113802;
+    Q9VXE7:CG9784; NbExp=1; IntAct=EBI-97485, EBI-165741;
+    Q9VDI1:Synd; NbExp=1; IntAct=EBI-97485, EBI-106353;
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum (By similarity).
+-!- DEVELOPMENTAL STAGE: Expressed both maternally and zygotically.
+-!- SIMILARITY: Belongs to the glycosyltransferase 68 family.
+ GO:0005737; C:cytoplasm; IC:UniProtKB.
+ GO:0005783; C:endoplasmic reticulum; IDA:FlyBase.
+ GO:0046922; F:peptide-O-fucosyltransferase activity; TAS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0009790; P:embryonic development; NAS:UniProtKB.
+ GO:0016266; P:O-glycan processing; TAS:UniProtKB.
+ GO:0008593; P:regulation of Notch signaling pathway; IMP:FlyBase.
+ GO:0045449; P:regulation of transcription; NAS:UniProtKB.
+ GO:0006445; P:regulation of translation; NAS:UniProtKB.
+Carbohydrate metabolism; Complete proteome; Endoplasmic reticulum;
+Fucose metabolism; Glycoprotein; Glycosyltransferase;
+Notch signaling pathway; Signal; Transferase.
+TMZERO

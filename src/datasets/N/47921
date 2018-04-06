@@ -1,0 +1,11 @@
+AC   Q5WVY8;
+Elongation factor Ts (EF-Ts).
+"Evidence in the Legionella pneumophila genome for exploitation of
+host cell functions and high genome plasticity.";
+-!- FUNCTION: Associates with the EF-Tu.GDP complex and induces the
+    exchange of GDP to GTP. It remains bound to the aminoacyl-tRNA.EF-
+    Tu.GTP complex up to the GTP hydrolysis stage on the ribosome.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the EF-Ts family.
+Complete proteome; Elongation factor; Protein biosynthesis.
+TMZERO

@@ -1,0 +1,26 @@
+AC   P25297;
+Inorganic phosphate transporter PHO84.
+"The PHO84 gene of Saccharomyces cerevisiae encodes an inorganic
+phosphate transporter.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"Global analysis of protein expression in yeast.";
+"A proteomics approach to understanding protein ubiquitination.";
+-!- FUNCTION: High-affinity transporter for external inorganic
+    phosphate. Is not an essential protein, since a constitutive, low
+    affinity pI transporter exists in yeast.
+-!- SUBUNIT: May function as a monomer.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: Under the control of phosphate. It is derepressed by
+    phosphate starvation.
+-!- MISCELLANEOUS: Present with 335000 molecules/cell.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+ GO:0005887; C:integral to plasma membrane; IDA:SGD.
+ GO:0005315; F:inorganic phosphate transporter activity; IDA:SGD.
+ GO:0005384; F:manganese ion transporter activity; IMP:SGD.
+ GO:0006828; P:manganese ion transport; IMP:SGD.
+ GO:0006817; P:phosphate transport; IDA:SGD.
+Complete proteome; Membrane; Phosphate transport; Phosphorylation;
+Transmembrane; Transport; Ubl conjugation.
+TMTWELVE

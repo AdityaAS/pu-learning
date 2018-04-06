@@ -1,0 +1,15 @@
+AC   Q8EKT0;
+DNA replication and repair protein recF.
+"Genome sequence of the dissimilatory metal ion-reducing bacterium
+Shewanella oneidensis.";
+-!- FUNCTION: The recF protein is involved in DNA metabolism; it is
+    required for DNA replication and normal SOS inducibility. RecF
+    binds preferentially to single-stranded, linear DNA. It also seems
+    to bind ATP (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the recF family.
+ GO:0006260; P:DNA replication; IEA:HAMAP.
+ GO:0009432; P:SOS response; IEA:HAMAP.
+ATP-binding; Complete proteome; DNA damage; DNA repair;
+DNA replication; DNA-binding; Nucleotide-binding; SOS response.
+TMZERO

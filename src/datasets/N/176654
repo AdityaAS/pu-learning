@@ -1,0 +1,12 @@
+AC   P35706;
+Trypsin inhibitor STI2 precursor.
+"Two novel Streptomyces protein protease inhibitors. Purification,
+activity, cloning, and expression.";
+"High frequency of SSI-like protease inhibitors among Streptomyces.";
+-!- FUNCTION: Inhibitory activity against trypsin.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the protease inhibitor I16 (SSI) family.
+Direct protein sequencing; Protease inhibitor;
+Serine protease inhibitor; Signal.
+TMZERO

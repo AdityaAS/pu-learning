@@ -1,0 +1,38 @@
+AC   Q10124; Q8MQ26; Q8MQ27; Q8MQ28; Q8MQ29; Q8MQ30; Q8MQ31;
+Putative RNA exonuclease pqe-1 (PolyQ enhancer protein 1).
+"Glutamine/proline-rich PQE-1 proteins protect Caenorhabditis elegans
+neurons from huntingtin polyglutamine neurotoxicity.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Putative RNA exonuclease which protects neurons from the
+    toxic effects of expanded poly-Q disease proteins. It is not known
+    if this is done via participation in the pathogenic mechanism
+    underlying poly-Q-induced neurodegeneration or acting as a genetic
+    modifier of the age of onset or progression of neurodegeneration.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=6;
+    Name=b; Synonyms=Pqe-1A;
+      IsoId=Q10124-1; Sequence=Displayed;
+    Name=a; Synonyms=Pqe-1C;
+      IsoId=Q10124-2; Sequence=VSP_008069, VSP_008070;
+    Name=c; Synonyms=Pqe-1B;
+      IsoId=Q10124-3; Sequence=VSP_008068;
+    Name=d;
+      IsoId=Q10124-4; Sequence=VSP_008065;
+      Note=No experimental confirmation available;
+    Name=e;
+      IsoId=Q10124-5; Sequence=VSP_008063, VSP_008064;
+      Note=No experimental confirmation available;
+    Name=f;
+      IsoId=Q10124-6; Sequence=VSP_008066, VSP_008067;
+      Note=No experimental confirmation available;
+-!- DOMAIN: The Gln/Pro-rich N-terminus and the Arg/Asp/Glu/Lys-rich
+    charged domain are critical in protecting glutamatergic ASH
+    sensory neurons from degeneration. ASH neurons expressing isoforms
+    lacking these domains show progressive degeneration.
+-!- SIMILARITY: Belongs to the REXO1/REXO3 family.
+-!- SIMILARITY: Contains 1 exonuclease domain.
+Alternative splicing; Complete proteome; Exonuclease; Hydrolase;
+Nuclear protein; Nuclease.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P06775;
+Histidine permease.
+"The histidine permease gene (HIP1) of Saccharomyces cerevisiae.";
+"The complete sequence of a 9037 bp DNA fragment of the right arm of
+Saccharomyces cerevisiae chromosome VII.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High-affinity permease for histidine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 688 molecules/cell.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0005290; F:L-histidine transporter activity; IMP:SGD.
+ GO:0015817; P:histidine transport; IMP:SGD.
+ GO:0006828; P:manganese ion transport; IMP:SGD.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTWELVE

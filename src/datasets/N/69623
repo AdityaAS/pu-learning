@@ -1,0 +1,34 @@
+AC   Q00728;
+Histone H2A type 4 (Histone H2A, testis) (TH2A).
+"Presence of a bi-directional S phase-specific transcription
+regulatory element in the promoter shared by testis-specific TH2A and
+TH2B histone genes.";
+-!- FUNCTION: Core component of nucleosome. Nucleosomes wrap and
+    compact DNA into chromatin, limiting DNA accessibility to the
+    cellular machineries which require DNA as a template. Histones
+    thereby play a central role in transcription regulation, DNA
+    repair, DNA replication and chromosomal stability. DNA
+    accessibility is regulated via a complex set of post-translational
+    modifications of histones, also called histone code, and
+    nucleosome remodelling.
+-!- SUBUNIT: The nucleosome is a histone octamer containing two
+    molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4
+    heterotetramer and two H2A-H2B heterodimers. The octamer wraps
+    approximately 147 bp of DNA.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Testis.
+-!- DOMAIN: The [ST]-Q motif constitutes a recognition sequence for
+    kinases from the PI3/PI4-kinase family.
+-!- PTM: The chromatin-associated form is phosphorylated on Thr-120
+    during mitosis (By similarity).
+-!- PTM: Monoubiquitination of Lys-119 by RING1 and RNF2/RING2 complex
+    gives a specific tag for epigenetic transcriptional repression (By
+    similarity).
+-!- PTM: Phosphorylation on Ser-1 is enhanced during mitosis.
+    Phosphorylation on Ser-1 by RPS6KA5/MSK1 directly represses
+    transcription. Acetylation of H3 inhibits Ser-1 phosphorylation by
+    RPS6KA5/MSK1 (By similarity).
+-!- SIMILARITY: Belongs to the histone H2A family.
+Acetylation; Chromosomal protein; Citrullination; DNA-binding;
+Nuclear protein; Nucleosome core; Phosphorylation; Ubl conjugation.
+TMZERO

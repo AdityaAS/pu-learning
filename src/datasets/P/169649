@@ -1,0 +1,25 @@
+AC   Q9JMD7;
+High-affinity choline transporter 1 (Solute carrier family 5 member 7)
+(Hemicholinium-3-sensitive choline transporter) (CHT).
+"Identification and characterization of the high-affinity choline
+transporter.";
+-!- FUNCTION: Imports choline from the extracellular space to the
+    neuron with high affinity. Rate-limiting step in acetylcholine
+    synthesis. Sodium ion and chloride ion dependent.
+-!- PATHWAY: Acetylcholine biosynthesis.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- TISSUE SPECIFICITY: Expressed in basal forebrain, brain stem,
+    spinal chord, and striatum. Specific for cholinergic neurons.
+-!- PTM: Phosphorylated (By similarity).
+-!- MISCELLANEOUS: Specifically inhibited by nanomolar concentrations
+    of hemicholinium 3.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0015220; F:choline transporter activity; IMP:UniProtKB.
+ GO:0008292; P:acetylcholine biosynthesis; IMP:UniProtKB.
+Glycoprotein; Ion transport; Membrane; Neurotransmitter biosynthesis;
+Phosphorylation; Sodium; Sodium transport; Symport; Transmembrane;
+Transport.
+TMTWELVE

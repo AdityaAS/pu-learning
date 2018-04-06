@@ -1,0 +1,29 @@
+AC   P03373; Q85511;
+Transforming protein erbA (Oncogene erbA).
+"Sequencing the erbA gene of avian erythroblastosis virus reveals a
+new type of oncogene.";
+"A single point mutation in erbA restores the erythroid transforming
+potential of a mutant avian erythroblastosis virus (AEV) defective in
+both erbA and erbB oncogenes.";
+"Protein encoded by v-erbA functions as a thyroid-hormone receptor
+antagonist.";
+-!- FUNCTION: Acts as a thyroid-hormone receptor antagonist. The v-
+    ErbA oncogene cooperates with v-ErbB and other primarily sarcoma-
+    inducing oncogenes in transformation of erythroblasts. It is non
+    transforming by itself and cannot induce self-renewal of
+    erythroblasts. Instead it blocks the residual capacity of the v-
+    ErbB cells to differentiate terminally.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- MISCELLANEOUS: THRA, the cellular counterpart of v-ErbA, is a
+    thyroid hormone receptor alpha.
+-!- MISCELLANEOUS: This protein is synthesized as a Gag-ErbA-ErbB
+    polyprotein.
+-!- SIMILARITY: Belongs to the nuclear hormone receptor family. NR1
+    subfamily.
+-!- SIMILARITY: Contains 1 nuclear receptor DNA-binding domain.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 381.
+DNA-binding; Hormone; Metal-binding; Nuclear protein; Oncogene;
+Receptor; Repressor; Thyroid hormone; Transcription;
+Transcription regulation; Zinc; Zinc-finger.
+TMZERO

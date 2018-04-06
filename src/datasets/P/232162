@@ -1,0 +1,10 @@
+AC   P0A9X2; P52648; P76285;
+High-affinity zinc uptake system ATP-binding protein znuC.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Involved in the high-affinity zinc uptake transport
+    system (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Nucleotide-binding; Transport; Zinc.
+TMZERO

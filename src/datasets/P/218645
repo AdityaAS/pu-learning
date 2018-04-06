@@ -1,0 +1,13 @@
+AC   P72958;
+Hypothetical protein sll0640.
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    NADC subfamily.
+-!- SIMILARITY: Contains 2 RCK C-terminal domains.
+Complete proteome; Hypothetical protein; Membrane; Repeat;
+Transmembrane; Transport.
+TMTWELVE

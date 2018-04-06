@@ -1,0 +1,14 @@
+AC   P69987; P40300; Q663J2;
+Yop proteins translocation protein U.
+"The lcrB (yscN/U) gene cluster of Yersinia pseudotuberculosis is
+involved in Yop secretion and shows high homology to the spa gene
+clusters of Shigella flexneri and Salmonella typhimurium.";
+"Insights into the evolution of Yersinia pestis through whole-genome
+comparison with Yersinia pseudotuberculosis.";
+-!- FUNCTION: Component of the yop secretion machinery.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the flhB/hrpN/yscU/spaS family.
+Complete proteome; Membrane; Plasmid; Protein transport;
+Transmembrane; Transport; Virulence.
+TMFIVE

@@ -1,0 +1,25 @@
+AC   P28593;
+Trypanothione reductase (EC 1.8.1.12) (TR) (N(1),N(8)-
+bis(glutathionyl)spermidine reductase).
+"Cloning, sequencing, overproduction and purification of trypanothione
+reductase from Trypanosoma cruzi.";
+"Site-directed mutagenesis of the redox-active cysteines of
+Trypanosoma cruzi trypanothione reductase.";
+"The structure of Trypanosoma cruzi trypanothione reductase in the
+oxidized and NADPH reduced state.";
+"The crystal structure of trypanothione reductase from the human
+pathogen Trypanosoma cruzi at 2.3-A resolution.";
+-!- FUNCTION: Trypanothione is the parasite analog of glutathione;
+    this enzyme is the equivalent of glutathione reductase.
+-!- CATALYTIC ACTIVITY: Trypanothione + NADP(+) = trypanothione
+    disulfide + NADPH.
+-!- COFACTOR: Binds 1 FAD per subunit.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: The active site is a redox-active disulfide bond.
+-!- SIMILARITY: Belongs to the class-I pyridine nucleotide-disulfide
+    oxidoreductase family.
+ GO:0015042; F:trypanothione-disulfide reductase activity; IEA:EC.
+3D-structure; FAD; Flavoprotein; NADP; Oxidoreductase;
+Redox-active center.
+TMZERO

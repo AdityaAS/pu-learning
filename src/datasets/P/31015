@@ -1,0 +1,15 @@
+AC   P24012; O34333;
+Cytochrome c oxidase subunit 3 (EC 1.9.3.1) (Cytochrome c oxidase
+polypeptide III) (Cytochrome aa3 subunit 3) (Caa-3605 subunit 3)
+(Oxidase aa(3) subunit 3).
+"The Bacillus subtilis cytochrome-c oxidase. Variations on a conserved
+protein theme.";
+"Bacillus subtilis chromosomal region downstream nprE.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 3 family.
+Complete proteome; Membrane; Oxidoreductase; Transmembrane.
+TMFIVE

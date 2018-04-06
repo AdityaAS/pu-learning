@@ -1,0 +1,24 @@
+AC   P39980;
+Siderophore iron transporter 1 (Siderophore iron transporter ARN3)
+(Ferrioxamine B permease).
+"Desferrioxamine-mediated iron uptake in Saccharomyces cerevisiae.
+Evidence for two pathways of iron uptake.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Siderophore-mediated iron uptake in Saccharomyces cerevisiae: the
+SIT1 gene encodes a ferrioxamine B permease that belongs to the major
+facilitator superfamily.";
+"Siderophore-iron uptake in Saccharomyces cerevisiae. Identification
+of ferrichrome and fusarinine transporters.";
+-!- FUNCTION: Involved in the transport of siderophore ferrioxamine B
+    and so has a role in iron homeostasis.
+-!- SUBCELLULAR LOCATION: Endosome; endosomal membrane; multi-pass
+    membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+ GO:0016023; C:cytoplasmic membrane-bound vesicle; IDA:SGD.
+ GO:0005768; C:endosome; TAS:SGD.
+ GO:0015344; F:siderophore-iron (ferrioxamine) uptake tran...; IMP:SGD.
+ GO:0006879; P:iron ion homeostasis; IDA:SGD.
+ GO:0015892; P:siderophore-iron transport; IMP:SGD.
+Complete proteome; Ion transport; Iron; Iron transport; Membrane;
+Transmembrane; Transport.
+TMFOURTEEN

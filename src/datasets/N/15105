@@ -1,0 +1,23 @@
+AC   Q9SUE7; Q941H0;
+Histone-lysine N-methyltransferase ATX4 (EC 2.1.1.43) (Trithorax-
+homolog protein 4) (TRX-homolog protein 4) (Trithorax 4) (Protein SET
+DOMAIN GROUP 16).
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"The Arabidopsis thaliana genome contains at least 29 active genes
+encoding SET domain proteins that can be assigned to four
+evolutionarily conserved classes.";
+-!- FUNCTION: Histone methyltransferase (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + histone L-lysine =
+    S-adenosyl-L-homocysteine + histone 6-N-methyl-L-lysine.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the TRX/MLL family.
+-!- SIMILARITY: Contains 1 post-SET domain.
+-!- SIMILARITY: Contains 1 PWWP domain.
+-!- SIMILARITY: Contains 1 SET domain.
+-!- CAUTION: Ref.1 sequences differ from that shown due to erroneous
+    gene model prediction.
+ GO:0018024; F:histone-lysine N-methyltransferase activity; IEA:EC.
+Chromatin regulator; Methyltransferase; Nuclear protein;
+S-adenosyl-L-methionine; Transferase.
+TMZERO

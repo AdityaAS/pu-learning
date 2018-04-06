@@ -1,0 +1,17 @@
+AC   Q05007;
+Homeobox protein abdominal-A homolog (Fragment).
+"HOM/Hox genes of Artemia: implications for the origin of insect and
+crustacea body plans.";
+-!- FUNCTION: Required for segmental identity of the second through
+    eighth abdominal segments. Once a pattern of abdA expression is
+    turned on in a given parasegment, it remains on the more posterior
+    parasegment, so that the complex pattern of expression is built up
+    in the successive parasegments. The abdA product appears to
+    repress expression of Ubx whenever they appear in the same cell,
+    but abdA is repressed by AbdB only in the eight and ninth
+    abdominal segments.
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- SIMILARITY: Belongs to the Antp homeobox family.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+Developmental protein; DNA-binding; Homeobox; Nuclear protein.
+TMZERO

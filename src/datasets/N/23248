@@ -1,0 +1,21 @@
+AC   P31835;
+Cyclomaltodextrin glucanotransferase precursor (EC 2.4.1.19)
+(Cyclodextrin-glycosyltransferase) (CGTase).
+"Polypeptide possessing cyclomaltodextrin glucanotransferase
+activity.";
+-!- CATALYTIC ACTIVITY: Cyclizes part of a 1,4-alpha-D-glucan chain by
+    formation of a 1,4-alpha-D-glucosidic bond.
+-!- COFACTOR: Binds 2 calcium ions per subunit (By similarity).
+-!- SUBUNIT: Monomer.
+-!- DOMAIN: May consist of two protein domains: the one in the N-
+    terminal side cleaves the alpha-1,4-glucosidic bond in starch, and
+    the other in the C-terminal side catalyzes other activities,
+    including the reconstitution of an alpha-1,4-glucosidic linkage
+    for cyclizing the maltooligosaccharide produced.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 13 family.
+-!- SIMILARITY: Contains 1 CBM20 (carbohydrate binding type-20)
+    domain.
+-!- SIMILARITY: Contains 1 IPT/TIG domain.
+Calcium; Direct protein sequencing; Glycosyltransferase;
+Metal-binding; Signal; Transferase.
+TMZERO

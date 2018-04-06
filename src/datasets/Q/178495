@@ -1,0 +1,18 @@
+AC   Q8GYH8; Q9LHF7;
+Probable sulfate transporter 4.2.
+"cDNA for sulfate transporter Sultr4;2.";
+"Structural analysis of Arabidopsis thaliana chromosome 3. II.
+Sequence features of the 4,251,695 bp regions covered by 90 P1, TAC
+and BAC clones.";
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"Functional annotation of a full-length Arabidopsis cDNA collection.";
+-!- FUNCTION: H(+)/sulfate cotransporter that may play a role in the
+    regulation of sulfate assimilation (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+-!- SIMILARITY: Contains 1 STAS domain.
+Membrane; Sulfate transport; Symport; Transmembrane; Transport.
+TMTWELVE

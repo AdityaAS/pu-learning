@@ -1,0 +1,45 @@
+AC   Q9H4L5; O14591; O43357; O43358; Q8N702; Q8N703; Q8N704; Q8NFH0;
+AC   Q8NFH1; Q8NI12; Q8NI13; Q9BZF4; Q9UED6;
+Oxysterol-binding protein-related protein 3 (OSBP-related protein 3)
+(ORP-3).
+"ORP-3, a human oxysterol-binding protein gene differentially
+expressed in hematopoietic cells.";
+"A family of 12 human genes containing oxysterol-binding domains.";
+"ORP3 splice variants and their expression in human tissues and
+hematopoietic cells.";
+"Prediction of the coding sequences of unidentified human genes. X.
+The complete sequences of 100 new cDNA clones from brain which can
+code for large proteins in vitro.";
+"The DNA sequence of human chromosome 7.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The OSBP-related protein family in humans.";
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=8;
+    Name=1a;
+      IsoId=Q9H4L5-1; Sequence=Displayed;
+    Name=1b;
+      IsoId=Q9H4L5-2; Sequence=VSP_008219;
+    Name=1c;
+      IsoId=Q9H4L5-3; Sequence=VSP_008220;
+    Name=1d;
+      IsoId=Q9H4L5-4; Sequence=VSP_008219, VSP_008220;
+    Name=2a;
+      IsoId=Q9H4L5-5; Sequence=VSP_008221, VSP_008222;
+    Name=2b;
+      IsoId=Q9H4L5-6; Sequence=VSP_008219, VSP_008221, VSP_008222;
+    Name=2c;
+      IsoId=Q9H4L5-7; Sequence=VSP_008220, VSP_008221, VSP_008222;
+    Name=2d;
+      IsoId=Q9H4L5-8; Sequence=VSP_008219, VSP_008220, VSP_008221,
+                               VSP_008222;
+-!- TISSUE SPECIFICITY: Isoforms 1a, 1b, 1c and 1d are highly
+    expressed in brain, bone marrow, colon, kidney, lung, skeletal
+    muscle, spleen, thymus and thyroid, but are not expressed in heart
+    and liver. Isoforms 2a, 2b, 2c and 2d are expressed in brain, bone
+    marrow, kidney, skeletal muscle, spleen, thymus and thyroid, but
+    are not expressed in heart, liver and lung.
+-!- SIMILARITY: Belongs to the OSBP family.
+-!- SIMILARITY: Contains 1 PH domain.
+Alternative splicing; Lipid transport; Transport.
+TMZERO

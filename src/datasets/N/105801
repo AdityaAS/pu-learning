@@ -1,0 +1,15 @@
+AC   P83762;
+Submaxillary mucin (CSM) (Fragment).
+"Role of peptide sequence and neighboring residue glycosylation on the
+substrate specificity of the uridine 5'-diphosphate-alpha-N-
+acetylgalactosamine:polypeptide N-acetylgalactosaminyl transferases T1
+and T2: kinetic modeling of the porcine and canine submaxillary gland
+mucin tandem repeats.";
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed in the submaxillary salivary gland.
+-!- DOMAIN: The mature protein contains tandemly repeated, identical
+    sequences.
+-!- PTM: Heavily O-glycosylated at most but not all Ser and Thr
+    residues.
+Direct protein sequencing; Glycoprotein.
+TMZERO

@@ -1,0 +1,26 @@
+AC   Q15546; Q8TAN7;
+Monocyte to macrophage differentiation protein (Progestin and adipoQ
+receptor family member XI).
+"Molecular cloning of a novel macrophage maturation-associated
+transcript encoding a protein with several potential transmembrane
+domains.";
+"PAQR proteins: a novel membrane receptor family defined by an ancient
+7-transmembrane pass motif.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Involved in the dynamics of lysosomal membranes
+    associated with microglial activation following brain lesion (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Endosome; late endosome; late endosomal
+    membrane; multi-pass membrane protein (By similarity). Lysosome;
+    lysosomal membrane; multi-pass membrane protein (By similarity).
+-!- TISSUE SPECIFICITY: Preferentially expressed in mature (in vitro
+    differentiated) macrophages.
+-!- SIMILARITY: Belongs to the ADIPOR family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0004872; F:receptor activity; TAS:ProtInc.
+Membrane; Receptor; Transmembrane.
+TMSEVEN

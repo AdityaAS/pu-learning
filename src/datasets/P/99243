@@ -1,0 +1,23 @@
+AC   P13568;
+Multidrug resistance protein (EC 3.6.3.44) (Chloroquine resistance
+protein).
+"Amplification of the multidrug resistance gene in some chloroquine-
+resistant isolates of P. falciparum.";
+"Amplification of the multidrug resistance gene pfmdr1 in Plasmodium
+falciparum has arisen as multiple independent events.";
+"Amplification of pfmdr 1 associated with mefloquine and halofantrine
+resistance in Plasmodium falciparum from Thailand.";
+-!- FUNCTION: Energy-dependent efflux pump responsible for decreased
+    drug accumulation in multidrug-resistant cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + xenobiotic(In) = ADP + phosphate
+    + xenobiotic(Out).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: P.falciparum resistant to the drug chloroquine have
+    multiple copies of the gene coding for MDR.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; IEA:EC.
+ATP-binding; Glycoprotein; Hydrolase; Membrane; Nucleotide-binding;
+Repeat; Transmembrane; Transport.
+TMELEVEN

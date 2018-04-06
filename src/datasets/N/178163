@@ -1,0 +1,17 @@
+AC   P08845;
+Cell division inhibitor.
+"Evolution of the enterobacterial sulA gene: a component of the SOS
+system encoding an inhibitor of cell division.";
+-!- FUNCTION: SulA is a component of the SOS system and an inhibitor
+    of cell division. Accumulation of sulA causes rapid cessation of
+    cell division and the appearance of long, non-septate filaments.
+    The expression of sulA is repressed by the lexA protein. FtsZ
+    seems to be the target of sulA.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- MISCELLANEOUS: The N-terminus of the sulA protein might be
+    involved in recognizing the cell division apparatus.
+-!- SIMILARITY: Belongs to the sulA family.
+Cell cycle; Cell division; DNA damage; DNA repair; Inner membrane;
+Membrane; Septation; SOS response.
+TMZERO

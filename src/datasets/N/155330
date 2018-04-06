@@ -1,0 +1,46 @@
+AC   P37744; P78081;
+Glucose-1-phosphate thymidylyltransferase 1 (EC 2.7.7.24) (dTDP-
+glucose synthase 1) (dTDP-glucose pyrophosphorylase 1) (G1P-TT 1).
+"Structure of the O antigen of Escherichia coli K-12 and the sequence
+of its rfb gene cluster.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Genetic analysis of the O-specific lipopolysaccharide biosynthesis
+region (rfb) of Escherichia coli K-12 W3110: identification of genes
+that confer group 6 specificity to Shigella flexneri serotypes Y and
+4a.";
+"Kinetic and crystallographic analyses support a sequential-ordered bi
+bi catalytic mechanism for Escherichia coli glucose-1-phosphate
+thymidylyltransferase.";
+-!- FUNCTION: Catalyzes the formation of dTDP-glucose, from dTTP and
+    glucose 1-phosphate, as well as its pyrophosphorolysis.
+-!- CATALYTIC ACTIVITY: dTTP + alpha-D-glucose 1-phosphate =
+    diphosphate + dTDP-glucose.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (Probable).
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=20.5 uM for dTTP;
+      KM=34 uM for glucose 1-phosphate;
+      KM=95 uM for dTDP-glucose;
+      KM=154 uM for PPi;
+      Vmax=194 umol/min/mg enzyme for the forward reaction;
+      Vmax=360 umol/min/mg enzyme for the reverse reaction;
+    pH dependence:
+      Optimum pH is 8.0-8.5. Active from pH 6.0 to 10.0;
+-!- PATHWAY: Carbohydrate biosynthesis; dTDP-L-rhamnose biosynthesis.
+-!- PATHWAY: Context: Lipopolysaccharide O-antigen biosynthesis.
+-!- SUBUNIT: Homotetramer.
+-!- MISCELLANEOUS: Both catalyzed reactions, i.e. dTDP-glucose
+    biosynthesis and pyrophosphorolysis, follow a sequential ordered
+    bi-bi catalytic mechanism.
+-!- SIMILARITY: Belongs to the glucose-1-phosphate
+    thymidylyltransferase family.
+-!- CAUTION: Most extant K-12 lines do not express O-antigen because
+    of mutations in dTDP-rhamnose biosynthetic genes or in the
+    rhamnosyltransferase gene wbbL.
+3D-structure; Complete proteome; Lipopolysaccharide biosynthesis;
+Magnesium; Metal-binding; Nucleotidyltransferase; Transferase.
+TMZERO

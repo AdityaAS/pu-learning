@@ -1,0 +1,13 @@
+AC   Q9EYW9; Q8Y4S0; Q9AGQ0;
+Glutamate decarboxylase beta (EC 4.1.1.15) (GAD-beta).
+"A glutamate decarboxylase system protects Listeria monocytogenes in
+gastric fluid.";
+"Comparative genomics of Listeria species.";
+-!- FUNCTION: Converts internalized glutamate to GABA and increases
+    the internal pH. Involved in glutamate-dependent acid resistance
+    in gastric fluid.
+-!- CATALYTIC ACTIVITY: L-glutamate = 4-aminobutanoate + CO(2).
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- SIMILARITY: Belongs to the group II decarboxylase family.
+Complete proteome; Decarboxylase; Lyase; Pyridoxal phosphate.
+TMZERO

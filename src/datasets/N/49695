@@ -1,0 +1,22 @@
+AC   Q8Z8L9;
+4'-phosphopantetheinyl transferase entD (EC 2.7.8.-) (Enterobactin
+synthetase component D) (Enterochelin synthase D).
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: Catalyzes the transfer of the 4'-phosphopantetheine
+    moiety from coenzyme A to apo-domains of both entB (an ArCP
+    domain) and entF (a PCP domain). Plays an essential role in the
+    assembly of the enterobactin (By similarity).
+-!- CATALYTIC ACTIVITY: CoA + apo-entB/F = adenosine 3',5'-
+    bisphosphate + holo-entB/F.
+-!- COFACTOR: Magnesium (By similarity).
+-!- PATHWAY: Siderophore biosynthesis; enterobactin biosynthesis.
+-!- SUBUNIT: EntB, entD, entE, and entF form a multienzyme complex
+    called enterobactin synthetase (By similarity).
+-!- SIMILARITY: Belongs to the P-Pant transferase superfamily. EntD
+    family.
+Complete proteome; Enterobactin biosynthesis; Ion transport; Iron;
+Iron transport; Magnesium; Metal-binding; Transferase; Transport.
+TMZERO

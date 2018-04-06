@@ -1,0 +1,32 @@
+AC   Q96BY2; Q9H833; Q9HAS1;
+Modulator of apoptosis 1 (MAP-1) (MAP1) (Paraneoplastic antigen MA4).
+"MAP-1, a novel proapoptotic protein containing a BH3-like motif that
+associates with Bax through its Bcl-2 homology domains.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The tumor suppressor RASSF1A and MAP-1 link death receptor signaling
+to Bax conformational change and cell death.";
+-!- FUNCTION: Required for death receptor-dependent apoptosis. When
+    associated with RASSF1, promotes BAX conformational change and
+    translocation to mitochondrial membranes in response to TNF and
+    TNFSF10 stimulation.
+-!- SUBUNIT: Homodimer. Under normal circumstances, held in an
+    inactive conformation by an intramolecular interaction. Binding to
+    RASSF1 isoform A (RASSF1A) relieves this inhibitory interaction
+    and allows further binding to BAX. Binds also to BCL2 and BCLX.
+    Recruited to the TNFRSF1A and TNFRSF10A complexes in response to
+    their respective cognate ligand, after internalization.
+-!- TISSUE SPECIFICITY: Ubiquitously expressed with higher levels in
+    heart and brain.
+-!- DOMAIN: The BH3-like domain is required for association with BAX
+    and for mediating apoptosis. The three BH domains (BH1, BH2, and
+    BH3) of BAX are all required for mediating protein-protein
+    interaction.
+-!- SIMILARITY: Belongs to the PNMA family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to a
+    frameshift in position 102.
+ GO:0005737; C:cytoplasm; IDA:LIFEdb.
+Apoptosis.
+TMZERO

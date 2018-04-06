@@ -1,0 +1,19 @@
+AC   P07238;
+Outer membrane porin protein LC precursor.
+"Structure of the lc and nmpC outer membrane porin protein genes of
+lambdoid bacteriophage.";
+-!- FUNCTION: Porins are major proteins found in the outer membranes
+    of Gram-negative bacteria where they form channels for the
+    nonspecific permeation of small solutes (molecules with MW lower
+    than 4 to 6 kDa).
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+-!- MISCELLANEOUS: A porin gene can also be found in the genomes of
+    certain lambdoid bacteriophage, and its protein is expressed in
+    the lysogenic state. In E.coli the expression of ompC and ompF
+    proteins is then reduced substantially.
+-!- SIMILARITY: Belongs to the Gram-negative porin family.
+Ion transport; Membrane; Outer membrane; Porin; Signal; Transmembrane;
+Transport.
+TMZERO

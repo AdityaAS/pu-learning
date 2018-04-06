@@ -1,0 +1,21 @@
+AC   P56823;
+Hemocyanin, beta-C chain unit G (Fragment).
+"Amino-acid sequence of the N-terminal part of the functional unit g
+of beta-c-haemocyanin of the mollusc Helix pomatia.";
+"Amino-acid sequence of functional unit g from the beta-c-haemocyanin
+of Helix pomatia.";
+"Evidence for a cysteine-histidine thioether bridge in functional
+units of molluscan haemocyanins and location of the disulfide bridges
+in functional units d and g of the beta-c-haemocyanin of Helix
+pomatia.";
+-!- FUNCTION: Hemocyanins are copper-containing oxygen carriers
+    occurring freely dissolved in the hemolymph of many mollusks and
+    arthropods.
+-!- COFACTOR: Binds 2 copper ions per heterodimer.
+-!- SUBUNIT: Decamers of large identical subunits (450 kDa), each
+    containing 8 globular oxygen-binding functional units.
+-!- SIMILARITY: Belongs to the tyrosinase family. Hemocyanin
+    subfamily.
+Copper; Direct protein sequencing; Glycoprotein; Metal-binding;
+Oxygen transport; Repeat; Thioether bond; Transport.
+TMZERO

@@ -1,0 +1,17 @@
+AC   O93656;
+Ornithine carbamoyltransferase (EC 2.1.3.3) (OTCase).
+"Ornithine carbamoyltransferase from Pyrococcus abyssi.";
+"An integrated analysis of the genome of the hyperthermophilic
+archaeon Pyrococcus abyssi.";
+-!- CATALYTIC ACTIVITY: Carbamoyl phosphate + L-ornithine = phosphate
+    + L-citrulline.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; L-
+    arginine from L-ornithine and carbamoyl phosphate: step 1.
+-!- SUBUNIT: Homododecamer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the ATCase/OTCase family.
+ GO:0006526; P:arginine biosynthesis; IEA:HAMAP.
+ GO:0019546; P:arginine deiminase pathway; IEA:HAMAP.
+Amino-acid biosynthesis; Arginine biosynthesis; Complete proteome;
+Transferase.
+TMZERO

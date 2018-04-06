@@ -1,0 +1,9 @@
+AC   Q58D72; Q3ZBC1;
+Atlastin (GTP-binding protein 3) (Guanine nucleotide-binding protein
+3) (GBP-3).
+"Characterization of 954 bovine full-CDS cDNA sequences.";
+-!- SUBUNIT: Binds, via its N-terminal region, to the CNH regulatory
+    domain of MAP4K4 (By similarity).
+-!- SIMILARITY: Belongs to the GBP family.
+GTP-binding; Nucleotide-binding; Phosphorylation.
+TMZERO

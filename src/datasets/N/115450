@@ -1,0 +1,9 @@
+AC   P03912;
+NADH-ubiquinone oxidoreductase chain 4 (EC 1.6.5.3) (NADH
+dehydrogenase subunit 4).
+"The complete nucleotide sequence of the Xenopus laevis mitochondrial
+genome.";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SIMILARITY: Belongs to the complex I subunit 4 family.
+Mitochondrion; NAD; Oxidoreductase; Ubiquinone.
+TMZERO

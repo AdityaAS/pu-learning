@@ -1,0 +1,11 @@
+AC   P14089;
+Photosystem II reaction center protein K precursor (PSII-K).
+"Nucleotide sequence of the psbK gene of the cyanobacterium, Anacystis
+nidulans 6301.";
+"Complete genome structure of the unicellular cyanobacterium Anacystis
+nidulans 6301 (Synechococcus sp. PCC6301).";
+-!- FUNCTION: This protein is a component of the reaction center of
+    photosystem II.
+-!- SIMILARITY: Belongs to the psbK family.
+Complete proteome; Photosynthesis; Photosystem II.
+TMZERO

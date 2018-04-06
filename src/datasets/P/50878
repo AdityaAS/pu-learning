@@ -1,0 +1,15 @@
+AC   P0A566; O69739;
+ESAT-6-like protein esxB (10 kDa culture filtrate antigen cfp10)
+(Secreted antigenic protein MTSA-10).
+"A Mycobacterium tuberculosis operon encoding ESAT-6 and a novel low-
+molecular-mass culture filtrate protein (CFP-10).";
+"Rv3874 (mtsa-10) gene of a clinical isolate of Mycobacterium
+tuberculosis from India.";
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the ESAT-6 (esx) family.
+Complete proteome; Direct protein sequencing.
+TMZERO

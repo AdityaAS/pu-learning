@@ -1,0 +1,15 @@
+AC   P80539;
+Malate dehydrogenase (EC 1.1.1.37) (Fragment).
+"Structural studies of malate dehydrogenases (MDHs): MDHs in
+Brevundimonas species are the first reported MDHs in Proteobacteria
+which resemble lactate dehydrogenases in primary structure.";
+-!- FUNCTION: Catalyzes the reversible oxidation of malate to
+    oxaloacetate (By similarity).
+-!- CATALYTIC ACTIVITY: (S)-malate + NAD(+) = oxaloacetate + NADH.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the LDH/MDH superfamily. MDH type 2 family.
+ GO:0030060; F:L-malate dehydrogenase activity; IEA:HAMAP.
+ GO:0006099; P:tricarboxylic acid cycle; IEA:HAMAP.
+Direct protein sequencing; NAD; Oxidoreductase;
+Tricarboxylic acid cycle.
+TMZERO

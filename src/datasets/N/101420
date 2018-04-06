@@ -1,0 +1,17 @@
+AC   Q66I46;
+MAP kinase-interacting serine/threonine-protein kinase 2 (EC 2.7.11.1)
+(MAP kinase signal-integrating kinase 2) (Mnk2).
+-!- FUNCTION: May play a role in the response to environmental stress
+    and cytokines. Appears to regulate transcription by
+    phosphorylating EIF4E, thus increasing the affinity of this
+    protein for the 7-methylguanosine-containing mRNA cap (By
+    similarity).
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- COFACTOR: Magnesium (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ATP-binding; Kinase; Magnesium; Metal-binding; Nucleotide-binding;
+Serine/threonine-protein kinase; Transferase; Translation regulation;
+Zinc.
+TMZERO

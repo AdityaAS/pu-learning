@@ -1,0 +1,16 @@
+AC   Q6CZZ8;
+Large-conductance mechanosensitive channel.
+"Genome sequence of the enterobacterial phytopathogen Erwinia
+carotovora subsp. atroseptica and characterization of virulence
+factors.";
+-!- FUNCTION: Channel that opens in response to stretch forces in the
+    membrane lipid bilayer. May participate in the regulation of
+    osmotic pressure changes within the cell (By similarity).
+-!- SUBUNIT: Homopentamer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the mscL family.
+ GO:0015267; F:channel or pore class transporter activity; IEA:HAMAP.
+Complete proteome; Inner membrane; Ion transport; Ionic channel;
+Membrane; Transmembrane; Transport.
+TMTWO

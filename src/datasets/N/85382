@@ -1,0 +1,27 @@
+AC   Q9XT56; Q5E9V8;
+Junctional adhesion molecule A precursor (JAM-A) (Junctional adhesion
+molecule 1) (JAM-1) (CD321 antigen).
+"Combined treatment of TNF-alpha and IFN-gamma causes redistribution
+of junctional adhesion molecule in human endothelial cells.";
+"Characterization of 954 bovine full-CDS cDNA sequences.";
+-!- FUNCTION: Seems to plays a role in epithelial tight junction
+    formation. Appears early in primordial forms of cell junctions and
+    recruits PARD3. The association of the PARD6-PARD3 complex may
+    prevent the interaction of PARD3 with JAM1, thereby preventing
+    tight junction assembly (By similarity). Plays a role in
+    regulating monocyte transmigration involved in integrity of
+    epithelial barrier. Involved in platelet activation.
+-!- SUBUNIT: Interacts with the first PDZ domain of PARD3. The
+    association between PARD3 and PARD6B probably disrupts this
+    interaction. Interacts with the ninth PDZ domain of MPDZ (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell junction; tight junction; single-pass
+    type I membrane protein (By similarity). Note=Localized at tight
+    junctions of both epithelial and endothelial cells (By
+    similarity).
+-!- SIMILARITY: Belongs to the immunoglobulin superfamily.
+-!- SIMILARITY: Contains 2 Ig-like V-type (immunoglobulin-like)
+    domains.
+Glycoprotein; Immunoglobulin domain; Membrane; Repeat; Signal;
+Tight junction; Transmembrane.
+TMONE

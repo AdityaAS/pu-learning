@@ -1,0 +1,48 @@
+AC   Q7LBC6; Q9BVH6; Q9BW93; Q9BZ52; Q9NYF4; Q9UPS0;
+JmjC domain-containing histone demethylation protein 2B (EC 1.14.11.-)
+(Jumonji domain-containing protein 1B) (Nuclear protein 5qNCA).
+"cDNA cloning and genomic structure of three genes localized to human
+chromosome band 5q31 encoding potential nuclear proteins.";
+"A novel nuclear protein, 5qNCA (LOC51780) is a candidate for the
+myeloid leukemia tumor suppressor gene on chromosome 5 band q31.";
+"Prediction of the coding sequences of unidentified human genes. XIV.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+"Construction of expression-ready cDNA clones for KIAA genes: manual
+curation of 330 KIAA cDNA clones.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Large-scale characterization of HeLa cell nuclear phosphoproteins.";
+"JHDM2A, a JmjC-containing H3K9 demethylase, facilitates transcription
+activation by androgen receptor.";
+-!- FUNCTION: Histone demethylase that specifically demethylates 'Lys-
+    9' of histone H3, thereby playing a central role in histone code.
+    Demethylation of Lys residue generates formaldehyde and succinate.
+    May have tumor suppressor activity.
+-!- COFACTOR: Binds 1 Fe(2+) ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q7LBC6-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q7LBC6-2; Sequence=VSP_018299, VSP_018300;
+    Name=3;
+      IsoId=Q7LBC6-3; Sequence=VSP_018298;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Ubiquitous. Highly expressed in placenta,
+    skeletal muscle, kidney, heart and liver.
+-!- DOMAIN: Leu-Xaa-Xaa-Leu-Leu (LXXLL) motifs are known to mediate
+    the association with nuclear receptors (By similarity).
+-!- MISCELLANEOUS: Its gene is located in the 5q region of the genome
+    which is deleted in del(5q) interstitial deletion, a frequent
+    deletion found in myeloid leukemias and myelodysplasias,
+    suggesting that it may be a good candidate for the del(5q) tumor
+    suppressor gene.
+-!- SIMILARITY: Belongs to the JHDM2 histone demethylase family.
+-!- SIMILARITY: Contains 1 JmjC domain.
+Alternative splicing; Chromatin regulator; Dioxygenase; Iron;
+Metal-binding; Nuclear protein; Oxidoreductase; Phosphorylation;
+Polymorphism; Transcription; Transcription regulation; Zinc;
+Zinc-finger.
+TMZERO

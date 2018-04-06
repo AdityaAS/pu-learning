@@ -1,0 +1,15 @@
+AC   P72394; Q9RIU5;
+Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27) (ADP-glucose
+synthase) (ADP-glucose pyrophosphorylase) (ADPGlc PPase).
+"A glgC gene essential only for the first of two spatially distinct
+phases of glycogen synthesis in Streptomyces coelicolor A3(2).";
+"Complete genome sequence of the model actinomycete Streptomyces
+coelicolor A3(2).";
+-!- CATALYTIC ACTIVITY: ATP + alpha-D-glucose 1-phosphate =
+    diphosphate + ADP-glucose.
+-!- PATHWAY: Glycogen biosynthesis; first step.
+-!- SIMILARITY: Belongs to the bacterial/plant glucose-1-phosphate
+    adenylyltransferase family.
+Complete proteome; Glycogen biosynthesis; Nucleotidyltransferase;
+Transferase.
+TMZERO

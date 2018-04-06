@@ -1,0 +1,25 @@
+AC   P38206; Q05814;
+Oligosaccharide translocation protein RFT1 (Requiring fifty-three
+protein 1).
+"Suppression of the yeast mutation rft1-1 by human p53.";
+"Complete DNA sequence of yeast chromosome II.";
+"The HAP3 regulatory locus of Saccharomyces cerevisiae encodes
+divergent overlapping transcripts.";
+"Translocation of lipid-linked oligosaccharides across the ER membrane
+requires Rft1 protein.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in N-linked oligosaccharide assembly. Required
+    for the translocation of Man(5)GlcNAc(2)-PP-dolichol from the
+    cytoplasmic side to the lumenal side of the endoplasmic reticulum
+    membrane.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the RFT1 family.
+ GO:0005789; C:endoplasmic reticulum membrane; IDA:SGD.
+ GO:0015157; F:oligosaccharide transporter activity; IMP:SGD.
+ GO:0015772; P:oligosaccharide transport; IMP:SGD.
+ GO:0006487; P:protein amino acid N-linked glycosylation; IMP:SGD.
+Complete proteome; Endoplasmic reticulum; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTHIRTEEN

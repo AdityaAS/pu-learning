@@ -1,0 +1,17 @@
+AC   Q5HXU1;
+Error-prone DNA polymerase (EC 2.7.7.7).
+"Complete genome sequence of the acetic acid bacterium Gluconobacter
+oxydans.";
+-!- FUNCTION: DNA polymerase involved in damage-induced mutagenesis
+    and translesion synthesis (TLS). It is not the major replicative
+    DNA polymerase (By similarity).
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the DNA polymerase type-C family. DnaE2
+    subfamily.
+ GO:0045020; P:error-prone DNA repair; IEA:HAMAP.
+Complete proteome; DNA damage; DNA repair; DNA replication;
+DNA-directed DNA polymerase; Nucleotidyltransferase; Plasmid;
+Transferase.
+TMZERO

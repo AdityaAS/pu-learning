@@ -1,0 +1,13 @@
+AC   P64424; P76054;
+Zinc transport protein zntB.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Mediates efflux of zinc ions (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the corA metal ion transporter (MIT)
+    (TC 1.A.35) family.
+ GO:0006829; P:zinc ion transport; IEA:HAMAP.
+Complete proteome; Inner membrane; Ion transport; Membrane;
+Transmembrane; Transport; Zinc.
+TMTWO

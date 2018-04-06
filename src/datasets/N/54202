@@ -1,0 +1,14 @@
+AC   P0A8P5; P52065;
+Probable Fe(2+)-trafficking protein.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Could be a mediator in iron transactions between iron
+    acquisition and iron-requiring processes, such as synthesis and/or
+    repair of Fe-S clusters in biosynthetic enzymes (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the Fe(2+)-trafficking protein family.
+ GO:0005506; F:iron ion binding; IEA:HAMAP.
+Complete proteome; Iron.
+TMZERO

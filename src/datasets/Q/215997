@@ -1,0 +1,15 @@
+AC   P44662;
+Probable iron transport system ATP-binding protein HI0361.
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: Part of an ATP-driven transport system
+    HI0359/HI0360/HI0361/HI0362 for iron. Probably responsible for
+    energy coupling to the transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Hypothetical protein; Inner membrane;
+Ion transport; Iron; Iron transport; Membrane; Nucleotide-binding;
+Transport.
+TMZERO

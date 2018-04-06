@@ -1,0 +1,53 @@
+AC   Q9UHW9; Q8TDD4; Q9UFR2; Q9Y642; Q9Y665;
+Solute carrier family 12 member 6 (Electroneutral potassium-chloride
+cotransporter 3) (K-Cl cotransporter 3).
+"Molecular cloning and functional characterization of KCC3, a new K-Cl
+cotransporter.";
+"Cloning, characterization, and chromosomal location of a novel human
+K+-Cl- cotransporter.";
+"Cloning and characterization of KCC3 and KCC4, new members of the
+cation-chloride cotransporter gene family.";
+"The K-Cl cotransporter KCC3 is mutant in a severe peripheral
+neuropathy associated with agenesis of the corpus callosum.";
+"A dominant negative mutant of the KCC1 K-Cl cotransporter: both N-
+and C-terminal cytoplasmic domains are required for K-Cl cotransport
+activity.";
+-!- FUNCTION: Mediates electroneutral potassium-chloride cotransport.
+    May be activated by cell swelling. May contribute to cell volume
+    homeostasis in single cells.
+-!- SUBUNIT: Homomultimer and heteromultimer with other K-Cl
+    cotransporters (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=KCC3a;
+      IsoId=Q9UHW9-1; Sequence=Displayed;
+    Name=2; Synonyms=KCC3b;
+      IsoId=Q9UHW9-2; Sequence=VSP_006115, VSP_006116;
+-!- TISSUE SPECIFICITY: Highly expressed in heart, brain and kidney.
+    Detected at lower levels in skeletal muscle, placenta, lung and
+    pancreas. Detected in umbilical vein endothelial cells.
+-!- INDUCTION: Up-regulated by VEGF. Down-regulated by TNF.
+-!- PTM: N-glycosylated.
+-!- DISEASE: Defects in SLC12A6 are a cause of agenesis of the corpus
+    callosum with peripheral neuropathy (ACCPN) [MIM:218000]. ACCPN is
+    characterized by severe progressive sensorimotor neuropathy,
+    mental retardation, dysmorphic features and complete or partial
+    agenesis of the corpus callosum.
+-!- MISCELLANEOUS: Activated by N-ethylmaleimide (NEM). Inhibited by
+    DIOA, bumetanide and furosemide.
+-!- SIMILARITY: Belongs to the SLC12A transporter family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SLC12A6".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0015379; F:potassium:chloride symporter activity; NAS:UniProtKB.
+ GO:0008217; P:blood pressure regulation; NAS:UniProtKB.
+ GO:0006873; P:cell ion homeostasis; IC:UniProtKB.
+ GO:0006884; P:regulation of cell volume; NAS:UniProtKB.
+ GO:0000074; P:regulation of progression through cell cycle; NAS:UniProtKB.
+ GO:0006810; P:transport; TAS:ProtInc.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Polymorphism; Potassium; Potassium transport; Symport; Transmembrane;
+Transport.
+TMTWELVE

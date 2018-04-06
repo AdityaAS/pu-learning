@@ -1,0 +1,11 @@
+AC   P33972;
+Bacteriorhodopsin (BR) (Fragment).
+"The primary structures of helices A to G of three new
+bacteriorhodopsin-like retinal proteins.";
+-!- FUNCTION: Light-driven proton pump.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the archaeal/bacterial/fungal opsin family.
+Chromophore; Hydrogen ion transport; Ion transport; Membrane;
+Photoreceptor protein; Receptor; Retinal protein;
+Sensory transduction; Transmembrane; Transport.
+TMSEVEN

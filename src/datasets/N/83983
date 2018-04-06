@@ -1,0 +1,16 @@
+AC   P50480;
+Insulin gene enhancer protein ISL-2 (Islet-2).
+"Topographic organization of embryonic motor neurons defined by
+expression of LIM homeobox genes.";
+"The solution structure of the homeodomain of the rat insulin-gene
+enhancer protein isl-1. Comparison with other homeodomains.";
+-!- FUNCTION: Transcriptional factor that defines subclasses of
+    motoneurons that segregate into columns in the spinal cord and
+    select distinct axon pathways (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+-!- SIMILARITY: Contains 2 LIM zinc-binding domains.
+3D-structure; Developmental protein; DNA-binding; Homeobox;
+LIM domain; Metal-binding; Nuclear protein; Phosphorylation; Repeat;
+Zinc.
+TMZERO

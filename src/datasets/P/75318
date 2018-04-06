@@ -1,0 +1,17 @@
+AC   P0A072; P31714; Q07225; Q53689; Q53690;
+Gamma-hemolysin component A precursor (H-gamma-2) (H-gamma-II).
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: Toxin that seems to act by forming pores in the membrane
+    of the cell. Has a hemolytic and a leucotoxic activity (By
+    similarity).
+-!- SUBUNIT: Toxicity requires sequential binding and synergistic
+    association of a class S and a class F component which form
+    heterooligomeric complexes. HlgA (class S) associates with hlgB
+    (class F) thus forming an AB toxin in strains producing both
+    gamma-hemolysins and leukocidins. HlgA and lukF-PV can also form a
+    complex (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- SIMILARITY: Belongs to the aerolysin family.
+Complete proteome; Cytolysis; Hemolysis; Signal; Toxin.
+TMZERO

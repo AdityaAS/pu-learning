@@ -1,0 +1,33 @@
+AC   P69799; P08186; Q47350;
+PTS system mannose-specific EIIAB component (EIIAB-Man) [Includes:
+Mannose-specific phosphotransferase enzyme IIA component (EC 2.7.1.-)
+(PTS system mannose-specific EIIA component) (EIII-Man); Mannose-
+specific phosphotransferase enzyme IIB component (EC 2.7.1.69) (PTS
+system mannose-specific EIIB component)].
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in mannose transport (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-4 domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-4 domain.
+Complete proteome; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport.
+TMZERO

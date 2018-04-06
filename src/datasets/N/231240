@@ -1,0 +1,24 @@
+AC   Q9SMJ3;
+Zeta-carotene desaturase, chloroplast precursor (EC 1.14.99.30)
+(Carotene 7,8-desaturase).
+"Molecular cloning and functional expression in E. coli of a novel
+plant enzyme mediating zeta-carotene desaturation.";
+"Catalytic properties of an expressed and purified higher plant type
+zeta-carotene desaturase from Capsicum annuum.";
+-!- FUNCTION: Catalyzes the conversion of zeta-carotene to lycopene
+    via the intermediary of neurosporene. It carries out two
+    consecutive desaturations (introduction of double bonds) at
+    positions C-7 and C-7'.
+-!- CATALYTIC ACTIVITY: Neurosporene + AH(2) + O(2) = lycopene + A + 2
+    H(2)O.
+-!- CATALYTIC ACTIVITY: Zeta-carotene + AH(2) + O(2) = neurosporene +
+    A + 2 H(2)O.
+-!- COFACTOR: NAD, NADP, or FAD (Probable).
+-!- PATHWAY: Carotenoid biosynthesis.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast. Plastid; chromoplast.
+-!- SIMILARITY: Belongs to the zeta carotene desaturase family.
+ GO:0016719; F:carotene 7,8-desaturase activity; IEA:EC.
+Carotenoid biosynthesis; Chloroplast; FAD; Flavoprotein; NAD;
+Oxidoreductase; Plastid; Transit peptide.
+TMZERO

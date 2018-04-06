@@ -1,0 +1,23 @@
+AC   P54849; O00681; Q13481; Q13834;
+Epithelial membrane protein 1 (EMP-1) (Tumor-associated membrane
+protein) (CL-20) (B4B protein).
+"Characterization of a tumor-associated gene, a member of a novel
+family of genes encoding membrane glycoproteins.";
+"cDNA cloning, genomic structure, and chromosome mapping of the human
+epithelial membrane protein CL-20 gene (EMP1), a member of the PMP22
+family.";
+"B4B, a novel growth-arrest gene, is expressed by a subset of
+progenitor/pre-B lymphocytes negative for cytoplasmic mu-chain.";
+"Differential gene expression in human mammary carcinoma cells:
+identification of a new member of a receptor family.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the PMP-22/EMP/MP20 family.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0008283; P:cell proliferation; TAS:ProtInc.
+ GO:0007275; P:development; TAS:ProtInc.
+ GO:0008544; P:epidermis development; TAS:ProtInc.
+Glycoprotein; Membrane; Transmembrane.
+TMFOUR

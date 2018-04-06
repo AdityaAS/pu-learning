@@ -1,0 +1,13 @@
+AC   P79875;
+Temporin-G precursor.
+"Temporins, antimicrobial peptides from the European red frog Rana
+temporaria.";
+-!- FUNCTION: Has antibacterial activity against Gram-negative and
+    Gram-positive bacteria.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin glands.
+-!- SIMILARITY: Belongs to the frog skin active peptide (FSAP) family.
+    Brevinin subfamily.
+Amidation; Amphibian defense peptide; Antibiotic; Antimicrobial;
+Signal.
+TMZERO

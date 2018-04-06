@@ -1,0 +1,25 @@
+AC   Q6GIB7;
+Coenzyme A disulfide reductase (EC 1.8.1.14) (CoA-disulfide reductase)
+(CoADR).
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Catalyzes specifically the NADPH-dependent reduction of
+    coenzyme A disulfide (By similarity).
+-!- CATALYTIC ACTIVITY: 2 CoA + NAD(P)(+) = CoA-disulfide + NAD(P)H.
+-!- COFACTOR: Binds 1 FAD non-covalently per subunit (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- DOMAIN: Contains 2 FAD binding domains and a single NADPH binding
+    domain (By similarity).
+-!- MISCELLANEOUS: Reduction of disulfides occurs by a thiol-disulfide
+    exchange reaction, but involves only a single catalytic cysteine
+    residue that forms a stable mixed disulfide with CoA during
+    catalysis (By similarity).
+-!- SIMILARITY: Belongs to the class-III pyridine nucleotide-disulfide
+    oxidoreductase family.
+ GO:0050451; F:CoA-disulfide reductase activity; IEA:HAMAP.
+ GO:0050660; F:FAD binding; IEA:HAMAP.
+ GO:0050661; F:NADP binding; IEA:HAMAP.
+ GO:0006467; P:protein thiol-disulfide exchange; IEA:HAMAP.
+Complete proteome; FAD; Flavoprotein; NADP; Oxidoreductase;
+Redox-active center.
+TMZERO

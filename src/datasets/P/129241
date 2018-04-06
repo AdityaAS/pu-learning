@@ -1,0 +1,28 @@
+AC   Q51485; Q9R4Z9;
+Porin B precursor (Outer membrane protein D1) (Glucose porin).
+"Cloning and nucleotide sequence of the Pseudomonas aeruginosa
+glucose-selective OprB porin gene and distribution of OprB within the
+family Pseudomonadaceae.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"Specificity of the glucose channel formed by protein D1 of
+Pseudomonas aeruginosa.";
+"Biophysical characterization of OprB, a glucose-inducible porin of
+Pseudomonas aeruginosa.";
+"The OprB porin plays a central role in carbohydrate uptake in
+Pseudomonas aeruginosa.";
+-!- FUNCTION: Substrate-selective channel for a variety of different
+    sugars. Could potentially facilitate the diffusion of diverse
+    compounds, dependent on the presence of a hydroxyl group, but is
+    presumably restricted to carbohydrates. Involved in the transport
+    of glucose, mannitol, fructose and glycerol (sugars able to
+    support the growth of P.aeruginosa). Facilitates glucose diffusion
+    across the outer membrane.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By glucose.
+-!- SIMILARITY: Belongs to the oprB family.
+Complete proteome; Direct protein sequencing; Ion transport; Membrane;
+Outer membrane; Porin; Signal; Sugar transport; Transmembrane;
+Transport.
+TMZERO

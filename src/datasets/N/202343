@@ -1,0 +1,9 @@
+AC   P36823;
+Protein E7.
+"Primer-directed sequencing of human papillomavirus types.";
+-!- FUNCTION: E7 protein has both transforming and trans-activating
+    activities.
+-!- SIMILARITY: Belongs to the papillomaviruses E7 protein family.
+DNA-binding; Early protein; Oncogene; Transcription;
+Transcription regulation.
+TMZERO

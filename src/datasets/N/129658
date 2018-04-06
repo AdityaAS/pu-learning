@@ -1,0 +1,14 @@
+AC   P65759; Q8K8I2; Q9A1A2;
+Probable manganese-dependent inorganic pyrophosphatase (EC 3.6.1.1)
+(Pyrophosphate phospho-hydrolase) (PPase).
+"Genome sequence and comparative microarray analysis of serotype M18
+group A Streptococcus strains associated with acute rheumatic fever
+outbreaks.";
+-!- CATALYTIC ACTIVITY: Diphosphate + H(2)O = 2 phosphate.
+-!- COFACTOR: Binds 2 manganese ions per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the PPase class C family.
+ GO:0004427; F:inorganic diphosphatase activity; IEA:HAMAP.
+ GO:0030145; F:manganese ion binding; IEA:HAMAP.
+Complete proteome; Hydrolase; Manganese; Metal-binding.
+TMZERO

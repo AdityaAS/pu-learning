@@ -1,0 +1,17 @@
+AC   Q02863;
+Ubiquitin carboxyl-terminal hydrolase 16 (EC 3.1.2.15) (Ubiquitin
+thioesterase 16) (Ubiquitin-specific-processing protease 16)
+(Deubiquitinating enzyme 16).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: Ubiquitin C-terminal thioester + H(2)O =
+    ubiquitin + a thiol.
+-!- MISCELLANEOUS: Present with 450 molecules/cell.
+-!- SIMILARITY: Belongs to the peptidase C19 family.
+ GO:0005737; C:cytoplasm; IC:SGD.
+ GO:0005741; C:mitochondrial outer membrane; IDA:SGD.
+ GO:0004843; F:ubiquitin-specific protease activity; TAS:SGD.
+ GO:0016579; P:protein deubiquitination; TAS:SGD.
+Complete proteome; Hydrolase; Protease; Thiol protease;
+Ubl conjugation pathway.
+TMZERO

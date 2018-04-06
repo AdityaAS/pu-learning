@@ -1,0 +1,22 @@
+AC   P39265; Q2M6L5;
+D-allose-binding periplasmic protein precursor (ALBP).
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Ribose catabolism of Escherichia coli: characterization of the rpiB
+gene encoding ribose phosphate isomerase B and of the rpiR gene, which
+is involved in regulation of rpiB expression.";
+"The D-allose operon of Escherichia coli K-12.";
+"Structure of D-allose binding protein from Escherichia coli bound to
+D-allose at 1.8-A resolution.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    alsBAC for D-allose.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 2
+    family.
+ GO:0015407; F:monosaccharide-transporting ATPase activity; IEA:EC.
+3D-structure; Complete proteome; Periplasmic; Signal; Sugar transport;
+Transport.
+TMZERO

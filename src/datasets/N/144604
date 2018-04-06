@@ -1,0 +1,16 @@
+AC   Q2NH88;
+Replication factor C large subunit (RFC large subunit) (Clamp loader
+large subunit).
+"The genome sequence of Methanosphaera stadtmanae reveals why this
+human intestinal archaeon is restricted to methanol and H2 for methane
+formation and ATP synthesis.";
+-!- FUNCTION: Part of the RFC clamp loader complex which loads the
+    PCNA sliding clamp onto DNA (By similarity).
+-!- SUBUNIT: Heteromultimer composed of small subunits (rfcS) and
+    large subunits (rfcL) (By similarity).
+-!- SIMILARITY: Belongs to the activator 1 small subunits family. RfcL
+    subfamily.
+ GO:0003689; F:DNA clamp loader activity; IEA:HAMAP.
+ GO:0006260; P:DNA replication; IEA:HAMAP.
+ATP-binding; Complete proteome; DNA replication; Nucleotide-binding.
+TMZERO

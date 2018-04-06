@@ -1,0 +1,40 @@
+AC   P38523;
+GrpE protein homolog, mitochondrial precursor.
+"A mitochondrial homolog of bacterial GrpE interacts with
+mitochondrial hsp70 and is essential for viability.";
+"YGE1 is a yeast homologue of Escherichia coli grpE and is required
+for maintenance of mitochondrial functions.";
+"A role for a eukaryotic GrpE-related protein, Mge1p, in protein
+translocation.";
+"Sequence and analysis of a 26.9 kb fragment from chromosome XV of the
+yeast Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"The role of the GrpE homologue, Mge1p, in mediating protein import
+and protein folding in mitochondria.";
+"The mitochondrial proteins Ssq1 and Jac1 are required for the
+assembly of iron sulfur clusters in mitochondria.";
+"Pam17 is required for architecture and translocation activity of the
+mitochondrial protein import motor.";
+-!- FUNCTION: Essential component of the PAM complex, a complex
+    required for the translocation of transit peptide-containing
+    proteins from the inner membrane into the mitochondrial matrix in
+    an ATP-dependent manner. Seems to control the nucleotide-dependent
+    binding of SSC1 to substrate proteins and the association of SSC1
+    with TIM44.
+-!- SUBUNIT: Component of the PAM complex, at least composed of SSC1
+    (mtHsp70), MGE1, TIM44, PAM16/TIM16, PAM17 and PAM18/TIM14.
+    Interacts with SSQ1.
+-!- INTERACTION:
+    P33203:PRP40; NbExp=1; IntAct=EBI-7891, EBI-701;
+    P25632:RSC6; NbExp=1; IntAct=EBI-7891, EBI-21941;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix.
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the grpE family.
+ GO:0005759; C:mitochondrial matrix; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0001405; C:presequence translocase-associated import m...; IPI:SGD.
+ GO:0051082; F:unfolded protein binding; IDA:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; IMP:SGD.
+Chaperone; Complete proteome; Direct protein sequencing;
+Mitochondrion; Transit peptide.
+TMZERO

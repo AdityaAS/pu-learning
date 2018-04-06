@@ -1,0 +1,18 @@
+AC   P05738;
+60S ribosomal protein L9-A (L8) (YL11) (RP25).
+"Cloning and characterisation of a yeast homolog of the mammalian
+ribosomal protein L9.";
+"The sequence of a nearly unclonable 22.8 kb segment on the left arm
+chromosome VII from Saccharomyces cerevisiae reveals ARO2, RPL9A,
+TIP1, MRF1 genes and six new open reading frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Yeast ribosomal proteins. VIII. Isolation of two proteins and
+sequence characterization of twenty-four proteins from cytoplasmic
+ribosomes.";
+"Global analysis of protein expression in yeast.";
+-!- MISCELLANEOUS: There are two genes for L9 in yeast.
+-!- MISCELLANEOUS: Present with 52400 molecules/cell.
+-!- SIMILARITY: Belongs to the ribosomal protein L6P family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ribonucleoprotein; Ribosomal protein.
+TMZERO

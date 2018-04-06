@@ -1,0 +1,10 @@
+AC   Q01567;
+Lipoprotein outS precursor.
+"Some of the out genes involved in the secretion of pectate lyases in
+Erwinia chrysanthemi are regulated by kdgR.";
+-!- FUNCTION: Out proteins are required for the translocation of
+    pectate lyases and cellulases across the outer membrane.
+-!- SIMILARITY: To K.pneumoniae pulS.
+Lipoprotein; Membrane; Outer membrane; Palmitate; Protein transport;
+Signal; Transport.
+TMZERO

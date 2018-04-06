@@ -1,0 +1,14 @@
+AC   P16154;
+Toxin A.
+"Nucleotide sequence of Clostridium difficile toxin A.";
+"Molecular characterization of the Clostridium difficile toxin A
+gene.";
+-!- FUNCTION: Only after the enteral delivery of the enterotoxin A may
+    the characteristic disease called pseudomembranous colitis be
+    induced.
+-!- DOMAIN: The C-terminal part of toxin A consists of a 833 AA
+    repetitive structure. This part of toxin A is composed of five
+    different oligopeptides.
+-!- SIMILARITY: Contains 32 cell wall-binding repeats.
+3D-structure; Enterotoxin; Repeat; Toxin.
+TMZERO

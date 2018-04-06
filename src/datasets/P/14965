@@ -1,0 +1,29 @@
+AC   P13090;
+Aminotriazole resistance protein.
+"ATR1, a Saccharomyces cerevisiae gene encoding a transmembrane
+protein required for aminotriazole resistance.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Allelism of SNQ1 and ATR1, genes of the yeast Saccharomyces
+cerevisiae required for controlling sensitivity to 4-nitroquinoline-N-
+oxide and aminotriazole.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Putative component of the machinery responsible for
+    pumping aminotriazole (and possibly other toxic compounds) out of
+    the cell. Probable ATP-dependent export permease. Appears to
+    confer resistance only to aminotriazole.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DOMAIN: Deletion of the C-terminal 34 residues abolishes ATR1
+    activity, while deletion of the C-terminal 23 residues have a
+    minor effect.
+-!- MISCELLANEOUS: Present with 1720 molecules/cell.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0015559; F:multidrug efflux pump activity; IMP:SGD.
+ GO:0006855; P:multidrug transport; IMP:SGD.
+Complete proteome; Glycoprotein; Membrane; Transmembrane; Transport.
+TMTWELVE

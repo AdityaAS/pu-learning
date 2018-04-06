@@ -1,0 +1,15 @@
+AC   Q75AF2;
+NEDD8-conjugating enzyme UBC12 (EC 6.3.2.-) (RUB1-conjugating enzyme)
+(RUB1-protein ligase) (Ubiquitin carrier protein 12).
+"The Ashbya gossypii genome as a tool for mapping the ancient
+Saccharomyces cerevisiae genome.";
+-!- FUNCTION: Accepts the ubiquitin-like protein NEDD8/RUB1 from the
+    UBA3-ULA1 E1 complex and catalyzes its covalent attachment to
+    other proteins (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + NEDD8 + protein lysine = AMP +
+    diphosphate + protein N-NEDD8yllysine.
+-!- PATHWAY: NEDD8 conjugation; second step.
+-!- SIMILARITY: Belongs to the ubiquitin-conjugating enzyme family.
+    UBC12 subfamily.
+Complete proteome; Ligase; Ubl conjugation pathway.
+TMZERO

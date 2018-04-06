@@ -1,0 +1,32 @@
+AC   P17972; Q9VQU5;
+Potassium voltage-gated channel protein Shaw (Shaw2).
+"K+ current diversity is produced by an extended gene family conserved
+in Drosophila and mouse.";
+"Shal, Shab, and Shaw: three genes encoding potassium channels in
+Drosophila.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Mediates the voltage-dependent potassium ion
+    permeability of excitable membranes. Assuming opened or closed
+    conformations in response to the voltage difference across the
+    membrane, the protein forms a potassium-selective channel through
+    which potassium ions may pass in accordance with their
+    electrochemical gradient.
+-!- SUBUNIT: Heterotetramer of potassium channel proteins (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: The segment S4 is probably the voltage-sensor and
+    is characterized by a series of positively charged amino acids at
+    every third position.
+-!- MISCELLANEOUS: This channel protein belongs to the delayed
+    rectifier class.
+-!- SIMILARITY: Belongs to the potassium channel family. C (Shaw)
+    subfamily.
+ GO:0008076; C:voltage-gated potassium channel complex; TAS:FlyBase.
+ GO:0005249; F:voltage-gated potassium channel activity; TAS:FlyBase.
+ GO:0006813; P:potassium ion transport; TAS:FlyBase.
+Complete proteome; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Potassium; Potassium channel; Potassium transport;
+Transmembrane; Transport; Voltage-gated channel.
+TMSIX

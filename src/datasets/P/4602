@@ -1,0 +1,29 @@
+AC   P39180; P75614; P76360; P97241; Q46771;
+Antigen 43 precursor (AG43) (Fluffing protein) [Contains: Antigen 43
+alpha chain; Antigen 43 beta chain].
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Purification and N-terminal sequence of the alpha subunit of antigen
+43, a unique protein complex associated with the outer membrane of
+Escherichia coli.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Antigen 43, a phase-variable bipartite outer membrane protein,
+determines colony morphology and autoaggregation in Escherichia coli
+K-12.";
+-!- FUNCTION: Controls colony form variation and autoaggregation. May
+    function as an adhesin.
+-!- SUBUNIT: Heterodimer of the peripheral membrane protein (alpha
+    chain) anchored to the integral outer membrane protein (beta
+    chain).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+Complete proteome; Direct protein sequencing; Membrane;
+Outer membrane; Signal.
+TMZERO

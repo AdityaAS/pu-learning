@@ -1,0 +1,16 @@
+AC   P31661;
+Sodium- and chloride-dependent creatine transporter 1 (CT1) (Creatine
+transporter 1) (Solute carrier family 6 member 8).
+"A Na(+)-dependent creatine transporter in rabbit brain, muscle,
+heart, and kidney. cDNA cloning and functional expression.";
+-!- FUNCTION: Required for the uptake of creatine. Plays an important
+    role in supplying creatine to the brain via the blood-brain
+    barrier (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Prominent in kidney, heart, and muscle, also
+    present in brain, but not in liver and intestine.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+Glycoprotein; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,7 @@
+AC   Q3K4U8;
+UPF0178 protein Pfl_5469.
+"Complete sequence of Pseudomonas fluorescens PfO-1.";
+-!- SIMILARITY: Belongs to the UPF0178 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

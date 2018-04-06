@@ -1,0 +1,14 @@
+AC   Q83PD4; Q7BZG0;
+50S ribosomal protein L31.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Binds the 23S rRNA (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L31P family. Type A
+    subfamily.
+Complete proteome; Metal-binding; Ribonucleoprotein;
+Ribosomal protein; RNA-binding; rRNA-binding; Zinc.
+TMZERO

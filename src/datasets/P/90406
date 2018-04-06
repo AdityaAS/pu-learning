@@ -1,0 +1,28 @@
+AC   P36499;
+Lantibiotic lacticin 481 precursor (Lactococcin DR).
+"Structure, organization, and expression of the lct gene for lacticin
+481, a novel lantibiotic produced by Lactococcus lactis.";
+"Cloning, expression, and nucleotide sequence of genes involved in
+production of lactococcin DR, a bacteriocin from Lactococcus lactis
+subsp. lactis.";
+"Purification and partial characterization of lacticin 481, a
+lanthionine-containing bacteriocin produced by Lactococcus lactis
+subsp. lactis CNRZ 481.";
+"The structure of the lantibiotic lacticin 481 produced by Lactococcus
+lactis: location of the thioether bridges.";
+-!- FUNCTION: Lanthionine-containing peptide antibiotic (lantibiotic)
+    active on Gram-positive bacteria. The bactericidal activity of
+    lantibiotics is based on depolarization of energized bacterial
+    cytoplasmic membranes, initiated by the formation of aqueous
+    transmembrane pores. Lacticin 481 is a broad spectrum bacteriocin
+    exhibiting activity against a wide range of lactic acid bacteria
+    and C.tyrobutyricum.
+-!- SUBUNIT: Monomer or homodimer.
+-!- PTM: Maturation of lantibiotics involves the enzymic conversion of
+    Thr, and Ser into dehydrated AA and the formation of thioether
+    bonds with cysteine. This is followed by membrane translocation
+    and cleavage of the modified precursor.
+-!- SIMILARITY: Belongs to the type A lantibiotic family.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing;
+Lantibiotic; Thioether bond.
+TMZERO

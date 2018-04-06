@@ -1,0 +1,29 @@
+AC   P68102; P05199; Q3SWZ1;
+Eukaryotic translation initiation factor 2 subunit 1 (Eukaryotic
+translation initiation factor 2 subunit alpha) (eIF-2-alpha) (EIF-
+2alpha) (EIF-2A).
+"Isolation and characterisation of a bovine cDNA encoding eukaryotic
+initiation factor 2 alpha.";
+-!- FUNCTION: Functions in the early steps of protein synthesis by
+    forming a ternary complex with GTP and initiator tRNA. This
+    complex binds to a 40S ribosomal subunit, followed by mRNA binding
+    to form a 43S preinitiation complex. Junction of the 60S ribosomal
+    subunit to form the 80S initiation complex is preceded by
+    hydrolysis of the GTP bound to eIF-2 and release of an eIF-2-GDP
+    binary complex. In order for eIF-2 to recycle and catalyze another
+    round of initiation, the GDP bound to eIF-2 must exchange with GTP
+    by way of a reaction catalyzed by eIF-2B.
+-!- SUBUNIT: Heterotrimer composed of an alpha, a beta and a gamma
+    chain.
+-!- PTM: Substrate for at least 4 kinases: EIF2AK3/PERK, GCN2, HRI and
+    PKR. Phosphorylation stabilizes the eIF-2/GDP/eIF-2B complex and
+    prevents GDP/GTP exchange reaction, thus impairing the recycling
+    of eIF-2 between successive rounds of initiation and leading to
+    global inhibition of translation.
+-!- SIMILARITY: Belongs to the eIF-2-alpha family.
+-!- SIMILARITY: Contains 1 S1 motif domain.
+ GO:0003743; F:translation initiation factor activity; ISS:UniProtKB.
+ GO:0045946; P:positive regulation of translation; ISS:UniProtKB.
+Initiation factor; Phosphorylation; Protein biosynthesis; RNA-binding;
+Translation regulation.
+TMZERO

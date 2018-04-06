@@ -1,0 +1,37 @@
+AC   Q99NH7;
+Prestin (Solute carrier family 26 member 5).
+"Expression of prestin, a membrane motor protein, in the mammalian
+auditory and vestibular periphery.";
+-!- FUNCTION: Motor protein that converts auditory stimuli to length
+    changes in outer hair cells and mediates sound amplification in
+    the mammalian hearing organ. Prestin is a bidirectional voltage-
+    to-force converter, it can operate at microsecond rates. It uses
+    cytoplasmic anions as extrinsic voltage sensors, probably chloride
+    and bicarbonate. After binding to a site with millimolar affinity,
+    these anions are translocated across the membrane in response to
+    changes in the transmembrane voltage. They move towards the
+    extracellular surface following hyperpolarization, and towards the
+    cytoplasmic side in response to depolarization. As a consequence,
+    this translocation triggers conformational changes in the protein
+    that ultimately alter its surface area in the plane of the plasma
+    membrane. The area decreases when the anion is near the
+    cytoplasmic face of the membrane (short state), and increases when
+    the ion has crossed the membrane to the outer surface (long
+    state). So, it acts as an incomplete transporter. It swings anions
+    across the membrane, but does not allow these anions to dissociate
+    and escape to the extracellular space. Salicylate, an inhibitor of
+    outer hair cell motility, acts as competitive antagonist at the
+    prestin anion-binding site (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity). Note=Lateral wall of outer hair cells (By
+    similarity).
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+-!- SIMILARITY: Contains 1 STAS domain.
+-!- WEB RESOURCE: NAME=Protein Spotlight;
+    NOTE=Pump up the volume - Issue 22 of May 2002;
+    URL="http://www.expasy.org/spotlight/back_issues/sptlt022.shtml".
+ GO:0016323; C:basolateral plasma membrane; IDA:MGI.
+ GO:0042391; P:regulation of membrane potential; IDA:MGI.
+Cell shape; Glycoprotein; Membrane; Motor protein; Transmembrane.
+TMTWELVE

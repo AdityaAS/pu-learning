@@ -1,0 +1,35 @@
+AC   P35558; Q8TCA3; Q9UJD2;
+Phosphoenolpyruvate carboxykinase, cytosolic [GTP] (EC 4.1.1.32)
+(Phosphoenolpyruvate carboxylase) (PEPCK-C).
+"cDNA sequence and localization of polymorphic human cytosolic
+phosphoenolpyruvate carboxykinase gene (PCK1) to chromosome 20, band
+q13.31: PCK1 is not tightly linked to maturity-onset diabetes of the
+young.";
+"Phosphoenolpyruvate carboxykinase (GTP): characterization of the
+human PCK1 gene and localization distal to MODY on chromosome 20.";
+"NIEHS-SNPs, environmental genome project, NIEHS ES15478, Department
+of Genome Sciences, Seattle, WA (URL: http://egp.gs.washington.edu).";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Structural and functional analysis of the human phosphoenolpyruvate
+carboxykinase gene promoter.";
+"Crystal structure of human cytosolic phosphoenolpyruvate
+carboxykinase reveals a new GTP-binding site.";
+-!- CATALYTIC ACTIVITY: GTP + oxaloacetate = GDP + phosphoenolpyruvate
+    + CO(2).
+-!- ENZYME REGULATION: Activity is affected by a number of hormones
+    regulating this metabolic process (such as glucagon, insulin, or
+    glucocorticoids).
+-!- PATHWAY: Carbohydrate biosynthesis; gluconeogenesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: Major sites of expression are liver, kidney
+    and adipocytes.
+-!- MISCELLANEOUS: In eukaryotes there are two isozymes: a cytoplasmic
+    one and a mitochondrial one.
+-!- SIMILARITY: Belongs to the phosphoenolpyruvate carboxykinase [GTP]
+    family.
+ GO:0004613; F:phosphoenolpyruvate carboxykinase (GTP) act...; TAS:ProtInc.
+3D-structure; Decarboxylase; Gluconeogenesis; GTP-binding; Lyase;
+Nucleotide-binding; Polymorphism.
+TMZERO

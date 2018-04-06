@@ -1,0 +1,19 @@
+AC   Q7VT93;
+3-dehydroquinate synthase (EC 4.2.3.4).
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+-!- CATALYTIC ACTIVITY: 3-deoxy-arabino-heptulonate 7-phosphate = 3-
+    dehydroquinate + phosphate.
+-!- COFACTOR: NAD (By similarity).
+-!- COFACTOR: Divalent metal cations (By similarity).
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 2.
+-!- PATHWAY: Context: Aromatic amino acids biosynthesis.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the dehydroquinate synthase family.
+ GO:0016089; P:aromatic amino acid family biosynthesis, sh...; IEA:HAMAP.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Complete proteome; Lyase; NAD.
+TMZERO

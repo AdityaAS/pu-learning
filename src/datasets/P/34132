@@ -1,0 +1,28 @@
+AC   P49573;
+Copper transport protein CTR1 (Copper transporter 1).
+"Molecular characterization of a copper transport protein in S.
+cerevisiae: an unexpected role for copper in iron transport.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"The Saccharomyces cerevisiae copper transport protein (Ctr1p).
+Biochemical characterization, regulation by copper, and physiologic
+role in copper uptake.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Required for high affinity copper (probably reduced Cu
+    I) transport into the cell.
+-!- SUBUNIT: Oligomer.
+-!- INTERACTION:
+    Self; NbExp=1; IntAct=EBI-5261, EBI-5261;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: By copper deprivation, and repressed by copper
+    sufficiency.
+-!- PTM: Extensively O-glycosylated.
+-!- MISCELLANEOUS: Present with 1180 molecules/cell.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0015088; F:copper uptake transporter activity; IMP:SGD.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+ GO:0015677; P:copper ion import; IMP:SGD.
+Complete proteome; Copper; Copper transport; Glycoprotein;
+Ion transport; Membrane; Repeat; Transmembrane; Transport.
+TMTWO

@@ -1,0 +1,14 @@
+AC   Q88YM8;
+Redox-sensing transcriptional repressor rex.
+"Complete genome sequence of Lactobacillus plantarum WCFS1.";
+-!- FUNCTION: Modulates transcription in response to changes in
+    cellular NADH/NAD(+) redox state (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the transcriptional regulatory rex family.
+ GO:0050662; F:coenzyme binding; IEA:HAMAP.
+ GO:0003700; F:transcription factor activity; IEA:HAMAP.
+ GO:0006355; P:regulation of transcription, DNA-dependent; IEA:HAMAP.
+Complete proteome; DNA-binding; NAD; Repressor; Transcription;
+Transcription regulation.
+TMZERO

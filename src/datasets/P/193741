@@ -1,0 +1,35 @@
+AC   Q9ERZ8;
+Transient receptor potential cation channel subfamily V member 4
+(TrpV4) (osm-9-like TRP channel 4) (OTRPC4) (Vanilloid receptor-
+related osmotically-activated channel) (VR-OAC).
+"Vanilloid receptor-related osmotically activated channel (VR-OAC), a
+candidate vertebrate osmoreceptor.";
+-!- FUNCTION: Non-selective calcium permeant cation channel probably
+    involved in osmotic sensitivity and mechanosensitivity. Activation
+    by exposure to hypotonicity within the physiological range
+    exhibits an outward rectification. Also activated by low pH,
+    citrate and phorbol esters. Increase of intracellular Ca(2+)
+    potentiates currents. Channel activity seems to be regulated by a
+    calmodulin-dependent mechanism with a negative feedback mechanism
+    (By similarity).
+-!- SUBUNIT: Interacts with calmodulin. Interacts with Map7 and Src
+    family Tyr protein kinases LYN, SRC, FYN, HCK, LCK and YES (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Expressed lung, spleen, kidney, testis, fat,
+    and at very low levels in trigeminal ganglia.
+-!- SIMILARITY: Belongs to the transient receptor family. TrpV
+    subfamily.
+-!- SIMILARITY: Contains 3 ANK repeats.
+ GO:0005886; C:plasma membrane; ISS:UniProtKB.
+ GO:0005516; F:calmodulin binding; ISS:UniProtKB.
+ GO:0005261; F:cation channel activity; ISS:UniProtKB.
+ GO:0006874; P:calcium ion homeostasis; ISS:UniProtKB.
+ GO:0007231; P:osmosensory signaling pathway; ISS:UniProtKB.
+ GO:0006884; P:regulation of cell volume; ISS:UniProtKB.
+ GO:0009612; P:response to mechanical stimulus; ISS:UniProtKB.
+ANK repeat; Calcium; Calcium channel; Calcium transport;
+Calmodulin-binding; Ion transport; Ionic channel; Membrane;
+Phosphorylation; Repeat; Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,9 @@
+AC   Q8PNG1;
+UPF0133 protein XAC1110.
+"Comparison of the genomes of two Xanthomonas pathogens with differing
+host specificities.";
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the UPF0133 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

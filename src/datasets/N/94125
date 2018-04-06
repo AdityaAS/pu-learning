@@ -1,0 +1,15 @@
+AC   P53413;
+LIM/homeobox protein LMX-1.2 (Homeobox protein LMX-1) (LIM-homeobox
+protein 1) (LMX).
+"Induction of the LIM homeobox gene Lmx1 by WNT7a establishes
+dorsoventral pattern in the vertebrate limb.";
+"Dorsal cell fate specified by chick Lmx1 during vertebrate limb
+development.";
+-!- FUNCTION: Specifies dorsal cell fate during limb development.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+-!- SIMILARITY: Contains 2 LIM zinc-binding domains.
+Activator; Developmental protein; DNA-binding; Homeobox; LIM domain;
+Metal-binding; Nuclear protein; Repeat; Transcription;
+Transcription regulation; Zinc.
+TMZERO

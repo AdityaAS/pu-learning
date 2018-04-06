@@ -1,0 +1,27 @@
+AC   Q8XZ83;
+Carbamoyl-phosphate synthase large chain (EC 6.3.5.5) (Carbamoyl-
+phosphate synthetase ammonia chain).
+"Genome sequence of the plant pathogen Ralstonia solanacearum.";
+-!- CATALYTIC ACTIVITY: 2 ATP + L-glutamine + HCO(3)(-) + H(2)O = 2
+    ADP + phosphate + L-glutamate + carbamoyl phosphate.
+-!- COFACTOR: Binds 3 manganese ions per subunit (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis;
+    carbamoyl phosphate from HCO(3)(-): single step.
+-!- PATHWAY: Nucleotide biosynthesis; UMP biosynthesis; UMP from
+    HCO(3)(-): step 1.
+-!- PATHWAY: Nucleotide biosynthesis; UMP biosynthesis; UMP from
+    HCO(3)(-): step 1.
+-!- PATHWAY: Context: Pyrimidine biosynthesis.
+-!- SUBUNIT: Composed of two chains; the small (or glutamine) chain
+    promotes the hydrolysis of glutamine to ammonia, which is used by
+    the large (or ammonia) chain to synthesize carbamoyl phosphate (By
+    similarity).
+-!- SIMILARITY: Belongs to the carB family.
+-!- SIMILARITY: Contains 2 ATP-grasp domains.
+ GO:0004088; F:carbamoyl-phosphate synthase (glutamine-hyd...; IEA:HAMAP.
+ GO:0030145; F:manganese ion binding; IEA:HAMAP.
+ GO:0006221; P:pyrimidine nucleotide biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Arginine biosynthesis; ATP-binding;
+Complete proteome; Ligase; Manganese; Metal-binding;
+Nucleotide-binding; Pyrimidine biosynthesis; Repeat.
+TMZERO

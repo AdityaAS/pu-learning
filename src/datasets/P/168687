@@ -1,0 +1,32 @@
+AC   P41438; Q62450; Q62451;
+Folate transporter 1 (Solute carrier family 19 member 1) (Intestinal
+folate carrier protein) (IFC-1) (Reduced folate carrier 1) (RFC1)
+(RFC-1).
+"A novel cDNA restores reduced folate carrier activity and
+methotrexate sensitivity to transport deficient cells.";
+"Intestinal folate transport: identification of a cDNA involved in
+folate transport and the functional expression and distribution of its
+mRNA.";
+"Characterization of a mutation in the reduced folate carrier in a
+transport defective L1210 murine leukemia cell line.";
+"Organization, structure and alternate splicing of the murine RFC-1
+gene encoding a folate transporter.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Transporter for the intake of folate, reduced folates
+    and methotrexate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=P41438-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P41438-2; Sequence=VSP_006125;
+    Name=3;
+      IsoId=P41438-3; Sequence=VSP_006126, VSP_006127;
+-!- SIMILARITY: Belongs to the reduced folate carrier (RFC)
+    transporter (TC 2.A.48) family.
+Alternative splicing; Folate-binding; Glycoprotein; Membrane;
+Transmembrane; Transport.
+TMTWELVE

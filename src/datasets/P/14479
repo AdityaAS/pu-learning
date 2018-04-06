@@ -1,0 +1,42 @@
+AC   P0ABA0; P00859; Q2M854;
+ATP synthase B chain (EC 3.6.3.14).
+"DNA sequence around the Escherichia coli unc operon. Completion of
+the sequence of a 17 kilobase segment containing asnA, oriC, unc, glmS
+and phoS.";
+"The atp operon: nucleotide sequence of the promoter and the genes for
+the membrane proteins, and the delta subunit of Escherichia coli ATP-
+synthase.";
+"Nucleotide sequence of the genes for F0 components of the proton-
+translocating ATPase from Escherichia coli: prediction of the primary
+structure of F0 subunits.";
+"The nucleotide sequence of the atp genes coding for the F0 subunits
+a, b, c and the F1 subunit delta of the membrane bound ATP synthase of
+Escherichia coli.";
+"Structure and function of H+-ATPase: what we have learned from
+Escherichia coli H+-ATPase.";
+"Role of the b subunit of the Escherichia coli proton-translocating
+ATPase. A mutagenic analysis.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the gene coding for the delta subunit of
+proton translocating ATPase of Escherichia coli.";
+"Targeted mutagenesis of the b subunit of F1F0 ATP synthase in
+Escherichia coli: Glu-77 through Gln-85.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Structure of the membrane domain of subunit b of the Escherichia coli
+F0F1 ATP synthase.";
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the ATPase B chain family.
+3D-structure; CF(0); Complete proteome; Hydrogen ion transport;
+Inner membrane; Ion transport; Membrane; Transmembrane; Transport.
+TMONE

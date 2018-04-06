@@ -1,0 +1,11 @@
+AC   Q57220; Q44624;
+DNA-binding protein HBbu.
+"A phylogenetic analysis of Borrelia burgdorferi sensu lato based on
+sequence information from the hbb gene, coding for a histone-like
+protein.";
+-!- FUNCTION: Histone-like DNA-binding protein which is capable of
+    wrapping DNA to stabilize it, and thus to prevent its denaturation
+    under extreme environmental conditions (By similarity).
+-!- SIMILARITY: Belongs to the bacterial histone-like protein family.
+DNA condensation; DNA-binding.
+TMZERO

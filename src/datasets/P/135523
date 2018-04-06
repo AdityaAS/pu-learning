@@ -1,0 +1,25 @@
+AC   P69784; P08837; Q47703;
+Glucose-specific phosphotransferase enzyme IIA component (EC 2.7.1.-)
+(PTS system glucose-specific EIIA component) (EIIA-Glc) (EIII-Glc).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in glucose transport (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- COFACTOR: Binds 1 zinc ion per glycerol kinase EIIA-Glc dimer. The
+    zinc ion is important for dimerization (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-1 domain.
+Complete proteome; Kinase; Metal-binding; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase; Transport;
+Zinc.
+TMZERO

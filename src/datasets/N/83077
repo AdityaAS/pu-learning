@@ -1,0 +1,19 @@
+AC   P11922; Q66BU9;
+Invasin.
+"Identification of invasin: a protein that allows enteric bacteria to
+penetrate cultured mammalian cells.";
+"Insights into the evolution of Yersinia pestis through whole-genome
+comparison with Yersinia pseudotuberculosis.";
+"Identification of the integrin binding domain of the Yersinia
+pseudotuberculosis invasin protein.";
+"Crystal structure of invasin: a bacterial integrin-binding protein.";
+-!- FUNCTION: Invasin is a protein that allows enteric bacteria to
+    penetrate cultured mammalian cells. The entry of invasin in the
+    cell is mediated by binding several beta-1 chain integrins.
+-!- SUBCELLULAR LOCATION: Cell surface.
+-!- SIMILARITY: Belongs to the intimin/invasin family.
+-!- SIMILARITY: Contains 2 Big-1 (bacterial Ig-like domain 1) domains.
+-!- CAUTION: It is uncertain whether Met-1, Met-17 or Met-19 is the
+    initiator.
+3D-structure; Complete proteome; Repeat.
+TMZERO

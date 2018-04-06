@@ -1,0 +1,11 @@
+AC   P32369; Q47873;
+Bile acid transporter.
+"Characterization of the baiH gene encoding a bile acid-inducible
+NADH:flavin oxidoreductase from Eubacterium sp. strain VPI 12708.";
+-!- PATHWAY: Lipid metabolism; bile acid degradation.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Bile acid catabolism; Lipid metabolism; Membrane; Steroid metabolism;
+Transmembrane; Transport.
+TMFIFTEEN

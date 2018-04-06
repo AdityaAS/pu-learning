@@ -1,0 +1,10 @@
+AC   P18326;
+Cytochrome P450-SU1 (EC 1.14.-.-) (P450-CVA1) (CYP105A1).
+"Genes for two herbicide-inducible cytochromes P-450 from Streptomyces
+griseolus.";
+-!- FUNCTION: Metabolism of a number of sulfonylurea herbicides.
+-!- INDUCTION: By herbicides.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+Direct protein sequencing; Heme; Iron; Metal-binding; Monooxygenase;
+Oxidoreductase.
+TMZERO

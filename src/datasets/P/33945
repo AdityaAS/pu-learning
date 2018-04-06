@@ -1,0 +1,17 @@
+AC   Q04470;
+Type-2Aa cytolytic delta-endotoxin (29 kDa cytolytic toxin).
+"Cloning and characterization of a novel Bacillus thuringiensis
+cytolytic delta-endotoxin.";
+"Structure of the mosquitocidal delta-endotoxin CytB from Bacillus
+thuringiensis sp. kyushuensis and implications for membrane pore
+formation.";
+-!- FUNCTION: Kills the larvae of dipteran insects by making pores in
+    the epithelial cell membrane of the insect midgut.
+-!- SUBUNIT: Homodimer (protoxin) and monomer (active toxin).
+-!- DEVELOPMENTAL STAGE: The crystal protein is produced during
+    sporulation and is accumulated both as an inclusion and as part of
+    the spore coat.
+-!- PTM: Active after proteolytic processing.
+-!- SIMILARITY: Belongs to the cyt1/cyt2 endotoxin family.
+3D-structure; Sporulation; Toxin.
+TMZERO

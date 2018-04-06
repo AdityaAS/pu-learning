@@ -1,0 +1,32 @@
+AC   P31554; P75631;
+Organic solvent tolerance protein precursor.
+"N-hexane sensitivity of Escherichia coli due to low expression of
+ostA/imp by insertion of IS2 and identification of the gene product as
+an outer membrane protein.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Identification and characterization of a new gene of Escherichia coli
+K-12 involved in outer membrane permeability.";
+"Cloning of organic solvent tolerance gene ostA that determines n-
+hexane tolerance level in Escherichia coli.";
+"Imp/OstA is required for cell envelope biogenesis in Escherichia
+coli.";
+"Protein complexes of the Escherichia coli cell envelope.";
+-!- FUNCTION: Determines N-hexane tolerance. Involved in outer
+    membrane permeability. Essential for envelope biogenesis. Could be
+    part of a targeting/usher system for outer membrane components.
+-!- SUBUNIT: Forms a high-molecular-weight complex in the outer
+    membrane. No evidence for its interaction with other proteins is
+    seen when it is isolated from outer membrane preparations.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- PTM: Forms at least two disulfide bridges, one inter- and one
+    intramolecular.
+-!- SIMILARITY: Belongs to the imp/ostA family.
+Complete proteome; Direct protein sequencing; Membrane;
+Outer membrane; Signal.
+TMZERO

@@ -1,0 +1,24 @@
+AC   Q9S1G9;
+Selenate reductase subunit beta (EC 1.97.1.9) (Selenate reductase
+iron-sulfur subunit).
+"Cloning and sequencing of the genes encoding the periplasmic-
+cytochrome B-containing selenate reductase of Thauera selenatis.";
+"Purification and characterization of the selenate reductase from
+Thauera selenatis.";
+"Crystallization and preliminary X-ray analysis of the selenate
+reductase from Thauera selenatis.";
+-!- FUNCTION: Electron transfer subunit of the terminal reductase
+    during anaerobic growth on selenate and nitrate (By similarity).
+-!- CATALYTIC ACTIVITY: Selenite + H(2)O + acceptor = selenate +
+    reduced acceptor.
+-!- COFACTOR: Binds 1 3Fe-4S cluster (By similarity).
+-!- COFACTOR: Binds 3 4Fe-4S clusters (By similarity).
+-!- SUBUNIT: Heterotrimer of alpha, beta and gamma subunits.
+-!- SUBCELLULAR LOCATION: Periplasm. Note=Probably translocated
+    together with serA, which possesses a Tat-type signal.
+-!- BIOTECHNOLOGY: Has potential use in bioremediation of waste sites
+    contaminated with selenate, such as agricultural drainage waters.
+-!- SIMILARITY: Contains 4 4Fe-4S type ferredoxin domains.
+3Fe-4S; 4Fe-4S; Direct protein sequencing; Electron transport; Iron;
+Iron-sulfur; Metal-binding; Oxidoreductase; Periplasmic; Transport.
+TMZERO

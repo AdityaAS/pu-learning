@@ -1,0 +1,35 @@
+AC   O25806; Q9R3R4;
+Bifunctional DNA-directed RNA polymerase, beta and beta' chain
+(EC 2.7.7.6) [Includes: DNA-directed RNA polymerase beta chain
+(Transcriptase beta chain) (RNA polymerase subunit beta); DNA-directed
+RNA polymerase beta' chain (Transcriptase beta' chain) (RNA polymerase
+beta' subunit)].
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+"The largest subunits of RNA polymerase from gastric helicobacters are
+tethered.";
+"Helicobacter pylori with separate beta- and beta'-subunits of RNA
+polymerase is viable and can colonize conventional mice.";
+-!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+    of DNA into RNA using the four ribonucleoside triphosphates as
+    substrates.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: The RNAP catalytic core consists of 2 alpha, 1 beta/beta'
+    and 1 omega subunit. When a sigma factor is associated with the
+    core the holoenzyme is formed, which can initiate transcription
+    (By similarity).
+-!- PTM: The N-terminus is blocked.
+-!- MISCELLANEOUS: Fusion of rpoB and rpoC occurs naturally in
+    Helicobacter species and at least some Wolbachia; the protein has
+    been artificially split in two in H.pylori. The split protein
+    seems to function normally.
+-!- SIMILARITY: In the N-terminal section; belongs to the RNA
+    polymerase beta chain family.
+-!- SIMILARITY: In the C-terminal section; belongs to the RNA
+    polymerase beta' chain family.
+ GO:0006351; P:transcription, DNA-dependent; IEA:HAMAP.
+Complete proteome; Direct protein sequencing;
+DNA-directed RNA polymerase; Multifunctional enzyme;
+Nucleotidyltransferase; Transcription; Transferase.
+TMZERO

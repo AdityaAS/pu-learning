@@ -1,0 +1,10 @@
+AC   P44498;
+Acyl-CoA thioesterase II (EC 3.1.2.-) (TEII).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: Can hydrolyze a broad range of acyl-CoA thioesters. Its
+    physiological function is not known (By similarity).
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the C/M/P thioester hydrolase family.
+Complete proteome; Hydrolase.
+TMZERO

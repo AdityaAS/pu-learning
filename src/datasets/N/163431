@@ -1,0 +1,11 @@
+AC   P29224;
+30S ribosomal protein S19 (Fragment).
+"Evolutionary relationships of a plant-pathogenic mycoplasmalike
+organism and Acholeplasma laidlawii deduced from two ribosomal protein
+gene sequences.";
+-!- FUNCTION: Protein S19 forms a complex with S13 that binds strongly
+    to the 16S ribosomal RNA (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S19P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Ribonucleoprotein; Ribosomal protein; RNA-binding; rRNA-binding.
+TMZERO

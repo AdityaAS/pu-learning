@@ -1,0 +1,89 @@
+AC   P02775; Q6IBJ8;
+Platelet basic protein precursor (PBP) (Small inducible cytokine B7)
+(CXCL7) (Leukocyte-derived growth factor) (LDGF) (Macrophage-derived
+growth factor) (MDGF) [Contains: Connective tissue-activating peptide
+III (CTAP-III) (Low-affinity platelet factor IV) (LA-PF4); TC-2;
+Connective tissue-activating peptide III(1-81) (CTAP-III(1-81)); Beta-
+thromboglobulin (Beta-TG); Neutrophil-activating peptide 2(74) (NAP-
+2(74)); Neutrophil-activating peptide 2(73) (NAP-2(73)); Neutrophil-
+activating peptide 2 (NAP-2); TC-1; Neutrophil-activating peptide 2(1-
+66) (NAP-2(1-66)); Neutrophil-activating peptide 2(1-63) (NAP-2(1-
+63))].
+"Cloning of cDNA coding for connective tissue activating peptide III
+from a human platelet-derived lambda gt11 expression library.";
+"Characterization of the human beta-thromboglobulin gene. Comparison
+with the gene for platelet factor 4.";
+"Localization of distal regulatory domains in the megakaryocyte-
+specific platelet basic protein/platelet factor 4 gene locus.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"Generation and annotation of the DNA sequences of human chromosomes 2
+and 4.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Characterization of human platelet basic protein, a precursor form of
+low-affinity platelet factor 4 and beta-thromboglobulin.";
+"Signal peptide prediction based on analysis of experimentally
+verified cleavage sites.";
+"Thrombocidins, microbicidal proteins from human blood platelets, are
+C-terminal deletion products of CXC chemokines.";
+"Structural and biological characteristics of connective tissue
+activating peptide (CTAP-III), a major human platelet-derived growth
+factor.";
+"Exploring proteomes and analyzing protein processing by mass
+spectrometric identification of sorted N-terminal peptides.";
+"Complete covalent structure of human beta-thromboglobulin.";
+"Thrombin-activated human platelets release two NAP-2 variants that
+stimulate polymorphonuclear leukocytes.";
+"Connective tissue activation. XXXIII. Biologically active cleavage
+products of CTAP-III from human platelets.";
+"A novel cleavage product of beta-thromboglobulin formed in cultures
+of stimulated mononuclear cells activates human neutrophils.";
+"Limited and defined truncation at the C-terminus enhances receptor
+binding and degranulation activity of the neutrophil-activating
+peptide 2 (NAP-2). Comparison of native and recombinant NAP-2
+variants.";
+"Generation of the neutrophil-activating peptide NAP-2 from platelet
+basic protein or connective tissue-activating peptide III through
+monocyte proteases.";
+"Chemical synthesis, purification, and characterization of two
+inflammatory proteins, neutrophil activating peptide 1 (interleukin-8)
+and neutrophil activating peptide.";
+"Novel C-terminally truncated isoforms of the CXC chemokine beta-
+thromboglobulin and their impact on neutrophil functions.";
+"Purification, crystallization and preliminary X-ray diffraction
+analysis of recombinant human neutrophil-activating peptide 2 (rhNAP-
+2).";
+"The crystal structure of recombinant human neutrophil-activating
+peptide-2 (M6L) at 1.9-A resolution.";
+-!- FUNCTION: LA-PF4 stimulates DNA synthesis, mitosis, glycolysis,
+    intracellular cAMP accumulation, prostaglandin E2 secretion, and
+    synthesis of hyaluronic acid and sulfated glycosaminoglycan. It
+    also stimulates the formation and secretion of plasminogen
+    activator by human synovial cells. NAP-2 is a ligand for CXCR1 and
+    CXCR2, and NAP-2, NAP-2(73), NAP-2(74), NAP-2(1-66), and most
+    potent NAP-2(1-63) are chemoattractants and activators for
+    neutrophils. TC-1 and TC-2 are antibacterial proteins, in vitro
+    released from activated platelet alpha-granules. CTAP-III(1-81) is
+    more potent than CTAP-III desensitize chemokine-induced neutrophil
+    activation.
+-!- SUBUNIT: Beta-thromboglobulin is a homotetramer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- PTM: Proteolytic removal of residues 1-9 produces the active
+    peptide connective tissue-activating peptide III (CTAP-III) (low-
+    affinity platelet factor IV (LA-PF4)).
+-!- PTM: Proteolytic removal of residues 1-13 produces the active
+    peptide beta-thromboglobulin, which is released from platelets
+    along with platelet factor 4 and platelet-derived growth factor.
+-!- PTM: NAP-2(1-66) is produced by proteolytical processing, probably
+    after secretion by leukocytes other than neutrophils.
+-!- PTM: NAP-2(73) and NAP-2(74) seem not be produced by proteolytical
+    processing of secreted precursors but are released in an active
+    form from platelets.
+-!- SIMILARITY: Belongs to the intercrine alpha (chemokine CxC)
+    family.
+ GO:0005355; F:glucose transporter activity; TAS:ProtInc.
+ GO:0015758; P:glucose transport; TAS:ProtInc.
+3D-structure; Antibiotic; Antimicrobial; Chemotaxis; Cytokine;
+Direct protein sequencing; Growth factor; Mitogen; Signal.
+TMZERO

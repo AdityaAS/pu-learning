@@ -1,0 +1,14 @@
+AC   P02505;
+Alpha crystallin A chain.
+"Ratites as oldest offshoot of avian stem -- evidence from alpha-
+crystallin A sequences.";
+"Vertebrate lens alpha-crystallins are modified by O-linked N-
+acetylglucosamine.";
+-!- FUNCTION: May contribute to the transparency and refractive index
+    of the lens.
+-!- PTM: O-glycosylated; contains N-acetylglucosamine side chains.
+-!- SIMILARITY: Belongs to the small heat shock protein (HSP20)
+    family.
+Acetylation; Direct protein sequencing; Eye lens protein;
+Glycoprotein.
+TMZERO

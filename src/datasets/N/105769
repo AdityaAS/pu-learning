@@ -1,0 +1,12 @@
+AC   P98089;
+Intestinal mucin-like protein (MLP) (Fragment).
+"cDNA for the carboxyl-terminal region of a rat intestinal mucin-like
+peptide.";
+-!- SUBUNIT: Multimeric.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Coats the epithelia of the intestines.
+-!- SIMILARITY: Contains 1 CTCK (C-terminal cystine knot-like) domain.
+-!- SIMILARITY: Contains 2 VWFC domains.
+-!- SIMILARITY: Contains 1 VWFD domain.
+Glycoprotein; Repeat.
+TMZERO

@@ -1,0 +1,23 @@
+AC   Q7NLU2;
+Lipoyl synthase 2 (EC 2.8.1.-) (Lipoic acid synthase 2) (Lipoate
+synthase 2) (Lipoyl-acyl-carrier-protein synthase 2) (Sulfur insertion
+protein lipA2) (Lip-syn 2).
+"Complete genome structure of Gloeobacter violaceus PCC 7421, a
+cyanobacterium that lacks thylakoids.";
+-!- FUNCTION: Catalyzes the radical-mediated insertion of two sulfur
+    atoms into an octanoyl group bound to acyl-carrier-protein (ACP)
+    to produce a lipoyl group (By similarity).
+-!- CATALYTIC ACTIVITY: Octanoyl-[acyl-carrier-protein] + 2 sulfurs =
+    lipoyl-[acyl-carrier-protein].
+-!- COFACTOR: Binds 1 4Fe-4S cluster. The cluster is coordinated with
+    3 cysteines and an exchangeable S-adenosyl-L-methionine (By
+    similarity).
+-!- COFACTOR: Binds 1 3Fe-4S cluster (Potential).
+-!- PATHWAY: Lipoate biosynthesis; sulfur-insertion step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the biotin and lipoic acid synthetases
+    family. LipA subfamily.
+ GO:0016783; F:sulfurtransferase activity; IEA:HAMAP.
+3Fe-4S; 4Fe-4S; Complete proteome; Iron; Iron-sulfur; Metal-binding;
+S-adenosyl-L-methionine; Transferase.
+TMZERO

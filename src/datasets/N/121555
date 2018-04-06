@@ -1,0 +1,16 @@
+AC   Q5PDB9;
+Aspartate 1-decarboxylase precursor (EC 4.1.1.11) (Aspartate alpha-
+decarboxylase) [Contains: Aspartate 1-decarboxylase beta chain;
+Aspartate 1-decarboxylase alpha chain].
+"Comparison of genome degradation in Paratyphi A and Typhi, human-
+restricted serovars of Salmonella enterica that cause typhoid.";
+-!- CATALYTIC ACTIVITY: L-aspartate = beta-alanine + CO(2).
+-!- COFACTOR: Pyruvoyl group (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; pantothenate biosynthesis; beta-
+    alanine from L-aspartate: single step.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the panD family.
+ GO:0015940; P:pantothenate biosynthesis; IEA:HAMAP.
+Complete proteome; Decarboxylase; Lyase; Pantothenate biosynthesis;
+Pyruvate; Schiff base; Zymogen.
+TMZERO

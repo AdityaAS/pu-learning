@@ -1,0 +1,21 @@
+AC   O19114;
+Nitric oxide synthase, inducible (EC 1.14.13.39) (NOS type II)
+(Inducible NO synthase) (Inducible NOS) (iNOS) (Fragment).
+"Rabbit iducible nitric oxide synthase gene-NOS II.";
+-!- FUNCTION: Produces nitric oxide (NO) which is a messenger molecule
+    with diverse functions throughout the body.
+-!- CATALYTIC ACTIVITY: L-arginine + n NADPH + m O(2) = citrulline +
+    nitric oxide + n NADP(+).
+-!- COFACTOR: Heme group (By similarity).
+-!- COFACTOR: Binds 1 FAD (By similarity).
+-!- COFACTOR: Binds 1 FMN (By similarity).
+-!- COFACTOR: Metrahydrobiopterin (BH4). May stabilize the dimeric
+    form of the enzyme (By similarity).
+-!- ENZYME REGULATION: Not stimulated by calcium/calmodulin (By
+    similarity).
+-!- SUBUNIT: Homodimer. Binds SLC9A3R1 (By similarity).
+-!- SIMILARITY: Belongs to the NOS family.
+ GO:0004517; F:nitric-oxide synthase activity; IEA:EC.
+Calmodulin-binding; FAD; FMN; Heme; Iron; Metal-binding; NADP;
+Oxidoreductase.
+TMZERO

@@ -1,0 +1,10 @@
+AC   P27374;
+Cell surface glycoprotein precursor (S-layer protein).
+"Analysis and nucleotide sequence of the genes encoding the surface-
+layer glycoproteins of the hyperthermophilic methanogens
+Methanothermus fervidus and Methanothermus sociabilis.";
+-!- SUBUNIT: Assemble into mono-layered crystalline arrays.
+-!- SUBCELLULAR LOCATION: Cell wall.
+-!- PTM: Glycosylated.
+Cell wall; Glycoprotein; S-layer; Signal.
+TMZERO

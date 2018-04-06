@@ -1,0 +1,37 @@
+AC   P37020;
+Protein GEF1 (Voltage-gated chloride channel) (ClC-Y1) (ClC-A).
+"The GEF1 gene of Saccharomyces cerevisiae encodes an integral
+membrane protein; mutations in which have effects on respiration and
+iron-limited growth.";
+"A voltage-gated chloride channel in the yeast Saccharomyces
+cerevisiae.";
+"Analysis of a 42.5 kb DNA sequence of chromosome X reveals three tRNA
+genes and 14 new open reading frames including a gene most probably
+belonging to the family of ubiquitin-protein ligases.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"The yeast Arr4p ATPase binds the chloride transporter Gef1p when
+copper is available in the cytosol.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Transport protein involved in intracellular iron
+    metabolism during growth on fermentable and non fermentable carbon
+    sources. Potential voltage-gated chloride channel.
+-!- SUBUNIT: Homotetramer (Probable). Interacts with GET3.
+-!- INTERACTION:
+    Q12154:YDL100C; NbExp=5; IntAct=EBI-7552, EBI-2989;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the chloride channel (TC 1.A.11) family.
+-!- SIMILARITY: Contains 2 CBS domains.
+ GO:0005768; C:endosome; IDA:SGD.
+ GO:0005794; C:Golgi apparatus; IDA:SGD.
+ GO:0005798; C:Golgi-associated vesicle; TAS:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0005247; F:voltage-gated chloride channel activity; IDA:SGD.
+ GO:0030003; P:cation homeostasis; TAS:SGD.
+ GO:0006878; P:copper ion homeostasis; IMP:SGD.
+ GO:0006879; P:iron ion homeostasis; IMP:SGD.
+CBS domain; Chloride; Chloride channel; Complete proteome;
+Ion transport; Ionic channel; Membrane; Repeat; Transmembrane;
+Transport; Voltage-gated channel.
+TMNINE

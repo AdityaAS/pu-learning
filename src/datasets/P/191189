@@ -1,0 +1,22 @@
+AC   P36029;
+Polyamine transporter TPO5.
+"Sequencing and analysis of a 20.5 kb DNA segment located on the left
+arm of yeast chromosome XI.";
+"Complete DNA sequence of yeast chromosome XI.";
+"A proteomics approach to understanding protein ubiquitination.";
+"Excretion of putrescine and spermidine by the protein encoded by
+YKL174c (TPO5) in Saccharomyces cerevisiae.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Required for polyamine transport. Transports putrescine
+    effectively and spermidine less effectively.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily.
+ GO:0005794; C:Golgi apparatus; IDA:SGD.
+ GO:0015203; F:polyamine transporter activity; IMP:SGD.
+ GO:0015846; P:polyamine transport; IMP:SGD.
+Complete proteome; Golgi apparatus; Membrane; Phosphorylation;
+Transmembrane; Transport.
+TMTWELVE

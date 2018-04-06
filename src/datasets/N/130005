@@ -1,0 +1,27 @@
+AC   P62936; P04374; P10110; Q29580; Q53ZT4;
+Peptidyl-prolyl cis-trans isomerase A (EC 5.2.1.8) (PPIase A)
+(Rotamase A) (Cyclophilin A) (Cyclosporin A-binding protein).
+"Peptidyl-prolyl cis-trans isomerase is the cyclosporin A-binding
+protein cyclophilin.";
+"Evaluation and characterization of a porcine small intestine cDNA
+library: analysis of 839 clones.";
+"Cyclophilin and peptidyl-prolyl cis-trans isomerase are probably
+identical proteins.";
+-!- FUNCTION: PPIases accelerate the folding of proteins. It catalyzes
+    the cis-trans isomerization of proline imidic peptide bonds in
+    oligopeptides.
+-!- CATALYTIC ACTIVITY: Peptidylproline (omega=180) = peptidylproline
+    (omega=0).
+-!- ENZYME REGULATION: Binds cyclosporin A (CsA). CsA mediates some of
+    its effects via an inhibitory action on PPIase.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the cyclophilin-type PPIase family. PPIase
+    A subfamily.
+-!- SIMILARITY: Contains 1 PPIase cyclophilin-type domain.
+ GO:0051082; F:unfolded protein binding; ISS:UniProtKB.
+ GO:0046790; F:virion binding; ISS:UniProtKB.
+ GO:0006457; P:protein folding; ISS:UniProtKB.
+ GO:0045069; P:regulation of viral genome replication; ISS:UniProtKB.
+Acetylation; Cyclosporin; Direct protein sequencing; Isomerase;
+Phosphorylation; Rotamase.
+TMZERO

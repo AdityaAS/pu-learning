@@ -1,0 +1,37 @@
+AC   P33302;
+Suppressor of toxicity of sporidesmin.
+"Molecular cloning and expression of the Saccharomyces cerevisiae STS1
+gene product. A yeast ABC transporter conferring mycotoxin
+resistance.";
+"PDR5, a novel yeast multidrug resistance conferring transporter
+controlled by the transcription regulator PDR1.";
+"Saccharomyces cerevisiae YDR1, which encodes a member of the ATP-
+binding cassette (ABC) superfamily, is required for multidrug
+resistance.";
+"Analysis of a 35.6 kb region on the right arm of Saccharomyces
+cerevisiae chromosome XV.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Global analysis of protein expression in yeast.";
+"A proteomics approach to understanding protein ubiquitination.";
+"A subset of membrane-associated proteins is ubiquitinated in response
+to mutations in the endoplasmic reticulum degradation machinery.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Transporter, whose physiological function is not yet
+    established. Confers resistance to the chemicals cycloheximide and
+    sulfomethuron methyl. Exhibits nucleoside triphosphatase activity.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 42000 molecules/cell.
+-!- SIMILARITY: Belongs to the ABC transporter family. PDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+-!- CAUTION: Ref.3 sequence differs from that shown due to a
+    frameshift in position 61.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; TAS:SGD.
+ GO:0015893; P:drug transport; TAS:SGD.
+Antibiotic resistance; ATP-binding; Complete proteome;
+Cycloheximide resistance; Direct protein sequencing; Glycoprotein;
+Membrane; Nucleotide-binding; Phosphorylation; Repeat; Transmembrane;
+Transport; Ubl conjugation.
+TMTWELVE

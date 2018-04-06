@@ -1,0 +1,8 @@
+AC   O32116;
+UPF0349 protein yuzB.
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- SIMILARITY: Belongs to the UPF0349 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

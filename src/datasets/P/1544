@@ -1,0 +1,29 @@
+AC   P46133; P76051; P76843; P76845;
+Aminobenzoyl-glutamate transport protein.
+"Characterization of mutations that allow p-aminobenzoyl-glutamate
+utilization by Escherichia coli.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Characterisation and nucleotide sequence of ogt, the O6-alkylguanine-
+DNA-alkyltransferase gene of E. coli.";
+"Detection of new genes in a bacterial genome using Markov models for
+three gene classes.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Essential for aminobenzoyl-glutamate utilization. May
+    transport aminobenzoyl-glutamate into the cell. Seems also to
+    increase the sensitivity to low levels of aminobenzoyl-glutamate.
+    Sufficient to confer aminobenzoyl-glutamate utilization phenotype.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: It is suggested that in wild-type strain abgT would
+    normally be cryptic or not expressed under conditions of growth on
+    minimal medium. Altering the expression of abgT from its wild-type
+    context appears to be the mechanism for obtaining the growth
+    phenotype.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTHIRTEEN

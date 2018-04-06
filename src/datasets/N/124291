@@ -1,0 +1,44 @@
+AC   P24102; O80913;
+Peroxidase 22 precursor (EC 1.11.1.7) (Atperox P22) (ATPEa) (Basic
+peroxidase E).
+"Nucleotide sequences of two genomic DNAs encoding peroxidase of
+Arabidopsis thaliana.";
+"Structural diversity and transcription of class III peroxidases from
+Arabidopsis thaliana.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Gene structures of peroxidase isoenzymes in horseradish and
+Arabidopsis thaliana and their expression.";
+"Toward elucidating the global gene expression patterns of developing
+Arabidopsis: parallel analysis of 8300 genes by a high-density
+oligonucleotide probe array.";
+"Cis-regulatory elements of the peroxidase gene in Arabidopsis
+thaliana involved in root-specific expression and responsiveness to
+high-salt stress.";
+"Computational analyses and annotations of the Arabidopsis peroxidase
+gene family.";
+"Analysis and expression of the class III peroxidase large gene family
+in Arabidopsis thaliana.";
+-!- FUNCTION: Removal of H(2)O(2), oxidation of toxic reductants,
+    biosynthesis and degradation of lignin, suberization, auxin
+    catabolism, response to environmental stresses such as wounding,
+    pathogen attack and oxidative stress. These functions might be
+    dependent on each isozyme/isoform in each plant tissue.
+-!- CATALYTIC ACTIVITY: Donor + H(2)O(2) = oxidized donor + 2 H(2)O.
+-!- COFACTOR: Binds 1 heme B (iron-protoporphyrin IX) group per
+    subunit (By similarity).
+-!- COFACTOR: Binds 2 calcium ions per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (Probable). Vacuole
+    (Probable). Note=Carboxy-terminal extension appears to target the
+    protein to vacuoles.
+-!- TISSUE SPECIFICITY: Mainly expressed in roots.
+-!- INDUCTION: Responsiveness to high-salt stress.
+-!- MISCELLANEOUS: There are 73 peroxidase genes in A.thaliana.
+-!- SIMILARITY: Belongs to the peroxidase family. Classical plant
+    (class III) peroxidase subfamily.
+Calcium; Glycoprotein; Heme; Hydrogen peroxide; Iron; Metal-binding;
+Oxidoreductase; Peroxidase; Pyrrolidone carboxylic acid; Signal;
+Vacuole.
+TMZERO

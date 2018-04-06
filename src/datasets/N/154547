@@ -1,0 +1,27 @@
+AC   Q9RY49;
+50S ribosomal protein L9.
+"Genome sequence of the radioresistant bacterium Deinococcus
+radiodurans R1.";
+"High resolution structure of the large ribosomal subunit from a
+mesophilic eubacterium.";
+"Structural basis for the interaction of antibiotics with the peptidyl
+transferase centre in eubacteria.";
+"Structural basis of the ribosomal machinery for peptide bond
+formation, translocation, and nascent chain progression.";
+"Structural basis for the antibiotic activity of ketolides and
+azalides.";
+"Structural insight into the role of the ribosomal tunnel in cellular
+regulation.";
+"Alterations at the peptidyl transferase centre of the ribosome
+induced by the synergistic action of the streptogramins dalfopristin
+and quinupristin.";
+"Inhibition of peptide bond formation by pleuromutilins: the structure
+of the 50S ribosomal subunit from Deinococcus radiodurans in complex
+with tiamulin.";
+-!- FUNCTION: Binds to the 23S rRNA and protein L31.
+-!- SUBUNIT: Part of the 50S ribosomal subunit. Contacts protein L31.
+-!- SIMILARITY: Belongs to the ribosomal protein L9P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ribonucleoprotein; Ribosomal protein; RNA-binding; rRNA-binding.
+TMZERO

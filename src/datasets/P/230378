@@ -1,0 +1,17 @@
+AC   O34315;
+Probable amino-acid ABC transporter permease protein ytmL.
+"Sequencing and functional annotation of the Bacillus subtilis genes
+in the 200 kb rrnB-dnaB region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Probably part of the binding-protein-dependent transport
+    system ytmKLMN for an amino acid. Probably responsible for the
+    translocation of the substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Complete proteome; Hypothetical protein;
+Membrane; Transmembrane; Transport.
+TMFOUR

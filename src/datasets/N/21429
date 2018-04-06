@@ -1,0 +1,17 @@
+AC   Q8FJ50;
+Curved DNA-binding protein.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: DNA-binding protein that preferentially recognizes a
+    curved DNA sequence. It is probably a functional analog of dnaJ;
+    displays overlapping activities with dnaJ, but functions under
+    different conditions, probably acting as a molecular chaperone in
+    an adaptive response to environmental stresses other than heat
+    shock. Lacks autonomous chaperone activity; binds native
+    substrates and targets them for recognition by dnaK. Its activity
+    is inhibited by the binding of cbpM (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm; nucleoid (By similarity).
+-!- SIMILARITY: Contains 1 J domain.
+ GO:0003681; F:bent DNA binding; IEA:HAMAP.
+Chaperone; Complete proteome; DNA-binding.
+TMZERO

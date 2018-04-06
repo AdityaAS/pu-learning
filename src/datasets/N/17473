@@ -1,0 +1,17 @@
+AC   P55105;
+Bone morphogenetic protein 8B precursor (BMP-8B).
+"Evidence that mouse Bmp8a (Op2) and Bmp8b are duplicated genes that
+play a role in spermatogenesis and placental development.";
+-!- FUNCTION: Induces cartilage and bone formation. May be the
+    osteoinductive factor responsible for the phenomenon of epithelial
+    osteogenesis. Plays a role in calcium regulation and bone
+    homeostasis (By similarity).
+-!- SUBUNIT: Homodimer; disulfide-linked.
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- SIMILARITY: Belongs to the TGF-beta family.
+ GO:0005125; F:cytokine activity; TAS:MGI.
+ GO:0007283; P:spermatogenesis; IMP:MGI.
+ GO:0007179; P:transforming growth factor beta receptor si...; TAS:MGI.
+Chondrogenesis; Cytokine; Developmental protein; Differentiation;
+Glycoprotein; Growth factor; Osteogenesis; Signal.
+TMZERO

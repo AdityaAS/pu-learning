@@ -1,0 +1,10 @@
+AC   P22620;
+101 kDa malaria antigen (p101) (Acidic basic repeat antigen).
+"Primary structure of a Plasmodium falciparum malaria antigen located
+at the merozoite surface and within the parasitophorous vacuole.";
+-!- SUBCELLULAR LOCATION: Cell surface. Vacuole; parasitophorous
+    vacuole. Note=At the merozoite surface and within the
+    parasitophorous vacuole.
+-!- PTM: Not glycosylated (Probable).
+Malaria; Repeat; Vacuole.
+TMZERO

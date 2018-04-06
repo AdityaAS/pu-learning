@@ -1,0 +1,16 @@
+AC   Q645V7;
+Taste receptor type 2 member 50 (T2R50).
+"Evolution of bitter taste receptors in humans and apes.";
+-!- FUNCTION: Receptor that may play a role in the perception of
+    bitterness and is gustducin-linked. May play a role in sensing the
+    chemical composition of the gastrointestinal content. The activity
+    of this receptor may stimulate alpha gustducin, mediate PLC-beta-2
+    activation and lead to the gating of TRPM5 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Most taste cells may be activated by a limited
+    number of bitter compounds; individual taste cells can
+    discriminate among bitter stimuli.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor T2R family.
+G-protein coupled receptor; Glycoprotein; Membrane; Receptor;
+Sensory transduction; Taste; Transducer; Transmembrane.
+TMSEVEN

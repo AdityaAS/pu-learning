@@ -1,0 +1,29 @@
+AC   Q9DCP2; Q8BS53; Q9JLL8;
+System N amino acid transporter 1 (SN1) (N-system amino acid
+transporter 1) (Solute carrier family 38 member 3) (mNAT).
+"Identification and characterization of an amino acid transporter
+expressed differentially in liver.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Sodium-dependent amino acid/proton antiporter. Mediates
+    electrogenic cotransport of glutamine and sodium ions in exchange
+    for protons. Also recognizes histidine, asparagine and alanine.
+    May mediate amino acid transport in either direction under
+    physiological conditions. May play a role in nitrogen metabolism
+    and synaptic transmission.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed predominantly in liver, moderately
+    expressed in kidney and brain, and barely detectable in heart and
+    muscle. Within liver, expressed in hepatocytes. Not detected in
+    testis.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family.
+ GO:0005887; C:integral to plasma membrane; IDA:MGI.
+ GO:0015186; F:L-glutamine transporter activity; IDA:MGI.
+ GO:0005290; F:L-histidine transporter activity; IDA:MGI.
+ GO:0006868; P:glutamine transport; IDA:MGI.
+ GO:0015817; P:histidine transport; IDA:MGI.
+Amino-acid transport; Antiport; Glycoprotein; Ion transport; Membrane;
+Sodium; Sodium transport; Symport; Transmembrane; Transport.
+TMELEVEN

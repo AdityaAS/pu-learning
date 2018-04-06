@@ -1,0 +1,71 @@
+AC   Q06986;
+E3 ubiquitin-protein ligase SIAH2 (EC 6.3.2.-) (Seven in absentia
+homolog 2) (Siah-2) (mSiah2).
+"Isolation and characterisation of murine homologues of the Drosophila
+seven in absentia gene (sina).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Expression of Siah-2, a vertebrate homologue of Drosophila sina, in
+germ cells of the mouse ovary and testis.";
+"Proteasomal regulation of nuclear receptor corepressor-mediated
+repression.";
+"Pw1/Peg3 is a potential cell death mediator and cooperates with
+Siah1a in p53-mediated apoptosis.";
+"Alteration of the stability of Bag-1 protein in the control of
+olfactory neuronal apoptosis.";
+"Normal p53 function in primary cells deficient for Siah genes.";
+"Generation and analysis of Siah2 mutant mice.";
+"The coiled-coil domain is the structural determinant for mammalian
+homologues of Drosophila Sina-mediated degradation of promyelocytic
+leukemia protein and other tripartite motif proteins by the
+proteasome.";
+-!- FUNCTION: E3 ubiquitin-protein ligase that mediates ubiquitination
+    and subsequent proteasomal degradation of target proteins. E3
+    ubiquitin ligases accept ubiquitin from an E2 ubiquitin-
+    conjugating enzyme in the form of a thioester and then directly
+    transfers the ubiquitin to targeted substrates. Mediates E3
+    ubiquitin ligase activity either through direct binding to
+    substrates or by functioning as the essential RING domain subunit
+    of larger E3 complexes. Triggers the ubiquitin-mediated
+    degradation of many substrates, including proteins involved in
+    transcription regulation (POU2AF1, PML, NCOR1), a cell surface
+    receptor (DCC), an antiapoptotic protein (BAG1), and a protein
+    involved in synaptic vesicle function in neurons (SYP). It is
+    thereby involved in apoptosis, tumor suppression, cell cycle,
+    transcription and signaling processes. Has some overlapping
+    function with SIAH1. Triggers the ubiquitin-mediated degradation
+    of TRAF2, whereas SIAH1 can not.
+-!- PATHWAY: Ubiquitin conjugation; third step.
+-!- SUBUNIT: Homodimer. Interacts with UBE2E2. Interacts with VAV1,
+    without mediating its ubiquitin-mediated degradation. Interacts
+    with CACYBP/SIP. Probable component of some large E3 complex
+    possibly composed of UBE2D1, SIAH2, CACYBP/SIP, SKP1A, APC and
+    TBL1X. Interacts with UBE2I. Interacts with PEG10, which may
+    inhibit its activity (By similarity). Interacts with PEG3.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity). Note=Predominantly cytoplasmic (By similarity).
+    Partially nuclear (By similarity).
+-!- TISSUE SPECIFICITY: Widely expressed at low level in embryos and
+    adults. Expressed in a specific population of germ cells within
+    both the mouse ovary and testis. Absent in primordial oocytes but
+    expressed in all growing oocytes, coincident with their
+    recruitment from the pool of quiescent cells. Its level of
+    expression increases as the oocytes mature. Expressed in Graafian
+    follicles and in fertilized zygotes up until the two cell stage, a
+    time of extensive maternal transcript degradation and zygotic gene
+    activation. Expressed in the testis from postmeiotic spermatids.
+-!- INDUCTION: May be induced by TP53/p53, suggesting that it may be
+    required to modulate TP53 response. The relevance of such activity
+    in vivo is however unclear and may not exist.
+-!- DOMAIN: The RING-type zinc finger domain is essential for
+    ubiquitin ligase activity.
+-!- DOMAIN: The SBD domain (substrate-binding domain) mediates the
+    homodimerization and the interaction with substrate proteins. It
+    is related to the TRAF family (By similarity).
+-!- SIMILARITY: Belongs to the SINA (Seven in absentia) family.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+-!- SIMILARITY: Contains 1 SIAH-type zinc finger.
+ GO:0004842; F:ubiquitin-protein ligase activity; TAS:MGI.
+Apoptosis; Cell cycle; Ligase; Metal-binding; Nuclear protein;
+Ubl conjugation pathway; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,23 @@
+AC   P25396; P76864;
+Tellurite resistance protein tehA.
+"Nucleotide sequence and overexpression of the tellurite-resistance
+determinant from the IncHII plasmid pHH1508a.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Location of a potassium tellurite resistance operon (tehA tehB)
+within the terminus of Escherichia coli K-12.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Responsible for potassium tellurite resistance when
+    present in high copy number, probably by increasing the reduction
+    rate of tellurite to metallic tellurium within the bacterium.
+    Otherwise, phenotypically silent.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- CAUTION: Was originally (Ref.1) thought to be plasmid encoded.
+Antibiotic resistance; Complete proteome; Inner membrane; Membrane;
+Tellurium resistance; Transmembrane.
+TMEIGHT

@@ -1,0 +1,32 @@
+AC   Q63484;
+RAC-gamma serine/threonine-protein kinase (EC 2.7.11.1) (RAC-PK-gamma)
+(Protein kinase Akt-3) (Protein kinase B, gamma) (PKB gamma).
+"Genome sequence of the Brown Norway rat yields insights into
+mammalian evolution.";
+"Molecular cloning and characterization of a new member of the RAC
+protein kinase family: association of the pleckstrin homology domain
+of three types of RAC protein kinase with protein kinase C subspecies
+and beta gamma subunits of G proteins.";
+-!- FUNCTION: IGF-1 leads to the activation of AKT3, which may play a
+    role in regulating cell survival. Capable of phosphorylating
+    several known proteins (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- ENZYME REGULATION: Two specific sites, one in the kinase domain
+    (Thr-305) and the other in the C-terminal regulatory region (Ser-
+    472), need to be phosphorylated for its full activation (By
+    similarity).
+-!- DOMAIN: Binding of the PH domain to the phosphatidylinositol 3-
+    kinase alpha (PI(3)K) results in its targeting to the plasma
+    membrane.
+-!- PTM: Phosphorylated on threonine and serine residues.
+    Phosphorylation on both sites is required for full activity.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. RAC
+    subfamily.
+-!- SIMILARITY: Contains 1 PH domain.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005515; F:protein binding; IDA:RGD.
+ GO:0005080; F:protein kinase C binding; IDA:RGD.
+ GO:0004674; F:protein serine/threonine kinase activity; IDA:RGD.
+ATP-binding; Kinase; Nucleotide-binding; Phosphorylation;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

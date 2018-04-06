@@ -1,0 +1,8 @@
+AC   Q9V0N8;
+UPF0217 protein PYRAB07510.
+"An integrated analysis of the genome of the hyperthermophilic
+archaeon Pyrococcus abyssi.";
+-!- SIMILARITY: Belongs to the UPF0217 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

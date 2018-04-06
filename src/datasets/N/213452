@@ -1,0 +1,8 @@
+AC   O84213;
+UPF0301 protein CT_211.
+"Genome sequence of an obligate intracellular pathogen of humans:
+Chlamydia trachomatis.";
+-!- SIMILARITY: Belongs to the UPF0301 (algH) family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

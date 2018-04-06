@@ -1,0 +1,78 @@
+AC   Q16595; O15545; O95656; Q15294;
+Frataxin, mitochondrial precursor (Friedreich ataxia protein) (Fxn)
+[Contains: Frataxin intermediate form].
+"Friedreich's ataxia: autosomal recessive disease caused by an
+intronic GAA triplet repeat expansion.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Correct sequence in exon 5a of x25: human frataxin (FRDA),
+F175(TTC)-->Y175(TAC) and W202(TGG)-->S202(TCC).";
+"A novel splice site mutation (384+1G-A) in the Friedreich's ataxia
+gene.";
+"Frataxin is reduced in Friedreich ataxia patients and is associated
+with mitochondrial membranes.";
+"Studies of human, mouse and yeast homologues indicate a mitochondrial
+function for frataxin.";
+"Maturation of frataxin within mammalian and yeast mitochondria: one-
+step processing by matrix processing peptidase.";
+"Yeast and human frataxin are processed to mature form in two
+sequential steps by the mitochondrial processing peptidase.";
+"Two-step processing of human frataxin by mitochondrial processing
+peptidase. Precursor and intermediate forms are cleaved at different
+rates.";
+"A pool of extramitochondrial frataxin that promotes cell survival.";
+"Crystal structure of human frataxin.";
+"Towards a structural understanding of Friedreich's ataxia: the
+solution structure of frataxin.";
+"Atypical Friedreich ataxia caused by compound heterozygosity for a
+novel missense mutation and the GAA triplet-repeat expansion.";
+"Identification of a missense mutation in a Friedreich's ataxia
+patient: implications for diagnosis and carrier studies.";
+"The correlation of clinical phenotype in Friedreich ataxia with the
+site of point mutations in the FRDA gene.";
+"Friedreich's ataxia: point mutations and clinical presentation of
+compound heterozygotes.";
+"A missense mutation (W155R) in an American patient with Friedreich's
+ataxia.";
+"A novel missense mutation (L198R) in the Friedreich's ataxia gene.";
+-!- FUNCTION: Probably involved in iron homeostasis. Anti-apoptotic
+    protein which prevents mitochondrial damage and reactive oxygen
+    species (ROS) production.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Mitochondrion. Note=Mitochondrial and
+    extramitochondrial.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q16595-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q16595-2; Sequence=VSP_001576;
+      Note=Not highly expressed and may be artifactual;
+-!- PTM: Processed in two steps by mitochondrial processing peptidase
+    (MPP). MPP first cleaves the precursor to intermediate form and
+    subsequently converts the intermediate to mature size protein.
+-!- DISEASE: Defects in FXN are the cause of Friedreich ataxia (FA)
+    [MIM:229300]. FA is an autosomal recessive, progressive
+    degenerative disease characterized by neurodegeneration and
+    cardiomyopathy it is the most common inherited ataxia. The
+    disorder is usually manifest before adolescence and is generally
+    characterized by incoordination of limb movements, dysarthria,
+    nystagmus, diminished or absent tendon reflexes, Babinski sign,
+    impairment of position and vibratory senses, scoliosis, pes cavus,
+    and hammer toe. In most patients, FA is due to GAA triplet repeat
+    expansions in the first intron of the frataxin gene. But in some
+    cases the disease is due to mutations in the coding region.
+-!- SIMILARITY: Belongs to the frataxin family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=FXN".
+ GO:0005739; C:mitochondrion; TAS:ProtInc.
+ GO:0009055; F:electron carrier activity; TAS:ProtInc.
+ GO:0004428; F:inositol or phosphatidylinositol kinase act...; TAS:ProtInc.
+ GO:0005381; F:iron ion transporter activity; TAS:ProtInc.
+ GO:0006118; P:electron transport; TAS:ProtInc.
+ GO:0006879; P:iron ion homeostasis; TAS:ProtInc.
+ GO:0007268; P:synaptic transmission; TAS:ProtInc.
+ GO:0016192; P:vesicle-mediated transport; TAS:ProtInc.
+3D-structure; Alternative splicing; Disease mutation; Mitochondrion;
+Transit peptide; Triplet repeat expansion.
+TMZERO

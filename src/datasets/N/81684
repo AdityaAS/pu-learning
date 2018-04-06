@@ -1,0 +1,22 @@
+AC   Q02955;
+Interleukin-1 receptor type I precursor (IL-1R-1) (p80) (CD121a
+antigen).
+"An mRNA homologous to interleukin-1 receptor type I is expressed in
+cultured rat sympathetic ganglia.";
+-!- FUNCTION: Receptor for interleukin-1 alpha (IL-1A), beta (IL-1B),
+    and interleukin-1 receptor antagonist protein (IL-1RA). Binding to
+    the agonist leads to the activation of NF-kappa-B. Signaling
+    involves formation of a ternary complex containing IL1RAP, TOLLIP,
+    MYD88, and IRAK1 or IRAK2 (By similarity).
+-!- SUBUNIT: Binds IL1RAP (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- SIMILARITY: Belongs to the interleukin-1 receptor family.
+-!- SIMILARITY: Contains 3 Ig-like C2-type (immunoglobulin-like)
+    domains.
+-!- SIMILARITY: Contains 1 TIR domain.
+ GO:0004908; F:interleukin-1 receptor activity; IPI:RGD.
+ GO:0019221; P:cytokine and chemokine mediated signaling p...; IPI:RGD.
+Glycoprotein; Immunoglobulin domain; Membrane; Phosphorylation;
+Receptor; Repeat; Signal; Transmembrane.
+TMONE

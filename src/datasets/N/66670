@@ -1,0 +1,21 @@
+AC   P46091; Q53TR9; Q6NVX4;
+Probable G-protein coupled receptor 1.
+"Cloning of human genes encoding novel G protein-coupled receptors.";
+"Generation and annotation of the DNA sequences of human chromosomes 2
+and 4.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"An orphan G protein-coupled receptor, GPR1, acts as a coreceptor to
+allow replication of human immunodeficiency virus types 1 and 2 in
+brain-derived cells.";
+-!- FUNCTION: Orphan receptor. Probable opioid receptor. Can act as a
+    co-receptor for HIV-1.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in hippocampus.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0004930; F:G-protein coupled receptor activity; TAS:ProtInc.
+ GO:0007186; P:G-protein coupled receptor protein signalin...; TAS:ProtInc.
+G-protein coupled receptor; Glycoprotein; Membrane; Polymorphism;
+Receptor; Transducer; Transmembrane.
+TMSEVEN

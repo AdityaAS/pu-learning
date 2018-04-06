@@ -1,0 +1,24 @@
+AC   Q00637; Q9V7T8;
+Superoxide dismutase [Mn], mitochondrial precursor (EC 1.15.1.1).
+"A manganese superoxide dismutase-encoding cDNA from Drosophila
+melanogaster.";
+"Sequence analysis of a genomic clone encoding for manganese
+superoxide dismutase (mnSOD) in D. melanogaster.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A comparison of evolutionary rates of the two major kinds of
+superoxide dismutase.";
+-!- FUNCTION: Destroys radicals which are normally produced within the
+    cells and which are toxic to biological systems.
+-!- CATALYTIC ACTIVITY: 2 superoxide + 2 H(+) = O(2) + H(2)O(2).
+-!- COFACTOR: Binds 1 manganese ion per subunit (By similarity).
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix.
+-!- SIMILARITY: Belongs to the iron/manganese superoxide dismutase
+    family.
+ GO:0016209; F:antioxidant activity; NAS:FlyBase.
+ GO:0008340; P:determination of adult life span; IMP:FlyBase.
+Complete proteome; Manganese; Metal-binding; Mitochondrion;
+Oxidoreductase; Transit peptide.
+TMZERO

@@ -1,0 +1,10 @@
+AC   P08097;
+Mobilization protein mobB (Protein C).
+"Structure and nucleotide sequence of the region encoding the
+mobilization proteins of plasmid CloDF13.";
+"The complete nucleotide sequence of the bacteriocinogenic plasmid
+CloDF13.";
+-!- FUNCTION: This protein is essential to promote the specific
+    transfer of the plasmid in the presence of conjugative plasmids.
+Conjugation; Mobility protein; Plasmid.
+TMZERO

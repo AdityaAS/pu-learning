@@ -1,0 +1,13 @@
+AC   P49583;
+Putative choline-phosphate cytidylyltransferase (EC 2.7.7.15)
+(Phosphorylcholine transferase) (CTP:phosphocholine
+cytidylyltransferase) (CT) (CCT).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- CATALYTIC ACTIVITY: CTP + choline phosphate = diphosphate + CDP-
+    choline.
+-!- SIMILARITY: Belongs to the cytidylyltransferase family.
+ GO:0004105; F:choline-phosphate cytidylyltransferase acti...; IEA:EC.
+Complete proteome; Hypothetical protein; Nucleotidyltransferase;
+Phospholipid biosynthesis; Transferase.
+TMZERO

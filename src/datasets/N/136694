@@ -1,0 +1,34 @@
+AC   P21264;
+Phosphoribosylaminoimidazole carboxylase (EC 4.1.1.21) (AIR
+carboxylase) (AIRC).
+"The ADE2 gene from Saccharomyces cerevisiae: sequence and new
+vectors.";
+"Molecular cloning and analysis of autonomous replicating sequence of
+Candida maltosa.";
+"Sequencing and analysis of 51 kb on the right arm of chromosome XV
+from Saccharomyces cerevisiae reveals 30 open reading frames.";
+"DNA sequencing and analysis of 130 kb from yeast chromosome XV.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-
+    carboxylate = 5-amino-1-(5-phospho-D-ribosyl)imidazole + CO(2).
+-!- PATHWAY: Nucleotide biosynthesis; IMP biosynthesis; 5-amino-1-(5-
+    phospho-D-ribosyl)imidazole-4-carboxamide from 2-N-formyl-1-N-(5-
+    phospho-D-ribosyl)glycinamide: step 3.
+-!- PATHWAY: Context: Purine biosynthesis.
+-!- INTERACTION:
+    P39995:EAF5; NbExp=1; IntAct=EBI-14252, EBI-22312;
+    P50113:LYS5; NbExp=1; IntAct=EBI-14252, EBI-10282;
+    P38633:SOH1; NbExp=1; IntAct=EBI-14252, EBI-17658;
+    P20424:SRP54; NbExp=1; IntAct=EBI-14252, EBI-17997;
+    Q05027:TAF9; NbExp=1; IntAct=EBI-14252, EBI-27500;
+    P87282:YDR271C; NbExp=1; IntAct=EBI-14252, EBI-36717;
+-!- MISCELLANEOUS: Present with 5410 molecules/cell.
+-!- SIMILARITY: In the C-terminal section; belongs to the AIR
+    carboxylase family.
+-!- SIMILARITY: Contains 1 ATP-grasp domain.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006144; P:purine base metabolism; IMP:SGD.
+Complete proteome; Decarboxylase; Lyase; Purine biosynthesis.
+TMZERO

@@ -1,0 +1,38 @@
+AC   P47045;
+Mitochondrial import inner membrane translocase subunit TIM54.
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"The Tim54p-Tim22p complex mediates insertion of proteins into the
+mitochondrial inner membrane.";
+"Biogenesis of Tim proteins of the mitochondrial carrier import
+pathway: differential targeting mechanisms and crossing over with the
+main import pathway.";
+"Tim18p is a new component of the Tim54p-Tim22p translocon in the
+mitochondrial inner membrane.";
+"Tim18p, a new subunit of the TIM22 complex that mediates insertion of
+imported proteins into the yeast mitochondrial inner membrane.";
+"Tim22, the essential core of the mitochondrial protein insertion
+complex, forms a voltage-activated and signal-gated channel.";
+"Global analysis of protein localization in budding yeast.";
+"Protein insertion into the mitochondrial inner membrane by a twin-
+pore translocase.";
+-!- FUNCTION: Essential component of the TIM22 complex, a complex that
+    mediates the import and insertion of multi-pass transmembrane
+    proteins into the mitochondrial inner membrane. The TIM22 complex
+    forms a twin-pore translocase that uses the membrane potential as
+    external driving force. Its precise function within the TIM22
+    complex is unclear.
+-!- SUBUNIT: Component of the TIM22 complex, whose core is composed of
+    TIM18, TIM22 and TIM54, associated with the peripheral proteins
+    MRS5/TIM12 and the 70 kDa heterohexamer composed of TIM9 and TIM10
+    (or TIM8 and TIM13).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    single-pass membrane protein. Note=Import into inner membrane
+    protein requires TOM70 function.
+-!- SIMILARITY: Belongs to the TIM54 family.
+ GO:0042721; C:mitochondrial inner membrane protein insert...; IDA:SGD.
+ GO:0008565; F:protein transporter activity; IGI:SGD.
+ GO:0045039; P:protein import into mitochondrial inner mem...; IGI:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Protein transport; Translocation; Transmembrane; Transport.
+TMONE

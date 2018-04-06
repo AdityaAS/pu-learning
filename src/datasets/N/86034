@@ -1,0 +1,19 @@
+AC   P39069; Q5EBC5; Q9JJN3;
+Adenylate kinase isoenzyme 1 (EC 2.7.4.3) (ATP-AMP transphosphorylase)
+(AK1) (Myokinase).
+"Rat adenylate kinase isozyme 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Tissue-specific and developmentally regulated expression of the genes
+encoding adenylate kinase isozymes.";
+-!- FUNCTION: This small ubiquitous enzyme is essential for
+    maintenance and cell growth.
+-!- CATALYTIC ACTIVITY: ATP + AMP = 2 ADP.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the adenylate kinase family.
+ GO:0004017; F:adenylate kinase activity; IDA:RGD.
+ GO:0046083; P:adenine metabolism; NAS:RGD.
+Acetylation; ATP-binding; Direct protein sequencing; Kinase;
+Nucleotide-binding; Transferase.
+TMZERO

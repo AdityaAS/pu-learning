@@ -1,0 +1,24 @@
+AC   P45946;
+Arsenite resistance protein arsB.
+"Complete nucleotide sequence of a skin element excised by DNA
+rearrangement during sporulation in Bacillus subtilis.";
+"Systematic sequencing of the 283 kb 210 degrees-232 degrees region of
+the Bacillus subtilis genome containing the skin element and many
+sporulation genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Analysis of a Bacillus subtilis genome fragment using a co-operative
+computer system prototype.";
+"The ars operon in the skin element of Bacillus subtilis confers
+resistance to arsenate and arsenite.";
+-!- FUNCTION: Seems to confer resistance to arsenite by allowing cells
+    to extrude this compound. Could be part of an arsenite extrusion
+    pump.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Deletion of the arsB gene results in both an
+    aresenite- and arsenate-sensitive phenotype in the absence of
+    IPTG.
+-!- SIMILARITY: Belongs to the ACR3 family.
+Arsenical resistance; Complete proteome; Membrane; Transmembrane.
+TMELEVEN

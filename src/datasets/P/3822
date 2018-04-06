@@ -1,0 +1,13 @@
+AC   P0A2U7; O87862;
+Zinc transport system ATP-binding protein adcC.
+"The adc locus, which affects competence for genetic transformation in
+Streptococcus pneumoniae, encodes an ABC transporter with a putative
+lipoprotein homologous to a family of streptococcal adhesins.";
+"Genome of the bacterium Streptococcus pneumoniae strain R6.";
+-!- FUNCTION: Part of the ATP-driven transport system adcABC for zinc.
+    Required for transformability (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Competence; Complete proteome; Ion transport;
+Nucleotide-binding; Transport; Zinc; Zinc transport.
+TMZERO

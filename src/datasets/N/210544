@@ -1,0 +1,8 @@
+AC   Q72SJ7;
+UPF0296 protein LIC_11384.
+"Comparative genomics of two Leptospira interrogans serovars reveals
+novel insights into physiology and pathogenesis.";
+-!- SIMILARITY: Belongs to the UPF0296 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

@@ -1,0 +1,23 @@
+AC   Q99176; Q02806;
+Protein SRN2 (Vacuolar protein sorting-associated protein 37).
+"Isolation of an extragenic suppressor of the rna1-1 mutation in
+Saccharomyces cerevisiae.";
+"Sequence analysis of a 37.6 kbp cosmid clone from the right arm of
+Saccharomyces cerevisiae chromosome XII, carrying YAP3, HOG1, SNR6,
+tRNA-Arg3 and 23 new open reading frames, among which several
+homologies to proteins involved in cell division control and to
+mammalian growth factors and other animal proteins are found.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+-!- FUNCTION: Required for normal endocytic and biosynthetic traffic
+    to the yeast vacuole.
+-!- SUBUNIT: Component of ESCRT-I, endosomal sorting complex required
+    for transport I, which consists of STP22, VPS28 and SRN2.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+ GO:0005768; C:endosome; IPI:SGD.
+ GO:0000813; C:ESCRT I complex; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:SGD.
+ GO:0006612; P:protein targeting to membrane; IMP:SGD.
+ GO:0006623; P:protein targeting to vacuole; IMP:SGD.
+ GO:0043162; P:ubiquitin-dependent protein catabolism via ...; IC:SGD.
+3D-structure; Complete proteome; Protein transport; Transport.
+TMZERO

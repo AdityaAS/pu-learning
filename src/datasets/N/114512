@@ -1,0 +1,65 @@
+AC   Q03351;
+NT-3 growth factor receptor precursor (EC 2.7.10.1) (Neurotrophic
+tyrosine kinase receptor type 3) (TrkC tyrosine kinase) (GP145-TrkC)
+(Trk-C).
+"Molecular cloning of rat trkC and distribution of cells expressing
+messenger RNAs for members of the trk family in the rat central
+nervous system.";
+"Alternative forms of rat TrkC with different functional
+capabilities.";
+"The rat trkC locus encodes multiple neurogenic receptors that exhibit
+differential response to neurotrophin-3 in PC12 cells.";
+"Identification and characterization of novel substrates of Trk
+receptors in developing neurons.";
+"Association of the atypical protein kinase C-interacting protein
+p62/ZIP with nerve growth factor receptor TrkA regulates receptor
+trafficking and Erk5 signaling.";
+-!- FUNCTION: Receptor for neurotrophin-3 (NTF3). This is a tyrosine-
+    protein kinase receptor. Known substrates for the TRK receptors
+    are SHC1, PI-3 kinase, and PLCG1. TrkC isoforms containing
+    insertions within the kinase domain can autophosphorylate in
+    response to NT-3, but cannot mediate downstream phenotypic
+    responses.
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- SUBUNIT: Exists in a dynamic equilibrium between monomeric (low
+    affinity) and dimeric (high affinity) structures. Binds SH2B2.
+    Interacts with SQSTM1.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=8;
+      Comment=Additional isoforms seem to exist;
+    Name=KI39; Synonyms=TRKC(KI39), TRKC-39;
+      IsoId=Q03351-1; Sequence=Displayed;
+    Name=TRKC;
+      IsoId=Q03351-2; Sequence=VSP_002936, VSP_002937;
+    Name=KI14; Synonyms=TRKC(KI14), TRKC-14;
+      IsoId=Q03351-3; Sequence=VSP_002936;
+    Name=KI25; Synonyms=TRKC-25;
+      IsoId=Q03351-4; Sequence=VSP_002937;
+    Name=IC158; Synonyms=TRKC(IC158), TRKCTK-;
+      IsoId=Q03351-5; Sequence=VSP_002934, VSP_002935;
+    Name=IC143; Synonyms=TRKC(IC143);
+      IsoId=Q03351-6; Sequence=VSP_002932, VSP_002933;
+    Name=IC113; Synonyms=TRKC(IC113);
+      IsoId=Q03351-7; Sequence=VSP_002930, VSP_002931;
+    Name=IC108; Synonyms=TRKC(IC108);
+      IsoId=Q03351-8; Sequence=VSP_002928, VSP_002929;
+-!- TISSUE SPECIFICITY: Widely expressed, mainly in the nervous
+    tissue.
+-!- PTM: Ligand-mediated auto-phosphorylation.
+-!- SIMILARITY: Belongs to the Tyr protein kinase family. Insulin
+    receptor subfamily.
+-!- SIMILARITY: Contains 2 Ig-like C2-type (immunoglobulin-like)
+    domains.
+-!- SIMILARITY: Contains 2 LRR (leucine-rich) repeats.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005030; F:neurotrophin receptor activity; IMP:RGD.
+ GO:0046777; P:protein amino acid autophosphorylation; IMP:RGD.
+Alternative splicing; ATP-binding; Developmental protein;
+Differentiation; Glycoprotein; Immunoglobulin domain; Kinase;
+Leucine-rich repeat; Membrane; Neurogenesis; Nucleotide-binding;
+Phosphorylation; Receptor; Repeat; Signal; Transferase; Transmembrane;
+Tyrosine-protein kinase.
+TMONE

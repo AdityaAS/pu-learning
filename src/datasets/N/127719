@@ -1,0 +1,49 @@
+AC   P34331; O61662; O76763;
+Serine/threonine-protein kinase plk-1 (EC 2.7.11.21) (Polo-like kinase
+1).
+"Caenorhabditis elegans contains structural homologs of human prk and
+plk.";
+"The polo-like kinase PLK-1 is required for nuclear envelope breakdown
+and the completion of meiosis in Caenorhabditis elegans.";
+"2.2 Mb of contiguous nucleotide sequence from chromosome III of C.
+elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Required for oocyte nuclear envelope breakdown before
+    entry of oocyte into spermatheca. In mitotic cells, plays a role
+    in spindle organization and centrosome maturation. In meiotic
+    cells, required for spindle dynamics and probably for spindle
+    attachment to the chromosomes. Zygotic role in the development of
+    the germline and nerve cord.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- INTERACTION:
+    O61708:pqn-59; NbExp=1; IntAct=EBI-315211, EBI-315255;
+-!- SUBCELLULAR LOCATION: Centrosome. Cytoplasm. Note=In mitosis,
+    remains associated with centrosomes entering prophase through to
+    anaphase. During metaphase, found at the chromosomes of the
+    metaphase plate. In meiosis, detected at centrosomes after
+    pronuclear meeting in post-meiotic 1-cell embryos. Associated with
+    chromatin during chromosome segregation of anaphase and in the
+    region between the dividing chromosomes. Cytoplasmic in mature,
+    unfertilized oocytes.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=b;
+      IsoId=P34331-1; Sequence=Displayed;
+    Name=a;
+      IsoId=P34331-2; Sequence=VSP_004928;
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+    CDC5/Polo subfamily.
+-!- SIMILARITY: Contains 2 POLO box domains.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005813; C:centrosome; IDA:WormBase.
+ GO:0005634; C:nucleus; IEP:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0007417; P:central nervous system development; IMP:UniProtKB.
+ GO:0007098; P:centrosome cycle; IMP:UniProtKB.
+ GO:0007077; P:mitotic nuclear envelope disassembly; IMP:UniProtKB.
+ GO:0007052; P:mitotic spindle organization and biogenesis; IMP:UniProtKB.
+Alternative splicing; ATP-binding; Complete proteome; Kinase;
+Nuclear protein; Nucleotide-binding; Repeat;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

@@ -1,0 +1,21 @@
+AC   Q59988; Q31LC6;
+Ribose-phosphate pyrophosphokinase (EC 2.7.6.1) (RPPK) (Phosphoribosyl
+pyrophosphate synthetase) (P-Rib-PP synthetase) (PRPP synthetase).
+"A cyanobacterial gene encoding a protein with extensive homology to
+mammalian phosphoribosylpyrophosphate synthetase.";
+"Complete sequence of chromosome 1 of Synechococcus elongatus PCC
+7942.";
+-!- CATALYTIC ACTIVITY: ATP + D-ribose 5-phosphate = AMP + 5-phospho-
+    alpha-D-ribose 1-diphosphate.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- PATHWAY: Metabolic intermediate biosynthesis; 5-phospho-alpha-D-
+    ribose 1-diphosphate biosynthesis; 5-phospho-alpha-D-ribose 1-
+    diphosphate from D-ribose 5-phosphate (route I): single step
+    [final step].
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the ribose-phosphate pyrophosphokinase
+    family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Complete proteome; Kinase; Magnesium; Metal-binding;
+Nucleotide biosynthesis; Transferase.
+TMZERO

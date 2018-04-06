@@ -1,0 +1,14 @@
+AC   Q2QL88;
+F-actin capping protein alpha-2 subunit (CapZ alpha-2).
+"NISC comparative sequencing initiative.";
+-!- FUNCTION: F-actin capping proteins bind in a Ca(2+)-independent
+    manner to the fast growing ends of actin filaments (barbed end)
+    thereby blocking the exchange of subunits at these ends. Unlike
+    other capping proteins (such as gelsolin and severin), these
+    proteins do not sever actin filaments (By similarity).
+-!- SUBUNIT: Heterodimer of an alpha and a beta subunit (By
+    similarity).
+-!- SIMILARITY: Belongs to the F-actin capping protein alpha subunit
+    family.
+Actin capping; Actin-binding.
+TMZERO

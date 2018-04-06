@@ -1,0 +1,21 @@
+AC   Q9W6R1;
+Phosphorylase b kinase regulatory subunit alpha, liver isoform
+(Phosphorylase kinase alpha L subunit).
+"Genomic structure and comparative analysis of nine Fugu genes:
+conservation of synteny with human chromosome Xp22.2-p22.1.";
+-!- FUNCTION: Phosphorylase b kinase catalyzes the phosphorylation of
+    serine in certain substrates, including troponin I. The alpha
+    chain may bind calmodulin (By similarity).
+-!- ENZYME REGULATION: By phosphorylation of various serine residues
+    and by calcium (By similarity).
+-!- PATHWAY: Glycogen metabolism.
+-!- SUBUNIT: Polymer of 16 chains, four each of alpha, beta, gamma,
+    and delta. Alpha and beta are regulatory chains, gamma is the
+    catalytic chain, and delta is calmodulin (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; cytoplasmic
+    side (Potential).
+-!- SIMILARITY: Belongs to the phosphorylase b kinase regulatory chain
+    family.
+Calmodulin-binding; Carbohydrate metabolism; Glycogen metabolism;
+Lipoprotein; Membrane; Phosphorylation; Prenylation.
+TMZERO

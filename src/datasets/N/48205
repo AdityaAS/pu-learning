@@ -1,0 +1,15 @@
+AC   Q71WB9;
+Elongation factor Tu (EF-Tu).
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- FUNCTION: This protein promotes the GTP-dependent binding of
+    aminoacyl-tRNA to the A-site of ribosomes during protein
+    biosynthesis.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the GTP-binding elongation factor family.
+    EF-Tu/EF-1A subfamily.
+Complete proteome; Elongation factor; GTP-binding; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

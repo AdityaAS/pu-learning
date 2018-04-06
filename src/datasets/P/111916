@@ -1,0 +1,23 @@
+AC   P33591; Q2M7E0;
+Nickel transport system permease protein nikB.
+"The nik operon of Escherichia coli encodes a periplasmic binding-
+protein-dependent transport system for nickel.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in a nickel transport system, probably
+    translocates nickel through the bacterial inner membrane.
+-!- SUBUNIT: Probably forms an heterodimeric pore with nikC.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. OppBC subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+ GO:0015413; F:nickel-transporting ATPase activity; IEA:EC.
+Complete proteome; Inner membrane; Membrane; Nickel; Nickel transport;
+Transmembrane; Transport.
+TMSIX

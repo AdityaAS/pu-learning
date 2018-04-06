@@ -1,0 +1,22 @@
+AC   Q9USH1;
+RNA polymerase II mediator complex subunit 31 (Cell separation protein
+sep10) (Soh1 homolog).
+"The Schizosaccharomyces pombe genes sep10 and sep11 encode putative
+general transcriptional regulators involved in multiple cellular
+processes.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Potential component of the mediator complex is essential
+    for basal and regulated expression of nearly all RNA polymerase
+    II-dependent genes. Mediator complex may act as a bridge,
+    conveying regulatory information from enhancers and other control
+    elements to the promoter.
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Belongs to the mediator complex subunit 31 family.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0000119; C:mediator complex; IGI:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0016455; F:RNA polymerase II transcription mediator ac...; TAS:GeneDB_SPombe.
+ GO:0006366; P:transcription from RNA polymerase II promoter; TAS:GeneDB_SPombe.
+Complete proteome; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

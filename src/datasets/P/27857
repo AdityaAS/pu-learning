@@ -1,0 +1,22 @@
+AC   P60068;
+Chlorate reductase subunit alpha precursor (EC 1.97.1.1) (Chlorate
+reductase molybdenum subunit).
+"A gene cluster for chlorate metabolism in Ideonella dechloratans.";
+-!- FUNCTION: Terminal reductase that allows anaerobic growth on
+    chlorate as the sole respiratory oxidant.
+-!- CATALYTIC ACTIVITY: AH(2) + chlorate = A + H(2)O + chlorite.
+-!- COFACTOR: Binds 1 4Fe-4S cluster (Potential).
+-!- COFACTOR: Molybdenum (molybdopterin).
+-!- SUBUNIT: Heterotrimer of alpha, beta and gamma subunits.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- PTM: Predicted to be exported by the Tat system. The position of
+    the signal peptide cleavage has not been experimentally proven.
+-!- BIOTECHNOLOGY: Has potential use in bioremediation of waste sites
+    contaminated with chlorate, such as pulp and paper industry
+    wastewater.
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+ GO:0047143; F:chlorate reductase activity; IEA:EC.
+4Fe-4S; Iron; Iron-sulfur; Metal-binding; Molybdenum; Oxidoreductase;
+Periplasmic; Signal.
+TMZERO

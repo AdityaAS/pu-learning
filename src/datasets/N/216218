@@ -1,0 +1,9 @@
+AC   Q6D0J5;
+UPF0289 protein ECA3803.
+"Genome sequence of the enterobacterial phytopathogen Erwinia
+carotovora subsp. atroseptica and characterization of virulence
+factors.";
+-!- SIMILARITY: Belongs to the UPF0289 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

@@ -1,0 +1,29 @@
+AC   P84443; O09002; O09006; Q91V84;
+Small inducible cytokine A21a precursor (CCL21) (Beta chemokine
+exodus-2) (6Ckine) (Thymus-derived chemotactic agent 4) (TCA4).
+"Isolation and characterization of Exodus-2, a novel C-C chemokine
+with a unique 37-amino acid carboxyl-terminal extension.";
+"The reduced expression of 6Ckine in the plt mouse results from the
+deletion of one of two 6Ckine genes.";
+"Gene duplications at the chemokine locus on mouse chromosome 4:
+multiple strain-specific haplotypes and the deletion of secondary
+lymphoid-organ chemokine and EBI-1 ligand chemokine genes in the plt
+mutation.";
+"A chemokine expressed in lymphoid high endothelial venules promotes
+the adhesion and chemotaxis of naive T lymphocytes.";
+-!- FUNCTION: Inhibits hemopoiesis and stimulate chemotaxis.
+    Chemotactic in vitro for thymocytes and activated T-cells, but not
+    for B-cells, macrophages, or neutrophils. Potent mesangial cell
+    chemoattractant. Shows preferential activity towards naive T-
+    cells. May play a role in mediating homing of lymphocytes to
+    secondary lymphoid organs. Binds to CCR7 and to CXCR3.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed strongly in lung, spleen, thymus,
+    peripheral and mesentric lymph nodes. Also expressed in the
+    testis, kidney, liver, and heart.
+-!- MISCELLANEOUS: Two genes code for CCL21, they express proteins
+    that only differ at one position, CCL21A has Leu-65 (6Ckine-Leu)
+    while CCL21B has 'Ser-65' (6Ckine-Ser).
+-!- SIMILARITY: Belongs to the intercrine beta (chemokine CC) family.
+Chemotaxis; Cytokine; Inflammatory response; Signal.
+TMZERO

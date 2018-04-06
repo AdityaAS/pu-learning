@@ -1,0 +1,8 @@
+AC   P40655;
+SRY-related protein LG28 (Fragment).
+"PCR amplification of SRY-related gene sequences reveals evolutionary
+conservation of the SRY-box motif.";
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Contains 1 HMG box DNA-binding domain.
+DNA-binding; Nuclear protein.
+TMZERO

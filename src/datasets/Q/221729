@@ -1,0 +1,15 @@
+AC   Q48452;
+Putative tyrosine-protein kinase in cps region (EC 2.7.10.2) (ORF6).
+"Genomic organization of the Klebsiella pneumoniae cps region
+responsible for serotype K2 capsular polysaccharide synthesis in the
+virulent strain Chedid.";
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- PATHWAY: Exopolysaccharide biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the etk/wzc family.
+ATP-binding; Exopolysaccharide synthesis; Hypothetical protein;
+Inner membrane; Kinase; Membrane; Nucleotide-binding; Transferase;
+Transmembrane; Tyrosine-protein kinase.
+TMTWO

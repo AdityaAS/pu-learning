@@ -1,0 +1,12 @@
+AC   Q86C49;
+Huwentoxin-2a precursor (Huwentoxin-IIa).
+"cDNA sequence analysis of five peptide toxins from the spider
+Selenocosmia huwena: they could be classified into two different
+superfamilies according to the prepro region.";
+-!- FUNCTION: Lethal neurotoxin. Binds to the nicotinic acetylcholine
+    receptor. Blocks neuromuscular transmission (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the huwentoxin-2 family.
+Neurotoxin; Postsynaptic neurotoxin; Signal; Toxin.
+TMZERO

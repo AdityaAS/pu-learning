@@ -1,0 +1,36 @@
+AC   P55069;
+Mg(2+)/citrate complex secondary transporter.
+"Secondary transporters for citrate and the Mg(2+)-citrate complex in
+Bacillus subtilis are homologous proteins.";
+"Cloning and sequencing of a 35.7 kb in the 70 degree-73 degree region
+of the Bacillus subtilis genome reveal genes for a new two-component
+system, three spore germination proteins, an iron uptake system and a
+general stress response protein.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Catabolite repression and induction of the Mg(2+)-citrate transporter
+CitM of Bacillus subtilis.";
+"The CitST two-component system regulates the expression of the Mg-
+citrate transporter in Bacillus subtilis.";
+"Complementary metal ion specificity of the metal-citrate transporters
+CitM and CitH of Bacillus subtilis.";
+"Functional characterization of CitM, the Mg2+-citrate transporter.";
+-!- FUNCTION: Proton motive force-driven secondary transporter that
+    mediates the transport of citrate complexed to Mg(2+).
+    Cotransports at least two protons per Mg(2+)-citrate complex. Can
+    also transport citrate in complex with Ni(2+), Mn(2+), Co(2+), and
+    Zn(2+).
+-!- ENZYME REGULATION: The uptake activity increases with increasing
+    Mg(2+) concentrations. Inhibited by FCCP, TCC and nigericin.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: Expression is under strict control of the medium
+    composition. Induced by citrate, via the two-component regulatory
+    system citT/citS. Repressed by rapidly metabolized carbon sources
+    like glucose, glycerol and inositol, via the carbon catabolite
+    repression system. Is also repressed by succinate and glutamate,
+    albeit to a lesser extent.
+-!- SIMILARITY: Belongs to the citM transporter family.
+Citrate utilization; Complete proteome; Membrane; Symport;
+Transmembrane; Transport.
+TMTWELVE

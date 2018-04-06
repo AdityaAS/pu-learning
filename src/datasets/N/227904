@@ -1,0 +1,20 @@
+AC   P26830;
+Putative peroxiredoxin in NDH 5' region (EC 1.11.1.15) (Thioredoxin
+reductase) (Fragment).
+"Nucleotide sequence of the gene encoding NADH dehydrogenase from an
+alkalophile, Bacillus sp. strain YN-1.";
+-!- FUNCTION: Reduces peroxides. May play an important role in
+    eliminating peroxides generated during metabolism (By similarity).
+-!- CATALYTIC ACTIVITY: 2 R'-SH + ROOH = R'-S-S-R' + H(2)O + ROH.
+-!- SUBUNIT: Homodimer; disulfide-linked, upon oxidation (By
+    similarity).
+-!- PTM: The Cys-28-SH group is the primary site of oxidation by
+    H(2)O(2), and the oxidized Cys-28 (probably Cys-SOH) rapidly
+    reacts with Cys-147-SH of the other subunit to form an
+    intermolecular disulfide. This disulfide is subsequently reduced
+    by thioredoxin (By similarity).
+-!- SIMILARITY: Belongs to the ahpC/TSA family.
+ GO:0051920; F:peroxiredoxin activity; IEA:EC.
+Antioxidant; Hypothetical protein; Oxidoreductase; Peroxidase;
+Redox-active center.
+TMZERO

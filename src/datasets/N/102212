@@ -1,0 +1,11 @@
+AC   Q9KT79;
+Molybdenum cofactor biosynthesis protein C.
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Together with moaA, is involved in the conversion of a
+    guanosine derivative (5'-GTP) into molybdopterin precursor Z (By
+    similarity).
+-!- PATHWAY: Cofactor biosynthesis; molybdopterin biosynthesis.
+-!- SIMILARITY: Belongs to the moaC family.
+Complete proteome; Molybdenum cofactor biosynthesis.
+TMZERO

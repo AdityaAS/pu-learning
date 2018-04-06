@@ -1,0 +1,14 @@
+AC   P39850;
+Capsular polysaccharide biosynthesis protein capA.
+"Sequence analysis and molecular characterization of genes required
+for the biosynthesis of type 1 capsular polysaccharide in
+Staphylococcus aureus.";
+-!- FUNCTION: Required for the biosynthesis of type 1 capsular
+    polysaccharide.
+-!- PATHWAY: Capsular polysaccharide (CPS) biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the cpsC/capA family.
+Bacterial capsule; Exopolysaccharide synthesis; Membrane;
+Transmembrane.
+TMTWO

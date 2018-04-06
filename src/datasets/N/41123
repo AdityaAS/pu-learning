@@ -1,0 +1,15 @@
+AC   Q8ZBM5;
+Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1) (dGTPase)
+(dGTP triphosphohydrolase).
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: dGTPase preferentially hydrolyzes dGTP over the other
+    canonical NTPs (By similarity).
+-!- CATALYTIC ACTIVITY: dGTP + H(2)O = deoxyguanosine + triphosphate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the dGTPase family. Type 1 subfamily.
+Complete proteome; Hydrolase; Magnesium.
+TMZERO

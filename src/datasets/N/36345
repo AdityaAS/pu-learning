@@ -1,0 +1,23 @@
+AC   Q34876; Q34875; Q34877; Q9TEM4; Q9TEM6;
+Cytochrome b.
+"Ancient single origin for Malagasy primates.";
+"Insertions and duplications of mtDNA in the nuclear genomes of Old
+World monkeys and hominoids.";
+"Genetic tests of the taxonomic status of Lemur catta from the high
+mountain zone of the Andringitra Massif, Madagascar.";
+"Mammalian mitogenomic relationships and the root of the eutherian
+tree.";
+-!- FUNCTION: Component of the ubiquinol-cytochrome c reductase
+    complex (complex III or cytochrome b-c1 complex), which is a
+    respiratory chain that generates an electrochemical potential
+    coupled to ATP synthesis (By similarity).
+-!- COFACTOR: Binds 2 heme groups non-covalently (By similarity).
+-!- SUBUNIT: The main subunits of complex b-c1 are: cytochrome b,
+    cytochrome c1 and the Rieske protein (By similarity).
+-!- MISCELLANEOUS: Heme 1 (or BL or b562) is low-potential and absorbs
+    at about 562 nm, and heme 2 (or BH or b566) is high-potential and
+    absorbs at about 566 nm (By similarity).
+-!- SIMILARITY: Belongs to the cytochrome b family.
+Electron transport; Heme; Iron; Membrane; Metal-binding;
+Mitochondrion; Respiratory chain; Transmembrane; Transport.
+TMZERO

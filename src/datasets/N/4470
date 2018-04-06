@@ -1,0 +1,16 @@
+AC   Q8FK82;
+Acetyl esterase (EC 3.1.1.-).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Displays esterase activity towards short chain fatty
+    esters (acyl chain length of up to 8 carbons). Able to hydrolyze
+    triacetylglycerol (triacetin) and tributyrylglycerol (tributyrin),
+    but not trioleylglycerol (triolein) or cholesterol oleate.
+    Negatively regulates malT activity by antagonizing maltotriose
+    binding. Inhibits melA galactosidase activity (By similarity).
+-!- SUBUNIT: Homodimer. Interacts with malT and melA (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the "GDXG" lipolytic enzyme family.
+ GO:0004759; F:serine esterase activity; IEA:HAMAP.
+Complete proteome; Hydrolase; Serine esterase.
+TMZERO

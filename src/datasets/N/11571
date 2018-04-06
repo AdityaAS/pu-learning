@@ -1,0 +1,27 @@
+AC   Q91WU5; Q9QZT1;
+Arsenite methyltransferase (EC 2.1.1.137) (S-adenosyl-L-
+methionine:arsenic(III) methyltransferase) (Methylarsonite
+methyltransferase).
+"Identification of novel hematopoietic stem cell regulatory genes.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Catalyzes the transfer of a methyl group from AdoMet to
+    trivalent arsenicals producing methylated and dimethylated
+    arsenicals. It methylates arsenite to form methylarsonate, Me-
+    AsO(3)H(2), which is reduced by methylarsonate reductase to
+    methylarsonite, Me-As(OH)2. Methylarsonite is also a substrate and
+    it is converted into the much less toxic compound dimethylarsinate
+    (cacodylate), Me(2)As(O)-OH (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + arsenite = S-
+    adenosyl-L-homocysteine + methylarsonate.
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + methylarsonite = S-
+    adenosyl-L-homocysteine + dimethylarsinate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the methyltransferase superfamily.
+ GO:0005829; C:cytosol; ISS:UniProtKB.
+ GO:0030791; F:arsenite methyltransferase activity; ISS:UniProtKB.
+ GO:0030792; F:methylarsonite methyltransferase activity; ISS:UniProtKB.
+ GO:0018872; P:arsonoacetate metabolism; ISS:UniProtKB.
+ GO:0009404; P:toxin metabolism; ISS:UniProtKB.
+Methyltransferase; S-adenosyl-L-methionine; Transferase.
+TMZERO

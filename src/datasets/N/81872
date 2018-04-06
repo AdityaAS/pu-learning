@@ -1,0 +1,21 @@
+AC   Q8MKH0;
+Interleukin-6 precursor (IL-6).
+"Molecular cloning, characterization, and quantification of squirrel
+monkey (Saimiri sciureus) Th1 and Th2 cytokines.";
+-!- FUNCTION: IL-6 is a cytokine with a wide variety of biological
+    functions: it plays an essential role in the final differentiation
+    of B-cells into Ig-secreting cells, it induces myeloma and
+    plasmacytoma growth, it induces nerve cells differentiation, in
+    hepatocytes it induces acute phase reactants.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the IL-6 superfamily.
+ GO:0005576; C:extracellular region; ISS:UniProtKB.
+ GO:0005615; C:extracellular space; ISS:UniProtKB.
+ GO:0005138; F:interleukin-6 receptor binding; ISS:UniProtKB.
+ GO:0007166; P:cell surface receptor linked signal transdu...; ISS:UniProtKB.
+ GO:0007267; P:cell-cell signaling; ISS:UniProtKB.
+ GO:0006959; P:humoral immune response; ISS:UniProtKB.
+ GO:0008285; P:negative regulation of cell proliferation; ISS:UniProtKB.
+ GO:0008284; P:positive regulation of cell proliferation; ISS:UniProtKB.
+Acute phase; Cytokine; Glycoprotein; Growth factor; Signal.
+TMZERO

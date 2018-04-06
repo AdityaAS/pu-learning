@@ -1,0 +1,14 @@
+AC   Q28985;
+Insulin-like growth factor-binding protein 5 precursor (IGFBP-5) (IBP-
+5) (IGF-binding protein 5).
+"Molecular cloning and sequence analysis of the porcine insulin-like
+growth factor binding protein-5 complementary deoxyribonucleic acid.";
+-!- FUNCTION: IGF-binding proteins prolong the half-life of the IGFs
+    and have been shown to either inhibit or stimulate the growth
+    promoting effects of the IGFs on cell culture. They alter the
+    interaction of IGFs with their cell surface receptors.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Contains 1 IGFBP domain.
+-!- SIMILARITY: Contains 1 thyroglobulin type-1 domain.
+Growth factor binding; Signal.
+TMZERO

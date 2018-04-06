@@ -1,0 +1,17 @@
+AC   Q34940;
+Mitochondrial ribosomal protein S12.
+"Sequences of six genes and several open reading frames in the
+kinetoplast maxicircle DNA of Leishmania tarentolae.";
+"An intergenic G-rich region in Leishmania tarentolae kinetoplast
+maxicircle DNA is a pan-edited cryptogene encoding ribosomal protein
+S12.";
+-!- FUNCTION: Protein S12 is involved in the translation initiation
+    step.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- RNA EDITING: Modified_positions=Not_applicable; Note=In the
+    completely edited RNA, 117 uridines are added at 49 sites and 32
+    uridines are deleted at 13 sites.
+-!- SIMILARITY: Belongs to the ribosomal protein S12P family.
+Kinetoplast; Mitochondrion; Ribonucleoprotein; Ribosomal protein;
+RNA editing.
+TMZERO

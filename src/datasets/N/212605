@@ -1,0 +1,7 @@
+AC   Q8DBI1;
+UPF0253 protein VV1_1836.
+"Complete genome sequence of Vibrio vulnificus CMCP6.";
+-!- SIMILARITY: Belongs to the UPF0253 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

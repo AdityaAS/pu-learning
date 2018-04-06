@@ -1,0 +1,10 @@
+AC   Q57J31;
+30S ribosomal protein S10.
+"The genome sequence of Salmonella enterica serovar Choleraesuis, a
+highly invasive and resistant zoonotic pathogen.";
+-!- FUNCTION: Involved in the binding of tRNA to the ribosomes (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S10P family.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein.
+TMZERO

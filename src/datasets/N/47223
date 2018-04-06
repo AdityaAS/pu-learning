@@ -1,0 +1,48 @@
+AC   P60507;
+HERV-F(c)1_Xq21.33 provirus ancestral Env polyprotein precursor
+(Envelope polyprotein) (Fc1env) (HERV-Fc1env) [Contains: Surface
+protein (SU); Transmembrane protein (TM)].
+"The DNA sequence of the human X chromosome.";
+"Identification, phylogeny, and evolution of retroviral elements based
+on their envelope genes.";
+"Characterization of the low-copy HERV-Fc family: evidence for recent
+integrations in primates of elements with coding envelope genes.";
+"Genomewide screening for fusogenic human endogenous retrovirus
+envelopes identifies syncytin 2, a gene conserved on primate
+evolution.";
+"Survey of human genes of retroviral origin: identification and
+transcriptome of the genes with coding capacity for complete envelope
+proteins.";
+-!- FUNCTION: Retroviral envelope proteins mediate receptor
+    recognition and membrane fusion during early infection. Endogenous
+    envelope proteins may have kept, lost or modified their original
+    function during evolution. This endogenous envelope protein has
+    lost its original fusogenic properties.
+-!- FUNCTION: SU mediates receptor recognition (By similarity).
+-!- FUNCTION: TM anchors the envelope heterodimer to the viral
+    membrane through one transmembrane domain. The other hydrophobic
+    domain, called fusion peptide, mediates fusion of the viral
+    membrane with the target cell membrane (By similarity).
+-!- SUBUNIT: The surface (SU) and transmembrane (TM) proteins form a
+    heterodimer. SU and TM are attached by noncovalent interactions or
+    by a labile interchain disulfide bond (By similarity).
+-!- TISSUE SPECIFICITY: Low expression in skin, testis and trachea.
+-!- DOMAIN: The CKS-17 immunosuppressive domain is present in many
+    retroviral envelope proteins. As a synthetic peptide, it inhibits
+    immune function in vitro and in vivo (By similarity).
+-!- PTM: Specific enzymatic cleavages in vivo yield the mature SU and
+    TM proteins (By similarity).
+-!- PTM: The CXXC motif is highly conserved across a broad range of
+    retroviral envelope proteins. It is thought to participate to the
+    formation of a labile disulfide bond possibly with the CX6CC motif
+    present in the transmembrane protein (By similarity).
+-!- MISCELLANEOUS: Orthologs in Pan troglodytes and Gorilla gorilla
+    (truncated).
+-!- SIMILARITY: Belongs to the gamma type-C retroviral envelope
+    protein family. HERV class-I F(c)1 subfamily.
+-!- CAUTION: CKS-17 sequence does not match the minimal active
+    concensus.
+Cleavage on pair of basic residues; Envelope protein; ERV;
+Fusion protein; Glycoprotein; Membrane; Signal; Transmembrane;
+Transposable element; Virion protein.
+TMONE

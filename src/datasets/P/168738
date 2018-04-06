@@ -1,0 +1,59 @@
+AC   P50443;
+Sulfate transporter (Diastrophic dysplasia protein) (Solute carrier
+family 26 member 2).
+"The diastrophic dysplasia gene encodes a novel sulfate transporter:
+positional cloning by fine-structure linkage disequilibrium mapping.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Achondrogenesis type IB is caused by mutations in the diastrophic
+dysplasia sulphate transporter gene.";
+"Atelosteogenesis type II is caused by mutations in the diastrophic
+dysplasia sulfate-transporter gene (DTDST): evidence for a phenotypic
+series involving three chondrodysplasias.";
+"Homozygosity for a novel DTDST mutation in a child with a 'broad
+bone-platyspondylic' variant of diastrophic dysplasia.";
+"Autosomal recessive multiple epiphyseal dysplasia with homozygosity
+for C653S in the DTDST gene: double-layer patella as a reliable
+sign.";
+-!- FUNCTION: Sulfate transporter. May play a role in endochondral
+    bone formation.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Ubiquitously expressed.
+-!- DISEASE: Defects in SLC26A2 are the cause of diastrophic dysplasia
+    (DTD) [MIM:222600]. DTD is an autosomal recessive disease
+    characterized by osteochondrodysplasia with clinical features
+    including dwarfism, spinal deformation, and specific joint
+    abnormalities.
+-!- DISEASE: Defects in SLC26A2 are the cause of achondrogenesis type
+    IB (ACG-IB) [MIM:600972]. ACG-IB is a recessively inherited
+    chondrodysplasia characterized by extremely poor skeletal
+    development and perinatal death.
+-!- DISEASE: Defects in SLC26A2 are the cause of atelosteogenesis type
+    II (AO-II) [MIM:256050]; also known as neonatal osseous dysplasia
+    I. AO-II is characterized by severely shortened limbs, small
+    chest, scoliosis, club foot of the equinovarus type (talipes
+    equinovarus), abducted thumbs and great toes, and cleft palate.
+    Patients die of respiratory insufficiency shortly after birth
+    because of the collapse of the airways and pulmonary hypoplasia
+    due to the small rib cage.
+-!- DISEASE: Defects in SLC26A2 are the cause of multiple epiphyseal
+    dysplasia 4 (EDM4) [MIM:226900]. EDM is a generalized skeletal
+    dysplasia associated with significant morbidity. Joint pain, joint
+    deformity, waddling gait, and short stature are the main clinical
+    signs and symptoms. EDM is broadly categorized into the more
+    severe Fairbank and the milder Ribbing types. EDM4 is a
+    recessively inherited form, characterized by early childhood-onset
+    hip dysplasia and recurrent patella dislocation. Short stature in
+    EDM4 patients is not frequent.
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+-!- SIMILARITY: Contains 1 STAS domain.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SLC26A2".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0015116; F:sulfate transporter activity; TAS:ProtInc.
+ GO:0008272; P:sulfate transport; TAS:ProtInc.
+Disease mutation; Dwarfism; Glycoprotein; Membrane; Polymorphism;
+Transmembrane; Transport.
+TMTWELVE

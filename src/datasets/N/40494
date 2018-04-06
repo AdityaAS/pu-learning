@@ -1,0 +1,10 @@
+AC   P0A3Z5; Q44597;
+Probable serine protease do-like precursor (EC 3.4.21.-).
+"The Brucella suis genome reveals fundamental similarities between
+animal and plant pathogens and symbionts.";
+-!- SUBCELLULAR LOCATION: Periplasm (Potential).
+-!- SIMILARITY: Belongs to the peptidase S1C family.
+-!- SIMILARITY: Contains 2 PDZ (DHR) domains.
+Complete proteome; Hydrolase; Periplasmic; Protease; Repeat;
+Serine protease; Signal.
+TMZERO

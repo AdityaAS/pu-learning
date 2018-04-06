@@ -1,0 +1,20 @@
+AC   P37600;
+Thiosulfate reductase precursor (EC 1.-.-.-).
+"Sequence analysis of the phs operon in Salmonella typhimurium and the
+contribution of thiosulfate reduction to anaerobic energy
+metabolism.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Cloning and characterization of a gene cluster, phsBCDEF, necessary
+for the production of hydrogen sulfide from thiosulfate by Salmonella
+typhimurium.";
+-!- FUNCTION: Oxidoreductase which produces hydrogen sulfide from
+    thiosulfate (Potential).
+-!- COFACTOR: Binds 1 4Fe-4S cluster (Potential).
+-!- COFACTOR: Molybdenum (molybdopterin).
+-!- SUBUNIT: Probably composed of three subunits: phsA, phsB and phsC.
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+4Fe-4S; Complete proteome; Iron; Iron-sulfur; Metal-binding;
+Molybdenum; Oxidoreductase; Signal.
+TMZERO

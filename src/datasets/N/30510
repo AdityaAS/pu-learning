@@ -1,0 +1,12 @@
+AC   Q6J3Q7;
+Cytochrome c oxidase copper chaperone.
+"Copper metabolism and oxidative stress during copper toxicosis in the
+dog.";
+-!- FUNCTION: Copper chaperone for cytochrome c oxidase (COX). Binds
+    two copper ions and deliver them to the Cu(A) site of COX (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial intermembrane
+    space (By similarity).
+-!- SIMILARITY: Belongs to the COX17 family.
+Chaperone; Copper; Metal-binding; Mitochondrion.
+TMZERO

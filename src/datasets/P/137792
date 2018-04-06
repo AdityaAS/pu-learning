@@ -1,0 +1,22 @@
+AC   Q99134;
+PYLa/PGLa precursor [Contains: PYLa; PGLa].
+"A novel peptide designated PYLa and its precursor as predicted from
+cloned mRNA of Xenopus laevis skin.";
+"The genes for the frog skin peptides GLa, xenopsin, levitide and
+caerulein contain a homologous export exon encoding a signal sequence
+and part of an amphiphilic peptide.";
+"Biosynthesis and degradation of peptides derived from Xenopus laevis
+prohormones.";
+"Antimicrobial peptides in the stomach of Xenopus laevis.";
+-!- FUNCTION: PGLa is an antimicrobial peptide.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Synthesized in the stomach and stored in a
+    novel granular multinucleated cell in the gastric mucosa. It is
+    stored as active, processed peptides in large granules within the
+    granular gland secretions of the skin.
+-!- MISCELLANEOUS: The sequence shown is that of clone pUF38.
+-!- SIMILARITY: Belongs to the gastrin/cholecystokinin family.
+    Magainin subfamily.
+Amidation; Amphibian defense peptide; Antibiotic; Antimicrobial;
+Cleavage on pair of basic residues; Direct protein sequencing; Signal.
+TMZERO

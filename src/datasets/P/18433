@@ -1,0 +1,12 @@
+AC   Q52663;
+Glutamate/glutamine/aspartate/asparagine-binding protein bztA
+precursor.
+"A glutamate/glutamine/aspartate/asparagine transport operon in
+Rhodobacter capsulatus.";
+-!- FUNCTION: Part of a binding-protein-dependent transport system for
+    glutamate, glutamine, aspartate and asparagine.
+-!- SUBCELLULAR LOCATION: Periplasm (Probable).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Amino-acid transport; Periplasmic; Signal; Transport.
+TMZERO

@@ -1,0 +1,49 @@
+AC   O54902; O35172;
+Natural resistance-associated macrophage protein 2 (NRAMP 2) (Metal
+ion transporter DCT1).
+"Cloning and characterization of a mammalian proton-coupled metal-ion
+transporter.";
+"Rat natural resistance associated macrophage protein-2 (Nramp2), C-
+terminal exon alternative splice variant.";
+"Nramp2 is mutated in the anemic Belgrade (b) rat: evidence of a role
+for Nramp2 in endosomal iron transport.";
+-!- FUNCTION: Macrophage-specific membrane transport. Important in
+    metal transport, in particular iron. Can also transport zinc,
+    manganese, cobalt, cadmium, copper, nickel and lead.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=2; Synonyms=Non-IRE;
+      IsoId=O54902-1; Sequence=Displayed;
+    Name=1; Synonyms=IRE;
+      IsoId=O54902-2; Sequence=VSP_003597;
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- DISEASE: Defects in Slc11a2 are the cause of microcytic anemia
+    (Belgrade or b). Homozygous b/b mice have hypochromic microcytic
+    anemia due to severe defects in intestinal iron absorption and
+    erythroid iron utilization.
+-!- SIMILARITY: Belongs to the NRAMP family.
+ GO:0016021; C:integral to membrane; IDA:RGD.
+ GO:0031902; C:late endosome membrane; IDA:RGD.
+ GO:0005765; C:lysosomal membrane; IDA:RGD.
+ GO:0046870; F:cadmium ion binding; IDA:RGD.
+ GO:0015086; F:cadmium ion transporter activity; IDA:RGD.
+ GO:0050897; F:cobalt ion binding; IDA:RGD.
+ GO:0015087; F:cobalt ion transporter activity; IDA:RGD.
+ GO:0005507; F:copper ion binding; IDA:RGD.
+ GO:0005375; F:copper ion transporter activity; IDA:RGD.
+ GO:0015093; F:ferrous iron transporter activity; IMP:RGD.
+ GO:0005506; F:iron ion binding; IDA:RGD.
+ GO:0015094; F:lead ion transporter activity; IDA:RGD.
+ GO:0030145; F:manganese ion binding; IDA:RGD.
+ GO:0005384; F:manganese ion transporter activity; IDA:RGD.
+ GO:0016151; F:nickel ion binding; IDA:RGD.
+ GO:0015099; F:nickel ion transporter activity; IDA:RGD.
+ GO:0008270; F:zinc ion binding; IDA:RGD.
+ GO:0015684; P:ferrous iron transport; IMP:RGD.
+ GO:0010039; P:response to iron ion; IEP:RGD.
+ GO:0000041; P:transition metal ion transport; IDA:RGD.
+Alternative splicing; Disease mutation; Glycoprotein; Ion transport;
+Iron; Iron transport; Membrane; Transmembrane; Transport.
+TMTWELVE

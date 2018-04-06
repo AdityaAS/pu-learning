@@ -1,0 +1,13 @@
+AC   P22271;
+Profilin-A.
+"Cell-specific expression of a profilin gene family.";
+-!- FUNCTION: Binds to actin and affects the structure of the
+    cytoskeleton. At high concentrations, profilin prevents the
+    polymerization of actin, whereas it enhances it at low
+    concentrations. By binding to PIP2, it inhibits the formation of
+    IP3 and DG.
+-!- SUBUNIT: Occurs in many kinds of cells as a complex with monomeric
+    actin in a 1:1 ratio.
+-!- SIMILARITY: Belongs to the profilin family.
+Acetylation; Actin-binding; Cytoskeleton.
+TMZERO

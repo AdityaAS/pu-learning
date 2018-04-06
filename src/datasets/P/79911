@@ -1,0 +1,20 @@
+AC   P39344; Q2M644;
+Gnt-II system L-idonate transporter (L-Ido transporter).
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Sequence analysis of the GntII (subsidiary) system for gluconate
+metabolism reveals a novel pathway for L-idonic acid catabolism in
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Transport of gluconate and L-idonate.
+-!- PATHWAY: Gluconate utilization system GNT-II.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the gntP permease family.
+Complete proteome; Gluconate utilization; Inner membrane; Membrane;
+Sugar transport; Transmembrane; Transport.
+TMFOURTEEN

@@ -1,0 +1,24 @@
+AC   P0A996; P13034; P76927; P77679;
+Anaerobic glycerol-3-phosphate dehydrogenase subunit C (G-3-P
+dehydrogenase).
+"Nucleotide sequence and gene-polypeptide relationships of the glpABC
+operon encoding the anaerobic sn-glycerol-3-phosphate dehydrogenase of
+Escherichia coli K-12.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Electron transfer protein; may also function as the
+    membrane anchor for the glpAB dimer.
+-!- PATHWAY: Lipid metabolism; glycerophospholid metabolism.
+-!- SUBUNIT: Composed of a catalytic glpA/B dimer and of glpC.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein. Note=Loosely bound to the cytoplasmic membrane often
+    occurring in vesicles associated with fumarate reductase.
+-!- SIMILARITY: Contains 2 4Fe-4S type ferredoxin domains.
+4Fe-4S; Complete proteome; Direct protein sequencing;
+Electron transport; Iron; Iron-sulfur; Membrane; Metal-binding;
+Transport.
+TMZERO

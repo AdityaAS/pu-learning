@@ -1,0 +1,22 @@
+AC   P51912; Q61326;
+Neutral amino acid transporter B (Insulin-activated amino acid
+transporter) (ASC-like Na(+)-dependent neutral amino acid transporter
+ASCT2).
+"Expression of a novel insulin-activated amino acid transporter gene
+during differentiation of 3T3-L1 preadipocytes into adipocytes.";
+"Cloning and functional characterization of a system ASC-like Na+-
+dependent neutral amino acid transporter.";
+-!- FUNCTION: Insulin-dependent transporter for L-serine and, to a
+    lesser extent, uptake of L-alanine and L-glutamate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in adipose tissue, lower
+    levels seen in lung. Not expressed in brain, kidney, liver or
+    heart and only traces are detected in spleen, thymus and skeletal
+    muscle.
+-!- DEVELOPMENTAL STAGE: Expressed is induced during differentiation
+    of preadipocytes into adipocytes.
+-!- SIMILARITY: Belongs to the sodium:dicarboxylate (SDF) symporter
+    (TC 2.A.23) family.
+ GO:0015175; F:neutral amino acid transporter activity; IDA:MGI.
+Glycoprotein; Membrane; Symport; Transmembrane; Transport.
+TMTEN

@@ -1,0 +1,26 @@
+AC   O88269;
+Multidrug resistance-associated protein 6 (ATP-binding cassette sub-
+family C member 6) (MRP-like protein 1) (MLP-1).
+"Hepatic expression of multidrug resistance-associated protein-like
+proteins maintained in eisai hyperbilirubinemic rats.";
+"Transport function and hepatocellular localization of mrp6 in rat
+liver.";
+-!- FUNCTION: May participate directly in the active transport of
+    drugs into subcellular organelles or influence drug distribution
+    indirectly (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- TISSUE SPECIFICITY: High in liver and lower in duodenum and
+    kidney.
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0016328; C:lateral plasma membrane; IDA:RGD.
+ GO:0005624; C:membrane fraction; IDA:RGD.
+ GO:0005524; F:ATP binding; IDA:RGD.
+ GO:0016887; F:ATPase activity; IDA:RGD.
+ GO:0006200; P:ATP catabolism; IDA:RGD.
+ATP-binding; Glycoprotein; Membrane; Nucleotide-binding; Repeat;
+Transmembrane; Transport.
+TMSEVENTEEN

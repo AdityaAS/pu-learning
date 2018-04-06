@@ -1,0 +1,17 @@
+AC   P52067; Q2MBU8;
+Fosmidomycin resistance protein.
+"Cloning of a gene from Escherichia coli that confers resistance to
+fosmidomycin as a consequence of amplification.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Confers the resistance against fosmidomycin.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Antibiotic resistance; Complete proteome; Inner membrane; Membrane;
+Transmembrane.
+TMELEVEN

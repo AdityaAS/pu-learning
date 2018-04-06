@@ -1,0 +1,15 @@
+AC   Q5HP48;
+Pyrroline-5-carboxylate reductase (EC 1.5.1.2) (P5CR) (P5C reductase).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- CATALYTIC ACTIVITY: L-proline + NAD(P)(+) = 1-pyrroline-5-
+    carboxylate + NAD(P)H.
+-!- PATHWAY: Proline biosynthesis; third (last) step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the pyrroline-5-carboxylate reductase
+    family.
+Amino-acid biosynthesis; Complete proteome; NADP; Oxidoreductase;
+Proline biosynthesis.
+TMZERO

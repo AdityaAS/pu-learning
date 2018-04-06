@@ -1,0 +1,12 @@
+AC   P05356;
+Protein virB6.
+"Analysis of the complete nucleotide sequence of the Agrobacterium
+tumefaciens virB operon.";
+-!- FUNCTION: VirB proteins are suggested to act at the bacterial
+    surface and there play an important role in directing T-DNA
+    transfer to plant cells.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the trbL/virB6 family.
+Crown gall tumor; Membrane; Plasmid; Transmembrane.
+TMSIX

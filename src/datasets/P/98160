@@ -1,0 +1,12 @@
+AC   P29897;
+Methylamine utilization protein mauF.
+"Expression of the mau genes involved in methylamine metabolism in
+Paracoccus denitrificans is under control of a LysR-type
+transcriptional activator.";
+"The genetic organization of the mau gene cluster of the facultative
+autotroph Paracoccus denitrificans.";
+-!- PATHWAY: Methylamine utilization.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+Membrane; Transmembrane.
+TMSEVEN

@@ -1,0 +1,21 @@
+AC   P0AE74; P77405;
+Citrate carrier (Citrate transporter) (Citrate/succinate antiporter).
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The Escherichia coli citrate carrier CitT: a member of a novel
+eubacterial transporter family related to the 2-oxoglutarate/malate
+translocator from spinach chloroplasts.";
+-!- FUNCTION: Responsible for the uptake of citrate in exchange to the
+    efflux of succinate. Has a relatively broad specificity for C(4)-
+    dicarboxylates and tricarboxylates.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    SODIT1 subfamily.
+Antiport; Complete proteome; Inner membrane; Membrane; Transmembrane;
+Transport.
+TMFOURTEEN

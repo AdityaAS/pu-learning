@@ -1,0 +1,12 @@
+AC   Q9YFT9;
+Lysyl-tRNA synthetase (EC 6.1.1.6) (Lysine--tRNA ligase) (LysRS).
+"Complete genome sequence of an aerobic hyper-thermophilic
+crenarchaeon, Aeropyrum pernix K1.";
+-!- CATALYTIC ACTIVITY: ATP + L-lysine + tRNA(Lys) = AMP + diphosphate
+    + L-lysyl-tRNA(Lys).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

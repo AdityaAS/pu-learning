@@ -1,0 +1,15 @@
+AC   Q9ZDR0;
+Isocitrate dehydrogenase [NADP] (EC 1.1.1.42) (Oxalosuccinate
+decarboxylase) (IDH) (NADP(+)-specific ICDH) (IDP).
+"The genome sequence of Rickettsia prowazekii and the origin of
+mitochondria.";
+-!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+    + NADPH.
+-!- CATALYTIC ACTIVITY: Oxalosuccinate + NADP(+) = 2-oxoglutarate +
+    CO(2) + NADPH.
+-!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+    dehydrogenases family.
+ GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:EC.
+Complete proteome; Glyoxylate bypass; NADP; Oxidoreductase;
+Phosphorylation; Tricarboxylic acid cycle.
+TMZERO

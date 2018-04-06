@@ -1,0 +1,12 @@
+AC   P08481;
+Double-headed protease inhibitor, submandibular gland.
+"The amino-acid sequences of the double-headed proteinase inhibitors
+from cat, lion and dog submandibular glands.";
+-!- FUNCTION: This inhibitor is composed of two homologous actively
+    inhibiting halves: one which inhibits trypsin, the other which
+    inhibits elastase.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Contains 2 Kazal-like domains.
+Direct protein sequencing; Protease inhibitor; Repeat;
+Serine protease inhibitor.
+TMZERO

@@ -1,0 +1,12 @@
+AC   Q94YT7;
+NADH-ubiquinone oxidoreductase chain 1 (EC 1.6.5.3) (NADH
+dehydrogenase subunit 1).
+"Mitochondrial DNA evidence and evolution in Varanoidea (Squamata).";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (Probable).
+-!- SIMILARITY: Belongs to the complex I subunit 1 family.
+ GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:EC.
+Membrane; Mitochondrion; NAD; Oxidoreductase; Transmembrane;
+Ubiquinone.
+TMZERO

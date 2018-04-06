@@ -1,0 +1,34 @@
+AC   P28572;
+Sodium- and chloride-dependent glycine transporter 1 (GlyT1) (GlyT-1)
+(Solute carrier family 6 member 9).
+"Cloning, expression, and localization of a rat brain high-affinity
+glycine transporter.";
+"Cloning and expression of a glycine transporter reveal colocalization
+with NMDA receptors.";
+"Two glycine transporter variants with distinct localization in the
+CNS and peripheral tissues are encoded by a common gene.";
+-!- FUNCTION: Terminates the action of glycine by its high affinity
+    sodium-dependent reuptake into presynaptic terminals. May play a
+    role in regulation of glycine levels in NMDA receptor-mediated
+    neurotransmission.
+-!- INTERACTION:
+    P31016:Dlg4; NbExp=2; IntAct=EBI-848783, EBI-375655;
+    P31016:Dlg4; NbExp=2; IntAct=EBI-848796, EBI-375655;
+    P18614:Itga1; NbExp=1; IntAct=EBI-848783, EBI-848806;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=GlyT-1A, GlyT-2;
+      IsoId=P28572-1; Sequence=Displayed;
+    Name=2; Synonyms=GlyT-1B, GlyT-1;
+      IsoId=P28572-2; Sequence=VSP_006273;
+-!- TISSUE SPECIFICITY: GLYT-1A is found in the gray matter of CNS as
+    well as in macrophages and mast cells in peripherical tissues.
+    GLYT-1B is only found in the white matter of CNS.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+ GO:0015187; F:glycine transporter activity; TAS:RGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Alternative splicing; Amino-acid transport; Glycoprotein; Membrane;
+Neurotransmitter transport; Symport; Transmembrane; Transport.
+TMTWELVE

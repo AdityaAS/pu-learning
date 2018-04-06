@@ -1,0 +1,10 @@
+AC   O67444;
+Hypothetical RNA pseudouridine synthase aq_1464 (EC 5.4.99.-) (RNA-
+uridine isomerase) (RNA pseudouridylate synthase).
+"The complete genome of the hyperthermophilic bacterium Aquifex
+aeolicus.";
+-!- CATALYTIC ACTIVITY: RNA uridine = RNA pseudouridine.
+-!- SIMILARITY: Belongs to the pseudouridine synthase rsuA family.
+-!- SIMILARITY: Contains 1 S4 RNA-binding domain.
+Complete proteome; Hypothetical protein; Isomerase; RNA-binding.
+TMZERO

@@ -1,0 +1,25 @@
+AC   P60645; Q99R94;
+Holin-like protein cidA.
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: Increases the activity of extracellular murein
+    hydrolases possibly by mediating their export via hole formation.
+    Inhibited by the antiholin-like proteins lrgAB. In an unstressed
+    cell, the lrgAB products probably inhibit the function of the
+    cidAB proteins. When a cell is stressed by the addition of
+    antibiotics or by other factors in the environment, the cidAB
+    proteins possibly oligomerize within the bacterial cell membrane,
+    creating lesions that disrupt the proton motive force, which in
+    turn results in loss of cell viability. These lesions are also
+    hypothesized to regulate the subsequent cell lysis by either
+    allowing the murein hydrolases access to the cell wall substrate
+    and/or regulating their activity by a possible change in the cell
+    wall pH that results from loss of membrane potential (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the cidA/lrgA family. CidA subfamily.
+ GO:0019835; P:cytolysis; IEA:HAMAP.
+ GO:0012501; P:programmed cell death; IEA:HAMAP.
+Complete proteome; Cytolysis; Membrane; Transmembrane.
+TMFOUR

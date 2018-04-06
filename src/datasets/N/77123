@@ -1,0 +1,12 @@
+AC   Q9ZDK8;
+ATP-dependent hsl protease ATP-binding subunit hslU.
+"The genome sequence of Rickettsia prowazekii and the origin of
+mitochondria.";
+-!- FUNCTION: Chaperone subunit of a proteasome-like degradation
+    complex (By similarity).
+-!- SUBUNIT: A double ring-shaped homohexamer of hslV is capped on
+    each side by a ring-shaped hslU homohexamer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the clpX chaperone family. HslU subfamily.
+ATP-binding; Chaperone; Complete proteome; Nucleotide-binding.
+TMZERO

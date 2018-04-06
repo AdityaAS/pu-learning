@@ -1,0 +1,14 @@
+AC   P45052;
+Oligopeptide transport ATP-binding protein oppD.
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for oligopeptides. Probably responsible for energy coupling to the
+    transport system (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Inner membrane; Membrane;
+Nucleotide-binding; Peptide transport; Protein transport; Transport.
+TMZERO

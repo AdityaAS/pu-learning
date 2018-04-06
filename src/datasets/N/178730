@@ -1,0 +1,14 @@
+AC   Q493M6;
+Alanyl-tRNA synthetase (EC 6.1.1.7) (Alanine--tRNA ligase) (AlaRS).
+"Genome sequence of Blochmannia pennsylvanicus indicates parallel
+evolutionary trends among bacterial mutualists of insects.";
+-!- CATALYTIC ACTIVITY: ATP + L-alanine + tRNA(Ala) = AMP +
+    diphosphate + L-alanyl-tRNA(Ala).
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

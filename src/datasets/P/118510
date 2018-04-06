@@ -1,0 +1,74 @@
+AC   Q51487; Q51444; Q9ZNM1;
+Outer membrane protein oprM precursor.
+"Multiple antibiotic resistance in Pseudomonas aeruginosa: evidence
+for involvement of an efflux operon.";
+"Localization of the outer membrane subunit OprM of resistance-
+nodulation-cell division family multicomponent efflux pump in
+Pseudomonas aeruginosa.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"Cloning and sequence analysis of an EnvCD homologue in Pseudomonas
+aeruginosa: regulation by iron and possible involvement in the
+secretion of the siderophore pyoverdine.";
+"Global analysis of the membrane subproteome of Pseudomonas aeruginosa
+using liquid chromatography-tandem mass spectrometry.";
+"Role of mexA-mexB-oprM in antibiotic efflux in Pseudomonas
+aeruginosa.";
+"Inner membrane efflux components are responsible for beta-lactam
+specificity of multidrug efflux pumps in Pseudomonas aeruginosa.";
+"Role of the multidrug efflux systems of Pseudomonas aeruginosa in
+organic solvent tolerance.";
+"Contribution of the MexX-MexY-oprM efflux system to intrinsic
+resistance in Pseudomonas aeruginosa.";
+"Mutational analysis of the OprM outer membrane component of the MexA-
+MexB-OprM multidrug efflux system of Pseudomonas aeruginosa.";
+"Crystal structure of the drug discharge outer membrane protein, OprM,
+of Pseudomonas aeruginosa: dual modes of membrane anchoring and
+occluded cavity end.";
+"Trimeric structure of OprN and OprM efflux proteins from Pseudomonas
+aeruginosa, by 2D electron crystallography.";
+-!- FUNCTION: The outer membrane component of the mexAB-oprM efflux
+    system that confers multidrug resistance. Also functions as the
+    major efflux pump for n-hexane and p-xylene efflux. Over-
+    expression of the pump increases antibiotic and solvent efflux
+    capacities. Can replace the oprJ outer membrane component of the
+    mexCD-oprJ pump; the antibiotics exported are those exported by
+    the intact mexCD pump, showing that efflux substrate specificity
+    is not conferred by this component. Serves as the outer membrane
+    component for the mexXY efflux system. Implicated in the secretion
+    of the siderophore pyoverdine. OprM is probably involved in the
+    efflux of the siderophore across the outer membrane.
+-!- FUNCTION: The ability to export antibiotics and solvents is
+    dramatically decreased in the presence of the proton conductor
+    carbonyl cyanide m-chlorophenylhydrazone (CCCP), showing that an
+    energized inner membrane is required for efflux. It is thought
+    that the mexB subunit is a proton antiporter.
+-!- SUBUNIT: Component of the mexAB-oprM multidrug efflux complex
+    composed of an unknown number of mexA subunits, mexB and an oprM
+    homotrimer. The oprM homotrimer assembles to form a 135 Angstroms-
+    long pore. It consists of a beta-barrel, which is probably
+    inserted in the outer membrane, and an alpha-barrel formed by
+    alpha-helices which probably spans the periplasm. In the ground
+    state the periplasmic end is closed, while the outer membrane end
+    opening is 6-8 Angstroms in diameter. The oprM trimer is thought
+    to contact the inner membrane mexB transporter. The mexA subunits
+    are thought to form a barrel which allows substrates to pass
+    directly from the cytoplasm to the external mileu. How the mexA
+    subunits interact with oprM and mexB, and how the oprM channel is
+    opened is unknown.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor.
+    Note=Attached to the outer membrane by a lipid anchor and via the
+    transmembrane beta-barrel. The membrane anchor is not necessary
+    for antibiotic efflux. In one report (PubMed:10889211) the Cys-18-
+    Gly mutant is reported to be periplasmically located, in another
+    (PubMed:11114896) the same protein is reported to be located in
+    the outer membrane.
+-!- INDUCTION: By growth under severe iron limitation.
+-!- SIMILARITY: Belongs to the outer membrane factor (OMF) (TC 1.B.17)
+    family.
+-!- CAUTION: The conflict shown in Ref.1 is due to cloning in a
+    phagemid vector.
+3D-structure; Antibiotic resistance; Complete proteome;
+Direct protein sequencing; Lipoprotein; Membrane; Outer membrane;
+Palmitate; Signal; Transmembrane; Transport.
+TMZERO

@@ -1,0 +1,26 @@
+AC   P40260;
+Ammonium transporter MEP1.
+"Cloning and expression of the MEP1 gene encoding an ammonium
+transporter in Saccharomyces cerevisiae.";
+"An 18.3 kb DNA fragment from yeast chromosome VII carries four
+unknown open reading frames, the gene for an Asn synthase, remnants of
+Ty and three tRNA genes.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Transporter for ammonium to use as a nitrogen source.
+    Can also transport methylamine. The affinity of MEP1 is about
+    twenty times lower than that of MEP2.
+-!- INTERACTION:
+    P40582:GTT1; NbExp=1; IntAct=EBI-10714, EBI-7941;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ammonium transporter (TC 2.A.49)
+    family.
+ GO:0005886; C:plasma membrane; TAS:SGD.
+ GO:0008519; F:ammonium transporter activity; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015696; P:ammonium transport; IMP:SGD.
+ GO:0019740; P:nitrogen utilization; IMP:SGD.
+Ammonia transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMELEVEN

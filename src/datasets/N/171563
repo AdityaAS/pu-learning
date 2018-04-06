@@ -1,0 +1,22 @@
+AC   P19689;
+Phosphoserine aminotransferase (EC 2.6.1.52) (PSAT).
+"Cloning and characterisation of the serC and aroA genes of Yersinia
+enterocolitica, and construction of an aroA mutant.";
+-!- CATALYTIC ACTIVITY: O-phospho-L-serine + 2-oxoglutarate = 3-
+    phosphonooxypyruvate + L-glutamate.
+-!- CATALYTIC ACTIVITY: 4-phosphonooxy-L-threonine + 2-oxoglutarate =
+    (3R)-3-hydroxy-2-oxo-4-phosphonooxybutanoate + L-glutamate.
+-!- COFACTOR: Pyridoxal phosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-serine biosynthesis; L-serine
+    from 3-phospho-D-glycerate: step 2.
+-!- PATHWAY: Cofactor biosynthesis; pyridoxine 5'-phosphate
+    biosynthesis; pyridoxine 5'-phosphate from D-erythrose 4-
+    phosphate: step 3.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the class-V pyridoxal-phosphate-dependent
+    aminotransferase family.
+ GO:0004648; F:phosphoserine transaminase activity; IEA:HAMAP.
+ GO:0008615; P:pyridoxine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Aminotransferase; Pyridoxal phosphate;
+Pyridoxine biosynthesis; Serine biosynthesis; Transferase.
+TMZERO

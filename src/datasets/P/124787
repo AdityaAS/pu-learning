@@ -1,0 +1,31 @@
+AC   O75381; Q8WX51;
+Peroxisomal membrane protein PEX14 (Peroxin-14) (Peroxisomal membrane
+anchor protein PEX14) (PTS1 receptor docking protein).
+"Identification of a human PTS1 receptor docking protein directly
+required for peroxisomal protein import.";
+"The peroxine Pex14p cloned by functional complementation on a CHO
+cell mutant mediates import of PTS1- and PTS2-proteins by interacting
+with Pex5p and Pex7p: dual function of a longer isoform of Pex5p.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"PEX19 binds multiple peroxisomal membrane proteins, is predominantly
+cytoplasmic, and is required for peroxisome membrane synthesis.";
+-!- FUNCTION: Component of the peroxisomal translocation machinery
+    with PEX13 and PEX17. Interacts with both the PTS1 and PTS2
+    receptors. Binds directly to PEX17.
+-!- SUBUNIT: Interacts with PEX19.
+-!- INTERACTION:
+    P40855:PEX19; NbExp=1; IntAct=EBI-594898, EBI-594747;
+-!- SUBCELLULAR LOCATION: Peroxisome; peroxisomal membrane; peripheral
+    membrane protein; cytoplasmic side.
+-!- SIMILARITY: Belongs to the peroxin 14 family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=PEX14".
+ GO:0005779; C:integral to peroxisomal membrane; TAS:ProtInc.
+ GO:0005777; C:peroxisome; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+Membrane; Peroxisome; Protein transport; Translocation; Transport.
+TMZERO

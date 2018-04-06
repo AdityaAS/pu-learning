@@ -1,0 +1,24 @@
+AC   Q91250;
+Estrogen receptor (ER) (Estradiol receptor) (ER-alpha).
+"Zebra finch estrogen receptor cDNA: cloning and mRNA expression.";
+-!- FUNCTION: The steroid hormones and their receptors are involved in
+    the regulation of eukaryotic gene expression and affect cellular
+    proliferation and differentiation in target tissues.
+-!- SUBUNIT: Binds DNA as a homodimer. Can form a heterodimer with ER-
+    beta (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- DOMAIN: Composed of three domains: a modulating N-terminal domain,
+    a DNA-binding domain and a C-terminal steroid-binding domain.
+-!- SIMILARITY: Belongs to the nuclear hormone receptor family. NR3
+    subfamily.
+-!- SIMILARITY: Contains 1 nuclear receptor DNA-binding domain.
+ GO:0016585; C:chromatin remodeling complex; ISS:UniProtKB.
+ GO:0016020; C:membrane; ISS:UniProtKB.
+ GO:0030284; F:estrogen receptor activity; ISS:UniProtKB.
+ GO:0030235; F:nitric-oxide synthase regulator activity; ISS:UniProtKB.
+ GO:0030520; P:estrogen receptor signaling pathway; ISS:UniProtKB.
+ GO:0006355; P:regulation of transcription, DNA-dependent; ISS:UniProtKB.
+DNA-binding; Lipid-binding; Metal-binding; Nuclear protein; Receptor;
+Steroid-binding; Transcription; Transcription regulation; Zinc;
+Zinc-finger.
+TMZERO

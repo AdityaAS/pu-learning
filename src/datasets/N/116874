@@ -1,0 +1,30 @@
+AC   P0A780; P04381; Q2MC10;
+N utilization substance protein B (Protein nusB).
+"The nucleotide sequence of the Escherichia coli K12 nusB (groNB)
+gene.";
+"Molecular cloning and nucleotide sequencing of the nusB gene of E.
+coli.";
+"Escherichia coli proteins involved in regulation of transcription
+termination: function, structure, and expression of the nusA and nusB
+genes.";
+"Insertional disruption of the nusB (ssyB) gene leads to cold-
+sensitive growth of Escherichia coli and suppression of the secY24
+mutation.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Solution structure of the antitermination protein NusB of Escherichia
+coli: a novel all-helical fold for an RNA-binding protein.";
+"The structure of the transcriptional antiterminator NusB from
+Escherichia coli.";
+-!- FUNCTION: One of the proteins essential for the formation of the
+    RNA polymerase antitermination complex in the presence of lambda
+    phage N protein. However, it is involved in the transcription
+    termination process at certain sites during normal bacterial
+    growth. Binds to the boxA RNA motif.
+-!- SUBUNIT: Monomer.
+-!- SIMILARITY: Belongs to the nusB family.
+3D-structure; Complete proteome; RNA-binding; Transcription;
+Transcription regulation; Transcription termination.
+TMZERO

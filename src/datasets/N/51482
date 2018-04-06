@@ -1,0 +1,11 @@
+AC   P04203;
+Exendin-1 (Helospectin-1) (Helospectin I) [Contains: Exendin-1b
+(Heloxspectin-2) (Helospectin II)].
+"Amino acid sequences of helospectins, new members of the glucagon
+superfamily, found in Gila monster venom.";
+-!- FUNCTION: Has a VIP/secretin-like biological activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the glucagon family.
+Direct protein sequencing; Toxin.
+TMZERO

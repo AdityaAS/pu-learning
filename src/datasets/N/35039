@@ -1,0 +1,15 @@
+AC   Q6YFP9; Q32KV3;
+Cytochrome c oxidase subunit VIb isoform 2 (EC 1.9.3.1) (COX VIb-2)
+(Cytochrome c oxidase subunit VIb, testis-specific isoform).
+"Cytochrome c oxidase of mammals contains a testes-specific isoform of
+subunit VIb -- the counterpart to testes-specific cytochrome c?";
+-!- FUNCTION: Connects the two COX monomers into the physiological
+    dimeric form (By similarity).
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial intermembrane
+    space (By similarity).
+-!- TISSUE SPECIFICITY: Testis specific.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase VIb family.
+Mitochondrion; Oxidoreductase.
+TMZERO

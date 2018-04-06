@@ -1,0 +1,19 @@
+AC   P41796; P45692; Q9ZFV3;
+Ethanolamine utilization protein eutH (Putative ethanolamine
+transporter).
+"Ethanolamine utilization in Salmonella typhimurium: nucleotide
+sequence, protein expression, and mutational analysis of the cchA cchB
+eutE eutJ eutG eutH gene cluster.";
+"The 17-gene ethanolamine (eut) operon of Salmonella typhimurium
+encodes five homologues of carboxysome shell proteins.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Possibly involved in the transport of ethanolamine from
+    the periplasm to the cytoplasm.
+-!- PATHWAY: Ethanolamine utilization.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- CAUTION: Ref.1 (AAA80212) sequence differs from that shown due to
+    a frameshift in position 363.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMELEVEN

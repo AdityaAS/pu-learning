@@ -1,0 +1,20 @@
+AC   O74638; Q4I4G1; Q7LWD4;
+CTP synthase (EC 6.3.4.2) (UTP--ammonia ligase) (CTP synthetase).
+"The mystery of the trichothecene 3-O-acetyltransferase gene. Analysis
+of the region around Tri101 and characterization of its homologue from
+Fusarium sporotrichioides.";
+"Fusarium graminearum genome sequence.";
+"Features of Tri101, the trichothecene 3-O-acetyltransferase gene,
+related to the self-defense mechanism in Fusarium graminearum.";
+-!- FUNCTION: Catalyzes the ATP-dependent amination of UTP to CTP with
+    either L-glutamine or ammonia as the source of nitrogen.
+-!- CATALYTIC ACTIVITY: ATP + UTP + NH(3) = ADP + phosphate + CTP.
+-!- PATHWAY: Nucleotide biosynthesis; CTP biosynthesis; CTP from UDP:
+    step 2 [final step].
+-!- SIMILARITY: Belongs to the CTP synthase family.
+-!- SIMILARITY: Contains 1 glutamine amidotransferase type-1 domain.
+-!- CAUTION: Ref.2 sequence differs from that shown due to erroneous
+    gene model prediction.
+Complete proteome; Glutamine amidotransferase; Ligase;
+Pyrimidine biosynthesis.
+TMZERO

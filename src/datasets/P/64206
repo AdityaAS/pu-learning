@@ -1,0 +1,26 @@
+AC   P18156;
+Glycerol uptake facilitator protein.
+"The glpP and glpF genes of the glycerol regulon in Bacillus
+subtilis.";
+"The 172 kb prkA-addAB region from 83 degrees to 97 degrees of the
+Bacillus subtilis chromosome contains several dysfunctional genes, the
+glyB marker, many genes encoding transporter proteins, and the
+ubiquitous hit gene.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Glycerol catabolism in Bacillus subtilis: nucleotide sequence of the
+genes encoding glycerol kinase (glpK) and glycerol-3-phosphate
+dehydrogenase (glpD).";
+-!- FUNCTION: Glycerol enters the cell via the glycerol diffusion
+    facilitator protein. This membrane protein facilitates the
+    movement of glycerol across the cytoplasmic membrane.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- INDUCTION: Requires glycerol 3-phosphate and the glpP product;
+    repressed by glucose.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+Complete proteome; Glycerol metabolism; Membrane; Transmembrane;
+Transport.
+TMSIX

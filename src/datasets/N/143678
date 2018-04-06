@@ -1,0 +1,12 @@
+AC   P01349;
+Relaxin [Contains: Relaxin B chain; Relaxin A chain] (Fragments).
+"On the primary and tertiary structure of relaxin from the sand tiger
+shark (Odontaspis taurus).";
+"Isolation, purification, and the sequence of relaxin from spiny
+dogfish (Squalus acanthias).";
+-!- SUBUNIT: Heterodimer of a B chain and an A chain linked by two
+    disulfide bonds.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the insulin family.
+Direct protein sequencing; Hormone; Pyrrolidone carboxylic acid.
+TMZERO

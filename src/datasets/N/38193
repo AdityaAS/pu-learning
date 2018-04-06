@@ -1,0 +1,19 @@
+AC   Q6CER3;
+DASH complex subunit DAD1 (Outer kinetochore protein DAD1).
+"Genome evolution in yeasts.";
+-!- FUNCTION: Component of the DASH complex, a microtubule-binding
+    subcomplex of the outer kinetochore that is essential for proper
+    chromosome segregation. The DASH complex mediates the formation
+    and maintenance of bipolar kinetochore-microtubule attachments by
+    forming closed rings around spindle microtubules and establishing
+    interactions with proteins from the central kinetochore (By
+    similarity).
+-!- SUBUNIT: The DASH complex oligomerizes to form rings that encircle
+    the microtubules (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Spindle (By
+    similarity). Kinetochore (By similarity). Note=Associates with the
+    mitotic spindle and the kinetochore (By similarity).
+-!- SIMILARITY: Belongs to the DASH complex DAD1 family.
+Cell cycle; Cell division; Centromere; Chromosome partition;
+Complete proteome; Microtubule; Mitosis; Nuclear protein.
+TMZERO

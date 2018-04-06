@@ -1,0 +1,21 @@
+AC   Q97X13;
+Putative ketol-acid reductoisomerase 3 (EC 1.1.1.86) (Acetohydroxy-
+acid isomeroreductase 3) (Alpha-keto-beta-hydroxylacil
+reductoisomerase 3).
+"The complete genome of the crenarchaeon Sulfolobus solfataricus P2.";
+-!- CATALYTIC ACTIVITY: (R)-2,3-dihydroxy-3-methylbutanoate + NADP(+)
+    = (S)-2-hydroxy-2-methyl-3-oxobutanoate + NADPH.
+-!- CATALYTIC ACTIVITY: (2R,3R)-2,3-dihydroxy-3-methylpentanoate +
+    NADP(+) = (S)-2-hydroxy-2-ethyl-3-oxobutanoate + NADPH.
+-!- PATHWAY: Amino-acid biosynthesis; L-isoleucine biosynthesis; L-
+    isoleucine from 2-oxobutanoate: step 2.
+-!- PATHWAY: Amino-acid biosynthesis; L-valine biosynthesis; L-valine
+    from pyruvate: step 2.
+-!- SIMILARITY: Belongs to the ketol-acid reductoisomerase family.
+-!- CAUTION: Ser-107 is present instead of the conserved His which is
+    expected to be an active site residue.
+ GO:0009097; P:isoleucine biosynthesis; IEA:HAMAP.
+ GO:0009099; P:valine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Branched-chain amino acid biosynthesis;
+Complete proteome; Hypothetical protein; NADP; Oxidoreductase.
+TMZERO

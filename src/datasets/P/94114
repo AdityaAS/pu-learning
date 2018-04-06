@@ -1,0 +1,13 @@
+AC   P46104;
+Lincomycin resistance protein.
+"Molecular cloning and characterization of two lincomycin-resistance
+genes, lmrA and lmrB, from Streptomyces lincolnensis 78-11.";
+"Molecular characterization of the lincomycin-production gene cluster
+of Streptomyces lincolnensis 78-11.";
+-!- FUNCTION: Proton-dependent transporter. May mediate the efflux of
+    lincomycin.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. TCR/tet
+    family.
+Antibiotic resistance; Membrane; Transmembrane; Transport.
+TMFOURTEEN

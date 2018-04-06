@@ -1,0 +1,24 @@
+AC   P41036; P76675; Q2M8Y9;
+Putative sialic acid transporter (Sialic acid permease).
+"Derived structure of the putative sialic acid transporter from
+Escherichia coli predicts a novel sugar permease domain.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the N-acetylneuraminate lyase gene of
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: May be a sugar-cation symporter involved in sialic acid
+    transport as it is required for sialic acid uptake.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By N-acetylneuraminate.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family. Sialic acid transporter
+    (TC 2.A.1.12.1) subfamily.
+ GO:0015538; F:sialic acid permease activity; IEA:HAMAP.
+ GO:0015739; P:sialic acid transport; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

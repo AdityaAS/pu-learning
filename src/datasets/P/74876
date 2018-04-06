@@ -1,0 +1,20 @@
+AC   P0A2I9; P02913;
+Histidine transport system permease protein hisQ.
+"Complete nucleotide sequence and identification of membrane
+components of the histidine transport operon of S. typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Topology of the hydrophobic membrane-bound components of the
+histidine periplasmic permease. Comparison with other members of the
+family.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for histidine; probably responsible for the translocation of the
+    substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMFIVE

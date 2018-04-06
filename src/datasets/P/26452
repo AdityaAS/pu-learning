@@ -1,0 +1,17 @@
+AC   P31602;
+Citrate-sodium symporter (Citrate transporter) (Citrate carrier
+protein).
+"Nucleotide sequence and functional properties of a sodium-dependent
+citrate transport system from Klebsiella pneumoniae.";
+"Membrane topology of the sodium ion-dependent citrate carrier of
+Klebsiella pneumoniae. Evidence for a new structural class of
+secondary transporters.";
+-!- FUNCTION: Uptake of citrate across the boundary membrane with the
+    concomitant uptake of a sodium ion (symport system).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Allows the utilization of citrate as a sole source
+    of carbon and energy.
+-!- SIMILARITY: Belongs to the sodium:citrate (SCF) symporter family.
+Citrate utilization; Membrane; Plasmid; Symport; Transmembrane;
+Transport.
+TMNINE

@@ -1,0 +1,22 @@
+AC   O46651;
+CD166 antigen (Activated leukocyte-cell adhesion molecule) (ALCAM)
+(SB-10 antigen) (Fragment).
+"Mesenchymal stem cell surface antigen SB-10 corresponds to activated
+leukocyte cell adhesion molecule and is involved in osteogenic
+differentiation.";
+-!- FUNCTION: Cell adhesion molecule that binds to CD6. Involved in
+    neurite extension by neurons via heterophilic and homophilic
+    interactions. May play a role in the binding of T- and B-cells to
+    activated leukocytes, as well as in interactions between cells of
+    the nervous system (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (By similarity).
+-!- DOMAIN: The CD6 binding site is located in the N-terminal Ig-like
+    domain (By similarity).
+-!- SIMILARITY: Contains 3 Ig-like C2-type (immunoglobulin-like)
+    domains.
+-!- SIMILARITY: Contains 1 Ig-like V-type (immunoglobulin-like)
+    domain.
+Cell adhesion; Glycoprotein; Immunoglobulin domain; Membrane; Repeat;
+Transmembrane.
+TMONE

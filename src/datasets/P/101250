@@ -1,0 +1,25 @@
+AC   P06624;
+Lens fiber major intrinsic protein (Aquaporin-0) (MIP26) (MP26).
+"The major intrinsic protein (MIP) of the bovine lens fiber membrane:
+characterization and structure based on cDNA cloning.";
+"Sequence analysis of peptide fragments from the intrinsic membrane
+protein of calf lens fibers MP26 and its natural maturation product
+MP22.";
+"Amino acid sequence of in vivo phosphorylation sites in the main
+intrinsic protein (MIP) of lens membranes.";
+"Complete map and identification of the phosphorylation site of bovine
+lens major intrinsic protein.";
+-!- FUNCTION: Water channel. May be responsible for regulating the
+    osmolarity of the lens.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Major component of lens fiber gap junctions.
+-!- DEVELOPMENTAL STAGE: Higher expression in pre-natal (1-5 months
+    gestation) than in post-natal (4-6 months) calf lens.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+3D-structure; Direct protein sequencing; Eye lens protein;
+Gap junction; Membrane; Phosphorylation; Repeat; Transmembrane;
+Transport.
+TMSIX

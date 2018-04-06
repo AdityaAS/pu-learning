@@ -1,0 +1,8 @@
+AC   Q7MM45;
+UPF0263 protein VV1228.
+"Comparative genome analysis of Vibrio vulnificus, a marine
+pathogen.";
+-!- SIMILARITY: Belongs to the UPF0263 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

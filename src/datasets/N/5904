@@ -1,0 +1,13 @@
+AC   Q9JHX6;
+Probable allantoicase (EC 3.5.3.4) (Allantoate amidinohydrolase).
+"Molecular cloning of mouse allantoicase cDNA.";
+"Genomic organization and chromosome localization of the murine and
+human allantoicase gene.";
+-!- FUNCTION: The function of this enzyme is unclear as allantoicase
+    activity is not known to exist in mammals.
+-!- CATALYTIC ACTIVITY: Allantoate + H(2)O = (S)-ureidoglycolate +
+    urea.
+-!- SIMILARITY: Belongs to the allantoicase family.
+ GO:0004037; F:allantoicase activity; IEA:EC.
+Hydrolase.
+TMZERO

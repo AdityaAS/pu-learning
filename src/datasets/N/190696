@@ -1,0 +1,40 @@
+AC   P18475; Q9V4R2;
+Tyrosine-protein kinase receptor torso precursor (EC 2.7.10.1).
+"The Drosophila gene torso encodes a putative receptor tyrosine
+kinase.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Biochemical analysis of torso and D-raf during Drosophila
+embryogenesis: implications for terminal signal transduction.";
+-!- FUNCTION: Probable receptor with tyrosine-protein kinase activity.
+    Required for determination of anterior and posterior terminal
+    structures in the Drosophila embryo. The ligand of torso seems to
+    be TSL.
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- INTERACTION:
+    Q9VPB8:CG4289; NbExp=1; IntAct=EBI-195402, EBI-113203;
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Expressed throughout the embryo but is
+    activated specifically at the poles.
+-!- DEVELOPMENTAL STAGE: Expressed both maternally and zygotically.
+-!- SIMILARITY: Belongs to the Tyr protein kinase family.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005886; C:plasma membrane; NAS:FlyBase.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0001709; P:cell fate determination; TAS:FlyBase.
+ GO:0008595; P:determination of anterior/posterior axis, e...; TAS:FlyBase.
+ GO:0030381; P:eggshell pattern formation (sensu Insecta); IMP:FlyBase.
+ GO:0007369; P:gastrulation; IMP:FlyBase.
+ GO:0007443; P:Malpighian tubule morphogenesis; TAS:FlyBase.
+ GO:0007280; P:pole cell migration; IMP:FlyBase.
+ GO:0006468; P:protein amino acid phosphorylation; NAS:FlyBase.
+ GO:0007362; P:terminal region determination; IMP:FlyBase.
+ GO:0008293; P:torso signaling pathway; TAS:FlyBase.
+ATP-binding; Complete proteome; Developmental protein; Glycoprotein;
+Kinase; Membrane; Nucleotide-binding; Phosphorylation; Receptor;
+Signal; Transferase; Transmembrane; Tyrosine-protein kinase.
+TMONE

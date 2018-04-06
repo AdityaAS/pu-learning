@@ -1,0 +1,18 @@
+AC   P0A4G4; Q490I2; Q9A157; Q9RNI7; Q9RNJ0;
+Metal ABC transporter substrate-binding lipoprotein precursor.
+"Identification and characterization of a Streptococcus pyogenes ABC
+transporter with multiple specificity for metal cations.";
+"Complete genome sequence of an M1 strain of Streptococcus pyogenes.";
+"Evolutionary origin and emergence of a highly successful clone of
+serotype M1 group A Streptococcus involved multiple horizontal gene
+transfer events.";
+-!- FUNCTION: Part of an ATP-driven transport system for a metal; this
+    protein has affinity for Zn(2+), Fe(3+) and Cu(2+).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 9
+    family. Lipoprotein receptor antigen (Lrai) subfamily.
+Complete proteome; Copper; Copper transport;
+Direct protein sequencing; Ion transport; Iron; Iron transport;
+Lipoprotein; Membrane; Palmitate; Signal; Transport; Zinc;
+Zinc transport.
+TMZERO

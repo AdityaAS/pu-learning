@@ -1,0 +1,14 @@
+AC   Q8E284;
+Glutamyl-tRNA synthetase (EC 6.1.1.17) (Glutamate--tRNA ligase)
+(GluRS).
+"Complete genome sequence and comparative genomic analysis of an
+emerging human pathogen, serotype V Streptococcus agalactiae.";
+-!- CATALYTIC ACTIVITY: ATP + L-glutamate + tRNA(Glu) = AMP +
+    diphosphate + L-glutamyl-tRNA(Glu).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

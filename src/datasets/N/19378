@@ -1,0 +1,13 @@
+AC   Q99MP3;
+Calcitonin gene-related peptide 2 precursor (Calcitonin gene-related
+peptide II) (CGRP-II) (Beta-type CGRP).
+"Structure of the mouse calcitonin/calcitonin gene-related peptide
+alpha and beta genes.";
+-!- FUNCTION: CGRP induces vasodilation. It dilates a variety of
+    vessels including the coronary, cerebral and systemic vasculature.
+    Its abundance in the CNS also points toward a neurotransmitter or
+    neuromodulator role (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the calcitonin family.
+Amidation; Cleavage on pair of basic residues; Hormone; Signal.
+TMZERO

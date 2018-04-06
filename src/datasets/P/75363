@@ -1,0 +1,27 @@
+AC   P09983;
+Hemolysin, chromosomal.
+"Nucleotide sequence of an Escherichia coli chromosomal hemolysin.";
+"Characterisation of HlyC and mechanism of activation and secretion of
+haemolysin from E. coli 2001.";
+"Fatty acylation of two internal lysine residues required for the
+toxic activity of Escherichia coli hemolysin.";
+-!- FUNCTION: Bacterial hemolysins are exotoxins that attack blood
+    cell membranes and cause cell rupture by mechanisms not clearly
+    defined.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- DOMAIN: The Gly-rich region is probably involved in binding
+    calcium, which is required for target cell-binding or cytolytic
+    activity.
+-!- DOMAIN: The three transmembrane domains are believed to be
+    involved in pore formation by the cytotoxin.
+-!- PTM: Palmitoylated by hlyC. The toxin only becomes active when
+    modified.
+-!- MISCELLANEOUS: The hemolysin of E.coli is produced predominantly
+    by strains causing extraintestinal infections, such as those of
+    the urinary tract.
+-!- SIMILARITY: Belongs to the RTX prokaryotic toxin (TC 1.C.11)
+    family.
+-!- SIMILARITY: Contains 6 hemolysin-type calcium-binding repeats.
+Calcium; Cytolysis; Direct protein sequencing; Hemolysis; Lipoprotein;
+Membrane; Palmitate; Repeat; Toxin; Transmembrane.
+THTHREE

@@ -1,0 +1,23 @@
+AC   Q47537; P77630; Q2MC60;
+Taurine-binding periplasmic protein precursor (Sulfate starvation-
+induced protein 1) (SSI1).
+"Identification of sulfate starvation-regulated genes in Escherichia
+coli: a gene cluster involved in the utilization of taurine as a
+sulfur source.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Analysis of global responses by protein and peptide fingerprinting of
+proteins isolated by two-dimensional gel electrophoresis. Application
+to the sulfate-starvation response of Escherichia coli.";
+-!- FUNCTION: Part of a binding-protein-dependent transport system for
+    taurine.
+-!- INTERACTION:
+    P0A853:tnaA; NbExp=1; IntAct=EBI-1116148, EBI-371316;
+-!- SUBCELLULAR LOCATION: Periplasm (Potential).
+-!- INDUCTION: Repressed by sulfate or cysteine.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Direct protein sequencing; Periplasmic; Signal;
+Transport.
+TMZERO

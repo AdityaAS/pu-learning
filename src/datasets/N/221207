@@ -1,0 +1,23 @@
+AC   P38346;
+Probable target of rapamycin complex 2 subunit BIT2 (TORC2 subunit
+BIT2) (Binding partner of TOR2 protein 2).
+"Complete DNA sequence of yeast chromosome II.";
+"A comprehensive two-hybrid analysis to explore the yeast protein
+interactome.";
+"The pleckstrin homology domain proteins Slm1 and Slm2 are required
+for actin cytoskeleton organization in yeast and bind
+phosphatidylinositol-4,5-bisphosphate and TORC2.";
+-!- SUBUNIT: Interacts with the target of rapamycin complex 2 (TORC2)
+    subunit TSC11 and the TORC2 effectors SLM1 and SLM2.
+-!- INTERACTION:
+    Q06410:ATG17; NbExp=1; IntAct=EBI-21144, EBI-30856;
+    Q12365:BBP1; NbExp=1; IntAct=EBI-21144, EBI-3448;
+    P14741:GCN3; NbExp=1; IntAct=EBI-21144, EBI-6253;
+    P33419:NIP29; NbExp=1; IntAct=EBI-21144, EBI-12041;
+    Q03935:YAP6; NbExp=1; IntAct=EBI-21144, EBI-37603;
+    P40061:YER093C; NbExp=1; IntAct=EBI-21144, EBI-22621;
+    P40485:YIL105C; NbExp=1; IntAct=EBI-21144, EBI-25172;
+    P53955:YNL047C; NbExp=1; IntAct=EBI-21144, EBI-28706;
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome.
+TMZERO

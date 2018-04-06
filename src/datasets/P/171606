@@ -1,0 +1,22 @@
+AC   P31436; Q2M7X1;
+Sugar efflux transporter C.
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The identification of a new family of sugar efflux pumps in
+Escherichia coli.";
+"Functional and biochemical characterization of Escherichia coli sugar
+efflux transporters.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in the efflux of sugars. The physiological role
+    may be the detoxification of non-metabolizable sugar analogs.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Set
+    transporter family.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMELEVEN

@@ -1,0 +1,15 @@
+AC   Q3TX08; Q3TBY4;
+N(2),N(2)-dimethylguanosine tRNA methyltransferase (EC 2.1.1.32)
+(tRNA(guanine-26,N(2)-N(2)) methyltransferase) (tRNA 2,2-
+dimethylguanosine-26 methyltransferase)
+(tRNA(m(2,2)G26)dimethyltransferase).
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: Dimethylates a single guanine residue at position 26 of
+    most tRNAs using S-adenosyl-L-methionine as donor of the methyl
+    groups (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + tRNA = S-adenosyl-L-
+    homocysteine + tRNA containing 2-N-methylguanine.
+-!- SIMILARITY: Belongs to the TRM1 family.
+Methyltransferase; S-adenosyl-L-methionine; Transferase;
+tRNA processing.
+TMZERO

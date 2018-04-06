@@ -1,0 +1,15 @@
+AC   Q8U1R5;
+Translation initiation factor 2 alpha subunit (eIF-2-alpha) (aIF2-
+alpha).
+"The complete sequence of the Pyrococcus furiosus genome.";
+-!- FUNCTION: eIF-2 functions in the early steps of protein synthesis
+    by forming a ternary complex with GTP and initiator tRNA (By
+    similarity).
+-!- SUBUNIT: Heterotrimer composed of an alpha, a beta and a gamma
+    chain (By similarity).
+-!- SIMILARITY: Belongs to the eIF-2-alpha family.
+-!- SIMILARITY: Contains 1 S1 motif domain.
+ GO:0006413; P:translational initiation; IEA:HAMAP.
+Complete proteome; Initiation factor; Protein biosynthesis;
+RNA-binding.
+TMZERO

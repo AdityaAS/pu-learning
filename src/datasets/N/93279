@@ -1,0 +1,26 @@
+AC   P14181;
+Protein licA.
+"The molecular mechanism of phase variation of H. influenzae
+lipopolysaccharide.";
+"Tandem repeats of the tetramer 5'-CAAT-3' present in lic2A are
+required for phase variation but not lipopolysaccharide biosynthesis
+in Haemophilus influenzae.";
+-!- FUNCTION: Mediates phase variation of the LOS 6A2 and 12D9
+    epitopes. Phase variation of H.influenza LOS epitopes expressed by
+    licA is determined by a translational switch.
+-!- DOMAIN: Between 2 and 19 copies of the INQS repeats are to be
+    found in different strains; these are thought to serve to generate
+    phase-variable expression of this gene.
+-!- MISCELLANEOUS: There is spontaneous, high frequency switching
+    between three discrete levels of expression (++++, +, -) of
+    oligosaccharide epitopes.
+-!- MISCELLANEOUS: Lipooligosaccharide (LOS) is a glycolipid that is a
+    necessary component and antigenic determinant of the outer
+    membrane and has been shown to be an important factor in the host-
+    parasite interaction in a number of Gram-negative species.
+-!- MISCELLANEOUS: H.influenzae is able to display an extensive
+    repertoire of different surface configurations through variability
+    of its LOS.
+-!- SIMILARITY: Belongs to the peptidase S49 family.
+Repeat.
+TMZERO

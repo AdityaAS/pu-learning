@@ -1,0 +1,23 @@
+AC   Q5HRJ8;
+Probable branched-chain-amino-acid aminotransferase (EC 2.6.1.42)
+(BCAT).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Acts on leucine, isoleucine and valine (By similarity).
+-!- CATALYTIC ACTIVITY: L-leucine + 2-oxoglutarate = 4-methyl-2-
+    oxopentanoate + L-glutamate.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-isoleucine biosynthesis; L-
+    isoleucine from 2-oxobutanoate: step 4 [final step].
+-!- PATHWAY: Amino-acid biosynthesis; L-leucine biosynthesis; L-
+    leucine from 3-methyl-2-oxobutanoate: step 4 [final step].
+-!- PATHWAY: Amino-acid biosynthesis; L-valine biosynthesis; L-valine
+    from pyruvate: step 4 [final step].
+-!- SIMILARITY: Belongs to the class-IV pyridoxal-phosphate-dependent
+    aminotransferase family.
+Amino-acid biosynthesis; Aminotransferase;
+Branched-chain amino acid biosynthesis; Complete proteome;
+Pyridoxal phosphate; Transferase.
+TMZERO

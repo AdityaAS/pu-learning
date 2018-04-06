@@ -1,0 +1,26 @@
+AC   Q62896;
+BET1 homolog (Golgi vesicular membrane-trafficking protein p18)
+(rBET1).
+"Mammalian vesicle trafficking proteins of the endoplasmic reticulum
+and Golgi apparatus.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The mammalian protein (rbet1) homologous to yeast Bet1p is primarily
+associated with the pre-Golgi intermediate compartment and is involved
+in vesicular transport from the endoplasmic reticulum to the Golgi
+apparatus.";
+-!- FUNCTION: Required for vesicular transport from the ER to the
+    Golgi complex. Functions as a SNARE involved in the docking
+    process of ER-derived vesicles with the cis-Golgi membrane.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type IV membrane protein.
+-!- SIMILARITY: Belongs to the BET1 family.
+-!- SIMILARITY: Contains 1 t-SNARE coiled-coil homology domain.
+ GO:0005794; C:Golgi apparatus; IMP:RGD.
+ GO:0016021; C:integral to membrane; IPI:RGD.
+ GO:0031201; C:SNARE complex; TAS:RGD.
+ GO:0006888; P:ER to Golgi vesicle-mediated transport; IDA:MGI.
+Coiled coil; Endoplasmic reticulum; ER-Golgi transport;
+Golgi apparatus; Membrane; Protein transport; Transmembrane;
+Transport.
+TMONE

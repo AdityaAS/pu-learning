@@ -1,0 +1,19 @@
+AC   P80591;
+Light-harvesting polypeptide B-885 beta-2 chain (LH-1) (Antenna
+pigment polypeptide beta-2 chain).
+"The antenna complexes of the purple non-sulfur photosynthetic
+bacterium Rhodocyclus tenuis. Structural and spectral
+characterization.";
+-!- FUNCTION: Antenna complexes are light-harvesting systems, which
+    transfer the excitation energy to the reaction centers.
+-!- SUBUNIT: The core complex is formed by different alpha and beta
+    chains, binding bacteriochlorophyll molecules, and arranged most
+    probably in tetrameric structures disposed around the reaction
+    center. The non-pigmented gamma chains may constitute additional
+    components.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein.
+Antenna complex; Bacteriochlorophyll; Chlorophyll; Chromophore;
+Direct protein sequencing; Light-harvesting polypeptide; Magnesium;
+Membrane; Metal-binding; Transmembrane.
+TMONE

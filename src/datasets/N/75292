@@ -1,0 +1,27 @@
+AC   Q6N2R5;
+Bifunctional protein hldE [Includes: D-beta-D-heptose 7-phosphate
+kinase (EC 2.7.1.-) (D-beta-D-heptose 7-phosphotransferase); D-beta-D-
+heptose 1-phosphate adenosyltransferase (EC 2.7.7.-)].
+"Complete genome sequence of the metabolically versatile
+photosynthetic bacterium Rhodopseudomonas palustris.";
+-!- FUNCTION: Catalyzes the phosphorylation of D-glycero-D-manno-
+    heptose 7-phosphate at the C-1 position to form D,D-heptose-1,7-
+    bisphosphate (By similarity).
+-!- FUNCTION: Catalyzes the ADP transfer to D-glycero-D-manno-heptose
+    1-phosphate, yielding ADP-D,D-heptose (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + D-glycero-beta-D-manno-heptose 7-
+    phosphate = ADP + D-glycero-beta-D-manno-heptose 1,7-bisphosphate.
+-!- CATALYTIC ACTIVITY: ATP + D-glycero-beta-D-manno-heptose 1-
+    phosphate = diphosphate + ADP-D-glycero-beta-D-manno-heptose.
+-!- PATHWAY: ADP-L-glycero-beta-D-manno-heptose biosynthesis; second
+    step.
+-!- PATHWAY: ADP-L-glycero-beta-D-manno-heptose biosynthesis; fourth
+    step.
+-!- SIMILARITY: In the N-terminal section; belongs to the carbohydrate
+    kinase pfkB family.
+-!- SIMILARITY: In the C-terminal section; belongs to the
+    cytidylyltransferase family.
+ GO:0019200; F:carbohydrate kinase activity; IEA:HAMAP.
+Carbohydrate metabolism; Complete proteome; Kinase;
+Multifunctional enzyme; Nucleotidyltransferase; Transferase.
+TMZERO

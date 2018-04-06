@@ -1,0 +1,20 @@
+AC   Q4G059;
+Cell division cycle-associated 7-like protein.
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Play a role in transcriptional regulation as a repressor
+    that inhibits monoamine oxidase A (MAOA) activity and gene
+    expression by binding to the promoter. Play an important oncogenic
+    role in mediating the full transforming effect of MYC in
+    medulloblastoma cells. Involved in apoptotic signaling pathways;
+    May act downstream of P38-kinase and BCL-2, but upstream of
+    CASP3/caspase-3 as well as CCND1/cyclin D1 and E2F1 (By
+    similarity).
+-!- SUBUNIT: Interacts with MYC and PSIP1 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity). Note=Associates with chromatin. Translocates from
+    cytoplasm to nucleus under dexamethasone induction (By
+    similarity).
+Nuclear protein; Phosphorylation; Repressor; Transcription;
+Transcription regulation.
+TMZERO

@@ -1,0 +1,19 @@
+AC   P38681; Q7RVB5;
+Nitrite reductase [NAD(P)H] (EC 1.7.1.4).
+"Molecular cloning, characterization, and nucleotide sequence of nit-
+6, the structural gene for nitrite reductase in Neurospora crassa.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- CATALYTIC ACTIVITY: Ammonium hydroxide + 3 NAD(P)(+) + H(2)O =
+    nitrite + 3 NAD(P)H.
+-!- COFACTOR: Binds 1 siroheme per subunit.
+-!- COFACTOR: Binds 1 4Fe-4S cluster per subunit.
+-!- COFACTOR: FAD.
+-!- PATHWAY: Nitrate assimilation (denitrification); second step.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- INDUCTION: By nitrate.
+-!- SIMILARITY: Belongs to the nitrite and sulfite reductase 4Fe-4S
+    domain family.
+-!- SIMILARITY: Contains 1 Rieske domain.
+4Fe-4S; FAD; Flavoprotein; Heme; Iron; Iron-sulfur; Metal-binding;
+NADP; Nitrate assimilation; Oxidoreductase.
+TMZERO

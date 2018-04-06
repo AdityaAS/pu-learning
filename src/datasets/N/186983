@@ -1,0 +1,13 @@
+AC   P07698;
+TGB3 protein (Triple gene block 3 protein) (TGBp3) (7 kDa protein)
+(ORF4 protein).
+"The nucleotide sequence of potato virus X RNA.";
+"Nucleotide sequence of the open reading frames adjacent to the coat
+protein cistron in potato virus X genome.";
+"A new cell-to-cell transport model for Potexviruses.";
+-!- FUNCTION: The three proteins TGB1, TGB2 and TGB3 are required for
+    virus movement.
+-!- SIMILARITY: Belongs to the potexviruses/carlaviruses TGB3 protein
+    family.
+Membrane; Transmembrane; Transport; Viral movement protein.
+TMONE

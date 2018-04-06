@@ -1,0 +1,12 @@
+AC   O34262;
+Hypothetical protein wxcX.
+"Xanthomonas campestris pv. campestris lpsI and lpsJ genes encoding
+putative proteins with sequence similarity to the alpha- and beta-
+subunits of 3-oxoacid CoA-transferases are involved in LPS
+biosynthesis.";
+"Comparison of the genomes of two Xanthomonas pathogens with differing
+host specificities.";
+-!- CAUTION: Ref.1 (AAK53494) sequence differs from that shown due to
+    frameshifts in positions 195 and 228.
+Complete proteome; Hypothetical protein.
+TMZERO

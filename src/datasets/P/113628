@@ -1,0 +1,49 @@
+AC   Q56584;
+Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.-)
+(Na(+)-translocating NADH-quinone reductase subunit beta) (Na(+)-
+translocating NQR subunit F) (Na(+)-NQR subunit F) (NQR complex
+subunit F) (NQR-1 subunit F).
+"Sequencing and the alignment of structural genes in the nqr operon
+encoding the Na(+)-translocating NADH-quinone reductase from Vibrio
+alginolyticus.";
+"Expression and analysis of the gene for the catalytic beta subunit of
+the sodium-translocating NADH-ubiquinone oxidoreductase of Vibrio
+alginolyticus.";
+"Identification of six subunits constituting Na+-translocating NADH-
+quinone reductase from the marine Vibrio alginolyticus.";
+"The Na+-translocating NADH:ubiquinone oxidoreductase from Vibrio
+alginolyticus -- redox states of the FAD prosthetic group and
+mechanism of Ag+ inhibition.";
+"Modifications by Na+ and K+, and the site of Ag+ inhibition in the
+Na+-translocating NADH-quinone reductase from a marine Vibrio
+alginolyticus.";
+"Inhibitor studies of a new antibiotic, korormicin, 2-n-heptyl-4-
+hydroxyquinoline N-oxide and Ag+ toward the Na+-translocating NADH-
+quinone reductase from the marine Vibrio alginolyticus.";
+"Recent progress in the Na(+)-translocating NADH-quinone reductase
+from the marine Vibrio alginolyticus.";
+"Na(+) translocation by bacterial NADH:quinone oxidoreductases: an
+extension to the complex-I family of primary redox pumps.";
+-!- FUNCTION: NQR complex catalyzes the reduction of ubiquinone-1 to
+    ubiquinol by two successive reactions, coupled with the transport
+    of Na(+) ions from the cytoplasm to the periplasm. The first step
+    is catalyzed by nqrF, which accepts electrons from NADH and
+    reduces ubiquinone-1 to ubisemiquinone by a one-electron transfer
+    pathway.
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone + Na(+)(In) = NAD(+) +
+    ubiquinol + Na(+)(Out).
+-!- COFACTOR: Binds 1 2Fe-2S cluster (By similarity).
+-!- COFACTOR: FAD (By similarity).
+-!- ENZYME REGULATION: Activated by Na(+) or K(+). Inhibited by
+    silver.
+-!- SUBUNIT: Composed of six subunits; nqrA, nqrB, nqrC, nqrD, nqrE
+    and nqrF.
+-!- SUBCELLULAR LOCATION: Cell inner membrane (Potential).
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the nqrF family.
+-!- SIMILARITY: Contains 1 2Fe-2S ferredoxin-type domain.
+2Fe-2S; Direct protein sequencing; FAD; Flavoprotein; Inner membrane;
+Ion transport; Iron; Iron-sulfur; Membrane; Metal-binding; NAD;
+Oxidoreductase; Sodium; Sodium transport; Transmembrane; Transport;
+Ubiquinone.
+TMONE

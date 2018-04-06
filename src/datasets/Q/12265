@@ -1,0 +1,28 @@
+AC   P14415; O60444;
+Sodium/potassium-transporting ATPase subunit beta-2 (Sodium/potassium-
+dependent ATPase beta-2 subunit).
+"Identification of a putative isoform of the Na,K-ATPase beta subunit.
+Primary structure and tissue-specific expression.";
+"Nucleotide sequence of a cDNA for the beta 2 subunit isoform of
+Na+,K(+)-ATPase from human retina.";
+"Expression and synthesis of the Na,K-ATPase beta 2 subunit in human
+retinal pigment epithelium.";
+"Structure and expression of the human Na,K-ATPase beta 2-subunit
+gene.";
+-!- FUNCTION: This is the non-catalytic component of the active
+    enzyme, which catalyzes the hydrolysis of ATP coupled with the
+    exchange of Na(+) and K(+) ions across the plasma membrane. The
+    exact function of the beta-2 subunit is not known.
+-!- SUBUNIT: Composed of three subunits: alpha (catalytic), beta and
+    gamma.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein.
+-!- SIMILARITY: Belongs to the Na+/K+ and H+/K+ ATPases subunit beta
+    family.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0005391; F:sodium:potassium-exchanging ATPase activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Signal-anchor; Sodium; Sodium transport; Sodium/potassium transport;
+Transmembrane; Transport.
+TMONE

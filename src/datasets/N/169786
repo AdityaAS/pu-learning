@@ -1,0 +1,24 @@
+AC   Q9LP46;
+Protein SCAR3 (AtSCAR3) (Protein WAVE2).
+"Activation of Arp2/3 complex-dependent actin polymerization by plant
+proteins distantly related to Scar/WAVE.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"NAPP and PIRP encode subunits of a putative wave regulatory protein
+complex involved in plant cell morphogenesis.";
+-!- FUNCTION: Involved in regulation of actin and microtubule
+    organization. Part of a WAVE complex that activates the Arp2/3
+    complex. Regulates trichome branch positioning and expansion.
+-!- SUBUNIT: Binds BRK1.
+-!- TISSUE SPECIFICITY: Expressed in expanding cotyledons, expanding
+    leaves and expanding siliques containing developing embryos.
+    Detected in unopened flower buds. Reduced expression in mature
+    leaves and mature cotyledons.
+-!- DOMAIN: Activates the Arp2/3 complex and binds actin through the
+    C-terminal VCA (verprolin homology/cofilin homology/acidic) domain
+    consisting of a WH2 domain followed by an Arp2/3-binding acidic
+    motif (A), separated by a conserved linker region (C). Binds BRK1
+    through the N-terminal Scar homology domain (SHD).
+-!- SIMILARITY: Contains 1 WH2 domain.
+Actin-binding; Cytoskeleton.
+TMZERO

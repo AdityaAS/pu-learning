@@ -1,0 +1,23 @@
+AC   P37748;
+O-antigen polymerase.
+"Genetic analysis of the O-specific lipopolysaccharide biosynthesis
+region (rfb) of Escherichia coli K-12 W3110: identification of genes
+that confer group 6 specificity to Shigella flexneri serotypes Y and
+4a.";
+"Structure of the O antigen of Escherichia coli K-12 and the sequence
+of its rfb gene cluster.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: May link the O-antigen tetrasaccharide units into long
+    chains, giving rise to typical smooth LPS.
+-!- PATHWAY: Lipopolysaccharide biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+Complete proteome; Inner membrane; Lipopolysaccharide biosynthesis;
+Membrane; Transmembrane.
+TMNINE

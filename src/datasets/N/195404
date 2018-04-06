@@ -1,0 +1,15 @@
+AC   Q9PS09;
+Dendrotoxin B (DTX-B) (Fragment).
+"Purification and partial characterization of K+ channel blockers from
+the venom of Dendroaspis angusticeps.";
+-!- FUNCTION: Blocks voltage-dependent potassium channels. This is the
+    slowly inactivating phase of potassium efflux which is blocked by
+    this toxin.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- PTM: Contains four disulfide bonds (By similarity).
+-!- SIMILARITY: Belongs to the snake toxin family. Acn-esterase
+    inhibitor subfamily.
+Direct protein sequencing; Ionic channel inhibitor; Neurotoxin;
+Potassium channel inhibitor; Toxin.
+TMZERO

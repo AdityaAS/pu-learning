@@ -1,0 +1,32 @@
+AC   P80183;
+Tetrahydromethanopterin S-methyltransferase subunit D (EC 2.1.1.86)
+(N5-methyltetrahydromethanopterin--coenzyme M methyltransferase
+subunit D).
+"Cloning, sequencing and immunological characterization of the
+corrinoid-containing subunit of the N5-methyltetrahydromethanopterin:
+coenzyme-M methyltransferase from Methanobacterium
+thermoautotrophicum.";
+"Purification and properties of N5-
+methyltetrahydromethanopterin:coenzyme M methyltransferase from
+Methanobacterium thermoautotrophicum.";
+"The energy conserving N5-methyltetrahydromethanopterin:coenzyme M
+methyltransferase complex from Methanobacterium thermoautotrophicum is
+composed of eight different subunits.";
+-!- FUNCTION: Part of a complex that catalyzes the formation of
+    methyl-coenzyme M and tetrahydromethanopterin from coenzyme M and
+    methyl-tetrahydromethanopterin. This is an energy-conserving,
+    sodium-ion translocating step.
+-!- CATALYTIC ACTIVITY: 5-methyl-5,6,7,8-tetrahydromethanopterin + 2-
+    mercaptoethanesulfonate = 5,6,7,8-tetrahydromethanopterin + 2-
+    (methylthio)ethanesulfonate.
+-!- PATHWAY: Methanogenesis from carbon dioxide; sixth step.
+-!- SUBUNIT: The complex is composed of 8 subunits; mtrA, mtrB, mtrC,
+    mtrD, mtrE, mtrF, mtrG and mtrH.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the mtrD family.
+ GO:0015948; P:methanogenesis; IEA:HAMAP.
+ GO:0006730; P:one-carbon compound metabolism; IEA:HAMAP.
+Direct protein sequencing; Membrane; Methanogenesis;
+Methyltransferase; One-carbon metabolism; Transferase; Transmembrane.
+TMSIX

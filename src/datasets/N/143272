@@ -1,0 +1,11 @@
+AC   Q74KZ9;
+Recombination protein recR.
+"The genome sequence of the probiotic intestinal bacterium
+Lactobacillus johnsonii NCC 533.";
+-!- FUNCTION: May play a role in DNA repair. It seems to be involved
+    in an recBC-independent recombinational process of DNA repair. It
+    may act with recF and recO (By similarity).
+-!- SIMILARITY: Belongs to the recR family.
+Complete proteome; DNA damage; DNA recombination; DNA repair;
+Metal-binding; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,13 @@
+AC   Q6G9K4;
+DNA topoisomerase 4 subunit A (EC 5.99.1.-) (Topoisomerase IV subunit
+A).
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Topoisomerase IV is essential for chromosome
+    segregation. It has relaxation of supercoiled DNA activity.
+    Performs the decatenation events required during the replication
+    of a circular DNA molecule (By similarity).
+-!- SUBUNIT: Composed of two subunits: parC and parE.
+-!- SIMILARITY: Belongs to the topoisomerase gyrA/parC subunit family.
+Complete proteome; DNA-binding; Isomerase; Topoisomerase.
+TMZERO

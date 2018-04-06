@@ -1,0 +1,54 @@
+AC   Q12328;
+Mitochondrial import inner membrane translocase subunit TIM22.
+"The nucleotide sequence of a 39 kb segment of yeast chromosome IV: 12
+new open reading frames, nine known genes and one gene for Gly-tRNA.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Import of carrier proteins into the mitochondrial inner membrane
+mediated by Tim22.";
+"Carrier protein import into mitochondria mediated by the
+intermembrane proteins Tim10/Mrs11 and Tim12/Mrs5.";
+"Import of mitochondrial carriers mediated by essential proteins of
+the intermembrane space.";
+"Biogenesis of Tim proteins of the mitochondrial carrier import
+pathway: differential targeting mechanisms and crossing over with the
+main import pathway.";
+"Tim18p, a new subunit of the TIM22 complex that mediates insertion of
+imported proteins into the yeast mitochondrial inner membrane.";
+"Tim22, the essential core of the mitochondrial protein insertion
+complex, forms a voltage-activated and signal-gated channel.";
+"Protein insertion into the mitochondrial inner membrane by a twin-
+pore translocase.";
+-!- FUNCTION: Essential core component of the TIM22 complex, a complex
+    that mediates the import and insertion of multi-pass transmembrane
+    proteins, such as mitochondrial carrier family members, into the
+    mitochondrial inner membrane. In the TIM22 complex, it constitutes
+    the voltage-activated and signal-gated channel. Forms a twin-pore
+    translocase that uses the membrane potential as external driving
+    force in 2 voltage-dependent steps. Mediates the insertion of
+    precursor proteins in a 3 step process. After the precursor is
+    tethered to the translocase without losing energy from the
+    Delta(psi), 2 energy-requiring steps are needed. First, Delta(psi)
+    acts on the precursor protein and promotes its docking in the
+    translocase complex. Then, Delta(psi) and an internal signal
+    peptide together induce rapid gating transitions in one pore and
+    closing of the other pore and drive membrane insertion to
+    completion.
+-!- SUBUNIT: Component of the TIM22 complex, whose core is composed of
+    TIM18, TIM22 and TIM54, associated with the peripheral proteins
+    MRS5/TIM12 and the 70 kDa heterohexamer composed of TIM9 and TIM10
+    (or TIM8 and TIM13).
+-!- INTERACTION:
+    P38822:BZZ1; NbExp=1; IntAct=EBI-9132, EBI-3889;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein. Note=Import into inner membrane
+    protein requires TOM20 function.
+-!- SIMILARITY: Belongs to the Tim17/Tim22/Tim23 family.
+ GO:0042721; C:mitochondrial inner membrane protein insert...; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0008565; F:protein transporter activity; TAS:SGD.
+ GO:0045039; P:protein import into mitochondrial inner mem...; IMP:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Protein transport; Translocation; Transmembrane; Transport.
+THTHREE

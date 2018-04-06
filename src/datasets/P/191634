@@ -1,0 +1,10 @@
+AC   P22409;
+Protein tra.
+"Complete nucleotide sequence of the Streptomyces lividans plasmid
+pIJ101 and correlation of the sequence with genetic properties.";
+-!- FUNCTION: Major protein required for plasmid transfer.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Contains 1 FtsK domain.
+ATP-binding; Membrane; Nucleotide-binding; Plasmid; Transmembrane.
+TMTWO

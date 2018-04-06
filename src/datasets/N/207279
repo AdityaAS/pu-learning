@@ -1,0 +1,23 @@
+AC   P51612; P54732; Q3TKI2; Q920M1; Q9DBW7;
+DNA-repair protein complementing XP-C cells homolog (Xeroderma
+pigmentosum group C-complementing protein homolog) (p125).
+"Sequence of the mouse XPC cDNA and genomic structure of the human XPC
+gene.";
+"Molecular cloning of mouse XPC.";
+"The transcriptional landscape of the mammalian genome.";
+"High susceptibility to ultraviolet-induced carcinogenesis in mice
+lacking XPC.";
+-!- FUNCTION: Involved in DNA excision repair. May play a part in DNA
+    damage recognition and/or in altering chromatin structure to allow
+    access by damage-processing enzymes.
+-!- SUBUNIT: Heterodimer of a 125 kDa subunit (p125) and of a 58 kDa
+    subunit (p58). Interacts with CETN2 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- SIMILARITY: Belongs to the XPC family.
+-!- CAUTION: Ref.1 (AAC52500) sequence differs from that shown due to
+    frameshifts in positions 50, 52 and 61.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0031573; P:intra-S DNA damage checkpoint; IGI:MGI.
+ GO:0006289; P:nucleotide-excision repair; IDA:MGI.
+DNA damage; DNA repair; DNA-binding; Nuclear protein; Phosphorylation.
+TMZERO

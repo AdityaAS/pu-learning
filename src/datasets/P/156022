@@ -1,0 +1,23 @@
+AC   P97054; Q52714;
+Electron transport complex protein rnfG (Nitrogen fixation protein
+rnfG).
+"Identification of a new class of nitrogen fixation genes in
+Rhodobacter capsulatus: a putative membrane complex involved in
+electron transport to nitrogenase.";
+"Overexpression in Escherichia coli of the rnf genes from Rhodobacter
+capsulatus -- characterization of two membrane-bound iron-sulfur
+proteins.";
+-!- FUNCTION: Required for nitrogen fixation. May be part of a
+    membrane complex functioning as an intermediate in the electron
+    transport to nitrogenase.
+-!- SUBUNIT: Composed of at least six subunits; rnfA, rnfB, rnfC,
+    rnfD, rnfE and rnfG.
+-!- SUBCELLULAR LOCATION: Cell inner membrane (Potential).
+-!- INDUCTION: Expression is reduced under iron-limiting conditions.
+-!- SIMILARITY: Belongs to the rnfG family.
+-!- CAUTION: Ref.1 (CAA51397) sequence differs from that shown due to
+    frameshifts in positions 22, 77, 101 and 213.
+ GO:0009399; P:nitrogen fixation; IEA:HAMAP.
+Electron transport; Inner membrane; Membrane; Nitrogen fixation;
+Transmembrane; Transport.
+TMONE

@@ -1,0 +1,20 @@
+AC   Q9S1G7;
+Selenate reductase subunit gamma precursor (EC 1.97.1.9) (Selenate
+reductase heme subunit).
+"Cloning and sequencing of the genes encoding the periplasmic-
+cytochrome B-containing selenate reductase of Thauera selenatis.";
+"Purification and characterization of the selenate reductase from
+Thauera selenatis.";
+-!- FUNCTION: May transfer electrons to the iron-sulfur centers of
+    serB.
+-!- CATALYTIC ACTIVITY: Selenite + H(2)O + acceptor = selenate +
+    reduced acceptor.
+-!- COFACTOR: Binds 1 heme B (iron-protoporphyrin IX) group per
+    subunit (Potential).
+-!- SUBUNIT: Heterotrimer of alpha, beta and gamma subunits.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- BIOTECHNOLOGY: Has potential use in bioremediation of waste sites
+    contaminated with selenate, such as agricultural drainage waters.
+Direct protein sequencing; Electron transport; Heme; Iron;
+Metal-binding; Oxidoreductase; Periplasmic; Signal; Transport.
+TMZERO

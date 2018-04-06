@@ -1,0 +1,21 @@
+AC   P70704;
+Probable phospholipid-transporting ATPase IA (EC 3.6.3.1) (Chromaffin
+granule ATPase II) (ATPase class I type 8A member 1).
+"Multiple members of a third subfamily of P-type ATPases identified by
+genomic sequences and ESTs.";
+-!- FUNCTION: May play a role in the transport of aminophospholipids
+    from the outer to the inner leaflet of various membranes and the
+    maintenance of asymmetric distribution of phospholipids, mainly in
+    secretory vesicles.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; secretory vesicle;
+    chromaffin granule; chromaffin granule membrane; multi-pass
+    membrane protein (By similarity).
+-!- TISSUE SPECIFICITY: Found in most tissues except liver and testis.
+    Most abundant in brain and lung. Also detected in fetal tissues.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IV subfamily.
+ GO:0004012; F:phospholipid-translocating ATPase activity; IEA:EC.
+ATP-binding; Hydrolase; Magnesium; Membrane; Metal-binding;
+Nucleotide-binding; Phosphorylation; Transmembrane.
+TMTEN

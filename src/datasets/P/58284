@@ -1,0 +1,22 @@
+AC   Q61835;
+FXYD domain-containing ion transport regulator 3 precursor (Chloride
+conductance inducer protein Mat-8) (Mammary tumor 8 kDa protein)
+(Phospholemman-like).
+"neu and ras initiate murine mammary tumors that share genetic markers
+generally absent in c-myc and int-2-initiated tumors.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Mat-8, a novel phospholemman-like protein expressed in human breast
+tumors, induces a chloride conductance in Xenopus oocytes.";
+-!- FUNCTION: Induces a hyperpolarization-activated chloride current
+    when expressed in Xenopus oocytes. May be a modulator capable of
+    activating endogenous oocyte channels.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- TISSUE SPECIFICITY: Expressed in a subset of murine breast tumors.
+-!- MISCELLANEOUS: Marker of a cell type preferentially transformed by
+    neu or ras oncoprotein.
+-!- SIMILARITY: Belongs to the FXYD family.
+Chloride; Chloride channel; Ion transport; Ionic channel; Membrane;
+Signal; Transmembrane; Transport.
+TMONE

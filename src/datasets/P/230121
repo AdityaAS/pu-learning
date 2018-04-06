@@ -1,0 +1,10 @@
+AC   Q01245;
+Yop proteins translocation protein D.
+"Analysis of virC, an operon involved in the secretion of Yop proteins
+by Yersinia enterocolitica.";
+-!- FUNCTION: Required for the export process of the Yop proteins.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein (Potential).
+-!- INDUCTION: At 37 degrees Celsius in the absence of calcium.
+Inner membrane; Membrane; Plasmid; Transmembrane; Virulence.
+TMONE

@@ -1,0 +1,16 @@
+AC   O05052;
+Putative type I restriction enzyme HindVIIP R protein (EC 3.1.21.3).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: Subunit R is required for both nuclease and ATPase
+    activities, but not for modification (By similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of DNA to give random
+    double-stranded fragments with terminal 5'-phosphates; ATP is
+    simultaneously hydrolyzed.
+-!- SUBUNIT: The type I restriction/modification system is composed of
+    three polypeptides R, M and S (By similarity).
+-!- SIMILARITY: Belongs to the hsdR family.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+ATP-binding; Complete proteome; DNA-binding; Hydrolase;
+Hypothetical protein; Nucleotide-binding; Restriction system.
+TMZERO

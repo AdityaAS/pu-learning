@@ -1,0 +1,10 @@
+AC   Q6M0M1;
+50S ribosomal protein L37Ae.
+"Complete genome sequence of the genetically tractable
+hydrogenotrophic methanogen Methanococcus maripaludis.";
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L37Ae family.
+ GO:0003723; F:RNA binding; IEA:HAMAP.
+Complete proteome; Metal-binding; Ribonucleoprotein;
+Ribosomal protein; RNA-binding; Zinc; Zinc-finger.
+TMZERO

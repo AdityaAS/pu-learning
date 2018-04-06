@@ -1,0 +1,15 @@
+AC   Q76HM9; Q4V8Q0;
+Hyaluronidase-3 precursor (EC 3.2.1.35) (Hyal-3)
+(Hyaluronoglucosaminidase-3).
+"Expression and activity of rat hyaluronidase.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- CATALYTIC ACTIVITY: Random hydrolysis of 1->4-linkages between N-
+    acetyl-beta-D-glucosamine and D-glucuronate residues in
+    hyaluronate.
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity). Lysosome
+    (By similarity).
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 56 family.
+-!- SIMILARITY: Contains 1 EGF-like domain.
+EGF-like domain; Glycoprotein; Glycosidase; Hydrolase; Signal.
+TMZERO

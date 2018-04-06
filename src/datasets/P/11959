@@ -1,0 +1,11 @@
+AC   Q8L3K8;
+Aspartate/alanine antiporter.
+"Plasmid-encoded asp operon confers a proton motive metabolic cycle
+catalyzed by an aspartate-alanine exchange reaction.";
+-!- FUNCTION: Catalyzes the electrogenic exchange of aspartate with
+    alanine.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the AAE transporter (TC 2.A.81) family.
+Antiport; Membrane; Plasmid; Transmembrane; Transport.
+TMTEN

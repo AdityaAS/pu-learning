@@ -1,0 +1,28 @@
+AC   O75309; Q6UW93;
+Cadherin-16 precursor (Kidney-specific cadherin) (Ksp-cadherin).
+"cDNA cloning and chromosomal localization of the human and mouse
+isoforms of Ksp-cadherin.";
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Cadherins are calcium dependent cell adhesion proteins.
+    They preferentially interact with themselves in a homophilic
+    manner in connecting cells; cadherins may thus contribute to the
+    sorting of heterogeneous cell types.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O75309-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O75309-2; Sequence=VSP_013354;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Kidney specific.
+-!- SIMILARITY: Contains 6 cadherin domains.
+ GO:0007155; P:cell adhesion; TAS:ProtInc.
+Alternative splicing; Calcium; Cell adhesion; Glycoprotein; Membrane;
+Polymorphism; Repeat; Signal; Transmembrane.
+TMONE

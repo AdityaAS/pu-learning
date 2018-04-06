@@ -1,0 +1,22 @@
+AC   Q8HXP3; Q2PFT1;
+Superoxide dismutase [Mn], mitochondrial precursor (EC 1.15.1.1).
+"Analysis of gene expression in cynomolgus monkey tissues by macaque
+cDNA oligo-chips.";
+"Structure, molecular evolution, and gene expression of primate
+superoxide dismutases.";
+-!- FUNCTION: Destroys radicals which are normally produced within the
+    cells and which are toxic to biological systems.
+-!- CATALYTIC ACTIVITY: 2 superoxide + 2 H(+) = O(2) + H(2)O(2).
+-!- COFACTOR: Binds 1 manganese ion per subunit (By similarity).
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix (By
+    similarity).
+-!- SIMILARITY: Belongs to the iron/manganese superoxide dismutase
+    family.
+ GO:0001315; P:age-dependent response to reactive oxygen s...; ISS:UniProtKB.
+ GO:0006357; P:regulation of transcription from RNA polyme...; ISS:UniProtKB.
+ GO:0000303; P:response to superoxide; ISS:UniProtKB.
+ GO:0006801; P:superoxide metabolism; ISS:UniProtKB.
+Acetylation; Manganese; Metal-binding; Mitochondrion; Oxidoreductase;
+Transit peptide.
+TMZERO

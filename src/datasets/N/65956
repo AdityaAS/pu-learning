@@ -1,0 +1,21 @@
+AC   P35053;
+Glypican-1 precursor (HSPG M12).
+"Cloning of a major heparan sulfate proteoglycan from brain and
+identification as the rat form of glypican.";
+"Neuronal expression of glypican, a cell-surface
+glycosylphosphatidylinositol-anchored heparan sulfate proteoglycan, in
+the adult rat nervous system.";
+-!- FUNCTION: Cell surface proteoglycan that bears heparan sulfate.
+    May play an important role in the trophic and injury responses of
+    neurons.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor.
+-!- TISSUE SPECIFICITY: Nervous system.
+-!- PTM: This cell-associated glypican is further processed to give
+    rise to a medium-released species.
+-!- SIMILARITY: Belongs to the glypican family.
+ GO:0007155; P:cell adhesion; NAS:RGD.
+ GO:0007267; P:cell-cell signaling; NAS:RGD.
+Direct protein sequencing; Extracellular matrix; Glycoprotein;
+GPI-anchor; Heparan sulfate; Lipoprotein; Membrane; Proteoglycan;
+Signal.
+TMZERO

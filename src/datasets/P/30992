@@ -1,0 +1,41 @@
+AC   P00410;
+Cytochrome c oxidase subunit 2 precursor (EC 1.9.3.1) (Cytochrome c
+oxidase polypeptide II).
+"Assembly of the mitochondrial membrane system. DNA sequence of
+subunit 2 of yeast cytochrome oxidase.";
+"Five TGA 'stop' codons occur within the translated sequence of the
+yeast mitochondrial gene for cytochrome c oxidase subunit II.";
+"The complete sequence of the mitochondrial genome of Saccharomyces
+cerevisiae.";
+"Isolation and characterization of a yeast strain carrying a mutation
+in the mitochondrial promoter for COX2.";
+"Use of the UGA terminator as a tryptophan codon in yeast
+mitochondria.";
+"Kinetic properties and ligand binding of the eleven-subunit
+cytochrome-c oxidase from Saccharomyces cerevisiae isolated with a
+novel large-scale purification method.";
+-!- FUNCTION: Cytochrome c oxidase is the component of the respiratory
+    chain that catalyzes the reduction of oxygen to water. Subunits 1-
+    3 form the functional core of the enzyme complex. Subunit 2
+    transfers the electrons from cytochrome c via its binuclear copper
+    A center to the bimetallic center of the catalytic subunit 1.
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- COFACTOR: Copper A.
+-!- SUBUNIT: Cytochrome c oxidase is composed of 11 subunits: one copy
+    each of COX1, COX2, COX3, COX4, COX5A or COX5B, COX6, COX7, COX9,
+    COX12, COX13 and two copies of COX8.
+-!- INTERACTION:
+    Q04935:COX20; NbExp=2; IntAct=EBI-5024, EBI-36910;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- PTM: The signal sequence of COX2 is processed by IMP1.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 2 family.
+ GO:0005751; C:respiratory chain complex IV (sensu Eukaryota); IPI:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0009060; P:aerobic respiration; IMP:SGD.
+ GO:0006123; P:mitochondrial electron transport, cytochrom...; IDA:SGD.
+Complete proteome; Copper; Electron transport; Inner membrane;
+Membrane; Metal-binding; Mitochondrion; Oxidoreductase;
+Respiratory chain; Signal; Transmembrane; Transport.
+TMTWO

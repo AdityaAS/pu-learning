@@ -1,0 +1,23 @@
+AC   O13146;
+Ephrin type-A receptor 3 precursor (EC 2.7.10.1) (Tyrosine-protein
+kinase receptor ZEK1) (EPH-like kinase 1).
+"Novel Eph-family receptor tyrosine kinase is widely expressed in the
+developing zebrafish nervous system.";
+-!- FUNCTION: Receptor for members of the ephrin-B family. May play a
+    role in early pattern formation within the developing nervous
+    system.
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Widely expressed in the developing zebrafish
+    nervous system.
+-!- SIMILARITY: Belongs to the Tyr protein kinase family. Ephrin
+    receptor subfamily.
+-!- SIMILARITY: Contains 2 fibronectin type-III domains.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+-!- SIMILARITY: Contains 1 SAM (sterile alpha motif) domain.
+ATP-binding; Glycoprotein; Kinase; Membrane; Nucleotide-binding;
+Phosphorylation; Polymorphism; Receptor; Repeat; Signal; Transferase;
+Transmembrane; Tyrosine-protein kinase.
+TMONE

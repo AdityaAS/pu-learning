@@ -1,0 +1,9 @@
+AC   Q2JWU5;
+Protein ycf12.
+-!- FUNCTION: Unknown.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ycf12 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Membrane; Transmembrane.
+TMONE

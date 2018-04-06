@@ -1,0 +1,219 @@
+AC   Q68801;
+Genome polyprotein [Contains: Core protein p21 (Capsid protein C)
+(p21); Core protein p19; Envelope glycoprotein E1 (gp32) (gp35);
+Envelope glycoprotein E2 (NS1) (gp68) (gp70); p7; Protease NS2-3
+(EC 3.4.22.-) (p23); Serine protease/NTPase/helicase NS3
+(EC 3.4.21.98) (EC 3.6.1.15) (EC 3.6.1.-) (Hepacivirin) (NS3P) (p70);
+Non-structural protein 4A (NS4A) (p8); Non-structural protein 4B
+(NS4B) (p27); Non-structural protein 5A (NS5A) (p56); RNA-directed RNA
+polymerase (EC 2.7.7.48) (NS5B) (p68)].
+"Hepatitis C virus variants from Jakarta, Indonesia classifiable into
+novel genotypes in the second (2e and 2f), tenth (10a) and eleventh
+(11a) genetic groups.";
+"Properties of the hepatitis C virus core protein: a structural
+protein that modulates cellular processes.";
+"Structural biology of hepatitis C virus.";
+-!- FUNCTION: Core protein packages viral RNA to form a viral
+    nucleocapsid, and promotes virion budding. Modulates viral
+    translation initiation by interacting with HCV IRES and 40S
+    ribosomal subunit. Also regulates many host cellular functions
+    such as signaling pathways and apoptosis. Prevents the
+    establishment of cellular antiviral state by blocking the
+    interferon-alpha/beta (IFN-alpha/beta) and IFN-gamma signaling
+    pathways and by inducing human STAT1 degradation. Thought to play
+    a role in virus-mediated cell transformation leading to
+    hepatocellular carcinomas. Interacts with, and activates STAT3
+    leading to cellular transformation. May repress the promoter of
+    p53, and sequester CREB3 and SP110 isoform 3/Sp110b in the
+    cytoplasm. Also represses cell cycle negative regulating factor
+    CDKN1A, thereby interrupting an important check point of normal
+    cell cycle regulation. Targets transcription factors involved in
+    the regulation of inflammatory responses and in the immune
+    response: suppresses NK-kappaB activation, and activates AP-1.
+    Could mediate apoptotic pathways through association with TNF-type
+    receptors TNFRSF1A and LTBR, although its effect on death
+    receptor-induced apoptosis remains controversial. Enhances TRAIL
+    mediated apoptosis, suggesting that it might play a role in
+    immune-mediated liver cell injury. Seric core protein is able to
+    bind C1QR1 at the T-cell surface, resulting in down-regulation of
+    T-lymphocytes proliferation. May transactivate human MYC, Rous
+    sarcoma virus LTR, and SV40 promoters. May suppress the human FOS
+    and HIV-1 LTR activity. May alter lipid metabolism by interacting
+    with hepatocellular proteins involved in lipid accumulation and
+    storage (By similarity).
+-!- FUNCTION: Envelope glycoproteins E1 and E2 are involved in virus
+    attachment to the host cell as well as in virus endocytosis and
+    fusion with host membrane. E2 inhibits human EIF2AK2/PKR
+    activation, preventing the establishment of an antiviral state. E2
+    is a viral ligand for CD209/DC-SIGN and CLEC4M/DC-SIGNR, which are
+    respectively found on dendritic cells (DCs), and on liver
+    sinusoidal endothelial cells and macrophage-like cells of lymph
+    node sinuses. These interactions allow capture of circulating HCV
+    particles by these cells and subsequent transmission to permissive
+    cells. DCs are professional antigen presenting cells, critical for
+    host immunity by inducing specific immune responses against a
+    broad variety of pathogens. They act as sentinels in various
+    tissues where they entrap pathogens and convey them to local
+    lymphoid tissue or lymph node for establishment of immunity.
+    Capture of circulating HCV particles by these SIGN+ cells may
+    facilitate virus infection of proximal hepatocytes and lymphocyte
+    subpopulations and may be essential for the establishment of
+    persistent infection (By similarity).
+-!- FUNCTION: P7 seems to be a polymeric ion channel protein
+    (viroporin) and is inhibited by the antiviral drug amantadine.
+    Also inhibited by long-alkyl-chain iminosugar derivatives.
+    Essential for infectivity (By similarity).
+-!- FUNCTION: Protease NS2-3 is a cysteine protease responsible for
+    the autocatalytic cleavage of NS2-NS3. Seems to undergo self-
+    inactivation following maturation (By similarity).
+-!- FUNCTION: NS3 displays three enzymatic activities: serine
+    protease, NTPase and RNA helicase. NS3 serine protease, in
+    association with NS4A, is responsible for the cleavages of NS3-
+    NS4A, NS4A-NS4B, NS4B-NS5A and NS5A-NS5B. NS3/NS4A complex also
+    prevents phosphorylation of human IRF3, thus preventing the
+    establishment of dsRNA induced antiviral state. NS3 RNA helicase
+    binds to RNA and unwinds dsRNA in the 3' to 5' direction, and
+    likely RNA stable secondary structure in the template strand (By
+    similarity).
+-!- FUNCTION: NS4B induces a specific membrane alteration that serves
+    as a scaffold for the virus replication complex. This membrane
+    alteration gives rise to the so-called ER-derived membranous web
+    that contains the replication complex (By similarity).
+-!- FUNCTION: NS5A is a component of the replication complex involved
+    in RNA-binding. Down-regulates viral IRES translation initiation.
+    Mediates interferon resistance, presumably by interacting with and
+    inhibiting human EIF2AK2/PKR. The hyperphosphorylated form of NS5A
+    is an inhibitor of viral replication (By similarity).
+-!- FUNCTION: NS5B is a RNA-dependent RNA polymerase that plays an
+    essential role in the virus replication (By similarity).
+-!- CATALYTIC ACTIVITY: Hydrolysis of four peptide bonds in the viral
+    precursor polyprotein, commonly with Asp or Glu in the P6
+    position, Cys or Thr in P1 and Ser or Ala in P1'.
+-!- CATALYTIC ACTIVITY: N nucleoside triphosphate = N diphosphate +
+    {RNA}(N).
+-!- CATALYTIC ACTIVITY: NTP + H(2)O = NDP + phosphate.
+-!- COFACTOR: Binds 1 zinc ion per NS3 protease domain (By
+    similarity).
+-!- COFACTOR: Binds 1 zinc ion per NS5A N-terminal domain (By
+    similarity).
+-!- ENZYME REGULATION: Activity of auto-protease NS2-3 is dependent on
+    zinc ions and completely inhibited by EDTA. Serine protease NS3 is
+    also activated by zinc ions (By similarity).
+-!- SUBUNIT: Core protein is a homomultimer that binds the C-terminal
+    part of E1. Interacts with numerous cellular proteins. Interacts
+    with human STAT1, inducing its degradation and human STAT3,
+    constitutively activating it. Associates with human LTBR and
+    TNFRSF1A receptors and possibly induces apoptosis. Binds to human
+    SP110 isoform 3/Sp110b, HNRPK, C1QR1, YWHAE, DDX3X, APOA2 and RXRA
+    proteins. Interacts with human CREB3 nuclear transcription
+    protein, triggering cell transformation. May interact with human
+    p53. Also binds human cytokeratins KRT8, KRT18, KRT19 and VIM
+    (vimentin). E1 and E2 glycoproteins form a heterodimer that binds
+    to human LDLR, CD81 and SCARB1 receptors, but this binding is not
+    sufficient for infection, some additional liver specific cofactors
+    may be needed. E2 binds and inhibits human EIF2AK2/PKR. Also binds
+    human CD209/DC-SIGN and CLEC4M/DC-SIGNR. p7 forms a homopolymer.
+    NS2 forms a homodimer and seems to interact with all other
+    nonstructural (NS) proteins. NS4A interacts with NS3 serine
+    protease and stabilizes its folding. NS3-NS4A complex is essential
+    for the activation of the latter and allows membrane anchorage of
+    NS3. NS3 interacts with TANK-binding kinase TBK1. NS4B and NS5A
+    form homodimers and seem to interact with all other nonstructural
+    (NS) proteins. NS5A also interacts with human EIF2AK2/PKR, GRB2,
+    PIK3R1 and with most Src-family kinases. NS5B is a homooligomer
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Note=The virion assembly and budding occurs
+    from the endoplasmic reticulum (ER) membrane or ER-derived
+    membranes. The C-terminal transmembrane domain of core protein
+    contains an ER signal leading the nascent polyprotein to the ER
+    membrane. The C-termini of E1, E2, and p7 membrane domains act as
+    signal sequences. After cleavage by host signal peptidase, these
+    membrane sequences retain at the C-terminus of the concerned
+    proteins (core, E1, E2 and p7), serving as ER membrane anchors.
+    Core protein is cytoplasmic. It is also located on mitochondrial
+    and ER membranes, as well as at the surface of lipid droplets. A
+    minor proportion is present in the nucleus. An unknown proportion
+    is secreted. E1, E2, NS2 and NS4B are integral ER membrane
+    proteins. The C-terminal transmembrane domains of envelope
+    glycoproteins E1 and E2 form a hairpin structure before cleavage
+    by host signal peptidase. A reorientation of the second
+    hydrophobic stretch occurs after cleavage producing a single
+    reoriented transmembrane domain. These events explain the final
+    topology of these proteins. ER retention of E1 and E2 is leaky
+    and, in overexpression conditions, a small fraction of both
+    proteins reaches the plasma membrane. NS3 is associated to the ER
+    membrane through its binding to NS4A. Membrane insertion of the
+    membrane-anchored proteins NS4A, NS5A and NS5B occurs after
+    processing by the NS3 protease. NS5A is perinuclear. A fraction of
+    p7 localizes to the plasma membrane (By similarity).
+-!- DOMAIN: The transmembrane regions of envelope E1 and E2
+    glycoproteins are involved in heterodimer formation, ER
+    localization, and assembly of these proteins. Envelope E2
+    glycoprotein contain a highly variable region called hypervariable
+    region 1 (HVR1). E2 also contains two segments involved in CD81-
+    binding. HVR1 is implicated in the SCARB1-mediated cell entry.
+    CD81-binding regions may be involved in sensitivity and/or
+    resistance to IFN-alpha therapy (By similarity).
+-!- DOMAIN: The N-terminal one-third of serine protease NS3 contains
+    the protease activity. This region contains a zinc atom that does
+    not belong to the active site, but may play a structural rather
+    than a catalytic role. This region is essential for the activity
+    of protease NS2-3, maybe by contributing to the folding of the
+    latter. The helicase activity is located in the C-terminus of NS3
+    (By similarity).
+-!- PTM: Specific enzymatic cleavages in vivo yield mature proteins.
+    The structural proteins, core, E1, E2 and p7 are produced by
+    proteolytic processing by host signal peptidases. The core protein
+    is synthesized as a 21 kDa precursor which is retained in the ER
+    membrane through the hydrophobic signal peptide. Cleavage by the
+    signal peptide peptidase releases the 19 kDa mature core protein.
+    The other proteins (p7, NS2-3, NS3, NS4A, NS4B, NS5A and NS5B) are
+    cleaved by the viral proteases (By similarity).
+-!- PTM: Envelope E1 and E2 glycoproteins are highly N-glycosylated
+    (By similarity).
+-!- PTM: Core protein is phosphorylated by host PKC and PKA (By
+    similarity).
+-!- PTM: NS5A is phosphorylated in a basal form termed p56. p58 is an
+    hyperphosphorylated form of p56. p56 and p58 coexist in the cell
+    in roughly equivalent amounts. Hyperphosphorylation is dependent
+    on the presence of NS4A. Human AKT1, RPS6KB1/p70S6K, MAP2K1/MEK1
+    and MAP2K6/MKK6 kinases may be responsible for NS5A
+    phosphorylation (By similarity).
+-!- MISCELLANEOUS: Cell culture adaptation of the virus leads to
+    mutations in NS5A, reducing its inhibitory effect on replication
+    (By similarity).
+-!- MISCELLANEOUS: The virion is a nucleocapsid covered by a
+    lipoprotein envelope. The nucleocapsid is composed of the core
+    protein, forming an internal icosahedral coat that encapsidates
+    the genomic RNA. The envelope contains two proteins: the envelope
+    glycoproteins E1 and E2.
+-!- MISCELLANEOUS: Core protein exerts viral interference on hepatitis
+    B virus when HCV and HBV coinfect the same cell, by suppressing
+    HBV gene expression, RNA encapsidation and budding (By
+    similarity).
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+-!- SIMILARITY: Contains 1 peptidase C18 domain.
+-!- SIMILARITY: Contains 1 peptidase S29 domain.
+-!- SIMILARITY: Contains 1 RdRp catalytic domain.
+-!- CAUTION: There is a doubt concerning the orientation of the N-
+    terminus of NS4B, which could be lumenal with a 5th transmembrane
+    segment. The C-terminus of NS2 may be lumenal with a fourth
+    transmembrane segment.
+-!- CAUTION: The core gene probably also codes for alternative reading
+    frame proteins (ARFPs). Many functions depicted for the core
+    protein might belong to the ARFPs.
+-!- WEB RESOURCE: NAME=euHCVdb; NOTE=The European HCV database;
+    URL="http://euhcvdb.ibcp.fr".
+-!- WEB RESOURCE: NAME=HCV databases;
+    URL="http://hcv.lanl.gov/content/hcv-db/".
+ GO:0017111; F:nucleoside-triphosphatase activity; IEA:EC.
+Apoptosis; ATP-binding; Capsid protein; Endoplasmic reticulum;
+Envelope protein; Glycoprotein; Helicase; Host-virus interaction;
+Hydrolase; Interferon antiviral system evasion; Membrane;
+Metal-binding; Mitochondrion; Multifunctional enzyme;
+Nucleotide-binding; Nucleotidyltransferase; Oncogene; Phosphorylation;
+Protease; Ribonucleoprotein; RNA replication; RNA-binding;
+RNA-directed RNA polymerase; Serine protease; Thiol protease;
+Transcription; Transcription regulation; Transferase; Transmembrane;
+Viral nucleoprotein; Virion protein; Zinc.
+TMFOURTEEN

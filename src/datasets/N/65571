@@ -1,0 +1,25 @@
+AC   Q9DGC8; Q8JIQ7;
+Progonadoliberin-1 precursor (Progonadoliberin I) (Medaka-type
+gonadotropin-releasing hormone) (mdGnRH) (mfGnRH) [Contains:
+Gonadoliberin-1 (Gonadoliberin I) (Luteinizing hormone-releasing
+hormone I) (LH-RH I) (Gonadotropin-releasing hormone I) (GnRH I)
+(Luliberin I); GnRH-associated peptide 1 (GnRH-associated peptide I)].
+"A novel form of gonadotropin-releasing hormone in the medaka, Oryzias
+latipes.";
+"Structural characterization of GnRH loci in the medaka genome.";
+-!- FUNCTION: Stimulates the secretion of gonadotropins (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed in the cell bodies of a cluster of
+    neurons in the preoptic region.
+-!- MISCELLANEOUS: Teleost species possess three paralogous GnRHs:
+    mdGnRH and cGnRH-II have been identified in tetrapods; sGnRH has
+    no tetrapod ortholog and is thought to be a duplication of cGnRH-
+    II.
+-!- SIMILARITY: Belongs to the GnRH family.
+ GO:0005576; C:extracellular region; ISS:UniProtKB.
+ GO:0005183; F:luteinizing hormone-releasing factor activity; ISS:UniProtKB.
+ GO:0007275; P:development; ISS:UniProtKB.
+Amidation; Cleavage on pair of basic residues; Hormone;
+Pyrrolidone carboxylic acid; Signal.
+TMZERO

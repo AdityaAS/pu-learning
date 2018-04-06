@@ -1,0 +1,26 @@
+AC   P70615;
+Lamin-B1.
+"Rattus norvegicus Lamin B1 sequence.";
+"Proteome analysis of a rat liver nuclear insoluble protein fraction
+and localization of a novel protein, ISP36, to compartments in the
+interchromatin space.";
+"Quantitative phosphoproteomics of vasopressin-sensitive renal cells:
+regulation of aquaporin-2 phosphorylation at two sites.";
+-!- FUNCTION: Lamins are components of the nuclear lamina, a fibrous
+    layer on the nucleoplasmic side of the inner nuclear membrane,
+    which is thought to provide a framework for the nuclear envelope
+    and may also interact with chromatin (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear inner membrane; lipid-
+    anchor; nucleoplasmic side (By similarity).
+-!- PTM: B-type lamins undergo a series of modifications, such as
+    farnesylation and phosphorylation. Increased phosphorylation of
+    the lamins occurs before envelope disintegration and probably
+    plays a role in regulating lamin associations (By similarity).
+-!- MISCELLANEOUS: The structural integrity of the lamina is strictly
+    controlled by the cell cycle, as seen by the disintegration and
+    formation of the nuclear envelope in prophase and telophase,
+    respectively (By similarity).
+-!- SIMILARITY: Belongs to the intermediate filament family.
+Coiled coil; Direct protein sequencing; Intermediate filament;
+Lipoprotein; Nuclear protein; Phosphorylation; Prenylation.
+TMZERO

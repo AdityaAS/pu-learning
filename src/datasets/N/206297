@@ -1,0 +1,16 @@
+AC   Q95JP0; Q95LV8;
+WD repeat protein 63.
+"Cynomolgus monkey testicular cDNAs for discovery of novel human genes
+in the human genome sequence.";
+"Isolation of novel full-length cDNA clones from macaque testis cDNA
+libraries.";
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q95JP0-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q95JP0-2; Sequence=VSP_018081;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Contains 5 WD repeats.
+Alternative splicing; Coiled coil; Repeat; WD repeat.
+TMZERO

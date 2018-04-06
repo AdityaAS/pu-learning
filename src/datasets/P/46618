@@ -1,0 +1,18 @@
+AC   P54281;
+Epithelial chloride channel protein (Calcium-activated chloride
+channel).
+"Cloning of an epithelial chloride channel from bovine trachea.";
+-!- FUNCTION: Voltage-gated chloride channel. Chloride channels have
+    several functions including the regulation of cell volume;
+    membrane potential stabilization, signal transduction and
+    transepithelial transport.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Trachea.
+-!- PTM: Phosphorylated by CaM-kinase II.
+-!- SIMILARITY: Contains 1 VWFA domain.
+Calcium; Calcium channel; Calcium transport; Chloride;
+Chloride channel; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Phosphorylation; Transmembrane; Transport;
+Voltage-gated channel.
+TMFOUR

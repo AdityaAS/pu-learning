@@ -1,0 +1,14 @@
+AC   P01780;
+Ig heavy chain V-III region JON.
+"Variable region sequences of five human immunoglobulin heavy chains
+of the VH3 subgroup: definitive identification of four heavy chain
+hypervariable regions.";
+-!- MISCELLANEOUS: This chain was isolated from an IgG3 myeloma
+    protein.
+-!- SIMILARITY: Contains 1 Ig-like (immunoglobulin-like) domain.
+ GO:0005576; C:extracellular region; NAS:UniProtKB.
+ GO:0003823; F:antigen binding; NAS:UniProtKB.
+ GO:0006955; P:immune response; NAS:UniProtKB.
+Direct protein sequencing; Immunoglobulin domain;
+Immunoglobulin V region.
+TMZERO

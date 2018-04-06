@@ -1,0 +1,19 @@
+AC   P0A6B8; P39171; P76581; P76992; Q8XA86;
+Cysteine desulfurase (EC 2.8.1.7) (ThiI transpersulfidase) (NifS
+protein homolog).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Catalyzes the removal of elemental sulfur and selenium
+    atoms from cysteine and selenocysteine to produce alanine.
+    Functions as a sulfur delivery protein for NAD, biotin and Fe-S
+    cluster synthesis. Transfers sulfur on 'Cys-456' of thiI in a
+    transpersulfidation reaction. Functions also as a selenium
+    delivery protein in the pathway for the biosynthesis of
+    selenophosphate (By similarity).
+-!- CATALYTIC ACTIVITY: L-cysteine + [enzyme]-cysteine = L-alanine +
+    [enzyme]-S-sulfanylcysteine.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- SIMILARITY: Belongs to the class-V pyridoxal-phosphate-dependent
+    aminotransferase family. NifS/iscS subfamily.
+Complete proteome; Pyridoxal phosphate; Transferase.
+TMZERO

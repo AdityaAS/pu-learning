@@ -1,0 +1,11 @@
+AC   P33271;
+Cytochrome P450 107B1 (EC 1.14.-.-) (P450CVIIB1).
+"Characterization of Saccharopolyspora erythraea cytochrome P-450
+genes and enzymes, including 6-deoxyerythronolide B hydroxylase.";
+-!- FUNCTION: Not known, probably involved in the catabolism of octane
+    and guaiacol. It displays a weak activity in the O-dealkylation of
+    7-ethoxycoumarin.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+Direct protein sequencing; Heme; Iron; Membrane; Metal-binding;
+Monooxygenase; Oxidoreductase.
+TMZERO

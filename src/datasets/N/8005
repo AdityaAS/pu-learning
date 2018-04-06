@@ -1,0 +1,17 @@
+AC   Q48935;
+Acetylpolyamine aminohydrolase.
+"Acetylpolyamine amidohydrolase from Mycoplana ramosa: gene cloning
+and characterization of the metal-substituted enzyme.";
+"Crystallization and some properties of acetylpolyamine amidohydrolase
+from Mycoplana bullata.";
+-!- FUNCTION: Acts on many types of acetylpolyamines has high affinity
+    towards acetylputrescine, acetylcadaverine, acetylspermidine, and
+    acetylspermine.
+-!- COFACTOR: Binds 1 zinc ion per subunit.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is about 8.0;
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the histone deacetylase family.
+Direct protein sequencing; Hydrolase; Zinc.
+TMZERO

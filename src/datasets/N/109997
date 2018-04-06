@@ -1,0 +1,17 @@
+AC   P94212;
+N-acyl-D-aspartate deacylase (EC 3.5.1.83) (N-acyl-D-aspartate
+amidohydrolase).
+"Cloning, expression, and nucleotide sequence of the N-acy1-D-
+aspartate amidohydrolase gene from Alcaligenes xylosoxydans subsp.
+xylosoxydans A-6.";
+"Purification and characterization of novel N-acyl-D-aspartate
+amidohydrolase from Alcaligenes xylosoxydans subsp. xylosoxydans A-
+6.";
+-!- CATALYTIC ACTIVITY: N-acyl-D-aspartate + H(2)O = a carboxylate +
+    D-aspartate.
+-!- COFACTOR: Zinc.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the N-acyl-D-amino-acid deacylase family.
+ GO:0047422; F:N-acyl-D-aspartate deacylase activity; IEA:EC.
+Hydrolase; Zinc.
+TMZERO

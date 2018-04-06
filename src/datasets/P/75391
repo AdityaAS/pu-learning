@@ -1,0 +1,51 @@
+AC   P77335; Q47276; Q8VU70; Q9R3G4;
+Hemolysin E, chromosomal (Hemolysis-inducing protein) (Silent
+hemolysin sheA) (Cytotoxin clyA) (Latent pore-forming 34 kDa
+hemolysin).
+"The Escherichia coli K-12 sheA gene encodes a 34-kDa secreted
+haemolysin.";
+"Analysis of the SlyA-controlled expression, subcellular localization
+and pore-forming activity of a 34 kDa haemolysin (ClyA) from
+Escherichia coli K-12.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Molecular analysis of the cytolytic protein ClyA (SheA) from
+Escherichia coli.";
+"Vesicle-mediated export and assembly of pore-forming oligomers of the
+enterobacterial clyA cytotoxin.";
+"Structure-function relationships of a novel bacterial toxin,
+hemolysin E. The role of alpha G.";
+"Silencing and activation of ClyA cytotoxin expression in Escherichia
+coli.";
+"Differential regulation of multiple proteins of Escherichia coli and
+Salmonella enterica serovar Typhimurium by the transcriptional
+regulator SlyA.";
+"Characterization of dominantly negative mutant ClyA cytotoxin
+proteins in Escherichia coli.";
+"E. coli hemolysin E (HlyE, ClyA, SheA): X-ray crystal structure of
+the toxin and observation of membrane pores by electron microscopy.";
+-!- FUNCTION: Toxin, which has some hemolytic activity towards
+    mammalian cells. Acts by forming a pore-like structure upon
+    contact with mammalian cells.
+-!- SUBUNIT: Monomer and oligomer. In periplasm, it is present as a
+    monomer, while in outer membrane vesicles, it oligomerizes to form
+    a pore structure that is active. Probably forms an octamer.
+-!- SUBCELLULAR LOCATION: Secreted protein. Periplasm. Note=Exported
+    from the cell by outer membrane vesicles. Also found in the
+    periplasmic space.
+-!- INDUCTION: During anaerobic growth. Weakly or not expressed in
+    most strains. It is activated by slyA, while it is silenced by H-
+    NS. Its expression is also regulated by CRP and FNR.
+-!- PTM: In periplasm, it forms a disulfide bond between Cys-86 and
+    Cys-284, which prevents the oligomerization. In outer membrane
+    vesicles, the redox status prevents formation of the disulfide
+    bond, leading to oligomerization and pore formation.
+-!- MASS SPECTROMETRY: MW=34940; METHOD=Electrospray; RANGE=1-302;
+    NOTE=Ref.13.
+-!- SIMILARITY: Belongs to the hemolysin E family.
+3D-structure; Complete proteome; Cytolysis; Direct protein sequencing;
+Hemolysis; Membrane; Toxin; Transmembrane.
+TMONE

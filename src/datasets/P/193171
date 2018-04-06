@@ -1,0 +1,49 @@
+AC   Q13507; O00593; Q15660;
+Short transient receptor potential channel 3 (TrpC3) (Htrp-3) (Htrp3).
+"trp, a novel mammalian gene family essential for agonist-activated
+capacitative Ca2+ entry.";
+"Coassembly of TRP and TRPL produces a distinct store-operated
+conductance.";
+"TRPC1, a human homolog of a Drosophila store-operated channel.";
+"The membrane topology of human transient receptor potential 3 as
+inferred from glycosylation-scanning mutagenesis and epitope
+immunocytochemistry.";
+"Receptor-activated Ca2+ influx via human Trp3 stably expressed in
+human embryonic kidney (HEK)293 cells. Evidence for a non-capacitative
+Ca2+ entry.";
+"Functional interaction between InsP3 receptors and store-operated
+Htrp3 channels.";
+"Direct activation of human TRPC6 and TRPC3 channels by
+diacylglycerol.";
+"Modulation of Ca(2+) entry by polypeptides of the inositol 1,4, 5-
+trisphosphate receptor (IP3R) that bind transient receptor potential
+(TRP): evidence for roles of TRP and IP3R in store depletion-activated
+Ca(2+) entry.";
+-!- FUNCTION: Thought to form a receptor-activated non-selective
+    calcium permeant cation channel. Probably is operated by a
+    phosphatidylinositol second messenger system activated by receptor
+    tyrosine kinases or G-protein coupled receptors. Activated by
+    diacylglycerol (DAG) in a membrane-delimited fashion,
+    independently of protein kinase C, and by inositol-1,4,5-
+    triphosphate receptors (ITPR) with bound IP3. May also be
+    activated by internal calcium store depletion.
+-!- SUBUNIT: Interacts with TRPC1. Interacts with ITPR3.
+-!- INTERACTION:
+    P20591:MX1; NbExp=2; IntAct=EBI-520807, EBI-929476;
+    P10686:Plcg1 (xeno); NbExp=1; IntAct=EBI-520807, EBI-520788;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed predominantly in brain and at much
+    lower levels in ovary, colon, small intestine, lung, prostate,
+    placenta and testis.
+-!- SIMILARITY: Belongs to the transient receptor family. STrpC
+    subfamily.
+-!- SIMILARITY: Contains 4 ANK repeats.
+ GO:0005887; C:integral to plasma membrane; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015279; F:store-operated calcium channel activity; TAS:ProtInc.
+ GO:0006816; P:calcium ion transport; TAS:ProtInc.
+ GO:0007602; P:phototransduction; TAS:ProtInc.
+ANK repeat; Calcium; Calcium channel; Calcium transport; Glycoprotein;
+Ion transport; Ionic channel; Membrane; Repeat; Transmembrane;
+Transport.
+TMSIX

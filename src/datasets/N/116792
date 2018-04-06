@@ -1,0 +1,16 @@
+AC   Q6P0U9;
+Nucleoporin-like 2.
+-!- FUNCTION: Required for the export of mRNAs containing poly(A)
+    tails from the nucleus into the cytoplasm (By similarity).
+-!- SUBUNIT: Probable component of the nuclear pore complex (NPC).
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear pore complex; cytoplasmic
+    side (By similarity).
+-!- DOMAIN: The FG repeats are interaction sites for karyopherins
+    (importins, exportins) and form probably an affinity gradient,
+    guiding the transport proteins unidirectionally with their cargo
+    through the NPC (By similarity).
+-!- SIMILARITY: Contains 1 C3H1-type zinc finger.
+Metal-binding; mRNA transport; Nuclear pore complex; Nuclear protein;
+Protein transport; Repeat; Translocation; Transport; Zinc;
+Zinc-finger.
+TMZERO

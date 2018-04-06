@@ -1,0 +1,15 @@
+AC   P38680; Q7RVG6;
+N amino acid transport system protein (Methyltryptophan resistance
+protein).
+"Spontaneous mutation at the mtr locus in neurospora: the molecular
+spectrum in wild-type and a mutator strain.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+"Sequence and structure of mtr, an amino acid transport gene of
+Neurospora crassa.";
+-!- FUNCTION: Required for the transport of neutral aliphatic and
+    aromatic amino acids via the N system.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family.
+Amino-acid transport; Membrane; Transmembrane; Transport.
+TMELEVEN

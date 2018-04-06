@@ -1,0 +1,27 @@
+AC   Q62773; Q9QWI3;
+Sodium/nucleoside cotransporter 2 (Na(+)/nucleoside cotransporter 2)
+(Sodium-coupled nucleoside transporter 2) (Concentrative nucleoside
+transporter 2) (CNT 2) (Sodium/purine nucleoside cotransporter) (SPNT)
+(RCNT2).
+"Primary structure and functional expression of a cDNA encoding the
+bile canalicular, purine-specific Na(+)-nucleoside cotransporter.";
+"Transport of adenosine by recombinant purine- and pyrimidine-
+selective sodium/nucleoside cotransporters from rat jejunum expressed
+in Xenopus laevis oocytes.";
+"A nucleoside transporter is functionally linked to ectonucleotidases
+in rat liver canalicular membrane.";
+-!- FUNCTION: Sodium-dependent and purine-selective. Exhibits the
+    transport characteristics of the nucleoside transport system cif
+    or N1 subtype (N1/cif) (selective for purine nucleosides and
+    uridine). Accepts purine, analogs of purine nucleosides and
+    uridine, and exhibits high affinity for adenosine.
+-!- ENZYME REGULATION: Inhibited by formycin B, partially inhibited by
+    purine analog ara-A.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in liver (in bile canalicular
+    membrane vesicles (CMV) but not in sinusoidal vesicles), jejunum,
+    spleen and heart. Also expressed in brain and skeletal muscle. Not
+    expressed in kidney, muscle and lung.
+-!- SIMILARITY: Belongs to the SLC28A transporter family.
+Membrane; Transmembrane; Transport.
+TMFOURTEEN

@@ -1,0 +1,17 @@
+AC   P24520;
+Protein pnuC.
+"Regulation of NAD metabolism in Salmonella typhimurium: molecular
+sequence analysis of the bifunctional nadR regulator and the nadA-pnuC
+operon.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Required for NMN transport across the cytoplasmic
+    membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- INDUCTION: Repressed by nadR.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 229.
+Complete proteome; Inner membrane; Membrane; NAD; Transmembrane;
+Transport.
+TMSIX

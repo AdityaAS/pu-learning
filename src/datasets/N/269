@@ -1,0 +1,45 @@
+AC   P30464; P30465; P30513; Q29633; Q29636; Q29829; Q29953; Q29982;
+AC   Q95343; Q95344; Q9BD06;
+HLA class I histocompatibility antigen, B-15 alpha chain precursor
+(MHC class I antigen B*15).
+"The HLA-Bw75 subtype of B15: molecular characterization and
+comparison with crossreacting antigens.";
+"HLA-B15: a widespread and diverse family of HLA-B alleles.";
+"Further molecular diversity in the HLA-B15 group.";
+"Distinctive HLA-A,B antigens of black populations formed by
+interallelic conversion.";
+"New recombinant HLA-B alleles in a tribe of South American
+Amerindians indicate rapid evolution of MHC class I loci.";
+"Cloning and sequencing full-length HLA-B and -C genes.";
+"Identification of HLA-B*1566.";
+"Allelic variation in HLA-B and HLA-C sequences and the evolution of
+the HLA-B alleles.";
+"Allelic variations clustered in the antigen binding sites of HLA-Bw62
+molecules.";
+"Medical genetics: a marker for Stevens-Johnson syndrome.";
+-!- FUNCTION: Involved in the presentation of foreign antigens to the
+    immune system.
+-!- SUBUNIT: Heterodimer of an alpha chain and a beta chain (beta-2-
+    microglobulin). Interacts with human herpesvirus 8 MIR1 protein
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- PTM: Polyubiquitinated in a post ER compartment by interaction
+    with human herpesvirus 8 MIR1 protein. This targets the protein
+    for rapid degradation via the ubiquitin system (By similarity).
+-!- POLYMORPHISM: The following alleles of B-15 are known: B*1501 (Bw-
+    62; B-62), B*1502 (Bw-75, B-75), B*1503 (Bw-72; B-72; B-70)
+    B*1504, B*1511, B*1519 and B*1566. Allele B*1502 is associated
+    with susceptibility to Stevens-Johnson syndrome. The sequence
+    shown is that of B*1501.
+-!- DISEASE: Involved in susceptibility to Stevens-Johnson syndrome
+    [MIM:608579]. This is a life-threatening reaction of the skin to
+    particular types of medication. It is characterized by high fever,
+    malaise and blistering exanthema. The more severe form of the
+    disease is referred to as toxic epidermal necrolysis.
+-!- SIMILARITY: Belongs to the MHC class I family.
+-!- SIMILARITY: Contains 1 Ig-like C1-type (immunoglobulin-like)
+    domain.
+3D-structure; Glycoprotein; Host-virus interaction; Immune response;
+Membrane; MHC I; Polymorphism; Signal; Transmembrane; Ubl conjugation.
+TMONE

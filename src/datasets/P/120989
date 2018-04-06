@@ -1,0 +1,124 @@
+AC   P13423; Q937W2; Q937W3; Q9F5R7; Q9KH69; Q9RQU2;
+Protective antigen precursor (PA) (PA-83) (PA83) (Anthrax toxins
+translocating protein) [Contains: Protective antigen PA-20 (PA20);
+Protective antigen PA-63 (PA63)].
+"Sequence and analysis of the DNA encoding protective antigen of
+Bacillus anthracis.";
+"Genetic diversity in the protective antigen gene of Bacillus
+anthracis.";
+"Attenuated nontoxinogenic and nonencapsulated recombinant Bacillus
+anthracis spore vaccines protect against anthrax.";
+"Sequence and organization of pXO1, the large Bacillus anthracis
+plasmid harboring the anthrax toxin genes.";
+"Comparative genome sequencing for discovery of novel polymorphisms in
+Bacillus anthracis.";
+"Bacillus anthracis comparative genomics.";
+"Sequence analysis of the genes encoding for the major virulence
+factors of Bacillus anthracis vaccine strain 'Carbosap'.";
+"Preparation of a positive control DNA for molecular diagnosis of
+Bacillus anthracis.";
+"The carboxyl-terminal end of protective antigen is required for
+receptor binding and anthrax toxin activity.";
+"Anthrax protective antigen forms oligomers during intoxication of
+mammalian cells.";
+"Proteolytic activation of receptor-bound anthrax protective antigen
+on macrophages promotes its internalization.";
+"Regulation of the Bacillus anthracis protective antigen gene: CO2 and
+a trans-acting element activate transcription from one of two
+promoters.";
+"Production of Bacillus anthracis protective antigen is dependent on
+the extracellular chaperone, PrsA.";
+"Binding of anthrax toxin to its receptor is similar to alpha
+integrin-ligand interactions.";
+"The chymotrypsin-sensitive site, FFD315, in anthrax toxin protective
+antigen is required for translocation of lethal factor.";
+"Identification of a receptor-binding region within domain 4 of the
+protective antigen component of anthrax toxin.";
+"Trp 346 and Leu 352 residues in protective antigen are required for
+the expression of anthrax lethal toxin activity.";
+"Hydrophobic residues Phe552, Phe554, Ile562, Leu566, and Ile574 are
+required for oligomerization of anthrax protective antigen.";
+"Role of residues constituting the 2beta1 strand of domain II in the
+biological activity of anthrax protective antigen.";
+"Involvement of domain 3 in oligomerization by the protective antigen
+moiety of anthrax toxin.";
+"Point mutations in anthrax protective antigen that block
+translocation.";
+"Identification of amino acid residues of anthrax protective antigen
+involved in binding with lethal factor.";
+"Mapping dominant-negative mutations of anthrax protective antigen by
+scanning mutagenesis.";
+"Alanine-scanning mutations in domain 4 of anthrax toxin protective
+antigen reveal residues important for binding to the cellular receptor
+and to a neutralizing monoclonal antibody.";
+"Crystal structure of the anthrax toxin protective antigen.";
+"Crystal structure of a complex between anthrax toxin and its host
+cell receptor.";
+"Structure of heptameric protective antigen bound to an anthrax toxin
+receptor: a role for receptor in pH-dependent pore formation.";
+"Anthrax.";
+-!- FUNCTION: One of the three proteins composing the anthrax toxin,
+    the agent which infects many mammalian species and that may cause
+    death. PA binds to a receptor (ATR) in sensitive eukaryotic cells,
+    thereby facilitating the translocation of the enzymatic toxin
+    components, edema factor and lethal factor, across the target cell
+    membrane. PA associated with LF causes death when injected, PA
+    associated with EF produces edema. PA induces immunity to
+    infection with anthrax.
+-!- SUBUNIT: Anthrax toxins are composed of three distinct proteins, a
+    protective antigen (PA), a lethal factor (LF) and an edema factor
+    (EF). None of these is toxic by itself. PA+LF forms the lethal
+    toxin (LeTx); PA+EF forms the edema toxin (EdTx). PA-63 forms
+    heptamers and this oligomerization is required for LF or EF
+    binding. This complex is endocytosed by the host. Once activated,
+    at low pH, the heptamer undergoes conformational changes and
+    converts from prepore to pore inserted in the membrane, forming
+    cation-selective channels and triggering the release of LF and EF
+    in the host cytoplasm.
+-!- INTERACTION:
+    Q9H6X2-2:ANTXR1 (xeno); NbExp=2; IntAct=EBI-456868, EBI-905659;
+    P58335:ANTXR2 (xeno); NbExp=4; IntAct=EBI-456868, EBI-456840;
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space.
+    Note=Secreted through the Sec-dependent secretion pathway.
+    Therefore, PA is translocated across the membrane in an unfolded
+    state and then it is folded into its native configuration on the
+    trans side of the membrane, prior to its release to the
+    environment. PA requires the extracellular chaperone prsA for
+    efficient folding.
+-!- DOMAIN: The molecule is folded into four functional domains. Each
+    domain is required for a particular step in the toxicity process.
+    Domain 1 contains two calcium ions and the proteolytic activation
+    site. Cleavage of the PA monomer releases the subdomain 1a, which
+    is the N-terminal fragment of 20-kDa (PA20). The subdomain 1b is
+    part of the remaining 63-kDa fragment (PA63) and contains the
+    binding sites for LP and EF. Domain 2 is a beta-barrel core
+    containing a large flexible loop that has been implicated in
+    membrane insertion and pore formation. There is a chymotrypsin
+    cleavage site in this loop that is required for toxicity. Domain 3
+    has a hydrophobic patch thought to be involved in protein-protein
+    interactions. Domain 4 appears to be a separate domain and shows
+    limited contact with the other three domains: it would swing out
+    of the way during membrane insertion. It is required for binding
+    to the receptor; the small loop is involved in receptor
+    recognition.
+-!- PTM: Proteolytic activation by furin or a furin-like protease
+    cleaves the protein in two parts, PA-20 and PA-63; the latter is
+    the mature protein. The cleavage occurs at the cell surface and
+    probably in the serum of infected animals as well; both native and
+    cleaved PA are able to bind to the cell receptor. The release of
+    PA20 from the remaining receptor-bound PA63 exposes the binding
+    site for EF and LF, and promotes oligomerization and
+    internalization of the protein.
+-!- MISCELLANEOUS: In Ref.12 multiple mutagenesis experiments were
+    performed that showed that the residues present in the small loop
+    of domain 4, and not the ones in the large loop, are involved in
+    receptor recognition. In Ref.19 high-throughput scanning
+    mutagenesis experiments were performed in which all residues of
+    PA-63 were mutated into Cys. Dominantly negative (DN) mutants were
+    all clustered in domain 2. DN mutants prevent the conformational
+    transition of PA-63 from the prepore to the pore state.
+-!- SIMILARITY: Belongs to the bacterial binary toxin family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Calcium; Complete proteome; Metal-binding; Plasmid;
+Signal; Toxin; Virulence.
+TMZERO

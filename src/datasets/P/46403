@@ -1,0 +1,39 @@
+AC   P24942; Q9JK43;
+Excitatory amino acid transporter 1 (Sodium-dependent
+glutamate/aspartate transporter 1) (Glial glutamate transporter)
+(GLAST) (GLAST-1).
+"Structure, expression, and functional analysis of a Na(+)-dependent
+glutamate/aspartate transporter from rat brain.";
+"Expression cloning of a rat glutamate transporter.";
+"The open reading frame of the Na(+)-dependent glutamate transporter
+GLAST-1 is expressed in bone and a splice variant of this molecule is
+expressed in bone and brain.";
+"UDP galactose:ceramide galactosyltransferase and glutamate/aspartate
+transporter. Copurification, separation and characterization of the
+two glycoproteins.";
+"Identification of a glutamate/aspartate transporter in the rat
+cochlea.";
+-!- FUNCTION: Transports L-glutamate and also L- and D-aspartate.
+    Essential for terminating the postsynaptic action of glutamate by
+    rapidly removing released glutamate from the synaptic cleft. Acts
+    as a symport by cotransporting sodium.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=GLAST-1;
+      IsoId=P24942-1; Sequence=Displayed;
+    Name=GLAST-1A;
+      IsoId=P24942-2; Sequence=VSP_006263;
+-!- TISSUE SPECIFICITY: Both isoforms are expressed in bone and brain.
+    In brain isoform GLAST-1 is highly enriched in the Purkinje cell
+    layer in cerebellum.
+-!- PTM: Glycosylated.
+-!- SIMILARITY: Belongs to the sodium:dicarboxylate (SDF) symporter
+    (TC 2.A.23) family.
+ GO:0043197; C:dendritic spine; IDA:RGD.
+ GO:0045202; C:synapse; IDA:RGD.
+ GO:0005313; F:L-glutamate transporter activity; TAS:RGD.
+ GO:0006836; P:neurotransmitter transport; TAS:RGD.
+Alternative splicing; Direct protein sequencing; Glycoprotein;
+Membrane; Polymorphism; Symport; Transmembrane; Transport.
+TMSIX

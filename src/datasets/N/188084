@@ -1,0 +1,16 @@
+AC   Q8NVH4;
+Hydroxyethylthiazole kinase (EC 2.7.1.50) (4-methyl-5-beta-
+hydroxyethylthiazole kinase) (Thz kinase) (TH kinase).
+"Genome and virulence determinants of high virulence community-
+acquired MRSA.";
+-!- CATALYTIC ACTIVITY: ATP + 4-methyl-5-(2-hydroxyethyl)thiazole =
+    ADP + 4-methyl-5-(2-phosphoethyl)thiazole.
+-!- COFACTOR: Binds 2 magnesium ions per subunit (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; thiamine pyrophosphate
+    biosynthesis; 4-methyl-5-(2-phosphoethyl)-thiazole from 4-methyl-
+    5-(2-hydroxyethyl)-thiazole: single step.
+-!- SIMILARITY: Belongs to the Thz kinase family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ATP-binding; Complete proteome; Kinase; Magnesium; Metal-binding;
+Nucleotide-binding; Thiamine biosynthesis; Transferase.
+TMZERO

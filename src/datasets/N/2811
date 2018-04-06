@@ -1,0 +1,16 @@
+AC   Q4FLS7;
+Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7) (Holo-ACP synthase)
+(4'-phosphopantetheinyl transferase acpS).
+"Genome streamlining in a cosmopolitan oceanic bacterium.";
+-!- FUNCTION: Transfers the 4'-phosphopantetheine moiety from coenzyme
+    A to a Ser of acyl-carrier-protein (By similarity).
+-!- CATALYTIC ACTIVITY: CoA-(4'-phosphopantetheine) + apo-[acyl-
+    carrier-protein] = adenosine 3',5'-bisphosphate + holo-[acyl-
+    carrier-protein].
+-!- COFACTOR: Magnesium (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the P-Pant transferase superfamily. AcpS
+    family.
+Complete proteome; Fatty acid biosynthesis; Lipid synthesis;
+Magnesium; Metal-binding; Transferase.
+TMZERO

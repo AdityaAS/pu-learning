@@ -1,0 +1,28 @@
+AC   P46912;
+Menaquinol-cytochrome c reductase cytochrome b subunit.
+"The cytochrome bc complex (menaquinone:cytochrome c reductase) in
+Bacillus subtilis has a nontraditional subunit organization.";
+"Sequence analysis of the Bacillus subtilis chromosome region between
+the serA and kdg loci cloned in a yeast artificial chromosome.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Studies of the cytochrome subunits of menaquinone:cytochrome c
+reductase (bc complex) of Bacillus subtilis. Evidence for the covalent
+attachment of heme to the cytochrome b subunit.";
+-!- FUNCTION: Component of the menaquinol-cytochrome c reductase
+    complex.
+-!- COFACTOR: Binds 2 heme groups per subunit. One heme group is bound
+    covalently by a single cysteine link, the other one non-
+    covalently.
+-!- SUBUNIT: The main subunits of the menaquinone:cytochrome c complex
+    are: cytochrome b, the Rieske protein and a cytochrome b/c
+    subunit.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: This cytochrome b is similar to other bacterial and
+    plant chloroplast cytochrome b6 proteins in binding one of two
+    hemes with a single thioether bond.
+-!- SIMILARITY: Belongs to the cytochrome b family.
+Complete proteome; Electron transport; Heme; Iron; Membrane;
+Metal-binding; Transmembrane; Transport.
+TMFOUR

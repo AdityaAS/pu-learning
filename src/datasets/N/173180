@@ -1,0 +1,19 @@
+AC   Q2UTP0;
+GPI mannosyltransferase 4 (EC 2.4.1.-) (GPI mannosyltransferase IV)
+(GPI-MT-IV).
+"Genome sequencing and analysis of Aspergillus oryzae.";
+-!- FUNCTION: Alpha-1,2-mannosyltransferase involved in
+    glycosylphosphatidylinositol-anchor biosynthesis. Transfers a
+    fourth mannose to trimannosyl-GPIs during GPI precursor assembly.
+    The presence of a fourth mannose in GPI is essential in fungi (By
+    similarity).
+-!- PATHWAY: Glycolipid biosynthesis; glycosylphosphatidylinositol-
+    anchor biosynthesis.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 22 family. PIGZ
+    subfamily.
+Cell wall; Complete proteome; Endoplasmic reticulum; Glycoprotein;
+Glycosyltransferase; GPI-anchor biosynthesis; Membrane; Transferase;
+Transmembrane.
+TMFIVE

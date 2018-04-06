@@ -1,0 +1,12 @@
+AC   Q4IR09;
+mRNA 3'-end processing protein RNA14.
+"Fusarium graminearum genome sequence.";
+-!- FUNCTION: Component of the cleavage factor IA (CFIA) complex,
+    which is involved in the endonucleolytic cleavage during
+    polyadenylation-dependent pre-mRNA 3'-end formation (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Cytoplasm (By
+    similarity). Note=Nucleus and/or cytoplasm (By similarity).
+-!- SIMILARITY: Contains 7 HAT repeats.
+Complete proteome; mRNA processing; Nuclear protein; Repeat.
+TMZERO

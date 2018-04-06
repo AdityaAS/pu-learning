@@ -1,0 +1,33 @@
+AC   O14926;
+Fascin-2 (Retinal fascin).
+"Refinement of the RP17 locus for autosomal dominant retinitis
+pigmentosa, construction of a YAC contig and investigation of the
+candidate gene retinal fascin.";
+"Characterization of human retinal fascin gene (FSCN2) at 17q25: close
+physical linkage of fascin and cytoplasmic actin genes.";
+"Retinal fascin: functional nature, subcellular distribution, and
+chromosomal localization.";
+"Mutation of human retinal fascin gene (FSCN2) causes autosomal
+dominant retinitis pigmentosa.";
+-!- FUNCTION: Acts as an actin bundling protein. May play a pivotal
+    role in photoreceptor cell-specific events, such as disk
+    morphogenesis.
+-!- TISSUE SPECIFICITY: Localized specifically in the outer and inner
+    segments of the photoreceptor cells in the retina.
+-!- DISEASE: Defects in FSCN2 are the cause of retinitis pigmentosa 30
+    (RP30) [MIM:607921]. Retinitis pigmentosa (RP) [MIM:268000] leads
+    to degeneration of retinal photoreceptor cells. Patients typically
+    have night vision blindness and loss of midperipheral visual
+    field. As their condition progresses, they lose their far
+    peripheral visual field and eventually central vision as well.
+    RP30 inheritance is autosomal dominant.
+-!- SIMILARITY: Belongs to the fascin family.
+-!- WEB RESOURCE: NAME=Mutations of the FSCN2 gene;
+    NOTE=Retina International's Scientific Newsletter;
+    URL="http://www.retina-international.com/sci-news/fscn2mut.htm".
+ GO:0015629; C:actin cytoskeleton; TAS:ProtInc.
+ GO:0051017; P:actin filament bundle formation; TAS:ProtInc.
+ GO:0009653; P:morphogenesis; TAS:ProtInc.
+ GO:0007601; P:visual perception; TAS:ProtInc.
+Actin-binding; Retinitis pigmentosa; Sensory transduction; Vision.
+TMZERO

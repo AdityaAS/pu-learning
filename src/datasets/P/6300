@@ -1,0 +1,12 @@
+AC   Q53185;
+Putative transporter protein amiS2.
+"Amide metabolism: a putative ABC transporter in Rhodococcus sp.
+R312.";
+-!- FUNCTION: Possible transporter that might be responsible for the
+    adsorption of amidase substrates or release of their hydrolysis
+    products.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the amiS/ureI family.
+Membrane; Transmembrane; Transport.
+TMSEVEN

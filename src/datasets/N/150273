@@ -1,0 +1,16 @@
+AC   Q47Y88;
+50S ribosomal protein L25 (General stress protein CTC).
+"The psychrophilic lifestyle as revealed by the genome sequence of
+Colwellia psychrerythraea 34H through genomic and proteomic
+analyses.";
+-!- FUNCTION: This is one of the proteins that binds to the 5S RNA in
+    the ribosome where it forms part of the central protuberance (By
+    similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit; part of the 5S
+    rRNA/L5/L18/L25 subcomplex. Contacts the 5S rRNA. Binds to the 5S
+    rRNA independently of L5 and L18 (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L25P family. Ctc
+    subfamily.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

@@ -1,0 +1,16 @@
+AC   P15701;
+2-keto-3-deoxygluconate permease (KDG permease).
+"Nucleotide sequence of the Erwinia chrysanthemi gene encoding 2-keto-
+3-deoxygluconate permease.";
+-!- FUNCTION: The 2-keto-3-deoxygluconate permease transports the
+    degraded pectin products into the bacterial cell, where they serve
+    as carbon and energy sources. This is a hydrogen coupled transport
+    system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the kdgT transporter family.
+ GO:0005351; F:sugar porter activity; IEA:HAMAP.
+ GO:0015293; F:symporter activity; IEA:HAMAP.
+Inner membrane; Membrane; Sugar transport; Symport; Transmembrane;
+Transport.
+TMTEN

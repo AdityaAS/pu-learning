@@ -1,0 +1,23 @@
+AC   P0AAH2; P07655;
+Phosphate import ATP-binding protein pstB (EC 3.6.3.27) (Phosphate-
+transporting ATPase) (ABC phosphate transporter).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Part of the ABC transporter complex pstSACB involved in
+    phosphate import. Responsible for energy coupling to the transport
+    system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + phosphate(Out) = ADP + phosphate
+    + phosphate(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (pstB), two transmembrane proteins (pstC and pstA) and a solute-
+    binding protein (pstS) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Phosphate
+    importer (TC 3.A.1.7) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0015415; F:phosphate-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Nucleotide-binding; Phosphate transport; Transport.
+TMZERO

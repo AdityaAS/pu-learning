@@ -1,0 +1,31 @@
+AC   Q01519; Q9URA6;
+Cytochrome c oxidase polypeptide VIb (EC 1.9.3.1) (AED).
+"Isolation and characterization of COX12, the nuclear gene for a
+previously unrecognized subunit of Saccharomyces cerevisiae cytochrome
+c oxidase.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Purification of yeast cytochrome c oxidase with a subunit composition
+resembling the mammalian enzyme.";
+"Kinetic properties and ligand binding of the eleven-subunit
+cytochrome-c oxidase from Saccharomyces cerevisiae isolated with a
+novel large-scale purification method.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: This protein is one of the nuclear-coded polypeptide
+    chains of cytochrome c oxidase, the terminal oxidase in
+    mitochondrial electron transport. This protein may be one of the
+    heme-binding subunits of the oxidase.
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBUNIT: Cytochrome c oxidase is composed of 11 subunits: one copy
+    each of COX1, COX2, COX3, COX4, COX5A or COX5B, COX6, COX7, COX9,
+    COX12, COX13 and two copies of COX8.
+-!- MISCELLANEOUS: Present with 1390 molecules/cell.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase VIb family.
+ GO:0005751; C:respiratory chain complex IV (sensu Eukaryota); IPI:SGD.
+ GO:0004129; F:cytochrome-c oxidase activity; IDA:SGD.
+ GO:0008535; P:cytochrome c oxidase complex assembly; IMP:SGD.
+Complete proteome; Direct protein sequencing; Mitochondrion;
+Oxidoreductase.
+TMZERO

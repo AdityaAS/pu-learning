@@ -1,0 +1,18 @@
+AC   P26905;
+Dipeptide transport ATP-binding protein dppD.
+"A Bacillus subtilis dipeptide transport system expressed early during
+sporulation.";
+"Sequence of the Bacillus subtilis genome between xlyA and ykoR.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for dipeptides. Probably responsible for energy coupling to the
+    transport system. Expressed to facilitate adaptation to nutrient
+    deficiency conditions, which also induce sporulation.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Membrane; Nucleotide-binding;
+Peptide transport; Protein transport; Sporulation; Transport.
+TMZERO

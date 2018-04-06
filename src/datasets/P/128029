@@ -1,0 +1,38 @@
+AC   P55058; Q8WTT1; Q9BR07; Q9BSH8;
+Phospholipid transfer protein precursor (Lipid transfer protein II).
+"Complete cDNA encoding human phospholipid transfer protein from human
+endothelial cells.";
+"Molecular cloning and functional characterization of phospholipid
+transfer protein from human placenta cDNA library.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Role of cysteine residues in human plasma phospholipid transfer
+protein.";
+"Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+hydrazide chemistry, and mass spectrometry.";
+"Association of extreme blood lipid profile phenotypic variation with
+11 reverse cholesterol transport genes and 10 non-genetic
+cardiovascular disease risk factors.";
+-!- FUNCTION: Converts HDL into larger and smaller particles. May play
+    a key role in extracellular phospholipid transport and modulation
+    of hdl particles.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=P55058-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P55058-2; Sequence=VSP_003050;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Wide tissue distribution. Placenta > pancreas
+    > lung > kidney > heart > liver > skeletal muscle > brain.
+-!- SIMILARITY: Belongs to the BPI/LBP/Plunc superfamily. BPI/LBP
+    family.
+ GO:0005576; C:extracellular region; TAS:ProtInc.
+ GO:0006629; P:lipid metabolism; TAS:ProtInc.
+Alternative splicing; Direct protein sequencing; Glycoprotein;
+Lipid transport; Polymorphism; Signal; Transport.
+TMZERO

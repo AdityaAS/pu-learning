@@ -1,0 +1,25 @@
+AC   P24782;
+ATP-dependent RNA helicase dbp2 (EC 3.6.1.-) (p68-like protein).
+"p68 RNA helicase: identification of a nucleolar form and cloning of
+related genes containing a conserved intron in yeasts.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: ATP-dependent RNA helicase involved nonsense-mediated
+    mRNA decay and ribosome biogenesis through rRNA processing (By
+    similarity).
+-!- SUBUNIT: Associates with polysomes (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- DOMAIN: The Q motif is unique to and characteristic of the DEAD
+    box family of RNA helicases and controls ATP binding and
+    hydrolysis.
+-!- SIMILARITY: Belongs to the DEAD box helicase family. DDX5/DBP2
+    subfamily.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005730; C:nucleolus; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ATP-binding; Complete proteome; Helicase; Hydrolase;
+Nonsense-mediated mRNA decay; Nuclear protein; Nucleotide-binding;
+Ribosome biogenesis; RNA-binding; rRNA processing.
+TMZERO

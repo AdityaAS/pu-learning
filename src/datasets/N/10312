@@ -1,0 +1,19 @@
+AC   Q5HP79;
+3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-
+enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- CATALYTIC ACTIVITY: Phosphoenolpyruvate + 3-phosphoshikimate =
+    phosphate + 5-O-(1-carboxyvinyl)-3-phosphoshikimate.
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 6.
+-!- PATHWAY: Context: Aromatic amino acids biosynthesis.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the EPSP synthase family.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Complete proteome; Transferase.
+TMZERO

@@ -1,0 +1,33 @@
+AC   P54900;
+Sodium channel subunit beta-2 precursor.
+"Structure and function of the beta 2 subunit of brain sodium
+channels, a transmembrane glycoprotein with a CAM motif.";
+"Interaction of voltage-gated sodium channels with the extracellular
+matrix molecules tenascin-C and tenascin-R.";
+"Role of auxiliary beta1-, beta2-, and beta3-subunits and their
+interaction with Na(v)1.8 voltage-gated sodium channel.";
+-!- FUNCTION: Crucial in the assembly, expression, and functional
+    modulation of the heterotrimeric complex of the sodium channel.
+    The subunit beta-2 causes an increase in the plasma membrane
+    surface area and in its folding into microvilli. Interacts with
+    TNR may play a crucial role in clustering and regulation of
+    activity of sodium channels at nodes of Ranvier.
+-!- SUBUNIT: The sodium channel consists of a pore-forming alpha
+    subunit, beta-1 and beta-2 subunits. Beta-1 is non-covalently
+    associated with alpha, while beta-2 is covalently linked by
+    disulfide bonds. Interaction with SCN10A and TNR.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Brain specific.
+-!- DEVELOPMENTAL STAGE: Detected in the earliest phase of
+    neurogenesis in brain, and expression is greatly increased
+    concomitant with axon extension and synaptogenesis.
+-!- SIMILARITY: Contains 1 Ig-like C2-type (immunoglobulin-like)
+    domain.
+ GO:0001518; C:voltage-gated sodium channel complex; TAS:RGD.
+ GO:0005248; F:voltage-gated sodium channel activity; IDA:RGD.
+Direct protein sequencing; Glycoprotein; Immunoglobulin domain;
+Ion transport; Ionic channel; Membrane; Polymorphism; Signal; Sodium;
+Sodium channel; Sodium transport; Transmembrane; Transport;
+Voltage-gated channel.
+TMONE

@@ -1,0 +1,13 @@
+AC   P35518;
+Bacteriocin lactococcin-B precursor (LCN-B).
+"Cloning, sequencing, and expression in Escherichia coli of lcnB, a
+third bacteriocin determinant from the lactococcal bacteriocin plasmid
+p9B4-6.";
+"Mutational analysis and chemical modification of Cys24 of lactococcin
+B, a bacteriocin produced by Lactococcus lactis.";
+-!- FUNCTION: Kills Lactococci by dissipating the membrane potential
+    of the cells.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+Antibiotic; Antimicrobial; Bacteriocin; Membrane; Plasmid;
+Transmembrane.
+TMZERO

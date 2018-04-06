@@ -1,0 +1,8 @@
+AC   P14492;
+43 kDa relaxation protein.
+"Complete sequence of pSC101.";
+-!- FUNCTION: This protein is probably required for relaxation complex
+    formation.
+-!- SIMILARITY: Belongs to the mobA/mobL family.
+Conjugation; Mobility protein; Plasmid.
+TMZERO

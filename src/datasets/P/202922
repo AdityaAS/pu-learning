@@ -1,0 +1,13 @@
+AC   P03666; Q96223;
+Gene IV protein (GPIV).
+"Nucleotide sequence and genome organisation of filamentous
+bacteriophages f1 and fd.";
+"Nucleotide sequence of bacteriophage f1 DNA.";
+"DNA sequence analysis of the defective interfering particles of
+bacteriophage f1.";
+"Nucleotide sequence of a gene IV fragment of bacteriophage f1.";
+-!- FUNCTION: The exact function of this protein is unknown although
+    it may be involved in phage assembly.
+-!- SIMILARITY: Belongs to the GSP D family.
+Phage maturation.
+TMZERO

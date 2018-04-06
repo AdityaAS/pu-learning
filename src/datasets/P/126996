@@ -1,0 +1,13 @@
+AC   P24559;
+Twitching mobility protein.
+"Characterisation of a Pseudomonas aeruginosa twitching motility gene
+and evidence for a specialised protein export system widespread in
+eubacteria.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: May be involved in pilus retraction.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the GSP E family.
+ATP-binding; Complete proteome; Fimbria; Nucleotide-binding;
+Transport.
+TMZERO

@@ -1,0 +1,32 @@
+AC   P23644;
+Mitochondrial import receptor subunit TOM40 (Mitochondrial import-
+site-protein ISP42) (Translocase of outer membrane 40 kDa subunit).
+"A yeast mitochondrial outer membrane protein essential for protein
+import and cell viability.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"Preprotein translocase of the outer mitochondrial membrane: molecular
+dissection and assembly of the general import pore complex.";
+"Biogenesis of Tom40, core component of the TOM complex of
+mitochondria.";
+-!- FUNCTION: Central component of the TOM (translocase of outer
+    membrane) receptor complex responsible for the recognition and
+    translocation of cytosolically synthesized mitochondrial
+    preproteins. TOM40 constitutes the core element of the protein
+    translocation pore.
+-!- SUBUNIT: Forms part of the TOM (translocase of outer membrane)
+    complex that consists of at least 7 different proteins (TOM5,
+    TOM6, TOM7, TOM20, TOM22, TOM40 and TOM70).
+-!- INTERACTION:
+    Q02776:TIM50; NbExp=1; IntAct=EBI-12539, EBI-30302;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the Tom40 family.
+ GO:0005742; C:mitochondrial outer membrane translocase co...; IPI:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0008565; F:protein transporter activity; IMP:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; IPI:SGD.
+Complete proteome; Membrane; Mitochondrion; Outer membrane;
+Protein transport; Transmembrane; Transport.
+TMZERO

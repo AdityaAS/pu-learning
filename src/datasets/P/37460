@@ -1,0 +1,16 @@
+AC   P0ABJ7; P18403; P77116;
+Cytochrome o ubiquinol oxidase protein cyoD (Ubiquinol oxidase chain
+D).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Cytochrome o terminal oxidase complex is the component
+    of the aerobic respiratory chain that predominates when cells are
+    grown at high aeration (By similarity).
+-!- SUBUNIT: Heterooctamer of two A chains, two B chains, two C chains
+    and two D chains (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+Complete proteome; Electron transport; Inner membrane; Membrane;
+Oxidoreductase; Transmembrane; Transport.
+THTHREE

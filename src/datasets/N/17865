@@ -1,0 +1,19 @@
+AC   Q4WDD7;
+Ubiquitin-protein ligase bre1 (EC 6.3.2.-).
+"Genomic sequence of the pathogenic and allergenic filamentous fungus
+Aspergillus fumigatus.";
+-!- FUNCTION: E3 ubiquitin ligase protein that mediates
+    monoubiquitination of 'Lys-123' of histone H2B. H2B 'Lys-123'
+    ubiquitination gives a specific tag for epigenetic transcriptional
+    activation and is also prerequisite for histone H3 'Lys-4' and
+    'Lys-79' methylation (By similarity).
+-!- PATHWAY: Ubiquitin conjugation; third step.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the BRE1 family.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction.
+Chromatin regulator; Chromosomal protein; Coiled coil;
+Complete proteome; Ligase; Metal-binding; Nuclear protein;
+Ubl conjugation pathway; Zinc; Zinc-finger.
+TMZERO

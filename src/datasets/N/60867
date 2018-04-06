@@ -1,0 +1,12 @@
+AC   P66030; Q8XFY7;
+GTP cyclohydrolase-2 (EC 3.5.4.25) (GTP cyclohydrolase II).
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- CATALYTIC ACTIVITY: GTP + 3 H(2)O = formate + 2,5-diamino-6-
+    hydroxy-4-(5-phosphoribosylamino)pyrimidine + diphosphate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; riboflavin biosynthesis; 6,7-
+    dimethyl-8-(1-D-ribityl)lumazine from GTP: step 1.
+-!- SIMILARITY: Belongs to the GTP cyclohydrolase II family.
+Complete proteome; Hydrolase; Magnesium; Riboflavin biosynthesis.
+TMZERO

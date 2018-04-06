@@ -1,0 +1,12 @@
+AC   P46904;
+Protein natB.
+"A two-gene ABC-type transport system that extrudes Na+ in Bacillus
+subtilis is induced by ethanol or protonophore.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in ATP-dependent electrogenic sodium extrusion.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+Complete proteome; Ion transport; Membrane; Sodium; Sodium transport;
+Transmembrane; Transport.
+TMSEVEN

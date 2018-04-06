@@ -1,0 +1,15 @@
+AC   P0AE07; P31223;
+Acriflavine resistance protein A precursor.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: AcrAB is a drug efflux protein with a broad substrate
+    specificity (By similarity).
+-!- SUBUNIT: Homotrimeric; interacts with acrB (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; lipid-anchor (By
+    similarity).
+-!- SIMILARITY: Belongs to the membrane fusion protein (MFP)
+    (TC 8.A.1) family.
+Antibiotic resistance; Complete proteome; Inner membrane; Lipoprotein;
+Membrane; Palmitate; Signal; Transport.
+TMZERO

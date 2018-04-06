@@ -1,0 +1,19 @@
+AC   O18835;
+Beta-glucuronidase precursor (EC 3.2.1.31).
+"Cloning of the canine beta-glucuronidase cDNA, mutation
+identification in canine MPS VII, and retroviral vector-mediated
+correction of MPS VII cells.";
+-!- FUNCTION: Plays an important role in the degradation of dermatan
+    and keratan sulfates (By similarity).
+-!- CATALYTIC ACTIVITY: A beta-D-glucuronoside + H(2)O = D-glucuronate
+    + an alcohol.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Lysosome.
+-!- DISEASE: Defects in GUSB are the cause of mucopolysaccharidosis
+    type VII (MPS VII), an inherited disease reported in humans, mice,
+    cats, and dogs.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 2 family.
+ GO:0004566; F:beta-glucuronidase activity; IEA:EC.
+Disease mutation; Glycoprotein; Glycosidase; Hydrolase; Lysosome;
+Signal.
+TMZERO

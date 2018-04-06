@@ -1,0 +1,11 @@
+AC   P29961;
+Heme exporter protein C (Cytochrome c-type biogenesis protein helC).
+"Bacterial cytochromes c biogenesis.";
+-!- FUNCTION: Required for the export of heme to the periplasm for the
+    biogenesis of c-type cytochromes.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the ccmC/cycZ/helC family.
+Cytochrome c-type biogenesis; Inner membrane; Membrane; Transmembrane;
+Transport.
+TMSIX

@@ -1,0 +1,42 @@
+AC   Q03155;
+Adhesin AIDA-I precursor (AIDA-I autotransporter) (AIDA).
+"AIDA-I, the adhesin involved in diffuse adherence of the
+diarrhoeagenic Escherichia coli strain 2787 (O126:H27), is synthesized
+via a precursor molecule.";
+"Characterization and immuno-detection of AIDA-I adhesin isolated from
+porcine Escherichia coli.";
+"Processing of the AIDA-I precursor: removal of AIDAc and evidence for
+the outer membrane anchoring as a beta-barrel structure.";
+"Characterization of the essential transport function of the AIDA-I
+autotransporter and evidence supporting structural predictions.";
+"Novel roles for the AIDA adhesin from diarrheagenic Escherichia coli:
+cell aggregation and biofilm formation.";
+-!- FUNCTION: Potent bacterial adhesin that mediates bacterial
+    attachment to a broad variety of human and other mammalian cells.
+    AIDA possesses additional virulence properties, as it is capable
+    of mediating bacterial autoaggregation via intercellular self-
+    recognition and it is a highly efficient initiator of biofilm
+    formation.
+-!- SUBUNIT: Intercellular AIDA-AIDA interaction is responsible for
+    bacterial autoaggregation. AIDA can also interact with antigen 43
+    (Ag43), and the resultant intercellular AIDA-Ag43 interaction
+    causes cell aggregation.
+-!- SUBCELLULAR LOCATION: Cell surface. Note=The cleaved C-terminal
+    fragment (translocator domain) is localized in the outer membrane.
+-!- DOMAIN: The signal peptide, cleaved at the inner membrane, guides
+    the polyprotein to the periplasmic space. Then, insertion of the
+    carboxy-terminal translocator domain (or beta-domain) in the outer
+    membrane forms a hydrophilic pore for the translocation of the
+    passenger domain to the bacterial cell surface, with subsequent
+    autocatalytic cleavage. Finally, the mature AIDA protein remains
+    in contact with the cell surface via non-covalent interactions
+    with the translocator pore.
+-!- PTM: Glycosylated with an average of 19 heptose residues. Only the
+    glycosylated form binds to mammalilan cells. But glycosylation of
+    AIDA is not required for AIDA-mediated cell-cell aggregation,
+    interaction with Ag43, and induction of biofilm formation.
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+Autocatalytic cleavage; Cell adhesion; Direct protein sequencing;
+Glycoprotein; Membrane; Outer membrane; Plasmid; Signal;
+Transmembrane; Virulence.
+TMFOURTEEN

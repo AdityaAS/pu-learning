@@ -1,0 +1,11 @@
+AC   P38331;
+Uncharacterized protein YBR242W.
+"Complete DNA sequence of yeast chromosome II.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+-!- MISCELLANEOUS: Present with 2730 molecules/cell.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ATP-binding; Complete proteome; Nucleotide-binding.
+TMZERO

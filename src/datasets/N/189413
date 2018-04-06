@@ -1,0 +1,17 @@
+AC   Q9URM2; P78824;
+Probable transketolase (EC 2.2.1.1) (TK).
+"The genome sequence of Schizosaccharomyces pombe.";
+"Identification of open reading frames in Schizosaccharomyces pombe
+cDNAs.";
+-!- CATALYTIC ACTIVITY: Sedoheptulose 7-phosphate + D-glyceraldehyde
+    3-phosphate = D-ribose 5-phosphate + D-xylulose 5-phosphate.
+-!- COFACTOR: Binds 1 calcium ion per subunit (By similarity).
+-!- COFACTOR: Binds 1 thiamine pyrophosphate per subunit (By
+    similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the transketolase family.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+Calcium; Complete proteome; Metal-binding; Thiamine pyrophosphate;
+Transferase.
+TMZERO

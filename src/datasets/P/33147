@@ -1,0 +1,13 @@
+AC   P30000;
+Sucrose transport protein (Sucrose permease).
+"Characterization of a chromosomally encoded, non-PTS metabolic
+pathway for sucrose utilization in Escherichia coli EC3132.";
+-!- FUNCTION: Proton symport transport system. Has an essential role
+    in sucrose metabolism.
+-!- PATHWAY: Sucrose metabolism.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the lacY/rafB permease family.
+Inner membrane; Membrane; Sugar transport; Symport; Transmembrane;
+Transport.
+TMTWELVE

@@ -1,0 +1,10 @@
+AC   Q96QS6;
+Serine/threonine-protein kinase H2 (EC 2.7.11.1) (PSK-H2).
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+-!- CAUTION: Asn-183 is present instead of the conserved Asp which is
+    expected to be an active site residue.
+ATP-binding; Kinase; Nucleotide-binding;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

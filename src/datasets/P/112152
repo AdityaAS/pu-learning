@@ -1,0 +1,13 @@
+AC   Q25479;
+Bumetanide-sensitive sodium-(potassium)-chloride cotransporter (Na-K-
+CL symporter).
+"Molecular cloning of a putative Na(+)-K(+)-2Cl-cotransporter from the
+Malpighian tubules of the tobacco hornworm, Manduca sexta.";
+-!- FUNCTION: Electrically silent transporter system. Mediates sodium
+    and chloride reabsorption. Plays a vital role in the regulation of
+    ionic balance and cell volume.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the SLC12A transporter family.
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Sodium; Sodium transport; Symport; Transmembrane; Transport.
+TMTWELVE

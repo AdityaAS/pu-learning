@@ -1,0 +1,15 @@
+AC   Q06988;
+Transferrin-binding protein 2 precursor (TBP-2).
+"Cloning and characterization of Neisseria meningitidis genes encoding
+the transferrin-binding proteins Tbp1 and Tbp2.";
+"Antigenic relationships of transferrin-binding proteins from
+Neisseria meningitidis, N. gonorrhoeae and Haemophilus influenzae:
+cross-reactivity of antibodies to NH2-terminal peptides.";
+-!- FUNCTION: Acts as a transferrin receptor and is required for
+    transferrin utilization.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor
+    (Probable).
+-!- INDUCTION: By iron starvation.
+Direct protein sequencing; Lipoprotein; Membrane; Outer membrane;
+Palmitate; Receptor; Signal.
+TMZERO

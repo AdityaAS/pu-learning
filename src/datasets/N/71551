@@ -1,0 +1,15 @@
+AC   P64312; Q99W58;
+Chaperone protein hchA (Hsp31).
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: Uses temperature-induced exposure of structured
+    hydrophobic domains to capture and stabilize early unfolding
+    protein intermediates under severe thermal stress. It rapidly
+    releases them once stress has abated (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the pfpI family. HchA subfamily.
+ GO:0051082; F:unfolded protein binding; IEA:HAMAP.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+ GO:0042026; P:protein refolding; IEA:HAMAP.
+Chaperone; Complete proteome.
+TMZERO

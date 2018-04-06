@@ -1,0 +1,18 @@
+AC   Q62941;
+Zinc transporter 2 (ZnT-2) (Solute carrier family 30 member 2).
+"ZnT-2, a mammalian protein that confers resistance to zinc by
+facilitating vesicular sequestration.";
+-!- FUNCTION: Involved in accumulation of zinc in endosomal/lysosomal
+    vesicles.
+-!- SUBCELLULAR LOCATION: Endosome; endosomal membrane; multi-pass
+    membrane protein (Probable).
+-!- TISSUE SPECIFICITY: Intestine, kidney, seminal vesicles and
+    testis.
+-!- SIMILARITY: Belongs to the cation diffusion facilitator (CDF)
+    transporter (TC 2.A.4) family. SLC30A subfamily.
+ GO:0016023; C:cytoplasmic membrane-bound vesicle; IDA:RGD.
+ GO:0005385; F:zinc ion transporter activity; IDA:RGD.
+ GO:0006829; P:zinc ion transport; IDA:RGD.
+Ion transport; Membrane; Repeat; Transmembrane; Transport; Zinc;
+Zinc transport.
+TMSEVEN

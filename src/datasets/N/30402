@@ -1,0 +1,31 @@
+AC   Q9Y5Q5; Q9UHY2;
+Atrial natriuteric peptide-converting enzyme (EC 3.4.21.-) (pro-ANP-
+converting enzyme) (Corin) (Heart-specific serine proteinase ATC2)
+(Transmembrane protease, serine 10).
+"Corin, a mosaic transmembrane serine protease encoded by a novel cDNA
+from human heart.";
+"Localization of the mosaic transmembrane serine protease corin to
+heart myocytes.";
+"Corin, a transmembrane cardiac serine protease, acts as a pro-atrial
+natriuretic peptide-converting enzyme.";
+-!- FUNCTION: Converts Pro-ANP to ANP. Cleaves Pro-ANP specifically
+    between 'Arg-123' and 'Ser-124'.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein.
+-!- TISSUE SPECIFICITY: Highly expressed in heart. Expressed in heart
+    myocytes.
+-!- SIMILARITY: Belongs to the peptidase S1 family.
+-!- SIMILARITY: Contains 2 FZ (frizzled) domains.
+-!- SIMILARITY: Contains 7 LDL-receptor class A domains.
+-!- SIMILARITY: Contains 1 peptidase S1 domain.
+-!- SIMILARITY: Contains 1 SRCR domain.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0004252; F:serine-type endopeptidase activity; TAS:ProtInc.
+ GO:0008217; P:blood pressure regulation; TAS:ProtInc.
+ GO:0006629; P:lipid metabolism; TAS:ProtInc.
+ GO:0009653; P:morphogenesis; TAS:ProtInc.
+ GO:0006508; P:proteolysis; TAS:ProtInc.
+Glycoprotein; Hydrolase; Membrane; Protease; Repeat; Serine protease;
+Signal-anchor; Transmembrane.
+TMONE

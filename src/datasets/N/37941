@@ -1,0 +1,10 @@
+AC   P72205;
+Protein cysZ homolog (Fragment).
+-!- FUNCTION: Possibly involved in sulfate transport (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the cysZ family.
+ GO:0008272; P:sulfate transport; IEA:HAMAP.
+Amino-acid biosynthesis; Cysteine biosynthesis; Inner membrane;
+Membrane; Transmembrane; Transport.
+TMONE

@@ -1,0 +1,56 @@
+AC   P21439; Q14813;
+Multidrug resistance protein 3 (EC 3.6.3.44) (ATP-binding cassette
+sub-family B member 4) (P-glycoprotein 3).
+"Sequence of mdr3 cDNA encoding a human P-glycoprotein.";
+"Characterization of the promoter region of the human MDR3 P-
+glycoprotein gene.";
+"The human mdr3 gene encodes a novel P-glycoprotein homologue and
+gives rise to alternatively spliced mRNAs in liver.";
+"Structure of the human MDR3 gene and physical mapping of the human
+MDR locus.";
+"Heterozygous MDR3 missense mutation associated with intrahepatic
+cholestasis of pregnancy: evidence for a defect in protein
+trafficking.";
+"MDR3 gene defect in adults with symptomatic intrahepatic and
+gallbladder cholesterol cholelithiasis.";
+-!- FUNCTION: Energy-dependent efflux pump responsible for decreased
+    drug accumulation in multidrug-resistant cells. Human MDR3 is not
+    capable of conferring drug resistance. Mediates the translocation
+    of phosphatidylcholine across the canalicular membrane of the
+    hepatocyte.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + xenobiotic(In) = ADP + phosphate
+    + xenobiotic(Out).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DISEASE: Defects in ABCB4 are the cause of progressive familial
+    intrahepatic cholestasis type III (PFIC3) [MIM:602347]. PFIC3 is
+    an autosomal recessive liver disorder presenting with early onset
+    cholestasis that progresses to cirrhosis and liver failure before
+    adulthood. It is characterized by elevated serum gamma-
+    glutamyltransferase levels.
+-!- DISEASE: Defects in ABCB4 are the cause of intrahepatic
+    cholestasis of pregnancy (ICP) [MIM:147480]; also known as
+    obstetric cholestasis. ICP is a liver disorder of pregnancy with
+    serious consequences for the mother and fetus. Cholestasis results
+    from abnormal biliary transport from the liver into the small
+    intestine, and ICP is characterized by the occurrence of
+    cholestasis in pregnancy in women with an otherwise normal medical
+    history. The classical maternal feature is generalized pruritus,
+    becoming more severe with advancing gestation. ICP causes fetal
+    distress, spontaneous premature delivery and unexplained third
+    trimester intrauterine death.
+-!- DISEASE: Defects in ABCB4 are a cause of cholelithiasis
+    [MIM:600803]; also known as gallstones.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ABCB4".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; TAS:ProtInc.
+ GO:0006629; P:lipid metabolism; TAS:ProtInc.
+ GO:0042493; P:response to drug; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+ATP-binding; Disease mutation; Glycoprotein; Hydrolase; Membrane;
+Nucleotide-binding; Polymorphism; Repeat; Transmembrane; Transport.
+TMTWELVE

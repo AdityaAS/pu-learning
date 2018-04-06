@@ -1,0 +1,70 @@
+AC   O75582; O95316; Q96AF7;
+Ribosomal protein S6 kinase alpha-5 (EC 2.7.11.1) (Nuclear mitogen-
+and stress-activated protein kinase 1) (90 kDa ribosomal protein S6
+kinase 5) (RSK-like protein kinase) (RSKL).
+"Mitogen- and stress-activated protein kinase-1 (MSK1) is directly
+activated by MAPK and SAPK2/p38, and may mediate activation of CREB.";
+"Cloning and characterization of RLPK, a novel RSK-related protein
+kinase.";
+"Assignment of a member of the ribosomal protein S6 kinase family,
+RPS6KA5, to human chromosome 14q31-q32.1 by radiation hybrid
+mapping.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"MSK1 and MSK2 are required for the mitogen- and stress-induced
+phosphorylation of CREB and ATF1 in fibroblasts.";
+"Transcriptional activation of the NF-kappaB p65 subunit by mitogen-
+and stress-activated protein kinase-1 (MSK1).";
+"MSK2 and MSK1 mediate the mitogen- and stress-induced phosphorylation
+of histone H3 and HMG-14.";
+"Phosphorylation of histone H2A inhibits transcription on chromatin
+templates.";
+"MSK1 activity is controlled by multiple phosphorylation sites.";
+-!- FUNCTION: Serine/threonine kinase required for the mitogen or
+    stress-induced phosphorylation of the transcription factors CREB
+    (cAMP response element-binding protein) and ATF1 (activating
+    transcription factor-1). Essential role in the control of RELA
+    transcriptional activity in response to TNF. Directly represses
+    transcription via phosphorylation of 'Ser-1' of histone H2A.
+    Mediates the mitogen- and stress-induced phosphorylation of
+    histone H3 and high mobility group protein 14 (HMG-14).
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- COFACTOR: Magnesium.
+-!- ENZYME REGULATION: Appears to be activated by multiple
+    phosphorylations on threonine and serine residues. ERK1/2 and
+    MAPK14/p38alpha may play a role in this process.
+-!- SUBUNIT: Forms a complex with either ERK1 or ERK2 in quiescent
+    cells which transiently dissociates following mitogenic
+    stimulation. Also associates with MAPK14/p38alpha. Activated
+    RPS6KA5 associates with and phosphorylates the NF-kappa-B p65
+    subunit RELA.
+-!- INTERACTION:
+    Q04206:RELA; NbExp=1; IntAct=EBI-73869, EBI-73886;
+-!- SUBCELLULAR LOCATION: Nucleus. Cytoplasm. Note=Predominantly
+    nuclear. Partially cytoplasmic.
+-!- TISSUE SPECIFICITY: Widely expressed with high levels in heart,
+    brain and placenta. Less abundant in lung, kidney and liver.
+-!- PTM: Ser-376 and Thr-581 phosphorylation is required for kinase
+    activity. Ser-376 and Ser-212 are autophosphorylated by the C-
+    terminal kinase domain, and their phosphorylation is essential for
+    the catalytic activity of the N-terminal kinase domain.
+-!- MISCELLANEOUS: Enzyme activity requires the presence of both
+    kinase domains.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. S6
+    kinase subfamily.
+-!- SIMILARITY: Contains 2 protein kinase domains.
+ GO:0005634; C:nucleus; IEP:UniProtKB.
+ GO:0005524; F:ATP binding; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0004674; F:protein serine/threonine kinase activity; IDA:UniProtKB.
+ GO:0007173; P:epidermal growth factor receptor signaling ...; TAS:UniProtKB.
+ GO:0016572; P:histone phosphorylation; IDA:UniProtKB.
+ GO:0007243; P:protein kinase cascade; IDA:UniProtKB.
+ GO:0006355; P:regulation of transcription, DNA-dependent; IDA:UniProtKB.
+ GO:0042221; P:response to chemical stimulus; IEP:UniProtKB.
+ GO:0009605; P:response to external stimulus; IEP:UniProtKB.
+ GO:0006950; P:response to stress; IEP:UniProtKB.
+3D-structure; ATP-binding; Kinase; Magnesium; Metal-binding;
+Nuclear protein; Nucleotide-binding; Phosphorylation; Repeat;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

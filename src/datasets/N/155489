@@ -1,0 +1,18 @@
+AC   P04061;
+Ribonuclease (EC 3.1.27.5).
+"The amino acid sequence of snapping turtle (Chelydra serpentina)
+ribonuclease.";
+"Evolution of ribonuclease in relation to polypeptide folding
+mechanisms.";
+-!- FUNCTION: Endonuclease that catalyzes the cleavage of RNA on the
+    3' side of pyrimidine nucleotides. Acts on single stranded and
+    double stranded RNA (By similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to nucleoside 3'-
+    phosphates and 3'-phosphooligonucleotides ending in Cp or Up with
+    2',3'-cyclic phosphate intermediates.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Pancreas.
+-!- SIMILARITY: Belongs to the pancreatic ribonuclease family.
+Direct protein sequencing; Endonuclease; Hydrolase; Nuclease.
+TMZERO

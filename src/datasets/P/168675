@@ -1,0 +1,61 @@
+AC   Q9NRA2; Q8NBR5; Q9UGH0;
+Sialin (Solute carrier family 17 member 5) (Sodium/sialic acid
+cotransporter) (AST) (Membrane glycoprotein HP59).
+"Identification of a novel membrane protein, HP59, with therapeutic
+potential as a target of tumor angiogenesis.";
+"A new gene, encoding an anion transporter, is mutated in sialic acid
+storage diseases.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The spectrum of SLC17A5-gene mutations resulting in free sialic acid-
+storage diseases indicates some genotype-phenotype correlation.";
+"Sialic acid storage disease of the Salla phenotype in American
+monozygous twin female sibs.";
+-!- FUNCTION: Primary solute translocator for anionic substances;
+    particularly it is a free sialic acid transporter in the lysosomes
+    (Probable).
+-!- SUBCELLULAR LOCATION: Lysosome; lysosomal membrane; multi-pass
+    membrane protein (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9NRA2-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9NRA2-2; Sequence=VSP_010482, VSP_010483;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Found in fetal lung and small intestine, and
+    at lower level in fetal skin and muscle. In the adult, detected in
+    placenta, kidney and pancreas. Abundant in the endothelial cells
+    of tumors from ovary, colon, breast and lung, but is not detected
+    in endothelial cells from the corresponding normal tissues.
+-!- DISEASE: Defects in SLC17A5 are the cause of Salla disease (SD)
+    [MIM:604369]; also known as Finnish type sialuria, a sialic acid
+    storage disease (SASD). SASDs are autosomal recessive
+    neurodegenerative disorders characterized by hypotonia, cerebellar
+    ataxia and mental retardation. They are caused by a defect in the
+    metabolism of sialic acid which results in increased urinary
+    excretion of unconjugated sialic acid, specifically N-
+    acetylneuraminic acid. Enlarged lysosomes are seen on electron
+    microscopic studies. Clinical symptoms of SD present usually at
+    age less than 1 year and progression is slow.
+-!- DISEASE: Defects in SLC17A5 are the cause of infantile sialic acid
+    storage disorder (ISSD) [MIM:269920]; also known as N-
+    acetylneuraminic acid storage disease (NSD). ISSD is a severe form
+    of sialic acid storage disease. Affected newborns exhibit
+    visceromegaly, coarse features and failure to thrive immediately
+    after birth. These patients have a shortened life span, usually
+    less than 2 years.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Sodium/anion cotransporter family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SLC17A5".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005765; C:lysosomal membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0005403; F:hydrogen:sugar symporter activity; TAS:ProtInc.
+ GO:0006820; P:anion transport; TAS:ProtInc.
+Alternative splicing; Disease mutation; Lysosome; Membrane; Symport;
+Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,21 @@
+AC   Q9C8K2;
+White-brown complex homolog protein 12 (Protein ECERIFERUM5).
+"Plant cuticular lipid export requires an ABC transporter.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"The Arabidopsis thaliana ABC protein superfamily, a complete
+inventory.";
+"Cuticular waxes on eceriferum mutants of Arabidopsis thaliana.";
+-!- FUNCTION: Involved in the secretion of cuticular wax from
+    epidermal cells to the cuticle.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Exclusively and constitutively expressed in
+    epidermal cells.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-2 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Lipid transport; Membrane; Nucleotide-binding;
+Transmembrane; Transport.
+TMSEVEN

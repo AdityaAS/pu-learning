@@ -1,0 +1,25 @@
+AC   Q6G577;
+Ubiquinone/menaquinone biosynthesis methyltransferase ubiE
+(EC 2.1.1.-).
+"The louse-borne human pathogen Bartonella quintana is a genomic
+derivative of the zoonotic agent Bartonella henselae.";
+-!- FUNCTION: Methyltransferase required for the conversion of
+    dimethylmenaquinone (DMKH2) to menaquinone (MKH2) and the
+    conversion of 2-polyprenyl-6-methoxy-1,4-benzoquinol (DDMQH2) to
+    2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol (DMQH2) (By
+    similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + 2-polyprenyl-6-
+    methoxy-1,4-benzoquinol = S-adenosyl-L-homocysteine + 2-
+    polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol.
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + demethylmenaquinol =
+    s-adenosyl-L-homocysteine + menaquinol.
+-!- PATHWAY: Cofactor biosynthesis; menaquinone biosynthesis;
+    menaquinone from chorismate: step 7 [final step].
+-!- PATHWAY: Cofactor biosynthesis; ubiquinone biosynthesis.
+-!- SIMILARITY: Belongs to the methyltransferase superfamily. UbiE
+    family.
+ GO:0008425; F:2-polyprenyl-6-methoxy-1,4-benzoquinone met...; IEA:HAMAP.
+ GO:0009060; P:aerobic respiration; IEA:HAMAP.
+Complete proteome; Menaquinone biosynthesis; Methyltransferase;
+Transferase; Ubiquinone biosynthesis.
+TMZERO

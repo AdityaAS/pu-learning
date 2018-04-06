@@ -1,0 +1,12 @@
+AC   Q06222;
+Glucose transporter 2A.
+"Differential regulation of two distinct families of glucose
+transporter genes in Trypanosoma brucei.";
+-!- FUNCTION: Facilitative glucose transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DEVELOPMENTAL STAGE: Expressed in both bloodstream and procyclic
+    forms.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Membrane; Sugar transport; Transmembrane; Transport.
+TMTWELVE

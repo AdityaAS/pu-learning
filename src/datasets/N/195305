@@ -1,0 +1,15 @@
+AC   P83904;
+Neurotoxin PRTx32C1.
+"New neurotoxin PRTx32C1 from venom of Brazilian Amazonian armed
+spider Phoneutria reidyi.";
+-!- FUNCTION: Blocks voltage-gated sodium channels. Causes rapid
+    general spastic paralysis and death when injected in mice at dose
+    levels of less than 2 ug per mouse.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- MASS SPECTROMETRY: MW=5088.4; METHOD=Electrospray; RANGE=1-47;
+    NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the spider toxin Tx2 family.
+Direct protein sequencing; Ionic channel inhibitor; Neurotoxin;
+Sodium channel inhibitor; Toxin.
+TMZERO

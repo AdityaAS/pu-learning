@@ -1,0 +1,30 @@
+AC   P52871;
+Protein transport protein SEB2 (Ssh1 complex subunit SEB2) (Ssh1
+complex subunit beta).
+"Yeast protein translocation complex: isolation of two genes SEB1 and
+SEB2 encoding proteins homologous to the Sec61 beta subunit.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"A second trimeric complex containing homologs of the Sec61p complex
+functions in protein transport across the ER membrane of S.
+cerevisiae.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Part of the Ssh1 complex, which probably is the major
+    component of a channel-forming translocon complex that may
+    function exclusively in the cotranslational pathway of protein
+    endoplasmic reticulum (ER) import.
+-!- SUBUNIT: Component of the heterotrimeric Ssh1 complex, which is
+    composed of SSH1, SEB2 and SSS1.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; single-pass membrane protein.
+-!- MISCELLANEOUS: Present with 414 molecules/cell.
+-!- SIMILARITY: Belongs to the SEC61-beta family.
+ GO:0005783; C:endoplasmic reticulum; TAS:SGD.
+ GO:0005784; C:translocon complex; TAS:SGD.
+ GO:0005086; F:ARF guanyl-nucleotide exchange factor activity; IDA:SGD.
+ GO:0008565; F:protein transporter activity; TAS:SGD.
+ GO:0006613; P:cotranslational protein targeting to membrane; TAS:SGD.
+Complete proteome; Direct protein sequencing; Endoplasmic reticulum;
+Membrane; Protein transport; Translocation; Transmembrane; Transport.
+TMONE

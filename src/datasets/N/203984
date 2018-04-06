@@ -1,0 +1,24 @@
+AC   P33043;
+Protein L5.
+"Nucleotide sequence analysis of variola virus HindIII M, L, I genome
+fragments.";
+"Genes of variola and vaccinia viruses necessary to overcome the host
+protective mechanisms.";
+"Potential virulence determinants in terminal regions of variola
+smallpox virus genome.";
+-!- FUNCTION: Late protein required for virus entry into host cell and
+    for cell-cell fusion (syncytium formation) (By similarity).
+-!- SUBUNIT: Part of a stable complex which is at least composed of
+    proteins A16, A21, A28, G3, G9, H2, J5, and L5. Formation of the
+    viral membrane is necessary for the assembly of the complex (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type III membrane
+    protein (Potential). Note=Component of the intracellular mature
+    virion (IMV) outer membrane (By similarity).
+-!- PTM: Most cysteines are linked by disulfide bonds. They are
+    created by the viral disulfide bond formation pathway, a poxvirus-
+    specific redox pathway that operates on the cytoplasmic side of
+    the IMV membranes (By similarity).
+-!- SIMILARITY: Belongs to the poxviruses L5 family.
+Late protein; Membrane; Signal-anchor; Transmembrane; Virion protein.
+TMONE

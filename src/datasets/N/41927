@@ -1,0 +1,15 @@
+AC   P82466;
+Disintegrin EC6B.
+"Inhibitory effects of MLDG-containing heterodimeric disintegrins
+reveal distinct structural requirements for interaction of the
+integrin alpha 9beta 1 with VCAM-1, tenascin-C, and osteopontin.";
+-!- FUNCTION: Inhibits blood coagulation by binding to integrin a5b1
+    receptor and inhibiting the fibrinogen binding to a5b1 receptor.
+-!- SUBUNIT: Heterodimer of EC6A and EC6B linked by two interchain
+    disulfide bonds.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the disintegrin family.
+-!- SIMILARITY: Contains 1 disintegrin domain.
+Cell adhesion; Direct protein sequencing.
+TMZERO

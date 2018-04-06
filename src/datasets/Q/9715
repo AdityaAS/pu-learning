@@ -1,0 +1,21 @@
+AC   P02911;
+Lysine-arginine-ornithine-binding periplasmic protein precursor (LAO-
+binding protein).
+"Two periplasmic transport proteins which interact with a common
+membrane receptor show extensive homology: complete nucleotide
+sequences.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Crystal structure of the lysine-, arginine-, ornithine-binding
+protein (LAO) from Salmonella typhimurium at 2.7-A resolution.";
+"Three-dimensional structures of the periplasmic
+lysine/arginine/ornithine-binding protein with and without a ligand.";
+-!- FUNCTION: This periplasmic binding protein is involved in an
+    arginine transport system. ArgT and histidine-binding protein J
+    (hisJ) interact with a common membrane-bound receptor, hisP.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+3D-structure; Amino-acid transport; Complete proteome; Periplasmic;
+Signal; Transport.
+TMZERO

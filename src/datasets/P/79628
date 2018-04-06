@@ -1,0 +1,16 @@
+AC   P15175;
+Cathelin.
+"Primary structure of a new cysteine proteinase inhibitor from pig
+leucocytes.";
+"Pig leukocyte cysteine proteinase inhibitor (PLCPI), a new member of
+the stefin family.";
+-!- FUNCTION: Probably a microbicidal peptide.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the cathelicidin family.
+-!- CAUTION: Was originally (Ref.1) thought to be a thiol protease
+    inhibitor. The inhibitory activity was due to the presence of
+    leukocyte cysteine proteinase inhibitor and not to cathelin
+    itself.
+Antibiotic; Antimicrobial; Direct protein sequencing;
+Pyrrolidone carboxylic acid.
+TMZERO

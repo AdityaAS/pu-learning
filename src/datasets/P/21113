@@ -1,0 +1,15 @@
+AC   Q05595;
+Cobalt transport protein cbiN.
+"Characterization of the cobalamin (vitamin B12) biosynthetic genes of
+Salmonella typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: May be involved with cobalt transport in association
+    with cobalamin biosynthesis.
+-!- PATHWAY: Cobalamin biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cbiN family.
+ GO:0015420; F:cobalamin-transporting ATPase activity; IEA:HAMAP.
+Cobalamin biosynthesis; Cobalt; Cobalt transport; Complete proteome;
+Ion transport; Membrane; Transmembrane; Transport.
+TMTWO

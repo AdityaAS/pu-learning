@@ -1,0 +1,15 @@
+AC   P37367; P73840;
+Cation-transporting ATPase pma1 (EC 3.6.3.-).
+"Molecular cloning of a P-type ATPase gene from the cyanobacterium
+Synechocystis sp. PCC 6803. Homology to eukaryotic Ca(2+)-ATPases.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- FUNCTION: Could mediate calcium influx.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIA subfamily.
+ATP-binding; Complete proteome; Hydrolase; Magnesium; Membrane;
+Nucleotide-binding; Phosphorylation; Transmembrane.
+TMZERO

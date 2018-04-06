@@ -1,0 +1,28 @@
+AC   Q9UN76; Q5H942;
+Sodium- and chloride-dependent neutral and basic amino acid
+transporter B(0+) (Amino acid transporter ATB0+) (Solute carrier
+family 6 member 14).
+"Cloning and functional expression of a human Na(+) and Cl(-)-
+dependent neutral and cationic amino acid transporter B(0+).";
+"The DNA sequence of the human X chromosome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Mediates the uptake of a broad range of neutral and
+    cationic amino acids (with the exception of proline) in a
+    (Na+/Cl-)-dependent manner.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Levels are highest in adult and fetal lung, in
+    trachea and salivary gland. Lower levels detected in mammary
+    gland, stomach and pituitary gland, and very low levels in colon,
+    uterus, prostate and testis.
+-!- MISCELLANEOUS: Transport inhibited by BCH (2-aminobicyclo-[2.2.1]-
+    heptane-2-carboxylic acid).
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0015171; F:amino acid transporter activity; TAS:ProtInc.
+ GO:0006520; P:amino acid metabolism; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Amino-acid transport; Glycoprotein; Membrane; Symport; Transmembrane;
+Transport.
+TMTWELVE

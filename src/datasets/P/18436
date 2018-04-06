@@ -1,0 +1,16 @@
+AC   Q52666;
+Glutamate/glutamine/aspartate/asparagine transport ATP-binding protein
+bztD.
+"A glutamate/glutamine/aspartate/asparagine transport operon in
+Rhodobacter capsulatus.";
+-!- FUNCTION: Part of a binding-protein-dependent transport system for
+    glutamate, glutamine, aspartate, asparagine. Probably responsible
+    for energy coupling to the transport system.
+-!- SUBUNIT: BztB and bztC form a heterodimer which can form a
+    membrane complex with a homodimer of bztD (Potential).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Amino-acid transport; ATP-binding; Nucleotide-binding; Transport.
+TMZERO

@@ -1,0 +1,20 @@
+AC   P61429;
+Periplasmic [NiFe] hydrogenase small subunit 2 precursor (EC 1.12.2.1)
+(NiFe hydrogenlyase small chain 2).
+"The genome sequence of the anaerobic, sulfate-reducing bacterium
+Desulfovibrio vulgaris Hildenborough.";
+-!- CATALYTIC ACTIVITY: 2 H(2) + ferricytochrome c3 = 4 H(+) +
+    ferrocytochrome c3.
+-!- COFACTOR: Binds 1 3Fe-4S cluster (By similarity).
+-!- COFACTOR: Binds 2 4Fe-4S clusters (By similarity).
+-!- SUBUNIT: Heterodimer of a large and a small subunit (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- PTM: Predicted to be exported by the Tat system. The position of
+    the signal peptide cleavage has not been experimentally proven.
+-!- SIMILARITY: Belongs to the [NiFe]/[NiFeSe] hydrogenase small
+    subunit family.
+ GO:0047806; F:cytochrome-c3 hydrogenase activity; IEA:EC.
+3Fe-4S; 4Fe-4S; Complete proteome; Iron; Iron-sulfur; Metal-binding;
+Oxidoreductase; Periplasmic; Signal.
+TMZERO

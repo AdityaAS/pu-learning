@@ -1,0 +1,37 @@
+AC   P04037;
+Cytochrome c oxidase polypeptide IV, mitochondrial precursor
+(EC 1.9.3.1).
+"Subunit IV of yeast cytochrome c oxidase: cloning and nucleotide
+sequencing of the gene and partial amino acid sequencing of the mature
+protein.";
+"Sequencing of a 40.5 kb fragment located on the left arm of
+chromosome VII from Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"The untranslated leader of nuclear COX4 gene of Saccharomyces
+cerevisiae contains an intron.";
+"The nuclear-coded subunits of yeast cytochrome c oxidase. III.
+Identification of homologous subunits in yeast, bovine heart, and
+Neurospora crassa cytochrome c oxidases.";
+"Kinetic properties and ligand binding of the eleven-subunit
+cytochrome-c oxidase from Saccharomyces cerevisiae isolated with a
+novel large-scale purification method.";
+"Crystal structures of mitochondrial processing peptidase reveal the
+mode for specific cleavage of import signal sequences.";
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBUNIT: Cytochrome c oxidase is composed of 11 subunits: one copy
+    each of COX1, COX2, COX3, COX4, COX5A or COX5B, COX6, COX7, COX9,
+    COX12, COX13 and two copies of COX8.
+-!- INTERACTION:
+    Q02793:SKI8; NbExp=1; IntAct=EBI-5039, EBI-17260;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- MISCELLANEOUS: Present with 9410 molecules/cell.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase Vb family.
+ GO:0005751; C:respiratory chain complex IV (sensu Eukaryota); IPI:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0009060; P:aerobic respiration; IPI:SGD.
+ GO:0006123; P:mitochondrial electron transport, cytochrom...; IDA:SGD.
+3D-structure; Complete proteome; Direct protein sequencing;
+Inner membrane; Membrane; Metal-binding; Mitochondrion;
+Oxidoreductase; Transit peptide; Zinc.
+TMZERO

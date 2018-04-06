@@ -1,0 +1,23 @@
+AC   P0AER3; P41074;
+Glutamate/aspartate transport system permease protein gltJ.
+"Sequence and characterisation of three genes of a glutamate-aspartate
+binding protein-dependent transport system of Escherichia coli K12.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for aspartate/glutamate; probably responsible for the
+    translocation of the substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMFIVE

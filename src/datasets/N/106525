@@ -1,0 +1,15 @@
+AC   Q7V3P8;
+UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8) (UDP-N-
+acetylmuramoyl-L-alanine synthetase).
+"Genome divergence in two Prochlorococcus ecotypes reflects oceanic
+niche differentiation.";
+-!- FUNCTION: Cell wall formation (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + UDP-N-acetylmuramate + L-alanine = ADP +
+    phosphate + UDP-N-acetylmuramoyl-L-alanine.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the murCDEF family.
+ATP-binding; Cell cycle; Cell division; Cell shape; Cell wall;
+Complete proteome; Ligase; Nucleotide-binding;
+Peptidoglycan synthesis.
+TMZERO

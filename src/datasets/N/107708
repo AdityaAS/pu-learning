@@ -1,0 +1,68 @@
+AC   Q9UIF7; Q15830; Q9UBP2; Q9UBS7; Q9UIF4; Q9UIF5; Q9UIF6;
+A/G-specific adenine DNA glycosylase (EC 3.2.2.-) (MutY homolog)
+(hMYH).
+"Cloning and sequencing a human homolog (hMYH) of the Escherichia coli
+mutY gene whose function is required for the repair of oxidative DNA
+damage.";
+"Identification of human MutY homolog (hMYH) as a repair enzyme for 2-
+hydroxyadenine in DNA and detection of multiple forms of hMYH located
+in nuclei and mitochondria.";
+"NIEHS-SNPs, environmental genome project, NIEHS ES15478, Department
+of Genome Sciences, Seattle, WA (URL: http://egp.gs.washington.edu).";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Inherited variants of MYH associated with somatic G:C-->T:A mutations
+in colorectal tumors.";
+"Autosomal recessive colorectal adenomatous polyposis due to inherited
+mutations of MYH.";
+"Multiple colorectal adenomas, classic adenomatous polyposis, and
+germ-line mutations in MYH.";
+"Germline MUTYH (MYH) mutations in Portuguese individuals with
+multiple colorectal adenomas.";
+"Genetic alterations of the MYH gene in gastric cancer.";
+-!- FUNCTION: Involved in oxidative DNA damage repair. Initiates
+    repair of A*oxoG to C*G by removing the inappropriately paired
+    adenine base from the DNA backbone. Possesses both adenine and 2-
+    OH-A DNA glycosylase activities.
+-!- COFACTOR: Binds 1 4Fe-4S cluster. The cluster is not important for
+    the catalytic activity, but which is probably involved in the
+    proper positioning of the enzyme along the DNA strand (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=7;
+    Name=Alpha-1;
+      IsoId=Q9UIF7-1; Sequence=Displayed;
+    Name=Alpha-2;
+      IsoId=Q9UIF7-2; Sequence=VSP_010549;
+    Name=Alpha-3;
+      IsoId=Q9UIF7-3; Sequence=VSP_010550;
+    Name=Beta-1;
+      IsoId=Q9UIF7-4; Sequence=VSP_010548;
+    Name=Gamma-2;
+      IsoId=Q9UIF7-5; Sequence=VSP_010548, VSP_010549;
+    Name=Gamma-3;
+      IsoId=Q9UIF7-6; Sequence=VSP_010548, VSP_010550;
+    Name=Gamma-4;
+      IsoId=Q9UIF7-7; Sequence=VSP_010551;
+-!- DISEASE: Defects in MUTYH are a cause of autosomal recessive
+    colorectal adenomatous polyposis [MIM:608456].
+-!- DISEASE: Defects in MUTYH are a cause of gastric cancer
+    [MIM:137215].
+-!- SIMILARITY: Belongs to the nth/mutY family.
+-!- SIMILARITY: Contains 1 nudix hydrolase domain.
+-!- WEB RESOURCE: NAME=Atlas of Genetics and Cytogenetics in Oncology
+    and Haematology;
+    URL="http://atlasgeneticsoncology.org/Genes/MUTYHID41464ch1p34.html".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=MUTYH".
+ GO:0005634; C:nucleus; TAS:ProtInc.
+ GO:0019104; F:DNA N-glycosylase activity; TAS:Reactome.
+ GO:0032407; F:MutSalpha complex binding; IDA:HGNC.
+ GO:0005515; F:protein binding; IPI:HGNC.
+ GO:0006298; P:mismatch repair; TAS:ProtInc.
+3D-structure; 4Fe-4S; Alternative splicing; Anti-oncogene; Cell cycle;
+Disease mutation; DNA damage; DNA repair; Glycosidase; Hydrolase;
+Iron; Iron-sulfur; Metal-binding; Nuclear protein; Polymorphism.
+TMZERO

@@ -1,0 +1,17 @@
+AC   P01085;
+Alpha-amylase inhibitor 0.19 (0.19 AI) (0.19 alpha-AI).
+"Complete amino acid sequence of an alpha-amylase inhibitor in wheat
+kernel (0.19-inhibitor).";
+"Overexpression in Escherichia coli of chemically synthesized gene for
+active 0.19 alpha-amylase inhibitor from wheat kernel.";
+"Tertiary and quaternary structures of 0.19 alpha-amylase inhibitor
+from wheat kernel determined by X-ray analysis at 2.06-A resolution.";
+-!- FUNCTION: Alpha-amylase inhibitor.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Endosperm.
+-!- PTM: The disulfide bonds are essential for the inhibitor activity.
+-!- SIMILARITY: Belongs to the protease inhibitor I6 (cereal
+    trypsin/alpha-amylase inhibitor) family.
+3D-structure; Alpha-amylase inhibitor; Direct protein sequencing.
+TMZERO

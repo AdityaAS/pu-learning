@@ -1,0 +1,15 @@
+AC   Q934G3;
+Oligogalacturonate-specific porin kdgM precursor.
+"The oligogalacturonate-specific porin KdgM of Erwinia chrysanthemi
+belongs to a new porin family.";
+-!- FUNCTION: Porin specific for oligogalacturonides. Also required
+    for full virulence.
+-!- SUBUNIT: Monomer (Probable).
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- INDUCTION: Induced by pectin or pectin derivatives. Controlled by
+    kdgR, exuR, pecS and catabolite repression via CRP.
+-!- SIMILARITY: Belongs to the oligogalacturonate-specific porin kdgM
+    (TC 1.B.35) family.
+Direct protein sequencing; Ion transport; Membrane; Outer membrane;
+Porin; Signal; Sugar transport; Transmembrane; Transport; Virulence.
+TMZERO

@@ -1,0 +1,17 @@
+AC   P77257; P76879;
+Putative ABC transporter ATP-binding protein ego (EGO10A).
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Probably part of a binding-protein-dependent transport
+    system ego/ydeYZ. Probably responsible for energy coupling to the
+    transport system. This protein is essential for aerobic growth.
+-!- INTERACTION:
+    P0A6F5:groL; NbExp=1; IntAct=EBI-1124301, EBI-543750;
+-!- SIMILARITY: Belongs to the ABC transporter family. MglA subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ATP-binding; Complete proteome; Nucleotide-binding; Repeat; Transport.
+TMZERO

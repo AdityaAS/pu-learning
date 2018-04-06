@@ -1,0 +1,13 @@
+AC   P15934;
+Flagellar assembly protein fliH.
+"Salmonella typhimurium mutants defective in flagellar filament
+regrowth and sequence similarity of FliI to F0F1, vacuolar, and
+archaebacterial ATPase subunits.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Flagellar switch of Salmonella typhimurium: gene sequences and
+deduced protein sequences.";
+-!- FUNCTION: Needed for flagellar regrowth and assembly.
+-!- SIMILARITY: Belongs to the fliH family.
+Complete proteome; Flagellum.
+TMZERO

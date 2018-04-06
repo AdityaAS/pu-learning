@@ -1,0 +1,16 @@
+AC   P68635; P21035;
+Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+(dUTPase) (dUTP pyrophosphatase).
+"Structural-functional organization of segment of vaccinia virus
+genome.";
+-!- FUNCTION: This enzyme is involved in nucleotide metabolism: it
+    produces dUMP, the immediate precursor of thymidine nucleotides
+    and it decreases the intracellular concentration of dUTP so that
+    uracil cannot be incorporated into DNA.
+-!- CATALYTIC ACTIVITY: dUTP + H(2)O = dUMP + diphosphate.
+-!- SIMILARITY: Belongs to the dUTPase family.
+-!- CAUTION: Was originally thought to be a protease-like protein
+    (pseudoprotease).
+ GO:0004170; F:dUTP diphosphatase activity; IEA:EC.
+Hydrolase; Nucleotide metabolism.
+TMZERO

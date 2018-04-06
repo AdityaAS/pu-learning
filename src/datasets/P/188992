@@ -1,0 +1,41 @@
+AC   P39515; Q02310;
+Mitochondrial import inner membrane translocase subunit TIM17
+(Mitochondrial protein import protein 2) (Mitochondrial inner membrane
+protein MIM17).
+"Identification of the essential yeast protein MIM17, an integral
+mitochondrial inner membrane protein involved in protein import.";
+"SMS1, a high-copy suppressor of the yeast mas6 mutant, encodes an
+essential inner membrane protein required for mitochondrial protein
+import.";
+"Sequence analysis of a 40.7 kb segment from the left arm of yeast
+chromosome X reveals 14 known genes and 13 new open reading frames
+including homologues of genes clustered on the right arm of chromosome
+XI.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"The polytopic mitochondrial inner membrane proteins MIM17 and MIM23
+operate at the same preprotein import site.";
+"Global analysis of protein expression in yeast.";
+"Mitochondrial presequence translocase: switching between TOM
+tethering and motor recruitment involves Tim21 and Tim17.";
+"Conserved N-terminal negative charges in the Tim17 subunit of the
+TIM23 translocase play a critical role in the import of preproteins
+into mitochondria.";
+-!- FUNCTION: Essential component of the TIM23 complex, a complex that
+    mediates the translocation of transit peptide-containing proteins
+    across the mitochondrial inner membrane.
+-!- SUBUNIT: Component of the TIM23 complex, at least composed of
+    TIM23, TIM17, TIM50 and TIM21. The complex interacts with the
+    TIM44 component of the PAM complex.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 1210 molecules/cell.
+-!- SIMILARITY: Belongs to the Tim17/Tim22/Tim23 family.
+ GO:0005744; C:mitochondrial inner membrane presequence tr...; IDA:SGD.
+ GO:0008565; F:protein transporter activity; TAS:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; IDA:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Protein transport; Translocation; Transmembrane; Transport.
+TMFOUR

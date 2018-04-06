@@ -1,0 +1,19 @@
+AC   P77432; Q99894;
+Hypothetical sugar kinase ydeV.
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of a novel Bcl-2 related gene, BRAG-1, in human
+glioma.";
+-!- SIMILARITY: Belongs to the FGGY kinase family.
+-!- CAUTION: Was originally (Ref.4) thought to be a human sequence and
+    was called by them BRAG1 (brain-related apoptosis gene 1 = BRAG-1)
+    with a role in apoptosis. The DNA sequence of the region they
+    sequenced is more than 99% identical to that of this E.coli gene.
+    Furthermore they claim 'extensive similarity to the Bcl-2 family
+    of genes.' such a similarity is not significant and this protein
+    is much more likely to be a sugar kinase.
+Complete proteome; Hypothetical protein; Kinase; Transferase.
+TMZERO

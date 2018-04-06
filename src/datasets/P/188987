@@ -1,0 +1,51 @@
+AC   P42949; Q6B2X3;
+Mitochondrial import inner membrane translocase subunit TIM16
+(Presequence translocated-associated motor subunit PAM16).
+"A 37.5 kb region of yeast chromosome X includes the SME1, MEF2, GSH1
+and CSD3 genes, a TCP-1-related gene, an open reading frame similar to
+the DAL80 gene, and a tRNA(Arg).";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+"The presequence translocase-associated protein import motor of
+mitochondria. Pam16 functions in an antagonistic manner to Pam18.";
+"Pam16 has an essential role in the mitochondrial protein import
+motor.";
+"The J domain-related cochaperone Tim16 is a constituent of the
+mitochondrial TIM23 preprotein translocase.";
+"The import motor of the yeast mitochondrial TIM23 preprotein
+translocase contains two different J proteins, Tim14 and Mdj2.";
+"Pam17 is required for architecture and translocation activity of the
+mitochondrial protein import motor.";
+"Role of Pam16's degenerate J domain in protein import across the
+mitochondrial inner membrane.";
+-!- FUNCTION: Essential component of the PAM complex, a complex
+    required for the translocation of transit peptide-containing
+    proteins from the inner membrane into the mitochondrial matrix in
+    an ATP-dependent manner. In the complex, it is required to
+    regulate activity of mtHSP70 (SSC1) via its interaction with
+    PAM18/TIM14. May act by positioning PAM18/TIM14 in juxtaposition
+    to mtHSP70 at the translocon to maximize ATPase stimulation.
+-!- SUBUNIT: Homodimer and heterodimer with PAM18. Homodimerization
+    may not be relevant in vivo, while heterodimerizazion is essential
+    for regulate activity of mtHSP70. Component of the PAM complex, at
+    least composed of mtHsp70, MGE1, TIM44, PAM16, PAM17 and PAM18.
+    Interacts with MDJ2.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    peripheral membrane protein.
+-!- DOMAIN: The J-like region, although related to the J domain does
+    not stimulate ATPase activity of mtHSP70. It nevertheless mediates
+    the heterodimerization with the J domain of PAM18 and is therefore
+    essential for PAM complex function.
+-!- MISCELLANEOUS: Present with 3180 molecules/cell.
+-!- SIMILARITY: Belongs to the TIM16/PAM16 family.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0001405; C:presequence translocase-associated import m...; IDA:SGD.
+ GO:0005515; F:protein binding; IDA:SGD.
+ GO:0008565; F:protein transporter activity; IMP:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; IMP:SGD.
+3D-structure; Complete proteome; Inner membrane; Membrane;
+Mitochondrion; Protein transport; Translocation; Transport.
+TMZERO

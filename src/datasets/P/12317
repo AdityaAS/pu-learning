@@ -1,0 +1,61 @@
+AC   P23634; Q13450; Q13452; Q13455; Q16817;
+Plasma membrane calcium-transporting ATPase 4 (EC 3.6.3.8) (PMCA4)
+(Plasma membrane calcium pump isoform 4) (Plasma membrane calcium
+ATPase isoform 4) (Matrix-remodelling-associated protein 1).
+"Peptide sequence analysis and molecular cloning reveal two calcium
+pump isoforms in the human erythrocyte membrane.";
+"Analysis of the tissue-specific distribution of mRNAs encoding the
+plasma membrane calcium-pumping ATPases and characterization of an
+alternately spliced form of PMCA4 at the cDNA and genomic levels.";
+"Analysis of mRNA expression and cloning of a novel plasma membrane
+Ca(2+)-ATPase splice variant in human heart.";
+"Identification and primary structure of a calmodulin binding domain
+of the Ca2+ pump of human erythrocytes.";
+"A C-terminal, calmodulin-like regulatory domain from the plasma
+membrane Ca2+-pumping ATPase.";
+"Quantitative analysis of alternative splicing options of human plasma
+membrane calcium pump genes.";
+-!- FUNCTION: This magnesium-dependent enzyme catalyzes the hydrolysis
+    of ATP coupled with the transport of calcium out of the cell.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Ca(2+)(Cis) = ADP + phosphate +
+    Ca(2+)(Trans).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=8;
+      Comment=There is a combination of two alternatively spliced
+      domains at N-terminal site A (X and Z) and at C-terminal site
+      B/C (A, B, D and K). The splice sites have mostly been studied
+      independently. Full isoforms so far detected are isoform XA and
+      isoform XB. Experimental confirmation may be lacking for some
+      isoforms;
+    Name=XD; Synonyms=AIICIV;
+      IsoId=P23634-1; Sequence=Displayed;
+    Name=XA; Synonyms=AIICII;
+      IsoId=P23634-2; Sequence=VSP_000405;
+    Name=ZA; Synonyms=AICII;
+      IsoId=P23634-3; Sequence=VSP_000402, VSP_000405;
+    Name=XK; Synonyms=XG;
+      IsoId=P23634-4; Sequence=VSP_000403, VSP_000405;
+    Name=ZK; Synonyms=ZG;
+      IsoId=P23634-5; Sequence=VSP_000402, VSP_000403, VSP_000405;
+    Name=XB; Synonyms=AIICI;
+      IsoId=P23634-6; Sequence=VSP_000404;
+    Name=ZB; Synonyms=AICI;
+      IsoId=P23634-7; Sequence=VSP_000402, VSP_000404;
+    Name=ZD; Synonyms=AICIV;
+      IsoId=P23634-8; Sequence=VSP_000402;
+-!- TISSUE SPECIFICITY: Isoform XB is the most abundant isoform and is
+    expressed ubiquitously. Isoforms containing segment Z have only
+    been detected in heart, while isoforms containing segment a have
+    been found in heart, stomach and brain cortex.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIB subfamily.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0005388; F:calcium-transporting ATPase activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+3D-structure; Alternative splicing; ATP-binding; Calcium;
+Calcium transport; Calmodulin-binding; Direct protein sequencing;
+Hydrolase; Ion transport; Magnesium; Membrane; Metal-binding;
+Nucleotide-binding; Phosphorylation; Transmembrane; Transport.
+TMTEN

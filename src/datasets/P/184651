@@ -1,0 +1,18 @@
+AC   P42953;
+Teichoic acid translocation permease protein tagG.
+"The tagGH operon of Bacillus subtilis 168 encodes a two-component ABC
+transporter involved in the metabolism of two wall teichoic acids.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Part of the ABC transporter complex tagGH
+    (TC 3.A.1.34.1) involved in exporting the two types of
+    intracellularly synthesized teichoic acids. Probably responsible
+    for the translocation of the substrate across the membrane.
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (tagH) and two transmembrane proteins (tagG) (Potential).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC-2 integral membrane protein family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-2 domain.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMSIX

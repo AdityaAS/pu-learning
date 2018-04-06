@@ -1,0 +1,80 @@
+AC   P06804; O35853; Q62326; Q91VF3;
+Tumor necrosis factor precursor (TNF-alpha) (Tumor necrosis factor
+ligand superfamily member 2) (TNF-a) (Cachectin) [Contains: Tumor
+necrosis factor, membrane form; Tumor necrosis factor, soluble form].
+"Cloning and expression in Escherichia coli of the gene for mouse
+tumor necrosis factor.";
+"Cloning and expression in Escherichia coli of the cDNA for murine
+tumor necrosis factor.";
+"Identification of a common nucleotide sequence in the 3'-untranslated
+region of mRNA molecules specifying inflammatory mediators.";
+"Molecular cloning of mouse tumour necrosis factor cDNA and its
+eukaryotic expression.";
+"Molecular cloning of genes coding for tumor necrosis factor. Complete
+nucleotide sequence of the genome copy of TNF-alpha in mice.";
+"Nucleotide sequence of the murine TNF locus, including the TNF-alpha
+(tumor necrosis factor) and TNF-beta (lymphotoxin) genes.";
+"Identification of a new susceptibility locus for insulin-dependent
+diabetes mellitus by ancestral haplotype congenic mapping.";
+"Cloning and sequencing of the Tnfa genes of three inbred mouse
+strains.";
+"Analysis of the gene-dense major histocompatibility complex class III
+region and its comparison to mouse.";
+"Conspicuous differences among gene genealogies of 21 nuclear genes of
+five Mus musculus subspecies.";
+"Alternative cleavage of the cachectin/tumor necrosis factor
+propeptide results in a larger, inactive form of secreted protein.";
+"Characterization of high molecular weight glycosylated forms of
+murine tumor necrosis factor.";
+"A novel form of TNF/cachectin is a cell surface cytotoxic
+transmembrane protein: ramifications for the complex physiology of
+TNF.";
+"The structure of mouse tumour-necrosis factor at 1.4 A resolution:
+towards modulation of its selectivity and trimerization.";
+-!- FUNCTION: Cytokine that binds to TNFRSF1A/TNFR1 and
+    TNFRSF1B/TNFBR. It is mainly secreted by macrophages and can
+    induce cell death of certain tumor cell lines. It is potent
+    pyrogen causing fever by direct action or by stimulation of
+    interleukin 1 secretion and is implicated in the induction of
+    cachexia, Under certain conditions it can stimulate cell
+    proliferation and induce cell differentiation.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type II membrane
+    protein. Processed form: Secreted protein. Note=Also exists as an
+    extracellular soluble form.
+-!- PTM: The soluble form derives from the membrane form by
+    proteolytic processing.
+-!- PTM: The membrane form, but not the soluble form, is
+    phosphorylated on serine residues. Dephosphorylation of the
+    membrane form occurs by binding to soluble TNFRSF1A/TNFR1 (By
+    similarity).
+-!- SIMILARITY: Belongs to the tumor necrosis factor family.
+ GO:0005615; C:extracellular space; IDA:MGI.
+ GO:0005887; C:integral to plasma membrane; TAS:MGI.
+ GO:0005886; C:plasma membrane; IDA:MGI.
+ GO:0030141; C:secretory granule; TAS:MGI.
+ GO:0005164; F:tumor necrosis factor receptor binding; IDA:MGI.
+ GO:0045123; P:cellular extravasation; IDA:MGI.
+ GO:0006952; P:defense response; IMP:MGI.
+ GO:0042742; P:defense response to bacterium; IDA:MGI.
+ GO:0007275; P:development; IMP:MGI.
+ GO:0006006; P:glucose metabolism; IDA:MGI.
+ GO:0006959; P:humoral immune response; IMP:MGI.
+ GO:0008625; P:induction of apoptosis via death domain rec...; IGI:MGI.
+ GO:0006954; P:inflammatory response; TAS:MGI.
+ GO:0046325; P:negative regulation of glucose import; IDA:MGI.
+ GO:0000122; P:negative regulation of transcription from R...; IDA:MGI.
+ GO:0009887; P:organ morphogenesis; IMP:MGI.
+ GO:0008284; P:positive regulation of cell proliferation; TAS:MGI.
+ GO:0043123; P:positive regulation of I-kappaB kinase/NF-k...; IDA:MGI.
+ GO:0046330; P:positive regulation of JNK cascade; IDA:MGI.
+ GO:0045941; P:positive regulation of transcription; IDA:MGI.
+ GO:0045944; P:positive regulation of transcription from R...; IDA:MGI.
+ GO:0045994; P:positive regulation of translational initia...; IDA:MGI.
+ GO:0051023; P:regulation of immunoglobulin secretion; IDA:MGI.
+ GO:0045670; P:regulation of osteoclast differentiation; IDA:MGI.
+ GO:0001932; P:regulation of protein amino acid phosphoryl...; IDA:MGI.
+ GO:0006927; P:transformed cell apoptosis; TAS:MGI.
+3D-structure; Cytokine; Direct protein sequencing; Glycoprotein;
+Membrane; Phosphorylation; Polymorphism; Signal-anchor; Transmembrane.
+TMONE

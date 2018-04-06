@@ -1,0 +1,17 @@
+AC   O15431;
+High-affinity copper uptake protein 1 (hCTR1) (Copper transporter 1)
+(Solute carrier family 31 member 1).
+"hCTR1: a human gene for copper uptake identified by complementation
+in yeast.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Involved in high-affinity copper uptake.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the SLC31A transporter family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005375; F:copper ion transporter activity; TAS:ProtInc.
+ GO:0006825; P:copper ion transport; TAS:ProtInc.
+Copper; Copper transport; Ion transport; Membrane; Polymorphism;
+Transmembrane; Transport.
+THTHREE

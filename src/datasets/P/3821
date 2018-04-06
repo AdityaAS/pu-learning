@@ -1,0 +1,14 @@
+AC   P0A2U6; O87862;
+Zinc transport system ATP-binding protein adcC.
+"Complete genome sequence of a virulent isolate of Streptococcus
+pneumoniae.";
+"Competence and virulence of Streptococcus pneumoniae: Adc and PsaA
+mutants exhibit a requirement for Zn and Mn resulting from
+inactivation of putative ABC metal permeases.";
+-!- FUNCTION: Part of the ATP-driven transport system adcABC for zinc.
+    Required for transformability.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Competence; Complete proteome; Ion transport;
+Nucleotide-binding; Transport; Zinc; Zinc transport.
+TMZERO

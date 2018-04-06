@@ -1,0 +1,19 @@
+AC   P42200;
+Probable amino-acid ABC transporter permease protein yckJ.
+"An operon encoding a novel ABC-type transport system in Bacillus
+subtilis.";
+"The 25 degrees-36 degrees region of the Bacillus subtilis chromosome:
+determination of the sequence of a 146 kb segment and identification
+of 113 genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Probably part of a binding-protein-dependent transport
+    system for an amino acid. Probably responsible for the
+    translocation of the substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMFIVE

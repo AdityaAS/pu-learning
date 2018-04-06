@@ -1,0 +1,45 @@
+AC   Q7BSW5; O32555; Q9S6R3;
+Serine protease espP precursor (EC 3.4.21.-) (Extracellular serine
+protease plasmid-encoded espP).
+"EspP, a novel extracellular serine protease of enterohaemorrhagic
+Escherichia coli O157:H7 cleaves human coagulation factor V.";
+"The complete DNA sequence and analysis of the large virulence plasmid
+of Escherichia coli O157:H7.";
+"Complete nucleotide sequences of 93-kb and 3.3-kb plasmids of an
+enterohemorrhagic Escherichia coli O157:H7 derived from Sakai
+outbreak.";
+"The large plasmids of Shiga-toxin-producing Escherichia coli (STEC)
+are highly variable genetic elements.";
+"Hydrophobic residues of the autotransporter EspP linker domain are
+important for outer membrane translocation of its passenger.";
+"An unusual signal peptide facilitates late steps in the biogenesis of
+a bacterial autotransporter.";
+-!- FUNCTION: Serine protease capable of cleaving pepsin A and human
+    coagulation factor V, which may contribute to the mucosal
+    hemorrhage observed in hemorrhagic colitis.
+-!- ENZYME REGULATION: Inhibition of cytotoxic activity by
+    phenylmethylsulfonyl fluoride.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- INDUCTION: Expression is optimal at 37 degrees Celsius, and
+    inhibited at 20 degrees Celsius. It is dependent on both
+    temperature and pH.
+-!- DOMAIN: The signal peptide guides the precursor to the periplasmic
+    space, and the C-terminal helper domain associates with the outer
+    membrane to form a pore for excretion of the protease domain. The
+    helper domain is then released.
+-!- PTM: Cleaved to release the mature protein from the outer
+    membrane.
+-!- MISCELLANEOUS: Mutagenesis experiments show the presence of a
+    linker region, which is required for the translocation of the
+    protease domain across the outer membrane. This linker region is
+    located immediately upstream of the C-terminal helper domain.
+-!- MISCELLANEOUS: The signal peptide may also act as a transient
+    membrane anchor that prevents the protease domain from misfolding
+    in the periplasm.
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+-!- SIMILARITY: Contains 1 peptidase S6 domain.
+-!- CAUTION: Strain 3010/96 exhibits a partial deletion of the gene.
+Complete proteome; Direct protein sequencing; Hydrolase; Membrane;
+Plasmid; Protease; Serine protease; Signal; Transmembrane; Virulence;
+Zymogen.
+TMZERO

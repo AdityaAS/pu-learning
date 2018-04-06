@@ -1,0 +1,9 @@
+AC   P83348;
+Trypsin (EC 3.4.21.4) (Fragment).
+-!- CATALYTIC ACTIVITY: Preferential cleavage: Arg-|-Xaa, Lys-|-Xaa.
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space.
+-!- SIMILARITY: Belongs to the peptidase S1 family.
+ GO:0004295; F:trypsin activity; IEA:EC.
+Digestion; Direct protein sequencing; Hydrolase; Protease;
+Serine protease.
+TMZERO

@@ -1,0 +1,18 @@
+AC   P46022; Q2M904;
+Monofunctional biosynthetic peptidoglycan transglycosylase
+(EC 2.4.2.-) (Monofunctional TGase).
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Sequence and characterisation of the gene encoding the sigma cross-
+reacting protein 27A in Escherichia coli.";
+-!- FUNCTION: Cell wall formation.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the glycosyltransferase 51 family.
+-!- CAUTION: Ref.3 (D13188) sequence differs from that shown due to a
+    frameshift in position 38.
+Cell shape; Cell wall; Complete proteome; Membrane;
+Peptidoglycan synthesis; Transferase; Transmembrane.
+TMONE

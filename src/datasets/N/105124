@@ -1,0 +1,25 @@
+AC   P55300;
+F420-dependent methylenetetrahydromethanopterin dehydrogenase
+(EC 1.5.99.9) (MTD) (Coenzyme F420-dependent N5,N10-
+methylenetetrahydromethanopterin dehydrogenase).
+"Cloning, sequencing, and transcriptional analysis of the coenzyme
+F420-dependent methylene-5,6,7,8-tetrahydromethanopterin dehydrogenase
+gene from Methanobacterium thermoautotrophicum strain Marburg and
+functional expression in Escherichia coli.";
+-!- FUNCTION: Catalyzes the reversible reduction of methenyl-
+    H(4)MPT(+) to methylene-H(4)MPT.
+-!- CATALYTIC ACTIVITY: 5,10-methylenetetrahydromethanopterin +
+    coenzyme F420 = 5,10-methenyltetrahydromethanopterin + reduced
+    coenzyme F420.
+-!- ENZYME REGULATION: Oxygen-stable, strictly dependent on coenzyme
+    F420, thermostable, thermophilic and exhibits maximum activity at
+    pH 4 and 55-65 degrees Celsius.
+-!- PATHWAY: Methanogenesis from carbon dioxide; fourth step.
+-!- SUBUNIT: Found to be tightly associated with methyl-coenzyme M
+    methylreductase.
+-!- SIMILARITY: Belongs to the MTD family.
+ GO:0030268; F:methylenetetrahydromethanopterin dehydrogen...; IEA:HAMAP.
+ GO:0006730; P:one-carbon compound metabolism; IEA:HAMAP.
+Direct protein sequencing; Methanogenesis; One-carbon metabolism;
+Oxidoreductase.
+TMZERO

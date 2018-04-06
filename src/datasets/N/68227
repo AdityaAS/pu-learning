@@ -1,0 +1,13 @@
+AC   O16116; Q21357;
+Glutathione S-transferase 3 (EC 2.5.1.18) (GST class-sigma) (CeGST3).
+"Paraquat mediates differential gene expression in C. elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Conjugation of reduced glutathione to a wide number of
+    exogenous and endogenous hydrophobic electrophiles (By
+    similarity).
+-!- CATALYTIC ACTIVITY: RX + glutathione = HX + R-S-glutathione.
+-!- SIMILARITY: Belongs to the GST superfamily. Sigma family.
+ GO:0004364; F:glutathione transferase activity; ISS:UniProtKB.
+Complete proteome; Transferase.
+TMZERO

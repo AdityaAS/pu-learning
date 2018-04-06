@@ -1,0 +1,13 @@
+AC   P14285;
+Chromate transport protein.
+"Cloning, nucleotide sequence, and expression of the chromate
+resistance determinant of Pseudomonas aeruginosa plasmid pUM505.";
+-!- FUNCTION: This protein reduces chromate accumulation and is
+    essential for chromate resistance.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: By chromate.
+-!- SIMILARITY: Belongs to the chromate ion transporter (CHR)
+    (TC 2.A.51) family.
+Chromate resistance; Membrane; Plasmid; Transmembrane; Transport.
+TMELEVEN

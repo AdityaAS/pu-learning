@@ -1,0 +1,62 @@
+AC   Q13563; O60441; Q15764;
+Polycystin-2 (Polycystic kidney disease 2 protein homolog) (Autosomal
+dominant polycystic kidney disease type II protein) (Polycystwin)
+(R48321).
+"PKD2, a gene for polycystic kidney disease that encodes an integral
+membrane protein.";
+"Characterization of the exon structure of the polycystic kidney
+disease 2 gene (PKD2).";
+"A gene similar to PKD1 maps to chromosome 4q22: a candidate gene for
+PKD2.";
+"In vivo interaction of the adapter protein CD2-associated protein
+with the type 2 polycystic kidney disease protein, polycystin-2.";
+"Polycystin channels and kidney disease.";
+"A spectrum of mutations in the second gene for autosomal dominant
+polycystic kidney disease (PKD2).";
+"Seven novel mutations of the PKD2 gene in families with autosomal
+dominant polycystic kidney disease.";
+"Mutations of PKD1 in ADPKD2 cysts suggest a pathogenic effect of
+trans-heterozygous mutations.";
+-!- FUNCTION: Functions as a calcium permeable cation channel. PKD1
+    and PKD2 may function through a common signaling pathway that is
+    necessary for normal tubulogenesis.
+-!- SUBUNIT: Interacts with PKD1. PKD1 requires the presence of PKD2
+    for stable expression. Interacts with CD2AP.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Strongly expressed in ovary, fetal and adult
+    kidney, testis, and small intestine. Not detected in peripheral
+    leukocytes.
+-!- DOMAIN: The C-terminal is implicated in the interaction with PKD1.
+-!- DISEASE: Defects in PKD2 are the cause of autosomal dominant
+    polycystic kidney disease type II (ADPKD-2) [MIM:173900]. ADPKD-2
+    represents approximately 15% of the cases of ADPKD, a common
+    autosomal dominant genetic disease affecting about 1:400 to 1:1000
+    individuals. ADPKD is characterized by progressive formation and
+    enlargement of cysts in both kidneys, typically leading to end-
+    stage renal disease in adult life. Cysts also occurs in the liver
+    and other organs. Most mutations, scattered between exons 1 and
+    11, result in a truncated PKD2 that lacks both the calcium-binding
+    EF-hand domain and the two cytoplasmic domains required for the
+    interaction of PKD2 with PKD1 and with itself. ADPKD-2 is
+    clinically milder than ADPKD-1, but it has a deleterious impact on
+    overall life expectancy.
+-!- SIMILARITY: Belongs to the polycystin family.
+-!- SIMILARITY: Contains 1 EF-hand domain.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=PKD2".
+ GO:0015629; C:actin cytoskeleton; IPI:UniProtKB.
+ GO:0005932; C:basal body; IDA:MGI.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0005509; F:calcium ion binding; TAS:ProtInc.
+ GO:0008092; F:cytoskeletal protein binding; TAS:ProtInc.
+ GO:0008022; F:protein C-terminus binding; TAS:ProtInc.
+ GO:0005247; F:voltage-gated chloride channel activity; TAS:ProtInc.
+ GO:0005248; F:voltage-gated sodium channel activity; TAS:ProtInc.
+ GO:0006812; P:cation transport; TAS:ProtInc.
+ GO:0007160; P:cell-matrix adhesion; TAS:ProtInc.
+ GO:0009887; P:organ morphogenesis; TAS:ProtInc.
+Calcium; Coiled coil; Disease mutation; Glycoprotein; Ion transport;
+Ionic channel; Membrane; Polymorphism; Transmembrane; Transport.
+TMSIX

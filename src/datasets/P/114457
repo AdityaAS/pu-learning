@@ -1,0 +1,13 @@
+AC   P43437;
+V-type sodium ATP synthase subunit F (EC 3.6.3.14) (Na(+)-
+translocating ATPase subunit F).
+"Sequencing and characterization of the ntp gene cluster for vacuolar-
+type Na(+)-translocating ATPase of Enterococcus hirae.";
+"Operon of vacuolar-type Na(+)-ATPase of Enterococcus hirae.";
+-!- FUNCTION: Involved in ATP-driven sodium extrusion.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SIMILARITY: Belongs to the V-ATPase G subunit family.
+ATP synthesis; Hydrogen ion transport; Hydrolase; Ion transport;
+Transport.
+TMZERO

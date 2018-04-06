@@ -1,0 +1,49 @@
+AC   O88428; Q9Z274;
+Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthetase 2 (PAPS
+synthetase 2) (PAPSS 2) (Sulfurylase kinase 2) (SK2) (SK 2) [Includes:
+Sulfate adenylyltransferase (EC 2.7.7.4) (Sulfate adenylate
+transferase) (SAT) (ATP-sulfurylase); Adenylyl-sulfate kinase
+(EC 2.7.1.25) (Adenylylsulfate 3'-phosphotransferase) (APS kinase)
+(Adenosine-5'-phosphosulfate 3'-phosphotransferase) (3'-
+phosphoadenosine-5'-phosphosulfate synthetase)].
+"A member of a new family of sulfate activating enzymes causes murine
+brachymorphism.";
+"Mutations in orthologous genes in human spondyloepimetaphyseal
+dysplasia and the brachymorphic mouse.";
+-!- FUNCTION: Bifunctional enzyme with both ATP sulfurylase and APS
+    kinase activity, which mediates two steps in the sulfate
+    activation pathway. The first step is the transfer of a sulfate
+    group to ATP to yield adenosine 5'-phosphosulfate (APS), and the
+    second step is the transfer of a phosphate group from ATP to APS
+    yielding 3'-phosphoadenylylsulfate (PAPS: activated sulfate donor
+    used by sulfotransferase). In mammals, PAPS is the sole source of
+    sulfate; APS appears to be only an intermediate in the sulfate-
+    activation pathway. May have a important role in skeletogenesis
+    during postnatal growth.
+-!- CATALYTIC ACTIVITY: ATP + sulfate = diphosphate + adenylyl
+    sulfate.
+-!- CATALYTIC ACTIVITY: ATP + adenylyl sulfate = ADP + 3'-
+    phosphoadenylyl sulfate.
+-!- PATHWAY: Sulfur metabolism; sulfate assimilation.
+-!- TISSUE SPECIFICITY: Expressed in liver, cartilage, skin and brain.
+-!- DISEASE: Defects in Papss2 are the cause of brachymorphism (bm), a
+    autosomal recessive disease, which is characterized by abnormal
+    hepatic detoxification, bleeding times and postnatal growth, such
+    as dome-shaped skull, short thick tail, and shortened but not
+    widened limbs. The abnormal postnatal growth has been attributed
+    to undersulfation of cartilage proteoglycans.
+-!- SIMILARITY: In the N-terminal section; belongs to the APS kinase
+    family.
+-!- SIMILARITY: In the C-terminal section; belongs to the sulfate
+    adenylyltransferase family.
+ GO:0005622; C:intracellular; ISS:UniProtKB.
+ GO:0004020; F:adenylylsulfate kinase activity; IDA:MGI.
+ GO:0005524; F:ATP binding; ISS:UniProtKB.
+ GO:0016779; F:nucleotidyltransferase activity; ISS:UniProtKB.
+ GO:0004781; F:sulfate adenylyltransferase (ATP) activity; ISS:UniProtKB.
+ GO:0016740; F:transferase activity; ISS:UniProtKB.
+ GO:0001501; P:skeletal development; ISS:UniProtKB.
+ GO:0000103; P:sulfate assimilation; IDA:MGI.
+ATP-binding; Disease mutation; Kinase; Multifunctional enzyme;
+Nucleotide-binding; Nucleotidyltransferase; Polymorphism; Transferase.
+TMZERO

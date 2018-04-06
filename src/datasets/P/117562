@@ -1,0 +1,16 @@
+AC   P0A2V3; P35117;
+Octopine permease ATP-binding protein P.
+"Catabolism of the guanidino compounds nopaline, octopine, and L-
+arginine in Agrobacterium tumefaciens: enzymes, genes, and
+regulation.";
+-!- FUNCTION: Component of the octopine active transport system
+    probably consisting of four subunits: Q, M, P and T (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- INDUCTION: By octopine (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Inner membrane; Membrane; Nucleotide-binding; Plasmid;
+Transport.
+TMZERO

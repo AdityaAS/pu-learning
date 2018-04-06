@@ -1,0 +1,29 @@
+AC   P05896;
+Pol polyprotein [Contains: Protease (Retropepsin) (EC 3.4.23.-);
+Reverse transcriptase/ribonuclease H (EC 2.7.7.49) (EC 3.1.26.4) (RT);
+Integrase (IN)].
+"Sequence of simian immunodeficiency virus from macaque and its
+relationship to other human and simian retroviruses.";
+-!- FUNCTION: During replicative cycle of retroviruses, the reverse-
+    transcribed viral DNA is integrated into the host chromosome by
+    the viral integrase enzyme. RNase H activity is associated with
+    the reverse transcriptase.
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+    phosphomonoester.
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- PTM: Cleavage sites that yield the mature proteins remain to be
+    determined.
+-!- MISCELLANEOUS: This is a macaque isolate.
+-!- SIMILARITY: Belongs to the retroviral Pol polyprotein family.
+-!- SIMILARITY: Contains 1 integrase catalytic domain.
+-!- SIMILARITY: Contains 1 integrase-type DNA-binding domain.
+-!- SIMILARITY: Contains 1 integrase-type zinc finger.
+-!- SIMILARITY: Contains 1 peptidase A2 domain.
+-!- SIMILARITY: Contains 1 reverse transcriptase domain.
+-!- SIMILARITY: Contains 1 RNase H domain.
+3D-structure; Aspartyl protease; DNA integration; DNA recombination;
+Endonuclease; Hydrolase; Metal-binding; Multifunctional enzyme;
+Nuclease; Nucleotidyltransferase; Protease;
+RNA-directed DNA polymerase; Transferase; Zinc; Zinc-finger.
+TMZERO

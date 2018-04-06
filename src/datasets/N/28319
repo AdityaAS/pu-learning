@@ -1,0 +1,20 @@
+AC   P20294;
+Ciliary neurotrophic factor (CNTF).
+"Molecular cloning, expression and regional distribution of rat
+ciliary neurotrophic factor.";
+-!- FUNCTION: CNTF is a survival factor for various neuronal cell
+    types. Seems to prevent the degeneration of motor axons after
+    axotomy.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: Nervous system.
+-!- SIMILARITY: Belongs to the CNTF family.
+ GO:0030424; C:axon; IDA:RGD.
+ GO:0043025; C:cell soma; IDA:RGD.
+ GO:0005829; C:cytosol; IDA:RGD.
+ GO:0005634; C:nucleus; IDA:RGD.
+ GO:0008083; F:growth factor activity; TAS:RGD.
+ GO:0007259; P:JAK-STAT cascade; IDA:RGD.
+ GO:0007399; P:nervous system development; IDA:RGD.
+Developmental protein; Differentiation; Direct protein sequencing;
+Growth factor; Neurogenesis.
+TMZERO

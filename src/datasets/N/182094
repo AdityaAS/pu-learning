@@ -1,0 +1,27 @@
+AC   Q7P0J3;
+Prolyl-tRNA synthetase (EC 6.1.1.15) (Proline--tRNA ligase) (ProRS).
+"The complete genome sequence of Chromobacterium violaceum reveals
+remarkable and exploitable bacterial adaptability.";
+-!- FUNCTION: Catalyzes the attachment of proline to tRNA(Pro) in a
+    two-step reaction: proline is first activated by ATP to form Pro-
+    AMP and then transferred to the acceptor end of tRNA(Pro). As
+    ProRS can inadvertently accomodate and process noncognate amino
+    acids such as alanine and cysteine, to avoid such errors it has
+    two additional distinct editing activities against alanine. One
+    activity is designated as 'pretransfer' editing and involves the
+    tRNA(Pro)-independent hydrolysis of activated Ala-AMP. The other
+    activity is designated 'posttransfer' editing and involves
+    deacylation of mischarged Ala-tRNA(Pro). The misacylated Cys-
+    tRNA(Pro) is not edited by ProRS (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + L-proline + tRNA(Pro) = AMP +
+    diphosphate + L-prolyl-tRNA(Pro).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- DOMAIN: Consists of three domains: the N-terminal catalytic
+    domain, the editing domain and the C-terminal anticodon-binding
+    domain (By similarity).
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family. ProS type 1 subfamily.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

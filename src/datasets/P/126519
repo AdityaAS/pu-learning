@@ -1,0 +1,15 @@
+AC   P0A1I2; P37601;
+Thiosulfate reductase electron transport protein phsB.
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: Electron transport protein for the PHS system
+    oxidoreductase which produces hydrogen sulfide from thiosulfate
+    (Potential).
+-!- SUBUNIT: Probably composed of three subunits: phsA, phsB and phsC
+    (By similarity).
+-!- SIMILARITY: Contains 4 4Fe-4S type ferredoxin domains.
+4Fe-4S; Complete proteome; Electron transport; Iron; Iron-sulfur;
+Metal-binding; Transport.
+TMZERO

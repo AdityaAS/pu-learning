@@ -1,0 +1,20 @@
+AC   P44303;
+Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54) (Phospho-2-
+keto-3-deoxyheptonate aldolase) (DAHP synthetase) (3-deoxy-D-arabino-
+heptulosonate 7-phosphate synthase).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: Stereospecific condensation of phosphoenolpyruvate (PEP)
+    and D-erythrose-4-phosphate (E4P) giving rise to 3-deoxy-D-
+    arabino-heptulosonate-7-phosphate (DAHP).
+-!- CATALYTIC ACTIVITY: Phosphoenolpyruvate + D-erythrose 4-phosphate
+    + H(2)O = 3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate +
+    phosphate.
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 1.
+-!- PATHWAY: Context: Aromatic amino acids biosynthesis.
+-!- SIMILARITY: Belongs to the class-I DAHP synthetase family.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Complete proteome; Transferase.
+TMZERO

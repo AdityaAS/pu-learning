@@ -1,0 +1,7 @@
+AC   Q8XVK1;
+UPF0289 protein RSc2829.
+"Genome sequence of the plant pathogen Ralstonia solanacearum.";
+-!- SIMILARITY: Belongs to the UPF0289 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

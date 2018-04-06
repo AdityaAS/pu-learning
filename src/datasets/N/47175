@@ -1,0 +1,15 @@
+AC   Q9HM85; P14823;
+Elongation factor 2 (EF-2).
+"Sequence analysis of the peptide-elongation factor EF-2 gene,
+downstream from those of ribosomal proteins H-S12 and H-S7, from the
+archaebacterial extreme halophile, Halobacterium halobium.";
+"Genome sequence of Halobacterium species NRC-1.";
+-!- FUNCTION: This protein promotes the GTP-dependent translocation of
+    the nascent protein chain from the A-site to the P-site of the
+    ribosome.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the GTP-binding elongation factor family.
+    EF-G/EF-2 subfamily.
+Complete proteome; Elongation factor; GTP-binding; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

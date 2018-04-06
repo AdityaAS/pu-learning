@@ -1,0 +1,20 @@
+AC   Q9JX66;
+Dihydroorotate dehydrogenase (EC 1.3.3.1) (Dihydroorotate oxidase)
+(DHOdehase) (DHODase) (DHOD).
+"Complete DNA sequence of a serogroup A strain of Neisseria
+meningitidis Z2491.";
+-!- CATALYTIC ACTIVITY: (S)-dihydroorotate + O(2) = orotate +
+    H(2)O(2).
+-!- COFACTOR: Binds 1 FMN per subunit (By similarity).
+-!- PATHWAY: Nucleotide biosynthesis; UMP biosynthesis; UMP from
+    HCO(3)(-): step 4.
+-!- PATHWAY: Context: Pyrimidine biosynthesis.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the dihydroorotate dehydrogenase family.
+    Type 2 subfamily.
+ GO:0006221; P:pyrimidine nucleotide biosynthesis; IEA:HAMAP.
+Complete proteome; Flavoprotein; FMN; Oxidoreductase;
+Pyrimidine biosynthesis.
+TMZERO

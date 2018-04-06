@@ -1,0 +1,11 @@
+AC   P30329;
+Arsenical pump membrane protein (Arsenic efflux pump protein).
+"Regulation and expression of the arsenic resistance operon from
+Staphylococcus aureus plasmid pI258.";
+-!- FUNCTION: Involved in arsenical resistance. Thought to form the
+    channel of an arsenite pump.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the arsB family.
+Arsenical resistance; Membrane; Plasmid; Transmembrane; Transport.
+TMTWELVE

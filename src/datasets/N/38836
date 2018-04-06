@@ -1,0 +1,43 @@
+AC   O43293;
+Death-associated protein kinase 3 (EC 2.7.11.1) (DAP kinase 3) (DAP-
+like kinase) (Dlk) (ZIP-kinase).
+"ZIP kinase, a novel serine/threonine kinase which mediates
+apoptosis.";
+"ZIP kinase identified as a novel myosin regulatory light chain kinase
+in HeLa cells.";
+"ZIP kinase triggers apoptosis from nuclear PML oncogenic domains.";
+"Novel mitosis-specific phosphorylation of histone H3 at Thr11
+mediated by Dlk/ZIP kinase.";
+"Crystal structure of human ZIP kinase.";
+-!- FUNCTION: Serine/threonine kinase which acts as a positive
+    regulator of apoptosis. Phosphorylates histone H3 on 'Thr-11' at
+    centromeres during mitosis.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- COFACTOR: Magnesium.
+-!- SUBUNIT: Homodimer or forms heterodimers with ATF4. Both
+    interactions require an intact leucine zipper domain and
+    oligomerization is required for full enzymatic activity. Also
+    binds to DAXX and PAWR, possibly in a ternary complex which plays
+    a role in caspase activation. Interacts with AATF and CDC5L.
+-!- INTERACTION:
+    Q9UER7:DAXX; NbExp=1; IntAct=EBI-77293, EBI-77321;
+    O35613:Daxx (xeno); NbExp=1; IntAct=EBI-77293, EBI-77304;
+    O75796:PAWR; NbExp=1; IntAct=EBI-77293, EBI-77411;
+-!- SUBCELLULAR LOCATION: Nucleus. Cytoplasm (By similarity).
+    Note=Relocates to the cytoplasm on binding PAWR where the complex
+    appears to interact with actin filaments (By similarity).
+    Associates to centromeres from prophase to anaphase.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. DAP
+    kinase subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005634; C:nucleus; ISS:UniProtKB.
+ GO:0005524; F:ATP binding; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0004674; F:protein serine/threonine kinase activity; IDA:UniProtKB.
+ GO:0006917; P:induction of apoptosis; IMP:UniProtKB.
+ GO:0006468; P:protein amino acid phosphorylation; IDA:UniProtKB.
+ GO:0007243; P:protein kinase cascade; IDA:UniProtKB.
+3D-structure; Apoptosis; ATP-binding; Chromatin regulator; Kinase;
+Nuclear protein; Nucleotide-binding; Serine/threonine-protein kinase;
+Transferase.
+TMZERO

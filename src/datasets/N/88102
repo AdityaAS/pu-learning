@@ -1,0 +1,16 @@
+AC   P04047;
+Thymidine kinase, cytosolic (EC 2.7.1.21).
+"The nucleotide sequence of the chicken thymidine kinase gene and the
+relationship of its predicted polypeptide to that of the vaccinia
+virus thymidine kinase.";
+"Genetic and physical analysis of the chicken tk gene.";
+-!- CATALYTIC ACTIVITY: ATP + thymidine = ADP + thymidine 5'-
+    phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: Two forms have been identified in animal cells, one
+    in cytosol and one in mitochondria. Activity of the cytosolic
+    enzyme is high in proliferating cells and peaks during the S-phase
+    of the cell cycle; it is very low in resting cells.
+-!- SIMILARITY: Belongs to the thymidine kinase family.
+ATP-binding; DNA synthesis; Kinase; Nucleotide-binding; Transferase.
+TMZERO

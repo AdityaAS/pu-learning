@@ -1,0 +1,23 @@
+AC   P0AF06; P09349;
+Chemotaxis protein motB (Motility protein B).
+"Nucleotide sequence of the Escherichia coli motB gene and site-
+limited incorporation of its product into the cytoplasmic membrane.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Tandem translation starts in the cheA locus of Escherichia coli.";
+"Bacterial motility: membrane topology of the Escherichia coli MotB
+protein.";
+"Mutant MotB proteins in Escherichia coli.";
+-!- FUNCTION: Required for the rotation of the flagellar motor. Might
+    be a linker that fastens the torque-generating machinery to the
+    cell wall.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein.
+-!- SIMILARITY: Belongs to the motB family.
+-!- SIMILARITY: Contains 1 OmpA-like domain.
+Chemotaxis; Complete proteome; Flagellar rotation; Flagellum;
+Inner membrane; Membrane; Signal-anchor; Transmembrane.
+TMONE

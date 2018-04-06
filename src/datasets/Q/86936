@@ -1,0 +1,26 @@
+AC   P70605; Q9EQ81; Q9ERQ4;
+Small conductance calcium-activated potassium channel protein 3 (SK3).
+"Small-conductance, calcium-activated potassium channels from
+mammalian brain.";
+"SK3 is an important component of K(+) channels mediating the
+afterhyperpolarization in cultured rat SCG neurones.";
+"Cloning and functional expression of a liver isoform of the small
+conductance Ca2+-activated K+ channel SK3.";
+-!- FUNCTION: Forms a voltage-independent potassium channel activated
+    by intracellular calcium. Activation is followed by membrane
+    hyperpolarization. Thought to regulate neuronal excitability by
+    contributing to the slow component of synaptic
+    afterhyperpolarization. The channel is blocked by apamin.
+-!- SUBUNIT: Hetero-oligomer. The complex is composed of 4 channel
+    subunits each of which binds to a calmodulin subunit which
+    regulates the channel activity through calcium-binding (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the potassium channel KCNN family.
+ GO:0005886; C:plasma membrane; IMP:RGD.
+ GO:0042802; F:identical protein binding; TAS:RGD.
+ GO:0016286; F:small conductance calcium-activated potassi...; IMP:RGD.
+ GO:0006813; P:potassium ion transport; IMP:RGD.
+Calmodulin-binding; Ion transport; Ionic channel; Membrane;
+Polymorphism; Transmembrane; Transport.
+TMSEVEN

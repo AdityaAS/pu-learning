@@ -1,0 +1,11 @@
+AC   Q01244;
+Yop proteins translocation protein C precursor.
+"Analysis of virC, an operon involved in the secretion of Yop proteins
+by Yersinia enterocolitica.";
+-!- FUNCTION: Very likely required for the export process of the yop
+    proteins.
+-!- SUBCELLULAR LOCATION: Cell outer membrane (Probable).
+-!- SIMILARITY: Belongs to the GSP D family.
+Membrane; Outer membrane; Plasmid; Protein transport; Signal;
+Transport.
+TMZERO

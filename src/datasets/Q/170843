@@ -1,0 +1,18 @@
+AC   Q5JH32;
+Preprotein translocase secE subunit (Protein transport protein SEC61
+gamma subunit homolog).
+"Complete genome sequence of the hyperthermophilic archaeon
+Thermococcus kodakaraensis KOD1 and comparison with Pyrococcus
+genomes.";
+-!- FUNCTION: Involved in protein export (By similarity).
+-!- SUBUNIT: Component of the protein translocase complex.
+    Heterotrimer consisting of alpha (secY), beta (secG) and gamma
+    (secE) subunits. Can form oligomers of the heterotrimer (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the secE/SEC61-gamma family.
+ GO:0009306; P:protein secretion; IEA:HAMAP.
+Complete proteome; Membrane; Protein transport; Translocation;
+Transmembrane; Transport.
+TMONE

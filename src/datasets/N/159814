@@ -1,0 +1,12 @@
+AC   P28521;
+Chloroplast 30S ribosomal protein S16.
+"An equivalent to bacterial ompR genes is encoded on the plastid
+genome of red algae.";
+"A 16 kb small single-copy region separates the plastid DNA inverted
+repeat of the unicellular red alga Cyanidium caldarium: physical
+mapping of the IR-flanking regions and nucleotide sequences of the
+psbD, psbC, rps16, 5S rRNA and rpl21 genes.";
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the ribosomal protein S16P family.
+Chloroplast; Plastid; Ribonucleoprotein; Ribosomal protein.
+TMZERO

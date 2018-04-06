@@ -1,0 +1,15 @@
+AC   P40844;
+Esculentin-1B precursor.
+"Antimicrobial peptides from skin secretions of Rana esculenta.
+Molecular cloning of cDNAs encoding esculentin and brevinins and
+isolation of new active peptides.";
+-!- FUNCTION: Shows antibacterial activity against representative
+    Gram-negative and Gram-positive bacterial species, and hemolytic
+    activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin glands.
+-!- SIMILARITY: Belongs to the frog skin active peptide (FSAP) family.
+    Brevinin subfamily.
+Amphibian defense peptide; Antibiotic; Antimicrobial; Cytolysis;
+Hemolysis; Signal.
+TMZERO

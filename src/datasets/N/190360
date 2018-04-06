@@ -1,0 +1,11 @@
+AC   Q5PCN2;
+Protein tolB precursor.
+"Comparison of genome degradation in Paratyphi A and Typhi, human-
+restricted serovars of Salmonella enterica that cause typhoid.";
+-!- FUNCTION: Involved in the tonB-independent uptake of proteins (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (Potential).
+-!- SIMILARITY: Belongs to the tolB family.
+ GO:0017038; P:protein import; IEA:HAMAP.
+Complete proteome; Periplasmic; Protein transport; Signal; Transport.
+TMZERO

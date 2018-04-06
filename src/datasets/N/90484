@@ -1,0 +1,40 @@
+AC   Q12446;
+Proline-rich protein LAS17.
+"Yeast mutants sensitive to local anesthetics.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"The Saccharomyces cerevisiae homologue of human Wiskott-Aldrich
+syndrome protein Las17p interacts with the Arp2/3 complex.";
+"Actin patch assembly proteins Las17p and Sla1p restrict cell wall
+growth to daughter cells and interact with cis-Golgi protein Kre6p.";
+"Global analysis of protein expression in yeast.";
+-!- SUBUNIT: Interacts with KRE6, LSB3, LSB5 and YSC84.
+-!- INTERACTION:
+    P60010:ACT1; NbExp=2; IntAct=EBI-10022, EBI-2169;
+    P32381:ARP2; NbExp=1; IntAct=EBI-10022, EBI-2927;
+    P47068:BBC1; NbExp=2; IntAct=EBI-10022, EBI-3437;
+    P38822:BZZ1; NbExp=6; IntAct=EBI-10022, EBI-3889;
+    Q05080:CYK2; NbExp=2; IntAct=EBI-10022, EBI-5412;
+    P25369:LSB5; NbExp=4; IntAct=EBI-10022, EBI-10218;
+    P36006:MYO3; NbExp=2; IntAct=EBI-10022, EBI-11670;
+    Q04439:MYO5; NbExp=3; IntAct=EBI-10022, EBI-11687;
+    Q06449:PIN3; NbExp=5; IntAct=EBI-10022, EBI-35523;
+    P39743:RVS167; NbExp=6; IntAct=EBI-10022, EBI-14500;
+    P40073:SSU81; NbExp=2; IntAct=EBI-10022, EBI-18140;
+    P37370:VRP1; NbExp=2; IntAct=EBI-10022, EBI-20502;
+    P43603:YFR024C; NbExp=6; IntAct=EBI-10022, EBI-22980;
+    P53281:YGR136W; NbExp=5; IntAct=EBI-10022, EBI-23329;
+    P32793:YSC84; NbExp=6; IntAct=EBI-10022, EBI-24460;
+-!- MISCELLANEOUS: Present with 8580 molecules/cell.
+-!- SIMILARITY: Contains 1 WH1 domain.
+-!- SIMILARITY: Contains 1 WH2 domain.
+ GO:0030479; C:actin cortical patch; IDA:SGD.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0008092; F:cytoskeletal protein binding; IDA:SGD.
+ GO:0007015; P:actin filament organization; IDA:SGD.
+ GO:0008154; P:actin polymerization and/or depolymerization; IDA:SGD.
+ GO:0007121; P:bipolar bud site selection; IMP:SGD.
+ GO:0000910; P:cytokinesis; IMP:SGD.
+ GO:0006897; P:endocytosis; IMP:SGD.
+ GO:0006970; P:response to osmotic stress; IMP:SGD.
+Complete proteome.
+TMZERO

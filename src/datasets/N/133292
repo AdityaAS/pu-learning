@@ -1,0 +1,22 @@
+AC   Q00826; Q5KJX9;
+Probable proteasome subunit beta type 2 (EC 3.4.25.1).
+"The second capsule gene of Cryptococcus neoformans, CAP64, is
+essential for virulence.";
+"The genome of the basidiomycetous yeast and human pathogen
+Cryptococcus neoformans.";
+-!- FUNCTION: The proteasome is a multicatalytic proteinase complex
+    which is characterized by its ability to cleave peptides with Arg,
+    Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or
+    slightly basic pH. The proteasome has an ATP-dependent proteolytic
+    activity (By similarity).
+-!- CATALYTIC ACTIVITY: Cleavage of peptide bonds with very broad
+    specificity.
+-!- SUBUNIT: The proteasome is composed of at least 15 non identical
+    subunits which form a highly ordered ring-shaped structure (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the peptidase T1B family.
+Complete proteome; Hydrolase; Protease; Proteasome;
+Threonine protease.
+TMZERO

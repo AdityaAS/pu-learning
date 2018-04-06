@@ -1,0 +1,13 @@
+AC   P0ABG5; P16457;
+Cell division protein ftsW.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: This is a septum-peptidoglycan biosynthetic protein,
+    involved in cell wall formation. Plays a role in the stabilization
+    of the ftsZ ring during cell division (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ftsW/rodA/spoVE family.
+Cell cycle; Cell division; Cell shape; Cell wall; Complete proteome;
+Inner membrane; Membrane; Peptidoglycan synthesis; Transmembrane.
+TMNINE

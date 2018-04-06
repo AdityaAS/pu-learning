@@ -1,0 +1,37 @@
+AC   P04983; Q2M867;
+Ribose import ATP-binding protein rbsA (EC 3.6.3.17).
+"The nucleotide sequences of the rbsD, rbsA, and rbsC genes of
+Escherichia coli K12.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"An analysis of the structure of the product of the rbsA gene of
+Escherichia coli K12.";
+"The proteins encoded by the rbs operon of Escherichia coli: I.
+Overproduction, purification, characterization, and functional
+analysis of RbsA.";
+-!- FUNCTION: Part of the ABC transporter complex rbsABCD involved in
+    ribose import. Responsible for energy coupling to the transport
+    system.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + monosaccharide(Out) = ADP +
+    phosphate + monosaccharide(In).
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=140 uM for ATP;
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (rbsA), two transmembrane proteins (rbsC and rbsD) and a solute-
+    binding protein (rbsB) (Probable).
+-!- INTERACTION:
+    P0A850:tig; NbExp=1; IntAct=EBI-1132449, EBI-544862;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. Ribose importer
+    (TC 3.A.1.2.1) subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ATP-binding; Complete proteome; Direct protein sequencing; Hydrolase;
+Inner membrane; Membrane; Nucleotide-binding; Repeat; Sugar transport;
+Transport.
+TMZERO

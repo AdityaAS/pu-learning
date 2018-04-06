@@ -1,0 +1,38 @@
+AC   Q56930; Q84GR6; Q93KR4;
+Adhesin yadA precursor.
+"Analysis of the yopA gene encoding the Yop1 virulence determinants of
+Yersinia spp.";
+"Complete DNA sequence of Yersinia enterocolitica serotype 0:8 low-
+calcium-response plasmid reveals a new virulence plasmid-associated
+replicon.";
+"DNA sequence and analysis of the pYVa127/90 virulence plasmid of
+Yersinia enterocolitica strain A127/90.";
+"Binding to collagen by Yersinia enterocolitica and Yersinia
+pseudotuberculosis: evidence for yopA-mediated and chromosomally
+encoded mechanisms.";
+"Molecular analysis of transport and oligomerization of the Yersinia
+enterocolitica adhesin YadA.";
+"Structure and sequence analysis of Yersinia YadA and Moraxella UspAs
+reveal a novel class of adhesins.";
+-!- FUNCTION: Collagen-binding outer membrane protein forming a
+    fibrillar matrix on the bacterial cell surface. Promotes initial
+    attachment and invasion of eukaryotic cells. Also protects the
+    bacteria by being responsible for agglutination, serum resistance,
+    complement inactivation and phagocytosis resistance.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- INDUCTION: Induced at 37 degrees Celsius by the temperature-
+    dependent transcriptional activator lcrF (virF) (By similarity).
+-!- DOMAIN: Presents a lollipop-shaped form which consists of three
+    domains: a C-terminal membrane-anchor domain, a coiled-coil stalk
+    domain and an oval N-terminal head domain. The N-terminal half of
+    the sequence reveals the presence of repeated motifs with the
+    consensus sequence NSVAIGXXS. They form the turns and hydrophobic
+    core of the nine-coiled left-handed parallel beta-roll and trimer
+    structure essential for the collagen-binding activity (By
+    similarity).
+-!- SIMILARITY: Belongs to the autotransporter-2 (TC 1.B.40) /
+    oligomeric coiled-coil adhesin (Oca) family.
+Cell adhesion; Coiled coil; Membrane; Outer membrane; Plasmid; Signal;
+Virulence.
+TMZERO

@@ -1,0 +1,41 @@
+AC   Q9SWE5; Q6ID92;
+Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) (Halotolerance
+protein Hal3a) (AtHal3a) (PPCDC) (AtCoaC).
+"Arabidopsis thaliana AtHAL3: a flavoprotein related to salt and
+osmotic tolerance and plant growth.";
+"Structural analysis of Arabidopsis thaliana chromosome 3. II.
+Sequence features of the 4,251,695 bp regions covered by 90 P1, TAC
+and BAC clones.";
+"Arabidopsis ORF clones.";
+"Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+"Arabidopsis thaliana flavoprotein AtHAL3a catalyzes the
+decarboxylation of 4'-Phosphopantothenoylcysteine to 4'-
+phosphopantetheine, a key step in coenzyme A biosynthesis.";
+"Molecular characterization of the Arabidopsis thaliana flavoprotein
+AtHAL3a reveals the general reaction mechanism of 4'-
+phosphopantothenoylcysteine decarboxylases.";
+"The X-ray structure of the FMN-binding protein AtHal3 provides the
+structural basis for the activity of a regulatory subunit involved in
+signal transduction.";
+"Crystal structure of the plant PPC decarboxylase AtHAL3a complexed
+with an ene-thiol reaction intermediate.";
+-!- FUNCTION: Involved in plant growth and salt and osmotic tolerance.
+    Catalyzes the decarboxylation of 4'-phosphopantothenoylcysteine to
+    4'-phosphopantetheine, a key step in coenzyme A biosynthesis. The
+    enzyme is also able to decarboxylate pantothenoylcysteine to
+    pantothenoylcysteamine.
+-!- CATALYTIC ACTIVITY: N-((R)-4'-phosphopantothenoyl)-L-cysteine =
+    pantotheine 4'-phosphate + CO(2).
+-!- COFACTOR: Binds 1 FMN per subunit.
+-!- PATHWAY: Cofactor biosynthesis; coenzyme A biosynthesis; coenzyme
+    A from pantothenate: step 3.
+-!- SUBUNIT: Homotrimer.
+-!- TISSUE SPECIFICITY: Expressed in roots, shoots, leaves, flowers,
+    developing siliques and seeds with highest expression in seed
+    embryos and phloem.
+-!- INDUCTION: By salt stress.
+-!- SIMILARITY: Belongs to the HFCD (homo-oligomeric flavin containing
+    Cys decarboxylase) superfamily.
+ GO:0004633; F:phosphopantothenoylcysteine decarboxylase a...; IEA:EC.
+3D-structure; Decarboxylase; Flavoprotein; FMN; Lyase.
+TMZERO

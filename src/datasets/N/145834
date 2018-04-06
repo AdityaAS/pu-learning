@@ -1,0 +1,27 @@
+AC   P10297;
+Antiviral protein I precursor (EC 3.2.2.22) (PAP-I) (PAP-C) (Ribosome-
+inactivating protein) (rRNA N-glycosidase).
+"Isolation and characterization of a cDNA clone encoding the anti-
+viral protein from Phytolacca americana.";
+"Ribosome-inactivating proteins from plant cells in culture.";
+"Seasonal variations in different forms of pokeweed antiviral protein,
+a potent inactivator of ribosomes.";
+"Characterization of translational inhibitors from Phytolacca
+americana. Amino-terminal sequence determination and antibody-
+inhibitor conjugates.";
+"Purification and properties of new ribosome-inactivating proteins
+with RNA N-glycosidase activity.";
+"The 2.5 A structure of pokeweed antiviral protein.";
+"X-ray crystallographic analysis of the structural basis for the
+interactions of pokeweed antiviral protein with its active site
+inhibitor and ribosomal RNA substrate analogs.";
+-!- FUNCTION: Inhibits viral infection of plants, and protein
+    synthesis in vitro.
+-!- CATALYTIC ACTIVITY: Endohydrolysis of the N-glycosidic bond at one
+    specific adenosine on the 28S rRNA.
+-!- TISSUE SPECIFICITY: Spring leaves and roots.
+-!- SIMILARITY: Belongs to the ribosome-inactivating protein family.
+    Type 1 RIP subfamily.
+3D-structure; Antiviral defense; Direct protein sequencing; Hydrolase;
+Plant defense; Protein synthesis inhibitor; Signal; Toxin.
+TMZERO

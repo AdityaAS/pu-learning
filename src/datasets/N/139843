@@ -1,0 +1,53 @@
+AC   Q8V6W7; Q8V6W6;
+Replicase polyprotein 1ab (pp1ab) (ORF1ab polyprotein) [Includes:
+Replicase polyprotein 1a (pp1a) (ORF1a)] [Contains: p28; p65; p210
+(EC 3.4.22.-) (Papain-like proteinases 1/2) (PL1-PRO/PL2-PRO); Peptide
+HD2 (p44); 3C-like proteinase (EC 3.4.22.-) (3CL-PRO) (3CLp) (M-PRO)
+(p27); Unknown protein 1; p10; p22; p12; Growth factor-like peptide
+(GFL) (p15); RNA-directed RNA polymerase (EC 2.7.7.48) (RdRp) (Pol)
+(p100); Helicase (Hel) (p67); Unknown protein 2; p35; Unknown protein
+3].
+"Bovine coronavirus (Quebec strain) full-length genomic sequence.";
+-!- FUNCTION: The replicase polyprotein of coronaviruses is a
+    multifunctional protein: it contains the activities necessary for
+    the transcription of negative stranded RNA, leader RNA, subgenomic
+    mRNAs and progeny virion RNA as well as proteinases responsible
+    for the cleavage of the polyprotein into functional products.
+-!- FUNCTION: The papain-like proteinase 1 (PL1-PRO) and papain-like
+    proteinase 2 (PL2-PRO) are responsible for the cleavages located
+    at the N-terminus of the replicase polyprotein. Activity of PL1-
+    PRO is strongly dependent on zinc (By similarity).
+-!- FUNCTION: The main proteinase 3CL-PRO is responsible for the
+    majority of cleavages as it cleaves the C-terminus of replicase
+    polyprotein at 11 sites. Recognizes substrates containing the core
+    sequence [ILMVF]-Q-|-[SAGC]. Inhibited by the substrate-analog
+    Cbz-Val-Asn-Ser-Thr-Leu-Gln-CMK (By similarity).
+-!- FUNCTION: The helicase which contains a zinc finger structure
+    displays RNA and DNA duplex-unwinding activities with 5' to 3'
+    polarity. ATPase activity is strongly stimulated by poly(U),
+    poly(dT), poly(C), poly(dA), but not by poly(G) (By similarity).
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: 3CL-PRO exists as monomer and homodimer. The Cys-rich
+    growth factor-like peptide forms a homodimer; disulfide-linked (By
+    similarity).
+-!- DOMAIN: The hydrophobic domains (HD) could mediate the membrane
+    association of the replication complex and thereby alter the
+    architecture of the host cell membrane.
+-!- PTM: Specific enzymatic cleavages in vivo by its own proteases
+    yield mature proteins. 3CL-PRO and PL-PRO proteinases are
+    autocatalytically processed (By similarity).
+-!- MISCELLANEOUS: This protein is translated as a 1a-1b polyprotein
+    by a ribosomal frameshifting mechanism. The 1A polyprotein is
+    produced by itself but not the 1B polyprotein.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 Macro domain.
+-!- SIMILARITY: Contains 2 peptidase C16 domains.
+-!- SIMILARITY: Contains 1 peptidase C30 domain.
+-!- SIMILARITY: Contains 1 RdRp catalytic domain.
+-!- SIMILARITY: Contains 1 viral helicase-type zinc finger.
+ATP-binding; Helicase; Hydrolase; Membrane; Metal-binding;
+Nucleotide-binding; Nucleotidyltransferase; Protease; Repeat;
+Ribosomal frameshift; RNA replication; RNA-directed RNA polymerase;
+Thiol protease; Transferase; Transmembrane; Zinc; Zinc-finger.
+TMTWENTYFOUR

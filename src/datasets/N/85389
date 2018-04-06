@@ -1,0 +1,39 @@
+AC   Q9BX67; Q8WWL8; Q96FL1;
+Junctional adhesion molecule C precursor (JAM-C) (Junctional adhesion
+molecule 3) (JAM-3) (JAM-2).
+"Cloning of human junctional adhesion molecule 3 (JAM3) and its
+identification as the JAM2 counter-receptor.";
+"Heterogeneity of endothelial junctions is reflected by differential
+expression and specific subcellular localization of the three JAM
+family members.";
+"The junctional adhesion molecule 3 (JAM-3) on human platelets is a
+counterreceptor for the leukocyte integrin Mac-1.";
+"Narrowing the critical region within 11q24-qter for hypoplastic left
+heart and identification of a candidate gene, JAM3, expressed during
+cardiogenesis.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Signal peptide prediction based on analysis of experimentally
+verified cleavage sites.";
+"Leukocyte-endothelial-cell interactions in leukocyte transmigration
+and the inflammatory response.";
+-!- FUNCTION: May participate in cell-cell adhesion distinct from
+    tight junctions.
+-!- SUBUNIT: Interacts with JAM2.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- TISSUE SPECIFICITY: Widely expressed. Highest expression in
+    placenta, brain and kidney.
+-!- SIMILARITY: Belongs to the immunoglobulin superfamily.
+-!- SIMILARITY: Contains 1 Ig-like C2-type (immunoglobulin-like)
+    domain.
+-!- SIMILARITY: Contains 1 Ig-like V-type (immunoglobulin-like)
+    domain.
+Direct protein sequencing; Glycoprotein; Immunoglobulin domain;
+Membrane; Signal; Transmembrane.
+TMONE

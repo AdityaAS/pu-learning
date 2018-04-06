@@ -1,0 +1,17 @@
+AC   P46910;
+Probable transcription regulator arfM (Anaerobic respiration and
+fermentation modulator).
+"The Bacillus subtilis genome from gerBC (311 degrees) to licR (334
+degrees).";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Modulation of anaerobic energy metabolism of Bacillus subtilis by
+arfM (ywiD).";
+-!- FUNCTION: Activates, in anaerobic conditions, the transcription of
+    the fermentative operons lctEP and alsDS, of the hmp gene encoding
+    a flavohemoglobin-like protein, the nitrite reductase operon nasDE
+    and the heme biosynthesis genes hemN and hemZ.
+-!- INDUCTION: By fnr. Autorepressed.
+Activator; Complete proteome; DNA-binding; Transcription;
+Transcription regulation.
+TMZERO

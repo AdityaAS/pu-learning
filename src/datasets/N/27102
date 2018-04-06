@@ -1,0 +1,29 @@
+AC   Q88VX7;
+Chaperone clpB.
+"Complete genome sequence of Lactobacillus plantarum WCFS1.";
+-!- FUNCTION: Part of a stress-induced multi-chaperone system, it is
+    involved in the recovery of the cell from heat-induced damage, in
+    cooperation with dnaK, dnaJ and grpE. Acts before dnaK, in the
+    processing of protein aggregates. Protein binding stimulates the
+    ATPase activity; ATP hydrolysis unfolds the denatured protein
+    aggregates, which probably helps expose new hydrophobic binding
+    sites on the surface of clpB-bound aggregates, contributing to the
+    solubilization and refolding of denatured protein aggregates by
+    dnaK (By similarity).
+-!- SUBUNIT: Homohexamer. The oligomerization is ATP-dependent (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- DOMAIN: The N-terminal domain probably functions as a substrate-
+    discriminating domain, recruiting aggregated proteins to the clpB
+    hexamer and/or stabilizing bound proteins. The NBD2 domain is
+    responsible for oligomerization, whereas the NBD1 domain
+    stabilizes the hexamer probably in an ATP-dependent manner. The
+    movement of the coiled-coil domain is essential for clpB ability
+    to rescue proteins from an aggregated state, probably by pulling
+    apart large aggregated proteins, which are bound between the
+    coiled-coils motifs of adjacent clpB subunits in the functional
+    hexamer (By similarity).
+-!- SIMILARITY: Belongs to the clpA/clpB family.
+ATP-binding; Chaperone; Coiled coil; Complete proteome; Heat shock;
+Nucleotide-binding; Repeat.
+TMZERO

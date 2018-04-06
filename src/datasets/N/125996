@@ -1,0 +1,14 @@
+AC   Q3AAV2;
+ACT domain-containing protein pheB.
+"Life in hot carbon monoxide: the complete genome sequence of
+Carboxydothermus hydrogenoformans Z-2901.";
+-!- FUNCTION: Not known; may be a phenylalanine-binding regulatory
+    protein (Potential).
+-!- PATHWAY: Amino-acid biosynthesis; L-phenylalanine biosynthesis.
+-!- SIMILARITY: Belongs to the pheB family.
+-!- SIMILARITY: Contains 1 ACT domain.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+ GO:0009094; P:L-phenylalanine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Complete proteome; Phenylalanine biosynthesis.
+TMZERO

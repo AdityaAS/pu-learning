@@ -1,0 +1,44 @@
+AC   Q8NBJ7; Q53ZE3; Q96BH2; Q9BRN3; Q9BWI1; Q9Y405;
+Sulfatase-modifying factor 2 precursor (C-alpha-formyglycine-
+generating enzyme 2).
+"The multiple sulfatase deficiency gene encodes an essential and
+limiting factor for the activity of sulfatases.";
+"HRI human cDNA sequencing project.";
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Expression, localization, structural, and functional characterization
+of pFGE, the paralog of the Calpha-formylglycine-generating enzyme.";
+"Crystal structure of human pFGE, the paralog of the Calpha-
+formylglycine-generating enzyme.";
+-!- FUNCTION: Seems to lack formyl-glycine generating activity and to
+    be unable to convert newly synthesized inactive sulfatases to
+    their active form by modifying an active site cysteine residue to
+    3-oxoalanine. Overexpression of SUMF2 inhibits the activation of
+    sulfatases by SUMF1.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    lumen.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=Q8NBJ7-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8NBJ7-2; Sequence=VSP_007878;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q8NBJ7-3; Sequence=VSP_007879;
+      Note=No experimental confirmation available;
+    Name=4;
+      IsoId=Q8NBJ7-4; Sequence=VSP_007880;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Detected in heart, brain, placenta, lung,
+    liver, skeletal muscle, kidney and pancreas.
+-!- SIMILARITY: Belongs to the sulfatase-modifying factor family.
+-!- CAUTION: Ref.2 (CAB43247) sequence differs from that shown due to
+    frameshifts in positions 150 and 187.
+3D-structure; Alternative splicing; Calcium;
+Direct protein sequencing; Endoplasmic reticulum; Glycoprotein;
+Metal-binding; Signal.
+TMZERO

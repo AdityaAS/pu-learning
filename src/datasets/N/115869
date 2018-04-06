@@ -1,0 +1,26 @@
+AC   P80264; Q43185;
+NADH-ubiquinone oxidoreductase 49 kDa subunit (EC 1.6.5.3)
+(EC 1.6.99.3) (NADH dehydrogenase subunit 7) (Complex I-42.5kD) (CI-
+42.5kD) (Fragment).
+"The 42.5 kDa subunit of the NADH: ubiquinone oxidoreductase (complex
+I) in higher plants is encoded by the mitochondrial nad7 gene.";
+"Purification of the NADH:ubiquinone oxidoreductase (complex I) of the
+respiratory chain from the inner mitochondrial membrane of Solanum
+tuberosum.";
+-!- FUNCTION: Transfer of electrons from NADH to the respiratory
+    chain. The immediate electron acceptor for the enzyme is believed
+    to be ubiquinone. Component of the iron-sulfur (IP) fragment of
+    the enzyme.
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- CATALYTIC ACTIVITY: NADH + acceptor = NAD(+) + reduced acceptor.
+-!- SUBUNIT: Complex I is composed of about 30 different subunits.
+    This is a component of the iron-sulfur protein fraction.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    matrix side.
+-!- RNA EDITING: Modified_positions=12, 25, 27.
+-!- SIMILARITY: Belongs to the complex I 49 kDa subunit family.
+ GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:EC.
+ GO:0003954; F:NADH dehydrogenase activity; IEA:EC.
+Direct protein sequencing; Mitochondrion; NAD; Oxidoreductase;
+RNA editing; Ubiquinone.
+TMZERO

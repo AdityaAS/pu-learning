@@ -1,0 +1,15 @@
+AC   Q01642; Q9VIA3;
+Male-specific sperm protein Mst84Da.
+"A cluster of four genes selectively expressed in the male germ line
+of Drosophila melanogaster.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- TISSUE SPECIFICITY: Testis.
+-!- DEVELOPMENTAL STAGE: Primary spermatocytes.
+-!- DOMAIN: This protein is mostly composed of repetitive C-G-P
+    motifs.
+-!- SIMILARITY: Belongs to the MST(3)CGP family.
+Complete proteome; Developmental protein; Differentiation; Repeat;
+Spermatogenesis.
+TMZERO

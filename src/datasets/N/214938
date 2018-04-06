@@ -1,0 +1,12 @@
+AC   O66638;
+UPF0004 protein aq_284.
+"The complete genome of the hyperthermophilic bacterium Aquifex
+aeolicus.";
+-!- COFACTOR: Binds 1 4Fe-4S cluster. The cluster is coordinated with
+    3 cysteines and an exchangeable S-adenosyl-L-methionine
+    (Potential).
+-!- SIMILARITY: Belongs to the UPF0004 family.
+-!- SIMILARITY: Contains 1 TRAM domain.
+4Fe-4S; Complete proteome; Iron; Iron-sulfur; Metal-binding;
+S-adenosyl-L-methionine.
+TMZERO

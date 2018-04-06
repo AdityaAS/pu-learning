@@ -1,0 +1,14 @@
+AC   Q05967;
+Polygalacturonase precursor (EC 3.2.1.15) (PG) (Pectinase).
+"Characterization of a tobacco gene encoding a pollen-specific
+polygalacturonase.";
+-!- FUNCTION: May function in depolymerizing pectin during pollen
+    development, germination, and tube growth.
+-!- CATALYTIC ACTIVITY: Random hydrolysis of 1,4-alpha-D-
+    galactosiduronic linkages in pectate and other galacturonans.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Pollen.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 28 family.
+-!- SIMILARITY: Contains 5 PbH1 repeats.
+Cell wall; Glycoprotein; Glycosidase; Hydrolase; Repeat; Signal.
+TMZERO

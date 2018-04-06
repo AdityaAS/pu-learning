@@ -1,0 +1,22 @@
+AC   P09629; Q15957;
+Homeobox protein Hox-B7 (Hox-2C) (HHO.C1).
+"Two human homeobox genes, c1 and c8: structure analysis and
+expression in embryonic development.";
+"Lymphoid expression and TATAA binding of a human protein containing
+an Antennapedia homeodomain.";
+"Lineage-restricted expression of homeobox-containing genes in human
+hematopoietic cell lines.";
+"Organization of human class I homeobox genes.";
+-!- FUNCTION: Sequence-specific transcription factor which is part of
+    a developmental regulatory system that provides cells with
+    specific positional identities on the anterior-posterior axis.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the Antp homeobox family.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+ GO:0005634; C:nucleus; NAS:UniProtKB.
+ GO:0003700; F:transcription factor activity; NAS:UniProtKB.
+ GO:0007275; P:development; NAS:UniProtKB.
+ GO:0006355; P:regulation of transcription, DNA-dependent; NAS:UniProtKB.
+Developmental protein; DNA-binding; Homeobox; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

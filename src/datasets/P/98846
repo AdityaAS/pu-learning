@@ -1,0 +1,20 @@
+AC   O06925;
+Malonate decarboxylase acyl carrier protein (Malonate decarboxylase
+delta subunit).
+"Sequence of a gene cluster from Malonomonas rubra encoding components
+of the malonate decarboxylase Na+ pump and evidence for their
+function.";
+"The acyl carrier protein of malonate decarboxylase of Malonomonas
+rubra contains 2'-(5''-phosphoribosyl)-3'-dephosphocoenzyme A as a
+prosthetic group.";
+-!- FUNCTION: Subunit of malonate decarboxylase, it is an acyl carrier
+    protein to which acetyl and malonyl thioester residues are bound
+    via a 2'-(5''-phosphoribosyl)-3'-dephospho-CoA prosthetic group
+    and turn over during the catalytic mechanism.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- PTM: Covalently binds the prosthetic group of malonate
+    decarboxylase.
+-!- SIMILARITY: Belongs to the mdcC family.
+ GO:0000036; F:acyl carrier activity; IEA:HAMAP.
+Direct protein sequencing.
+TMZERO

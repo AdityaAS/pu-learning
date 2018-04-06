@@ -1,0 +1,19 @@
+AC   P03705;
+Holin (gpS protein) [Includes: Lysis protein S; Lysis inhibitor].
+"Nucleotide sequence of bacteriophage lambda DNA.";
+"Mutational analysis of bacteriophage lambda lysis gene S.";
+-!- FUNCTION: The 105 AA product induces host cell lysis by causing
+    formation of pores in the inner membrane. The 107 AA protein
+    counteracts the formation of such tunnels.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative initiation; Named isoforms=2;
+    Name=Lysis inhibitor;
+      IsoId=P03705-1; Sequence=Displayed;
+    Name=Lysis protein S;
+      IsoId=P03705-2; Sequence=VSP_018685;
+-!- SIMILARITY: Belongs to the lambda phage S protein family.
+Alternative initiation; Inner membrane; Membrane; Phage lysis protein;
+Transmembrane.
+THTHREE

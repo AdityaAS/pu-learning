@@ -1,0 +1,25 @@
+AC   P0AEM9; P39174;
+Cystine-binding periplasmic protein precursor (CBP) (Protein fliY)
+(Sulfate starvation-induced protein 7) (SSI7).
+"Escherichia coli fliAZY operon.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Amino acid composition and N-terminal sequence of purified cystine
+binding protein of Escherichia coli.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Analysis of global responses by protein and peptide fingerprinting of
+proteins isolated by two-dimensional gel electrophoresis. Application
+to the sulfate-starvation response of Escherichia coli.";
+-!- FUNCTION: Part of a binding-protein-dependent transport system for
+    cystine.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- INDUCTION: Repressed by sulfate or cysteine.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Complete proteome; Direct protein sequencing; Periplasmic; Signal;
+Transport.
+TMZERO

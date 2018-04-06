@@ -1,0 +1,58 @@
+AC   Q38954; Q3EAZ6;
+Inorganic phosphate transporter 2-1, chloroplast precursor (H(+)/Pi
+cotransporter) (AtPht2;1).
+"Sequence analysis of an 81 kb contig from Arabidopsis thaliana
+chromosome III.";
+"Pht2;1 encodes a low-affinity phosphate transporter from
+Arabidopsis.";
+"A chloroplast phosphate transporter, PHT2;1, influences allocation of
+phosphate within the plant and phosphate-starvation responses.";
+"Structural analysis of Arabidopsis thaliana chromosome 3. I. Sequence
+features of the regions of 4,504,864 bp covered by sixty P1 and TAC
+clones.";
+"Integral membrane proteins of the chloroplast envelope:
+identification and subcellular localization of new transporters.";
+"Proteomic study of the Arabidopsis thaliana chloroplastic envelope
+membrane utilizing alternatives to traditional two-dimensional
+electrophoresis.";
+"Proteomics of the chloroplast envelope membranes from Arabidopsis
+thaliana.";
+"Expression analysis suggests novel roles for the plastidic phosphate
+transporter Pht2;1 in auto- and heterotrophic tissues in potato and
+Arabidopsis.";
+-!- FUNCTION: Low affinity H(+)/Pi chloroplastic cotransporter.
+    Involved in inorganic phosphate (orthophosphate, Pi) uptake in
+    green parts of plants in Pi-sufficient conditions. Required for Pi
+    retranslocation during Pi deprivation.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=0.4 mM for Pi (at pH 4 and 30 degrees Celsius);
+      Note=Highly specific for Pi among other anions;
+    pH dependence:
+      Optimum pH is 4;
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast inner
+    membrane; multi-pass membrane protein (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q38954-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q38954-2; Sequence=VSP_018146;
+      Note=Derived from EST data. May be due to an intron retention.
+      No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Mostly expressed in young green tissues.
+    Present in both auto- and heterotrophic tissues. Also expressed in
+    root stele.
+-!- DEVELOPMENTAL STAGE: During flower development, expressed in
+    sepals, stamens and siliques. In seeds, confined to the connecting
+    site of the funiculus. In seedlings, expressed in cotyledons and
+    hypocotyls. Restricted progressively to vascular tissues as plants
+    become older.
+-!- INDUCTION: Induction by light is inhibited by abscisic acid (ABA)
+    and cycloheximide.
+-!- SIMILARITY: Belongs to the pho-4 transporter (TC 2.A.20.2.4)
+    family.
+Alternative splicing; Chloroplast; Inner membrane; Membrane;
+Phosphate transport; Plastid; Symport; Transit peptide; Transmembrane;
+Transport.
+TMTWELVE

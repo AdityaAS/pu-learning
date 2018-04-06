@@ -1,0 +1,16 @@
+AC   P45387;
+Adhesion and penetration protein precursor (EC 3.4.21.-).
+"A Haemophilus influenzae IgA protease-like protein promotes intimate
+interaction with human epithelial cells.";
+-!- FUNCTION: Probable protease; promotes adherence and invasion by
+    directly binding to a host cell structure.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- DOMAIN: The signal peptide guides the precursor to the periplasmic
+    space, and the C-terminal helper domain associates with the outer
+    membrane to form a pore for excretion of the protease domain. The
+    helper domain is then released by autoproteolysis (By similarity).
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+-!- SIMILARITY: Contains 1 peptidase S6 domain.
+Cell adhesion; Hydrolase; Membrane; Protease; Serine protease; Signal;
+Transmembrane; Zymogen.
+TMZERO

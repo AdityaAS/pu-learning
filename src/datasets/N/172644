@@ -1,0 +1,35 @@
+AC   Q8BHK6; Q8BTL2; Q8CJ63; Q8CJ64; Q8CJ65; Q91XA0;
+SLAM family member 7 precursor (Leukocyte cell-surface antigen) (Novel
+Ly9).
+"Mouse novel Ly9: a new member of the expanding CD150 (SLAM) family of
+leukocyte cell-surface receptors.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Mediates NK cell activation through a SAP-independent
+    extracellular signal-regulated ERK-mediated pathway. May play a
+    role in lymphocyte adhesion (By similarity). Isoform 1 does not
+    bind SAP (in vitro).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=Q8BHK6-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8BHK6-2; Sequence=VSP_013784;
+    Name=3;
+      IsoId=Q8BHK6-3; Sequence=VSP_013783, VSP_013784;
+    Name=4;
+      IsoId=Q8BHK6-4; Sequence=VSP_013783;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Expressed in spleen, lymph node, bone marrow
+    and testis. Lower levels detected in thymus. Expressed in NK cells
+    and B-cells.
+-!- SIMILARITY: Contains 1 Ig-like C2-type (immunoglobulin-like)
+    domain.
+-!- CAUTION: Ref.3 (AAH11154) sequence differs from that shown due to
+    a frameshift in position 255.
+Alternative splicing; Glycoprotein; Immunoglobulin domain; Membrane;
+Receptor; Signal; Transmembrane.
+TMONE

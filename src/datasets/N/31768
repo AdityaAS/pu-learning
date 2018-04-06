@@ -1,0 +1,35 @@
+AC   P78329; Q16677; Q6NWT4; Q6NWT6; Q9NNZ0; Q9UIU8;
+Cytochrome P450 4F2 (EC 1.14.13.30) (CYPIVF2) (Leukotriene-B(4) omega-
+hydroxylase) (Leukotriene-B(4) 20-monooxygenase) (Cytochrome P450-LTB-
+omega).
+"Cloning and expression of a novel form of leukotriene B4 omega-
+hydroxylase from human liver.";
+"The human liver CYP4F2 cDNA sequence and expression in baculovirus-
+infected insect cells.";
+"Expression and molecular cloning of human liver leukotriene B4 omega-
+hydroxylase (CYP4F2) gene.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"The DNA sequence and biology of human chromosome 19.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Promoter activity and regulation of the CYP4F2 leukotriene B4 omega
+hydroxylase gene by peroxisomal proliferators and retinoic acid in
+HepG2 cells.";
+-!- FUNCTION: Cytochromes P450 are a group of heme-thiolate
+    monooxygenases. In liver microsomes, this enzyme is involved in an
+    NADPH-dependent electron transport pathway. It oxidizes a variety
+    of structurally unrelated compounds, including steroids, fatty
+    acids, and xenobiotics.
+-!- CATALYTIC ACTIVITY: (6Z,8E,10E,14Z)-(5S,12R)-5,12-dihydroxyicosa-
+    6,8,10,14-tetraenoate + NADPH + O(2) = (6Z,8E,10E,14Z)-(5S,12R)-
+    5,12,20-trihydroxyicosa-6,8,10,14-tetraenoate + NADP(+) + H(2)O.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; peripheral membrane protein.
+-!- TISSUE SPECIFICITY: Liver.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+ GO:0004497; F:monooxygenase activity; TAS:ProtInc.
+ GO:0006691; P:leukotriene metabolism; TAS:ProtInc.
+Endoplasmic reticulum; Heme; Iron; Membrane; Metal-binding; Microsome;
+Monooxygenase; NADP; Oxidoreductase; Polymorphism.
+TMZERO

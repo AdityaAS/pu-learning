@@ -1,0 +1,24 @@
+AC   P40309;
+K(+)/H(+) antiporter 1.
+"Sequence and function analysis of a 9.46 kb fragment of Saccharomyces
+cerevisiae chromosome X.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Potassium-proton antiport.
+-!- INTERACTION:
+    P00330:ADH1; NbExp=1; IntAct=EBI-25993, EBI-2218;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Present with 172 molecules/cell.
+-!- SIMILARITY: Belongs to the monovalent cation:proton antiporter 2
+    (CPA2) transporter (TC 2.A.37) family.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0015386; F:potassium:hydrogen antiporter activity; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015672; P:monovalent inorganic cation transport; IMP:SGD.
+Antiport; Complete proteome; Ion transport; Membrane; Potassium;
+Potassium transport; Transmembrane; Transport.
+TMTHIRTEEN

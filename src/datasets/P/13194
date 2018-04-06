@@ -1,0 +1,33 @@
+AC   Q12349;
+ATP synthase H chain, mitochondrial precursor (EC 3.6.3.14).
+"ATP synthase of yeast mitochondria. Isolation of the subunit h and
+disruption of the ATP14 gene.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: This is one of the chains of the nonenzymatic component
+    (CF(0) subunit) of the mitochondrial ATPase complex.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. In yeast, the
+    dimeric form of ATP synthase consists of 18 polypeptides: alpha,
+    beta, gamma, delta, epsilon, 4 (B), 5 (OSCP), 6 (A), 8, 9 (C), d,
+    E (Tim11), f, g, h, i, j and k.
+-!- INTERACTION:
+    Q07535:-; NbExp=1; IntAct=EBI-3071, EBI-37019;
+    Q08222:-; NbExp=1; IntAct=EBI-3071, EBI-32700;
+    P38304:MED8; NbExp=1; IntAct=EBI-3071, EBI-20932;
+    Q12306:SMT3; NbExp=1; IntAct=EBI-3071, EBI-17490;
+    P87271:YDR455C; NbExp=1; IntAct=EBI-3071, EBI-37156;
+    P47041:YJL058C; NbExp=1; IntAct=EBI-3071, EBI-25889;
+    P47129:YJR083C; NbExp=1; IntAct=EBI-3071, EBI-25556;
+-!- MISCELLANEOUS: Present with 6140 molecules/cell.
+ GO:0000276; C:proton-transporting ATP synthase complex, c...; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015986; P:ATP synthesis coupled proton transport; IMP:SGD.
+ATP synthesis; CF(0); Complete proteome; Direct protein sequencing;
+Hydrogen ion transport; Ion transport; Mitochondrion; Transit peptide;
+Transport.
+TMZERO

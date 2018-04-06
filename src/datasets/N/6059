@@ -1,0 +1,14 @@
+AC   P45257;
+Alanine racemase (EC 5.1.1.1).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: Provides the D-alanine required for cell wall
+    biosynthesis (By similarity).
+-!- CATALYTIC ACTIVITY: L-alanine = D-alanine.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SIMILARITY: Belongs to the alanine racemase family.
+ GO:0009252; P:peptidoglycan biosynthesis; IEA:HAMAP.
+Cell shape; Cell wall; Complete proteome; Isomerase;
+Peptidoglycan synthesis; Pyridoxal phosphate.
+TMZERO

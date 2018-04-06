@@ -1,0 +1,8 @@
+AC   Q8DIK0;
+UPF0054 protein tlr1585.
+"Complete genome structure of the thermophilic cyanobacterium
+Thermosynechococcus elongatus BP-1.";
+-!- SIMILARITY: Belongs to the UPF0054 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

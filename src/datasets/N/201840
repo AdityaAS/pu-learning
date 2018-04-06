@@ -1,0 +1,29 @@
+AC   Q8CF97; Q7TNK5;
+Deubiquitinating protein VCIP135 (EC 3.4.22.-) (Valosin-containing
+protein p97/p47 complex-interacting protein p135) (Valosin-containing
+protein p97/p47 complex-interacting protein 1).
+"VCIP135, a novel essential factor for p97/p47-mediated membrane
+fusion, is required for Golgi and ER assembly in vivo.";
+"VCIP135 acts as a deubiquitinating enzyme during p97-p47-mediated
+reassembly of mitotic Golgi fragments.";
+-!- FUNCTION: Acts as a deubiquitinating enzyme. Necessary for VCP-
+    mediated reassembly of Golgi stacks after mitosis. May play a role
+    in VCP-mediated formation of transitional endoplasmic reticulum
+    (tER). Mediates dissociation of the ternary complex containing
+    STX5A, NSFL1C and VCP.
+-!- SUBUNIT: Binds VCP and the ternary complex containing STX5A,
+    NSFL1C and VCP.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum. Golgi apparatus;
+    Golgi stack. Note=Associated with Golgi stacks and endoplasmic
+    reticulum.
+-!- TISSUE SPECIFICITY: Widely expressed.
+-!- SIMILARITY: Contains 1 OTU domain.
+ GO:0004843; F:ubiquitin-specific protease activity; IDA:UniProtKB.
+ GO:0016320; P:endoplasmic reticulum membrane fusion; IDA:RGD.
+ GO:0007030; P:Golgi organization and biogenesis; IMP:RGD.
+ GO:0007067; P:mitosis; IMP:RGD.
+ GO:0006512; P:ubiquitin cycle; IDA:UniProtKB.
+Direct protein sequencing; Endoplasmic reticulum; Golgi apparatus;
+Hydrolase; Phosphorylation; Protease; Thiol protease;
+Ubl conjugation pathway.
+TMZERO

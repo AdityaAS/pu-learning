@@ -1,0 +1,15 @@
+AC   Q87B10;
+Tryptophanyl-tRNA synthetase (EC 6.1.1.2) (Tryptophan--tRNA ligase)
+(TrpRS).
+"Comparative analyses of the complete genome sequences of Pierce's
+disease and citrus variegated chlorosis strains of Xylella
+fastidiosa.";
+-!- CATALYTIC ACTIVITY: ATP + L-tryptophan + tRNA(Trp) = AMP +
+    diphosphate + L-tryptophyl-tRNA(Trp).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

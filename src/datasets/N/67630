@@ -1,0 +1,30 @@
+AC   P0C063; P14688; Q44928;
+Gramicidin S synthetase 2 (Gramicidin S synthetase II) [Includes: ATP-
+dependent proline adenylase (ProA) (Proline activase); ATP-dependent
+valine adenylase (ValA) (Valine activase); ATP-dependent ornithine
+adenylase (OrnA) (Ornithine activase); ATP-dependent leucine adenylase
+(LeuA) (Leucine activase)].
+"Four homologous domains in the primary structure of GrsB are related
+to domains in a superfamily of adenylate-forming enzymes.";
+"Gramicidin S biosynthesis operon containing the structural genes grsA
+and grsB has an open reading frame encoding a protein homologous to
+fatty acid thioesterases.";
+-!- FUNCTION: This protein is a multifunctional enzyme, able to
+    activate and polymerize the amino acids Pro, Val, Orn and Leu.
+    Activation sites for these AA consist of individual domains.
+-!- COFACTOR: Binds 4 phosphopantetheines covalently.
+-!- PATHWAY: Antibiotic biosynthesis; gramicidin S biosynthesis.
+-!- SUBUNIT: Large multienzyme complex of grsA and grsB.
+-!- DOMAIN: Consists of four modules, and harbors a putative
+    thioesterase domain at its C-terminal end. Each module
+    incorporates one amino acid into the peptide product and can be
+    further subdivided into domains responsible for substrate
+    adenylation, thiolation, condensation (not for the initiation
+    module), and epimerization (optional), and N methylation
+    (optional).
+-!- SIMILARITY: Belongs to the ATP-dependent AMP-binding enzyme
+    family.
+-!- SIMILARITY: Contains 4 acyl carrier domains.
+Antibiotic biosynthesis; Hydrolase; Ligase; Multifunctional enzyme;
+Phosphopantetheine; Repeat.
+TMZERO

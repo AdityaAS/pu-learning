@@ -1,0 +1,34 @@
+AC   P0ABN5; P04539; Q2M6G6;
+Anaerobic C4-dicarboxylate transporter dcuA.
+"Construction and properties of Escherichia coli mutants defective in
+two genes encoding homologous membrane proteins with putative roles in
+anaerobic C4-dicarboxylic acid transport.";
+"Escherichia coli possesses two homologous anaerobic C4-dicarboxylate
+membrane transporters (DcuA and DcuB) distinct from the aerobic
+dicarboxylate transport system (Dct).";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Cloning and nucleotide sequence of the aspartase gene of Escherichia
+coli W.";
+"Structural and functional relationships between fumarase and
+aspartase. Nucleotide sequences of the fumarase (fumC) and aspartase
+(aspA) genes of Escherichia coli K12.";
+"Nucleotide sequence of the FNR-regulated fumarase gene (fumB) of
+Escherichia coli K-12.";
+"Topological analysis of DcuA, an anaerobic C4-dicarboxylate
+transporter of Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Responsible for the transport of C4-dicarboxylates from
+    the periplasm across the inner membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the dcuA/dcuB transporter (TC 2.A.13.1)
+    family.
+-!- CAUTION: Ref.5 sequence differs from that shown due to a
+    frameshift in position 60.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTEN

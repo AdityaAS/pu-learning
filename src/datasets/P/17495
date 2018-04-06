@@ -1,0 +1,22 @@
+AC   P39843;
+Multidrug resistance protein 2 (Multidrug-efflux transporter 2).
+"Two highly similar multidrug transporters of Bacillus subtilis whose
+expression is differentially regulated.";
+"Systematic sequencing of the 283 kb 210 degrees-232 degrees region of
+the Bacillus subtilis genome containing the skin element and many
+sporulation genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Energy-dependent efflux pump responsible for decreased
+    drug accumulation in multi-drug-resistant cells. Probably uses a
+    transmembrane proton gradient as the energy source. Causes the
+    efflux of a variety of toxic substances, including such
+    structurally diverse compounds as ethidium bromide, rhodamine and
+    acridine dyes, tetraphenylphosphonium, puromycin, chloramphenicol,
+    doxorubicin, and fluoroquinolone antibiotics.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. TCR/tet
+    family.
+Antibiotic resistance; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMELEVEN

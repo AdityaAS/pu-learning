@@ -1,0 +1,13 @@
+AC   P42312;
+Hypothetical transport protein yxjA.
+"Sequencing of a 65 kb region of the Bacillus subtilis genome
+containing the lic and cel loci, and creation of a 177 kb contig
+covering the gnt-sacXY region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the SLC28A transporter family.
+Complete proteome; Hypothetical protein; Membrane; Transmembrane;
+Transport.
+TMELEVEN

@@ -1,0 +1,23 @@
+AC   P42954;
+Teichoic acids export ATP-binding protein tagH (EC 3.6.3.40) (Teichoic
+acid-transporting ATPase).
+"The tagGH operon of Bacillus subtilis 168 encodes a two-component ABC
+transporter involved in the metabolism of two wall teichoic acids.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Part of the ABC transporter complex tagGH involved in
+    teichoic acids export. Responsible for energy coupling to the
+    transport system.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + teichoic acid(In) = ADP +
+    phosphate + teichoic acid(Out).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (tagH) and two transmembrane proteins (tagG) (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Teichoic acids
+    exporter (TC 3.A.1.104.1) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0015438; F:teichoic-acid-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Membrane;
+Nucleotide-binding; Transport.
+TMZERO

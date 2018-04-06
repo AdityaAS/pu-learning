@@ -1,0 +1,53 @@
+AC   P16573;
+Carcinoembryonic antigen-related cell adhesion molecule 1 precursor
+(Cell-CAM 105) (C-CAM 105) (Ecto-ATPase) (ATP-dependent taurocolate-
+carrier protein) (GP110) (pp120).
+"Cloning and expression of a cDNA coding for a rat liver plasma
+membrane ecto-ATPase. The primary structure of the ecto-ATPase is
+similar to that of the human biliary glycoprotein I.";
+"Different isoforms and stock-specific variants of the cell adhesion
+molecule C-CAM (cell-CAM 105) in rat liver.";
+"Molecular cloning and expression of a new rat liver cell-CAM105
+isoform. Differential phosphorylation of isoforms.";
+"The cytoplasmic domain of C-CAM is required for C-CAM-mediated
+adhesion function: studies of a C-CAM transcript containing an
+unspliced intron.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The cell adhesion molecule Cell-CAM 105 is an ecto-ATPase and a
+member of the immunoglobulin superfamily.";
+"Characterisation of the ATP-dependent taurocholate-carrier protein
+(gp110) of the hepatocyte canalicular membrane.";
+"The rat liver ecto-ATPase is also a canalicular bile acid transport
+protein.";
+"pp120/ecto-ATPase, an endogenous substrate of the insulin receptor
+tyrosine kinase, is expressed as two variably spliced isoforms.";
+"Immunochemical characterization of two isoforms of rat liver ecto-
+ATPase that show an immunological and structural identity with a
+glycoprotein cell-adhesion molecule with Mr 105,000.";
+-!- FUNCTION: This protein is a calcium-independent cell adhesion
+    molecule with homophilic binding properties. May play a role in
+    the formation and maintenance of the specialized membrane
+    structure of the apical surface of the hepatocytes.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type I membrane
+    protein. Note=Canalicular domain of hepatocyte plasma membranes.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long;
+      IsoId=P16573-1; Sequence=Displayed;
+    Name=Short; Synonyms=C-CAM3;
+      IsoId=P16573-2; Sequence=VSP_002504, VSP_002505;
+-!- TISSUE SPECIFICITY: Expressed in epithelia, vessel endothelia,
+    leukocytes and platelets.
+-!- PTM: Phosphorylated on serine residues in both isoforms. On serine
+    and tyrosine residues in cytoplasmic region of the long isoform.
+-!- SIMILARITY: Belongs to the immunoglobulin superfamily. CEA family.
+-!- SIMILARITY: Contains 3 Ig-like C2-type (immunoglobulin-like)
+    domains.
+-!- SIMILARITY: Contains 1 Ig-like V-type (immunoglobulin-like)
+    domain.
+ GO:0043406; P:positive regulation of MAPK activity; IDA:MGI.
+Alternative splicing; Cell adhesion; Direct protein sequencing;
+Glycoprotein; Immunoglobulin domain; Membrane; Phosphorylation;
+Pyrrolidone carboxylic acid; Repeat; Signal; Transmembrane.
+TMONE

@@ -1,0 +1,17 @@
+AC   P56318;
+Photosystem Q(B) protein (32 kDa thylakoid membrane protein)
+(Photosystem II protein D1).
+"Complete nucleotide sequence of the chloroplast genome from the green
+alga Chlorella vulgaris: the existence of genes possibly involved in
+chloroplast division.";
+-!- FUNCTION: This is one of the two reaction center proteins of the
+    chloroplast photosystem II.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Herbicides such as atrazine, BNT, diuron or ioxynil
+    bind to Q(B) and blocks the electron transport.
+-!- SIMILARITY: Belongs to the reaction center pufL/M/psbA/D family.
+Chloroplast; Electron transport; Herbicide resistance; Iron; Membrane;
+Metal-binding; Photosynthesis; Photosystem II; Plastid; Thylakoid;
+Transmembrane; Transport.
+TMFIVE

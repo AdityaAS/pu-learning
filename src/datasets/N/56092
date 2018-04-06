@@ -1,0 +1,19 @@
+AC   P14190;
+K88 fimbrial protein AC precursor (K88 pilin) (K88 antigen).
+"Nucleotide sequences of four variants of the K88 gene of porcine
+enterotoxigenic Escherichia coli.";
+"The nucleotide sequence of the protein subunit of the K88ac fimbriae
+of porcine enterotoxigenic Escherichia coli.";
+"Cloning of DNA sequences encoding foreign peptides and their
+expression in the K88 pili.";
+-!- FUNCTION: K88 major fimbrial subunit. Fimbriae (also called pili),
+    are polar filaments radiating from the surface of the bacterium to
+    a length of 0.5-1.5 micrometers and numbering 100-300 per cell.
+    They enable bacteria to colonize the epithelium of specific host
+    organs.
+-!- SUBUNIT: K88 fimbria, 0.1-1 micrometer in length and 7 nanometers
+    in diameter, is composed of about 100 identical subunits.
+-!- MISCELLANEOUS: The protein exists in several antigenic variants.
+-!- SIMILARITY: Belongs to the fimbrial K88 protein family.
+Fimbria; Plasmid; Signal.
+TMZERO

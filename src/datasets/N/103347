@@ -1,0 +1,9 @@
+AC   P60399;
+S-adenosyl-methyltransferase mraW (EC 2.1.1.-).
+"Cell division gene cluster in Spiroplasma kunkelii: functional
+characterization of ftsZ and the first report of ftsA in mollicutes.";
+-!- FUNCTION: Exhibits a S-adenosyl-dependent methyltransferase
+    activity (By similarity).
+-!- SIMILARITY: Belongs to the mraW family.
+Methyltransferase; Transferase.
+TMZERO

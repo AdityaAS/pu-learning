@@ -1,0 +1,44 @@
+AC   Q96303;
+Inorganic phosphate transporter 1-4 (AtPht1;4) (H(+)/Pi
+cotransporter).
+"Phosphate transporters from the higher plant Arabidopsis thaliana.";
+"Cloning of Arabidopsis thaliana phosphate transporter gene, AtPT2.";
+"Phosphate transporter gene family of Arabidopsis thaliana.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Expression analysis suggests novel roles for members of the Pht1
+family of phosphate transporters in Arabidopsis.";
+"Phosphite, an analog of phosphate, suppresses the coordinated
+expression of genes under phosphate starvation.";
+"Regulated expression of Arabidopsis phosphate transporters.";
+"Phosphoproteomics of the Arabidopsis plasma membrane and a new
+phosphorylation site database.";
+"Phosphate transport in Arabidopsis: Pht1;1 and Pht1;4 play a major
+role in phosphate acquisition from both low- and high-phosphate
+environments.";
+"Transcriptional regulation and functional properties of Arabidopsis
+Pht1;4, a high affinity transporter contributing greatly to phosphate
+uptake in phosphate deprived plants.";
+-!- FUNCTION: High-affinity transporter for external inorganic
+    phosphate. Acts as a H(+):phosphate symporter in both low- and
+    high-Pi conditions. Confers sensitivity to arsenate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Mostly expressed in roots, in tissues
+    connecting the lateral roots to the primary root. Also present in
+    flowers, in senescing anther filaments and in the abscission zone
+    at the base of siliques. Expressed in hydathodes and axillary
+    buds, and in some senescing leaves. After Pi starvation, localized
+    in all cells of undifferentiated root segments, including root
+    tips and root hairs, and in the epidermis, cortex and stellar
+    regions of mature root segments.
+-!- INDUCTION: In roots by phosphate starvation. Repressed by the Pi
+    analog phosphite (Phi).
+-!- MISCELLANEOUS: Although related to the sugar transporter family,
+    it does not transport sugars.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family. H(+):phosphate symporter
+    (TC 2.A.1.9) subfamily.
+Membrane; Phosphate transport; Phosphorylation; Symport;
+Transmembrane; Transport.
+TMTWELVE

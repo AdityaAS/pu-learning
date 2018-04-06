@@ -1,0 +1,18 @@
+AC   Q52814; Q1MH73;
+General L-amino acid transport system permease protein aapM.
+"The general L-amino acid permease of Rhizobium leguminosarum is an
+ABC uptake system that also influences efflux of solutes.";
+"The genome of Rhizobium leguminosarum has recognizable core and
+accessory components.";
+-!- FUNCTION: Part of a binding-protein-dependent transport system for
+    L-amino acids, affects the uptake as well as efflux of these amino
+    acids. Probably responsible for the translocation of the substrate
+    across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMEIGHT

@@ -1,0 +1,19 @@
+AC   P23200; Q2MAT1;
+Galactoside transport system permease protein mglC.
+"Nucleotide sequence and analysis of the mgl operon of Escherichia
+coli K12.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for galactoside. Probably responsible for the translocation of the
+    substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. AraH/rbsC subfamily.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMEIGHT

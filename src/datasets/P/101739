@@ -1,0 +1,21 @@
+AC   Q12372;
+S-methylmethionine permease 1.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Transport of sulfonium compounds. Characterization of the s-
+adenosylmethionine and s-methylmethionine permeases from the yeast
+Saccharomyces cerevisiae.";
+"Global analysis of protein localization in budding yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High-affinity S-methylmethionine (SMM) permease,
+    required for utilization of S-methylmethionine as a sulfur source.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+    Endoplasmic reticulum.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0000100; F:S-methylmethionine transporter activity; IMP:SGD.
+ GO:0015806; P:S-methylmethionine transport; IMP:SGD.
+Amino-acid transport; Complete proteome; Endoplasmic reticulum;
+Membrane; Transmembrane; Transport.
+TMTWELVE

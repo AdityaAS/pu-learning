@@ -1,0 +1,32 @@
+AC   O08999; Q8C6W9;
+Latent-transforming growth factor beta-binding protein 2 precursor
+(LTBP-2).
+"8-cysteine TGF-BP structural motifs are the site of covalent binding
+between mouse LTBP-3, LTBP-2, and latent TGF-beta 1.";
+"The transcriptional landscape of the mammalian genome.";
+"Latent transforming growth factor-beta binding proteins (LTBPs) --
+structural extracellular matrix proteins for targeting TGF-beta
+action.";
+"The latent transforming growth factor beta binding protein (LTBP)
+family.";
+-!- FUNCTION: May play an integral structural role in elastic-fiber
+    architectural organization and/or assembly. May be involved in the
+    assembly, secretion and targeting of TGF- beta to sites at which
+    it is stored and/or activated. May play critical roles in
+    controlling and directing the activity of TGF-beta. May have a
+    structural role in the extra cellular matrix (ECM).
+-!- SUBUNIT: Forms part of the large latent transforming growth factor
+    beta precursor complex; removal is essential for activation of
+    complex (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+    Note=Localized in nuchal ligament and aorta to the fibrillin-
+    containing, microfibrillar component of elastic fibers (By
+    similarity).
+-!- DOMAIN: Associates covalently with small latent TGF-beta complex
+    via Repeat B and Repeat C.
+-!- PTM: Contains hydroxylated asparagine residues (By similarity).
+-!- SIMILARITY: Belongs to the LTBP family.
+-!- SIMILARITY: Contains 20 EGF-like domains.
+EGF-like domain; Glycoprotein; Growth factor binding; Hydroxylation;
+Repeat; Signal.
+TMZERO

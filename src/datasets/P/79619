@@ -1,0 +1,83 @@
+AC   Q7BCK4; Q52298; Q6WE27; Q99Q93;
+Outer membrane protein icsA precursor.
+"virG, a plasmid-coded virulence gene of Shigella flexneri:
+identification of the virG protein and determination of the complete
+coding sequence.";
+"The virulence plasmid pWR100 and the repertoire of proteins secreted
+by the type III secretion apparatus of Shigella flexneri.";
+"Complete DNA sequence and analysis of the large virulence plasmid of
+Shigella flexneri.";
+"Comparison of two major forms of the Shigella virulence plasmid pINV:
+positive selection is a major force driving the divergence.";
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Unipolar localization and ATPase activity of IcsA, a Shigella
+flexneri protein involved in intracellular movement.";
+"Cleavage of Shigella surface protein VirG occurs at a specific site,
+but the secretion is not essential for intracellular spreading.";
+"A dual transcriptional activation system for the 230 kb plasmid genes
+coding for virulence-associated antigens of Shigella flexneri.";
+"Identification of icsA, a plasmid locus of Shigella flexneri that
+governs bacterial intra- and intercellular spread through interaction
+with F-actin.";
+"Phosphorylation of IcsA by cAMP-dependent protein kinase and its
+effect on intracellular spread of Shigella flexneri.";
+"Extracellular transport of VirG protein in Shigella.";
+"Neural Wiskott-Aldrich syndrome protein is implicated in the actin-
+based motility of Shigella flexneri.";
+"Activation of the CDC42 effector N-WASP by the Shigella flexneri IcsA
+protein promotes actin nucleation by Arp2/3 complex and bacterial
+actin-based motility.";
+"The unipolar Shigella surface protein IcsA is targeted directly to
+the bacterial old pole: IcsP cleavage of IcsA occurs over the entire
+bacterial surface.";
+"Polar targeting of Shigella virulence factor IcsA in
+Enterobacteriacae and Vibrio.";
+"IcsA, a polarly localized autotransporter with an atypical signal
+peptide, uses the Sec apparatus for secretion, although the Sec
+apparatus is circumferentially distributed.";
+"Escape of intracellular Shigella from autophagy.";
+-!- FUNCTION: Essential for bacterial spreading by eliciting polar
+    deposition of filamentous actin (actin-based motility). Inside the
+    host cell mediates nucleation and polymerization of actin
+    molecules on the bacterial surface, which provides the propulsive
+    force for intracellular movement and intercellular dissemination
+    of the bacterium. During invasion of mammalian cells, triggers
+    autophagy by binding to APG5L. Interaction with icsB leads to
+    escape from the autophagic host defense system. Also binds ATP and
+    displays weak ATPase activity.
+-!- SUBUNIT: Forms a ternary complex with host WASL (neural Wiskott-
+    Aldrich syndrome protein) and ARP2/3. IcsA enhances the affinity
+    of WASL for ARP2/3, thus assembling a tight complex which has
+    maximal activity in actin assembly. Also binds directly to host
+    vinculin, which may serve as an actin filament recruiter.
+-!- SUBCELLULAR LOCATION: Note=Integral membrane protein. Outer
+    membrane protein localized as a cap over the old pole of the
+    bacterial surface.
+-!- INDUCTION: Transcriptionally regulated by virF.
+-!- DOMAIN: The signal peptide, cleaved at the inner membrane, guides
+    icsA to the periplasmic space. Then, insertion of the beta domain
+    (or autotransporter domain) in the outer membrane forms a beta
+    barrel channel structure for the translocation of the alpha domain
+    to the bacterial cell surface. The alpha domain is cleaved by icsP
+    (sopA) and released into the extracellular medium. This cleavage
+    is important for the maintenance of the sharply polarized
+    distribution of icsA but is not a prerequisite for intracellular
+    spreading.
+-!- DOMAIN: The glycine-rich domain interacts with the WASL CRIB
+    domain.
+-!- PTM: Phosphorylated by host cAMP-dependent protein kinase, which
+    may represent a host defense mechanism during the invasion
+    process.
+-!- MISCELLANEOUS: Secretion across inner membrane is dependent on the
+    secA and secYEG apparatus. However, the polar localization comes
+    before secretion and is independent of secA.
+-!- MISCELLANEOUS: Deletion experiments show that amino acids 58-103,
+    505-537 and 507-729 are required for polar localization and that
+    amino acids 102-779 are responsible for interaction with APG5L and
+    icsB.
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+Complete proteome; Direct protein sequencing; Membrane;
+Outer membrane; Phosphorylation; Plasmid; Signal; Transmembrane;
+Virulence.
+TMFIFTEEN

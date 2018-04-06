@@ -1,0 +1,16 @@
+AC   O88910;
+MAGUK p55 subfamily member 3 (Protein MPP3) (Dlgh3 protein).
+"cDNA sequence and chromosomal localization of mouse Dlgh3 gene
+adjacent to the BRCA1 tumor suppressor locus.";
+"The serotonin 5-HT2A and 5-HT2C receptors interact with specific sets
+of PDZ proteins.";
+-!- SUBUNIT: May interact with HTR2A.
+-!- TISSUE SPECIFICITY: Expressed in brain, skeletal muscle, testis,
+    kidney, and lung.
+-!- SIMILARITY: Belongs to the MAGUK family.
+-!- SIMILARITY: Contains 1 guanylate kinase-like domain.
+-!- SIMILARITY: Contains 2 L27 domains.
+-!- SIMILARITY: Contains 1 PDZ (DHR) domain.
+-!- SIMILARITY: Contains 1 SH3 domain.
+Repeat; SH3 domain.
+TMZERO

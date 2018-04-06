@@ -1,0 +1,30 @@
+AC   Q48943; Q46CY9;
+Molybdenum-containing formylmethanofuran dehydrogenase 1 subunit C
+(EC 1.2.99.5) (Molybdenum-containing formylmethanofuran dehydrogenase
+I subunit C).
+"A polyferredoxin with eight [4Fe-4S] clusters as a subunit of
+molybdenum formylmethanofuran dehydrogenase from Methanosarcina
+barkeri.";
+"The Methanosarcina barkeri genome: comparative analysis with
+Methanosarcina acetivorans and Methanosarcina mazei reveals extensive
+rearrangement within methanosarcinal genomes.";
+"Formylmethanofuran dehydrogenases from methanogenic Archaea.
+Substrate specificity, EPR properties and reversible inactivation by
+cyanide of the molybdenum or tungsten iron-sulfur proteins.";
+-!- FUNCTION: Catalyzes the reversible oxidation of CO(2) and
+    methanofuran (MFR) to N-formylmethanofuran (CHO-MFR). Can use N-
+    furfurylformamide, formamide, N-methylformamide, and formate as
+    substrates. This enzyme is oxygen-labile.
+-!- CATALYTIC ACTIVITY: Formylmethanofuran + H(2)O + acceptor = CO(2)
+    + methanofuran + reduced acceptor.
+-!- COFACTOR: Molybdenum.
+-!- ENZYME REGULATION: Inactivated by cyanide.
+-!- PATHWAY: Methanogenesis; first step.
+-!- SUBUNIT: This enzyme is composed of six subunits; fmdA (65 kDa),
+    fmdB (50 kDa), fmdC (34 kDa), fmdD (17 kDa), fmdE (23 kDa) and
+    fmdF (37 kDa).
+-!- INDUCTION: By growth on molybdenum, under anaerobic conditions.
+-!- SIMILARITY: Belongs to the fwdC/fmdC family.
+Complete proteome; Direct protein sequencing; Methanogenesis;
+Molybdenum; Oxidoreductase; Repeat.
+TMZERO

@@ -1,0 +1,10 @@
+AC   P04671;
+Nodulin C51 precursor.
+"Expression of host genes during root nodule development in
+soybeans.";
+-!- FUNCTION: Involved in the infection process during the plant-
+    rhizobium interaction.
+-!- SIMILARITY: Belongs to the nodulin 20 family.
+-!- CAUTION: It is uncertain whether Met-1 or Met-4 is the initiator.
+Nodulation; Signal.
+TMZERO

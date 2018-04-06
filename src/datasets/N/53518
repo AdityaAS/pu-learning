@@ -1,0 +1,18 @@
+AC   Q67WR5;
+Putative GDP-L-fucose synthase 2 (EC 1.1.1.271) (GDP-4-keto-6-deoxy-D-
+mannose-3, 5-epimerase-4-reductase 2).
+"Oryza sativa nipponbare chromosome 6 genomic DNA sequence.";
+-!- FUNCTION: Two step NADP-dependent conversion of GDP-4-dehydro-6-
+    deoxy-D-mannose to GDP-fucose, involving an epimerase and a
+    reductase reaction (By similarity).
+-!- CATALYTIC ACTIVITY: GDP-L-fucose + NADP(+) = GDP-4-dehydro-6-
+    deoxy-D-mannose + NADPH.
+-!- PATHWAY: Carbohydrate biosynthesis; GDP-L-fucose biosynthesis via
+    de novo pathway; GDP-L-fucose from GDP-D-mannose: step 2 [final
+    step].
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the fucose synthetase family.
+ GO:0050577; F:GDP-L-fucose synthase activity; IEA:EC.
+Hypothetical protein; Isomerase; Multifunctional enzyme; NADP;
+Oxidoreductase.
+TMZERO

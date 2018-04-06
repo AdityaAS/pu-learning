@@ -1,0 +1,13 @@
+AC   Q6HPW9;
+Putative septation protein spoVG (Stage V sporulation protein G).
+"Pathogenomic sequence analysis of Bacillus cereus and Bacillus
+thuringiensis isolates closely related to Bacillus anthracis.";
+-!- FUNCTION: Essential for sporulation. Interferes with or is a
+    negative regulator of the pathway leading to asymmetric septation
+    (By similarity).
+-!- SIMILARITY: Belongs to the spoVG family.
+ GO:0000917; P:barrier septum formation; IEA:HAMAP.
+ GO:0007049; P:cell cycle; IEA:HAMAP.
+ GO:0030436; P:sporulation (sensu Bacteria); IEA:HAMAP.
+Cell cycle; Cell division; Complete proteome; Septation; Sporulation.
+TMZERO

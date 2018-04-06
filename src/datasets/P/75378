@@ -1,0 +1,11 @@
+AC   P15321;
+Hemolysin activator protein precursor.
+"Molecular characterization of the hemolysin determinant of Serratia
+marcescens.";
+-!- FUNCTION: Interacts with the cell-bound hemolysin. Necessary for
+    the extracellular secretion and activation of hemolysin.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: Belongs to the peptidase M19 family.
+Cytolysis; Direct protein sequencing; Hemolysis; Membrane;
+Outer membrane; Signal; Transmembrane.
+TMONE

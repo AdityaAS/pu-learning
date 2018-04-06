@@ -1,0 +1,19 @@
+AC   P15113;
+Metallothionein-1 (MT-1) (Metallothionein-I) (MT-I).
+"Candida glabrata metallothioneins. Cloning and sequence of the genes
+and characterization of proteins.";
+"Genome evolution in yeasts.";
+"Metal-specific synthesis of two metallothioneins and gamma-glutamyl
+peptides in Candida glabrata.";
+-!- FUNCTION: The metallothioneins are involved in the cellular
+    sequestration of toxic metal ions.
+-!- INDUCTION: Both MT-I and MT-II genes are regulated by copper ion
+    in a concentration-dependent fashion, and both are inducible by
+    silver but not by cadmium salts.
+-!- MISCELLANEOUS: MT-I might bind approximately 11-12 mol eq of
+    Cu(+).
+-!- SIMILARITY: Belongs to the metallothionein superfamily. Type 9
+    family.
+Complete proteome; Copper; Direct protein sequencing; Metal-binding;
+Metal-thiolate cluster; Repeat.
+TMZERO

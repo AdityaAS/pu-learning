@@ -1,0 +1,14 @@
+AC   P28540;
+Preprotein translocase secY subunit.
+"Characterisation of a chloroplast-encoded secY homologue and atpH
+from a chromophytic alga. Evidence for a novel chloroplast genome
+organisation.";
+-!- FUNCTION: Involved in protein export. Probably interacts with
+    other proteins to allow the translocation of proteins across the
+    chloroplast endoplasmic reticulum (CER) membranes.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the secY/SEC61-alpha family.
+Chloroplast; Membrane; Plastid; Protein transport; Translocation;
+Transmembrane; Transport.
+TMTEN

@@ -1,0 +1,28 @@
+AC   P08482;
+Muscarinic acetylcholine receptor M1.
+"Identification of a family of muscarinic acetylcholine receptor
+genes.";
+"The molecular properties of the M1 muscarinic receptor and its
+regulation of cytosolic calcium in a eukaryotic gene expression
+system.";
+"Muscarinic acetylcholine receptors. Peptide sequencing identifies
+residues involved in antagonist binding and disulfide bond
+formation.";
+"Site-directed mutagenesis of the rat m1 muscarinic acetylcholine
+receptor. Role of conserved cysteines in receptor function.";
+-!- FUNCTION: The muscarinic acetylcholine receptor mediates various
+    cellular responses, including inhibition of adenylate cyclase,
+    breakdown of phosphoinositides and modulation of potassium
+    channels through the action of G proteins. Primary transducing
+    effect is Pi turnover.
+-!- SUBUNIT: Interacts with GPRASP2 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+ GO:0045202; C:synapse; TAS:RGD.
+ GO:0004981; F:muscarinic acetylcholine receptor activity; IDA:RGD.
+ GO:0007213; P:acetylcholine receptor signaling, muscarini...; IDA:RGD.
+ GO:0007274; P:neuromuscular synaptic transmission; IDA:RGD.
+Direct protein sequencing; G-protein coupled receptor; Glycoprotein;
+Membrane; Phosphorylation; Postsynaptic membrane; Receptor;
+Transducer; Transmembrane.
+TMSEVEN

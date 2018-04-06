@@ -1,0 +1,13 @@
+AC   Q72KE0;
+Ribosome recycling factor (Ribosome-releasing factor) (RRF).
+"The genome sequence of the extreme thermophile Thermus
+thermophilus.";
+-!- FUNCTION: Responsible for the release of ribosomes from messenger
+    RNA at the termination of protein biosynthesis. May increase the
+    efficiency of translation by recycling ribosomes from one round of
+    translation to another (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the RRF family.
+ GO:0006415; P:translational termination; IEA:HAMAP.
+Complete proteome; Protein biosynthesis.
+TMZERO

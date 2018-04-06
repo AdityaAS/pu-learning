@@ -1,0 +1,23 @@
+AC   P12227;
+DNA-directed RNA polymerase beta'' chain (EC 2.7.7.6) (PEP) (Plastid-
+encoded RNA polymerase beta'' subunit) (RNA polymerase beta'' subunit)
+(Fragment).
+"Pea chloroplast DNA encodes homologues of Escherichia coli ribosomal
+subunit S2 and the beta'-subunit of RNA polymerase.";
+-!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+    of DNA into RNA using the four ribonucleoside triphosphates as
+    substrates.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: In plastids the minimal PEP RNA polymerase catalytic core
+    is composed of four subunits: alpha, beta, beta', and beta''. When
+    a (nuclear-encoded) sigma factor is associated with the core the
+    holoenzyme is formed, which can initiate transcription (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the RNA polymerase beta' chain family.
+    RpoC2 subfamily.
+ GO:0006351; P:transcription, DNA-dependent; IEA:HAMAP.
+Chloroplast; DNA-directed RNA polymerase; Nucleotidyltransferase;
+Plastid; Transcription; Transferase.
+TMZERO

@@ -1,0 +1,47 @@
+AC   P77272;
+PTS system N-acetylmuramic acid-specific EIIBC component (EIIBC-
+MurNAc) [Includes: N-acetylmuramic acid-specific phosphotransferase
+enzyme IIB component (EC 2.7.1.69) (PTS system N-acetylmuramic acid-
+specific EIIB component); N-acetylmuramic acid permease IIC component
+(PTS system N-acetylmuramic acid-specific EIIC component)].
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of a phosphotransferase system of Escherichia coli
+required for growth on N-acetylmuramic acid.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"MurQ etherase is required by Escherichia coli in order to metabolize
+anhydro-N-acetylmuramic acid obtained either from the environment or
+from its own cell wall.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in N-acetylmuramic acid (MurNAc)
+    transport, yielding cytoplasmic MurNAc-6-P. Is responsible for
+    growth on MurNAc as the sole source of carbon and energy. Is also
+    able to take up anhydro-N-acetylmuramic acid (anhMurNAc), but
+    cannot phosphorylate the carbon 6, probably because of the 1,6-
+    anhydro ring.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- MISCELLANEOUS: The PTS domain EIIA required for activity was shown
+    to be the crr-encoded enzyme IIA-glucose, EIIA-Glc.
+-!- SIMILARITY: Contains 1 PTS EIIB type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-1 domain.
+Complete proteome; Inner membrane; Membrane; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase;
+Transmembrane; Transport.
+TMTEN

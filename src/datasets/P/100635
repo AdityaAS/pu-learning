@@ -1,0 +1,34 @@
+AC   P0AAG8; P23199; P76442; Q2MAT0;
+Galactose/methyl galactoside import ATP-binding protein mglA
+(EC 3.6.3.17).
+"Nucleotide sequence and analysis of the mgl operon of Escherichia
+coli K12.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Sequence of the mglB gene from Escherichia coli K12: comparison of
+wild-type and mutant galactose chemoreceptors.";
+"Close linkage between a galactose binding protein and the beta-
+methylgalactoside permease in Escherichia coli.";
+"Identification of the mglA gene product in the beta-methylgalactoside
+transport system of Escherichia coli using plasmid DNA deletions
+generated in vitro.";
+"Characterization of the mgl operon of Escherichia coli by transposon
+mutagenesis and molecular cloning.";
+-!- FUNCTION: Part of the ABC transporter complex mglABC involved in
+    galactose/methyl galactoside import. Responsible for energy
+    coupling to the transport system (Probable).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + monosaccharide(Out) = ADP +
+    phosphate + monosaccharide(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (mglA), two transmembrane proteins (mglC) and a solute-binding
+    protein (mglB) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+    Galactose/methyl galactoside importer (TC 3.A.1.2.3) subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0015407; F:monosaccharide-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Nucleotide-binding; Repeat; Sugar transport; Transport.
+TMZERO

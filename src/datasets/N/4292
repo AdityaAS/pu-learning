@@ -1,0 +1,18 @@
+AC   P20796; Q49286;
+Adhesin P1 precursor (Cytadhesin P1) (Attachment protein) (MgPa).
+"DNA and protein sequence homologies between the adhesins of
+Mycoplasma genitalium and Mycoplasma pneumoniae.";
+"Nucleotide sequence of the MgPa (mgp) operon of Mycoplasma genitalium
+and comparison to the P1 (mpp) operon of Mycoplasma pneumoniae.";
+"The minimal gene complement of Mycoplasma genitalium.";
+"A random sequencing approach for placing markers on the physical map
+of Mycoplasma genitalium.";
+"A survey of the Mycoplasma genitalium genome by using random
+sequencing.";
+-!- FUNCTION: The protein is the major adhesin mediating the
+    attachment of this mycoplasma to the ciliated epithelium.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type I membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the adhesin P1 family.
+Complete proteome; Cytadherence; Membrane; Signal; Transmembrane.
+TMONE

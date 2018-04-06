@@ -1,0 +1,49 @@
+AC   Q9IA95; Q4U3E3;
+Secreted frizzled-related protein 3 precursor (sFRP-3) (Frizzled-
+related protein 1) (FrzB-1).
+"Cloning and expression of the Wnt antagonists Sfrp-2 and Frzb during
+chick development.";
+"Differential inhibition of Wnt-3a by Sfrp-1, Sfrp-2, and Sfrp-3.";
+"The Wnt antagonist Frzb-1 regulates chondrocyte maturation and long
+bone development during limb skeletogenesis.";
+-!- FUNCTION: Soluble frizzled-related proteins (sFRPS) function as
+    modulators of Wnt signaling through direct interaction with Wnts.
+    They have a role in regulating cell growth and differentiation in
+    specific cell types. SFRP3/FRZB appears to be involved in limb
+    skeletogenesis. Antagonist of Wnt8 signaling. Regulates
+    chondrocyte maturation and long bone development.
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- DEVELOPMENTAL STAGE: At stage 7 of embryonic development,
+    expressed in the neural plate with lower expression in the
+    midline. At stage 9, expression restricted to the dorsal neural
+    tube and cranial neural crest. At stage 12, expressed in the
+    lateral plate mesoderm. In the developing trunk, expressed, from
+    stages 9-12, in the ventral migrating neural crest with some
+    expression at stage 12 in the dorsal streams From stage 15,
+    expressed in the endocardial cells of the outflow tract of the
+    developing heart. From stage 18, expression found in the
+    epibranchial placodes, in endocardial and mesenchymal cells of the
+    developing atrioventricular canal and of the outflow tract
+    cushions. Expression in these regions of the developing heart
+    continue until stage 26. During limb development, low expression
+    found, by stage 18, in the developing limb buds, By stage 20,
+    highly expressed in the ventral mesenchyme of both fore- and hind-
+    limb buds. By stage 24, expression localized to the central core
+    of the developing limb bud, which contains the chondrogenic
+    precursors. Also expressed in the surrounding nonchondrogenic
+    mesenchyme. Later expression confined to the perichondrium and to
+    the epiphyses of the early developing skeletal elements.
+-!- DOMAIN: The FZ domain is involved in binding with Wnt ligands (By
+    similarity).
+-!- SIMILARITY: Belongs to the secreted frizzled-related protein
+    (sFRP) family.
+-!- SIMILARITY: Contains 1 FZ (frizzled) domain.
+-!- SIMILARITY: Contains 1 NTR domain.
+ GO:0005576; C:extracellular region; ISS:AgBase.
+ GO:0016020; C:membrane; ISS:AgBase.
+ GO:0017147; F:Wnt-protein binding; ISS:AgBase.
+ GO:0030178; P:negative regulation of Wnt receptor signali...; ISS:AgBase.
+ GO:0001501; P:skeletal development; ISS:AgBase.
+Developmental protein; Differentiation; Glycoprotein; Signal;
+Wnt signaling pathway.
+TMZERO

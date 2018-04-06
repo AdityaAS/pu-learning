@@ -1,0 +1,15 @@
+AC   Q8G0F5;
+Anthranilate phosphoribosyltransferase (EC 2.4.2.18).
+"The Brucella suis genome reveals fundamental similarities between
+animal and plant pathogens and symbionts.";
+-!- CATALYTIC ACTIVITY: N-(5-phospho-D-ribosyl)-anthranilate +
+    diphosphate = anthranilate + 5-phospho-alpha-D-ribose 1-
+    diphosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-tryptophan biosynthesis; L-
+    tryptophan from chorismate: step 2.
+-!- SIMILARITY: Belongs to the anthranilate phosphoribosyltransferase
+    family.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Complete proteome; Glycosyltransferase; Transferase;
+Tryptophan biosynthesis.
+TMZERO

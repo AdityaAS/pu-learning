@@ -1,0 +1,13 @@
+AC   P0C105; Q44623; Q579Q5;
+Glucose/galactose transporter.
+"Completion of the genome sequence of Brucella abortus and comparison
+to the highly similar genomes of Brucella melitensis and Brucella
+suis.";
+-!- FUNCTION: Intake of glucose and galactose (Potential).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. FHS
+    transporter (TC 2.A.1.7) family.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMELEVEN

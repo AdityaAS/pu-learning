@@ -1,0 +1,34 @@
+AC   Q9SK02; Q5H793; Q5H794; Q5K4Q0;
+DNA repair protein RAD51 homolog 2 (AtRAD51B).
+"A study of RAD51 homologues from Arabidopsis.";
+"Arabidopsis Rad51B is important for double-strand DNA breaks repair
+in somatic cells.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+-!- FUNCTION: May be involved in the homologous recombination repair
+    (HRR) pathway of double-stranded DNA breaks arising during DNA
+    replication or induced by DNA-damaging agents (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=RAD51Balpha;
+      IsoId=Q9SK02-1; Sequence=Displayed;
+    Name=2; Synonyms=RAD51Bbeta;
+      IsoId=Q9SK02-2; Sequence=VSP_016462, VSP_016463, VSP_016464;
+    Name=3; Synonyms=RAD51Bbeta;
+      IsoId=Q9SK02-3; Sequence=VSP_016465;
+      Note=May be due to an intron retention. No experimental
+      confirmation available. Ref.1 sequence is in conflict in
+      positions: 362:PDY->FKD;
+-!- TISSUE SPECIFICITY: Preferentiallly expressed in flower buds and
+    roots.
+-!- INDUCTION: Induced by ionizing irradiation and treatment with a
+    cross-linking reagent, cisplatin.
+-!- SIMILARITY: Belongs to the recA family. RAD51 subfamily.
+-!- CAUTION: Ref.1 (CAD70704) sequence differs from that shown due to
+    frameshifts in positions 9 and 18.
+-!- CAUTION: Ref.3 sequence differs from that shown due to erroneous
+    gene model prediction.
+Alternative splicing; ATP-binding; DNA damage; DNA recombination;
+DNA repair; DNA-binding; Nuclear protein; Nucleotide-binding.
+TMZERO

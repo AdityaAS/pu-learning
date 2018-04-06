@@ -1,0 +1,23 @@
+AC   Q54957;
+Lantibiotic streptococcin A-M49 precursor (Antibacterial peptide A-
+M49).
+"Duplication of the lantibiotic structural gene in M-type 49 group A
+streptococcus strains producing streptococcin A-M49.";
+-!- FUNCTION: Lanthionine-containing peptide antibiotic (lantibiotic)
+    active on certain Gram-positive bacteria. The bactericidal
+    activity of lantibiotics is based on depolarization of energized
+    bacterial cytoplasmic membranes, initiated by the formation of
+    aqueous transmembrane pores (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space (By
+    similarity). Cell surface (By similarity). Note=Either cell
+    associated or in a released extracellular form (By similarity).
+-!- PTM: Maturation of lantibiotics involves the enzymic conversion of
+    Thr, and Ser into dehydrated AA and the formation of thioether
+    bonds with cysteine. This is followed by membrane translocation
+    and cleavage of the modified precursor (By similarity).
+-!- MISCELLANEOUS: There are two genes coding for lantibiotic
+    streptococcin A-M49, their coding sequences only differ in the
+    propeptide region.
+-!- SIMILARITY: Belongs to the type A lantibiotic family.
+Antibiotic; Antimicrobial; Bacteriocin; Lantibiotic; Thioether bond.
+TMZERO

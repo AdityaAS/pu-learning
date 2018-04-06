@@ -1,0 +1,17 @@
+AC   P02915;
+Histidine transport ATP-binding protein hisP.
+"Complete nucleotide sequence and identification of membrane
+components of the histidine transport operon of S. typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Crystal structure of the ATP-binding subunit of an ABC transporter.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for histidine. Probably responsible for energy coupling to the
+    transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+3D-structure; Amino-acid transport; ATP-binding; Complete proteome;
+Inner membrane; Membrane; Nucleotide-binding; Transport.
+TMZERO

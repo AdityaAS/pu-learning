@@ -1,0 +1,11 @@
+AC   Q722D6;
+UPF0266 membrane protein LMOf2365_0797.
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the UPF0266 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Membrane; Transmembrane.
+THTHREE

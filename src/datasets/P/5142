@@ -1,0 +1,59 @@
+AC   Q38998; Q38797; Q84MA7;
+Potassium channel AKT1.
+"Cloning and expression in yeast of a plant potassium ion transport
+system.";
+"Organization and expression of the gene coding for the potassium
+transport system AKT1 of Arabidopsis thaliana.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Tissue-specific expression of Arabidopsis AKT1 gene is consistent
+with a role in K+ nutrition.";
+"Tetramerization of the AKT1 plant potassium channel involves its C-
+terminal cytoplasmic domain.";
+"A role for the AKT1 potassium channel in plant nutrition.";
+"Phylogenetic relationships within cation transporter families of
+Arabidopsis.";
+"Regulated expression of Arabidopsis shaker K(+) channel genes
+involved in K(+) uptake and distribution in the plant.";
+-!- FUNCTION: Highly selective inward-rectifying potassium channel
+    that could mediate potassium uptake by plant roots. Assuming
+    opened or closed conformations in response to the voltage
+    difference across the membrane, the channel is activated by
+    hyperpolarization. May interact with the cytoskeleton or with
+    regulatory proteins.
+-!- SUBUNIT: The potassium channel is probably composed of a homo- or
+    heterotetrameric complex of pore-forming subunits. Possible
+    heteromultimer with AKT2 or KAT3.
+-!- INTERACTION:
+    Q93VD3:CIPK23; NbExp=1; IntAct=EBI-974289, EBI-974277;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Preferentially expressed in the peripheral
+    cell layers of root mature including root cortex and root hairs.
+    Detected also, at a lower level, in the mesophyll of the leaves
+    and at restricted sites corresponding to hydathodes and guard
+    cells.
+-!- INDUCTION: In roots, strongly reduced after 2,4-
+    dichlorophenoxyacetic acid (2,4-D) treatment and weakly reduced
+    after benzyladenine (BA) treatment. In shoots, strongly reduced
+    after abscisic acid (ABA) treatment and induced after
+    benzyladenine (BA) treatment.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids. The
+    pore-forming region H5 is enclosed by the transmembrane segments
+    S5 and S6 in the Shaker-type (1P/6TM) and contains the GYGD
+    signature motif which seems to be involved in potassium
+    selectivity.
+-!- DOMAIN: The KHA domain (rich in hydrophobic and acidic residues)
+    present in the C-terminal part is likely to be important for
+    tetramerization.
+-!- SIMILARITY: Belongs to the potassium channel (TC 1.A.1.4) family.
+-!- SIMILARITY: Contains 6 ANK repeats.
+-!- SIMILARITY: Contains 1 cyclic nucleotide-binding domain.
+-!- SIMILARITY: Contains 1 KHA domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ANK repeat; Ion transport; Ionic channel; Membrane; Potassium;
+Potassium channel; Potassium transport; Repeat; Transmembrane;
+Transport; Voltage-gated channel.
+TMSIX

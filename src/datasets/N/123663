@@ -1,0 +1,17 @@
+AC   Q9HMD2;
+Glutamine amidotransferase subunit pdxT (EC 2.6.-.-) (Glutamine
+amidotransferase glutaminase subunit pdxT).
+"Genome sequence of Halobacterium species NRC-1.";
+-!- FUNCTION: Involved in the hydrolysis of glutamine to glutamate and
+    ammonia. Channels an ammonia molecule to pdxS (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; pyridoxal 5'-phosphate
+    biosynthesis.
+-!- SUBUNIT: Forms a complex with pdxS (By similarity).
+-!- SIMILARITY: Belongs to the glutamine amidotransferase pdxT/SNO
+    family.
+ GO:0016740; F:transferase activity; IEA:HAMAP.
+ GO:0006543; P:glutamine catabolism; IEA:HAMAP.
+ GO:0042823; P:pyridoxal phosphate biosynthesis; IEA:HAMAP.
+Complete proteome; Glutamine amidotransferase; Pyridoxal phosphate;
+Transferase.
+TMZERO

@@ -1,0 +1,15 @@
+AC   Q8XCJ6; Q7AD71;
+Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49) (G6PD).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- CATALYTIC ACTIVITY: D-glucose 6-phosphate + NADP(+) = D-glucono-
+    1,5-lactone 6-phosphate + NADPH.
+-!- PATHWAY: Carbohydrate degradation; pentose phosphate pathway; D-
+    ribulose 5-phosphate from D-glucose 6-phosphate (oxidative stage):
+    step 1.
+-!- SIMILARITY: Belongs to the glucose-6-phosphate dehydrogenase
+    family.
+Carbohydrate metabolism; Complete proteome; Glucose metabolism; NADP;
+Oxidoreductase.
+TMZERO

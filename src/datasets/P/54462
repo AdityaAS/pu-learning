@@ -1,0 +1,26 @@
+AC   P07822; P77711;
+Ferrichrome-binding periplasmic protein precursor.
+"fhuC and fhuD genes for iron (III)-ferrichrome transport into
+Escherichia coli K-12.";
+"Nucleotide sequence of the fhuC and fhuD genes involved in iron (III)
+hydroxamate transport: domains in FhuC homologous to ATP-binding
+proteins.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+2.4-4.1 min (110,917-193,643 bp) region.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"In vivo reconstitution of an active siderophore transport system by a
+binding protein derivative lacking a signal sequence.";
+"The structure of the ferric siderophore binding protein FhuD
+complexed with gallichrome.";
+-!- FUNCTION: Involved in the high-affinity transport of Fe(3+)-
+    ferrichrome into the cell. Binds to all hydroxamate siderophores.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 8
+    family.
+-!- SIMILARITY: Contains 1 Fe/B12 periplasmic-binding domain.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ion transport; Iron; Iron transport; Periplasmic; Signal; Transport.
+TMZERO

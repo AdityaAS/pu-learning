@@ -1,0 +1,23 @@
+AC   Q8N1F7; Q14705;
+Nuclear pore complex protein Nup93 (Nucleoporin Nup93) (93 kDa
+nucleoporin).
+"Prediction of the coding sequences of unidentified human genes. III.
+The coding sequences of 40 new genes (KIAA0081-KIAA0120) deduced by
+analysis of cDNA clones from human cell line KG-1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Nup93, a vertebrate homologue of yeast Nic96p, forms a complex with a
+novel 205-kDa protein and is required for correct nuclear pore
+assembly.";
+-!- FUNCTION: Part of the nucleoporin complex; required for correct
+    nuclear pore assembly.
+-!- SUBUNIT: Component of the p62 complex, a complex composed of
+    NUP62, NUP54. Interacts also with NUP205.
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear pore complex.
+    Note=Localizes at the nuclear basket and at or near the nuclear
+    entry to the gated channel of the pore.
+-!- SIMILARITY: Belongs to the nucleoporin interacting component (NIC)
+    family.
+mRNA transport; Nuclear pore complex; Nuclear protein; Polymorphism;
+Protein transport; Translocation; Transport.
+TMZERO

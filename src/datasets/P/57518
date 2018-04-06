@@ -1,0 +1,13 @@
+AC   P0A9S0; P10115;
+Cell division ATP-binding protein ftsE.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Not known. Is coded in an operon essential for cell
+    division (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Cell cycle; Cell division; Complete proteome;
+Nucleotide-binding.
+TMZERO

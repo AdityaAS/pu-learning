@@ -1,0 +1,18 @@
+AC   P84277;
+Palustrin-1d.
+"Multiple antimicrobial peptides and peptides related to bradykinin
+and neuromedin N isolated from skin secretions of the pickerel frog,
+Rana palustris.";
+-!- FUNCTION: Antimicrobial activity against Gram-negative bacterium
+    E.coli.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin glands.
+-!- MASS SPECTROMETRY: MW=2845.6; MW_ERR=0.6; METHOD=Electrospray;
+    RANGE=1-27; NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the frog skin active peptide (FSAP) family.
+    Brevinin subfamily.
+ GO:0005576; C:extracellular region; IDA:UniProtKB.
+ GO:0050829; P:defense response to Gram-negative bacterium; IDA:UniProtKB.
+Amphibian defense peptide; Antibiotic; Antimicrobial;
+Direct protein sequencing.
+TMZERO

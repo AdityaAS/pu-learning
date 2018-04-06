@@ -1,0 +1,16 @@
+AC   Q8LB17; Q8L7A1; Q9M2H0;
+Protein At3g58460.
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+"Solution structure of RSGI RUH-014, a UBA domain of Arabidopsis
+thaliana cDNA.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Contains 1 UBA domain.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction.
+3D-structure; Membrane; Transmembrane.
+TMSIX

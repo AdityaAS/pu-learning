@@ -1,0 +1,12 @@
+AC   P31588;
+General secretion pathway protein I precursor (Pectic enzymes
+secretion protein outI).
+"Molecular cloning and characterization of 13 out genes from Erwinia
+carotovora subspecies carotovora: genes encoding members of a general
+secretion pathway (GSP) widespread in Gram-negative bacteria.";
+-!- FUNCTION: Involved in a general secretion pathway (GSP) for the
+    export of proteins. Required for the translocation of the multiple
+    pectic enzymes.
+-!- SIMILARITY: Belongs to the GSP I family.
+Methylation; Transport.
+TMZERO

@@ -1,0 +1,17 @@
+AC   Q8YQY1;
+Dihydrodipicolinate synthase (EC 4.2.1.52) (DHDPS).
+"Complete genomic sequence of the filamentous nitrogen-fixing
+cyanobacterium Anabaena sp. strain PCC 7120.";
+-!- CATALYTIC ACTIVITY: L-aspartate 4-semialdehyde + pyruvate =
+    dihydrodipicolinate + 2 H(2)O.
+-!- PATHWAY: Amino-acid biosynthesis; L-lysine biosynthesis via DAP
+    pathway; tetrahydrodipicolinate from L-aspartate: step 3.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the DHDPS family.
+ GO:0008840; F:dihydrodipicolinate synthase activity; IEA:HAMAP.
+ GO:0019877; P:diaminopimelate biosynthesis; IEA:HAMAP.
+ GO:0009085; P:lysine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Complete proteome;
+Diaminopimelate biosynthesis; Lyase; Lysine biosynthesis; Schiff base.
+TMZERO

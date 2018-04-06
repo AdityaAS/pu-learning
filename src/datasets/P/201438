@@ -1,0 +1,54 @@
+AC   P31412;
+Vacuolar ATP synthase subunit C (EC 3.6.3.14) (V-ATPase C subunit)
+(Vacuolar proton pump C subunit) (V-ATPase 42 kDa subunit).
+"Cloning and mutational analysis of the gene encoding subunit C of
+yeast vacuolar H(+)-ATPase.";
+"Isolation of vacuolar membrane H(+)-ATPase-deficient yeast mutants;
+the VMA5 and VMA4 genes are essential for assembly and activity of the
+vacuolar H(+)-ATPase.";
+"Sequence analysis of a 10 kb fragment of yeast chromosome XI
+identifies the SMY1 locus and reveals sequences related to a pre-mRNA
+splicing factor and vacuolar ATPase subunit C plus a number of
+unidentified open reading frames.";
+"Complete DNA sequence of yeast chromosome XI.";
+"Evidence for major structural changes in subunit C of the vacuolar
+ATPase due to nucleotide binding.";
+"The H subunit (Vma13p) of the yeast V-ATPase inhibits the ATPase
+activity of cytosolic V1 complexes.";
+"Mutational analysis of the subunit C (Vma5p) of the yeast vacuolar
+H+-ATPase.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"Defined sites of interaction between subunits E (Vma4p), C (Vma5p),
+and G (Vma10p) within the stator structure of the vacuolar H(+)-
+ATPase.";
+"Crystal structure of yeast V-ATPase subunit C reveals its stator
+function.";
+-!- FUNCTION: Subunit of the peripheral V1 complex of vacuolar ATPase.
+    Subunit C acts as a flexible stator that holds together the
+    catalytic and the membrane sectors of the enzyme. Reversibly
+    leaves the enzyme after glucose depletion, causing the catalytic
+    subcomplex V1 to detach from the V0 section. Binds ATP and is
+    likely to have a specific function in the catalytic activity of
+    the catalytic sector. V-ATPase is responsible for acidifying a
+    variety of intracellular compartments in eukaryotic cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'', d and e). Interacts directly with VMA4.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; peripheral
+    membrane protein.
+-!- MISCELLANEOUS: Present with 21114 molecules/cell.
+-!- SIMILARITY: Belongs to the V-ATPase C subunit family.
+-!- CAUTION: Ref.1 and Ref.2 sequences differ from that shown due to a
+    frameshift in position 24.
+ GO:0000221; C:hydrogen-transporting ATPase V1 domain; TAS:SGD.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); TAS:SGD.
+ GO:0046961; F:hydrogen-transporting ATPase activity, rota...; TAS:SGD.
+ GO:0007035; P:vacuolar acidification; TAS:SGD.
+3D-structure; Acetylation; ATP synthesis; ATP-binding;
+Complete proteome; Direct protein sequencing; Hydrogen ion transport;
+Hydrolase; Ion transport; Nucleotide-binding; Transport.
+TMZERO

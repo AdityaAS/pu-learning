@@ -1,0 +1,13 @@
+AC   P62723; P33019; Q2MAS1;
+UPF0324 inner membrane protein yeiH.
+"Automated multiplex sequencing of the E.coli genome.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the UPF0324 family.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMEIGHT

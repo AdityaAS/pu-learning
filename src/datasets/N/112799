@@ -1,0 +1,22 @@
+AC   Q9XXD4;
+Putative H/ACA ribonucleoprotein complex subunit 2-like protein.
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Required for ribosome biogenesis. Part of a complex
+    which catalyzes pseudouridylation of rRNA. This involves the
+    isomerization of uridine such that the ribose is subsequently
+    attached to C5, instead of the normal N1. Pseudouridine ("psi")
+    residues may serve to stabilize the conformation of rRNAs (By
+    similarity).
+-!- SUBUNIT: Component of the small nucleolar ribonucleoprotein
+    particle containing H/ACA-type snoRNAs (H/ACA snoRNPs).
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L7Ae family.
+ GO:0005732; C:small nucleolar ribonucleoprotein complex; ISS:UniProtKB.
+ GO:0030559; F:rRNA pseudouridylation guide activity; ISS:UniProtKB.
+ GO:0030515; F:snoRNA binding; ISS:UniProtKB.
+ GO:0006365; P:35S primary transcript processing; ISS:UniProtKB.
+ GO:0031118; P:rRNA pseudouridine synthesis; ISS:UniProtKB.
+Complete proteome; Hypothetical protein; Nuclear protein;
+Ribonucleoprotein; Ribosome biogenesis; RNA-binding; rRNA processing.
+TMZERO

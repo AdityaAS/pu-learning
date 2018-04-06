@@ -1,0 +1,13 @@
+AC   Q8PG07;
+Probable multidrug resistance protein norM (Multidrug-efflux
+transporter).
+"Comparison of the genomes of two Xanthomonas pathogens with differing
+host specificities.";
+-!- FUNCTION: Multidrug efflux pump (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the multi antimicrobial extrusion (MATE)
+    (TC 2.A.66.1) family.
+Antiport; Complete proteome; Inner membrane; Ion transport; Membrane;
+Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,31 @@
+AC   P06611;
+Vitamin B12 import ATP-binding protein btuD (EC 3.6.3.33) (Vitamin
+B12-transporting ATPase).
+"Nucleotide sequence of the btuCED genes involved in vitamin B12
+transport in Escherichia coli and homology with components of
+periplasmic-binding-protein-dependent transport systems.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The E. coli BtuCD structure: a framework for ABC transporter
+architecture and mechanism.";
+-!- FUNCTION: Part of the ABC transporter complex btuCDF involved in
+    vitamin B12 import. Responsible for energy coupling to the
+    transport system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + vitamin B12(Out) = ADP +
+    phosphate + vitamin B12(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (btuD), two transmembrane proteins (btuC) and a solute-binding
+    protein (btuF).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. Vitamin B12
+    importer (TC 3.A.1.13.1) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0015420; F:cobalamin-transporting ATPase activity; IEA:HAMAP.
+ GO:0015889; P:cobalamin transport; IEA:HAMAP.
+3D-structure; ATP-binding; Complete proteome; Hydrolase;
+Inner membrane; Membrane; Nucleotide-binding; Transport.
+TMZERO

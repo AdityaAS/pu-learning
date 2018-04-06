@@ -1,0 +1,35 @@
+AC   P53507;
+Mitochondrial import receptor subunit TOM7 (Translocase of outer
+membrane 7 kDa subunit).
+"Tom7 modulates the dynamics of the mitochondrial outer membrane
+translocase and plays a pathway-related role in protein import.";
+"Sequencing a cosmid clone of Saccharomyces cerevisiae chromosome XIV
+reveals 12 new open reading frames (ORFs) and an ancient duplication
+of six ORFs.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Preprotein translocase of the outer mitochondrial membrane: molecular
+dissection and assembly of the general import pore complex.";
+"Multistep assembly of the protein import channel of the mitochondrial
+outer membrane.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Component of the TOM (translocase of outer membrane)
+    receptor complex responsible for the recognition and translocation
+    of cytosolically synthesized mitochondrial preproteins. TOM7 is
+    involved in assembly and stability of the TOM complex.
+-!- SUBUNIT: Forms part of the TOM (translocase of outer membrane)
+    complex that consists of at least 7 different proteins (TOM5,
+    TOM6, TOM7, TOM20, TOM22, TOM40 and TOM70).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 3250 molecules/cell.
+-!- SIMILARITY: Belongs to the Tom7 family.
+ GO:0005742; C:mitochondrial outer membrane translocase co...; IMP:SGD.
+ GO:0008565; F:protein transporter activity; IMP:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; IMP:SGD.
+ GO:0045040; P:protein import into mitochondrial outer mem...; IMP:SGD.
+Complete proteome; Direct protein sequencing; Membrane; Mitochondrion;
+Outer membrane; Protein transport; Transmembrane; Transport.
+TMZERO

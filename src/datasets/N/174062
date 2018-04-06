@@ -1,0 +1,20 @@
+AC   Q43008; Q43121; Q7GCN0;
+Superoxide dismutase [Mn], mitochondrial precursor (EC 1.15.1.1).
+"Cloning and sequencing analysis of a complementary DNA for manganese-
+superoxide dismutase from rice (Oryza sativa L.).";
+"Cloning and characterization of manganese-superoxide dismutase gene
+from rice.";
+"Rice manganese superoxide dismutase are encoded by multigene
+family.";
+"A fine physical map of the rice chromosome 5.";
+-!- FUNCTION: Destroys radicals which are normally produced within the
+    cells and which are toxic to biological systems.
+-!- CATALYTIC ACTIVITY: 2 superoxide + 2 H(+) = O(2) + H(2)O(2).
+-!- COFACTOR: Binds 1 manganese ion per subunit (By similarity).
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix.
+-!- SIMILARITY: Belongs to the iron/manganese superoxide dismutase
+    family.
+Manganese; Metal-binding; Mitochondrion; Oxidoreductase;
+Transit peptide.
+TMZERO

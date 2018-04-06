@@ -1,0 +1,23 @@
+AC   Q8K078; Q8BZT4;
+Solute carrier organic anion transporter family member 4A1 (Solute
+carrier family 21 member 12) (Sodium-independent organic anion
+transporter E) (Organic anion-transporting polypeptide E) (OATP-E).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Mediates the Na(+)-independent transport of organic
+    anions such as the thyroid hormone T3 (triiodo-L-thyronine) and of
+    taurocholate (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8K078-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8K078-2; Sequence=VSP_006157, VSP_006158;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the organo anion transporter (TC 2.A.60)
+    family.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Phosphorylation; Transmembrane; Transport.
+TMTWELVE

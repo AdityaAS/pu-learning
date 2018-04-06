@@ -1,0 +1,33 @@
+AC   P19319; P78063; P78154; P78155; P78156;
+Respiratory nitrate reductase 2 alpha chain (EC 1.7.99.4).
+"Nitrate reductases of Escherichia coli: sequence of the second
+nitrate reductase and comparison with that encoded by the narGHJI
+operon.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: This is a second nitrate reductase enzyme which can
+    substitute for the NRA enzyme and allows E.coli to use nitrate as
+    an electron acceptor during anaerobic growth.
+-!- FUNCTION: The alpha chain is the actual site of nitrate reduction.
+-!- CATALYTIC ACTIVITY: Nitrite + acceptor = nitrate + reduced
+    acceptor.
+-!- COFACTOR: Binds 1 4Fe-4S cluster per subunit (By similarity).
+-!- COFACTOR: Binds 1 molybdenum ion per subunit (By similarity).
+-!- COFACTOR: Binds 2 molybdopterin guanine dinucleotide (MGD) groups
+    per subunit (By similarity).
+-!- SUBUNIT: Tetramer composed of an alpha, a beta and 2 gamma chains.
+    Alpha and beta are catalytic chains; gamma chain is involved in
+    binding the enzyme complex to the cytoplasmic membrane.
+-!- INTERACTION:
+    P11349:narH; NbExp=2; IntAct=EBI-547262, EBI-555067;
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein.
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+4Fe-4S; Complete proteome; Direct protein sequencing;
+Electron transport; Iron; Iron-sulfur; Membrane; Metal-binding;
+Molybdenum; Nitrate assimilation; Oxidoreductase; Transport.
+TMZERO

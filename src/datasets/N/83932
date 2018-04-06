@@ -1,0 +1,21 @@
+AC   Q99UX4;
+Iron-regulated surface determinant protein A precursor (Staphylococcal
+transferrin-binding protein A) (Fur-regulated protein A).
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: Binds transferrin, hemoglobin, hemin, fetuin,
+    asialofetuin and protein A. Also binds fibronectin and chains B-
+    beta and gamma of fibrinogen. Could play a role in the removal of
+    heme from hemoglobin. The isdA-mediated iron-acquisition system
+    from transferrin could play only an ancillary role in the iron
+    uptake whereas the siderophore-mediated iron-acquisition system
+    from transferrin seems to play an essential or dominant role (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell wall; peptidoglycan-anchor (Probable).
+-!- INDUCTION: Repressed by fur in the presence of iron (By
+    similarity).
+-!- DOMAIN: The NEAT domain is responsible for binding fibrinogen (By
+    similarity).
+-!- SIMILARITY: Contains 1 NEAT domain.
+Cell wall; Complete proteome; Peptidoglycan-anchor; Signal.
+TMZERO

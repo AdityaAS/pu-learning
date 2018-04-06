@@ -1,0 +1,39 @@
+AC   Q63633;
+Solute carrier family 12 member 5 (Electroneutral potassium-chloride
+cotransporter 2) (K-Cl cotransporter 2) (Neuronal K-Cl cotransporter)
+(Furosemide-sensitive K-Cl cotransporter) (rKCC2).
+"Molecular characterization of a putative K-Cl cotransporter in rat
+brain. A neuronal-specific isoform.";
+"The K+/Cl- co-transporter KCC2 renders GABA hyperpolarizing during
+neuronal maturation.";
+"A dominant negative mutant of the KCC1 K-Cl cotransporter: both N-
+and C-terminal cytoplasmic domains are required for K-Cl cotransport
+activity.";
+-!- FUNCTION: Mediates electroneutral potassium-chloride cotransport
+    in mature neurons. Transport occurs under isotonic conditions, but
+    is activated 20-fold by cell swelling. Important for Cl(-)
+    homeostasis in neurons. Necessary for the ontogenic change in
+    response to gamma-aminobutyric acid (GABA) from depolarization to
+    hyperpolarization during neuronal development.
+-!- SUBUNIT: Homomultimer and heteromultimer with other K-Cl
+    cotransporters (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in brain. Not detected in
+    other tissues. Highly expressed in pyramidal neurons and in
+    neurons throughout the cortex, hippocampus, the granular layer of
+    the cerebellum and in groups of neurons throughout the brainstem.
+    Barely detectable in dorsal-root ganglions.
+-!- DEVELOPMENTAL STAGE: Detected in thalamus, but not in hippocampus
+    and neocortex at E20. At birth barely detectable in hippocampus.
+    Expression increases steeply from day 5 to day 9 and then
+    stabilizes at adult levels.
+-!- SIMILARITY: Belongs to the SLC12A transporter family.
+ GO:0016021; C:integral to membrane; ISS:UniProtKB.
+ GO:0015379; F:potassium:chloride symporter activity; ISS:UniProtKB.
+ GO:0005515; F:protein binding; IDA:RGD.
+ GO:0006873; P:cell ion homeostasis; ISS:UniProtKB.
+ GO:0006821; P:chloride transport; IDA:RGD.
+ GO:0006810; P:transport; ISS:UniProtKB.
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Symport; Transmembrane; Transport.
+TMTWELVE

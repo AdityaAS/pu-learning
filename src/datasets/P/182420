@@ -1,0 +1,18 @@
+AC   P33951;
+ATP-binding protein syrD.
+"SyrD is required for syringomycin production by Pseudomonas syringae
+pathovar syringae and is related to a family of ATP-binding secretion
+proteins.";
+-!- FUNCTION: ATP-driven efflux pump necessary for the secretion of
+    syringomycin. May specifically bind syringomycin and translocate
+    it to the periplasmic space. SyrD is also required for full
+    expression of the syrB gene.
+-!- SUBUNIT: Dimer (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Antibiotic biosynthesis; ATP-binding; Inner membrane; Membrane;
+Nucleotide-binding; Transmembrane.
+TMSIX

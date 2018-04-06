@@ -1,0 +1,11 @@
+AC   P0A8C8; P22847; Q2EET9; Q2M817;
+UPF0161 protein yidD.
+"Physical mapping and nucleotide sequence of the rnpA gene that
+encodes the protein component of ribonuclease P in Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- SIMILARITY: Belongs to the UPF0161 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

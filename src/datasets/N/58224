@@ -1,0 +1,36 @@
+AC   Q06136;
+3-ketodihydrosphingosine reductase precursor (EC 1.1.1.102) (3-
+dehydrosphinganine reductase) (KDS reductase) (Follicular variant
+translocation protein 1) (FVT-1).
+"FVT-1, a novel human transcription unit affected by variant
+translocation t(2;18)(p11;q21) of follicular lymphoma.";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"FVT-1 is a mammalian 3-ketodihydrosphingosine reductase with an
+active site that faces the cytosolic side of the endoplasmic reticulum
+membrane.";
+-!- FUNCTION: Catalyzes the reduction of 3-ketodihydrosphingosine
+    (KDS) to dihydrosphingosine (DHS).
+-!- CATALYTIC ACTIVITY: Sphinganine + NADP(+) = 3-dehydrosphinganine +
+    NADPH.
+-!- PATHWAY: Lipid metabolism; sphingolipid metabolism.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in all tissues examined. Highest
+    expression in placenta. High expression in lung, kidney, stomach
+    and small intestine, low expression in heart, spleen and skeletal
+    muscle. Weakly expressed in normal hematopoietic tissues. Higher
+    expression in some T-cell malignancies and PHA-stimulated
+    lymphocytes.
+-!- DISEASE: A chromosomal aberration involving FVT1 is a cause of
+    follicular lymphoma; also known as type II chronic lymphatic
+    leukemia. Translocation t(2;18)(p11;q21) with a Ig J kappa chain
+    region.
+-!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+    (SDR) family.
+ GO:0005615; C:extracellular space; TAS:ProtInc.
+Chromosomal rearrangement; Endoplasmic reticulum; Membrane; NADP;
+Oxidoreductase; Proto-oncogene; Signal; Transmembrane.
+TMTWO

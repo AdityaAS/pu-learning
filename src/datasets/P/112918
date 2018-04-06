@@ -1,0 +1,13 @@
+AC   P0A0J5; P21191;
+Quinolone resistance protein norA.
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: Involved in quinolone resistance. May constitute a
+    membrane-associated active efflux pump of hydrophilic quinolones
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. TCR/tet
+    family.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,10 @@
+AC   P39961;
+Probable transcriptional regulatory protein YER184C.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Phenotypic analysis of genes encoding yeast zinc cluster proteins.";
+-!- FUNCTION: Required for growth on non-fermentable carbon sources.
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- SIMILARITY: Contains 1 Zn(2)-C6 fungal-type DNA-binding domain.
+Complete proteome; DNA-binding; Metal-binding; Nuclear protein;
+Transcription; Transcription regulation; Zinc.
+TMZERO

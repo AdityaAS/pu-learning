@@ -1,0 +1,81 @@
+AC   O14521; Q6IRW2;
+Succinate dehydrogenase [ubiquinone] cytochrome b small subunit,
+mitochondrial precursor (CybS) (Succinate-ubiquinone reductase
+membrane anchor subunit) (QPs3) (CII-4) (Succinate dehydrogenase
+complex subunit D) (Succinate-ubiquinone oxidoreductase cytochrome b
+small subunit).
+"Cytochrome b in human complex II (succinate-ubiquinone
+oxidoreductase): cDNA cloning of the components in liver mitochondria
+and chromosome assignment of the genes for the large (SDHC) and small
+(SDHD) subunits to 1q21 and 11q23.";
+"Characterization of the human SDHD gene encoding the small subunit of
+cytochrome b (cybS) in mitochondrial succinate-ubiquinone
+oxidoreductase.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Somatic and occult germ-line mutations in SDHD, a mitochondrial
+complex II gene, in nonfamilial pheochromocytoma.";
+"Mutations in SDHD, a mitochondrial complex II gene, in hereditary
+paraganglioma.";
+"Novel mutations and the emergence of a common mutation in the SDHD
+gene causing familial paraganglioma.";
+"Novel mutations in the SDHD gene in pedigrees with familial carotid
+body paraganglioma and sensorineural hearing loss.";
+"Nearly all hereditary paragangliomas in the Netherlands are caused by
+two founder mutations in the SDHD gene.";
+"Germline SDHD mutation in paraganglioma of the spinal cord.";
+"Alterations of the SDHD gene locus in midgut carcinoids, Merkel cell
+carcinomas, pheochromocytomas, and abdominal paragangliomas.";
+"G12S and H50R variations are polymorphisms in the SDHD gene.";
+"SDHD mutation analysis in seven German patients with sporadic carotid
+body paraganglioma: one novel mutation, no Dutch founder mutation and
+further evidence that G12S is a polymorphism.";
+-!- PATHWAY: Carbohydrate metabolism; tricarboxylic acid cycle.
+-!- SUBUNIT: Forms part of complex II containing four subunits: a
+    flavoprotein (FP), an iron-sulfur protein (IP) and a cytochrome b
+    composed of two integral membrane proteins.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- DISEASE: Defects in SDHD are a cause of hereditary paraganglioma
+    type 1 (PGL1) [MIM:168000]; also known as familial non-chromaffin
+    paraganglioma 1. Paraganglioma refers to rare and mostly benign
+    tumors that arise from any component of the neuroendocrine system.
+    PGL1 is a rare autosomal dominant disorder which is characterized
+    by the development of mostly benign, highly vascular, slowly
+    growing tumors in the head and neck. In the head and neck region,
+    the carotid body is the largest of all paraganglia and is also the
+    most common site of the tumors. Penetrance of PLG1 is incomplete
+    when the disease is transmitted through fathers. No disease
+    phenotype is transmitted maternally.
+-!- DISEASE: Defects in SDHD are a cause of pheochromocytoma
+    [MIM:171300]. The pheochromocytomas are catecholamine-producing,
+    chromaffin tumors that arise in the adrenal medulla in 90% of
+    cases. In the remaining 10% of cases, they develop in extra-
+    adrenal sympathetic ganglia and may be referred to as
+    "paraganglioma." Pheochromocytoma usually presents with
+    hypertension. Approximately 10% of pheochromocytoma is hereditary.
+    Although pheochromocytoma susceptibility may be associated with
+    germline mutations in the tumor-suppressor genes VHL and NF1 and
+    in the proto-oncogene RET, the genetic basis for most cases of
+    nonsyndromic familial pheochromocytoma is unknown.
+-!- DISEASE: Defects in SDHD are involved in intestinal carcinoid
+    tumor [MIM:114900]. A carcinoid tumor is a yellow circumscribed
+    tumor arising from enterochromaffin cells, in the small intestine.
+-!- SIMILARITY: Belongs to the CybS family.
+-!- WEB RESOURCE: NAME=Atlas of Genetics and Cytogenetics in Oncology
+    and Haematology;
+    URL="http://atlasgeneticsoncology.org/Genes/SDHDID390.html".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SDHD".
+ GO:0005740; C:mitochondrial envelope; TAS:ProtInc.
+ GO:0005743; C:mitochondrial inner membrane; IDA:UniProtKB.
+ GO:0005739; C:mitochondrion; TAS:ProtInc.
+ GO:0009055; F:electron carrier activity; TAS:UniProtKB.
+ GO:0000104; F:succinate dehydrogenase activity; IDA:UniProtKB.
+ GO:0006099; P:tricarboxylic acid cycle; IDA:UniProtKB.
+Disease mutation; Electron transport; Heme; Iron; Membrane;
+Metal-binding; Mitochondrion; Polymorphism; Transit peptide;
+Transmembrane; Transport; Tricarboxylic acid cycle.
+TMTWO

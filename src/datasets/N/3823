@@ -1,0 +1,25 @@
+AC   P19754;
+Adenylate cyclase type 1 (EC 4.6.1.1) (Adenylate cyclase type I) (ATP
+pyrophosphate-lyase 1) (Adenylyl cyclase 1) (Ca(2+)/calmodulin-
+activated adenylyl cyclase).
+"Adenylyl cyclase amino acid sequence: possible channel- or
+transporter-like structure.";
+"Catalytic mechanism of the adenylyl and guanylyl cyclases: modeling
+and mutational analysis.";
+-!- FUNCTION: This is a calmodulin-sensitive adenylyl cyclase. May be
+    involved in regulatory processes in the central nervous system. It
+    may play a role in memory acquisition and learning.
+-!- CATALYTIC ACTIVITY: ATP = 3',5'-cyclic AMP + diphosphate.
+-!- COFACTOR: Binds 2 magnesium ions per subunit (By similarity).
+-!- ENZYME REGULATION: Activated by calcium/calmodulin. Inhibited by
+    the G protein beta and gamma subunit complex.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Brain.
+-!- SIMILARITY: Belongs to the adenylyl cyclase class-4/guanylyl
+    cyclase family.
+-!- SIMILARITY: Contains 2 guanylate cyclase domains.
+ GO:0004016; F:adenylate cyclase activity; IEA:EC.
+3D-structure; Calmodulin-binding; cAMP biosynthesis;
+Direct protein sequencing; Glycoprotein; Lyase; Magnesium; Membrane;
+Metal-binding; Repeat; Transmembrane.
+TMTWELVE

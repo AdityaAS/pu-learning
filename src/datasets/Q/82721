@@ -1,0 +1,15 @@
+AC   O84118; Q9RPQ0;
+Inclusion membrane protein E.
+"Identification and characterization of a Chlamydia trachomatis early
+operon encoding four novel inclusion membrane proteins.";
+"Genome sequence of an obligate intracellular pathogen of humans:
+Chlamydia trachomatis.";
+-!- FUNCTION: Inclusion membrane protein probably involved in early
+    modification events of the chlamydial inclusion.
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=Secreted, probably
+    via type III secretion system. Localized to the inclusion
+    membrane.
+-!- MISCELLANEOUS: Co-transcribed with incD, incF and incG within 2
+    hours after internalization.
+Complete proteome; Membrane; Transmembrane; Virulence.
+TMTWO

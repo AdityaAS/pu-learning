@@ -1,0 +1,43 @@
+AC   Q9QZX8; Q9JHF6; Q9JIM2;
+Solute carrier organic anion transporter family member 1B2 (Solute
+carrier family 21 member 10) (Sodium-independent organic anion-
+transporting polypeptide 4) (OATP4) (Liver-specific organic anion
+transporter 1) (rLST-1).
+"Molecular characterization and functional regulation of a novel rat
+liver-specific organic anion transporter rlst-1.";
+"Cloning of the full-length coding sequence of rat liver-specific
+organic anion transporter-1 (rlst-1) and a splice variant and partial
+characterization of the rat lst-1 gene.";
+"Identification of organic anion transporting polypeptide 4 (Oatp4) as
+a major full-length isoform of the liver-specific transporter-1 (rlst-
+1) in rat liver.";
+"Localization of organic anion transporting polypeptide 4 (Oatp4) in
+rat liver and comparison of its substrate specificity with Oatp1,
+Oatp2 and Oatp3.";
+"Phosphoproteomic analysis of rat liver by high capacity IMAC and LC-
+MS/MS.";
+-!- FUNCTION: Mediates the Na(+)-independent transport of organic
+    anions such as taurochlate, bromosulfophthalein and steroid
+    conjugates such as estrone-3-sulfate, 17-beta-glucuronosyl
+    estradiol, dehydroepiandrosterone sulfate and prostaglandin E2.
+-!- SUBCELLULAR LOCATION: Cell membrane; basolateral cell membrane;
+    multi-pass membrane protein. Note=Confined to the basolateral
+    plasma membrane of hepatocytes.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=rLST-1b;
+      IsoId=Q9QZX8-1; Sequence=Displayed;
+    Name=2; Synonyms=rLST-1a;
+      IsoId=Q9QZX8-2; Sequence=VSP_006150;
+    Name=3; Synonyms=rLST-1c;
+      IsoId=Q9QZX8-3; Sequence=VSP_006151, VSP_006150;
+-!- TISSUE SPECIFICITY: Liver specific. Expression is highest in
+    central perivenous hepatocytes and lowest in the periportal
+    region. Isoform 2 predominates. Not detected in heart, brain,
+    kidney, skeletal muscle, lung, testis or spleen.
+-!- SIMILARITY: Belongs to the organo anion transporter (TC 2.A.60)
+    family.
+ GO:0008514; F:organic anion transporter activity; TAS:RGD.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Phosphorylation; Transmembrane; Transport.
+TMELEVEN

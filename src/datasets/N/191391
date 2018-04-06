@@ -1,0 +1,30 @@
+AC   P59528; Q7M714;
+Taste receptor type 2 member 123 (T2R123) (Taste receptor type 2
+member 23) (T2R23) (mT2R55) (STC9-2).
+"Expression of bitter taste receptors of the T2R family in the
+gastrointestinal tract and enteroendocrine STC-1 cells.";
+"T2r taste receptor family.";
+"Adaptive diversification of bitter taste receptor genes in mammalian
+evolution.";
+"Receptors for bitter and sweet taste.";
+"Molecular mechanisms of bitter and sweet taste transduction.";
+"Coding of sweet, bitter, and umami tastes: different receptor cells
+sharing similar signaling pathways.";
+-!- FUNCTION: Gustducin-coupled receptor implicated in the perception
+    of bitter compounds in the oral cavity and the gastrointestinal
+    tract. Signals through PLCB2 and the calcium-regulated cation
+    channel TRPM5 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in subsets of taste receptor cells
+    of the tongue and palate epithelium and exclusively in gustducin-
+    positive cells. Expressed in the duodenum, antrum and fundus (part
+    of the stomach).
+-!- MISCELLANEOUS: Several bitter taste receptors are expressed in a
+    single taste receptor cell.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor T2R family.
+-!- CAUTION: This protein was previously referred to as T2R2 but is
+    now considered to be an ortholog of rat TAS2R23.
+ GO:0001580; P:detection of chemical stimulus during senso...; TAS:MGI.
+G-protein coupled receptor; Glycoprotein; Membrane; Receptor;
+Sensory transduction; Taste; Transducer; Transmembrane.
+TMSEVEN

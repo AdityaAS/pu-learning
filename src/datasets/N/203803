@@ -1,0 +1,24 @@
+AC   P01284; Q9TRN0;
+VIP peptides precursor [Contains: Intestinal peptide PHI-27 (Peptide
+histidine isoleucinamide 27); Vasoactive intestinal peptide (VIP)
+(Vasoactive intestinal polypeptide)] (Fragment).
+"Isolation and characterization of the intestinal peptide porcine PHI
+(PHI-27), a new member of the glucagon-secretin family.";
+"Organ distribution and characterization of porcine peptides (VIP,
+CGRP and PHI) that increase cAMP in rat platelets.";
+"Isolation and characterization of a variant form of vasoactive
+intestinal polypeptide.";
+"Structure of the porcine vasoactive intestinal octacosapeptide. The
+amino-acid sequence. Use of kallikrein in its determination.";
+"Synthesis of the vasoactive intestinal peptide (VIP).";
+-!- FUNCTION: VIP causes vasodilation, lowers arterial blood pressure,
+    stimulates myocardial contractility, increases glycogenolysis and
+    relaxes the smooth muscle of trachea, stomach and gall bladder.
+-!- FUNCTION: PHI also causes vasodilation.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- MISCELLANEOUS: X's at positions 28 to 44 were included by homology
+    with the human precursor sequence.
+-!- SIMILARITY: Belongs to the glucagon family.
+Amidation; Cleavage on pair of basic residues;
+Direct protein sequencing; Hormone.
+TMZERO

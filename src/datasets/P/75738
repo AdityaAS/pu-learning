@@ -1,0 +1,21 @@
+AC   Q02592; O13675; Q9UQW7; Q9USI3;
+Heavy metal tolerance protein precursor.
+"Heavy metal tolerance in the fission yeast requires an ATP-binding
+cassette-type vacuolar membrane transporter.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Involved in metal tolerance. Probably involved in the
+    transport of metal-bound phytochelatins. Compartmentalizes cadmium
+    within vacuoles, thereby protecting cells from cadmium toxicity.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0005774; C:vacuolar membrane; IDA:GeneDB_SPombe.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; TAS:GeneDB_SPombe.
+ GO:0015691; P:cadmium ion transport; TAS:GeneDB_SPombe.
+ GO:0046686; P:response to cadmium ion; TAS:GeneDB_SPombe.
+ATP-binding; Cadmium resistance; Complete proteome; Glycoprotein;
+Membrane; Nucleotide-binding; Signal; Transmembrane; Transport;
+Vacuole.
+TMTEN

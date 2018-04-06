@@ -1,0 +1,15 @@
+AC   Q6A816;
+Argininosuccinate lyase (EC 4.3.2.1) (Arginosuccinase) (ASAL).
+"The complete genome sequence of Propionibacterium acnes, a commensal
+of human skin.";
+-!- CATALYTIC ACTIVITY: Omega-N-(L-arginino)succinate = fumarate + L-
+    arginine.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; L-
+    arginine from L-ornithine and carbamoyl phosphate: step 3 [final
+    step].
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the lyase 1 family. Argininosuccinate lyase
+    subfamily.
+Amino-acid biosynthesis; Arginine biosynthesis; Complete proteome;
+Lyase.
+TMZERO

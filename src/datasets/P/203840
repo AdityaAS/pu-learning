@@ -1,0 +1,15 @@
+AC   P0A3W6; P05358; P09782;
+Protein virB9 precursor.
+"Characterization of the virB operon from an Agrobacterium tumefaciens
+Ti plasmid.";
+"Agrobacterium tumefaciens VirB7 and VirB9 form a disulfide-linked
+protein complex.";
+-!- FUNCTION: Is essential for the biogenesis of the T-pilus, which is
+    required for virulence and T-DNA transfer to plant cells. When is
+    associated with virB7, might function as a nucleation center for
+    recruitment of virB proteins during assembly of the T-DNA transfer
+    machine.
+-!- SUBUNIT: Heterodimer of virB7 and virB9; disulfide-linked.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein.
+Crown gall tumor; Membrane; Plasmid; Signal; Virulence.
+TMZERO

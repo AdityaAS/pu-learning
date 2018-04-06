@@ -1,0 +1,23 @@
+AC   P14283;
+Pertactin precursor (P.93) [Contains: Outer membrane protein P.69].
+"Molecular cloning and characterization of protective outer membrane
+protein P.69 from Bordetella pertussis.";
+"Cloning, nucleotide sequence and heterologous expression of the
+protective outer-membrane protein P.68 pertactin from Bordetella
+bronchiseptica.";
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+"Structure of Bordetella pertussis virulence factor P.69 pertactin.";
+-!- FUNCTION: Agglutinogen that binds to eukaryotic cells; a process
+    mediated by the R-G-D sequence. Pertactin may have a role in
+    bacterial adhesion, and thus play a role in virulence. May
+    contribute to the disease state of whooping cough.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- MISCELLANEOUS: Synthesized only in the presence of low Mg(2+)
+    concentration.
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+3D-structure; Cell adhesion; Complete proteome;
+Direct protein sequencing; Membrane; Outer membrane; Repeat; Signal;
+Virulence.
+TMZERO

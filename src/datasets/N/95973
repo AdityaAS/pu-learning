@@ -1,0 +1,48 @@
+AC   P16581; P16111;
+E-selectin precursor (Endothelial leukocyte adhesion molecule 1)
+(ELAM-1) (Leukocyte-endothelial cell adhesion molecule 2) (LECAM2)
+(CD62E antigen).
+"Endothelial leukocyte adhesion molecule 1: direct expression cloning
+and functional interactions.";
+"Endothelial leukocyte adhesion molecule 1: an inducible receptor for
+neutrophils related to complement regulatory proteins and lectins.";
+"Structure and chromosomal location of the gene for endothelial-
+leukocyte adhesion molecule 1.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"ELAM-1 mediates cell adhesion by recognition of a carbohydrate
+ligand, sialyl-Lex.";
+"Modelling the carbohydrate recognition domain of human E-selectin.";
+"Insight into E-selectin/ligand interaction from the crystal structure
+and mutagenesis of the lec/EGF domains.";
+"E-selectin polymorphism and atherosclerosis: an association study.";
+"DNA polymorphisms in adhesion molecule genes -- a new risk factor for
+early atherosclerosis.";
+"A PstI polymorphism detects the mutation of serine-128 to arginine in
+CD 62E gene - a risk factor for coronary artery disease.";
+"Patterns of single-nucleotide polymorphisms in candidate genes for
+blood-pressure homeostasis.";
+"Relationship between E-selectin L/F554 polymorphism and blood
+pressure in the Stanislas cohort.";
+-!- FUNCTION: Expressed on cytokine induced endothelial cells and
+    mediates their binding to leukocytes. The ligand recognized by
+    ELAM-1 is sialyl-lewis X (alpha(1->3)fucosylated derivatives of
+    polylactosamine that are found at the nonreducing termini of
+    glycolipids).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- POLYMORPHISM: A polymorphism in position 149 is associated with a
+    higher risk of coronary artery disease (CAD). A significantly
+    higher mutation frequency (Arg-149) is observed in patients with
+    angiographically proven severe atherosclerosis compared with an
+    unselected population (Ser-149).
+-!- SIMILARITY: Belongs to the selectin/LECAM family.
+-!- SIMILARITY: Contains 1 C-type lectin domain.
+-!- SIMILARITY: Contains 1 EGF-like domain.
+-!- SIMILARITY: Contains 6 Sushi (CCP/SCR) domains.
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0006954; P:inflammatory response; TAS:ProtInc.
+3D-structure; Cell adhesion; EGF-like domain; Glycoprotein; Lectin;
+Membrane; Polymorphism; Repeat; Signal; Sushi; Transmembrane.
+TMONE

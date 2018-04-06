@@ -1,0 +1,27 @@
+AC   Q9YE60;
+N-glycosylase/DNA lyase (AGOG) (8-oxoguanine DNA glycosylase)
+(EC 3.2.2.-) (DNA-(apurinic or apyrimidinic site) lyase)
+(EC 4.2.99.18) (AP lyase).
+"Complete genome sequence of an aerobic hyper-thermophilic
+crenarchaeon, Aeropyrum pernix K1.";
+-!- FUNCTION: DNA repair enzyme that is part of the base excision
+    repair (BER) pathway; protects from oxidative damage by removing
+    the major product of DNA oxidation, 8-oxoguanine (GO), from
+    single- and double-stranded DNA substrates (By similarity).
+-!- CATALYTIC ACTIVITY: Cleaves the N-glycosidic bond between the
+    aberrant base and the sugar-phosphate backbone to generate an
+    apurinic (AP) site. Cleaves the phosphodiester bond 3' from the AP
+    site by an elimination reaction, leaving a 3'-terminal unsaturated
+    sugar and a product with a terminal 5'-phosphate.
+-!- DOMAIN: Contains two alpha-helical subdomains, with the 8-
+    oxoguanine binding site located in a cleft at their interface.
+    Contains a helix-hairpin-helix (HhH) structural motif and a
+    Gly/Pro-rich sequence followed by a conserved Asp (HhH-GPD motif).
+-!- SIMILARITY: Belongs to the archaeal N-glycosylase/DNA lyase (AGOG)
+    family.
+ GO:0003906; F:DNA-(apurinic or apyrimidinic site) lyase a...; IEA:HAMAP.
+ GO:0000702; F:oxidized base lesion DNA N-glycosylase acti...; IEA:HAMAP.
+ GO:0006284; P:base-excision repair; IEA:HAMAP.
+Complete proteome; DNA damage; DNA excision; DNA repair; Hydrolase;
+Lyase.
+TMZERO

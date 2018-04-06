@@ -1,0 +1,43 @@
+AC   P22749; P09325; Q6GU08;
+Granulysin precursor (Protein NKG5) (Lymphokine LAG-2) (T-cell
+activation protein 519).
+"The isolation and sequence of a novel gene from a human functional T
+cell line.";
+"A cDNA clone expressed in natural killer and T cells that likely
+encodes a secreted protein.";
+"Genomic structure of NKG5, a human NK and T cell-specific activation
+gene.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Granulysin: a novel antimicrobial peptide of cytolytic T lymphocytes
+and natural killer cells.";
+"An antimicrobial activity of cytolytic T cells mediated by
+granulysin.";
+"Biosynthesis of granulysin, a novel cytolytic molecule.";
+"Granulysin crystal structure and a structure-derived lytic
+mechanism.";
+-!- FUNCTION: Antimicrobial protein that kills intracellular
+    pathogens. Active against a broad range of microbes, including
+    Gram-positive and Gram-negative bacteria, fungi, and parasites.
+    Kills Mycobacterium tuberculosis.
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=Located in the
+    cytotoxic granules of T-cells, which are released upon antigen
+    stimulation.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long;
+      IsoId=P22749-1; Sequence=Displayed;
+    Name=Short;
+      IsoId=P22749-2; Sequence=VSP_006016;
+-!- TISSUE SPECIFICITY: Expressed in natural killer and T-cells.
+-!- INDUCTION: By T-cell growth factor and interleukin-2.
+-!- PTM: A 9 kDa form is produced by proteolytic processing of a 15
+    kDa protein.
+-!- SIMILARITY: Contains 1 saposin B-type domain.
+ GO:0005615; C:extracellular space; TAS:ProtInc.
+ GO:0006968; P:cellular defense response; TAS:ProtInc.
+3D-structure; Alternative splicing; Antibiotic; Antimicrobial;
+Fungicide; Polymorphism; Signal.
+TMZERO

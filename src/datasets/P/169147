@@ -1,0 +1,18 @@
+AC   P35618; Q57121;
+Bacteriocin sakacin-P precursor (Sakacin 674).
+"Cloning and sequencing of sakP encoding sakacin P, the bacteriocin
+produced by Lactobacillus sake LTH 673.";
+"Purification and cloning of sakacin 674, a bacteriocin from
+Lactobacillus sake Lb674.";
+"Analysis of the sakacin P gene cluster from Lactobacillus sake Lb674
+and its expression in sakacin-negative Lb. sake strains.";
+"Characterization of the bacteriocins curvacin A from Lactobacillus
+curvatus LTH1174 and sakacin P from L. sake LTH673.";
+-!- FUNCTION: Bactericidal activity; inhibits closely related
+    Lactobacilli, Listeria monocytogenes and ivanovvi, Enterococcus
+    faecalis, Carnobacterium sp and Brocothrix thermosphacta.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the bacteriocin class IIA/YGNGV family.
+3D-structure; Antibiotic; Antimicrobial; Bacteriocin;
+Direct protein sequencing.
+TMZERO

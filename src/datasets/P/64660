@@ -1,0 +1,16 @@
+AC   P48242;
+Glutamate-binding protein precursor.
+"Structure of the gluABCD cluster encoding the glutamate uptake system
+of Corynebacterium glutamicum.";
+"Complete genomic sequence of Corynebacterium glutamicum ATCC 13032.";
+"The complete Corynebacterium glutamicum ATCC 13032 genome sequence
+and its impact on the production of L-aspartate-derived amino acids
+and vitamins.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for glutamate.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Probable).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Amino-acid transport; Complete proteome; Lipoprotein; Membrane;
+Palmitate; Signal; Transport.
+TMZERO

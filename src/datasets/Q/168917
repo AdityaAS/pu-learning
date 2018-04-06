@@ -1,0 +1,19 @@
+AC   P31650;
+Sodium- and chloride-dependent GABA transporter 4 (GAT4).
+"Molecular characterization of four pharmacologically distinct gamma-
+aminobutyric acid transporters in mouse brain.";
+-!- FUNCTION: Terminates the action of GABA by its high affinity
+    sodium-dependent reuptake into presynaptic terminals. Can also
+    transport beta-alanine and taurine.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=0.8 uM for GABA;
+      KM=99 uM for beta-alanine;
+      KM=1.4 mM for taurine;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Brain.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+Glycoprotein; Membrane; Neurotransmitter transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

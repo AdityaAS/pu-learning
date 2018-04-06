@@ -1,0 +1,10 @@
+AC   Q8X8Q3;
+Hypothetical protein ydaM.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- SIMILARITY: Contains 1 GGDEF domain.
+-!- SIMILARITY: Contains 1 PAC (PAS-associated C-terminal) domain.
+-!- SIMILARITY: Contains 2 PAS (PER-ARNT-SIM) domains.
+Complete proteome; Hypothetical protein; Repeat.
+TMZERO

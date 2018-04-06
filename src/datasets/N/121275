@@ -1,0 +1,14 @@
+AC   Q71YB3;
+3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+(Ketopantoate hydroxymethyltransferase).
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- CATALYTIC ACTIVITY: 5,10-methylenetetrahydrofolate + 3-methyl-2-
+    oxobutanoate + H(2)O = tetrahydrofolate + 2-dehydropantoate.
+-!- PATHWAY: Cofactor biosynthesis; pantothenate biosynthesis;
+    pantoate from 3-methyl-2-oxobutanoate: step 1.
+-!- SIMILARITY: Belongs to the panB family.
+Complete proteome; Methyltransferase; Pantothenate biosynthesis;
+Transferase.
+TMZERO

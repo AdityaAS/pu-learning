@@ -1,0 +1,25 @@
+AC   P0ABN9; P14409; Q2M6I1;
+Anaerobic C4-dicarboxylate transporter dcuB.
+"Construction and properties of Escherichia coli mutants defective in
+two genes encoding homologous membrane proteins with putative roles in
+anaerobic C4-dicarboxylic acid transport.";
+"Escherichia coli possesses two homologous anaerobic C4-dicarboxylate
+membrane transporters (DcuA and DcuB) distinct from the aerobic
+dicarboxylate transport system (Dct).";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the FNR-regulated fumarase gene (fumB) of
+Escherichia coli K-12.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Responsible for the transport of C4-dicarboxylates from
+    the periplasm across the inner membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the dcuA/dcuB transporter (TC 2.A.13.1)
+    family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTEN

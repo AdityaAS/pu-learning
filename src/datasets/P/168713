@@ -1,0 +1,24 @@
+AC   O88446;
+Organic cation transporter 3 (Solute carrier family 22 member 3).
+"Cloning and functional characterization of a potential-sensitive,
+polyspecific organic cation transporter (OCT3) most abundantly
+expressed in placenta.";
+"Identity of the organic cation transporter OCT3 as the extraneuronal
+monoamine transporter (uptake2) and evidence for the expression of the
+transporter in the brain.";
+-!- FUNCTION: Mediates potential-dependent transport of a variety of
+    organic cations. May play a significant role in the disposition of
+    cationic neurotoxins and neurotransmitters in the brain.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in placenta. Moderate
+    expression in intestine, heart and brain. In the brain, widely
+    expressed, especially in hippocampus, cerebellum and cerebral
+    cortex. Expression is low in kidney and lung and undetectable in
+    liver.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Organic
+    cation transporter family.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0015651; F:quaternary ammonium group transporter activity; IMP:RGD.
+ GO:0015697; P:quaternary ammonium group transport; IMP:RGD.
+Glycoprotein; Ion transport; Membrane; Transmembrane; Transport.
+TMSEVEN

@@ -1,0 +1,14 @@
+AC   Q27179;
+Caltractin ICL1B (Centrin).
+"Characterization of centrin genes in Paramecium.";
+-!- FUNCTION: Plays a fundamental role in microtubule-organizing
+    center structure and function. Component of the infraciliary
+    lattice (ICL) and the ciliary basal bodies.
+-!- SUBCELLULAR LOCATION: Cytoplasm; cytoskeleton. Note=ICL, innermost
+    fibrous network of the cortical cytoskeleton.
+-!- MISCELLANEOUS: Binds two moles of calcium per mole of protein (By
+    similarity).
+-!- SIMILARITY: Belongs to the centrin family.
+-!- SIMILARITY: Contains 4 EF-hand domains.
+Calcium; Cytoskeleton; Repeat.
+TMZERO

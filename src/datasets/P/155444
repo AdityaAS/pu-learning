@@ -1,0 +1,19 @@
+AC   Q8QFQ4; P82847;
+Ranatuerin-2P precursor.
+"Granular gland transcriptomes in stimulated amphibian skin
+secretions.";
+"Peptides with antimicrobial activity from four different families
+isolated from the skins of the North American frogs Rana luteiventris,
+Rana berlandieri and Rana pipiens.";
+-!- FUNCTION: Antibacterial activity against Gram-positive bacterium
+    S.aureus and Gram-negative bacterium E.coli. Has activity against
+    C.albicans.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin glands.
+-!- MASS SPECTROMETRY: MW=3000.1; METHOD=Electrospray; RANGE=45-71;
+    NOTE=Ref.2.
+-!- SIMILARITY: Belongs to the frog skin active peptide (FSAP) family.
+    Brevinin subfamily.
+Amphibian defense peptide; Antibiotic; Antimicrobial;
+Direct protein sequencing; Fungicide; Signal.
+TMZERO

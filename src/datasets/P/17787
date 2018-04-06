@@ -1,0 +1,18 @@
+AC   P19072;
+Branched chain amino acid transport system II carrier protein (LIV-
+II).
+"Cloning and nucleotide sequence of the gene braB coding for the
+sodium-coupled branched-chain amino acid carrier in Pseudomonas
+aeruginosa PAO.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Component of the LIV-II transport system for branched-
+    chain amino acids. BraB is specific for isoleucine, leucine and
+    valine. The LIV-II transport system is coupled to sodium and
+    lithium ions.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the braC/braZ/brnQ transporter family.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTWELVE

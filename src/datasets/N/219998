@@ -1,0 +1,10 @@
+AC   Q5HPJ7;
+UPF0154 protein SERP0914.
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- SIMILARITY: Belongs to the UPF0154 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Membrane; Transmembrane.
+TMONE

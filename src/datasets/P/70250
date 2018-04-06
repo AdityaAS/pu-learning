@@ -1,0 +1,16 @@
+AC   P46085;
+Hemagglutinin components HA-22/23/53 precursor [Contains:
+Hemagglutinin component HA-23A; Hemagglutinin component HA-23B;
+Hemagglutinin component HA-22A; Hemagglutinin component HA-22B;
+Hemagglutinin component HA-53].
+"Molecular construction of Clostridium botulinum type C progenitor
+toxin and its gene organization.";
+"Organization of the botulinum neurotoxin C1 gene and its associated
+non-toxic protein genes in Clostridium botulinum C 468.";
+-!- SUBUNIT: HA is composed of subcomponents having 53, 33, 22-23, and
+    17 kDa. Botulinum toxins are produced as progenitor toxins of
+    large molecular sizes of 12S (M toxin), 16S (L toxin) and 19S (LL
+    toxin). M toxin consists of a nontoxic component and the
+    neurotoxin. L toxin consists of the M toxin and HA.
+Direct protein sequencing; Hemagglutinin.
+TMZERO

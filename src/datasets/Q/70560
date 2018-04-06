@@ -1,0 +1,23 @@
+AC   O00219; Q9NYP0;
+Hyaluronan synthase 3 (EC 2.4.1.212) (Hyaluronate synthase 3)
+(Hyaluronic acid synthase 3) (HA synthase 3).
+"Molecular characterization of hyaluronan synthase 3.";
+"Molecular cloning and characterization of a cDNA encoding the third
+putative mammalian hyaluronan synthase.";
+-!- FUNCTION: Plays a role in hyaluronan/hyaluronic acid (HA)
+    synthesis.
+-!- CATALYTIC ACTIVITY: n UDP-N-acetyl-D-glucosamine + n UDP-D-
+    glucuronate = (beta-N-acetyl-D-glucosaminyl(1->4)-beta-D-
+    glucuronosyl(1->3))(n) + 2n UDP.
+-!- COFACTOR: Magnesium.
+-!- PATHWAY: Glycan biosynthesis; hyaluronan biosynthesis.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the nodC/HAS family.
+-!- WEB RESOURCE: NAME=GGDB; NOTE=GlycoGene database";
+    URL="http://ggdb.muse.aist.go.jp/GGDB/index.jsp".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005975; P:carbohydrate metabolism; TAS:ProtInc.
+Glycoprotein; Glycosyltransferase; Membrane; Transferase;
+Transmembrane.
+TMSEVEN

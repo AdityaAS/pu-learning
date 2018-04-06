@@ -1,0 +1,13 @@
+AC   Q8CPI3;
+3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100) (3-ketoacyl-
+acyl carrier protein reductase).
+"Genome-based analysis of virulence genes in a non-biofilm-forming
+Staphylococcus epidermidis strain (ATCC 12228).";
+-!- CATALYTIC ACTIVITY: (3R)-3-hydroxyacyl-[acyl-carrier-protein] +
+    NADP(+) = 3-oxoacyl-[acyl-carrier-protein] + NADPH.
+-!- PATHWAY: Fatty acid biosynthesis pathway; first reduction step.
+-!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+    (SDR) family.
+Complete proteome; Fatty acid biosynthesis; Lipid synthesis; NADP;
+Oxidoreductase.
+TMZERO

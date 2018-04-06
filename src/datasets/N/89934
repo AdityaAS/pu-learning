@@ -1,0 +1,12 @@
+AC   P01625;
+Ig kappa chain V-IV region Len.
+"The primary structure of a monoclonic immunoglobulin-L-chain of
+subgroup IV of the kappa type (Bence-Jones protein Len).";
+-!- MISCELLANEOUS: The C region of this chain has the INV (3) marker.
+-!- MISCELLANEOUS: This is a Bence-Jones protein.
+ GO:0005576; C:extracellular region; NAS:UniProtKB.
+ GO:0003823; F:antigen binding; NAS:UniProtKB.
+ GO:0006955; P:immune response; NAS:UniProtKB.
+3D-structure; Bence-Jones protein; Direct protein sequencing;
+Immunoglobulin domain; Immunoglobulin V region.
+TMZERO

@@ -1,0 +1,18 @@
+AC   Q6AAD6;
+4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148) (CMK)
+(4-(cytidine-5'-diphospho)-2-C-methyl-D-erythritol kinase).
+"The complete genome sequence of Propionibacterium acnes, a commensal
+of human skin.";
+-!- FUNCTION: Catalyzes the phosphorylation of the position 2 hydroxy
+    group of 4-diphosphocytidyl-2C-methyl-D-erythritol (By
+    similarity).
+-!- CATALYTIC ACTIVITY: ATP + 4-(cytidine 5'-diphospho)-2-C-methyl-D-
+    erythritol = ADP + 2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-
+    D-erythritol.
+-!- PATHWAY: Isoprenoid biosynthesis; isopentenyl-PP biosynthesis via
+    DXP pathway; isopentenyl-PP from 1-deoxy-D-xylulose 5-phosphate:
+    step 3.
+-!- SIMILARITY: Belongs to the GHMP kinase family. IspE subfamily.
+ATP-binding; Complete proteome; Isoprene biosynthesis; Kinase;
+Nucleotide-binding; Transferase.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P82850;
+Potassium channel toxin kappa-KTx 1.1 (Kappa-hefutoxin-1) (Kappa-
+HfTx1).
+"Kappa-hefutoxin1, a novel toxin from the scorpion Heterometrus
+fulvipes with unique structure and function. Importance of the
+functional diad in potassium channel selectivity.";
+-!- FUNCTION: Slows the activation kinetics of Kv1.3 currents, and
+    blocks Kv1.3 and Kv1.2 potassium channels. This block is dose-
+    dependent, voltage-independent, and reversible. Has no effect on
+    Kv1.1 currents.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- MASS SPECTROMETRY: MW=2655.4; MW_ERR=0.2; METHOD=Electrospray;
+    RANGE=1-22; NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the short scorpion toxin superfamily.
+    Potassium channel inhibitor kappa-KTx family. Kappa-KTx 1
+    subfamily.
+3D-structure; Amidation; Direct protein sequencing;
+Ionic channel inhibitor; Neurotoxin; Potassium channel inhibitor;
+Toxin.
+TMZERO

@@ -1,0 +1,27 @@
+AC   Q92519;
+Tribbles homolog 2 (TRB-2).
+"The cloning of a cDNA for putative serine/threonine kinase expressed
+in human osteoblast.";
+"Generation and annotation of the DNA sequences of human chromosomes 2
+and 4.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Human tribbles, a protein family controlling mitogen-activated
+protein kinase cascades.";
+"Identification of tribbles homolog 2 as an autoantigen in autoimmune
+uveitis by phage display.";
+-!- FUNCTION: Interacts with MAPK kinases and regulates activation of
+    MAP kinases. Does not display kinase activity (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Cytoplasm;
+    cytoskeleton (By similarity). Note=May associate with the
+    cytoskeleton (By similarity).
+-!- TISSUE SPECIFICITY: Highly expressed in peripheral blood
+    leukocytes.
+-!- MISCELLANEOUS: Antibodies against TRIB2 are present in sera from
+    patients with autoimmune uveitis.
+-!- SIMILARITY: Belongs to the tribbles family.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005737; C:cytoplasm; ISS:UniProtKB.
+ GO:0043405; P:regulation of MAPK activity; ISS:UniProtKB.
+Protein kinase inhibitor.
+TMZERO

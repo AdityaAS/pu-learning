@@ -1,0 +1,22 @@
+AC   Q5BBV9;
+RuvB-like helicase 1 (EC 3.6.1.-).
+"Sequencing of Aspergillus nidulans and comparative analysis with A.
+fumigatus and A. oryzae.";
+-!- FUNCTION: DNA helicase which participates in several chromatin
+    remodeling complexes, including the SWR1 and the INO80 complexes.
+    The SWR1 complex mediates the ATP-dependent exchange of histone
+    H2A for the H2A variant HZT1 leading to transcriptional regulation
+    of selected genes by chromatin remodeling. The INO80 complex
+    remodels chromatin by shifting nucleosomes and is involved in DNA
+    repair. Also involved in pre-rRNA processing (By similarity).
+-!- SUBUNIT: May form heterododecamers with RVB2. Component of the
+    SWR1 chromatin remodeling complex, the INO80 chromatin remodeling
+    complex, and of the R2TP complex (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the ruvB family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction.
+Activator; ATP-binding; Chromatin regulator; DNA damage; DNA repair;
+Helicase; Hydrolase; Nuclear protein; Nucleotide-binding;
+Transcription; Transcription regulation.
+TMZERO

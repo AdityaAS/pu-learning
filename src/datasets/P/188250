@@ -1,0 +1,19 @@
+AC   P08943; P01536; P84186;
+Viscotoxin-B precursor [Contains: Viscotoxin-B (Viscotoxin-B2); Acidic
+protein] (Fragment).
+"Isolation and characterization of cDNAs encoding viscotoxins of
+mistletoe (Viscum album).";
+"The amino acid sequence of viscotoxin B from the European mistletoe
+(Viscum album L, loranthaceae).";
+"Comparative membrane interaction study of viscotoxins A3, A2 and B
+from mistletoe (Viscum album) and connections with their structures.";
+-!- FUNCTION: Thionins are small plant proteins which are toxic to
+    animal cells. They seem to exert their toxic effect at the level
+    of the cell membrane. Their precise function is not known.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- MASS SPECTROMETRY: MW=4852.5; METHOD=Electrospray; RANGE=7-52;
+    NOTE=Ref.3.
+-!- SIMILARITY: Belongs to the plant thionin (TC 1.C.44) family.
+3D-structure; Direct protein sequencing; Plant defense; Plant toxin;
+Signal; Toxin.
+TMZERO

@@ -1,0 +1,38 @@
+AC   P35180;
+Mitochondrial import receptor subunit TOM20 (Mitochondrial 20 kDa
+outer membrane protein) (Translocase of outer membrane 20 kDa subunit)
+(Protein MAS20).
+"Functional cooperation of mitochondrial protein import receptors in
+yeast.";
+"Deletion of the receptor MOM19 strongly impairs import of cleavable
+preproteins into Saccharomyces cerevisiae mitochondria.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Preprotein translocase of the outer mitochondrial membrane: molecular
+dissection and assembly of the general import pore complex.";
+"Tom22 is a multifunctional organizer of the mitochondrial preprotein
+translocase.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Central component of the TOM (translocase of outer
+    membrane) receptor complex responsible for the recognition and
+    translocation of cytosolically synthesized mitochondrial
+    preproteins. Together with TOM22 functions as the transit peptide
+    receptor at the surface of the mitochondrion outer membrane and
+    facilitates the movement of preproteins into the TOM40
+    translocation pore.
+-!- SUBUNIT: Forms part of the TOM (translocase of outer membrane)
+    complex that consists of at least 7 different proteins (TOM5,
+    TOM6, TOM7, TOM20, TOM22, TOM40 and TOM70). In the complex
+    interacts with TOM22.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 5680 molecules/cell.
+-!- SIMILARITY: Belongs to the Tom20 family.
+ GO:0031307; C:integral to mitochondrial outer membrane; IDA:SGD.
+ GO:0005742; C:mitochondrial outer membrane translocase co...; TAS:SGD.
+ GO:0008565; F:protein transporter activity; IPI:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; IMP:SGD.
+Complete proteome; Membrane; Mitochondrion; Outer membrane;
+Protein transport; Transmembrane; Transport.
+TMONE

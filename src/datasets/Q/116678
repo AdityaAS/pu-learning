@@ -1,0 +1,17 @@
+AC   Q9ZCG3;
+NADH-quinone oxidoreductase chain J (EC 1.6.99.5) (NADH dehydrogenase
+I, chain J) (NDH-1, chain J).
+"The genome sequence of Rickettsia prowazekii and the origin of
+mitochondria.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain.
+    Couples the redox reaction to proton translocation (for every two
+    electrons transferred, four hydrogen ions are translocated across
+    the cytoplasmic membrane), and thus conserves the redox energy in
+    a proton gradient (By similarity).
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the complex I subunit 6 family.
+Complete proteome; Membrane; NAD; Oxidoreductase; Quinone;
+Transmembrane.
+TMFIVE

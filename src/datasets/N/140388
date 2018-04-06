@@ -1,0 +1,16 @@
+AC   P24554; Q2M5S8;
+DNA repair protein radA (DNA repair protein sms).
+"Mutational analysis of the Escherichia coli serB promoter region
+reveals transcriptional linkage to a downstream gene.";
+"Escherichia coli DNA repair genes radA and sms are the same gene.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: May play a role in the repair of endogenous alkylation
+    damage.
+-!- SIMILARITY: Belongs to the recA family. RadA subfamily.
+ATP-binding; Complete proteome; DNA damage; DNA repair; DNA-binding;
+Metal-binding; Nucleotide-binding; Zinc; Zinc-finger.
+TMZERO

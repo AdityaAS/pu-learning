@@ -1,0 +1,11 @@
+AC   P76369; O07996;
+Putative HTH-type transcriptional regulator yeeY.
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- SIMILARITY: Contains 1 HTH lysR-type DNA-binding domain.
+Complete proteome; DNA-binding; Hypothetical protein; Transcription;
+Transcription regulation.
+TMZERO

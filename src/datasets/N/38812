@@ -1,0 +1,13 @@
+AC   Q92L46;
+Diaminopimelate epimerase (EC 5.1.1.7) (DAP epimerase).
+"Analysis of the chromosome sequence of the legume symbiont
+Sinorhizobium meliloti strain 1021.";
+-!- CATALYTIC ACTIVITY: LL-2,6-diaminoheptanedioate = meso-
+    diaminoheptanedioate.
+-!- PATHWAY: Amino-acid biosynthesis; L-lysine biosynthesis via DAP
+    pathway; DL-diaminopimelate from LL-diaminopimelate: single step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the diaminopimelate epimerase family.
+Amino-acid biosynthesis; Complete proteome; Isomerase;
+Lysine biosynthesis.
+TMZERO

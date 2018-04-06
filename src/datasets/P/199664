@@ -1,0 +1,19 @@
+AC   Q8UZK5;
+Unique short US11 glycoprotein precursor (gpUS11) (HXLF1).
+"Immune evasion genes from the Towne strain of human
+cytomegalovirus.";
+-!- FUNCTION: Redirects newly synthesized MHC class I heavy chains via
+    the SEC61 translocon to the cytosol where they undergo proteasome-
+    dependent destruction. In consequence, infected cells are masked
+    for immune recognition by cytotoxic T-lymphocytes (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; single-pass type I membrane protein (By similarity).
+-!- DEVELOPMENTAL STAGE: Expressed at early and late period of virus
+    infection (By similarity).
+-!- SIMILARITY: Belongs to the cytomegaloviruses US6 family.
+-!- SIMILARITY: Contains 1 Ig-like H-type (immunoglobulin-like)
+    domain.
+Early protein; Endoplasmic reticulum; Glycoprotein;
+Immunoglobulin domain; Late protein; Membrane; Signal; Transmembrane;
+Viral immunoevasion.
+TMONE

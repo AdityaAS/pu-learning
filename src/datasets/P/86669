@@ -1,0 +1,46 @@
+AC   Q14722; Q13031; Q13302; Q16547; Q99869;
+Voltage-gated potassium channel subunit beta-1 (K(+) channel subunit
+beta-1) (Kv-beta-1).
+"A novel K+ channel beta-subunit (hKv beta 1.3) is produced via
+alternative mRNA splicing.";
+"Molecular cloning and functional expression of a novel potassium
+channel beta-subunit from human atrium.";
+"Characterization of a voltage-gated K+ channel beta subunit expressed
+in human heart.";
+"Alternative splicing of the human Shaker K+ channel beta 1 gene and
+functional expression of the beta 2 gene product.";
+"Structural and functional characterization of human potassium channel
+subunit beta 1 (KCNA1B).";
+"A novel beta subunit increases rate of inactivation of specific
+voltage-gated potassium channel alpha subunits.";
+-!- FUNCTION: Accessory potassium channel protein which modulates the
+    activity of the pore-forming alpha subunit. All three isoforms
+    alter the functional properties of Kv1.4 and Kv1.5. Isoform KvB1.2
+    has no effect on Kv1.1, Kv1.2 or Kv2.1.
+-!- SUBUNIT: Forms heteromultimeric complex with alpha subunits.
+    Interacts with SQSTM1 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=KvB1.3;
+      IsoId=Q14722-1; Sequence=Displayed;
+    Name=KvB1.1;
+      IsoId=Q14722-2; Sequence=VSP_001051;
+    Name=KvB1.2;
+      IsoId=Q14722-3; Sequence=VSP_001050;
+      Note=Ref.6 (AAC50113) sequence is in conflict in position:
+      16:L->S;
+-!- TISSUE SPECIFICITY: In brain, expression is most prominent in
+    caudate nucleus, hippocampus and thalamus. Significant expression
+    also detected in amygdala and subthalamic nucleus. Also expressed
+    in both healthy and cardiomyopathic heart. Up to four times more
+    abundant in left ventricle than left atrium.
+-!- DOMAIN: Alteration of functional properties of alpha subunit is
+    mediated through N-terminal domain of beta subunit (Probable).
+-!- SIMILARITY: Belongs to the shaker potassium channel beta subunit
+    family.
+ GO:0015459; F:potassium channel regulator activity; TAS:ProtInc.
+ GO:0006813; P:potassium ion transport; TAS:ProtInc.
+Alternative splicing; Ion transport; Ionic channel; Potassium;
+Potassium transport; Transport; Voltage-gated channel.
+TMZERO

@@ -1,0 +1,15 @@
+AC   O33844;
+DNA adenine methylase (EC 2.1.1.72) (Deoxyadenosyl-methyltransferase)
+(DNA adenine methyltransferase) (M.TpaI).
+"Identification and characterization of a Treponema pallidum subsp.
+pallidum gene encoding a DNA adenine methyltransferase.";
+"Complete genome sequence of Treponema pallidum, the syphilis
+spirochete.";
+-!- FUNCTION: Methylates DNA within the sequence GATC. Directly
+    involved in methyl-directed DNA mismatch repair, DNA replication,
+    and gene expression.
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + DNA adenine = S-
+    adenosyl-L-homocysteine + DNA 6-methylaminopurine.
+-!- SIMILARITY: Belongs to the N4/N6-methyltransferase family.
+Complete proteome; DNA replication; Methyltransferase; Transferase.
+TMZERO

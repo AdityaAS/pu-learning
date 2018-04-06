@@ -1,0 +1,15 @@
+AC   Q75B93;
+RNA polymerase II transcription factor B subunit 4 (RNA polymerase II
+transcription factor B p34 subunit) (RNA polymerase II transcription
+factor B 34 kDa subunit).
+"The Ashbya gossypii genome as a tool for mapping the ancient
+Saccharomyces cerevisiae genome.";
+-!- FUNCTION: Component of the core-TFIIH basal transcription factor
+    involved in nucleotide excision repair (NER) of DNA. Has a role in
+    the initiation of transcription (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the TFB4 family.
+Complete proteome; DNA damage; DNA repair; Metal-binding;
+Nuclear protein; Transcription; Transcription regulation; Zinc;
+Zinc-finger.
+TMZERO

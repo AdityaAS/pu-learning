@@ -1,0 +1,25 @@
+AC   Q5ZIY5;
+Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B
+delta isoform (PP2A, subunit B, B-delta isoform) (PP2A, subunit B,
+B55-delta isoform) (PP2A, subunit B, PR55-delta isoform) (PP2A,
+subunit B, R2-delta isoform).
+"Full-length cDNAs from chicken bursal lymphocytes to facilitate gene
+function analysis.";
+-!- FUNCTION: The B regulatory subunit might modulate substrate
+    selectivity and catalytic activity, and also might direct the
+    localization of the catalytic enzyme to a particular subcellular
+    compartment (By similarity).
+-!- SUBUNIT: PP2A consists of a common heterodimeric core enzyme,
+    composed of a 36 kDa catalytic subunit (subunit C) and a 65 kDa
+    constant regulatory subunit (PR65 or subunit A), that associates
+    with a variety of regulatory subunits. Proteins that associate
+    with the core dimer include three families of regulatory subunits
+    B (the R2/B/PR55/B55, R3/B''/PR72/PR130/PR59 and R5/B'/B56
+    families), the 48 kDa variable regulatory subunit, viral proteins,
+    and cell signaling molecules (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the phosphatase 2A regulatory subunit B
+    family.
+-!- SIMILARITY: Contains 7 WD repeats.
+Repeat; WD repeat.
+TMZERO

@@ -1,0 +1,33 @@
+AC   P08104;
+Sodium channel protein type 3 subunit alpha (Sodium channel protein
+type III subunit alpha) (Voltage-gated sodium channel subunit alpha
+Nav1.3) (Sodium channel protein, brain III subunit alpha) (Voltage-
+gated sodium channel subtype III).
+"Primary structure of rat brain sodium channel III deduced from the
+cDNA sequence.";
+-!- FUNCTION: Mediates the voltage-dependent sodium ion permeability
+    of excitable membranes. Assuming opened or closed conformations in
+    response to the voltage difference across the membrane, the
+    protein forms a sodium-selective channel through which Na(+) ions
+    may pass in accordance with their electrochemical gradient.
+-!- SUBUNIT: The sodium channel consists of a large polypeptide and 2-
+    3 smaller ones. This sequence represents a large polypeptide.
+    Interacts with NEDD4L (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DOMAIN: The sequence contains 4 internal repeats, each with 5
+    hydrophobic segments (S1,S2,S3,S5,S6) and one positively charged
+    segment (S4). Segments S4 are probably the voltage-sensors and are
+    characterized by a series of positively charged amino acids at
+    every third position.
+-!- PTM: May be ubiquitinated by NEDD4L; which would promote its
+    endocytosis (By similarity).
+-!- SIMILARITY: Belongs to the sodium channel family.
+-!- SIMILARITY: Contains 1 IQ domain.
+ GO:0001518; C:voltage-gated sodium channel complex; TAS:RGD.
+ GO:0005248; F:voltage-gated sodium channel activity; TAS:RGD.
+ GO:0009611; P:response to wounding; IEP:RGD.
+ GO:0019233; P:sensory perception of pain; IMP:RGD.
+3D-structure; Glycoprotein; Ion transport; Ionic channel; Membrane;
+Repeat; Sodium; Sodium channel; Sodium transport; Transmembrane;
+Transport; Ubl conjugation; Voltage-gated channel.
+TMTWENTYFOUR

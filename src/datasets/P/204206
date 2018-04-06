@@ -1,0 +1,12 @@
+AC   P09962; Q7PCD7;
+Holin (Lysis protein 13).
+"Phage P22 lysis genes: nucleotide sequences and functional
+relationships with T4 and lambda genes.";
+"Sequence of the genome of Salmonella bacteriophage P22.";
+"Corrected sequence of the bacteriophage P22 genome.";
+-!- FUNCTION: Essential for lysis of the bacterial cell wall by
+    disrupting the cell membrane, thereby giving hydrolytic enzymes
+    access to the cell wall.
+-!- SIMILARITY: Belongs to the lambda phage S protein family.
+Direct protein sequencing; Late protein; Phage lysis protein.
+TMZERO

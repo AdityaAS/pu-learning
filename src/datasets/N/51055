@@ -1,0 +1,13 @@
+AC   P0A0L7; O85382;
+Enterotoxin type G precursor (SEG).
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: Staphylococcal enterotoxins cause the intoxication
+    staphylococcal food poisoning syndrome. The illness is
+    characterized by high fever, hypotension, diarrhea, shock, and in
+    some cases death.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the staphylococcal/streptococcal toxin
+    family.
+Complete proteome; Enterotoxin; Signal; Superantigen; Toxin.
+TMZERO

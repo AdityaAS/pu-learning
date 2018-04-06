@@ -1,0 +1,14 @@
+AC   P41418;
+Late expression factor 2.
+"Nucleotide sequence of the Autographa californica nuclear
+polyhedrosis 9.4 kbp EcoRI-I and -R (polyhedrin gene) region.";
+"The complete DNA sequence of Autographa californica nuclear
+polyhedrosis virus.";
+"Three baculovirus genes involved in late and very late gene
+expression: ie-1, ie-n, and lef-2.";
+-!- FUNCTION: Required for late and very late gene expression.
+    Specifically required for expression from the vp39 and polh
+    promoters.
+-!- SIMILARITY: Belongs to the baculoviruses LEF-2 family.
+Transcription; Transcription regulation.
+TMZERO

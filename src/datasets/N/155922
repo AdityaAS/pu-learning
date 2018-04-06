@@ -1,0 +1,17 @@
+AC   Q5M807;
+E3 ubiquitin-protein ligase RNF5 (EC 6.3.2.-) (RING finger protein 5).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Has E2-dependent E3 ubiquitin-protein ligase activity.
+    May function together with E2 ubiquitin-conjugating enzymes
+    UBE2D1/UBCH5A and UBE2D2/UBC4. Mediates ubiquitination of
+    PXN/paxillin. May be involved in regulation of cell motility and
+    localization of PXN/paxillin (By similarity).
+-!- SUBUNIT: Interacts with PXN (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential). Note=Predominantly located in the plasma membrane,
+    with some localization occurring within cytoplasmic organelles.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+Ligase; Membrane; Metal-binding; Transmembrane;
+Ubl conjugation pathway; Zinc; Zinc-finger.
+TMTWO

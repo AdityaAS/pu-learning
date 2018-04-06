@@ -1,0 +1,13 @@
+AC   Q02073;
+20 kDa chaperonin, chloroplast precursor (Protein Cpn21) (Chloroplast
+protein Cpn10) (Chloroplast chaperonin 10) (Ch-CPN10).
+"Identification, characterization, and DNA sequence of a functional
+'double' groES-like chaperonin from chloroplasts of higher plants.";
+-!- FUNCTION: Seems to function only as a cochaperonin, along with
+    cpn60, and in certain cases is essential for the discharge of
+    biologically active proteins from cpn60.
+-!- SUBUNIT: Forms stable complexes with CPN60 in the presence of ATP.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the groES chaperonin family.
+Chaperone; Chloroplast; Plastid; Repeat; Transit peptide.
+TMZERO

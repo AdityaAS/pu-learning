@@ -1,0 +1,28 @@
+AC   P0AEX3; P17448;
+Alpha-ketoglutarate permease.
+"A new gene located between pss and rrnG on the Escherichia coli
+chromosome.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Transcriptional termination sequence at the end of the Escherichia
+coli ribosomal RNA G operon: complex terminators and
+antitermination.";
+"Sequence of the distal end of E. coli ribosomal RNA rrnG operon.";
+"Escherichia coli kgtP encodes an alpha-ketoglutarate transporter.";
+"Membrane topology model of Escherichia coli alpha-ketoglutarate
+permease by phoA fusion analysis.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Uptake of alpha-ketoglutarate across the boundary
+    membrane with the concomitant import of a cation (symport system).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Inner membrane; Membrane; Symport; Transmembrane;
+Transport.
+TMTWELVE

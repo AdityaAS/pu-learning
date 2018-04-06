@@ -1,0 +1,17 @@
+AC   P01515;
+Mastoparan-X (MP-X).
+"A new mast cell degranulating peptide homologous to mastoparan in the
+venom of Japanese hornet (Vespa xanthoptera).";
+"Membrane-bound conformation of mastoparan-X, a G-protein-activating
+peptide.";
+"G protein-bound conformation of mastoparan-X: heteronuclear
+multidimensional transferred nuclear overhauser effect analysis of
+peptide uniformly enriched with 13C and 15N.";
+-!- FUNCTION: Mast cell degranulating peptide. Activates G proteins
+    that couple to phospholipase C.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the MCD family. Mastoparan subfamily.
+3D-structure; Amidation; Direct protein sequencing;
+Mast cell degranulation.
+TMZERO

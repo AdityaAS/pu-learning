@@ -1,0 +1,16 @@
+AC   Q47ZU7;
+FMN-dependent NADH-azoreductase 2 (EC 1.7.-.-) (FMN-dependent NADH-azo
+compound oxidoreductase 2) (Azo-dye reductase 2).
+"The psychrophilic lifestyle as revealed by the genome sequence of
+Colwellia psychrerythraea 34H through genomic and proteomic
+analyses.";
+-!- FUNCTION: Catalyzes the reductive cleavage of azo bond in aromatic
+    azo compounds to the corresponding amines. Requires NADH, but not
+    NADPH, as an electron donor for its activity (By similarity).
+-!- SIMILARITY: Belongs to the azoreductase type 1 family.
+ GO:0009055; F:electron carrier activity; IEA:HAMAP.
+ GO:0010181; F:FMN binding; IEA:HAMAP.
+ GO:0008752; F:FMN reductase activity; IEA:HAMAP.
+ GO:0016652; F:oxidoreductase activity, acting on NADH or ...; IEA:HAMAP.
+Complete proteome; Flavoprotein; FMN; NAD; Oxidoreductase.
+TMZERO

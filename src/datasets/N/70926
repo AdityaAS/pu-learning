@@ -1,0 +1,12 @@
+AC   P01944;
+Hemoglobin subunit alpha (Hemoglobin alpha chain) (Alpha-globin).
+"Primary structure of hemoglobins of the musk rat (Ondatra zibethica,
+Rodentia).";
+-!- FUNCTION: Involved in oxygen transport from the lung to the
+    various peripheral tissues.
+-!- SUBUNIT: Heterotetramer of two alpha chains and two beta chains.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- SIMILARITY: Belongs to the globin family.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

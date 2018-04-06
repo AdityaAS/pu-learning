@@ -1,0 +1,15 @@
+AC   Q8NMQ1;
+ATP-dependent Clp protease adaptor protein clpS.
+"Complete genomic sequence of Corynebacterium glutamicum ATCC 13032.";
+"The complete Corynebacterium glutamicum ATCC 13032 genome sequence
+and its impact on the production of L-aspartate-derived amino acids
+and vitamins.";
+-!- FUNCTION: Involved in the modulation of the specificity of the
+    clpAP-mediated ATP-dependent protein degradation (By similarity).
+-!- SUBUNIT: Binds to the N-terminal domain of the chaperone ClpA (By
+    similarity).
+-!- SIMILARITY: Belongs to the clpS family.
+ GO:0008462; F:endopeptidase Clp activity; IEA:HAMAP.
+ GO:0006508; P:proteolysis; IEA:HAMAP.
+Complete proteome.
+TMZERO

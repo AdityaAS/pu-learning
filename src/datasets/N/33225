@@ -1,0 +1,36 @@
+AC   P01587;
+Granulocyte-macrophage colony-stimulating factor precursor (GM-CSF)
+(Colony-stimulating factor) (CSF).
+"Structure of the chromosomal gene for granulocyte-macrophage colony
+stimulating factor: comparison of the mouse and human genes.";
+"The structure and expression of the murine gene encoding granulocyte-
+macrophage colony stimulating factor: evidence for utilisation of
+alternative promoters.";
+"Recombinant murine GM-CSF from E. coli has biological activity and is
+neutralized by a specific antiserum.";
+"Structure and expression of the mRNA for murine granulocyte-
+macrophage colony stimulating factor.";
+"Molecular cloning of cDNA encoding a murine haematopoietic growth
+regulator, granulocyte-macrophage colony stimulating factor.";
+"Cloning, sequence, and expression of a human granulocyte/macrophage
+colony-stimulating factor.";
+"Purification and partial amino acid sequence of asialo murine
+granulocyte-macrophage colony stimulating factor.";
+"Characterization of human and mouse granulocyte-macrophage-colony-
+stimulating factors derived from Escherichia coli.";
+"Single proline substitutions in predicted alpha-helices of murine
+granulocyte-macrophage colony-stimulating factor result in a loss in
+bioactivity and altered glycosylation.";
+-!- FUNCTION: Cytokine that stimulates the growth and differentiation
+    of hematopoietic precursor cells from various lineages, including
+    granulocytes, macrophages, eosinophils and erythrocytes.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the GM-CSF family.
+ GO:0005125; F:cytokine activity; IDA:MGI.
+ GO:0043011; P:myeloid dendritic cell differentiation; IDA:MGI.
+ GO:0008284; P:positive regulation of cell proliferation; IDA:MGI.
+ GO:0045885; P:positive regulation of survival gene produc...; IDA:MGI.
+Cytokine; Direct protein sequencing; Glycoprotein; Growth factor;
+Signal.
+TMZERO

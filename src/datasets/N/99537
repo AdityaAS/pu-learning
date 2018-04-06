@@ -1,0 +1,20 @@
+AC   Q10664;
+Dual specificity mitogen-activated protein kinase kinase mek-2
+(EC 2.7.12.2) (MAP kinase kinase mek-2).
+"MEK-2, a Caenorhabditis elegans MAP kinase kinase, functions in Ras-
+mediated vulval induction and other developmental events.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Functions in the let-60 Ras signaling pathway; acts
+    downstream of lin-45 raf kinase, but before the sur-1/mpK-1 gene
+    product in controlling vulval cell differentiation.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- ENZYME REGULATION: Activated by tyrosine and threonine
+    phosphorylation catalyzed by MAP kinase kinase kinases.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. MAP
+    kinase kinase subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ATP-binding; Complete proteome; Developmental protein; Kinase;
+Nucleotide-binding; Phosphorylation; Serine/threonine-protein kinase;
+Transferase; Tyrosine-protein kinase.
+TMZERO

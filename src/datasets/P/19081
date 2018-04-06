@@ -1,0 +1,15 @@
+AC   P0AAE9; P23891;
+Probable cadaverine/lysine antiporter.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Probable cadaverine/lysine antiporter or part of it (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- INDUCTION: At low pH in the presence of lysine and achieves
+    maximal level under anaerobic conditions (By similarity).
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily.
+Amino-acid transport; Antiport; Complete proteome; Inner membrane;
+Membrane; Transmembrane; Transport.
+TMFOURTEEN

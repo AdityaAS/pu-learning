@@ -1,0 +1,22 @@
+AC   Q09143; P30824;
+High-affinity cationic amino acid transporter 1 (CAT-1) (CAT1) (System
+Y+ basic amino acid transporter) (Ecotropic retroviral leukemia
+receptor) (ERR) (Ecotropic retrovirus receptor).
+"A putative murine ecotropic retrovirus receptor gene encodes a
+multiple membrane-spanning protein and confers susceptibility to virus
+infection.";
+"Transport of cationic amino acids by the mouse ecotropic retrovirus
+receptor.";
+-!- FUNCTION: High-affinity, low capacity permease involved in the
+    transport of the cationic amino acids (arginine, lysine and
+    ornithine) in non-hepatic tissues. May also function as an
+    ecotropic retroviral leukemia receptor.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highest levels found in the testis and bone
+    marrow. Not found in the liver.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Cationic amino acid transporter (CAT) (TC 2.A.3.3)
+    family.
+Amino-acid transport; Glycoprotein; Membrane; Receptor; Transmembrane;
+Transport.
+TMFOURTEEN

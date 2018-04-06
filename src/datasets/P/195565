@@ -1,0 +1,25 @@
+AC   P53007; Q9BSK6;
+Tricarboxylate transport protein, mitochondrial precursor (Citrate
+transport protein) (CTP) (Tricarboxylate carrier protein) (Solute
+carrier family 25 member 1).
+"Localization of the human mitochondrial citrate transporter protein
+gene to chromosome 22q11 in the DiGeorge syndrome critical region.";
+"Cloning, genomic organization, and chromosomal localization of human
+citrate transport protein to the DiGeorge/velocardiofacial syndrome
+minimal critical region.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Involved in citrate-H+/malate exchange. Important for
+    the bioenergetics of hepatic cells as it provides a carbon source
+    for fatty acid and sterol biosyntheses, and NAD+ for the
+    glycolytic pathway.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005743; C:mitochondrial inner membrane; TAS:UniProtKB.
+ GO:0015137; F:citrate transporter activity; TAS:UniProtKB.
+ GO:0006843; P:mitochondrial citrate transport; TAS:UniProtKB.
+Inner membrane; Membrane; Mitochondrion; Repeat; Transit peptide;
+Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,26 @@
+AC   Q12056;
+Iron sulfur cluster assembly protein 2, mitochondrial precursor (Iron
+sulfur cluster scaffold protein 2).
+"Sequence and analysis of a 33 kb fragment from the right arm of
+chromosome XV of the yeast Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Saccharomyces cerevisiae ISU1 and ISU2: members of a well-conserved
+gene family for iron-sulfur cluster assembly.";
+"Evidence for a conserved system for iron metabolism in the
+mitochondria of Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Involved in iron homeostasis within the mitochondrion
+    where it is involved in the assembly of iron-sulfur proteins.
+    Essential for de novo biosynthesis of mitochondrial and
+    cytoplasmic iron sulfur proteins. May also be involved in the
+    repair of iron sulfur clusters.
+-!- COFACTOR: Contains 2 2Fe-2S clusters per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix.
+-!- MISCELLANEOUS: Present with 3420 molecules/cell.
+-!- SIMILARITY: Belongs to the nifU family.
+ GO:0005759; C:mitochondrial matrix; IDA:SGD.
+ GO:0006879; P:iron ion homeostasis; IMP:SGD.
+ GO:0016226; P:iron-sulfur cluster assembly; IMP:SGD.
+2Fe-2S; Complete proteome; Iron; Iron-sulfur; Metal-binding;
+Mitochondrion; Transit peptide.
+TMZERO

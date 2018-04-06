@@ -1,0 +1,27 @@
+AC   P48836;
+Vacuolar ATP synthase subunit G (EC 3.6.3.14) (V-ATPase G subunit)
+(Vacuolar proton pump G subunit) (V-ATPase 13 kDa subunit).
+"The Saccharomyces cerevisiae VMA10 is an intron-containing gene
+encoding a novel 13-kDa subunit of vacuolar H(+)-ATPase.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Non-integral membrane component of the membrane integral
+    V0 complex of vacuolar ATPase. V-ATPase is responsible for
+    acidifying a variety of intracellular compartments in eukaryotic
+    cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'', d and e).
+-!- MISCELLANEOUS: Present with 2280 molecules/cell.
+-!- SIMILARITY: Belongs to the V-ATPase G subunit family.
+ GO:0000221; C:hydrogen-transporting ATPase V1 domain; TAS:SGD.
+ GO:0046961; F:hydrogen-transporting ATPase activity, rota...; TAS:SGD.
+ GO:0005977; P:glycogen metabolism; IDA:SGD.
+ GO:0007035; P:vacuolar acidification; TAS:SGD.
+ATP synthesis; Complete proteome; Direct protein sequencing;
+Hydrogen ion transport; Hydrolase; Ion transport; Transport.
+TMZERO

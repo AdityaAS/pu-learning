@@ -1,0 +1,17 @@
+AC   P56198; Q8BNV7;
+Cell death activator CIDE-3 (Cell death-inducing DFFA-like effector
+protein C) (Fat-specific protein FSP27).
+"Cloning and transcriptional regulation of a novel adipocyte-specific
+gene, FSP27. CAAT-enhancer-binding protein (C/EBP) and C/EBP-like
+proteins interact with sequences required for differentiation-
+dependent expression.";
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: Induces apoptosis (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Note=Cytoplasmic
+    in a punctate manner (By similarity).
+-!- TISSUE SPECIFICITY: Adipocyte-specific.
+-!- SIMILARITY: Contains 1 CIDE-N domain.
+ GO:0005829; C:cytosol; ISS:UniProtKB.
+ GO:0006917; P:induction of apoptosis; ISS:UniProtKB.
+Apoptosis.
+TMZERO

@@ -1,0 +1,21 @@
+AC   Q6Z2T3;
+Silicon transporter LSI1 (Low silicon protein 1).
+"A silicon transporter in rice.";
+"Oryza sativa nipponbare chromosome 2 genomic DNA sequence.";
+"Collection, mapping, and annotation of over 28,000 cDNA clones from
+japonica rice.";
+-!- FUNCTION: Silicon transporter. Silicon is beneficial to plant
+    growth and helps plants to overcome abiotic and biotic stresses by
+    preventing lodging (falling over) and increasing resistance to
+    pests and diseases, as well as other stresses.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Mainly expressed in the roots. In roots, it
+    localizes in the main and lateral roots, but not in root hairs.
+    Within a root, it localizes on the plasma membrane of the distal
+    side of both exodermis and endodermis, where casparian strips
+    exist (at protein level).
+-!- INDUCTION: Regulated by silicon level; the expression being
+    decreased by one-quarter by continuous silicon supply for 3 days.
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+Glycoprotein; Membrane; Repeat; Transmembrane; Transport.
+TMSIX

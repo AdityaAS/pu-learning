@@ -1,0 +1,9 @@
+AC   Q58DP0;
+Putative methyltransferase WBSCR22 (EC 2.1.1.-) (Williams-Beuren
+syndrome chromosome region 22 protein homolog).
+"Characterization of 954 bovine full-CDS cDNA sequences.";
+-!- FUNCTION: Methyltransferase that may act on DNA.
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Belongs to the methyltransferase superfamily.
+Methyltransferase; Nuclear protein; Transferase.
+TMZERO

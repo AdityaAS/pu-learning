@@ -1,0 +1,38 @@
+AC   Q03455;
+Probable zinc transporter MSC2 (Meiotic sister chromatid recombination
+protein 2).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Genetic control of recombination partner preference in yeast meiosis.
+Isolation and characterization of mutants elevated for meiotic unequal
+sister-chromatid recombination.";
+"The yeast gene MSC2, a member of the cation diffusion facilitator
+family, affects the cellular distribution of zinc.";
+"Sequencing and comparison of yeast species to identify genes and
+regulatory elements.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Probably act as a zinc ion transporter moving zinc from
+    the nucleus/endoplasmic reticulum to the cytoplasm. Involved in
+    zinc ion homeostasis and cellular distribution.
+-!- INTERACTION:
+    P53735:YNR039C; NbExp=1; IntAct=EBI-34990, EBI-28507;
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein. Nucleus; nuclear envelope;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Originally MSC2 was identified in a screen for
+    mutants that show an increase in meiotic unequal sister-chromatid
+    recombination (SCR). MSC2 may also be involved in chromosome
+    instability, rather than SRC.
+-!- MISCELLANEOUS: Present with 1070 molecules/cell.
+-!- SIMILARITY: Belongs to the cation diffusion facilitator (CDF)
+    transporter (TC 2.A.4) family. SLC30A subfamily.
+ GO:0005783; C:endoplasmic reticulum; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0015491; F:cation:cation antiporter activity; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006882; P:zinc ion homeostasis; IMP:SGD.
+Complete proteome; Endoplasmic reticulum; Ion transport; Membrane;
+Nuclear protein; Transmembrane; Transport; Zinc; Zinc transport.
+TMFOURTEEN

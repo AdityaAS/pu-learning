@@ -1,0 +1,13 @@
+AC   Q5YTD8;
+Pyridoxal biosynthesis lyase pdxS (EC 4.-.-.-).
+"The complete genomic sequence of Nocardia farcinica IFM 10152.";
+-!- FUNCTION: Involved in the production of pyridoxal phosphate,
+    probably by incorporating ammonia into the pyridine ring (By
+    similarity).
+-!- PATHWAY: Cofactor biosynthesis; pyridoxal 5'-phosphate
+    biosynthesis.
+-!- SUBUNIT: Forms a complex with pdxT (By similarity).
+-!- SIMILARITY: Belongs to the pdxS/SNZ family.
+ GO:0042823; P:pyridoxal phosphate biosynthesis; IEA:HAMAP.
+Complete proteome; Lyase; Pyridoxal phosphate.
+TMZERO

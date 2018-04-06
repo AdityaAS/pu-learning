@@ -1,0 +1,15 @@
+AC   Q96493;
+Anthocyanidin 3-O-glucosyltransferase (EC 2.4.1.115) (Flavonol 3-O-
+glucosyltransferase) (UDP-glucose flavonoid 3-O-glucosyltransferase).
+"Molecular and biochemical characterization of three anthocyanin
+synthetic enzymes from Gentiana triflora.";
+-!- FUNCTION: In the presence of other necessary color factors, this
+    glycosylation reaction allows the accumulation of anthocyanin
+    pigments (By similarity).
+-!- CATALYTIC ACTIVITY: UDP-D-glucose + an anthocyanidin = UDP + an
+    anthocyanidin-3-O-beta-D-glucoside.
+-!- PATHWAY: Anthocyanin biosynthesis.
+-!- SIMILARITY: Belongs to the UDP-glycosyltransferase family.
+ GO:0047213; F:anthocyanidin 3-O-glucosyltransferase activity; IEA:EC.
+Glycosyltransferase; Transferase.
+TMZERO

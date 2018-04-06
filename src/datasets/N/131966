@@ -1,0 +1,14 @@
+AC   Q9XF42;
+Profilin-3 (GD4-5) (Pollen allergen Mal d 4.0101).
+"Characterization of profilin from apple as the allergen Mal d 4.";
+-!- FUNCTION: Binds to actin and affects the structure of the
+    cytoskeleton. At high concentrations, profilin prevents the
+    polymerization of actin, whereas it enhances it at low
+    concentrations. By binding to PIP2, it inhibits the formation of
+    IP3 and DG (By similarity).
+-!- SUBUNIT: Occurs in many kinds of cells as a complex with monomeric
+    actin in a 1:1 ratio.
+-!- ALLERGEN: Causes an allergic reaction in human.
+-!- SIMILARITY: Belongs to the profilin family.
+Actin-binding; Allergen; Cytoskeleton.
+TMZERO

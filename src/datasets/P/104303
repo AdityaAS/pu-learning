@@ -1,0 +1,61 @@
+AC   P0C0S1; P11666; Q2M9R8;
+Small-conductance mechanosensitive channel.
+"Identification, molecular cloning and sequence analysis of a gene
+cluster encoding the class II fructose 1,6-bisphosphate aldolase, 3-
+phosphoglycerate kinase and a putative second glyceraldehyde 3-
+phosphate dehydrogenase of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Pressure-sensitive ion channel in Escherichia coli.";
+"Characterization of mechanosensitive channels in Escherichia coli
+cytoplasmic membrane by whole-cell patch clamp recording.";
+"Protection of Escherichia coli cells against extreme turgor by
+activation of MscS and MscL mechanosensitive channels: identification
+of genes required for MscS activity.";
+"Purification of the small mechanosensitive channel of Escherichia
+coli (MscS): the subunit structure, conduction, and gating
+characteristics in liposomes.";
+"Functional design of bacterial mechanosensitive channels. Comparisons
+and contrasts illuminated by random mutagenesis.";
+"C termini of the Escherichia coli mechanosensitive ion channel (MscS)
+move apart upon the channel opening.";
+"The closed structure of the MscS mechanosensitive channel. Cross-
+linking of single cysteine mutants.";
+"The conserved carboxy-terminus of the MscS mechanosensitive channel
+is not essential but increases stability and activity.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Pivotal role of the glycine-rich TM3 helix in gating the MscS
+mechanosensitive channel.";
+"Crystal structure of Escherichia coli MscS, a voltage-modulated and
+mechanosensitive channel.";
+-!- FUNCTION: Mechanosensitive channel that participates in the
+    regulation of osmotic pressure changes within the cell, opening in
+    response to stretch forces in the membrane lipid bilayer, without
+    the need for other proteins. Forms an ion channel of 1.0
+    nanosiemens conductance with a slight preference for anions. The
+    channel is sensitive to voltage; as the membrane is depolarized,
+    less tension is required to open the channel and vice versa. The
+    channel is characterized by short bursts of activity that last for
+    a few seconds.
+-!- FUNCTION: The channel pore is formed by TM3 and the loop between
+    TM2 and TM3. After a sharp turn at Gly-113, an alpha-helix
+    (residues 114-127) is oriented nearly parallel to the plane of the
+    putative lipid bilayer. On the intracellular side of the channel,
+    the permeation pathway of mscS does not connect directly to the
+    cytoplasm but instead opens to a large chamber that is connected
+    to the cytoplasm. This chamber resembles a molecular filter that
+    could serve to prescreen large molecules before they are allowed
+    passage to the transmembrane pore. The TM1 and TM2 helices appear
+    to be likely candidates for mediating the tension and voltage
+    sensitivities of mscS. Gating requires large rearrangements of at
+    least the C-terminus.
+-!- SUBUNIT: Homoheptamer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the mscS (TC 1.A.23) family.
+3D-structure; Complete proteome; Inner membrane; Ion transport;
+Ionic channel; Membrane; Transmembrane; Transport.
+THTHREE

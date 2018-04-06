@@ -1,0 +1,11 @@
+AC   Q6C4A3;
+Protein RAI1.
+"Genome evolution in yeasts.";
+-!- FUNCTION: Required for the processing of nuclear mRNA and rRNA
+    precursors. May promote termination of transcription by RNA
+    polymerase II (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the Dom3Z family.
+Complete proteome; mRNA processing; Nuclear protein; rRNA processing;
+Transcription; Transcription regulation; Transcription termination.
+TMZERO

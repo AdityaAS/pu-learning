@@ -1,0 +1,26 @@
+AC   Q08986; Q7LGU1;
+S-adenosylmethionine permease SAM3 (S-adenosylmethionine metabolism
+protein 3).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Transport of sulfonium compounds. Characterization of the s-
+adenosylmethionine and s-methylmethionine permeases from the yeast
+Saccharomyces cerevisiae.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High-affinity S-adenosylmethionine permease, required
+    for utilization of S-adenosylmethionine as a sulfur source.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+    Endoplasmic reticulum.
+-!- MISCELLANEOUS: Present with 1300 molecules/cell.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0000095; F:S-adenosylmethionine transporter activity; IMP:SGD.
+ GO:0015805; P:S-adenosylmethionine transport; IMP:SGD.
+Amino-acid transport; Complete proteome; Endoplasmic reticulum;
+Glycoprotein; Membrane; Phosphorylation; Transmembrane; Transport.
+TMTWELVE

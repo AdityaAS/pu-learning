@@ -1,0 +1,22 @@
+AC   P01507;
+Cecropin-A precursor (Cecropin-C).
+"The cecropin locus. Cloning and expression of a gene cluster encoding
+three antibacterial peptides in Hyalophora cecropia.";
+"Insect immunity: cDNA clones coding for the precursor forms of
+cecropins A and D, antibacterial proteins from Hyalophora cecropia.";
+"Insect immunity: isolation and structure of cecropin D and four minor
+antibacterial components from Cecropia pupae.";
+"Sequence and specificity of two antibacterial proteins involved in
+insect immunity.";
+"The solution conformation of the antibacterial peptide cecropin A: a
+nuclear magnetic resonance and dynamical simulated annealing study.";
+-!- FUNCTION: Cecropins have lytic and antibacterial activity against
+    several Gram-positive and Gram-negative bacteria.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- PTM: A protein with the same sequence as cecropin A, but lacking
+    the carboxyl blocking group, has been isolated and called cecropin
+    C (Ref.3).
+-!- SIMILARITY: Belongs to the cecropin family.
+3D-structure; Amidation; Antibiotic; Antimicrobial;
+Direct protein sequencing; Immune response; Innate immunity; Signal.
+TMZERO

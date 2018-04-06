@@ -1,0 +1,19 @@
+AC   Q9JKD3;
+Secretory carrier-associated membrane protein 5 (Secretory carrier
+membrane protein 5).
+"Novel SCAMPs lacking NPF repeats: ubiquitous and synaptic vesicle-
+specific forms implicate SCAMPs in multiple membrane-trafficking
+functions.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Probably involved in membrane protein trafficking.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Cytoplasmic vesicle; secretory vesicle; synaptic vesicle; synaptic
+    vesicle membrane; multi-pass membrane protein. Note=Highly
+    enriched in synaptic vesicles.
+-!- TISSUE SPECIFICITY: Brain specific.
+-!- DEVELOPMENTAL STAGE: Expressed late in development coincident with
+    the elaboration of mature synapses.
+-!- SIMILARITY: Belongs to the SCAMP family.
+Membrane; Protein transport; Transmembrane; Transport.
+TMFOUR

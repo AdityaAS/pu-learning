@@ -1,0 +1,23 @@
+AC   Q6Z8B7; O82774;
+Serine/threonine protein phosphatase 2A 55 kDa regulatory subunit B
+beta isoform (PP2A, subunit B, beta isoform).
+"Molecular cloning and characterization of cDNA and genomic DNA
+encodes the homologue of the 55 kDa B regulatory subunit of protein
+phosphatase 2A in rice (Oryza sativa L.).";
+"Oryza sativa nipponbare chromosome 2 genomic DNA sequence.";
+"Collection, mapping, and annotation of over 28,000 cDNA clones from
+japonica rice.";
+-!- FUNCTION: The B regulatory subunit may modulate substrate
+    selectivity and catalytic activity, and also may direct the
+    localization of the catalytic enzyme to a particular subcellular
+    compartment (By similarity).
+-!- SUBUNIT: PP2A consists of a common heteromeric enzyme, composed of
+    a catalytic subunit (subunits C), a constant regulatory subunit
+    (subunit A), and a variety of regulatory subunits such as subunits
+    B (the R2/B/PR55/B55, R3/B''/PR72/PR130/PR59 and R5/B'/B56
+    families) (By similarity).
+-!- SIMILARITY: Belongs to the phosphatase 2A regulatory subunit B
+    family.
+-!- SIMILARITY: Contains 6 WD repeats.
+Repeat; WD repeat.
+TMZERO

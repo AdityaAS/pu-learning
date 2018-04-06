@@ -1,0 +1,41 @@
+AC   P20966;
+PTS system fructose-specific EIIBC component (EIIBC-Fru) [Includes:
+Fructose-specific phosphotransferase enzyme IIB component
+(EC 2.7.1.69) (PTS system fructose-specific EIIB component) (EIII-
+Fru); Fructose permease IIC component (PTS system fructose-specific
+EIIC component)].
+"Nucleotide sequence of fruA, the gene specifying enzyme IIfru of the
+phosphoenolpyruvate-dependent sugar phosphotransferase system in
+Escherichia coli K12.";
+"Automated multiplex sequencing of the E.coli genome.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"Sequence similarities between the gene specifying 1-
+phosphofructokinase (fruK), genes specifying other kinases in
+Escherichia coli K12, and lacC of Staphylococcus aureus.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in fructose transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIIB type-2 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-2 domain.
+Complete proteome; Inner membrane; Kinase; Membrane; Phosphorylation;
+Phosphotransferase system; Repeat; Sugar transport; Transferase;
+Transmembrane; Transport.
+TMNINE

@@ -1,0 +1,13 @@
+AC   Q05594;
+Protein cbiM.
+"Characterization of the cobalamin (vitamin B12) biosynthetic genes of
+Salmonella typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Not known.
+-!- PATHWAY: Cobalamin biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the cbiM family.
+Cobalamin biosynthesis; Complete proteome; Membrane; Transmembrane.
+TMSEVEN

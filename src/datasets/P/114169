@@ -1,0 +1,20 @@
+AC   P38043; Q31NV0;
+Nitrate transport protein nrtA.
+"Cloning and characterization of the nrtA gene that encodes a 45-kDa
+protein involved in nitrate transport in the cyanobacterium
+Synechococcus PCC 7942.";
+"Complete sequence of chromosome 1 of Synechococcus elongatus PCC
+7942.";
+"Identification and characterization of a gene cluster involved in
+nitrate transport in the cyanobacterium Synechococcus sp. PCC7942.";
+-!- FUNCTION: Essential component of the nitrate-transporting system.
+    May be the substrate-binding protein.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- INDUCTION: By nitrate, when present in the medium as source of
+    nitrogen. Expression is suppressed by ammonium.
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: To carotenoid-binding protein A (cbpA).
+Complete proteome; Inner membrane; Membrane; Nitrate assimilation;
+Transport.
+TMZERO

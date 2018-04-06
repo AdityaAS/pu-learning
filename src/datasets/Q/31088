@@ -1,0 +1,10 @@
+AC   P63857; Q10385;
+Probable cytochrome c oxidase subunit 3 (EC 1.9.3.1) (Cytochrome c
+oxidase polypeptide III) (Cytochrome aa3 subunit 3).
+"The complete genome sequence of Mycobacterium bovis.";
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 3 family.
+Complete proteome; Membrane; Oxidoreductase; Transmembrane.
+TMFIVE

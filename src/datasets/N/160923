@@ -1,0 +1,13 @@
+AC   O59678;
+Ribosome biogenesis regulatory protein homolog.
+"The genome sequence of Schizosaccharomyces pombe.";
+"Two-hybrid search for proteins that interact with Sad1 and Kms1, two
+membrane-bound components of the spindle pole body in fission yeast.";
+-!- FUNCTION: Involved in ribosome biogenesis (By similarity).
+-!- SUBUNIT: Interacts with sad1.
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus.
+-!- SIMILARITY: Belongs to the RRS1 family.
+ GO:0005730; C:nucleolus; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+Complete proteome; Nuclear protein; Ribosome biogenesis.
+TMZERO

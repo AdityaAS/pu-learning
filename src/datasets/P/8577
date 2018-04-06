@@ -1,0 +1,38 @@
+AC   O93938; Q12258; Q12302; Q9C411;
+Aquaporin-2.
+"Polymorphism of Saccharomyces cerevisiae aquaporins.";
+"Aquaporins in Saccharomyces. Genetic and functional distinctions
+between laboratory and wild-type strains.";
+"Aquaporins in Saccharomyces: characterization of a second functional
+water channel protein.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Existence of a tightly regulated water channel in Saccharomyces
+cerevisiae.";
+"Aquaporin expression correlates with freeze tolerance in baker's
+yeast, and overexpression improves freeze tolerance in industrial
+strains.";
+"Global analysis of protein localization in budding yeast.";
+"Aquaporin-mediated improvement of freeze tolerance of Saccharomyces
+cerevisiae is restricted to rapid freezing conditions.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Water channel required to facilitate the transport of
+    water across membranes. Involved in freeze tolerance,
+    osmotolerance and cell flocculation in liquid cultures. Is
+    nonfunctional in most laboratory strains.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein. Cell membrane; multi-pass
+    membrane protein.
+-!- INDUCTION: During exponential phase in rich medium and repressed
+    in minimum medium, hyper-osmolar medium or in sporulating
+    conditions.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- POLYMORPHISM: In strain S288c / AB972, a natural 11 bp deletion in
+    position 109 changes the frame and leads to a premature stop
+    codon. This leads to a non-functional protein.
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+Complete proteome; Endoplasmic reticulum; Membrane; Repeat;
+Transmembrane; Transport.
+TMSIX

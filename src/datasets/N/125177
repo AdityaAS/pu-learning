@@ -1,0 +1,27 @@
+AC   P20786;
+Alpha platelet-derived growth factor receptor precursor (EC 2.7.10.1)
+(PDGF-R-alpha) (CD140a antigen).
+"Isolation and characterization of the alpha platelet-derived growth
+factor receptor from rat olfactory epithelium.";
+"Conservation in sequence and affinity of human and rodent PDGF
+ligands and receptors.";
+-!- FUNCTION: Receptor that binds both PDGFA and PDGFB and has a
+    tyrosine-protein kinase activity.
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- SUBUNIT: Homodimer, and heterodimer with PDGFRB. Interacts with
+    SHB (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- SIMILARITY: Belongs to the Tyr protein kinase family. CSF-1/PDGF
+    receptor subfamily.
+-!- SIMILARITY: Contains 5 Ig-like C2-type (immunoglobulin-like)
+    domains.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005018; F:platelet-derived growth factor alpha-recept...; IDA:RGD.
+ GO:0046983; F:protein dimerization activity; NAS:RGD.
+ GO:0042063; P:gliogenesis; IEP:RGD.
+ATP-binding; Glycoprotein; Immunoglobulin domain; Kinase; Membrane;
+Nucleotide-binding; Phosphorylation; Receptor; Repeat; Signal;
+Transferase; Transmembrane; Tyrosine-protein kinase.
+TMONE

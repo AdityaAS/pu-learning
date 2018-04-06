@@ -1,0 +1,12 @@
+AC   P37935;
+Mating-type protein A-alpha Y4.
+"The A alpha mating locus of Schizophyllum commune encodes two
+dissimilar multiallelic homeodomain proteins.";
+-!- FUNCTION: Specifies A-alpha-4 mating-type. May regulate the
+    expression of genes specific to the homokaryotic cell type.
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- DEVELOPMENTAL STAGE: Expressed constitutively in homokaryons.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+DNA-binding; Homeobox; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

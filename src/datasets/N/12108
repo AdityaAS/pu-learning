@@ -1,0 +1,18 @@
+AC   Q5HQK0;
+Argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate
+ligase).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- CATALYTIC ACTIVITY: ATP + L-citrulline + L-aspartate = AMP +
+    diphosphate + omega-N-(L-arginino)succinate.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; L-
+    arginine from L-ornithine and carbamoyl phosphate: step 2.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the argininosuccinate synthase family. Type
+    1 subfamily.
+Amino-acid biosynthesis; Arginine biosynthesis; ATP-binding;
+Complete proteome; Ligase; Nucleotide-binding.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P31802; Q2MAQ0;
+Nitrate/nitrite response regulator protein narP.
+"Dual response regulators (NarL and NarP) interact with dual sensors
+(NarX and NarQ) to control nitrate- and nitrite-regulated gene
+expression in Escherichia coli K-12.";
+"Automated multiplex sequencing of the E.coli genome.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: This protein activates the expression of the nitrate
+    reductase (narGHJI) and formate dehydrogenase-N (fdnGHI) operons
+    and represses the transcription of the fumarate reductase
+    (frdABCD) operon in response to a nitrate/nitrite induction signal
+    transmitted by either the narX or narQ proteins.
+-!- SIMILARITY: Contains 1 HTH luxR-type DNA-binding domain.
+-!- SIMILARITY: Contains 1 response regulatory domain.
+Activator; ATP-binding; Complete proteome; DNA-binding;
+Nitrate assimilation; Nucleotide-binding; Phosphorylation; Repressor;
+Transcription; Transcription regulation;
+Two-component regulatory system.
+TMZERO

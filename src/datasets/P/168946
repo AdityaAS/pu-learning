@@ -1,0 +1,12 @@
+AC   Q64093;
+Sodium- and chloride-dependent transporter XTRP3 (Solute carrier
+family 6 member 20) (Neurotransmitter transporter rB21A).
+"Molecular cloning of an orphan transporter. A new member of the
+neurotransmitter transporter family.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+Glycoprotein; Membrane; Neurotransmitter transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

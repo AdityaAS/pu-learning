@@ -1,0 +1,26 @@
+AC   P15993; P75650;
+Aromatic amino acid transport protein aroP (General aromatic amino
+acid permease).
+"Nucleotide sequence of the aroP gene encoding the general aromatic
+amino acid transport protein of Escherichia coli K-12: homology with
+yeast transport proteins.";
+"A topological model for the general aromatic amino acid permease,
+AroP, of Escherichia coli.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+2.4-4.1 min (110,917-193,643 bp) region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Permease that is involved in the transport across the
+    cytoplasmic membrane of the aromatic amino acids (phenylalanine,
+    tyrosine, and tryptophan).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Its activity is regulated by protein tyrR.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Amino acid transporter (AAT) (TC 2.A.3.1) family.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTWELVE

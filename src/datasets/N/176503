@@ -1,0 +1,11 @@
+AC   Q9XJG4;
+Single-stranded DNA-binding protein (SSB-P1).
+"Identification and characterization of the single-stranded DNA-
+binding protein of bacteriophage P1.";
+"Genome of bacteriophage P1.";
+-!- FUNCTION: This protein is essential for replication of the
+    chromosomes and its single-stranded DNA phages. It is also
+    involved in DNA recombination and repair (By similarity).
+-!- SIMILARITY: Contains 1 SSB domain.
+DNA damage; DNA repair; DNA replication; DNA-binding.
+TMZERO

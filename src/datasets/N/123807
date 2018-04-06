@@ -1,0 +1,51 @@
+AC   Q08024; Q08025; Q62050; Q62051; Q8C282; Q8CGD5;
+Core-binding factor subunit beta (CBF-beta) (Polyomavirus enhancer-
+binding protein 2 beta subunit) (PEBP2-beta) (PEA2-beta) (SL3-3
+enhancer factor 1 beta subunit) (SL3/AKV core-binding factor beta
+subunit).
+"Molecular cloning and characterization of PEBP2 beta, the
+heterodimeric partner of a novel Drosophila runt-related DNA binding
+protein PEBP2 alpha.";
+"Cloning and characterization of subunits of the T-cell receptor and
+murine leukemia virus enhancer core-binding factor.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Structural analyses of DNA recognition by the AML1/Runx-1 Runt domain
+and its allosteric control by CBFbeta.";
+"Solution structure of core binding factor beta and map of the CBF
+alpha binding site.";
+"Structure and backbone dynamics of Apo-CBFbeta in solution.";
+-!- FUNCTION: CBF binds to the core site, 5'-PYGPYGGT-3', of a number
+    of enhancers and promoters, including murine leukemia virus,
+    polyomavirus enhancer, T-cell receptor enhancers, LCK, IL-3 and
+    GM-CSF promoters. CBFB enhances DNA binding by RUNX1.
+-!- SUBUNIT: Heterodimer with RUNX1.
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=Q08024-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q08024-2; Sequence=VSP_004360;
+      Note=Major isoform;
+    Name=3;
+      IsoId=Q08024-3; Sequence=VSP_004359;
+      Note=Does not dimerize with the alpha subunit;
+    Name=4;
+      IsoId=Q08024-4; Sequence=VSP_004358;
+      Note=Does not dimerize with the alpha subunit;
+-!- TISSUE SPECIFICITY: Expressed in all tissues tested. Highest level
+    in thymus, but also abundantly expressed in muscle, lung and
+    brain.
+-!- SIMILARITY: Belongs to the CBF-beta family.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0048469; P:cell maturation; IMP:MGI.
+ GO:0030098; P:lymphocyte differentiation; IMP:MGI.
+ GO:0030099; P:myeloid cell differentiation; IMP:MGI.
+ GO:0001649; P:osteoblast differentiation; IMP:MGI.
+ GO:0045944; P:positive regulation of transcription from R...; IDA:MGI.
+3D-structure; Alternative splicing; Direct protein sequencing;
+Nuclear protein; Phosphorylation.
+TMZERO

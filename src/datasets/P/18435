@@ -1,0 +1,19 @@
+AC   Q52665;
+Glutamate/glutamine/aspartate/asparagine transport system permease
+protein bztC.
+"A glutamate/glutamine/aspartate/asparagine transport operon in
+Rhodobacter capsulatus.";
+-!- FUNCTION: Part of a binding-protein-dependent transport system for
+    glutamate, glutamine, aspartate and asparagine. Probably
+    responsible for the translocation of the substrate across the
+    membrane.
+-!- SUBUNIT: BztB and bztC form a heterodimer which can form a
+    membrane complex with a homodimer of bztD (Potential).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Inner membrane; Membrane; Transmembrane;
+Transport.
+TMTEN

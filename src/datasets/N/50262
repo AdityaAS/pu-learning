@@ -1,0 +1,51 @@
+AC   O14944;
+Epiregulin precursor.
+"Distribution of mRNA for human epiregulin, a differentially expressed
+member of the epidermal growth factor family.";
+-!- FUNCTION: May be a mediator of localized cell proliferation. As a
+    mitogen it may stimulate cell proliferation and/or angiogenesis.
+-!- SUBCELLULAR LOCATION: Precursor form: Cell membrane; single-pass
+    type I membrane protein. Mature form: Secreted protein;
+    extracellular space.
+-!- TISSUE SPECIFICITY: In normal adults, expressed predominantly in
+    the placenta and peripheral blood leukocytes. High levels were
+    detected in carcinomas of the bladder, lung, kidney and colon.
+-!- SIMILARITY: Contains 1 EGF-like domain.
+ GO:0005615; C:extracellular space; IDA:UniProtKB.
+ GO:0005887; C:integral to plasma membrane; TAS:UniProtKB.
+ GO:0005154; F:epidermal growth factor receptor binding; TAS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0046982; F:protein heterodimerization activity; IDA:UniProtKB.
+ GO:0007267; P:cell-cell signaling; IDA:UniProtKB.
+ GO:0019221; P:cytokine and chemokine mediated signaling p...; IDA:UniProtKB.
+ GO:0007173; P:epidermal growth factor receptor signaling ...; ISS:UniProtKB.
+ GO:0007143; P:female meiosis; ISS:UniProtKB.
+ GO:0030216; P:keratinocyte differentiation; TAS:UniProtKB.
+ GO:0043616; P:keratinocyte proliferation; IDA:UniProtKB.
+ GO:0042700; P:luteinizing hormone signaling pathway; ISS:UniProtKB.
+ GO:0009299; P:mRNA transcription; IDA:UniProtKB.
+ GO:0050680; P:negative regulation of epithelial cell prol...; TAS:UniProtKB.
+ GO:0051151; P:negative regulation of smooth muscle cell d...; IDA:UniProtKB.
+ GO:0016481; P:negative regulation of transcription; IDA:UniProtKB.
+ GO:0016478; P:negative regulation of translation; IDA:UniProtKB.
+ GO:0001556; P:oocyte maturation; ISS:UniProtKB.
+ GO:0009887; P:organ morphogenesis; TAS:UniProtKB.
+ GO:0001550; P:ovarian cumulus expansion; ISS:UniProtKB.
+ GO:0030728; P:ovulation; ISS:UniProtKB.
+ GO:0045766; P:positive regulation of angiogenesis; ISS:UniProtKB.
+ GO:0001819; P:positive regulation of cytokine production; ISS:UniProtKB.
+ GO:0045740; P:positive regulation of DNA replication; IDA:UniProtKB.
+ GO:0045741; P:positive regulation of epidermal growth fac...; ISS:UniProtKB.
+ GO:0048146; P:positive regulation of fibroblast prolifera...; IDA:UniProtKB.
+ GO:0045089; P:positive regulation of innate immune response; ISS:UniProtKB.
+ GO:0045410; P:positive regulation of interleukin-6 biosyn...; ISS:UniProtKB.
+ GO:0045840; P:positive regulation of mitosis; ISS:UniProtKB.
+ GO:0042327; P:positive regulation of phosphorylation; IDA:UniProtKB.
+ GO:0045860; P:positive regulation of protein kinase activity; IDA:UniProtKB.
+ GO:0048661; P:positive regulation of smooth muscle cell p...; ISS:UniProtKB.
+ GO:0048160; P:primary follicle stage oogenesis (sensu Mam...; ISS:UniProtKB.
+ GO:0042060; P:wound healing; TAS:UniProtKB.
+3D-structure; Angiogenesis; Developmental protein; Differentiation;
+EGF-like domain; Glycoprotein; Growth factor; Membrane; Mitogen;
+Signal; Transmembrane.
+TMONE

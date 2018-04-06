@@ -1,0 +1,23 @@
+AC   Q9M364;
+Histone-lysine N-methyltransferase ATX3 (EC 2.1.1.43) (Trithorax-
+homolog protein 3) (TRX-homolog protein 3) (Protein SET DOMAIN GROUP
+14).
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"The Arabidopsis thaliana genome contains at least 29 active genes
+encoding SET domain proteins that can be assigned to four
+evolutionarily conserved classes.";
+-!- FUNCTION: Histone methyltransferase (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + histone L-lysine =
+    S-adenosyl-L-homocysteine + histone 6-N-methyl-L-lysine.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the TRX/MLL family.
+-!- SIMILARITY: Contains 2 PHD-type zinc fingers.
+-!- SIMILARITY: Contains 1 post-SET domain.
+-!- SIMILARITY: Contains 1 PWWP domain.
+-!- SIMILARITY: Contains 1 SET domain.
+ GO:0018024; F:histone-lysine N-methyltransferase activity; IEA:EC.
+Chromatin regulator; Metal-binding; Methyltransferase;
+Nuclear protein; Repeat; S-adenosyl-L-methionine; Transferase; Zinc;
+Zinc-finger.
+TMZERO

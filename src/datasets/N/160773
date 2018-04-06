@@ -1,0 +1,17 @@
+AC   Q9CNJ3;
+Ribosomal RNA large subunit methyltransferase J (EC 2.1.1.-) (rRNA
+(uridine-2'-O-)-methyltransferase) (23S rRNA m2U2552
+methyltransferase).
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- FUNCTION: Specifically methylates the uridine in position 2552 of
+    23S rRNA in the fully assembled 50S ribosomal subunit (By
+    similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + rRNA = S-adenosyl-L-
+    homocysteine + rRNA containing 2'-O-methyluridine.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the methyltransferase superfamily. RrmJ
+    family.
+ GO:0008650; F:rRNA (uridine-2'-O-)-methyltransferase acti...; IEA:HAMAP.
+ GO:0008757; F:S-adenosylmethionine-dependent methyltransf...; IEA:HAMAP.
+Complete proteome; Methyltransferase; rRNA processing; Transferase.
+TMZERO

@@ -1,0 +1,18 @@
+AC   P43457;
+V-type sodium ATP synthase subunit K (EC 3.6.3.14) (Na(+)-
+translocating ATPase subunit K) (Sodium ATPase proteolipid component).
+"A gene encoding the 16-kDa proteolipid subunit of Enterococcus hirae
+Na(+)-ATPase complex.";
+"Sequencing and characterization of the ntp gene cluster for vacuolar-
+type Na(+)-translocating ATPase of Enterococcus hirae.";
+"Operon of vacuolar-type Na(+)-ATPase of Enterococcus hirae.";
+-!- FUNCTION: Involved in ATP-driven sodium extrusion.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the V-ATPase proteolipid subunit family.
+3D-structure; Direct protein sequencing; Hydrogen ion transport;
+Hydrolase; Ion transport; Membrane; Transmembrane; Transport.
+TMFOUR

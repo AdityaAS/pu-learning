@@ -1,0 +1,25 @@
+AC   Q9WV87;
+NADPH oxidase homolog 1 (NOX-1) (NOH-1) (NADH/NADPH mitogenic oxidase
+subunit P65-MOX) (Mitogenic oxidase 1) (MOX1).
+"Cell transformation by the superoxide-generating oxidase Mox1.";
+-!- FUNCTION: Pyridine nucleotide-dependent oxidoreductase that
+    generates superoxide and might conduct H(+) ions as part of its
+    electron transport mechanism.
+-!- COFACTOR: NADP (Potential).
+-!- COFACTOR: FAD (Potential).
+-!- ENZYME REGULATION: The oxidase activity is potentiated by NOXO1
+    (By similarity).
+-!- SUBUNIT: Interacts with NOXO1 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Expressed in vascular smooth muscle cells.
+-!- SIMILARITY: Contains 1 ferric oxidoreductase domain.
+ GO:0043020; C:NADPH oxidase complex; IDA:RGD.
+ GO:0005515; F:protein binding; IPI:RGD.
+ GO:0016175; F:superoxide-generating NADPH oxidase activity; IDA:RGD.
+ GO:0006800; P:oxygen and reactive oxygen species metabolism; IMP:RGD.
+ GO:0000302; P:response to reactive oxygen species; IDA:RGD.
+ GO:0007165; P:signal transduction; IDA:RGD.
+Electron transport; FAD; Glycoprotein; Heme; Iron; Membrane;
+Metal-binding; NADP; Oxidoreductase; Transmembrane; Transport.
+TMSIX

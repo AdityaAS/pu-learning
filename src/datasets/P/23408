@@ -1,0 +1,15 @@
+AC   P78595;
+Multidrug resistance protein CDR2.
+"Cloning of Candida albicans genes conferring resistance to azole
+antifungal agents: characterization of CDR2, a new multidrug ABC
+transporter gene.";
+-!- FUNCTION: Multidrug efflux transporter. Confers resistance to
+    azole antifungal agents, to other antifungals (terbinafine,
+    amorolfine) and to a variety of metabolic inhibitors.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family. PDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ATP-binding; Membrane; Nucleotide-binding; Repeat; Transmembrane;
+Transport.
+TMTWELVE

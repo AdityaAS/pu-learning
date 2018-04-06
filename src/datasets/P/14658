@@ -1,0 +1,12 @@
+AC   Q60189;
+V-type ATP synthase subunit G (EC 3.6.3.14) (V-type ATPase subunit G).
+"Subunit structure and organization of the genes of the A1A0 ATPase
+from the Archaeon Methanosarcina mazei Go1.";
+"The genome of Methanosarcina mazei: evidence for lateral gene
+transfer between Bacteria and Archaea.";
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: Composed of seven subunits; A, B, C, D, E, F and G.
+Complete proteome; Hydrogen ion transport; Hydrolase; Ion transport;
+Transport.
+TMZERO

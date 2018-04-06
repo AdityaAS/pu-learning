@@ -1,0 +1,34 @@
+AC   Q01926;
+Magnesium transporter MRS2, mitochondrial precursor (RNA-splicing
+protein MRS2).
+"The nuclear gene MRS2 is essential for the excision of group II
+introns from yeast mitochondrial transcripts in vivo.";
+"A multitude of suppressors of group II intron-splicing defects in
+yeast.";
+"Sequence of 29 kb around the PDR10 locus on the right arm of
+Saccharomyces cerevisiae chromosome XV: similarity to part of
+chromosome I.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Insertion of bitopic membrane proteins into the inner membrane of
+mitochondria involves an export step from the matrix.";
+"Mrs2p is an essential component of the major electrophoretic Mg2+
+influx system in mitochondria.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Magnesium transporter that mediates the influx of
+    magnesium into the mitochondiral matrix. MRS2 is essential for the
+    splicing of mRNA group II introns and its absence may disturb the
+    assembly of mitochondrial membrane complexes. It also suppresses a
+    variety of mitochondrial intron mutations.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 768 molecules/cell.
+-!- SIMILARITY: Belongs to the corA metal ion transporter (MIT)
+    (TC 1.A.35) family.
+ GO:0005743; C:mitochondrial inner membrane; IDA:SGD.
+ GO:0015095; F:magnesium ion transporter activity; IDA:SGD.
+ GO:0000373; P:Group II intron splicing; IMP:SGD.
+ GO:0045016; P:mitochondrial magnesium ion transport; IDA:SGD.
+Complete proteome; Inner membrane; Ion transport; Magnesium; Membrane;
+Mitochondrion; Transit peptide; Transmembrane; Transport.
+TMTWO

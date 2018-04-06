@@ -1,0 +1,12 @@
+AC   Q32880;
+NAD(P)H-quinone oxidoreductase chain 5, chloroplast (EC 1.6.5.-)
+(NAD(P)H dehydrogenase, chain 5) (NADH-plastoquinone oxidoreductase
+chain 5) (Fragment).
+-!- CATALYTIC ACTIVITY: NAD(P)H + plastoquinone = NAD(P)(+) +
+    plastoquinol.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the complex I subunit 5 family.
+Chloroplast; Membrane; NAD; NADP; Oxidoreductase; Plastid;
+Plastoquinone; Quinone; Transmembrane.
+TMZERO

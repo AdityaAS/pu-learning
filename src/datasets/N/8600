@@ -1,0 +1,22 @@
+AC   P94523; O05184;
+L-arabinose isomerase (EC 5.3.1.4).
+"The Bacillus subtilis L-arabinose (ara) operon: nucleotide sequence,
+genetic organization and expression.";
+"The dnaB-pheA (256 degrees-240 degrees) region of the Bacillus
+subtilis chromosome containing genes responsible for stress responses,
+the utilization of plant cell walls and primary metabolism.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Mode of action of AraR, the key regulator of L-arabinose metabolism
+in Bacillus subtilis.";
+-!- CATALYTIC ACTIVITY: L-arabinose = L-ribulose.
+-!- PATHWAY: L-arabinose catabolism; first step.
+-!- INDUCTION: Transcription is repressed by glucose and by the
+    binding of araR to the operon promoter. L-arabinose acts as an
+    inducer by inhibiting the binding of araR to the DNA, thus
+    allowing expression of the gene.
+-!- SIMILARITY: Belongs to the arabinose isomerase family.
+ GO:0019568; P:arabinose catabolism; IEA:HAMAP.
+Arabinose catabolism; Carbohydrate metabolism; Complete proteome;
+Isomerase.
+TMZERO

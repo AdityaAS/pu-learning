@@ -1,0 +1,12 @@
+AC   Q8TZL3;
+Quinolinate synthetase A.
+"The complete sequence of the Pyrococcus furiosus genome.";
+-!- FUNCTION: Catalyzes the condensation of iminoaspartate with
+    dihydroxyacetone phosphate to form quinolinate.
+-!- PATHWAY: Cofactor biosynthesis; NAD(+) biosynthesis; pyridine-2,3-
+    dicarboxylate from iminoaspartate: single step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the quinolinate synthetase A family. Type 2
+    subfamily.
+Complete proteome; Pyridine nucleotide biosynthesis.
+TMZERO

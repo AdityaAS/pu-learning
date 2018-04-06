@@ -1,0 +1,13 @@
+AC   Q6AHF5;
+Uroporphyrinogen decarboxylase (EC 4.1.1.37) (URO-D) (UPD).
+"The genome sequence of the Gram-positive sugarcane pathogen Leifsonia
+xyli subsp. xyli.";
+-!- CATALYTIC ACTIVITY: Uroporphyrinogen III = coproporphyrinogen + 4
+    CO(2).
+-!- PATHWAY: Cofactor biosynthesis; porphyrin biosynthesis;
+    coproporphyrinogen III from 5-aminolevulinate: step 4.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the uroporphyrinogen decarboxylase family.
+ GO:0015995; P:chlorophyll biosynthesis; IEA:HAMAP.
+Complete proteome; Decarboxylase; Lyase; Porphyrin biosynthesis.
+TMZERO

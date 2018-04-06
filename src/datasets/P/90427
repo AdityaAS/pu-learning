@@ -1,0 +1,20 @@
+AC   P80666;
+Lantibiotic mutacin B-Ny266.
+"Purification and structure of mutacin B-Ny266: a new lantibiotic
+produced by Streptococcus mutans.";
+-!- FUNCTION: Lanthionine-containing peptide antibiotic (lantibiotic)
+    active on Gram-positive bacteria. The bactericidal activity of
+    lantibiotics is based on depolarization of energized bacterial
+    cytoplasmic membranes, initiated by the formation of aqueous
+    transmembrane pores.
+-!- PTM: Maturation of lantibiotics involves the enzymic conversion of
+    Thr, and Ser into dehydrated AA and the formation of thioether
+    bonds with cysteine. The C-terminal lanthionine undergoes
+    decarboxylation. This is followed by membrane translocation and
+    cleavage of the modified precursor.
+-!- MASS SPECTROMETRY: MW=2270.29; MW_ERR=0.21; METHOD=Electrospray;
+    RANGE=1-22; NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the type A lantibiotic family.
+Antibiotic; Antimicrobial; Bacteriocin; D-amino acid;
+Direct protein sequencing; Lantibiotic; Plasmid; Thioether bond.
+TMZERO

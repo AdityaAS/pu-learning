@@ -1,0 +1,14 @@
+AC   P39851;
+Putative tyrosine-protein kinase capB (EC 2.7.10.2).
+"Sequence analysis and molecular characterization of genes required
+for the biosynthesis of type 1 capsular polysaccharide in
+Staphylococcus aureus.";
+-!- FUNCTION: Required for the biosynthesis of type 1 capsular
+    polysaccharide.
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- PATHWAY: Capsular polysaccharide (CPS) biosynthesis.
+-!- SIMILARITY: Belongs to the cpsD/capB family.
+Bacterial capsule; Exopolysaccharide synthesis; Kinase; Transferase;
+Tyrosine-protein kinase.
+TMZERO

@@ -1,0 +1,11 @@
+AC   Q3T022;
+Histone deacetylase complex subunit SAP18 (Sin3-associated
+polypeptide, 18 kDa) (Sin3-associated polypeptide p18).
+-!- FUNCTION: Component of the SIN3-repressing complex. Enhances the
+    ability of SIN3-HDAC1-mediated transcriptional repression. When
+    tethered to the promoter, it can direct the formation of a
+    repressive complex to core histone proteins (By similarity).
+-!- SUBUNIT: Forms a complex with SIN3A and HDAC1 (By similarity).
+-!- SIMILARITY: Belongs to the SAP18 family.
+Repressor; Transcription; Transcription regulation.
+TMZERO

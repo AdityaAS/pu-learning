@@ -1,0 +1,12 @@
+AC   P02035;
+Hemoglobin subunit beta (Hemoglobin beta chain) (Beta-globin).
+"Primate hemoglobins: some sequences and some proposals concerning the
+character of evolution and mutation.";
+-!- FUNCTION: Involved in oxygen transport from the lung to the
+    various peripheral tissues.
+-!- SUBUNIT: Heterotetramer of two alpha chains and two beta chains.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- SIMILARITY: Belongs to the globin family.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

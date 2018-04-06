@@ -1,0 +1,15 @@
+AC   P0AE75; P77405;
+Citrate carrier (Citrate transporter) (Citrate/succinate antiporter).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Responsible for the uptake of citrate in exchange to the
+    efflux of succinate. Has a relatively broad specificity for C(4)-
+    dicarboxylates and tricarboxylates (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    SODIT1 subfamily.
+Antiport; Complete proteome; Inner membrane; Membrane; Transmembrane;
+Transport.
+TMFOURTEEN

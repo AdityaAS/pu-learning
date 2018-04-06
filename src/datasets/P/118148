@@ -1,0 +1,56 @@
+AC   P0A910; P02934;
+Outer membrane protein A precursor (Outer membrane protein II*).
+"Nucleotide sequence of the gene ompA coding the outer membrane
+protein II of Escherichia coli K-12.";
+"Gene structure of the OmpA protein, a major surface protein of
+Escherichia coli required for cell-cell interaction.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Primary structure of major outer membrane protein II (ompA protein)
+of Escherichia coli K-12.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Extraction of membrane proteins by differential solubilization for
+separation using two-dimensional gel electrophoresis.";
+"Escherichia coli K-12 outer membrane protein (OmpA) as a
+bacteriophage receptor: analysis of mutant genes expressing altered
+proteins.";
+"Bacteriophage receptor area of outer membrane protein OmpA of
+Escherichia coli K-12.";
+"Pore-forming activity of OmpA protein of Escherichia coli.";
+"Evidence for a loop-like insertion mechanism of pro-Omp A into the
+inner membrane of Escherichia coli.";
+"Prediction of transmembrane beta-strands from hydrophobic
+characteristics of proteins.";
+"Structural and functional roles of the surface-exposed loops of the
+beta-barrel membrane protein OmpA from Escherichia coli.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Structure of the outer membrane protein A transmembrane domain.";
+"High-resolution structure of the OmpA membrane domain.";
+"Structure of outer membrane protein A transmembrane domain by NMR
+spectroscopy.";
+"Proteomics on full-length membrane proteins using mass
+spectrometry.";
+-!- FUNCTION: Required for the action of colicins K and L and for the
+    stabilization of mating aggregates in conjugation. Serves as a
+    receptor for a number of T-even like phages. Also acts as a porin
+    with low permeability that allows slow penetration of small
+    solutes.
+-!- SUBUNIT: Homodimer.
+-!- INTERACTION:
+    P05847:ttdA; NbExp=1; IntAct=EBI-371347, EBI-1113137;
+    P78285:ybcS; NbExp=1; IntAct=EBI-371347, EBI-1118665;
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- MASS SPECTROMETRY: MW=35177; METHOD=Electrospray; RANGE=22-346;
+    NOTE=Ref.19.
+-!- SIMILARITY: Belongs to the ompA family.
+-!- SIMILARITY: Contains 1 OmpA-like domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Complete proteome; Conjugation;
+Direct protein sequencing; Ion transport; Membrane; Outer membrane;
+Phage recognition; Porin; Repeat; Signal; Transmembrane; Transport.
+TMEIGHT

@@ -1,0 +1,11 @@
+AC   P15751;
+General secretion pathway protein L (Pullulanase secretion protein
+pulL).
+"Five genes at the 3' end of the Klebsiella pneumoniae pulC operon are
+required for pullulanase secretion.";
+-!- FUNCTION: Involved in a general secretion pathway (GSP) for the
+    export of proteins. Required for the translocation of pullulanase.
+-!- SUBCELLULAR LOCATION: Cell inner membrane (Probable).
+-!- SIMILARITY: Belongs to the GSP L family.
+Inner membrane; Membrane; Transmembrane; Transport.
+TMONE

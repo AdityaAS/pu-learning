@@ -1,0 +1,14 @@
+AC   P84356;
+Pyrokinin (Neobu-PK) (FXPRL-amide).
+"Mass spectrometric analysis of putative capa-gene products in Musca
+domestica and Neobellieria bullata.";
+-!- FUNCTION: Mediates visceral muscle contractile activity (myotropic
+    activity) (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Dorsal ganglionic sheath of fused ventral
+    nerve cord.
+-!- MASS SPECTROMETRY: MW=1515.8; METHOD=MALDI; RANGE=1-15;
+    NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the pyrokinin family.
+Amidation; Direct protein sequencing; Neuropeptide.
+TMZERO

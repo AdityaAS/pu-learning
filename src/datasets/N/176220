@@ -1,0 +1,10 @@
+AC   Q9R9U0;
+HTH-type transcriptional regulator srpS (Solvent efflux pump srpABC
+operon corepressor).
+"An insertion sequence prepares Pseudomonas putida S12 for severe
+solvent stress.";
+-!- FUNCTION: In conjunction with srpR represses the srpABC operon.
+-!- SIMILARITY: Contains 1 HTH iclR-type DNA-binding domain.
+-!- SIMILARITY: Contains 1 iclR-ED (iclR effector binding) domain.
+DNA-binding; Repressor; Transcription; Transcription regulation.
+TMZERO

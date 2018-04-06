@@ -1,0 +1,19 @@
+AC   Q7CNQ9;
+Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8) (HGPRT)
+(HGPRTase).
+"Genome sequence and comparative microarray analysis of serotype M18
+group A Streptococcus strains associated with acute rheumatic fever
+outbreaks.";
+-!- CATALYTIC ACTIVITY: IMP + diphosphate = hypoxanthine + 5-phospho-
+    alpha-D-ribose 1-diphosphate.
+-!- CATALYTIC ACTIVITY: GMP + diphosphate = guanine + 5-phospho-alpha-
+    D-ribose 1-diphosphate.
+-!- COFACTOR: Binds 2 magnesium ions per subunit. One of the ions does
+    not make direct protein contacts (By similarity).
+-!- PATHWAY: Purine salvage.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the purine/pyrimidine
+    phosphoribosyltransferase family.
+Complete proteome; Glycosyltransferase; Magnesium; Metal-binding;
+Purine salvage; Transferase.
+TMZERO

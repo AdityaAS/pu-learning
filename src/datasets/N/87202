@@ -1,0 +1,13 @@
+AC   Q8DV23;
+Cytidylate kinase (EC 2.7.4.14) (CK) (Cytidine monophosphate kinase)
+(CMP kinase).
+"Genome sequence of Streptococcus mutans UA159, a cariogenic dental
+pathogen.";
+-!- CATALYTIC ACTIVITY: ATP + (d)CMP = ADP + (d)CDP.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the cytidylate kinase family. Type 1
+    subfamily.
+ GO:0006220; P:pyrimidine nucleotide metabolism; IEA:HAMAP.
+ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+Transferase.
+TMZERO

@@ -1,0 +1,11 @@
+AC   P62053;
+L-lactate dehydrogenase 2 (EC 1.1.1.27) (L-LDH 2).
+"The genome sequence of the probiotic intestinal bacterium
+Lactobacillus johnsonii NCC 533.";
+-!- CATALYTIC ACTIVITY: (S)-lactate + NAD(+) = pyruvate + NADH.
+-!- PATHWAY: Anaerobic glycolysis; final step.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the LDH/MDH superfamily. LDH family.
+Complete proteome; Glycolysis; NAD; Oxidoreductase.
+TMZERO

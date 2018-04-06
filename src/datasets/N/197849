@@ -1,0 +1,18 @@
+AC   Q5ZIE6;
+NEDD8-activating enzyme E1 regulatory subunit (Amyloid protein-binding
+protein 1) (APP-BP1).
+"Full-length cDNAs from chicken bursal lymphocytes to facilitate gene
+function analysis.";
+-!- FUNCTION: Regulatory subunit of the dimeric UBE1C-APPBP1 E1
+    enzyme. E1 activates NEDD8 by first adenylating its C-terminal
+    glycine residue with ATP, thereafter linking this residue to the
+    side chain of the catalytic cysteine, yielding a NEDD8-UBE1C
+    thioester and free AMP. E1 finally transfers NEDD8 to the
+    catalytic cysteine of UBE2M (By similarity).
+-!- PATHWAY: NEDD8 conjugation; first step.
+-!- SUBUNIT: Heterodimer of UBE1C and APPBP1. The complex binds NEDD8
+    and UBE2M (By similarity).
+-!- SIMILARITY: Belongs to the ubiquitin-activating E1 family. ULA1
+    subfamily.
+Ligase; Ubl conjugation pathway.
+TMZERO

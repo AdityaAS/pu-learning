@@ -1,0 +1,12 @@
+AC   Q8Z9Y0;
+Protein fdhE homolog.
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: Necessary for formate dehydrogenase activity (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the fdhE family.
+Complete proteome.
+TMZERO

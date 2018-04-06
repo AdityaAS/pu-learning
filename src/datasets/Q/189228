@@ -1,0 +1,27 @@
+AC   O22588;
+Probable aquaporin TIP3.2 (Tonoplast intrinsic protein 3.2) (Beta-
+tonoplast intrinsic protein) (Beta-TIP).
+"Regulation of Arabidopsis Beta-TIP in etiolated seedlings.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"From genome to function: the Arabidopsis aquaporins.";
+-!- FUNCTION: Aquaporins facilitate the transport of water and small
+    neutral solutes across cell membranes (By similarity).
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein (By similarity). Note=Tonoplast.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=1;
+      Comment=A number of isoforms are produced. According to EST
+      sequences;
+    Name=1;
+      IsoId=O22588-1; Sequence=Displayed;
+-!- TISSUE SPECIFICITY: Predominantly expressed in developing seeds.
+    Also expressed in rosette leaves.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family. TIP
+    subfamily.
+Alternative splicing; Membrane; Repeat; Transmembrane; Transport;
+Vacuole.
+TMSIX

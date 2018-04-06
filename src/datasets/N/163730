@@ -1,0 +1,9 @@
+AC   Q662D1;
+30S ribosomal protein S20.
+"Comparative analysis of the Borrelia garinii genome.";
+-!- FUNCTION: Binds directly to 16S ribosomal RNA (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S20P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

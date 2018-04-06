@@ -1,0 +1,42 @@
+AC   P30443; O77964; O78171; Q9MYA3; Q9TP25; Q9TQP5;
+HLA class I histocompatibility antigen, A-1 alpha chain precursor (MHC
+class I antigen A*1).
+"Nature of polymorphism in HLA-A, -B, and -C molecules.";
+"Diversity and diversification of HLA-A,B,C alleles.";
+"Nucleotide sequence of an HLA-A1 gene.";
+"A nucleotide insertion in exon 4 is responsible for the absence of
+expression of an HLA-A*01 allele.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The HLA-A,B,C genotype of the class I negative cell line Daudi
+reveals novel HLA-A and -B alleles.";
+"A generic sequencing based typing approach for the identification of
+HLA-A diversity.";
+"High frequency of HLA-A*0103 allele in a Somali population.";
+"Seventeen more novel HLA-A locus alleles.";
+"A new HLA-A*01 allele.";
+"Human Ia alpha- and beta-chains are sulfated.";
+-!- FUNCTION: Involved in the presentation of foreign antigens to the
+    immune system.
+-!- SUBUNIT: Dimer of alpha chain and a beta chain (beta-2-
+    microglobulin). Interacts with human herpesvirus 8 MIR1 protein
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- PTM: Sulfated. Polyubiquitinated in a post ER compartment through
+    interaction with human herpesvirus 8 MIR1 protein. This targets
+    the protein for rapid degradation via the ubiquitin system (By
+    similarity).
+-!- POLYMORPHISM: The following alleles of A-1 are known: A*0101,
+    A*0102, A*0103, A*0106 and A*0107. The sequence shown is that of
+    A*0101.
+-!- SIMILARITY: Belongs to the MHC class I family.
+-!- SIMILARITY: Contains 1 Ig-like C1-type (immunoglobulin-like)
+    domain.
+ GO:0005887; C:integral to plasma membrane; NAS:UniProtKB.
+ GO:0030106; F:MHC class I receptor activity; NAS:UniProtKB.
+ GO:0006955; P:immune response; NAS:UniProtKB.
+3D-structure; Glycoprotein; Host-virus interaction; Immune response;
+Immunoglobulin domain; Membrane; MHC I; Polymorphism; Signal;
+Sulfation; Transmembrane; Ubl conjugation.
+TMONE

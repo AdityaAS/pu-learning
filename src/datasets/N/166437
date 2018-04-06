@@ -1,0 +1,14 @@
+AC   Q82X77;
+30S ribosomal protein S8.
+"Complete genome sequence of the ammonia-oxidizing bacterium and
+obligate chemolithoautotroph Nitrosomonas europaea.";
+-!- FUNCTION: One of the primary rRNA binding proteins, it binds
+    directly to 16S rRNA central domain where it helps coordinate
+    assembly of the platform of the 30S subunit (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Contacts proteins S5
+    and S12 (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S8P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

@@ -1,0 +1,48 @@
+AC   Q8BLA8;
+Transient receptor potential cation channel subfamily A member 1
+(Ankyrin-like with transmembrane domains protein 1).
+"ANKTM1, a TRP-like channel expressed in nociceptive neurons, is
+activated by cold temperatures.";
+"The transcriptional landscape of the mammalian genome.";
+"TRPA1 is a candidate for the mechanosensitive transduction channel of
+vertebrate hair cells.";
+"Cold-sensitive, menthol-insensitive neurons in the murine sympathetic
+nervous system.";
+"Noxious cold ion channel TRPA1 is activated by pungent compounds and
+bradykinin.";
+-!- FUNCTION: Receptor-activated non-selective cation channel involved
+    in detection of sensations such as cold, pain or sounds
+    perception. Involved in cold nociception by being activated by
+    cold temperature below 17 degrees Celsius, which is close to the
+    noxious cold threshold. Not involved in menthol sensation. Also
+    involved in pain sensation triggered by mustard oil or capsaicin,
+    the pungent ingredient in chilli peppers, by being activated by
+    these products. Also acts as a ionotropic cannabinoid receptor by
+    being activated by delta(9)-tetrahydrocannabinol (THC), the
+    psychoactive component of marijuana. May be a component for the
+    mechanosensitive transduction channel of hair cells in inner ear,
+    thereby participating in the perception of sounds. Probably
+    operated by a phosphatidylinositol second messenger system.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Expressed in inner ear. In inner ear, it is
+    found in the distal half of stereocilia, along the length of the
+    kinocilium and at high level in the pericuticular zone (at protein
+    level). Specifically expressed in a subset of nociceptive neurons.
+    Expressed in the same neurons that TRPV1. In contrast, it is not
+    expressed in neurons expressing TRPM8. Expressed in the superior
+    cervical ganglion.
+-!- DEVELOPMENTAL STAGE: During utricle development, it is first
+    expressed at E15 and E16 and peaks at E17. It drops at E18 but
+    increases again at E19, possibly corresponding to a second wave of
+    hair cells that are generated at E15.
+-!- MISCELLANEOUS: Inhibited by ruthenium red, a potent blocker of
+    TRPV channels.
+-!- SIMILARITY: Belongs to the transient receptor family.
+-!- SIMILARITY: Contains 14 ANK repeats.
+ GO:0005262; F:calcium channel activity; IDA:MGI.
+ GO:0009409; P:response to cold; IDA:MGI.
+ GO:0050955; P:thermoception; IDA:MGI.
+ANK repeat; Glycoprotein; Ion transport; Ionic channel; Membrane;
+Repeat; Sensory transduction; Transmembrane; Transport.
+TMSIX

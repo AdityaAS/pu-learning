@@ -1,0 +1,23 @@
+AC   P15377;
+RTX-II toxin determinant A (APX-IIA) (Hemolysin IIA) (HLY-IIA)
+(Cytolysin IIA) (CLY-IIA).
+"Cloning and characterization of a hemolysin gene from Actinobacillus
+(Haemophilus) pleuropneumoniae.";
+"Cytolysins of Actinobacillus pleuropneumoniae serotype 9.";
+-!- FUNCTION: One of the virulence factors of A.pleuropneumoniae,
+    which shows a weak hemolytic activity and is moderately cytotoxic
+    for alveolar macrophages and neutrophils.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- DOMAIN: The Gly-rich region is probably involved in binding
+    calcium, which is required for target cell-binding or cytolytic
+    activity (By similarity).
+-!- DOMAIN: The three transmembrane domains are believed to be
+    involved in pore formation by the cytotoxin (By similarity).
+-!- PTM: Palmitoylated by apxIIC. The toxin only becomes active when
+    modified (By similarity).
+-!- SIMILARITY: Belongs to the RTX prokaryotic toxin (TC 1.C.11)
+    family.
+-!- SIMILARITY: Contains 5 hemolysin-type calcium-binding repeats.
+Calcium; Cytolysis; Hemolysis; Lipoprotein; Membrane; Palmitate;
+Repeat; Toxin; Transmembrane; Virulence.
+THTHREE

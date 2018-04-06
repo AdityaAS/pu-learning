@@ -1,0 +1,12 @@
+AC   Q90459;
+G1/S-specific cyclin-D1.
+"Zebrafish cyclin D1 is differentially expressed during early
+embryogenesis.";
+-!- FUNCTION: Essential for the control of the cell cycle at the G1/S
+    (start) transition.
+-!- SUBUNIT: Interacts with the CDK4 and CDK6 protein kinases to form
+    a serine/threonine kinase holoenzyme complex. The cyclin subunit
+    imparts substrate specificity to the complex.
+-!- SIMILARITY: Belongs to the cyclin family. Cyclin D subfamily.
+Cell cycle; Cell division; Cyclin.
+TMZERO

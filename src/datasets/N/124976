@@ -1,0 +1,13 @@
+AC   Q58362;
+Prefoldin alpha subunit 1 (GimC alpha subunit 1).
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+-!- FUNCTION: Molecular chaperone capable of stabilizing a range of
+    proteins. Seems to fulfil an ATP-independent, HSP70-like function
+    in archaeal de novo protein folding (By similarity).
+-!- SUBUNIT: Heterohexamer of two alpha and four beta subunits (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the prefoldin alpha subunit family.
+Chaperone; Complete proteome.
+TMZERO

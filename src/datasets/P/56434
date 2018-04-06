@@ -1,0 +1,21 @@
+AC   P0AC23; P21501;
+Probable formate transporter 1 (Formate channel 1).
+"Novel transcriptional control of the pyruvate formate-lyase gene:
+upstream regulatory sequences and multiple promoters regulate
+anaerobic expression.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Isolation and characterization of hypophosphite-resistant mutants of
+Escherichia coli: identification of the FocA protein, encoded by the
+pfl operon, as a putative formate transporter.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in the bidirectional transport of formate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the FNT transporter (TC 2.A.44) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMSIX

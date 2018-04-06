@@ -1,0 +1,18 @@
+AC   P0AGM7; P33780;
+Uracil permease (Uracil transporter).
+"Uracil uptake in Escherichia coli K-12: isolation of uraA mutants and
+cloning of the gene.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Transport of uracil in the cell.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the xanthine/uracil permease family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMELEVEN

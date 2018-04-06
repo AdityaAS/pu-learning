@@ -1,0 +1,33 @@
+AC   P0AEK7; P24185; P77513;
+Formate dehydrogenase, nitrate-inducible, cytochrome b556(fdn) subunit
+(Formate dehydrogenase-N subunit gamma) (FDH-N subunit gamma)
+(Anaerobic formate dehydrogenase cytochrome b556 subunit).
+"Nitrate-inducible formate dehydrogenase in Escherichia coli K-12. I.
+Nucleotide sequence of the fdnGHI operon and evidence that opal (UGA)
+encodes selenocysteine.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Molecular basis of proton motive force generation: structure of
+formate dehydrogenase-N.";
+-!- FUNCTION: Formate dehydrogenase allows E.coli to use formate as
+    major electron donor during anaerobic respiration, when nitrate is
+    used as electron acceptor. Subunit gamma is the cytochrome
+    b556(FDN) component of the formate dehydrogenase.
+-!- COFACTOR: Binds 2 heme groups per subunit.
+-!- PATHWAY: Anaerobic nitrate respiration.
+-!- SUBUNIT: Trimer of heterotrimers, consisting of subunits alpha,
+    beta and gamma.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By nitrate under anaerobic conditions.
+-!- SIMILARITY: Belongs to the formate dehydrogenase gamma subunit
+    family.
+3D-structure; Complete proteome; Electron transport; Heme;
+Inner membrane; Iron; Membrane; Metal-binding; Transmembrane;
+Transport.
+TMFOUR

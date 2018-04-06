@@ -1,0 +1,9 @@
+AC   P66003; Q99T06;
+Regulatory protein recX.
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: Modulates recA activity (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the recX family.
+Complete proteome.
+TMZERO

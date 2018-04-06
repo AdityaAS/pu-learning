@@ -1,0 +1,43 @@
+AC   P22055;
+Genome polyprotein [Contains: Capsid protein VP4 (P1A) (Virion protein
+4); Capsid protein VP2 (P1B) (Virion protein 2); Capsid protein VP3
+(P1C) (Virion protein 3); Capsid protein VP1 (P1D) (Virion protein 1);
+Picornain 2A (EC 3.4.22.29) (Core protein P2A); Core protein P2B; Core
+protein P2C; Core protein P3A; Genome-linked protein VPg (P3B);
+Picornain 3C (EC 3.4.22.28) (Protease 3C) (P3C); RNA-directed RNA
+polymerase (EC 2.7.7.48) (P3D)].
+"The complete nucleotide sequence of coxsackievirus A21.";
+-!- FUNCTION: Capsid proteins VP1, VP2, VP3 and VP4 form a closed
+    capsid enclosing the viral positive strand RNA genome. VP4 lies on
+    the inner surface of the protein shell formed by VP1, VP2 and VP3.
+    All the three latter proteins contains a beta-sheet structure
+    called beta-barrel jelly roll (By similarity).
+-!- FUNCTION: It is thought that the P2C protein attaches to vesicular
+    membranes and is associated with viral RNA synthesis.
+-!- FUNCTION: P2A and P3C polypeptides are cysteine proteases that
+    cleave at certain Gln-|-Gly and Tyr-|-Gly sites in the
+    polyprotein.
+-!- FUNCTION: RNA-directed RNA polymerase replicates genomic and
+    antigenomic RNA by recognizing replications specific signals.
+-!- CATALYTIC ACTIVITY: Selective cleavage of Gln-|-Gly bond in the
+    poliovirus polyprotein. In other picornavirus reactions Glu may be
+    substituted for Gln, and Ser or Thr for Gly.
+-!- CATALYTIC ACTIVITY: Selective cleavage of Tyr-|-Gly bond in the
+    picornavirus polyprotein.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- PTM: VPg is covalently linked to the genomic RNA (By similarity).
+-!- PTM: Specific enzymatic cleavages yield mature proteins. Cleavage
+    between VP4 and VP2 is autocatalytic; VP1/P2A is catalyzed by P2A;
+    all other cleavages are catalyzed by P3C (By similarity).
+-!- PTM: Myristoylation of VP4 is required during RNA encapsidation
+    and formation of the mature virus particle (By similarity).
+-!- SIMILARITY: Contains 2 peptidase C3 domains.
+-!- SIMILARITY: Contains 1 RdRp catalytic domain.
+-!- SIMILARITY: Contains 1 SF3 helicase domain.
+3D-structure; Capsid protein; Core protein;
+Covalent protein-RNA linkage; Hydrolase; Lipoprotein; Myristate;
+Nucleotide-binding; Nucleotidyltransferase; Protease; RNA replication;
+RNA-directed RNA polymerase; Thiol protease; Transferase;
+Virion protein.
+TMZERO

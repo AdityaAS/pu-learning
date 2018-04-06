@@ -1,0 +1,33 @@
+AC   Q57038;
+Cytochrome b6.
+"Nucleotide sequence of the petB gene encoding cytochrome b6 from the
+mesophilic cyanobacterium Synechocystis PCC 6803: implications for
+evolution and function.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. I. Sequence features in the 1 Mb
+region from map positions 64% to 92% of the genome.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- FUNCTION: Component of the cytochrome b6-f complex, which mediates
+    electron transfer between photosystem II (PSII) and photosystem I
+    (PSI), cyclic electron flow around PSI, and state transitions (By
+    similarity).
+-!- COFACTOR: Binds 2 heme groups. One heme group is bound covalently
+    by a single cysteine link, the other one non-covalently (By
+    similarity).
+-!- SUBUNIT: The 4 large subunits of the cytochrome b6-f complex are
+    cytochrome b6, subunit IV (17 kDa polypeptide, petD), cytochrome f
+    and the Rieske protein, while the 4 small subunits are petG, petL,
+    petM and petN. The complex functions as a dimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; multi-pass
+    membrane protein (By similarity).
+-!- MISCELLANEOUS: Heme 1 (or BH or b566) is high-potential and
+    absorbs at about 566 nm, and heme 2 (or BL or b562) is low-
+    potential and absorbs at about 562 nm (By similarity).
+-!- SIMILARITY: Belongs to the cytochrome b family. PetB subfamily.
+ GO:0009512; C:cytochrome b6f complex; IDA:UniProtKB.
+ GO:0009767; P:photosynthetic electron transport; NAS:UniProtKB.
+Complete proteome; Electron transport; Heme; Iron; Membrane;
+Metal-binding; Photosynthesis; Thylakoid; Transmembrane; Transport.
+TMFOUR

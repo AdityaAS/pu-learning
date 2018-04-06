@@ -1,0 +1,17 @@
+AC   P25777; Q259Q5; Q7XR57; Q8S4X9;
+Oryzain beta chain precursor (EC 3.4.22.-).
+"Molecular cloning and gibberellin-induced expression of multiple
+cysteine proteinases of rice seeds (oryzains).";
+"Sequence and analysis of rice chromosome 4.";
+"Molecular cloning of salt responsive gene in rice, OSSRIII.";
+"A peptide derived from the C-terminal part of a plant cysteine
+protease folds into a stack of two beta-hairpins, a scaffold present
+in the emerging family of granulin-like growth factors.";
+-!- TISSUE SPECIFICITY: Expressed only in seeds.
+-!- INDUCTION: By gibberellic acid (GA).
+-!- SIMILARITY: Belongs to the peptidase C1 family.
+-!- CAUTION: Ref.1 (BAA14403) sequence differs from that shown due to
+    frameshifts in positions 17, 21 and 466.
+3D-structure; Glycoprotein; Hydrolase; Protease; Signal;
+Thiol protease; Zymogen.
+TMZERO

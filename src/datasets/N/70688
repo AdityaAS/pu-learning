@@ -1,0 +1,17 @@
+AC   P10777;
+Hemoglobin subunit alpha-1 (Hemoglobin alpha-1 chain) (Alpha-1-
+globin).
+"Hemoglobin from the Antarctic fish Notothenia coriiceps neglecta. 2.
+Amino acid sequence of the alpha chain of Hb1.";
+"The amino acid sequence of the alpha- and beta-chains of the two
+hemoglobins of the Antarctic fish Notothenia coriiceps neglecta.";
+-!- FUNCTION: Involved in oxygen transport from gills to the various
+    peripheral tissues.
+-!- SUBUNIT: Hb1 is a heterotetramer of two alpha-2 chains and two
+    beta chains.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- MISCELLANEOUS: This fish has two hemoglobins: Hb1 and Hb2.
+-!- SIMILARITY: Belongs to the globin family.
+Acetylation; Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

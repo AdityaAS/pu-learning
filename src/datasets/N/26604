@@ -1,0 +1,31 @@
+AC   Q9JLH6;
+CDK5 regulatory subunit-associated protein 1 (CDK5 activator-binding
+protein C42).
+"Cloning of three novel neuronal Cdk5 activator binding proteins.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of a neuronal Cdk5 activator-binding protein as Cdk5
+inhibitor.";
+-!- FUNCTION: Probable regulator of CDK5 activity. May inhibit CDK5
+    function via its interaction with CDK5R1.
+-!- COFACTOR: Binds 1 4Fe-4S cluster. The cluster is coordinated with
+    3 cysteines and an exchangeable S-adenosyl-L-methionine
+    (Potential).
+-!- SUBUNIT: Interacts with CDK5R1 and CDK5R2. The interaction with
+    CDK5R1 is prevented by the association between CDK5R1 and
+    CDK5RAP2. Interacts also with the complex CDK5R1-CDK5. Does not
+    interact with monomeric CDK5. The interaction is prevented by the
+    association between CDK5R1 and CDK5RAP2.
+-!- DOMAIN: The C-terminal part (475-586) is necessary for the
+    interaction with CDK5R1, while the N-terminal part (1-168) is
+    required for inhibiting the activity of the CDK5 kinase.
+-!- SIMILARITY: Belongs to the UPF0004 family. CDK5RAP1 subfamily.
+-!- SIMILARITY: Contains 1 TRAM domain.
+ GO:0042808; F:neuronal Cdc2-like kinase binding; ISS:UniProtKB.
+ GO:0019887; F:protein kinase regulator activity; TAS:RGD.
+ GO:0007420; P:brain development; ISS:UniProtKB.
+ GO:0008283; P:cell proliferation; NAS:UniProtKB.
+ GO:0045736; P:negative regulation of cyclin-dependent pro...; ISS:UniProtKB.
+ GO:0045664; P:regulation of neuron differentiation; ISS:UniProtKB.
+4Fe-4S; Iron; Iron-sulfur; Metal-binding; S-adenosyl-L-methionine.
+TMZERO

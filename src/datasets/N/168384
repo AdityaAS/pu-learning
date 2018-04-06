@@ -1,0 +1,11 @@
+AC   Q5LXP0;
+Putative Holliday junction resolvase (EC 3.1.-.-).
+"Complete sequence and comparative genome analysis of the dairy
+bacterium Streptococcus thermophilus.";
+-!- FUNCTION: Could be a nuclease that resolves Holliday junction
+    intermediates in genetic recombination.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the yqgF HJR family.
+Complete proteome; DNA damage; DNA recombination; DNA repair;
+Hydrolase; Nuclease.
+TMZERO

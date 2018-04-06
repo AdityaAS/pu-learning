@@ -1,0 +1,9 @@
+AC   P50290;
+Growth-regulating protein BB1.
+"Cloning and characterization of a novel RNA involved in cellular
+growth regulation.";
+-!- FUNCTION: Required during G1 phase in order for cells to
+    synthesize DNA in the S phase.
+ GO:0000074; P:regulation of progression through cell cycle; TAS:ProtInc.
+Cell cycle; Growth regulation.
+TMZERO

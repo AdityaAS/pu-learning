@@ -1,0 +1,19 @@
+AC   P12613; Q9VCZ6;
+T-complex protein 1 subunit alpha (TCP-1-alpha) (CCT-alpha).
+"A Drosophila melanogaster gene encodes a protein homologous to the
+mouse t complex polypeptide 1.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: Molecular chaperone; assist the folding of proteins upon
+    ATP hydrolysis. Known to play a role, in vitro, in the folding of
+    actin and tubulin.
+-!- SUBUNIT: Hetero-oligomeric complex of about 850 to 900 kDa that
+    forms two stacked rings, 12 to 16 nm in diameter.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the TCP-1 chaperonin family.
+ GO:0005753; C:proton-transporting ATP synthase complex (s...; NAS:FlyBase.
+ GO:0008553; F:hydrogen-exporting ATPase activity, phospho...; NAS:FlyBase.
+ATP-binding; Chaperone; Complete proteome; Nucleotide-binding.
+TMZERO

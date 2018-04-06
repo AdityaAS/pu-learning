@@ -1,0 +1,16 @@
+AC   P0AGI3; P04984;
+Ribose transport system permease protein rbsC.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for ribose. Probably responsible for the translocation of the
+    substrate across the membrane (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. AraH/rbsC subfamily.
+ GO:0015407; F:monosaccharide-transporting ATPase activity; IEA:EC.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMSIX

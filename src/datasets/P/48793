@@ -1,0 +1,14 @@
+AC   P0AEJ1; P27304; P77725;
+Multidrug resistance protein B.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Translocase that confers resistance to substances of
+    high hydrophobicity (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. EmrB
+    family.
+Antibiotic resistance; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMFOURTEEN

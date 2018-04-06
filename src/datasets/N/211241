@@ -1,0 +1,8 @@
+AC   Q58905;
+UPF0130 protein MJ1510.
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+-!- SIMILARITY: Belongs to the UPF0130 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

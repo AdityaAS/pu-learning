@@ -1,0 +1,19 @@
+AC   P33046;
+Indolicidin precursor (Cathelicidin-4).
+"cDNA cloning of the neutrophil bactericidal peptide indolicidin.";
+"Indolicidin, a novel bactericidal tridecapeptide amide from
+neutrophils.";
+"Fungicidal effect of indolicidin and its interaction with
+phospholipid membranes.";
+"Structure of the bovine antimicrobial peptide indolicidin bound to
+dodecylphosphocholine and sodium dodecyl sulfate micelles.";
+-!- FUNCTION: Potent microbicidal activity, active against
+    Staphylococcus aureus and Escherichia coli.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Large granules of neutrophils.
+-!- PTM: Elastase might be responsible for its maturation.
+-!- SIMILARITY: Belongs to the cathelicidin family.
+3D-structure; Amidation; Antibiotic; Antimicrobial;
+Direct protein sequencing; Fungicide; Pyrrolidone carboxylic acid;
+Signal.
+TMZERO

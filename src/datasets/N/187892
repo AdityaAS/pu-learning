@@ -1,0 +1,12 @@
+AC   Q3SH10;
+Thiazole biosynthesis protein thiG.
+"The genome sequence of the obligately chemolithoautotrophic,
+facultatively anaerobic bacterium Thiobacillus denitrificans.";
+-!- FUNCTION: Required for the synthesis of the thiazole moiety of
+    thiamine (By similarity).
+-!- COFACTOR: FMN (Potential).
+-!- PATHWAY: Thiamine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the thiG family.
+Complete proteome; Flavoprotein; FMN; Thiamine biosynthesis.
+TMZERO

@@ -1,0 +1,24 @@
+AC   P15770; Q2M6U6;
+Shikimate dehydrogenase (EC 1.1.1.25).
+"Sequencing and overexpression of the Escherichia coli aroE gene
+encoding shikimate dehydrogenase.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Crystallization and preliminary X-ray analysis of shikimate
+dehydrogenase from Escherichia coli.";
+-!- CATALYTIC ACTIVITY: Shikimate + NADP(+) = 3-dehydroshikimate +
+    NADPH.
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 4.
+-!- PATHWAY: Context: Aromatic amino acids biosynthesis.
+-!- SUBUNIT: Monomer.
+-!- INTERACTION:
+    P31064:yedE; NbExp=1; IntAct=EBI-544087, EBI-544094;
+-!- SIMILARITY: Belongs to the shikimate dehydrogenase family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Amino-acid biosynthesis;
+Aromatic amino acid biosynthesis; Complete proteome;
+Direct protein sequencing; NADP; Oxidoreductase.
+TMZERO

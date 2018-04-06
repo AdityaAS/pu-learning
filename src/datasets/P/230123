@@ -1,0 +1,11 @@
+AC   Q01247;
+Yop proteins translocation protein F.
+"Analysis of virC, an operon involved in the secretion of Yop proteins
+by Yersinia enterocolitica.";
+-!- INDUCTION: At 37 degrees Celsius in the absence of calcium.
+-!- MISCELLANEOUS: Belongs to an operon involved in the translocation
+    of Yop proteins across the bacterial membranes or in the specific
+    control of this function.
+-!- SIMILARITY: Belongs to the mxiH/prgI/yscF family.
+Plasmid; Protein transport; Transport; Virulence.
+TMZERO

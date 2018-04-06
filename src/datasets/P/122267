@@ -1,0 +1,13 @@
+AC   Q51955;
+4-hydroxybenzoate transporter.
+"Identification of the pcaRKF gene cluster from Pseudomonas putida:
+involvement in chemotaxis, biodegradation, and transport of 4-
+hydroxybenzoate.";
+-!- FUNCTION: Transporter for 4-hydroxybenzoate. Also required for
+    chemotaxis to aromatic acids.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

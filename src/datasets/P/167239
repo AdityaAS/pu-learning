@@ -1,0 +1,15 @@
+AC   P53047;
+Protein RTA1.
+"Characterization of the Saccharomyces cerevisiae RTA1 gene involved
+in 7-aminocholesterol resistance.";
+"Sequence analysis of 203 kilobases from Saccharomyces cerevisiae
+chromosome VII.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in 7-aminocholesterol resistance.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the lipid-translocating exporter (LTE)
+    (TC 9.A.26.1) family.
+Complete proteome; Membrane; Transmembrane.
+TMSEVEN

@@ -1,0 +1,22 @@
+AC   P60212;
+Toxin Tc48a.
+"Proteomics of the venom from the Amazonian scorpion Tityus cambridgei
+and the role of prolines on mass spectrometry analysis of toxins.";
+"Scorpion toxins from Tityus cambridgei that affect Na(+)-channels.";
+-!- FUNCTION: Affects the tetrodotoxin-sensitive sodium current
+    permeability of F-11 rat neuroblastoma cells. Produces a dose
+    dependent increase in amplitude and duration of the current.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- MASS SPECTROMETRY: MW=7310; METHOD=Electrospray; RANGE=1-65;
+    NOTE=Ref.1.
+-!- MASS SPECTROMETRY: MW=7318.3; METHOD=Electrospray; RANGE=1-65;
+    NOTE=Ref.2.
+-!- SIMILARITY: Belongs to the long (4 C-C) scorpion toxin
+    superfamily. Sodium channel inhibitor family.
+ GO:0005576; C:extracellular region; IDA:UniProtKB.
+ GO:0017080; F:sodium channel regulator activity; IDA:UniProtKB.
+ GO:0009405; P:pathogenesis; IDA:UniProtKB.
+Direct protein sequencing; Ionic channel inhibitor; Neurotoxin;
+Sodium channel inhibitor; Toxin.
+TMZERO

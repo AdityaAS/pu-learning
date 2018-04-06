@@ -1,0 +1,17 @@
+AC   Q46158;
+Anaerobic regulatory protein (Fragment).
+"Novel FNR homologues identified in four representative oral
+facultative anaerobes: Capnocytophaga ochracea, Capnocytophaga
+sputigena, Haemophilus aphrophilus, and Actinobacillus
+actinomycetemcomitans.";
+-!- FUNCTION: It is involved in the activation of genes necessary for
+    anaerobic respiration. It probably also activates genes involved
+    in the production of virulence factors.
+-!- COFACTOR: Binds 1 4Fe-4S cluster per subunit (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- INDUCTION: By anaerobiosis.
+-!- SIMILARITY: Contains 1 HTH crp-type DNA-binding domain.
+4Fe-4S; Activator; DNA-binding; Iron; Iron-sulfur; Metal-binding;
+Transcription; Transcription regulation; Virulence.
+TMZERO

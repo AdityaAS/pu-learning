@@ -1,0 +1,22 @@
+AC   P38361;
+Phosphate permease PHO89 (Na(+)/Pi cotransporter PHO89).
+"Complete DNA sequence of yeast chromosome II.";
+"Identification, cloning and characterization of a derepressible Na+-
+coupled phosphate transporter in Saccharomyces cerevisiae.";
+-!- FUNCTION: Sodium-phosphate symporter. Active in early growth
+    phase.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=0.5 uM for phosphate;
+    pH dependence:
+      Optimum pH is 9.5;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: The gene for PHO89 is only transcribed under conditions
+    of phosphate limitation.
+-!- SIMILARITY: Belongs to the pho-4 transporter (TC 2.A.20.2.2)
+    family.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0015319; F:sodium:inorganic phosphate symporter activity; IMP:SGD.
+ GO:0006817; P:phosphate transport; IMP:SGD.
+Complete proteome; Membrane; Symport; Transmembrane; Transport.
+TMTWELVE

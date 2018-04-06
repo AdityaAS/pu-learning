@@ -1,0 +1,10 @@
+AC   Q9ZL83;
+UPF0144 protein jhp_0697.
+"Genomic sequence comparison of two unrelated isolates of the human
+gastric pathogen Helicobacter pylori.";
+-!- SIMILARITY: Belongs to the UPF0144 family.
+-!- SIMILARITY: Contains 1 HD domain.
+-!- SIMILARITY: Contains 1 KH domain.
+ GO:0003723; F:RNA binding; IEA:HAMAP.
+Complete proteome; Membrane; RNA-binding; Transmembrane.
+TMONE

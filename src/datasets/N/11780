@@ -1,0 +1,11 @@
+AC   P0ACI7; P03809;
+Regulatory protein asnC.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Activator of asnA transcription; autogenous regulator of
+    its own transcription; and repressor of the expression of gidA at
+    a post-transcriptional level (By similarity).
+-!- SIMILARITY: Contains 1 HTH asnC-type DNA-binding domain.
+Activator; Complete proteome; DNA-binding; Transcription;
+Transcription regulation.
+TMZERO

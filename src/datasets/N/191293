@@ -1,0 +1,15 @@
+AC   O22711; Q67ZB5; Q8LDV2; Q9XEX3;
+Peroxiredoxin TPx2 (EC 1.11.1.15) (Thioredoxin reductase).
+"In vivo characterization of a thioredoxin H target protein defines a
+new peroxiredoxin family.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+"Full-length cDNA from Arabidopsis thaliana.";
+-!- CATALYTIC ACTIVITY: 2 R'-SH + ROOH = R'-S-S-R' + H(2)O + ROH.
+-!- SIMILARITY: Belongs to the peroxiredoxin 2 family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to erroneous
+    gene model prediction.
+ GO:0051920; F:peroxiredoxin activity; IEA:EC.
+Oxidoreductase; Peroxidase; Redox-active center.
+TMZERO

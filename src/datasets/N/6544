@@ -1,0 +1,14 @@
+AC   P57324;
+Methionine aminopeptidase (EC 3.4.11.18) (MAP) (Peptidase M).
+"Genome sequence of the endocellular bacterial symbiont of aphids
+Buchnera sp. APS.";
+-!- FUNCTION: Removes the amino-terminal methionine from nascent
+    proteins (By similarity).
+-!- CATALYTIC ACTIVITY: Release of N-terminal amino acids,
+    preferentially methionine, from peptides and arylamides.
+-!- COFACTOR: Binds 2 cobalt ions per subunit (By similarity).
+-!- COFACTOR: Binds 1 sodium ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the peptidase M24A family.
+Aminopeptidase; Cobalt; Complete proteome; Hydrolase; Metal-binding;
+Protease.
+TMZERO

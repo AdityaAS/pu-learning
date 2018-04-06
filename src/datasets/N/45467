@@ -1,0 +1,10 @@
+AC   Q9ZED2;
+Probable tRNA-dihydrouridine synthase (EC 1.-.-.-).
+"The genome sequence of Rickettsia prowazekii and the origin of
+mitochondria.";
+-!- FUNCTION: Catalyzes the synthesis of dihydrouridine, a modified
+    base found in the D-loop of most tRNAs (By similarity).
+-!- COFACTOR: FAD (By similarity).
+-!- SIMILARITY: Belongs to the dus family.
+Complete proteome; FAD; Flavoprotein; Oxidoreductase; tRNA processing.
+TMZERO

@@ -1,0 +1,11 @@
+AC   P30174;
+Actin-depolymerizing factor (ADF) (Fragment).
+"Molecular cloning and characterization of anther-preferential cDNA
+encoding a putative actin-depolymerizing factor.";
+-!- FUNCTION: Actin-depolymerizing protein. Severs actin filaments (F-
+    actin) and binds to actin monomers (By similarity).
+-!- TISSUE SPECIFICITY: Preferentially in mature anther.
+-!- SIMILARITY: Belongs to the actin-binding proteins ADF family.
+-!- SIMILARITY: Contains 1 ADF-H domain.
+Actin-binding.
+TMZERO

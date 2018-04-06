@@ -1,0 +1,19 @@
+AC   Q7VA47;
+Fumarate hydratase class II (EC 4.2.1.2) (Fumarase C).
+"Genome sequence of the cyanobacterium Prochlorococcus marinus SS120,
+a nearly minimal oxyphototrophic genome.";
+-!- CATALYTIC ACTIVITY: (S)-malate = fumarate + H(2)O.
+-!- PATHWAY: Carbohydrate metabolism; tricarboxylic acid cycle.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- MISCELLANEOUS: There are 2 substrate binding sites: the catalytic
+    A site, and the non-catalytic B site that may play a role in the
+    transfer of substrate or product between the active site and the
+    solvent. Alternatively, the B site may bind allosteric effectors
+    (By similarity).
+-!- SIMILARITY: Belongs to the class-II fumarase/aspartase family.
+    Fumarase subfamily.
+ GO:0004333; F:fumarate hydratase activity; IEA:HAMAP.
+ GO:0006099; P:tricarboxylic acid cycle; IEA:HAMAP.
+Complete proteome; Lyase; Tricarboxylic acid cycle.
+TMZERO

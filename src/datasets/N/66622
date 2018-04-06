@@ -1,0 +1,20 @@
+AC   Q5GSN3;
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+(EC 5.4.2.1) (Phosphoglyceromutase) (BPG-independent PGAM) (iPGM).
+"The Wolbachia genome of Brugia malayi: endosymbiont evolution within
+a human pathogenic nematode.";
+-!- FUNCTION: Catalyzes the interconversion of 2-phosphoglycerate and
+    3-phosphoglycerate (By similarity).
+-!- CATALYTIC ACTIVITY: 2-phospho-D-glycerate + 2,3-diphosphoglycerate
+    = 3-phospho-D-glycerate + 2,3-diphosphoglycerate.
+-!- CATALYTIC ACTIVITY: 2-phospho-D-glycerate = 3-phospho-D-glycerate.
+-!- COFACTOR: Binds 2 manganese ions per subunit (By similarity).
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 3.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the BPG-independent phosphoglycerate mutase
+    family.
+ GO:0046537; F:2,3-bisphosphoglycerate-independent phospho...; IEA:HAMAP.
+ GO:0006096; P:glycolysis; IEA:HAMAP.
+Complete proteome; Glycolysis; Isomerase; Manganese; Metal-binding.
+TMZERO

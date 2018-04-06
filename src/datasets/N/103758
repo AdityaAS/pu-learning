@@ -1,0 +1,9 @@
+AC   Q68WG6;
+Protein mraZ.
+"Complete genome sequence of Rickettsia typhi and comparison with
+sequences of other Rickettsiae.";
+-!- SUBUNIT: Homooctamer. Forms a ring (By similarity).
+-!- SIMILARITY: Belongs to the mraZ family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

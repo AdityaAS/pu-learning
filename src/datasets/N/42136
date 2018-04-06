@@ -1,0 +1,36 @@
+AC   P31023;
+Dihydrolipoyl dehydrogenase, mitochondrial precursor (EC 1.8.1.4)
+(Dihydrolipoamide dehydrogenase) (Pyruvate dehydrogenase complex E3
+subunit) (PDC-E3) (E3) (Glycine cleavage system L protein).
+"Isolation, characterization, and sequence analysis of a cDNA clone
+encoding L-protein, the dihydrolipoamide dehydrogenase component of
+the glycine cleavage system from pea-leaf mitochondria.";
+"Purification and primary amino acid sequence of the L subunit of
+glycine decarboxylase. Evidence for a single lipoamide dehydrogenase
+in plant mitochondria.";
+"Glycine decarboxylase and pyruvate dehydrogenase complexes share the
+same dihydrolipoamide dehydrogenase in pea leaf mitochondria: evidence
+from mass spectrometry and primary-structure analysis.";
+"Interaction between the lipoamide-containing H-protein and the
+lipoamide dehydrogenase (L-protein) of the glycine decarboxylase
+multienzyme system 2. Crystal structures of H- and L-proteins.";
+-!- FUNCTION: Lipoamide dehydrogenase is a component of the glycine
+    cleavage system as well as of the alpha-ketoacid dehydrogenase
+    complexes. The pyruvate dehydrogenase complex contains multiple
+    copies of three enzymatic components: pyruvate dehydrogenase (E1),
+    dihydrolipoamide acetyltransferase (E2) and lipoamide
+    dehydrogenase (E3).
+-!- CATALYTIC ACTIVITY: Protein 6-N-(dihydrolipoyl)lysine + NAD(+) =
+    protein 6-N-(lipoyl)lysine + NADH.
+-!- COFACTOR: Binds 1 FAD per subunit (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix.
+-!- MASS SPECTROMETRY: MW=49753; MW_ERR=5; METHOD=Electrospray;
+    RANGE=32-501; NOTE=Ref.5.
+-!- MISCELLANEOUS: The active site is a redox-active disulfide bond.
+-!- SIMILARITY: Belongs to the class-I pyridine nucleotide-disulfide
+    oxidoreductase family.
+3D-structure; Direct protein sequencing; FAD; Flavoprotein;
+Mitochondrion; NAD; Oxidoreductase; Redox-active center;
+Transit peptide.
+TMZERO

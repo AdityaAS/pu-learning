@@ -1,0 +1,11 @@
+AC   Q46IR6;
+50S ribosomal protein L16.
+"Complete sequence of Prochlorococcus marinus str. NATL2A.";
+-!- FUNCTION: Binds 23S rRNA and is also seen to make contacts with
+    the A and possibly P site tRNAs (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit.
+-!- SIMILARITY: Belongs to the ribosomal protein L16P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding; tRNA-binding.
+TMZERO

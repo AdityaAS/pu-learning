@@ -1,0 +1,19 @@
+AC   Q7MH07;
+Adenylosuccinate synthetase (EC 6.3.4.4) (IMP--aspartate ligase)
+(AdSS) (AMPSase).
+"Comparative genome analysis of Vibrio vulnificus, a marine
+pathogen.";
+-!- FUNCTION: Plays an important role in the de novo pathway of purine
+    nucleotide biosynthesis.
+-!- CATALYTIC ACTIVITY: GTP + IMP + L-aspartate = GDP + phosphate + 6-
+    N-(1,2-dicarboxyethyl)-AMP.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- PATHWAY: Nucleotide biosynthesis; AMP biosynthesis; AMP from IMP:
+    step 1.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the adenylosuccinate synthetase family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Complete proteome; GTP-binding; Ligase; Magnesium; Metal-binding;
+Nucleotide-binding; Purine biosynthesis.
+TMZERO

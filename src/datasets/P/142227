@@ -1,0 +1,22 @@
+AC   P76425; O08015;
+Nickel/cobalt efflux system rcnA.
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of rcnA (yohM), a nickel and cobalt resistance gene in
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Efflux system for nickel and cobalt.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By nickel and cobalt. Cadmium, copper and zinc have no
+    effect on the transcription.
+-!- SIMILARITY: Belongs to the NiCoT transporter (TC 2.A.52) family.
+    RcnA subfamily.
+Cobalt; Cobalt transport; Complete proteome; Inner membrane;
+Ion transport; Membrane; Nickel; Nickel transport; Transmembrane;
+Transport.
+TMSIX

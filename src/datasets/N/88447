@@ -1,0 +1,27 @@
+AC   Q9C0H6; Q9Y3J5;
+Kelch-like protein 4.
+"Identification and characterization of KLHL4, a novel human homologue
+of the Drosophila Kelch gene that maps within the X-linked cleft
+palate and ankyloglossia (CPX) critical region.";
+"Prediction of the coding sequences of unidentified human genes. XIX.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+"The DNA sequence of the human X chromosome.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9C0H6-1; Sequence=Displayed;
+    Name=2; Synonyms=KLHL4c;
+      IsoId=Q9C0H6-2; Sequence=VSP_002818;
+-!- TISSUE SPECIFICITY: Expressed in adult fibroblasts and in a range
+    of fetal tissues including tongue, palate, and mandible.
+-!- SIMILARITY: Contains 1 BTB (POZ) domain.
+-!- SIMILARITY: Contains 6 Kelch repeats.
+ GO:0005856; C:cytoskeleton; ISS:UniProtKB.
+ GO:0003779; F:actin binding; ISS:UniProtKB.
+ GO:0030036; P:actin cytoskeleton organization and biogenesis; ISS:UniProtKB.
+Actin-binding; Alternative splicing; Cytoskeleton; Kelch repeat;
+Repeat.
+TMZERO

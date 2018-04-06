@@ -1,0 +1,15 @@
+AC   Q9ZLA0;
+Rod shape-determining protein rodA.
+"Genomic sequence comparison of two unrelated isolates of the human
+gastric pathogen Helicobacter pylori.";
+-!- FUNCTION: This is one of the proteins responsible for the rod
+    shape of the cell. It is required for the expression of the
+    enzymatic activity of PBP2, which is thought to synthesize
+    peptidoglycan in the step of initiation of cell elongation (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ftsW/rodA/spoVE family.
+Cell shape; Complete proteome; Inner membrane; Membrane;
+Transmembrane.
+TMTEN

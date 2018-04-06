@@ -1,0 +1,27 @@
+AC   P11138;
+Trans-activating transcriptional regulatory protein (Immediate early
+protein 1) (IE-1).
+"Multiple early transcripts and splicing of the Autographa californica
+nuclear polyhedrosis virus IE-1 gene.";
+"Nucleotide sequence and temporal expression of a baculovirus
+regulatory gene.";
+"The complete DNA sequence of Autographa californica nuclear
+polyhedrosis virus.";
+-!- FUNCTION: Regulatory transcriptional protein, which trans-
+    activates gene expression from early baculovirus promoters. Can
+    also trans-activate its own promoter, suggesting that it is
+    autoregulated during normal infection of insect cells.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+      Comment=The spliced form of IE-1 was expressed only in the first
+      6 hours postinfection, whereas the nonspliced IE-1 transcript
+      was expressed at constant level up to 24 hours;
+    Name=Short;
+      IsoId=P11138-1; Sequence=Displayed;
+    Name=Long;
+      IsoId=P11138-2; Sequence=Not described;
+      Note=Contains 54 additional residues in the N-terminus. No
+      experimental confirmation available;
+Alternative splicing; Early protein; Transcription;
+Transcription regulation.
+TMZERO

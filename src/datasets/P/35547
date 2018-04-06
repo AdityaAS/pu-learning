@@ -1,0 +1,47 @@
+AC   P15318;
+Bifunctional hemolysin-adenylate cyclase precursor (Cyclolysin) (ACT)
+(AC-HLY) [Contains: Calmodulin-sensitive adenylate cyclase
+(EC 4.6.1.1) (ATP pyrophosphate-lyase) (Adenylyl cyclase); Hemolysin].
+"The calmodulin-sensitive adenylate cyclase of Bordetella pertussis:
+cloning and expression in Escherichia coli.";
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+"Secretion of cyclolysin, the calmodulin-sensitive adenylate cyclase-
+haemolysin bifunctional protein of Bordetella pertussis.";
+"Isolation and characterization of catalytic and calmodulin-binding
+domains of Bordetella pertussis adenylate cyclase.";
+"Identification of residues essential for catalysis and binding of
+calmodulin in Bordetella pertussis adenylate cyclase by site-directed
+mutagenesis.";
+"Functional consequences of single amino acid substitutions in
+calmodulin-activated adenylate cyclase of Bordetella pertussis.";
+"Phylogeny of adenylyl cyclases.";
+"Internal lysine palmitoylation in adenylate cyclase toxin from
+Bordetella pertussis.";
+"The conserved lysine 860 in the additional fatty-acylation site of
+Bordetella pertussis adenylate cyclase is crucial for toxin function
+independently of its acylation status.";
+-!- FUNCTION: This adenylate cyclase belongs to a special class of
+    bacterial toxin. It causes whooping cough by acting on mammalian
+    cells by elevating cAMP-concentration and thus disrupts normal
+    cell function.
+-!- CATALYTIC ACTIVITY: ATP = 3',5'-cyclic AMP + diphosphate.
+-!- ENZYME REGULATION: Activated by host calmodulin.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- DOMAIN: The Gly-rich region is probably involved in binding
+    calcium, which is required for target cell-binding or cytolytic
+    activity (By similarity).
+-!- PTM: Released in a processed form.
+-!- PTM: Palmitoylated by cyaC. The toxin only becomes active when
+    modified in position Lys-983.
+-!- SIMILARITY: In the N-terminal section; belongs to the adenylyl
+    cyclase class-2 family.
+-!- SIMILARITY: In the C-terminal section; belongs to the RTX
+    prokaryotic toxin family.
+-!- SIMILARITY: Contains 17 hemolysin-type calcium-binding repeats.
+ GO:0004016; F:adenylate cyclase activity; IEA:EC.
+3D-structure; ATP-binding; Calcium; Calmodulin-binding;
+cAMP biosynthesis; Complete proteome; Cytolysis; Hemolysis;
+Lipoprotein; Lyase; Nucleotide-binding; Palmitate; Repeat; Toxin;
+Virulence; Whooping cough.
+TMZERO

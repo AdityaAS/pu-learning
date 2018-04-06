@@ -1,0 +1,12 @@
+AC   O62193;
+Probable DNA replication complex GINS protein PSF2.
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: The GINS complex plays an essential role in the
+    initiation of DNA replication (By similarity).
+-!- SUBUNIT: Component of the GINS complex which is a heterotetramer
+    of SLD5, PSF1, PSF2 and PSF3 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the PSF2 family.
+Complete proteome; DNA replication; Nuclear protein.
+TMZERO

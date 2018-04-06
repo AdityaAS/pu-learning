@@ -1,0 +1,25 @@
+AC   Q96255;
+Phosphoserine aminotransferase, chloroplast precursor (EC 2.6.1.52)
+(PSAT).
+"Molecular characterization of plastidic phosphoserine
+aminotransferase in serine biosynthesis from Arabidopsis.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+-!- CATALYTIC ACTIVITY: O-phospho-L-serine + 2-oxoglutarate = 3-
+    phosphonooxypyruvate + L-glutamate.
+-!- CATALYTIC ACTIVITY: 4-phosphonooxy-L-threonine + 2-oxoglutarate =
+    (3R)-3-hydroxy-2-oxo-4-phosphonooxybutanoate + L-glutamate.
+-!- COFACTOR: Pyridoxal phosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-serine biosynthesis; L-serine
+    from 3-phospho-D-glycerate: step 2.
+-!- PATHWAY: Cofactor biosynthesis; pyridoxine 5'-phosphate
+    biosynthesis; pyridoxine 5'-phosphate from D-erythrose 4-
+    phosphate: step 3.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the class-V pyridoxal-phosphate-dependent
+    aminotransferase family.
+ GO:0004648; F:phosphoserine transaminase activity; IEA:EC.
+Amino-acid biosynthesis; Aminotransferase; Chloroplast; Plastid;
+Pyridoxal phosphate; Serine biosynthesis; Transferase;
+Transit peptide.
+TMZERO

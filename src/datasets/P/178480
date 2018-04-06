@@ -1,0 +1,25 @@
+AC   O14091; Q9UU60;
+General alpha-glucoside permease.
+"The genome sequence of Schizosaccharomyces pombe.";
+"Large-scale screening of intracellular protein localization in living
+fission yeast cells by the use of a GFP-fusion genomic DNA library.";
+"Functional characterization of the alpha-glucoside transporter Sut1p
+from Schizosaccharomyces pombe, the first fungal homologue of plant
+sucrose transporters.";
+-!- FUNCTION: Responsible for the transport of maltose and sucrose
+    into the cell, with the concomitant uptake of protons (symport
+    system).
+-!- PATHWAY: Maltose and sucrose metabolism.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the glycoside-pentoside-hexuronide (GPH)
+    cation symporter transporter (TC 2.A.2) family.
+ GO:0005794; C:Golgi apparatus; IDA:GeneDB_SPombe.
+ GO:0005887; C:integral to plasma membrane; TAS:GeneDB_SPombe.
+ GO:0005774; C:vacuolar membrane; IDA:GeneDB_SPombe.
+ GO:0015151; F:alpha-glucoside transporter activity; IDA:GeneDB_SPombe.
+ GO:0015768; P:maltose transport; IC:GeneDB_SPombe.
+ GO:0015770; P:sucrose transport; IC:GeneDB_SPombe.
+Complete proteome; Membrane; Sugar transport; Symport; Transmembrane;
+Transport.
+TMTWELVE

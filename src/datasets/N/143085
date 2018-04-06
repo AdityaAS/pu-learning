@@ -1,0 +1,18 @@
+AC   P0A7H3; P15027; P76589; Q2MAG5;
+DNA repair protein recO (Recombination protein O).
+"Genetic analysis of the rnc operon of Escherichia coli.";
+"Molecular analysis of the Escherichia coli recO gene.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Purification and characterization of the Escherichia coli RecO
+protein. Renaturation of complementary single-stranded DNA molecules
+catalyzed by the RecO protein.";
+"Suppression of insertions in the complex pdxJ operon of Escherichia
+coli K-12 by lon and other mutations.";
+-!- FUNCTION: Involved in DNA repair and recF pathway recombination.
+-!- SUBUNIT: Monomer.
+-!- SIMILARITY: Belongs to the recO family.
+Complete proteome; Direct protein sequencing; DNA damage;
+DNA recombination; DNA repair.
+TMZERO

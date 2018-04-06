@@ -1,0 +1,27 @@
+AC   P97687;
+Ectonucleoside triphosphate diphosphohydrolase 1 (EC 3.6.1.5) (NTPDase
+1) (Ecto-ATP diphosphohydrolase) (ATPDase) (Lymphoid cell activation
+antigen) (Ecto-apyrase) (CD39 antigen).
+"Characterization of brain ecto-apyrase: evidence for only one ecto-
+apyrase (CD39) gene.";
+"Evidence for alternative splicing of ecto-ATPase associated with
+termination of purinergic transmission.";
+"An ecto-ATPase and an ecto-ATP diphosphohydrolase are expressed in
+rat brain.";
+-!- FUNCTION: In the nervous system, could hydrolyze ATP and other
+    nucleotides to regulate purinergic neurotransmission. Could also
+    be implicated in the prevention of platelet aggregation.
+    Hydrolyzes ATP and ADP equally well.
+-!- CATALYTIC ACTIVITY: ATP + 2 H(2)O = AMP + 2 phosphate.
+-!- COFACTOR: Calcium.
+-!- COFACTOR: Magnesium.
+-!- SUBUNIT: Homodimer; disulfide-linked (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Expressed in primary neurons and astrocytes,
+    kidney, liver, muscle, thymus, lung and spleen.
+-!- PTM: N-glycosylated.
+-!- SIMILARITY: Belongs to the GDA1/CD39 NTPase family.
+ GO:0005515; F:protein binding; IDA:RGD.
+Calcium; Glycoprotein; Hydrolase; Magnesium; Membrane; Transmembrane.
+TMTWO

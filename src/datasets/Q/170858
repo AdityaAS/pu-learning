@@ -1,0 +1,8 @@
+AC   P52853;
+Preprotein translocase secE subunit.
+-!- FUNCTION: Essential for protein export.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the secE/SEC61-gamma family.
+Membrane; Protein transport; Translocation; Transmembrane; Transport.
+TMONE

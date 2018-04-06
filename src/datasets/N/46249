@@ -1,0 +1,10 @@
+AC   P14265; P87551;
+E1B protein, small T-antigen (Early E1B 19 kDa protein).
+"Nucleotide sequence of E1 region of canine adenovirus type 2.";
+"Complete DNA sequence and genomic organization of canine adenovirus
+type 2.";
+"Genetic content and evolution of adenoviruses.";
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 126.
+Early protein.
+TMZERO

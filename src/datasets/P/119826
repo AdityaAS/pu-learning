@@ -1,0 +1,37 @@
+AC   P39952;
+Inner membrane protein OXA1, mitochondrial precursor (Oxidase assembly
+protein 1) (Cytochrome oxidase biogenesis protein OXA1).
+"OXA1, a Saccharomyces cerevisiae nuclear gene whose sequence is
+conserved from prokaryotes to eukaryotes controls cytochrome oxidase
+biogenesis.";
+"PET1402, a nuclear gene required for proteolytic processing of
+cytochrome oxidase subunit 2 in yeast.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Insertion into the mitochondrial inner membrane of a polytopic
+protein, the nuclear-encoded Oxa1p.";
+"Oxa1p, an essential component of the N-tail protein export machinery
+in mitochondria.";
+"Yeast Oxa1 interacts with mitochondrial ribosomes: the importance of
+the C-terminal region of Oxa1.";
+"Global analysis of protein expression in yeast.";
+"Insertion of proteins into the inner membrane of mitochondria: the
+role of the Oxa1 complex.";
+-!- FUNCTION: Required for the insertion of integral membrane proteins
+    into the mitochondrial inner membrane. Essential for the activity
+    and assembly of cytochrome c oxidase. Plays a central role in the
+    translocation and export of the N-terminal part of the COX2
+    protein into the mitochondrial intermembrane space.
+-!- SUBUNIT: Interacts with the large ribosome subunit of
+    mitochondrial ribosome. Interacts directly with MRP20.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 6550 molecules/cell.
+-!- SIMILARITY: Belongs to the OXA1/oxaA family.
+ GO:0005743; C:mitochondrial inner membrane; IDA:SGD.
+ GO:0008565; F:protein transporter activity; IMP:SGD.
+ GO:0045039; P:protein import into mitochondrial inner mem...; IMP:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Transit peptide; Transmembrane.
+TMFOUR

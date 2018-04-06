@@ -1,0 +1,19 @@
+AC   O24143;
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial
+precursor (EC 1.6.5.3) (EC 1.6.99.3) (NADH-ubiquinone oxidoreductase
+23 kDa subunit) (Complex I-23kD) (CI-23kD) (Complex I-28.5kD) (CI-
+28.5kD).
+"The 28.5-kDa iron-sulfur protein of mitochondrial complex I is
+encoded in the nucleus in plants.";
+-!- FUNCTION: May donate electrons to ubiquinone.
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- CATALYTIC ACTIVITY: NADH + acceptor = NAD(+) + reduced acceptor.
+-!- COFACTOR: Binds 2 4Fe-4S clusters per subunit (By similarity).
+-!- SUBUNIT: Complex I is composed of about 40 different subunits.
+-!- SIMILARITY: Belongs to the complex I 23 kDa subunit family.
+-!- SIMILARITY: Contains 2 4Fe-4S type ferredoxin domains.
+ GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:EC.
+ GO:0003954; F:NADH dehydrogenase activity; IEA:EC.
+4Fe-4S; Iron; Iron-sulfur; Metal-binding; Mitochondrion; NAD;
+Oxidoreductase; Transit peptide; Ubiquinone.
+TMZERO

@@ -1,0 +1,19 @@
+AC   P62332; P26438;
+ADP-ribosylation factor 6.
+"Interspecies relationships among ADP-ribosylation factors (ARFs):
+evidence of evolutionary pressure to maintain individual identities.";
+"Identification of a new Pyk2 target protein with Arf-GAP activity.";
+-!- FUNCTION: GTP-binding protein that functions as an allosteric
+    activator of the cholera toxin catalytic subunit, an ADP-
+    ribosyltransferase. Involved in protein trafficking; may modulate
+    vesicle budding and uncoating within the Golgi apparatus (By
+    similarity).
+-!- SUBUNIT: Interacts with DDEF2, PIP5K1C and UACA (By similarity).
+-!- SIMILARITY: Belongs to the small GTPase superfamily. Arf family.
+ GO:0005886; C:plasma membrane; IDA:RGD.
+ GO:0001726; C:ruffle; IDA:RGD.
+ GO:0030036; P:actin cytoskeleton organization and biogenesis; TAS:RGD.
+ GO:0016358; P:dendrite development; TAS:RGD.
+ER-Golgi transport; Golgi apparatus; GTP-binding; Lipoprotein;
+Myristate; Nucleotide-binding; Protein transport; Transport.
+TMZERO

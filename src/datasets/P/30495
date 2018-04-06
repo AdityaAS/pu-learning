@@ -1,0 +1,19 @@
+AC   P21592;
+Protoheme IX farnesyltransferase, mitochondrial precursor (EC 2.5.1.-)
+(Heme O synthase).
+"COX10 codes for a protein homologous to the ORF1 product of
+Paracoccus denitrificans and is required for the synthesis of yeast
+cytochrome oxidase.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"A new old yellow enzyme of Saccharomyces cerevisiae.";
+"On the functions of the yeast COX10 and COX11 gene products.";
+-!- FUNCTION: Converts protoheme IX and farnesyl diphosphate to heme
+    O.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ubiA prenyltransferase family.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0006784; P:heme a biosynthesis; IMP:SGD.
+Complete proteome; Heme biosynthesis; Membrane; Mitochondrion;
+Transferase; Transit peptide; Transmembrane.
+TMSEVEN

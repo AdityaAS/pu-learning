@@ -1,0 +1,23 @@
+AC   P23936;
+Lactose permease (Lactose-proton symporter) (Lactose transport
+protein) [Includes: Putative phosphotransferase enzyme IIA component
+(EC 2.7.1.-) (Putative PTS system EIIA component)].
+"Lactose transport system of Streptococcus thermophilus: a hybrid
+protein with homology to the melibiose carrier and enzyme III of
+phosphoenolpyruvate-dependent phosphotransferase systems.";
+"Carbohydrate utilization in Streptococcus thermophilus:
+characterization of the genes for aldose 1-epimerase (mutarotase) and
+UDPglucose 4-epimerase.";
+-!- FUNCTION: Responsible for transport of beta-galactosides into the
+    cell, with the concomitant uptake of protons (symport system), and
+    also for transport of homologous and heterologous exchange of
+    beta-galactosides.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- DOMAIN: The PTS EIIA type-1 domain may serve a regulatory
+    function, through its phosphorylation activity.
+-!- SIMILARITY: In the N-terminal section; belongs to the
+    sodium:galactoside symporter family.
+-!- SIMILARITY: Contains 1 PTS EIIA type-1 domain.
+Kinase; Membrane; Phosphorylation; Sugar transport; Symport;
+Transferase; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,26 @@
+AC   Q9Z2Z8;
+7-dehydrocholesterol reductase (EC 1.3.1.21) (7-DHC reductase) (Sterol
+Delta(7)-reductase).
+"Transmembrane configuration of sterol delta 7-reductase as a
+potential sterol sensing protein.";
+"Cholesterol biosynthesis from lanosterol. Molecular cloning, tissue
+distribution, expression, chromosomal localization, and regulation of
+rat 7-dehydrocholesterol reductase, a Smith-Lemli-Opitz syndrome-
+related protein.";
+"Structure and alternative splicing of the rat 7-dehydrocholesterol
+reductase gene.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Production of cholesterol by reduction of C7-C8 double
+    bond of 7-dehydrocholesterol (7-DHC).
+-!- CATALYTIC ACTIVITY: Cholesterol + NADP(+) = cholesta-5,7-dien-3-
+    beta-ol + NADPH.
+-!- PATHWAY: Cholesterol biosynthesis.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ERG4/ERG24 family.
+ GO:0047598; F:7-dehydrocholesterol reductase activity; IEA:EC.
+Cholesterol biosynthesis; Endoplasmic reticulum; Lipid synthesis;
+Membrane; NADP; Oxidoreductase; Steroid biosynthesis;
+Sterol biosynthesis; Transmembrane.
+TMNINE

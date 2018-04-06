@@ -1,0 +1,23 @@
+AC   P36062;
+Vacuolar amino acid transporter 3.
+"DNA sequencing of a 36.2 kb fragment located between the FAS1 and LAP
+loci of chromosome XI of Saccharomyces cerevisiae.";
+"Complete DNA sequence of yeast chromosome XI.";
+"A family of yeast proteins mediating bidirectional vacuolar amino
+acid transport.";
+-!- FUNCTION: Involved in amino acid efflux from the vacuole to the
+    cytoplasm. Capable of transporting large neutral amino acids
+    including tyrosine, glutamine, asparagine, isoleucine and leucine.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); IMP:SGD.
+ GO:0015186; F:L-glutamine transporter activity; IGI:SGD.
+ GO:0015188; F:L-isoleucine transporter activity; IGI:SGD.
+ GO:0005302; F:L-tyrosine transporter activity; IGI:SGD.
+ GO:0006865; P:amino acid transport; IGI:SGD.
+ GO:0007034; P:vacuolar transport; IGI:SGD.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport; Vacuole.
+TMELEVEN

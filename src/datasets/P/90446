@@ -1,0 +1,25 @@
+AC   Q60961;
+Lysosomal-associated transmembrane protein 4A (Golgi 4-transmembrane
+spanning transporter) (Mouse transporter protein) (MTP).
+"Identification of a novel membrane transporter associated with
+intracellular membranes by phenotypic complementation in the yeast
+Saccharomyces cerevisiae.";
+-!- FUNCTION: May function in the transport of nucleosides and/or
+    nucleoside derivatives between the cytosol and the lumen of an
+    intracellular membrane-bound compartment.
+-!- SUBCELLULAR LOCATION: Intracytoplasmic membrane; multi-pass
+    membrane protein (Potential). Isoform Short: Cell membrane; multi-
+    pass membrane protein (Probable). Note=May reside in an
+    intracellular membrane-bound compartment (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative initiation; Named isoforms=2;
+    Name=Long;
+      IsoId=Q60961-1; Sequence=Displayed;
+    Name=Short; Synonyms=Truncated, MTP1;
+      IsoId=Q60961-2; Sequence=VSP_018821;
+      Note=No experimental confirmation available;
+-!- DOMAIN: The C-terminal domain is necessary for retention within
+    intracelllular membranes.
+-!- SIMILARITY: Belongs to the LAPTM4/LAPTM5 transporter family.
+Alternative initiation; Membrane; Transmembrane; Transport.
+TMFOUR

@@ -1,0 +1,19 @@
+AC   Q9P7F9;
+Copper transport protein ctr5 (Copper transporter 5).
+"The genome sequence of Schizosaccharomyces pombe.";
+"Identification of a novel high affinity copper transport complex in
+the fission yeast Schizosaccharomyces pombe.";
+-!- FUNCTION: Required for high affinity copper (probably reduced Cu
+    I) transport into the cell.
+-!- SUBUNIT: Interacts with ctr4.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: By copper deprivation, and repressed by copper
+    sufficiency.
+-!- SIMILARITY: Belongs to the SLC31A transporter family.
+ GO:0005783; C:endoplasmic reticulum; IDA:GeneDB_SPombe.
+ GO:0005886; C:plasma membrane; IDA:GeneDB_SPombe.
+ GO:0046982; F:protein heterodimerization activity; IPI:GeneDB_SPombe.
+ GO:0006825; P:copper ion transport; IMP:GeneDB_SPombe.
+Complete proteome; Copper; Copper transport; Ion transport; Membrane;
+Transmembrane; Transport.
+TMTWO

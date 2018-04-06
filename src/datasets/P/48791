@@ -1,0 +1,20 @@
+AC   P27303; P77356;
+Multidrug resistance protein A.
+"Emr, an Escherichia coli locus for multidrug resistance.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Multidrug resistance pumps in bacteria: variations on a theme.";
+-!- FUNCTION: The emr locus confers resistance to substances of high
+    hydrophobicity. EmrA probably participate in a transport system to
+    extrude toxins and drugs from the cell.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the membrane fusion protein (MFP)
+    (TC 8.A.1) family.
+Antibiotic resistance; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMONE

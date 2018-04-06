@@ -1,0 +1,29 @@
+AC   P69830; P17409;
+N,N'-diacetylchitobiose-specific phosphotransferase enzyme IIB
+component (EC 2.7.1.69) (PTS system N,N'-diacetylchitobiose-specific
+EIIB component).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in N,N'-diacetylchitobiose
+    transport (By similarity).
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- PATHWAY: N,N'-diacetylchitobiose utilization.
+-!- SUBUNIT: Monomer; in both its unphosphorylated and phosphorylated
+    forms (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- INDUCTION: By N,N'-diacetylchitobiose (By similarity).
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-3 domain.
+ GO:0008982; F:protein-N(PI)-phosphohistidine-sugar phosph...; IEA:EC.
+Complete proteome; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport.
+TMZERO

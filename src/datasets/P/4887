@@ -1,0 +1,25 @@
+AC   Q9M3H5; Q5JZZ1; Q9SW66;
+Putative cadmium/zinc-transporting ATPase HMA1, chloroplast precursor
+(EC 3.6.3.3) (EC 3.6.3.5).
+"Identification of a putative heavy metal P-type ATPase in
+Arabidopsis.";
+"Functional characterization of AtHMA1.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"Proteomics of the chloroplast envelope membranes from Arabidopsis
+thaliana.";
+-!- FUNCTION: Involved in cadmium/zinc transport (Potential).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Cd(2+)(In) = ADP + phosphate +
+    Cd(2+)(Out).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Zn(2+)(In) = ADP + phosphate +
+    Zn(2+)(Out).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast inner
+    membrane; multi-pass membrane protein (Potential).
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IB subfamily.
+ GO:0008551; F:cadmium-exporting ATPase activity; IEA:EC.
+ GO:0016463; F:zinc-exporting ATPase activity; IEA:EC.
+ATP-binding; Cadmium; Chloroplast; Hydrolase; Magnesium; Membrane;
+Metal-binding; Nucleotide-binding; Phosphorylation; Plastid;
+Polymorphism; Transit peptide; Transmembrane; Zinc.
+TMEIGHT

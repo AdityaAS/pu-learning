@@ -1,0 +1,13 @@
+AC   Q9KPK1;
+Regulator of ribonuclease activity A protein 1.
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Regulator of RNase E/rne, which inhibits the
+    endonuclease activity and thereby leads to increase the half-life
+    and abundance of RNAs. General modulator of RNA abundance. Does
+    not have any methyltransferase activity (By similarity).
+-!- SUBUNIT: Homotrimer. Interacts with RNase E protein and probably
+    inhibits its catalytic activity (By similarity).
+-!- SIMILARITY: Belongs to the rraA family.
+3D-structure; Complete proteome.
+TMZERO

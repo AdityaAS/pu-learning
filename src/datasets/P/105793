@@ -1,0 +1,14 @@
+AC   P94131;
+Cis,cis-muconate transport protein.
+"mucK, a gene in Acinetobacter calcoaceticus ADP1 (BD413), encodes the
+ability to grow on exogenous cis,cis-muconate as the sole carbon
+source.";
+"Unique features revealed by the genome sequence of Acinetobacter sp.
+ADP1, a versatile and naturally transformation competent bacterium.";
+-!- FUNCTION: Probable uptake of muconate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

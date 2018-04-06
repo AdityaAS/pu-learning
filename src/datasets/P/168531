@@ -1,0 +1,88 @@
+AC   Q92736; Q15411; Q546N8;
+Ryanodine receptor 2 (Cardiac muscle-type ryanodine receptor) (RyR2)
+(RYR-2) (Cardiac muscle ryanodine receptor-calcium release channel)
+(hRYR-2).
+"The human cardiac muscle ryanodine receptor-calcium release channel:
+identification, primary structure and topological analysis.";
+"Identification of mutations in the cardiac ryanodine receptor gene in
+families affected with arrhythmogenic right ventricular cardiomyopathy
+type 2 (ARVD2).";
+"Differential expression of ryanodine receptor RyR2 mRNA in the non-
+pregnant and pregnant human myometrium.";
+"Partial cloning and differential expression of ryanodine
+receptor/calcium-release channel genes in human tissues including the
+hippocampus and cerebellum.";
+"Mutations in the cardiac ryanodine receptor gene (hRyR2) underlie
+catecholaminergic polymorphic ventricular tachycardia.";
+"Mutations of the cardiac ryanodine receptor (RyR2) gene in familial
+polymorphic ventricular tachycardia.";
+"Molecular genetics of exercise-induced polymorphic ventricular
+tachycardia: identification of three novel cardiac ryanodine receptor
+mutations and two common calsequestrin 2 amino-acid polymorphisms.";
+-!- FUNCTION: Communication between transverse-tubules and
+    sarcoplasmic reticulum. Contraction of cardiac muscle is triggered
+    by release of calcium ions from SR following depolarization of T-
+    tubules (By similarity).
+-!- SUBUNIT: Homotetramer (Potential).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q92736-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q92736-2; Sequence=VSP_005953;
+-!- TISSUE SPECIFICITY: Heart muscle, brain (cerebellum and
+    hippocampus) and placenta.
+-!- DEVELOPMENTAL STAGE: Expressed in myometrium during pregnancy.
+-!- INDUCTION: By TGF-beta.
+-!- DISEASE: Defects in RYR2 are the cause of familial arrhythmogenic
+    right ventricular dysplasia 2 (ARVD2) [MIM:600996]; also known as
+    arrhythmogenic right ventricular cardiomyopathy 2 (ARVC2). ARVD is
+    an autosomal dominant disease characterized by partial
+    degeneration of the myocardium of the right ventricle, electrical
+    instability, and sudden death. It is clinically defined by
+    electrocardiographic and angiographic criteria; pathologic
+    findings, replacement of ventricular myocardium with fatty and
+    fibrous elements, preferentially involve the right ventricular
+    free wall.
+-!- DISEASE: Defects in RYR2 are the cause of an autosomal dominant
+    form of stress-induced polymorphic ventricular tachycardia (VTSIP)
+    [MIM:604772]; also known as catecholaminergic polymorphic
+    ventricular tachycardia (CPVT). VTSIP is a genetic arrhythmogenic
+    disorder characterized by stress-induced, bidirectional
+    ventricular tachycardia that may degenerate into cardiac arrest
+    and cause sudden death.
+-!- DISEASE: Defects in RYR2 are a cause of familial polymorphic
+    ventricular tachycardia (FPVT) [MIM:192605]. FPVT is an autosomal-
+    dominant, inherited disease with a relatively early onset and a
+    mortality rate of approximately 30% by the age of 30 years.
+    Phenotypically, it is characterized by salvoes of bidirectional
+    and polymorphic ventricular tachycardias in response to vigorous
+    exercise, with no structural evidence of myocardial disease.
+-!- MISCELLANEOUS: The calcium release channel is modulated by calcium
+    ions, magnesium ions, ATP and calmodulin.
+-!- MISCELLANEOUS: The calcium release channel activity resides in the
+    C-terminal region while the remaining part of the protein
+    constitutes the 'foot' structure spanning the junctional gap
+    between the SR and the T-tubule. It is possible that the foot
+    structure interacts with the cytoplasmic region of the
+    dihydropyridine receptor.
+-!- MISCELLANEOUS: Ryanodine is an alkaloid that binds to the Ca-
+    release channel in junctional SR and modulates its activity.
+-!- SIMILARITY: Belongs to the ryanodine receptor family.
+-!- SIMILARITY: Contains 3 B30.2/SPRY domains.
+-!- SIMILARITY: Contains 1 EF-hand domain.
+-!- SIMILARITY: Contains 5 MIR domains.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=RYR2".
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0015278; F:calcium-release channel activity; TAS:ProtInc.
+ GO:0006936; P:muscle contraction; TAS:ProtInc.
+ GO:0008016; P:regulation of heart contraction; TAS:ProtInc.
+ GO:0007165; P:signal transduction; NAS:ProtInc.
+Alternative splicing; Calcium; Calcium channel; Calcium transport;
+Calmodulin-binding; Cardiomyopathy; Disease mutation; Glycoprotein;
+Ion transport; Ionic channel; Membrane; Phosphorylation; Polymorphism;
+Receptor; Repeat; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,23 @@
+AC   Q9KJC2;
+Antibiotic efflux pump membrane transporter arpB.
+"Identification and molecular characterization of an efflux system
+involved in Pseudomonas putida S12 multidrug resistance.";
+-!- FUNCTION: The inner membrane transporter component of an
+    antibiotic efflux pump. Confers resistance to numerous
+    structurally unrelated antibiotics such as carbenicillin,
+    chloramphenicol, erythromycin, novobiocin, streptomycin and
+    tetracycline. Is not involved in organic solvent efflux.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- INDUCTION: The arpABC operon was not seen to be induced by
+    carbenicillin, chloramphenicol, erythromycin nor by hexane,
+    toluene or p-xylene.
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+-!- CAUTION: Despite being nearly identical to the ttgABC operon in
+    strain DOT-T1E and the mepABC operon in strain KT2442-TOL this
+    operon does not function in solvent efflux. This may be due to
+    different protein expression levels. In strain KT2440 the
+    equivalent operon does not seem to function in toluene efflux.
+Antibiotic resistance; Inner membrane; Membrane; Transmembrane;
+Transport.
+TMTWELVE

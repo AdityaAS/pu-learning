@@ -1,0 +1,13 @@
+AC   P29939;
+Hypothetical transport protein in cobO 3'region (ORF6).
+"Nucleotide sequence and genetic analysis of a 13.1-kilobase-pair
+Pseudomonas denitrificans DNA fragment containing five cob genes and
+identification of structural genes encoding Cob(I)alamin
+adenosyltransferase, cobyric acid synthase, and bifunctional
+cobinamide kinase-cobinamide phosphate guanylyltransferase.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the eamA transporter family.
+-!- SIMILARITY: Contains 1 DUF6 domain.
+Hypothetical protein; Membrane; Transmembrane; Transport.
+TMFIVE

@@ -1,0 +1,31 @@
+AC   Q5HSI4;
+IspD/ispF bifunctional enzyme [Includes: 2-C-methyl-D-erythritol 4-
+phosphate cytidylyltransferase (EC 2.7.7.60) (4-diphosphocytidyl-2C-
+methyl-D-erythritol synthase) (MEP cytidylyltransferase) (MCT); 2-C-
+methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+(MECPS) (MECDP-synthase)].
+"Major structural differences and novel potential virulence mechanisms
+from the genomes of multiple Campylobacter species.";
+-!- FUNCTION: Bifunctional enzyme that catalyzes the formation of 4-
+    diphosphocytidyl-2-C-methyl-D-erythritol from CTP and 2-C-methyl-
+    D-erythritol 4-phosphate (MEP) (ispD), and converts 4-
+    diphosphocytidyl-2-C-methyl-D-erythritol 2-phosphate into 2-C-
+    methyl-D-erythritol 2,4-cyclodiphosphate (MECDP) and CMP (ispF)
+    (By similarity).
+-!- CATALYTIC ACTIVITY: CTP + 2-C-methyl-D-erythritol 4-phosphate =
+    diphosphate + 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol.
+-!- CATALYTIC ACTIVITY: 2-phospho-4-(cytidine 5'-diphospho)-2-C-
+    methyl-D-erythritol = 2-C-methyl-D-erythritol 2,4-cyclodiphosphate
+    + CMP.
+-!- COFACTOR: Divalent metal cations (By similarity).
+-!- PATHWAY: Isoprenoid biosynthesis; isopentenyl-PP biosynthesis via
+    DXP pathway; isopentenyl-PP from 1-deoxy-D-xylulose 5-phosphate:
+    step 2.
+-!- PATHWAY: Isoprenoid biosynthesis; isopentenyl-PP biosynthesis via
+    DXP pathway; isopentenyl-PP from 1-deoxy-D-xylulose 5-phosphate:
+    step 4.
+-!- SIMILARITY: In the N-terminal section; belongs to the ispD family.
+-!- SIMILARITY: In the C-terminal section; belongs to the ispF family.
+Complete proteome; Isoprene biosynthesis; Lyase; Metal-binding;
+Multifunctional enzyme; Nucleotidyltransferase; Transferase.
+TMZERO

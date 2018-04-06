@@ -1,0 +1,16 @@
+AC   P30669;
+Guanine nucleotide-binding protein G(s) subunit alpha (Adenylate
+cyclase-stimulating G alpha protein).
+"Cloning and characterization of a cDNA coding for the alpha-subunit
+of a stimulatory G protein from Schistosoma mansoni.";
+-!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+    involved as modulators or transducers in various transmembrane
+    signaling systems. The G(s) protein is involved in hormonal
+    regulation of adenylate cyclase: it activates the cyclase in
+    response to beta-adrenergic stimuli.
+-!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+    gamma. The alpha chain contains the guanine nucleotide binding
+    site.
+-!- SIMILARITY: Belongs to the G-alpha family. G(s) subfamily.
+ADP-ribosylation; GTP-binding; Nucleotide-binding; Transducer.
+TMZERO

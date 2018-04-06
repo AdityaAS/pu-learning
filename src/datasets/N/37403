@@ -1,0 +1,24 @@
+AC   P00816; Q2MC84;
+Cyanate hydratase (EC 4.2.1.104) (Cyanase) (Cyanate lyase) (Cyanate
+hydrolase).
+"The amino acid sequence of Escherichia coli cyanase.";
+"Characterization of high-level expression and sequencing of the
+Escherichia coli K-12 cynS gene encoding cyanase.";
+"Characterization of the cyn operon in Escherichia coli K12.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Structural properties of cyanase. Denaturation, renaturation, and
+role of sulfhydryls and oligomeric structure in catalytic activity.";
+"Structure of cyanase reveals that a novel dimeric and decameric
+arrangement of subunits is required for formation of the enzyme active
+site.";
+-!- FUNCTION: Catalyzes the reaction of cyanate with bicarbonate to
+    produce ammonia and carbon dioxide.
+-!- CATALYTIC ACTIVITY: Cyanate (NCO(-)) + H(2)O = carbamate (H(2)N-
+    CO-O(-)).
+-!- SUBUNIT: Homodecamer composed of five homodimers.
+-!- SIMILARITY: Belongs to the cyanase family.
+3D-structure; Complete proteome; Direct protein sequencing; Lyase.
+TMZERO

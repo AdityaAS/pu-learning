@@ -1,0 +1,19 @@
+AC   Q2UGK2;
+Peptidyl-prolyl cis-trans isomerase B precursor (EC 5.2.1.8) (PPIase
+B) (Rotamase B).
+"Genome sequencing and analysis of Aspergillus oryzae.";
+-!- FUNCTION: PPIases accelerate the folding of proteins. It catalyzes
+    the cis-trans isomerization of proline imidic peptide bonds in
+    oligopeptides (By similarity).
+-!- CATALYTIC ACTIVITY: Peptidylproline (omega=180) = peptidylproline
+    (omega=0).
+-!- ENZYME REGULATION: Inhibited by cyclosporin A (CsA) (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    lumen (By similarity).
+-!- SIMILARITY: Belongs to the cyclophilin-type PPIase family. PPIase
+    B subfamily.
+-!- SIMILARITY: Contains 1 PPIase cyclophilin-type domain.
+Complete proteome; Cyclosporin; Endoplasmic reticulum; Glycoprotein;
+Isomerase; Rotamase; Signal.
+TMZERO

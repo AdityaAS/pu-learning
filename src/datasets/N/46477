@@ -1,0 +1,15 @@
+AC   O02775; Q1RMP8;
+Enteric beta-defensin precursor.
+"Enteric beta-defensin: molecular cloning and characterization of a
+gene with inducible intestinal epithelial cell expression associated
+with Cryptosporidium parvum infection.";
+"Somatic cell mapping of beta-defensin genes to cattle syntenic group
+U25 and fluorescence in situ localization to chromosome 27.";
+-!- FUNCTION: Has antibacterial activity (Potential).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Inducibly expressed in enteric epithelial
+    cells.
+-!- SIMILARITY: Belongs to the beta-defensin family. LAP/TAP
+    subfamily.
+Antibiotic; Antimicrobial; Defensin; Signal.
+TMZERO

@@ -1,0 +1,15 @@
+AC   P0ABD0; P17447;
+High-affinity choline transport protein.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: High-affinity uptake of choline driven by a proton-
+    motive force (By similarity).
+-!- PATHWAY: Amine and polyamine biosynthesis; betaine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- INDUCTION: By osmotic stress. Choline is required for full
+    expression (By similarity).
+-!- SIMILARITY: Belongs to the BCCT transporter (TC 2.A.15) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

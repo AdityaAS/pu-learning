@@ -1,0 +1,34 @@
+AC   P59097;
+Pyranose 2-oxidase precursor (EC 1.1.3.10) (P2Ox) (Pyranose oxidase)
+(PROD) (POD) (POx) (Pyranose:oxygen 2-oxidoreductase) (Glucose 2-
+oxidase) (FAD-oxidoreductase).
+"Nucleic acids encoding polypeptides having pyranose oxidase
+activity.";
+-!- FUNCTION: Catalyzes the oxidation of various aldopyranoses and
+    disaccharides on carbon-2 to the corresponding 2-keto sugars
+    concomitant with the reduction of O(2) to H(2)O(2). Plays an
+    important role in lignin degradation of wood rot fungi by
+    supplying the essential cosubstrate H(2)O(2) for the ligninolytic
+    peroxidases, lignin peroxidase and manganese-dependent peroxidase.
+    The preferred substrate is D-glucose which is converted to 2-
+    dehydro-D-glucose, an intermediate of a secondary metabolic
+    pathway leading to the antibiotic cortalcerone. Acts also on D-
+    xylose, together with D-glucose the major sugars derived from
+    wood, on L-sorbose, D-galactose and 1,5-anhydroglucitol, a
+    diagnostic marker of diabetes mellitus.
+-!- CATALYTIC ACTIVITY: D-glucose + O(2) = 2-dehydro-D-glucose +
+    H(2)O(2).
+-!- COFACTOR: Binds 1 FAD covalently per subunit (By similarity).
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 6. Active and stable from pH 3 to 9;
+    Temperature dependence:
+      Optimum temperature is 30-50 degrees Celsius. Active and
+      thermostable for 30 minutes up to 55 degrees Celsius;
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Note=Hyphal periplasmic space (By
+    similarity).
+-!- SIMILARITY: Belongs to the GMC oxidoreductase family.
+Direct protein sequencing; FAD; Flavoprotein; Oxidoreductase;
+Periplasmic; Signal.
+TMZERO

@@ -1,0 +1,22 @@
+AC   Q9QAR8;
+Nucleocapsid protein (N structural protein) (NC).
+"Nucleotide and predicted amino acid sequences of all genes encoded by
+the 3' genomic portion (9.5 kb) of respiratory bovine coronaviruses
+and comparisons among respiratory and enteric coronaviruses.";
+-!- FUNCTION: Major structural component of virions that associates
+    with genomic RNA to form a long, flexible, helical nucleocapsid.
+    Interaction with the M protein leads to the formation of virus
+    particles. Binds to cellular membranes and phospholipids. Elicits
+    cell-mediated immunity. May play roles in viral transcription and
+    translation, and/or replication.
+-!- SUBUNIT: Monomer and oligomer. Both monomeric and oligomeric forms
+    interact with RNA. Interacts with the M protein.
+-!- SUBCELLULAR LOCATION: Virion. Cell membrane. Note=Located inside
+    the virion, complexed with the viral RNA. May be associated with
+    cellular membranes where it participates in viral RNA synthesis
+    and virus budding.
+-!- PTM: Phosphorylated on serine residues (By similarity).
+-!- SIMILARITY: Belongs to the coronaviruses nucleocapsid protein
+    family.
+Phosphorylation; RNA-binding; Viral nucleoprotein; Virion protein.
+TMZERO

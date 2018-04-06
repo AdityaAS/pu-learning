@@ -1,0 +1,45 @@
+AC   P40215;
+External NADH-ubiquinone oxidoreductase 1, mitochondrial precursor
+(EC 1.6.5.3) (External NADH dehydrogenase 1).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Yeast mitochondrial dehydrogenases are associated in a supramolecular
+complex.";
+"Identification of a cytosolically directed NADH dehydrogenase in
+mitochondria of Saccharomyces cerevisiae.";
+"The Saccharomyces cerevisiae NDE1 and NDE2 genes encode separate
+mitochondrial NADH dehydrogenases catalyzing the oxidation of
+cytosolic NADH.";
+"In vivo analysis of the mechanisms for oxidation of cytosolic NADH by
+Saccharomyces cerevisiae mitochondria.";
+"Mitochondrial respiratory electron carriers are involved in oxidative
+stress during heat stress in Saccharomyces cerevisiae.";
+"Kinetic regulation of the mitochondrial glycerol-3-phosphate
+dehydrogenase by the external NADH dehydrogenase in Saccharomyces
+cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"The proteome of Saccharomyces cerevisiae mitochondria.";
+-!- FUNCTION: External NADH dehydrogenase required for optimum
+    cellular growth with a number of nonfermentable carbon sources,
+    including ethanol. With NDE2, performes the mitochondrial
+    oxidation of cytosolic NADH under these growth conditions.
+    Regulates the mitochondrial glycerol-3-phosphate dehydrogenase,
+    GUT2, also involved in cytosolic NADH oxydation.
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- INTERACTION:
+    P10592:SSA2; NbExp=1; IntAct=EBI-27294, EBI-8603;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial intermembrane
+    space.
+-!- MISCELLANEOUS: Present with 4930 molecules/cell.
+-!- SIMILARITY: Belongs to the NADH dehydrogenase family.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0003954; F:NADH dehydrogenase activity; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0001300; P:chronological cell aging; IMP:SGD.
+ GO:0019655; P:glucose catabolism to ethanol; IMP:SGD.
+ GO:0006116; P:NADH oxidation; IDA:SGD.
+Complete proteome; Direct protein sequencing; FAD; Flavoprotein;
+Mitochondrion; NAD; Oxidoreductase; Transit peptide; Ubiquinone.
+TMZERO

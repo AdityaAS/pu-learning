@@ -1,0 +1,16 @@
+AC   Q875S4;
+Pyruvate kinase (EC 2.7.1.40) (PK).
+"Yeast genome duplication was followed by asynchronous differentiation
+of duplicated genes.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- CATALYTIC ACTIVITY: ATP + pyruvate = ADP + phosphoenolpyruvate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- COFACTOR: Potassium (By similarity).
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 5 [final step].
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the pyruvate kinase family.
+Glycolysis; Kinase; Magnesium; Metal-binding; Phosphorylation;
+Pyruvate; Transferase.
+TMZERO

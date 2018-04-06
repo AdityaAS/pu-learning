@@ -1,0 +1,30 @@
+AC   Q59465;
+Cadmium, zinc and cobalt-transporting ATPase (EC 3.6.3.3)
+(EC 3.6.3.5).
+"Cloning and membrane topology of a P type ATPase from Helicobacter
+pylori.";
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+"Helicobacter pylori cadA encodes an essential Cd(II)-Zn(II)-Co(II)
+resistance factor influencing urease activity.";
+"Membrane topology of CadA homologous P-type ATPase of Helicobacter
+pylori as determined by expression of phoA fusions in Escherichia coli
+and the positive inside rule.";
+-!- FUNCTION: Couples the hydrolysis of ATP with the transport of
+    cadmium, zinc and cobalt out of the cell. This ion efflux may
+    influence the activity of urease, which is essential for the
+    survival of the bacterium in the gastric environment.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Cd(2+)(In) = ADP + phosphate +
+    Cd(2+)(Out).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Zn(2+)(In) = ADP + phosphate +
+    Zn(2+)(Out).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IB subfamily.
+-!- SIMILARITY: Contains 1 HMA domain.
+ GO:0008551; F:cadmium-exporting ATPase activity; IEA:EC.
+ GO:0016463; F:zinc-exporting ATPase activity; IEA:EC.
+ATP-binding; Cadmium; Cobalt; Complete proteome; Hydrolase; Magnesium;
+Membrane; Metal-binding; Nucleotide-binding; Phosphorylation;
+Transmembrane; Zinc.
+TMEIGHT

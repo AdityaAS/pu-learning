@@ -1,0 +1,73 @@
+AC   P10845; P01561; P18639;
+Botulinum neurotoxin type A precursor (EC 3.4.24.69) (BoNT/A)
+(Bontoxilysin-A) (BOTOX) [Contains: Botulinum neurotoxin A light-
+chain; Botulinum neurotoxin A heavy-chain].
+"The complete amino acid sequence of the Clostridium botulinum type A
+neurotoxin, deduced by nucleotide sequence analysis of the encoding
+gene.";
+"The complete sequence of botulinum neurotoxin type A and comparison
+with other clostridial neurotoxins.";
+"Organization and phylogenetic interrelationships of genes encoding
+components of the botulinum toxin complex in proteolytic Clostridium
+botulinum types A, B, and F: evidence of chimeric sequences in the
+gene encoding the nontoxic nonhemagglutinin component.";
+"Characterization of botulinum type A neurotoxin gene: delineation of
+the N-terminal encoding region.";
+"Molecular characterization of two forms of nontoxic-nonhemagglutinin
+components of Clostridium botulinum type A progenitor toxins.";
+"Partial amino acid sequence of the heavy and light chains of
+botulinum neurotoxin type A.";
+"Partial sequence of the light chain of botulinum neurotoxin type A.";
+"Botulinum neurotoxin type A: sequence of amino acids at the N-
+terminus and around the nicking site.";
+"Botulinum neurotoxin type A: cleavage of the heavy chain into two
+halves and their partial sequences.";
+"Inactivation of Clostridium botulinum type A neurotoxin by trypsin
+and purification of two tryptic fragments. Proteolytic action near the
+COOH-terminus of the heavy subunit destroys toxin-binding activity.";
+"Botulinum type A neurotoxin digested with pepsin yields 132, 97, 72,
+45, 42, and 18 kD fragments.";
+"Botulinum neurotoxins serotypes A and E cleave SNAP-25 at distinct
+COOH-terminal peptide bonds.";
+"Proteolysis of SNAP-25 by types E and A botulinal neurotoxins.";
+"Site-directed mutagenesis identifies active-site residues of the
+light chain of botulinum neurotoxin type a.";
+"SV2 is the protein receptor for botulinum neurotoxin A.";
+"Crystal structure of botulinum neurotoxin type A and implications for
+toxicity.";
+-!- FUNCTION: Inhibits acetylcholine release. The botulinum toxin
+    binds with high affinity to peripheral neuronal presynaptic
+    membrane to the secretory vesicle protein SV2. It binds directly
+    to the largest luminal loop of SV2A, SV2B and SV2C. It is then
+    internalized by receptor-mediated endocytosis. The C-terminus of
+    the heavy chain (H) is responsible for the adherence of the toxin
+    to the cell surface while the N-terminus mediates transport of the
+    light chain from the endocytic vesicle to the cytosol. After
+    translocation, the light chain (L) hydrolyzes the 197-Gln-|-Arg-
+    198 bond in SNAP-25, thereby blocking neurotransmitter release.
+    Inhibition of acetylcholine release results in flaccid paralysis,
+    with frequent heart or respiratory failure.
+-!- CATALYTIC ACTIVITY: Limited hydrolysis of proteins of the
+    neuroexocytosis apparatus, synaptobrevins, SNAP25 or syntaxin. No
+    detected action on small molecule substrates.
+-!- COFACTOR: Binds 1 zinc ion per subunit.
+-!- SUBUNIT: Disulfide-linked heterodimer of a light chain (L) and a
+    heavy chain (H).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- PHARMACEUTICAL: Available under the name BOTOX (Allergan) for the
+    treatment of strabismus and blepharospasm associated with dystonia
+    and cervical dystonia. Also used for the treatment of hemifacial
+    spasm and a number of other neurological disorders characterized
+    by abnormal muscle contraction.
+-!- MISCELLANEOUS: There are seven antigenically distinct forms of
+    botulinum neurotoxin: Types A, B, C1, D, E, F, and G.
+-!- SIMILARITY: Belongs to the peptidase M27 family.
+-!- WEB RESOURCE: NAME=BOTOX product information Web site;
+    URL="http://www.botox.com/site/".
+-!- WEB RESOURCE: NAME=Protein Spotlight;
+    NOTE=From sausages to wrinkles - Issue 19 of February 2002;
+    URL="http://www.expasy.org/spotlight/back_issues/sptlt019.shtml".
+3D-structure; Direct protein sequencing; Hydrolase; Membrane;
+Metal-binding; Metalloprotease; Neurotoxin; Pharmaceutical; Protease;
+Toxin; Transmembrane; Zinc.
+TMTWO

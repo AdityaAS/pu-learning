@@ -1,0 +1,18 @@
+AC   Q6CZB5;
+Vitamin B12 transporter btuB precursor (Cobalamin receptor) (Outer
+membrane cobalamin translocator).
+"Genome sequence of the enterobacterial phytopathogen Erwinia
+carotovora subsp. atroseptica and characterization of virulence
+factors.";
+-!- FUNCTION: Involved in the active translocation of vitamin B12
+    (cyanocobalamin) across the outer membrane to the periplasmic
+    space. It derives its energy for transport by interacting with the
+    trans-periplasmic membrane protein tonB (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family. BtuB
+    (TC 1.B.14.3.1) subfamily.
+ GO:0015235; F:cobalamin transporter activity; IEA:HAMAP.
+Calcium; Complete proteome; Membrane; Metal-binding; Outer membrane;
+Signal; TonB box; Transmembrane; Transport.
+TMTWENTYTWO

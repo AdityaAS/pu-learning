@@ -1,0 +1,13 @@
+AC   Q9ZHC7;
+Putative cation-transporting P-type ATPase (EC 3.6.3.-).
+"Molecular basis for resistance to silver cations in Salmonella.";
+-!- FUNCTION: Component of the sil cation-efflux system that confers
+    resistance to silver.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IB subfamily.
+ATP-binding; Hydrolase; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Plasmid; Transmembrane.
+TMEIGHT

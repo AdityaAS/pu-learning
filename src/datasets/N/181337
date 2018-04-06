@@ -1,0 +1,15 @@
+AC   P43825;
+Lysyl-tRNA synthetase (EC 6.1.1.6) (Lysine--tRNA ligase) (LysRS).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- CATALYTIC ACTIVITY: ATP + L-lysine + tRNA(Lys) = AMP + diphosphate
+    + L-lysyl-tRNA(Lys).
+-!- COFACTOR: Binds 3 magnesium ions per subunit (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Magnesium; Metal-binding; Nucleotide-binding; Protein biosynthesis.
+TMZERO

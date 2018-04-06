@@ -1,0 +1,19 @@
+AC   P23878; P75724; P77096; Q2MBL3;
+Ferric enterobactin transport ATP-binding protein fepC.
+"Nucleotide sequence and genetic organization of the ferric
+enterobactin transport system: homology to other periplasmic binding
+protein-dependent systems in Escherichia coli.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for ferric enterobactin. Probably responsible for energy coupling
+    to the transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Nucleotide-binding; Transport.
+TMZERO

@@ -1,0 +1,16 @@
+AC   Q99680; O14554;
+Probable G-protein coupled receptor 22.
+"Cloning and chromosomal mapping of four putative novel human G-
+protein-coupled receptor genes.";
+"The DNA sequence of human chromosome 7.";
+-!- FUNCTION: Orphan receptor.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: In the brain regions frontal cortex, caudate,
+    putamen and thalamus; not in pons, hypothalamus and hippocampus.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0004930; F:G-protein coupled receptor activity; TAS:ProtInc.
+ GO:0007186; P:G-protein coupled receptor protein signalin...; TAS:ProtInc.
+G-protein coupled receptor; Glycoprotein; Membrane; Receptor;
+Transducer; Transmembrane.
+TMSEVEN

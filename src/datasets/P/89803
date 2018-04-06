@@ -1,0 +1,41 @@
+AC   P63183; P30016; P76748; Q2M865;
+Low affinity potassium transport system protein kup (Kup system
+potassium uptake protein).
+"Nucleotide sequence and 3'-end deletion studies indicate that the
+K(+)-uptake protein kup from Escherichia coli is composed of a
+hydrophobic core linked to a large and partially essential hydrophilic
+C-terminus.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Specific cesium transport via the Escherichia coli Kup (TrkD) K+
+uptake system.";
+"Kup is the major K+ uptake system in Escherichia coli upon hyper-
+osmotic stress at a low pH.";
+"K+ influx by Kup in Escherichia coli is accompanied by a decrease in
+H+ efflux.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Responsible for the low-affinity transport of potassium
+    into the cell, with the probable concomitant uptake of protons
+    (symport system). Can also transport cesium.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: Kup is probably the major potassium uptake system
+    upon hyper-osmotic stress at a low pH.
+-!- MISCELLANEOUS: Uptake is inhibited by protonophores such as CCCP.
+-!- SIMILARITY: Belongs to the HAK/KUP transporter (TC 2.A.72) family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to frameshifts
+    in positions 506, 542 and 579.
+-!- CAUTION: Ref.3 sequence differs from that shown due to frameshifts
+    in positions 506 and 542.
+ GO:0015293; F:symporter activity; IEA:HAMAP.
+Complete proteome; Inner membrane; Ion transport; Membrane; Potassium;
+Potassium transport; Symport; Transmembrane; Transport.
+TMTWELVE

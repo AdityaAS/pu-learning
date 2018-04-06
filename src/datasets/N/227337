@@ -1,0 +1,10 @@
+AC   P32726;
+UPF0090 protein ylxS (P15A).
+"Similar organization of the nusA-infB operon in Bacillus subtilis and
+Escherichia coli.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- SIMILARITY: Belongs to the UPF0090 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

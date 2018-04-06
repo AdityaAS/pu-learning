@@ -1,0 +1,13 @@
+AC   Q9KUS4;
+Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+(Diadenosine tetraphosphatase) (Ap4A hydrolase) (Diadenosine 5',5'''-
+P1,P4-tetraphosphate pyrophosphohydrolase).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Hydrolyzes diadenosine 5',5'''-P1,P4-tetraphosphate to
+    yield ADP (By similarity).
+-!- CATALYTIC ACTIVITY: P(1),P(4)-bis(5'-adenosyl) tetraphosphate +
+    H(2)O = 2 ADP.
+-!- SIMILARITY: Belongs to the Ap4A hydrolase family.
+Complete proteome; Hydrolase.
+TMZERO

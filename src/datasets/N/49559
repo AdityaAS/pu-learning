@@ -1,0 +1,21 @@
+AC   P69950; P82479;
+Enolase (EC 4.2.1.11) (2-phosphoglycerate dehydratase) (2-phospho-D-
+glycerate hydro-lyase).
+"Genome sequence of a serotype M3 strain of group A Streptococcus:
+phage-encoded toxins, the high-virulence phenotype, and clone
+emergence.";
+"Genome sequence of an M3 strain of Streptococcus pyogenes reveals a
+large-scale genomic rearrangement in invasive strains and new insights
+into phage evolution.";
+-!- CATALYTIC ACTIVITY: 2-phospho-D-glycerate = phosphoenolpyruvate +
+    H(2)O.
+-!- COFACTOR: Magnesium. Required for catalysis and for stabilizing
+    the dimer (By similarity).
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 4.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the enolase family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Complete proteome; Glycolysis; Lyase; Magnesium; Metal-binding.
+TMZERO

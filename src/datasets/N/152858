@@ -1,0 +1,11 @@
+AC   P62004; O74015;
+50S ribosomal protein L37e.
+"An integrated analysis of the genome of the hyperthermophilic
+archaeon Pyrococcus abyssi.";
+-!- FUNCTION: Binds to the 23S rRNA (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L37e family.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Complete proteome; Metal-binding; Ribonucleoprotein;
+Ribosomal protein; RNA-binding; rRNA-binding; Zinc; Zinc-finger.
+TMZERO

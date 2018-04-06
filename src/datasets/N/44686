@@ -1,0 +1,13 @@
+AC   Q9R6T3; Q5N0Q6;
+Nutrient stress-induced DNA-binding protein.
+"Complete genome structure of the unicellular cyanobacterium Anacystis
+nidulans 6301 (Synechococcus sp. PCC6301).";
+"Molecular characterization of idiA and adjacent genes in the
+cyanobacteria Synechococcus sp. strains PCC 6301 and PCC 7942.";
+-!- FUNCTION: Involved in protection of chromosomal DNA from damage
+    under nutrient-limited and oxidative stress conditions. Binds heme
+    (By similarity).
+-!- SUBUNIT: Hexamer (By similarity).
+-!- SIMILARITY: Belongs to the dps family.
+Complete proteome; DNA-binding; Heme; Iron; Metal-binding.
+TMZERO

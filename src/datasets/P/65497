@@ -1,0 +1,21 @@
+AC   P0AC94; P39373; Q2M5Z2;
+High-affinity gluconate transporter (Gluconate permease 3) (Gnt-III
+system).
+"The gntP gene of Escherichia coli involved in gluconate uptake.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: High-affinity gluconate transporter with fairly broad
+    specificity, including low affinity for glucuronate, several
+    disaccharides, and some hexoses, but not glucose.
+-!- PATHWAY: Gluconate utilization.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the gntP permease family.
+Complete proteome; Gluconate utilization; Inner membrane; Membrane;
+Sugar transport; Transmembrane; Transport.
+TMTHIRTEEN

@@ -1,0 +1,11 @@
+AC   O05132;
+Probable GTP-binding protein engB.
+"Cloning and characterization of the ponA gene encoding penicillin-
+binding protein 1 from Neisseria gonorrhoeae and Neisseria
+meningitidis.";
+-!- FUNCTION: Necessary for normal cell division and for the
+    maintenance of normal septation (By similarity).
+-!- SIMILARITY: Belongs to the engB family.
+ GO:0000917; P:barrier septum formation; IEA:HAMAP.
+Cell cycle; Cell division; GTP-binding; Nucleotide-binding; Septation.
+TMZERO

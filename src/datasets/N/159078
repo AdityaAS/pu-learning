@@ -1,0 +1,16 @@
+AC   Q9Z7F0; Q9JQE8; Q9K1S3;
+RNA polymerase sigma factor rpoD (Sigma-70) (Sigma-A) (Sigma-66).
+"Comparative genomes of Chlamydia pneumoniae and C. trachomatis.";
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+"Comparison of whole genome sequences of Chlamydia pneumoniae J138
+from Japan and CWL029 from USA.";
+"The genome sequence of Chlamydia pneumoniae TW183 and comparison with
+other Chlamydia strains based on whole genome sequence analysis.";
+-!- FUNCTION: Sigma factors are initiation factors that promote the
+    attachment of RNA polymerase to specific initiation sites and are
+    then released. This is the primary sigma factor of this bacterium.
+-!- SIMILARITY: Belongs to the sigma-70 factor family.
+Complete proteome; DNA-binding; Sigma factor; Transcription;
+Transcription regulation.
+TMZERO

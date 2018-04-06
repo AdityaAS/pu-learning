@@ -1,0 +1,39 @@
+AC   O35185; P97289;
+Class B basic helix-loop-helix protein 2 (bHLHB2) (Stimulated by
+retinoic acid gene 13 protein) (E47 interaction protein 1) (eipl).
+"Overexpression of Stra13, a novel retinoic acid-inducible gene of the
+basic helix-loop-helix family, inhibits mesodermal and promotes
+neuronal differentiation of P19 cells.";
+"Identification of interaction partners for the basic-helix-loop-helix
+protein E47.";
+"Isolation of a CD40-activated gene from murine splenic B cells.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May function as a transcriptional factor for neuronal
+    differentiation.
+-!- SUBUNIT: Interacts with ubiquitin-conjugating enzyme UBE2I/UBC9
+    (By similarity). Able to homodimerize or heterodimerize with
+    TCF3/E47.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- DEVELOPMENTAL STAGE: Expressed from E9.5 day to E17.5 day in the
+    ventricular layer of the brain and spinal cord, but also in the
+    retinal pigment epithelium, developing eyelids, nasal epithelium,
+    serous gland, vibrissae, epithelium of the mouth cavity and the
+    tooth buds. Highly expressed in the heart, thymus and adrenal
+    glands followed by lung, liver parenchyma, kidney tubules,
+    epithelium of the esophagus and stomach. From E15.5 to E17.5 it is
+    expressed in urinary bladder and urethra. From E17.5, it is
+    expressed in developing muscle.
+-!- INDUCTION: Stimulated by retinoic acid (RA).
+-!- PTM: Ubiquitinated; which may lead to proteasomal degradation (By
+    similarity).
+-!- SIMILARITY: Contains 1 basic helix-loop-helix (bHLH) domain.
+-!- SIMILARITY: Contains 1 Orange domain.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0003677; F:DNA binding; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:MGI.
+ GO:0016564; F:transcriptional repressor activity; IDA:MGI.
+ GO:0045892; P:negative regulation of transcription, DNA-d...; IDA:MGI.
+DNA-binding; Nuclear protein; Transcription; Transcription regulation;
+Ubl conjugation.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q82EX9;
+Chaperone protein dnaK1 (Heat shock protein 70-1) (Heat shock 70 kDa
+protein 1) (HSP70-1).
+"Genome sequence of an industrial microorganism Streptomyces
+avermitilis: deducing the ability of producing secondary
+metabolites.";
+"Complete genome sequence and comparative analysis of the industrial
+microorganism Streptomyces avermitilis.";
+-!- FUNCTION: Acts as a chaperone (By similarity).
+-!- INDUCTION: By stress conditions e.g. heat shock (By similarity).
+-!- SIMILARITY: Belongs to the heat shock protein 70 family.
+ATP-binding; Chaperone; Complete proteome; Heat shock;
+Nucleotide-binding; Phosphorylation.
+TMZERO

@@ -1,0 +1,52 @@
+AC   Q9UJS0; O14566; O14575; Q9NZW1; Q9UNI7;
+Calcium-binding mitochondrial carrier protein Aralar2 (Mitochondrial
+aspartate glutamate carrier 2) (Solute carrier family 25 member 13)
+(Citrin).
+"The gene mutated in adult-onset type II citrullinaemia encodes a
+putative mitochondrial carrier protein.";
+"Characterization of a second member of the subfamily of calcium-
+binding mitochondrial carriers expressed in human non-excitable
+tissues.";
+"The DNA sequence of human chromosome 7.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Genomic structure of the adult-onset type II citrullinemia gene,
+SLC25A13, and cloning and expression of its mouse homologue.";
+"Citrin and aralar1 are Ca(2+)-stimulated aspartate/glutamate
+transporters in mitochondria.";
+"Screening of SLC25A13 mutations in early and late onset patients with
+citrin deficiency and in the Japanese population: identification of
+two novel mutations and establishment of multiple DNA diagnosis
+methods for nine mutations.";
+-!- FUNCTION: Calcium-dependent mitochondrial aspartate and glutamate
+    carrier. May have a function in the urea cycle.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: High levels in liver and low levels in kidney,
+    pancreas, placenta, heart and brain.
+-!- DISEASE: Defects in SLC25A13 are the cause of adult-onset type-II
+    citrullinemia (AO-CTLN2) [MIM:603471]. CTLN2 is characterized
+    primarily by elevated serum and urine citrulline levels. A few
+    years after onset patients enter a coma and suffer cerebral edema.
+-!- DISEASE: Defects in SLC25A13 are the cause of neonatal-onset type-
+    II citrullinemia (NO-CTLN2) [MIM:605814]; also known as neonatal
+    intrahepatic cholestasis caused by citrin deficiency (NICCD).
+    CTLN2 is characterized primarily by elevated serum and urine
+    citrulline levels. A few years after onset patients enter a coma
+    and suffer cerebral edema.
+-!- MISCELLANEOUS: Binds calcium.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 4 EF-hand domains.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+-!- CAUTION: Ref.3 sequence differs from that shown due to erroneous
+    gene model prediction.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SLC25A13".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005739; C:mitochondrion; TAS:ProtInc.
+ GO:0005509; F:calcium ion binding; TAS:ProtInc.
+ GO:0005386; F:carrier activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Acetylation; Calcium; Disease mutation; Inner membrane; Membrane;
+Mitochondrion; Repeat; Transmembrane; Transport.
+TMSIX

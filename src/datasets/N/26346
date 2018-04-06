@@ -1,0 +1,19 @@
+AC   P42457;
+Citrate synthase (EC 2.3.3.1).
+"Nucleotide sequence, expression and transcriptional analysis of the
+Corynebacterium glutamicum gltA gene encoding citrate synthase.";
+"Complete genomic sequence of Corynebacterium glutamicum ATCC 13032.";
+"The complete Corynebacterium glutamicum ATCC 13032 genome sequence
+and its impact on the production of L-aspartate-derived amino acids
+and vitamins.";
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + H(2)O + oxaloacetate = citrate +
+    CoA.
+-!- ENZYME REGULATION: Weakly inhibited by ATP (apparent Ki = 10 mm).
+-!- PATHWAY: Carbohydrate metabolism; tricarboxylic acid cycle.
+-!- SUBUNIT: Homohexamer (By similarity).
+-!- MISCELLANEOUS: Citrate synthase is found in nearly all cells
+    capable of oxidative metabolism.
+-!- SIMILARITY: Belongs to the citrate synthase family.
+Allosteric enzyme; Complete proteome; Transferase;
+Tricarboxylic acid cycle.
+TMZERO

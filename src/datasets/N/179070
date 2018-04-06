@@ -1,0 +1,16 @@
+AC   Q97ED6;
+Cysteinyl-tRNA synthetase (EC 6.1.1.16) (Cysteine--tRNA ligase)
+(CysRS).
+"Genome sequence and comparative analysis of the solvent-producing
+bacterium Clostridium acetobutylicum.";
+-!- CATALYTIC ACTIVITY: ATP + L-cysteine + tRNA(Cys) = AMP +
+    diphosphate + L-cysteinyl-tRNA(Cys).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Metal-binding; Nucleotide-binding; Protein biosynthesis; Zinc.
+TMZERO

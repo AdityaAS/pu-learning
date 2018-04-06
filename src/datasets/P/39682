@@ -1,0 +1,12 @@
+AC   P0ABN6; P04539;
+Anaerobic C4-dicarboxylate transporter dcuA.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Responsible for the transport of C4-dicarboxylates from
+    the periplasm across the inner membrane (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the dcuA/dcuB transporter (TC 2.A.13.1)
+    family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTEN

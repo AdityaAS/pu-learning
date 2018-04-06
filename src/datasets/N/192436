@@ -1,0 +1,18 @@
+AC   Q6MTI1;
+tRNA (guanine-N(1)-)-methyltransferase (EC 2.1.1.31) (M1G-
+methyltransferase) (tRNA [GM37] methyltransferase).
+"The genome sequence of Mycoplasma mycoides subsp. mycoides SC type
+strain PG1T, the causative agent of contagious bovine pleuropneumonia
+(CBPP).";
+-!- FUNCTION: Specifically methylates guanosine-37 in various tRNAs
+    (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + tRNA = S-adenosyl-L-
+    homocysteine + tRNA containing 1-N-methylguanine.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the RNA methyltransferase trmD family.
+ GO:0009019; F:tRNA (guanine-N1-)-methyltransferase activity; IEA:HAMAP.
+ GO:0006400; P:tRNA modification; IEA:HAMAP.
+Complete proteome; Methyltransferase; S-adenosyl-L-methionine;
+Transferase; tRNA processing.
+TMZERO

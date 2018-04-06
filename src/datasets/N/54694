@@ -1,0 +1,157 @@
+AC   P02751; O95609; O95610; Q14312; Q14325; Q14326; Q6LDP6; Q86T27;
+AC   Q8IVI8; Q96KP7; Q96KP8; Q96KP9; Q9H1B8; Q9HAP3; Q9UMK2;
+Fibronectin precursor (FN) (Cold-insoluble globulin) (CIG).
+"Phenotypic and genetic alterations in mammary stroma: implications
+for tumour progression.";
+"Human fibronectin is synthesized as a pre-propolypeptide.";
+"Cloning and analysis of the promotor region of the human fibronectin
+gene.";
+"Primary structure of human fibronectin: differential splicing may
+generate at least 10 polypeptides from a single gene.";
+"Primary structure of a DNA- and heparin-binding domain (Domain III)
+in human plasma fibronectin.";
+"Human fibronectin: cell specific alternative mRNA splicing generates
+polypeptide chains differing in the number of internal repeats.";
+"Sequence analysis and in vivo expression show that alternative
+splicing of ED-B and ED-A regions of the human fibronectin gene are
+independent events.";
+"Transformed human cells produce a new fibronectin isoform by
+preferential alternative splicing of a previously unobserved exon.";
+"Identification of a third region of cell-specific alternative
+splicing in human fibronectin mRNA.";
+"The cell attachment domain of fibronectin. Determination of the
+primary structure.";
+"Molecular cloning and nucleotide sequence of a cDNA clone coding for
+the cell attachment domain in human fibronectin.";
+"Evolution of the fibronectin gene. Exon structure of cell attachment
+domain.";
+"Primary structure of human plasma fibronectin. Characterization of a
+38 kDa domain containing the C-terminal heparin-binding site (Hep III
+site) and a region of molecular heterogeneity.";
+"Human cellular fibronectin: comparison of the carboxyl-terminal
+portion with rat identifies primary structural domains separated by
+hypervariable regions.";
+"Human fibronectin: molecular cloning evidence for two mRNA species
+differing by an internal segment coding for a structural domain.";
+"Human liver fibronectin complementary DNAs: identification of two
+different messenger RNAs possibly encoding the alpha and beta subunits
+of plasma fibronectin.";
+"Novel cartilage-specific splice variants of fibronectin.";
+"Isolation and characterization of cDNA clones for human liver
+fibronectin.";
+"Donor and acceptor splice signals within an exon of the human
+fibronectin gene: a new type of differential splicing.";
+"Primary structure of human plasma fibronectin. Characterization of a
+31,000-dalton fragment from the COOH-terminal region containing a free
+sulfhydryl group and a fibrin-binding site.";
+"Isolation and characterization of cDNA clones for human and bovine
+fibronectins.";
+"Primary structure of human plasma fibronectin. The 29,000-dalton NH2-
+terminal domain.";
+"Mapping the collagen-binding site of human fibronectin by expression
+in Escherichia coli.";
+"Tyrosine sulfation of proteins from the human hepatoma cell line
+HepG2.";
+"Human plasma fibronectin. Demonstration of structural differences
+between the A- and B-chains in the III CS region.";
+"Fibulin binds to itself and to the carboxyl-terminal heparin-binding
+region of fibronectin.";
+"Further characterization of the NH2-terminal fibrin-binding site on
+fibronectin.";
+"Mac-2 binding protein is a cell-adhesive protein of the extracellular
+matrix which self-assembles into ring-like structures and binds beta1
+integrins, collagens and fibronectin.";
+"Screening for N-glycosylated proteins by liquid chromatography mass
+spectrometry.";
+"Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+hydrazide chemistry, and mass spectrometry.";
+"1H NMR assignment and secondary structure of the cell adhesion type
+III module of fibronectin.";
+"The three-dimensional structure of the tenth type III module of
+fibronectin: an insight into RGD-mediated interactions.";
+"Solution structure of a pair of fibronectin type 1 modules with
+fibrin binding activity.";
+"High-resolution structural studies of the factor XIIIa crosslinking
+site and the first type 1 module of fibronectin.";
+"Solution structure of the glycosylated second type 2 module of
+fibronectin.";
+"NMR structure of the human oncofoetal fibronectin ED-B domain, a
+specific marker for angiogenesis.";
+"Solution structure of a pair of modules from the gelatin-binding
+domain of fibronectin.";
+"The hairpin structure of the (6)F1(1)F2(2)F2 fragment from human
+fibronectin enhances gelatin binding.";
+"NMR structure of human fibronectin EDA.";
+"Pathogenic bacteria attach to human fibronectin through a tandem
+beta-zipper.";
+"Crystal structure of the tenth type III cell adhesion module of human
+fibronectin.";
+"2.0 A crystal structure of a four-domain segment of human fibronectin
+encompassing the RGD loop and synergy region.";
+"Crystal structure of a heparin- and integrin-binding segment of human
+fibronectin.";
+-!- FUNCTION: Fibronectins bind cell surfaces and various compounds
+    including collagen, fibrin, heparin, DNA, and actin. Fibronectins
+    are involved in cell adhesion, cell motility, opsonization, wound
+    healing, and maintenance of cell shape. Interaction with TNR
+    mediates inhibition of cell adhesion and neurite outgrowth (By
+    similarity).
+-!- SUBUNIT: Mostly heterodimers or multimers of alternatively spliced
+    variants, connected by 2 disulfide bonds near the carboxyl ends;
+    to a lesser extend homodimers. Interacts with FBLN1, AMBP, TNR and
+    LGALS3BP.
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space;
+    extracellular matrix.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=12;
+      Comment=Additional isoforms seem to exist;
+    Name=1;
+      IsoId=P02751-1; Sequence=Displayed;
+    Name=2; Synonyms=MSF-FN70, Migration stimulation factor FN70;
+      IsoId=P02751-2; Sequence=VSP_003255, VSP_003256, VSP_003257;
+    Name=3; Synonyms=V89;
+      IsoId=P02751-3; Sequence=VSP_008110;
+    Name=4; Synonyms=Fibronectin III-15X;
+      IsoId=P02751-4; Sequence=VSP_008107, VSP_008111, VSP_008112;
+    Name=5; Synonyms=Fibronectin (V+I-10)-;
+      IsoId=P02751-5; Sequence=VSP_008107, VSP_008113;
+    Name=6; Synonyms=Fibronectin (V+III-15)-;
+      IsoId=P02751-6; Sequence=VSP_008109;
+    Name=7; Synonyms=Fibronectin containing extra ED-B domain;
+      IsoId=P02751-7; Sequence=VSP_008104, VSP_008110;
+    Name=8; Synonyms=Fibronectin not containing EIIIA domain;
+      IsoId=P02751-8; Sequence=VSP_008106;
+    Name=9; Synonyms=Fibronectin not containing EIIIA and EIIIB and
+    uses V64 variant of IIICS region;
+      IsoId=P02751-9; Sequence=VSP_008106, VSP_008108, VSP_008110;
+    Name=10;
+      IsoId=P02751-10; Sequence=VSP_008106, VSP_008107;
+    Name=11; Synonyms=Fibronectin containing extra type III repeat
+    (EDII), exon x+2;
+      IsoId=P02751-11; Sequence=VSP_008105;
+    Name=12;
+      IsoId=P02751-12; Sequence=VSP_013681, VSP_008106, VSP_008108,
+                                VSP_008110;
+-!- TISSUE SPECIFICITY: Plasma FN (soluble dimeric form) is secreted
+    by hepatocytes. Cellular FN (dimeric or cross-linked multimeric
+    forms), made by fibroblasts, epithelial and other cell types, is
+    deposited as fibrils in the extracellular matrix.
+-!- PTM: Sulfated.
+-!- SIMILARITY: Contains 12 fibronectin type-I domains.
+-!- SIMILARITY: Contains 2 fibronectin type-II domains.
+-!- SIMILARITY: Contains 16 fibronectin type-III domains.
+ GO:0005793; C:ER-Golgi intermediate compartment; IDA:UniProtKB.
+ GO:0005578; C:extracellular matrix (sensu Metazoa); NAS:UniProtKB.
+ GO:0005576; C:extracellular region; NAS:UniProtKB.
+ GO:0005518; F:collagen binding; NAS:UniProtKB.
+ GO:0005201; F:extracellular matrix structural constituent; NAS:UniProtKB.
+ GO:0008201; F:heparin binding; NAS:UniProtKB.
+ GO:0007155; P:cell adhesion; NAS:UniProtKB.
+ GO:0016477; P:cell migration; NAS:UniProtKB.
+ GO:0009611; P:response to wounding; NAS:UniProtKB.
+ GO:0007169; P:transmembrane receptor protein tyrosine kin...; NAS:UniProtKB.
+3D-structure; Acute phase; Alternative splicing; Cell adhesion;
+Direct protein sequencing; Glycoprotein; Heparin-binding;
+Phosphorylation; Pyrrolidone carboxylic acid; Repeat; Signal;
+Sulfation.
+TMZERO

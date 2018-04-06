@@ -1,0 +1,33 @@
+AC   P97840; O08588; O35866;
+Galectin-9 (36 kDa beta-galactoside-binding lectin) (Urate
+transporter/channel) (UAT).
+"Identification and characterization of galectin-9, a novel beta-
+galactoside-binding mammalian lectin.";
+"Molecular cloning and functional reconstitution of a urate
+transporter/channel.";
+-!- FUNCTION: Binds galactosides. May play a role in thymocyte-
+    epithelial interactions relevant to the biology of the thymus. Is
+    a ligand for HAVCR2/TIM3. Induces T-helper type 1 lymphocyte (Th1)
+    death (By similarity). May provide the molecular basis for urate
+    flux across cell membranes, allowing urate that is formed during
+    purine metabolism to efflux from cells and serving as an
+    electrogenic transporter that plays an important role in renal and
+    gastrointestinal urate excretion. Highly selective to the anion
+    urate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Secreted protein
+    (By similarity). Note=May also be secreted by a non-classical
+    secretory pathway (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+      Comment=Additional isoforms seem to exist;
+    Name=Long;
+      IsoId=P97840-1; Sequence=Displayed;
+    Name=Short;
+      IsoId=P97840-2; Sequence=VSP_003098;
+-!- TISSUE SPECIFICITY: The isoform Long is expressed exclusively in
+    the small intestine.
+-!- DOMAIN: Contains two homologous but distinct carbohydrate-binding
+    domains.
+-!- SIMILARITY: Contains 2 galectin domains.
+Alternative splicing; Ion transport; Lectin; Repeat; Transport.
+TMZERO

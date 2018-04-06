@@ -1,0 +1,16 @@
+AC   Q7MVL1;
+Ferrous iron transport protein B homolog.
+"Complete genome sequence of the oral pathogenic bacterium
+Porphyromonas gingivalis strain W83.";
+"A novel Porphyromonas gingivalis FeoB plays a role in manganese
+accumulation.";
+-!- FUNCTION: Not involved in Fe(2+) uptake but is involved in
+    manganese uptake. Could be GTP-driven.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- MISCELLANEOUS: Insertional inactivation of feoB2 causes a 3-fold
+    decrease in cellular manganese level.
+-!- SIMILARITY: Belongs to the feoB (TC 9.A.8) family.
+Complete proteome; GTP-binding; Inner membrane; Manganese; Membrane;
+Nucleotide-binding; Transmembrane; Transport.
+TMNINE

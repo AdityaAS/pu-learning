@@ -1,0 +1,19 @@
+AC   Q9KRU4; Q8VUU4;
+Multidrug resistance protein norM (Na(+)/drug antiporter) (Multidrug-
+efflux transporter).
+"Na+-driven multidrug efflux pump VcmA from Vibrio cholerae non-O1, a
+non-halophilic bacterium.";
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Multidrug efflux pump that functions as a Na(+)/drug
+    antiporter. Confers resistance to norfloxacin, ciprofloxacin,
+    ofloxacin, daunomycin, doxorubicin, streptomycin, kanamycin,
+    ethidium bromide and acriflavine.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the multi antimicrobial extrusion (MATE)
+    (TC 2.A.66.1) family.
+Antibiotic resistance; Antiport; Complete proteome; Inner membrane;
+Ion transport; Membrane; Sodium; Sodium transport; Transmembrane;
+Transport.
+TMTWELVE

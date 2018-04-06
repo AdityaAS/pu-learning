@@ -1,0 +1,19 @@
+AC   P14856;
+Seed lipoxygenase-2 (EC 1.13.11.12).
+"The cDNA cloning of a pea (Pisum sativum) seed lipoxygenase. Sequence
+comparisons of the two major pea seed lipoxygenase isoforms.";
+-!- FUNCTION: Plant lipoxygenase may be involved in a number of
+    diverse aspects of plant physiology including growth and
+    development, pest resistance, and senescence or responses to
+    wounding. It catalyzes the hydroperoxidation of lipids, containing
+    a cis,cis-1,4-pentadiene structure.
+-!- CATALYTIC ACTIVITY: Linoleate + O(2) = (9Z,11E)-(13S)-13-
+    hydroperoxyoctadeca-9,11-dienoate.
+-!- COFACTOR: Iron.
+-!- PATHWAY: Oxylipin biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the lipoxygenase family.
+-!- SIMILARITY: Contains 1 PLAT domain.
+Dioxygenase; Fatty acid biosynthesis; Iron; Lipid synthesis;
+Metal-binding; Oxidoreductase; Oxylipin biosynthesis.
+TMZERO

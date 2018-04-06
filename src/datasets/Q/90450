@@ -1,0 +1,25 @@
+AC   Q86VI4; Q3ZCV5; Q7L909; Q86VH8; Q9H060;
+Lysosomal-associated transmembrane protein 4B (Lysosome-associated
+transmembrane protein 4-beta).
+"Molecular cloning and characterization of LAPTM4B, a novel gene
+upregulated in hepatocellular carcinoma.";
+"Signal sequence and keyword trap in silico for selection of full-
+length human cDNAs encoding secretion or membrane proteins from oligo-
+capped cDNA libraries.";
+"Towards a catalog of human genes and proteins: sequencing and
+analysis of 500 novel complete protein coding human cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBCELLULAR LOCATION: Intracytoplasmic membrane; multi-pass
+    membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q86VI4-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q86VI4-2; Sequence=VSP_020544;
+    Name=3;
+      IsoId=Q86VI4-3; Sequence=VSP_020545;
+-!- SIMILARITY: Belongs to the LAPTM4/LAPTM5 transporter family.
+Alternative splicing; Membrane; Transmembrane; Transport.
+TMFOUR

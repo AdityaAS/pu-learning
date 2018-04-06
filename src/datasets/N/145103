@@ -1,0 +1,24 @@
+AC   Q8N392; Q58EZ3; Q6P679; Q6PJD7; Q96S64;
+Rho GTPase-activating protein 18 (MacGAP).
+"The DNA sequence and analysis of human chromosome 6.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Moleculer cloning and characterization of a novel GTPase activating
+Protein that regulated mast cell degranulation.";
+"A protein interaction framework for human mRNA degradation.";
+-!- FUNCTION: GTPase activator for the Rho-type GTPases by converting
+    them to an inactive GDP-bound state (By similarity).
+-!- SUBUNIT: Interacts with MPHOSPH6.
+-!- INTERACTION:
+    Q99547:MPHOSPH6; NbExp=1; IntAct=EBI-372814, EBI-373187;
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8N392-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8N392-2; Sequence=VSP_052092;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Contains 1 Rho-GAP domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Alternative splicing; GTPase activation.
+TMZERO

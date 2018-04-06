@@ -1,0 +1,18 @@
+AC   P51164;
+Potassium-transporting ATPase subunit beta (Proton pump beta chain)
+(Gastric H(+)/K(+) ATPase beta subunit).
+"cDNA cloning of the beta-subunit of the human gastric H,K-ATPase.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"GATA-6 DNA binding protein expressed in human gastric adenocarcinoma
+MKN45 cells.";
+-!- SUBUNIT: Composed of two subunits: alpha (catalytic) and beta.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein.
+-!- SIMILARITY: Belongs to the Na+/K+ and H+/K+ ATPases subunit beta
+    family.
+ GO:0008900; F:hydrogen:potassium-exchanging ATPase activity; TAS:ProtInc.
+Glycoprotein; Hydrogen ion transport; Ion transport; Membrane;
+Potassium; Potassium transport; Signal-anchor; Transmembrane;
+Transport.
+TMONE

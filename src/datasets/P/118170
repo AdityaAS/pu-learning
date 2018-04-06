@@ -1,0 +1,14 @@
+AC   P30687;
+Major outer membrane protein P.IB precursor (Protein IB) (PIB) (Porin)
+(Class 3 protein).
+"Sequence analysis and relationships between meningococcal class 3
+serotype proteins and other porins from pathogenic and non-pathogenic
+Neisseria species.";
+-!- FUNCTION: Serves as a slightly cation selective porin.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the Gram-negative porin family.
+Ion transport; Membrane; Outer membrane; Porin; Signal; Transmembrane;
+Transport.
+TMZERO

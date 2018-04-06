@@ -1,0 +1,12 @@
+AC   P0AG36; P27847;
+Homoserine/homoserine lactone efflux protein.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Conducts the efflux of homoserine and homoserine lactone
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the rht family.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMSIX

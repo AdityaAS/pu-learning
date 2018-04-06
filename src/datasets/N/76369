@@ -1,0 +1,19 @@
+AC   P0A9M4; P36766;
+Hypoxanthine phosphoribosyltransferase (EC 2.4.2.8) (HPRT).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: This enzyme acts exclusively on hypoxanthine; it does
+    not act on guanine (By similarity).
+-!- CATALYTIC ACTIVITY: IMP + diphosphate = hypoxanthine + 5-phospho-
+    alpha-D-ribose 1-diphosphate.
+-!- COFACTOR: Binds 2 magnesium ions per subunit. One of the ions does
+    not make direct protein contacts (By similarity).
+-!- PATHWAY: Purine salvage.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the purine/pyrimidine
+    phosphoribosyltransferase family.
+Complete proteome; Glycosyltransferase; Magnesium; Metal-binding;
+Purine salvage; Transferase.
+TMZERO

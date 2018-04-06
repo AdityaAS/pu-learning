@@ -1,0 +1,12 @@
+AC   Q3IMS5;
+Probable translation initiation factor IF-2.
+"Living with two extremes: conclusions from the genome sequence of
+Natronomonas pharaonis.";
+-!- FUNCTION: Function in general translation initiation by promoting
+    the binding of the formylmethionine-tRNA to ribosomes. Seems to
+    function along with eIF-2 (By similarity).
+-!- SIMILARITY: Belongs to the IF-2 family.
+ GO:0003924; F:GTPase activity; IEA:HAMAP.
+Complete proteome; GTP-binding; Initiation factor; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

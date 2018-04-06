@@ -1,0 +1,13 @@
+AC   P0A310; P35619; P80097;
+Bacteriocin sakacin-A precursor.
+"Purification and amino acid sequence of sakacin A, a bacteriocin from
+Lactobacillus sake Lb706.";
+"The genes involved in production of and immunity to sakacin A, a
+bacteriocin from Lactobacillus sake Lb706.";
+-!- FUNCTION: Bactericidal activity; inhibits closely related
+    Lactobacilli, Listeria monocytogenes and ivanovvi, Enterococcus
+    faecalis, Carnobacterium sp and Brocothrix thermosphacta.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the bacteriocin class IIA/YGNGV family.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing.
+TMZERO

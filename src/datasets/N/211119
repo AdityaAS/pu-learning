@@ -1,0 +1,7 @@
+AC   Q46HP8;
+UPF0367 protein PMN2A_1492.
+"Complete sequence of Prochlorococcus marinus str. NATL2A.";
+-!- SIMILARITY: Belongs to the UPF0367 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

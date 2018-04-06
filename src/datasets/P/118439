@@ -1,0 +1,25 @@
+AC   P06202;
+Periplasmic oligopeptide-binding protein precursor.
+"Molecular characterization of the oligopeptide permease of Salmonella
+typhimurium.";
+"Peptide uptake by Salmonella typhimurium. The periplasmic
+oligopeptide-binding protein.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"The structural basis of sequence-independent peptide binding by OppA
+protein.";
+"The crystal structures of the oligopeptide-binding protein OppA
+complexed with tripeptide and tetrapeptide ligands.";
+"Relating structure to thermodynamics: the crystal structures and
+binding affinity of eight OppA-peptide complexes.";
+"Crystallographic and calorimetric analysis of peptide binding to OppA
+protein.";
+-!- FUNCTION: This protein is a component of the oligopeptide
+    permease, a binding protein-dependent transport system, it binds
+    peptides up to five amino acids long with high affinity.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 5
+    family.
+3D-structure; Complete proteome; Peptide transport; Periplasmic;
+Protein transport; Signal; Transport.
+TMZERO

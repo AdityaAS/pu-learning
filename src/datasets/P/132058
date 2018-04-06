@@ -1,0 +1,17 @@
+AC   P0C0L8; P30848;
+Proline/betaine transporter (Proline porter II) (PPII).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Proton symporter that senses osmotic shifts and responds
+    by importing osmolytes such as proline, glycine betaine,
+    stachydrine, pipecolic acid, ectoine and taurine. It is both an
+    osmosensor and an osmoregulator which is available to participate
+    early in the bacterial osmoregulatory response (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Coiled coil; Complete proteome; Inner membrane; Membrane; Symport;
+Transmembrane; Transport.
+TMTWELVE

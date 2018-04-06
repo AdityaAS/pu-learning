@@ -1,0 +1,24 @@
+AC   Q9NTI2; Q9H527; Q9NPU6; Q9NTL2; Q9NYM3;
+Probable phospholipid-transporting ATPase IB (EC 3.6.3.1) (ATPase
+class I type 8A member 2) (ML-1).
+"The DNA sequence and analysis of human chromosome 13.";
+"Changes in levels of normal ML-1 gene transcripts associated with the
+conversion of human nontumorigenic to tumorigenic phenotypes.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9NTI2-1; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=2;
+      IsoId=Q9NTI2-2; Sequence=VSP_008038, VSP_008039;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IV subfamily.
+ GO:0008285; P:negative regulation of cell proliferation; TAS:ProtInc.
+Alternative splicing; ATP-binding; Hydrolase; Magnesium; Membrane;
+Metal-binding; Nucleotide-binding; Phosphorylation; Transmembrane.
+TMTEN

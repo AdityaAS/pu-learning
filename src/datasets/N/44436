@@ -1,0 +1,20 @@
+AC   Q4WXH8;
+DNA polymerase epsilon, catalytic subunit A (EC 2.7.7.7) (DNA
+polymerase II subunit A).
+"Genomic sequence of the pathogenic and allergenic filamentous fungus
+Aspergillus fumigatus.";
+-!- FUNCTION: DNA polymerase II participates in chromosomal DNA
+    replication (By similarity).
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- SUBUNIT: Heterotetramer. Consists of 4 subunits: pol2, dpb2, dpb3
+    and dpb4 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- DOMAIN: The DNA polymerase activity domain resides in the N-
+    terminal half of the protein, while the C-terminus is necessary
+    for complexing subunits B and C (By similarity).
+-!- SIMILARITY: Belongs to the DNA polymerase type-B family.
+Complete proteome; DNA replication; DNA-binding;
+DNA-directed DNA polymerase; Metal-binding; Nuclear protein;
+Nucleotidyltransferase; Transferase; Zinc; Zinc-finger.
+TMZERO

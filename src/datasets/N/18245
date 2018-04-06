@@ -1,0 +1,28 @@
+AC   P27637;
+Bud site selection protein BUD14.
+"Sequencing of chromosome I of Saccharomyces cerevisiae: analysis of
+the 42 kbp SPO7-CENI-CDC15 region.";
+"The nucleotide sequence of chromosome I from Saccharomyces
+cerevisiae.";
+"A directed DNA sequencing strategy based upon Tn3 transposon
+mutagenesis: application to the ADE1 locus on Saccharomyces cerevisiae
+chromosome I.";
+"A genomic study of the bipolar bud site selection pattern in
+Saccharomyces cerevisiae.";
+"The Glc7p-interacting protein Bud14p attenuates polarized growth,
+pheromone response, and filamentous growth in Saccharomyces
+cerevisiae.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Important for bud site selection.
+-!- SUBUNIT: Interacts with GLC7.
+-!- MISCELLANEOUS: Present with 538 molecules/cell.
+-!- SIMILARITY: Contains 1 SH3 domain.
+ GO:0005935; C:bud neck; IDA:SGD.
+ GO:0005934; C:bud tip; IDA:SGD.
+ GO:0000131; C:incipient bud site; IDA:SGD.
+ GO:0008599; F:protein phosphatase type 1 regulator activity; IDA:SGD.
+ GO:0000903; P:cellular morphogenesis during vegetative gr...; IGI:SGD.
+ GO:0007010; P:cytoskeleton organization and biogenesis; IGI:SGD.
+ GO:0006355; P:regulation of transcription, DNA-dependent; IDA:SGD.
+Cell cycle; Complete proteome; SH3 domain.
+TMZERO

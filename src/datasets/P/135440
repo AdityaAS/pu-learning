@@ -1,0 +1,43 @@
+AC   P18502; Q9V4W3;
+Protein patched (Hedgehog receptor).
+"The Drosophila patched gene encodes a putative membrane protein
+required for segmental patterning.";
+"A protein with several possible membrane-spanning domains encoded by
+the Drosophila segment polarity gene patched.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Segmentation polarity protein. Acts as a receptor for
+    the hedgehog protein (HH). Associates with the smoothened protein
+    (SMO) to transduce the hedgehog signal leading to the activation
+    of wingless, decapentaplegic and patched itself. Participates in
+    cell interactions that establish pattern within the segment and
+    the imaginal disks during development. In the absence of HH,
+    represses the constitutive signaling activity of smo through fused
+    (FU).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the patched family.
+-!- SIMILARITY: Contains 1 SSD (sterol-sensing) domain.
+ GO:0005887; C:integral to plasma membrane; TAS:FlyBase.
+ GO:0008158; F:hedgehog receptor activity; IMP:FlyBase.
+ GO:0005515; F:protein binding; IPI:FlyBase.
+ GO:0048099; P:anterior/posterior lineage restriction, ima...; TAS:FlyBase.
+ GO:0009952; P:anterior/posterior pattern formation; NAS:FlyBase.
+ GO:0001746; P:Bolwig's organ morphogenesis; IMP:FlyBase.
+ GO:0016311; P:dephosphorylation; TAS:FlyBase.
+ GO:0035225; P:determination of genital disc primordium; IMP:FlyBase.
+ GO:0009880; P:embryonic pattern specification; TAS:FlyBase.
+ GO:0007455; P:eye-antennal disc morphogenesis; IMP:FlyBase.
+ GO:0042078; P:germ-line stem cell division; TAS:FlyBase.
+ GO:0045877; P:negative regulation of smoothened activity; TAS:FlyBase.
+ GO:0030707; P:ovarian follicle cell development (sensu In...; TAS:FlyBase.
+ GO:0007422; P:peripheral nervous system development; TAS:FlyBase.
+ GO:0006508; P:proteolysis; TAS:FlyBase.
+ GO:0007346; P:regulation of progression through mitotic c...; IMP:FlyBase.
+ GO:0042306; P:regulation of protein import into nucleus; IMP:FlyBase.
+ GO:0007224; P:smoothened signaling pathway; IMP:FlyBase.
+ GO:0048103; P:somatic stem cell division; TAS:FlyBase.
+ GO:0048100; P:wing disc anterior/posterior pattern formation; TAS:FlyBase.
+Complete proteome; Developmental protein; Glycoprotein; Membrane;
+Receptor; Segmentation polarity protein; Transmembrane.
+TMTWELVE

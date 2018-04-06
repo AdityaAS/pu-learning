@@ -1,0 +1,34 @@
+AC   P35711; Q86UK8; Q8J017; Q8J018; Q8J019; Q8J020; Q8N1D9; Q8N7E0;
+AC   Q8TEA4;
+Transcription factor SOX-5.
+"Identification and characterization of the human long form of Sox5
+(L-SOX5) gene.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Cloning and characterization of SOX5, a new member of the human SOX
+gene family.";
+"A conserved family of genes related to the testis determining gene,
+SRY.";
+-!- FUNCTION: Binds specifically to the DNA sequence 5'-AACAAT-3'.
+    Activates transcription of COL2A1 and AGC1 in vitro.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1; Synonyms=L-SOX5A;
+      IsoId=P35711-1; Sequence=Displayed;
+    Name=2; Synonyms=L-SOX5B;
+      IsoId=P35711-2; Sequence=VSP_007261;
+    Name=3;
+      IsoId=P35711-3; Sequence=VSP_007262, VSP_007263;
+      Note=No experimental confirmation available;
+    Name=4;
+      IsoId=P35711-4; Sequence=VSP_007261, VSP_007264;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Contains 1 HMG box DNA-binding domain.
+ GO:0003700; F:transcription factor activity; TAS:ProtInc.
+ GO:0006366; P:transcription from RNA polymerase II promoter; TAS:ProtInc.
+Activator; Alternative splicing; Coiled coil; DNA-binding;
+Nuclear protein; Transcription; Transcription regulation.
+TMZERO

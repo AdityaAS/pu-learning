@@ -1,0 +1,15 @@
+AC   P36636;
+Peptide transport system ATP-binding protein sapD.
+"Molecular genetic analysis of a locus required for resistance to
+antimicrobial peptides in Salmonella typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Involved in a peptide intake transport system that plays
+    a role in the resistance to antimicrobial peptides.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Inner membrane; Membrane;
+Nucleotide-binding; Peptide transport; Protein transport; Transport.
+TMZERO

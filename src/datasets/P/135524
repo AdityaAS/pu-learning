@@ -1,0 +1,69 @@
+AC   P69783; P08837; Q47703;
+Glucose-specific phosphotransferase enzyme IIA component (EC 2.7.1.-)
+(PTS system glucose-specific EIIA component) (EIIA-Glc) (EIII-Glc).
+"The ptsH, ptsI, and crr genes of the Escherichia coli
+phosphoenolpyruvate-dependent phosphotransferase system: a complex
+operon with several modes of transcription.";
+"Sugar transport by the bacterial phosphotransferase system. Molecular
+cloning and structural analysis of the Escherichia coli ptsH, ptsI,
+and crr genes.";
+"Identification of the pdxK gene that encodes pyridoxine (vitamin B6)
+kinase in Escherichia coli K-12.";
+"Molecular population genetics of Escherichia coli: DNA sequence
+diversity at the celC, crr, and gutB loci of natural isolates.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Protein identification with N and C-terminal sequence tags in
+proteome projects.";
+"Three-dimensional structure of the Escherichia coli phosphocarrier
+protein IIIglc.";
+"Structure of the regulatory complex of Escherichia coli IIIGlc with
+glycerol kinase.";
+"Cation-promoted association of a regulatory and target protein is
+controlled by protein phosphorylation.";
+"Structural studies of the Escherichia coli signal transducing protein
+IIAGlc: implications for target recognition.";
+"1H, 15N, and 13C NMR signal assignments of IIIGlc, a signal-
+transducing protein of Escherichia coli, using three-dimensional
+triple-resonance techniques.";
+"Secondary structure of the phosphocarrier protein IIIGlc, a signal-
+transducing protein from Escherichia coli, determined by heteronuclear
+three-dimensional NMR spectroscopy.";
+"Structural comparison of phosphorylated and unphosphorylated forms of
+IIIGlc, a signal-transducing protein from Escherichia coli, using
+three-dimensional NMR techniques.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in glucose transport.
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- COFACTOR: Binds 1 zinc ion per glycerol kinase EIIA-Glc dimer. The
+    zinc ion is important for dimerization.
+-!- INTERACTION:
+    P69786:ptsG; NbExp=1; IntAct=EBI-369856, EBI-903497;
+    P0AA04:ptsH; NbExp=1; IntAct=EBI-369856, EBI-902853;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- MISCELLANEOUS: The non-phosphorylated factor III is an inhibitor
+    for uptake of certain sugars such as maltose, melibiose, lactose,
+    and glycerol. Phosphorylated factor III, however, may be an
+    activator for adenylate cyclase. It is an important regulatory
+    protein for cell metabolism.
+-!- SIMILARITY: Contains 1 PTS EIIA type-1 domain.
+ GO:0005624; C:membrane fraction; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Complete proteome; Direct protein sequencing; Kinase;
+Metal-binding; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport; Zinc.
+TMZERO

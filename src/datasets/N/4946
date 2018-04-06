@@ -1,0 +1,34 @@
+AC   Q8R4S4;
+Aryl hydrocarbon receptor precursor (Ah receptor) (AhR).
+"Sequence variation and phylogenetic history of the mouse Ahr gene.";
+-!- FUNCTION: Ligand-activated transcriptional activator. Binds to the
+    XRE promoter region of genes it activates. Activates the
+    expression of multiple phase I and II xenobiotic chemical
+    metabolizing enzyme genes (such as the CYP1A1 gene). Mediates
+    biochemical and toxic effects of halogenated aromatic
+    hydrocarbons. Involved in cell-cycle regulation. Likely to play an
+    important role in the development and maturation of many tissues
+    (By similarity).
+-!- SUBUNIT: Efficient DNA binding requires dimerization with another
+    bHLH protein. In the nucleus, heterodimer of AHR and ARNT.
+    Interacts with coactivators including SRC-1, RIP140 and NOCA7, and
+    with the corepressor SMRT. Interacts with MYBBP1A and NEDD8 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity). Note=First cytoplasmic, upon binding with ligand and
+    interaction with a HSP90, it translocates to the nucleus (By
+    similarity).
+-!- SIMILARITY: Contains 1 basic helix-loop-helix (bHLH) domain.
+-!- SIMILARITY: Contains 1 PAC (PAS-associated C-terminal) domain.
+-!- SIMILARITY: Contains 2 PAS (PER-ARNT-SIM) domains.
+ GO:0005634; C:nucleus; ISS:UniProtKB.
+ GO:0004879; F:ligand-dependent nuclear receptor activity; ISS:UniProtKB.
+ GO:0006915; P:apoptosis; ISS:UniProtKB.
+ GO:0007049; P:cell cycle; ISS:UniProtKB.
+ GO:0006355; P:regulation of transcription, DNA-dependent; ISS:UniProtKB.
+ GO:0006950; P:response to stress; ISS:UniProtKB.
+ GO:0009410; P:response to xenobiotic stimulus; ISS:UniProtKB.
+ GO:0006366; P:transcription from RNA polymerase II promoter; ISS:UniProtKB.
+Activator; Cell cycle; DNA-binding; Nuclear protein; Receptor; Repeat;
+Transcription; Transcription regulation.
+TMZERO

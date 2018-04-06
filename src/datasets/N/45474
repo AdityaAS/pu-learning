@@ -1,0 +1,12 @@
+AC   Q5HKD5;
+Probable tRNA-dihydrouridine synthase (EC 1.-.-.-).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Catalyzes the synthesis of dihydrouridine, a modified
+    base found in the D-loop of most tRNAs (By similarity).
+-!- COFACTOR: FAD (By similarity).
+-!- SIMILARITY: Belongs to the dus family.
+Complete proteome; FAD; Flavoprotein; Oxidoreductase; tRNA processing.
+TMZERO

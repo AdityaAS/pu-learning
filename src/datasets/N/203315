@@ -1,0 +1,24 @@
+AC   Q14135; Q7L5V0; Q9BQ78;
+Transcription cofactor vestigial-like protein 4 (Vgl-4).
+"Prediction of the coding sequences of unidentified human genes. IV.
+The coding sequences of 40 new genes (KIAA0121-KIAA0160) deduced by
+analysis of cDNA clones from human cell line KG-1.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May act as a specific coactivator for the mammalian TEFs
+    (By similarity).
+-!- SUBUNIT: Interacts with TEFs (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q14135-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q14135-2; Sequence=VSP_010776;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the vestigial family.
+Alternative splicing; Nuclear protein; Polymorphism; Transcription;
+Transcription regulation.
+TMZERO

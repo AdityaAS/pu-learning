@@ -1,0 +1,21 @@
+AC   P63144; P97380; Q61763; Q63277;
+Voltage-gated potassium channel subunit beta-1 (K(+) channel subunit
+beta-1) (Kv-beta-1).
+"Inactivation properties of voltage-gated K+ channels altered by
+presence of beta-subunit.";
+"Differential stimulation of PKC phosphorylation of potassium channels
+by ZIP1 and ZIP2.";
+-!- FUNCTION: Accessory potassium channel protein which modulates the
+    activity of the pore-forming alpha subunit. Alter the functional
+    properties of Kv1.1 and Kv1.4.
+-!- SUBUNIT: Forms heteromultimeric complex with alpha subunits.
+    Interacts with SQSTM1.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- TISSUE SPECIFICITY: Specifically expressed in the nervous system.
+-!- DOMAIN: Alteration of functional properties of alpha subunit is
+    mediated through N-terminal domain of beta subunit (Probable).
+-!- SIMILARITY: Belongs to the shaker potassium channel beta subunit
+    family.
+Ion transport; Ionic channel; Potassium; Potassium transport;
+Transport; Voltage-gated channel.
+TMZERO

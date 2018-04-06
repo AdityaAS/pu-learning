@@ -1,0 +1,64 @@
+AC   P14906; Q08690;
+Protein translocation protein SEC63 (Sec62/63 complex 73 kDa subunit)
+(Protein NPL1).
+"A yeast gene important for protein assembly into the endoplasmic
+reticulum and the nucleus has homology to DnaJ, an Escherichia coli
+heat shock protein.";
+"Sequencing analysis of a 36.8 kb fragment of yeast chromosome XV
+reveals 26 open reading frames including SEC63, CDC31, SUG2, GCD1,
+RBL2, PNT1, PAC1 and VPH1.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Assembly of yeast Sec proteins involved in translocation into the
+endoplasmic reticulum into a membrane-bound multisubunit complex.";
+"Topology and functional domains of Sec63p, an endoplasmic reticulum
+membrane protein required for secretory protein translocation.";
+"Extragenic suppressors of mutations in the cytoplasmic C-terminus of
+SEC63 define five genes in Saccharomyces cerevisiae.";
+"A Sec63p-BiP complex from yeast is required for protein translocation
+in a reconstituted proteoliposome.";
+"Posttranslational protein transport in yeast reconstituted with a
+purified complex of Sec proteins and Kar2p.";
+"Sec63p and Kar2p are required for the translocation of SRP-dependent
+precursors into the yeast endoplasmic reticulum in vivo.";
+"Global analysis of protein expression in yeast.";
+"Identification of novel protein-protein interactions at the cytosolic
+surface of the Sec63 complex in the yeast ER membrane.";
+"Protein kinase CK2 phosphorylates Sec63p to stimulate the assembly of
+the endoplasmic reticulum protein translocation apparatus.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Acts as component of the Sec62/63 complex which is
+    involved in SRP-independent posttranslational translocation across
+    the endoplasmic reticulum (ER) and functions together with the
+    Sec61 complex and KAR2 in a channel-forming translocon complex. A
+    cycle of assembly and disassembly of Sec62/63 complex from SEC61
+    may govern the activity of the translocon. SEC63 may affect SEC1-
+    polypeptide interactions by increasing the affinity of targeting
+    pathways for SEC61 and/or by modifying SEC61 to allow more
+    efficient polypeptide interaction. May also be involved in SRP-
+    dependent cotranslational translocation. Is essential for cell
+    growth and for germination.
+-!- SUBUNIT: Component of the heterotetrameric Sec62/63complex
+    composed of SEC62, SEC63, SEC66 and SEC72. The Sec62/63 complex
+    associates with the Sec61 complex to form the Sec complex. SEC63
+    interacts in its phosphorylated form with SEC62. May physically
+    associate with KAR2 in the endoplasmic reticulum and this
+    interaction may be regulated by ATP hydrolysis. Part of a complex
+    consisting of KAR2, SEC63, SEC66 and SEC72.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein. Nucleus; nuclear envelope;
+    multi-pass membrane protein. Nucleus; nuclear inner membrane;
+    multi-pass membrane protein.
+-!- PTM: Phosphotylated by casein kinase II.
+-!- MISCELLANEOUS: Present with 17700 molecules/cell.
+-!- SIMILARITY: Contains 1 J domain.
+ GO:0005789; C:endoplasmic reticulum membrane; TAS:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0031207; C:Sec62/Sec63 complex; IPI:SGD.
+ GO:0008565; F:protein transporter activity; IMP:SGD.
+ GO:0046967; P:cytosol to ER transport; IMP:SGD.
+ GO:0006620; P:posttranslational protein targeting to memb...; IMP:SGD.
+ GO:0006614; P:SRP-dependent cotranslational protein targe...; IMP:SGD.
+Chaperone; Complete proteome; Endoplasmic reticulum; Membrane;
+Phosphorylation; Protein transport; Repeat; Transmembrane; Transport.
+THTHREE

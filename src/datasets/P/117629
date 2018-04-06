@@ -1,0 +1,25 @@
+AC   Q99297; O13594;
+Mitochondrial 2-oxodicarboxylate carrier 2.
+"Sequence and analysis of a 33 kb fragment from the right arm of
+chromosome XV of the yeast Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Identification in Saccharomyces cerevisiae of two isoforms of a novel
+mitochondrial transporter for 2-oxoadipate and 2-oxoglutarate.";
+-!- FUNCTION: Transports C5-C7 oxodicarboxylates across the inner
+    membranes of mitochondria. Can transport 2-oxoadipate, 2-
+    oxoglutarate, adipate, glutarate, 2-oxopimelate, oxaloacetate,
+    citrate and malate. The main physiological role is probably to
+    supply 2-oxoadipate and 2-oxoglutarate from the mitochondrial
+    matrix to the cytosol where they are used in the biosynthesis of
+    lysine and glutamate, respectively, and in lysine catabolism.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005743; C:mitochondrial inner membrane; IDA:SGD.
+ GO:0005478; F:intracellular transporter activity; IDA:SGD.
+ GO:0005342; F:organic acid transporter activity; IDA:SGD.
+ GO:0006839; P:mitochondrial transport; IDA:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion; Repeat;
+Transmembrane; Transport.
+TMFOUR

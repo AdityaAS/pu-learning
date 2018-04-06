@@ -1,0 +1,24 @@
+AC   P48613; Q9VZG6;
+Protein tipE (Temperature-induced paralytic E).
+"Cloning and functional analysis of TipE, a novel membrane protein
+that enhances Drosophila para sodium channel function.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: Enhances para sodium channel function. Required during
+    pupal development to rescue adult paralysis and also protects
+    adult flys against heat-induced lethality.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Preferentially expressed in the central
+    nervous system of developing embryos. The longer tipe forms are
+    found predominantly in heads and legs, the short form in the body
+    region.
+-!- DEVELOPMENTAL STAGE: Expressed weakly in middle to late embryos,
+    absent in larvae and is most abundantly expressed in middle to
+    late pupal stages.
+ GO:0005886; C:plasma membrane; IDA:FlyBase.
+ GO:0005248; F:voltage-gated sodium channel activity; TAS:FlyBase.
+ GO:0006814; P:sodium ion transport; NAS:FlyBase.
+Complete proteome; Glycoprotein; Membrane; Transmembrane.
+TMTWO

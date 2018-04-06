@@ -1,0 +1,17 @@
+AC   P21503; P75834;
+MFS-type transporter protein ycaD.
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the dmsABC operon encoding the anaerobic
+dimethylsulphoxide reductase of Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. YcaD
+    (TC 2.A.1.26) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

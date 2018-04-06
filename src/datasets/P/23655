@@ -1,0 +1,41 @@
+AC   P34358; O76287; P34359;
+ABC transporter ced-7 (Cell death protein 7).
+"The C. elegans cell corpse engulfment gene ced-7 encodes a protein
+similar to ABC transporters.";
+"2.2 Mb of contiguous nucleotide sequence from chromosome III of C.
+elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Functions in the engulfment of cell corpses during
+    embryonic programed cell death to translocate molecules that
+    mediate homotypic adhesion between cell surfaces of the dying and
+    engulfing cells.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+      Comment=Experimental confirmation may be lacking for some
+      isoforms;
+    Name=c;
+      IsoId=P34358-1; Sequence=Displayed;
+    Name=a;
+      IsoId=P34358-2; Sequence=VSP_000044, VSP_000045;
+    Name=b;
+      IsoId=P34358-3; Sequence=VSP_000044;
+-!- TISSUE SPECIFICITY: Ubiquitous in embryos. Expressed in larval
+    germline precursors. Expression in larvae and adults is seen in
+    amphid sheath cells, pharyngeal-intestinal valve and phasmid
+    sheath cells. Low levels of expression are also seen in gonadal
+    sheath cells.
+-!- DOMAIN: Multifunctional polypeptide with two homologous halves,
+    each containing a hydrophobic membrane-anchoring domain and an ATP
+    binding cassette (ABC) domain.
+-!- SIMILARITY: Belongs to the ABC transporter family. ABCA subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0005886; C:plasma membrane; IDA:WormBase.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; NAS:UniProtKB.
+ GO:0008219; P:cell death; IMP:UniProtKB.
+Alternative splicing; ATP-binding; Complete proteome; Glycoprotein;
+Membrane; Nucleotide-binding; Repeat; Transmembrane; Transport.
+TMFIFTEEN

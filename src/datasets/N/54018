@@ -1,0 +1,11 @@
+AC   P00205;
+Ferredoxin.
+"Amino acid sequence of a ferredoxin from Chlorobium thiosulfatophilum
+strain Tassajara, a photosynthetic green sulfur bacterium.";
+-!- FUNCTION: Ferredoxins are iron-sulfur proteins that transfer
+    electrons in a wide variety of metabolic reactions.
+-!- COFACTOR: Binds 2 4Fe-4S clusters.
+-!- SIMILARITY: Contains 2 4Fe-4S type ferredoxin domains.
+4Fe-4S; Direct protein sequencing; Electron transport; Iron;
+Iron-sulfur; Metal-binding; Repeat; Transport.
+TMZERO

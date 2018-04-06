@@ -1,0 +1,39 @@
+AC   P08716;
+Alpha-hemolysin translocation ATP-binding protein hlyB.
+"Nucleotide sequence of a plasmid-encoded hemolysin determinant and
+its comparison with a corresponding chromosomal hemolysin sequence.";
+"TolC, an Escherichia coli outer membrane protein required for
+hemolysin secretion.";
+"Topological and functional studies on HlyB of Escherichia coli.";
+"Analysis of the membrane organization of an Escherichia coli protein
+translocator, HlyB, a member of a large family of prokaryote and
+eukaryote surface transport proteins.";
+"Crystal structure of the nucleotide-binding domain of the ABC-
+transporter haemolysin B: identification of a variable region within
+ABC helical domains.";
+"Secretion of haemolysin by Escherichia coli.";
+"Bacterial ABC transporters involved in protein translocation.";
+-!- FUNCTION: Part of the ABC transporter complex hlyBD involved in
+    hemolysin export. Transmembrane domains (TMD) form a pore in the
+    inner membrane and the ATP-binding domain (NBD) is responsible for
+    energy generation.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- DOMAIN: In hlyB the peptidase C39 domain, the ATP-binding domain
+    (NBD) and the transmembrane domain (TMD) are fused.
+-!- MISCELLANEOUS: The complex hlyBD-tolC (OMF) forms a single
+    transport channel across the two membranes, allowing direct export
+    of alpha-hemolysin. This channel is involved in type 1 secretion
+    system.
+-!- SIMILARITY: Belongs to the ABC transporter family. Protein-1
+    exporter (TC 3.A.1.109) subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 1 peptidase C39 domain.
+-!- CAUTION: Tyr-9 is present instead of the conserved Cys which is
+    expected to be the active site residue of peptidase C39. Thus this
+    protein is presumed to be without peptidase activity.
+3D-structure; ATP-binding; Hydrolase; Inner membrane; Membrane;
+Nucleotide-binding; Plasmid; Transmembrane; Transport.
+TMFIVE

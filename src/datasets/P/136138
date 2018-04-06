@@ -1,0 +1,28 @@
+AC   P42911; Q2M970;
+N-acetylgalactosamine permease IID component (PTS system N-
+acetylgalactosamine-specific EIID component) (EIID-Aga).
+"Pathways for the utilization of N-acetyl-galactosamine and
+galactosamine in Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Novel phosphotransferase genes revealed by bacterial genome
+sequencing: a gene cluster encoding a putative N-acetylgalactosamine
+metabolic pathway in Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in N-acetylgalactosamine
+    transport.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: The EIID domain, with its homologous EIIC domain, forms
+    the PTS system translocation channel and contains part of its
+    specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIID domain.
+Complete proteome; Inner membrane; Membrane;
+Phosphotransferase system; Sugar transport; Transmembrane; Transport.
+TMSIX

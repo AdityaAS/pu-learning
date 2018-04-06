@@ -1,0 +1,20 @@
+AC   Q9M1K3;
+Probable aquaporin SIP2.1 (Small basic intrinsic protein 2.1).
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+"From genome to function: the Arabidopsis aquaporins.";
+-!- FUNCTION: Aquaporins facilitate the transport of water and small
+    neutral solutes across cell membranes (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Expressed in roots.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala/Leu (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family. SIP
+    subfamily.
+Membrane; Repeat; Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,18 @@
+AC   Q9YI97; Q6PGU0; Q9IBH4;
+Ornithine decarboxylase antizyme 2 (ODC antizyme, long form) (ODC-Az-
+L).
+"Two zebrafish (Danio rerio) antizymes with different expression and
+activities.";
+-!- FUNCTION: Exhibits ornithine decarboxylase (ODC) inhibitory
+    activity but does not accelerate ODC degradation in vitro.
+-!- TISSUE SPECIFICITY: Expressed ubiquitously in 24 hour embryos,
+    with highest levels in telencephalon, lens, retina, cerebellum and
+    hindbrain primordia.
+-!- DEVELOPMENTAL STAGE: Expressed in both embryos and adults.
+-!- MISCELLANEOUS: A ribosomal frameshift occurs between the codons
+    for Ser-60 and Asp-61. An autoregulatory mechanism enables
+    modulation of frameshifting according to the cellular
+    concentration of polyamines.
+-!- SIMILARITY: Belongs to the ODC antizyme family.
+Ribosomal frameshift.
+TMZERO

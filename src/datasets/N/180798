@@ -1,0 +1,16 @@
+AC   Q5HAI0; Q5FDH5;
+Histidyl-tRNA synthetase (EC 6.1.1.21) (Histidine--tRNA ligase)
+(HisRS).
+"The genome of the heartwater agent Ehrlichia ruminantium contains
+multiple tandem repeats of actively variable copy number.";
+"Comparative genomic analysis of three strains of Ehrlichia
+ruminantium reveals an active process of genome size plasticity.";
+-!- CATALYTIC ACTIVITY: ATP + L-histidine + tRNA(His) = AMP +
+    diphosphate + L-histidyl-tRNA(His).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

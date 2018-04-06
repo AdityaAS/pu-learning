@@ -1,0 +1,18 @@
+AC   Q8DZL4;
+GMP reductase (EC 1.7.1.7) (Guanosine 5'-monophosphate oxidoreductase)
+(Guanosine monophosphate reductase).
+"Complete genome sequence and comparative genomic analysis of an
+emerging human pathogen, serotype V Streptococcus agalactiae.";
+-!- FUNCTION: Catalyzes the irreversible NADPH-dependent deamination
+    of GMP to IMP. It functions in the conversion of nucleobase,
+    nucleoside and nucleotide derivatives of G to A nucleotides, and
+    in maintaining the intracellular balance of A and G nucleotides
+    (By similarity).
+-!- CATALYTIC ACTIVITY: Inosine 5'-phosphate + NH(3) + NADP(+) =
+    guanosine 5'-phosphate + NADPH.
+-!- SIMILARITY: Belongs to the IMPDH/GMPR family. GuaC type 2
+    subfamily.
+ GO:0003920; F:GMP reductase activity; IEA:HAMAP.
+ GO:0006163; P:purine nucleotide metabolism; IEA:HAMAP.
+Complete proteome; NADP; Oxidoreductase.
+TMZERO

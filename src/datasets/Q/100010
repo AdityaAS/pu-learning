@@ -1,0 +1,17 @@
+AC   P46492;
+Probable D-methionine transport system permease protein metI.
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for D-methionine. Probably responsible for the translocation of
+    the substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. CysTW subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 179.
+Complete proteome; Hypothetical protein; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMFIVE

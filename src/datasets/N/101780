@@ -1,0 +1,54 @@
+AC   P22894; Q45F99;
+Neutrophil collagenase precursor (EC 3.4.24.34) (Matrix
+metalloproteinase-8) (MMP-8) (PMNL collagenase) (PMNL-CL).
+"Human neutrophil collagenase. A distinct gene product with homology
+to other matrix metalloproteinases.";
+"NIEHS-SNPs, environmental genome project, NIEHS ES15478, Department
+of Genome Sciences, Seattle, WA (URL: http://egp.gs.washington.edu).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Characterization and activation of procollagenase from human
+polymorphonuclear leucocytes. N-terminal sequence determination of the
+proenzyme and various proteolytically activated forms.";
+"Mercurial activation of human polymorphonuclear leucocyte
+procollagenase.";
+"Characterization of 58-kilodalton human neutrophil collagenase:
+comparison with human fibroblast collagenase.";
+"Partial amino acid sequence of human PMN leukocyte procollagenase.";
+"Formation of a covalent Hg-Cys-bond during mercurial activation of
+PMNL procollagenase gives evidence of a cysteine-switch mechanism.";
+"The X-ray crystal structure of the catalytic domain of human
+neutrophil collagenase inhibited by a substrate analogue reveals the
+essentials for catalysis and specificity.";
+"Structural implications for the role of the N-terminus in the
+'superactivation' of collagenases. A crystallographic study.";
+"Structure of human neutrophil collagenase reveals large S1'
+specificity pocket.";
+"1.8-A crystal structure of the catalytic domain of human neutrophil
+collagenase (matrix metalloproteinase-8) complexed with a
+peptidomimetic hydroxamate primed-side inhibitor with a distinct
+selectivity profile.";
+"Structure of malonic acid-based inhibitors bound to human neutrophil
+collagenase. A new binding mode explains apparently anomalous data.";
+-!- FUNCTION: Can degrade fibrillar type I, II, and III collagens.
+-!- CATALYTIC ACTIVITY: Cleavage of interstitial collagens in the
+    triple helical domain. Unlike EC 3.4.24.7, this enzyme cleaves
+    type III collagen more slowly than type I.
+-!- COFACTOR: Binds 3 calcium ions per subunit.
+-!- COFACTOR: Binds 2 zinc ions per subunit.
+-!- ENZYME REGULATION: Cannot be activated without removal of the
+    activation peptide.
+-!- SUBCELLULAR LOCATION: Cytoplasmic granule. Note=Stored in
+    intracellular granules.
+-!- TISSUE SPECIFICITY: Neutrophils.
+-!- SIMILARITY: Belongs to the peptidase M10A family.
+-!- SIMILARITY: Contains 1 hemopexin-like domain.
+ GO:0005615; C:extracellular space; IDA:UniProtKB.
+ GO:0008130; F:neutrophil collagenase activity; IDA:UniProtKB.
+ GO:0008270; F:zinc ion binding; TAS:UniProtKB.
+ GO:0006508; P:proteolysis; IDA:UniProtKB.
+3D-structure; Calcium; Collagen degradation;
+Direct protein sequencing; Extracellular matrix; Glycoprotein;
+Hydrolase; Metal-binding; Metalloprotease; Polymorphism; Protease;
+Signal; Zinc; Zymogen.
+TMZERO

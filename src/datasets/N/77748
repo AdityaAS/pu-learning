@@ -1,0 +1,15 @@
+AC   O50319;
+Heat-stable enterotoxin C precursor (Y-STC).
+"Nucleotide sequence of a gene encoding the novel Yersinia
+enterocolitica heat-stable enterotoxin that includes a pro-region-like
+sequence in its mature toxin molecule.";
+"Characterization of a highly toxic, large molecular size heat-stable
+enterotoxin produced by a clinical isolate of Yersinia
+enterocolitica.";
+-!- FUNCTION: Toxin which activates the particulate form of guanylate
+    cyclase and increases cyclic GMP levels within the host intestinal
+    epithelial cells. Highly toxic.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the heat-stable enterotoxin family.
+Direct protein sequencing; Enterotoxin; Signal; Toxin.
+TMZERO

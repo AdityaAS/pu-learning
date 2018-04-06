@@ -1,0 +1,12 @@
+AC   P0A4U5; Q8FH84; Q93M77;
+Transcriptional regulator slyA.
+"Phase variation between type III protein secretion and motility in
+enteropathogenic Escherichia coli involves SlyA and EspA.";
+-!- FUNCTION: Transcription regulator that specifically activates or
+    represses expression of target genes (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the slyA family.
+-!- SIMILARITY: Contains 1 HTH marR-type DNA-binding domain.
+Activator; DNA-binding; Repressor; Transcription;
+Transcription regulation.
+TMZERO

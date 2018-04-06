@@ -1,0 +1,36 @@
+AC   O60939; O75302; Q9UNN3;
+Sodium channel subunit beta-2 precursor.
+"Structure and chromosomal localization of the beta2 subunit of the
+human brain sodium channel.";
+"Exclusion of the SCN2B gene as candidate for CMT4B.";
+"Primary structure and functional expression of a beta 2 subunit of
+human infant brain sodium channels.";
+"Whether 'slip-mode conductance' occurs.";
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Crucial in the assembly, expression, and functional
+    modulation of the heterotrimeric complex of the sodium channel.
+    The subunit beta-2 causes an increase in the plasma membrane
+    surface area and in its folding into microvilli. Interacts with
+    TNR may play a crucial role in clustering and regulation of
+    activity of sodium channels at nodes of Ranvier (By similarity).
+-!- SUBUNIT: The sodium channel consists of a pore-forming alpha
+    subunit, beta-1 and beta-2 subunits. Beta-1 is non-covalently
+    associated with alpha, while beta-2 is covalently linked by
+    disulfide bonds. Interaction with SCN10A and TNR (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Brain specific.
+-!- SIMILARITY: Contains 1 Ig-like C2-type (immunoglobulin-like)
+    domain.
+ GO:0001518; C:voltage-gated sodium channel complex; TAS:UniProtKB.
+ GO:0005248; F:voltage-gated sodium channel activity; TAS:ProtInc.
+ GO:0006814; P:sodium ion transport; TAS:ProtInc.
+ GO:0007268; P:synaptic transmission; TAS:ProtInc.
+Glycoprotein; Immunoglobulin domain; Ion transport; Ionic channel;
+Membrane; Polymorphism; Signal; Sodium; Sodium channel;
+Sodium transport; Transmembrane; Transport; Voltage-gated channel.
+TMONE

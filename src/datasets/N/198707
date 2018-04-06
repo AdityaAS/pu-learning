@@ -1,0 +1,22 @@
+AC   Q8Y7G6;
+Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31) (UPP synthetase)
+(Di-trans,poly-cis-decaprenylcistransferase) (Undecaprenyl diphosphate
+synthase) (UDS).
+"Comparative genomics of Listeria species.";
+-!- FUNCTION: Generates undecaprenyl pyrophosphate (UPP) from
+    isopentenyl pyrophosphate (IPP). UPP is the precursor of glycosyl
+    carrier lipid in the biosynthesis of bacterial cell wall
+    polysaccharide components such as peptidoglycan and
+    lipopolysaccharide (By similarity).
+-!- CATALYTIC ACTIVITY: Di-trans,poly-cis-decaprenyl diphosphate +
+    isopentenyl diphosphate = diphosphate + di-trans,poly-cis-
+    undecaprenyl diphosphate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the UPP synthetase family.
+ GO:0008834; F:di-trans,poly-cis-decaprenylcistransferase ...; IEA:EC.
+ GO:0016765; F:transferase activity, transferring alkyl or...; IEA:HAMAP.
+ GO:0009252; P:peptidoglycan biosynthesis; IEA:HAMAP.
+Cell cycle; Cell division; Cell shape; Cell wall; Complete proteome;
+Peptidoglycan synthesis; Transferase.
+TMZERO

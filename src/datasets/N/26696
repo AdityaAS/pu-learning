@@ -1,0 +1,44 @@
+AC   Q9Y240;
+C-type lectin domain family 11 member A precursor (Stem cell growth
+factor) (Lymphocyte secreted C-type lectin) (p47) (C-type lectin
+superfamily member 3).
+"Molecular cloning of a new secreted sulfated mucin-like protein with
+a C-type lectin domain that is expressed in lymphoblastic cells.";
+"Isolation and characterization of a cDNA for human, mouse, and rat
+full-length stem cell growth factor, a new member of C-type lectin
+superfamily.";
+"Cloning, mapping, and genomic organization of the LSLCL gene,
+encoding a new lymphocytic secreted mucin-like protein with a C-type
+lectin domain: a new model of exon shuffling.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Stem cell growth factor: in situ hybridization analysis on the gene
+expression, molecular characterization and in vitro proliferative
+activity of a recombinant preparation on primitive hematopoietic
+progenitor cells.";
+"Expression of LSLCL, a new C-type lectin, is closely restricted, in
+bone marrow, to immature neutrophils.";
+-!- FUNCTION: Stimulates the proliferation and differentiation of
+    hematopoietic precursor cells from various lineages, including
+    erythrocytes, lymphocytes, granulocytes and macrophages. Acts
+    synergistically with other cytokines, including IL-3, GCSF, GMCSF
+    and FLT3 ligand. Suppresses SCF-stimulated erythrocyte
+    proliferation.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed in skeletal tissues including bone
+    marrow, chondrocytes, primary ossification center-associated
+    cells, the perichondrium and periosteum. Lower levels of
+    expression were detected in spleen, thymus, appendix and fetal
+    liver.
+-!- DEVELOPMENTAL STAGE: In the bone marrow, expression is limited to
+    immature neutrophils. Expression was not detected in circulating
+    mature neutrophils.
+-!- PTM: O-glycosylated. Probably sulfated on the O-glycans.
+-!- SIMILARITY: Contains 1 C-type lectin domain.
+ GO:0005576; C:extracellular region; IDA:UniProtKB.
+ GO:0008083; F:growth factor activity; IDA:UniProtKB.
+ GO:0005529; F:sugar binding; NAS:UniProtKB.
+ GO:0008284; P:positive regulation of cell proliferation; IDA:UniProtKB.
+Direct protein sequencing; Glycoprotein; Growth factor; Lectin;
+Signal.
+TMZERO

@@ -1,0 +1,21 @@
+AC   Q7TQA6; Q4VHF0;
+Taste receptor type 2 member 38 (T2R38) (T2R138) (mT2R31).
+"Evolutionary relationships of the Tas2r receptor gene families in
+mouse and human.";
+"Genomic organization, expression, and function of bitter taste
+receptors (T2R) in mouse and rat.";
+"Adaptive diversification of bitter taste receptor genes in mammalian
+evolution.";
+-!- FUNCTION: Putative taste receptor which may play a role in the
+    perception of bitterness.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Low levels in tongue, stomach and duodenum.
+-!- MISCELLANEOUS: Several bitter taste receptors are expressed in a
+    single taste receptor cell.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor T2R family.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0008527; F:taste receptor activity; NAS:UniProtKB.
+ GO:0001580; P:detection of chemical stimulus during senso...; NAS:UniProtKB.
+G-protein coupled receptor; Glycoprotein; Membrane; Receptor;
+Sensory transduction; Taste; Transducer; Transmembrane.
+TMSEVEN

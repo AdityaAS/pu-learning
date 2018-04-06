@@ -1,0 +1,44 @@
+AC   P03487;
+Matrix protein 1 (M1).
+"Evolution of the nucleotide sequence of influenza virus RNA segment 7
+during drift of the H3N2 subtype.";
+-!- FUNCTION: Plays critical roles in virus replication, from virus
+    entry and uncoating to assembly and budding of the virus particle.
+    M1 binding to ribonucleocapsids (RNPs) in nucleus seems to inhibit
+    viral transcription. Interaction of viral NEP with M1-RNP is
+    thought to promote nuclear export of the complex, which is
+    targeted to the virion assembly site at the apical plasma membrane
+    in polarized epithelial cells. Interactions with NA and HA may
+    bring M1, a non-raft-associated protein, into lipid rafts. Forms a
+    continuous shell on the inner side of the lipid bilayer in virion,
+    where it binds the RNP. During virus entry into cell, the M2 ion
+    channel acidifies the internal virion core, inducing M1
+    dissociation from the RNP. M1-free RNPs are transported to the
+    nucleus, where viral transcription and replication can take place
+    (By similarity).
+-!- FUNCTION: Determines the virion's shape: spherical or filamentous.
+    Clinical isolates of influenza are characterized by the presence
+    of significant proportion of filamentous virions, whereas after
+    multiple passage on eggs or cell culture, virions have only
+    spherical morphology. Filamentous virions are thought to be
+    important to infect neighboring cells, and spherical virions more
+    suited to spread through aerosol between hosts organisms (By
+    similarity).
+-!- SUBUNIT: Homodimer and homomultimer. Interacts with NEP. Binds
+    ribonucleocapsid by both interacting with genomic RNA and NP
+    protein. May interact with HA and NA. Cannot bind NP without
+    genomic RNA (By similarity).
+-!- SUBCELLULAR LOCATION: Virion; virion membrane; multi-pass membrane
+    protein (By similarity). Nucleus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+      Comment=Only the first 9 residues are shared by the 2 isoforms;
+    Name=M1;
+      IsoId=P03487-1; Sequence=Displayed;
+    Name=M2;
+      IsoId=P03491-1; Sequence=External;
+-!- MISCELLANEOUS: Most abundant protein in virion. When expressed
+    alone can form virus-like particles in transfected cells.
+Alternative splicing; Nuclear protein; RNA-binding;
+Viral matrix protein; Virion protein.
+TMZERO

@@ -1,0 +1,19 @@
+AC   Q02134; Q9CG93;
+Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19) (IGPD).
+"Histidine biosynthesis genes in Lactococcus lactis subsp. lactis.";
+"Gene inactivation in Lactococcus lactis: histidine biosynthesis.";
+"The complete genome sequence of the lactic acid bacterium Lactococcus
+lactis ssp. lactis IL1403.";
+-!- CATALYTIC ACTIVITY: D-erythro-1-(imidazol-4-yl)glycerol 3-
+    phosphate = 3-(imidazol-4-yl)-2-oxopropyl phosphate + H(2)O.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 6.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the imidazoleglycerol-phosphate dehydratase
+    family.
+-!- CAUTION: This protein is inactive in the dairy strain IL1403. The
+    histidine biosynthesis pathway is not functional in the dairy
+    strain IL1403.
+Amino-acid biosynthesis; Complete proteome; Histidine biosynthesis;
+Lyase.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P36527; Q00949;
+60S ribosomal protein L28, mitochondrial precursor (YmL28).
+"STP1, a gene involved in pre-tRNA processing, encodes a nuclear
+protein containing zinc finger motifs.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Extended N-terminal sequencing of proteins of the large ribosomal
+subunit from yeast mitochondria.";
+"Identification and characterization of the genes for mitochondrial
+ribosomal proteins of Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Component of the large subunit of mitochondrial
+    ribosome.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- MISCELLANEOUS: Present with 6300 molecules/cell.
+ GO:0005762; C:mitochondrial large ribosomal subunit; IDA:SGD.
+ GO:0003735; F:structural constituent of ribosome; IDA:SGD.
+ GO:0043037; P:translation; IDA:SGD.
+Complete proteome; Direct protein sequencing; Mitochondrion;
+Ribonucleoprotein; Ribosomal protein; Transit peptide.
+TMZERO

@@ -1,0 +1,35 @@
+AC   P0A742; P23867; Q2M6V5;
+Large-conductance mechanosensitive channel.
+"A large-conductance mechanosensitive channel in E. coli encoded by
+mscL alone.";
+"A merR homologue at 74 minutes on the Escherichia coli genome.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"NAD+ binding to the Escherichia coli K(+)-uptake protein TrkA and
+sequence similarity between TrkA and domains of a family of
+dehydrogenases suggest a role for NAD+ in bacterial transport.";
+"Membrane topology and multimeric structure of a mechanosensitive
+channel protein of Escherichia coli.";
+"Structure of the MscL homolog from Mycobacterium tuberculosis: a
+gated mechanosensitive ion channel.";
+"Protection of Escherichia coli cells against extreme turgor by
+activation of MscS and MscL mechanosensitive channels: identification
+of genes required for MscS activity.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Mechanosensitive channel that opens in response to
+    stretch forces in the membrane lipid bilayer. Participates in the
+    regulation of osmotic pressure changes within the cell. Forms a
+    nonselective ion channel of 2.5 nanosiemens conductance. Opens at
+    a pressure just below that which would cause cell disruption and
+    death.
+-!- SUBUNIT: Homopentamer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the mscL family.
+ GO:0005624; C:membrane fraction; IDA:UniProtKB.
+3D-structure; Complete proteome; Direct protein sequencing;
+Inner membrane; Ion transport; Ionic channel; Membrane; Transmembrane;
+Transport.
+TMTWO

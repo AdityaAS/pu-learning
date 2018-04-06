@@ -1,0 +1,11 @@
+AC   Q3ANJ9;
+Thiazole biosynthesis protein thiG.
+"Complete sequence of Synechococcus sp. CC9605.";
+-!- FUNCTION: Required for the synthesis of the thiazole moiety of
+    thiamine (By similarity).
+-!- COFACTOR: FMN (Potential).
+-!- PATHWAY: Thiamine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the thiG family.
+Complete proteome; Flavoprotein; FMN; Thiamine biosynthesis.
+TMZERO

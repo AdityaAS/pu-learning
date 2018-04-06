@@ -1,0 +1,20 @@
+AC   Q95M30;
+Tyrosine-protein kinase HCK (EC 2.7.10.2) (p56-HCK) (Hemopoietic cell
+kinase).
+-!- FUNCTION: May serve as part of a signaling pathway coupling the Fc
+    receptor to the activation of the respiratory burst. May also
+    contribute to neutrophil migration and may regulate the
+    degranulation process of neutrophils (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- SUBCELLULAR LOCATION: Membrane; peripheral membrane protein (By
+    similarity).
+-!- SIMILARITY: Belongs to the Tyr protein kinase family. SRC
+    subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+-!- SIMILARITY: Contains 1 SH2 domain.
+-!- SIMILARITY: Contains 1 SH3 domain.
+ATP-binding; Kinase; Lipoprotein; Membrane; Myristate;
+Nucleotide-binding; Palmitate; Phosphorylation; SH2 domain;
+SH3 domain; Transferase; Tyrosine-protein kinase.
+TMZERO

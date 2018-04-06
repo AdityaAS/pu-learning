@@ -1,0 +1,18 @@
+AC   P29844; Q86NM3; Q9VYU2; Q9VYU3;
+Heat shock 70 kDa protein cognate 3 precursor (78 kDa glucose-
+regulated protein homolog) (GRP 78) (Heat shock protein cognate 72).
+"Genomic structure and sequence analysis of Drosophila melanogaster
+HSC70 genes.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Probably plays a role in facilitating the assembly of
+    multimeric protein complexes inside the ER.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    lumen.
+-!- SIMILARITY: Belongs to the heat shock protein 70 family.
+ GO:0005783; C:endoplasmic reticulum; NAS:FlyBase.
+ GO:0030431; P:sleep; TAS:FlyBase.
+ATP-binding; Complete proteome; Endoplasmic reticulum;
+Nucleotide-binding; Signal.
+TMZERO

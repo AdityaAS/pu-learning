@@ -1,0 +1,23 @@
+AC   Q9HH84;
+DNA polymerase (EC 2.7.7.7) [Contains: Endonuclease PI-TspGE8I
+(EC 3.1.-.-) (Tsp-GE8 pol-1 intein); Endonuclease PI-TspGE8II
+(EC 3.1.-.-) (Tsp-GE8 pol-2 intein)].
+"Thermococcales taxonomy and phylogeny based on the comparative use of
+16S rDNA, 16S-23S rDNA intergenic spacer and family B DNA polymerase
+genes.";
+-!- FUNCTION: In addition to polymerase activity, this DNA polymerase
+    exhibits 3' to 5' exonuclease activity (By similarity).
+-!- FUNCTION: PI-TspGE8I and PI-TspGE8II are endonucleases
+    (Potential).
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- PTM: This protein undergoes a protein self splicing that involves
+    a post-translational excision of the intervening region (intein)
+    followed by peptide ligation.
+-!- SIMILARITY: Belongs to the DNA polymerase type-B family.
+-!- SIMILARITY: Contains 2 DOD-type homing endonuclease domains.
+Autocatalytic cleavage; DNA replication; DNA-binding;
+DNA-directed DNA polymerase; Endonuclease; Exonuclease; Hydrolase;
+Intron homing; Multifunctional enzyme; Nuclease;
+Nucleotidyltransferase; Protein splicing; Repeat; Transferase.
+TMZERO

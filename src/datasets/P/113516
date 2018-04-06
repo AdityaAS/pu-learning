@@ -1,0 +1,41 @@
+AC   Q56224; Q5SM51;
+NADH-quinone oxidoreductase subunit 9 (EC 1.6.99.5) (NADH
+dehydrogenase I subunit 9) (NDH-1 subunit 9).
+"The proton-translocating NADH-quinone oxidoreductase (NDH-1) of
+thermophilic bacterium Thermus thermophilus HB-8. Complete DNA
+sequence of the gene cluster and thermostable properties of the
+expressed NQO2 subunit.";
+"Complete genome sequence of Thermus thermophilus HB8.";
+"Identification of a novel subunit of respiratory complex I from
+Thermus thermophilus.";
+"Structure of the hydrophilic domain of respiratory complex I from
+Thermus thermophilus.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain. The
+    immediate electron acceptor for the enzyme in this species is
+    menaquinone. Couples the redox reaction to proton translocation
+    (for every two electrons transferred, four hydrogen ions are
+    translocated across the cytoplasmic membrane), and thus conserves
+    the redox energy in a proton gradient required for the synthesis
+    of ATP. The role of the nqo9 subunit appears to provide a
+    'connecting chain' of two clusters between cluster N5 and the
+    terminal cluster N2, and to stabilize the structure of the complex
+    by interacting with other subunits.
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- COFACTOR: Binds 2 4Fe-4S clusters per subunit. The 4Fe-4S clusters
+    are referred to as N6a and N6b.
+-!- SUBUNIT: NDH-1 is composed of 15 different subunits, nqo1 to
+    nqo15. The complex has a L-shaped structure, with the hydrophobic
+    arm (subunits nqo7, nqo8 and nqo10 to nqo14) embedded in the
+    membrane and the hydrophilic peripheral arm (subunits nqo1 to
+    nqo6, nqo9 and nqo15) protruding into the bacterial cytoplasm. The
+    hydrophilic domain contains all the redox centers.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein;
+    cytoplasmic side.
+-!- SIMILARITY: Belongs to the complex I 23 kDa subunit family.
+-!- SIMILARITY: Contains 2 4Fe-4S type ferredoxin domains.
+ GO:0050136; F:NADH dehydrogenase (quinone) activity; IEA:EC.
+ GO:0019684; P:photosynthesis, light reaction; IEA:HAMAP.
+3D-structure; 4Fe-4S; Complete proteome; Iron; Iron-sulfur; Membrane;
+Metal-binding; NAD; Oxidoreductase; Quinone.
+TMZERO

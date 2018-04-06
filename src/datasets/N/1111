@@ -1,0 +1,20 @@
+AC   P0C1U7; Q33E91; Q99WD8;
+N-acetylmuramoyl-L-alanine amidase sle1 precursor (EC 3.5.1.28).
+"The multifunctional Staphylococcus aureus autolysin aaa mediates
+adherence to immobilized fibrinogen and fibronectin.";
+-!- FUNCTION: Peptidoglycan hydrolase involved in the splitting of the
+    septum during cell division. Binds to both alpha and beta-chains
+    of human fibrinogen as well as fibronectin, which suggests a role
+    in the colonization of host factor-coated material or host tissue.
+    Also exhibits lytic activity against S.carnosus and S.aureus cells
+    but not against M.luteus cells.
+-!- CATALYTIC ACTIVITY: Hydrolyzes the link between N-acetylmuramoyl
+    residues and L-amino acid residues in certain cell-wall
+    glycopeptides.
+-!- SUBCELLULAR LOCATION: Cell surface.
+-!- SIMILARITY: Contains 3 LysM repeats.
+-!- SIMILARITY: Contains 1 peptidase C51 domain.
+ GO:0008745; F:N-acetylmuramoyl-L-alanine amidase activity; IEA:EC.
+Antimicrobial; Bacteriolytic enzyme; Cell cycle; Cell division;
+Cell wall; Hydrolase; Repeat; Septation; Signal; Virulence.
+TMZERO

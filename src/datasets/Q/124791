@@ -1,0 +1,35 @@
+AC   P53112;
+Peroxisomal membrane protein PEX14 (Peroxin-14).
+"DNA sequence analysis of a 35 kb segment from Saccharomyces
+cerevisiae chromosome VII reveals 19 open reading frames including
+RAD54, ACE1/CUP2, PMR1, RCK1, AMS1 and CAL1/CDC43.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Pex14p, a peroxisomal membrane protein binding both receptors of the
+two PTS-dependent import pathways.";
+"Involvement of Pex13p in Pex14p localization and peroxisomal
+targeting signal 2-dependent protein import into peroxisomes.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Component of the peroxisomal translocation machinery
+    with PEX13 and PEX17. Interacts with both the PTS1 and PTS2
+    receptors. Binds directly to PEX17.
+-!- SUBUNIT: Interacts with the SH3 domain of PEX13.
+-!- INTERACTION:
+    P15202:CTA1; NbExp=1; IntAct=EBI-13212, EBI-4061;
+    Q08558:DCI1; NbExp=1; IntAct=EBI-13212, EBI-36132;
+    P38998:LYS1; NbExp=1; IntAct=EBI-13212, EBI-10264;
+    P40155:PEX17; NbExp=1; IntAct=EBI-13212, EBI-13218;
+    P25332:RBK1; NbExp=1; IntAct=EBI-13212, EBI-14854;
+    Q12334:SCM3; NbExp=1; IntAct=EBI-13212, EBI-31788;
+    P32793:YSC84; NbExp=1; IntAct=EBI-13212, EBI-24460;
+-!- SUBCELLULAR LOCATION: Peroxisome; peroxisomal membrane; peripheral
+    membrane protein; cytoplasmic side.
+-!- MISCELLANEOUS: Present with 2570 molecules/cell.
+-!- SIMILARITY: Belongs to the peroxin 14 family.
+ GO:0005778; C:peroxisomal membrane; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0016558; P:protein import into peroxisome matrix; IPI:SGD.
+3D-structure; Complete proteome; Membrane; Peroxisome;
+Protein transport; Translocation; Transport.
+TMZERO

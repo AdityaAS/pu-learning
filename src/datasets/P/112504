@@ -1,0 +1,15 @@
+AC   Q02920;
+Early nodulin 70.
+"Isolation and characterization of novel nodulin cDNAs representing
+genes expressed at early stages of soybean nodule development.";
+"Similarities between a soybean nodulin, Neurospora crassa sulphate
+permease II and a putative human tumour suppressor.";
+-!- FUNCTION: Possible sulfate transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- DEVELOPMENTAL STAGE: Expressed at early stages of nodule
+    development.
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+Membrane; Nodulation; Transmembrane; Transport.
+TMTWELVE

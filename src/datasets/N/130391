@@ -1,0 +1,15 @@
+AC   Q5NF19;
+Probable inorganic polyphosphate/ATP-NAD kinase (EC 2.7.1.23)
+(Poly(P)/ATP NAD kinase).
+"The complete genome sequence of Francisella tularensis, the causative
+agent of tularemia.";
+-!- FUNCTION: Catalyzes the phosphorylation of NAD to NADP. Utilizes
+    ATP and other nucleoside triphosphates as well as inorganic
+    polyphosphate as a source of phosphorus (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + NAD(+) = ADP + NADP(+).
+-!- COFACTOR: Divalent metal ions (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the NAD kinase family.
+ GO:0046872; F:metal ion binding; IEA:HAMAP.
+Complete proteome; Kinase; NAD; NADP; Transferase.
+TMZERO

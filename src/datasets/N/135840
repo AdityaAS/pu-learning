@@ -1,0 +1,18 @@
+AC   Q8K8Z7;
+Peptidyl-tRNA hydrolase (EC 3.1.1.29) (PTH).
+"Genome sequence of a serotype M3 strain of group A Streptococcus:
+phage-encoded toxins, the high-virulence phenotype, and clone
+emergence.";
+"Genome sequence of an M3 strain of Streptococcus pyogenes reveals a
+large-scale genomic rearrangement in invasive strains and new insights
+into phage evolution.";
+-!- FUNCTION: The natural substrate for this enzyme may be peptidyl-
+    tRNAs which drop off the ribosome during protein synthesis (By
+    similarity).
+-!- CATALYTIC ACTIVITY: N-substituted aminoacyl-tRNA + H(2)O = N-
+    substituted amino acid + tRNA.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the PTH family.
+Complete proteome; Hydrolase.
+TMZERO

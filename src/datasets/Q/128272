@@ -1,0 +1,11 @@
+AC   Q9PLB0;
+Probable outer membrane protein pmpD precursor (Polymorphic membrane
+protein D).
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+-!- SUBCELLULAR LOCATION: Cell wall; extracellular side (Potential).
+-!- DEVELOPMENTAL STAGE: Elementary body (Potential).
+-!- SIMILARITY: Belongs to the PMP outer membrane protein family.
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+Complete proteome; Membrane; Outer membrane; Signal.
+TMZERO

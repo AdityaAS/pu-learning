@@ -1,0 +1,43 @@
+AC   P0A2R8; P31138;
+Magnesium transport protein corA.
+"Sequence and topology of the CorA magnesium transport systems of
+Salmonella typhimurium and Escherichia coli. Identification of a new
+class of transport protein.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Magnesium transport in Salmonella typhimurium: characterization of
+magnesium influx and cloning of a transport gene.";
+"Magnesium transport in Salmonella typhimurium: genetic
+characterization and cloning of three magnesium transport loci.";
+"Magnesium transport in Salmonella typhimurium: (28)Mg2+ transport by
+the CorA, MgtA, and MgtB systems.";
+"The CorA Mg2+ transport protein of Salmonella typhimurium.
+Mutagenesis of conserved residues in the third membrane domain
+identifies a Mg2+ pore.";
+"The CorA Mg(2+) transport protein of Salmonella typhimurium.
+Mutagenesis of conserved residues in the second membrane domain.";
+"Cation hexaammines are selective and potent inhibitors of the CorA
+magnesium transport system.";
+"The CorA Mg2+ transporter is a homotetramer.";
+"The CorA Mg2+ transporter does not transport Fe2+.";
+-!- FUNCTION: Mediates both influx and efflux of magnesium ions. Can
+    also mediate cobalt and nickel uptake, albeit only at
+    extracellular concentrations that are toxic to the cell. Does not
+    transport iron.
+-!- ENZYME REGULATION: Inhibited by cation hexaammines.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=15 uM for magnesium ions;
+      KM=30 uM for cobalt ions;
+      KM=300 uM for nickel ions;
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Constitutively expressed.
+-!- MISCELLANEOUS: Is the dominant magnesium transport system under
+    laboratory growth conditions.
+-!- SIMILARITY: Belongs to the corA metal ion transporter (MIT)
+    (TC 1.A.35) family.
+Cobalt; Complete proteome; Inner membrane; Ion transport; Magnesium;
+Membrane; Nickel; Transmembrane; Transport.
+TMTWO

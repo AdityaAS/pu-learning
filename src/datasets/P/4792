@@ -1,0 +1,16 @@
+AC   Q8NVK5;
+Accessory gene regulator protein B (EC 3.4.-.-).
+"Genome and virulence determinants of high virulence community-
+acquired MRSA.";
+-!- FUNCTION: Essential for the production of a quorum sensing system
+    signal molecule, the autoinducing peptide (AIP). This quorum
+    sensing system is responsible for the regulation of the expression
+    of virulence factor genes. Involved in the proteolytic processing
+    of agrD, the precursor of AIP (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the agrB family.
+ GO:0008233; F:peptidase activity; IEA:HAMAP.
+ GO:0009372; P:quorum sensing; IEA:HAMAP.
+Complete proteome; Hydrolase; Membrane; Protease; Quorum sensing;
+Transmembrane; Virulence.
+TMFIVE

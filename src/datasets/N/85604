@@ -1,0 +1,21 @@
+AC   O14524; Q68DH0; Q6IQ25;
+Protein KIAA0286.
+"Construction and characterization of human brain cDNA libraries
+suitable for analysis of cDNA clones encoding relatively large
+proteins.";
+"Construction of expression-ready cDNA clones for KIAA genes: manual
+curation of 330 KIAA cDNA clones.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O14524-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O14524-2; Sequence=VSP_011896;
+      Note=No experimental confirmation available;
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+Alternative splicing; Membrane; Transmembrane.
+TMSIX

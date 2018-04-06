@@ -1,0 +1,73 @@
+AC   P67910; P17963; Q2M7T3;
+ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20) (ADP-L-
+glycero-beta-D-manno-heptose-6-epimerase) (ADP-glyceromanno-heptose 6-
+epimerase) (ADP-hep 6-epimerase) (AGME).
+"Cloning, expression, and characterization of the Escherichia coli K-
+12 rfaD gene.";
+"The htrM gene, whose product is essential for Escherichia coli
+viability only at elevated temperatures, is identical to the rfaD
+gene.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Purification and properties of the Escherichia coli K-12 NAD-
+dependent nucleotide diphosphosugar epimerase, ADP-L-glycero-D-
+mannoheptose 6-epimerase.";
+"The rfaD gene codes for ADP-L-glycero-D-mannoheptose-6-epimerase. An
+enzyme required for lipopolysaccharide core biosynthesis.";
+"Crystallization and preliminary X-ray diffraction studies of the
+lipopolysaccharide core biosynthetic enzyme ADP-L-glycero-D-
+mannoheptose 6-epimerase from Escherichia coli K-12.";
+"Evidence that NADP+ is the physiological cofactor of ADP-L-glycero-D-
+mannoheptose 6-epimerase.";
+"Biosynthesis pathway of ADP-L-glycero-beta-D-manno-heptose in
+Escherichia coli.";
+"The crystal structure of ADP-L-glycero-D-mannoheptose 6-epimerase:
+catalysis with a twist.";
+-!- FUNCTION: Catalyzes the interconversion between ADP-D-glycero-
+    beta-D-manno-heptose and ADP-L-glycero-beta-D-manno-heptose via an
+    epimerization at carbon 6 of the heptose.
+-!- CATALYTIC ACTIVITY: ADP-D-glycero-D-manno-heptose = ADP-L-glycero-
+    D-manno-heptose.
+-!- COFACTOR: Binds 1 NADP(+) per subunit. NAD(+) can substitute for
+    NADP(+), but enzymatic activity is reduced.
+-!- ENZYME REGULATION: Completely inhibited by ADP and ADP-glucose,
+    and partially inhibited by ATP and NADH.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=0.1 mM for ADP-heptose;
+      Vmax=1.53 umol/min/mg enzyme;
+    pH dependence:
+      Optimum pH is 5.5-9.5;
+    Temperature dependence:
+      Optimum temperature is 42 degrees Celsius;
+-!- PATHWAY: Inner core lipopolysaccharide biosynthesis; ADP-L-
+    glycero-beta-D-manno-heptose biosynthesis; fifth (last) step.
+-!- SUBUNIT: Homopentamer.
+-!- INTERACTION:
+    P0A6F5:groL; NbExp=1; IntAct=EBI-543760, EBI-543750;
+    P16528:iclR; NbExp=1; IntAct=EBI-543760, EBI-552904;
+    P62617:ispF; NbExp=1; IntAct=EBI-543760, EBI-562321;
+    P0ABU0:menB; NbExp=1; IntAct=EBI-543760, EBI-554195;
+    P25534:ubiH; NbExp=1; IntAct=EBI-543760, EBI-559377;
+    P0A8C1:ybjQ; NbExp=1; IntAct=EBI-543760, EBI-544395;
+-!- INDUCTION: By heat shock.
+-!- DOMAIN: Contains a large N-terminal NADP-binding domain associated
+    with a modified Rossman fold, and a smaller C-terminal substrate-
+    binding domain.
+-!- MISCELLANEOUS: Essential for Escherichia coli viability at
+    elevated temperatures. Insertional inactivation of the gene by the
+    Tn5 transposon results in E.coli being unable to form colonies at
+    temperatures above 43 degrees Celsius.
+-!- SIMILARITY: Belongs to the sugar epimerase family. HldD subfamily.
+-!- CAUTION: Was originally (Ref.8) thought to be a homohexamer.
+ GO:0005624; C:membrane fraction; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Carbohydrate metabolism; Complete proteome;
+Direct protein sequencing; Heat shock; Isomerase;
+Lipopolysaccharide biosynthesis; NAD; NADP.
+TMZERO

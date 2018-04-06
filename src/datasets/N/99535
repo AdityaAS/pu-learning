@@ -1,0 +1,18 @@
+AC   Q10292;
+Meiosis-specific serine/threonine-protein kinase mek1 (EC 2.7.11.1).
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Probable protein kinase required for meiotic
+    recombination.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+-!- SIMILARITY: Contains 1 FHA domain.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0030998; C:linear element; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0004674; F:protein serine/threonine kinase activity; TAS:GeneDB_SPombe.
+ GO:0030999; P:linear element formation; IGI:GeneDB_SPombe.
+ GO:0051598; P:meiotic recombination checkpoint; IMP:GeneDB_SPombe.
+ATP-binding; Complete proteome; Kinase; Meiosis; Nucleotide-binding;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

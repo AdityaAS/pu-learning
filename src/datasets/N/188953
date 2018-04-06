@@ -1,0 +1,20 @@
+AC   Q617M0;
+Mitochondrial import inner membrane translocase subunit TIM14 (DnaJ
+homolog subfamily C member 21).
+"The genome sequence of Caenorhabditis briggsae: a platform for
+comparative genomics.";
+-!- FUNCTION: Probable component of the PAM complex, a complex
+    required for the translocation of transit peptide-containing
+    proteins from the inner membrane into the mitochondrial matrix in
+    an ATP-dependent manner. May act as a co-chaperone that stimulate
+    the ATP-dependent activity (By similarity).
+-!- SUBUNIT: Probable component of the PAM complex at least composed
+    of a mitochondrial HSP70 protein, GrpE, tim-44, tim-16 and tim-14
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    single-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the TIM14 family.
+-!- SIMILARITY: Contains 1 J domain.
+Chaperone; Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Protein transport; Translocation; Transmembrane; Transport.
+TMONE

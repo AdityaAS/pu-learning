@@ -1,0 +1,11 @@
+AC   Q4FUE7;
+30S ribosomal protein S17.
+"Complete sequence of Psychrobacter arcticum 273-4.";
+-!- FUNCTION: One of the primary rRNA binding proteins, it binds
+    specifically to the 5' end of 16S ribosomal RNA (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit.
+-!- SIMILARITY: Belongs to the ribosomal protein S17P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

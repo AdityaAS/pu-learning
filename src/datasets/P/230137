@@ -1,0 +1,9 @@
+AC   Q01253; P97147; P97148;
+Yop proteins translocation protein L.
+"Analysis of virC, an operon involved in the secretion of Yop proteins
+by Yersinia enterocolitica.";
+-!- FUNCTION: Required for the export process of the Yop proteins.
+-!- INDUCTION: At 37 degrees Celsius in the absence of calcium.
+-!- CAUTION: It is uncertain whether Met-1 or Met-12 is the initiator.
+Plasmid; Virulence.
+TMZERO

@@ -1,0 +1,11 @@
+AC   P0A774; P77025; Q47415;
+Protein nrdI.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Not known; probably involved in ribonucleotide reductase
+    function.
+-!- SIMILARITY: Belongs to the nrdI family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

@@ -1,0 +1,26 @@
+AC   O49118;
+Histone H2B (CaH2B).
+"Induction of reproductive organ-preferential histone genes by
+wounding or methyl jasmonate.";
+-!- FUNCTION: Core component of nucleosome. Nucleosomes wrap and
+    compact DNA into chromatin, limiting DNA accessibility to the
+    cellular machineries which require DNA as a template. Histones
+    thereby play a central role in transcription regulation, DNA
+    repair, DNA replication and chromosomal stability. DNA
+    accessibility is regulated via a complex set of post-translational
+    modifications of histones, also called histone code, and
+    nucleosome remodelling.
+-!- SUBUNIT: The nucleosome is a histone octamer containing two
+    molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4
+    heterotetramer and two H2A-H2B heterodimers. The octamer wraps
+    approximately 147 bp of DNA.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: In anthers, floral buds, pollen, petals and
+    fruits.
+-!- INDUCTION: By wounding and methyl jasmonate.
+-!- PTM: Monoubiquitinated on Lys-140; may give a specific tag for
+    epigenetic transcriptional activation (By similarity).
+-!- SIMILARITY: Belongs to the histone H2B family.
+Chromosomal protein; DNA-binding; Nuclear protein; Nucleosome core;
+Ubl conjugation.
+TMZERO

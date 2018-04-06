@@ -1,0 +1,12 @@
+AC   Q9KSS7;
+Ribosomal large subunit pseudouridine synthase B (EC 5.4.99.-) (rRNA-
+uridine isomerase B) (rRNA pseudouridylate synthase B).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Responsible for synthesis of pseudouridine from uracil-
+    2605 in 23S ribosomal RNA (By similarity).
+-!- CATALYTIC ACTIVITY: rRNA uridine = rRNA pseudouridine.
+-!- SIMILARITY: Belongs to the pseudouridine synthase rsuA family.
+-!- SIMILARITY: Contains 1 S4 RNA-binding domain.
+Complete proteome; Isomerase; RNA-binding; rRNA processing.
+TMZERO

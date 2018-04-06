@@ -1,0 +1,41 @@
+AC   Q9Z2D6;
+Methyl-CpG-binding protein 2 (MeCP-2 protein) (MeCP2).
+"Identification and characterization of a family of mammalian methyl-
+CpG binding proteins.";
+"A complex pattern of evolutionary conservation and alternative
+polyadenylation within the long 3'-untranslated region of the methyl-
+CpG-binding protein 2 gene (MeCP2) suggests a regulatory role in gene
+expression.";
+"Comparative analysis of the methyl CpG binding protein 2 locus in man
+and mouse reveals new untranslated sequences.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"FBP WW domains and the Abl SH3 domain bind to a specific class of
+proline-rich ligands.";
+-!- FUNCTION: Chromosomal protein that binds to methylated DNA. It can
+    bind specifically to a single methyl-CpG pair. It is not
+    influenced by sequences flanking the methyl-CpGs. Mediates
+    transcriptional repression through interaction with histone
+    deacetylase and the corepressor SIN3A (By similarity).
+-!- SUBUNIT: Interacts with FNBP3.
+-!- SUBCELLULAR LOCATION: Nucleus. Note=Colocalized with methyl-CpG in
+    the genome.
+-!- SIMILARITY: Contains 2 A.T hook DNA-binding domains.
+-!- SIMILARITY: Contains 1 MBD (methyl-CpG-binding) domain.
+ GO:0005829; C:cytosol; IDA:MGI.
+ GO:0000792; C:heterochromatin; IDA:MGI.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0008327; F:methyl-CpG binding; IDA:MGI.
+ GO:0003729; F:mRNA binding; IDA:MGI.
+ GO:0035197; F:siRNA binding; IDA:MGI.
+ GO:0016564; F:transcriptional repressor activity; IDA:MGI.
+ GO:0008344; P:adult locomotory behavior; IMP:MGI.
+ GO:0016358; P:dendrite development; IMP:MGI.
+ GO:0045892; P:negative regulation of transcription, DNA-d...; IDA:MGI.
+ GO:0042551; P:neuron maturation; IMP:MGI.
+ GO:0008284; P:positive regulation of cell proliferation; IMP:MGI.
+ GO:0050884; P:regulation of posture; IMP:MGI.
+ GO:0007585; P:respiratory gaseous exchange; IMP:MGI.
+DNA-binding; Nuclear protein; Phosphorylation; Repeat; Repressor;
+Transcription; Transcription regulation.
+TMZERO

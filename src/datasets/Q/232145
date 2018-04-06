@@ -1,0 +1,17 @@
+AC   Q576K1;
+High-affinity zinc uptake system protein znuA precursor.
+"Completion of the genome sequence of Brucella abortus and comparison
+to the highly similar genomes of Brucella melitensis and Brucella
+suis.";
+"Zinc uptake system (znuA locus) of Brucella abortus is essential for
+intracellular survival and virulence in mice.";
+-!- FUNCTION: Involved in the high-affinity zinc uptake transport
+    system. Required for survival and normal growth under low Zn (2+)
+    concentrations. Also required for virulence and intracellular
+    growth in macrophages.
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 9
+    family.
+Complete proteome; Ion transport; Metal-binding; Periplasmic; Signal;
+Transport; Virulence; Zinc; Zinc transport.
+TMZERO

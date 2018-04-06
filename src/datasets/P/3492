@@ -1,0 +1,31 @@
+AC   P61915; P17723; Q16993; Q9TWV2; Q9TWV3;
+Tenebrosin-C.
+"Complete amino acid sequence of tenebrosin-C, a cardiac stimulatory
+and haemolytic protein from the sea anemone Actinia tenebrosa.";
+"Purification and characterisation of proteins with cardiac
+stimulatory and haemolytic activity from the anemone Actinia
+tenebrosa.";
+-!- FUNCTION: This cardiac stimulatory and hemolytic pore-forming
+    protein forms cations-selective hydrophilic pores of around 1 nm.
+    Cytolytic effects include red blood cells hemolysis, platelet
+    aggregation and lysis, cytotoxic and cytostatic effects on
+    fibroblasts. Lethality in mammals has been ascribed to severe
+    vasospasm of coronary vessels, cardiac arrhythmia, and inotropic
+    effects. Pore formation proceeds by membrane binding via a surface
+    rich in aromatic residues, followed by translocation of the N-
+    terminal region to the membrane and, finally, across the bilayer
+    to form a functional pore.
+-!- SUBUNIT: Tetramer in the presence of a lipidic interface. Monomer,
+    in soluble state (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=Found in nematocyst.
+-!- DOMAIN: The N-terminal region, before the pore is formed, is bound
+    to the lipid membrane. It partitions into the lipid-water
+    interface and stabilizes the monomeric molecule on the membrane.
+    Finally, it traverses the bilayer, thus forming the transmembrane
+    pore (By similarity).
+-!- DOMAIN: The Trp-rich region is important for the binding to lipid
+    membrane (By similarity).
+-!- SIMILARITY: Belongs to the sea anemone actinoporin family.
+Cytolysis; Direct protein sequencing; Hemolysis; Ion transport;
+Membrane; Nematocyst; Porin; Toxin; Transmembrane; Transport.
+TMZERO

@@ -1,0 +1,90 @@
+AC   O43826; O96016; Q9UI19; Q9UNS4;
+Glucose-6-phosphate translocase (Glucose-5-phosphate transporter)
+(Solute carrier family 37 member 4).
+"Sequence of a putative glucose 6-phosphate translocase, mutated in
+glycogen storage disease type Ib.";
+"Genomic structure of the human glucose 6-phosphate translocase gene
+and novel mutations in the gene of a Japanese patient with glycogen
+storage disease type Ib.";
+"Inactivation of the glucose 6-phosphate transporter causes glycogen
+storage disease type 1b.";
+"Functional prediction of the coding sequences of 9 new genes deduced
+by analysis of cDNA clones from human fetal liver.";
+"Four different transcripts of putative glucose-6-phosphate
+translocase in human leukocytes.";
+"Structure of the gene mutated in glycogen storage disease type Ib.";
+"Molecular diagnosis of type 1c glycogen storage disease.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Type I glycogen storage diseases: disorders of the glucose-6-
+phosphatase complex.";
+"A gene on chromosome 11q23 coding for a putative glucose- 6-phosphate
+translocase is mutated in glycogen-storage disease types Ib and Ic.";
+"Structure and mutation analysis of the glycogen storage disease type
+1b gene.";
+"Correction to the sequence of the donor splice site of intron 2 of
+the GSD1b gene.";
+"The putative glucose 6-phosphate translocase gene is mutated in
+essentially all cases of glycogen storage disease type I non-a.";
+"Mutations in the glucose-6-phosphate transporter (G6PT) gene in
+patients with glycogen storage diseases type 1b and 1c.";
+"Molecular analysis of glycogen storage disease type Ib:
+identification of a prevalent mutation among Japanese patients and
+assignment of a putative glucose-6-phosphate translocase gene to
+chromosome 11.";
+"Glycogen storage disease type Ib: structural and mutational analysis
+of the microsomal glucose-6-phosphate transporter gene.";
+"Identification of a novel missense mutation (G149E) in the glucose-6-
+phosphate translocase gene in a Chinese family with glycogen storage
+disease 1b.";
+"Mutation analysis in glycogen storage disease type 1 non-a.";
+"A novel missense mutation (P191L) in the glucose-6-phosphate
+translocase gene identified in a Chinese family with glycogen storage
+disease 1b.";
+"Molecular analysis in glycogen storage disease 1 non-A: DHPLC
+detection of the highly prevalent exon 8 mutations of the G6PT1 gene
+in German patients.";
+"Glycogen storage disease type Ib without neutropenia.";
+"Novel missense mutation (Y24H) in the G6PT1 gene causing glycogen
+storage disease type 1b.";
+"Allelic heterogeneity of glycogen storage disease type Ib in French
+patients: a study of 11 cases.";
+"Genetic testing of glycogen storage disease type Ib in Japan: five
+novel G6PT1 mutations and a rapid detection method for a prevalent
+mutation W118R.";
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O43826-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O43826-2; Sequence=VSP_006171;
+-!- TISSUE SPECIFICITY: Mostly expressed in liver and kidney.
+-!- DISEASE: Defects in SLC37A4 are the cause of glycogen storage
+    disease Ib (GSD-Ib) [MIM:232220]. GSD-I are a group of autosomal
+    recessive disorders characterized by impairment of terminal steps
+    of glycogenolysis and gluconeogenesis. Individuals with GSD-I
+    manifest a wide range of clinical symptoms and biochemical
+    abnormalities, including hypoglycemia, hepatomegaly, kidney
+    enlargement, growth retardation, lactic acidemia, hyperlipidemia,
+    and hyperuricemia.
+-!- DISEASE: Defects in SLC37A4 are the cause of glycogen storage
+    disease Ic (GSD-Ic) [MIM:232240].
+-!- SIMILARITY: Belongs to the major facilitator superfamily. SLC37A
+    family.
+-!- CAUTION: Ref.4 sequence differs from that shown due to a
+    frameshift in position 128.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SLC37A4".
+ GO:0005783; C:endoplasmic reticulum; TAS:ProtInc.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0005351; F:sugar porter activity; NAS:UniProtKB.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0006006; P:glucose metabolism; TAS:ProtInc.
+ GO:0005977; P:glycogen metabolism; TAS:ProtInc.
+ GO:0006810; P:transport; NAS:UniProtKB.
+Alternative splicing; Disease mutation; Endoplasmic reticulum;
+Glycogen storage disease; Membrane; Sugar transport; Transmembrane;
+Transport.
+TMTEN

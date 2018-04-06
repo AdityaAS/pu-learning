@@ -1,0 +1,14 @@
+AC   P42501;
+Capsule polysaccharide export inner-membrane protein kpsE.
+"Cloning, sequencing, expression, and complementation analysis of the
+Escherichia coli K1 kps region 1 gene, kpsE, and identification of an
+upstream open reading frame encoding a protein with homology to
+GutQ.";
+-!- FUNCTION: Involved in the translocation of the polysialic acid
+    capsule.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the bexC/ctrB/kpsE family.
+Bacterial capsule; Inner membrane; Membrane; Polysaccharide transport;
+Sugar transport; Transmembrane; Transport.
+TMTWO

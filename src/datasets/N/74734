@@ -1,0 +1,19 @@
+AC   Q9RRM7;
+Histidinol-phosphate aminotransferase (EC 2.6.1.9) (Imidazole acetol-
+phosphate transaminase).
+"Genome sequence of the radioresistant bacterium Deinococcus
+radiodurans R1.";
+-!- CATALYTIC ACTIVITY: L-histidinol phosphate + 2-oxoglutarate = 3-
+    (imidazol-4-yl)-2-oxopropyl phosphate + L-glutamate.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 7.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the class-II pyridoxal-phosphate-dependent
+    aminotransferase family. Histidinol-phosphate aminotransferase
+    subfamily.
+ GO:0004400; F:histidinol-phosphate transaminase activity; IEA:HAMAP.
+ GO:0000105; P:histidine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Aminotransferase; Complete proteome;
+Histidine biosynthesis; Pyridoxal phosphate; Transferase.
+TMZERO

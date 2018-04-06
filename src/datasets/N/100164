@@ -1,0 +1,25 @@
+AC   Q2RK28;
+S-adenosylmethionine synthetase (EC 2.5.1.6) (Methionine
+adenosyltransferase) (AdoMet synthetase) (MAT).
+"Complete sequence of Moorella thermoacetica ATCC 39073.";
+-!- FUNCTION: Catalyzes the formation of S-adenosylmethionine from
+    methionine and ATP. The overall synthetic reaction is composed of
+    two sequential steps, AdoMet formation and the subsequent
+    tripolyphosphate hydrolysis which occurs prior to release of
+    AdoMet from the enzyme (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + L-methionine + H(2)O = phosphate +
+    diphosphate + S-adenosyl-L-methionine.
+-!- COFACTOR: Binds 2 divalent ions per subunit. Magnesium or Cobalt
+    (By similarity).
+-!- COFACTOR: Binds 1 potassium ion per subunit (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; S-adenosyl-L-methionine
+    biosynthesis; S-adenosyl-L-methionine from L-methionine: single
+    step [final step].
+-!- PATHWAY: Context: Activated methyl cycle.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the AdoMet synthetase family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ATP-binding; Complete proteome; Magnesium; Metal-binding;
+Nucleotide-binding; One-carbon metabolism; Potassium; Transferase.
+TMZERO

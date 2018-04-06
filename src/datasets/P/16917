@@ -1,0 +1,46 @@
+AC   P23645; Q9VL53;
+Neurogenic protein big brain.
+"Similarity of the product of the Drosophila neurogenic gene big brain
+to transmembrane channel proteins.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"The big brain gene of Drosophila functions to control the number of
+neuronal precursors in the peripheral nervous system.";
+"The Drosophila neurogenic gene big brain, which encodes a membrane-
+associated protein, acts cell autonomously and can act synergistically
+with Notch and Delta.";
+"Regulated cationic channel function in Xenopus oocytes expressing
+Drosophila big brain.";
+"Block by extracellular divalent cations of Drosophila big brain
+channels expressed in Xenopus oocytes.";
+-!- FUNCTION: Essential for proper differentiation of ectoderm. Acts
+    synergistically with neurogenic locus proteins Notch and Delta
+    during the separation of neural and epidermal cell lineages in
+    response to the lateral inhibition signal. Voltage-insensitive
+    monovalent cation channel. Ion transport is blocked by the
+    presence of divalent cations.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Detected in all tissues with neurogenic
+    abilities, for example the neurogenic ectoderm.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- PTM: Phosphorylated at its C-terminus.
+-!- MISCELLANEOUS: Separation of neuroblasts from the ectoderm into
+    the inner part of embryo is one of the first steps of CNS
+    development in insects, this process is under control of the
+    neurogenic genes. Mutation in bib gene underlies "big brain"
+    development defect.
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+ GO:0015281; F:nonselective cation channel activity; IDA:FlyBase.
+ GO:0007398; P:ectoderm development; TAS:FlyBase.
+ GO:0007498; P:mesoderm development; IMP:FlyBase.
+ GO:0007399; P:nervous system development; NAS:FlyBase.
+ GO:0007219; P:Notch signaling pathway; NAS:FlyBase.
+ GO:0030707; P:ovarian follicle cell development (sensu In...; TAS:FlyBase.
+Complete proteome; Developmental protein; Differentiation;
+Ion transport; Ionic channel; Membrane; Neurogenesis; Phosphorylation;
+Repeat; Transmembrane; Transport.
+TMSIX

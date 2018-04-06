@@ -1,0 +1,14 @@
+AC   Q6C0G3;
+Diphthamide biosynthesis protein 3.
+"Genome evolution in yeasts.";
+-!- FUNCTION: Required for the first step of diphtamide biosynthesis,
+    the transfer of 3-amino-3-carboxypropyl from S-adenosyl-L-
+    methionine to a histidine residue. Diphthamide is a post-
+    translational modification of histidine which occurs in elongation
+    factor 2 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the DPH3 family.
+-!- SIMILARITY: Contains 1 DPH-type zinc finger.
+Complete proteome; Metal-binding; Nuclear protein; Zinc; Zinc-finger.
+TMZERO

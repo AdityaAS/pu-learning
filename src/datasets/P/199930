@@ -1,0 +1,17 @@
+AC   P16153;
+Protein utxA.
+"Comparative sequence analysis of the Clostridium difficile toxins A
+and B.";
+"Molecular characterization of the Clostridium difficile toxin A
+gene.";
+"Nucleotide sequence of Clostridium difficile toxin A.";
+-!- FUNCTION: May be involved in the regulation and/or secretion of
+    toxins A and B.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative initiation; Named isoforms=2;
+    Name=Long;
+      IsoId=P16153-1; Sequence=Displayed;
+    Name=Short;
+      IsoId=P16153-2; Sequence=VSP_018824;
+Alternative initiation.
+TMZERO

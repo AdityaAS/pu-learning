@@ -1,0 +1,20 @@
+AC   P69806; P08188;
+Mannose permease IID component (PTS system mannose-specific EIID
+component) (EIID-Man) (EII-M-Man).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in mannose transport (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- DOMAIN: The EIID domain, with its homologous EIIC domain, forms
+    the PTS system translocation channel and contains part of its
+    specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIID domain.
+Complete proteome; Formylation; Inner membrane; Membrane;
+Phosphotransferase system; Sugar transport; Transmembrane; Transport.
+TMONE

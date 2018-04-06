@@ -1,0 +1,23 @@
+AC   Q9PU97;
+Phospholipase A2, beta bungarotoxin A7 chain precursor (EC 3.1.1.4)
+(Phosphatidylcholine 2-acylhydrolase) (Fragment).
+"Expression of A chain and B chain of beta-bungarotoxin from taiwan
+banded krait: the functional implication of the interchain disulfide
+bond between A chain and B chain.";
+"What does beta-bungarotoxin do at the neuromuscular junction?";
+-!- FUNCTION: PA2 catalyzes the calcium-dependent hydrolysis of the 2-
+    acyl groups in 3-sn-phosphoglycerides. Inhibits neuromuscular
+    transmission by blocking acetylcholine release from the nerve
+    termini. Acts presynaptically (By similarity).
+-!- CATALYTIC ACTIVITY: Phosphatidylcholine + H(2)O = 1-
+    acylglycerophosphocholine + a carboxylate.
+-!- COFACTOR: Binds 1 calcium ion (By similarity).
+-!- SUBUNIT: Heterodimer; disulfide-linked. The A chains have
+    phospholipase A2 activity and the B chains show homology with the
+    basic protease inhibitors (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- SIMILARITY: Belongs to the phospholipase A2 family. Group I
+    subfamily.
+Calcium; Hydrolase; Lipid degradation; Metal-binding; Neurotoxin;
+Presynaptic neurotoxin; Signal; Toxin.
+TMZERO

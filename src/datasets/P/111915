@@ -1,0 +1,22 @@
+AC   P33590; Q2M7D9;
+Nickel-binding periplasmic protein precursor.
+"The nik operon of Escherichia coli encodes a periplasmic binding-
+protein-dependent transport system for nickel.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Crystal structures of the liganded and unliganded nickel-binding
+protein NikA from Escherichia coli.";
+-!- FUNCTION: Involved in a nickel transport system, probably
+    represents the nickel binder.
+-!- INTERACTION:
+    P0A6N1:tufA; NbExp=1; IntAct=EBI-555182, EBI-301077;
+-!- SUBCELLULAR LOCATION: Periplasm (Probable).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 5
+    family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Complete proteome; Nickel; Periplasmic; Signal;
+Transport.
+TMZERO

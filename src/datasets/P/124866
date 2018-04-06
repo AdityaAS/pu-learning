@@ -1,0 +1,44 @@
+AC   O00628;
+Peroxisomal targeting signal 2 receptor (PTS2 receptor) (Peroxin-7).
+"Rhizomelic chondrodysplasia punctata is caused by deficiency of human
+PEX7, a homologue of the yeast PTS2 receptor.";
+"Human PEX7 encodes the peroxisomal PTS2 receptor and is responsible
+for rhizomelic chondrodysplasia punctata.";
+"PEX7 gene structure, alternative transcripts, and evidence for a
+founder haplotype for the frequent RCDP allele, L292ter.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of PEX7 as the second gene involved in Refsum
+disease.";
+-!- FUNCTION: Binds to the N-terminal PTS2-type peroxisomal targeting
+    signal and plays an essential role in peroxisomal protein import.
+-!- SUBUNIT: Interacts with PEX5.
+-!- SUBCELLULAR LOCATION: Peroxisome. Cytoplasm.
+-!- TISSUE SPECIFICITY: Ubiquitous. Highest expression in pancreas,
+    skeletal muscle and heart.
+-!- DISEASE: Defects in PEX7 are the cause of rhizomelic
+    chondrodysplasia punctata type 1 (RCDP1) [MIM:215100]; also known
+    as peroxisomal biogenesis disorder complementation group 11
+    (CG11). RCDP1 is a developmental disorder, characterized by the
+    presence of stippled foci of calcification in hyaline cartilage,
+    coronal vertebral clefting, dwarfing, joint contractures,
+    congenital cataract, ichthyosis, and severe mental retardation.
+-!- DISEASE: Defects in PEX7 are a cause of Refsum disease (RD)
+    [MIM:266500]. RD is an autosomal recessive disorder characterized
+    clinically by a tetrad of abnormalities: retinitis pigmentosa,
+    peripheral neuropathy, cerebellar ataxia, and elevated protein
+    levels in the cerebrospinal fluid (CSF). Patients exhibit
+    accumulation of the branched-chain fatty acid, phytanic acid, in
+    blood and tissues. Less constant features are nerve deafness,
+    anosmia, skeletal abnormalities, ichthyosis, cataracts and cardiac
+    impairment. Manifestations of the disease appear in the second or
+    third decade of life.
+-!- SIMILARITY: Contains 6 WD repeats.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=PEX7".
+ GO:0005777; C:peroxisome; TAS:ProtInc.
+ GO:0005053; F:peroxisome targeting signal-2 binding; TAS:ProtInc.
+Cataract; Disease mutation; Peroxisome; Polymorphism;
+Protein transport; Repeat; Rhizomelic chondrodysplasia punctata;
+Transport; WD repeat.
+TMZERO

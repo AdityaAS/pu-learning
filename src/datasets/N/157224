@@ -1,0 +1,11 @@
+AC   Q04152;
+Transcriptional regulatory protein ros.
+"The virC and virD operons of the Agrobacterium Ti plasmid are
+regulated by the ros chromosomal gene: analysis of the cloned ros
+gene.";
+-!- FUNCTION: Specifically represses the virC and virD operons in the
+    virulence region of the Ti plasmid.
+-!- SIMILARITY: Belongs to the ros/mucR family.
+DNA-binding; Metal-binding; Repressor; Transcription;
+Transcription regulation; Zinc; Zinc-finger.
+TMZERO

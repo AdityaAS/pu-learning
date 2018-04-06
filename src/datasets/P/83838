@@ -1,0 +1,39 @@
+AC   Q38856; Q8LBP0;
+Fe(II) transport protein 1 precursor (Iron-regulated transporter 1).
+"A novel iron-regulated metal transporter from plants identified by
+functional expression in yeast.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"Full-length cDNA from Arabidopsis thaliana.";
+"Sequence analyses and phylogenetic characterization of the ZIP family
+of metal ion transport proteins.";
+"The IRT1 protein from Arabidopsis thaliana is a metal transporter
+with a broad substrate range.";
+"Altered selectivity in an Arabidopsis metal transporter.";
+"IRT1, an Arabidopsis transporter essential for iron uptake from the
+soil and for plant growth.";
+-!- FUNCTION: High-affinity iron transporter that plays a key role in
+    the uptake of iron from the rhizosphere across the plasma membrane
+    in the root epidermal layer. Acts as the principal regulator of
+    iron homeostasis in planta. Also mediates the heavy metals uptake
+    under iron-deficiency by its ability to transport cobalt, cadmium,
+    manganese and/or zinc ions.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q38856-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q38856-2; Sequence=VSP_008361, VSP_008362;
+      Note=May be due to an intron retention;
+-!- TISSUE SPECIFICITY: Expressed in the external cell layers of the
+    root including the lateral branching zone. Also detected in
+    flowers before pollination.
+-!- INDUCTION: In roots by iron starvation.
+-!- MISCELLANEOUS: Inhibited by cadmium and Fe(2+) ions and at 100-
+    fold excess inhibited by cobalt, manganese and zinc ions. Loss-of-
+    function mutant exhibits a lethal chlorotic phenotype.
+-!- SIMILARITY: Belongs to the ZIP transporter (TC 2.A.5) family.
+Alternative splicing; Ion transport; Iron; Iron transport; Membrane;
+Signal; Transmembrane; Transport.
+TMEIGHT

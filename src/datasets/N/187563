@@ -1,0 +1,13 @@
+AC   Q2K206;
+Thiamine biosynthesis protein thiC.
+"The partitioned Rhizobium etli genome: genetic and metabolic
+redundancy in seven interacting replicons.";
+-!- FUNCTION: Required for the synthesis of the hydromethylpyrimidine
+    (HMP) moiety of thiamine (4-amino-2-methyl-5-
+    hydroxymethylpyrimidine) (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; thiamine pyrophosphate
+    biosynthesis; 4-amino-2-methyl-5-diphosphomethylpyrimidine from 5-
+    amino-1-(5-phospho-D-ribosyl)imidazole: step 1.
+-!- SIMILARITY: Belongs to the thiC family.
+Complete proteome; Plasmid; Thiamine biosynthesis.
+TMZERO

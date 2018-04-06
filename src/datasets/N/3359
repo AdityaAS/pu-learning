@@ -1,0 +1,33 @@
+AC   P62736; P03996; P04108;
+Actin, aortic smooth muscle (Alpha-actin-2).
+"The nucleotide sequence of a human smooth muscle alpha-actin (aortic
+type) cDNA.";
+"Structure of the human smooth muscle alpha-actin gene. Analysis of a
+cDNA and 5' upstream region.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Structure of a human smooth muscle actin gene (aortic type) with a
+unique intron site.";
+"Structure of 3'-downstream segment of the human smooth muscle
+(aortic-type) alpha-actin-encoding gene and isolation of the specific
+DNA probe.";
+"The human pituitary nitroproteome: detection of nitrotyrosyl-proteins
+with two-dimensional Western blotting, and amino acid sequence
+determination with mass spectrometry.";
+-!- FUNCTION: Actins are highly conserved proteins that are involved
+    in various types of cell motility and are ubiquitously expressed
+    in all eukaryotic cells.
+-!- SUBUNIT: Polymerization of globular actin (G-actin) leads to a
+    structural filament (F-actin) in the form of a two-stranded helix.
+    Each actin can bind to 4 others.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: In vertebrates 3 main groups of actin isoforms,
+    alpha, beta and gamma have been identified. The alpha actins are
+    found in muscle tissues and are a major constituent of the
+    contractile apparatus. The beta and gamma actins coexist in most
+    cell types as components of the cytoskeleton and as mediators of
+    internal cell motility.
+-!- SIMILARITY: Belongs to the actin family.
+Acetylation; ATP-binding; Cytoskeleton; Methylation; Muscle protein;
+Nitration; Nucleotide-binding; Polymorphism; Structural protein.
+TMZERO

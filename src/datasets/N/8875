@@ -1,0 +1,33 @@
+AC   P84078; P10947; P32889;
+ADP-ribosylation factor 1.
+"Structure and intracellular localization of mouse ADP-ribosylation
+factors type 1 to type 6 (ARF1-ARF6).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Molecular mechanism of membrane recruitment of GGA by ARF in
+lysosomal protein transport.";
+-!- FUNCTION: GTP-binding protein that functions as an allosteric
+    activator of the cholera toxin catalytic subunit, an ADP-
+    ribosyltransferase. Involved in protein trafficking among
+    different compartments. Modulates vesicle budding and uncoating
+    within the Golgi complex. Deactivation induces the redistribution
+    of the entire Golgi complex to the endoplasmic reticulum,
+    suggesting a crucial role in protein trafficking. In its GTP-bound
+    form, its triggers the association with coat proteins with the
+    Golgi membrane. The hydrolysis of ARF1-bound GTP, which is
+    mediated by ARFGAPs proteins, is required for dissociation of coat
+    proteins from Golgi membranes and vesicles.
+-!- SUBUNIT: Interacts with PRKCABP, PSCD2, DDEF2 and PIP5K1A (By
+    similarity). Interacts with GGA1. Interacts with ARFGAP1, which
+    hydrolyzes GTP and thus, regulates its function.
+-!- SIMILARITY: Belongs to the small GTPase superfamily. Arf family.
+ GO:0005829; C:cytosol; IDA:MGI.
+ GO:0012505; C:endomembrane system; IDA:MGI.
+ GO:0005794; C:Golgi apparatus; IDA:MGI.
+ GO:0030017; C:sarcomere; IDA:MGI.
+ GO:0005525; F:GTP binding; TAS:MGI.
+ GO:0016192; P:vesicle-mediated transport; IDA:MGI.
+3D-structure; ER-Golgi transport; Golgi apparatus; GTP-binding;
+Lipoprotein; Myristate; Nucleotide-binding; Protein transport;
+Transport.
+TMZERO

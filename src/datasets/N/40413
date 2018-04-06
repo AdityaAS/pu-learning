@@ -1,0 +1,15 @@
+AC   Q88VB2;
+Peptide deformylase (EC 3.5.1.88) (PDF) (Polypeptide deformylase).
+"Complete genome sequence of Lactobacillus plantarum WCFS1.";
+-!- FUNCTION: Removes the formyl group from the N-terminal Met of
+    newly synthesized proteins. Requires at least a dipeptide for an
+    efficient rate of reaction. N-terminal L-methionine is a
+    prerequisite for activity but the enzyme has broad specificity at
+    other positions (By similarity).
+-!- CATALYTIC ACTIVITY: Formyl-L-methionyl peptide + H(2)O = formate +
+    methionyl peptide.
+-!- COFACTOR: Binds 1 Fe(2+) ion (By similarity).
+-!- SIMILARITY: Belongs to the polypeptide deformylase family.
+Complete proteome; Hydrolase; Iron; Metal-binding;
+Protein biosynthesis.
+TMZERO

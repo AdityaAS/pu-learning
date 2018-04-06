@@ -1,0 +1,24 @@
+AC   Q9H2S1;
+Small conductance calcium-activated potassium channel protein 2 (SK2).
+"Ca2+-activated K+ channels in human leukemic Jurkat T cells.
+Molecular cloning, biochemical and functional characterization.";
+"Characterization of calcium-activated potassium channels in human
+myometrium.";
+-!- FUNCTION: Forms a voltage-independent potassium channel activated
+    by intracellular calcium. Activation is followed by membrane
+    hyperpolarization. Thought to regulate neuronal excitability by
+    contributing to the slow component of synaptic
+    afterhyperpolarization. The channel is blocked by apamin.
+-!- SUBUNIT: Hetero-oligomer. The complex is composed of 4 channel
+    subunits each of which binds to a calmodulin subunit which
+    regulates the channel activity through calcium-binding (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Widely expressed.
+-!- SIMILARITY: Belongs to the potassium channel KCNN family.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0016286; F:small conductance calcium-activated potassi...; TAS:UniProtKB.
+ GO:0006813; P:potassium ion transport; NAS:UniProtKB.
+Calmodulin-binding; Ion transport; Ionic channel; Membrane;
+Transmembrane; Transport.
+TMSEVEN

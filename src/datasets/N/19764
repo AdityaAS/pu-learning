@@ -1,0 +1,28 @@
+AC   Q8ITC7; Q9VP15;
+Neuropeptides capa receptor (Cap2b receptor).
+"Identification of G protein-coupled receptors for Drosophila PRXamide
+peptides, CCAP, corazonin, and AKH supports a theory of ligand-
+receptor coevolution.";
+"Molecular cloning and functional expression of a Drosophila receptor
+for the neuropeptides capa-1 and -2.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Acts as a receptor for the neuropeptides CAP-1 and CAP-
+    2, but not CAP-3. Probably a component of signal transduction
+    pathway that leads to Malpighian tubule fluid secretion in
+    response to these ligands.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: In adults, expression in thorax and/or
+    abdomen.
+-!- DEVELOPMENTAL STAGE: Expressed weakly in 16-24 hours embryos and
+    second instar larvae and strongly in first and third instar larvae
+    and adults.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0008188; F:neuropeptide receptor activity; IDA:UniProtKB.
+ GO:0007589; P:fluid secretion; TAS:UniProtKB.
+Complete proteome; G-protein coupled receptor; Glycoprotein; Membrane;
+Receptor; Transducer; Transmembrane.
+TMSEVEN

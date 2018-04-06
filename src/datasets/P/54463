@@ -1,0 +1,23 @@
+AC   P16869; P77292;
+FhuE receptor precursor (Outer-membrane receptor for Fe(III)-coprogen,
+Fe(III)-ferrioxamine B and Fe(III)-rhodotrulic acid).
+"Sequence of the fhuE outer-membrane receptor gene of Escherichia coli
+K12 and properties of mutants.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Ferric-coprogen receptor FhuE of Escherichia coli: processing and
+sequence common to all TonB-dependent outer membrane receptor
+proteins.";
+-!- FUNCTION: Required for the uptake of Fe(3+) via coprogen,
+    ferrioxamine B, and rhodotorulic acid.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- INDUCTION: For induction, the tonB and the exbB proteins have to
+    be active.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+Complete proteome; Direct protein sequencing; Ion transport; Iron;
+Iron transport; Membrane; Outer membrane; Receptor; Signal; TonB box;
+Transport.
+TMZERO

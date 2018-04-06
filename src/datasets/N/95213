@@ -1,0 +1,33 @@
+AC   Q15345; Q71RA8; Q9BSM0;
+Leucine-rich repeat-containing protein 41 (Protein Muf1).
+"Large-scale cDNA transfection screening for genes related to cancer
+development and progression.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Muf1, a novel elongin BC-interacting leucine-rich repeat protein that
+can assemble with Cul5 and Rbx1 to reconstitute a ubiquitin ligase.";
+-!- SUBUNIT: Part of a E3 ubiquitin ligase complex with elongin BC
+    complex (TCEB1 and TCEB2), RBX1 and CUL5.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q15345-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q15345-2; Sequence=VSP_009236, VSP_009237;
+    Name=3;
+      IsoId=Q15345-3; Sequence=VSP_009234, VSP_009235;
+      Note=No experimental confirmation available;
+-!- DOMAIN: The elongin BC complex binding domain is also known as BC-
+    box with the consensus [APST]-L-x(3)-C-x(3)-[AILV].
+-!- SIMILARITY: Contains 7 LRR (leucine-rich) repeats.
+-!- CAUTION: Ref.1 sequence differs from that shown due to frameshifts
+    in positions 34 and 112.
+-!- CAUTION: Ref.2 (CAD97609) sequence differs from that shown due to
+    frameshifts in positions 112 and 164.
+-!- CAUTION: The N-terminus was determined according to experiments in
+    the mouse.
+Alternative splicing; Leucine-rich repeat; Repeat;
+Ubl conjugation pathway.
+TMZERO

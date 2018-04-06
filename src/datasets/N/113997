@@ -1,0 +1,13 @@
+AC   Q4FPR9;
+Transcriptional repressor nrdR.
+"Complete sequence of Psychrobacter arcticum 273-4.";
+-!- FUNCTION: Negatively regulates transcription of bacterial
+    ribonucleotide reductase nrd genes and operons. Repression of nrd
+    genes and operons seems to be direct and acts by binding specific
+    sequences (NrdR-boxes) in the promoter region (By similarity).
+-!- SIMILARITY: Belongs to the nrdR family.
+-!- SIMILARITY: Contains 1 ATP-cone domain.
+ GO:0016564; F:transcriptional repressor activity; IEA:HAMAP.
+ATP-binding; Complete proteome; DNA-binding; Nucleotide-binding;
+Repressor; Transcription; Transcription regulation.
+TMZERO

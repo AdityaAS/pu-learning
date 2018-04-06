@@ -1,0 +1,22 @@
+AC   P80020;
+Gastrotropin (GT) (Ileal lipid-binding protein) (ILBP) (Intestinal 15
+kDa protein) (I-15P) (14 kDa bile acid-binding protein) (I-BABP).
+"Cloning of a cDNA encoding rat intestinal 15 kDa protein and its
+tissue distribution.";
+"Molecular cloning, tissue distribution, and expression of a 14-kDa
+bile acid-binding protein from rat ileal cytosol.";
+"Primary structure of a 15-kDa protein from rat intestinal epithelium.
+Sequence similarity to fatty-acid-binding proteins.";
+"Identification of the 14 kDa bile acid transport protein of rat ileal
+cytosol as gastrotropin.";
+-!- FUNCTION: Ileal protein which stimulates gastric acid and
+    pepsinogen secretion. Seems to be able to bind to bile salts and
+    bilirubins.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the fatty-acid binding protein (FABP)
+    family.
+ GO:0005829; C:cytosol; IDA:RGD.
+ GO:0005504; F:fatty acid binding; IDA:RGD.
+ GO:0008202; P:steroid metabolism; IEP:RGD.
+Acetylation; Direct protein sequencing; Lipid-binding; Transport.
+TMZERO

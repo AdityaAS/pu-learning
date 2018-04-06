@@ -1,0 +1,83 @@
+AC   O15259; O14837;
+Nephrocystin-1 (Juvenile nephronophthisis 1 protein).
+"A novel gene that encodes a protein with a putative src homology 3
+domain is a candidate gene for familial juvenile nephronophthisis.";
+"A novel gene encoding an SH3 domain protein is mutated in
+nephronophthisis type 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Mutations in INVS encoding inversin cause nephronophthisis type 2,
+linking renal cystic disease to the function of primary cilia and
+left-right axis determination.";
+"Mutations in a novel gene, NPHP3, cause adolescent nephronophthisis,
+tapeto-retinal degeneration and hepatic fibrosis.";
+"Children with ocular motor apraxia type Cogan carry deletions in the
+gene (NPHP1) for juvenile nephronophthisis.";
+"The NPHP1 gene deletion associated with juvenile nephronophthisis is
+present in a subset of individuals with Joubert syndrome.";
+-!- FUNCTION: Together with Cas it may play a role in the control of
+    epithelial cell polarity. Seems to help to recruit protein
+    tyrosine kinase 2 beta (PTK2B) to cell matrix adhesions, thereby
+    initiating phosphorylation of PTK2B and PTK2B-dependent signaling
+    (By similarity).
+-!- SUBUNIT: Interacts with Crk-associated substrate (Cas), NPHP4,
+    PTK2B and tensin. Interacts with INVS and NPHP3.
+-!- SUBCELLULAR LOCATION: Cell junction; adherens junction (By
+    similarity). Note=Localizes at or near the cell-cell adherens
+    junctions (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=NPHP1;
+      IsoId=O15259-1; Sequence=Displayed;
+    Name=2; Synonyms=NPHP1-8A;
+      IsoId=O15259-2; Sequence=VSP_003424;
+    Name=3;
+      IsoId=O15259-3; Sequence=VSP_010073, VSP_010074;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Widespread expression, with highest levels in
+    pituitary gland, spinal cord, thyroid gland, testis, skeletal
+    muscle, lymph node and trachea. Weakly expressed in heart, kidney
+    and pancreas.
+-!- DOMAIN: The SH3 domain mediates the stable interaction with Cas
+    (By similarity).
+-!- DISEASE: Defects in NPHP1 are the cause of familial juvenile
+    nephronophthisis 1 (NPHP1) [MIM:256100]. NPHP1 is an autosomal
+    recessive inherited disease characterized by anemia, polyuria,
+    polydipsia, isosthenuria and death in uremia. Symmetrical
+    destruction of the kidneys involving both tubules and glomeruli
+    occurs. The underlying pathology is a chronic tubulo-interstitial
+    nephropathy with characteristic tubular basement membrane
+    thickening and medullary cyst formation. Associations with
+    extrarenal symptoms, especially ocular lesions, are frequent. The
+    age at death ranges from about 4 to 15 years.
+-!- DISEASE: Defects in NPHP1 are the cause of Senior-Loken syndrome 1
+    (SLSN1) [MIM:266900]. Senior-Loken syndrome (SLSN) is also known
+    as juvenile nephronophthisis with Leber amaurosis. It is an
+    autosomal recessive renal-retinal disorder characterized by
+    progressive wasting of the filtering unit of the kidney, with or
+    without medullary cystic renal disease, and progressive eye
+    disease. Typically this disorder becomes apparent during the first
+    year of life.
+-!- DISEASE: Defects in NPHP1 are the cause of Joubert syndrome 4
+    (JBTS4) [MIM:609583]. Joubert syndrome is an autosomal recessive
+    multisystem disease characterized by cerebellar vermis hypoplasia
+    with prominent superior cerebellar peduncles (the "molar tooth
+    sign" on axial magnetic resonance imaging), mental retardation,
+    hypotonia, irregular breathing pattern, and eye-movement
+    abnormalities. Some individuals have retinal dystrophy and/or
+    progressive renal failure characterized by nephronophthisis.
+-!- SIMILARITY: Belongs to the nephrocystin-1 family.
+-!- SIMILARITY: Contains 1 SH3 domain.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=NPHP1".
+ GO:0016020; C:membrane; NAS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0005198; F:structural molecule activity; NAS:UniProtKB.
+ GO:0030036; P:actin cytoskeleton organization and biogenesis; NAS:UniProtKB.
+ GO:0016337; P:cell-cell adhesion; NAS:UniProtKB.
+ GO:0007588; P:excretion; TAS:ProtInc.
+ GO:0007165; P:signal transduction; NAS:UniProtKB.
+ GO:0007632; P:visual behavior; NAS:UniProtKB.
+3D-structure; Alternative splicing; Coiled coil; Disease mutation;
+SH3 domain.
+TMZERO

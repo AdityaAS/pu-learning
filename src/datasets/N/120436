@@ -1,0 +1,17 @@
+AC   P25072;
+Phospholipase A2 isozyme 1 (EC 3.1.1.4) (Phosphatidylcholine 2-
+acylhydrolase) (Fragment).
+"Purification and characterization of a phospholipase A2 from the
+venom of the coral snake, Micrurus fulvius microgalbineus (Brown and
+Smith).";
+-!- FUNCTION: PA2 catalyzes the calcium-dependent hydrolysis of the 2-
+    acyl groups in 3-sn-phosphoglycerides.
+-!- CATALYTIC ACTIVITY: Phosphatidylcholine + H(2)O = 1-
+    acylglycerophosphocholine + a carboxylate.
+-!- COFACTOR: Binds 1 calcium ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the phospholipase A2 family. Group I
+    subfamily.
+ GO:0004623; F:phospholipase A2 activity; IEA:EC.
+Calcium; Direct protein sequencing; Hydrolase; Lipid degradation.
+TMZERO

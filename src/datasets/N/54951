@@ -1,0 +1,17 @@
+AC   P0C1J6;
+FK506-binding protein 4 (EC 5.2.1.8) (Peptidyl-prolyl cis-trans
+isomerase) (PPIase) (Rotamase).
+"The genome sequence of Rhizopus oryzae RA 99-880.";
+-!- FUNCTION: PPIases accelerate the folding of proteins. It catalyzes
+    the cis-trans isomerization of proline imidic peptide bonds in
+    oligopeptides (By similarity).
+-!- CATALYTIC ACTIVITY: Peptidylproline (omega=180) = peptidylproline
+    (omega=0).
+-!- ENZYME REGULATION: Inhibited by both FK506 and rapamycin (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus (By similarity).
+-!- SIMILARITY: Belongs to the FKBP-type PPIase family. FKBP3/4
+    subfamily.
+-!- SIMILARITY: Contains 1 PPIase FKBP-type domain.
+Isomerase; Nuclear protein; Rotamase.
+TMZERO

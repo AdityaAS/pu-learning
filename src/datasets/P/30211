@@ -1,0 +1,14 @@
+AC   P12377;
+Copper resistance protein D.
+"Nucleotide sequence and organization of copper resistance genes from
+Pseudomonas syringae pv. tomato.";
+"A two-component regulatory system required for copper-inducible
+expression of the copper resistance operon of Pseudomonas syringae.";
+-!- FUNCTION: Exact function not known. Involved in copper resistance.
+    Appears to be involved in copper uptake in conjunction with copC.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- INDUCTION: By copper.
+-!- SIMILARITY: Belongs to the copD family.
+Copper; Inner membrane; Membrane; Plasmid; Transmembrane.
+TMEIGHT

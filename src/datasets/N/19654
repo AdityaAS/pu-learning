@@ -1,0 +1,30 @@
+AC   O08529; O35518; O54843;
+Calpain-2 catalytic subunit precursor (EC 3.4.22.53) (Calpain-2 large
+subunit) (Calcium-activated neutral proteinase 2) (CANP 2) (Calpain M-
+type) (M-calpain) (Millimolar-calpain) (80 kDa M-calpain subunit)
+(CALP80).
+"A new subfamily of vertebrate calpains lacking a calmodulin-like
+domain: implications for calpain regulation and evolution.";
+"Cloning of m-calpain 80 kD subunit from the axonal degeneration-
+resistant WLD(S) mouse mutant.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Calcium-regulated non-lysosomal thiol-protease which
+    catalyze limited proteolysis of substrates involved in
+    cytoskeletal remodelling and signal transduction (By similarity).
+-!- CATALYTIC ACTIVITY: Broad endopeptidase specificity.
+-!- COFACTOR: Binds 3 calcium ions.
+-!- ENZYME REGULATION: Activated by 200-1000 micromolar concentrations
+    of calcium and inhibited by calpastatin.
+-!- SUBUNIT: Forms a heterodimer with a small (regulatory) subunit
+    (CAPNS1).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Cell membrane (By
+    similarity). Note=Translocates to the plasma membrane upon Ca(2+)
+    binding (By similarity).
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- SIMILARITY: Belongs to the peptidase C2 family.
+-!- SIMILARITY: Contains 1 calpain catalytic domain.
+-!- SIMILARITY: Contains 2 EF-hand domains.
+ GO:0004198; F:calpain activity; TAS:MGI.
+Calcium; Hydrolase; Protease; Repeat; Thiol protease.
+TMZERO

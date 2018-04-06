@@ -1,0 +1,28 @@
+AC   P26379;
+Fructose-specific phosphotransferase enzyme IIA component (EC 2.7.1.-)
+(PTS system fructose-specific EIIA component) (EIIA-Fru) (p16).
+"Levanase operon of Bacillus subtilis includes a fructose-specific
+phosphotransferase system regulating the expression of the operon.";
+"A 23911 bp region of the Bacillus subtilis genome comprising genes
+located upstream and downstream of the lev operon.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in fructose transport.
+-!- FUNCTION: LevD and levE act as negative regulators of the levanase
+    operon. They may be involved in a PTS-mediated phosphorylation of
+    a regulator.
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-4 domain.
+Complete proteome; Kinase; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport.
+TMZERO

@@ -1,0 +1,16 @@
+AC   P25014;
+Preprotein translocase secY subunit.
+"The cyanelle S10 spc ribosomal protein gene operon from Cyanophora
+paradoxa.";
+"Nucleotide sequence of the cyanelle DNA from Cyanophora paradoxa.";
+"The complete sequence of the cyanelle genome of Cyanophora paradoxa:
+the genetic complexity of a primitive plastid.";
+-!- FUNCTION: Involved in protein export. Probably interacts with
+    other proteins to allow the translocation of proteins across the
+    cyanelle endoplasmic reticulum (CER) membranes.
+-!- SUBCELLULAR LOCATION: Plastid; cyanelle; cyanelle membrane; multi-
+    pass membrane protein.
+-!- SIMILARITY: Belongs to the secY/SEC61-alpha family.
+Cyanelle; Membrane; Plastid; Protein transport; Translocation;
+Transmembrane; Transport.
+TMTEN

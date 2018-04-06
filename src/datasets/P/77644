@@ -1,0 +1,11 @@
+AC   Q02028;
+Stromal 70 kDa heat shock-related protein, chloroplast precursor.
+"Isolation and characterization of a cDNA clone encoding the major
+Hsp70 of the pea chloroplastic stroma.";
+-!- FUNCTION: Interacts with newly imported chloroplast proteins to
+    assist in their maturation.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast stroma.
+-!- SIMILARITY: Belongs to the heat shock protein 70 family.
+ATP-binding; Chloroplast; Heat shock; Nucleotide-binding; Plastid;
+Transit peptide.
+TMZERO

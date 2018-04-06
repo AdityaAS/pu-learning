@@ -1,0 +1,24 @@
+AC   Q99271;
+Na(+)/H(+) antiporter.
+"Characterization of the NHA1 gene encoding a Na+/H+-antiporter of the
+yeast Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Sodium export from cell, takes up external protons in
+    exchange for internal sodium ions (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Present with 1480 molecules/cell.
+-!- SIMILARITY: Belongs to the fungal Na(+)/H(+) exchanger family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0015491; F:cation:cation antiporter activity; IMP:SGD.
+ GO:0015385; F:sodium:hydrogen antiporter activity; IDA:SGD.
+ GO:0030007; P:potassium ion homeostasis; IMP:SGD.
+ GO:0006970; P:response to osmotic stress; IMP:SGD.
+Antiport; Complete proteome; Ion transport; Membrane; Phosphorylation;
+Sodium; Sodium transport; Transmembrane; Transport.
+TMTWELVE

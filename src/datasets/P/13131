@@ -1,0 +1,19 @@
+AC   P36640;
+Magnesium-transporting ATPase, P-type 1 (EC 3.6.3.2) (Mg(2+) transport
+ATPase, P-type 1).
+"Magnesium transport in Salmonella typhimurium: mgtA encodes a P-type
+ATPase and is regulated by Mg2+ in a manner similar to that of the
+mgtB P-type ATPase.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Mediates magnesium influx to the cytosol.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Mg(2+)(Out) = ADP + phosphate +
+    Mg(2+)(In).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIIB subfamily.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Magnesium;
+Membrane; Metal-binding; Nucleotide-binding; Phosphorylation;
+Transmembrane.
+TMTEN

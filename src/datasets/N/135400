@@ -1,0 +1,16 @@
+AC   P99092; Q99W23;
+Phosphate acetyltransferase (EC 2.3.1.8) (Phosphotransacetylase).
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+"Correlation of proteomic and transcriptomic profiles of
+Staphylococcus aureus during the post-exponential phase of growth.";
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + phosphate = CoA + acetyl
+    phosphate.
+-!- PATHWAY: Metabolic intermediate biosynthesis; acetyl-CoA
+    biosynthesis; acetyl-CoA from acetate: step 2 [final step].
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the phosphate acetyltransferase and
+    butyryltransferase family.
+ GO:0008959; F:phosphate acetyltransferase activity; IEA:EC.
+Acyltransferase; Complete proteome; Transferase.
+TMZERO

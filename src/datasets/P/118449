@@ -1,0 +1,19 @@
+AC   P08005;
+Oligopeptide transport system permease protein oppB.
+"Molecular characterization of the oligopeptide permease of Salmonella
+typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Membrane topology of the integral membrane components, OppB and OppC,
+of the oligopeptide permease of Salmonella typhimurium.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for oligopeptides; probably responsible for the translocation of
+    the substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. OppBC subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Complete proteome; Inner membrane; Membrane; Peptide transport;
+Protein transport; Transmembrane; Transport.
+TMSIX

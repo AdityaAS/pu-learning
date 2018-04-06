@@ -1,0 +1,24 @@
+AC   P25548;
+Multiple sugar-binding periplasmic receptor chvE precursor.
+"Genetic evidence for an interaction between the VirA sensor protein
+and the ChvE sugar-binding protein of Agrobacterium.";
+"A chromosomal Agrobacterium tumefaciens gene required for effective
+plant signal transduction.";
+"The genome of the natural genetic engineer Agrobacterium tumefaciens
+C58.";
+"Genome sequence of the plant pathogen and biotechnology agent
+Agrobacterium tumefaciens C58.";
+-!- FUNCTION: Required for effective transcriptional induction of the
+    vir genes by monosaccharides in response to plant signals and for
+    normal growth and chemotaxis towards certain sugars. Function as a
+    periplasmic multiple sugar-binding receptor protein. It does not
+    interact with a transport system.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- INDUCTION: By L-arabinose, D-galactose, D-fucose in the presence
+    of gbpR (galactose-binding protein regulator).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 2
+    family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to a
+    frameshift in position 212.
+Chemotaxis; Complete proteome; Crown gall tumor; Periplasmic; Signal.
+TMZERO

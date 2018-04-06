@@ -1,0 +1,30 @@
+AC   P33310;
+ATP-dependent permease MDL1, mitochondrial precursor (ABC transporter
+MDL1) (Multidrug resistance-like protein 1).
+"Mapping and sequencing of two yeast genes belonging to the ATP-
+binding cassette superfamily.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Role of the ABC transporter Mdl1 in peptide export from
+mitochondria.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"The proteome of Saccharomyces cerevisiae mitochondria.";
+-!- FUNCTION: Mediates export of peptides with molecular masses of
+    2100 to 600 daltons generated upon proteolysis of mitochondrial
+    inner membrane proteins.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 1040 molecules/cell.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- CAUTION: Ref.1 sequence differs from that shown due to frameshifts
+    in positions 417 and 433.
+ GO:0005743; C:mitochondrial inner membrane; IDA:SGD.
+ GO:0016887; F:ATPase activity; IDA:SGD.
+ GO:0015440; F:peptide-transporting ATPase activity; IMP:SGD.
+ GO:0006857; P:oligopeptide transport; IMP:SGD.
+ATP-binding; Complete proteome; Inner membrane; Membrane;
+Mitochondrion; Nucleotide-binding; Transit peptide; Transmembrane;
+Transport.
+TMFIVE

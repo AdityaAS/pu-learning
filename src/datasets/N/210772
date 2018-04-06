@@ -1,0 +1,9 @@
+AC   Q319G0;
+UPF0078 membrane protein PMT9312_1425.
+"Complete sequence of Prochlorococcus marinus str. MIT 9312.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the UPF0078 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMSIX

@@ -1,0 +1,26 @@
+AC   P76773; Q2M8H2;
+Porin ompL precursor.
+"Analysis of the Escherichia coli genome. III. DNA sequence of the
+region from 87.2 to 89.2 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Protein folding in the periplasm in the absence of primary oxidant
+DsbA: modulation of redox potential in periplasmic space via OmpL
+porin.";
+"The OmpL porin does not modulate redox potential in the periplasmic
+space of Escherichia coli.";
+-!- FUNCTION: Outer membrane channel protein that allows an efficient
+    diffusion of low-molecular-weight solutes such as small sugars and
+    tetraglycine. However, the specific substrate recognized by the
+    ompL channel is unknown.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: Belongs to the oligogalacturonate-specific porin kdgM
+    (TC 1.B.35) family. OmpL subfamily.
+-!- CAUTION: In contrast to Ref.4, Ref.5 demonstrates that ompL
+    actually plays no perceptible role in modulating redox potential
+    in the periplasm of E.coli.
+Complete proteome; Direct protein sequencing; Ion transport; Membrane;
+Outer membrane; Porin; Signal; Sugar transport; Transmembrane;
+Transport.
+TMZERO

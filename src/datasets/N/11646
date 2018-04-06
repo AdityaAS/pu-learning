@@ -1,0 +1,27 @@
+AC   P19359;
+Achaete-scute homolog 1.
+"Two rat homologues of Drosophila achaete-scute specifically expressed
+in neuronal precursors.";
+-!- FUNCTION: May play a role at early stages of development of
+    specific neural lineages in most regions of the CNS, and of
+    several lineages in the PNS. Essential for the generation of
+    olfactory and autonomic neurons. Activates transcription by
+    binding to the E box (5'-CANNTG-3').
+-!- SUBUNIT: Efficient DNA binding requires dimerization with another
+    bHLH protein. Forms a heterodimer with TCF3.
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- TISSUE SPECIFICITY: Developing CNS and PNS at embryonic and post-
+    natal stages.
+-!- DEVELOPMENTAL STAGE: It is first observed after neurulation, in
+    10.5 day old (E10.5) rat embryos, and is restricted to subsets of
+    neuroepithelial cells in the spinal cord and the brain, between
+    E10.5 and E13.5. In the periphery, its expression is restricted to
+    some lineages of neural crest-derived cells, namely in sympathetic
+    and enteric neural precursors. In the PNS its expression is
+    extinguished at or before differentiation.
+-!- SIMILARITY: Contains 1 basic helix-loop-helix (bHLH) domain.
+ GO:0007399; P:nervous system development; IDA:RGD.
+Activator; Developmental protein; Differentiation; DNA-binding;
+Neurogenesis; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

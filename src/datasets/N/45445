@@ -1,0 +1,12 @@
+AC   Q8Z5B2;
+tRNA-dihydrouridine synthase C (EC 1.-.-.-).
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: Catalyzes the synthesis of dihydrouridine, a modified
+    base found in the D-loop of most tRNAs (By similarity).
+-!- COFACTOR: FAD (By similarity).
+-!- SIMILARITY: Belongs to the dus family. DusC subfamily.
+Complete proteome; FAD; Flavoprotein; Oxidoreductase; tRNA processing.
+TMZERO

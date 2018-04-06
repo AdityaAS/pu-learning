@@ -1,0 +1,21 @@
+AC   P15341;
+Sperm protamine P1 (Cysteine-rich protamine) (Protamine ST1).
+"Sequence of a horse protamine-1 (PRM-1) gene and its flanking
+regions.";
+"Isolation and characterization of two protamines St1 and St2 from
+stallion spermatozoa, and amino-acid sequence of the major protamine
+St1.";
+"The major protamine from stallion sperm. Isolation and amino-acid
+sequence.";
+-!- FUNCTION: Protamines substitute for histones in the chromatin of
+    sperm during the haploid phase of spermatogenesis. They compact
+    sperm DNA into a highly condensed, stable and inactive complex.
+-!- SUBUNIT: Cross-linked by interchain disulfide bonds around the
+    DNA-helix.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Testis.
+-!- SIMILARITY: Belongs to the protamine P1 family.
+Chromosomal protein; Developmental protein; Differentiation;
+Direct protein sequencing; DNA condensation; DNA-binding;
+Nuclear protein; Nucleosome core; Spermatogenesis.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P38971;
+Basic amino-acid permease.
+"APL1, a yeast gene encoding a putative permease for basic amino
+acids.";
+"The sequence of a 24,152 bp segment from the left arm of chromosome
+XIV from Saccharomyces cerevisiae between the BNI1 and the POL2
+genes.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Substrate specificity and gene expression of the amino-acid permeases
+in Saccharomyces cerevisiae.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High-affinity permease for basic amino acids.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0015174; F:basic amino acid transporter activity; IDA:SGD.
+ GO:0015802; P:basic amino acid transport; IDA:SGD.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTWELVE

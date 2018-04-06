@@ -1,0 +1,20 @@
+AC   O77642;
+14-3-3 protein sigma (Stratifin).
+"Identification of differentially expressed genes during a wool
+follicle growth cycle induced by prolactin.";
+-!- FUNCTION: Adapter protein implicated in the regulation of a large
+    spectrum of both general and specialized signaling pathway. Binds
+    to a large number of partners, usually by recognition of a
+    phosphoserine or phosphothreonine motif. Binding generally results
+    in the modulation of the activity of the binding partner.
+-!- SUBUNIT: Homodimer. Found in a complex with XPO7, EIF4A1, ARHGAP1,
+    VPS26A, VPS29, VPS35 and SFN (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Note=Cytoplasmic
+    or may be secreted by a non-classical secretory pathway (By
+    similarity).
+-!- MISCELLANEOUS: 14-3-3 proteins have been shown to be PKC
+    activators, but this effect could be non-specific and only due to
+    the acidic nature of the protein.
+-!- SIMILARITY: Belongs to the 14-3-3 family.
+Phosphorylation.
+TMZERO

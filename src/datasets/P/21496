@@ -1,0 +1,14 @@
+AC   Q47084;
+Achromobactin-binding periplasmic protein precursor.
+"Differential expression of two siderophore-dependent iron-acquisition
+pathways in Erwinia chrysanthemi 3937: characterization of a novel
+ferrisiderophore permease of the ABC transporter family.";
+-!- FUNCTION: Binds citrate-or chloride-dependent Fe(3+); part of the
+    binding-protein-dependent transport system cbrABCD for uptake of
+    the siderophore achromobactin.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 8
+    family.
+-!- SIMILARITY: Contains 1 Fe/B12 periplasmic-binding domain.
+Ion transport; Iron; Iron transport; Periplasmic; Signal; Transport.
+TMZERO

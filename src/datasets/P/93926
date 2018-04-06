@@ -1,0 +1,24 @@
+AC   P0AEX7; P08340; Q2M7C0;
+High-affinity branched-chain amino acid transport system permease
+protein livH (LIV-I protein H).
+"Cloning and characterization of livH, the structural gene encoding a
+component of the leucine transport system in Escherichia coli.";
+"Nucleotide sequence and genetic characterization reveal six essential
+genes for the LIV-I and LS transport systems of Escherichia coli.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for branched-chain amino acids. Probably responsible for the
+    translocation of the substrates across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. LivHM subfamily.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMEIGHT

@@ -1,0 +1,15 @@
+AC   O52619;
+Nodulation protein J.
+"Nucleotide sequence of nodIJ region of Rhizobium meliloti pSymA.";
+"Nucleotide sequence and predicted functions of the entire
+Sinorhizobium meliloti pSymA megaplasmid.";
+-!- FUNCTION: Forms, with nodI, a membrane transport complex involved
+    in the nodulation process. It probably exports a modified beta-
+    1,4-linked N-acetylglucosamine oligosaccharide.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC-2 integral membrane protein family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-2 domain.
+Complete proteome; Inner membrane; Membrane; Nodulation; Plasmid;
+Transmembrane; Transport.
+TMSEVEN

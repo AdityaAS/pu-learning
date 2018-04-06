@@ -1,0 +1,22 @@
+AC   Q8XGW7; Q7AM03;
+Small heat shock protein ibpA (16 kDa heat shock protein A).
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+-!- FUNCTION: Associates with aggregated proteins, together with ibpB,
+    to stabilize and protect them from irreversible denaturation and
+    extensive proteolysis during heat shock and oxidative stress.
+    Aggregated proteins bound to the ibpAB complex are more
+    efficiently refolded and reactivated by the ATP-dependent
+    chaperone systems clpB and dnaK/dnaJ/grpE. Its activity is ATP-
+    independent (By similarity).
+-!- SUBUNIT: Monomer. Forms homomultimers of about 100-150 subunits at
+    optimal growth temperatures. Conformation changes to monomers at
+    high temperatures or high ionic concentrations (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the small heat shock protein (HSP20)
+    family.
+ GO:0050821; P:protein stabilization; IEA:HAMAP.
+Chaperone; Complete proteome; Heat shock.
+TMZERO

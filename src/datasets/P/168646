@@ -1,0 +1,18 @@
+AC   Q07782;
+Solute carrier family 13 member 1 (Renal sodium/sulfate cotransporter)
+(Na(+)/sulfate cotransporter) (NaSi-1).
+"Expression cloning of rat renal Na+/SO4(2-) cotransport.";
+"cDNA cloning of a rat small-intestinal Na+/SO4(2-) cotransporter.";
+-!- FUNCTION: Sodium/sulfate cotransporter that mediates sulfate
+    reabsorption in the kidney.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Kidney and intestine.
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    NADC subfamily.
+ GO:0005903; C:brush border; IPI:RGD.
+ GO:0015382; F:sodium:sulfate symporter activity; IDA:RGD.
+ GO:0006814; P:sodium ion transport; IDA:RGD.
+ GO:0008272; P:sulfate transport; IDA:RGD.
+Glycoprotein; Ion transport; Membrane; Sodium; Sodium transport;
+Sulfate transport; Symport; Transmembrane; Transport.
+TMTHIRTEEN

@@ -1,0 +1,22 @@
+AC   P28075;
+Proteasome subunit beta type 5 precursor (EC 3.4.25.1) (Proteasome
+epsilon chain) (Macropain epsilon chain) (Multicatalytic endopeptidase
+complex epsilon chain) (Proteasome subunit X) (Proteasome chain 6).
+"N-terminal sequence similarities between components of the
+multicatalytic proteinase complex.";
+-!- FUNCTION: The proteasome is a multicatalytic proteinase complex
+    which is characterized by its ability to cleave peptides with Arg,
+    Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or
+    slightly basic pH. The proteasome has an ATP-dependent proteolytic
+    activity.
+-!- CATALYTIC ACTIVITY: Cleavage of peptide bonds with very broad
+    specificity.
+-!- SUBUNIT: The proteasome is composed of at least 15 non identical
+    subunits which form a highly ordered ring-shaped structure. This
+    subunit can be displaced by the equivalent immune-specific subunit
+    PSMB8. Directly interacts with POMP (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- SIMILARITY: Belongs to the peptidase T1B family.
+Direct protein sequencing; Hydrolase; Protease; Proteasome;
+Threonine protease; Zymogen.
+TMZERO

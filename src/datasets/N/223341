@@ -1,0 +1,11 @@
+AC   O14232;
+Putative helicase C6F12.16c (EC 3.6.1.-).
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the helicase family. SKI2 subfamily.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ATP-binding; Complete proteome; Helicase; Hydrolase;
+Hypothetical protein; Nuclear protein; Nucleotide-binding.
+TMZERO

@@ -1,0 +1,66 @@
+AC   P0AA04; P05525; P07006;
+Phosphocarrier protein HPr (Histidine-containing protein).
+"The ptsH, ptsI, and crr genes of the Escherichia coli
+phosphoenolpyruvate-dependent phosphotransferase system: a complex
+operon with several modes of transcription.";
+"Analysis of the ptsH-ptsI-crr region in Escherichia coli K-12:
+nucleotide sequence of the ptsH gene.";
+"Sugar transport by the bacterial phosphotransferase system. Molecular
+cloning and structural analysis of the Escherichia coli ptsH, ptsI,
+and crr genes.";
+"DNA sequences of the cysK regions of Salmonella typhimurium and
+Escherichia coli and linkage of the cysK regions to ptsH.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Small genes/gene-products in Escherichia coli K-12.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Effect of phosphorylation on hydrogen-bonding interactions of the
+active site histidine of the phosphocarrier protein HPr of the
+phosphoenolpyruvate-dependent phosphotransferase system determined by
+15N NMR spectroscopy.";
+"The 2.0-A resolution structure of Escherichia coli histidine-
+containing phosphocarrier protein HPr. A redetermination.";
+"Mutation of serine-46 to aspartate in the histidine-containing
+protein of Escherichia coli mimics the inactivation by phosphorylation
+of serine-46 in HPrs from Gram-positive bacteria.";
+"Two-dimensional 1H NMR studies of histidine-containing protein from
+Escherichia coli. 3. Secondary and tertiary structure as determined by
+NMR.";
+"Reexamination of the secondary and tertiary structure of histidine-
+containing protein from Escherichia coli by homonuclear and
+heteronuclear NMR spectroscopy.";
+"Determination of the three-dimensional solution structure of the
+histidine-containing phosphocarrier protein HPr from Escherichia coli
+using multidimensional NMR spectroscopy.";
+"The high-resolution structure of the histidine-containing
+phosphocarrier protein HPr from Escherichia coli determined by
+restrained molecular dynamics from nuclear magnetic resonance nuclear
+Overhauser effect data.";
+"High-resolution structure of the phosphorylated form of the
+histidine-containing phosphocarrier protein HPr from Escherichia coli
+determined by restrained molecular dynamics from NMR-NOE data.";
+"Phosphorylation-induced torsion-angle strain in the active center of
+HPr, detected by NMR and restrained molecular dynamics refinement.";
+"Solution structure of the 40,000 Mr phosphoryl transfer complex
+between the N-terminal domain of enzyme I and HPr.";
+-!- FUNCTION: This is a component of the phosphoenolpyruvate-dependent
+    sugar phosphotransferase system (PTS), a major carbohydrate active
+    -transport system. The phosphoryl group from phosphoenolpyruvate
+    (PEP) is transferred to the phosphoryl carrier protein HPr by
+    enzyme I. Phospho-HPr then transfers it to the permease (enzymes
+    II/III). HPr is common to all PTS.
+-!- INTERACTION:
+    P69783:crr; NbExp=1; IntAct=EBI-902853, EBI-369856;
+    P08839:ptsI; NbExp=1; IntAct=EBI-902853, EBI-551533;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the HPr family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Complete proteome; Direct protein sequencing;
+Phosphorylation; Phosphotransferase system; Sugar transport;
+Transport.
+TMZERO

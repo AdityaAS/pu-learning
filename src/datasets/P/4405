@@ -1,0 +1,31 @@
+AC   P05141; O43350;
+ADP/ATP translocase 2 (Adenine nucleotide translocator 2) (ANT 2)
+(ADP,ATP carrier protein 2) (Solute carrier family 25 member 5)
+(ADP,ATP carrier protein, fibroblast isoform).
+"The human fibroblast adenine nucleotide translocator gene. Molecular
+cloning and sequence.";
+"Molecular cloning of a cDNA for a human ADP/ATP carrier which is
+growth-regulated.";
+"The DNA sequence of the human X chromosome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Two distinct genes for ADP/ATP translocase are expressed at the mRNA
+level in adult human liver.";
+"Mitochondrial membrane permeabilization by HIV-1 Vpr.";
+-!- FUNCTION: Catalyzes the exchange of ADP and ATP across the
+    mitochondrial inner membrane.
+-!- SUBUNIT: Homodimer. Interaacts with HIV-1 vpr.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: The transmembrane helices are not perpendicular to
+    the plane of the membrane, but cross the membrane at an angle.
+    Odd-numbered transmembrane helices exhibit a sharp kink, due to
+    the presence of a conserved proline residue (By similarity).
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0015207; F:adenine transporter activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Acetylation; Direct protein sequencing; Inner membrane; Membrane;
+Mitochondrion; Repeat; Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,48 @@
+AC   P54360; Q24176; Q8SZ37; Q9V8E3;
+Protein four-jointed.
+"four-jointed is required for intermediate growth in the proximal-
+distal axis in Drosophila.";
+"Positional information along the dorsal-ventral axis of the
+Drosophila eye: graded expression of the four-jointed gene.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"The four-jointed gene is required in the Drosophila eye for
+ommatidial polarity specification.";
+"Four-jointed interacts with dachs, abelson and enabled and feeds back
+onto the Notch pathway to affect growth and segmentation in the
+Drosophila leg.";
+"Cleavage and secretion is not required for four-jointed function in
+Drosophila patterning.";
+-!- FUNCTION: Required for intermediate growth in the proximal-distal
+    axis. Acts in ommatidial polarity determination as a secondary
+    signal downstream of Notch, JAK/STAT and wingless. Also necessary
+    for the initiation, up-regulation or maintenance of Notch ligand,
+    Serrate (Ser) expression in legs, thereby participating in a
+    feedback loop with N signaling. Sufficient for joint formation and
+    growth in the leg.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type II membrane protein. Processed form: Secreted
+    protein. Note=Golgi apparatus, in the wing pouch. Also
+    proteolytically cleaved to yield a secreted protein.
+-!- TISSUE SPECIFICITY: In the eye disk, expressed in a gradient ahead
+    of the morphogenetic furrow, high at the equator and low at the
+    poles of the eye. In the leg disk, expressed in concentric rings,
+    possibly corresponding to segmental boundaries. In the wing disk,
+    expression is localized in the wing pouch; low in peripheral
+    regions and high towards the center.
+-!- MISCELLANEOUS: Mutants show reduced growth and altered
+    differentiation only within restricted sectors of the proximal-
+    distal (PD) axis in the leg and wing.
+ GO:0005886; C:plasma membrane; IDA:FlyBase.
+ GO:0007267; P:cell-cell signaling; IDA:FlyBase.
+ GO:0045198; P:establishment of epithelial cell polarity; IMP:FlyBase.
+ GO:0042067; P:establishment of ommatidial polarity (sensu...; TAS:FlyBase.
+ GO:0007446; P:imaginal disc growth; IMP:FlyBase.
+ GO:0016348; P:leg joint morphogenesis (sensu Endopterygota); IMP:FlyBase.
+ GO:0007474; P:wing vein specification; IMP:FlyBase.
+Complete proteome; Glycoprotein; Golgi apparatus; Membrane;
+Notch signaling pathway; Signal-anchor; Transmembrane;
+Wnt signaling pathway.
+TMONE

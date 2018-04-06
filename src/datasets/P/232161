@@ -1,0 +1,11 @@
+AC   P0A9X3; P52648; P76285;
+High-affinity zinc uptake system ATP-binding protein znuC.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Involved in the high-affinity zinc uptake transport
+    system (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Nucleotide-binding; Transport; Zinc.
+TMZERO

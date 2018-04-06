@@ -1,0 +1,20 @@
+AC   O34718; Q797C3;
+Major myo-inositol transporter iolT.
+"Sequence analysis of the groESL-cotA region of the Bacillus subtilis
+genome, containing the restriction/modification system genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Identification of two myo-inositol transporter genes of Bacillus
+subtilis.";
+-!- FUNCTION: Major myo-inositol uptake transporter.
+-!- PATHWAY: Carbohydrate metabolism; myo-inositol degradation.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- INDUCTION: Negatively regulated by iolR. Induced by inositol.
+-!- MISCELLANEOUS: When iolT is inactivated, inositol uptake is almost
+    abolished even though iolF is active.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Membrane; Sugar transport; Transmembrane;
+Transport.
+TMTWELVE

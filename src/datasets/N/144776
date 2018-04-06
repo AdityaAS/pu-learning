@@ -1,0 +1,29 @@
+AC   P34342; Q8MYR0; Q8TA79;
+Ran GTPase-activating protein 2 (Ran nuclear import/export-related
+protein 2) (RanGAP).
+"2.2 Mb of contiguous nucleotide sequence from chromosome III of C.
+elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"The GTPase Ran regulates chromosome positioning and nuclear envelope
+assembly in vivo.";
+-!- FUNCTION: GTPase system comprising ran-1, ran-2 and ran-3 is
+    essential in nucleocytoplasmic trafficking. Ran-2 is a GTPase
+    activator for the nuclear RAS-related regulatory protein Ran,
+    converting it to the putatively inactive GDP-bound state. Required
+    for correct chromosome alignment and segregation on the metaphase
+    plate.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=a;
+      IsoId=P34342-1; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=b;
+      IsoId=P34342-2; Sequence=VSP_014340, VSP_008709;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Contains 9 LRR (leucine-rich) repeats.
+Alternative splicing; Cell cycle; Cell division; Complete proteome;
+GTPase activation; Leucine-rich repeat; Mitosis; Nuclear protein;
+Repeat.
+TMZERO

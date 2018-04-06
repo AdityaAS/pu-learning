@@ -1,0 +1,33 @@
+AC   P07685; O42788; O42789; Q7RVK0;
+Histidine biosynthesis trifunctional protein [Includes:
+Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19); Phosphoribosyl-ATP
+pyrophosphohydrolase (EC 3.6.1.31); Histidinol dehydrogenase
+(EC 1.1.1.23) (HDH)].
+"Cloning and characterization of the multifunctional his-3 gene of
+Neurospora crassa.";
+"DNA sequence of histidine-3 from two Neurospora wild-types.";
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- CATALYTIC ACTIVITY: 1-(5-phosphoribosyl)-AMP + H(2)O = 1-(5-
+    phosphoribosyl)-5-((5-
+    phosphoribosylamino)methylideneamino)imidazole-4-carboxamide.
+-!- CATALYTIC ACTIVITY: 1-(5-phosphoribosyl)-ATP + H(2)O = 1-(5-
+    phosphoribosyl)-AMP + diphosphate.
+-!- CATALYTIC ACTIVITY: L-histidinol + 2 NAD(+) = L-histidine + 2
+    NADH.
+-!- COFACTOR: Binds 1 zinc ion (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 2.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 3.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 9
+    [final step].
+-!- SIMILARITY: In the C-terminal section; belongs to the histidinol
+    dehydrogenase family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to several
+    frameshifts.
+Amino-acid biosynthesis; Histidine biosynthesis; Hydrolase;
+Metal-binding; Multifunctional enzyme; NAD; Oxidoreductase; Zinc.
+TMZERO

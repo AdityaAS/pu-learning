@@ -1,0 +1,17 @@
+AC   P54219;
+Chromaffin granule amine transporter (Vesicular amine transporter 1)
+(VAT1) (Solute carrier family 18 member 1).
+"Distinct pharmacological properties and distribution in neurons and
+endocrine cells of two isoforms of the human vesicular monoamine
+transporter.";
+-!- FUNCTION: Involved in the vesicular transport of biogenic amines.
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; cytoplasmic vesicle
+    membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Vesicular transporter family.
+ GO:0005624; C:membrane fraction; NAS:UniProtKB.
+ GO:0008504; F:monoamine transporter activity; TAS:UniProtKB.
+ GO:0015844; P:monoamine transport; TAS:UniProtKB.
+Glycoprotein; Membrane; Neurotransmitter transport; Polymorphism;
+Transmembrane; Transport.
+TMTWELVE

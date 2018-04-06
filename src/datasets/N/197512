@@ -1,0 +1,10 @@
+AC   Q3T114;
+Ribonuclease UK114 (EC 3.1.-.-).
+-!- FUNCTION: Endoribonuclease responsible for the inhibition of the
+    translation by cleaving mRNA. Inhibits cell-free protein
+    synthesis. Cleaves phosphodiester bonds only in single-stranded
+    RNA (By similarity).
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SIMILARITY: Belongs to the UPF0076 (UK114) family.
+Endonuclease; Hydrolase; Nuclease.
+TMZERO

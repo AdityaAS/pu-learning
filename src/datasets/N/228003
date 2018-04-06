@@ -1,0 +1,23 @@
+AC   P48232;
+Hypothetical 11.5 kDa protein in TOP2-MKT1 intergenic region.
+"The sequence of a 17,933 bp segment of Saccharomyces cerevisiae
+chromosome XIV contains the RHO2, TOP2, MKT1 and END3 genes and five
+new open reading frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+-!- INTERACTION:
+    P53271:COG2; NbExp=1; IntAct=EBI-28775, EBI-16614;
+    P33895:NUF2; NbExp=1; IntAct=EBI-28775, EBI-12377;
+    Q02199:NUP49; NbExp=1; IntAct=EBI-28775, EBI-12315;
+    P47057:SNX4; NbExp=1; IntAct=EBI-28775, EBI-17610;
+    Q92331:VPS5; NbExp=1; IntAct=EBI-28775, EBI-20483;
+    P40003:YEL005C; NbExp=1; IntAct=EBI-28775, EBI-22275;
+    P35727:YKL061W; NbExp=1; IntAct=EBI-28775, EBI-26722;
+-!- MISCELLANEOUS: Present with 195 molecules/cell.
+ GO:0005768; C:endosome; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Hypothetical protein.
+TMZERO

@@ -1,0 +1,12 @@
+AC   P05009;
+Interferon alpha-C precursor.
+"Bovine interferon alpha genes. Structure and expression.";
+"Isolation of bovine IFN-alpha genes and their expression in
+bacteria.";
+-!- FUNCTION: Produced by macrophages, IFN-alpha have antiviral
+    activities. Interferon stimulates the production of two enzymes: a
+    protein kinase and an oligoadenylate synthetase.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the alpha/beta interferon family.
+Antiviral defense; Cytokine; Signal.
+TMZERO

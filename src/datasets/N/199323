@@ -1,0 +1,13 @@
+AC   Q8XXS8;
+Urease gamma subunit (EC 3.5.1.5) (Urea amidohydrolase gamma subunit).
+"Genome sequence of the plant pathogen Ralstonia solanacearum.";
+-!- CATALYTIC ACTIVITY: Urea + H(2)O = CO(2) + 2 NH(3).
+-!- PATHWAY: Nitrogen metabolism; urea degradation; CO(2) and NH(3)
+    from urea (urease route): single step [final step].
+-!- SUBUNIT: Heterotrimer of ureA (gamma), ureB (beta) and ureC
+    (alpha) subunits. Three heterotrimers associate to form the active
+    enzyme (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the urease gamma subunit family.
+Complete proteome; Hydrolase.
+TMZERO

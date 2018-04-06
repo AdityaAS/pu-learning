@@ -1,0 +1,19 @@
+AC   Q23623;
+Probable queuine tRNA-ribosyltransferase (EC 2.4.2.29) (tRNA-guanine
+transglycosylase) (Guanine insertion enzyme).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Exchanges the guanine residue with 7-aminomethyl-7-
+    deazaguanine in tRNAs with GU(N) anticodons (tRNA-Asp, -Asn, -His
+    and -Tyr). After this exchange, a cyclopentendiol moiety is
+    attached to the 7-aminomethyl group of 7-deazaguanine, resulting
+    in the hypermodified nucleoside queuosine (Q) (7-(((4,5-cis-
+    dihydroxy-2-cyclopenten-1-yl)amino)methyl)-7-deazaguanosine) (By
+    similarity).
+-!- CATALYTIC ACTIVITY: tRNA guanine + queuine = tRNA queuine +
+    guanine.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the queuine tRNA-ribosyltransferase family.
+Complete proteome; Glycosyltransferase; Metal-binding;
+Queuosine biosynthesis; Transferase; tRNA processing; Zinc.
+TMZERO

@@ -1,0 +1,20 @@
+AC   P40550; Q03092;
+ATP-dependent permease PDR11.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IX.";
+"Identification and characterization of SNQ2, a new multidrug ATP
+binding cassette transporter of the yeast plasma membrane.";
+"Transcriptional profiling identifies two members of the ATP-binding
+cassette transporter superfamily required for sterol uptake in
+yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Transporter involved in the uptake of sterol.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family. PDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0015918; P:sterol transport; IMP:SGD.
+ATP-binding; Complete proteome; Direct protein sequencing;
+Glycoprotein; Membrane; Nucleotide-binding; Repeat; Transmembrane;
+Transport.
+TMTWELVE

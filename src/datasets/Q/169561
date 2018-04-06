@@ -1,0 +1,41 @@
+AC   O46669;
+Sodium channel protein type 10 subunit alpha (Sodium channel protein
+type X subunit alpha) (Voltage-gated sodium channel subunit alpha
+Nav1.8) (NaNG).
+"Molecular cloning of a putative tetrodotoxin-resistant sodium channel
+from dog nodose ganglion neurons.";
+-!- FUNCTION: This protein mediates the voltage-dependent sodium ion
+    permeability of excitable membranes. Assuming opened or closed
+    conformations in response to the voltage difference across the
+    membrane, the protein forms a sodium-selective channel through
+    which sodium ions may pass in accordance with their
+    electrochemical gradient. It is a tetrodotoxin-resistant sodium
+    channel isoform. Its electrophysiological properties vary
+    depending on the type of the associated beta subunits (in vitro).
+    Plays a role in neuropathic pain mechanisms (By similarity).
+-!- SUBUNIT: The voltage-resistant sodium channel consists of an ion
+    conducting pore forming alpha-subunit regulated by one or more
+    associated auxiliary subunits SCN1B, SCN2B and SCN3B. Found in a
+    number of complexes with PRX, TCTEL1 and PDZK3. Interacts with
+    proteins such as FSTL1, PRX, TCTEL1, PDZK3, S100A10 and many
+    others (By similarity). Interacts with NEDD4 and NEDD4L.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity). Note=It can be translocated to the extracellular
+    membrane through association with S100A10 (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in nodose ganglia, but not in
+    cortex, hippocampus, cerebellum, liver, heart and skeletal muscle.
+-!- INDUCTION: Down-regulated after axotomy in dorsal root ganglia (By
+    similarity).
+-!- DOMAIN: The sequence contains 4 internal repeats, each with 5
+    hydrophobic segments (S1,S2,S3,S5,S6) and one positively charged
+    segment (S4). Segments S4 are probably the voltage-sensors and are
+    characterized by a series of positively charged amino acids at
+    every third position.
+-!- PTM: Ubiquitinated by NEDD4L; which promotes its endocytosis (By
+    similarity).
+-!- SIMILARITY: Belongs to the sodium channel family.
+-!- SIMILARITY: Contains 1 IQ domain.
+Glycoprotein; Ion transport; Ionic channel; Membrane; Repeat; Sodium;
+Sodium channel; Sodium transport; Transmembrane; Transport;
+Ubl conjugation; Voltage-gated channel.
+TMTWENTYFOUR

@@ -1,0 +1,94 @@
+AC   Q7KRY7; Q59DT7; Q59DT8; Q6AWK8; Q7K9X1; Q7KA36; Q86QS7; Q86QS8;
+AC   Q86QS9; Q86QT0; Q8IMR8; Q8IMR9; Q8T003; Q95SV4; Q9VBE4;
+Protein lap4 (Protein scribble) (Protein smell-impaired).
+"Localization of apical epithelial determinants by the basolateral PDZ
+protein Scribble.";
+"Differential expression of two scribble isoforms during Drosophila
+embryogenesis.";
+"Scribble is essential for olfactory behavior in Drosophila
+melanogaster.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Cooperative regulation of cell polarity and growth by Drosophila
+tumor suppressors.";
+-!- FUNCTION: Required for polarization of the embryonic, imaginal
+    disk and follicular epithelia. Specifically restricts apical
+    membrane determinants to the apical cell surface; acts to exclude
+    crb from the basolateral domain and define adherens junction
+    position. Regulates cellular growth and differentiation; acts as a
+    tumor suppressor. Essential for odor guided behavior.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Cell membrane; peripheral
+    membrane protein. Note=Localized to epithelial septate junction at
+    the boundary of the apical and basolateral cell surfaces.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=8;
+    Name=D;
+      IsoId=Q7KRY7-1; Sequence=Displayed;
+    Name=A; Synonyms=B, Vartul-1, Scrib1;
+      IsoId=Q7KRY7-2; Sequence=VSP_050879;
+    Name=C; Synonyms=Vartul-2, Scrib2;
+      IsoId=Q7KRY7-3; Sequence=VSP_050880, VSP_050881;
+    Name=E;
+      IsoId=Q7KRY7-4; Sequence=VSP_050877, VSP_050878;
+    Name=F;
+      IsoId=Q7KRY7-5; Sequence=VSP_050882, VSP_050883, VSP_050884;
+    Name=G;
+      IsoId=Q7KRY7-6; Sequence=VSP_050876, VSP_050878, VSP_050882;
+    Name=H;
+      IsoId=Q7KRY7-7; Sequence=VSP_018595;
+      Note=No experimental confirmation available;
+    Name=I;
+      IsoId=Q7KRY7-8; Sequence=VSP_050883, VSP_050884;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: During germ band extension, expression of
+    isoform A occurs predominantly in neuroblasts derived from the
+    neuro-ectoderm and later is restricted to CNS neurons and pole
+    cells. Isoform C is strongly expressed in PNS and a subset of CNS
+    neurons. In the adult, expressed in third antennal segment and
+    maxillary palps, major olfactory organs and in Johnstons organ in
+    the second antennal segment. Expression is also observed in
+    cortical regions of the brain. Isoforms expressed in epithelia are
+    coexpressed with dlg1 throughout development.
+-!- DEVELOPMENTAL STAGE: Expressed both zygotically and maternally in
+    embryos. Isoform A and isoform C have high expression throughout
+    embryonic development and very low expression in later
+    developmental stages. In adults, isoform A is a male-specific
+    isoform and isoform C a female specific.
+-!- MISCELLANEOUS: Mutants exhibit aberrant cell shape and loss of the
+    monolayer organization of embryonic epithelia creating a
+    corrugated cuticular surface that is riddled with holes hence the
+    gene name scribble. Misdistribution of apical proteins and
+    adherens junctions to the basolateral cell surface is also
+    exhibited.
+-!- SIMILARITY: Belongs to the LAP (LRR and PDZ) protein family.
+-!- SIMILARITY: Contains 15 LRR (leucine-rich) repeats.
+-!- SIMILARITY: Contains 4 PDZ (DHR) domains.
+ GO:0016327; C:apicolateral plasma membrane; IDA:FlyBase.
+ GO:0016323; C:basolateral plasma membrane; TAS:FlyBase.
+ GO:0005737; C:cytoplasm; NAS:FlyBase.
+ GO:0005576; C:extracellular region; IDA:UniProtKB.
+ GO:0016328; C:lateral plasma membrane; IDA:FlyBase.
+ GO:0005918; C:septate junction; IDA:FlyBase.
+ GO:0035003; C:subapical complex; TAS:FlyBase.
+ GO:0005179; F:hormone activity; IDA:UniProtKB.
+ GO:0008105; P:asymmetric protein localization; IMP:FlyBase.
+ GO:0008283; P:cell proliferation; IMP:FlyBase.
+ GO:0007391; P:dorsal closure; TAS:FlyBase.
+ GO:0045197; P:establishment and/or maintenance of epithel...; TAS:FlyBase.
+ GO:0016332; P:establishment and/or maintenance of polarit...; TAS:FlyBase.
+ GO:0016334; P:establishment and/or maintenance of polarit...; IMP:FlyBase.
+ GO:0016336; P:establishment and/or maintenance of polarit...; IMP:FlyBase.
+ GO:0001738; P:morphogenesis of a polarized epithelium; TAS:FlyBase.
+ GO:0008285; P:negative regulation of cell proliferation; TAS:FlyBase.
+ GO:0042048; P:olfactory behavior; IMP:FlyBase.
+ GO:0045823; P:positive regulation of heart contraction; IDA:UniProtKB.
+ GO:0000074; P:regulation of progression through cell cycle; NAS:FlyBase.
+ GO:0050803; P:regulation of synapse structure and function; IMP:FlyBase.
+ GO:0042221; P:response to chemical stimulus; IMP:FlyBase.
+ GO:0045186; P:zonula adherens assembly; TAS:FlyBase.
+Alternative splicing; Coiled coil; Complete proteome;
+Developmental protein; Differentiation; Leucine-rich repeat; Membrane;
+Neurogenesis; Olfaction; Repeat; Sensory transduction; Tight junction.
+TMZERO

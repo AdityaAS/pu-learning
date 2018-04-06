@@ -1,0 +1,35 @@
+AC   P21845; Q61962;
+Mast cell protease 6 precursor (EC 3.4.21.59) (MMCP-6) (Tryptase).
+"Cloning of the cDNA and gene of mouse mast cell protease-6.
+Transcription by progenitor mast cells and mast cells of the
+connective tissue subclass.";
+"Expression of a mast cell tryptase in the human monocytic cell lines
+U-937 and Mono Mac 6.";
+"Genes for mast-cell serine protease and their molecular evolution.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Different mouse mast cell populations express various combinations of
+at least six distinct mast cell serine proteases.";
+-!- FUNCTION: Tryptase is the major neutral protease present in mast
+    cells and is secreted upon the coupled activation-degranulation
+    response of this cell type.
+-!- CATALYTIC ACTIVITY: Preferential cleavage: Arg-|-Xaa, Lys-|-Xaa,
+    but with more restricted specificity than trypsin.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long;
+      IsoId=P21845-1; Sequence=Displayed;
+    Name=Short;
+      IsoId=P21845-2; Sequence=VSP_005376, VSP_005377;
+      Note=Probably non functional;
+-!- SIMILARITY: Belongs to the peptidase S1 family. Tryptase
+    subfamily.
+-!- SIMILARITY: Contains 1 peptidase S1 domain.
+ GO:0005576; C:extracellular region; TAS:MGI.
+ GO:0008201; F:heparin binding; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:MGI.
+ GO:0030019; F:tryptase activity; IDA:MGI.
+ GO:0006954; P:inflammatory response; TAS:MGI.
+Alternative splicing; Direct protein sequencing; Glycoprotein;
+Hydrolase; Protease; Serine protease; Signal; Zymogen.
+TMZERO

@@ -1,0 +1,25 @@
+AC   Q9YDF8;
+Voltage-gated potassium channel (KvAP).
+"Complete genome sequence of an aerobic hyper-thermophilic
+crenarchaeon, Aeropyrum pernix K1.";
+"Functional analysis of an archaebacterial voltage-dependent K+
+channel.";
+"X-ray structure of a voltage-dependent K(+) channel.";
+-!- FUNCTION: Mediates a strong voltage-dependent potassium ion
+    permeability of excitable membranes. Assuming opened or closed
+    conformations in response to the voltage difference across the
+    membrane, the protein forms a potassium-selective channel through
+    which potassium ions may pass in accordance with their
+    electrochemical gradient.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- DOMAIN: Contains a central ion-conduction pore surrounded by four
+    voltage sensors which form the voltage-sensor paddles that move in
+    response to membrane voltage changes through the fluid membrane
+    interior, each voltage-sensor carrying their four positive charges
+    across the membrane. It is thought that the S4 arginine residues
+    move through the membrane's electric field to open the pore.
+-!- SIMILARITY: Belongs to the potassium channel family.
+3D-structure; Complete proteome; Ion transport; Ionic channel;
+Membrane; Potassium; Potassium channel; Potassium transport;
+Transmembrane; Transport; Voltage-gated channel.
+TMSEVEN

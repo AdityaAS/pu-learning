@@ -1,0 +1,29 @@
+AC   P10384; P77697;
+Long-chain fatty acid transport protein precursor (Outer membrane fadL
+protein) (Outer membrane flp protein).
+"Primary sequence of the Escherichia coli fadL gene encoding an outer
+membrane protein required for long-chain fatty acid transport.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequencing and expression of the fadL gene involved in
+long-chain fatty acid transport in Escherichia coli.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Crystal structure of the long-chain fatty acid transporter FadL.";
+-!- FUNCTION: Involved in translocation of long-chain fatty acids
+    across the outer membrane. It is a receptor for the bacteriophage
+    T2. FadL may form a specific channel.
+-!- SUBUNIT: Has been isolated from outer membrane preparation as a
+    homodimer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By long-chain fatty acids. Expression of fadL is under
+    the control of the fadR repressor.
+-!- SIMILARITY: Belongs to the ompP1/fadL family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Lipid transport; Membrane; Outer membrane; Phage recognition; Signal;
+Transmembrane; Transport.
+TMZERO

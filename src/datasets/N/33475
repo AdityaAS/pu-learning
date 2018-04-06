@@ -1,0 +1,26 @@
+AC   O94454;
+COP9 signalosome complex subunit 5 (EC 3.4.-.-).
+"The genome sequence of Schizosaccharomyces pombe.";
+"Deletion mutants in COP9/signalosome subunits in fission yeast
+Schizosaccharomyces pombe display distinct phenotypes.";
+-!- FUNCTION: Catalytic component of the COP9 signalosome (CSN)
+    complex that acts as an isopeptidase in cleaving the ubiquitin-
+    like protein RUB1/NEDD8 from neddylated cullin CDC53, a SCF
+    ubiquitin-ligase subunit. The complex is involved in the
+    regulation of the mating pheromone response (By similarity).
+-!- SUBUNIT: Component of the COP9 signalosome (CSN) complex (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- DOMAIN: The JAMM motif is essential for the protease activity of
+    the CSN complex resulting in deneddylation of cullins. It may
+    constitute the catalytic center of the complex (By similarity).
+-!- SIMILARITY: Belongs to the peptidase M67A family. CSN5 subfamily.
+-!- SIMILARITY: Contains 1 MPN (JAB/Mov34) domain.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0008180; C:signalosome complex; IDA:GeneDB_SPombe.
+ GO:0000338; P:protein deneddylation; IGI:GeneDB_SPombe.
+Complete proteome; Hydrolase; Metal-binding; Metalloprotease;
+Nuclear protein; Protease; Signalosome.
+TMZERO

@@ -1,0 +1,20 @@
+AC   P0AG34; P27847; Q2M8C9;
+Homoserine/homoserine lactone efflux protein.
+"Analysis of the Escherichia coli genome: DNA sequence of the region
+from 84.5 to 86.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The novel transmembrane Escherichia coli proteins involved in the
+amino acid efflux.";
+-!- FUNCTION: Conducts the efflux of homoserine and homoserine
+    lactone.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the rht family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 60.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,64 @@
+AC   P48048; Q6LD67;
+ATP-sensitive inward rectifier potassium channel 1 (Potassium channel,
+inwardly rectifying subfamily J member 1) (ATP-regulated potassium
+channel ROM-K) (Kir1.1).
+"Cloning and characterization of multiple forms of the human kidney
+ROM-K potassium channel.";
+"Alternative splicing of human inwardly rectifying K+ channel ROMK1
+mRNA.";
+"Nucleotide sequence analysis of the human KCNJ1 potassium channel
+locus.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Isolation and chromosomal localization of a human ATP-regulated
+potassium channel.";
+"Genetic heterogeneity of Bartter's syndrome revealed by mutations in
+the K+ channel, ROMK.";
+"Mutations in the gene encoding the inwardly-rectifying renal
+potassium channel, ROMK, cause the antenatal variant of Bartter
+syndrome: evidence for genetic heterogeneity.";
+"A hyperprostaglandin E syndrome mutation in Kir1.1 (renal outer
+medullary potassium) channels reveals a crucial residue for channel
+function in Kir1.3 channels.";
+-!- FUNCTION: In the kidney, probably plays a major role in potassium
+    homeostasis. Inward rectifier potassium channels are characterized
+    by a greater tendency to allow potassium to flow into the cell
+    rather than out of it. Their voltage dependence is regulated by
+    the concentration of extracellular potassium; as external
+    potassium is raised, the voltage range of the channel opening
+    shifts to more positive voltages. The inward rectification is
+    mainly due to the blockage of outward current by internal
+    magnesium. This channel is activated by internal ATP and can be
+    blocked by external barium.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=ROM-K1;
+      IsoId=P48048-1; Sequence=Displayed;
+    Name=2; Synonyms=2-4-5, ROM-K2, ROM-K4, ROM-K5, ROM-K6;
+      IsoId=P48048-2; Sequence=VSP_002797;
+    Name=3; Synonyms=ROM-K3;
+      IsoId=P48048-3; Sequence=VSP_002798;
+-!- TISSUE SPECIFICITY: In the kidney and pancreatic islets. Lower
+    levels in skeletal muscle, pancreas, spleen, brain, heart and
+    liver.
+-!- DISEASE: Defects in KCNJ1 are the cause of antenatal Bartter
+    syndrome type 2 (BS type 2) [MIM:241200]; also termed
+    hyperprostanglandin E syndrome (HPS). BS type 2 is a
+    phenotypically distinct variant of the Bartter syndromes
+    characterized by polyhydramnios with preterm delivery, severe salt
+    wasting, hyposthenuria, and hypercalciuria. BS type 2 is a life-
+    threatening disorder in which both renal tubular hypokalemic
+    alkalosis as well as profound systemic symptoms are manifest.
+-!- SIMILARITY: Belongs to the inward rectifier-type potassium channel
+    family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=KCNJ1".
+ GO:0008076; C:voltage-gated potassium channel complex; TAS:ProtInc.
+ GO:0005242; F:inward rectifier potassium channel activity; TAS:ProtInc.
+ GO:0007588; P:excretion; TAS:ProtInc.
+ GO:0006813; P:potassium ion transport; TAS:ProtInc.
+Alternative splicing; ATP-binding; Bartter syndrome; Disease mutation;
+Ion transport; Ionic channel; Membrane; Nucleotide-binding; Potassium;
+Potassium transport; Transmembrane; Transport; Voltage-gated channel.
+TMTWO

@@ -1,0 +1,13 @@
+AC   Q6NF47;
+Acetate kinase (EC 2.7.2.1) (Acetokinase).
+"The complete genome sequence and analysis of Corynebacterium
+diphtheriae NCTC13129.";
+-!- CATALYTIC ACTIVITY: ATP + acetate = ADP + acetyl phosphate.
+-!- CATALYTIC ACTIVITY: ATP + propanoate = ADP + propanoyl phosphate.
+-!- PATHWAY: Metabolic intermediate biosynthesis; acetyl-CoA
+    biosynthesis; acetyl-CoA from acetate: step 1.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the acetokinase family.
+ GO:0008776; F:acetate kinase activity; IEA:HAMAP.
+Complete proteome; Kinase; Transferase.
+TMZERO

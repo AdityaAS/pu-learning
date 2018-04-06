@@ -1,0 +1,25 @@
+AC   P0AEY8; P71226; P75807; Q46966;
+Multidrug translocase mdfA (Chloramphenicol resistance pump cmr).
+"Isolation of cmr, a novel Escherichia coli chloramphenicol resistance
+gene encoding a putative efflux pump.";
+"MdfA, an Escherichia coli multidrug resistance protein with an
+extraordinarily broad spectrum of drug recognition.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"A single membrane-embedded negative charge is critical for
+recognizing positively charged drugs by the Escherichia coli multidrug
+resistance protein MdfA.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Efflux pump driven by the proton motive force. Confers
+    resistance to basic, aromatic and lipophilic drugs as well as
+    neutral, non-aromatic, zwitterionic or non-aromatic hydrophilic
+    antibiotics.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

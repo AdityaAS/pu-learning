@@ -1,0 +1,46 @@
+AC   P90901; Q17599; Q20141; Q8MLX8;
+Intermediate filament protein ifa-1 (Intermediate filament protein A1)
+(IF-A1) (Cel IF A1).
+"Eight genes and alternative RNA processing pathways generate an
+unexpectedly large diversity of cytoplasmic intermediate filament
+proteins in the nematode Caenorhabditis elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"Essential roles for four cytoplasmic intermediate filament proteins
+in Caenorhabditis elegans development.";
+"In vivo and in vitro evidence that the four essential intermediate
+filament (IF) proteins A1, A2, A3 and B1 of the nematode
+Caenorhabditis elegans form an obligate heteropolymeric IF system.";
+-!- FUNCTION: Cytoplasmic intermediate filaments provide mechanical
+    strength to cells. Essential protein probably involved in
+    intestine morphogenesis.
+-!- SUBUNIT: Forms some heteropolymeric filaments with ifb-1.
+-!- INTERACTION:
+    Q22534:gei-16; NbExp=1; IntAct=EBI-322010, EBI-327642;
+    Q9TZ38:gei-4; NbExp=1; IntAct=EBI-322010, EBI-329192;
+    Q22227:mig-5; NbExp=1; IntAct=EBI-322010, EBI-316403;
+    Q95QC4:zyg-8; NbExp=1; IntAct=EBI-322010, EBI-331795;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=a; Synonyms=a1-M, A1a;
+      IsoId=P90901-1; Sequence=Displayed;
+    Name=b;
+      IsoId=P90901-2; Sequence=VSP_010144;
+      Note=No experimental confirmation available;
+    Name=c; Synonyms=a1-H, A1b;
+      IsoId=P90901-3; Sequence=VSP_010146;
+    Name=d; Synonyms=a1-L;
+      IsoId=P90901-4; Sequence=VSP_010145;
+-!- TISSUE SPECIFICITY: Expressed in amphid sensory neurins, the
+    pharyngeal-intestinal valve, the rectum and some neurons of the
+    tail. Expressed in some unidentified muscle cells of the pharynx.
+    Also expressed in the adult uterus. In larvae, it is expressed in
+    the excretory cell, the vulva, the rectum and into thick filament
+    bundles of the pharynx. Expression in pharynx begins in late
+    embryos.
+-!- SIMILARITY: Belongs to the intermediate filament family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Alternative splicing; Coiled coil; Complete proteome;
+Intermediate filament.
+TMZERO

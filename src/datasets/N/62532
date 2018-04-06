@@ -1,0 +1,12 @@
+AC   P0A594; Q10784;
+Hemoglobin-like protein HbN (Truncated hemoglobin) (trHbN)
+(Flavohemoglobin).
+"Cloning, expression and characterization of globin like genes of
+Mycobacterium in insect cells(sf9).";
+-!- FUNCTION: Binds oxygen cooperatively with very high affinity
+    because of a fast combination and a slow dissociation rate (By
+    similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the protozoan/cyanobacterial globin family.
+Heme; Iron; Metal-binding; Oxygen transport; Transport.
+TMZERO

@@ -1,0 +1,19 @@
+AC   Q8FH03;
+Succinylglutamate desuccinylase (EC 3.5.1.96).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Transforms 2-N-succinylglutamate into succinate and
+    glutamate (By similarity).
+-!- CATALYTIC ACTIVITY: N-succinyl-L-glutamate + H(2)O = succinate +
+    L-glutamate.
+-!- COFACTOR: Binds 1 zinc ion per subunit (Potential).
+-!- PATHWAY: Amino-acid degradation; L-arginine degradation via AST
+    pathway; L-glutamate and succinate from L-arginine: step 5 [final
+    step].
+-!- SIMILARITY: Belongs to the aspA/astE family. Succinylglutamate
+    desuccinylase subfamily.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+ GO:0019544; P:arginine catabolism to glutamate; IEA:HAMAP.
+Arginine metabolism; Complete proteome; Hydrolase; Metal-binding;
+Zinc.
+TMZERO

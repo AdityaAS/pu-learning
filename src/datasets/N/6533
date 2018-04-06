@@ -1,0 +1,26 @@
+AC   P38062;
+Methionine aminopeptidase 2 (EC 3.4.11.18) (MetAP 2) (Peptidase M 2)
+(Initiation factor 2-associated 67 kDa glycoprotein) (p67) (p67eIF2).
+"Cloning and characterization of complementary DNA encoding the
+eukaryotic initiation factor 2-associated 67-kDa protein (p67).";
+"Eukaryotic methionyl aminopeptidases: two classes of cobalt-dependent
+enzymes.";
+-!- FUNCTION: Removes the amino-terminal methionine from nascent
+    proteins.
+-!- FUNCTION: Protects eIF-2 alpha-subunit from inhibitory
+    phosphorylation by eIF-2 kinases. Plays a critical role in the
+    regulation of protein synthesis. It also interacts with the eIF-2
+    gamma-subunit.
+-!- CATALYTIC ACTIVITY: Release of N-terminal amino acids,
+    preferentially methionine, from peptides and arylamides.
+-!- COFACTOR: Binds 2 cobalt ions per subunit (By similarity).
+-!- PTM: O-glycosylated; contains 12 O-linked GlcNAc.
+-!- SIMILARITY: Belongs to the peptidase M24C family.
+ GO:0005737; C:cytoplasm; ISS:HGNC.
+ GO:0004239; F:methionyl aminopeptidase activity; ISS:HGNC.
+ GO:0031365; P:N-terminal protein amino acid modification; ISS:HGNC.
+ GO:0018206; P:peptidyl-methionine modification; ISS:HGNC.
+ GO:0006417; P:regulation of protein biosynthesis; ISS:HGNC.
+Aminopeptidase; Cobalt; Glycoprotein; Hydrolase; Metal-binding;
+Protease.
+TMZERO

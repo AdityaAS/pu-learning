@@ -1,0 +1,19 @@
+AC   Q81J01;
+Glucosamine--fructose-6-phosphate aminotransferase [isomerizing]
+(EC 2.6.1.16) (Hexosephosphate aminotransferase) (D-fructose-6-
+phosphate amidotransferase) (GFAT) (L-glutamine-D-fructose-6-phosphate
+amidotransferase) (Glucosamine-6-phosphate synthase).
+"Genome sequence of Bacillus cereus and comparative analysis with
+Bacillus anthracis.";
+-!- FUNCTION: Catalyzes the first step in hexosamine metabolism,
+    converting fructose-6P into glucosamine-6P using glutamine as a
+    nitrogen source (By similarity).
+-!- CATALYTIC ACTIVITY: L-glutamine + D-fructose 6-phosphate = L-
+    glutamate + D-glucosamine 6-phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: In the C-terminal section; belongs to the SIS family.
+    GFAT subfamily.
+-!- SIMILARITY: Contains 1 glutamine amidotransferase type-2 domain.
+Aminotransferase; Complete proteome; Glutamine amidotransferase;
+Transferase.
+TMZERO

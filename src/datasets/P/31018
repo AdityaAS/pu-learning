@@ -1,0 +1,23 @@
+AC   P00415; Q576A5; Q8SE13;
+Cytochrome c oxidase subunit 3 (EC 1.9.3.1) (Cytochrome c oxidase
+polypeptide III).
+"Complete sequence of bovine mitochondrial DNA. Conserved features of
+the mammalian mitochondrial genome.";
+"Bos taurus mitochondrial protein coding regions.";
+"Complete sequence of a new Bos taurus mitochondrial genome.";
+"The whole structure of the 13-subunit oxidized cytochrome c oxidase
+at 2.8 A.";
+"Structure analysis of bovine heart cytochrome c oxidase at 2.8 A
+resolution.";
+"X-ray structure of azide-bound fully oxidized cytochrome c oxidase
+from bovine heart at 2.9 A resolution.";
+-!- FUNCTION: Subunits I, II and III form the functional core of the
+    enzyme complex.
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 3 family.
+3D-structure; Inner membrane; Membrane; Mitochondrion; Oxidoreductase;
+Transmembrane.
+TMSEVEN

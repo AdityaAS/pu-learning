@@ -1,0 +1,12 @@
+AC   P0AE17; P36670;
+Protein ampG.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Probably acts as a permease in the beta-lactamase
+    induction system and in peptidoglycan recycling (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTEN

@@ -1,0 +1,12 @@
+AC   Q9UTC3;
+Probable DNA replication complex GINS protein psf3.
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: The GINS complex plays an essential role in the
+    initiation of DNA replication (By similarity).
+-!- SUBUNIT: Component of the GINS complex which is a heterotetramer
+    of sld5, psf1, psf2 and psf3 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the PSF3 family.
+ GO:0005737; C:cytoplasm; IDA:GeneDB_SPombe.
+Complete proteome; DNA replication; Nuclear protein.
+TMZERO

@@ -1,0 +1,9 @@
+AC   Q8Q082;
+Putative methyltransferase mtx subunit A (EC 2.1.1.-).
+"The genome of Methanosarcina mazei: evidence for lateral gene
+transfer between Bacteria and Archaea.";
+-!- SUBUNIT: May be part of a complex composed of 3 subunits; mtxA,
+    mtxH and mtxX (By similarity).
+-!- SIMILARITY: Belongs to the mtrA family.
+Complete proteome; Methyltransferase; Transferase.
+TMZERO

@@ -1,0 +1,7 @@
+AC   Q9CKG2;
+UPF0234 protein PM1656.
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- SIMILARITY: Belongs to the UPF0234 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

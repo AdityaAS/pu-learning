@@ -1,0 +1,23 @@
+AC   Q97EQ4;
+Phosphoheptose isomerase (EC 5.3.1.-) (Sedoheptulose 7-phosphate
+isomerase).
+"Genome sequence and comparative analysis of the solvent-producing
+bacterium Clostridium acetobutylicum.";
+"Novel pathways for biosynthesis of nucleotide-activated glycero-
+manno-heptose precursors of bacterial glycoproteins and cell surface
+polysaccharides.";
+-!- FUNCTION: Catalyzes the isomerization of sedoheptulose 7-phosphate
+    in D-glycero-D-manno-heptose 7-phosphate (By similarity).
+-!- CATALYTIC ACTIVITY: D-sedoheptulose 7-phosphate = D-glycero-alpha-
+    D-manno-heptose 7-phosphate + D-glycero-beta-D-manno-heptose 7-
+    phosphate.
+-!- PATHWAY: GDP-D-glycero-alpha-D-manno-heptose biosynthesis; first
+    step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- MISCELLANEOUS: Is probably involved in the capsular polysaccharide
+    (CPS) biosynthesis.
+-!- SIMILARITY: Belongs to the SIS family. GmhA subfamily.
+ GO:0005975; P:carbohydrate metabolism; IEA:HAMAP.
+Bacterial capsule; Carbohydrate metabolism; Complete proteome;
+Isomerase.
+TMZERO

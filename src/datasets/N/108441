@@ -1,0 +1,32 @@
+AC   Q86UW6; Q9NVK2; Q9P2D4;
+NEDD4-binding protein 2 (EC 3.-.-.-) (N4BP2) (BCL-3-binding protein).
+"Identification and characterization of BCL-3-binding protein:
+implications for transcription and DNA repair or recombination.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Prediction of the coding sequences of unidentified human genes. XVI.
+The complete sequences of 150 new cDNA clones from brain which code
+for large proteins in vitro.";
+-!- FUNCTION: Has 5'-polynucleotide kinase and nicking endonuclease
+    activity. May play a role in DNA repair or recombination.
+-!- SUBUNIT: Binds NEDD4 (By similarity). Binds BCL3 and CREBBP.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q86UW6-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q86UW6-2; Sequence=VSP_009721;
+      Note=No experimental confirmation available;
+-!- DOMAIN: The Smr domain has nicking endonuclease activity, but no
+    significant double strand cleavage or exonuclease activity.
+-!- PTM: Ubiquitinated; this targets the protein for degradation by
+    the proteasome (By similarity).
+-!- SIMILARITY: Contains 1 CUE domain.
+-!- SIMILARITY: Contains 1 Smr domain.
+ GO:0005524; F:ATP binding; IDA:MGI.
+ GO:0046404; F:ATP-dependent polydeoxyribonucleotide 5'-hy...; IDA:MGI.
+ GO:0004519; F:endonuclease activity; IDA:MGI.
+Alternative splicing; ATP-binding; Coiled coil; Hydrolase;
+Nucleotide-binding; Ubl conjugation.
+TMZERO

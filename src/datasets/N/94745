@@ -1,0 +1,13 @@
+AC   Q05770;
+Lipooligosaccharide biosynthesis protein lpsA (EC 2.-.-.-).
+"Cloning and characterization of a gene from Pasteurella haemolytica
+A1 involved in lipopolysaccharide biosynthesis.";
+"Cloning, nucleotide sequence, and expression of the Pasteurella
+haemolytica A1 glycoprotease gene.";
+-!- FUNCTION: Involved in the biosynthesis of a moiety on the core of
+    the lipopolysaccharide molecule.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Note=Assembles at the inner
+    surface of the cytoplasmic membrane (Potential).
+-!- SIMILARITY: Belongs to the glycosyltransferase 25 family.
+Glycosyltransferase; Lipopolysaccharide biosynthesis; Transferase.
+TMZERO

@@ -1,0 +1,24 @@
+AC   Q84XB3;
+Ethylene-responsive transcription factor 1 (Ethylene-responsive
+element-binding factor 1) (EREBP-1) (ERF1-like protein) (LeERF1).
+"New members of the tomato ERF family show specific expression pattern
+and diverse DNA-binding capacity to the GCC box element.";
+-!- FUNCTION: Involved in the regulation of gene expression during
+    fruit ripening, by stress factors and by components of stress
+    signal transduction pathways. Transcription factor that binds to
+    the GCC-box pathogenesis-related promoter element. Probably acts
+    as a transcriptional activator and may be involved in disease
+    resistance pathways (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- TISSUE SPECIFICITY: Present in stems.
+-!- INDUCTION: Strong induction by ethylene and by wounding.
+-!- DOMAIN: The AP2/ERF domain binds specifically to the 5'-GCCGCC-3'
+    motif. The affinity of this binding is higher if the seventh
+    amino-acid of this domain is basic (By similarity).
+-!- SIMILARITY: Belongs to the ethylene-response factor family. Class
+    1 subfamily.
+-!- SIMILARITY: Contains 1 AP2/ERF DNA-binding domain.
+Activator; DNA-binding; Ethylene signaling pathway; Fruit ripening;
+Nuclear protein; Plant defense; Transcription;
+Transcription regulation.
+TMZERO

@@ -1,0 +1,16 @@
+AC   Q6A2H2; Q6A2H3;
+Succinate semialdehyde dehydrogenase, mitochondrial precursor
+(EC 1.2.1.24) (NAD(+)-dependent succinic semialdehyde dehydrogenase).
+"Comparative analysis of succinic semialdehyde dehydrogenase in non
+three ape species.";
+-!- CATALYTIC ACTIVITY: Succinate semialdehyde + NAD(+) + H(2)O =
+    succinate + NADH.
+-!- PATHWAY: 4-aminobutyrate (GABA) degradation.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the aldehyde dehydrogenase family.
+ GO:0004777; F:succinate-semialdehyde dehydrogenase activity; ISS:UniProtKB.
+ GO:0007417; P:central nervous system development; ISS:UniProtKB.
+ GO:0006118; P:electron transport; ISS:UniProtKB.
+ GO:0009450; P:gamma-aminobutyric acid catabolism; ISS:UniProtKB.
+Mitochondrion; NAD; Oxidoreductase; Polymorphism; Transit peptide.
+TMZERO

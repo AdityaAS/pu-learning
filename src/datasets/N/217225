@@ -1,0 +1,8 @@
+AC   Q88DM3;
+UPF0250 protein PP4802.
+"Complete genome sequence and comparative analysis of the
+metabolically versatile Pseudomonas putida KT2440.";
+-!- SIMILARITY: Belongs to the UPF0250 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

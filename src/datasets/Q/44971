@@ -1,0 +1,13 @@
+AC   Q56578;
+Disulfide bond formation protein B (Disulfide oxidoreductase)
+(Fragment).
+-!- FUNCTION: Required for disulfide bond formation in some
+    periplasmic proteins. Acts by oxidizing the dsbA protein (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the dsbB family.
+ GO:0009055; F:electron carrier activity; IEA:HAMAP.
+Chaperone; Electron transport; Inner membrane; Membrane;
+Oxidoreductase; Redox-active center; Transmembrane; Transport.
+TMFOUR

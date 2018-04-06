@@ -1,0 +1,20 @@
+AC   Q9M7K4; Q9T0L3;
+Potassium transporter 5 (AtPOT5) (AtHAK1) (AtHAK5).
+"Cloning of Arabidopsis and barley cDNAs encoding HAK potassium
+transporters in root and shoot cells.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"Phylogenetic relationships within cation transporter families of
+Arabidopsis.";
+-!- FUNCTION: High-affinity potassium transporter. Could also
+    transport rubidium and cesium.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Predominantly expressed in the roots.
+-!- INDUCTION: In both roots and shoots by potassium starvation.
+-!- SIMILARITY: Belongs to the HAK/KUP transporter (TC 2.A.72) family.
+-!- CAUTION: Ref.2 sequences differ from that shown due to erroneous
+    gene model prediction.
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Transmembrane; Transport.
+TMTWELVE

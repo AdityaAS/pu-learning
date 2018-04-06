@@ -1,0 +1,18 @@
+AC   Q4JA60;
+Ribonuclease HII (EC 3.1.26.4) (RNase HII).
+"The genome of Sulfolobus acidocaldarius, a model organism of the
+Crenarchaeota.";
+-!- FUNCTION: Endonuclease that specifically degrades the RNA of RNA-
+    DNA hybrids (By similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+    phosphomonoester.
+-!- COFACTOR: Manganese or magnesium. Binds 1 divalent metal ion per
+    monomer in the absence of substrate. May bind a second metal ion
+    after substrate binding (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the RNase HII family.
+ GO:0030145; F:manganese ion binding; IEA:HAMAP.
+ GO:0006401; P:RNA catabolism; IEA:HAMAP.
+Complete proteome; Endonuclease; Hydrolase; Manganese; Metal-binding;
+Nuclease.
+TMZERO

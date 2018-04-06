@@ -1,0 +1,21 @@
+AC   P23516;
+High-affinity nickel transport protein.
+"Cloning, nucleotide sequence, and heterologous expression of a high-
+affinity nickel transport gene from Alcaligenes eutrophus.";
+"The Alcaligenes eutrophus protein HoxN mediates nickel transport in
+Escherichia coli.";
+"Ralstonia eutropha IS5-like insertion element IS881 containing a
+group II intron.";
+"Complete nucleotide sequence of pHG1: a Ralstonia eutropha H16
+megaplasmid encoding key enzymes of H(2)-based lithoautotrophy and
+anaerobiosis.";
+"A topological model for the high-affinity nickel transporter of
+Alcaligenes eutrophus.";
+-!- FUNCTION: High-affinity nickel transporter responsible for nickel
+    uptake. Necessary for high levels of activity of hydrogenase and
+    urease.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the NiCoT transporter (TC 2.A.52) family.
+Inner membrane; Membrane; Nickel; Plasmid; Transmembrane; Transport.
+TMEIGHT

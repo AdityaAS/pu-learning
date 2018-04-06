@@ -1,0 +1,22 @@
+AC   P39775; O34657;
+Choline transport system permease protein opuBD.
+"Characterization of a chimeric proU operon in a subtilin-producing
+mutant of Bacillus subtilis 168.";
+"Two evolutionarily closely related ABC transporters mediate the
+uptake of choline for synthesis of the osmoprotectant glycine betaine
+in Bacillus subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Determination of the sequence of spaE and identification of a
+promoter in the subtilin (spa) operon in Bacillus subtilis.";
+-!- FUNCTION: Involved in a high affinity multicomponent binding-
+    protein-dependent transport system for choline; probably
+    responsible for the translocation of the substrate across the
+    membrane.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. CysTW subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMFIVE

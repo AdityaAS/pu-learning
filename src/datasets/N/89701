@@ -1,0 +1,11 @@
+AC   Q8PFG7;
+Thymidylate kinase (EC 2.7.4.9) (dTMP kinase).
+"Comparison of the genomes of two Xanthomonas pathogens with differing
+host specificities.";
+-!- FUNCTION: Phosphorylation of dTMP to form dTDP in both de novo and
+    salvage pathways of dTTP synthesis (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + dTMP = ADP + dTDP.
+-!- SIMILARITY: Belongs to the thymidylate kinase family.
+ATP-binding; Complete proteome; Kinase; Nucleotide biosynthesis;
+Nucleotide-binding; Transferase.
+TMZERO

@@ -1,0 +1,14 @@
+AC   P50598;
+Protein tolQ.
+"Identification and characterization of the tolQRA genes of
+Pseudomonas aeruginosa.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Involved in the tonB-independent uptake of proteins (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the exbB/tolQ family.
+Complete proteome; Inner membrane; Membrane; Protein transport;
+Transmembrane; Transport.
+THTHREE

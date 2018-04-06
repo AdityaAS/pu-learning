@@ -1,0 +1,8 @@
+AC   O27081;
+UPF0146 protein MTH_1000.
+"Complete genome sequence of Methanobacterium thermoautotrophicum
+deltaH: functional analysis and comparative genomics.";
+-!- SIMILARITY: Belongs to the UPF0146 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

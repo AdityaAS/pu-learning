@@ -1,0 +1,46 @@
+AC   Q80TZ9;
+Arginine-glutamic acid dipeptide repeats protein (Atrophin-2).
+"Prediction of the coding sequences of mouse homologues of KIAA gene:
+II. The complete nucleotide sequences of 400 mouse KIAA-homologous
+cDNAs identified by screening of terminal sequences of cDNA clones
+randomly sampled from size-fractionated libraries.";
+"Atrophin 2 recruits histone deacetylase and is required for the
+function of multiple signaling centers during mouse embryogenesis.";
+-!- FUNCTION: Plays a role as a transcriptional repressor during
+    development. May play a role in the control of cell survival.
+-!- SUBUNIT: Interacts with HDAC1 and ATN1. Interaction with ATN1 is
+    improved when the poly-Gln region of ATN1 is extended.
+-!- INTERACTION:
+    Q13547:HDAC1 (xeno); NbExp=1; IntAct=EBI-904076, EBI-301834;
+    O09106:Hdac1; NbExp=1; IntAct=EBI-904076, EBI-301912;
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Note=Localized in
+    nuclear bodies of variables size. Colocalized with PML and BAX in
+    nuclear PODs (By similarity).
+-!- DEVELOPMENTAL STAGE: At E8.25 expression is strongly elevated in
+    the anterior midline. At E8.5 expression is elevated throughout
+    the anteroposterior extent of the notochord and is down-regulated
+    in the heart. At E8.75 expression is increased in the ventral
+    brain. At E9.5 strong expression appears besides the notochord
+    including the apical ectodermal ridge (AER), the isthmus and the
+    ventral diencephalon. At E10.5 expression increases in the
+    notochord, the AER and spinal and brain neurons.
+-!- DOMAIN: The interaction with ATN1 is mediated by the coiled domain
+    (By similarity).
+-!- MISCELLANEOUS: Mutant mice embryos exhibit a variety of patterning
+    defects that first appear at E8.0. Defects include a specific
+    failure in ventralization of the anterior neural plate, loss of
+    heart looping and irregular partitioning of somites. In mutant
+    embryos, Shh expression fails to initiate along the anterior
+    midline at E8.0, and Fgf8 is delocalized from the anterior neural
+    ridge at E8.5.
+-!- SIMILARITY: Contains 1 BAH domain.
+-!- SIMILARITY: Contains 1 ELM2 domain.
+-!- SIMILARITY: Contains 1 GATA-type zinc finger.
+-!- SIMILARITY: Contains 1 Myb DNA-binding domain.
+ GO:0000118; C:histone deacetylase complex; IPI:MGI.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006338; P:chromatin remodeling; IPI:MGI.
+Coiled coil; Developmental protein; Metal-binding; Nuclear protein;
+Phosphorylation; Repressor; Transcription; Transcription regulation;
+Zinc; Zinc-finger.
+TMZERO

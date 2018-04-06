@@ -1,0 +1,17 @@
+AC   Q830N2;
+D-alanine--poly(phosphoribitol) ligase subunit 2 (EC 6.1.1.13) (D-
+alanyl carrier protein) (DCP).
+"Role of mobile DNA in the evolution of vancomycin-resistant
+Enterococcus faecalis.";
+-!- FUNCTION: Involved in the biosynthesis of D-alanyl-lipoteichoic
+    acid (LTA). Activated D-alanyl-Dcp donates its D-alanyl
+    substituent to membrane-associated LTA (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + D-alanine + poly(ribitol phosphate) =
+    AMP + diphosphate + O-D-alanyl-poly(ribitol phosphate).
+-!- PATHWAY: D-alanyl-lipoteichoic acid biosynthesis.
+-!- PTM: 4'-phosphopantetheine is transferred from CoA to a specific
+    serine of apo-DCP (By similarity).
+-!- SIMILARITY: Contains 1 acyl carrier domain.
+ GO:0047473; F:D-alanine-poly(phosphoribitol) ligase activity; IEA:EC.
+Cell wall; Complete proteome; Ligase; Phosphopantetheine.
+TMZERO

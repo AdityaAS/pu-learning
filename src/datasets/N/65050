@@ -1,0 +1,17 @@
+AC   Q2S4G9;
+Serine hydroxymethyltransferase (EC 2.1.2.1) (Serine methylase)
+(SHMT).
+"The genome of Salinibacter ruber: convergence and gene exchange among
+hyperhalophilic bacteria and archaea.";
+-!- FUNCTION: Interconversion of serine and glycine.
+-!- CATALYTIC ACTIVITY: 5,10-methylenetetrahydrofolate + glycine +
+    H(2)O = tetrahydrofolate + L-serine.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: One-carbon metabolism; tetrahydrofolate pathway.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the SHMT family.
+ GO:0006730; P:one-carbon compound metabolism; IEA:HAMAP.
+Complete proteome; One-carbon metabolism; Pyridoxal phosphate;
+Transferase.
+TMZERO

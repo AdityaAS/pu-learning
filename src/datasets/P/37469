@@ -1,0 +1,30 @@
+AC   P0AEA5; P18404; P77115; Q2MBZ8;
+Protoheme IX farnesyltransferase (EC 2.5.1.-) (Heme O synthase).
+"The sequence of the cyo operon indicates substantial structural
+similarities between the cytochrome o ubiquinol oxidase of Escherichia
+coli and the aa3-type family of cytochrome c oxidases.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The use of gene fusions to determine the topology of all of the
+subunits of the cytochrome o terminal oxidase complex of Escherichia
+coli.";
+"Heme O biosynthesis in Escherichia coli: the cyoE gene in the
+cytochrome bo operon encodes a protoheme IX farnesyltransferase.";
+"In vitro heme O synthesis by the cyoE gene product from Escherichia
+coli.";
+"Identification of the functional domains in heme O synthase. Site-
+directed mutagenesis studies on the cyoE gene of the cytochrome bo
+operon in Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Converts protoheme IX and farnesyl diphosphate to heme
+    O.
+-!- COFACTOR: Divalent cations. Magnesium or calcium.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the ubiA prenyltransferase family.
+Complete proteome; Heme biosynthesis; Inner membrane; Membrane;
+Transferase; Transmembrane.
+TMSEVEN

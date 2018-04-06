@@ -1,0 +1,15 @@
+AC   Q01356; Q7RVK7;
+Amino acid transporter arg-13.
+"Isolation and analysis of the arg-13 gene of Neurospora crassa.";
+"Phenotypic rescue of Saccharomyces cerevisiae arg11 mutant by
+Neurospora crassa arg-13 cDNA.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: Required for arginine biosynthesis. May participate in
+    the export of matrix-made ornithine into the cytosol (Potential).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (Potential).
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+Inner membrane; Membrane; Mitochondrion; Repeat; Transmembrane;
+Transport.
+THTHREE

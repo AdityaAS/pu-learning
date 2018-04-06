@@ -1,0 +1,14 @@
+AC   Q8Z7N9;
+Flavoprotein wrbA (Trp repressor-binding protein).
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: Seems to enhance the formation and/or stability of
+    noncovalent complexes between the trp repressor protein and
+    operator-bearing DNA (By similarity).
+-!- COFACTOR: Binds 1 FMN per monomer (By similarity).
+-!- SIMILARITY: Belongs to the wrbA family.
+-!- SIMILARITY: Contains 1 flavodoxin-like domain.
+Complete proteome; Flavoprotein; FMN.
+TMZERO

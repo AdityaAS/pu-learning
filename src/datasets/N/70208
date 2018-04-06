@@ -1,0 +1,21 @@
+AC   P14432; Q31194; Q31203;
+H-2 class I histocompatibility antigen, TLA(B) alpha chain precursor
+(MHC thymus leukemia antigen).
+"Nucleotide sequence of the BALB/c H-2T region gene, T3d.";
+"Conservation and diversity in the class I genes of the major
+histocompatibility complex: sequence analysis of a Tlab gene and
+comparison with a Tlac gene.";
+"Structural analysis of TL genes of the mouse.";
+-!- FUNCTION: Involved in the presentation of foreign antigens to the
+    immune system.
+-!- SUBUNIT: Heterodimer of an alpha chain and a beta chain (beta-2-
+    microglobulin).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: TL antigens are only expressed on thymocytes,
+    activated T-lymphocytes and on some thymic leukemias.
+-!- SIMILARITY: Belongs to the MHC class I family.
+-!- SIMILARITY: Contains 1 Ig-like C1-type (immunoglobulin-like)
+    domain.
+Glycoprotein; Immune response; Membrane; MHC I; Signal; Transmembrane.
+TMONE

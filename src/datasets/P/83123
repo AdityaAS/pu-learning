@@ -1,0 +1,12 @@
+AC   Q19746; Q17393;
+Innexin-3 (Protein opu-3).
+"eat-5 and unc-7 represent a multigene family in Caenorhabditis
+elegans involved in cell-cell coupling.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"Innexin-3 forms connexin-like intercellular channels.";
+-!- FUNCTION: Structural components of the gap junctions.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the pannexin family.
+Complete proteome; Gap junction; Membrane; Transmembrane.
+TMFOUR

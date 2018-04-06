@@ -1,0 +1,87 @@
+AC   P27732; O09022; O09023; O09024; Q01542; Q62691; Q62815; Q63491;
+AC   Q63492;
+Voltage-dependent L-type calcium channel subunit alpha-1D (Voltage-
+gated calcium channel subunit alpha Cav1.3) (Calcium channel, L type,
+alpha-1 polypeptide, isoform 2) (RAT brain class D) (RBD).
+"Molecular diversity and functional characterization of voltage-
+dependent calcium channels (CACN4) expressed in pancreatic beta-
+cells.";
+"Molecular cloning of multiple subtypes of a novel rat brain isoform
+of the alpha-1 subunit of the voltage-dependent calcium channel.";
+"Transcriptional regulation of the neuronal L-type calcium channel
+alpha 1D subunit gene.";
+"Molecular characterization and nephron distribution of a family of
+transcripts encoding the pore-forming subunit of Ca2+ channels in the
+kidney.";
+"Multiple calcium channel transcripts in rat osteosarcoma cells:
+selective activation of alpha 1D isoform by parathyroid hormone.";
+"Novel variants of voltage-operated calcium channel alpha-1 subunit
+transcripts in a rat liver-derived cell line: deletion in the IVS4
+voltage sensing region.";
+"Rat brain expresses a heterogeneous family of calcium channels.";
+-!- FUNCTION: Voltage-sensitive calcium channels (VSCC) mediate the
+    entry of calcium ions into excitable cells and are also involved
+    in a variety of calcium-dependent processes, including muscle
+    contraction, hormone or neurotransmitter release, gene expression,
+    cell motility, cell division and cell death. The isoform alpha-1D
+    gives rise to L-type calcium currents. Long-lasting (L-type)
+    calcium channels belong to the "high-voltage activated" (HVA)
+    group. They are blocked by dihydropyridines (DHP),
+    phenylalkylamines, benzothiazepines, and by omega-agatoxin-IIIA
+    (omega-Aga-IIIA). They are however insensitive to omega-conotoxin-
+    GVIA (omega-CTx-GVIA) and omega-agatoxin-IVA (omega-Aga-IVA).
+-!- SUBUNIT: Voltage-dependent calcium channels are multisubunit
+    complexes, consisting of alpha-1, alpha-2, beta and delta subunits
+    in a 1:1:1:1 ratio. The channel activity is directed by the pore-
+    forming and voltage-sensitive alpha-1 subunit. In many cases, this
+    subunit is sufficient to generate voltage-sensitive calcium
+    channel activity. The auxiliary subunits beta and alpha-2/delta
+    linked by a disulfide bridge regulate the channel activity.
+    Interacts with RIMBP2 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=13;
+      Comment=The region sequenced in isoforms ROB3 and RKC5 is
+      identical to CACN4;
+    Name=1; Synonyms=CACN4A;
+      IsoId=P27732-1; Sequence=Displayed;
+    Name=2; Synonyms=CACN4B;
+      IsoId=P27732-2; Sequence=VSP_000923, VSP_000924;
+    Name=3; Synonyms=CACH3A, RB48, RBD-55;
+      IsoId=P27732-3; Sequence=VSP_000921;
+    Name=4; Synonyms=Delta-IV-S3, RKC6;
+      IsoId=P27732-4; Sequence=VSP_000919;
+    Name=5; Synonyms=Delta-IV-S4;
+      IsoId=P27732-5; Sequence=VSP_000922;
+    Name=6; Synonyms=RB9;
+      IsoId=P27732-6; Sequence=VSP_000920, VSP_000921;
+    Name=7; Synonyms=RB11;
+      IsoId=P27732-7; Sequence=VSP_000917;
+    Name=8; Synonyms=RB34;
+      IsoId=P27732-8; Sequence=VSP_000916;
+    Name=9; Synonyms=RH1;
+      IsoId=P27732-9; Sequence=VSP_000918;
+    Name=10; Synonyms=RH2;
+      IsoId=P27732-10; Sequence=VSP_000919, VSP_000922;
+    Name=11; Synonyms=RKC5;
+      IsoId=P27732-13; Sequence=Not described;
+    Name=12; Synonyms=ROB3;
+      IsoId=P27732-14; Sequence=Not described;
+    Name=13; Synonyms=Truncated;
+      IsoId=P27732-12; Sequence=VSP_000925, VSP_000926;
+-!- TISSUE SPECIFICITY: Expressed in brain, pancreatic islets and B-
+    lymphocytes.
+-!- DOMAIN: Each of the four internal repeats contains five
+    hydrophobic transmembrane segments (S1, S2, S3, S5, S6) and one
+    positively charged transmembrane segment (S4). S4 segments
+    probably represent the voltage-sensor and are characterized by a
+    series of positively charged amino acids at every third position.
+-!- SIMILARITY: Belongs to the calcium channel alpha-1 subunit family.
+ GO:0005891; C:voltage-gated calcium channel complex; TAS:RGD.
+ GO:0005245; F:voltage-gated calcium channel activity; IDA:RGD.
+ GO:0019722; P:calcium-mediated signaling; IDA:RGD.
+ GO:0007613; P:memory; IEP:RGD.
+Alternative splicing; Calcium; Calcium channel; Calcium transport;
+Glycoprotein; Ion transport; Ionic channel; Membrane; Phosphorylation;
+Repeat; Transmembrane; Transport; Voltage-gated channel.
+TMTWENTYFOUR

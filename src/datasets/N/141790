@@ -1,0 +1,14 @@
+AC   P42696; Q8N2Z8; Q9H5A1;
+RNA-binding protein 34 (RNA-binding motif protein 34).
+"Prediction of the coding sequences of unidentified human genes. III.
+The coding sequences of 40 new genes (KIAA0081-KIAA0120) deduced by
+analysis of cDNA clones from human cell line KG-1.";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Functional proteomic analysis of human nucleolus.";
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus.
+-!- SIMILARITY: Belongs to the RNP RBM34 family.
+-!- SIMILARITY: Contains 2 RRM (RNA recognition motif) domains.
+Nuclear protein; Repeat; RNA-binding.
+TMZERO

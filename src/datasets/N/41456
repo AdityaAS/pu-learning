@@ -1,0 +1,21 @@
+AC   P12293;
+Methanol dehydrogenase subunit 1 precursor (EC 1.1.99.8) (MDH large
+alpha subunit) (MEDH).
+"Isolation and nucleotide sequence of the methanol dehydrogenase
+structural gene from Paracoccus denitrificans.";
+-!- CATALYTIC ACTIVITY: A primary alcohol + acceptor = an aldehyde +
+    reduced acceptor.
+-!- COFACTOR: Binds 1 PQQ group per subunit. PQQ is inserted between
+    disulfide Cys-135-Cys-136 and the indole ring of Trp-275 (By
+    similarity).
+-!- COFACTOR: Binds 1 calcium ion per subunit (By similarity).
+-!- SUBUNIT: Heterotetramer composed of 2 alpha and 2 beta subunits.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- MISCELLANEOUS: MDH is the major protein in the cell during growth
+    on methanol (in P.denitrificans MDH constitutes up to 15% of the
+    total cell protein).
+-!- SIMILARITY: Belongs to the bacterial PQQ dehydrogenase family.
+ GO:0018468; F:alcohol dehydrogenase (acceptor) activity; IEA:EC.
+3D-structure; Calcium; Direct protein sequencing; Metal-binding;
+Methanol utilization; Oxidoreductase; Periplasmic; PQQ; Signal.
+TMZERO

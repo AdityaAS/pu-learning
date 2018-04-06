@@ -1,0 +1,20 @@
+AC   Q3AD64;
+Phosphoribosylformylglycinamidine synthase 2 (EC 6.3.5.3)
+(Phosphoribosylformylglycinamidine synthase II) (FGAM synthase II).
+"Life in hot carbon monoxide: the complete genome sequence of
+Carboxydothermus hydrogenoformans Z-2901.";
+-!- CATALYTIC ACTIVITY: ATP + 2-N-formyl-1-N-(5-phospho-D-
+    ribosyl)glycinamide + L-glutamine + H(2)O = ADP + phosphate + 2-
+    (formamido)-1-N-(5-phospho-D-ribosyl)acetamidine + L-glutamate.
+-!- PATHWAY: Nucleotide biosynthesis; IMP biosynthesis; 5-amino-1-(5-
+    phospho-D-ribosyl)imidazole-4-carboxamide from 2-N-formyl-1-N-(5-
+    phospho-D-ribosyl)glycinamide: step 1.
+-!- PATHWAY: Context: Purine biosynthesis.
+-!- SUBUNIT: Heterodimer of two subunits, purQ and purL.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the FGAMS family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0006164; P:purine nucleotide biosynthesis; IEA:HAMAP.
+ATP-binding; Complete proteome; Ligase; Nucleotide-binding;
+Purine biosynthesis.
+TMZERO

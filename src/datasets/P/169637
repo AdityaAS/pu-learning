@@ -1,0 +1,39 @@
+AC   Q92911; O43702; Q9NYB6;
+Sodium/iodide cotransporter (Na(+)/I(-) cotransporter) (Sodium-iodide
+symporter) (Na(+)/I(-)-symporter).
+"Cloning of the human sodium iodide symporter.";
+"Increased expression of the Na+/I- symporter in cultured human
+thyroid cells exposed to thyrotropin and in Graves' thyroid tissue.";
+"The DNA sequence and biology of human chromosome 19.";
+"Characterization of 3'UTR region of the human NIS cDNA.";
+"Congenital hypothyroidism caused by a mutation in the Na(+)/I(-)
+symporter.";
+"Novel, missense and loss-of-function mutations in the sodium/iodide
+symporter gene causing iodide transport defect in three Japanese
+patients.";
+"Congenital hypothyroidism due to mutations in the sodium/iodide
+symporter: identification of a nonsense mutation producing a
+downstream cryptic 3' splice site.";
+"A novel mutation in the sodium/iodide symporter gene in the largest
+family with iodide transport defect.";
+-!- FUNCTION: Mediates iodide uptake in the thyroid gland.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expression is primarily in thyroid tissue, but
+    also to a lower extent in mammary gland and ovary. Expression is
+    reduced in tumors.
+-!- DISEASE: Defects in SLC5A5 are the cause of iodide transport
+    defect (ITD) [MIM:274400]. ITD is characterized by an inability of
+    the thyroid to maintain a concentration difference of readily
+    exchangeable iodine between the plasma and the thyroid gland. It
+    is a cause of congenital hypothyroidism.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SLC5A5".
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0015111; F:iodide transporter activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Disease mutation; Glycoprotein; Ion transport; Membrane;
+Phosphorylation; Polymorphism; Sodium; Sodium transport; Symport;
+Transmembrane; Transport.
+TMTHIRTEEN

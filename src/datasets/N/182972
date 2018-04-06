@@ -1,0 +1,23 @@
+AC   Q9BQG1; Q8N5Z1; Q8N640;
+Synaptotagmin-3 (Synaptotagmin III) (SytIII).
+"Towards a catalog of human genes and proteins: sequencing and
+analysis of 500 novel complete protein coding human cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May be involved in Ca(2+)-dependent exocytosis of
+    secretory vesicles through Ca(2+) and phospholipid binding to the
+    C2 domain or may serve as Ca(2+) sensors in the process of
+    vesicular trafficking and exocytosis (By similarity).
+-!- COFACTOR: Binds 3 calcium ions per subunit. The ions are bound to
+    the C2 domains (By similarity).
+-!- SUBUNIT: Homodimer. Can also form heterodimers (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; secretory vesicle;
+    synaptic vesicle; synaptic vesicle membrane; single-pass membrane
+    protein (By similarity).
+-!- DOMAIN: The first C2 domain mediates Ca(2+)-dependent phospholipid
+    binding.
+-!- SIMILARITY: Belongs to the synaptotagmin family.
+-!- SIMILARITY: Contains 2 C2 domains.
+ GO:0005768; C:endosome; IDA:LIFEdb.
+Calcium; Membrane; Metal-binding; Repeat; Synapse; Transmembrane.
+TMONE

@@ -1,0 +1,13 @@
+AC   P26866;
+Mitochondrial ribosomal protein S4.
+"Gene organization deduced from the complete sequence of liverwort
+Marchantia polymorpha mitochondrial DNA. A primitive form of plant
+mitochondrial genome.";
+"Gene clusters for ribosomal proteins in the mitochondrial genome of a
+liverwort, Marchantia polymorpha.";
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- SIMILARITY: Belongs to the ribosomal protein S4P family.
+-!- SIMILARITY: Contains 1 S4 RNA-binding domain.
+Mitochondrion; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

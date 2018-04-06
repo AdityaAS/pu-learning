@@ -1,0 +1,11 @@
+AC   Q5KVF8;
+SsrA-binding protein.
+"Thermoadaptation trait revealed by the genome sequence of
+thermophilic Geobacillus kaustophilus.";
+-!- FUNCTION: Binds specifically to the ssrA RNA (tmRNA) and is
+    required for stable association of ssrA with ribosomes (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the smpB family.
+Complete proteome; RNA-binding.
+TMZERO

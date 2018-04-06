@@ -1,0 +1,23 @@
+AC   P54517;
+3-dehydroquinate dehydratase (EC 4.2.1.10) (3-dehydroquinase) (Type II
+DHQase).
+"Systematic sequencing of the 283 kb 210 degrees-232 degrees region of
+the Bacillus subtilis genome containing the skin element and many
+sporulation genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Crystal structure of the type II dehydroquinase from Bacillus
+subtilis.";
+-!- CATALYTIC ACTIVITY: 3-dehydroquinate = 3-dehydroshikimate + H(2)O.
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 3.
+-!- PATHWAY: Context: Aromatic amino acids biosynthesis.
+-!- SUBUNIT: Homododecamer.
+-!- SIMILARITY: Belongs to the type-II 3-dehydroquinase family.
+-!- CAUTION: Phe-23 is present instead of the conserved Tyr which is
+    expected to be an active site residue.
+ GO:0016089; P:aromatic amino acid family biosynthesis, sh...; IEA:HAMAP.
+3D-structure; Amino-acid biosynthesis;
+Aromatic amino acid biosynthesis; Complete proteome; Lyase.
+TMZERO

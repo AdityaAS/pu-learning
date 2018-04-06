@@ -1,0 +1,15 @@
+AC   P82608;
+Glutathione S-transferase 8.2 (EC 2.5.1.18) (GST-8.2) (GST class-
+alpha) (Fragments).
+"Purification and characterization of glutathione transferases from
+the sea bass (Dicentrarchus labrax) liver.";
+-!- FUNCTION: Conjugation of reduced glutathione to a wide number of
+    exogenous and endogenous hydrophobic electrophiles.
+-!- CATALYTIC ACTIVITY: RX + glutathione = HX + R-S-glutathione.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the GST superfamily. Alpha family.
+ GO:0004364; F:glutathione transferase activity; IEA:EC.
+Direct protein sequencing; Transferase.
+TMZERO

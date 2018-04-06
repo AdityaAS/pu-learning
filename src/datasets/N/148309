@@ -1,0 +1,16 @@
+AC   Q8YHM4;
+50S ribosomal protein L18.
+"The genome sequence of the facultative intracellular pathogen
+Brucella melitensis.";
+-!- FUNCTION: This is one of the proteins that binds and probably
+    mediates the attachment of the 5S RNA into the large ribosomal
+    subunit, where it forms part of the central protuberance (By
+    similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit; part of the 5S
+    rRNA/L5/L18/L25 subcomplex. Contacts the 5S and 23S rRNAs (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L18P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

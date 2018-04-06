@@ -1,0 +1,22 @@
+AC   P29995; Q99P56;
+Inositol 1,4,5-trisphosphate receptor type 2 (Type 2 inositol 1,4,5-
+trisphosphate receptor) (Type 2 InsP3 receptor) (IP3 receptor isoform
+2) (InsP3R2).
+"Structure of a novel InsP3 receptor.";
+"New rat IP3R isoform 2 sequence.";
+-!- FUNCTION: Receptor for inositol 1,4,5-trisphosphate, a second
+    messenger that mediates the release of intracellular calcium.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- DOMAIN: The receptor contains a calcium channel in its C-terminal
+    extremity. Its large N-terminal cytoplasmic region has the ligand-
+    binding site in the N-terminus and modulatory sites in the middle
+    portion immediately upstream of the channel region.
+-!- PTM: Phosphorylated on tyrosine residues (By similarity).
+-!- SIMILARITY: Belongs to the InsP3 receptor family.
+-!- SIMILARITY: Contains 5 MIR domains.
+Calcium; Calcium channel; Calcium transport; Endoplasmic reticulum;
+Ion transport; Ionic channel; Membrane; Phosphorylation; Polymorphism;
+Receptor; Repeat; Transmembrane; Transport.
+TMSEVEN

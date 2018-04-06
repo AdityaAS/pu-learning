@@ -1,0 +1,16 @@
+AC   P40328; P40324; Q02845; Q05773;
+Probable 26S protease subunit YTA6 (TAT-binding homolog 6).
+"Identification of a set of yeast genes coding for a novel family of
+putative ATPases with high similarity to constituents of the 26S
+protease complex.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Glycolytic gene expression in Saccharomyces cerevisiae: nucleotide
+sequence of GCR1, null mutants, and evidence for expression.";
+"Global analysis of protein expression in yeast.";
+-!- MISCELLANEOUS: Present with 259 molecules/cell.
+-!- SIMILARITY: Belongs to the AAA ATPase family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to several
+    sequencing errors that include frameshifts and rearrangements.
+ GO:0005938; C:cell cortex; IDA:SGD.
+ATP-binding; Complete proteome; Nucleotide-binding.
+TMZERO

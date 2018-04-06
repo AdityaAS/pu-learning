@@ -1,0 +1,12 @@
+AC   P56328;
+Protein ycf12.
+"Complete nucleotide sequence of the chloroplast genome from the green
+alga Chlorella vulgaris: the existence of genes possibly involved in
+chloroplast division.";
+-!- FUNCTION: Unknown.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast membrane;
+    single-pass membrane protein (Potential).
+-!- SIMILARITY: Belongs to the ycf12 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Chloroplast; Membrane; Plastid; Transmembrane.
+TMONE

@@ -1,0 +1,36 @@
+AC   P26433;
+Sodium/hydrogen exchanger 3 (Na(+)/H(+) exchanger 3) (NHE-3) (Solute
+carrier family 9 member 3).
+"Molecular cloning of putative members of the Na/H exchanger gene
+family. cDNA cloning, deduced amino acid sequence, and mRNA tissue
+expression of the rat Na/H exchanger NHE-1 and two structurally
+related proteins.";
+"Acute inhibition of Na/H exchanger NHE-3 by cAMP. Role of protein
+kinase a and NHE-3 phosphoserines 552 and 605.";
+"Shank2 associates with and regulates Na+/H+ exchanger 3.";
+-!- FUNCTION: Involved in pH regulation to eliminate acids generated
+    by active metabolism or to counter adverse environmental
+    conditions. Major proton extruding system driven by the inward
+    sodium ion chemical gradient. Plays an important role in signal
+    transduction.
+-!- SUBUNIT: Binds SLC9A3R1 and SLC9A3R2 (By similarity). Interacts
+    with SHANK2.
+-!- INTERACTION:
+    Q9QX74:Shank2; NbExp=1; IntAct=EBI-961694, EBI-397902;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Most abundant in colon and small intestine,
+    followed by kidney and stomach.
+-!- PTM: Phosphorylated by PKA, which inhibits activity.
+-!- SIMILARITY: Belongs to the Na(+)/H(+) exchanger (TC 2.A.36.5.1)
+    family.
+-!- CAUTION: The number, localization and denomination of hydrophobic
+    domains in the Na(+)/H(+) exchangers vary among authors.
+ GO:0031526; C:brush border membrane; IMP:RGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015385; F:sodium:hydrogen antiporter activity; IDA:RGD.
+ GO:0007623; P:circadian rhythm; IEP:RGD.
+ GO:0006898; P:receptor-mediated endocytosis; IMP:RGD.
+ GO:0002028; P:regulation of sodium ion transport; IMP:RGD.
+Antiport; Glycoprotein; Ion transport; Membrane; Phosphorylation;
+Sodium; Sodium transport; Transmembrane; Transport.
+TMTEN

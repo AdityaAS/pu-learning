@@ -1,0 +1,47 @@
+AC   Q8BFU2;
+Histone H2A type 3.
+"The human and mouse replication-dependent histone genes.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Polycomb group proteins Ring1A/B link ubiquitylation of histone H2A
+to heritable gene silencing and X inactivation.";
+"Ring1b-mediated H2A ubiquitination associates with inactive X
+chromosomes and is involved in initiation of X inactivation.";
+"Blimp1 associates with Prmt5 and directs histone arginine methylation
+in mouse germ cells.";
+-!- FUNCTION: Core component of nucleosome. Nucleosomes wrap and
+    compact DNA into chromatin, limiting DNA accessibility to the
+    cellular machineries which require DNA as a template. Histones
+    thereby play a central role in transcription regulation, DNA
+    repair, DNA replication and chromosomal stability. DNA
+    accessibility is regulated via a complex set of post-translational
+    modifications of histones, also called histone code, and
+    nucleosome remodelling.
+-!- SUBUNIT: The nucleosome is a histone octamer containing two
+    molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4
+    heterotetramer and two H2A-H2B heterodimers. The octamer wraps
+    approximately 147 bp of DNA.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- PTM: Monoubiquitination of Lys-119 by RING1 and RNF2/RING2 complex
+    gives a specific tag for epigenetic transcriptional repression and
+    participates in X chromosome inactivation of female mammals. It is
+    involved in the initiation of both imprinted and random X
+    inactivation. Ubiquitinated H2A is enriched in inactive X
+    chromosome chromatin. Ubiquitination of H2A functions downstream
+    of methylation of 'Lys-27' of histone H3. Monoubiquitination of
+    Lys-119 by RNF2/RING2 can also be induced by ultraviolet and may
+    be involved in DNA repair.
+-!- PTM: Phosphorylation on Ser-1 is enhanced during mitosis.
+    Phosphorylation on Ser-1 by RPS6KA5/MSK1 directly represses
+    transcription. Acetylation of H3 inhibits Ser-1 phosphorylation by
+    RPS6KA5/MSK1 (By similarity).
+-!- PTM: The chromatin-associated form is phosphorylated on Thr-120
+    during mitosis (By similarity).
+-!- PTM: Symmetric dimethylation on Arg-3 by the PRDM1/PRMT5 complex
+    may play a crucial role in the germ-cell lineage.
+-!- SIMILARITY: Belongs to the histone H2A family.
+Acetylation; Chromosomal protein; Citrullination; DNA-binding;
+Methylation; Nuclear protein; Nucleosome core; Phosphorylation;
+Ubl conjugation.
+TMZERO

@@ -1,0 +1,16 @@
+AC   Q9S3K0;
+Sugar efflux transporter A.
+"Characterization of SotA and SotB, two Erwinia chrysanthemi proteins
+which modify isopropyl-beta-D-thiogalactopyranoside and lactose
+induction of the Escherichia coli lac promoter.";
+-!- FUNCTION: Involved in the efflux of sugars. The physiological role
+    may be the reduction of the intracellular concentration of toxic
+    sugars or sugar metabolites. Transports IPTG, lactose and
+    arabinose.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- INDUCTION: Activated by cyclic AMP receptor protein (CRP).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Set
+    transporter family.
+Inner membrane; Membrane; Sugar transport; Transmembrane; Transport.
+TMTWELVE

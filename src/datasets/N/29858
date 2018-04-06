@@ -1,0 +1,13 @@
+AC   Q8R3I3; Q9CTA8;
+Conserved oligomeric Golgi complex component 6.
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: Required for normal Golgi function (By similarity).
+-!- SUBUNIT: Component of the conserved oligomeric Golgi complex which
+    is composed of eight different subunits and is required for normal
+    Golgi morphology and localization (By similarity).
+-!- SUBCELLULAR LOCATION: Golgi apparatus (By similarity).
+-!- SIMILARITY: Belongs to the COG6 family.
+Golgi apparatus; Membrane; Protein transport; Transport.
+TMZERO

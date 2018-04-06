@@ -1,0 +1,20 @@
+AC   O07515;
+Probable tryptophan transport protein.
+"The 172 kb prkA-addAB region from 83 degrees to 97 degrees of the
+Bacillus subtilis chromosome contains several dysfunctional genes, the
+glyB marker, many genes encoding transporter proteins, and the
+ubiquitous hit gene.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"A Bacillus subtilis gene of previously unknown function, yhaG, is
+translationally regulated by tryptophan-activated TRAP and appears to
+be involved in tryptophan transport.";
+-!- FUNCTION: Probably involved in tryptophan uptake.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: Its translation is regulated by tryptophan-activated
+    RNA-binding regulatory protein (TRAP).
+-!- SIMILARITY: Belongs to the trpP transporter family.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMFOUR

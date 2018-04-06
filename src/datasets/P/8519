@@ -1,0 +1,25 @@
+AC   P47862;
+Aquaporin-3 (AQP-3) (31.4 kDa water channel protein).
+"Cloning and expression of AQP3, a water channel from the medullary
+collecting duct of rat kidney.";
+"Molecular cloning and expression of a member of the aquaporin family
+with permeability to glycerol and urea in addition to water expressed
+at the basolateral membrane of kidney collecting duct cells.";
+-!- FUNCTION: Forms a water-specific channel that provide kidney
+    medullary collecting duct with high permeability to water, thereby
+    permitting water to move in the direction of an osmotic gradient.
+    May function as a water and urea exit mechanism in antidiuresis in
+    collecting duct cells. Also slightly permeable to urea and
+    glycerol. It may play an important role in gastrointestinal tract
+    water transport and in glycerol metabolism.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Renal medulla and colon. Predominantly in the
+    inner medulla.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+ GO:0015250; F:water channel activity; IDA:RGD.
+ GO:0006833; P:water transport; IDA:RGD.
+Membrane; Repeat; Transmembrane; Transport.
+TMSIX

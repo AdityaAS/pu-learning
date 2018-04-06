@@ -1,0 +1,23 @@
+AC   P39216;
+Methyl-accepting chemotaxis protein tlpA.
+"Cloning and characterization of genes encoding methyl-accepting
+chemotaxis proteins in Bacillus subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Chemotactic-signal transducers respond to changes in the
+    concentration of attractants and repellents in the environment,
+    transduce a signal from the outside to the inside of the cell, and
+    facilitate sensory adaptation through the variation of the level
+    of methylation. All amino acids serve as attractants in
+    B.subtilis, they appear to cause an increase in the turnover
+    methyl groups, leading to methylation of an unidentified acceptor,
+    while repellents have been shown to cause a decrease in methyl
+    group turnover. The methyl groups are added by a methyltransferase
+    and removed by a methylesterase.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Contains 1 HAMP domain.
+-!- SIMILARITY: Contains 1 methyl-accepting transducer domain.
+Chemotaxis; Complete proteome; Membrane; Methylation; Transducer;
+Transmembrane.
+TMTWO

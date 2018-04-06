@@ -1,0 +1,24 @@
+AC   Q00725; O76917; Q24438; Q24504; Q24513; Q24514; Q24515; Q24516;
+AC   Q24517; Q7JMJ3; Q7JQ97; Q7JQ98; Q7JQ99; Q7JQA0; Q7JQA1; Q7JQA2;
+AC   Q9W4T2;
+Salivary glue protein Sgs-4 precursor.
+"Molecular characterization of a Drosophila melanogaster variant
+strain defective in the Sgs-4 gene dosage compensation.";
+"Identification of cis-acting elements for dosage compensation in
+Drosophila melanogaster by statistical analysis.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"From sequence to chromosome: the tip of the X chromosome of D.
+melanogaster.";
+"An expandable gene that encodes a Drosophila glue protein is not
+expressed in variants lacking remote upstream sequences.";
+-!- SUBCELLULAR LOCATION: Secreted protein (Potential).
+-!- TISSUE SPECIFICITY: Salivary gland.
+-!- POLYMORPHISM: The sequence shown is that from strain Oregon-R. The
+    number of the 7 residues repeat vary between strains: strain
+    Oregon-R(2/10) has 11 more copies, strain Karsnas has 8 more
+    copies of the repeat, strain Samarkand-pk1 has 1 less copy and
+    strain Samarkand-pSW9 and strain Berkeley have 2 less copies.
+Complete proteome; Polymorphism; Repeat; Signal.
+TMZERO

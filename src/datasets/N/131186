@@ -1,0 +1,18 @@
+AC   Q9Z0T3;
+Major prion protein precursor (PrP) (CD230 antigen).
+"Analysis of 27 mammalian and 9 avian PrPs reveals high conservation
+of flexible regions of the prion protein.";
+-!- FUNCTION: The function of PrP is not known. PrP is encoded in the
+    host genome and is expressed both in normal and infected cells.
+-!- SUBUNIT: PrP has a tendency to aggregate yielding polymers called
+    "rods".
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor.
+-!- DISEASE: Found in high quantity in the brain of humans and animals
+    infected with degenerative neurological diseases such as kuru,
+    Creutzfeldt-Jakob disease (CJD), Gerstmann-Straussler syndrome
+    (GSS), scrapie, bovine spongiform encephalopathy (BSE),
+    transmissible mink encephalopathy (TME), etc.
+-!- SIMILARITY: Belongs to the prion family.
+Glycoprotein; GPI-anchor; Lipoprotein; Membrane; Prion; Repeat;
+Signal.
+TMZERO

@@ -1,0 +1,20 @@
+AC   P17556;
+Alanine dehydrogenase (EC 1.4.1.1).
+"Alanine dehydrogenases from two Bacillus species with distinct
+thermostabilities: molecular cloning, DNA and protein sequence
+determination, and structural comparison with other NAD(P)(+)-
+dependent dehydrogenases.";
+-!- FUNCTION: This enzyme is a key factor in the assimilation of L-
+    alanine as an energy source through the tricarboxylic acid cycle
+    during sporulation.
+-!- CATALYTIC ACTIVITY: L-alanine + H(2)O + NAD(+) = pyruvate + NH(3)
+    + NADH.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Temperature dependence:
+      Loses about 50% of its initial activity when heated at 65
+      degrees Celsius for 5 min;
+-!- SUBUNIT: Homohexamer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the AlaDH/PNT family.
+Direct protein sequencing; NAD; Oxidoreductase.
+TMZERO

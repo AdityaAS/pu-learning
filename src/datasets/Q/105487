@@ -1,0 +1,16 @@
+AC   Q9M2P2;
+Putative metal tolerance protein C3 (AtMTPc3).
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"Phylogenetic relationships within cation transporter families of
+Arabidopsis.";
+-!- FUNCTION: Involved in sequestration of excess metal in the
+    cytoplasm into vacuoles to maintain metal homeostasis (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein (By similarity). Note=Tonoplast.
+-!- SIMILARITY: Belongs to the cation diffusion facilitator (CDF)
+    transporter (TC 2.A.4) family.
+Hypothetical protein; Membrane; Metal-binding; Transmembrane;
+Transport; Vacuole.
+TMSIX

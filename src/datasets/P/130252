@@ -1,0 +1,13 @@
+AC   P14215;
+Polyphemusin-1 (Polyphemusin I).
+"Antimicrobial peptides, isolated from horseshoe crab hemocytes,
+tachyplesin II, and polyphemusins I and II: chemical structures and
+biological activity.";
+-!- FUNCTION: Significantly inhibits the growth of Gram-negative and
+    Gram-positive bacteria.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Hemocytes.
+-!- SIMILARITY: Belongs to the tachyplesin/polyphemusin family.
+3D-structure; Amidation; Antibiotic; Antimicrobial;
+Direct protein sequencing.
+TMZERO

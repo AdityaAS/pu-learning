@@ -1,0 +1,18 @@
+AC   P04739;
+Fimbrial protein precursor (Pilin) (Strain PAO).
+"Comparative studies of the amino acid and nucleotide sequences of
+pilin derived from Pseudomonas aeruginosa PAK and PAO.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"Mutations in the fifth-position glutamate in Pseudomonas aeruginosa
+pilin affect the transmethylation of the N-terminal phenylalanine.";
+"Comparison of NMR solution structures of the receptor binding domains
+of Pseudomonas aeruginosa pili strains PAO, KB7, and PAK: implications
+for receptor binding and synthetic vaccine design.";
+-!- SUBUNIT: The pili are polar flexible filaments of about 5.4
+    nanometers diameter and 2.5 micrometers average length; they
+    consist of only a single polypeptide chain arranged in a helical
+    configuration of five subunits per turn in the assembled pilus.
+-!- SIMILARITY: Belongs to the N-Me-Phe pili family.
+3D-structure; Complete proteome; Fimbria; Methylation.
+TMZERO

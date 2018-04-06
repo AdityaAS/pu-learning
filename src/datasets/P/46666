@@ -1,0 +1,11 @@
+AC   P0ADB8; P56549;
+Entericidin B precursor.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Plays a role in the bacteriolysis. Is activated under
+    conditions of high osmolarity by the factor sigma S. Entericidin A
+    functions as an antidote (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Potential).
+-!- SIMILARITY: Belongs to the ecnA/ecnB lipoprotein family.
+Complete proteome; Lipoprotein; Membrane; Palmitate; Signal.
+TMZERO

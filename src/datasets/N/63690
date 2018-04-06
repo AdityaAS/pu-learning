@@ -1,0 +1,35 @@
+AC   Q3AVF3;
+Bifunctional protein glmU [Includes: UDP-N-acetylglucosamine
+pyrophosphorylase (EC 2.7.7.23) (N-acetylglucosamine-1-phosphate
+uridyltransferase); Glucosamine-1-phosphate N-acetyltransferase
+(EC 2.3.1.157)].
+"Complete sequence of Synechococcus sp. CC9902.";
+-!- FUNCTION: Catalyzes the last two sequential reactions in the de
+    novo biosynthetic pathway for UDP-GlcNAc. Responsible for the
+    acetylation of Glc-N-1-P to give GlcNAc-1-P and for the uridyl
+    transfer from UTP to GlcNAc-1-P which produces UDP-GlcNAc (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + alpha-D-glucosamine 1-phosphate =
+    CoA + N-acetyl-alpha-D-glucosamine 1-phosphate.
+-!- CATALYTIC ACTIVITY: UTP + N-acetyl-alpha-D-glucosamine 1-phosphate
+    = diphosphate + UDP-N-acetyl-D-glucosamine.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- PATHWAY: Peptidoglycan biosynthesis; lipopolysaccharide
+    biosynthesis (lipid A biosynthesis); UDP-N-acetylglucosamine from
+    fructose-6-P: step 3.
+-!- PATHWAY: Peptidoglycan biosynthesis; lipopolysaccharide
+    biosynthesis (lipid A biosynthesis); UDP-N-acetylglucosamine from
+    fructose-6-P: step 4.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: In the N-terminal section; belongs to the N-
+    acetylglucosamine-1-phosphate uridyltransferase family.
+-!- SIMILARITY: In the C-terminal section; belongs to the transferase
+    hexapeptide repeat family.
+ GO:0019186; F:acyl-CoA N-acyltransferase activity; IEA:HAMAP.
+ GO:0019134; F:glucosamine-1-phosphate N-acetyltransferase...; IEA:EC.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0009252; P:peptidoglycan biosynthesis; IEA:HAMAP.
+Acyltransferase; Cell shape; Cell wall; Complete proteome; Magnesium;
+Metal-binding; Multifunctional enzyme; Nucleotidyltransferase;
+Peptidoglycan synthesis; Repeat; Transferase.
+TMZERO

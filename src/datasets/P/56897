@@ -1,0 +1,28 @@
+AC   Q8PU59; Q9P9F9;
+F(420)H(2) oxidoreductase subunit H (F(420)H(2) dehydrogenase subunit
+H) (FPO subunit H).
+"The F(420)H(2) dehydrogenase from Methanosarcina mazei is a redox-
+driven proton pump closely related to NADH dehydrogenases.";
+"The genome of Methanosarcina mazei: evidence for lateral gene
+transfer between Bacteria and Archaea.";
+"Purification and properties of an F(420)H(2) dehydrogenase from
+Methanosarcina mazei Go1.";
+-!- FUNCTION: FPO shuttles electrons from F(420)H(2), via FAD and
+    iron-sulfur (Fe-S) centers, to quinones in the
+    F(420)H(2):heterodisulfide oxidoreduction chain. The immediate
+    electron acceptor for the enzyme in this species is believed to be
+    methanophenazine. Couples the redox reaction to proton
+    translocation (for every two electrons transferred, 0.9 hydrogen
+    ions are translocated across the cytoplasmic membrane), and thus
+    conserves the redox energy in a proton gradient (By similarity).
+-!- SUBUNIT: FPO is composed of at least 12 different subunits.
+    Subunits fpoA, H, J, K, L, M, N constitute the membrane sector of
+    the complex (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the complex I subunit 1 family.
+ GO:0016655; F:oxidoreductase activity, acting on NADH or ...; IEA:HAMAP.
+ GO:0019684; P:photosynthesis, light reaction; IEA:HAMAP.
+Complete proteome; FAD; Membrane; Oxidoreductase; Quinone;
+Transmembrane.
+TMEIGHT

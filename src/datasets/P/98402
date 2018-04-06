@@ -1,0 +1,37 @@
+AC   O43772; Q9UIQ2;
+Mitochondrial carnitine/acylcarnitine carrier protein
+(Carnitine/acylcarnitine translocase) (CAC) (Solute carrier family 25
+member 20).
+"Cloning of the human carnitine-acylcarnitine carrier cDNA and
+identification of the molecular defect in a patient.";
+"The structure and organization of the human carnitine/acylcarnitine
+translocase (CACT) gene.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"A novel molecular defect of the carnitine acylcarnitine translocase
+gene in a Saudi patient.";
+"Response to therapy in carnitine/acylcarnitine translocase (CACT)
+deficiency due to a novel missense mutation.";
+"Molecular and functional analysis of SLC25A20 mutations causing
+carnitine-acylcarnitine translocase deficiency.";
+-!- FUNCTION: Mediates the transport of acylcarnitines of different
+    length across the mitochondrial inner membrane from the cytosol to
+    the mitochondrial matrix for their oxidation by the mitochondrial
+    fatty acid-oxidation pathway.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- DISEASE: Defects in SLC25A20 are the cause of carnitine-
+    acylcarnitine translocase deficiency (CACT deficiency)
+    [MIM:212138]. It is an autosomal recessive deficiency in
+    mitochondrial oxidation of fatty acids. It is usually lethal
+    within a few hours or days after birth. Symptoms characterizing
+    its normally severe clinical phenotype include fatty hepatomegaly
+    with abnormal liver function, cardiomyopathy, muscle weakness and
+    episodes of life-threatening coma, which eventually lead to death.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SLC25A20".
+Acetylation; Disease mutation; Inner membrane; Membrane;
+Mitochondrion; Repeat; Transmembrane; Transport.
+TMSIX

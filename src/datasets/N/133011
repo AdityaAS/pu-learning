@@ -1,0 +1,17 @@
+AC   P23076; Q5N4N6;
+Photosystem I reaction center subunit II (Photosystem I 16 kDa
+polypeptide) (PSI-D).
+"Complete genome structure of the unicellular cyanobacterium Anacystis
+nidulans 6301 (Synechococcus sp. PCC6301).";
+"Structural studies on cyanobacterial photosystem I. Purification and
+characterization of two low molecular weight polypeptides.";
+"Polypeptide composition of the Photosystem I complex and the
+Photosystem I core protein from Synechococcus sp. PCC 6301.";
+-!- FUNCTION: PsaD can form complexes with ferredoxin and ferredoxin-
+    oxidoreductase in photosystem I (PS I) reaction center.
+-!- SIMILARITY: Belongs to the psaD family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 69.
+Complete proteome; Direct protein sequencing; Photosynthesis;
+Photosystem I.
+TMZERO

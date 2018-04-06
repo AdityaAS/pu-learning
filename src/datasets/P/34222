@@ -1,0 +1,20 @@
+AC   P14608;
+Cytotoxin precursor (Leucocidin).
+"Pseudomonas aeruginosa cytotoxin: the nucleotide sequence of the gene
+and the mechanism of activation of the protoxin.";
+"The cytotoxin of Pseudomonas aeruginosa: cytotoxicity requires
+proteolytic activation.";
+"Purification and characterization of cytotoxin from the crude extract
+of Pseudomonas aeruginosa.";
+-!- FUNCTION: Cytotoxin is thought to form hydrophilic pores in cell
+    membranes.
+-!- SUBCELLULAR LOCATION: Note=Produced as a cell-associated inactive
+    precursor which is not secreted extracellularly. The toxin is
+    converted into its active form by the action of proteases
+    concomitantly with cell lysis and is released into the medium.
+-!- MISCELLANEOUS: This protein toxin may be one of the virulence
+    factors because it shows strong cytotoxic effects on most
+    eukaryotic cells, especially leukocytes.
+-!- SIMILARITY: Belongs to the aerolysin family.
+Direct protein sequencing; Toxin; Virulence.
+TMZERO

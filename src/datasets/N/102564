@@ -1,0 +1,21 @@
+AC   P82810;
+Morphine 6-dehydrogenase (EC 1.1.1.218) (Fragments).
+"Purification, characterization and partial primary structure of
+morphine 6-dehydrogenase from rabbit liver cytosol.";
+-!- FUNCTION: Catalyzes the dehydrogenation of morphine to morphinone.
+    Uses both NAD and NADP, but the activity is much greater with NAD
+    than with NADP.
+-!- CATALYTIC ACTIVITY: Morphine + NAD(P)(+) = morphinone + NAD(P)H.
+-!- ENZYME REGULATION: Strongly inhibited by sulfhydryl reagents and
+    quercetin, but not by pyrazole, barbital and indomethacine.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 9.4 with NAD as the cofactor;
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the aldo/keto reductase family.
+ GO:0050109; F:morphine 6-dehydrogenase activity; IEA:EC.
+Alkaloid metabolism; Direct protein sequencing; NAD; NADP;
+Oxidoreductase.
+TMZERO

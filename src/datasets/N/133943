@@ -1,0 +1,13 @@
+AC   Q85BB6;
+Photosystem II reaction center protein K precursor (PSII-K).
+"The complete nucleotide sequence of the hornwort (Anthoceros
+formosae) chloroplast genome: insight into the earliest land plants.";
+"RNA editing in hornwort chloroplasts makes more than half the genes
+functional.";
+-!- FUNCTION: This protein is a component of the reaction center of
+    photosystem II.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- RNA EDITING: Modified_positions=17, 20.
+-!- SIMILARITY: Belongs to the psbK family.
+Chloroplast; Photosynthesis; Photosystem II; Plastid; RNA editing.
+TMZERO

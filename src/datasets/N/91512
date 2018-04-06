@@ -1,0 +1,42 @@
+AC   P38439;
+RNA polymerase-associated protein LEO1.
+"The gene LEO1 on yeast chromosome XV encodes a non-essential,
+extremely hydrophilic protein.";
+"Sequencing and analysis of 51 kb on the right arm of chromosome XV
+from Saccharomyces cerevisiae reveals 30 open reading frames.";
+"DNA sequencing and analysis of 130 kb from yeast chromosome XV.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Ubiquitin-specific proteases of Saccharomyces cerevisiae. Cloning of
+UBP2 and UBP3, and functional analysis of the UBP gene family.";
+"Ctr9, Rtf1, and Leo1 are components of the Paf1/RNA polymerase II
+complex.";
+"Global analysis of protein expression in yeast.";
+"Separation of the Saccharomyces cerevisiae Paf1 complex from RNA
+polymerase II results in changes in its subnuclear localization.";
+"A requirement for the Saccharomyces cerevisiae Paf1 complex in snoRNA
+3' end formation.";
+-!- FUNCTION: The PAF1 complex is a multifunctional complex. Involved
+    in transcription initiation via genetic interactions with TATA-
+    binding proteins. Involved in elongation. It regulates 3'-end
+    formation of snR47 by modulating the recruitment or stable
+    association of NRD1 and NAB3 with RNA polymerase II. Also has a
+    role in transcription-coupled histone modification. Required for
+    activation of RAD6 ubiquitin conjugate and the BRE1 ubiquitin
+    ligase which ubiquitinate 'Lys-126' histone H2B. Activates the
+    SET1 histone methyltransferase complex for methylation of 'Lys-4'
+    of histone H3 and for methylation of 'Lys-73' of histone H3 by
+    DOT1 and 'Lys-36' of histone H3 by SET2.
+-!- SUBUNIT: Component of the PAF1 complex which consists of at least
+    CDC73, CTR9, LEO1, PAF1 and RTF1.
+-!- SUBCELLULAR LOCATION: Nucleus; nucleoplasm.
+-!- MISCELLANEOUS: Present with 1110 molecules/cell.
+-!- SIMILARITY: Belongs to the LEO1 family.
+ GO:0016593; C:Cdc73/Paf1 complex; IPI:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0016944; F:RNA polymerase II transcription elongation ...; IPI:SGD.
+ GO:0016571; P:histone methylation; IMP:SGD.
+ GO:0006368; P:RNA elongation from RNA polymerase II promoter; IPI:SGD.
+ GO:0000723; P:telomere maintenance; IMP:SGD.
+Activator; Complete proteome; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

@@ -1,0 +1,23 @@
+AC   Q7V872;
+Divinyl chlorophyll a/b light-harvesting protein pcbA.
+"Genome divergence in two Prochlorococcus ecotypes reflects oceanic
+niche differentiation.";
+"Low-light-adapted Prochlorococcus species possess specific antennae
+for each photosystem.";
+-!- FUNCTION: The antenna complex functions as a light receptor, it
+    captures and delivers excitation energy to photosystems II. The
+    Prochlorales pcb genes are not related to the higher plant LHCs.
+-!- COFACTOR: Divinyl chlorophyll a (By similarity).
+-!- COFACTOR: Divinyl chlorophyll b (By similarity).
+-!- SUBUNIT: The antenna complex consists of divinyl chlorophylls (a
+    and b) and divinyl chlorophyll a/b binding proteins (By
+    similarity). Also forms complexes with PSII, consisting of a PSII
+    dimer and 4 or 8 pcbA subunits. These complexes are also found
+    under conditions of iron-starvation.
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; multi-pass
+    membrane protein.
+-!- INDUCTION: Transcription decreases upon iron starvation.
+-!- SIMILARITY: Belongs to the psbB/psbC family. IsiA/pcb subfamily.
+Chlorophyll; Chromophore; Complete proteome; Membrane; Photosynthesis;
+Photosystem II; Thylakoid; Transmembrane.
+TMSIX

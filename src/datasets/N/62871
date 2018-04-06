@@ -1,0 +1,19 @@
+AC   Q6L2Z9;
+1,4-alpha-glucan branching enzyme (EC 2.4.1.18) (Glycogen branching
+enzyme) (BE) (1,4-alpha-D-glucan:1,4-alpha-D-glucan 6-glucosyl-
+transferase).
+"Genome sequence of Picrophilus torridus and its implications for life
+around pH 0.";
+-!- FUNCTION: Catalyzes the formation of the alpha-1,6-glucosidic
+    linkages in glycogen by scission of a 1,4-alpha-linked
+    oligosaccharide from growing alpha-1,4-glucan chains and the
+    subsequent attachment of the oligosaccharide to the alpha-1,6
+    position (By similarity).
+-!- CATALYTIC ACTIVITY: Transfers a segment of a 1,4-alpha-D-glucan
+    chain to a primary hydroxy group in a similar glucan chain.
+-!- PATHWAY: Glycogen biosynthesis; third step.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 13 family.
+Complete proteome; Glycogen biosynthesis; Glycosyltransferase;
+Transferase.
+TMZERO

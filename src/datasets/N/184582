@@ -1,0 +1,22 @@
+AC   Q24325; Q8SZR7; Q9VT64;
+Transcription initiation factor TFIID subunit 2 (Transcription
+initiation factor TFIID 150 kDa subunit) (TAFII-150) (TAFII150).
+"Drosophila TAFII150: similarity to yeast gene TSM-1 and specific
+binding to core promoter DNA.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Molecular cloning and characterization of dTAFII30 alpha and dTAFII30
+beta: two small subunits of Drosophila TFIID.";
+-!- FUNCTION: TFIID is a multimeric protein complex that plays a
+    central role in mediating promoter responses to various activators
+    and repressors. An essential subunit binds to core promoter DNA.
+-!- SUBUNIT: Belongs to the TFIID complex which is composed of TATA
+    binding protein (Tbp) and a number of TBP-associated factors
+    (TAFs). Interacts with Tbp, Taf1, Taf11 and Taf12.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the TAF2 family.
+Complete proteome; Direct protein sequencing; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

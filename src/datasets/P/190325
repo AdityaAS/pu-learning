@@ -1,0 +1,15 @@
+AC   P0A857; P19935;
+Protein tolB precursor.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Involved in the tonB-independent uptake of group A
+    colicins (colicins A, E1, E2, E3 and K). Necessary for the
+    colicins to reach their respective targets after initial binding
+    to the bacteria (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the tolB family.
+ GO:0017038; P:protein import; IEA:HAMAP.
+Bacteriocin transport; Complete proteome; Periplasmic;
+Protein transport; Signal; Transport.
+TMZERO

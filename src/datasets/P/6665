@@ -1,0 +1,15 @@
+AC   Q9M6N7;
+Ammonium transporter 2 (AtAMT2).
+"Characterization of Arabidopsis AtAMT2, a novel ammonium transporter
+in plants.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+-!- FUNCTION: Transports ammonium, probably in an energy-dependent
+    manner. Does not transport methylammonium.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Higher expression in shoots than roots.
+-!- SIMILARITY: Belongs to the ammonium transporter (TC 2.A.49)
+    family.
+Ammonia transport; Membrane; Polymorphism; Transmembrane; Transport.
+TMELEVEN

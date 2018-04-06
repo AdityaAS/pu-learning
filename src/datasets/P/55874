@@ -1,0 +1,13 @@
+AC   P0A1L5; P54701;
+Flagellar biosynthetic protein fliQ.
+"The FliO, FliP, FliQ, and FliR proteins of Salmonella typhimurium:
+putative components for flagellar assembly.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Required for the assembly of the rivet at the earliest
+    stage of flagellar biosynthesis (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the fliQ/mopD/spaQ family.
+Complete proteome; Flagellum; Inner membrane; Membrane; Transmembrane.
+TMTWO

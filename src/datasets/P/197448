@@ -1,0 +1,19 @@
+AC   P10907; P76696; Q2M7B3;
+sn-glycerol-3-phosphate transport ATP-binding protein ugpC.
+"Nucleotide sequence of the ugp genes of Escherichia coli K-12:
+homology to the maltose system.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for sn-glycerol-3-phosphate. Probably responsible for energy
+    coupling to the transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Inner membrane; Membrane;
+Nucleotide-binding; Transport.
+TMZERO

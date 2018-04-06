@@ -1,0 +1,22 @@
+AC   P17802; Q2M9N2;
+A/G-specific adenine glycosylase (EC 3.2.2.-).
+"MutY, an adenine glycosylase active on G-A mispairs, has homology to
+endonuclease III.";
+"Nucleotide sequence of the Escherichia coli micA gene required for
+A/G-specific mismatch repair: identity of micA and mutY.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"MutY catalytic core, mutant and bound adenine structures define
+specificity for DNA repair enzyme superfamily.";
+-!- FUNCTION: Adenine glycosylase active on G-A mispairs. MutY also
+    corrects error-prone DNA synthesis past go lesions which are due
+    to the oxidatively damaged form of guanine: 7,8-dihydro-8-
+    oxoguanine.
+-!- COFACTOR: Binds 1 4Fe-4S cluster. The cluster is not important for
+    the catalytic activity, but which is probably involved in the
+    proper positioning of the enzyme along the DNA strand.
+-!- SIMILARITY: Belongs to the nth/mutY family.
+3D-structure; 4Fe-4S; Complete proteome; DNA damage; DNA repair;
+Glycosidase; Hydrolase; Iron; Iron-sulfur; Metal-binding.
+TMZERO

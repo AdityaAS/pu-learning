@@ -1,0 +1,11 @@
+AC   Q92TW1;
+Ureidoglycolate hydrolase 2 (EC 3.5.3.19).
+"The complete sequence of the 1,683-kb pSymB megaplasmid from the N2-
+fixing endosymbiont Sinorhizobium meliloti.";
+-!- CATALYTIC ACTIVITY: (S)-ureidoglycolate + H(2)O = glyoxylate + 2
+    NH(3) + CO(2).
+-!- PATHWAY: Nucleotide metabolism; purine metabolism.
+-!- SIMILARITY: Belongs to the ureidoglycolate hydrolase family.
+ GO:0006145; P:purine base catabolism; IEA:HAMAP.
+Complete proteome; Hydrolase; Plasmid; Purine metabolism.
+TMZERO

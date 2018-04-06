@@ -1,0 +1,18 @@
+AC   P80051;
+Glycoprotein hormones alpha chain (Anterior pituitary glycoprotein
+hormones common subunit alpha) (Follitropin alpha chain) (Follicle-
+stimulating hormone alpha chain) (FSH-alpha) (Lutropin alpha chain)
+(Luteinizing hormone alpha chain) (LSH-alpha) (Thyrotropin alpha
+chain) (Thyroid-stimulating hormone alpha chain) (TSH-alpha).
+"Amphibian lutropin and follitropin from the bullfrog Rana
+catesbeiana. Complete amino acid sequence of the alpha subunit.";
+"The antigenic structure of the human glycoprotein hormone alpha-
+subunit: II. Cross-species comparisons.";
+-!- SUBUNIT: Heterodimer of a common alpha chain and a unique beta
+    chain which confers biological specificity to thyrotropin,
+    lutropin, follitropin and gonadotropin.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the glycoprotein hormones subunit alpha
+    family.
+Direct protein sequencing; Glycoprotein; Hormone.
+TMZERO

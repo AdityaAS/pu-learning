@@ -1,0 +1,53 @@
+AC   P16140; P32123;
+Vacuolar ATP synthase subunit B (EC 3.6.3.14) (V-ATPase B subunit)
+(Vacuolar proton pump B subunit) (V-ATPase 57 kDa subunit).
+"A conserved gene encoding the 57-kDa subunit of the yeast vacuolar
+H+-ATPase.";
+"The sequence of 29.7 kb from the right arm of chromosome II reveals
+13 complete open reading frames, of which ten correspond to new
+genes.";
+"Complete DNA sequence of yeast chromosome II.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Differential expression of the 'B' subunit of the vacuolar H(+)-
+ATPase in bovine tissues.";
+"Role of vacuolar acidification in protein sorting and zymogen
+activation: a genetic analysis of the yeast vacuolar proton-
+translocating ATPase.";
+"Skp1 forms multiple protein complexes, including RAVE, a regulator of
+V-ATPase assembly.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- FUNCTION: Non-catalytic subunit of the peripheral V1 complex of
+    vacuolar ATPase. V-ATPase is responsible for acidifying a variety
+    of intracellular compartments in eukaryotic cells. It is an
+    electrogenic proton pump that generates a proton motive force of
+    180 mv, inside positive and acidic, in the vacuolar membrane
+    vesicles.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'', d and e). Interacts with RAV1 and RAV2 components of the RAVE
+    complex, which are essential for the stability and assembly of V-
+    ATPase.
+-!- INTERACTION:
+    P41911:GPD2; NbExp=1; IntAct=EBI-20254, EBI-7791;
+    P47104:RAV1; NbExp=1; IntAct=EBI-20254, EBI-25471;
+    Q03956:RAV2; NbExp=1; IntAct=EBI-20254, EBI-30629;
+-!- MISCELLANEOUS: Present with 131000 molecules/cell.
+-!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+-!- CAUTION: Ref.5 sequence was incorrectly thought to originate from
+    bovine.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0000221; C:hydrogen-transporting ATPase V1 domain; IDA:SGD.
+ GO:0046961; F:hydrogen-transporting ATPase activity, rota...; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006874; P:calcium ion homeostasis; IMP:SGD.
+ GO:0007035; P:vacuolar acidification; IMP:SGD.
+ATP synthesis; Complete proteome; Direct protein sequencing;
+Hydrogen ion transport; Hydrolase; Ion transport; Phosphorylation;
+Transport.
+TMZERO

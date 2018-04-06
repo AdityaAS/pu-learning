@@ -1,0 +1,23 @@
+AC   P78383; Q96EW7;
+Solute carrier family 35 member B1 (UDP-galactose transporter-related
+protein 1) (UGTrel1) (hUGTrel1).
+"Molecular cloning and characterization of a novel isoform of the
+human UDP-galactose transporter, and of related complementary DNAs
+belonging to the nucleotide-sugar transporter gene family.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Probable sugar transporter (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (Potential).
+-!- DOMAIN: The di-lysine motif may confer endoplasmic reticulum
+    localization (By similarity).
+-!- SIMILARITY: Belongs to the nucleotide-sugar transporter family.
+    SLC35B subfamily.
+-!- WEB RESOURCE: NAME=GGDB; NOTE=GlycoGene database";
+    URL="http://ggdb.muse.aist.go.jp/GGDB/index.jsp".
+ GO:0005792; C:microsome; TAS:ProtInc.
+ GO:0005459; F:UDP-galactose transporter activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Endoplasmic reticulum; Membrane; Polymorphism; Sugar transport;
+Transmembrane; Transport.
+TMEIGHT

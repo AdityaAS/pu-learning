@@ -1,0 +1,23 @@
+AC   Q9HNU8;
+FO synthase subunit 2 (EC 2.5.1.-) (7,8-didemethyl-8-hydroxy-5-
+deazariboflavin synthase subunit 2).
+"Genome sequence of Halobacterium species NRC-1.";
+-!- FUNCTION: Catalyzes the radical-mediated transfer of the
+    hydroxybenzyl group from 4-hydroxyphenylpyruvate (HPP) to 5-amino-
+    6-ribitylamino-2,4(1H,3H)-pyrimidinedione to form 7,8-didemethyl-
+    8-hydroxy-5-deazariboflavin (FO) (By similarity).
+-!- CATALYTIC ACTIVITY: 4-hydroxyphenylpyruvate + 5-amino-6-
+    ribitylamino-2,4(1H,3H)-pyrimidinedione = 7,8-didemethyl-8-
+    hydroxy-5-deazariboflavin + oxalate + NH(3).
+-!- COFACTOR: Binds 1 4Fe-4S cluster. The cluster is coordinated with
+    3 cysteines and an exchangeable S-adenosyl-L-methionine (By
+    similarity).
+-!- PATHWAY: Cofactor biosynthesis; FO biosynthesis.
+-!- PATHWAY: Context: F420 biosynthesis.
+-!- SUBUNIT: Consists of two subunits, cofG and cofH (By similarity).
+-!- SIMILARITY: Belongs to the radical SAM superfamily. CofH family.
+ GO:0016765; F:transferase activity, transferring alkyl or...; IEA:HAMAP.
+ GO:0009108; P:coenzyme biosynthesis; IEA:HAMAP.
+4Fe-4S; Complete proteome; Iron; Iron-sulfur; Metal-binding;
+S-adenosyl-L-methionine; Transferase.
+TMZERO

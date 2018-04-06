@@ -1,0 +1,19 @@
+AC   P22189;
+Calcium-transporting ATPase 3 (EC 3.6.3.8).
+"Calcium homeostasis and transport are affected by disruption of cta3,
+a novel gene encoding Ca2(+)-ATPase in Schizosaccharomyces pombe.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: This magnesium-dependent enzyme catalyzes the hydrolysis
+    of ATP coupled with the transport of the calcium.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Ca(2+)(Cis) = ADP + phosphate +
+    Ca(2+)(Trans).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IID subfamily.
+ GO:0005388; F:calcium-transporting ATPase activity; TAS:GeneDB_SPombe.
+ GO:0006874; P:calcium ion homeostasis; TAS:GeneDB_SPombe.
+ GO:0006816; P:calcium ion transport; IMP:GeneDB_SPombe.
+ATP-binding; Calcium; Calcium transport; Complete proteome; Hydrolase;
+Ion transport; Magnesium; Membrane; Nucleotide-binding;
+Phosphorylation; Transmembrane; Transport.
+TMZERO

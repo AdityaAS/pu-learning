@@ -1,0 +1,25 @@
+AC   P30963;
+Cytochrome c biogenesis ATP-binding export protein ccmA (EC 3.6.3.41)
+(Heme exporter protein A).
+"Discovery and sequence analysis of bacterial genes involved in the
+biogenesis of c-type cytochromes.";
+"Complete genomic sequence of nitrogen-fixing symbiotic bacterium
+Bradyrhizobium japonicum USDA110.";
+-!- FUNCTION: Part of the ABC transporter complex ccmAB involved in
+    the biogenesis of c-type cytochromes; once thought to export heme,
+    this seems not to be the case, but its exact role is uncertain.
+    Responsible for energy coupling to the transport system (By
+    similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + heme(In) = ADP + phosphate +
+    heme(Out).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (ccmA) and two transmembrane proteins (ccmB) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. CcmA exporter
+    (TC 3.A.1.107) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0015439; F:heme-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Cytochrome c-type biogenesis;
+Hydrolase; Inner membrane; Membrane; Nucleotide-binding; Transport.
+TMZERO

@@ -1,0 +1,37 @@
+AC   Q5R5B6;
+Protein disulfide-isomerase precursor (EC 5.3.4.1) (PDI) (Prolyl 4-
+hydroxylase subunit beta) (Cellular thyroid hormone-binding protein)
+(p55).
+-!- FUNCTION: This multifunctional protein catalyzes the formation,
+    breakage and rearrangement of disulfide bonds. At the cell
+    surface, seems to act as a reductase that cleaves disulfide bonds
+    of proteins attached to the cell. May therefore cause structural
+    modifications of exofacial proteins. Inside the cell, seems to
+    form/rearrange disulfide bonds of nascent proteins. At high
+    concentrations, functions as a chaperone that inhibits aggregation
+    of misfolded proteins. At low concentrations, facilitates
+    aggregation (anti-chaperone activity). May be involved with other
+    chaperones in the structural modification of the TG precursor in
+    hormone biogenesis. Also acts a structural subunit of various
+    enzymes such as prolyl 4-hydroxylase and microsomal
+    triacylglycerol transfer protein MTTP (By similarity).
+-!- CATALYTIC ACTIVITY: Catalyzes the rearrangement of -S-S- bonds in
+    proteins.
+-!- SUBUNIT: Homodimer. Monomers and homotetramers may also occur.
+    Also constitutes the structural subunit of prolyl 4-hydroxylase
+    and of the microsomal triacylglycerol transfer protein MTTP in
+    mammalian cells. Stabilizes both enzymes and retain them in the ER
+    without contributing to the catalytic activity. Binds UBQLN1 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    lumen (By similarity). Note=Highly abundant. In some cell types,
+    seems to be also secreted or associated with the plasma membrane,
+    where it undergoes constant shedding and replacement from
+    intracellular sources. Localizes near CD4-enriched regions on
+    lymphoid cell surfaces (By similarity).
+-!- SIMILARITY: Belongs to the protein disulfide isomerase family.
+-!- SIMILARITY: Contains 2 thioredoxin domains.
+ GO:0003756; F:protein disulfide isomerase activity; IEA:EC.
+Chaperone; Endoplasmic reticulum; Isomerase; Membrane;
+Redox-active center; Repeat; Signal.
+TMZERO

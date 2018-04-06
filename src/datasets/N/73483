@@ -1,0 +1,23 @@
+AC   Q87WV4;
+ATP phosphoribosyltransferase (EC 2.4.2.17) (ATP-PRTase) (ATP-PRT).
+"The complete genome sequence of the Arabidopsis and tomato pathogen
+Pseudomonas syringae pv. tomato DC3000.";
+-!- FUNCTION: Catalyzes the condensation of ATP and PRPP to form N'-
+    5'-phosphoribosyl-ATP (PR-ATP). Has a crucial role in the pathway
+    because the rate of histidine biosynthesis seems to be controlled
+    primarily by regulation of hisG enzymatic activity (By
+    similarity).
+-!- CATALYTIC ACTIVITY: 1-(5-phospho-D-ribosyl)-ATP + diphosphate =
+    ATP + 5-phospho-alpha-D-ribose 1-diphosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 1.
+-!- SUBUNIT: Heteromultimer composed of hisG and hisZ subunits (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- DOMAIN: Lacks the C-terminal regulatory region which is replaced
+    by hisZ.
+-!- SIMILARITY: Belongs to the ATP phosphoribosyltransferase family.
+    Short subfamily.
+Amino-acid biosynthesis; Complete proteome; Glycosyltransferase;
+Histidine biosynthesis; Transferase.
+TMZERO

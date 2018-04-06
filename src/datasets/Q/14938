@@ -1,0 +1,15 @@
+AC   P15015;
+ATP synthase B' chain (EC 3.6.3.14) (Subunit II).
+"DNA sequence of a gene cluster coding for subunits of the F0 membrane
+sector of ATP synthase in Rhodospirillum rubrum. Support for modular
+evolution of the F1 and F0 sectors.";
+-!- FUNCTION: The b'-subunit is a diverged and duplicated form of b
+    found in plants and photosynthetic bacteria.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: This is one of the chains of the nonenzymatic component
+    (CF(0) subunit) of the ATPase complex.
+-!- SIMILARITY: Belongs to the ATPase B chain family.
+CF(0); Hydrogen ion transport; Ion transport; Membrane; Transmembrane;
+Transport.
+TMZERO

@@ -1,0 +1,16 @@
+AC   P25185;
+Branched chain amino acid transport system III carrier protein (LIV-
+III).
+"Isolation of the braZ gene encoding the carrier for a novel branched-
+chain amino acid transport system in Pseudomonas aeruginosa PAO.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Component of the LIV-III transport system for branched-
+    chain amino acids. BraZ is specific for isoleucine and valine. The
+    LIV-III transport system may be H(+)-coupled.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the braC/braZ/brnQ transporter family.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTWELVE

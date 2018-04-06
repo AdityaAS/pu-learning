@@ -1,0 +1,30 @@
+AC   P96797; Q46C47; Q9UWK2;
+CoB--CoM heterodisulfide reductase iron-sulfur subunit D
+(EC 1.8.98.1).
+"Heterodisulfide reductase from methanol-grown cells of Methanosarcina
+barkeri is not a flavoenzyme.";
+"The Methanosarcina barkeri genome: comparative analysis with
+Methanosarcina acetivorans and Methanosarcina mazei reveals extensive
+rearrangement within methanosarcinal genomes.";
+"Purification of a two-subunit cytochrome-b-containing heterodisulfide
+reductase from methanol-grown Methanosarcina barkeri.";
+-!- FUNCTION: Part of a complex that catalyzes the reversible
+    reduction of CoM-S-S-CoB to the thiol-coenzymes H-S-CoM (coenzyme
+    M) and H-S-CoB (coenzyme B). HdrD may act as the catalytic
+    subunit.
+-!- CATALYTIC ACTIVITY: Coenzyme B + coenzyme M + methanophenazine =
+    N-(7-((2-sulfoethyl)dithio)heptanoyl)-3-O-phospho-L-threonine +
+    dihydromethanophenazine.
+-!- COFACTOR: Binds 2 4Fe-4S clusters per subunit.
+-!- PATHWAY: Methanogenesis from acetate; sixth (last) step.
+-!- PATHWAY: Methanogenesis from carbon dioxide; eighth (last) step.
+-!- PATHWAY: Methanogenesis from methanol; third (last) step.
+-!- SUBUNIT: The heterodisulfide reductase is composed of two
+    subunits; hdrD and hdrE.
+-!- SIMILARITY: Belongs to the hdrD family.
+-!- SIMILARITY: Contains 2 4Fe-4S type ferredoxin domains.
+ GO:0051912; F:CoB--CoM heterodisulfide reductase activity; IDA:UniProtKB.
+ GO:0015948; P:methanogenesis; IDA:UniProtKB.
+4Fe-4S; Complete proteome; Direct protein sequencing; Iron;
+Iron-sulfur; Metal-binding; Methanogenesis; Oxidoreductase.
+TMZERO

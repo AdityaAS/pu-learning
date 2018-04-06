@@ -1,0 +1,15 @@
+AC   P39767;
+Porin.
+"Structure of the membrane channel porin from Rhodopseudomonas
+blastica at 2.0-A resolution.";
+"Refined structure of the porin from Rhodopseudomonas blastica.
+Comparison with the porin from Rhodobacter capsulatus.";
+"Porin mutants with new channel properties.";
+-!- FUNCTION: Forms channels that allow the passive diffusion of small
+    hydrophilic solutes up to an exclusion limit of about 0.6 kDa.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+3D-structure; Ion transport; Membrane; Outer membrane; Porin;
+Transmembrane; Transport.
+TMZERO

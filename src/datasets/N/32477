@@ -1,0 +1,10 @@
+AC   Q5KWE8;
+Protein crcB homolog 2.
+"Thermoadaptation trait revealed by the genome sequence of
+thermophilic Geobacillus kaustophilus.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the crcB family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Membrane; Transmembrane.
+THTHREE

@@ -1,0 +1,18 @@
+AC   Q40078;
+Vacuolar ATP synthase subunit B isoform 1 (EC 3.6.3.14) (V-ATPase B
+subunit 1) (Vacuolar proton pump B subunit 1).
+"Two cDNA clones encoding isoforms of the B subunit of the vacuolar
+ATPase from barley roots.";
+-!- FUNCTION: Non-catalytic subunit of the peripheral V1 complex of
+    vacuolar ATPase. V-ATPase is responsible for acidifying a variety
+    of intracellular compartments in eukaryotic cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (main components: subunits A, B,
+    C, D, E, and F) attached to an integral membrane V0 proton pore
+    complex (main component: the proteolipid protein).
+-!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+ATP synthesis; Hydrogen ion transport; Hydrolase; Ion transport;
+Transport.
+TMZERO

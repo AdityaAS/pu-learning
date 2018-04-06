@@ -1,0 +1,22 @@
+AC   Q89VE9;
+Acetylornithine aminotransferase 1 (EC 2.6.1.11) (ACOAT 1).
+"Complete genomic sequence of nitrogen-fixing symbiotic bacterium
+Bradyrhizobium japonicum USDA110.";
+-!- CATALYTIC ACTIVITY: 2-N-acetyl-L-ornithine + 2-oxoglutarate = N-
+    acetyl-L-glutamate 5-semialdehyde + L-glutamate.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; 2-N-
+    acetyl-L-ornithine from L-glutamate: step 4.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- MISCELLANEOUS: May also have succinyldiaminopimelate
+    aminotransferase activity, thus carrying out the corresponding
+    step in lysine biosynthesis.
+-!- SIMILARITY: Belongs to the class-III pyridoxal-phosphate-dependent
+    aminotransferase family.
+ GO:0003992; F:acetylornithine transaminase activity; IEA:HAMAP.
+ GO:0009016; F:succinyldiaminopimelate transaminase activity; IEA:HAMAP.
+ GO:0006526; P:arginine biosynthesis; IEA:HAMAP.
+ GO:0009085; P:lysine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Aminotransferase; Arginine biosynthesis;
+Complete proteome; Pyridoxal phosphate; Transferase.
+TMZERO

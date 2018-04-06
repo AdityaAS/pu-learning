@@ -1,0 +1,31 @@
+AC   P26499;
+Isoleucyl-tRNA synthetase (EC 6.1.1.5) (Isoleucine--tRNA ligase)
+(IleRS).
+"Isoleucyl-tRNA synthetase of Methanobacterium thermoautotrophicum
+Marburg. Cloning of the gene, nucleotide sequence, and localization of
+a base change conferring resistance to pseudomonic acid.";
+-!- FUNCTION: Catalyzes the attachment of isoleucine to tRNA(Ile). As
+    IleRS can inadvertently accommodate and process structurally
+    similar amino acids such as valine, to avoid such errors it has
+    two additional distinct tRNA(Ile)-dependent editing activities.
+    One activity is designated as 'pretransfer' editing and involves
+    the hydrolysis of activated Val-AMP. The other activity is
+    designated 'posttransfer' editing and involves deacylation of
+    mischarged Val-tRNA(Ile) (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + L-isoleucine + tRNA(Ile) = AMP +
+    diphosphate + L-isoleucyl-tRNA(Ile).
+-!- COFACTOR: Zinc (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- DOMAIN: IleRS has two distinct active sites: one for
+    aminoacylation and one for editing. The misactivated valine is
+    translocated from the active site to the editing site, which
+    sterically excludes the correctly activated isoleucine. The single
+    editing site contains two valyl binding pockets, one specific for
+    each substrate (Val-AMP or Val-tRNA(Ile)) (By similarity).
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family. IleS type 2 subfamily.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Direct protein sequencing;
+Ligase; Metal-binding; Nucleotide-binding; Protein biosynthesis; Zinc.
+TMZERO

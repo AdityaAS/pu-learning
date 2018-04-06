@@ -1,0 +1,12 @@
+AC   Q8CU52;
+Alkylmercury lyase (EC 4.99.1.2) (Organomercurial lyase).
+"Genome-based analysis of virulence genes in a non-biofilm-forming
+Staphylococcus epidermidis strain (ATCC 12228).";
+-!- FUNCTION: Cleaves the carbon-mercury bond of organomercurials such
+    as phenylmercuric acetate. One product is Hg(2+), which is
+    subsequently detoxified by the mercuric reductase (By similarity).
+-!- CATALYTIC ACTIVITY: RHg(+) + H(+) = RH + Hg(2+).
+-!- SIMILARITY: Belongs to the merB family.
+ GO:0046689; P:response to mercury ion; IEA:HAMAP.
+Complete proteome; Lyase; Mercuric resistance; Mercury.
+TMZERO

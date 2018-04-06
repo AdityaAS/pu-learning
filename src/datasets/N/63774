@@ -1,0 +1,12 @@
+AC   P14636;
+Glutamine synthetase nodule isozyme (EC 6.3.1.2) (Glutamate--ammonia
+ligase) (Fragment).
+"The isolation and characterization of a cDNA clone encoding Lupinus
+angustifolius root nodule glutamine synthetase.";
+-!- CATALYTIC ACTIVITY: ATP + L-glutamate + NH(3) = ADP + phosphate +
+    L-glutamine.
+-!- SUBUNIT: Homooctamer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the glutamine synthetase family.
+Ligase; Nitrogen fixation.
+TMZERO

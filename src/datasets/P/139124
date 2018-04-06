@@ -1,0 +1,19 @@
+AC   P46911;
+Menaquinol-cytochrome c reductase iron-sulfur subunit (Rieske iron-
+sulfur protein).
+"The cytochrome bc complex (menaquinone:cytochrome c reductase) in
+Bacillus subtilis has a nontraditional subunit organization.";
+"Sequence analysis of the Bacillus subtilis chromosome region between
+the serA and kdg loci cloned in a yeast artificial chromosome.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Component of the menaquinol-cytochrome c reductase
+    complex. The Rieske protein is a high potential 2Fe-2S protein.
+-!- COFACTOR: Binds 1 2Fe-2S cluster per subunit (By similarity).
+-!- SUBUNIT: The main subunits of the menaquinone:cytochrome c complex
+    are: cytochrome b, the Rieske protein and a cytochrome b/c
+    subunit.
+-!- SIMILARITY: Contains 1 Rieske domain.
+2Fe-2S; Complete proteome; Electron transport; Iron; Iron-sulfur;
+Metal-binding; Oxidoreductase; Transport.
+TMZERO

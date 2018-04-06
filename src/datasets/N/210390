@@ -1,0 +1,8 @@
+AC   Q5LTR1;
+UPF0343 protein SPO1352.
+"Genome sequence of Silicibacter pomeroyi reveals adaptations to the
+marine environment.";
+-!- SIMILARITY: Belongs to the UPF0343 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

@@ -1,0 +1,16 @@
+AC   P24943;
+Proton/sodium-glutamate symport protein (Glutamate-aspartate carrier
+protein).
+"Characterization and functional expression in Escherichia coli of the
+sodium/proton/glutamate symport proteins of Bacillus
+stearothermophilus and Bacillus caldotenax.";
+"Trimeric subunit stoichiometry of the glutamate transporters from
+Bacillus caldotenax and Bacillus stearothermophilus.";
+-!- FUNCTION: This carrier protein is part of the Na(+)-dependent,
+    binding-protein-independent glutamate-aspartate transport system.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the sodium:dicarboxylate (SDF) symporter
+    (TC 2.A.23) family.
+Membrane; Symport; Transmembrane; Transport.
+TMTEN

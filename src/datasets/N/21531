@@ -1,0 +1,17 @@
+AC   P60889;
+Chromobox protein homolog 7.
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Involved in maintaining the transcriptionally repressive
+    state of genes. Modifies chromatin, rendering it heritably changed
+    in its expressibility. Regulator of cellular lifespan by
+    maintaining the repression of CDKN2A, but not by inducing
+    telomerase activity (By similarity).
+-!- SUBUNIT: Component of the chromatin-associated polycomb complex
+    (PcG). Interacts with RING1, but not with BMI1, EED or EZH2 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Contains 1 chromo domain.
+Chromatin regulator; Nuclear protein; Repressor; Transcription;
+Transcription regulation.
+TMZERO

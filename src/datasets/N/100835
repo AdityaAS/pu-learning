@@ -1,0 +1,15 @@
+AC   Q91ZV0;
+Melanoma inhibitory activity protein 2 precursor.
+"Specific expression and regulation of the new melanoma inhibitory
+activity-related gene MIA2 in hepatocytes.";
+-!- FUNCTION: May play a role in the pathophysiology of liver disease
+    and may serve as a marker of liver damage (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (Potential).
+-!- TISSUE SPECIFICITY: Highly expressed in liver and weakly in
+    testis.
+-!- DEVELOPMENTAL STAGE: Expression is seen at E12.5 and E14.5
+    embryonic stages.
+-!- SIMILARITY: Belongs to the MIA/OTOR family.
+-!- SIMILARITY: Contains 1 SH3 domain.
+Glycoprotein; SH3 domain; Signal.
+TMZERO

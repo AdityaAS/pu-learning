@@ -1,0 +1,17 @@
+AC   O30417;
+Glutamate/gamma-aminobutyrate antiporter.
+"A chloride-inducible acid resistance mechanism in Lactococcus lactis
+and its regulation.";
+"Identification of a sodium chloride-regulated promoter in Lactococcus
+lactis by single-copy chromosomal fusion with a reporter gene.";
+-!- FUNCTION: Involved in glutamate-dependent acid resistance. May be
+    involved in antiport of glutamate and glutamate-gamma-
+    aminobutyrate (GABA).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- INDUCTION: Expression is highest at onset of stationary phase in
+    presence of NaCl and glutamate, and at low pH. Chloride-dependent
+    expression is activated by gadR.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Glutamate:GABA antiporter (GGA) (TC 2.A.3.7) family.
+Amino-acid transport; Antiport; Membrane; Transmembrane; Transport.
+TMSEVEN

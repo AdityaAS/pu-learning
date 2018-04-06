@@ -1,0 +1,22 @@
+AC   P37433;
+Phosphoglycerate transport system sensor protein pgtB (EC 2.7.13.3).
+"Identification of the products and nucleotide sequences of two
+regulatory genes involved in the exogenous induction of
+phosphoglycerate transport in Salmonella typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Genetic evidence for modulation of the activator by two regulatory
+proteins involved in the exogenous induction of phosphoglycerate
+transport in Salmonella typhimurium.";
+-!- FUNCTION: Member of the two-component regulatory system pgtB/pgtA
+    that regulates the inducible phosphoglycerate transport system.
+    Activates pgtA by phosphorylation.
+-!- CATALYTIC ACTIVITY: ATP + protein L-histidine = ADP + protein N-
+    phospho-L-histidine.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Contains 1 HAMP domain.
+-!- SIMILARITY: Contains 1 histidine kinase domain.
+Complete proteome; Inner membrane; Kinase; Membrane; Phosphorylation;
+Transferase; Transmembrane; Two-component regulatory system.
+TMTWO

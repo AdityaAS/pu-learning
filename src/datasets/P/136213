@@ -1,0 +1,40 @@
+AC   P17334; P76212; P76907; P77332;
+N,N'-diacetylchitobiose permease IIC component (PTS system N,N'-
+diacetylchitobiose-specific EIIC component) (EIIC-Chb).
+"Characterization and nucleotide sequence of the cryptic cel operon of
+Escherichia coli K12.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The cellobiose permease of Escherichia coli consists of three
+proteins and is homologous to the lactose permease of Staphylococcus
+aureus.";
+"Wild-type Escherichia coli grows on the chitin disaccharide, N,N'-
+diacetylchitobiose, by expressing the cel operon.";
+"The chitin disaccharide, N,N'-diacetylchitobiose, is catabolized by
+Escherichia coli and is transported/phosphorylated by the
+phosphoenolpyruvate:glycose phosphotransferase system.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in N,N'-diacetylchitobiose
+    transport.
+-!- PATHWAY: N,N'-diacetylchitobiose utilization.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By N,N'-diacetylchitobiose.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIIC type-3 domain.
+-!- CAUTION: Was originally (Ref.5) characterized as part of a cryptic
+    cel operon for a cellobiose degradation system. The Cel+ phenotype
+    is due to mutations making expression chitobiose-independent and
+    altering the substrate specificity.
+Complete proteome; Inner membrane; Membrane;
+Phosphotransferase system; Sugar transport; Transmembrane; Transport.
+TMTEN

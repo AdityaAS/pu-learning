@@ -1,0 +1,28 @@
+AC   O94952; Q9H087;
+F-box only protein 21.
+"Identification of a family of human F-box proteins.";
+"Prediction of the coding sequences of unidentified human genes. XII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+"Towards a catalog of human genes and proteins: sequencing and
+analysis of 500 novel complete protein coding human cDNAs.";
+-!- FUNCTION: Substrate-recognition component of the SCF (SKP1-CUL1-F-
+    box protein)-type E3 ubiquitin ligase complex (By similarity).
+-!- SUBUNIT: Directly interacts with SKP1A and CUL1 (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O94952-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O94952-2; Sequence=VSP_013056;
+      Note=May be due to a competing acceptor splice site. No
+      experimental confirmation available;
+-!- SIMILARITY: Contains 1 F-box domain.
+-!- CAUTION: Ref.3 sequence differs from that shown due to a stop
+    codon in position 81 which was translated as Trp to extend the
+    sequence.
+ GO:0000151; C:ubiquitin ligase complex; NAS:UniProtKB.
+ GO:0004842; F:ubiquitin-protein ligase activity; NAS:UniProtKB.
+ GO:0006511; P:ubiquitin-dependent protein catabolism; NAS:UniProtKB.
+Alternative splicing; Ubl conjugation pathway.
+TMZERO

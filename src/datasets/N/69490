@@ -1,0 +1,11 @@
+AC   P06895;
+Histone H1B, sperm.
+"Primary structure of the two variants of a sperm-specific histone H1
+from the annelid Platynereis dumerilii.";
+-!- FUNCTION: Histones H1 are necessary for the condensation of
+    nucleosome chains into higher order structures.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the histone H1/H5 family.
+Chromosomal protein; Direct protein sequencing; DNA-binding;
+Nuclear protein.
+TMZERO

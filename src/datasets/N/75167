@@ -1,0 +1,20 @@
+AC   Q88DD7;
+ATP phosphoribosyltransferase regulatory subunit.
+"Complete genome sequence and comparative analysis of the
+metabolically versatile Pseudomonas putida KT2440.";
+-!- FUNCTION: Required for the first step of histidine biosynthesis.
+    May allow the feedback regulation of ATP phosphoribosyltransferase
+    activity by histidine (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 1.
+-!- SUBUNIT: Heteromultimer composed of hisG and hisZ subunits (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- MISCELLANEOUS: This function is generally fulfilled by the C-
+    terminal part of hisG, which is missing in some bacteria such as
+    this one.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family. HisZ subfamily.
+ GO:0000105; P:histidine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Complete proteome; Histidine biosynthesis.
+TMZERO

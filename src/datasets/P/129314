@@ -1,0 +1,28 @@
+AC   P69874; P23858;
+Spermidine/putrescine import ATP-binding protein potA (EC 3.6.3.31).
+"Characteristics of the gene for a spermidine and putrescine transport
+system that maps at 15 min on the Escherichia coli chromosome.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Part of the ABC transporter complex potABCD involved in
+    spermidine/putrescine import. Responsible for energy coupling to
+    the transport system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + polyamine(Out) = ADP + phosphate
+    + polyamine(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (potA), two transmembrane proteins (potB and potC) and a solute-
+    binding protein (potD) (Probable).
+-!- INTERACTION:
+    P0A6F5:groL; NbExp=1; IntAct=EBI-1122336, EBI-543750;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Polyamine
+    importer (TC 3.A.1.11.1) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Nucleotide-binding; Transport.
+TMZERO

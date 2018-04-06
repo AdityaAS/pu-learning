@@ -1,0 +1,18 @@
+AC   P51574;
+Oligopeptide transporter, small intestine isoform (Peptide transporter
+1) (Intestinal H(+)/peptide cotransporter) (Solute carrier family 15
+member 1) (Proton-coupled dipeptide cotransporter).
+"Sequence, tissue distribution and developmental changes in rat
+intestinal oligopeptide transporter.";
+"Cloning and characterization of a rat H+/peptide cotransporter
+mediating absorption of beta-lactam antibiotics in the intestine and
+kidney.";
+-!- FUNCTION: Proton-coupled intake of oligopeptides of 2 to 4 amino
+    acids with a preference for dipeptides. May constitute a major
+    route for the absorption of protein digestion end-products.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the PTR2/POT transporter (TC 2.A.17)
+    family.
+Glycoprotein; Membrane; Peptide transport; Protein transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

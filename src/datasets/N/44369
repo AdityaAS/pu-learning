@@ -1,0 +1,26 @@
+AC   Q9PQ53;
+DNA polymerase IV (EC 2.7.7.7) (Pol IV).
+"The complete sequence of the mucosal pathogen Ureaplasma
+urealyticum.";
+-!- FUNCTION: Poorly processive, error-prone DNA polymerase involved
+    in untargeted mutagenesis. Copies undamaged DNA at stalled
+    replication forks, which arise in vivo from mismatched or
+    misaligned primer ends. These misaligned primers can be extended
+    by polIV. Exhibits no 3'-5' exonuclease (proofreading) activity.
+    May be involved in translesional synthesis, in conjunction with
+    the beta clamp from polIII (By similarity).
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- COFACTOR: Binds 2 magnesium ions per subunit (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the DNA polymerase type-Y family.
+-!- SIMILARITY: Contains 1 umuC domain.
+ GO:0003677; F:DNA binding; IEA:HAMAP.
+ GO:0003887; F:DNA-directed DNA polymerase activity; IEA:HAMAP.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0006261; P:DNA-dependent DNA replication; IEA:HAMAP.
+Complete proteome; DNA damage; DNA repair; DNA replication;
+DNA-binding; DNA-directed DNA polymerase; Magnesium; Metal-binding;
+Mutator protein; Nucleotidyltransferase; Transferase.
+TMZERO

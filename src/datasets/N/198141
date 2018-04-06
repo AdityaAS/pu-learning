@@ -1,0 +1,11 @@
+AC   Q9PJD2;
+Uracil-DNA glycosylase (EC 3.2.2.-) (UDG).
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+-!- FUNCTION: Excises uracil residues from the DNA which can arise as
+    a result of misincorporation of dUMP residues by DNA polymerase or
+    due to deamination of cytosine (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the uracil-DNA glycosylase family.
+Complete proteome; DNA damage; DNA repair; Glycosidase; Hydrolase.
+TMZERO

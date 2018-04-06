@@ -1,0 +1,13 @@
+AC   Q5JF32;
+DNA polymerase sliding clamp 1 (Proliferating cell nuclear antigen
+homolog 1) (PCNA 1).
+"Complete genome sequence of the hyperthermophilic archaeon
+Thermococcus kodakaraensis KOD1 and comparison with Pyrococcus
+genomes.";
+-!- FUNCTION: Sliding clamp subunit. Responsible for tethering the
+    catalytic subunit of DNA polymerase to DNA during high-speed
+    replication (By similarity).
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SIMILARITY: Belongs to the PCNA family.
+Complete proteome; DNA replication; DNA-binding.
+TMZERO

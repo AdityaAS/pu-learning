@@ -1,0 +1,17 @@
+AC   P45380;
+Sulfate anion transporter 1 (SAT-1) (Solute carrier family 26 member
+1) (Canalicular sulfate transporter) (Sulfate/carbonate antiporter).
+"Functional expression cloning of the canalicular sulfate transport
+system of rat hepatocytes.";
+-!- FUNCTION: High affinity uptake of sulfate. Accepts oxalate, but
+    not succinate as a cosubstrate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Liver, kidney. Less abundant in muscle and
+    brain.
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+-!- SIMILARITY: Contains 1 STAS domain.
+ GO:0015116; F:sulfate transporter activity; IDA:RGD.
+ GO:0008272; P:sulfate transport; IDA:RGD.
+Antiport; Glycoprotein; Membrane; Transmembrane; Transport.
+TMNINE

@@ -1,0 +1,21 @@
+AC   P0A3W5; P09780;
+Outer membrane lipoprotein virB7 precursor.
+"Analysis of the complete nucleotide sequence of the Agrobacterium
+tumefaciens virB operon.";
+"Octopine-type Ti plasmid sequence.";
+-!- FUNCTION: Is essential for the biogenesis of the T-pilus, which is
+    required for virulence and T-DNA transfer to plant cells. When is
+    associated with virB9, might function as a nucleation center for
+    recruitment of virB proteins during assembly of the T-DNA transfer
+    machine (By similarity).
+-!- SUBUNIT: Homodimer and heterodimer of virB7 and virB9; disulfide-
+    linked (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor. Note=Also
+    associated with the T-pilus when is a homodimer, possibly at the
+    pilus base (By similarity).
+-!- MISCELLANEOUS: Is protease-resistant (By similarity).
+-!- MISCELLANEOUS: Both virB7 lipid modification and disulfide cross-
+    linking are important for T-pilus assembly.
+Crown gall tumor; Lipoprotein; Membrane; Outer membrane; Palmitate;
+Plasmid; Signal; Virulence.
+TMZERO

@@ -1,0 +1,15 @@
+AC   O13947;
+Probable tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+(EC 2.1.1.61).
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Responsible for the biosynthesis of 5-taurinomethyl-2-
+    thiouridine (tm5s2U) of mitochondrial tRNA(Lys), tRNA(Glu), and
+    tRNA(Gln) in the wobble position (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + tRNA = S-adenosyl-L-
+    homocysteine + tRNA containing 5-methylaminomethyl-2-
+    thiouridylate.
+-!- SIMILARITY: Belongs to the trmU family.
+ GO:0005739; C:mitochondrion; IDA:GeneDB_SPombe.
+Complete proteome; Methyltransferase; S-adenosyl-L-methionine;
+Transferase; tRNA processing.
+TMZERO

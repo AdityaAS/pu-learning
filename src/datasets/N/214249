@@ -1,0 +1,13 @@
+AC   Q9Z843; Q7AIN8; Q7BXA2; Q7DEX2;
+UPF0054 protein CPn_0509/CP_0245/CPj0509/CpB0530.
+"Comparative genomes of Chlamydia pneumoniae and C. trachomatis.";
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+"The genome sequence of Chlamydia pneumoniae TW183 and comparison with
+other Chlamydia strains based on whole genome sequence analysis.";
+"Comparison of whole genome sequences of Chlamydia pneumoniae J138
+from Japan and CWL029 from USA.";
+-!- SIMILARITY: Belongs to the UPF0054 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

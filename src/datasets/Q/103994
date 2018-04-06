@@ -1,0 +1,35 @@
+AC   O05259;
+Na(+)/H(+) antiporter subunit B (Multiple resistance and pH
+homeostasis protein B) (Mrp complex subunit B).
+"Analysis of the Bacillus subtilis genome: cloning and nucleotide
+sequence of a 62 kb region between 275 degrees (rrnB) and 284 degrees
+(pai).";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"mrp, a multigene, multifunctional locus in Bacillus subtilis with
+roles in resistance to cholate and to Na+ and in pH homeostasis.";
+"Mrp-dependent Na(+)/H(+) antiporters of Bacillus exhibit
+characteristics that are unanticipated for completely secondary active
+transporters.";
+-!- FUNCTION: Mrp complex is a Na(+)/H(+) antiporter that is
+    considered to be the major Na(+) excretion system in B.subtilis.
+    Has a major role in Na(+) resistance and a minor role in Na(+)-
+    and K(+)-dependent pH homeostasis as compared to tetB. MrpA may be
+    the actual Na(+)/H(+) antiporter, although the six other mrp
+    proteins are all required for Na(+)/H(+) antiport activity and
+    Na(+) resistance.
+-!- SUBUNIT: May form a hetero-oligomeric complex that consists of
+    seven subunits: mrpA, mrpB, mrpC, mrpD, mrpE, mrpF and mrpG.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Mrp-dependent antiport apparently occurs by a
+    secondary, proton motive force-dependent mechanism, but the
+    similarity of several mrp proteins to membrane-embedded subunits
+    of energy-coupled NADH dehydrogenase complexes raises the
+    possibility that there is a capacity for electron transport that
+    could provide a primary energy coupling option for mrp functions.
+-!- SIMILARITY: Belongs to the CPA3 antiporters (TC 2.A.63) subunit B
+    family.
+Antiport; Complete proteome; Hydrogen ion transport; Ion transport;
+Membrane; Sodium; Sodium transport; Transmembrane; Transport.
+TMFOUR

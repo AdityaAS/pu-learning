@@ -1,0 +1,20 @@
+AC   Q5FUR7;
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (EC 1.17.4.3) (1-
+hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase).
+"Complete genome sequence of the acetic acid bacterium Gluconobacter
+oxydans.";
+-!- FUNCTION: Converts 2C-methyl-D-erythritol 2,4-cyclodiphosphate
+    (ME-2,4cPP) into 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate
+    (By similarity).
+-!- CATALYTIC ACTIVITY: (E)-4-hydroxy-3-methylbut-2-en-1-yl
+    diphosphate + H(2)O + protein-disulfide = 2-C-methyl-D-erythritol
+    2,4-cyclodiphosphate + protein-dithiol.
+-!- COFACTOR: Binds 1 4Fe-4S cluster (By similarity).
+-!- PATHWAY: Isoprenoid biosynthesis; isopentenyl-PP biosynthesis via
+    DXP pathway; isopentenyl-PP from 1-deoxy-D-xylulose 5-phosphate:
+    step 5.
+-!- SIMILARITY: Belongs to the ispG family.
+ GO:0046429; F:4-hydroxy-3-methylbut-2-en-1-yl diphosphate...; IEA:EC.
+4Fe-4S; Complete proteome; Iron; Iron-sulfur; Isoprene biosynthesis;
+Metal-binding; Oxidoreductase.
+TMZERO

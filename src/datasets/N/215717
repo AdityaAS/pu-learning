@@ -1,0 +1,8 @@
+AC   Q9K7E8;
+UPF0349 protein BH3414.
+"Complete genome sequence of the alkaliphilic bacterium Bacillus
+halodurans and genomic sequence comparison with Bacillus subtilis.";
+-!- SIMILARITY: Belongs to the UPF0349 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

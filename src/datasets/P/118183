@@ -1,0 +1,31 @@
+AC   P06996;
+Outer membrane protein C precursor (Porin ompC) (Outer membrane
+protein 1B).
+"A comparative study on the genes for three porins of the Escherichia
+coli outer membrane. DNA sequence of the osmoregulated ompC gene.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Automated multiplex sequencing of the E.coli genome.";
+"DNA sequence of the promoter region of the ompC gene and the amino
+acid sequence of the signal peptide of pro-OmpC protein of Escherichia
+coli.";
+"Construction of a series of ompF-ompC chimeric genes by in vivo
+homologous recombination in Escherichia coli and characterization of
+the translational products.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Extraction of membrane proteins by differential solubilization for
+separation using two-dimensional gel electrophoresis.";
+-!- FUNCTION: Forms passive diffusion pores which allow small
+    molecular weight hydrophilic materials across the outer membrane.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the Gram-negative porin family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ion transport; Membrane; Outer membrane; Phage recognition; Porin;
+Signal; Transmembrane; Transport.
+TMZERO

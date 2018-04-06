@@ -1,0 +1,27 @@
+AC   P06594;
+Phytochrome A type 4 (AP4).
+"Analysis of cloned cDNA and genomic sequences for phytochrome:
+complete amino acid sequences for two gene products expressed in
+etiolated Avena.";
+"The amino-terminal structure of oat phytochrome.";
+-!- FUNCTION: Regulatory photoreceptor which exists in two forms that
+    are reversibly interconvertible by light: the Pr form that absorbs
+    maximally in the red region of the spectrum and the Pfr form that
+    absorbs maximally in the far-red region. Photoconversion of Pr to
+    Pfr induces an array of morphogenic responses, whereas
+    reconversion of Pfr to Pr cancels the induction of those
+    responses. Pfr controls the expression of a number of nuclear
+    genes including those encoding the small subunit of ribulose-
+    bisphosphate carboxylase, chlorophyll A/B binding protein,
+    protochlorophyllide reductase, rRNA, etc. It also controls the
+    expression of its own gene(s) in a negative feedback fashion.
+-!- SUBUNIT: Homodimer.
+-!- PTM: Contains one covalently linked phytochromobilin chromophore.
+-!- SIMILARITY: Belongs to the phytochrome family.
+-!- SIMILARITY: Contains 1 GAF domain.
+-!- SIMILARITY: Contains 1 histidine kinase domain.
+-!- SIMILARITY: Contains 2 PAS (PER-ARNT-SIM) domains.
+Chromophore; Direct protein sequencing; Photoreceptor protein;
+Receptor; Repeat; Sensory transduction; Transcription;
+Transcription regulation.
+TMZERO

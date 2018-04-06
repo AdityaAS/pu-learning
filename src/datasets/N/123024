@@ -1,0 +1,25 @@
+AC   Q6V9H4;
+Platelet-derived growth factor D precursor (PDGF D) (Iris-expressed
+growth factor) (Fragment).
+"Platelet-derived growth factor D, tissue-specific expression in the
+eye, and a key role in control of lens epithelial cell
+proliferation.";
+-!- FUNCTION: Potent mitogen for cells of mesenchymal origin. Binding
+    of this growth factor to its affinity receptor elicits a variety
+    of cellular responses. It is released by platelets upon wounding
+    and plays an important role in stimulating adjacent cells to grow
+    and thereby heals the wound. Activated by proteolytic cleavage and
+    this active form acts as a specific ligand for beta platelet-
+    derived growth factor receptor (By similarity).
+-!- SUBUNIT: Homodimer; disulfide-linked (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- PTM: Proteolytic removal of the N-terminal CUB domain releasing
+    the core domain is necessary for unmasking the receptor-binding
+    epitopes of the core domain. Cleavage after Arg-191 or Arg-193 by
+    urokinase plasminogen activator gives rise to the active form (By
+    similarity).
+-!- SIMILARITY: Belongs to the PDGF/VEGF growth factor family.
+-!- SIMILARITY: Contains 1 CUB domain.
+Cleavage on pair of basic residues; Glycoprotein; Growth factor;
+Mitogen.
+TMZERO

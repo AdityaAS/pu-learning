@@ -1,0 +1,13 @@
+AC   P60421; Q9A191;
+UPF0298 protein SpyM3_0288/SPs1571.
+"Genome sequence of a serotype M3 strain of group A Streptococcus:
+phage-encoded toxins, the high-virulence phenotype, and clone
+emergence.";
+"Genome sequence of an M3 strain of Streptococcus pyogenes reveals a
+large-scale genomic rearrangement in invasive strains and new insights
+into phage evolution.";
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the UPF0298 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

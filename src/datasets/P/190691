@@ -1,0 +1,26 @@
+AC   P58362;
+Trimethylamine-N-oxide reductase 2 precursor (EC 1.7.2.3) (TMAO
+reductase 2) (Trimethylamine oxidase 2).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Reduces trimethylamine-N-oxide (TMAO) into
+    trimethylamine; an anaerobic reaction coupled to energy-yielding
+    reactions. Can also reduce other N- and S-oxide compounds such as
+    4-methylmorpholine-N-oxide and biotin sulfoxide (BSO), but with a
+    lower catalytic efficiency (By similarity).
+-!- CATALYTIC ACTIVITY: Trimethylamine + 2 (ferricytochrome c)-subunit
+    + H(2)O = trimethylamine N-oxide + 2 (ferrocytochrome c)-subunit +
+    2 H(+).
+-!- COFACTOR: Molybdenum (molybdopterin) (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- PTM: Predicted to be exported by the Tat system. The position of
+    the signal peptide cleavage has not been experimentally proven.
+-!- MISCELLANEOUS: Expression of torYZ allows E.coli to grow
+    anaerobically on a wider range of substrates than does expression
+    of torCAD (By similarity).
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+ GO:0050626; F:trimethylamine-N-oxide reductase (cytochrom...; IEA:EC.
+Complete proteome; Molybdenum; Oxidoreductase; Periplasmic; Signal.
+TMZERO

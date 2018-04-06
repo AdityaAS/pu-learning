@@ -1,0 +1,27 @@
+AC   O35975; O35702;
+T-cell ecto-ADP-ribosyltransferase 2 precursor (EC 2.4.2.31) (T-cell
+NAD(P)(+)--arginine ADP-ribosyltransferase 2) (T-cell mono(ADP-
+ribosyl)transferase 2) (T-cell differentiation marker Rt6 homolog 2).
+"Molecular characterization of mouse T-cell ecto-ADP-
+ribosyltransferase Rt6: cloning of a second functional gene and
+identification of the Rt6 gene products.";
+"Expression in BALB/c and C57BL/6 mice of Rt6-1 and Rt6-2 ADP-
+ribosyltransferases that differ in enzymatic activity: C57BL/6 Rt6-1
+is a natural transferase knockout.";
+-!- FUNCTION: Has both NAD(+) glycohydrolase and ADP-
+    ribosyltransferase activity (to a lesser extent) (By similarity).
+-!- CATALYTIC ACTIVITY: NAD(P)(+) + protein-L-arginine = nicotinamide
+    + omega-N-(ADP-D-ribosyl)-protein-L-arginine.
+-!- CATALYTIC ACTIVITY: NAD(+) + H(2)O = nicotinamide + ADP-ribose.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor (By
+    similarity).
+-!- PTM: Contains two disulfide bonds (Probable).
+-!- SIMILARITY: Belongs to the Arg-specific ADP-ribosyltransferase
+    family.
+ GO:0019897; C:extrinsic to plasma membrane; TAS:MGI.
+ GO:0016020; C:membrane; TAS:MGI.
+ GO:0003956; F:NAD(P)+-protein-arginine ADP-ribosyltransfe...; IDA:MGI.
+ GO:0018120; P:peptidyl-arginine ADP-ribosylation; IDA:MGI.
+Glycoprotein; Glycosyltransferase; GPI-anchor; Lipoprotein; Membrane;
+NAD; Signal; Transferase.
+TMZERO

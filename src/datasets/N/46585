@@ -1,0 +1,23 @@
+AC   Q62651;
+Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial precursor
+(EC 5.3.3.-).
+"Isolation and characterization of rat and human cDNAs encoding a
+novel putative peroxisomal enoyl-CoA hydratase.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Delta3,5-delta2,4-dienoyl-CoA isomerase from rat liver. Molecular
+characterization.";
+"The crystal structure of dienoyl-CoA isomerase at 1.5 A resolution
+reveals the importance of aspartate and glutamate sidechains for
+catalysis.";
+-!- FUNCTION: Isomerization of 3-trans,5-cis-dienoyl-CoA to 2-trans,4-
+    trans-dienoyl-CoA.
+-!- PATHWAY: Fatty acid beta-oxidation cycle; auxiliary isomerization
+    steps.
+-!- SUBUNIT: Homohexamer.
+-!- SUBCELLULAR LOCATION: Mitochondrion. Peroxisome.
+-!- SIMILARITY: Belongs to the enoyl-CoA hydratase/isomerase family.
+3D-structure; Direct protein sequencing; Fatty acid metabolism;
+Isomerase; Lipid metabolism; Metal-binding; Mitochondrion; Peroxisome;
+Transit peptide; Zinc; Zinc-finger.
+TMZERO

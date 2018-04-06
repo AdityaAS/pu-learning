@@ -1,0 +1,15 @@
+AC   Q52815; Q1MH74;
+General L-amino acid transport ATP-binding protein aapP.
+"The general L-amino acid permease of Rhizobium leguminosarum is an
+ABC uptake system that also influences efflux of solutes.";
+"The genome of Rhizobium leguminosarum has recognizable core and
+accessory components.";
+-!- FUNCTION: Part of a binding-protein-dependent transport system for
+    L-amino acids, affects the uptake as well as the efflux of these
+    amino acids. Probably responsible for energy coupling to the
+    transport system.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Amino-acid transport; ATP-binding; Complete proteome;
+Nucleotide-binding; Transport.
+TMZERO

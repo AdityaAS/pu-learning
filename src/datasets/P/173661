@@ -1,0 +1,24 @@
+AC   Q9EP96;
+Solute carrier organic anion transporter family member 1A4 (Solute
+carrier family 21 member 5) (Sodium-independent organic anion-
+transporting polypeptide 2).
+"Genomic organization and tissue-specific expression of splice
+variants of mouse organic anion transporting polypeptide 2.";
+-!- FUNCTION: Mediates the Na(+)-independent transport of organic
+    anions such as taurocholate, cholate, 17-beta-glucuronosyl
+    estradiol, estrone-3-sulfate, the cardiac glycosides ouabain and
+    digoxin and thyroid hormones (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=1;
+      Comment=3 isoforms are produced;
+    Name=1;
+      IsoId=Q9EP96-1; Sequence=Displayed;
+-!- TISSUE SPECIFICITY: Highly expressed in brain and liver. Detected
+    at very low levels in heart and lung.
+-!- SIMILARITY: Belongs to the organo anion transporter (TC 2.A.60)
+    family.
+ GO:0008514; F:organic anion transporter activity; IDA:MGI.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Transmembrane; Transport.
+TMELEVEN

@@ -1,0 +1,8 @@
+AC   Q7NAR5;
+UPF0154 protein MYCGA5700.
+"The complete genome sequence of the avian pathogen Mycoplasma
+gallisepticum strain R(low).";
+-!- SIMILARITY: Belongs to the UPF0154 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Membrane; Transmembrane.
+TMONE

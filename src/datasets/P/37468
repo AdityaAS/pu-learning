@@ -1,0 +1,13 @@
+AC   P0AEA6; P18404; P77115;
+Protoheme IX farnesyltransferase (EC 2.5.1.-) (Heme O synthase).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Converts protoheme IX and farnesyl diphosphate to heme O
+    (By similarity).
+-!- COFACTOR: Divalent cations. Magnesium or calcium (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ubiA prenyltransferase family.
+Complete proteome; Heme biosynthesis; Inner membrane; Membrane;
+Transferase; Transmembrane.
+TMSEVEN

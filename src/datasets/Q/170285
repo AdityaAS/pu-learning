@@ -1,0 +1,22 @@
+AC   P01494; Q95WB9; Q95WC0;
+Neurotoxin 3 precursor (CsEv3) (CsE v3).
+"Genes and peptides from the scorpion Centruroides sculpturatus Ewing,
+that recognize Na(+)-channels.";
+"Amino acid sequences of neurotoxic protein variants from the venom of
+Centruroides sculpturatus Ewing.";
+"The three-dimensional structure of scorpion neurotoxins.";
+"Three-dimensional structure of a protein from scorpion venom: a new
+structural class of neurotoxins.";
+"Structure of variant-3 scorpion neurotoxin from Centruroides
+sculpturatus Ewing, refined at 1.8 A resolution.";
+"Structure of scorpion toxin variant-3 at 1.2-A resolution.";
+-!- FUNCTION: Binds to sodium channels and inhibits the inactivation
+    of the activated channels, thereby blocking neuronal transmission.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the long (4 C-C) scorpion toxin
+    superfamily. Sodium channel inhibitor family. Beta subfamily.
+3D-structure; Amidation; Direct protein sequencing;
+Ionic channel inhibitor; Neurotoxin; Signal; Sodium channel inhibitor;
+Toxin.
+TMZERO

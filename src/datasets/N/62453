@@ -1,0 +1,14 @@
+AC   Q08753;
+Globin LI637.
+"Nuclear genes encoding chloroplast hemoglobins in the unicellular
+green alga Chlamydomonas eugametos.";
+"Identification of the ligands to the ferric heme of Chlamydomonas
+chloroplast hemoglobin: evidence for ligation of tyrosine-63 (B10) to
+the heme.";
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast. Note=Particularly in
+    the pyrenoid and the thylakoid region.
+-!- INDUCTION: By light.
+-!- SIMILARITY: Belongs to the protozoan/cyanobacterial globin family.
+3D-structure; Chloroplast; Heme; Iron; Metal-binding;
+Oxygen transport; Plastid; Transport.
+TMZERO

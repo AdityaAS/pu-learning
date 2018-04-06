@@ -1,0 +1,12 @@
+AC   Q92ZT0;
+Carbamate kinase (EC 2.7.2.2).
+"Nucleotide sequence and predicted functions of the entire
+Sinorhizobium meliloti pSymA megaplasmid.";
+-!- CATALYTIC ACTIVITY: ATP + NH(3) + CO(2) = ADP + carbamoyl
+    phosphate.
+-!- PATHWAY: Amino-acid degradation; L-arginine degradation via ADI
+    pathway; CO(2) and NH(3) from L-arginine: step 3 [final step].
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the carbamate kinase family.
+Arginine metabolism; Complete proteome; Kinase; Plasmid; Transferase.
+TMZERO

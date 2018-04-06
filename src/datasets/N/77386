@@ -1,0 +1,15 @@
+AC   Q71V10;
+Sperm protamine P1.
+"Phylogeny of the dasyurid marsupial genus Antechinus based on
+cytochrome-b, 12S-rRNA, and protamine-P1 genes.";
+-!- FUNCTION: Protamines substitute for histones in the chromatin of
+    sperm during the haploid phase of spermatogenesis. They compact
+    sperm DNA into a highly condensed, stable and inactive complex (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- TISSUE SPECIFICITY: Testis.
+-!- SIMILARITY: Belongs to the protamine P1 family.
+Chromosomal protein; Developmental protein; Differentiation;
+DNA condensation; DNA-binding; Nuclear protein; Nucleosome core;
+Spermatogenesis.
+TMZERO

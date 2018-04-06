@@ -1,0 +1,21 @@
+AC   Q5N605;
+Ribonuclease P protein component (EC 3.1.26.5) (RNaseP protein) (RNase
+P protein) (Protein C5).
+"Complete genome structure of the unicellular cyanobacterium Anacystis
+nidulans 6301 (Synechococcus sp. PCC6301).";
+-!- FUNCTION: RNaseP catalyzes the removal of the 5'-leader sequence
+    from pre-tRNA to produce the mature 5'-terminus. It can also
+    cleave other RNA substrates such as 4.5S RNA. The protein
+    component plays an auxiliary but essential role in vivo by binding
+    to the 5'-leader sequence and broadening the substrate specificity
+    of the ribozyme (By similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of RNA, removing 5'-
+    extranucleotides from tRNA precursor.
+-!- SUBUNIT: Consists of a catalytic RNA component (M1 or rnpB) and a
+    protein subunit (By similarity).
+-!- SIMILARITY: Belongs to the rnpA family.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+ GO:0001682; P:tRNA 5'-leader removal; IEA:HAMAP.
+Complete proteome; Endonuclease; Hydrolase; Nuclease; RNA-binding;
+tRNA processing.
+TMZERO

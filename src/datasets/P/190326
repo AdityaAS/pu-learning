@@ -1,0 +1,14 @@
+AC   P0A856; P19935;
+Protein tolB precursor.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Involved in the tonB-independent uptake of group A
+    colicins (colicins A, E1, E2, E3 and K). Necessary for the
+    colicins to reach their respective targets after initial binding
+    to the bacteria (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the tolB family.
+ GO:0017038; P:protein import; IEA:HAMAP.
+Bacteriocin transport; Complete proteome; Periplasmic;
+Protein transport; Signal; Transport.
+TMZERO

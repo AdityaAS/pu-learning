@@ -1,0 +1,9 @@
+AC   Q10495;
+Hypothetical protein C26F1.08c in chromosome I.
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+ GO:0005783; C:endoplasmic reticulum; IDA:GeneDB_SPombe.
+Complete proteome; Glycoprotein; Hypothetical protein; Membrane;
+Transmembrane.
+TMTWELVE

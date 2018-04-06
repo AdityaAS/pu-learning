@@ -1,0 +1,15 @@
+AC   Q25BC3;
+Interleukin-2 precursor (IL-2) (T-cell growth factor) (TCGF).
+"Cloning of fox (Vulpes vulpes) IL2, IL6, IL10 and IFNgamma and
+analysis of their expression by quantitative RT-PCR in fox PBMC after
+in vitro stimulation by concanavalin A.";
+-!- FUNCTION: Produced by T-cells in response to antigenic or
+    mitogenic stimulation, this protein is required for T-cell
+    proliferation and other activities crucial to regulation of the
+    immune response. Can stimulate B-cells, monocytes, lymphokine-
+    activated killer cells, natural killer cells, and glioma cells (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the IL-2 family.
+Cytokine; Glycoprotein; Growth factor; Immune response; Signal.
+TMZERO

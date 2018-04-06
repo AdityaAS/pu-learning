@@ -1,0 +1,14 @@
+AC   Q7VJV1;
+Flagellar P-ring protein precursor (Basal body P-ring protein).
+"The complete genome sequence of the carcinogenic bacterium
+Helicobacter hepaticus.";
+-!- FUNCTION: Assembles around the rod to form the L-ring and probably
+    protects the motor/basal body from shearing forces during
+    rotation.
+-!- SUBUNIT: The basal body constitutes a major portion of the
+    flagellar organelle and consists of four rings (L,P,S, and M)
+    mounted on a central rod (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the flgI family.
+Complete proteome; Flagellum; Periplasmic; Signal.
+TMZERO

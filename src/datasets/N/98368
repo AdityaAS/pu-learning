@@ -1,0 +1,11 @@
+AC   P32244;
+Melanocortin receptor 3 (MC3-R).
+"Identification of a receptor for gamma melanotropin and other
+proopiomelanocortin peptides in the hypothalamus and limbic system.";
+-!- FUNCTION: Receptor for MSH (alpha, beta and gamma) and ACTH.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Brain.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+G-protein coupled receptor; Glycoprotein; Lipoprotein; Membrane;
+Palmitate; Phosphorylation; Receptor; Transducer; Transmembrane.
+TMSEVEN

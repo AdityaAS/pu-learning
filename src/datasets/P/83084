@@ -1,0 +1,17 @@
+AC   P35672;
+Protein invG precursor.
+"Biological and genetic characterization of TnphoA mutants of
+Salmonella typhimurium TML in the context of gastroenteritis.";
+"The Salmonella typhimurium invasion genes invF and invG encode
+homologues of the AraC and PulD family of proteins.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Involved in the invasion of the cells of the intestinal
+    epithelium. Could be necessary for the export of invasion related
+    determinants.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the GSP D family.
+Complete proteome; Membrane; Outer membrane; Protein transport;
+Signal; Transport; Virulence.
+TMZERO

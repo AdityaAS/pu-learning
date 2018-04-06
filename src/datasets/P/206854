@@ -1,0 +1,20 @@
+AC   P0A930; P71235; P71273; P76388; Q2MAY0;
+Putative polysaccharide export protein wza precursor.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of the promoter region for the colanic acid
+polysaccharide biosynthetic genes in Escherichia coli K-12.";
+"Organization of the Escherichia coli K-12 gene cluster responsible
+for production of the extracellular polysaccharide colanic acid.";
+-!- FUNCTION: Probably involved in the export of the extracellular
+    polysaccharide colanic acid from the cell to medium.
+-!- PATHWAY: Exopolysaccharide biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the bexD/ctrA/vexA family.
+Complete proteome; Exopolysaccharide synthesis; Ion transport;
+Lipoprotein; Membrane; Outer membrane; Palmitate;
+Polysaccharide transport; Porin; Signal; Sugar transport;
+Transmembrane; Transport.
+TMZERO

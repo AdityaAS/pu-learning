@@ -1,0 +1,18 @@
+AC   P08690;
+Arsenical pump-driving ATPase (EC 3.6.3.16) (Arsenite-translocating
+ATPase) (Arsenical resistance ATPase) (Arsenite-transporting ATPase).
+"Nucleotide sequence of the structural genes for an anion pump. The
+plasmid-encoded arsenical resistance operon.";
+"The plasmid-encoded arsenical resistance pump: an anion-translocating
+ATPase.";
+-!- FUNCTION: Anion-transporting ATPase. Catalyzes the extrusion of
+    the oxyanions arsenite, antimonite and arsenate. Maintenance of a
+    low intracellular concentration of oxyanion produces resistance to
+    the toxic agents.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + arsenite(In) = ADP + phosphate +
+    arsenite(Out).
+-!- SIMILARITY: Belongs to the arsA ATPase family.
+ GO:0015446; F:arsenite-transporting ATPase activity; IEA:EC.
+3D-structure; Arsenical resistance; ATP-binding; Hydrolase;
+Nucleotide-binding; Plasmid.
+TMZERO

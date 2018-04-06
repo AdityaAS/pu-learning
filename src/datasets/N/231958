@@ -1,0 +1,21 @@
+AC   Q90Y35; Q90Y36;
+Zinc finger protein 622 (Zn-finger protein C47).
+"Gonad-specific expression of two novel chicken complementary DNA
+isoforms.";
+-!- FUNCTION: May behave as an activator of the bound transcription
+    factor, MYBL2, and be involved in embryonic development (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=C47L;
+      IsoId=Q90Y35-1; Sequence=Displayed;
+    Name=2; Synonyms=C47S;
+      IsoId=Q90Y35-2; Sequence=VSP_010810;
+-!- TISSUE SPECIFICITY: Isoform 1 is expressed essentially in the
+    ovary and isoform 2 in the testis.
+-!- SIMILARITY: Contains 2 U1-type zinc fingers.
+Alternative splicing; Metal-binding; Nuclear protein; Repeat; Zinc;
+Zinc-finger.
+TMZERO

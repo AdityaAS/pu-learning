@@ -1,0 +1,37 @@
+AC   P07255;
+Cytochrome c oxidase subunit 7A precursor (EC 1.9.3.1) (Cytochrome c
+oxidase polypeptide VIIA).
+"Characterization of COX9, the nuclear gene encoding the yeast
+mitochondrial protein cytochrome c oxidase subunit VIIa. Subunit VIIa
+lacks a leader peptide and is an essential component of the
+holoenzyme.";
+"Mitochondrial import of cytochrome c oxidase subunit VIIa in
+Saccharomyces cerevisiae. Identification of sequences required for
+mitochondrial localization in vivo.";
+"Chromosomal localization and expression of CBS1, a translational
+activator of cytochrome b in yeast.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"The nuclear-coded subunits of yeast cytochrome c oxidase. The amino
+acid sequences of subunits VII and VIIa, structural similarities
+between the three smallest polypeptides of the holoenzyme, and
+implications for biogenesis.";
+"Kinetic properties and ligand binding of the eleven-subunit
+cytochrome-c oxidase from Saccharomyces cerevisiae isolated with a
+novel large-scale purification method.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: This small integral protein plays a role in holoenzyme
+    assembly or stability.
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBUNIT: Cytochrome c oxidase is composed of 11 subunits: one copy
+    each of COX1, COX2, COX3, COX4, COX5A or COX5B, COX6, COX7, COX9,
+    COX12, COX13 and two copies of COX8.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- MISCELLANEOUS: Present with 35500 molecules/cell.
+ GO:0005751; C:respiratory chain complex IV (sensu Eukaryota); IPI:SGD.
+ GO:0006123; P:mitochondrial electron transport, cytochrom...; IDA:SGD.
+Complete proteome; Direct protein sequencing; Membrane; Mitochondrion;
+Oxidoreductase; Transmembrane.
+TMONE

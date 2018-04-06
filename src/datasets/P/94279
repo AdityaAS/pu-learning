@@ -1,0 +1,37 @@
+AC   P61320; P24208; Q46753;
+Outer-membrane lipoprotein lolB precursor.
+"Cloning and characterization of genes involved in the biosynthesis of
+delta-aminolevulinic acid in Escherichia coli.";
+"Characterization of the hemA-prs region of the Escherichia coli and
+Salmonella typhimurium chromosomes: identification of two open reading
+frames and implications for prs expression.";
+"Expression of genes kdsA and kdsB involved in 3-deoxy-D-manno-
+octulosonic acid metabolism and biosynthesis of enterobacterial
+lipopolysaccharide is growth phase regulated primarily at the
+transcriptional level in Escherichia coli K-12.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"A novel outer membrane lipoprotein, LolB (HemM), involved in the LolA
+(p20)-dependent localization of lipoproteins to the outer membrane of
+Escherichia coli.";
+"Deletion of lolB, encoding an outer membrane lipoprotein, is lethal
+for Escherichia coli and causes accumulation of lipoprotein
+localization intermediates in the periplasm.";
+"Crystal structures of bacterial lipoprotein localization factors,
+LolA and LolB.";
+-!- FUNCTION: Plays a critical role in the incorporation of
+    lipoproteins in the outer membrane after they are released by the
+    lolA protein. Essential for E.coli viability.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor.
+-!- SIMILARITY: Belongs to the lolB family.
+-!- CAUTION: Was originally (Ref.1) thought to be involved in delta-
+    aminolevulinic acid biosynthesis.
+ GO:0008565; F:protein transporter activity; IEA:HAMAP.
+3D-structure; Chaperone; Complete proteome; Direct protein sequencing;
+Lipoprotein; Membrane; Outer membrane; Palmitate; Protein transport;
+Signal; Transport.
+TMZERO

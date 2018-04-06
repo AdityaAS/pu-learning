@@ -1,0 +1,14 @@
+AC   Q5X3Q4;
+Putative pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96) (PHS)
+(4-alpha-hydroxy-tetrahydropterin dehydratase) (Pterin carbinolamine
+dehydratase) (PCD).
+"Evidence in the Legionella pneumophila genome for exploitation of
+host cell functions and high genome plasticity.";
+-!- CATALYTIC ACTIVITY: (6R)-6-(L-erythro-1,2-dihydroxypropyl)-
+    5,6,7,8-tetrahydro-4a-hydroxypterin = (6R)-6-(L-erythro-1,2-
+    dihydroxypropyl)-7,8-dihydro-6H-pterin + H(2)O.
+-!- SIMILARITY: Belongs to the pterin-4-alpha-carbinolamine
+    dehydratase family.
+ GO:0008124; F:4-alpha-hydroxytetrahydrobiopterin dehydrat...; IEA:HAMAP.
+Complete proteome; Lyase.
+TMZERO

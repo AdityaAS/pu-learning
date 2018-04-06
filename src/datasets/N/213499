@@ -1,0 +1,8 @@
+AC   Q88VC6;
+UPF0298 protein lp_2135.
+"Complete genome sequence of Lactobacillus plantarum WCFS1.";
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the UPF0298 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

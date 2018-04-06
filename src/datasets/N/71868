@@ -1,0 +1,27 @@
+AC   Q5T447; Q5T448; Q9H783;
+Probable E3 ubiquitin-protein ligase HECTD3 (HECT domain-containing
+protein 3).
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Probable E3 ubiquitin-protein ligase which accepts
+    ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a
+    thioester and then directly transfers the ubiquitin to targeted
+    substrates (By similarity).
+-!- PATHWAY: Ubiquitin conjugation; third step.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q5T447-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q5T447-2; Sequence=VSP_019439, VSP_019440;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q5T447-3; Sequence=VSP_019438;
+-!- SIMILARITY: Contains 1 APC10 domain.
+-!- SIMILARITY: Contains 1 HECT (E6AP-type E3 ubiquitin-protein
+    ligase) domain.
+Alternative splicing; Ligase; Ubl conjugation pathway.
+TMZERO

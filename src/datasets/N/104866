@@ -1,0 +1,18 @@
+AC   P80290;
+Metallothionein-2C (MT-2C) (Metallothionein-IIC) (MT-IIC).
+"Primary structures of seven metallothioneins from rabbit tissue.";
+-!- FUNCTION: Metallothioneins have a high content of cysteine
+    residues that bind various heavy metals; these proteins are
+    transcriptionally regulated by both heavy metals and
+    glucocorticoids.
+-!- SUBUNIT: Monomer.
+-!- DOMAIN: Class I metallothioneins contain 2 metal-binding domains:
+    four divalent ions are chelated within cluster A of the alpha
+    domain and are coordinated via cysteinyl thiolate bridges to 11
+    cysteine ligands. Cluster B, the corresponding region within the
+    beta domain, can ligate three divalent ions to 9 cysteines.
+-!- SIMILARITY: Belongs to the metallothionein superfamily. Type 1
+    family.
+Acetylation; Cadmium; Copper; Direct protein sequencing;
+Metal-binding; Metal-thiolate cluster; Zinc.
+TMZERO

@@ -1,0 +1,15 @@
+AC   P02053;
+Hemoglobin subunit beta (Hemoglobin beta chain) (Beta-globin).
+"Amino acid sequences of the alpha and beta chains of adult hemoglobin
+of the brown lemur, Lemur fulvus fulvus.";
+"Nucleotide sequence analysis of the lemur beta-globin gene family:
+evidence for major rate fluctuations in globin polypeptide
+evolution.";
+-!- FUNCTION: Involved in oxygen transport from the lung to the
+    various peripheral tissues.
+-!- SUBUNIT: Heterotetramer of two alpha chains and two beta chains.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- SIMILARITY: Belongs to the globin family.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

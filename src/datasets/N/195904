@@ -1,0 +1,16 @@
+AC   Q73VZ2;
+Thymidylate synthase (EC 2.1.1.45) (TS) (TSase).
+"The complete genome sequence of Mycobacterium avium subspecies
+paratuberculosis.";
+-!- FUNCTION: Provides the sole de novo source of dTMP for DNA
+    biosynthesis (By similarity).
+-!- CATALYTIC ACTIVITY: 5,10-methylenetetrahydrofolate + dUMP =
+    dihydrofolate + dTMP.
+-!- PATHWAY: Nucleotide biosynthesis; deoxyribonucleotide
+    biosynthesis.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the thymidylate synthase family.
+Complete proteome; Methyltransferase; Nucleotide biosynthesis;
+Transferase.
+TMZERO

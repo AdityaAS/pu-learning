@@ -1,0 +1,22 @@
+AC   P97055; Q52714;
+Electron transport complex protein rnfE (Nitrogen fixation protein
+rnfE).
+"Identification of a new class of nitrogen fixation genes in
+Rhodobacter capsulatus: a putative membrane complex involved in
+electron transport to nitrogenase.";
+"Overexpression in Escherichia coli of the rnf genes from Rhodobacter
+capsulatus -- characterization of two membrane-bound iron-sulfur
+proteins.";
+-!- FUNCTION: Required for nitrogen fixation. May be part of a
+    membrane complex functioning as an intermediate in the electron
+    transport to nitrogenase.
+-!- SUBUNIT: Composed of at least six subunits; rnfA, rnfB, rnfC,
+    rnfD, rnfE and rnfG.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- INDUCTION: Expression is reduced under iron-limiting conditions.
+-!- SIMILARITY: Belongs to the nqrDE/rnfAE family.
+ GO:0009399; P:nitrogen fixation; IEA:HAMAP.
+Electron transport; Inner membrane; Membrane; Nitrogen fixation;
+Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,22 @@
+AC   Q9SI17;
+Peroxidase 14 precursor (EC 1.11.1.7) (Atperox P14).
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Analysis and expression of the class III peroxidase large gene family
+in Arabidopsis thaliana.";
+-!- FUNCTION: Removal of H(2)O(2), oxidation of toxic reductants,
+    biosynthesis and degradation of lignin, suberization, auxin
+    catabolism, response to environmental stresses such as wounding,
+    pathogen attack and oxidative stress. These functions might be
+    dependent on each isozyme/isoform in each plant tissue.
+-!- CATALYTIC ACTIVITY: Donor + H(2)O(2) = oxidized donor + 2 H(2)O.
+-!- COFACTOR: Binds 1 heme B (iron-protoporphyrin IX) group per
+    subunit (By similarity).
+-!- COFACTOR: Binds 2 calcium ions per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- MISCELLANEOUS: There are 73 peroxidase genes in A.thaliana.
+-!- SIMILARITY: Belongs to the peroxidase family. Classical plant
+    (class III) peroxidase subfamily.
+Calcium; Glycoprotein; Heme; Hydrogen peroxide; Iron; Metal-binding;
+Oxidoreductase; Peroxidase; Signal.
+TMZERO

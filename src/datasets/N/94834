@@ -1,0 +1,18 @@
+AC   Q9PIK8;
+Lipid-A-disaccharide synthase (EC 2.4.1.182).
+"The genome sequence of the food-borne pathogen Campylobacter jejuni
+reveals hypervariable sequences.";
+-!- FUNCTION: Condensation of UDP-2,3-diacylglucosamine and 2,3-
+    diacylglucosamine-1-phosphate to form lipid A disaccharide, a
+    precursor of lipid A, a phosphorylated glycolipid that anchors the
+    lipopolysaccharide to the outer membrane of the cell (By
+    similarity).
+-!- CATALYTIC ACTIVITY: UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine
+    + 2,3-bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate
+    = UDP + 2,3-bis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-
+    2,3-bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate.
+-!- PATHWAY: Lipid A biosynthesis; fifth step.
+-!- SIMILARITY: Belongs to the lpxB family.
+Complete proteome; Glycosyltransferase; Lipid A biosynthesis;
+Lipid synthesis; Transferase.
+TMZERO

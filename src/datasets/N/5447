@@ -1,0 +1,27 @@
+AC   P09972;
+Fructose-bisphosphate aldolase C (EC 4.1.2.13) (Brain-type aldolase).
+"The complete amino acid sequence of the human aldolase C isozyme
+derived from genomic clones.";
+"The complete nucleotide sequence of the gene coding for the human
+aldolase C.";
+"Characterization of the transcription-initiation site and of the
+promoter region within the 5' flanking region of the human aldolase C
+gene.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Substrate and functional diversity of lysine acetylation revealed by
+a proteomics survey.";
+-!- CATALYTIC ACTIVITY: D-fructose 1,6-bisphosphate = glycerone
+    phosphate + D-glyceraldehyde 3-phosphate.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; D-glyceraldehyde 3-
+    phosphate and glycerone phosphate from D-glucose: step 4.
+-!- SUBUNIT: Homotetramer.
+-!- MISCELLANEOUS: In vertebrates, three forms of this ubiquitous
+    glycolytic enzyme are found, aldolase A in muscle, aldolase B in
+    liver and aldolase C in brain.
+-!- SIMILARITY: Belongs to the class I fructose-bisphosphate aldolase
+    family.
+ GO:0004332; F:fructose-bisphosphate aldolase activity; TAS:ProtInc.
+ GO:0006000; P:fructose metabolism; TAS:ProtInc.
+3D-structure; Acetylation; Glycolysis; Lyase; Schiff base.
+TMZERO

@@ -1,0 +1,23 @@
+AC   Q08269; Q02811;
+Magnesium transporter ALR1 (Aluminum resistance protein 1).
+"Sequence analysis of a 13.4 kbp fragment from the left arm of
+chromosome XV reveals a malate dehydrogenase gene, a putative Ser/Thr
+protein kinase, the ribosomal L25 gene and four new open reading
+frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Overexpression of the Saccharomyces cerevisiae magnesium transport
+system confers resistance to aluminum ion.";
+"A proteomics approach to understanding protein ubiquitination.";
+-!- FUNCTION: Plasma membrane magnesium transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the corA metal ion transporter (MIT)
+    (TC 1.A.35) family.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0015082; F:di-, tri-valent inorganic cation transporte...; IMP:SGD.
+ GO:0015693; P:magnesium ion transport; IDA:SGD.
+Complete proteome; Magnesium; Membrane; Phosphorylation;
+Transmembrane; Transport.
+TMTWO

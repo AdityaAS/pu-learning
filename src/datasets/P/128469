@@ -1,0 +1,25 @@
+AC   P0C186; Q60164;
+NAD(P) transhydrogenase subunit alpha part 1 (EC 1.6.1.2) (Pyridine
+nucleotide transhydrogenase subunit alpha 1) (Nicotinamide nucleotide
+transhydrogenase subunit alpha 1) (Proton-translocating
+transhydrogenase component 1) (dI).
+"Energy-transducing nicotinamide nucleotide transhydrogenase:
+nucleotide sequences of the genes and predicted amino acid sequences
+of the subunits of the enzyme from Rhodospirillum rubrum.";
+"Protein-protein recognition, hydride transfer and proton pumping in
+the transhydrogenase complex.";
+"The crystal structure of an asymmetric complex of the two nucleotide
+binding components of proton-translocating transhydrogenase.";
+-!- FUNCTION: The transhydrogenation between NADH and NADP is coupled
+    to respiration and ATP hydrolysis and functions as a proton pump
+    across the membrane (By similarity).
+-!- CATALYTIC ACTIVITY: NADPH + NAD(+) = NADP(+) + NADH.
+-!- SUBUNIT: Complex of an alpha and a beta chain; in Rhodospirillum,
+    the alpha chain seems to be made of two subunits.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the AlaDH/PNT family.
+ GO:0006118; P:electron transport; NAS:UniProtKB.
+3D-structure; Inner membrane; Membrane; NAD; NADP; Oxidoreductase;
+Transmembrane.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P16393;
+3-hydroxy-3-methylglutaryl-coenzyme A reductase (EC 1.1.1.34) (HMG-CoA
+reductase).
+"3-hydroxy-3-methylglutaryl-coenzyme A reductase of the sea urchin
+embryo. Deduced structure and regulatory properties.";
+"3-hydroxy-3-methylglutaryl coenzyme A reductase in the sea urchin
+embryo is developmentally regulated.";
+-!- FUNCTION: This transmembrane glycoprotein is involved in the
+    control of cholesterol biosynthesis. It is the rate-limiting
+    enzyme of sterol biosynthesis.
+-!- CATALYTIC ACTIVITY: (R)-mevalonate + CoA + 2 NADP(+) = (S)-3-
+    hydroxy-3-methylglutaryl-CoA + 2 NADPH.
+-!- PATHWAY: Metabolic intermediate biosynthesis; mevalonate
+    biosynthesis; R-mevalonate from acetyl-CoA: step 3 [final step].
+-!- PATHWAY: Context: Cholesterol biosynthesis.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the HMG-CoA reductase family.
+Cholesterol biosynthesis; Endoplasmic reticulum; Glycoprotein;
+Lipid synthesis; Membrane; NADP; Oxidoreductase; Steroid biosynthesis;
+Sterol biosynthesis; Transmembrane.
+TMSEVEN

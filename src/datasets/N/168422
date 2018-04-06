@@ -1,0 +1,25 @@
+AC   Q24297; Q9V672;
+Small nuclear ribonucleoprotein F (snRNP-F) (Sm protein F) (Sm-F)
+(SmF) (Membrane-associated protein Deb-B).
+"Sequence and expression of two regulated transcription units during
+Drosophila melanogaster development: Deb-A and Deb-B.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: Associated with snRNP U1, U2, U4/U6 and U5 (By
+    similarity).
+-!- INTERACTION:
+    Q9VI10:CG1249; NbExp=1; IntAct=EBI-153111, EBI-141849;
+    Q9VJI7:CG13277; NbExp=1; IntAct=EBI-153111, EBI-88876;
+    Q9VLV5:CG18591; NbExp=1; IntAct=EBI-153111, EBI-127642;
+    Q9W087:CG2021; NbExp=1; IntAct=EBI-153111, EBI-140047;
+    Q9VRT7:CG6610; NbExp=1; IntAct=EBI-153111, EBI-117085;
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the snRNP Sm proteins family.
+ GO:0030532; C:small nuclear ribonucleoprotein complex; NAS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0000398; P:nuclear mRNA splicing, via spliceosome; NAS:UniProtKB.
+Complete proteome; mRNA processing; mRNA splicing; Nuclear protein;
+Ribonucleoprotein; RNA-binding.
+TMZERO

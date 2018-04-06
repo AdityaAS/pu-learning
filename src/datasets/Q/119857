@@ -1,0 +1,13 @@
+AC   Q8CMK8;
+Membrane protein oxaA 2 precursor.
+"Genome-based analysis of virulence genes in a non-biofilm-forming
+Staphylococcus epidermidis strain (ATCC 12228).";
+-!- FUNCTION: Required for the insertion of integral membrane proteins
+    into the membrane. May also be involved in protein secretion
+    processes (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the OXA1/oxaA family. Type 2 subfamily.
+Complete proteome; Lipoprotein; Membrane; Palmitate; Signal;
+Transmembrane.
+TMFIVE

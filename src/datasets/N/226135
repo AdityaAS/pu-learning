@@ -1,0 +1,12 @@
+AC   P0AF59; P39273; Q2M6H8;
+Hypothetical protein yjdI.
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- INTERACTION:
+    P0ACF0:hupA; NbExp=1; IntAct=EBI-1134705, EBI-547648;
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Hypothetical protein.
+TMZERO

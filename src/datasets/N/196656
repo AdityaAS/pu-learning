@@ -1,0 +1,15 @@
+AC   Q8FFP0;
+3-demethylubiquinone-9 3-methyltransferase (EC 2.1.1.64) (3,4-
+dihydroxy-5-hexaprenylbenzoate methyltransferase) (DHHB
+methyltransferase).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + 3-
+    demethylubiquinone-9 = S-adenosyl-L-homocysteine + ubiquinone-9.
+-!- PATHWAY: Cofactor biosynthesis; ubiquinone biosynthesis.
+-!- SIMILARITY: Belongs to the methyltransferase superfamily.
+    UbiG/COQ3 family.
+ GO:0008689; F:3-demethylubiquinone-9 3-O-methyltransferas...; IEA:HAMAP.
+Complete proteome; Methyltransferase; S-adenosyl-L-methionine;
+Transferase; Ubiquinone biosynthesis.
+TMZERO

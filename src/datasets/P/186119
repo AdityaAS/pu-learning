@@ -1,0 +1,15 @@
+AC   P62967; P14512;
+Tetracycline resistance protein.
+"Genome-based analysis of virulence genes in a non-biofilm-forming
+Staphylococcus epidermidis strain (ATCC 12228).";
+-!- FUNCTION: Resistance to tetracycline by an active tetracycline
+    efflux. This is an energy-dependent process that decreases the
+    accumulation of the antibiotic in whole cells. This protein
+    functions as a metal-tetracycline/H(+) antiporter.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. TCR/tet
+    family.
+Antibiotic resistance; Antiport; Complete proteome;
+Hydrogen ion transport; Ion transport; Membrane; Plasmid;
+Transmembrane; Transport.
+TMFOURTEEN

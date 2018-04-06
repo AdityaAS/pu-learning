@@ -1,0 +1,23 @@
+AC   P21420; P77189;
+Outer membrane porin protein nmpC precursor.
+"Structure of the lc and nmpC outer membrane porin protein genes of
+lambdoid bacteriophage.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Expression of the nmpC gene of Escherichia coli K-12 is modulated by
+external pH. Identification of cis-acting regulatory sequences
+involved in this regulation.";
+"Holliday junction resolvases encoded by homologous rusA genes in
+Escherichia coli K-12 and phage 82.";
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: In wild-type strains of E.coli K12, the nmpC open
+    reading frame is interrupted by an IS5 insertion and generates a
+    hybrid open reading frame that is not expressed. However, in
+    mutant strain CS348, the IS5 element has been deleted and nmpC is
+    expressed.
+-!- SIMILARITY: Belongs to the Gram-negative porin family.
+Complete proteome; Ion transport; Membrane; Outer membrane; Porin;
+Signal; Transmembrane; Transport.
+TMZERO

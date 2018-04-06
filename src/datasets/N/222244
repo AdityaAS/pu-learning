@@ -1,0 +1,11 @@
+AC   P49537;
+Putative peroxiredoxin ycf42 (EC 1.11.1.15) (Thioredoxin reductase).
+"The chloroplast genome of a chlorophyll a+c-containing alga,
+Odontella sinensis.";
+-!- CATALYTIC ACTIVITY: 2 R'-SH + ROOH = R'-S-S-R' + H(2)O + ROH.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the ahpC/TSA family.
+ GO:0051920; F:peroxiredoxin activity; IEA:EC.
+Antioxidant; Chloroplast; Hypothetical protein; Oxidoreductase;
+Peroxidase; Plastid; Redox-active center.
+TMZERO

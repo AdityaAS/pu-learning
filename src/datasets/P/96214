@@ -1,0 +1,16 @@
+AC   P35865;
+L-lysine transport protein (L-lysine permease).
+"Molecular analysis of the Corynebacterium glutamicum lysl gene
+involved in lysine uptake.";
+"Complete genomic sequence of Corynebacterium glutamicum ATCC 13032.";
+"The complete Corynebacterium glutamicum ATCC 13032 genome sequence
+and its impact on the production of L-aspartate-derived amino acids
+and vitamins.";
+-!- FUNCTION: Permease that is involved in the transport across the
+    membrane of lysine.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTHIRTEEN

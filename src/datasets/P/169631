@@ -1,0 +1,15 @@
+AC   P31637;
+Sodium/myo-inositol cotransporter (Na(+)/myo-inositol cotransporter).
+"Cloning of the cDNA for a Na+/myo-inositol cotransporter, a
+hypertonicity stress protein.";
+-!- FUNCTION: Prevents intracellular accumulation of high
+    concentrations of myo-inositol (an osmolyte) that result in
+    impairment of cellular function.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Brain and kidney.
+-!- INDUCTION: Medium hypertonicity.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+Glycoprotein; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMTWELVE

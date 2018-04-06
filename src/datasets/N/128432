@@ -1,0 +1,24 @@
+AC   P19881; Q07689;
+4-nitrophenylphosphatase (EC 3.1.3.41) (PNPPase).
+"Molecular characterization of a specific p-nitrophenylphosphatase
+gene, PHO13, and its mapping by chromosome fragmentation in
+Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: PHO13 is dispensable for vegetative growth and
+    sporulation.
+-!- CATALYTIC ACTIVITY: 4-nitrophenyl phosphate + H(2)O = 4-
+    nitrophenol + phosphate.
+-!- ENZYME REGULATION: Activity enhanced by Mg(2+) ion but inhibited
+    by Ca(2+), Zn(2+) and Be(2+) ions. Inorganic phosphate and ATP are
+    competitive inhibitors, whereas pyrophosphate and AMP have no
+    effect.
+-!- SUBUNIT: Homodimer.
+-!- MISCELLANEOUS: Present with 2980 molecules/cell.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0003869; F:4-nitrophenylphosphatase activity; IDA:SGD.
+ GO:0004035; F:alkaline phosphatase activity; IDA:SGD.
+ GO:0016576; P:histone dephosphorylation; IDA:SGD.
+Complete proteome; Hydrolase; Magnesium.
+TMZERO

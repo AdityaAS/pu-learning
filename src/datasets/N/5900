@@ -1,0 +1,26 @@
+AC   P82678;
+Allantoicase (EC 3.5.3.4) (Allantoate amidinohydrolase) (Fragment).
+"Allantoate amidinohydrolase (Allantoicase) from Chlamydomonas
+reinhardtii: its purification and catalytic and molecular
+characterization.";
+-!- FUNCTION: Catalyzes the degradation of allantoate to (-)-
+    ureidoglycolate and (+)-ureidoglycolate to glyoxylate.
+-!- CATALYTIC ACTIVITY: Allantoate + H(2)O = (S)-ureidoglycolate +
+    urea.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=2.0 mM for allantoate;
+      KM=0.7 mM for ureidoglycolate;
+      Note=Vmax of the reaction with allantoate as substrate is nine
+      times higher than that with ureidoglycolate;
+    pH dependence:
+      Optimum pH is 6.5 with allantoate as substrate, and 8 with
+      ureidoglycolate as substrate;
+    Temperature dependence:
+      Optimum temperature is 60 degrees Celsius;
+-!- PATHWAY: Nucleotide metabolism; purine metabolism.
+-!- SUBUNIT: Homohexamer.
+-!- SIMILARITY: Belongs to the allantoicase family.
+ GO:0004037; F:allantoicase activity; IEA:EC.
+Direct protein sequencing; Hydrolase; Purine metabolism.
+TMZERO

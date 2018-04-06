@@ -1,0 +1,23 @@
+AC   P42699; Q9LN26;
+Plastocyanin major isoform, chloroplast precursor (DNA-damage-
+repair/toleration protein DRT112).
+"Two cDNAs from the plant Arabidopsis thaliana that partially restore
+recombination proficiency and DNA-damage resistance to E. coli mutants
+lacking recombination-intermediate-resolution activities.";
+"A peroxidase homologue and novel plastocyanin located by proteomics
+to the Arabidopsis chloroplast thylakoid lumen.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+-!- FUNCTION: Participates in electron transfer between P700 and the
+    cytochrome b6-f complex in photosystem I. Seems to be the major
+    plastocyanin in Arabidopsis.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    lumen.
+-!- SIMILARITY: Contains 1 plastocyanin-like domain.
+-!- CAUTION: Was originally (Ref.1) thought to be involved in the
+    resistance to UV light and chemical DNA-damaging agents.
+Chloroplast; Copper; Direct protein sequencing; Electron transport;
+Metal-binding; Plastid; Thylakoid; Transit peptide; Transport.
+TMZERO

@@ -1,0 +1,21 @@
+AC   Q5XCS3;
+Lipoprotein signal peptidase (EC 3.4.23.36) (Prolipoprotein signal
+peptidase) (Signal peptidase II) (SPase II).
+"Progress toward characterization of the group A Streptococcus
+metagenome: complete genome sequence of a macrolide-resistant serotype
+M6 strain.";
+-!- FUNCTION: This protein specifically catalyzes the removal of
+    signal peptides from prolipoproteins (By similarity).
+-!- CATALYTIC ACTIVITY: Release of signal peptides from bacterial
+    membrane prolipoproteins. Hydrolyzes -Xaa-Yaa-Zaa-|-
+    (S,diacylglyceryl)Cys-, in which Xaa is hydrophobic (preferably
+    Leu), and Yaa (Ala or Ser) and Zaa (Gly or Ala) have small,
+    neutral side chains.
+-!- PATHWAY: Lipoprotein biosynthesis; second step.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the peptidase A8 family.
+ GO:0009005; F:signal peptidase II activity; IEA:HAMAP.
+Aspartyl protease; Complete proteome; Hydrolase; Membrane; Protease;
+Transmembrane.
+TMFOUR

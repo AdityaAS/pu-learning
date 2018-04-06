@@ -1,0 +1,18 @@
+AC   Q815U6;
+Methionyl-tRNA synthetase 2 (EC 6.1.1.10) (Methionine--tRNA ligase 2)
+(MetRS 2).
+"Genome sequence of Bacillus cereus and comparative analysis with
+Bacillus anthracis.";
+-!- FUNCTION: Is required not only for elongation of protein synthesis
+    but also for the initiation of all mRNA translation through
+    initiator tRNA(fMet) aminoacylation (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + L-methionine + tRNA(Met) = AMP +
+    diphosphate + L-methionyl-tRNA(Met).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family. MetG type 1 subfamily.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Metal-binding; Nucleotide-binding; Protein biosynthesis; Zinc.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q05357;
+Putative polyketide beta-ketoacyl synthase 2 (EC 2.3.1.-) (KS)
+(Polyketide condensing enzyme).
+"Hybridization and DNA sequence analyses suggest an early evolutionary
+divergence of related biosynthetic gene sets encoding polyketide
+antibiotics and spore pigments in Streptomyces spp.";
+-!- FUNCTION: Involved in developmentally regulated synthesis of a
+    compound biosynthetically related to polyketide antibiotics which
+    is essential for spore color in Streptomyces halstedii.
+-!- MISCELLANEOUS: This putative ketoacyl synthase lacks the active
+    site cysteine.
+-!- SIMILARITY: Belongs to the beta-ketoacyl-ACP synthases family.
+Acyltransferase; Transferase.
+TMZERO

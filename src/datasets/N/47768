@@ -1,0 +1,19 @@
+AC   Q55119;
+Elongation factor P (EF-P).
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. I. Sequence features in the 1 Mb
+region from map positions 64% to 92% of the genome.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- FUNCTION: Involved in peptide bond synthesis. Stimulates efficient
+    translation and peptide-bond synthesis on native or reconstituted
+    70S ribosomes in vitro. Probably functions indirectly by altering
+    the affinity of the ribosome for aminoacyl-tRNA, thus increasing
+    their reactivity as acceptors for peptidyl transferase (By
+    similarity).
+-!- PATHWAY: Protein biosynthesis; polypeptide chain elongation.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the elongation factor P family.
+Complete proteome; Elongation factor; Protein biosynthesis.
+TMZERO

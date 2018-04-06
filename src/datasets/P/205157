@@ -1,0 +1,58 @@
+AC   P32563;
+Vacuolar ATP synthase subunit a, vacuolar isoform (EC 3.6.3.14) (V-
+ATPase a subunit) (Vacuolar proton pump a subunit) (V-ATPase 95 kDa
+subunit) (Vacuolar pH protein 1).
+"The VPH1 gene encodes a 95-kDa integral membrane polypeptide required
+for in vivo assembly and activity of the yeast vacuolar H(+)-ATPase.";
+"DNA sequence analysis of the VPH1-SNF2 region on chromosome XV of
+Saccharomyces cerevisiae.";
+"Sequencing analysis of a 36.8 kb fragment of yeast chromosome XV
+reveals 26 open reading frames including SEC63, CDC31, SUG2, GCD1,
+RBL2, PNT1, PAC1 and VPH1.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Evidence for a conserved 95-120 kDa subunit associated with and
+essential for activity of V-ATPases.";
+"Site-directed mutagenesis of the 100-kDa subunit (Vph1p) of the yeast
+vacuolar (H+)-ATPase.";
+"Function of the COOH-terminal domain of Vph1p in activity and
+assembly of the yeast V-ATPase.";
+"Transmembrane topography of the 100-kDa a subunit (Vph1p) of the
+yeast vacuolar proton-translocating ATPase.";
+"Substrate- and inhibitor-induced conformational changes in the yeast
+V-ATPase provide evidence for communication between the catalytic and
+proton-translocating sectors.";
+"Yeast V-ATPase complexes containing different isoforms of the 100-kDa
+a-subunit differ in coupling efficiency and in vivo dissociation.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Subunit of the integral membrane V0 complex of vacuolar
+    ATPase essential for assembly and catalytic activity. Is present
+    only in vacuolar V-ATPase complexes. Enzymes containing this
+    subunit have a 4-fold higher ratio of proton transport to ATP
+    hydrolysis than complexes containing the Golgi/endosomal isoform
+    and undergo reversible dissociation of V1 and V0 in response to
+    glucose depletion. V-ATPase is responsible for acidifying a
+    variety of intracellular compartments in eukaryotic cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'', d and e).
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- PTM: Glycosylated.
+-!- MISCELLANEOUS: Present with 55714 molecules/cell.
+-!- SIMILARITY: Belongs to the V-ATPase 116 kDa subunit family.
+ GO:0000220; C:hydrogen-transporting ATPase V0 domain; IPI:SGD.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); IEP:SGD.
+ GO:0046961; F:hydrogen-transporting ATPase activity, rota...; IDA:SGD.
+ GO:0006797; P:polyphosphate metabolism; IMP:SGD.
+ GO:0006461; P:protein complex assembly; IMP:SGD.
+ GO:0007035; P:vacuolar acidification; IMP:SGD.
+Acetylation; Coiled coil; Complete proteome;
+Direct protein sequencing; Glycoprotein; Hydrogen ion transport;
+Hydrolase; Ion transport; Membrane; Transmembrane; Transport; Vacuole.
+TMEIGHT

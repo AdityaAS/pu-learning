@@ -1,0 +1,11 @@
+AC   Q54318;
+Hemolysin C.
+"Characterization of three putative Serpulina hyodysenteriae
+hemolysins.";
+-!- FUNCTION: Bacterial hemolysins are exotoxins that attack blood
+    cell membranes and cause cell rupture by mechanisms not clearly
+    defined.
+-!- SIMILARITY: Belongs to the UPF0053 family.
+-!- SIMILARITY: Contains 2 CBS domains.
+CBS domain; Cytolysis; Hemolysis; Toxin.
+TMZERO

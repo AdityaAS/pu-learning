@@ -1,0 +1,19 @@
+AC   O22436;
+Magnesium-chelatase subunit chlI, chloroplast precursor (EC 6.6.1.1)
+(Mg-protoporphyrin IX chelatase).
+"Isolation and characterisation of tobacco (Nicotiana tabacum) cDNA
+clones encoding proteins involved in magnesium chelation into
+protoporphyrin IX.";
+-!- FUNCTION: Involved in chlorophyll biosynthesis; introduces a
+    magnesium ion into protoporphyrin IX to yield Mg-protoporphyrin
+    IX.
+-!- CATALYTIC ACTIVITY: ATP + protoporphyrin IX + Mg(2+) + H(2)O = ADP
+    + phosphate + Mg-protoporphyrin IX + 2 H(+).
+-!- PATHWAY: Chlorophyll biosynthesis.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast stroma.
+-!- TISSUE SPECIFICITY: Strongly expressed in young leaves and to a
+    lesser extent in mature leaves.
+-!- SIMILARITY: Belongs to the Mg-chelatase subunits D/I family.
+ATP-binding; Chlorophyll biosynthesis; Chloroplast; Ligase;
+Nucleotide-binding; Photosynthesis; Plastid; Transit peptide.
+TMZERO

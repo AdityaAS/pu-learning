@@ -1,0 +1,32 @@
+AC   Q12265;
+Probable ribose-phosphate pyrophosphokinase 5 (EC 2.7.6.1)
+(Phosphoribosyl pyrophosphate synthetase 5).
+"Analysis of a 26 kb region on the left arm of yeast chromosome XV.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"PRS5, the fifth member of the phosphoribosyl pyrophosphate synthetase
+gene family in Saccharomyces cerevisiae, is essential for cell
+viability in the absence of either PRS1 or PRS3.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- CATALYTIC ACTIVITY: ATP + D-ribose 5-phosphate = AMP + 5-phospho-
+    alpha-D-ribose 1-diphosphate.
+-!- INTERACTION:
+    P38620:PRPS2; NbExp=1; IntAct=EBI-9886, EBI-9873;
+    P38063:PRPS4; NbExp=1; IntAct=EBI-9886, EBI-9882;
+    P10592:SSA2; NbExp=1; IntAct=EBI-9886, EBI-8603;
+-!- MISCELLANEOUS: Present with 3310 molecules/cell.
+-!- SIMILARITY: Belongs to the ribose-phosphate pyrophosphokinase
+    family.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0004749; F:ribose phosphate diphosphokinase activity; TAS:SGD.
+ GO:0006189; P:'de novo' IMP biosynthesis; TAS:SGD.
+ GO:0006207; P:'de novo' pyrimidine base biosynthesis; TAS:SGD.
+ GO:0000105; P:histidine biosynthesis; TAS:SGD.
+ GO:0006166; P:purine ribonucleoside salvage; TAS:SGD.
+ GO:0000723; P:telomere maintenance; IMP:SGD.
+ GO:0000162; P:tryptophan biosynthesis; TAS:SGD.
+Complete proteome; Kinase; Magnesium; Metal-binding;
+Nucleotide biosynthesis; Phosphorylation; Transferase.
+TMZERO

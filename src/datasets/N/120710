@@ -1,0 +1,16 @@
+AC   Q90Y77;
+Phospholipase A2 isozyme PL-Y precursor (EC 3.1.1.4)
+(Phosphatidylcholine 2-acylhydrolase).
+"Regional evolution of Trimeresurus flavoviridis venom-gland
+phospholipase A2 isozymes.";
+-!- FUNCTION: PA2 catalyzes the calcium-dependent hydrolysis of the 2-
+    acyl groups in 3-sn-phosphoglycerides (By similarity).
+-!- CATALYTIC ACTIVITY: Phosphatidylcholine + H(2)O = 1-
+    acylglycerophosphocholine + a carboxylate.
+-!- COFACTOR: Binds 1 calcium ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- TISSUE SPECIFICITY: Expressed by the venom gland (Probable).
+-!- SIMILARITY: Belongs to the phospholipase A2 family. Group II
+    subfamily.
+Calcium; Hydrolase; Lipid degradation; Metal-binding; Signal.
+TMZERO

@@ -1,0 +1,12 @@
+AC   Q65DY4; Q62PF5;
+Protein fdhD homolog.
+"The complete genome sequence of Bacillus licheniformis DSM13, an
+organism with great industrial potential.";
+"Complete genome sequence of the industrial bacterium Bacillus
+licheniformis and comparisons with closely related Bacillus species.";
+-!- FUNCTION: Necessary for formate dehydrogenase activity (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the fdhD family.
+Complete proteome.
+TMZERO

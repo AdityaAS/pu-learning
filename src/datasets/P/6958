@@ -1,0 +1,21 @@
+AC   P23582;
+C-type natriuretic peptide precursor [Contains: CNP-22; CNP-29; CNP-
+53].
+"Gene and precursor structures of human C-type natriuretic peptide.";
+"Human C-type natriuretic peptide. Characterization of the gene and
+peptide.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Isolation and identification of C-type natriuretic peptide in human
+monocytic cell line, THP-1.";
+"Allosteric activation of a spring-loaded natriuretic peptide receptor
+dimer by hormone.";
+-!- FUNCTION: Vasorelaxant activity. Has a cGMP-stimulating activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the natriuretic peptide family.
+ GO:0005576; C:extracellular region; NAS:UniProtKB.
+ GO:0008217; P:blood pressure regulation; NAS:UniProtKB.
+ GO:0019229; P:regulation of vasoconstriction; NAS:UniProtKB.
+3D-structure; Direct protein sequencing; Hormone; Polymorphism;
+Signal; Vasoactive.
+TMZERO

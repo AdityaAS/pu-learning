@@ -1,0 +1,14 @@
+AC   P30964;
+Heme exporter protein B (Cytochrome c-type biogenesis protein cycW).
+"Discovery and sequence analysis of bacterial genes involved in the
+biogenesis of c-type cytochromes.";
+"Complete genomic sequence of nitrogen-fixing symbiotic bacterium
+Bradyrhizobium japonicum USDA110.";
+-!- FUNCTION: Required for the export of heme to the periplasm for the
+    biogenesis of c-type cytochromes.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the ccmB/cycW/helB family.
+Complete proteome; Cytochrome c-type biogenesis; Inner membrane;
+Membrane; Transmembrane; Transport.
+TMSIX

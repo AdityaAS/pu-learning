@@ -1,0 +1,28 @@
+AC   P80967;
+Mitochondrial import receptor subunit TOM5 (Translocase of outer
+membrane 5 kDa subunit).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Tom5 functionally links mitochondrial preprotein receptors to the
+general import pore.";
+"Preprotein translocase of the outer mitochondrial membrane: molecular
+dissection and assembly of the general import pore complex.";
+-!- FUNCTION: Component of the TOM (translocase of outer membrane)
+    receptor complex responsible for the recognition and translocation
+    of cytosolically synthesized mitochondrial preproteins. TOM5 is
+    involved in insertion of preproteins into the TOM40 translocation
+    pore.
+-!- SUBUNIT: Forms part of the TOM (translocase of outer membrane)
+    complex that consists of at least 7 different proteins (TOM5,
+    TOM6, TOM7, TOM20, TOM22, TOM40 and TOM70).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    single-pass membrane protein (Potential). Note=Outer membrane-
+    anchored (Potential).
+-!- SIMILARITY: Belongs to the Tom5 family.
+ GO:0005742; C:mitochondrial outer membrane translocase co...; IPI:SGD.
+ GO:0008565; F:protein transporter activity; IMP:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; IMP:SGD.
+Complete proteome; Direct protein sequencing; Membrane; Mitochondrion;
+Outer membrane; Protein transport; Transmembrane; Transport.
+TMONE

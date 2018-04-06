@@ -1,0 +1,19 @@
+AC   P35509;
+Casein kinase I isoform gamma-3 (EC 2.7.11.1) (CKI-gamma 3)
+(Fragment).
+"Purification of casein kinase I and isolation of cDNAs encoding
+multiple casein kinase I-like enzymes.";
+-!- FUNCTION: Casein kinases are operationally defined by their
+    preferential utilization of acidic proteins such as caseins as
+    substrates. It can phosphorylate a large number of proteins.
+    Participates in Wnt signaling (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: Testis.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. Casein
+    kinase I subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ATP-binding; Kinase; Nucleotide-binding; Phosphorylation;
+Serine/threonine-protein kinase; Transferase; Wnt signaling pathway.
+TMZERO

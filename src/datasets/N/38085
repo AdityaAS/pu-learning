@@ -1,0 +1,20 @@
+AC   Q8N104; Q2NKR0; Q496I8;
+Beta-defensin 106A precursor (Beta-defensin 6) (DEFB-6) (BD-6).
+"Discovery of five conserved beta-defensin gene clusters using a
+computational search strategy.";
+"Identification of multiple novel epididymis-specific beta-defensin
+isoforms in humans and mice.";
+"ORFeome-based search of airway epithelial cell-specific novel human
+beta-defensin genes.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Duplication and selection in the evolution of primate beta-defensin
+genes.";
+-!- FUNCTION: Has antibacterial activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed specifically in epididymis and lung.
+-!- SIMILARITY: Belongs to the beta-defensin family.
+ GO:0005576; C:extracellular region; NAS:UniProtKB.
+ GO:0042742; P:defense response to bacterium; NAS:UniProtKB.
+Antibiotic; Antimicrobial; Defensin; Signal.
+TMZERO

@@ -1,0 +1,16 @@
+AC   P60697; Q9ZNG0;
+Na(+)/H(+) antiporter subunit G (Mnh complex subunit G).
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: Mnh complex is a Na(+)/H(+) antiporter involved in Na(+)
+    excretion (By similarity).
+-!- SUBUNIT: May form a hetero-oligomeric complex that consists of
+    seven subunits: mnhA, mnhB, mnhC, mnhD, mnhE, mnhF and mnhG (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the CPA3 antiporters (TC 2.A.63) subunit G
+    family.
+Antiport; Complete proteome; Hydrogen ion transport; Ion transport;
+Membrane; Sodium; Sodium transport; Transmembrane; Transport.
+THTHREE

@@ -1,0 +1,34 @@
+AC   O08581;
+Potassium channel subfamily K member 1 (Inward rectifying potassium
+channel protein TWIK-1).
+"The structure, function and distribution of the mouse TWIK-1 K+
+channel.";
+"Structure, chromosome localization, and tissue distribution of the
+mouse twik K+ channel gene.";
+-!- FUNCTION: Weak inwardly rectifying potassium channel.
+-!- SUBUNIT: Homodimer (Potential).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Widely expressed. Highest expression in brain,
+    kidney, thyroid, salivary gland, adrenal gland, prostate,
+    epididymis, uterus, placenta, colon and jejunum. Moderate
+    expression in eyes, pituitary, pancreas, smooth muscle, testis and
+    ovary. Very low levels in lung, aorta, liver, heart, skeletal
+    muscle, thymus and spleen. In the brain, highest expression in
+    cerebellar granule cells, brainstem, hippocampus and cerebral
+    cortex.
+-!- DEVELOPMENTAL STAGE: Expression detected as early as 7 days post
+    conception. Expression increases from 2-8 days after birth and
+    stabilizes after day 8.
+-!- MISCELLANEOUS: Inhibited by quinine, barium, and internal
+    acidification. Activated by protein kinase C.
+-!- SIMILARITY: Belongs to the two pore domain potassium channel
+    (TC 1.A.1.8) family.
+ GO:0005768; C:endosome; IDA:MGI.
+ GO:0005267; F:potassium channel activity; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:MGI.
+ GO:0006813; P:potassium ion transport; IC:MGI.
+Glycoprotein; Ion transport; Ionic channel; Membrane; Potassium;
+Potassium channel; Potassium transport; Transmembrane; Transport;
+Voltage-gated channel.
+TMFOUR

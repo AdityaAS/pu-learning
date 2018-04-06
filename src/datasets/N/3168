@@ -1,0 +1,30 @@
+AC   Q8DJ05;
+Magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase 1
+(EC 1.14.13.81) (Mg-protoporphyrin IX monomethyl ester oxidative
+cyclase 1).
+"Complete genome structure of the thermophilic cyanobacterium
+Thermosynechococcus elongatus BP-1.";
+-!- FUNCTION: Catalyzes the formation of the isocyclic ring in
+    chlorophyll biosynthesis. Mediates the cyclase reaction, which
+    results in the formation of divinylprotochlorophyllide (Pchlide)
+    characteristic of all chlorophylls from magnesium-protoporphyrin
+    IX 13-monomethyl ester (MgPMME) (By similarity).
+-!- CATALYTIC ACTIVITY: Magnesium-protoporphyrin IX 13-monomethyl
+    ester + NADPH + O(2) = 13(1)-hydroxy-magnesium-protoporphyrin IX
+    13-monomethyl ester + NADP(+) + H(2)O.
+-!- CATALYTIC ACTIVITY: 13(1)-hydroxy-magnesium-protoporphyrin IX 13-
+    monomethyl ester + NADPH + O(2) = 13(1)-oxo-magnesium-
+    protoporphyrin IX 13-monomethyl ester + NADP(+) + 2 H(2)O.
+-!- CATALYTIC ACTIVITY: 13(1)-oxo-magnesium-protoporphyrin IX 13-
+    monomethyl ester + NADPH + O(2) = divinylprotochlorophyllide +
+    NADP(+) + 2 H(2)O.
+-!- COFACTOR: Iron (By similarity).
+-!- PATHWAY: Light-independent chlorophyll biosynthesis.
+-!- SIMILARITY: Belongs to the acsF family.
+ GO:0005506; F:iron ion binding; IEA:HAMAP.
+ GO:0048529; F:magnesium-protoporphyrin IX monomethyl este...; IEA:EC.
+ GO:0016668; F:oxidoreductase activity, acting on sulfur g...; IEA:HAMAP.
+ GO:0030494; P:bacteriochlorophyll biosynthesis; IEA:HAMAP.
+Chlorophyll biosynthesis; Complete proteome; Iron; Metal-binding;
+NADP; Oxidoreductase; Photosynthesis.
+TMZERO

@@ -1,0 +1,32 @@
+AC   P45879; Q3ZCK0; Q71SW7;
+Voltage-dependent anion-selective channel protein 1 (VDAC-1)
+(Plasmalemmal porin) (Brain-derived voltage-dependent anion channel 1)
+(BR1-VDAC).
+"Cloning and in situ localization of a brain-derived porin that
+constitutes a large-conductance anion channel in astrocytic plasma
+membranes.";
+"Ion channels in the lens.";
+"Location of the dicyclohexylcarbodiimide-reactive glutamate residue
+in the bovine heart mitochondrial porin.";
+-!- FUNCTION: Forms a channel through the mitochondrial outer membrane
+    and also the plasma membrane. The channel at the outer
+    mitochondrial membrane allows diffusion of small hydrophilic
+    molecules; in the plasma membrane it is involved in cell volume
+    regulation and apoptosis. It adopts an open conformation at low or
+    zero membrane potential and a closed conformation at potentials
+    above 30-40 mV. The open state has a weak anion selectivity
+    whereas the closed state is cation-selective. May participate in
+    the formation of the permeability transition pore complex (PTPC)
+    responsible for the release of mitochondrial products that
+    triggers apoptosis.
+-!- SUBUNIT: Interacts with hexokinases (Probable).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane.
+    Cell membrane.
+-!- TISSUE SPECIFICITY: Predominantly in brain astrocytes.
+-!- DOMAIN: Consists mainly of membrane-spanning sided beta-sheets.
+-!- MISCELLANEOUS: Dicyclohexylcarbodiimide (DCCD) binding on Glu-72
+    inhibits hexokinase binding in vitro.
+-!- SIMILARITY: Belongs to the eukaryotic mitochondrial porin family.
+Acetylation; Apoptosis; Direct protein sequencing; Ion transport;
+Membrane; Phosphorylation; Porin; Transmembrane; Transport.
+TMZERO

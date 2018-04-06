@@ -1,0 +1,14 @@
+AC   Q6GKU4;
+Chromosomal replication initiator protein dnaA.
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Plays an important role in the initiation and regulation
+    of chromosomal replication. Binds to the origin of replication; it
+    binds specifically double-stranded DNA at a 9 bp consensus (dnaA
+    box): 5'-TTATC[CA]A[CA]A-3'. DnaA binds to ATP and to acidic
+    phospholipids (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the dnaA family.
+ATP-binding; Complete proteome; DNA replication; DNA-binding;
+Nucleotide-binding.
+TMZERO

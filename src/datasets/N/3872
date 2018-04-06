@@ -1,0 +1,26 @@
+AC   P23478;
+ATP-dependent nuclease subunit A (EC 3.6.1.-) (ATP-dependent helicase
+addA).
+"Cloning, sequencing, and expression of Bacillus subtilis genes
+involved in ATP-dependent nuclease synthesis.";
+"The 172 kb prkA-addAB region from 83 degrees to 97 degrees of the
+Bacillus subtilis chromosome contains several dysfunctional genes, the
+glyB marker, many genes encoding transporter proteins, and the
+ubiquitous hit gene.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Sequencing of regions downstream of addA (98 degrees) and citG (289
+degrees) in Bacillus subtilis.";
+-!- FUNCTION: The enzyme complex may have a wide variety of catalytic
+    activities including ATP-dependent exonuclease, ATP-stimulated
+    endonuclease, ATP-dependent helicase and DNA-dependent ATPase
+    activities. The subunit A may have a role in DNA unwinding
+    (helicase), and in the nuclease activity (By similarity).
+-!- SUBUNIT: The B.subtilis ATP-dependent nuclease complex is formed
+    by one B subunit in conjunction with one A subunit.
+-!- SIMILARITY: Belongs to the helicase family. UvrD subfamily.
+-!- SIMILARITY: Contains 1 uvrD-like helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 uvrD-like helicase C-terminal domain.
+ATP-binding; Complete proteome; DNA damage; DNA repair; Endonuclease;
+Exonuclease; Helicase; Hydrolase; Nuclease; Nucleotide-binding.
+TMZERO

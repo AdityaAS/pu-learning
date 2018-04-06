@@ -1,0 +1,29 @@
+AC   P11667; Q2M9R9;
+Arginine exporter protein argO.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification, molecular cloning and sequence analysis of a gene
+cluster encoding the class II fructose 1,6-bisphosphate aldolase, 3-
+phosphoglycerate kinase and a putative second glyceraldehyde 3-
+phosphate dehydrogenase of Escherichia coli.";
+"Evidence for an arginine exporter encoded by yggA (argO) that is
+regulated by the LysR-type transcriptional regulator ArgP in
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in the export of arginine. Important to control
+    the intracellular level of arginine and the correct balance
+    between arginine and lysine. May also be involved in the export of
+    canavanine (a plant-derived antimetabolite).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Transcriptionally regulated by argP in response to the
+    accumulation of intracellular arginine or canavanine. Lysine has a
+    negative effect on the expression of argO.
+-!- SIMILARITY: Belongs to the lysE/argO transporter (TC 2.A.75)
+    family.
+ GO:0015181; F:L-arginine transporter activity; IEA:HAMAP.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMSIX

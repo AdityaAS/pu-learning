@@ -1,0 +1,186 @@
+AC   Q01196; O60472; O60473; O76047; O76089; Q13081; Q13755; Q13756;
+AC   Q13757; Q13758; Q13759; Q15341; Q15343; Q16122; Q16284; Q16285;
+AC   Q16286; Q16346; Q16347; Q92479;
+Runt-related transcription factor 1 (Core-binding factor, alpha 2
+subunit) (CBF-alpha 2) (Acute myeloid leukemia 1 protein) (Oncogene
+AML-1) (Polyomavirus enhancer-binding protein 2 alpha B subunit)
+(PEBP2-alpha B) (PEA2-alpha B) (SL3-3 enhancer factor 1 alpha B
+subunit) (SL3/AKV core-binding factor alpha B subunit).
+"t(8;21) breakpoints on chromosome 21 in acute myeloid leukemia are
+clustered within a limited region of a single gene, AML1.";
+"AML1 fusion transcripts in t(3;21) positive leukemia: evidence of
+molecular heterogeneity and usage of splicing sites frequently
+involved in the generation of normal AML1 transcripts.";
+"Involvement of the AML1 gene in the t(3;21) in therapy-related
+leukemia and in chronic myeloid leukemia in blast crisis.";
+"AML1, AML2, and AML3, the human members of the runt domain gene-
+family: cDNA structure, expression, and chromosomal localization.";
+"Alternative splicing and genomic structure of the AML1 gene involved
+in acute myeloid leukemia.";
+"The t(8;21) fusion protein interferes with AML-1B-dependent
+transcriptional activation.";
+"A novel transcript encoding an N-terminally truncated AML1/PEBP2
+alphaB protein interferes with transactivation and blocks granulocytic
+differentiation of 32Dcl3 myeloid cells.";
+"Expression of the human acute myeloid leukemia gene AML1 is regulated
+by two promoter regions.";
+"A large variety of alternatively spliced and differentially expressed
+mRNAs are encoded by the human acute myeloid leukemia gene AML1.";
+"Sequencing and analysis of 960 kb between AML1 and CBR1 on chromosome
+21q22.2.";
+"Leukaemia/Drosophila homology.";
+"Identification of AML-1 and the (8;21) translocation protein (AML-
+1/ETO) as sequence-specific DNA-binding proteins: the runt homology
+domain is required for DNA binding and protein-protein interactions.";
+"ALY, a context-dependent coactivator of LEF-1 and AML-1, is required
+for TCRalpha enhancer function.";
+"Transcriptional repression by AML1 and LEF-1 is mediated by the
+TLE/Groucho corepressors.";
+"Activation of AML1-mediated transcription by MOZ and inhibition by
+the MOZ-CBP fusion protein.";
+"MOZ and MORF histone acetyltransferases interact with the Runt-domain
+transcription factor Runx2.";
+"Functional and physical interactions between AML1 proteins and an ETS
+protein, MEF: implications for the pathogenesis of t(8;21)-positive
+leukemias.";
+"Large-scale characterization of HeLa cell nuclear phosphoproteins.";
+"Isoforms of the Ets transcription factor NERF/ELF-2 physically
+interact with AML1 and mediate opposing effects on AML1-mediated
+transcription of the B cell-specific blk gene.";
+"Structural basis for the heterodimeric interaction between the acute
+leukaemia-associated transcription factors AML1 and CBFbeta.";
+"The leukemia-associated AML1 (Runx1) -- CBF beta complex functions as
+a DNA-induced molecular clamp.";
+"DNA recognition by the RUNX1 transcription factor is mediated by an
+allosteric transition in the RUNT domain and by DNA bending.";
+"Immunoglobulin motif DNA recognition and heterodimerization of the
+PEBP2/CBF Runt domain.";
+"The Ig fold of the core binding factor alpha Runt domain is a member
+of a family of structurally and functionally related Ig-fold DNA-
+binding domains.";
+"The RUNX1 Runt domain at 1.25A resolution: a structural switch and
+specifically bound chloride ions modulate DNA binding.";
+"AML1 and the 8;21 and 3;21 translocations in acute and chronic
+myeloid leukemia.";
+"Transcriptionally active chimeric gene derived from the fusion of the
+AML1 gene and a novel gene on chromosome 8 in t(8;21) leukemic
+cells.";
+"Junctions of the AML1/MTG8(ETO) fusion are constant in t(8;21) acute
+myeloid leukemia detected by reverse transcription polymerase chain
+reaction.";
+"The t(8;21) translocation in acute myeloid leukemia results in
+production of an AML1-MTG8 fusion transcript.";
+"The 3;21 translocation in myelodysplasia results in a fusion
+transcript between the AML1 gene and the gene for EAP, a highly
+conserved protein associated with the Epstein-Barr virus small RNA
+EBER 1.";
+"Alternative, out-of-frame runt/MTG8 transcripts are encoded by the
+derivative (8) chromosome in the t(8;21) of acute myeloid leukemia
+M2.";
+"Generation of the AML1-EVI-1 fusion gene in the t(3;21)(q26;q22)
+causes blastic crisis in chronic myelocytic leukemia.";
+"The t(12;21) of acute lymphoblastic leukemia results in a tel-AML1
+gene fusion.";
+"Identification of two transcripts of AML1/ETO-fused gene in t(8;21)
+leukemic cells and expression of wild-type ETO gene in hematopoietic
+cells.";
+"Fusion of the TEL gene on 12p13 to the AML1 gene on 21q22 in acute
+lymphoblastic leukemia.";
+"Haploinsufficiency of CBFA2 causes familial thrombocytopenia with
+propensity to develop acute myelogenous leukaemia.";
+-!- FUNCTION: CBF binds to the core site, 5'-PYGPYGGT-3', of a number
+    of enhancers and promoters, including murine leukemia virus,
+    polyomavirus enhancer, T-cell receptor enhancers, LCK, IL-3 and
+    GM-CSF promoters. The alpha subunit binds DNA and appears to have
+    a role in the development of normal hematopoiesis. Isoform AML-1L
+    interferes with the transactivation activity of RUNX1. Acts
+    synergistically with ELF4 to transactivate the IL-3 promoter and
+    with ELF2 to transactivate the mouse BLK promoter. Inhibits MYST4-
+    dependent transcriptional activation.
+-!- SUBUNIT: Heterodimer with CBFB. RUNX1 binds DNA as a monomer and
+    through the Runt domain. DNA-binding is increased by
+    heterodimerization. Isoform AML-1L can neither bind DNA nor
+    heterodimerize. Interacts with TLE1 and THOC4. Interacts with
+    ELF1, ELF2 and SPI1. Interacts via its Runt domain with the ELF4
+    N-terminal region. Interaction with ELF2 isoform 2 (NERF-1a) may
+    act to repress RUNX1-mediated transactivation. Interacts with
+    MYST3 and MYST4.
+-!- INTERACTION:
+    Q15723:ELF2; NbExp=2; IntAct=EBI-925904, EBI-956941;
+    Q99607:ELF4; NbExp=1; IntAct=EBI-925904, EBI-957009;
+    Q04724:TLE1; NbExp=2; IntAct=EBI-925940, EBI-711424;
+    Q04724:TLE1; NbExp=1; IntAct=EBI-925944, EBI-711424;
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=11;
+      Comment=Additional isoforms seem to exist;
+    Name=AML-1B;
+      IsoId=Q01196-1; Sequence=Displayed;
+    Name=AML-1A;
+      IsoId=Q01196-2; Sequence=VSP_005929;
+    Name=AML-1C;
+      IsoId=Q01196-3; Sequence=VSP_005926, VSP_005927;
+    Name=AML-1E;
+      IsoId=Q01196-4; Sequence=VSP_005928;
+    Name=AML-1FA;
+      IsoId=Q01196-5; Sequence=VSP_005923, VSP_005924;
+    Name=AML-1FB;
+      IsoId=Q01196-6; Sequence=VSP_005921, VSP_005922;
+    Name=AML-1FC;
+      IsoId=Q01196-7; Sequence=VSP_005920, VSP_005925;
+    Name=AML-1G;
+      IsoId=Q01196-8; Sequence=VSP_005917;
+    Name=AML-1H;
+      IsoId=Q01196-9; Sequence=VSP_005916;
+    Name=AML-1I;
+      IsoId=Q01196-10; Sequence=VSP_005918;
+    Name=AML-1L; Synonyms=AML1-delta N;
+      IsoId=Q01196-11; Sequence=VSP_005919;
+-!- TISSUE SPECIFICITY: Expressed in all tissues examined except brain
+    and heart. Highest levels in thymus, bone marrow and peripheral
+    blood.
+-!- DOMAIN: A proline/serine/threonine rich region at the C-terminus
+    is necessary for transcriptional activation of target genes.
+-!- PTM: Phosphorylated in its C-terminus upon IL-6 treatment.
+    Phosphorylation enhances interaction with MYST3.
+-!- DISEASE: A chromosomal aberration involving RUNX1/AML1 is a cause
+    of M2 type acute myeloid leukemia (AML-M2). Translocation
+    t(8;21)(q22;q22) with RUNX1T1/MTG8/ETO.
+-!- DISEASE: A chromosomal aberration involving RUNX1/AML1 is a cause
+    of therapy-related myelodysplastic syndrome (T-MDS). Translocation
+    t(3;21)(q26;q22) with EAP, MSD1 or EVI1.
+-!- DISEASE: A chromosomal aberration involving RUNX1/AML1 is a cause
+    of chronic myelogenous leukemia (CML). Translocation
+    t(3;21)(q26;q22) with EAP, MSD1 or EVI1.
+-!- DISEASE: A chromosomal aberration involving RUNX1/AML1 is found in
+    childhood acute lymphoblastic leukemia (ALL). Translocation
+    t(12;21)(p13;q22) with TEL. The translocation fuses the 3'-end of
+    TEL to the alternate 5'-exon of AML-1H.
+-!- DISEASE: Defects in RUNX1 are the cause of familial platelet
+    disorder with associated myeloid malignancy (FPDMM) [MIM:601399].
+    FPDMM is an autosomal dominant disease characterized by
+    qualitative and quantitative platelet defects, and propensity to
+    develop acute myelogenous leukemia.
+-!- SIMILARITY: Contains 1 Runt domain.
+-!- CAUTION: The fusion of AML1 with EAP in T-MDS induces a change of
+    reading frame in the latter resulting in 17 AA unrelated to those
+    of EAP.
+-!- WEB RESOURCE: NAME=Atlas of Genetics and Cytogenetics in Oncology
+    and Haematology;
+    URL="http://atlasgeneticsoncology.org/Genes/AML1.html".
+ GO:0005634; C:nucleus; NAS:UniProtKB.
+ GO:0005524; F:ATP binding; NAS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0003700; F:transcription factor activity; TAS:ProtInc.
+ GO:0016563; F:transcriptional activator activity; IDA:UniProtKB.
+ GO:0007275; P:development; TAS:ProtInc.
+ GO:0030097; P:hemopoiesis; ISS:UniProtKB.
+ GO:0045766; P:positive regulation of angiogenesis; ISS:UniProtKB.
+ GO:0030854; P:positive regulation of granulocyte differen...; IMP:UniProtKB.
+ GO:0045944; P:positive regulation of transcription from R...; IDA:UniProtKB.
+ GO:0006355; P:regulation of transcription, DNA-dependent; NAS:UniProtKB.
+3D-structure; Alternative splicing; Chloride;
+Chromosomal rearrangement; Disease mutation; DNA-binding;
+Nuclear protein; Phosphorylation; Polymorphism; Proto-oncogene;
+Transcription; Transcription regulation.
+TMZERO

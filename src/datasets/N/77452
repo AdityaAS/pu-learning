@@ -1,0 +1,18 @@
+AC   P31673; P93439; Q40698; Q84Q73;
+17.4 kDa class I heat shock protein 1.
+"Two rice (Oryza sativa) full-length cDNA clones encoding low-
+molecular-weight heat-shock proteins.";
+"Structure of Oryza sativa genes encoding three class I low molecular
+mass heat shock proteins.";
+"A Oryza sativa cDNA clone encoding a low-molecular-weight heat shock
+protein.";
+"Sequence, annotation, and analysis of synteny between rice chromosome
+3 and diverged grass species.";
+-!- SUBUNIT: Forms oligomeric structures.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the small heat shock protein (HSP20)
+    family.
+-!- CAUTION: Ref.1 (AAB46378) sequence differs from that shown due to
+    frameshifts in positions 82 and 85.
+Heat shock.
+TMZERO

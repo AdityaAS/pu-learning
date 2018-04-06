@@ -1,0 +1,11 @@
+AC   P0A1W4; P23698;
+GTP-binding protein lepA.
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Molecular cloning of the Salmonella typhimurium lep gene in
+Escherichia coli.";
+-!- SUBCELLULAR LOCATION: Cell membrane. Periplasm.
+-!- SIMILARITY: Belongs to the GTP-binding elongation factor family.
+    LepA subfamily.
+Complete proteome; GTP-binding; Membrane; Nucleotide-binding.
+TMZERO

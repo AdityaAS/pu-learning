@@ -1,0 +1,20 @@
+AC   Q9FL80; Q1PDQ3;
+Expansin-A22 precursor (AtEXPA22) (Alpha-expansin-22) (At-EXP22)
+(AtEx22) (Ath-ExpAlpha-1.15).
+"Structural analysis of Arabidopsis thaliana chromosome 5. V. Sequence
+features of the regions of 1,381,565 bp covered by twenty one
+physically assigned P1 and TAC clones.";
+"Nomenclature for members of the expansin superfamily of genes and
+proteins.";
+-!- FUNCTION: Causes loosening and extension of plant cell walls by
+    disrupting non-covalent bonding between cellulose microfibrils and
+    matrix glucans. No enzymatic activity has been found (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell wall; peripheral membrane protein.
+-!- SIMILARITY: Belongs to the expansin family. Expansin A subfamily.
+-!- SIMILARITY: Contains 1 expansin-like CBD domain.
+-!- SIMILARITY: Contains 1 expansin-like EG45 domain.
+-!- WEB RESOURCE: NAME=EXPANSIN homepage;
+    URL="http://www.bio.psu.edu/expansins/".
+Cell wall; Membrane; Signal.
+TMZERO

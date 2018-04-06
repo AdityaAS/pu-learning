@@ -1,0 +1,11 @@
+AC   Q8TJQ0;
+Putative adenylate kinase (EC 2.7.4.3) (ATP-AMP transphosphorylase).
+"The genome of Methanosarcina acetivorans reveals extensive metabolic
+and physiological diversity.";
+-!- CATALYTIC ACTIVITY: ATP + AMP = 2 ADP.
+-!- SIMILARITY: Belongs to the adenylate kinase family. AK6 subfamily.
+ GO:0004017; F:adenylate kinase activity; IEA:EC.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+Transferase.
+TMZERO

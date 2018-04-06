@@ -1,0 +1,11 @@
+AC   P87275;
+Uncharacterized protein YER093C-A.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Global analysis of protein expression in yeast.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Present with 1835 molecules/cell.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction.
+Complete proteome; Membrane; Transmembrane.
+TMTWO

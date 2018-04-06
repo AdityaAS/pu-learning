@@ -1,0 +1,20 @@
+AC   P04329;
+Protein alpha [Contains: Coat protein beta (EC 3.4.23.44) (Nodavirus
+endopeptidase); Coat protein gamma].
+"Primary and secondary structure of black beetle virus RNA2, the
+genomic messenger for BBV coat protein precursor.";
+"Structural homology among four nodaviruses as deduced by sequencing
+and X-ray crystallography.";
+"The refined three-dimensional structure of an insect virus at 2.8-A
+resolution.";
+-!- FUNCTION: Part of the provirion whose T=3 icosahedral shell is
+    composed of 180 copies of the alpha protein which encapsidate the
+    two genomic RNAs. Protein alpha autocatalytically maturates into
+    coat proteins beta and gamma.
+-!- CATALYTIC ACTIVITY: Hydrolysis of an asparaginyl bond involved in
+    the maturation of the structural protein of the virus, typically
+    -Asn-|-Ala- or -Asn-|-Phe-.
+-!- SIMILARITY: Belongs to the peptidase A6 family.
+3D-structure; Aspartyl protease; Capsid protein; Hydrolase; Protease;
+Virion protein.
+TMZERO

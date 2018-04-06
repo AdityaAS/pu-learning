@@ -1,0 +1,13 @@
+AC   Q8FKB7;
+Thiamine biosynthesis protein thiI.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Required for the synthesis of the thiazole moiety (By
+    similarity).
+-!- PATHWAY: Thiamine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the thiI family.
+-!- SIMILARITY: Contains 1 rhodanese domain.
+-!- SIMILARITY: Contains 1 THUMP domain.
+Complete proteome; Thiamine biosynthesis.
+TMZERO

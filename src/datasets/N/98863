@@ -1,0 +1,18 @@
+AC   O43077; O13638;
+Sporulation protein kinase mde3 (EC 2.7.11.1) (Mei4-dependent protein
+3).
+"A 38 kb segment containing the cdc2 gene from the left arm of fission
+yeast chromosome II: sequence analysis and characterization of the
+genomic DNA and cDNAs encoded on the segment.";
+"The genome sequence of Schizosaccharomyces pombe.";
+"Autoregulated expression of Schizosaccharomyces pombe meiosis-
+specific transcription factor Mei4 and a genome-wide search for its
+target genes.";
+-!- FUNCTION: Protein kinase which is essential for spore formation.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0030437; P:sporulation (sensu Fungi); IGI:GeneDB_SPombe.
+ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

@@ -1,0 +1,10 @@
+AC   O89020;
+Afamin precursor (Alpha-albumin) (Alpha-Alb).
+"Proteome-wide characterization of N-glycosylation events by diagonal
+chromatography.";
+-!- FUNCTION: Possible role in the transport of yet unknown ligand.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the ALB/AFP/VDB family.
+-!- SIMILARITY: Contains 3 albumin domains.
+Glycoprotein; Repeat; Signal; Transport.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P18496; Q06020;
+Mitochondrial ATPase complex subunit ATP10.
+"ATP 10, a yeast nuclear gene required for the assembly of the
+mitochondrial F1-F0 complex.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Essential for the assembly of the mitochondrial F1-F0
+    complex.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Mutations in ATP10 induce a loss of rutamycin
+    sensitivity of mitochondrial ATPase.
+-!- MISCELLANEOUS: Present with 1890 molecules/cell.
+-!- SIMILARITY: Belongs to the ATP10 family.
+ GO:0005740; C:mitochondrial envelope; IPI:SGD.
+ GO:0051087; F:chaperone binding; IDA:SGD.
+ GO:0006461; P:protein complex assembly; IDA:SGD.
+Complete proteome; Membrane; Mitochondrion; Transmembrane.
+TMZERO

@@ -1,0 +1,15 @@
+AC   P81429;
+Esterase SG1 precursor (EC 3.1.1.1) (Carboxylic-ester hydrolase)
+(Fragment).
+"Amplification and methylation of an esterase gene associated with
+insecticide-resistance in greenbugs, Schizaphis graminum.";
+-!- FUNCTION: Overproduction of nonspecific esterases is a common
+    mechanism of resistance to organophosphate insecticides.
+-!- CATALYTIC ACTIVITY: A carboxylic ester + H(2)O = an alcohol + a
+    carboxylate.
+-!- MISCELLANEOUS: This esterase confers organophosphate insecticide
+    resistance.
+-!- SIMILARITY: Belongs to the type-B carboxylesterase/lipase family.
+Direct protein sequencing; Glycoprotein; Hydrolase; Serine esterase;
+Signal.
+TMZERO

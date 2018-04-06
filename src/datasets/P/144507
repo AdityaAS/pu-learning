@@ -1,0 +1,14 @@
+AC   Q48475;
+O-antigen export system permease protein rfbA.
+"Identification of an ATP-binding cassette transport system required
+for translocation of lipopolysaccharide O-antigen side-chains across
+the cytoplasmic membrane of Klebsiella pneumoniae serotype O1.";
+-!- FUNCTION: May form an ATP-driven O-antigen export apparatus, in
+    association with rfbB.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC-2 integral membrane protein family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-2 domain.
+Inner membrane; Membrane; Polysaccharide transport; Sugar transport;
+Transmembrane; Transport.
+TMSIX

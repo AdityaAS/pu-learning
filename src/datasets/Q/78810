@@ -1,0 +1,21 @@
+AC   P40886;
+Hexose transporter HXT8.
+"Sequence analysis of a 40.2 kb DNA fragment located near the left
+telomere of yeast chromosome X.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Probable glucose transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 623 molecules/cell.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+ GO:0005353; F:fructose transporter activity; IGI:SGD.
+ GO:0005355; F:glucose transporter activity; IGI:SGD.
+ GO:0015578; F:mannose transporter activity; IGI:SGD.
+ GO:0008645; P:hexose transport; IGI:SGD.
+Complete proteome; Glycoprotein; Membrane; Repeat; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

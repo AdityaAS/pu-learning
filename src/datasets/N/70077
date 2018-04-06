@@ -1,0 +1,21 @@
+AC   Q27443;
+Histone H4.
+"Histone H4 mRNA from the nematode Ascaris lumbricoides is cis-spliced
+and polyadenylated.";
+-!- FUNCTION: Core component of nucleosome. Nucleosomes wrap and
+    compact DNA into chromatin, limiting DNA accessibility to the
+    cellular machineries which require DNA as a template. Histones
+    thereby play a central role in transcription regulation, DNA
+    repair, DNA replication and chromosomal stability. DNA
+    accessibility is regulated via a complex set of post-translational
+    modifications of histones, also called histone code, and
+    nucleosome remodelling.
+-!- SUBUNIT: The nucleosome is a histone octamer containing two
+    molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4
+    heterotetramer and two H2A-H2B heterodimers. The octamer wraps
+    approximately 147 bp of DNA.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the histone H4 family.
+Acetylation; Chromosomal protein; DNA-binding; Methylation;
+Nuclear protein; Nucleosome core.
+TMZERO

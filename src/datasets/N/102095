@@ -1,0 +1,20 @@
+AC   Q5HLY1;
+Molybdenum cofactor biosynthesis protein A.
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Together with moaC, is involved in the conversion of a
+    guanosine derivative (5'-GTP) into molybdopterin precursor Z (By
+    similarity).
+-!- COFACTOR: Binds 2 4Fe-4S clusters. Binds 1 4Fe-4S cluster
+    coordinated with 3 cysteines and an exchangeable S-adenosyl-L-
+    methionine and 1 4Fe-4S cluster coordinated with 3 cysteines and
+    the GTP-derived substrate (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; molybdopterin biosynthesis.
+-!- SUBUNIT: Monomer and homodimer (By similarity).
+-!- SIMILARITY: Belongs to the radical SAM superfamily. MoaA family.
+4Fe-4S; Complete proteome; GTP-binding; Iron; Iron-sulfur;
+Metal-binding; Molybdenum cofactor biosynthesis; Nucleotide-binding;
+S-adenosyl-L-methionine.
+TMZERO

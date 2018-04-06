@@ -1,0 +1,18 @@
+AC   Q8TTN2;
+Putative cobalt import ATP-binding protein cbiO 3.
+"The genome of Methanosarcina acetivorans reveals extensive metabolic
+and physiological diversity.";
+-!- FUNCTION: Part of the ABC transporter complex cbiONQ involved in
+    cobalt import. Responsible for energy coupling to the transport
+    system (By similarity).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (cbiO), fused or not, two transmembrane proteins (cbiQ) and a
+    solute-binding protein (cbiN) (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Cobalt importer
+    (TC 3.A.1.18.1) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Cobalt; Cobalt transport; Complete proteome;
+Ion transport; Membrane; Nucleotide-binding; Transport.
+TMZERO

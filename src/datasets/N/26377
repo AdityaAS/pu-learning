@@ -1,0 +1,12 @@
+AC   Q59768;
+Citrate synthase (EC 2.3.3.1) (Fragment).
+"Citrate synthase gene comparison, a new tool for phylogenetic
+analysis, and its application for the rickettsiae.";
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + H(2)O + oxaloacetate = citrate +
+    CoA.
+-!- PATHWAY: Carbohydrate metabolism; tricarboxylic acid cycle.
+-!- MISCELLANEOUS: Citrate synthase is found in nearly all cells
+    capable of oxidative metabolism.
+-!- SIMILARITY: Belongs to the citrate synthase family.
+Transferase; Tricarboxylic acid cycle.
+TMZERO

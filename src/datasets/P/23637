@@ -1,0 +1,11 @@
+AC   P48821;
+Antibacterial peptide enbocin precursor (Moricin).
+"Cloning and expression of Enbocin gene encoding a new antibacterial
+peptide from Bombyx mori.";
+-!- FUNCTION: Has antibacterial activity against Gram-positive and
+    Gram-negative bacteria.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the cecropin family.
+Amidation; Antibiotic; Antimicrobial; Immune response;
+Innate immunity; Signal.
+TMZERO

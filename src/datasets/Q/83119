@@ -1,0 +1,17 @@
+AC   Q9XYN0;
+Innexin inx1 (Innexin-1) (G-Inx1).
+"Developmental expression and molecular characterization of two gap
+junction channel proteins expressed during embryogenesis in the
+grasshopper Schistocerca americana.";
+-!- FUNCTION: Structural components of the gap junctions.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Expressed in embryonic neural precursors
+    including the dorsal median neuroblast, glial cells, neuropilar
+    glial ring, developing myoblasts cells and in a circumferential
+    band of epithelial cells at the trochanter/coxa boundary stripe in
+    the developing limb.
+-!- DEVELOPMENTAL STAGE: Embryonic development.
+-!- SIMILARITY: Belongs to the pannexin family.
+Gap junction; Membrane; Transmembrane.
+TMFOUR

@@ -1,0 +1,15 @@
+AC   Q7NK98;
+GTP cyclohydrolase I (EC 3.5.4.16) (GTP-CH-I).
+"Complete genome structure of Gloeobacter violaceus PCC 7421, a
+cyanobacterium that lacks thylakoids.";
+-!- CATALYTIC ACTIVITY: GTP + 2 H(2)O = formate + 2-amino-4-hydroxy-6-
+    (erythro-1,2,3-trihydroxypropyl)-dihydropteridine triphosphate.
+-!- PATHWAY: Cofactor biosynthesis; tetrahydrofolate biosynthesis; 2-
+    amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine diphosphate
+    from GTP: step 1.
+-!- SUBUNIT: Homopolymer (By similarity).
+-!- SIMILARITY: Belongs to the GTP cyclohydrolase I family.
+ GO:0006730; P:one-carbon compound metabolism; IEA:HAMAP.
+ GO:0046654; P:tetrahydrofolate biosynthesis; IEA:HAMAP.
+Complete proteome; Hydrolase; One-carbon metabolism.
+TMZERO

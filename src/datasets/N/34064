@@ -1,0 +1,22 @@
+AC   Q59I72;
+Catenin alpha-1.
+"Regulation of beta-catenin signaling and maintenance of chondrocyte
+differentiation by ubiquitin-independent proteasomal degradation of
+alpha-catenin.";
+-!- FUNCTION: Associates with the cytoplasmic domain of a variety of
+    cadherins. The association of catenins to cadherins produces a
+    complex which is linked to the actin filament network, and which
+    seems to be of primary importance for cadherins cell-adhesion
+    properties. Can associate with both E- and N-cadherins. May play a
+    crucial role in cell differentiation (By similarity).
+-!- SUBUNIT: Binds MLLT4 and F-actin. Interacts directly with CTNNB1
+    and PSEN1 to form part of the PSEN1/cadherin/catenin adhesion
+    complex (By similarity).
+-!- SUBCELLULAR LOCATION: Cell junction (By similarity). Note=Found at
+    cell-cell boundaries and probably at cell-matrix boundaries (By
+    similarity).
+-!- PTM: Sumoylated (By similarity).
+-!- SIMILARITY: Belongs to the vinculin/alpha-catenin family.
+Cell adhesion; Cytoskeleton; Phosphorylation; Structural protein;
+Ubl conjugation.
+TMZERO

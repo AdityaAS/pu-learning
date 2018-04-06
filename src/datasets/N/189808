@@ -1,0 +1,26 @@
+AC   Q96UB1; Q7S7S2; Q8NIQ9;
+Trimethyllysine dioxygenase (EC 1.14.11.8) (Epsilon-trimethyllysine 2-
+oxoglutarate dioxygenase) (TML-alpha-ketoglutarate dioxygenase) (TML
+hydroxylase) (TML dioxygenase) (TMLD).
+"Carnitine biosynthesis in Neurospora crassa: identification of a cDNA
+coding for epsilon-N-trimethyllysine hydroxylase and its functional
+expression in Saccharomyces cerevisiae.";
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: Converts trimethyllysine (TML) into
+    hydroxytrimethyllysine (HTML).
+-!- CATALYTIC ACTIVITY: 6-N,6-N,6-N-trimethyl-L-lysine + 2-
+    oxoglutarate + O(2) = 3-hydroxy-6-N,6-N,6-N-trimethyl-L-lysine +
+    succinate + CO(2).
+-!- COFACTOR: Iron.
+-!- COFACTOR: Ascorbate.
+-!- PATHWAY: Amine and polyamine biosynthesis; carnitine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the gamma-BBH/TMLD family.
+-!- CAUTION: Ref.2 (CAD11356) sequence differs from that shown due to
+    erroneous gene model prediction.
+-!- CAUTION: Ref.3 (EAA31955) sequence differs from that shown due to
+    erroneous gene model prediction.
+Carnitine biosynthesis; Dioxygenase; Iron; Oxidoreductase.
+TMZERO

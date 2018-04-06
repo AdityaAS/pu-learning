@@ -1,0 +1,12 @@
+AC   O05703; Q97N86;
+Zinc-binding lipoprotein adcA precursor.
+"Complete genome sequence of a virulent isolate of Streptococcus
+pneumoniae.";
+-!- FUNCTION: Part of the ATP-driven transport system adcABC for zinc.
+    Required for transformability (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Probable).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 9
+    family.
+Competence; Complete proteome; Ion transport; Lipoprotein; Membrane;
+Palmitate; Signal; Transport; Zinc; Zinc transport.
+TMZERO

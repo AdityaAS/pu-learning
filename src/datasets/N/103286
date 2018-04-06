@@ -1,0 +1,8 @@
+AC   O69560;
+S-adenosyl-methyltransferase mraW (EC 2.1.1.-).
+"Massive gene decay in the leprosy bacillus.";
+-!- FUNCTION: Exhibits a S-adenosyl-dependent methyltransferase
+    activity (By similarity).
+-!- SIMILARITY: Belongs to the mraW family.
+Complete proteome; Methyltransferase; Transferase.
+TMZERO

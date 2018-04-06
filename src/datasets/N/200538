@@ -1,0 +1,11 @@
+AC   Q97JF4;
+Mannonate dehydratase (EC 4.2.1.8) (D-mannonate hydrolase).
+"Genome sequence and comparative analysis of the solvent-producing
+bacterium Clostridium acetobutylicum.";
+-!- CATALYTIC ACTIVITY: D-mannonate = 2-dehydro-3-deoxy-D-gluconate +
+    H(2)O.
+-!- PATHWAY: Carbohydrate metabolism; pentose and glucuronate
+    interconversion.
+-!- SIMILARITY: Belongs to the mannonate dehydratase family.
+Complete proteome; Lyase.
+TMZERO

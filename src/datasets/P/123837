@@ -1,0 +1,11 @@
+AC   P42194;
+Protein pecM.
+"pecS: a locus controlling pectinase, cellulase and blue pigment
+production in Erwinia chrysanthemi.";
+-!- FUNCTION: Involved in pectinase, cellulase, and blue pigment
+    regulation.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the eamA transporter family.
+-!- SIMILARITY: Contains 2 DUF6 domains.
+Membrane; Repeat; Transmembrane; Transport.
+TMTEN

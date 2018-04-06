@@ -1,0 +1,18 @@
+AC   Q5BBV4;
+Chromatin modification-related protein eaf3.
+"Sequencing of Aspergillus nidulans and comparative analysis with A.
+fumigatus and A. oryzae.";
+-!- FUNCTION: Involved in deacetylation of histones, chromatin
+    assembly and chromosome segregation. May act as a transcriptional
+    oscillator, directing histone deacetylases to specific chromosomal
+    domains. Component of the NuA4 histone acetyltransferase complex
+    which is involved in transcriptional activation of selected genes
+    principally by acetylation of nucleosomal histone H4 and H2A. The
+    NuA4 complex is also involved in DNA repair (By similarity).
+-!- SUBUNIT: Component of the NuA4 histone acetyltransferase complex
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the MRG family.
+Chromatin regulator; DNA damage; DNA repair; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

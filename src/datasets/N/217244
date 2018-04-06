@@ -1,0 +1,9 @@
+AC   P57554;
+UPF0133 protein BU482.
+"Genome sequence of the endocellular bacterial symbiont of aphids
+Buchnera sp. APS.";
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the UPF0133 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

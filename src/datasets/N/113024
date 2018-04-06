@@ -1,0 +1,38 @@
+AC   O19132;
+Nitric-oxide synthase, brain (EC 1.14.13.39) (NOS type I) (Neuronal
+NOS) (N-NOS) (nNOS) (Constitutive NOS) (NC-NOS) (bNOS).
+"Molecular cloning of a cDNA encoding a constitutive nitric oxide
+synthase from rabbit brain.";
+-!- FUNCTION: Produces nitric oxide (NO) which is a messenger molecule
+    with diverse functions throughout the body. In the brain and
+    peripheral nervous system, NO displays many properties of a
+    neurotransmitter.
+-!- CATALYTIC ACTIVITY: L-arginine + n NADPH + m O(2) = citrulline +
+    nitric oxide + n NADP(+).
+-!- COFACTOR: Heme group (By similarity).
+-!- COFACTOR: Binds 1 FAD (By similarity).
+-!- COFACTOR: Binds 1 FMN (By similarity).
+-!- COFACTOR: Metrahydrobiopterin (BH4). May stabilize the dimeric
+    form of the enzyme (By similarity).
+-!- ENZYME REGULATION: Stimulated by calcium/calmodulin. Inhibited by
+    n-Nos-inhibiting protein (PIN) which may prevent the dimerization
+    of the protein (By similarity).
+-!- SUBUNIT: Homodimer. Interacts with DLG4; the interaction possibly
+    being prevented by the association between NOS1 and CAPON. Forms a
+    ternary complex with CAPON and RASD1. Forms a ternary complex with
+    CAPON and SYN1. Interacts with ZDHHC23 (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; sarcolemma; peripheral
+    membrane protein (By similarity). Note=In skeletal muscle, it is
+    localized beneath the sarcolemma of fast-twitch muscle fiber by
+    associating with the dystrophin glycoprotein complex (By
+    similarity).
+-!- DOMAIN: The PDZ domain in the N-terminal part of the neuronal
+    isoform participates in protein-protein interaction, and is
+    responsible for targeting nNos to synaptic membranes in muscles
+    (By similarity).
+-!- SIMILARITY: Belongs to the NOS family.
+-!- SIMILARITY: Contains 1 flavodoxin-like domain.
+-!- SIMILARITY: Contains 1 PDZ (DHR) domain.
+Calmodulin-binding; FAD; FMN; Heme; Iron; Metal-binding; NADP;
+Oxidoreductase.
+TMZERO

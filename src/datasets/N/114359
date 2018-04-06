@@ -1,0 +1,24 @@
+AC   Q28955;
+Protein N-terminal asparagine amidohydrolase (EC 3.5.1.-) (Protein
+NH2-terminal asparagine deamidase) (N-terminal Asn amidase) (NTN-
+amidase) (PNAD) (Protein NH2-terminal asparagine amidohydrolase)
+(PNAA).
+"The sequence of porcine protein NH2-terminal asparagine
+amidohydrolase. A new component of the N-end Rule pathway.";
+"Protein NH2-terminal asparagine deamidase. Isolation and
+characterization of a new enzyme.";
+-!- FUNCTION: Side-chain deamidation of N-terminal asparagine residues
+    to aspartate. Required for the ubiquitin-dependent turnover of
+    intracellular proteins that initiate with Met-Asn. These proteins
+    are acetylated on the retained initiator methionine and can
+    subsequently be modified by the removal of N-acetyl methionine by
+    acylaminoacid hydrolase (AAH). Conversion of the resulting N-
+    terminal asparagine to aspartate by PNAD renders the protein
+    susceptible to arginylation, polyubiquitination and degradation as
+    specified by the N-end rule. This enzyme does not act on
+    substrates with internal or C-terminal asparagines and does not
+    act on glutamine residues in any position.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+Direct protein sequencing; Hydrolase.
+TMZERO

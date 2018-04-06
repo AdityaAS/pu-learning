@@ -1,0 +1,25 @@
+AC   P38084;
+Leu/Val/Ile amino-acid permease (Branched-chain amino-acid permease
+2).
+"Complete DNA sequence of yeast chromosome II.";
+"BAP2, a gene encoding a permease for branched-chain amino acids in
+Saccharomyces cerevisiae.";
+"Cysteine uptake by Saccharomyces cerevisiae is accomplished by
+multiple permeases.";
+"Substrate specificity and gene expression of the amino-acid permeases
+in Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Permease for leucine, valine and isoleucine. Also
+    transports cysteine, methionine, phenyalanine, tyrosine and
+    tryptophan.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 8660 molecules/cell.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0015171; F:amino acid transporter activity; IDA:SGD.
+ GO:0006865; P:amino acid transport; IDA:SGD.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTWELVE

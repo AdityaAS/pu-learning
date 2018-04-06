@@ -1,0 +1,20 @@
+AC   Q72H75;
+Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+(EC 6.3.5.-) (Asp/Glu-ADT subunit B).
+"The genome sequence of the extreme thermophile Thermus
+thermophilus.";
+-!- FUNCTION: Allows the formation of correctly charged Asn-tRNA(Asn)
+    or Gln-tRNA(Gln) through the transamidation of misacylated Asp-
+    tRNA(Asn) or Glu-tRNA(Gln) in organisms which lack either or both
+    of asparaginyl-tRNA or glutaminyl-tRNA synthetases. The reaction
+    takes place in the presence of glutamine and ATP through an
+    activated phospho-Asp-tRNA(Asn) or phospho-Glu-tRNA(Gln) (By
+    similarity).
+-!- CATALYTIC ACTIVITY: ATP + L-glutamyl-tRNA(Gln) + L-glutamine = ADP
+    + phosphate + L-glutaminyl-tRNA(Gln) + L-glutamate.
+-!- CATALYTIC ACTIVITY: ATP + L-aspartyl-tRNA(Asn) + L-glutamine = ADP
+    + phosphate + L-asparaginyl-tRNA(Asn) + L-glutamate.
+-!- SUBUNIT: Heterotrimer of A, B and C subunits (By similarity).
+-!- SIMILARITY: Belongs to the gatB/gatE family. GatB subfamily.
+Complete proteome; Ligase; Protein biosynthesis.
+TMZERO

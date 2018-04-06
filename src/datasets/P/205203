@@ -1,0 +1,10 @@
+AC   P27389;
+Protein M (GpM) (Putative protein P18).
+"Genome organization of membrane-containing bacteriophage PRD1.";
+-!- FUNCTION: M may be the gene for protein P18, responsible for viral
+    infectivity. P18 is needed during DNA injection in the membrane
+    transformation event.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+Membrane; Transmembrane.
+THTHREE

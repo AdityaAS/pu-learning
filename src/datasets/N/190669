@@ -1,0 +1,13 @@
+AC   Q6LS21;
+Chaperone protein torD.
+"Life at depth: Photobacterium profundum genome sequence and
+expression analysis.";
+-!- FUNCTION: Involved in the biogenesis of torA. Acts on torA before
+    the insertion of the molybdenum cofactor and, as a result,
+    probably favors a conformation of the apoenzyme that is competent
+    for acquiring the cofactor (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the torD/dmsD family. TorD subfamily.
+ GO:0006457; P:protein folding; IEA:HAMAP.
+Chaperone; Complete proteome.
+TMZERO

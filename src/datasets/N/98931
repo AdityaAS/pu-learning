@@ -1,0 +1,30 @@
+AC   P32419; Q12689;
+Malate dehydrogenase, peroxisomal (EC 1.1.1.37).
+"Isolation and characterization of the yeast gene encoding the MDH3
+isozyme of malate dehydrogenase.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: (S)-malate + NAD(+) = oxaloacetate + NADH.
+-!- SUBUNIT: Homodimer.
+-!- INTERACTION:
+    Self; NbExp=1; IntAct=EBI-10598, EBI-10598;
+    P22696:ESS1; NbExp=1; IntAct=EBI-10598, EBI-6679;
+    P33203:PRP40; NbExp=1; IntAct=EBI-10598, EBI-701;
+    P39940:RSP5; NbExp=1; IntAct=EBI-10598, EBI-16219;
+    P43582:YFL010C; NbExp=1; IntAct=EBI-10598, EBI-22766;
+-!- SUBCELLULAR LOCATION: Peroxisome.
+-!- MISCELLANEOUS: Yeast contains at least 3 malate dehydrogenase
+    isoenzymes: a mitochondrial (MDH1), a cytoplasmic (MDH2) and a
+    peroxisomal (MDH3).
+-!- MISCELLANEOUS: Present with 3300 molecules/cell.
+-!- SIMILARITY: Belongs to the LDH/MDH superfamily. MDH type 1 family.
+ GO:0005777; C:peroxisome; IDA:SGD.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+ GO:0030060; F:L-malate dehydrogenase activity; IMP:SGD.
+ GO:0006635; P:fatty acid beta-oxidation; TAS:SGD.
+ GO:0006097; P:glyoxylate cycle; TAS:SGD.
+ GO:0006108; P:malate metabolism; TAS:SGD.
+ GO:0006735; P:NADH regeneration; TAS:SGD.
+Complete proteome; Direct protein sequencing; Glyoxylate bypass; NAD;
+Oxidoreductase; Peroxisome; Tricarboxylic acid cycle.
+TMZERO

@@ -1,0 +1,26 @@
+AC   Q7VJT5;
+Periplasmic nitrate reductase precursor (EC 1.7.99.4).
+"The complete genome sequence of the carcinogenic bacterium
+Helicobacter hepaticus.";
+-!- FUNCTION: Catalytic subunit of the periplasmic nitrate reductase
+    (NAP). Only expressed at high levels during aerobic growth. NapAB
+    complex receives electrons from the membrane-anchored tetraheme
+    protein napC, thus allowing electron flow between membrane and
+    periplasm. Essential function for nitrate assimilation and may
+    have a role in anaerobic metabolism (By similarity).
+-!- CATALYTIC ACTIVITY: Nitrite + acceptor = nitrate + reduced
+    acceptor.
+-!- COFACTOR: Binds 1 4Fe-4S cluster (By similarity).
+-!- COFACTOR: Binds 1 molybdenum ion per subunit (By similarity).
+-!- COFACTOR: Binds 2 molybdopterin guanine dinucleotide (MGD) groups
+    per subunit (By similarity).
+-!- SUBUNIT: Interacts with napB (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family. NasA/napA/narB subfamily.
+ GO:0009055; F:electron carrier activity; IEA:HAMAP.
+ GO:0006777; P:Mo-molybdopterin cofactor biosynthesis; IEA:HAMAP.
+4Fe-4S; Complete proteome; Electron transport; Iron; Iron-sulfur;
+Metal-binding; Molybdenum; Nitrate assimilation; Oxidoreductase;
+Periplasmic; Signal; Transport.
+TMZERO

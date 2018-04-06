@@ -1,0 +1,16 @@
+AC   P32758;
+Capsule polysaccharide export outer membrane protein ctrA precursor.
+"Conserved outer membrane protein of Neisseria meningitidis involved
+in capsule expression.";
+"Complete DNA sequence of a serogroup A strain of Neisseria
+meningitidis Z2491.";
+-!- FUNCTION: Involved in transport of capsular polysaccharides to the
+    cell surface. May function as a membrane anchor for capsular
+    polysaccharides. Possible porin properties.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the bexD/ctrA/vexA family.
+Bacterial capsule; Complete proteome; Ion transport; Lipoprotein;
+Membrane; Outer membrane; Palmitate; Polysaccharide transport; Porin;
+Signal; Sugar transport; Transmembrane; Transport.
+TMEIGHT

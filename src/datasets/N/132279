@@ -1,0 +1,23 @@
+AC   Q96S44; Q3T977; Q5JZ01; Q96FM7; Q9NQE6;
+TP53-regulating kinase (EC 2.7.11.1) (p53-related protein kinase)
+(Nori-2).
+"Cloning and characterization of a p53-related protein kinase
+expressed in interleukin-2-activated cytotoxic T-cells, epithelial
+tumor cell lines, and the testes.";
+"PRPK mutant.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Protein kinase that phosphorylates 'Ser-15' of p53/TP53
+    protein and may therefore participate in its activation.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Highly expressed in testis. Weakly expressed
+    in heart kidney and spleen.
+-!- SIMILARITY: Belongs to the Tyr protein kinase family. BUD32
+    subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ATP-binding; Kinase; Nuclear protein; Nucleotide-binding;
+Polymorphism; Serine/threonine-protein kinase; Transferase.
+TMZERO

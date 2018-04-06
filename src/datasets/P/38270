@@ -1,0 +1,12 @@
+AC   P30144;
+Na(+)-linked D-alanine glycine permease.
+"Identification and sequence of a Na(+)-linked gene from the marine
+bacterium Alteromonas haloplanktis which functionally complements the
+dagA gene of Escherichia coli.";
+-!- FUNCTION: Catalyzes the sodium-dependent uptake of extracellular
+    D-alanine and glycine.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the sodium:alanine (SAF) symporter family.
+Amino-acid transport; Ion transport; Membrane; Sodium;
+Sodium transport; Symport; Transmembrane; Transport.
+TMEIGHT

@@ -1,0 +1,15 @@
+AC   P0A9R7; P10115; Q2M7C6;
+Cell division ATP-binding protein ftsE.
+"A new cell division operon in Escherichia coli.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Not known. Is coded in an operon essential for cell
+    division.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Cell cycle; Cell division; Complete proteome;
+Nucleotide-binding.
+TMZERO

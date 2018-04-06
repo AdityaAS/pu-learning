@@ -1,0 +1,53 @@
+AC   P08050;
+Gap junction alpha-1 protein (Connexin-43) (Cx43) (Gap junction 43 kDa
+heart protein).
+"Connexin43: a protein from rat heart homologous to a gap junction
+protein from liver.";
+"Molecular cloning of a rat uterine gap junction protein and analysis
+of gene expression during gestation.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The Mr 28,000 gap junction proteins from rat heart and liver are
+different but related.";
+"Affinity purification of a rat-brain junctional protein, connexin
+43.";
+"Connexon integrity is maintained by non-covalent bonds:
+intramolecular disulfide bonds link the extracellular domains in rat
+connexin-43.";
+"Membrane topology and quaternary structure of cardiac gap junction
+ion channels.";
+-!- FUNCTION: One gap junction consists of a cluster of closely packed
+    pairs of transmembrane channels, the connexons, through which
+    materials of low MW diffuse from one cell to a neighboring cell.
+-!- SUBUNIT: A connexon is composed of a hexamer of connexins.
+-!- INTERACTION:
+    Q16643:DBN1 (xeno); NbExp=1; IntAct=EBI-476947, EBI-351394;
+    Q9QXS6:Dbn1 (xeno); NbExp=1; IntAct=EBI-476947, EBI-445208;
+    Q8VCZ6:Rutbc3 (xeno); NbExp=1; IntAct=EBI-476947, EBI-525155;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- PTM: Contains at least one intramolecular disulfide bond.
+-!- SIMILARITY: Belongs to the connexin family. Alpha-type (group II)
+    subfamily.
+ GO:0005922; C:connexon complex; IDA:RGD.
+ GO:0005737; C:cytoplasm; IDA:RGD.
+ GO:0005769; C:early endosome; IDA:RGD.
+ GO:0005783; C:endoplasmic reticulum; IMP:RGD.
+ GO:0005916; C:fascia adherens; IDA:RGD.
+ GO:0005887; C:integral to plasma membrane; TAS:UniProtKB.
+ GO:0005764; C:lysosome; IDA:RGD.
+ GO:0005771; C:multivesicular body; IDA:RGD.
+ GO:0015285; F:connexon channel activity; IDA:RGD.
+ GO:0030165; F:PDZ domain binding; IPI:RGD.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0017124; F:SH3 domain binding; IPI:RGD.
+ GO:0015867; P:ATP transport; IMP:RGD.
+ GO:0007267; P:cell-cell signaling; IDA:RGD.
+ GO:0016264; P:gap junction assembly; TAS:UniProtKB.
+ GO:0008285; P:negative regulation of cell proliferation; IDA:RGD.
+ GO:0048812; P:neurite morphogenesis; IMP:RGD.
+ GO:0045732; P:positive regulation of protein catabolism; IDA:RGD.
+ GO:0051259; P:protein oligomerization; IDA:RGD.
+ GO:0009268; P:response to pH; IDA:RGD.
+3D-structure; Direct protein sequencing; Gap junction; Membrane;
+Transmembrane.
+TMFOUR

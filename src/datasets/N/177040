@@ -1,0 +1,11 @@
+AC   Q97R56;
+SsrA-binding protein.
+"Complete genome sequence of a virulent isolate of Streptococcus
+pneumoniae.";
+-!- FUNCTION: Binds specifically to the ssrA RNA (tmRNA) and is
+    required for stable association of ssrA with ribosomes (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the smpB family.
+Complete proteome; RNA-binding.
+TMZERO

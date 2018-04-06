@@ -1,0 +1,16 @@
+AC   P41571;
+Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49) (G6PD)
+(Zwischenferment).
+"Isolation of cDNAs encoding 6-phosphogluconate dehydrogenase and
+glucose-6-phosphate dehydrogenase from the mediterranean fruit fly
+Ceratitis capitata: correlating genetic and physical maps of
+chromosome 5.";
+-!- CATALYTIC ACTIVITY: D-glucose 6-phosphate + NADP(+) = D-glucono-
+    1,5-lactone 6-phosphate + NADPH.
+-!- PATHWAY: Carbohydrate degradation; pentose phosphate pathway; D-
+    ribulose 5-phosphate from D-glucose 6-phosphate (oxidative stage):
+    step 1.
+-!- SIMILARITY: Belongs to the glucose-6-phosphate dehydrogenase
+    family.
+Carbohydrate metabolism; Glucose metabolism; NADP; Oxidoreductase.
+TMZERO

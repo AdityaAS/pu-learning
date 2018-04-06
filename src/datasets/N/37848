@@ -1,0 +1,22 @@
+AC   Q8X7X7;
+Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4) (Sulfate adenylate
+transferase) (SAT) (ATP-sulfurylase large subunit).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: May be the GTPase, regulating ATP sulfurylase activity
+    (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + sulfate = diphosphate + adenylyl
+    sulfate.
+-!- PATHWAY: Sulfur metabolism; hydrogen sulfide biosynthesis; sulfite
+    from sulfate: step 1.
+-!- SUBUNIT: Heterodimer composed of cysD, the smaller subunit, and
+    cysN (By similarity).
+-!- SIMILARITY: Belongs to the GTP-binding elongation factor family.
+    CysN/nodQ subfamily.
+ GO:0004781; F:sulfate adenylyltransferase (ATP) activity; IEA:HAMAP.
+ GO:0019344; P:cysteine biosynthesis; IEA:HAMAP.
+ GO:0000103; P:sulfate assimilation; IEA:HAMAP.
+Amino-acid biosynthesis; Complete proteome; Cysteine biosynthesis;
+GTP-binding; Nucleotide-binding; Nucleotidyltransferase; Transferase.
+TMZERO

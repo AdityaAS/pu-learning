@@ -1,0 +1,21 @@
+AC   P20099; Q2M7L2;
+Biotin sulfoxide reductase (EC 1.-.-.-) (BDS reductase) (BSO
+reductase).
+"Cloning and nucleotide sequence of bisC, the structural gene for
+biotin sulfoxide reductase in Escherichia coli.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: This enzyme may serve as a scavenger, allowing the cell
+    to utilize biotin sulfoxide as a biotin source. It reduces a
+    spontaneous oxidation product of biotin, D-biotin D-sulfoxide (BSO
+    or BDS), back to biotin.
+-!- COFACTOR: Molybdenum (molybdopterin).
+-!- MISCELLANEOUS: Requires a small thioredoxin-like protein for
+    activity.
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+Complete proteome; Molybdenum; Oxidoreductase.
+TMZERO

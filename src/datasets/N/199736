@@ -1,0 +1,32 @@
+AC   Q8K3K1;
+Usherin precursor (Usher syndrome type-2A protein homolog) (Usher
+syndrome type IIa protein homolog).
+"Identification of the mouse and rat orthologs of the gene mutated in
+Usher syndrome type IIA and the cellular source of USH2A mRNA in
+retina, a target tissue of the disease.";
+"Scaffold protein harmonin (USH1C) provides molecular links between
+Usher syndrome type 1 and type 2.";
+-!- FUNCTION: Involved in hearing and vision (By similarity).
+-!- SUBUNIT: Interacts with collagen IV and fibronectin via its
+    laminin EGF-like domains. Interaction with collagen may be
+    required for stable integration into the basement membrane.
+    Interacts with USH1C and WHRN (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=1;
+      Comment=A number of isoforms are produced;
+    Name=1;
+      IsoId=Q8K3K1-1; Sequence=Displayed;
+-!- TISSUE SPECIFICITY: Present in the synaptic terminals of inner ear
+    hair cells (at protein level). Predominantly expressed in the
+    retina and cochlea. Weakly expressed in brain and kidney.
+    Detectable from E17 in the neural epithelium, but not in the
+    retinal pigment epithelium (RPE) of the developing retina. After
+    birth, it is expressed at P7 and remains expressed during
+    adulthood.
+-!- SIMILARITY: Contains 4 fibronectin type-III domains.
+-!- SIMILARITY: Contains 10 laminin EGF-like domains.
+-!- SIMILARITY: Contains 1 laminin N-terminal domain.
+Alternative splicing; Glycoprotein; Laminin EGF-like domain; Repeat;
+Sensory transduction; Signal; Vision.
+TMZERO

@@ -1,0 +1,23 @@
+AC   O77696;
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 3 (EC 3.6.3.8)
+(Calcium pump 3) (SERCA3) (SR Ca(2+)-ATPase 3) (Fragment).
+"SERCA pump isoform expression in endothelium of veins and arteries:
+every endothelium is not the same.";
+-!- FUNCTION: This magnesium-dependent enzyme catalyzes the hydrolysis
+    of ATP coupled with the transport of the calcium. Transports
+    calcium ions from the cytosol into the sarcoplasmic/endoplasmic
+    reticulum lumen. Contributes to calcium sequestration involved in
+    muscular excitation/contraction.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Ca(2+)(Cis) = ADP + phosphate +
+    Ca(2+)(Trans).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (By similarity). Nucleus;
+    nuclear membrane; multi-pass membrane protein (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in endothelial tissues.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIA subfamily.
+ GO:0005388; F:calcium-transporting ATPase activity; IEA:EC.
+ATP-binding; Calcium; Calcium transport; Endoplasmic reticulum;
+Hydrolase; Ion transport; Magnesium; Membrane; Metal-binding;
+Nucleotide-binding; Phosphorylation; Transmembrane; Transport.
+TMFOUR

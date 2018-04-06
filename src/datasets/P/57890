@@ -1,0 +1,31 @@
+AC   Q96A29; Q9BV76; Q9NUJ8;
+GDP-fucose transporter 1 (Solute carrier family 35 member C1).
+"The gene defective in leukocyte adhesion deficiency II encodes a
+putative GDP-fucose transporter.";
+"Complementation cloning identifies CDG-IIc, a new type of congenital
+disorders of glycosylation, as a GDP-fucose transporter deficiency.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Involved in GDP-fucose import from the cytoplasm into
+    the Golgi lumen.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    multi-pass membrane protein.
+-!- DISEASE: Defects in SLC35C1 are the cause of congenital disorder
+    of glycosylation type IIc (CDG-IIc) [MIM:266265]; also known as
+    leukocyte adhesion deficiency type II (LAD II). The clinical
+    features of CDG-IIc include mental retardation, short stature,
+    facial stigmata, and recurrent bacterial peripheral infections
+    with persistently elevated peripheral leukocytes. Biochemically,
+    it is characterized by a lack of fucosylated glycoconjugates,
+    including selectin ligands.
+-!- SIMILARITY: Belongs to the nucleotide-sugar transporter family.
+    SLC35C subfamily.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SLC35C1".
+-!- WEB RESOURCE: NAME=GGDB; NOTE=GlycoGene database";
+    URL="http://ggdb.muse.aist.go.jp/GGDB/index.jsp".
+Congenital disorder of glycosylation; Disease mutation;
+Golgi apparatus; Membrane; Sugar transport; Transmembrane; Transport.
+TMEIGHT

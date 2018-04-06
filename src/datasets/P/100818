@@ -1,0 +1,19 @@
+AC   P77589; P77037; Q2MC71;
+Putative 3-hydroxyphenylpropionic acid transporter.
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Could be a transporter for 3-phenylpropionate
+    (hydrocinnamic acid).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+-!- CAUTION: Ref.1 (D85613) sequence differs from that shown due to
+    frameshifts in positions 105 and 163.
+Complete proteome; Inner membrane; Membrane; Symport; Transmembrane;
+Transport.
+TMTWELVE

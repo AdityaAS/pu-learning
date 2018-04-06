@@ -1,0 +1,22 @@
+AC   Q03727;
+Transport/processing ATP-binding protein comA (EC 3.4.22.-).
+"Genetic transformation in Streptococcus pneumoniae: nucleotide
+sequence analysis shows comA, a gene required for competence
+induction, to be a member of the bacterial ATP-dependent transport
+protein family.";
+"Complete genome sequence of a virulent isolate of Streptococcus
+pneumoniae.";
+"Competence for genetic transformation in Streptococcus pneumoniae:
+organization of a regulatory locus with homology to two lactococcin A
+secretion genes.";
+-!- FUNCTION: Required for induction of competence. Seems to transport
+    the competence-stimulating peptide (CSP).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. HlyB subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 1 peptidase C39 domain.
+ATP-binding; Competence; Complete proteome; Hydrolase; Membrane;
+Nucleotide-binding; Protease; Thiol protease; Transmembrane;
+Transport.
+TMSIX

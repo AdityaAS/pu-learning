@@ -1,0 +1,25 @@
+AC   P37746; P76376;
+Putative O-antigen transporter.
+"Genetic analysis of the O-specific lipopolysaccharide biosynthesis
+region (rfb) of Escherichia coli K-12 W3110: identification of genes
+that confer group 6 specificity to Shigella flexneri serotypes Y and
+4a.";
+"Structure of the O antigen of Escherichia coli K-12 and the sequence
+of its rfb gene cluster.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: May be involved in the translocation process of the
+    nascent O-polysaccharide molecules and/or its ligation to lipid A
+    core units.
+-!- PATHWAY: Lipopolysaccharide O antigen biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the polysaccharide synthase family.
+Complete proteome; Inner membrane; Lipopolysaccharide biosynthesis;
+Membrane; Transmembrane; Transport.
+TMTEN

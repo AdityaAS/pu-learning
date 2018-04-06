@@ -1,0 +1,8 @@
+AC   P19049;
+NADH-ubiquinone oxidoreductase chain 4L (EC 1.6.5.3) (NADH
+dehydrogenase subunit 4L).
+"Genome organization of Artemia mitochondrial DNA.";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SIMILARITY: Belongs to the complex I subunit 4L family.
+Mitochondrion; NAD; Oxidoreductase; Ubiquinone.
+TMZERO

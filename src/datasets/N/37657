@@ -1,0 +1,18 @@
+AC   Q87DG8;
+Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4) (Sulfate adenylate
+transferase) (SAT) (ATP-sulfurylase small subunit).
+"Comparative analyses of the complete genome sequences of Pierce's
+disease and citrus variegated chlorosis strains of Xylella
+fastidiosa.";
+-!- CATALYTIC ACTIVITY: ATP + sulfate = diphosphate + adenylyl
+    sulfate.
+-!- PATHWAY: Sulfur metabolism; hydrogen sulfide biosynthesis; sulfite
+    from sulfate: step 1.
+-!- SUBUNIT: Heterodimer composed of cysD, the smaller subunit, and
+    cysN (By similarity).
+-!- SIMILARITY: Belongs to the PAPS reductase family. CysD subfamily.
+ GO:0019344; P:cysteine biosynthesis; IEA:HAMAP.
+ GO:0000103; P:sulfate assimilation; IEA:HAMAP.
+Amino-acid biosynthesis; Complete proteome; Cysteine biosynthesis;
+Nucleotidyltransferase; Transferase.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P35623;
+Serine hydroxymethyltransferase, cytosolic (EC 2.1.2.1) (Serine
+methylase) (Glycine hydroxymethyltransferase) (SHMT).
+"The primary structure of sheep liver cytosolic serine
+hydroxymethyltransferase and an analysis of the evolutionary
+relationships among serine hydroxymethyltransferases.";
+"cDNA cloning, overexpression in Escherichia coli, purification and
+characterization of sheep liver cytosolic serine
+hydroxymethyltransferase.";
+-!- FUNCTION: Interconversion of serine and glycine.
+-!- CATALYTIC ACTIVITY: 5,10-methylenetetrahydrofolate + glycine +
+    H(2)O = tetrahydrofolate + L-serine.
+-!- COFACTOR: Pyridoxal phosphate.
+-!- PATHWAY: One-carbon metabolism; tetrahydrofolate pathway.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: In eukaryotes there are two forms of the enzymes: a
+    cytosolic one and a mitochondrial one.
+-!- SIMILARITY: Belongs to the SHMT family.
+Acetylation; Direct protein sequencing; One-carbon metabolism;
+Pyridoxal phosphate; Transferase.
+TMZERO

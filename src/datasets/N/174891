@@ -1,0 +1,18 @@
+AC   Q9VAL0;
+Probable signal peptidase complex subunit 1 (EC 3.4.-.-) (Microsomal
+signal peptidase 12 kDa subunit) (SPase 12 kDa subunit).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Microsomal signal peptidase is a membrane-bound
+    endoproteinase that removes signal peptides from nascent proteins
+    as they are translocated into the lumen of the endoplasmic
+    reticulum (By similarity).
+-!- SUBUNIT: Complex of five different proteins: SEC11L1, SEC11L3,
+    SPCS1, SPCS2 and SPCS3 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the SPCS1 family.
+Complete proteome; Endoplasmic reticulum; Hydrolase; Membrane;
+Microsome; Protease; Transmembrane.
+TMTWO

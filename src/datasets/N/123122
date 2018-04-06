@@ -1,0 +1,37 @@
+AC   Q9EP73;
+Programmed cell death 1 ligand 1 precursor (Programmed death ligand 1)
+(PD-L1) (PDCD1 ligand 1) (B7 homolog 1) (B7-H1) (CD274 antigen).
+"Engagement of the PD-1 immunoinhibitory receptor by a novel B7-family
+member leads to negative regulation of lymphocyte activation.";
+"B7-H1 costimulation preferentially enhances CD28-independent T-helper
+cell function.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"PD-L2 is a second ligand for PD-1 and inhibits T cell activation.";
+"Molecular modeling and functional mapping of B7-H1 and B7-DC uncouple
+costimulatory function from PD-1 interaction.";
+-!- FUNCTION: Involved in the costimulatory signal, essential for T
+    lymphocyte proliferation and production of IL10 and IFNG, in an
+    IL2-dependent and a PDCD1-independent manner. Interaction with
+    PDCD1 inhibit T-cell proliferation and cytokine production.
+-!- SUBUNIT: Interacts with PDCD1.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type I membrane
+    protein (By similarity).
+-!- TISSUE SPECIFICITY: Highly expressed in the heart, thymus,
+    skeletal muscle, and lung. Weakly expressed in the kidney, spleen,
+    thyroid, and liver. Expressed on activated dendritic cells, B
+    cells and macrophages. Expressed in numerous tumor cells lines of
+    lymphoid origin.
+-!- INDUCTION: Up-regulated by IFNG treatment in monocytes. Up-
+    regulated on dendritic cells, B-cells and macrophages after
+    activation by LPS and INFG.
+-!- SIMILARITY: Belongs to the immunoglobulin superfamily. BTN/MOG
+    family.
+-!- SIMILARITY: Contains 1 Ig-like C2-type (immunoglobulin-like)
+    domain.
+-!- SIMILARITY: Contains 1 Ig-like V-type (immunoglobulin-like)
+    domain.
+ GO:0005102; F:receptor binding; IPI:MGI.
+Glycoprotein; Immunoglobulin domain; Membrane; Receptor; Repeat;
+Signal; Transmembrane.
+TMONE

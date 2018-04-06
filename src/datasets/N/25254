@@ -1,0 +1,21 @@
+AC   P62646; Q73PZ6;
+Chemotaxis response regulator protein-glutamate methylesterase
+(EC 3.1.1.61).
+"Comparison of the genome of the oral pathogen Treponema denticola
+with other spirochete genomes.";
+-!- FUNCTION: Involved in the modulation of the chemotaxis system;
+    catalyzes the demethylation of specific methylglutamate residues
+    introduced into the chemoreceptors (methyl-accepting chemotaxis
+    proteins) by cheR (By similarity).
+-!- CATALYTIC ACTIVITY: Protein L-glutamate 5-O-methyl ester + H(2)O =
+    protein L-glutamate + methanol.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- DOMAIN: The N-terminal regulatory domain inhibits the activity of
+    the C-terminal effector domain.
+-!- PTM: Phosphorylated by cheA. Phosphorylation suppresses the
+    inhibitory activity of the N-terminal domain (By similarity).
+-!- SIMILARITY: Contains 1 cheB-type methylesterase domain.
+-!- SIMILARITY: Contains 1 response regulatory domain.
+ GO:0007606; P:sensory perception of chemical stimulus; IEA:HAMAP.
+Chemotaxis; Complete proteome; Hydrolase; Phosphorylation.
+TMZERO

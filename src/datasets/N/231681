@@ -1,0 +1,18 @@
+AC   P15620;
+Zinc finger protein 271 (Zinc finger protein 35) (Zfp-35).
+"A mouse zinc finger gene which is transiently expressed during
+spermatogenesis.";
+"Genomic analysis of a mouse zinc finger gene, Zfp-35, that is up-
+regulated during spermatogenesis.";
+-!- FUNCTION: May act to control gene activity during the pachytene
+    stage of meiotic prophase. May function as a transcription
+    activator.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Selectively expressed in adult testis.
+-!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+    family.
+-!- SIMILARITY: Contains 18 C2H2-type zinc fingers.
+Activator; Developmental protein; Differentiation; DNA-binding;
+Metal-binding; Nuclear protein; Repeat; Spermatogenesis;
+Transcription; Transcription regulation; Zinc; Zinc-finger.
+TMZERO

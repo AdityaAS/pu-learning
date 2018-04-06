@@ -1,0 +1,30 @@
+AC   P05706; P77029; Q47243; Q47244; Q57043; Q57084; Q57246;
+Glucitol/sorbitol-specific phosphotransferase enzyme IIA component
+(EC 2.7.1.-) (PTS system glucitol/sorbitol-specific EIIA component)
+(EIIA-Gut) (EIII-Gut).
+"Glucitol-specific enzymes of the phosphotransferase system in
+Escherichia coli. Nucleotide sequence of the gut operon.";
+"Molecular population genetics of Escherichia coli: DNA sequence
+diversity at the celC, crr, and gutB loci of natural isolates.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in glucitol/sorbitol transport.
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-5 domain.
+Complete proteome; Kinase; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport.
+TMZERO

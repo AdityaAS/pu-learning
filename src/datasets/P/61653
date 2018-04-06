@@ -1,0 +1,19 @@
+AC   P39570;
+Spore germination protein B2.
+"The gerB region of the Bacillus subtilis 168 chromosome encodes a
+homologue of the gerA spore germination operon.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in the response to the germinative mixture of
+    L-asparagine, glucose, fructose and potassium ions (AGFK). Could
+    be an amino acid transporter. Cannot stimulate germination in the
+    absence of gerD and gerK gene products (fructose and glucose
+    receptors, respectively).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- DEVELOPMENTAL STAGE: Expressed in the forespore compartment of the
+    developing sporangium.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Spore germination protein (SGP) (TC 2.A.3.9) family.
+Amino-acid transport; Complete proteome; Germination; Membrane;
+Transmembrane; Transport.
+TMELEVEN

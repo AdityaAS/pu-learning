@@ -1,0 +1,13 @@
+AC   Q9USL4; Q9UTW5;
+Putative nucleoporin C18B5.07c.
+"The genome sequence of Schizosaccharomyces pombe.";
+"Large-scale screening of intracellular protein localization in living
+fission yeast cells by the use of a GFP-fusion genomic DNA library.";
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear pore complex.
+-!- SIMILARITY: Contains 1 RanBD1 domain.
+ GO:0005643; C:nuclear pore; TAS:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0007094; P:mitotic spindle checkpoint; IMP:GeneDB_SPombe.
+ GO:0006913; P:nucleocytoplasmic transport; TAS:GeneDB_SPombe.
+Complete proteome; Nuclear protein; Transport.
+TMZERO

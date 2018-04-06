@@ -1,0 +1,25 @@
+AC   Q9UU83;
+Protein pal1 (Pears and lemons protein 1).
+"The genome sequence of Schizosaccharomyces pombe.";
+"Two-hybrid search for proteins that interact with Sad1 and Kms1, two
+membrane-bound components of the spindle pole body in fission yeast.";
+"The novel fission yeast protein Pal1p interacts with Hip1-related
+Sla2p/End4p and is involved in cellular morphogenesis.";
+-!- FUNCTION: Involved in cellular morphogenesis and cell wall
+    integrity. Important for the maintenance of a cylindrical cell
+    shape.
+-!- SUBUNIT: Interacts with end4 and sad1.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein.
+    Note=Localizes to cell tips during interphase and to the medial
+    ring during mitosis and cytokinesis.
+-!- SIMILARITY: Belongs to the pal1 family.
+ GO:0032153; C:cell division site; IDA:GeneDB_SPombe.
+ GO:0051286; C:cell tip; IDA:GeneDB_SPombe.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005730; C:nucleolus; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0005515; F:protein binding; IPI:GeneDB_SPombe.
+ GO:0031505; P:cell wall organization and biogenesis (sens...; IMP:GeneDB_SPombe.
+ GO:0030467; P:establishment and/or maintenance of cell po...; IMP:GeneDB_SPombe.
+Complete proteome; Membrane.
+TMZERO

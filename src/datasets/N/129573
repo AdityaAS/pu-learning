@@ -1,0 +1,22 @@
+AC   Q6FM81;
+Serine/threonine-protein phosphatase 4 catalytic subunit (EC 3.1.3.16)
+(PP4C).
+"Genome evolution in yeasts.";
+-!- FUNCTION: Forms the histone H2A phosphatase complex in association
+    with the regulatory subunits PSY2 and PSY4, which dephosphorylates
+    'Ser-128' of histone H2A that has been displaced from sites of DNA
+    lesions in the double-stranded DNA break repair process.
+    Dephosphorylation is necessary for efficient recovery from the DNA
+    damage checkpoint (By similarity).
+-!- CATALYTIC ACTIVITY: A phosphoprotein + H(2)O = a protein +
+    phosphate.
+-!- COFACTOR: Binds 1 iron ion per subunit (By similarity).
+-!- COFACTOR: Binds 1 manganese ion per subunit (By similarity).
+-!- SUBUNIT: Catalytic subunit of the histone H2A phosphatase complex
+    (HTP-C) containing PPH3, PSY2 and PSY4 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the PPP phosphatase family. PP-X subfamily.
+Complete proteome; Hydrolase; Iron; Manganese; Metal-binding;
+Nuclear protein; Protein phosphatase.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q6PN83;
+Tau conotoxin mr5.3 precursor (Gla-MrIV).
+"Sequence diversity of T-superfamily conotoxins from Conus
+marmoreus.";
+"Isolation and characterization of three novel Gla-containing Conus
+marmoreus venom peptides, one with a novel cysteine pattern.";
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- MASS SPECTROMETRY: MW=1595.51; METHOD=Electrospray; RANGE=51-63;
+    NOTE=Ref.2.
+-!- SIMILARITY: Belongs to the conotoxin T superfamily.
+Cleavage on pair of basic residues; Direct protein sequencing;
+Gamma-carboxyglutamic acid; Signal; Toxin.
+TMZERO

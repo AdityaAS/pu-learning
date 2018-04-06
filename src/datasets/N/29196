@@ -1,0 +1,23 @@
+AC   P03605;
+Coat protein (Capsid protein) (CP).
+"Cucumber mosaic virus RNA 3. Determination of the nucleotide sequence
+provides the amino acid sequences of protein 3A and viral coat
+protein.";
+"Further implications for the evolutionary relationships between
+tripartite plant viruses based on cucumber mosaic virus RNA 3.";
+"Micro-identification of amino-terminal acetylamino acids in
+proteins.";
+-!- FUNCTION: Coat protein. Probably binds RNA and play a role in
+    packaging (By similarity).
+-!- DOMAIN: The N-terminal arginine-rich stretch does not seem to be
+    the major RNA-binding region that allows formation of an
+    infectious ribonucleoprotein complex (By similarity).
+-!- MISCELLANEOUS: The virus has a tripartite genome (RNA1, RNA2 and
+    RNA3) and an encapsidated subgenomic RNA (RNA4) from which the
+    coat protein is expressed. Virions are icosahedral, not enveloped,
+    with 32 capsomers per nucleocapsid.
+-!- SIMILARITY: Belongs to the cucumoviruses/bromoviruses coat protein
+    family.
+Acetylation; Capsid protein; Direct protein sequencing;
+Ribonucleoprotein; RNA-binding; Viral nucleoprotein; Virion protein.
+TMZERO

@@ -1,0 +1,17 @@
+AC   Q5WUE1;
+Protein-export protein secB.
+"Evidence in the Legionella pneumophila genome for exploitation of
+host cell functions and high genome plasticity.";
+-!- FUNCTION: This is one of the proteins required for the normal
+    export of envelope proteins out of the cell cytoplasm. It is a
+    molecular chaperone that binds to a subset of precursor proteins,
+    thereby preventing them from aggregating (By similarity).
+-!- SUBUNIT: Homotetramer. Interacts with secA. Part of the
+    prokaryotic protein translocation apparatus which comprise secA,
+    secB, secD, secE, secF, secG and secY (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the secB family.
+ GO:0006457; P:protein folding; IEA:HAMAP.
+Chaperone; Complete proteome; Protein transport; Translocation;
+Transport.
+TMZERO

@@ -1,0 +1,23 @@
+AC   Q9H0X9; Q9BZB0; Q9P1Z4;
+Oxysterol-binding protein-related protein 5 (OSBP-related protein 5)
+(ORP-5).
+"Isolation and characterization of human oxysterol-binding protein-
+related protein-5 (ORP-5).";
+"A family of 12 human genes containing oxysterol-binding domains.";
+"Towards a catalog of human genes and proteins: sequencing and
+analysis of 500 novel complete protein coding human cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The OSBP-related protein family in humans.";
+"Prediction of the coding sequences of unidentified human genes. XVII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+-!- SIMILARITY: Belongs to the OSBP family.
+-!- SIMILARITY: Contains 1 PH domain.
+ GO:0005829; C:cytosol; NAS:UniProtKB.
+ GO:0008142; F:oxysterol binding; NAS:UniProtKB.
+ GO:0008203; P:cholesterol metabolism; NAS:UniProtKB.
+ GO:0030301; P:cholesterol transport; NAS:UniProtKB.
+ GO:0006893; P:Golgi to plasma membrane transport; NAS:UniProtKB.
+Lipid transport; Polymorphism; Transport.
+TMZERO

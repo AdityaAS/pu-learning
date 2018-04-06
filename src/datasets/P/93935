@@ -1,0 +1,31 @@
+AC   P04816; Q2M7C1; Q47343;
+Leucine-specific-binding protein precursor (LS-BP) (L-BP).
+"The complete nucleotide sequences of the Escherichia coli LIV-BP and
+LS-BP genes. Implications for the mechanism of high-affinity branched-
+chain amino acid transport.";
+"The leucine binding proteins of Escherichia coli as models for
+studying the relationships between protein structure and function.";
+"Nucleotide sequence and genetic characterization reveal six essential
+genes for the LIV-I and LS transport systems of Escherichia coli.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Amino-terminal sequence and processing of the precursor of the
+leucine-specific binding protein, and evidence for conformational
+differences between the precursor and the mature form.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Structure of the L-leucine-binding protein refined at 2.4-A
+resolution and comparison with the Leu/Ile/Val-binding protein
+structure.";
+-!- FUNCTION: This protein is a component of the leucine-specific
+    transport system, which is one of the two periplasmic binding
+    protein-dependent transport systems of the high-affinity transport
+    of the branched-chain amino acids in E.coli.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the leucine-binding protein family.
+3D-structure; Amino-acid transport; Complete proteome;
+Direct protein sequencing; Periplasmic; Signal; Transport.
+TMZERO

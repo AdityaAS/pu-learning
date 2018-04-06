@@ -1,0 +1,12 @@
+AC   P0A3F9; P05360;
+VirB11 protein.
+"Analysis of the complete nucleotide sequence of the Agrobacterium
+tumefaciens virB operon.";
+-!- FUNCTION: Required for the transfer of T-DNA to plants. Couples
+    energy, by means of ATP hydrolysis, to T-DNA transport.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- PTM: Autophosphorylated.
+-!- SIMILARITY: Belongs to the GSP E family.
+ATP-binding; Crown gall tumor; Nucleotide-binding; Phosphorylation;
+Plasmid; Transport.
+TMZERO

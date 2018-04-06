@@ -1,0 +1,14 @@
+AC   Q983E4;
+Putative arginyl-tRNA--protein transferase (EC 2.3.2.8) (R-
+transferase) (Arginyltransferase).
+"Complete genome structure of the nitrogen-fixing symbiotic bacterium
+Mesorhizobium loti.";
+-!- FUNCTION: May conjugate Arg from its aminoacyl-tRNA to the N-
+    termini of proteins containing an N-terminal aspartate or
+    glutamate (Potential).
+-!- CATALYTIC ACTIVITY: L-arginyl-tRNA + protein = tRNA + L-arginyl-
+    protein.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the R-transferase family.
+Acyltransferase; Complete proteome; Transferase.
+TMZERO

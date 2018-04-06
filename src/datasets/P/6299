@@ -1,0 +1,18 @@
+AC   Q51417;
+Putative transporter protein amiS.
+"Identification of two new genes in the Pseudomonas aeruginosa amidase
+operon, encoding an ATPase (AmiB) and a putative integral membrane
+protein (AmiS).";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"Nucleotide sequence of the aliphatic amidase regulator gene (amiR) of
+Pseudomonas aeruginosa.";
+-!- FUNCTION: Possible transporter that might be responsible for the
+    adsorption of amidase substrates or release of their hydrolysis
+    products. AmiB and amiS may act jointly in to a two component ABC
+    transporter system.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the amiS/ureI family.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMSIX

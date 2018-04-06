@@ -1,0 +1,22 @@
+AC   O00264; Q9UGJ9;
+Membrane-associated progesterone receptor component 1 (mPR).
+"Cloning and tissue expression of two putative steroid membrane
+receptors.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The human membrane progesterone receptor gene: genomic structure and
+promoter analysis.";
+"Large-scale characterization of HeLa cell nuclear phosphoproteins.";
+"Phosphoproteome analysis of the human mitotic spindle.";
+-!- FUNCTION: Receptor for progesterone (By similarity).
+-!- SUBCELLULAR LOCATION: Microsome; microsomal membrane; single-pass
+    membrane protein (By similarity).
+-!- TISSUE SPECIFICITY: Widely expressed, with highest expression in
+    liver and kidney.
+-!- SIMILARITY: Belongs to the cytochrome b5 family. MAPR subfamily.
+ GO:0009986; C:cell surface; IEP:UniProtKB.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005496; F:steroid binding; TAS:ProtInc.
+Endoplasmic reticulum; Lipid-binding; Membrane; Microsome;
+Phosphorylation; Receptor; Steroid-binding; Transmembrane.
+TMONE

@@ -1,0 +1,12 @@
+AC   P82031;
+Uperin-2.5.
+"Novel uperin peptides from the dorsal glands of the australian
+floodplain toadlet Uperoleia inundata.";
+-!- FUNCTION: Shows a medium antibacterial activity against M.luteus,
+    L.mesenteriodes and S.uberis.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin dorsal glands.
+-!- MASS SPECTROMETRY: MW=1940; METHOD=FAB; RANGE=1-19; NOTE=Ref.1.
+Amphibian defense peptide; Antibiotic; Antimicrobial;
+Direct protein sequencing.
+TMZERO

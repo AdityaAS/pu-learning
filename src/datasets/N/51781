@@ -1,0 +1,19 @@
+AC   O34894;
+Septation ring formation regulator ezrA.
+"Sequencing and functional annotation of the Bacillus subtilis genes
+in the 200 kb rrnB-dnaB region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Identification and characterization of a negative regulator of FtsZ
+ring formation in Bacillus subtilis.";
+-!- FUNCTION: Negative regulator of ftsZ ring formation; modulates the
+    frequency and position of ftsZ ring formation. Inhibits ftsZ ring
+    formation at polar sites. Interacts either with ftsZ or with one
+    of its binding partners to promote depolymerization.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass membrane protein.
+    Note=Colocalized with ftsZ to the nascent septal site.
+-!- SIMILARITY: Belongs to the ezrA family.
+ GO:0000917; P:barrier septum formation; IEA:HAMAP.
+Cell cycle; Cell division; Coiled coil; Complete proteome; Membrane;
+Septation; Transmembrane.
+TMONE

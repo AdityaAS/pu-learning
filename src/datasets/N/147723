@@ -1,0 +1,11 @@
+AC   Q7NQH1;
+50S ribosomal protein L15.
+"The complete genome sequence of Chromobacterium violaceum reveals
+remarkable and exploitable bacterial adaptability.";
+-!- FUNCTION: Binds to the 23S rRNA (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit.
+-!- SIMILARITY: Belongs to the ribosomal protein L15P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

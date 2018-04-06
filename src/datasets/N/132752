@@ -1,0 +1,20 @@
+AC   Q9XZG5;
+Proteasome subunit alpha type 5 (EC 3.4.25.1) (20S proteasome subunit
+alpha-5).
+"The alpha5 subunit in Trypanosoma brucei proteasome can self assemble
+to form a cylinder of four stacked heptamer rings.";
+-!- FUNCTION: The proteasome is a multicatalytic proteinase complex
+    which is characterized by its ability to cleave peptides with Arg,
+    Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or
+    slightly basic pH. The proteasome has an ATP-dependent proteolytic
+    activity.
+-!- CATALYTIC ACTIVITY: Cleavage of peptide bonds with very broad
+    specificity.
+-!- SUBUNIT: The proteasome is composed of at least 15 non identical
+    subunits which form a highly ordered ring-shaped structure (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the peptidase T1A family.
+Hydrolase; Protease; Proteasome; Threonine protease.
+TMZERO

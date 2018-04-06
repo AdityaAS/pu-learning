@@ -1,0 +1,15 @@
+AC   Q9KN05; O86039;
+Tryptophanase (EC 4.1.99.1) (L-tryptophan indole-lyase) (TNase).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+"Vibrio cholerae putative tryptophanase gene partial cds.";
+-!- CATALYTIC ACTIVITY: L-tryptophan + H(2)O = indole + pyruvate +
+    NH(3).
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amino-acid degradation; L-tryptophan degradation; indole
+    and pyruvate from L-tryptophan: single step [final step].
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the beta-eliminating lyase family.
+ GO:0006569; P:tryptophan catabolism; IEA:HAMAP.
+Complete proteome; Lyase; Pyridoxal phosphate; Tryptophan catabolism.
+TMZERO

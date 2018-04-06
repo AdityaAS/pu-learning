@@ -1,0 +1,10 @@
+AC   O27276;
+DNA polymerase (EC 2.7.7.7).
+"Complete genome sequence of Methanobacterium thermoautotrophicum
+deltaH: functional analysis and comparative genomics.";
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- SIMILARITY: Belongs to the DNA polymerase type-B family.
+Complete proteome; DNA replication; DNA-binding;
+DNA-directed DNA polymerase; Nucleotidyltransferase; Transferase.
+TMZERO

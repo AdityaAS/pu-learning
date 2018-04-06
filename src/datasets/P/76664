@@ -1,0 +1,15 @@
+AC   Q01723;
+Hypersensitivity response secretion protein hrpH precursor.
+"The Pseudomonas syringae pv. syringae 61 hrpH product, an envelope
+protein required for elicitation of the hypersensitive response in
+plants.";
+"The complete hrp gene cluster of Pseudomonas syringae pv. syringae 61
+includes two blocks of genes required for harpinPss secretion that are
+arranged colinearly with Yersinia ysc homologs.";
+-!- FUNCTION: Involved in the secretion of a proteinaceous elicitor of
+    the hypersensitivity response in plants.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: Belongs to the GSP D family.
+Hypersensitive response elicitation; Membrane; Outer membrane;
+Protein transport; Signal; Translocation; Transport.
+TMZERO

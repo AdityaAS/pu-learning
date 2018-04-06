@@ -1,0 +1,16 @@
+AC   P10897; Q0P5F5;
+Cytochrome b561 (Cytochrome b-561).
+"The structure of cytochrome b561, a secretory vesicle-specific
+electron transport protein.";
+-!- FUNCTION: Secretory vesicle-specific electron transport protein.
+-!- COFACTOR: Binds 2 heme groups non-covalently.
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; secretory vesicle;
+    secretory vesicle membrane; multi-pass membrane protein.
+    Note=Secretory vesicle containing catecholamines and amidated
+    peptides.
+-!- TISSUE SPECIFICITY: Expressed in the adrenal medulla and all brain
+    regions, but not in visceral organs.
+-!- SIMILARITY: Contains 1 cytochrome b561 domain.
+Direct protein sequencing; Electron transport; Heme; Iron; Membrane;
+Metal-binding; Transmembrane; Transport.
+TMSIX

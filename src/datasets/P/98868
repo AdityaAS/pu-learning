@@ -1,0 +1,13 @@
+AC   P0AEY9; P71226; P75807; Q46966;
+Multidrug translocase mdfA (Chloramphenicol resistance pump cmr).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Efflux pump driven by the proton motive force. Confers
+    resistance to basic, aromatic and lipophilic drugs as well as
+    neutral, non-aromatic, zwitterionic or non-aromatic hydrophilic
+    antibiotics (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

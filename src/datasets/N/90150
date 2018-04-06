@@ -1,0 +1,14 @@
+AC   P65646; Q99S75;
+Galactose-6-phosphate isomerase subunit lacB (EC 5.3.1.26).
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- CATALYTIC ACTIVITY: D-galactose 6-phosphate = D-tagatose 6-
+    phosphate.
+-!- PATHWAY: Carbohydrate metabolism; galactose metabolism.
+-!- SUBUNIT: Heteromultimeric protein consisting of lacA and lacB (By
+    similarity).
+-!- SIMILARITY: Belongs to the lacAB/rpiB family.
+ GO:0050044; F:galactose-6-phosphate isomerase activity; IEA:HAMAP.
+ GO:0019512; P:lactose catabolism via tagatose-6-phosphate; IEA:HAMAP.
+Complete proteome; Isomerase; Lactose metabolism.
+TMZERO

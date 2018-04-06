@@ -1,0 +1,21 @@
+AC   Q8Z8Y1;
+S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)
+(Queuosine biosynthesis protein queA).
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: Transfers and isomerizes the ribose moiety from AdoMet
+    to the 7-aminomethyl group of 7-deazaguanine (preQ1-tRNA) to give
+    epoxyqueuosine (oQ-tRNA) (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosylmethionine + 7-aminomethyl-7-
+    deazaguanosine = methionine + adenine + epoxyqueuosine.
+-!- PATHWAY: Nucleoside biosynthesis; queuosine biosynthesis;
+    qeuosine-tRNA from GTP; step 4.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the queA family.
+ GO:0016853; F:isomerase activity; IEA:HAMAP.
+ GO:0016740; F:transferase activity; IEA:HAMAP.
+Complete proteome; Isomerase; Queuosine biosynthesis; Transferase.
+TMZERO

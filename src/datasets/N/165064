@@ -1,0 +1,18 @@
+AC   Q64NN4;
+30S ribosomal protein S4.
+"Genomic analysis of Bacteroides fragilis reveals extensive DNA
+inversions regulating cell surface adaptation.";
+-!- FUNCTION: One of the primary rRNA binding proteins, it binds
+    directly to 16S rRNA where it nucleates assembly of the body of
+    the 30S subunit (By similarity).
+-!- FUNCTION: With S5 and S12 plays an important role in translational
+    accuracy (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Contacts protein S5.
+    The interaction surface between S4 and S5 is involved in control
+    of translational fidelity (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S4P family.
+-!- SIMILARITY: Contains 1 S4 RNA-binding domain.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

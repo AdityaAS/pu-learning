@@ -1,0 +1,21 @@
+AC   P46349; P94473;
+GABA permease (4-amino butyrate transport carrier) (Gamma-
+aminobutyrate permease).
+"Expression of the Bacillus subtilis gabP gene is regulated
+independently in response to nitrogen and amino acid availability.";
+"The 52 degrees-55 degrees segment of the Bacillus subtilis
+chromosome: a region devoted to purine uptake and metabolism, and
+containing the genes cotA, gabP and guaA and the pur gene cluster
+within a 34960 bp nucleotide sequence.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Transporter for GABA.
+-!- PATHWAY: 4-aminobutyrate (GABA) degradation.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- INDUCTION: Positively regulated by tnrA under conditions of
+    nitrogen limitation.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Amino acid transporter (AAT) (TC 2.A.3.1) family.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTWELVE

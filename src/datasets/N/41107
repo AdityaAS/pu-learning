@@ -1,0 +1,8 @@
+AC   Q7M7K0;
+Deoxyguanosinetriphosphate triphosphohydrolase-like protein.
+"Comparative genome analysis of Vibrio vulnificus, a marine
+pathogen.";
+-!- SIMILARITY: Belongs to the dGTPase family. Type 2 subfamily.
+ GO:0016787; F:hydrolase activity; IEA:HAMAP.
+Complete proteome; Hydrolase.
+TMZERO

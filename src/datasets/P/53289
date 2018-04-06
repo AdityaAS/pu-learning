@@ -1,0 +1,18 @@
+AC   P21408;
+Iron(III)-binding periplasmic protein precursor.
+"Nucleotide sequences of the sfuA, sfuB, and sfuC genes of Serratia
+marcescens suggest a periplasmic-binding-protein-dependent iron
+transport mechanism.";
+-!- FUNCTION: Part of the ABC transporter complex fbpABC
+    (TC 3.A.1.10.1) involved in Fe(3+) ions import. This protein
+    specifically binds Fe(3+) and is involved in its transmembrane
+    transport (By similarity).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (fbpC), two transmembrane proteins (fbpB) and a solute-binding
+    protein (fbpA) (Probable).
+-!- SUBCELLULAR LOCATION: Periplasm (Probable).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 1
+    family.
+3D-structure; Ion transport; Iron; Iron transport; Metal-binding;
+Periplasmic; Signal; Transport.
+TMZERO

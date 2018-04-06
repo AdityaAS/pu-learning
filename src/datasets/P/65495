@@ -1,0 +1,14 @@
+AC   P12012;
+Gluconate permease.
+"Organization and transcription of the gluconate operon, gnt, of
+Bacillus subtilis.";
+"Cloning and sequencing of a 36-kb region of the Bacillus subtilis
+genome between the gnt and iol operons.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- PATHWAY: Gluconate utilization.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the gntP permease family.
+Complete proteome; Gluconate utilization; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

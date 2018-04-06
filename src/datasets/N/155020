@@ -1,0 +1,13 @@
+AC   Q9KQH0;
+Ribosomal large subunit pseudouridine synthase C (EC 5.4.99.-) (rRNA-
+uridine isomerase C) (rRNA pseudouridylate synthase C).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Responsible for synthesis of pseudouridine from uracil
+    at positions 955, 2504 and 2580 in 23S ribosomal RNA (By
+    similarity).
+-!- CATALYTIC ACTIVITY: rRNA uridine = rRNA pseudouridine.
+-!- SIMILARITY: Belongs to the pseudouridine synthase rluA family.
+-!- SIMILARITY: Contains 1 S4 RNA-binding domain.
+Complete proteome; Isomerase; RNA-binding; rRNA processing.
+TMZERO

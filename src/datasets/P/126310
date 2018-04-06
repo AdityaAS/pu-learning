@@ -1,0 +1,23 @@
+AC   P25360;
+Inorganic phosphate transporter PHO87.
+"The complete sequence of the 8.2 kb segment left of MAT on chromosome
+III reveals five ORFs, including a gene for a yeast ribokinase.";
+"The complete DNA sequence of yeast chromosome III.";
+"Two new genes, PHO86 and PHO87, involved in inorganic phosphate
+uptake in Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"A proteomics approach to understanding protein ubiquitination.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in the uptake of inorganic phosphate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 504 molecules/cell.
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    PHO87 subfamily.
+-!- SIMILARITY: Contains 1 SPX domain.
+ GO:0005315; F:inorganic phosphate transporter activity; IGI:SGD.
+ GO:0006817; P:phosphate transport; IGI:SGD.
+ GO:0000723; P:telomere maintenance; IMP:SGD.
+Complete proteome; Glycoprotein; Membrane; Phosphate transport;
+Phosphorylation; Transmembrane; Transport; Ubl conjugation.
+TMTWELVE

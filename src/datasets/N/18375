@@ -1,0 +1,17 @@
+AC   P26738;
+Bombyxin B-4 precursor (BBX-B4) (4K-prothoracicotropic hormone) (4K-
+PTTH) [Contains: Bombyxin B-4 B chain; Bombyxin B-4 A chain].
+"Multiple gene copies for bombyxin, an insulin-related peptide of the
+silkmoth Bombyx mori: structural signs for gene rearrangement and
+duplication responsible for generation of multiple molecular forms of
+bombyxin.";
+-!- FUNCTION: Brain peptide responsible for activation of prothoracic
+    glands to produce ecdysone in insects.
+-!- SUBUNIT: Heterodimer of a B chain and an A chain linked by two
+    disulfide bonds.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- MISCELLANEOUS: Silk worm has two kinds of PTTH: 4K-PTTH and 22K-
+    PTTH; there are many forms of 4K-PTTH.
+-!- SIMILARITY: Belongs to the insulin family.
+Hormone; Signal.
+TMZERO

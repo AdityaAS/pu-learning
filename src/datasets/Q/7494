@@ -1,0 +1,20 @@
+AC   P08132; Q29306;
+Annexin A4 (Annexin IV) (Lipocortin IV) (Endonexin I) (Chromobindin-4)
+(Protein II) (P32.5) (Placental anticoagulant protein I) (PAP-II)
+(PP4-X) (35-beta calcimedin).
+"The amino acid sequence of protein II and its phosphorylation site
+for protein kinase C; the domain structure Ca2+-modulated lipid
+binding proteins.";
+"Evaluation and characterization of a porcine small intestine cDNA
+library: analysis of 839 clones.";
+-!- FUNCTION: Calcium/phospholipid-binding protein which promotes
+    membrane fusion and is involved in exocytosis (By similarity).
+-!- SUBUNIT: Monomer.
+-!- DOMAIN: A pair of annexin repeats may form one binding site for
+    calcium and phospholipid.
+-!- MISCELLANEOUS: Seems to bind one calcium ion with high affinity.
+-!- SIMILARITY: Belongs to the annexin family.
+-!- SIMILARITY: Contains 4 annexin repeats.
+Acetylation; Annexin; Calcium; Calcium/phospholipid-binding;
+Direct protein sequencing; Phosphorylation; Repeat.
+TMZERO

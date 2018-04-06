@@ -1,0 +1,15 @@
+AC   P87384; Q9PSI8;
+Somatostatin 1 precursor (PSS1) [Contains: Somatostatin-14 (S-I)
+(SSS1)].
+"Occurrence of two somatostatin variants in the frog brain:
+characterization of the cDNAs, distribution of the mRNAs, and
+receptor-binding affinities of the peptides.";
+"Isolation of [Pro2,Met13]somatostatin-14 and somatostatin-14 from the
+frog brain reveals the existence of a somatostatin gene family in a
+tetrapod.";
+-!- FUNCTION: Somatostatin inhibits the release of somatotropin.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the somatostatin family.
+Cleavage on pair of basic residues; Direct protein sequencing;
+Hormone; Signal.
+TMZERO

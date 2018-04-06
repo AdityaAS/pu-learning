@@ -1,0 +1,20 @@
+AC   P50692;
+Cytochrome c oxidase subunit 2 (EC 1.9.3.1) (Cytochrome c oxidase
+polypeptide II).
+"Gene for cytochrome c oxidase subunit II in the mitochondrial DNA of
+Culex quinquefasciatus and Aedes aegypti (Diptera: Culicidae).";
+-!- FUNCTION: Cytochrome c oxidase is the component of the respiratory
+    chain that catalyzes the reduction of oxygen to water. Subunits 1-
+    3 form the functional core of the enzyme complex. Subunit 2
+    transfers the electrons from cytochrome c via its binuclear copper
+    A center to the bimetallic center of the catalytic subunit 1.
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- COFACTOR: Copper A.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 2 family.
+Copper; Electron transport; Inner membrane; Membrane; Metal-binding;
+Mitochondrion; Oxidoreductase; Respiratory chain; Transmembrane;
+Transport.
+TMTWO

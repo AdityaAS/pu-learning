@@ -1,0 +1,26 @@
+AC   Q67EQ0;
+C-type lectin domain family 4 member A (C-type lectin superfamily
+member 6) (Dendritic cell inhibitory receptor).
+"Identification of lectin-like receptors expressed by antigen
+presenting cells and neutrophils and their mapping to a novel gene
+complex.";
+-!- FUNCTION: May be involved in regulating immune reactivity. May
+    play a role in modulating dendritic cells (DC) differentiation
+    and/or maturation. May be involved in the inhibition of B-cell-
+    receptor-mediated calcium mobilization and protein tyrosine
+    phosphorylation (By similarity).
+-!- SUBUNIT: May interact with PTPN6 via its ITIM site (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein (Probable).
+-!- TISSUE SPECIFICITY: Expressed by myeloid cells (dendritic cells,
+    macrophages, and neutrophils) and B-cells.
+-!- DOMAIN: Contains 1 copy of a cytoplasmic motif that is referred to
+    as the immunoreceptor tyrosine-based inhibitor motif (ITIM). This
+    motif is involved in modulation of cellular responses. The
+    phosphorylated ITIM motif can bind the SH2 domain of several SH2-
+    containing phosphatases.
+-!- SIMILARITY: Contains 1 C-type lectin domain.
+Glycoprotein; Immune response; Lectin; Membrane; Signal-anchor;
+Transmembrane.
+TMONE

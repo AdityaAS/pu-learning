@@ -1,0 +1,29 @@
+AC   Q3YVZ7;
+Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23) (Fapy-DNA
+glycosylase) (DNA-(apurinic or apyrimidinic site) lyase mutM)
+(EC 4.2.99.18) (AP lyase mutM).
+"Genome dynamics and diversity of Shigella species, the etiologic
+agents of bacillary dysentery.";
+-!- FUNCTION: Involved in base excision repair of DNA damaged by
+    oxidation or by mutagenic agents. Acts as DNA glycosylase that
+    recognizes and removes damaged bases. Has a preference for
+    oxidized purines, such as 7,8-dihydro-8-oxoguanine (8-oxoG). Has
+    AP (apurinic/apyrimidinic) lyase activity and introduces nicks in
+    the DNA strand. Cleaves the DNA backbone by beta-delta elimination
+    to generate a single-strand break at the site of the removed base
+    with both 3'- and 5'-phosphates (By similarity).
+-!- CATALYTIC ACTIVITY: Hydrolysis of DNA containing ring-opened 7-N-
+    methylguanine residues, releasing 2,6-diamino-4-hydroxy-5-(N-
+    methyl)formamidopyrimidine.
+-!- CATALYTIC ACTIVITY: The C-O-P bond 3' to the apurinic or
+    apyrimidinic site in DNA is broken by a beta-elimination reaction,
+    leaving a 3'-terminal unsaturated sugar and a product with a
+    terminal 5'-phosphate.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the FPG family.
+-!- SIMILARITY: Contains 1 FPG-type zinc finger.
+Complete proteome; DNA damage; DNA repair; DNA-binding; Glycosidase;
+Hydrolase; Lyase; Metal-binding; Multifunctional enzyme; Zinc;
+Zinc-finger.
+TMZERO

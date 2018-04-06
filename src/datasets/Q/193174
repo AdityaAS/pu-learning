@@ -1,0 +1,33 @@
+AC   P79100;
+Short transient receptor potential channel 4 (TrpC4) (Capacitative
+calcium entry channel 1) (CCE1).
+"A mammalian capacitative calcium entry channel homologous to
+Drosophila TRP and TRPL.";
+"Alternative splicing and tissue specific expression of the 5'
+truncated bCCE 1 variant bCCE 1delta514.";
+-!- FUNCTION: Thought to form a receptor-activated non-selective
+    calcium permeant cation channel. Probably is operated by a
+    phosphatidylinositol second messenger system activated by receptor
+    tyrosine kinases or G-protein coupled receptors. Has also been
+    shown to be calcium-selective. May also be activated by
+    intracellular calcium store depletion.
+-!- SUBUNIT: Isoform alpha associates with inositol-1,4,5-triphosphate
+    receptor (ITPR). Interacts with NHERF (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Alpha;
+      IsoId=P79100-1; Sequence=Displayed;
+    Name=Beta; Synonyms=Delta 514;
+      IsoId=P79100-2; Sequence=VSP_006566;
+-!- TISSUE SPECIFICITY: Expressed in adrenal gland. Lower expression
+    in heart and retina. Also expressed in testis. The short isoform
+    is specifically expressed in the adrenal gland.
+-!- SIMILARITY: Belongs to the transient receptor family. STrpC
+    subfamily.
+-!- SIMILARITY: Contains 2 ANK repeats.
+Alternative splicing; ANK repeat; Calcium; Calcium channel;
+Calcium transport; Ion transport; Ionic channel; Membrane; Repeat;
+Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,59 @@
+AC   P05023; Q16689; Q6LDM4; Q9UJ20; Q9UJ21;
+Sodium/potassium-transporting ATPase alpha-1 chain precursor
+(EC 3.6.3.9) (Sodium pump 1) (Na+/K+ ATPase 1).
+"Primary structure of the alpha-subunit of human Na,K-ATPase deduced
+from cDNA sequence.";
+"Characterization and quantification of full-length and truncated
+Na,K-ATPase alpha 1 and beta 1 RNA transcripts expressed in human
+retinal pigment epithelium.";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Amino acid sequence of the 17-kilodalton fragment of the cytoplasmic
+region of the alpha-subunit of NA+,K+-ATPase.";
+"The family of human Na+,K+-ATPase genes. No less than five genes
+and/or pseudogenes related to the alpha-subunit.";
+"Human placental Na+,K+-ATPase alpha subunit: cDNA cloning, tissue
+expression, DNA polymorphism, and chromosomal localization.";
+"The human Na, K-ATPase alpha 1 gene: characterization of the 5'-
+flanking region and identification of a restriction fragment length
+polymorphism.";
+"Multiple genes encode the human Na+,K+-ATPase catalytic subunit.";
+"An unappreciated role for RNA surveillance.";
+-!- FUNCTION: This is the catalytic component of the active enzyme,
+    which catalyzes the hydrolysis of ATP coupled with the exchange of
+    sodium and potassium ions across the plasma membrane. This action
+    creates the electrochemical gradient of sodium and potassium ions,
+    providing the energy for active transport of various nutrients.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Na(+)(In) + K(+)(Out) = ADP +
+    phosphate + Na(+)(Out) + K(+)(In).
+-!- SUBUNIT: Composed of three subunits: alpha (catalytic), beta and
+    gamma.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long;
+      IsoId=P05023-1; Sequence=Displayed;
+    Name=Short;
+      IsoId=P05023-2; Sequence=VSP_000415, VSP_000416;
+      Note=May be produced at very low levels due to a premature stop
+      codon in the mRNA, leading to nonsense-mediated mRNA decay;
+-!- PTM: Phosphorylation on Tyr-10 modulates pumping activity (By
+    similarity).
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIC subfamily.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0005890; C:sodium:potassium-exchanging ATPase complex; ISS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0005391; F:sodium:potassium-exchanging ATPase activity; ISS:UniProtKB.
+ GO:0015991; P:ATP hydrolysis coupled proton transport; ISS:UniProtKB.
+ GO:0030641; P:hydrogen ion homeostasis; ISS:UniProtKB.
+ GO:0006813; P:potassium ion transport; ISS:UniProtKB.
+ GO:0006814; P:sodium ion transport; ISS:UniProtKB.
+ GO:0030317; P:sperm motility; ISS:UniProtKB.
+Alternative splicing; ATP-binding; Hydrolase; Ion transport;
+Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Potassium; Potassium transport; Sodium;
+Sodium transport; Sodium/potassium transport; Transmembrane;
+Transport.
+TMTEN

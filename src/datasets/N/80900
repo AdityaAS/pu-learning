@@ -1,0 +1,26 @@
+AC   Q6CDV4;
+ATP-dependent RNA helicase eIF4A (EC 3.6.1.-) (Eukaryotic initiation
+factor 4A) (eIF-4A) (Translation Initiation factor 1).
+"Genome evolution in yeasts.";
+-!- FUNCTION: ATP-dependent RNA helicase which is a subunit of the
+    eIF4F complex involved in cap recognition and is required for mRNA
+    binding to ribosome. In the current model of translation
+    initiation, eIF4A unwinds RNA secondary structures in the 5'
+    untranslated region of mRNAs which is necessary to allow efficient
+    binding of the small ribosomal subunit, and subsequent scanning
+    for the initiator codon (By similarity).
+-!- SUBUNIT: Component of the eIF4F complex, which composition varies
+    with external and internal environmental conditions. It is
+    composed of at least eIF4A, eIF4E and eIF4G (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- DOMAIN: The Q motif is unique to and characteristic of the DEAD
+    box family of RNA helicases and controls ATP binding and
+    hydrolysis.
+-!- SIMILARITY: Belongs to the DEAD box helicase family. eIF4A
+    subfamily.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ATP-binding; Complete proteome; Helicase; Hydrolase;
+Initiation factor; Nucleotide-binding; Protein biosynthesis;
+RNA-binding.
+TMZERO

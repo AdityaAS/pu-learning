@@ -1,0 +1,16 @@
+AC   P06568;
+UPF0043 membrane protein ytxB (ORF-213).
+"Nucleotide sequence and organization of dnaB gene and neighbouring
+genes on the Bacillus subtilis chromosome.";
+"The dnaB-pheA (256 degrees-240 degrees) region of the Bacillus
+subtilis chromosome containing genes responsible for stress responses,
+the utilization of plant cell walls and primary metabolism.";
+"Sequencing and functional annotation of the Bacillus subtilis genes
+in the 200 kb rrnB-dnaB region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the UPF0043 family.
+Complete proteome; Membrane; Transmembrane.
+TMSIX

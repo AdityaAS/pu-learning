@@ -1,0 +1,36 @@
+AC   P31596;
+Excitatory amino acid transporter 2 (Sodium-dependent
+glutamate/aspartate transporter 2) (GLUT-R) (GLT-1).
+"Cloning and expression of a rat brain L-glutamate transporter.";
+"Glutamate transporters from brain. A novel neurotransmitter
+transporter family.";
+"The rat hepatoma cell line H4-II-E-C3 expresses high activities of
+the high-affinity glutamate transporter GLT-1A.";
+"Histidine 326 is critical for the function of GLT-1, a (Na+ + K+)-
+coupled glutamate transporter from rat brain.";
+-!- FUNCTION: Transports L-glutamate and also L- and D-aspartate.
+    Essential for terminating the postsynaptic action of glutamate by
+    rapidly removing released glutamate from the synaptic cleft. Acts
+    as a symport by cotransporting sodium.
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Glt1;
+      IsoId=P31596-1; Sequence=Displayed;
+    Name=Glt-1A;
+      IsoId=P31596-2; Sequence=VSP_006266;
+-!- TISSUE SPECIFICITY: Localized in brain and is highly enriched in
+    the Purkinje cell layer in cerebellum.
+-!- PTM: Glycosylated.
+-!- SIMILARITY: Belongs to the sodium:dicarboxylate (SDF) symporter
+    (TC 2.A.23) family.
+ GO:0043198; C:dendritic shaft; IDA:RGD.
+ GO:0043197; C:dendritic spine; IDA:RGD.
+ GO:0042734; C:presynaptic membrane; IDA:RGD.
+ GO:0045202; C:synapse; IDA:RGD.
+ GO:0005314; F:high-affinity glutamate transporter activity; TAS:RGD.
+ GO:0006836; P:neurotransmitter transport; TAS:RGD.
+Alternative splicing; Glycoprotein; Membrane; Phosphorylation;
+Symport; Transmembrane; Transport.
+TMEIGHT

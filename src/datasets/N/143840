@@ -1,0 +1,30 @@
+AC   Q61103; Q3UNP5; Q60663; Q9QYA3;
+Zinc-finger protein ubi-d4 (Requiem) (Apoptosis response zinc finger
+protein) (D4, zinc and double PHD fingers family 2).
+"Structure and expression of two members of the d4 gene family in
+mouse.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Requiem: a novel zinc finger gene essential for apoptosis in myeloid
+cells.";
+"Expression and chromosomal localization of the Requiem gene.";
+-!- FUNCTION: May be a transcription factor required for the apoptosis
+    response following survival factor withdrawal from myeloid cells.
+    Might also have a role in the development and maturation of
+    lymphoid cells.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- TISSUE SPECIFICITY: In embryo, highest levels are seen in brain,
+    eyes, thymus and olfactory epithelium in nose, whereas several
+    other tissues, including the musculoskeletal system, show moderate
+    expression. In adult, higher expression in testis, medium in
+    thymus and spleen, lower in certain parts of the brain as the
+    hippocampus. No expression in adult heart, lung, liver, duodenum
+    and kidney.
+-!- DEVELOPMENTAL STAGE: Already detected at embryonic day 8.5.
+-!- SIMILARITY: Belongs to the requiem/DPF family.
+-!- SIMILARITY: Contains 1 C2H2-type zinc finger.
+-!- SIMILARITY: Contains 2 PHD-type zinc fingers.
+Apoptosis; Metal-binding; Nuclear protein; Phosphorylation; Repeat;
+Transcription; Transcription regulation; Zinc; Zinc-finger.
+TMZERO

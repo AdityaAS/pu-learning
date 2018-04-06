@@ -1,0 +1,22 @@
+AC   P43025;
+Tetranectin precursor (TN) (C-type lectin domain family 3 member B)
+(Plasminogen kringle 4-binding protein).
+"Cloning of a cDNA encoding murine tetranectin.";
+"Mouse tetranectin: cDNA sequence, tissue-specific expression, and
+chromosomal mapping.";
+"Cloning of the murine tetranectin gene and 5'-flanking region.";
+-!- FUNCTION: Tetranectin binds to plasminogen and to isolated kringle
+    4. May be involved in the packaging of molecules destined for
+    exocytosis (By similarity).
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Highest expression in lung and skeletal
+    muscle.
+-!- SIMILARITY: Contains 1 C-type lectin domain.
+ GO:0005578; C:extracellular matrix (sensu Metazoa); TAS:MGI.
+ GO:0005615; C:extracellular space; TAS:MGI.
+ GO:0005509; F:calcium ion binding; TAS:MGI.
+ GO:0005529; F:sugar binding; TAS:MGI.
+ GO:0001501; P:skeletal development; IMP:MGI.
+Lectin; Signal.
+TMZERO

@@ -1,0 +1,45 @@
+AC   Q9FRV1;
+Basic endochitinase A precursor (EC 3.2.1.14) (Rye seed chitinase-a)
+(RSC-a).
+"Molecular cloning, functional expression, and mutagenesis of cDNA
+encoding class I chitinase from rye (Secale cereale) seeds.";
+"The complete amino acid sequence of chitinase-a from the seeds of rye
+(Secale cereal).";
+"Purification and some properties of three chitinases from the seeds
+of rye (Secale cereale).";
+"Positions of disulfide bonds in rye (Secale cereale) seed chitinase-
+a.";
+"Localization, accumulation, and antifungal activity of chitinases in
+rye (Secale cereale) seed.";
+"Antifungal activity of rye (Secale cereale) seed chitinases: the
+different binding manner of class I and class II chitinases to the
+fungal cell walls.";
+-!- FUNCTION: Functions as a defense against chitin containing fungal
+    pathogens. Binds the hyphal tips, lateral walls and septa of fungi
+    and degrades mature chitin.
+-!- CATALYTIC ACTIVITY: Random hydrolysis of N-acetyl-beta-D-
+    glucosaminide 1,4-beta-linkages in chitin and chitodextrins.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is about 5.0. Stable between pH 4 and 8;
+    Temperature dependence:
+      Enzyme activity is retained almost fully under 40 degrees
+      Celsius and completely destroyed at 70 degrees Celsius. At 60
+      degrees Celsius the activity was over 80% compared to the
+      untreated enzyme;
+-!- TISSUE SPECIFICITY: Localized in the aleurone cells of the seed
+    endosperm (at protein level).
+-!- DEVELOPMENTAL STAGE: Levels increase from 23 to 40 days after
+    flowering, and are maintained until maturation (at protein level).
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 19 family. Chitinase
+    class I subfamily.
+-!- SIMILARITY: Contains 1 chitin-binding type-1 domain.
+ GO:0005576; C:extracellular region; IC:UniProtKB.
+ GO:0008061; F:chitin binding; IDA:UniProtKB.
+ GO:0004568; F:chitinase activity; IDA:UniProtKB.
+ GO:0016998; P:cell wall catabolism; IDA:UniProtKB.
+ GO:0050832; P:defense response to fungus; IDA:UniProtKB.
+Antimicrobial; Carbohydrate metabolism; Chitin degradation;
+Chitin-binding; Direct protein sequencing; Fungicide; Glycosidase;
+Hydrolase; Plant defense; Polysaccharide degradation; Signal.
+TMZERO

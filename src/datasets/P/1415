@@ -1,0 +1,37 @@
+AC   P41233;
+ATP-binding cassette sub-family A member 1 (ATP-binding cassette
+transporter 1) (ATP-binding cassette 1) (ABC-1).
+"Cloning of two novel ABC transporters mapping on human chromosome
+9.";
+"Human and mouse ABCA1 comparative sequencing and transgenesis studies
+revealing novel regulatory sequences.";
+"Bacterial lipopolysaccharide induces expression of ABCA1 but not
+ABCG1 via an LXR-independent pathway.";
+"Endotoxin down-regulates ABCG5 and ABCG8 in mouse liver and ABCA1 and
+ABCG1 in J774 murine macrophages: differential role of LXR.";
+-!- FUNCTION: cAMP-dependent and sulfonylurea-sensitive anion
+    transporter. Key gatekeeper influencing intracellular cholesterol
+    transport (By similarity).
+-!- TISSUE SPECIFICITY: Widely expressed in adult tissues. Highest
+    levels are found in pregnant uterus and uterus.
+-!- INDUCTION: Down-regulated by endotoxins (LPS) or cytokines (TNF
+    and IL-1) in J774 macrophages. The down-regulation by endotoxin in
+    macrophages is not likely to be mediated by the liver X
+    receptor/retinoic X receptor (LXR/RXR).
+-!- DOMAIN: Multifunctional polypeptide with two homologous halves,
+    each containing an hydrophobic membrane-anchoring domain and an
+    ATP binding cassette (ABC) domain.
+-!- PTM: Phosphorylation on Ser-2054 regulates phospholipid efflux (By
+    similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. ABCA subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0005794; C:Golgi apparatus; IDA:MGI.
+ GO:0005887; C:integral to plasma membrane; IDA:MGI.
+ GO:0008203; P:cholesterol metabolism; IDA:MGI.
+ GO:0030301; P:cholesterol transport; IDA:MGI.
+ GO:0042158; P:lipoprotein biosynthesis; IMP:MGI.
+ GO:0006911; P:phagocytosis, engulfment; IMP:MGI.
+ GO:0045332; P:phospholipid translocation; IMP:MGI.
+ATP-binding; Glycoprotein; Membrane; Nucleotide-binding;
+Phosphorylation; Repeat; Transmembrane; Transport.
+TMFOURTEEN

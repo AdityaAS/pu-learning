@@ -1,0 +1,18 @@
+AC   P0A8G1; P07028; P76311; Q8XBD5;
+UvrABC system protein C (Protein uvrC) (Excinuclease ABC subunit C).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: The UvrABC repair system catalyzes the recognition and
+    processing of DNA lesions. UvrC both incises the 5' and 3' sides
+    of the lesion. The N-terminal half is responsible for the 3'
+    incision and the C-terminal half is responsible for the 5'
+    incision (By similarity).
+-!- SUBUNIT: Interacts with uvrB in an incision complex (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the uvrC family.
+-!- SIMILARITY: Contains 1 UVR domain.
+ GO:0009432; P:SOS response; IEA:HAMAP.
+Complete proteome; DNA damage; DNA excision; DNA repair;
+Excision nuclease; SOS response.
+TMZERO

@@ -1,0 +1,18 @@
+AC   Q8K971;
+30S ribosomal protein S13.
+"50 million years of genomic stasis in endosymbiotic bacteria.";
+-!- FUNCTION: Located at the top of the head of the 30S subunit, it
+    contacts several helices of the 16S rRNA. In the 70S ribosome it
+    contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S
+    subunit (bridge B1b), connecting the 2 subunits; these bridges are
+    implicated in subunit movement. Contacts the tRNAs in the A and P-
+    sites (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Forms a loose
+    heterodimer with protein S19. Forms two bridges to the 50S subunit
+    in the 70S ribosome (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S13P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding; tRNA-binding.
+TMZERO

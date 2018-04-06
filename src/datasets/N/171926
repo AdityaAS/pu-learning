@@ -1,0 +1,21 @@
+AC   Q28686;
+Alpha-sarcoglycan precursor (Alpha-SG) (Adhalin) (50 kDa dystrophin-
+associated glycoprotein) (50DAG) (Dystroglycan 2).
+"Primary structure and muscle-specific expression of the 50-kDa
+dystrophin-associated glycoprotein (adhalin).";
+"Identification of alpha-syntrophin binding to syntrophin triplet,
+dystrophin, and utrophin.";
+-!- FUNCTION: Component of the sarcoglycan complex, a subcomplex of
+    the dystrophin-glycoprotein complex which forms a link between the
+    F-actin cytoskeleton and the extracellular matrix.
+-!- SUBUNIT: Cross-link to form 2 major subcomplexes: one consisting
+    of SGCB, SGCD and SGCG and the other consisiting of SGCB and SGCD.
+    The association between SGCB and SGCG is particularly strong while
+    SGCA is loosely associated with the other sarcoglycans (By
+    similarity). Interacts with the syntrophin SNTA1.
+-!- SUBCELLULAR LOCATION: Cell membrane; sarcolemma; single-pass type
+    I membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the sarcoglycan alpha/epsilon family.
+Cytoskeleton; Glycoprotein; Membrane; Polymorphism; Signal;
+Transmembrane.
+TMONE

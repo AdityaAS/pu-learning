@@ -1,0 +1,32 @@
+AC   Q9LCQ4;
+Chaperone protein dnaJ.
+"Molecular cloning of the dnaK locus, and purification and
+characterization of a DnaK protein from Bacillus brevis HPD31.";
+-!- FUNCTION: Participates actively in the response to hyperosmotic
+    and heat shock by preventing the aggregation of stress-denatured
+    proteins and by disaggregating proteins, also in an autonomous,
+    dnaK-independent fashion. Unfolded proteins bind initially to
+    dnaJ; upon interaction with the dnaJ-bound protein, dnaK
+    hydrolyzes its bound ATP, resulting in the formation of a stable
+    complex. GrpE releases ADP from dnaK; ATP binding to dnaK triggers
+    the release of the substrate protein, thus completing the reaction
+    cycle. Several rounds of ATP-dependent interactions between dnaJ,
+    dnaK and grpE are required for fully efficient folding. Also
+    involved, together with dnaK and grpE, in the DNA replication of
+    plasmids through activation of initiation proteins (By
+    similarity).
+-!- COFACTOR: Binds 2 zinc ions per monomer (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- DOMAIN: The J domain is necessary and sufficient to stimulate dnaK
+    ATPase activity. Zinc center 1 plays an important role in the
+    autonomous, dnaK-independent chaperone activity of dnaJ. Zinc
+    center 2 is essential for interaction with dnaK and for dnaJ
+    activity (By similarity).
+-!- SIMILARITY: Belongs to the dnaJ family.
+-!- SIMILARITY: Contains 1 CR-type zinc finger.
+-!- SIMILARITY: Contains 1 J domain.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Chaperone; DNA replication; Heat shock; Metal-binding; Repeat; Zinc;
+Zinc-finger.
+TMZERO

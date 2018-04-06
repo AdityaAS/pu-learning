@@ -1,0 +1,16 @@
+AC   Q95LG8;
+Methyl-CpG-binding protein 2 (MeCP-2 protein) (MeCP2).
+"Excessive hand-wringing in a MPTP-treated monkey.";
+-!- FUNCTION: Chromosomal protein that binds to methylated DNA. It can
+    bind specifically to a single methyl-CpG pair. It is not
+    influenced by sequences flanking the methyl-CpGs. Mediates
+    transcriptional repression through interaction with histone
+    deacetylase and the corepressor SIN3A.
+-!- SUBUNIT: Interacts with FNBP3 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Note=Colocalized
+    with methyl-CpG in the genome (By similarity).
+-!- SIMILARITY: Contains 2 A.T hook DNA-binding domains.
+-!- SIMILARITY: Contains 1 MBD (methyl-CpG-binding) domain.
+DNA-binding; Nuclear protein; Phosphorylation; Repeat; Repressor;
+Transcription; Transcription regulation.
+TMZERO

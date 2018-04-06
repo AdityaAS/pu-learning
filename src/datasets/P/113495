@@ -1,0 +1,24 @@
+AC   P29914;
+NADH-quinone oxidoreductase chain 2 (EC 1.6.99.5) (NADH dehydrogenase
+I, chain 2) (NDH-1, chain 2).
+"Characterization of the 25-kilodalton subunit of the energy-
+transducing NADH-ubiquinone oxidoreductase of Paracoccus
+denitrificans: sequence similarity to the 24-kilodalton subunit of the
+flavoprotein fraction of mammalian complex I.";
+"Identification of amino acid residues associated with the [2Fe-2S]
+cluster of the 25 kDa (NQO2) subunit of the proton-translocating NADH-
+quinone oxidoreductase of Paracoccus denitrificans.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain. The
+    immediate electron acceptor for the enzyme in this species is
+    believed to be ubiquinone. Couples the redox reaction to proton
+    translocation (for every two electrons transferred, four hydrogen
+    ions are translocated across the cytoplasmic membrane), and thus
+    conserves the redox energy in a proton gradient.
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- COFACTOR: Binds 1 2Fe-2S cluster (Potential).
+-!- SUBUNIT: Composed of 14 different subunits.
+-!- SIMILARITY: Belongs to the complex I 24 kDa subunit family.
+2Fe-2S; Direct protein sequencing; Iron; Iron-sulfur; Metal-binding;
+NAD; Oxidoreductase; Quinone; Ubiquinone.
+TMZERO

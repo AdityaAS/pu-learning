@@ -1,0 +1,30 @@
+AC   P13861; Q16823;
+cAMP-dependent protein kinase type II-alpha regulatory subunit.
+"Human testis cDNA for the regulatory subunit RII alpha of cAMP-
+dependent protein kinase encodes an alternate amino-terminal region.";
+"Molecular cloning, upstream sequence and promoter studies of the
+human gene for the regulatory subunit RII alpha of cAMP-dependent
+protein kinase.";
+"Phosphoproteomic analysis of the human pituitary.";
+-!- FUNCTION: Type II regulatory chains mediate membrane association
+    by binding to anchoring proteins, including the MAP2 kinase.
+-!- SUBUNIT: The inactive form of the enzyme is composed of two
+    regulatory chains and two catalytic chains. Activation by cAMP
+    produces two active catalytic monomers and a regulatory dimer that
+    binds four cAMP molecules. Interacts with AKAP4.
+-!- TISSUE SPECIFICITY: Four types of regulatory chains are found: I-
+    alpha, I-beta, II-alpha, and II-beta. Their expression varies
+    among tissues and is in some cases constitutive and in others
+    inducible.
+-!- PTM: Phosphorylated by the activated catalytic chain.
+-!- SIMILARITY: Belongs to the cAMP-dependent kinase regulatory chain
+    family.
+-!- SIMILARITY: Contains 2 cyclic nucleotide-binding domains.
+ GO:0005737; C:cytoplasm; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0008603; F:cAMP-dependent protein kinase regulator act...; NAS:UniProtKB.
+ GO:0007242; P:intracellular signaling cascade; TAS:ProtInc.
+3D-structure; Acetylation; cAMP; cAMP-binding; Nucleotide-binding;
+Phosphorylation; Repeat.
+TMZERO

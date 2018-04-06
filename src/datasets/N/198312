@@ -1,0 +1,28 @@
+AC   Q9D132;
+Uroplakin-1a (Uroplakin Ia) (UPIa) (UPKa).
+"Uroplakin Ia is the urothelial receptor for uropathogenic Escherichia
+coli: evidence from in vitro FimH binding.";
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: Component of the asymmetric unit membrane (AUM); a
+    highly specialized biomembrane elaborated by terminally
+    differentiated urothelial cells. May play an important role in
+    normal bladder epithelial physiology, possibly in regulating
+    membrane permeability of superficial umbrella cells or in
+    stabilizing the apical membrane through AUM/cytoskeletal
+    interactions (By similarity).
+-!- SUBUNIT: Homodimer; disulfide-linked (By similarity). Binds to
+    uropathogenic E.coli fimH.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the tetraspanin (TM4SF) family.
+ GO:0005783; C:endoplasmic reticulum; ISS:UniProtKB.
+ GO:0016021; C:integral to membrane; TAS:UniProtKB.
+ GO:0005886; C:plasma membrane; ISS:UniProtKB.
+ GO:0048029; F:monosaccharide binding; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0042803; F:protein homodimerization activity; ISS:UniProtKB.
+ GO:0006897; P:endocytosis; TAS:UniProtKB.
+ GO:0030855; P:epithelial cell differentiation; ISS:UniProtKB.
+ GO:0051259; P:protein oligomerization; ISS:UniProtKB.
+ GO:0007165; P:signal transduction; TAS:UniProtKB.
+Glycoprotein; Membrane; Transmembrane.
+TMFOUR

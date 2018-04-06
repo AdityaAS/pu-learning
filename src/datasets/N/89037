@@ -1,0 +1,19 @@
+AC   P47458;
+Pyruvate kinase (EC 2.7.1.40) (PK).
+"The minimal gene complement of Mycoplasma genitalium.";
+"A survey of the Mycoplasma genitalium genome by using random
+sequencing.";
+-!- CATALYTIC ACTIVITY: ATP + pyruvate = ADP + phosphoenolpyruvate.
+-!- COFACTOR: Magnesium.
+-!- COFACTOR: Potassium.
+-!- ENZYME REGULATION: Regulated by phosphoenolpyruvate substrate and
+    is allosterically activated by ribose-5-phosphate, AMP and other
+    nucleoside monophosphates but not by fructose-1,6-bisphosphate (By
+    similarity).
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 5 [final step].
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the pyruvate kinase family.
+Allosteric enzyme; Complete proteome; Glycolysis; Kinase; Magnesium;
+Metal-binding; Pyruvate; Transferase.
+TMZERO

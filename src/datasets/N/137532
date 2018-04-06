@@ -1,0 +1,33 @@
+AC   P07275;
+Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial precursor
+(EC 1.5.1.12) (P5C dehydrogenase).
+"Primary structure of the nuclear PUT2 gene involved in the
+mitochondrial pathway for proline utilization in Saccharomyces
+cerevisiae.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"A regulatory region responsible for proline-specific induction of the
+yeast PUT2 gene is adjacent to its TATA box.";
+"Yeast mitochondrial dehydrogenases are associated in a supramolecular
+complex.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: 1-pyrroline-5-carboxylate + NAD(+) + H(2)O =
+    L-glutamate + NADH.
+-!- PATHWAY: Amino-acid biosynthesis; L-glutamate biosynthesis; L-
+    glutamate from L-proline: step 2 [final step].
+-!- INTERACTION:
+    Self; NbExp=1; IntAct=EBI-14303, EBI-14303;
+    P10592:SSA2; NbExp=1; IntAct=EBI-14303, EBI-8603;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- INDUCTION: By proline and is regulated by a common control element
+    encoded by the PUT3 gene.
+-!- MISCELLANEOUS: Present with 17200 molecules/cell.
+-!- SIMILARITY: Belongs to the aldehyde dehydrogenase family.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0003842; F:1-pyrroline-5-carboxylate dehydrogenase act...; IMP:SGD.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+ GO:0006537; P:glutamate biosynthesis; TAS:SGD.
+ GO:0010133; P:proline catabolism to glutamate; IMP:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion; NAD;
+Oxidoreductase; Proline metabolism; Transit peptide.
+TMZERO

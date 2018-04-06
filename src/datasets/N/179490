@@ -1,0 +1,15 @@
+AC   Q4ZWL5;
+Aspartyl-tRNA synthetase (EC 6.1.1.12) (Aspartate--tRNA ligase)
+(AspRS).
+"Comparison of the complete genome sequences of Pseudomonas syringae
+pv. syringae B728a and pv. tomato DC3000.";
+-!- CATALYTIC ACTIVITY: ATP + L-aspartate + tRNA(Asp) = AMP +
+    diphosphate + L-aspartyl-tRNA(Asp).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

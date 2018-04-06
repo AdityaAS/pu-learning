@@ -1,0 +1,17 @@
+AC   Q51518;
+Probable isochorismatase (EC 3.3.2.1) (2,3 dihydro-2,3
+dihydroxybenzoate synthase).
+"Molecular analysis of genes encoding phenazine biosynthesis in the
+biological control bacterium. Pseudomonas aureofaciens 30-84.";
+-!- FUNCTION: Involved in the biosynthesis of the antibiotic
+    phenazine, a nitrogen-containing heterocyclic molecule having
+    important roles in virulence, competition and biological control.
+    This isochorismatase may remove pyruvate from chorismate during
+    the formation of the phenazine ring structure and/or stabilize the
+    phenazine biosynthetic complex.
+-!- CATALYTIC ACTIVITY: Isochorismate + H(2)O = 2,3-dihydroxy-2,3-
+    dihydrobenzoate + pyruvate.
+-!- PATHWAY: Phenazine biosynthesis.
+-!- SIMILARITY: Belongs to the isochorismatase family.
+Antibiotic biosynthesis; Hydrolase; Virulence.
+TMZERO

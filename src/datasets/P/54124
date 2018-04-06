@@ -1,0 +1,21 @@
+AC   P40988;
+Low-affinity Fe(II) transport protein.
+"The FET4 gene encodes the low affinity Fe(II) transport protein of
+Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Required for Fe(2+) ion low affinity uptake.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: By iron deprivation.
+-!- MISCELLANEOUS: Present with 573 molecules/cell.
+ GO:0005887; C:integral to plasma membrane; IDA:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0005381; F:iron ion transporter activity; IMP:SGD.
+ GO:0015680; P:intracellular copper ion transport; IMP:SGD.
+ GO:0000040; P:low affinity iron ion transport; IMP:SGD.
+Complete proteome; Ion transport; Iron; Iron transport; Membrane;
+Transmembrane; Transport.
+TMSEVEN

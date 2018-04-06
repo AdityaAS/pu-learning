@@ -1,0 +1,20 @@
+AC   P00059;
+Cytochrome c.
+"The amino acid sequence of cytochrome c from Abutilon theophrasti
+Medic. and Gossypium barbadense L. (cotton).";
+-!- FUNCTION: Electron carrier protein. The oxidized form of the
+    cytochrome c heme group can accept an electron from the heme group
+    of the cytochrome c1 subunit of cytochrome reductase. Cytochrome c
+    then transfers this electron to the cytochrome oxidase complex,
+    the final protein carrier in the mitochondrial electron-transport
+    chain.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix.
+-!- PTM: Binds 1 heme group per subunit.
+-!- SIMILARITY: Belongs to the cytochrome c family.
+-!- WEB RESOURCE: NAME=Protein Spotlight;
+    NOTE=Life shuttle - Issue 76 of November 2006;
+    URL="http://www.expasy.org/spotlight/back_issues/sptlt076.shtml".
+Acetylation; Direct protein sequencing; Electron transport; Heme;
+Iron; Metal-binding; Methylation; Mitochondrion; Respiratory chain;
+Transport.
+TMZERO

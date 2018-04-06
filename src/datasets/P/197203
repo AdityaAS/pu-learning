@@ -1,0 +1,48 @@
+AC   P13272; P07588; Q1LZH6;
+Ubiquinol-cytochrome c reductase iron-sulfur subunit, mitochondrial
+precursor (EC 1.10.2.2) (Rieske iron-sulfur protein) (RISP) [Contains:
+Ubiquinol-cytochrome c reductase 8 kDa protein (Complex III subunit
+IX)].
+"Cloning and sequencing of a cDNA encoding the Rieske iron-sulfur
+protein of bovine heart mitochondrial ubiquinol-cytochrome c
+reductase.";
+"The mitochondrial targeting presequence of the Rieske iron-sulfur
+protein is processed in a single step after insertion into the
+cytochrome bc1 complex in mammals and retained as a subunit in the
+complex.";
+"Isolation and amino acid sequence of the 8 kDa DCCD-binding protein
+of beef heart ubiquinol:cytochrome c reductase.";
+"Isolation and amino acid sequence of the 'Rieske' iron sulfur protein
+of beef heart ubiquinol:cytochrome c reductase.";
+"Structure of a water soluble fragment of the 'Rieske' iron-sulfur
+protein of the bovine heart mitochondrial cytochrome bc1 complex
+determined by MAD phasing at 1.5-A resolution.";
+"Crystal structure of the cytochrome bc1 complex from bovine heart
+mitochondria.";
+"Complete structure of the 11-subunit bovine mitochondrial cytochrome
+bc1 complex.";
+-!- FUNCTION: Component of the ubiquinol-cytochrome c reductase
+    complex (complex III or cytochrome b-c1 complex), which is a
+    respiratory chain that generates an electrochemical potential
+    coupled to ATP synthesis.
+-!- FUNCTION: The transit peptide of the Rieske protein seems to form
+    part of the bc1 complex in beef and is considered to be the
+    subunit IX of that complex.
+-!- CATALYTIC ACTIVITY: QH(2) + 2 ferricytochrome c = Q + 2
+    ferrocytochrome c.
+-!- COFACTOR: Binds 1 2Fe-2S cluster per subunit.
+-!- SUBUNIT: The bc1 complex contains 11 subunits; 3 respiratory
+    subunits (cytochrome b, cytochrome c1, Rieske protein), 2 core
+    proteins and 6 low-molecular weight proteins.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- MISCELLANEOUS: The Rieske protein is a high potential 2Fe-2S
+    protein.
+-!- SIMILARITY: Contains 1 Rieske domain.
+-!- CAUTION: Ref.1 (AAA30515) sequence differs from that shown due to
+    several frameshifts. Frameshifts and probable sequencing errors
+    occur in the region of the transit peptide (1-78).
+2Fe-2S; 3D-structure; Direct protein sequencing; Electron transport;
+Inner membrane; Iron; Iron-sulfur; Membrane; Metal-binding;
+Mitochondrion; Oxidoreductase; Respiratory chain; Transit peptide;
+Transmembrane; Transport.
+TMZERO

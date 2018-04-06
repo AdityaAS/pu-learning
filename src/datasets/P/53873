@@ -1,0 +1,21 @@
+AC   P0AEL6; P14609; Q2MBK9;
+Ferrienterobactin-binding periplasmic protein precursor.
+"Nucleotide sequence and regulation of the Escherichia coli gene for
+ferrienterobactin transport protein FepB.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Regulation of divergent transcription from the iron-responsive fepB-
+entC promoter-operator regions in Escherichia coli.";
+"Escherichia coli periplasmic protein FepB binds ferrienterobactin.";
+-!- FUNCTION: Binds ferrienterobactin; part of the binding-protein-
+    dependent transport system for uptake of ferrienterobactin.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- INDUCTION: Controlled in part by the amount of available iron.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 8
+    family.
+-!- SIMILARITY: Contains 1 Fe/B12 periplasmic-binding domain.
+Complete proteome; Ion transport; Iron; Iron transport; Periplasmic;
+Signal; Transport.
+TMZERO

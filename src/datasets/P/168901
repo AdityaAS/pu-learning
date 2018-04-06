@@ -1,0 +1,33 @@
+AC   P61619; P38378; P57726; Q5JPF8; Q8N0Z4; Q8N3U3; Q8NC71; Q9BU16;
+AC   Q9Y2R3;
+Protein transport protein Sec61 subunit alpha isoform 1 (Sec61 alpha-
+1).
+"Human sec61 homolog gene.";
+"Human sec61 homolog gene mRNA sequence.";
+"Sec61 alpha isoforms.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Plays a crucial role in the insertion of secretory and
+    membrane polypeptides into the ER. Required for assembly of
+    membrane and secretory proteins. Tightly associated with membrane-
+    bound ribosomes, either directly or through adapter proteins.
+-!- SUBUNIT: Heterotrimeric complex composed of SEC61-alpha, SEC61-
+    beta and SEC61-gamma.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=P61619-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P61619-2; Sequence=VSP_013746;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=P61619-3; Sequence=VSP_013747;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the secY/SEC61-alpha family.
+Alternative splicing; Endoplasmic reticulum; Membrane;
+Protein transport; Translocation; Transmembrane; Transport.
+TMTEN

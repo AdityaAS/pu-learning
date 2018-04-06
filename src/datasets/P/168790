@@ -1,0 +1,16 @@
+AC   Q61420;
+CMP-sialic acid transporter (CMP-Sia-Tr) (CMP-SA-Tr) (Solute carrier
+family 35 member A1).
+"Expression cloning of the Golgi CMP-sialic acid transporter.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Transport CMP-sialic acid from the cytosol into Golgi
+    vesicles where glycosyltransferases function.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Found in all the tissues examined including
+    skeletal muscle, brain, heart, liver, kidney and spleen.
+-!- SIMILARITY: Belongs to the nucleotide-sugar transporter family.
+    SLC35A subfamily.
+Golgi apparatus; Membrane; Sugar transport; Transmembrane; Transport.
+TMSEVEN

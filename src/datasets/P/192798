@@ -1,0 +1,13 @@
+AC   P96119; O83198;
+Zinc transport system membrane protein troD.
+"Identification and transcriptional analysis of a Treponema pallidum
+operon encoding a putative ABC transport system, an iron-activated
+repressor protein homolog, and a glycolytic pathway enzyme homolog.";
+"Complete genome sequence of Treponema pallidum, the syphilis
+spirochete.";
+-!- FUNCTION: Part of an ATP-driven transport system troABCD for zinc.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC-3 integral membrane protein family.
+Complete proteome; Ion transport; Membrane; Transmembrane; Transport;
+Zinc; Zinc transport.
+TMNINE

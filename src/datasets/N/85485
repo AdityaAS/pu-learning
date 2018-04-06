@@ -1,0 +1,66 @@
+AC   Q13387; Q96G62; Q99771; Q9NZ59; Q9UKQ4;
+C-jun-amino-terminal kinase-interacting protein 2 (JNK-interacting
+protein 2) (JIP-2) (JNK MAP kinase scaffold protein 2) (Islet-brain-2)
+(IB-2) (Mitogen-activated protein kinase 8-interacting protein 2).
+"The JIP group of mitogen-activated protein kinase scaffold
+proteins.";
+"cDNA cloning and mapping of a novel islet-brain/JNK interacting
+protein.";
+"The DNA sequence of human chromosome 22.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Reevaluating human gene annotation: a second-generation analysis of
+chromosome 22.";
+-!- FUNCTION: The JNK-interacting protein (JIP) group of scaffold
+    proteins selectively mediates JNK signaling by aggregating
+    specific components of the MAPK cascade to form a functional JNK
+    signaling module. JIP2 inhibits IL1 beta-induced apoptosis in
+    insulin-secreting cells. May function as a regulator of vesicle
+    transport, through interations with the JNK-signaling components
+    and motor proteins (By similarity).
+-!- SUBUNIT: Forms homo- or heterooligomeric complexes. Binds specific
+    components of the JNK signaling pathway namely JNK, MAPKK7 and
+    MLK2, MLK3 and DLK. Also binds the proline-rich domain-containing
+    splice variant of apolipoprotein E receptor 2 (ApoER2). Binds the
+    cytoplasmic tails of LRP1 and LRP2 (Megalin). Binds the TPR motif-
+    containing C-terminal of kinesin light chain, Klc1, pre-assembled
+    MAPK8IP1 scaffolding complexes are then transported as a cargo of
+    kinesin, to the required subcellular location (By similarity).
+    Interacts with the cytoplasmic domain of APP (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm. Note=Accumulates in cell surface
+    projections.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+      Comment=Experimental confirmation may be lacking for some
+      isoforms;
+    Name=1;
+      IsoId=Q13387-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q13387-2; Sequence=VSP_002770;
+    Name=3;
+      IsoId=Q13387-3; Sequence=VSP_002770, VSP_002772, VSP_002773,
+                               VSP_002774;
+      Note=Might be artifactual as it is only predicted from a genomic
+      sequence;
+    Name=4;
+      IsoId=Q13387-4; Sequence=VSP_002771;
+-!- TISSUE SPECIFICITY: Expressed mainly in the brain and pancreas,
+    including insulin-secreting cells. In the nervous system, more
+    abundantly expressed in the cerebellum, pituitary gland, occipital
+    lobe and the amygdala. Also expressed in fetal brain. Very low
+    levels found in uterus, ovary, prostate, colon, testis, adrenal
+    gland, thyroid gland and salivary gland.
+-!- SIMILARITY: Belongs to the JIP scaffold family.
+-!- SIMILARITY: Contains 1 PID domain.
+-!- SIMILARITY: Contains 1 SH3 domain.
+ GO:0005737; C:cytoplasm; IEP:UniProtKB.
+ GO:0001540; F:beta-amyloid binding; NAS:UniProtKB.
+ GO:0019894; F:kinesin binding; ISS:UniProtKB.
+ GO:0005078; F:MAP-kinase scaffold activity; NAS:UniProtKB.
+ GO:0019901; F:protein kinase binding; IPI:UniProtKB.
+ GO:0005198; F:structural molecule activity; TAS:ProtInc.
+ GO:0045768; P:positive regulation of anti-apoptosis; NAS:UniProtKB.
+ GO:0046328; P:regulation of JNK cascade; IDA:UniProtKB.
+ GO:0007172; P:signal complex formation; TAS:ProtInc.
+Alternative splicing; SH3 domain.
+TMZERO

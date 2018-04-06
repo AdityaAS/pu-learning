@@ -1,0 +1,57 @@
+AC   P36655; P76796; Q2M6G8;
+Thiol:disulfide interchange protein dsbD precursor (EC 1.8.1.8)
+(Protein-disulfide reductase) (Disulfide reductase) (C-type cytochrome
+biogenesis protein cycZ) (Inner membrane copper tolerance protein).
+"Identification and characterization of a new disulfide isomerase-like
+protein (DsbD) in Escherichia coli.";
+"Molecular genetics of a chromosomal locus involved in copper
+tolerance in Escherichia coli K-12.";
+"The biogenesis of c-type cytochromes in Escherichia coli requires a
+membrane-bound protein, DipZ, with a protein disulphide isomerase-like
+domain.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Escherichia coli DipZ: anatomy of a transmembrane protein disulphide
+reductase in which three pairs of cysteine residues, one in each of
+three domains, contribute differentially to function.";
+"Transfer of electrons across the cytoplasmic membrane by DsbD, a
+membrane protein involved in thiol-disulphide exchange and protein
+folding in the bacterial periplasm.";
+"Specific thiol compounds complement deficiency in c-type cytochrome
+biogenesis in Escherichia coli carrying a mutation in a membrane-bound
+disulphide isomerase-like protein.";
+"Six conserved cysteines of the membrane protein DsbD are required for
+the transfer of electrons from the cytoplasm to the periplasm of
+Escherichia coli.";
+"Transmembrane electron transfer by the membrane protein DsbD occurs
+via a disulfide bond cascade.";
+"DsbD-catalyzed transport of electrons across the membrane of
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Required to facilitate the formation of correct
+    disulfide bonds in some periplasmic proteins and for the assembly
+    of the periplasmic c-type cytochromes. Acts by transferring
+    electrons from cytoplasmic thioredoxin to the periplasm, thereby
+    maintaining the active site of dsbC, dsbE and dsbG in a reduced
+    state. This transfer involves a cascade of disulfide bond
+    formation and reduction steps.
+-!- CATALYTIC ACTIVITY: Protein dithiol + NAD(P)(+) = protein
+    disulfide + NAD(P)H.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: The consequences of replacement of the cysteines
+    with alanines were found to depend on the conditions tested and on
+    the reporter system used for the analysis, and then differ
+    depending on the references.
+-!- SIMILARITY: Belongs to the thioredoxin family. DsbD subfamily.
+ GO:0047134; F:protein-disulfide reductase activity; IEA:EC.
+ GO:0006118; P:electron transport; IEA:HAMAP.
+3D-structure; Complete proteome; Cytochrome c-type biogenesis;
+Direct protein sequencing; Electron transport; Inner membrane;
+Membrane; NAD; Oxidoreductase; Redox-active center; Signal;
+Transmembrane; Transport.
+TMEIGHT

@@ -1,0 +1,18 @@
+AC   Q1T763;
+Centromere protein R (CENP-R) (Nuclear receptor-interacting factor 3).
+"The CENP-H-I complex is required for the efficient incorporation of
+newly synthesized CENP-A into centromeres.";
+-!- FUNCTION: Transcription coregulator that can have both coactivator
+    and corepressor functions. Involved in the coactivation of nuclear
+    receptors for retinoid X (RXRs) and thyroid hormone (TRs) in a
+    ligand-dependent fashion. Probable component of a centromeric
+    complex involved in assembly of kinetochore proteins, mitotic
+    progression and chromosome segregation (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Centromere (By
+    similarity). Note=Localizes in the centromeres (By similarity).
+-!- DOMAIN: Contains one Leu-Xaa-Xaa-Leu-Leu (LXXLL) motif, a motif
+    known to be important for the association with nuclear receptors
+    (By similarity).
+Activator; Centromere; Chromosomal protein; Nuclear protein;
+Repressor; Transcription; Transcription regulation.
+TMZERO

@@ -1,0 +1,17 @@
+AC   Q5F356;
+Phosphatidylinositol-4-phosphate 5-kinase type-2 alpha (EC 2.7.1.68)
+(Phosphatidylinositol-4-phosphate 5-kinase type II alpha) (1-
+phosphatidylinositol-4-phosphate 5-kinase 2-alpha) (PtdIns(4)P-5-
+kinase isoform 2-alpha) (PIP5KII-alpha) (Diphosphoinositide kinase 2-
+alpha).
+"Full-length cDNAs from chicken bursal lymphocytes to facilitate gene
+function analysis.";
+-!- FUNCTION: Catalyzes the phosphorylation of phosphatidylinositol-4-
+    phosphate on the fifth hydroxyl of the myo-inositol ring, to form
+    phosphatidylinositol-4,5-biphosphate (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + 1-phosphatidyl-1D-myo-inositol 4-
+    phosphate = ADP + 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Contains 1 PI5K domain.
+Kinase; Transferase.
+TMZERO

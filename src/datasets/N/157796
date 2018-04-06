@@ -1,0 +1,11 @@
+AC   Q75CF3;
+26S proteasome regulatory subunit RPN2.
+"The Ashbya gossypii genome as a tool for mapping the ancient
+Saccharomyces cerevisiae genome.";
+-!- FUNCTION: Acts as a regulatory subunit of the 26S proteasome which
+    is involved in the ATP-dependent degradation of ubiquitinated
+    proteins (By similarity).
+-!- SIMILARITY: Belongs to the proteasome subunit S1 family.
+-!- SIMILARITY: Contains 10 PC repeats.
+Complete proteome; Proteasome; Repeat.
+TMZERO

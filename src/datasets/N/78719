@@ -1,0 +1,23 @@
+AC   P70217; Q2VPB0; Q2VPB1; Q64177;
+Homeobox protein Hox-D13 (Hox-4.8).
+"Function of the Evx-2 gene in the morphogenesis of vertebrate
+limbs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The Hox-4.8 gene is localized at the 5' extremity of the Hox-4
+complex and is expressed in the most posterior parts of the body
+during development.";
+-!- FUNCTION: Sequence-specific transcription factor which is part of
+    a developmental regulatory system that provides cells with
+    specific positional identities on the anterior-posterior axis.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the Abd-B homeobox family.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0030326; P:embryonic limb morphogenesis; IMP:MGI.
+ GO:0007389; P:pattern specification; IMP:MGI.
+ GO:0042127; P:regulation of cell proliferation; IMP:MGI.
+ GO:0001501; P:skeletal development; IMP:MGI.
+Developmental protein; DNA-binding; Homeobox; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

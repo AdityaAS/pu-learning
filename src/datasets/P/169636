@@ -1,0 +1,21 @@
+AC   P31636;
+Low affinity sodium-glucose cotransporter (Sodium/glucose
+cotransporter 3) (Na(+)/glucose cotransporter 3).
+"Cloning and expression of a mammalian Na+/amino acid cotransporter
+with sequence similarity to Na+/glucose cotransporters.";
+"SAAT1 is a low affinity Na+/glucose cotransporter and not an amino
+acid transporter. A reinterpretation.";
+-!- FUNCTION: Sodium-dependent glucose transporter. Has a Na+ to
+    glucose coupling ratio of 1:1.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Kidney, intestine, liver, skeletal muscle and
+    spleen.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+-!- CAUTION: Was originally (Ref.1) thought to be a sodium/neutral
+    amino acid cotransporter (system a neutral amino acid transporter)
+    responsible for the sodium-dependent intake of neutral amino acids
+    such as alanine, glycine, serine, cysteine, and proline.
+Glycoprotein; Ion transport; Membrane; Sodium; Sodium transport;
+Sugar transport; Symport; Transmembrane; Transport.
+TMELEVEN

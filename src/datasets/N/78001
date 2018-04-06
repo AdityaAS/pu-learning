@@ -1,0 +1,11 @@
+AC   Q8ZT30;
+Probable protease htpX homolog (EC 3.4.24.-).
+"Genome sequence of the hyperthermophilic crenarchaeon Pyrobaculum
+aerophilum.";
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the peptidase M48B family.
+Complete proteome; Hydrolase; Membrane; Metal-binding;
+Metalloprotease; Protease; Transmembrane; Zinc.
+TMSIX

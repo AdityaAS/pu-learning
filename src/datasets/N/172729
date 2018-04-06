@@ -1,0 +1,17 @@
+AC   Q5R8K3;
+SRA stem-loop-interacting RNA-binding protein, mitochondrial
+precursor.
+-!- FUNCTION: RNA-binding protein that acts as a nuclear receptor
+    corepressor. Probably acts by binding the SRA RNA, and repressing
+    the SRA-mediated nuclear receptor coactivation. Binds the STR7
+    loop of SRA RNA. Also able to repress glucocorticoid (GR),
+    androgen (AR), thyroid (TR) and VDR-mediated transactivation (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion (By similarity). Nucleus (By
+    similarity). Note=Predominantly mitochondrial. Some fraction is
+    nuclear. In the nucleus, it is recruited to nuclear receptor
+    target promoters (By similarity).
+-!- SIMILARITY: Contains 1 RRM (RNA recognition motif) domain.
+Mitochondrion; Nuclear protein; Repressor; RNA-binding; Transcription;
+Transcription regulation; Transit peptide.
+TMZERO

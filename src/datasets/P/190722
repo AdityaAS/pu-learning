@@ -1,0 +1,18 @@
+AC   P17452; Q57008;
+Dermonecrotic toxin (DNT) (PMT) (Mitogenic toxin).
+"The complete nucleotide sequence of the Pasteurella multocida toxin
+gene and evidence for a transcriptional repressor, TxaR.";
+"Sequence of the dermonecrotic toxin of Pasteurella multocida ssp.
+multocida.";
+"Sequence analysis of the potent mitogenic toxin of Pasteurella
+multocida.";
+-!- FUNCTION: This is a dermonecrotic toxin. This osteolytic toxin,
+    induces bone resorption. Potent mitogen. This toxin is associated
+    with the severe progressive form of the atrophic rhinitis, a major
+    respiratory disease in pigs.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- MISCELLANEOUS: Closely spaced cysteine and histidine residues may
+    provide the toxin with an affinity for metal.
+-!- MISCELLANEOUS: The sequence shown is that of strain NCTC 12178.
+Membrane; Toxin; Transmembrane.
+TMONE

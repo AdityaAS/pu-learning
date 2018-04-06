@@ -1,0 +1,13 @@
+AC   O35736;
+Interleukin-6 precursor (IL-6).
+"Molecular cloning of the woodchuck cytokines: TNF-alpha, IFN-gamma,
+and IL-6.";
+-!- FUNCTION: IL-6 is a cytokine with a wide variety of biological
+    functions: it plays an essential role in the final differentiation
+    of B-cells into Ig-secreting cells, it induces myeloma and
+    plasmacytoma growth, it induces nerve cells differentiation, in
+    hepatocytes it induces acute phase reactants (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the IL-6 superfamily.
+Acute phase; Cytokine; Growth factor; Signal.
+TMZERO

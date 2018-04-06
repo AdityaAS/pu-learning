@@ -1,0 +1,7 @@
+AC   Q88VK3;
+UPF0090 protein lp_2044.
+"Complete genome sequence of Lactobacillus plantarum WCFS1.";
+-!- SIMILARITY: Belongs to the UPF0090 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

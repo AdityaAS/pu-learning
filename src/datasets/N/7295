@@ -1,0 +1,15 @@
+AC   P07457; P19610;
+Ice-structuring protein SP1-C precursor (ISP SP1-C) (Antifreeze
+protein SP1-C).
+"Structure of an antifreeze polypeptide and its precursor from the
+ocean pout, Macrozoarces americanus.";
+"Multiple genes provide the basis for antifreeze protein diversity and
+dosage in the ocean pout, Macrozoarces americanus.";
+-!- FUNCTION: Antifreeze proteins lower the blood freezing point by
+    absorbing ice and inhibiting its growth.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the type-III AFP family.
+-!- SIMILARITY: Contains 1 AFP-like domain.
+Antifreeze protein; Direct protein sequencing;
+Pyrrolidone carboxylic acid; Signal.
+TMZERO

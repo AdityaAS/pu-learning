@@ -1,0 +1,23 @@
+AC   Q09172;
+Protein phosphatase 2C homolog 2 (EC 3.1.3.16) (PP2C-2).
+"Counteractive roles of protein phosphatase 2C (PP2C) and a MAP kinase
+kinase homolog in the osmoregulation of fission yeast.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Has an important role in osmotic stability and cell
+    shape control. It may negatively regulate the osmosensing signal
+    transmitted through wis1 map kinase.
+-!- CATALYTIC ACTIVITY: A phosphoprotein + H(2)O = a protein +
+    phosphate.
+-!- COFACTOR: Binds 2 magnesium or manganese ions per subunit (By
+    similarity).
+-!- SUBUNIT: Monomer.
+-!- SIMILARITY: Belongs to the PP2C family.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0015071; F:protein phosphatase type 2C activity; IDA:GeneDB_SPombe.
+ GO:0000173; P:inactivation of MAPK activity during osmola...; IMP:GeneDB_SPombe.
+ GO:0006470; P:protein amino acid dephosphorylation; IDA:GeneDB_SPombe.
+ GO:0006970; P:response to osmotic stress; IMP:GeneDB_SPombe.
+Complete proteome; Hydrolase; Magnesium; Manganese; Metal-binding;
+Protein phosphatase.
+TMZERO

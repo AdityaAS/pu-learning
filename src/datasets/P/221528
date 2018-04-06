@@ -1,0 +1,11 @@
+AC   P0AA68; P36545; P75784;
+Inner membrane transport protein ybiF.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the eamA transporter family.
+-!- SIMILARITY: Contains 2 DUF6 domains.
+Complete proteome; Inner membrane; Membrane; Repeat; Transmembrane;
+Transport.
+TMTEN

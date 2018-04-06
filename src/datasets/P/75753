@@ -1,0 +1,23 @@
+AC   Q56993;
+Hemin import ATP-binding protein hmuV (EC 3.6.3.-).
+"Molecular characterization of the hemin uptake locus (hmu) from
+Yersinia pestis and analysis of hmu mutants for hemin and hemoprotein
+utilization.";
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: Part of the ABC transporter complex hmuTUV involved in
+    hemin import. Responsible for energy coupling to the transport
+    system (Probable).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (hmuV), two transmembrane proteins (hmuU) and a solute-binding
+    protein (hmuT) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Heme (hemin)
+    importer (TC 3.A.1.14.5) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Nucleotide-binding; Transport.
+TMZERO

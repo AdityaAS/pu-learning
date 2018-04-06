@@ -1,0 +1,33 @@
+AC   P07251; Q92449;
+ATP synthase subunit alpha, mitochondrial precursor (EC 3.6.3.14).
+"Nuclear genes encoding the yeast mitochondrial ATPase complex.
+Analysis of ATP1 coding the F1-ATPase alpha-subunit and its
+assembly.";
+"Sequence analysis of a 78.6 kb segment of the left end of
+Saccharomyces cerevisiae chromosome II.";
+"Complete DNA sequence of yeast chromosome II.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Yeast mitochondrial dehydrogenases are associated in a supramolecular
+complex.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane. The alpha chain is a regulatory
+    subunit.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- MISCELLANEOUS: Present with 41500 molecules/cell.
+-!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+ GO:0042645; C:mitochondrial nucleoid; IDA:SGD.
+ GO:0005754; C:proton-transporting ATP synthase, catalytic...; IMP:SGD.
+ GO:0015986; P:ATP synthesis coupled proton transport; IMP:SGD.
+ATP synthesis; ATP-binding; CF(1); Complete proteome;
+Hydrogen ion transport; Hydrolase; Inner membrane; Ion transport;
+Membrane; Mitochondrion; Nucleotide-binding; Transit peptide;
+Transport.
+TMZERO

@@ -1,0 +1,45 @@
+AC   P0A707; P02999; P76905;
+Translation initiation factor IF-3 [Contains: IF-3L; IF-3S].
+"The primary structure of the initiation factor IF-3 from Escherichia
+coli.";
+"Sequence of a 1.26-kb DNA fragment containing the structural gene for
+E.coli initiation factor IF3: presence of an AUU initiator codon.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Structure-function analysis of Escherichia coli translation
+initiation factor IF3: tyrosine 107 and lysine 110 are required for
+ribosome binding.";
+"AUU-to-AUG mutation in the initiator codon of the translation
+initiation factor IF3 abolishes translational autocontrol of its own
+gene (infC) in vivo.";
+"Site-directed mutagenesis and NMR spectroscopic approaches to the
+elucidation of the structure-function relationships in translation
+initiation factors IF1 and IF3.";
+"1H and 15N resonance assignments and structure of the N-terminal
+domain of Escherichia coli initiation factor 3.";
+"Heteronuclear NMR studies of E. coli translation initiation factor
+IF3. Evidence that the inter-domain region is disordered in
+solution.";
+"On the global architecture of initiation factor IF3: a comparative
+study of the linker regions from the Escherichia coli protein and the
+Bacillus stearothermophilus protein.";
+-!- FUNCTION: IF-3 binds to the 30S ribosomal subunit and shifts the
+    equilibrum between 70S ribosomes and their 50S and 30S subunits in
+    favor of the free subunits, thus enhancing the availability of 30S
+    subunits on which protein synthesis initiation begins.
+-!- FUNCTION: IF-3 is also a translational repressor protein, it
+    controls the translation of its own gene by binding to its mRNA.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: Exists in 2 main forms, IF-3L and IF-3S. There is
+    at least one minor form that differs from IF-3L only in the
+    absence of the first residue.
+-!- SIMILARITY: Belongs to the IF-3 family.
+ GO:0005737; C:cytoplasm; IDA:UniProtKB.
+3D-structure; Complete proteome; Direct protein sequencing;
+Initiation factor; Methylation; Protein biosynthesis; Repressor;
+RNA-binding; Translation regulation.
+TMZERO

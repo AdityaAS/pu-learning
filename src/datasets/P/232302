@@ -1,0 +1,14 @@
+AC   P0A8H4; P24198;
+Zinc transporter zupT.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Mediates zinc uptake. May also transport other divalent
+    cations (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ZIP transporter (TC 2.A.5) family. ZupT
+    subfamily.
+ GO:0006829; P:zinc ion transport; IEA:HAMAP.
+Complete proteome; Ion transport; Membrane; Transmembrane; Transport;
+Zinc; Zinc transport.
+TMEIGHT

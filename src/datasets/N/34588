@@ -1,0 +1,47 @@
+AC   P39880; Q6NYH4; Q9UEV5;
+Homeobox protein cut-like 1 (CCAAT displacement protein) (CDP).
+"Human CCAAT displacement protein is homologous to the Drosophila
+homeoprotein, cut.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Large-scale sequencing of two regions in human chromosome 7q22:
+analysis of 650 kb of genomic sequence around the EPO and CUTL1 loci
+reveals 17 genes.";
+"Exon/intron structure and alternative transcripts of the CUTL1
+gene.";
+-!- FUNCTION: Probably has a broad role in mammalian development as a
+    repressor of developmentally regulated gene expression. May act by
+    preventing binding of positively-activing CCAAT factors to
+    promoters. Plays an essential role in lung maturation (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=7;
+      Comment=Additional isoforms seem to exist;
+    Name=1;
+      IsoId=P39880-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P39880-2; Sequence=VSP_002310;
+    Name=3;
+      IsoId=P39880-3; Sequence=VSP_015747;
+      Note=No experimental confirmation available;
+    Name=5;
+      IsoId=P39880-4; Sequence=VSP_017358;
+    Name=6;
+      IsoId=P39880-5; Sequence=VSP_017359;
+    Name=7;
+      IsoId=P39880-6; Sequence=VSP_017358, VSP_017359;
+    Name=4; Synonyms=CASP;
+      IsoId=Q13948-1; Sequence=External;
+-!- MISCELLANEOUS: Asn-1290 may participate in regulating DNA-binding
+    activity by promoting homo- and heterodimerization.
+-!- SIMILARITY: Belongs to the CUT homeobox family.
+-!- SIMILARITY: Contains 3 CUT DNA-binding domains.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+ GO:0003702; F:RNA polymerase II transcription factor acti...; TAS:ProtInc.
+ GO:0007275; P:development; TAS:ProtInc.
+ GO:0000122; P:negative regulation of transcription from R...; TAS:ProtInc.
+Alternative splicing; Coiled coil; Developmental protein; DNA-binding;
+Homeobox; Nuclear protein; Repeat; Repressor; Transcription;
+Transcription regulation.
+TMZERO

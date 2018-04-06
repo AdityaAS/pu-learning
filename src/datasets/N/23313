@@ -1,0 +1,21 @@
+AC   Q7ZX42;
+Cell division protein kinase 9-B (EC 2.7.11.22) (EC 2.7.11.23)
+(Cyclin-dependent kinase 9-B).
+-!- FUNCTION: Member of the cyclin-dependent kinase pair (CDK9/cyclin-
+    T) complex, also called positive transcription elongation factor B
+    (P-TEFb), which is proposed to facilitate the transition from
+    abortive to production elongation by phosphorylating the CTD (C-
+    terminal domain) of the large subunit of RNA polymerase II (RNAP
+    II) and SUPT5H (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- CATALYTIC ACTIVITY: ATP + [DNA-directed RNA polymerase] = ADP +
+    [DNA-directed RNA polymerase] phosphate.
+-!- SUBUNIT: Associates with cyclin-T to form P-TEFb (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+    CDC2/CDKX subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ATP-binding; Kinase; Nuclear protein; Nucleotide-binding;
+Serine/threonine-protein kinase; Transcription;
+Transcription regulation; Transferase.
+TMZERO

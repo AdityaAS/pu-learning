@@ -1,0 +1,14 @@
+AC   P26591;
+Glutamate receptor precursor.
+"Cloning of a cDNA that encodes an invertebrate glutamate receptor
+subunit.";
+-!- FUNCTION: Receptor for glutamate. L-glutamate acts as an
+    excitatory neurotransmitter at many synapses in the central
+    nervous system. The postsynaptic actions of Glu are mediated by a
+    variety of receptors.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the glutamate-gated ion channel (TC 1.A.10)
+    family.
+Glycoprotein; Ion transport; Ionic channel; Membrane;
+Postsynaptic membrane; Receptor; Signal; Transmembrane; Transport.
+TMFOUR

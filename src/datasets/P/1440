@@ -1,0 +1,117 @@
+AC   Q09428; O75948; Q16583;
+ATP-binding cassette transporter sub-family C member 8 (Sulfonylurea
+receptor 1).
+"Human beta cell sulfonylurea receptor, SUR1, expression.";
+"Mutations in the sulfonylurea receptor gene in familial persistent
+hyperinsulinemic hypoglycemia of infancy.";
+"Membrane topology of the amino-terminal region of the sulfonylurea
+receptor.";
+"Molecular biology of adenosine triphosphate-sensitive potassium
+channels.";
+"Congenital hyperinsulinism: molecular basis of a heterogeneous
+disease.";
+"Inactivation of the first nucleotide-binding fold of the sulfonylurea
+receptor, and familial persistent hyperinsulinemic hypoglycemia of
+infancy.";
+"Sequence variants in the sulfonylurea receptor (SUR) gene are
+associated with NIDDM in Caucasians.";
+"Mutations in the sulfonylurea receptor gene are associated with
+familial hyperinsulinism in Ashkenazi Jews.";
+"Adenosine diphosphate as an intracellular regulator of insulin
+secretion.";
+"Identification and functional analysis of sulfonylurea receptor 1
+variants in Japanese patients with NIDDM.";
+"Decreased tolbutamide-stimulated insulin secretion in healthy
+subjects with sequence variants in the high-affinity sulfonylurea
+receptor gene.";
+"Functional analyses of novel mutations in the sulfonylurea receptor 1
+associated with persistent hyperinsulinemic hypoglycemia of infancy.";
+"Genetic heterogeneity in familial hyperinsulinism.";
+"Paternal mutation of the sulfonylurea receptor (SUR1) gene and
+maternal loss of 11p15 imprinted genes lead to persistent
+hyperinsulinism in focal adenomatous hyperplasia.";
+"A point mutation inactivating the sulfonylurea receptor causes the
+severe form of persistent hyperinsulinemic hypoglycemia of infancy in
+Finland.";
+"Intragenic single nucleotide polymorphism haplotype analysis of SUR1
+mutations in familial hyperinsulinism.";
+"Genetic analysis of Japanese patients with persistent
+hyperinsulinemic hypoglycemia of infancy: nucleotide-binding fold-2
+mutation impairs cooperative binding of adenine nucleotides to
+sulfonylurea receptor 1.";
+"Dominantly inherited hyperinsulinism caused by a mutation in the
+sulfonylurea receptor type 1.";
+"Defective trafficking and function of KATP channels caused by a
+sulfonylurea receptor 1 mutation associated with persistent
+hyperinsulinemic hypoglycemia of infancy.";
+"Identification of a familial hyperinsulinism-causing mutation in the
+sulfonylurea receptor 1 that prevents normal trafficking and function
+of KATP channels.";
+"Clinical and molecular characterization of a dominant form of
+congenital hyperinsulinism caused by a mutation in the high-affinity
+sulfonylurea receptor.";
+"Familial leucine-sensitive hypoglycemia of infancy due to a dominant
+mutation of the beta-cell sulfonylurea receptor.";
+"A heterozygous activating mutation in the sulphonylurea receptor SUR1
+(ABCC8) causes neonatal diabetes.";
+"Activating mutations in the ABCC8 gene in neonatal diabetes
+mellitus.";
+-!- FUNCTION: Putative subunit of the beta-cell ATP-sensitive
+    potassium channel (KATP). Regulator of ATP-sensitive K+ channels
+    and insulin release.
+-!- SUBUNIT: Associates with KCNJ11.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q09428-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q09428-2; Sequence=VSP_000055;
+-!- DISEASE: Defects in ABCC8 are a cause of leucine-induced
+    hypoglycemia (LIH) [MIM:240800]; also called leucine-sensitive
+    hypoglycemia of infancy. LIH is a rare cause of hypoglycemia and
+    is described as a condition in which symptomatic hypoglycemia is
+    provoked by high protein feedings. Hypoglicemia is also elicited
+    by administration of oral or intravenous infusions of a single
+    amino acid, leucine.
+-!- DISEASE: Defects in ABCC8 are a cause of persistent
+    hyperinsulinemic hypoglycemia of infancy (PHHI) [MIM:601820,
+    256450]; also referred to as familial or congenital
+    hyperinsulinism. PHHI is an autosomal recessive disorder
+    characterized by unregulated and high insulin secretion. It causes
+    nesidioblastosis, a diffuse abnormality of the pancreas in which
+    there is extensive, often disorganized formation of new islets.
+    PHHI has a variable clinical phenotype but usually presents during
+    the neonatal period or infancy with seizures, coma, and often
+    large birth weight for gestational age. Also dominantly inherited
+    forms are known.
+-!- DISEASE: Defects in ABCC8 are a cause of permanent neonatal
+    diabetes mellitus (PNDM) [MIM:606176]; also called permanent
+    diabetes mellitus of infancy (PDMI). PNDM is a rare form of
+    diabetes characterized by insulin-requiring hyperglycemia that is
+    diagnosed within the first months of life. Permanent neonatal
+    diabetes requires lifelong therapy.
+-!- DISEASE: Defects in ABCC8 are the cause of transient neonatal
+    diabetes mellitus 2 (TNDM2) [MIM:610374]. Neonatal diabetes is a
+    form of diabetes mellitus defined by the onset of mild-to-severe
+    hyperglycemia within the first months of life. Transient neonatal
+    diabetes remits early, with a possible relapse during adolescence.
+-!- DISEASE: Defects in ABCC8 may contribute to non-insulin-dependent
+    diabetes mellitus (NIDDM), also known as type II diabetes
+    mellitus, in Northern European Caucasians.
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ABCC8".
+ GO:0005524; F:ATP binding; TAS:ProtInc.
+ GO:0015079; F:potassium ion transporter activity; TAS:ProtInc.
+ GO:0008281; F:sulfonylurea receptor activity; TAS:ProtInc.
+ GO:0005975; P:carbohydrate metabolism; NAS:ProtInc.
+ GO:0006813; P:potassium ion transport; TAS:ProtInc.
+Alternative splicing; ATP-binding; Diabetes mellitus;
+Disease mutation; Glycoprotein; Membrane; Nucleotide-binding;
+Phosphorylation; Polymorphism; Receptor; Repeat; Transmembrane;
+Transport.
+TMSEVENTEEN

@@ -1,0 +1,22 @@
+AC   P0A440; P38480;
+Formyltetrahydrofolate deformylase (EC 3.5.1.10) (Formyl-FH(4)
+hydrolase).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Produces formate from formyl-tetrahydrofolate. Provides
+    the major source of formate for the purT-dependent synthesis of
+    5'-phosphoribosyl-N-formylglycinamide (FGAR) during aerobic
+    growth. Has a role in regulating the one-carbon pool.
+-!- CATALYTIC ACTIVITY: 10-formyltetrahydrofolate + H(2)O = formate +
+    tetrahydrofolate.
+-!- ENZYME REGULATION: Activated by methionine, inhibited by glycine
+    (By similarity).
+-!- PATHWAY: Nucleotide biosynthesis; IMP biosynthesis; formate from
+    10-formyltetrahydrofolate: single step.
+-!- PATHWAY: Context: Purine biosynthesis.
+-!- SUBUNIT: Homohexamer (By similarity).
+-!- SIMILARITY: Belongs to the purU family.
+-!- SIMILARITY: Contains 1 ACT domain.
+Complete proteome; Hydrolase; One-carbon metabolism;
+Purine biosynthesis.
+TMZERO

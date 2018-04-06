@@ -1,0 +1,58 @@
+AC   Q01083; Q8SXE0; Q9VIT4;
+Protein spitz precursor.
+"The Drosophila spitz gene encodes a putative EGF-like growth factor
+involved in dorsal-ventral axis formation and neurogenesis.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"The spitz gene is required for photoreceptor determination in the
+Drosophila eye where it interacts with the EGF receptor.";
+"Regulated intracellular ligand transport and proteolysis control EGF
+signal activation in Drosophila.";
+"EGF receptor signalling: roles of Star and Rhomboid revealed.";
+-!- FUNCTION: Ligand for the EGF receptor (Gurken). Involved in a
+    number of unrelated developmental choices, for example, dorsal-
+    ventral axis formation, glial migration, sensory organ
+    determination, and muscle development. It is required for
+    photoreceptor determination.
+-!- SUBUNIT: Interacts with Star via the lumenal domain.
+-!- INTERACTION:
+    Q9VBU0:CG11889; NbExp=1; IntAct=EBI-91342, EBI-130092;
+    Q9VJH6:CG13272; NbExp=1; IntAct=EBI-91342, EBI-135782;
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type I membrane
+    protein. Endoplasmic reticulum; endoplasmic reticulum membrane;
+    single-pass type I membrane protein. Golgi apparatus; Golgi
+    apparatus membrane; single-pass type I membrane protein.
+    Note=Relocalization to the Golgi apparatus and the plasma membrane
+    is mediated by Star. In the presence of Rhomboid, Spitz is found
+    only in the Golgi, not at the cell surface.
+-!- TISSUE SPECIFICITY: Expressed throughout the embryo.
+-!- PTM: Proteolytic processing by Rhomboid occurs in the Golgi.
+    Cleavage takes place within the transmembrane domain close to
+    residue 144 and the active growth factor is released.
+-!- PTM: N-glycosylated and O-glycosylated.
+-!- SIMILARITY: Contains 1 EGF-like domain.
+ GO:0005783; C:endoplasmic reticulum; IDA:FlyBase.
+ GO:0005576; C:extracellular region; TAS:FlyBase.
+ GO:0005794; C:Golgi apparatus; IGI:FlyBase.
+ GO:0016021; C:integral to membrane; NAS:FlyBase.
+ GO:0005155; F:epidermal growth factor receptor activating...; NAS:FlyBase.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006916; P:anti-apoptosis; NAS:FlyBase.
+ GO:0046845; P:branched duct epithelial cell fate determin...; TAS:FlyBase.
+ GO:0035225; P:determination of genital disc primordium; IMP:FlyBase.
+ GO:0007173; P:epidermal growth factor receptor signaling ...; TAS:FlyBase.
+ GO:0000086; P:G2/M transition of mitotic cell cycle; NAS:FlyBase.
+ GO:0046673; P:negative regulation of retinal cell program...; NAS:FlyBase.
+ GO:0007438; P:oenocyte development; IGI:FlyBase.
+ GO:0007422; P:peripheral nervous system development; IMP:FlyBase.
+ GO:0045742; P:positive regulation of epidermal growth fac...; NAS:FlyBase.
+ GO:0045470; P:R8-mediated photoreceptor organization; NAS:FlyBase.
+ GO:0007432; P:salivary gland determination; NAS:FlyBase.
+ GO:0016330; P:second mitotic wave (sensu Endopterygota); NAS:FlyBase.
+ GO:0035277; P:spiracle morphogenesis; IMP:FlyBase.
+Complete proteome; Developmental protein; Differentiation;
+EGF-like domain; Endoplasmic reticulum; Glycoprotein; Golgi apparatus;
+Membrane; Neurogenesis; Signal; Transmembrane.
+TMONE

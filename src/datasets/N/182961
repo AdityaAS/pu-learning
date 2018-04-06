@@ -1,0 +1,21 @@
+AC   P47191;
+Synaptotagmin-1 (Synaptotagmin I) (SytI) (p65).
+"Coordinate and noncoordinate regulation of synaptic vesicle protein
+genes during embryonic development.";
+-!- FUNCTION: May have a regulatory role in the membrane interactions
+    during trafficking of synaptic vesicles at the active zone of the
+    synapse. It binds acidic phospholipids with a specificity that
+    requires the presence of both an acidic head group and a diacyl
+    backbone.
+-!- COFACTOR: Binds 3 calcium ions per subunit. The ions are bound to
+    the C2 domains (By similarity).
+-!- SUBUNIT: Homotetramer (Probable).
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; secretory vesicle;
+    synaptic vesicle. Cytoplasmic vesicle; secretory vesicle;
+    chromaffin granule. Note=Synaptic vesicles and chromaffin
+    granules.
+-!- SIMILARITY: Belongs to the synaptotagmin family.
+-!- SIMILARITY: Contains 2 C2 domains.
+Calcium; Glycoprotein; Lipoprotein; Membrane; Metal-binding;
+Palmitate; Repeat; Synapse; Transmembrane.
+TMONE

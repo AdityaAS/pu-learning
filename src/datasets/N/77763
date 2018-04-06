@@ -1,0 +1,17 @@
+AC   Q6CEI9;
+SVP1-like protein 2.
+"Genome evolution in yeasts.";
+-!- FUNCTION: Involved in mitochondrial or peroxisomal functions and
+    amino acid signaling pathways (By similarity).
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; peripheral
+    membrane protein (By similarity). Cytoplasmic vesicle; cytoplasmic
+    vesicle membrane; peripheral membrane protein (By similarity).
+    Note=Vesicular and vacuolar (By similarity).
+-!- DOMAIN: May contain a beta-propeller domain involved in specific
+    binding to phosphatidylinositol 3,5-biphosphate (PIP2), leading to
+    the association of the protein to the membrane (By similarity).
+-!- SIMILARITY: Belongs to the WD repeat SVP1 family.
+-!- SIMILARITY: Contains 2 WD repeats.
+Complete proteome; Membrane; Protein transport; Repeat; Transport;
+Vacuole; WD repeat.
+TMZERO

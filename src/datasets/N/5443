@@ -1,0 +1,16 @@
+AC   P52210;
+Fructose-bisphosphate aldolase B (EC 4.1.2.13) (Liver-type aldolase).
+"Cloning and characterization of a full-length cDNA coding for ovine
+aldolase B from fetal mesonephros.";
+-!- CATALYTIC ACTIVITY: D-fructose 1,6-bisphosphate = glycerone
+    phosphate + D-glyceraldehyde 3-phosphate.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; D-glyceraldehyde 3-
+    phosphate and glycerone phosphate from D-glucose: step 4.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- MISCELLANEOUS: In vertebrates, three forms of this ubiquitous
+    glycolytic enzyme are found, aldolase A in muscle, aldolase B in
+    liver and aldolase C in brain.
+-!- SIMILARITY: Belongs to the class I fructose-bisphosphate aldolase
+    family.
+Acetylation; Glycolysis; Lyase; Schiff base.
+TMZERO

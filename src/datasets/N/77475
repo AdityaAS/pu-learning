@@ -1,0 +1,22 @@
+AC   P83215;
+Sperm protamine P3 (Po3) (Fragment).
+"Chromatin organization during spermiogenesis in Octopus vulgaris. II:
+DNA-interacting proteins.";
+-!- FUNCTION: Protamines substitute for histones in the chromatin of
+    sperm during the haploid phase of spermatogenesis. They compact
+    sperm DNA into a highly condensed, stable and inactive complex.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Testis.
+-!- MASS SPECTROMETRY: MW=4389; METHOD=Electrospray; RANGE=1-?;
+    NOTE=Ref.1.
+ GO:0000786; C:nucleosome; NAS:UniProtKB.
+ GO:0005634; C:nucleus; NAS:UniProtKB.
+ GO:0003677; F:DNA binding; NAS:UniProtKB.
+ GO:0007001; P:chromosome organization and biogenesis (sen...; NAS:UniProtKB.
+ GO:0007076; P:mitotic chromosome condensation; NAS:UniProtKB.
+ GO:0006334; P:nucleosome assembly; NAS:UniProtKB.
+ GO:0007283; P:spermatogenesis; NAS:UniProtKB.
+Chromosomal protein; Developmental protein; Differentiation;
+Direct protein sequencing; DNA condensation; DNA-binding;
+Nuclear protein; Nucleosome core; Spermatogenesis.
+TMZERO

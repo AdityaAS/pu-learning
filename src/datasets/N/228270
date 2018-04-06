@@ -1,0 +1,17 @@
+AC   Q12106;
+Uncharacterized protein YOR228C.
+"Sequence and analysis of a 33 kb fragment from the right arm of
+chromosome XV of the yeast Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein localization in budding yeast.";
+"Proteomic analysis of the yeast mitochondrial outer membrane reveals
+accumulation of a subclass of preproteins.";
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    multi-pass membrane protein (Potential).
+ GO:0005741; C:mitochondrial outer membrane; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+Complete proteome; Membrane; Mitochondrion; Outer membrane;
+Transmembrane.
+TMFIVE

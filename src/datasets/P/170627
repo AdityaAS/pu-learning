@@ -1,0 +1,45 @@
+AC   P33754;
+Translocation protein SEC66 (Sec62/63 complex 31.5 kDa subunit)
+(Protein HSS1).
+"Structural and functional characterization of Sec66p, a new subunit
+of the polypeptide translocation apparatus in the yeast endoplasmic
+reticulum.";
+"Suppression of a sec63 mutation identifies a novel component of the
+yeast endoplasmic reticulum translocation apparatus.";
+"Sequence and function analysis of a 4.3 kb fragment of Saccharomyces
+cerevisiae chromosome II including three open reading frames.";
+"Complete DNA sequence of yeast chromosome II.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Assembly of yeast Sec proteins involved in translocation into the
+endoplasmic reticulum into a membrane-bound multisubunit complex.";
+"A Sec63p-BiP complex from yeast is required for protein translocation
+in a reconstituted proteoliposome.";
+"Posttranslational protein transport in yeast reconstituted with a
+purified complex of Sec proteins and Kar2p.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Acts as component of the Sec62/63 complex which is
+    involved in SRP-independent posttranslational translocation across
+    the endoplasmic reticulum (ER) and functions together with the
+    Sec61 complex and KAR2 in a channel-forming translocon complex. A
+    cycle of assembly and disassembly of Sec62/63 complex from SEC61
+    may govern the activity of the translocon. SEC66 is required to
+    attach or retain SEC72 in the SEC63 complex. It is essential for
+    growth at elevated temperatures.
+-!- SUBUNIT: Component of the heterotetrameric Sec62/63complex
+    composed of SEC62, SEC63, SEC66 and SEC72. The Sec62/63 complex
+    associates with the Sec61 complex to form the Sec complex. Part of
+    a complex consisting of KAR2, SEC63, SEC66 and SEC72.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; single-pass type II membrane protein.
+-!- MISCELLANEOUS: Present with 7820 molecules/cell.
+-!- SIMILARITY: To S.pombe SpBC409.21.
+ GO:0005789; C:endoplasmic reticulum membrane; TAS:SGD.
+ GO:0031207; C:Sec62/Sec63 complex; IPI:SGD.
+ GO:0008565; F:protein transporter activity; TAS:SGD.
+ GO:0030447; P:filamentous growth; IMP:SGD.
+ GO:0006620; P:posttranslational protein targeting to memb...; TAS:SGD.
+Complete proteome; Direct protein sequencing; Endoplasmic reticulum;
+Glycoprotein; Membrane; Protein transport; Signal-anchor;
+Transmembrane; Transport.
+TMONE

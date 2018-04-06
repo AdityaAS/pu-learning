@@ -1,0 +1,20 @@
+AC   Q9DC11; Q6PET5; Q91ZV6;
+Plexin domain-containing protein 2 precursor (Tumor endothelial marker
+7-related protein).
+"Cell surface tumor endothelial markers are conserved in mice and
+humans.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of a binding partner for the endothelial cell surface
+proteins TEM7 and TEM7R.";
+-!- FUNCTION: May play a role in tumor angiogenesis.
+-!- SUBUNIT: Interacts with CTTN.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- TISSUE SPECIFICITY: Expressed in tumor endothelium and in vessels
+    of some normal tissues, such as the muscle and lung.
+-!- SIMILARITY: Belongs to the plexin family.
+-!- SIMILARITY: Contains 1 PSI domain.
+Glycoprotein; Membrane; Signal; Transmembrane.
+TMONE

@@ -1,0 +1,62 @@
+AC   O95461; O60348; Q9UGD1; Q9UGE7; Q9UGG3; Q9UGZ8; Q9UH22;
+Glycosyltransferase-like protein LARGE1 (EC 2.4.-.-)
+(Acetylglucosaminyltransferase-like 1A).
+"The human LARGE gene from 22q12.3-q13.1 is a new, distinct member of
+the glycosyltransferase gene family.";
+"Prediction of the coding sequences of unidentified human genes. IX.
+The complete sequences of 100 new cDNA clones from brain which can
+code for large proteins in vitro.";
+"A genome annotation-driven approach to cloning the human ORFeome.";
+"The DNA sequence of human chromosome 22.";
+"LARGE2 facilitates the maturation of alpha-dystroglycan more
+effectively than LARGE.";
+"Characterization of the LARGE family of putative glycosyltransferases
+associated with dystroglycanopathies.";
+"Localization and functional analysis of the LARGE family of
+glycosyltransferases: significance for muscular dystrophy.";
+"Mutations in the human LARGE gene cause MDC1D, a novel form of
+congenital muscular dystrophy with severe mental retardation and
+abnormal glycosylation of alpha-dystroglycan.";
+-!- FUNCTION: Glycosyltransferase which participates in glycosylation
+    of alpha-dystroglycan. May carry out the synthesis of glycoprotein
+    and glycosphingolipid sugar chains. May be involved in the
+    addition of a repeated disaccharide unit.
+-!- PATHWAY: Glycosylation.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type II membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O95461-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O95461-2; Sequence=VSP_014536;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Ubiquitous. Highest expression in heart, brain
+    and skeletal muscle.
+-!- DISEASE: Defects in LARGE are the cause of congenital muscular
+    dystrophy type 1D (MDC1D) [MIM:608840]. The congenital muscular
+    dystrophies (CMD) are a heterogeneous group of autosomal recessive
+    disorders presenting in infancy with muscle weakness,
+    contractures, and dystrophic changes on skeletal muscle biopsy.
+    Structural brain defects, with or without mental retardation, are
+    additional features of several CMD syndromes. MDC1D presented with
+    congenital muscular dystrophy, profound mental retardation, and
+    white matter changes and subtle structural abnormalities on brain
+    MRI. Patient skeletal muscle biopsy showed reduced immunolabeling
+    of alpha-dystroglycan.
+-!- SIMILARITY: Belongs to the glycosyltransferase 8 family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=LARGE".
+-!- WEB RESOURCE: NAME=GGDB; NOTE=GlycoGene database";
+    URL="http://ggdb.muse.aist.go.jp/GGDB/index.jsp".
+ GO:0030173; C:integral to Golgi membrane; TAS:UniProtKB.
+ GO:0008375; F:acetylglucosaminyltransferase activity; TAS:ProtInc.
+ GO:0016757; F:transferase activity, transferring glycosyl...; TAS:UniProtKB.
+ GO:0006688; P:glycosphingolipid biosynthesis; TAS:UniProtKB.
+ GO:0046716; P:muscle maintenance; ISS:UniProtKB.
+ GO:0006044; P:N-acetylglucosamine metabolism; TAS:ProtInc.
+ GO:0006486; P:protein amino acid glycosylation; TAS:ProtInc.
+Alternative splicing; Coiled coil; Congenital muscular dystrophy;
+Disease mutation; Glycoprotein; Glycosyltransferase; Golgi apparatus;
+Membrane; Polymorphism; Signal-anchor; Transferase; Transmembrane.
+TMONE

@@ -1,0 +1,20 @@
+AC   Q5HGU4;
+Ribonuclease HIII (EC 3.1.26.4) (RNase HIII).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Endonuclease that specifically degrades the RNA of RNA-
+    DNA hybrids (By similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+    phosphomonoester.
+-!- COFACTOR: Manganese or magnesium. Binds 1 divalent metal ion per
+    monomer in the absence of substrate. May bind a second metal ion
+    after substrate binding (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the RNase HII family. RnhC subfamily.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0006401; P:RNA catabolism; IEA:HAMAP.
+Complete proteome; Endonuclease; Hydrolase; Magnesium; Metal-binding;
+Nuclease.
+TMZERO

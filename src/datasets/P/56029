@@ -1,0 +1,19 @@
+AC   P40464;
+Mitochondrial FAD carrier protein FLX1.
+"FLX1 codes for a carrier protein involved in maintaining a proper
+balance of flavin nucleotides in yeast mitochondria.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IX.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+-!- FUNCTION: Transport of FAD from the cytosol to the mitochondrial
+    matrix.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0015230; F:FAD transporter activity; IMP:SGD.
+ GO:0015883; P:FAD transport; IMP:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion; Repeat;
+Transmembrane; Transport.
+TMSIX

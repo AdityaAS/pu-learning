@@ -1,0 +1,34 @@
+AC   P10987; Q24227; Q6YN46; Q9U5X7; Q9W460;
+Actin-5C.
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Stage-specific selection of alternative transcriptional initiation
+sites from the 5C actin gene of Drosophila melanogaster.";
+"The actin genes of Drosophila: protein coding regions are highly
+conserved but intron positions are not.";
+"The Drosophila melanogaster actin 5C gene uses two transcription
+initiation sites and three polyadenylation sites to express multiple
+mRNA species.";
+"Transcriptional activity at the 3' end of the actin gene at 5C on the
+X chromosome of Drosophila melanogaster.";
+-!- FUNCTION: Actins are highly conserved proteins that are involved
+    in various types of cell motility and are ubiquitously expressed
+    in all eukaryotic cells.
+-!- FUNCTION: Multiple isoforms are involved in various cellular
+    functions such as cytoskeleton structure, cell mobility,
+    chromosome movement and muscle contraction.
+-!- INTERACTION:
+    Q9VPX7:capt; NbExp=1; IntAct=EBI-130188, EBI-151736;
+    Q9VML9:CG31645; NbExp=1; IntAct=EBI-130188, EBI-111235;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: In Drosophila there are 6 closely related actin
+    genes.
+-!- SIMILARITY: Belongs to the actin family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0000910; P:cytokinesis; IMP:FlyBase.
+ GO:0007291; P:sperm individualization; IEP:FlyBase.
+3D-structure; Acetylation; ATP-binding; Complete proteome;
+Cytoskeleton; Nucleotide-binding; Structural protein.
+TMZERO

@@ -1,0 +1,15 @@
+AC   P32703; Q2M6N9;
+Putative Na(+)/H(+) exchanger yjcE.
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the Na(+)/H(+) exchanger (TC 2.A.36.5.1)
+    family.
+Antiport; Complete proteome; Hypothetical protein; Inner membrane;
+Ion transport; Membrane; Sodium; Sodium transport; Transmembrane;
+Transport.
+TMTWELVE

@@ -1,0 +1,14 @@
+AC   P67644; Q10763;
+Fumarate reductase subunit D.
+"The complete genome sequence of Mycobacterium bovis.";
+-!- FUNCTION: Seems to be involved in the anchoring of the catalytic
+    components of the fumarate reductase complex to the cytoplasmic
+    membrane (By similarity).
+-!- SUBUNIT: Part of an enzyme complex containing four subunits: a
+    flavoprotein (frdA), an iron-sulfur protein (frdB), and two
+    hydrophobic anchor proteins (frdC and frdD) (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the frdD family.
+Complete proteome; Membrane; Transmembrane.
+THTHREE

@@ -1,0 +1,32 @@
+AC   P83436; Q6UWU7;
+Conserved oligomeric Golgi complex component 7.
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"Characterization of a mammalian Golgi-localized protein complex, COG,
+that is required for normal Golgi morphology and function.";
+"Mutation of the COG complex subunit gene COG7 causes a lethal
+congenital disorder.";
+-!- FUNCTION: Required for normal Golgi function (By similarity).
+-!- SUBUNIT: Component of the conserved oligomeric Golgi complex which
+    is composed of eight different subunits and is required for normal
+    Golgi morphology and localization.
+-!- INTERACTION:
+    Q9H9E3:COG4; NbExp=1; IntAct=EBI-389534, EBI-368382;
+    Q9UP83:COG5; NbExp=1; IntAct=EBI-389534, EBI-389502;
+-!- SUBCELLULAR LOCATION: Golgi apparatus.
+-!- DISEASE: Defects in COG7 are the cause of congenital disorder of
+    glycosylation type IIe (CDG-IIe) [MIM:608779]. Congenital
+    disorders of glycosylation are metabolic deficiencies in
+    glycoprotein biosynthesis that usually cause severe mental and
+    psychomotor retardation. They are characterized by under-
+    glycosylated serum glycoproteins and are caused by mutations in
+    genes encoding proteins involved in the stepwise assembly of
+    dolichol-oligosaccharide used for protein N-glycosylation.
+-!- SIMILARITY: Belongs to the COG7 family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Congenital disorder of glycosylation; Golgi apparatus; Membrane;
+Protein transport; Transport.
+TMZERO

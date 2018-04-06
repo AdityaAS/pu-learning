@@ -1,0 +1,18 @@
+AC   Q6FMP5;
+Palmitoyltransferase PFA5 (EC 2.3.1.-) (Protein fatty acyltransferase
+5).
+"Genome evolution in yeasts.";
+-!- CATALYTIC ACTIVITY: Palmitoyl-CoA + protein-cysteine = S-palmitoyl
+    protein + CoA.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- DOMAIN: The DHHC domain is required for palmitoyltransferase
+    activity (By similarity).
+-!- PTM: Autopalmitoylated (By similarity).
+-!- SIMILARITY: Belongs to the DHHC palmitoyltransferase family. PFA5
+    subfamily.
+-!- SIMILARITY: Contains 1 DHHC-type zinc finger.
+Acyltransferase; Complete proteome; Lipoprotein; Membrane;
+Metal-binding; Palmitate; Transferase; Transmembrane; Zinc;
+Zinc-finger.
+TMFOUR

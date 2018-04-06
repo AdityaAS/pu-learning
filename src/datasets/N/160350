@@ -1,0 +1,18 @@
+AC   P24353;
+Plastid 30S ribosomal protein S8.
+"Genes for ribosomal proteins are retained on the 73 kb DNA from
+Astasia longa that resembles Euglena chloroplast DNA.";
+"Plastid ribosomal protein genes from the nonphotosynthetic flagellate
+Astasia longa.";
+"Complete gene map of the plastid genome of the nonphotosynthetic
+euglenoid flagellate Astasia longa.";
+-!- FUNCTION: One of the primary rRNA binding proteins, it binds
+    directly to 16S rRNA central domain where it helps coordinate
+    assembly of the platform of the 30S subunit (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit.
+-!- SUBCELLULAR LOCATION: Plastid.
+-!- SIMILARITY: Belongs to the ribosomal protein S8P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Plastid; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

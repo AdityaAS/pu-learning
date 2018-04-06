@@ -1,0 +1,19 @@
+AC   O87576;
+Apolipoprotein N-acyltransferase (EC 2.3.1.-) (ALP N-acyltransferase)
+(Copper homeostasis protein cutE).
+"Cloning and sequencing of apolipoprotein N-acyltransferase from
+Salmonella typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Magnesium transport in Salmonella typhimurium: sequence and
+characterization of the corB, corC, and corD genes.";
+-!- FUNCTION: Transfers the fatty acyl group on membrane lipoproteins.
+-!- PATHWAY: Lipoprotein biosynthesis; third step.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the CN hydrolase family. Apolipoprotein N-
+    acyltransferase subfamily.
+-!- SIMILARITY: Contains 1 CN hydrolase domain.
+Acyltransferase; Complete proteome; Copper; Inner membrane; Membrane;
+Transferase; Transmembrane.
+TMSIX

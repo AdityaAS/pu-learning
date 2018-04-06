@@ -1,0 +1,12 @@
+AC   Q9R0M1;
+Chemokine XC receptor 1 (XC chemokine receptor 1) (Lymphotactin
+receptor) (SCM1 receptor) (mXCR1).
+"Molecular cloning of mXCR1, the murine SCM-1/lymphotactin receptor.";
+-!- FUNCTION: Receptor for chemokines SCYC1 and SCYC2. Subsequently
+    transduces a signal by increasing the intracellular calcium ions
+    level.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+G-protein coupled receptor; Membrane; Receptor; Transducer;
+Transmembrane.
+TMSEVEN

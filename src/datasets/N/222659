@@ -1,0 +1,14 @@
+AC   P25649;
+Uncharacterized protein YCR082W.
+"The complete DNA sequence of yeast chromosome III.";
+"Global analysis of protein expression in yeast.";
+-!- INTERACTION:
+    Q12433:AHC1; NbExp=1; IntAct=EBI-21993, EBI-33947;
+    P32569:SRB4; NbExp=1; IntAct=EBI-21993, EBI-18025;
+-!- MISCELLANEOUS: Present with 981 molecules/cell.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0000723; P:telomere maintenance; IMP:SGD.
+Complete proteome.
+TMZERO

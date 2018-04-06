@@ -1,0 +1,29 @@
+AC   P22452; Q5UY30;
+50S ribosomal protein L39e (Hl39e) (Hl46e).
+"Evidence for an additional archaebacterial gene cluster in
+Halobacterium marismortui encoding ribosomal proteins HL46e and
+HL30.";
+"Genome sequence of Haloarcula marismortui: a halophilic archaeon from
+the Dead Sea.";
+"The complete atomic structure of the large ribosomal subunit at 2.4 A
+resolution.";
+"The structural basis of ribosome activity in peptide bond
+synthesis.";
+"A pre-translocational intermediate in protein synthesis observed in
+crystals of enzymatically active 50S subunits.";
+"The kink-turn: a new RNA secondary structure motif.";
+"The structures of four macrolide antibiotics bound to the large
+ribosomal subunit.";
+"Structural insights into peptide bond formation.";
+"Structures of five antibiotics bound at the peptidyl transferase
+center of the large ribosomal subunit.";
+"Structures of deacylated tRNA mimics bound to the E site of the large
+ribosomal subunit.";
+-!- FUNCTION: Binds to the 23S rRNA. Forms part of the polypeptide
+    exit tunnel.
+-!- SUBUNIT: Part of the 50S ribosomal subunit. Interacts weakly with
+    protein L23.
+-!- SIMILARITY: Belongs to the ribosomal protein L39e family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ribonucleoprotein; Ribosomal protein; RNA-binding; rRNA-binding.
+TMZERO

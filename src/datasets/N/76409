@@ -1,0 +1,74 @@
+AC   Q9Y251; Q53GE5; Q9UL39;
+Heparanase precursor (EC 3.2.-.-) (Heparanase-1) (Hpa1) (Endo-
+glucoronidase) [Contains: Heparanase 8 kDa subunit; Heparanase 50 kDa
+subunit].
+"Cloning and functional expression of a human heparanase gene.";
+"Human heparanase. Purification, characterization, cloning, and
+expression.";
+"Mammalian heparanase: gene cloning, expression and function in tumor
+progression and metastasis.";
+"Cloning of mammalian heparanase, an important enzyme in tumor
+invasion and metastasis.";
+"Heparanase expression in invasive trophoblasts and acute vascular
+damage.";
+"Molecular properties and involvement of heparanase in cancer
+progression and mammary gland morphogenesis.";
+"Biochemical characterization of the active heterodimer form of human
+heparanase (Hpa1) protein expressed in insect cells.";
+"Cloned heparanase from MCF-7 cells.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of active-site residues of the pro-metastatic
+endoglycosidase heparanase.";
+"Secretion of heparanase protein is regulated by glycosylation in
+human tumor cell lines.";
+"Heparanase uptake is mediated by cell membrane heparan sulfate
+proteoglycans.";
+"Heparanase processing by lysosomal/endosomal protein preparation.";
+"Site-directed mutagenesis, proteolytic cleavage, and activation of
+human proheparanase.";
+"Identification and characterization of heparin/heparan sulfate
+binding domains of the endoglycosidase heparanase.";
+"Elucidation of N-glycosylation sites on human platelet proteins: a
+glycoproteomic approach.";
+"Heparanase mRNA expression and point mutation in hepatocellular
+carcinoma.";
+-!- FUNCTION: Endoglycosidase which is a cell surface and
+    extracellular matrix-degrading enzyme. Cleaves heparan sulfate
+    proteoglycans (HSPGs) into heparan sulfate side chains and core
+    proteoglycans. Also implicated in the extravasation of leukocytes
+    and tumor cell lines. Due to its contribution to metastasis and
+    angiogenesis, it is considered to be a potential target for anti-
+    cancer therapies.
+-!- ENZYME REGULATION: Inhibited by EDTA, laminarin sulfate and, to a
+    lower extent, by heparin and sulfamin and activated by calcium and
+    magnesium (By similarity).
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 4-6;
+-!- SUBUNIT: The active heterodimer is composed of the 8 and 50 kDa
+    subunits, the proteolytic products.
+-!- SUBCELLULAR LOCATION: Lysosome; lysosomal membrane; peripheral
+    membrane protein. Secreted protein. Note=Secreted, internalised
+    and transferred to late endosomes/lysosomes as a proheparanase. In
+    lysosomes, it is processed into the active form, the heparanase.
+    The uptake or internalisation of proheparanase is mediated by
+    HSPGs. Heparin appears to be a competitor and retain proheparanase
+    in the extracellular medium.
+-!- TISSUE SPECIFICITY: Highly expressed in placenta and spleen and
+    weakly expressed in lymph node, thymus, peripheral blood
+    leukocytes, bone marrow, endothelial cells, fetal liver and tumor
+    tissues.
+-!- PTM: Proteolytically processed. The cleavage of the 65 kDa form
+    leads to the generation of a linker peptide, 8 kDa and 50 kDa
+    product. The active form, the 8/50 kDa heterodimer, is resistant
+    to degradation. Complete removal of the linker peptide appears to
+    be a prerequisite to the complete activation of the enzyme.
+-!- PTM: N-glycosylated. Glycosylation of the 50 kDa subunit appears
+    to be essential for its solubility.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 79 family.
+ GO:0004566; F:beta-glucuronidase activity; TAS:ProtInc.
+ GO:0006029; P:proteoglycan metabolism; TAS:ProtInc.
+Calcium; Direct protein sequencing; Glycoprotein; Hydrolase; Lysosome;
+Magnesium; Membrane; Polymorphism; Signal.
+TMZERO

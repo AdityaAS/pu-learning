@@ -1,0 +1,18 @@
+AC   Q99KU1; Q3UF13; Q8BZ16; Q8BZK8;
+Dehydrodolichyl diphosphate synthase (EC 2.5.1.-) (Dedol-PP synthase).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Catalyzes cis-prenyl chain elongation to produce the
+    polyprenyl backbone of dolichol, a glycosyl carrier-lipid required
+    for the biosynthesis of several classes of glycoprotein.
+-!- PATHWAY: Glycosylation.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q99KU1-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q99KU1-2; Sequence=VSP_010032;
+-!- SIMILARITY: Belongs to the UPP synthetase family.
+Alternative splicing; Transferase.
+TMZERO

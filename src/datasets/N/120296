@@ -1,0 +1,22 @@
+AC   O12946;
+Cellular tumor antigen p53 (Tumor suppressor p53).
+"cDNA cloning and expression analysis of flounder p53 tumour
+suppressor gene.";
+-!- FUNCTION: Acts as a tumor suppressor in many tumor types; induces
+    growth arrest or apoptosis depending on the physiological
+    circumstances and cell type. Involved in cell cycle regulation as
+    a trans-activator that acts to negatively regulate cell division
+    by controlling a set of genes required for this process. One of
+    the activated genes is an inhibitor of cyclin-dependent kinases.
+    Apoptosis induction seems to be mediated either by stimulation of
+    BAX and FAS antigen expression, or by repression of Bcl-2
+    expression (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Binds DNA as a homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the p53 family.
+Activator; Anti-oncogene; Apoptosis; Cell cycle; DNA-binding;
+Metal-binding; Nuclear protein; Phosphorylation; Transcription;
+Transcription regulation; Zinc.
+TMZERO

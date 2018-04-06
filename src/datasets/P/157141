@@ -1,0 +1,17 @@
+AC   P39137;
+Amino-acid permease rocE.
+"Expression of the rocDEF operon involved in arginine catabolism in
+Bacillus subtilis.";
+"36kb sequence between gntZ and trnY of B. subtilis genome.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Putative transport protein involved in arginine
+    degradative pathway. Probably transports arginine or ornithine.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- INDUCTION: Expression is sigma L dependent, induced by arginine,
+    ornithine or proline.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Amino acid transporter (AAT) (TC 2.A.3.1) family.
+Amino-acid transport; Arginine metabolism; Complete proteome;
+Membrane; Transmembrane; Transport.
+TMTWELVE

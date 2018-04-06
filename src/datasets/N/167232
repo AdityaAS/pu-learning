@@ -1,0 +1,32 @@
+AC   Q8WWV3; Q8N9B3; Q8WZ66; Q9BRA4;
+Reticulon-4-interacting protein 1, mitochondrial precursor (NOGO-
+interacting mitochondrial protein).
+"Cloning and expression of the human NOGO-interacting mitochondrial
+protein.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The DNA sequence and analysis of human chromosome 6.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification and characterization of a novel Nogo-interacting
+mitochondrial protein (NIMP).";
+-!- FUNCTION: Appears to be a potent inhibitor of regeneration
+    following spinal cord injury.
+-!- SUBUNIT: Interacts with RTN4, UQCRC1 and UQCRC2 (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q8WWV3-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8WWV3-2; Sequence=VSP_015742;
+      Note=No experimental confirmation available;
+    Name=3; Synonyms=Short;
+      IsoId=Q8WWV3-3; Sequence=VSP_015743, VSP_015744;
+-!- TISSUE SPECIFICITY: Widely expressed in mitochondria-enriched
+    tissues. Found in heart, muscle, kidney, liver, brain and
+    placenta.
+-!- SIMILARITY: Belongs to the zinc-containing alcohol dehydrogenase
+    family. Quinone oxidoreductase subfamily.
+Alternative splicing; Mitochondrion; Transit peptide.
+TMZERO

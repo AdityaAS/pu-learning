@@ -1,0 +1,20 @@
+AC   P76007; O07654;
+Cell volume regulation protein A.
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Deletion of one of two Escherichia coli genes encoding putative
+Na+/H+ exchangers (ycgO) perturbs cytoplasmic alkali cation balance at
+low osmolarity.";
+-!- FUNCTION: Participates in control of cell volume in low-osmolarity
+    conditions.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the Na(+)/H(+) exchanger (TC 2.A.36.5.1)
+    family. CvrA subfamily.
+-!- SIMILARITY: Contains 1 RCK C-terminal domain.
+ GO:0006884; P:regulation of cell volume; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMELEVEN

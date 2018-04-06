@@ -1,0 +1,23 @@
+AC   P54349;
+Interleukin-12 subunit alpha precursor (IL-12A) (IL-12 subunit p35)
+(Cytotoxic lymphocyte maturation factor 35 kDa subunit) (CLMF p35).
+"Enzymatic amplification and molecular cloning of cDNA encoding the
+small and large subunits of bovine interleukin 12.";
+-!- FUNCTION: Cytokine that can act as a growth factor for activated T
+    and NK cells, enhance the lytic activity of NK/lymphokine-
+    activated Killer cells, and stimulate the production of IFN-gamma
+    by resting PBMC (By similarity).
+-!- SUBUNIT: Heterodimer with IL12B; disulfide-linked. The heterodimer
+    is known as interleukin IL-12.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the IL-6 superfamily.
+ GO:0005615; C:extracellular space; NAS:UniProtKB.
+ GO:0005143; F:interleukin-12 receptor binding; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0042095; P:interferon-gamma biosynthesis; IDA:UniProtKB.
+ GO:0030101; P:natural killer cell activation; ISS:UniProtKB.
+ GO:0042104; P:positive regulation of activated T cell pro...; IDA:UniProtKB.
+ GO:0042088; P:T-helper 1 type immune response; ISS:UniProtKB.
+ GO:0042093; P:T-helper cell differentiation; ISS:UniProtKB.
+Cytokine; Glycoprotein; Growth factor; Signal.
+TMZERO

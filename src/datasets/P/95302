@@ -1,0 +1,27 @@
+AC   P72358; Q2G1B3;
+Antiholin-like protein lrgA.
+"Identification of LytSR-regulated genes from Staphylococcus aureus.";
+"The Staphylococcus aureus NCTC8325 genome.";
+"The Staphylococcus aureus lrgAB operon modulates murein hydrolase
+activity and penicillin tolerance.";
+"The Staphylococcus aureus cidAB operon: evaluation of its role in
+regulation of murein hydrolase activity and penicillin tolerance.";
+"Death's toolbox: examining the molecular components of bacterial
+programmed cell death.";
+-!- FUNCTION: Inhibits the expression or activity of extracellular
+    murein hydrolases by interacting, possibly with lrgB, with the
+    holin-like proteins cidA and/or cidB. The lrgAB and cidAB proteins
+    may affect the proton motive force of the membrane. Increases
+    tolerance to penicillin possibly by inhibiting the formation of
+    the cidAB holin-like complexes within the membrane, thus reducing
+    penicillin-induced lethality. Possibly plays a role in programmed
+    cell death (PCD), triggering PCD in response to penicillin, and
+    possibly other antibiotics, and environmental stresses.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: Regulated by the two-component system lytR/lytS.
+-!- SIMILARITY: Belongs to the cidA/lrgA family. LrgA subfamily.
+ GO:0019835; P:cytolysis; IEA:HAMAP.
+ GO:0012501; P:programmed cell death; IEA:HAMAP.
+Complete proteome; Cytolysis; Membrane; Transmembrane.
+TMFOUR

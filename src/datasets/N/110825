@@ -1,0 +1,33 @@
+AC   P17043;
+Nuclear export protein (NEP) (Non-structural protein 2) (NS2).
+"Synthesis, cloning and determination of the primary structure of a
+full-size DNA copy of fragment 8 from the influenza virus type A
+genome.";
+-!- FUNCTION: Mediates the nuclear export of encapsidated genomic RNAs
+    (ribonucleoproteins, RNPs). Acts as an adapter between viral RNPs
+    complexes and the nuclear export machinery of the cell. Possesses
+    no intrinsic RNA-binding activity, but includes a C-terminal M1-
+    binding domain. This domain is believed to allow recognition of
+    RNPs to which the M1 protein is bound. Because the M1 protein is
+    not available in large quantities until the later stages of
+    infection, such an indirect recognition mechanism probably ensures
+    that genomic RNPs are not exported from the nucleus before
+    sufficient quantities of viral mRNA and progeny genomic RNA have
+    been synthesized. Furthermore, the RNPs enters the cytoplasm only
+    when they have associated with the M1 protein that is necessary to
+    guide them to the plasma membrane. May down-regulate viral RNA
+    synthesis when overproduced (By similarity).
+-!- SUBUNIT: Binds M1 protein. May interact with human nucleoporin
+    RAB/HRB and exportin XPO1/CRM1 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=NEP; Synonyms=NS2;
+      IsoId=P17043-1; Sequence=Displayed;
+    Name=NS1;
+      IsoId=P17042-1; Sequence=External;
+-!- MISCELLANEOUS: Average number present in a viral particle is
+    estimated to be 130-200 molecules.
+Alternative splicing; Host-virus interaction; Nuclear protein;
+Transport; Virion protein.
+TMZERO

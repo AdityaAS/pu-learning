@@ -1,0 +1,20 @@
+AC   Q7UI46;
+Vitamin B12-dependent ribonucleotide reductase (EC 1.17.4.1)
+(Ribonucleoside-diphosphate reductase nrdJ).
+"Complete genome sequence of the marine planctomycete Pirellula sp.
+strain 1.";
+-!- FUNCTION: Catalyzes the reduction of ribonucleotides to
+    deoxyribonucleotides. May function to provide a pool of
+    deoxyribonucleotide precursors for DNA repair during oxygen
+    limitation and/or for immediate growth after restoration of oxygen
+    (By similarity).
+-!- CATALYTIC ACTIVITY: 2'-deoxyribonucleoside diphosphate +
+    thioredoxin disulfide + H(2)O = ribonucleoside diphosphate +
+    thioredoxin.
+-!- COFACTOR: 5'-deoxyadenosylcobalamine (coenzyme B12) (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribonucleoside diphosphate reductase
+    class-2 family.
+Cobalamin; Cobalt; Complete proteome; DNA synthesis;
+Nucleotide-binding; Oxidoreductase.
+TMZERO

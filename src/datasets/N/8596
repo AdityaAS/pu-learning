@@ -1,0 +1,11 @@
+AC   Q97JE0;
+L-arabinose isomerase 2 (EC 5.3.1.4).
+"Genome sequence and comparative analysis of the solvent-producing
+bacterium Clostridium acetobutylicum.";
+-!- CATALYTIC ACTIVITY: L-arabinose = L-ribulose.
+-!- PATHWAY: L-arabinose catabolism; first step.
+-!- SIMILARITY: Belongs to the arabinose isomerase family.
+ GO:0019568; P:arabinose catabolism; IEA:HAMAP.
+Arabinose catabolism; Carbohydrate metabolism; Complete proteome;
+Isomerase.
+TMZERO

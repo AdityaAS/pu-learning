@@ -1,0 +1,11 @@
+AC   Q730E7;
+Putative Holliday junction resolvase (EC 3.1.-.-).
+"The genome sequence of Bacillus cereus ATCC 10987 reveals metabolic
+adaptations and a large plasmid related to Bacillus anthracis pXO1.";
+-!- FUNCTION: Could be a nuclease that resolves Holliday junction
+    intermediates in genetic recombination.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the yqgF HJR family.
+Complete proteome; DNA damage; DNA recombination; DNA repair;
+Hydrolase; Nuclease.
+TMZERO

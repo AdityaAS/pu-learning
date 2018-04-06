@@ -1,0 +1,26 @@
+AC   Q9CWP6; Q8BYF8; Q8BZB6; Q8C0G1; Q8R0T7;
+Motile sperm domain-containing protein 2.
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Solution structure of the MSP domain of Riken cDNA 6030424E15.";
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=Q9CWP6-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9CWP6-2; Sequence=VSP_014050, VSP_014051;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q9CWP6-3; Sequence=VSP_014049, VSP_014052;
+      Note=No experimental confirmation available;
+    Name=4;
+      IsoId=Q9CWP6-4; Sequence=VSP_014047, VSP_014048;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Contains 1 CRAL-TRIO domain.
+-!- SIMILARITY: Contains 1 MSP domain.
+-!- CAUTION: Ref.1 (BAC29267) sequence differs from that shown due to
+    a frameshift in position 325.
+3D-structure; Alternative splicing; Membrane; Polymorphism;
+Transmembrane.
+TMONE

@@ -1,0 +1,11 @@
+AC   Q2QDF1;
+Deoxyribonuclease I-like 1 precursor (EC 3.1.21.-) (DNase I-like 1)
+(DNase X).
+"Physical and biochemical properties of mammalian DNase X proteins:
+non-AUG translation initiation of porcine and bovine mRNAs for DNase
+X.";
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum (By similarity).
+-!- SIMILARITY: Belongs to the DNase I family.
+Endonuclease; Endoplasmic reticulum; Glycoprotein; Hydrolase;
+Nuclease; Signal.
+TMZERO

@@ -1,0 +1,32 @@
+AC   P37637; Q2M7H6;
+Multidrug resistance protein mdtF.
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Analysis of a complete library of putative drug transporter genes in
+Escherichia coli.";
+"EvgA of the two-component signal transduction system modulates
+production of the yhiUV multidrug transporter in Escherichia coli.";
+"Escherichia coli gene expression responsive to levels of the response
+regulator EvgA.";
+"Transcriptional regulation of drug efflux genes by EvgAS, a two-
+component system in Escherichia coli.";
+"Regulatory network of acid resistance genes in Escherichia coli.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of a multidrug resistance efflux system that
+    confers resistance to compounds such as rhodamine 6G,
+    erythromycin, doxorubicin, ethidium bromide, TPP, SDS,
+    deoxycholate, crystal violet and benzalkonium.
+-!- SUBUNIT: Homotrimer. Part of a tripartite efflux system composed
+    of mdtE, mdtF and tolC.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Induced by evgA, probably via ydeO.
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+Antibiotic resistance; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTWELVE

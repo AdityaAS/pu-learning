@@ -1,0 +1,22 @@
+AC   P40088;
+Plasma membrane iron permease.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"A permease-oxidase complex involved in high-affinity iron uptake in
+yeast.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- FUNCTION: Permease for high affinity iron uptake.
+-!- INTERACTION:
+    P38993:FET3; NbExp=3; IntAct=EBI-7138, EBI-6876;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Present with 8370 molecules/cell.
+-!- SIMILARITY: Belongs to the FTR1 family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0005381; F:iron ion transporter activity; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006827; P:high affinity iron ion transport; IMP:SGD.
+Complete proteome; Ion transport; Iron; Iron transport; Membrane;
+Phosphorylation; Transmembrane; Transport.
+TMSEVEN

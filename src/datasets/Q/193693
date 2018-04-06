@@ -1,0 +1,39 @@
+AC   Q8R4D5;
+Transient receptor potential cation channel subfamily M member 8.
+"A TRP channel that senses cold stimuli and menthol.";
+"The murine homologue of TRPM8(Trpp8) gene: cloning, sequencing and
+tissue distribution.";
+"ANKTM1, a TRP-like channel expressed in nociceptive neurons, is
+activated by cold temperatures.";
+"TRPM8 activation by menthol, icilin, and cold is differentially
+modulated by intracellular pH.";
+-!- FUNCTION: Receptor-activated non-selective cation channel involved
+    in detection of sensations such as coolness, by being activated by
+    cold temperature below 25 degrees Celsius. Activated by icilin,
+    eucalyptol, menthol, cold and modulation of intracellular pH.
+    Involved in menthol sensation. Permeable for monovalent cations
+    sodium, potassium, and cesium and divalent cation calcium.
+    Temperature sensing is tightly linked to voltage-dependent gating.
+    Activated upon depolarization, changes in temperature resulting in
+    graded shifts of its voltage-dependent activation curves. The
+    chemical agonists menthol functions as a gating modifier, shifting
+    activation curves towards physiological membrane potentials.
+    Temperature sensitivity arises from a tenfold difference in the
+    activation energies associated with voltage-dependent opening and
+    closing.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Expressed in dorsal root and trigeminal
+    ganglia. Specifically expressed in a subset of pain- and
+    temperature-sensing neurons. Not expressed in heavily myelinated
+    neurons. Not expressed in neurons expressing TRPA1 or TRPV1.
+-!- SIMILARITY: Belongs to the transient receptor family. LTrpC
+    subfamily.
+ GO:0016020; C:membrane; IDA:MGI.
+ GO:0005262; F:calcium channel activity; IDA:MGI.
+ GO:0006874; P:calcium ion homeostasis; IDA:MGI.
+ GO:0009409; P:response to cold; IDA:MGI.
+ GO:0050955; P:thermoception; IDA:MGI.
+Ion transport; Ionic channel; Membrane; Sensory transduction;
+Transmembrane; Transport.
+TMSIX

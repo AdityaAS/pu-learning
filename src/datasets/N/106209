@@ -1,0 +1,15 @@
+AC   Q6G2Q7;
+UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158) (UDP-N-
+acetylmuramate dehydrogenase).
+"The louse-borne human pathogen Bartonella quintana is a genomic
+derivative of the zoonotic agent Bartonella henselae.";
+-!- FUNCTION: Cell wall formation (By similarity).
+-!- CATALYTIC ACTIVITY: UDP-N-acetylmuramate + NADP(+) = UDP-N-acetyl-
+    3-O-(1-carboxyvinyl)-D-glucosamine + NADPH.
+-!- COFACTOR: FAD (By similarity).
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the murB family.
+Cell cycle; Cell division; Cell shape; Cell wall; Complete proteome;
+FAD; Flavoprotein; NADP; Oxidoreductase; Peptidoglycan synthesis.
+TMZERO

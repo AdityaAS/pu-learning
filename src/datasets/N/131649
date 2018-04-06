@@ -1,0 +1,20 @@
+AC   Q9WYC9;
+Gamma-glutamyl phosphate reductase (EC 1.2.1.41) (GPR) (Glutamate-5-
+semialdehyde dehydrogenase) (Glutamyl-gamma-semialdehyde
+dehydrogenase) (GSA dehydrogenase).
+"Evidence for lateral gene transfer between Archaea and Bacteria from
+genome sequence of Thermotoga maritima.";
+-!- FUNCTION: Catalyzes the NADPH dependent reduction of L-gamma-
+    glutamyl 5-phosphate into L-glutamate 5-semialdehyde and
+    phosphate. The product spontaneously undergoes cyclization to form
+    1-pyrroline-5-carboxylate.
+-!- CATALYTIC ACTIVITY: L-glutamate 5-semialdehyde + phosphate +
+    NADP(+) = L-glutamyl 5-phosphate + NADPH.
+-!- PATHWAY: Amino-acid biosynthesis; L-proline biosynthesis; L-
+    glutamate 5-semialdehyde from L-glutamate: step 2.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the gamma-glutamyl phosphate reductase
+    family.
+3D-structure; Amino-acid biosynthesis; Complete proteome; NADP;
+Oxidoreductase; Proline biosynthesis.
+TMZERO

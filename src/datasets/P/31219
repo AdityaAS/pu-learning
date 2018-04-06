@@ -1,0 +1,40 @@
+AC   P00424;
+Cytochrome c oxidase polypeptide Va, mitochondrial precursor
+(EC 1.9.3.1).
+"Primary structure of a gene for subunit V of the cytochrome c oxidase
+from Saccharomyces cerevisiae.";
+"Cloning and characterization of the yeast nuclear gene for subunit 5
+of cytochrome oxidase.";
+"Structural analysis of two genes encoding divergent forms of yeast
+cytochrome c oxidase subunit V.";
+"The sequence of a 44 420 bp fragment located on the left arm of
+chromosome XIV from Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Two nonidentical forms of subunit V are functional in yeast
+cytochrome c oxidase.";
+"The nuclear-coded subunits of yeast cytochrome c oxidase. III.
+Identification of homologous subunits in yeast, bovine heart, and
+Neurospora crassa cytochrome c oxidases.";
+"Import of proteins into mitochondria. Isolated yeast mitochondria and
+a solubilized matrix protease correctly process cytochrome c oxidase
+subunit V precursor at the NH2 terminus.";
+"Kinetic properties and ligand binding of the eleven-subunit
+cytochrome-c oxidase from Saccharomyces cerevisiae isolated with a
+novel large-scale purification method.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBUNIT: Cytochrome c oxidase is composed of 11 subunits: one copy
+    each of COX1, COX2, COX3, COX4, COX5A or COX5B, COX6, COX7, COX9,
+    COX12, COX13 and two copies of COX8.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- MISCELLANEOUS: Present with 3670 molecules/cell.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase IV family.
+ GO:0005751; C:respiratory chain complex IV (sensu Eukaryota); IPI:SGD.
+ GO:0006123; P:mitochondrial electron transport, cytochrom...; IDA:SGD.
+Complete proteome; Direct protein sequencing; Inner membrane;
+Membrane; Mitochondrion; Oxidoreductase; Transit peptide.
+TMZERO

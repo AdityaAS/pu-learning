@@ -1,0 +1,17 @@
+AC   Q00751;
+Multiple sugar-binding transport system permease protein msmG.
+"A binding protein-dependent transport system in Streptococcus mutans
+responsible for multiple sugar metabolism.";
+"Genome sequence of Streptococcus mutans UA159, a cariogenic dental
+pathogen.";
+-!- FUNCTION: Involved in a binding protein-dependent transport system
+    responsible for the uptake of melibiose, raffinose and
+    isomaltotriose.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. MalFG subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Complete proteome; Membrane; Sugar transport; Transmembrane;
+Transport.
+TMSIX

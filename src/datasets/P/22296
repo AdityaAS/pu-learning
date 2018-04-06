@@ -1,0 +1,14 @@
+AC   P45403;
+Cytochrome c-type biogenesis protein cycK.
+"The cycHJKL gene cluster plays an essential role in the biogenesis of
+c-type cytochromes in Bradyrhizobium japonicum.";
+"Complete genomic sequence of nitrogen-fixing symbiotic bacterium
+Bradyrhizobium japonicum USDA110.";
+-!- FUNCTION: Required for the biogenesis of c-type cytochromes.
+    Possible subunit of a heme lyase.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ccmF/cycK/ccl1/nrfE/ccsA family.
+Complete proteome; Cytochrome c-type biogenesis; Inner membrane;
+Membrane; Transmembrane.
+TMFIFTEEN

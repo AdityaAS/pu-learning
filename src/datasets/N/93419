@@ -1,0 +1,28 @@
+AC   P95806;
+2,5-dichlorohydroquinone reductive dechlorinase (EC 2.5.1.-) (2,5-DCHQ
+dechlorinase) (Glutathione-dependent reductive dehalogenase).
+"Cloning and sequencing of a 2,5-dichlorohydroquinone reductive
+dehalogenase gene whose product is involved in degradation of gamma-
+hexachlorocyclohexane by Sphingomonas paucimobilis.";
+"Cloning and characterization of lin genes responsible for the
+degradation of hexachlorocyclohexane isomers by Sphingomonas
+paucimobilis strain B90.";
+-!- FUNCTION: Catalyzes the degradation of 2,5-dichlorohydroquinone
+    (2,5-DCHQ) into hydroquinone (HQ) via chlorohydroquinone (CHQ).
+    The conversion of CHQ to HQ by linD seems not to be essential for
+    the degradation pathway of gamma-HCH in strain UT26, because the
+    conversion rate of CHQ to HQ is much lower than that of 2,5-DCHQ
+    to CHQ. CHQ is more efficiently degraded by linE in strain UT26.
+-!- CATALYTIC ACTIVITY: 2,5-DCHQ = chlorohydroquinone + chloride.
+-!- CATALYTIC ACTIVITY: Chlorohydroquinone = hydroquinone + chloride.
+-!- ENZYME REGULATION: Activated by glutathione.
+-!- PATHWAY: Gamma-hexachlorocyclohexane degradation; fourth step.
+-!- INDUCTION: By 2,5-DCHQ.
+-!- MISCELLANEOUS: The mechanism of this reaction probably involves a
+    glutathione transfer: the halogen is firstly removed through
+    substitution with glutathione, which is then removed by
+    displacement of the aromatic moiety by a second glutathione
+    molecule, producing oxidized glutathione (GS-SG).
+-!- SIMILARITY: Belongs to the GST superfamily.
+Aromatic hydrocarbons catabolism; Detoxification; Transferase.
+TMZERO

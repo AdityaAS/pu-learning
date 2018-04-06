@@ -1,0 +1,14 @@
+AC   Q0ZLH3;
+Pejvakin (Autosomal recessive deafness type 59 protein).
+"Mutations in the gene encoding pejvakin, a newly identified protein
+of the afferent auditory pathway, cause DFNB59 auditory neuropathy.";
+-!- FUNCTION: Essential in the activity of auditory pathway neurons.
+-!- DISEASE: Defects in PJVK are the cause of deafness autosomal
+    recessive 59 (DFNB59) [MIM:610220]. DFNB59 is characterized by
+    hearing impairment in which neural transmission of the auditory
+    signal is impaired, while cochlear outer hair cells remain
+    functional.
+-!- MISCELLANEOUS: 'Pejvakin' means 'echo' in Persian.
+-!- SIMILARITY: Belongs to the gasdermin family.
+Deafness; Disease mutation.
+TMZERO

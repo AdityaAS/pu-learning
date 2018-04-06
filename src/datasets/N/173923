@@ -1,0 +1,12 @@
+AC   O93724;
+Superoxide dismutase [Fe] (EC 1.15.1.1).
+"Genome sequence of the hyperthermophilic crenarchaeon Pyrobaculum
+aerophilum.";
+-!- FUNCTION: Destroys radicals which are normally produced within the
+    cells and which are toxic to biological systems.
+-!- CATALYTIC ACTIVITY: 2 superoxide + 2 H(+) = O(2) + H(2)O(2).
+-!- COFACTOR: Binds 1 iron ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the iron/manganese superoxide dismutase
+    family.
+3D-structure; Complete proteome; Iron; Metal-binding; Oxidoreductase.
+TMZERO

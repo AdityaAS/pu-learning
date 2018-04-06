@@ -1,0 +1,31 @@
+AC   P63102; P35215; P70197; P97286; Q52KK1; Q6IRF4;
+14-3-3 protein zeta/delta (Protein kinase C inhibitor protein 1)
+(KCIP-1) (Mitochondrial import stimulation factor S1 subunit).
+"Molecular cloning of rat cDNAs for the zeta and theta subtypes of 14-
+3-3 protein and differential distributions of their mRNAs in the
+brain.";
+"A gene variation of 14-3-3 zeta isoform in rat hippocampus.";
+"cDNA cloning and characterization of mitochondrial import stimulation
+factor (MSF) purified from rat liver cytosol.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Cloning and characterization of the epsilon and zeta isoforms of the
+14-3-3 proteins.";
+"Characterization of zetin 1/rBSPRY, a novel binding partner of 14-3-3
+proteins.";
+-!- FUNCTION: Adapter protein implicated in the regulation of a large
+    spectrum of both general and specialized signaling pathway. Binds
+    to a large number of partners, usually by recognition of a
+    phosphoserine or phosphothreonine motif. Binding generally results
+    in the modulation of the activity of the binding partner.
+-!- SUBUNIT: Homodimer. Interacts with MLLT7/FOXO4, PCTK1 and SSH1.
+    Binds to the C-terminal part of WEE1 (By similarity). Interacts
+    with BSPRY.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: Highly expressed in brain (at protein level).
+-!- PTM: Isoform delta differs from isoform zeta in being
+    phosphorylated (By similarity).
+-!- SIMILARITY: Belongs to the 14-3-3 family.
+ GO:0019904; F:protein domain specific binding; ISS:UniProtKB.
+Acetylation; Direct protein sequencing; Phosphorylation.
+TMZERO

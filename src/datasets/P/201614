@@ -1,0 +1,43 @@
+AC   P25515;
+Vacuolar ATP synthase subunit c (EC 3.6.3.14) (V-ATPase c subunit)
+(Vacuolar proton pump c subunit) (V-ATPase 16 kDa proteolipid subunit
+1).
+"The progenitor of ATP synthases was closely related to the current
+vacuolar H+-ATPase.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Mutational analysis of yeast vacuolar H(+)-ATPase.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Proton-conducting pore forming subunit of the membrane
+    integral V0 complex of vacuolar ATPase. V-ATPase is responsible
+    for acidifying a variety of intracellular compartments in
+    eukaryotic cells. It is an electrogenic proton pump that generates
+    a proton motive force of 180 mv, inside positive and acidic, in
+    the vacuolar membrane vesicles.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'', d and e). The proteolipid components c, c' and c'' are
+    present as a hexameric ring that forms the proton-conducting pore.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- MISCELLANEOUS: Present with 8450 molecules/cell.
+-!- SIMILARITY: Belongs to the V-ATPase proteolipid subunit family.
+ GO:0000220; C:hydrogen-transporting ATPase V0 domain; TAS:SGD.
+ GO:0016021; C:integral to membrane; IDA:SGD.
+ GO:0015078; F:hydrogen ion transporter activity; TAS:SGD.
+ GO:0006878; P:copper ion homeostasis; IMP:SGD.
+ GO:0006897; P:endocytosis; IMP:SGD.
+ GO:0006879; P:iron ion homeostasis; IMP:SGD.
+ GO:0006623; P:protein targeting to vacuole; IMP:SGD.
+ GO:0015992; P:proton transport; TAS:SGD.
+ GO:0007035; P:vacuolar acidification; TAS:SGD.
+ GO:0007033; P:vacuole organization and biogenesis; IMP:SGD.
+ATP synthesis; Complete proteome; Hydrogen ion transport; Hydrolase;
+Ion transport; Membrane; Transmembrane; Transport; Vacuole.
+TMFOUR

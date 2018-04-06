@@ -1,0 +1,19 @@
+AC   P36606;
+Na(+)/H(+) antiporter.
+"Gene amplification at a locus encoding a putative Na+/H+ antiporter
+confers sodium and lithium tolerance in fission yeast.";
+"The genome sequence of Schizosaccharomyces pombe.";
+"Identification and localization of the sod2 gene product in fission
+yeast.";
+-!- FUNCTION: Sodium export from cell, takes up external protons in
+    exchange for internal sodium ions. Involved in regulation of pH.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the fungal Na(+)/H(+) exchanger family.
+ GO:0042175; C:nuclear envelope-endoplasmic reticulum network; IDA:GeneDB_SPombe.
+ GO:0005886; C:plasma membrane; IDA:GeneDB_SPombe.
+ GO:0015081; F:sodium ion transporter activity; TAS:GeneDB_SPombe.
+ GO:0006883; P:sodium ion homeostasis; IGI:GeneDB_SPombe.
+ GO:0006814; P:sodium ion transport; TAS:GeneDB_SPombe.
+Antiport; Complete proteome; Glycoprotein; Ion transport; Membrane;
+Sodium; Sodium transport; Transmembrane; Transport.
+TMTWELVE

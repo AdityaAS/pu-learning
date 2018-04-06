@@ -1,0 +1,13 @@
+AC   P21906; Q5NQL4;
+Glucose facilitated diffusion protein.
+"Sequence and genetic organization of a Zymomonas mobilis gene cluster
+that encodes several enzymes of glucose metabolism.";
+"The genome sequence of the ethanologenic bacterium Zymomonas mobilis
+ZM4.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

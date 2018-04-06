@@ -1,0 +1,12 @@
+AC   P0AFY7; P24212; P71313; P75702;
+Protein sbmA.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Required for the uptake of the peptide antibiotic
+    microcin B17 (MccB17) (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: To R.meliloti bacA.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMSEVEN

@@ -1,0 +1,17 @@
+AC   Q9VG97; Q8MT68;
+Glutathione S-transferase D3 (EC 2.5.1.18) (DmGST22).
+"The glutathione S-transferase D genes. A divergently organized,
+intronless gene family in Drosophila melanogaster.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: Conjugation of reduced glutathione to a wide number of
+    exogenous and endogenous hydrophobic electrophiles (By
+    similarity).
+-!- CATALYTIC ACTIVITY: RX + glutathione = HX + R-S-glutathione.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the GST superfamily. Theta family.
+ GO:0004364; F:glutathione transferase activity; NAS:UniProtKB.
+Complete proteome; Transferase.
+TMZERO

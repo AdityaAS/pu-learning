@@ -1,0 +1,33 @@
+AC   O22397; O50043;
+Potassium transporter 1 (AtPOT1) (AtKUP1) (AtKT1).
+"A new family of K+ transporters from Arabidopsis that are conserved
+across phyla.";
+"AtKUP1: an Arabidopsis gene encoding high-affinity potassium
+transport activity.";
+"AtKUP1: a dual-affinity K+ transporter from Arabidopsis.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Phylogenetic relationships within cation transporter families of
+Arabidopsis.";
+-!- FUNCTION: High-affinity potassium transporter that could play a
+    major role in the uptake of potassium from the rhizosphere. May
+    act as a low-affinity potassium transporter under high potassium
+    concentrations. Could also transport rubidium.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O22397-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O22397-2; Sequence=VSP_008984;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Detected in the whole mature plant but
+    preferentially expressed in roots and stems, and in potassium-
+    starved plants.
+-!- MISCELLANEOUS: Low-affinity activity is strongly inhibited by
+    barium or cesium.
+-!- SIMILARITY: Belongs to the HAK/KUP transporter (TC 2.A.72) family.
+Alternative splicing; Ion transport; Membrane; Potassium;
+Potassium transport; Transmembrane; Transport.
+TMTWELVE

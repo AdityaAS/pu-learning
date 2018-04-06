@@ -1,0 +1,16 @@
+AC   Q71ZE6;
+Adenine phosphoribosyltransferase (EC 2.4.2.7) (APRT).
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- FUNCTION: Catalyzes a salvage reaction resulting in the formation
+    of AMP, that is energically less costly than de novo synthesis.
+-!- CATALYTIC ACTIVITY: AMP + diphosphate = adenine + 5-phospho-alpha-
+    D-ribose 1-diphosphate.
+-!- PATHWAY: Purine salvage.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the purine/pyrimidine
+    phosphoribosyltransferase family.
+Complete proteome; Glycosyltransferase; Purine salvage; Transferase.
+TMZERO

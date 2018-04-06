@@ -1,0 +1,17 @@
+AC   P19141; O18790;
+Beta crystallin B3 (Beta-B3-crystallin).
+"Homology between the primary structures of the major bovine beta-
+crystallin chains.";
+"Confirmation of bovine beta-B3 crystallin sequence.";
+-!- FUNCTION: Crystallins are the dominant structural components of
+    the vertebrate eye lens.
+-!- SUBUNIT: Homo/heterodimer, or complexes of higher order. The
+    structure of beta-crystallin oligomers seems to be stabilized
+    through interactions between the N-terminal arms (By similarity).
+-!- DOMAIN: Has a two-domain beta-structure, folded into four very
+    similar Greek key motifs.
+-!- SIMILARITY: Belongs to the beta/gamma-crystallin family.
+-!- SIMILARITY: Contains 4 beta/gamma crystallin 'Greek key' domains.
+Acetylation; Direct protein sequencing; Eye lens protein; Methylation;
+Oxidation; Phosphorylation; Repeat.
+TMZERO

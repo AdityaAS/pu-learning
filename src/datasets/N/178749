@@ -1,0 +1,13 @@
+AC   Q5L512;
+Alanyl-tRNA synthetase (EC 6.1.1.7) (Alanine--tRNA ligase) (AlaRS).
+"The Chlamydophila abortus genome sequence reveals an array of
+variable proteins that contribute to interspecies variation.";
+-!- CATALYTIC ACTIVITY: ATP + L-alanine + tRNA(Ala) = AMP +
+    diphosphate + L-alanyl-tRNA(Ala).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

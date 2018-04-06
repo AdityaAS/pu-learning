@@ -1,0 +1,28 @@
+AC   Q9CQ75; Q9WUB2;
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2
+(EC 1.6.5.3) (EC 1.6.99.3) (NADH-ubiquinone oxidoreductase B8 subunit)
+(Complex I-B8) (CI-B8).
+"Up-regulation of nuclear and mitochondrial genes in the skeletal
+muscle of mice lacking the heart/muscle isoform of the adenine
+nucleotide translocator.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Substrate and functional diversity of lysine acetylation revealed by
+a proteomics survey.";
+-!- FUNCTION: Transfer of electrons from NADH to the respiratory
+    chain. The immediate electron acceptor for the enzyme is believed
+    to be ubiquinone (By similarity).
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- CATALYTIC ACTIVITY: NADH + acceptor = NAD(+) + reduced acceptor.
+-!- SUBUNIT: Complex I is composed of 45 different subunits (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    matrix side (By similarity).
+-!- PTM: Acetylation of Lys-63 and Lys-74 is observed in liver
+    mitochondria from fasted mice but not from fed mice.
+ GO:0005739; C:mitochondrion; IDA:MGI.
+ GO:0005747; C:respiratory chain complex I (sensu Eukaryota); TAS:MGI.
+ GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; TAS:MGI.
+Acetylation; Mitochondrion; NAD; Oxidoreductase; Ubiquinone.
+TMZERO

@@ -1,0 +1,13 @@
+AC   Q00251;
+Elongation factor 1-alpha (EF-1-alpha).
+"Cloning and characterization of the gene encoding translation
+elongation factor 1 alpha from Aureobasidium pullulans.";
+-!- FUNCTION: This protein promotes the GTP-dependent binding of
+    aminoacyl-tRNA to the A-site of ribosomes during protein
+    biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the GTP-binding elongation factor family.
+    EF-Tu/EF-1A subfamily.
+Elongation factor; GTP-binding; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

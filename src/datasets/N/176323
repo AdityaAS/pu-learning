@@ -1,0 +1,17 @@
+AC   Q03255;
+Sex-determining region Y protein (Testis-determining factor).
+"Sequence evolution of SRY gene within Bovidae family.";
+"Cloning and characterization of bovine SRY gene.";
+"Comparative HMG-box sequences of the SRY gene between sheep, cattle
+and goats.";
+"Amplification and analysis of a male-specific SRY homologous sequence
+of cattle.";
+-!- FUNCTION: Transcriptional activator which regulates a genetic
+    switch in male development. It is responsible for initiating male
+    sex determination. SRY HMG box recognizes DNA by partial
+    intercalation in the minor groove.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Contains 1 HMG box DNA-binding domain.
+Activator; Differentiation; DNA-binding; Nuclear protein;
+Sexual differentiation; Transcription; Transcription regulation.
+TMZERO

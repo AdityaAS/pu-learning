@@ -1,0 +1,52 @@
+AC   Q9UHI7; O95191; Q8WWB6; Q9UGH4; Q9UI39;
+Solute carrier family 23 member 1 (Sodium-dependent vitamin C
+transporter 1) (hSVCT1) (Na(+)/L-ascorbic acid transporter 1) (Yolk
+sac permease-like molecule 3).
+"Molecular characterization of two novel transporters from human and
+mouse kidney and from LLC-PK1 cells reveals a novel conserved family
+that is homologous to bacterial and Aspergillus nucleobase
+transporters.";
+"Human Na(+)-dependent vitamin C transporter 1 (hSVCT1): primary
+structure, functional characteristics and evidence for a non-
+functional splice variant.";
+"Cloning and functional characterization of the human sodium-dependent
+vitamin C transporters hSVCT1 and hSVCT2.";
+"Human vitamin C (L-ascorbic acid) transporter SVCT1.";
+"Characterization of the genomic structure of the human vitamin C
+transporter SVCT1 (SLC23A2).";
+"Vitamin C transport systems of mammalian cells.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Sodium/ascorbate cotransporter. Mediates electrogenic
+    uptake of vitamin C, with a stoichiometry of 2 Na(+) for each
+    ascorbate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+      Comment=Experimental confirmation may be lacking for some
+      isoforms;
+    Name=1;
+      IsoId=Q9UHI7-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9UHI7-2; Sequence=VSP_006814;
+      Note=Inactive;
+    Name=3;
+      IsoId=Q9UHI7-3; Sequence=VSP_006813;
+-!- TISSUE SPECIFICITY: Highly expressed in adult small intestine,
+    kidney, thymus, ovary, colon, prostate and liver, and in fetal
+    kidney, liver and thymus.
+-!- PTM: Phosphorylated (Probable).
+-!- MISCELLANEOUS: Treatment with the protein kinase C stimulator PMA
+    results in a 10-fold decrease in ascorbate accumulation in
+    transfected cells.
+-!- SIMILARITY: Belongs to the xanthine/uracil permease family. SLC23A
+    subfamily.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0015205; F:nucleobase transporter activity; TAS:ProtInc.
+ GO:0015851; P:nucleobase transport; TAS:ProtInc.
+ GO:0006139; P:nucleobase, nucleoside, nucleotide and nucl...; TAS:ProtInc.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Phosphorylation; Sodium; Sodium transport; Symport; Transmembrane;
+Transport.
+TMTWELVE

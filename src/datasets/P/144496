@@ -1,0 +1,18 @@
+AC   P27243; Q2M7T6;
+O-antigen ligase.
+"Comparison of lipopolysaccharide biosynthesis genes rfaK, rfaL, rfaY,
+and rfaZ of Escherichia coli K-12 and Salmonella typhimurium.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Adds the O-antigen on the glucose group of LPS.
+-!- PATHWAY: Lipopolysaccharide core biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+Complete proteome; Inner membrane; Ligase;
+Lipopolysaccharide biosynthesis; Membrane; Transmembrane.
+TMTWELVE

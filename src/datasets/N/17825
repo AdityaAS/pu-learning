@@ -1,0 +1,39 @@
+AC   Q6J6J0; O46486;
+Breast cancer type 1 susceptibility protein homolog.
+"Evolution of the tumor suppressor BRCA1 locus in primates:
+implications for cancer predisposition.";
+"Evolutionary sequence comparisons using high-density oligonucleotide
+arrays.";
+-!- FUNCTION: Plays a central role in DNA repair by facilitating
+    cellular response to DNA repair. Required for appropriate cell
+    cycle arrests after ionizing irradiation in both the S-phase and
+    the G2 phase of the cell cycle. Involved in transcriptional
+    regulation of P21 in response to DNA damage. Required for FANCD2
+    targeting to sites of DNA damage. May function as a
+    transcriptional regulator. Mediates E2-dependent ubiquitination.
+    Inhibits lipid synthesis by binding to inactive phosphorylated
+    ACACA and preventing its dephosphorylation (By similarity).
+-!- SUBUNIT: Part of the BRCA1-associated genome surveillance complex
+    (BASC), which contains BRCA1, MSH2, MSH6, MLH1, ATM, BLM, PMS2 and
+    the RAD50-MRE11-NBN protein complex. This association could be a
+    dynamic process changing throughout the cell cycle and within
+    subnuclear domains. CTIP interacts specifically with the BRCT
+    domains. Interacts with RNA polymerase II holoenzyme. Interacts
+    with SMC1A and COBRA1/NELFB. Binds BRIP1 through the BRCT domains.
+    Interacts with ubiquitinated FANCD2. Interacts with BAP1.
+    Interacts with DCLRE1C/Artemis and CLSPN. Interacts with histone
+    H2AFX and this requires phosphorylation of H2AFX. Interacts with
+    CHEK1/CHK1. Interacts with BRCC3. Interacts through its BRCT
+    domains with phosphorylated ACACA and prevents its
+    dephosphorylation (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- DOMAIN: The RING-type zinc finger domain interacts with BAP1 (By
+    similarity).
+-!- PTM: Phosphorylated on Ser-1423 in response to IR, UV, and various
+    stimuli that cause checkpoint activation (By similarity).
+-!- SIMILARITY: Contains 2 BRCT domains.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+Anti-oncogene; Cell cycle; DNA damage; DNA repair; DNA-binding;
+Fatty acid biosynthesis; Lipid synthesis; Metal-binding;
+Nuclear protein; Phosphorylation; Repeat; Zinc; Zinc-finger.
+TMZERO

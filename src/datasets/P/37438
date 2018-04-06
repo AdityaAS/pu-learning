@@ -1,0 +1,20 @@
+AC   P0ABJ2; P18400;
+Ubiquinol oxidase subunit 2 precursor (EC 1.10.3.-) (Ubiquinol oxidase
+polypeptide II) (Cytochrome o subunit 2) (Oxidase BO(3) subunit 2)
+(Cytochrome o ubiquinol oxidase subunit 2) (Ubiquinol oxidase chain
+B).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Cytochrome o terminal oxidase complex is the component
+    of the aerobic respiratory chain that predominates when cells are
+    grown at high aeration (By similarity).
+-!- CATALYTIC ACTIVITY: Ubiquinol-8 + O(2) = Ubiquinone-8 + H(2)O.
+-!- SUBUNIT: Heterooctamer of two A chains, two B chains, two C chains
+    and two D chains (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 2 family.
+Complete proteome; Electron transport; Inner membrane; Lipoprotein;
+Membrane; Oxidoreductase; Palmitate; Respiratory chain; Signal;
+Transmembrane; Transport.
+TMTWO

@@ -1,0 +1,13 @@
+AC   Q8EGU3;
+Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27) (ADP-glucose
+synthase) (ADP-glucose pyrophosphorylase) (ADPGlc PPase).
+"Genome sequence of the dissimilatory metal ion-reducing bacterium
+Shewanella oneidensis.";
+-!- CATALYTIC ACTIVITY: ATP + alpha-D-glucose 1-phosphate =
+    diphosphate + ADP-glucose.
+-!- PATHWAY: Glycogen biosynthesis; first step.
+-!- SIMILARITY: Belongs to the bacterial/plant glucose-1-phosphate
+    adenylyltransferase family.
+Complete proteome; Glycogen biosynthesis; Nucleotidyltransferase;
+Transferase.
+TMZERO

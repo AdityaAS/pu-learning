@@ -1,0 +1,18 @@
+AC   Q65G67; Q62RM1;
+Argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate
+ligase).
+"The complete genome sequence of Bacillus licheniformis DSM13, an
+organism with great industrial potential.";
+"Complete genome sequence of the industrial bacterium Bacillus
+licheniformis and comparisons with closely related Bacillus species.";
+-!- CATALYTIC ACTIVITY: ATP + L-citrulline + L-aspartate = AMP +
+    diphosphate + omega-N-(L-arginino)succinate.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; L-
+    arginine from L-ornithine and carbamoyl phosphate: step 2.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the argininosuccinate synthase family. Type
+    1 subfamily.
+Amino-acid biosynthesis; Arginine biosynthesis; ATP-binding;
+Complete proteome; Ligase; Nucleotide-binding.
+TMZERO

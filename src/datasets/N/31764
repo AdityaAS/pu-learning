@@ -1,0 +1,23 @@
+AC   Q27606; Q24130; Q24291; Q9V4T4;
+Cytochrome P450 4e2 (EC 1.14.-.-) (CYPIVE2).
+"The sequence of a Drosophila Cyp4e2 cytochrome P450-encoding cDNA.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Cloning and expression study of CYP4E2 a novel P450 gene in
+Drosophila.";
+"Cytochrome P450 gene clusters in Drosophila melanogaster.";
+-!- FUNCTION: May be involved in the metabolism of insect hormones and
+    in the breakdown of synthetic insecticides (By similarity).
+-!- CATALYTIC ACTIVITY: RH + reduced flavoprotein + O(2) = ROH +
+    oxidized flavoprotein + H(2)O.
+-!- INTERACTION:
+    Q9W2N2:CG9350; NbExp=1; IntAct=EBI-85237, EBI-162439;
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; peripheral membrane protein (Potential).
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Endoplasmic reticulum; Heme; Iron; Membrane;
+Metal-binding; Microsome; Monooxygenase; Oxidoreductase.
+TMZERO

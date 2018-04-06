@@ -1,0 +1,13 @@
+AC   Q53I51; Q55U29; Q5KIB3;
+Chitin deacetylase precursor (EC 3.5.1.41).
+"Characterization of two novel cryptococcal mannoproteins recognized
+by immune sera.";
+"The genome of the basidiomycetous yeast and human pathogen
+Cryptococcus neoformans.";
+-!- FUNCTION: Hydrolyzes the N-acetamido groups of N-acetyl-D-
+    glucosamine residues in chitin.
+-!- CATALYTIC ACTIVITY: Chitin + H(2)O = chitosan + acetate.
+-!- SIMILARITY: Belongs to the polysaccharide deacetylase family.
+ GO:0004099; F:chitin deacetylase activity; IEA:EC.
+Complete proteome; Glycoprotein; Hydrolase; Signal.
+TMZERO

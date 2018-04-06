@@ -1,0 +1,12 @@
+AC   P32071;
+Cycloheximide resistance protein.
+"Cloning and sequence analysis of a Candida maltosa gene which confers
+resistance to cycloheximide.";
+-!- FUNCTION: Probable transporter. Confers resistance to
+    cycloheximide.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. CAR1
+    family.
+Antibiotic resistance; Cycloheximide resistance; Membrane;
+Transmembrane; Transport.
+TMTWELVE

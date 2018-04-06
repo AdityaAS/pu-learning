@@ -1,0 +1,21 @@
+AC   P52476;
+Aldehyde dehydrogenase X, mitochondrial precursor (EC 1.2.1.3)
+(Aldehyde dehydrogenase family 1 member B1) (ALDH class 2) (ALDHX)
+(Fragment).
+"Bovine corneal aldehyde dehydrogenases: evidence for multiple gene
+products (ALDH3 and ALDHX).";
+-!- FUNCTION: ALDHs play a major role in the detoxification of
+    alcohol-derived acetaldehyde. They are involved in the metabolism
+    of corticosteroids, biogenic amines, neurotransmitters, and lipid
+    peroxidation. In the cornea, this enzyme may help in the
+    absorption of the damaging UV-B, as well as in the detoxification
+    of the UV-induced peroxidic aldehydes.
+-!- CATALYTIC ACTIVITY: An aldehyde + NAD(+) + H(2)O = an acid + NADH.
+-!- PATHWAY: Ethanol utilization; second step.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix (By
+    similarity).
+-!- SIMILARITY: Belongs to the aldehyde dehydrogenase family.
+ GO:0004029; F:aldehyde dehydrogenase (NAD) activity; IEA:EC.
+Mitochondrion; NAD; Oxidoreductase; Transit peptide.
+TMZERO

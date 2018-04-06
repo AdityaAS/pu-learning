@@ -1,0 +1,26 @@
+AC   P21345; Q2M6M7;
+Proton glutamate symport protein (Glutamate-aspartate carrier
+protein).
+"Cloning and sequencing of a gene encoding a glutamate and aspartate
+carrier of Escherichia coli K-12.";
+"Revised nucleotide sequence of the gltP gene, which encodes the
+proton-glutamate-aspartate transport protein of Escherichia coli K-
+12.";
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: This carrier protein is part of the Na(+)-independent,
+    binding-protein-independent glutamate-aspartate transport system.
+-!- ENZYME REGULATION: Glutamate uptake was inhibited by L-cysteate
+    and beta-hydroxyaspartate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the sodium:dicarboxylate (SDF) symporter
+    (TC 2.A.23) family.
+Complete proteome; Inner membrane; Membrane; Symport; Transmembrane;
+Transport.
+TMTWELVE

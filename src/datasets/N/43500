@@ -1,0 +1,17 @@
+AC   O35723; Q9DAN3; Q9DAN4;
+DnaJ homolog subfamily B member 3 (DnaJ protein homolog 3) (Heat shock
+J3 protein) (HSJ-3) (MSJ-1).
+"MSJ-1, a new member of the DNAJ family of proteins, is a male germ
+cell-specific gene product.";
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: May operate as a co-chaperone of the male germ cell- and
+    haploid stage-specific Hsp70 proteins.
+-!- TISSUE SPECIFICITY: Testis specific. Expression is confined to the
+    germ line without any contribution of the somatic components.
+-!- DEVELOPMENTAL STAGE: Its expression occurs in the postmeiotic
+    phase of male germ cell development. First detected in 30 days old
+    mice and thereafter into adulthood. Barely detectable in 20 days
+    old mice and absent before this period.
+-!- SIMILARITY: Contains 1 J domain.
+Chaperone.
+TMZERO

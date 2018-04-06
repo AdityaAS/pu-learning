@@ -1,0 +1,22 @@
+AC   P31549; P75636;
+Thiamine transport system permease protein thiP.
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"thiBPQ encodes an ABC transporter required for transport of thiamine
+and thiamine pyrophosphate in Salmonella typhimurium.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    tbpA-thiPQ for thiamine and TPP. Probably responsible for the
+    translocation of the substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. CysTW subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+Complete proteome; Inner membrane; Membrane; Repeat; Transmembrane;
+Transport.
+TMTWELVE

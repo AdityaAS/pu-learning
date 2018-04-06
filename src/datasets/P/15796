@@ -1,0 +1,62 @@
+AC   P02945; Q9HPU5;
+Bacteriorhodopsin precursor (BR).
+"The bacteriorhodopsin gene.";
+"Studies on the light-transducing pigment bacteriorhodopsin.";
+"Bacterioopsin, haloopsin, and sensory opsin I of the halobacterial
+isolate Halobacterium sp. strain SG1: three new members of a growing
+family.";
+"Bacteriorhodopsin precursor. Characterization and its integration
+into the purple membrane.";
+"Genome sequence of Halobacterium species NRC-1.";
+"The amino acid sequence of bacteriorhodopsin.";
+"Amino acid sequence of bacteriorhodopsin.";
+"Mass spectrometric analysis of integral membrane proteins:
+application to complete mapping of bacteriorhodopsins and rhodopsin.";
+"Attachment site(s) of retinal in bacteriorhodopsin.";
+"Electrospray-ionization mass spectrometry of intact intrinsic
+membrane proteins.";
+"Bicelle crystallization: a new method for crystallizing membrane
+proteins yields a monomeric bacteriorhodopsin structure.";
+"Tertiary structure of bacteriorhodopsin. Positions and orientations
+of helices A and B in the structural map determined by neutron
+diffraction.";
+"Model for the structure of bacteriorhodopsin based on high-resolution
+electron cryo-microscopy.";
+"Electron-crystallographic refinement of the structure of
+bacteriorhodopsin.";
+"Three-dimensional structure of proteolytic fragment 163-231 of
+bacterioopsin determined from nuclear magnetic resonance data in
+solution.";
+"1H-15N-NMR studies of bacteriorhodopsin Halobacterium halobium.
+Conformational dynamics of the four-helical bundle.";
+"Surface of bacteriorhodopsin revealed by high-resolution electron
+crystallography.";
+"X-ray structure of bacteriorhodopsin at 2.5-A from microcrystals
+grown in lipidic cubic phases.";
+"Lipid patches in membrane protein oligomers: crystal structure of the
+bacteriorhodopsin-lipid complex.";
+"Proton transfer pathways in bacteriorhodopsin at 2.3 Angstrom
+resolution.";
+"Structure of bacteriorhodopsin at 1.55-A resolution.";
+"High-resolution X-ray structure of an early intermediate in the
+bacteriorhodopsin photocycle.";
+"Protein, lipid and water organization in bacteriorhodopsin crystals:
+a molecular view of the purple membrane at 1.9 A resolution.";
+"Coupling photoisomerization of retinal to directional transport in
+bacteriorhodopsin.";
+"Helix deformation is coupled to vectorial proton transport in the
+photocycle of bacteriorhodopsin.";
+"Molecular mechanism of vectorial proton translocation by
+bacteriorhodopsin.";
+-!- FUNCTION: Light-driven proton pump.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- MASS SPECTROMETRY: MW=27052.5; MW_ERR=2.7; METHOD=Electrospray;
+    RANGE=14-261; NOTE=Ref.10.
+-!- SIMILARITY: Belongs to the archaeal/bacterial/fungal opsin family.
+3D-structure; Chromophore; Complete proteome;
+Direct protein sequencing; Hydrogen ion transport; Ion transport;
+Membrane; Photoreceptor protein; Pyrrolidone carboxylic acid;
+Receptor; Retinal protein; Sensory transduction; Transmembrane;
+Transport.
+TMSEVEN

@@ -1,0 +1,17 @@
+AC   Q5HKF6;
+Extracellular cysteine protease precursor (EC 3.4.22.-) (Staphopain).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Cysteine protease able to cleave elastin, insulin,
+    myoglobin, fibronectin, fibrinogen, HMW-kininogen, alpha-1-
+    protease inhibitor and alpha-1-antitrypsin. Along with other
+    extracellular proteases may contribute to the colonization and
+    infection of human tissues (By similarity).
+-!- SUBCELLULAR LOCATION: Cell wall. Secreted protein (By similarity).
+-!- PTM: Proteolytically cleaved (By similarity).
+-!- SIMILARITY: Belongs to the peptidase C47 family.
+Complete proteome; Hydrolase; Protease; Signal; Thiol protease;
+Virulence; Zymogen.
+TMZERO

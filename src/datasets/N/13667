@@ -1,0 +1,18 @@
+AC   P12862;
+ATP synthase subunit alpha, mitochondrial (EC 3.6.3.14).
+"Wheat mitochondrial DNA: organization and sequences of the atpA and
+atp9 genes.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane. The alpha chain is a regulatory
+    subunit.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+ATP synthesis; ATP-binding; CF(1); Hydrogen ion transport; Hydrolase;
+Ion transport; Mitochondrion; Nucleotide-binding; Transport.
+TMZERO

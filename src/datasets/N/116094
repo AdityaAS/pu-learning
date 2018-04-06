@@ -1,0 +1,21 @@
+AC   Q9LE73;
+Nudix hydrolase 4 (EC 3.6.1.-) (AtNUDT4) (ADP-ribose pyrophosphatase)
+(EC 3.6.1.13) (NADH pyrophosphatase) (EC 3.6.1.22).
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Comprehensive analysis of cytosolic nudix hydrolases in Arabidopsis
+thaliana.";
+-!- FUNCTION: Probably mediates the hydrolysis of some nucleoside
+    diphosphate derivatives. In vitro, it can use both NADH and ADP-
+    ribose as substrates; however the relevance of such substrates in
+    vivo is unclear.
+-!- CATALYTIC ACTIVITY: ADP-ribose + H(2)O = AMP + D-ribose 5-
+    phosphate.
+-!- CATALYTIC ACTIVITY: NAD(+) + H(2)O = AMP + NMN.
+-!- COFACTOR: Magnesium or manganese (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in roots, stems and leaves.
+-!- SIMILARITY: Belongs to the Nudix hydrolase family.
+Hydrolase; Magnesium; Manganese; Metal-binding; NAD.
+TMZERO

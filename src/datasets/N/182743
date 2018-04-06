@@ -1,0 +1,15 @@
+AC   Q8UEQ2;
+Seryl-tRNA synthetase (EC 6.1.1.11) (Serine--tRNA ligase) (SerRS).
+"The genome of the natural genetic engineer Agrobacterium tumefaciens
+C58.";
+"Genome sequence of the plant pathogen and biotechnology agent
+Agrobacterium tumefaciens C58.";
+-!- CATALYTIC ACTIVITY: ATP + L-serine + tRNA(Ser) = AMP + diphosphate
+    + L-seryl-tRNA(Ser).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

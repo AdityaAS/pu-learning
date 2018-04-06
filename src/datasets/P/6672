@@ -1,0 +1,32 @@
+AC   P69681; P37905; Q2MBX5;
+Ammonia channel precursor (Ammonia transporter).
+"An alternative PII protein in the regulation of glutamine synthetase
+in Escherichia coli.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Cloning, sequencing, and characterization of Escherichia coli
+thioesterase II.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+"Membrane topology of the Mep/Amt family of ammonium transporters.";
+"The glnKamtB operon. A conserved gene pair in prokaryotes.";
+"Purification of the Escherichia coli ammonium transporter AmtB
+reveals a trimeric stoichiometry.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"The mechanism of ammonia transport based on the crystal structure of
+AmtB of Escherichia coli.";
+"Mechanism of ammonia transport by Amt/MEP/Rh: structure of AmtB at
+1.35 A.";
+-!- FUNCTION: Involved in the uptake of ammonia.
+-!- SUBUNIT: Homotrimer. May interact with glnK.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the ammonium transporter (TC 2.A.49)
+    family.
+3D-structure; Ammonia transport; Complete proteome;
+Direct protein sequencing; Inner membrane; Membrane; Signal;
+Transmembrane; Transport.
+TMELEVEN

@@ -1,0 +1,23 @@
+AC   P36554; P76400; Q54A55;
+Putative multidrug resistance protein mdtD.
+"The putative response regulator BaeR stimulates multidrug resistance
+of Escherichia coli via a novel multidrug exporter system, MdtABC.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Novel members of the two-component signal transduction genes in
+Escherichia coli.";
+"The baeSR two-component regulatory system activates transcription of
+the yegMNOB (mdtABCD) transporter gene cluster in Escherichia coli and
+increases its resistance to novobiocin and deoxycholate.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Transcriptionally regulated by baeR.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. TCR/tet
+    family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

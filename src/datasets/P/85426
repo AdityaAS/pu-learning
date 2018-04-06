@@ -1,0 +1,22 @@
+AC   P36035;
+Carboxylic acid transporter protein homolog.
+"The complete sequencing of a 24.6 kb segment of yeast chromosome XI
+identified the known loci URA1, SAC1 and TRP3, and revealed 6 new open
+reading frames including homologues to the threonine dehydratases,
+membrane transporters, hydantoinases and the phospholipase A2-
+activating protein.";
+"Complete DNA sequence of yeast chromosome XI.";
+"A proteomics approach to understanding protein ubiquitination.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Essential to lactate transport.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0015129; F:lactate transporter activity; IDA:SGD.
+ GO:0015727; P:lactate transport; IDA:SGD.
+Complete proteome; Membrane; Phosphorylation; Repeat; Transmembrane;
+Transport; Ubl conjugation.
+TMTWELVE

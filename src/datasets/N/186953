@@ -1,0 +1,17 @@
+AC   P09499; Q89235;
+TGB1 helicase (EC 3.6.1.-) (Triple gene block 1 protein) (TGBp1) (25
+kDa protein) (ORF 2 protein).
+"The complete nucleotide sequence of the potexvirus white clover
+mosaic virus.";
+"Organization and interviral homologies of the coat protein gene of
+white clover mosaic virus.";
+"A new cell-to-cell transport model for Potexviruses.";
+-!- FUNCTION: The three proteins TGB1, TGB2 and TGB3 are required for
+    virus movement. Multifunctional protein that has RNA helicase
+    activity, promotes translation of viral RNAs, increases
+    plasmodesmal size exclusion limits, and suppresses RNA silencing.
+-!- SIMILARITY: Belongs to the potexviruses/carlaviruses TGB1 helicase
+    family.
+ATP-binding; Helicase; Hydrolase; Nucleotide-binding; RNA replication;
+Transport; Viral movement protein.
+TMZERO

@@ -1,0 +1,12 @@
+AC   Q9JTM5;
+Ribose-5-phosphate isomerase A (EC 5.3.1.6) (Phosphoriboisomerase A)
+(PRI).
+"Complete DNA sequence of a serogroup A strain of Neisseria
+meningitidis Z2491.";
+-!- CATALYTIC ACTIVITY: D-ribose 5-phosphate = D-ribulose 5-phosphate.
+-!- PATHWAY: Carbohydrate degradation; pentose phosphate pathway; D-
+    ribose 5-phosphate from D-ribulose 5-phosphate (non-oxidative
+    stage): single step.
+-!- SIMILARITY: Belongs to the ribose 5-phosphate isomerase family.
+Complete proteome; Isomerase.
+TMZERO

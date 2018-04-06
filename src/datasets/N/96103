@@ -1,0 +1,15 @@
+AC   Q6FV34;
+L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl
+transferase (EC 2.7.8.-) (AASD-PPT).
+"Genome evolution in yeasts.";
+-!- FUNCTION: Catalyzes the transfer of a 4'-phosphopantetheine moiety
+    from coenzyme A to a serine residue of acceptor proteins, such as
+    alpha-aminoadipate reductase. Necessary for alpha-aminoadipate
+    reductase activity (By similarity).
+-!- CATALYTIC ACTIVITY: CoA-[4'-phosphopantetheine] + apo-[acyl-
+    carrier-protein] = adenosine 3',5'-bisphosphate + holo-[acyl-
+    carrier-protein].
+-!- SIMILARITY: Belongs to the P-Pant transferase superfamily. AcpS
+    family.
+Complete proteome; Transferase.
+TMZERO

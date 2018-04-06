@@ -1,0 +1,11 @@
+AC   Q9UPN6; Q5TBU6; Q9BQN8; Q9BX43;
+Putative RNA-binding protein 16 (RNA-binding motif protein 16).
+"Prediction of the coding sequences of unidentified human genes. XIV.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+"The DNA sequence and analysis of human chromosome 6.";
+"Large-scale characterization of HeLa cell nuclear phosphoproteins.";
+-!- SIMILARITY: Contains 1 RPR domain.
+-!- SIMILARITY: Contains 1 RRM (RNA recognition motif) domain.
+Phosphorylation; RNA-binding.
+TMZERO

@@ -1,0 +1,20 @@
+AC   O23878;
+13S globulin seed storage protein 1 precursor (Legumin-like protein 1)
+[Contains: 13S globulin seed storage protein 1 acidic chain; 13S
+globulin seed storage protein 1 basic chain].
+"Expression, cloning, and immunological analysis of buckwheat
+(Fagopyrum esculentum Moench) seed storage proteins.";
+-!- FUNCTION: Seed storage protein.
+-!- SUBUNIT: Hexamer; each subunit is composed of an acidic and a
+    basic chain derived from a single precursor and linked by a
+    disulfide bond (By similarity).
+-!- TISSUE SPECIFICITY: Expressed only in immatures seeds.
+-!- DEVELOPMENTAL STAGE: Expressed between 7 and 28 days after
+    pollination.
+-!- MISCELLANEOUS: The sequence of the probable beta chain is highly
+    homologous to the N-terminal sequence of BW24KD, a major buckwheat
+    allergen.
+-!- SIMILARITY: Belongs to the 11S seed storage protein (globulins)
+    family.
+Seed storage protein; Signal; Storage protein.
+TMZERO

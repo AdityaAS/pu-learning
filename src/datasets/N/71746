@@ -1,0 +1,44 @@
+AC   O88895; O88896;
+Histone deacetylase 3 (HD3).
+"Cloning and characterization of the murine histone deacetylase
+(HDAC3).";
+"Identification of a nuclear domain with deacetylase activity.";
+"Tissue-specific regulation of retinal and pituitary precursor cell
+proliferation.";
+-!- FUNCTION: Responsible for the deacetylation of lysine residues on
+    the N-terminal part of the core histones (H2A, H2B, H3 and H4).
+    Histone deacetylation gives a tag for epigenetic repression and
+    plays an important role in transcriptional regulation, cell cycle
+    progression and developmental events. Histone deacetylases act via
+    the formation of large multiprotein complexes. Required to repress
+    transcription of the POU1F1 transcription factor (By similarity).
+-!- SUBUNIT: Interacts with HDAC7. Forms a heterologous complex at
+    least with YY1. Interacts with HDAC10, DAXX and DACH1. Found in a
+    complex with NCOR1 and NCOR2. Component of the N-Cor repressor
+    complex, at least composed of NCOR1, NCOR2, HDAC3, TBL1X, TBL1R,
+    CORO2A and GPS2. Interacts with BCOR, MJD2A/JHDM3A and NRIP1 (By
+    similarity).
+-!- INTERACTION:
+    Q9QYB2:Dach1; NbExp=1; IntAct=EBI-302263, EBI-348961;
+    Q9Z1E3:Nfkbia; NbExp=1; IntAct=EBI-302263, EBI-644427;
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long;
+      IsoId=O88895-1; Sequence=Displayed;
+    Name=Short;
+      IsoId=O88895-2; Sequence=VSP_002080;
+-!- PTM: Sumoylated in vitro.
+-!- SIMILARITY: Belongs to the histone deacetylase family. Type 1
+    subfamily.
+ GO:0005737; C:cytoplasm; TAS:UniProtKB.
+ GO:0000118; C:histone deacetylase complex; TAS:UniProtKB.
+ GO:0005634; C:nucleus; TAS:UniProtKB.
+ GO:0003677; F:DNA binding; IDA:MGI.
+ GO:0004407; F:histone deacetylase activity; TAS:UniProtKB.
+ GO:0008134; F:transcription factor binding; TAS:UniProtKB.
+ GO:0016568; P:chromatin modification; TAS:UniProtKB.
+ GO:0007346; P:regulation of progression through mitotic c...; IDA:MGI.
+Alternative splicing; Chromatin regulator; Hydrolase; Nuclear protein;
+Repressor; Transcription; Transcription regulation; Ubl conjugation.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P16336;
+Preprotein translocase secY subunit.
+"Isolation of a secY homologue from Bacillus subtilis: evidence for a
+common protein export pathway in eubacteria.";
+"Sequence of the Bacillus subtilis spectinomycin resistance gene
+region.";
+"Cloning and characterization of a Bacillus subtilis gene homologous
+to E. coli secY.";
+"Genetic and transcriptional organization of the Bacillus subtilis
+spc-alpha region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in protein export. Interacts with secA and secE
+    to allow the translocation of proteins across the plasma membrane,
+    by forming part of a channel.
+-!- SUBUNIT: One of seven secretory proteins (secA-F and secY) that
+    comprise the prokaryotic protein translocation apparatus.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the secY/SEC61-alpha family.
+Complete proteome; Membrane; Protein transport; Translocation;
+Transmembrane; Transport.
+TMTEN

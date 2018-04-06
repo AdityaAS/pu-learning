@@ -1,0 +1,25 @@
+AC   Q60931;
+Voltage-dependent anion-selective channel protein 3 (VDAC-3) (mVDAC3)
+(Outer mitochondrial membrane protein porin 3).
+"A novel mouse mitochondrial voltage-dependent anion channel gene
+localizes to chromosome 8.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Substrate and functional diversity of lysine acetylation revealed by
+a proteomics survey.";
+-!- FUNCTION: Forms a channel through the mitochondrial outer membrane
+    that allows diffusion of small hydrophilic molecules (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane.
+-!- TISSUE SPECIFICITY: Highest levels of expression detected in
+    testis, less but still abundant expression in heart, kidney,
+    brain, and skeletal muscle.
+-!- DOMAIN: Consists mainly of membrane-spanning sided beta-sheets.
+-!- SIMILARITY: Belongs to the eukaryotic mitochondrial porin family.
+ GO:0005743; C:mitochondrial inner membrane; IDA:MGI.
+ GO:0001662; P:behavioral fear response; IMP:MGI.
+ GO:0007612; P:learning; IMP:MGI.
+ GO:0007270; P:nerve-nerve synaptic transmission; IMP:MGI.
+Acetylation; Ion transport; Membrane; Mitochondrion; Outer membrane;
+Phosphorylation; Porin; Transmembrane; Transport.
+TMZERO

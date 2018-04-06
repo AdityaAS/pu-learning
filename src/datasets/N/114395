@@ -1,0 +1,14 @@
+AC   P87102; Q7S694;
+Nuclear transport factor 2 (NTF-2).
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: Facilitates protein transport into the nucleus. Could be
+    part of a multicomponent system of cytosolic factors that assemble
+    at the pore complex during nuclear import (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Contains 1 NTF2 domain.
+-!- CAUTION: Ref.3 (EAA31056) sequence differs from that shown due to
+    erroneous gene model prediction.
+Protein transport; Transport.
+TMZERO

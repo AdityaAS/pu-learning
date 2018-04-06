@@ -1,0 +1,16 @@
+AC   Q8YE49;
+Adenosylhomocysteinase (EC 3.3.1.1) (S-adenosyl-L-homocysteine
+hydrolase) (AdoHcyase).
+"The genome sequence of the facultative intracellular pathogen
+Brucella melitensis.";
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-homocysteine + H(2)O = L-
+    homocysteine + adenosine.
+-!- COFACTOR: Binds 1 NAD per subunit (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; homocysteine biosynthesis; L-
+    homocysteine from S-adenosyl-L-homocysteine: single step [final
+    step].
+-!- PATHWAY: Context: Activated methyl cycle.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the adenosylhomocysteinase family.
+Complete proteome; Hydrolase; NAD; One-carbon metabolism.
+TMZERO

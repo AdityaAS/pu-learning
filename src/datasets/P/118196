@@ -1,0 +1,20 @@
+AC   P76045; Q2MBF5;
+Outer membrane protein G precursor.
+"Biochemistry and regulation of a novel Escherichia coli K-12 porin
+protein, OmpG, which produces unusually large channels.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Characterization of the RcsC->YojN->RcsB phosphorelay signaling
+pathway involved in capsular synthesis in Escherichia coli.";
+-!- FUNCTION: Forms channels functionally larger than those of
+    classical porins.
+-!- FUNCTION: May act as a regulator of the RCS-phosphorelay signal
+    transduction pathway.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ion transport; Membrane; Outer membrane; Porin; Signal; Transmembrane;
+Transport.
+TMSIXTEEN

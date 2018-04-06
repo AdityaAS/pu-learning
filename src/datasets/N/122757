@@ -1,0 +1,28 @@
+AC   Q61139; O08577;
+Proprotein convertase subtilisin/kexin type 7 precursor (EC 3.4.21.-)
+(Proprotein convertase PC7) (Subtilisin/kexin-like protease PC7)
+(Prohormone convertase PC7) (Subtilisin-like proprotein convertase 7)
+(SPC7).
+"SPC4, SPC6, and the novel protease SPC7 are coexpressed with bone
+morphogenetic proteins at distinct sites during embryogenesis.";
+-!- FUNCTION: Likely to represent a ubiquitous endoprotease activity
+    within constitutive secretory pathways and capable of cleavage at
+    the RXXX[KR]R consensus motif.
+-!- CATALYTIC ACTIVITY: Release of mature proteins from their
+    proproteins by cleavage of Arg-Xaa-Xaa-Xaa-Yaa-Arg-|-Zaa bonds,
+    where Xaa can be any amino acid and Yaa is Arg or Lys.
+-!- COFACTOR: Calcium (By similarity).
+-!- ENZYME REGULATION: Inhibited by zinc and copper (By similarity).
+-!- SUBCELLULAR LOCATION: Golgi apparatus; trans-Golgi network; trans-
+    Golgi network membrane; single-pass type I membrane protein (By
+    similarity). Note=Seems to be localized intracellularly to the
+    trans Golgi network (By similarity).
+-!- TISSUE SPECIFICITY: Widely expressed. Expressed in brain, lung,
+    muscle, heart, liver, kidney, spleen and thymus.
+-!- DEVELOPMENTAL STAGE: Ubiquitously expressed at constitutive levels
+    during embryogenesis.
+-!- SIMILARITY: Belongs to the peptidase S8 family.
+-!- SIMILARITY: Contains 1 homo B/P domain.
+Cleavage on pair of basic residues; Glycoprotein; Hydrolase; Membrane;
+Protease; Serine protease; Signal; Transmembrane; Zymogen.
+TMONE

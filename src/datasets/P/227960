@@ -1,0 +1,16 @@
+AC   P0AAJ2; P77313;
+Probable anaerobic dimethyl sulfoxide reductase chain ynfG (DMSO
+reductase iron-sulfur subunit ynfG).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Electron transfer subunit of the terminal reductase
+    during anaerobic growth on various sulfoxide and N-oxide compounds
+    (By similarity).
+-!- COFACTOR: Binds 4 4Fe-4S clusters (By similarity).
+-!- SUBUNIT: The complex consist of three subunits: ynfF, the
+    reductase; ynfG, an electron transfer protein, and ynfH, a
+    membrane anchor protein (Potential).
+-!- SIMILARITY: Contains 4 4Fe-4S type ferredoxin domains.
+4Fe-4S; Complete proteome; Electron transport; Hypothetical protein;
+Iron; Iron-sulfur; Metal-binding; Transport.
+TMZERO

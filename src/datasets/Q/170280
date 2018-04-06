@@ -1,0 +1,15 @@
+AC   P60268;
+Insectotoxin-I3 (BeI3).
+"Purification and partial characterization of a 'short' insectotoxin-
+like peptide from the venom of the scorpion Parabuthus schlechteri.";
+-!- FUNCTION: Chloride channel ligand. Blocks small-conductance
+    chloride channels (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- MISCELLANEOUS: The protein sequence was deduced by comparison to
+    other short insectotoxin sequences.
+-!- SIMILARITY: Belongs to the short scorpion toxin superfamily.
+    Chloride channel inhibitor family.
+Chloride channel inhibitor; Direct protein sequencing;
+Ionic channel inhibitor; Neurotoxin; Toxin.
+TMZERO

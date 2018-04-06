@@ -1,0 +1,61 @@
+AC   O75923; O75696; Q9UEN7;
+Dysferlin (Dystrophy-associated fer-1-like protein) (Fer-1-like
+protein 1).
+"Dysferlin, a novel skeletal muscle gene, is mutated in Miyoshi
+myopathy and limb girdle muscular dystrophy.";
+"A gene related to Caenorhabditis elegans spermatogenesis factor fer-1
+is mutated in limb-girdle muscular dystrophy type 2B.";
+"Dysferlin is a plasma membrane protein and is expressed early in
+human development.";
+"Dysferlin is a surface membrane-associated protein that is absent in
+Miyoshi myopathy.";
+"Identical mutation in patients with limb girdle muscular dystrophy
+type 2B or Miyoshi myopathy suggests a role for modifier gene(s).";
+"Distal anterior compartment myopathy: a dysferlin mutation causing a
+new muscular dystrophy phenotype.";
+"Genomic organization of the dysferlin gene and novel mutations in
+Miyoshi myopathy.";
+"Molecular analysis of LGMD-2B and MM patients: identification of
+novel DYSF mutations and possible founder effect in the Italian
+population.";
+"Dysferlin mutations in LGMD2B, Miyoshi myopathy, and atypical
+dysferlinopathies.";
+-!- SUBCELLULAR LOCATION: Cell membrane; sarcolemma; single-pass type
+    II membrane protein (Probable).
+-!- TISSUE SPECIFICITY: Highly expressed in skeletal muscle. Also
+    found in heart, placenta and at lower levels in liver, lung,
+    kidney and pancreas.
+-!- DEVELOPMENTAL STAGE: Expression in limb tissue from 5-6 weeks
+    embryos; persists throughout development.
+-!- DISEASE: Defects in DYSF are the cause of autosomal recessive limb
+    girdle muscular dystrophy type 2B (LGMD2B) [MIM:253601]. Type 2
+    limb girdle muscular dystrophies represent a genetically
+    heterogeneous group of diseases with varying degrees of severity
+    depending on age at onset and rate of progression. LGMD2B is
+    characterized by weakness and atrophy starting in the proximal
+    pelvifemoral muscles, with onset in the late teens or later,
+    massive elevation of serum creatine kinase levels and slow
+    progression. Scapular muscle involvement is minor and not present
+    at onset. Upper limb girdle involvement follows some years after
+    the onset in lower limbs.
+-!- DISEASE: Defects in DYSF are the cause of Miyoshi myopathy (MM)
+    [MIM:254130]. This type of autosomal recessive muscular dystrophy
+    involves the distal lower limb musculature. It is characterized by
+    weakness that initially affects the gastrocnemius muscle during
+    early adulthood. Otherwise the phenotype overlaps with LGMD2B,
+    especially in age at onset and creatine kinase elevation.
+-!- DISEASE: Defects in DYSF are the cause of distal myopathy with
+    anterior tibial onset (DMAT) [MIM:606768]. Onset of the disorder
+    is between 14 and 28 years of age and the anterior tibial muscles
+    are the first muscle group to be involved. Inheritance is
+    autosomal recessive.
+-!- SIMILARITY: Belongs to the ferlin family.
+-!- SIMILARITY: Contains 5 C2 domains.
+-!- WEB RESOURCE: NAME=Leiden Muscular Dystrophy pages; NOTE=Dysferlin;
+    URL="http://www.dmd.nl/dysf_home.html".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=DYSF".
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0006936; P:muscle contraction; TAS:ProtInc.
+Disease mutation; Membrane; Polymorphism; Repeat; Transmembrane.
+TMONE

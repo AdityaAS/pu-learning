@@ -1,0 +1,22 @@
+AC   Q2RSB3; Q59762; Q59764;
+NAD(P) transhydrogenase subunit alpha part 2 (EC 1.6.1.2) (Pyridine
+nucleotide transhydrogenase subunit alpha 2) (Nicotinamide nucleotide
+transhydrogenase subunit alpha 2) (Proton-translocating
+transhydrogenase component 2) (dII).
+"Cloning and sequencing of the genes for the proton-translocating
+nicotinamide nucleotide transhydrogenase from Rhodospirillum rubrum
+and the implications for the domain structure of the enzyme.";
+"Complete sequence of the chromosome of Rhodospirillum rubrum ATCC
+11170.";
+-!- FUNCTION: The transhydrogenation between NADH and NADP is coupled
+    to respiration and ATP hydrolysis and functions as a proton pump
+    across the membrane (By similarity).
+-!- CATALYTIC ACTIVITY: NADPH + NAD(+) = NADP(+) + NADH.
+-!- SUBUNIT: Complex of an alpha and a beta chain; in Rhodospirillum,
+    the alpha chain seems to be made of two subunits (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+ GO:0008750; F:NAD(P)+ transhydrogenase (AB-specific) acti...; IEA:EC.
+Complete proteome; Inner membrane; Membrane; NAD; NADP;
+Oxidoreductase; Transmembrane.
+THTHREE

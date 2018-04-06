@@ -1,0 +1,23 @@
+AC   P25056; O84520; P10553;
+50S ribosomal protein L6.
+"Cloning and sequence analysis of the Chlamydia trachomatis spc
+ribosomal protein gene cluster.";
+"Isolation and molecular characterization of the ribosomal protein L6
+homolog from Chlamydia trachomatis.";
+"Genome sequence of an obligate intracellular pathogen of humans:
+Chlamydia trachomatis.";
+"Cloning, expression, and primary structure of a Chlamydia trachomatis
+binding protein.";
+-!- FUNCTION: This protein binds to the 23S rRNA, and is important in
+    its secondary structure. It is located near the subunit interface
+    in the base of the L7/L12 stalk, and near the tRNA binding site of
+    the peptidyltransferase center (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L6P family.
+-!- CAUTION: Was originally (Ref.4) thought to be an outer membrane
+    binding protein (chlanectin). The sequence was incorrect due to a
+    cloning artifact.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

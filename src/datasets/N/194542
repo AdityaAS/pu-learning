@@ -1,0 +1,12 @@
+AC   Q52725;
+S-triazine hydrolase (EC 3.8.1.-) (N-ethylammeline chlorohydrolase).
+"Cloning and expression of the s-triazine hydrolase gene (trzA) from
+Rhodococcus corallinus and development of Rhodococcus recombinant
+strains capable of dealkylating and dechlorinating the herbicide
+atrazine.";
+-!- FUNCTION: Hydrolytic deamination of the S-triazine substrate
+    melamine.
+-!- PATHWAY: Melamine degradation pathway; first step.
+-!- SIMILARITY: Belongs to the ATZ/TRZ family.
+Direct protein sequencing; Hydrolase.
+TMZERO

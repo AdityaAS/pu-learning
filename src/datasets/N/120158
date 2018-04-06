@@ -1,0 +1,17 @@
+AC   P34996;
+P2Y purinoceptor 1 (ATP receptor) (P2Y1) (Purinergic receptor).
+"Cloning and functional expression of a brain G-protein-coupled ATP
+receptor.";
+"Modelling the P2Y purinoceptor using rhodopsin as template.";
+-!- FUNCTION: Receptor for extracellular adenine nucleotides such as
+    ATP and ADP. Seems to mediate its action via a pertussis toxin
+    insensitive G-protein, probably belonging to the Gq family that
+    activate a phosphatidylinositol-calcium second messenger system.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Brain, spinal cord, gastrointestinal tract,
+    spleen and leg muscle. Is not detected in the heart, liver,
+    stomach, lung and kidney.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+3D-structure; G-protein coupled receptor; Glycoprotein; Membrane;
+Receptor; Transducer; Transmembrane.
+TMSEVEN

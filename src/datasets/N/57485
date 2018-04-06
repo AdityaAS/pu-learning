@@ -1,0 +1,12 @@
+AC   Q5HQ07;
+Cell division protein ftsA.
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: This protein may be involved in anomalous filament
+    growth (By similarity). May be a component of the septum. It may
+    interact with ftsZ (By similarity).
+-!- SIMILARITY: Belongs to the ftsA/mreB family.
+Cell cycle; Cell division; Cell shape; Complete proteome.
+TMZERO

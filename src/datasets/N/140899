@@ -1,0 +1,10 @@
+AC   Q5PJX8;
+ATPase ravA (EC 3.6.3.-) (Regulatory ATPase variant A).
+"Comparison of genome degradation in Paratyphi A and Typhi, human-
+restricted serovars of Salmonella enterica that cause typhoid.";
+-!- FUNCTION: Functions as an ATPase. May play a role in metal
+    insertion (metal-chelatase) or as a chaperone (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the ravA family.
+ATP-binding; Complete proteome; Hydrolase; Nucleotide-binding.
+TMZERO

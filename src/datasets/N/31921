@@ -1,0 +1,33 @@
+AC   O04147;
+Cyclic phosphodiesterase (EC 3.1.4.-) (CPDase).
+"Cloning and characterization of the Arabidopsis cyclic
+phosphodiesterase which hydrolyzes ADP-ribose 1'',2''-cyclic phosphate
+and nucleoside 2',3'-cyclic phosphates.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Structure and mechanism of activity of the cyclic phosphodiesterase
+of Appr>p, a product of the tRNA splicing reaction.";
+"Crystal structures of the semireduced and inhibitor-bound forms of
+cyclic nucleotide phosphodiesterase from Arabidopsis thaliana.";
+-!- FUNCTION: Hydrolyzes APD-ribose 1",2"-cyclic phosphate (Appr>1)
+    that is produced during tRNA splicing into ADP-ribose 1"-phosphate
+    (Appr-1"p). Acts also on nucloside 2',3'-cyclic phosphates.
+-!- ENZYME REGULATION: Inhibited by Cu(2+) and Zn(2+) at 0.5 mM by 93
+    and 87% respectively. Not inhibited by Ca(2+), Mg(2+), Co(2+),
+    Ni(2+), and EDTA at 0.5 mM.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=1.35 mM for Appr>p;
+      KM=1.34 mM for A>p;
+      KM=2.38 mM for C>p;
+      KM=16.86 mM for G>p;
+      KM=17.67 mM for U>p;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: Expressed in leaves, stems, roots, floral buds
+    and germinating seeds.
+ GO:0005737; C:cytoplasm; IDA:TAIR.
+ GO:0006388; P:tRNA splicing; TAS:TAIR.
+3D-structure; Hydrolase.
+TMZERO

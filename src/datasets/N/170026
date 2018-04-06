@@ -1,0 +1,20 @@
+AC   P02636;
+Sarcoplasmic calcium-binding protein, alpha-B and -A chains (SCP alpha
+chain).
+"Amino acid sequence of alpha chain of sarcoplasmic calcium binding
+protein obtained from shrimp tail muscle.";
+-!- FUNCTION: Like parvalbumins, SCP's seem to be more abundant in
+    fast contracting muscles, but no functional relationship can be
+    established from this distribution.
+-!- SUBUNIT: SCPs from crayfish, lobster, and shrimp are polymorphic
+    dimers; three isotypes (alpha-alpha, alpha-beta, and beta-beta)
+    have been identified.
+-!- MISCELLANEOUS: The sarcoplasmic calcium-binding proteins are
+    abundant in the muscle of arthropods, molluscs, annelids, and
+    protochordates.
+-!- MISCELLANEOUS: This protein has three functional calcium-binding
+    sites; potential site 4 has lost affinity for calcium.
+-!- SIMILARITY: Contains 4 EF-hand domains.
+Acetylation; Calcium; Direct protein sequencing; Muscle protein;
+Repeat.
+TMZERO

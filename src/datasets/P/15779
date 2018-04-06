@@ -1,0 +1,21 @@
+AC   P16102; Q9HSK9;
+Halorhodopsin precursor (HR).
+"The halo-opsin gene. II. Sequence, primary structure of halorhodopsin
+and comparison with bacteriorhodopsin.";
+"Genome sequence of Halobacterium species NRC-1.";
+"Structure of the light-driven chloride pump halorhodopsin at 1.8-A
+resolution.";
+-!- FUNCTION: Halorhodopsin is a light-driven chloride pump.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Absorption:
+      Abs(max)=~568 nm;
+      Note=In the presence of anions, the maximum absorption shifts to
+      about 578 nm;
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the archaeal/bacterial/fungal opsin family.
+3D-structure; Chloride; Chromophore; Complete proteome;
+Direct protein sequencing; Ion transport; Membrane;
+Photoreceptor protein; Receptor; Retinal protein;
+Sensory transduction; Transmembrane; Transport.
+TMSEVEN

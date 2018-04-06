@@ -1,0 +1,22 @@
+AC   Q5XC26;
+Tyrosine recombinase xerC.
+"Progress toward characterization of the group A Streptococcus
+metagenome: complete genome sequence of a macrolide-resistant serotype
+M6 strain.";
+-!- FUNCTION: Site-specific tyrosine recombinase, which acts by
+    catalyzing the cutting and rejoining of the recombining DNA
+    molecules. The xerC-xerD complex is essential to convert dimers of
+    the bacterial chromosome into monomers to permit their segregation
+    at cell division (By similarity).
+-!- SUBUNIT: May act by forming a cyclic heterotetrameric complex
+    composed of two molecules of xerC and two molecules of xerD (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the "phage" integrase family. XerC type 2
+    subfamily.
+ GO:0009037; F:tyrosine-based site-specific recombinase ac...; IEA:HAMAP.
+ GO:0007059; P:chromosome segregation; IEA:HAMAP.
+ GO:0006313; P:transposition, DNA-mediated; IEA:HAMAP.
+Cell cycle; Cell division; Chromosome partition; Complete proteome;
+DNA integration; DNA recombination; DNA-binding.
+TMZERO

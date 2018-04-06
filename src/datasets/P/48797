@@ -1,0 +1,80 @@
+AC   P23895; Q2MBN8;
+Multidrug transporter emrE (Efflux-multidrug resistance protein emrE)
+(Methyl viologen resistance protein C) (Ethidium resistance protein).
+"Nucleotide sequence of the ethidium efflux gene from Escherichia
+coli.";
+"Cloning and characterization of the mvrC gene of Escherichia coli K-
+12 which confers resistance against methyl viologen toxicity.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"EmrE, an Escherichia coli 12-kDa multidrug transporter, exchanges
+toxic cations and H+ and is soluble in organic solvents.";
+"EmrE, the smallest ion-coupled transporter, provides a unique
+paradigm for structure-function studies.";
+"An essential glutamyl residue in EmrE, a multidrug antiporter from
+Escherichia coli.";
+"Small is mighty: EmrE, a multidrug transporter as an experimental
+paradigm.";
+"An amino acid cluster around the essential Glu-14 is part of the
+substrate- and proton-binding domain of EmrE, a multidrug transporter
+from Escherichia coli.";
+"The membrane topology of EmrE - a small multidrug transporter from
+Escherichia coli.";
+"New insights into the structure and oligomeric state of the bacterial
+multidrug transporter EmrE: an unusual asymmetric homo-dimer.";
+"EmrE, a multidrug transporter from Escherichia coli, transports
+monovalent and divalent substrates with the same stoichiometry.";
+"In vitro synthesis of fully functional EmrE, a multidrug transporter,
+and study of its oligomeric state.";
+"Substrate-induced tryptophan fluorescence changes in EmrE, the
+smallest ion-coupled multidrug transporter.";
+"Exploring the binding domain of EmrE, the smallest multidrug
+transporter.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Identification of tyrosine residues critical for the function of an
+ion-coupled multidrug transporter.";
+"On parallel and antiparallel topology of a homodimeric multidrug
+transporter.";
+"NMR investigation of the multidrug transporter EmrE, an integral
+membrane protein.";
+"Three-dimensional structure of the bacterial multidrug transporter
+EmrE shows it is an asymmetric homodimer.";
+"Structure of the multidrug resistance efflux transporter EmrE from
+Escherichia coli.";
+"X-ray structure of the EmrE multidrug transporter in complex with a
+substrate.";
+"Quasi-symmetry in the cryo-EM structure of EmrE provides the key to
+modeling its transmembrane domain.";
+-!- FUNCTION: Multidrug transporter that expels positively charged
+    hydrophobic drugs across the inner membrane of E.coli., thereby
+    conferring resistance to a wide range of toxic compounds. The drug
+    efflux is coupled to an influx of protons. Is involved in the
+    resistance of E.coli cells to methyl viologen, ethidium bromide
+    and acriflavine. Is also able to transport tetraphenylphosphonium
+    (TPP(+)) and benzalkonium.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=247 uM for methyl viologen;
+      Vmax=1572 nmol/min/mg enzyme with methyl viologen as substrate;
+    pH dependence:
+      Optimum pH is 8-8.5. Transport activity occurs from pH 7.5 to 9;
+-!- SUBUNIT: Homodimer; parallel. May also form dimer of homodimers.
+    Binds substrate at the dimerization interface.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the small multidrug resistance (SMR)
+    protein family.
+-!- CAUTION: X-ray structures (Ref.22 and Ref.23) may not represent
+    physiologically relevant conformations of the protein.
+-!- CAUTION: X-ray and EM structures (Ref.21, Ref.22, Ref.23 and
+    Ref.24) show an asymmetric dimer with the monomers in an
+    antiparallel orientation, in contradiction with biochemical data
+    and cross-linking studies, which demonstrated a parallel
+    arrangement. Until now, emrE with a parallel orientation is the
+    only one to be shown to be fully functional.
+3D-structure; Antiport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMFOUR

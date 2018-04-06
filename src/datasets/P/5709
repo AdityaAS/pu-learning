@@ -1,0 +1,17 @@
+AC   P18895;
+Alginate production protein algE precursor.
+"Nucleotide sequence and expression of the algE gene involved in
+alginate biosynthesis by Pseudomonas aeruginosa.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"Overexpression of algE in Escherichia coli: subcellular localization,
+purification, and ion channel properties.";
+-!- FUNCTION: Has non-porin-like, channel-forming properties and
+    probably functions as an alginate permeability pore.
+-!- PATHWAY: Alginate biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the algE family.
+Alginate biosynthesis; Complete proteome; Direct protein sequencing;
+Membrane; Outer membrane; Signal.
+TMZERO

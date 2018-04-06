@@ -1,0 +1,16 @@
+AC   P40727; Q6LDV3;
+Flagellar biosynthetic protein flhB.
+"Molecular characterization of the Salmonella typhimurium flhB operon
+and its protein products.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Purification and characterization of the CheZ protein of bacterial
+chemotaxis.";
+-!- FUNCTION: Required for formation of the rod structure in the basal
+    body of the flagellar apparatus. Together with fliI and fliH, may
+    constitute the export apparatus of flagellin.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the flhB/hrpN/yscU/spaS family.
+Complete proteome; Flagellum; Inner membrane; Membrane; Transmembrane.
+TMFIVE

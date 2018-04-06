@@ -1,0 +1,34 @@
+AC   P09772; P09771;
+Nitrogenase molybdenum-iron protein beta chain (EC 1.18.6.1)
+(Nitrogenase component I) (Dinitrogenase).
+"Nucleotide sequence of a 24,206-base-pair DNA fragment carrying the
+entire nitrogen fixation gene cluster of Klebsiella pneumoniae.";
+"Nucleotide and deduced amino acid sequences of the Klebsiella
+pneumoniae nifK gene coding for the beta-subunit of nitrogenase MoFe
+protein.";
+"A quantitative approach to sequence comparisons of nitrogenase MoFe
+protein alpha- and beta-subunits including the newly sequenced nifK
+gene from Klebsiella pneumoniae.";
+"Nucleotide sequence of nifK and partial sequence of nifD from Frankia
+species strain FaC1.";
+"New insights into structure-function relationships in nitrogenase: A
+1.6 A resolution X-ray crystallographic study of Klebsiella pneumoniae
+MoFe-protein.";
+"Crystallographic analysis of the MoFe protein of nitrogenase from a
+nifV mutant of Klebsiella pneumoniae identifies citrate as a ligand to
+the molybdenum of iron molybdenum cofactor (FeMoco).";
+-!- FUNCTION: This molybdenum-iron protein is part of the nitrogenase
+    complex that catalyzes the key enzymatic reactions in nitrogen
+    fixation.
+-!- CATALYTIC ACTIVITY: 8 reduced ferredoxin + 8 H(+) + N(2) + 16 ATP
+    + 16 H(2)O = 8 oxidized ferredoxin + H(2) + 2 NH(3) + 16 ADP + 16
+    phosphate.
+-!- COFACTOR: Binds 1 8Fe-7S cluster per heterodimer.
+-!- SUBUNIT: Tetramer of two alpha and two beta chains. Forms complex
+    with the iron protein (nitrogenase component 2).
+-!- SIMILARITY: Belongs to the nifD/nifK/nifE/nifN family.
+-!- CAUTION: The authors of Ref.4 originally stated that their
+    sequence was from Frankia sp.
+3D-structure; Iron; Iron-sulfur; Metal-binding; Nitrogen fixation;
+Oxidoreductase.
+TMZERO

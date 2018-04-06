@@ -1,0 +1,17 @@
+AC   P70545;
+Solute carrier family 13 member 2 (Intestinal sodium/dicarboxylate
+cotransporter) (Na(+)/dicarboxylate cotransporter 1) (NaDC-1).
+"Cloning of the cDNA for a rat intestinal Na+/dicarboxylate
+cotransporter reveals partial sequence homology with a rat intestinal
+mucin.";
+-!- FUNCTION: Cotransport of sodium ions and dicarboxylates such as
+    succinate and citrate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    NADC subfamily.
+-!- CAUTION: Ref.1 sequence differs from that shown due to several
+    frameshifts.
+Ion transport; Membrane; Sodium; Sodium transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

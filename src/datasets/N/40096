@@ -1,0 +1,17 @@
+AC   Q4TVV3;
+Probable ATP-dependent RNA helicase DDX46 (EC 3.6.1.-) (DEAD box
+protein 46).
+"The Danio rerio ddx46 gene.";
+-!- FUNCTION: Plays an essential role in splicing, either prior to, or
+    during A complex formation (By similarity).
+-!- SUBUNIT: Integral component of the 17S U2 snRNP (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear speckle (By similarity).
+    Nucleus; Cajal body (By similarity). Note=Present in Cajal bodies
+    (CBs) and nuclear speckles (By similarity).
+-!- SIMILARITY: Belongs to the DEAD box helicase family. DDX46/PRP5
+    subfamily.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ATP-binding; Coiled coil; Helicase; Hydrolase; mRNA processing;
+mRNA splicing; Nuclear protein; Nucleotide-binding; RNA-binding.
+TMZERO

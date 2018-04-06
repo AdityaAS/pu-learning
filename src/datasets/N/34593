@@ -1,0 +1,13 @@
+AC   P0A4I1; Q03756;
+Transcriptional regulatory protein cutR (Defective melC1 suppressor
+protein).
+"Complete genome sequence of the model actinomycete Streptomyces
+coelicolor A3(2).";
+-!- FUNCTION: Member of the two-component regulatory system cutS/cutR,
+    involved in the regulation of copper metabolism. CutR suppresses a
+    defective melC1 gene, encoding a putative copper-transfer gene,
+    probably by altering copper metabolism (By similarity).
+-!- SIMILARITY: Contains 1 response regulatory domain.
+Complete proteome; DNA-binding; Phosphorylation; Transcription;
+Transcription regulation; Two-component regulatory system.
+TMZERO

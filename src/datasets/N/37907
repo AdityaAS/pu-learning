@@ -1,0 +1,12 @@
+AC   P70714;
+Protein cysQ homolog.
+"The gnd gene encoding a novel 6-phosphogluconate dehydrogenase and
+its adjacent region of Actinobacillus actinomycetemcomitans
+chromosomal DNA.";
+-!- FUNCTION: Could help control the pool of 3'-phosphoadenoside 5'-
+    phosphosulfate, or its use in sulfite synthesis (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein; cytoplasmic side (By similarity).
+-!- SIMILARITY: Belongs to the inositol monophosphatase family.
+Magnesium; Metal-binding.
+TMZERO

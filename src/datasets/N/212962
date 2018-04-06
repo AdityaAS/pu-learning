@@ -1,0 +1,9 @@
+AC   Q73A25;
+UPF0176 protein BCE_1961.
+"The genome sequence of Bacillus cereus ATCC 10987 reveals metabolic
+adaptations and a large plasmid related to Bacillus anthracis pXO1.";
+-!- SIMILARITY: Belongs to the UPF0176 family.
+-!- SIMILARITY: Contains 1 rhodanese domain.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

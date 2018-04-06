@@ -1,0 +1,16 @@
+AC   O07923;
+Branched-chain amino acid transport protein azlD.
+"An lrp-like gene of Bacillus subtilis involved in branched-chain
+amino acid transport.";
+"Sequence of the Bacillus subtilis genome region in the vicinity of
+the lev operon reveals two new extracytoplasmic function RNA
+polymerase sigma factors SigV and SigZ.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in branched-chain amino acid transport.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the azlD/HI1737/HP1330 family.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTWO

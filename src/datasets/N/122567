@@ -1,0 +1,15 @@
+AC   O73947;
+DNA polymerase sliding clamp (Proliferating cell nuclear antigen
+homolog) (PCNA).
+"Functional interactions of a homolog of proliferating cell nuclear
+antigen with DNA polymerases in Archaea.";
+"The complete sequence of the Pyrococcus furiosus genome.";
+"Crystal structure of an archaeal DNA sliding clamp: proliferating
+cell nuclear antigen from Pyrococcus furiosus.";
+-!- FUNCTION: Sliding clamp subunit. Responsible for tethering the
+    catalytic subunit of DNA polymerase to DNA during high-speed
+    replication.
+-!- SUBUNIT: Homotrimer. Interacts with both Pol I and Pol II.
+-!- SIMILARITY: Belongs to the PCNA family.
+3D-structure; Complete proteome; DNA replication; DNA-binding.
+TMZERO

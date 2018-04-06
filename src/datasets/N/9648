@@ -1,0 +1,12 @@
+AC   Q9K973;
+Arginine repressor.
+"Complete genome sequence of the alkaliphilic bacterium Bacillus
+halodurans and genomic sequence comparison with Bacillus subtilis.";
+-!- FUNCTION: Regulates arginine biosynthesis genes (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis
+    [regulation].
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the argR family.
+Amino-acid biosynthesis; Arginine biosynthesis; Complete proteome;
+DNA-binding; Repressor; Transcription; Transcription regulation.
+TMZERO

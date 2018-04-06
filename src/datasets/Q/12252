@@ -1,0 +1,28 @@
+AC   P51165;
+Sodium/potassium-transporting ATPase subunit beta-1 (Sodium/potassium-
+dependent ATPase beta subunit).
+"Primary sequence, tissue specificity and expression of the Na+,K(+)-
+ATPase alpha 1 subunit in the European eel (Anguilla anguilla).";
+"Primary sequence, tissue specificity and expression of the Na+,K(+)-
+ATPase beta 1 subunit in the European eel (Anguilla anguilla).";
+-!- FUNCTION: This is the non-catalytic component of the active
+    enzyme, which catalyzes the hydrolysis of ATP coupled with the
+    exchange of Na(+) and K(+) ions across the plasma membrane. The
+    beta subunit regulates, through assembly of alpha/beta
+    heterodimers, the number of sodium pumps transported to the plasma
+    membrane.
+-!- SUBUNIT: Composed of three subunits: alpha (catalytic), beta and
+    gamma.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein.
+-!- TISSUE SPECIFICITY: Detected in all tissues except liver and
+    cardiac muscle. Highest levels found in intestine, ovary and
+    kidney with marginally lower levels in brain, spleen, esophagus,
+    eye and pancreas, intermediate levels in gill and low levels in
+    white and red skeletal muscle.
+-!- SIMILARITY: Belongs to the Na+/K+ and H+/K+ ATPases subunit beta
+    family.
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Signal-anchor; Sodium; Sodium transport; Sodium/potassium transport;
+Transmembrane; Transport.
+TMONE

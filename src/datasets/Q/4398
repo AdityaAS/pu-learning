@@ -1,0 +1,27 @@
+AC   Q05962;
+ADP/ATP translocase 1 (Adenine nucleotide translocator 1) (ANT 1)
+(ADP,ATP carrier protein 1) (Solute carrier family 25 member 4).
+"Isolation and characterization of cDNA clones and a genomic clone
+encoding rat mitochondrial adenine nucleotide translocator.";
+-!- FUNCTION: Catalyzes the exchange of ADP and ATP across the
+    mitochondrial inner membrane.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: In heart, skeletal muscle and to a lesser
+    extent, in brain and kidney.
+-!- MISCELLANEOUS: The transmembrane helices are not perpendicular to
+    the plane of the membrane, but cross the membrane at an angle.
+    Odd-numbered transmembrane helices exhibit a sharp kink, due to
+    the presence of a conserved proline residue (By similarity).
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005739; C:mitochondrion; IDA:RGD.
+ GO:0000295; F:adenine nucleotide transporter activity; TAS:RGD.
+ GO:0005471; F:ATP:ADP antiporter activity; IDA:RGD.
+ GO:0015866; P:ADP transport; IDA:RGD.
+ GO:0015867; P:ATP transport; IDA:RGD.
+ GO:0051935; P:glutamate uptake during transmission of ner...; IEP:RGD.
+Acetylation; Direct protein sequencing; Inner membrane; Membrane;
+Mitochondrion; Repeat; Transmembrane; Transport.
+TMSIX

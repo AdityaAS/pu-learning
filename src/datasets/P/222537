@@ -1,0 +1,18 @@
+AC   P42199; P94402;
+Probable amino-acid ABC transporter extracellular-binding protein yckK
+precursor.
+"An operon encoding a novel ABC-type transport system in Bacillus
+subtilis.";
+"The 25 degrees-36 degrees region of the Bacillus subtilis chromosome:
+determination of the sequence of a 146 kb segment and identification
+of 113 genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Probably part of a binding-protein-dependent transport
+    system for an amino acid.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Probable).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Amino-acid transport; Complete proteome; Hypothetical protein;
+Lipoprotein; Membrane; Palmitate; Signal; Transport.
+TMZERO

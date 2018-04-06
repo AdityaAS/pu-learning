@@ -1,0 +1,22 @@
+AC   P37774; P76314;
+Hypothetical amino-acid ABC transporter ATP-binding protein yecC.
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Multiple control elements for the uvrC gene unit of Escherichia
+coli.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+-!- FUNCTION: Probably part of a binding-protein-dependent transport
+    system yecCS for an amino acid. Probably responsible for energy
+    coupling to the transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Amino-acid transport; ATP-binding; Complete proteome;
+Hypothetical protein; Inner membrane; Membrane; Nucleotide-binding;
+Transport.
+TMZERO

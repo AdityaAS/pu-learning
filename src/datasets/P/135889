@@ -1,0 +1,25 @@
+AC   P46317;
+Lichenan permease IIC component (PTS system lichenan-specific EIIC
+component) (EIIC-Lic).
+"Identification and characterization of a new beta-glucoside
+utilization system in Bacillus subtilis.";
+"Sequencing of a 65 kb region of the Bacillus subtilis genome
+containing the lic and cel loci, and creation of a 177 kb contig
+covering the gnt-sacXY region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in lichenan transport.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: Induced by lichenan, lichenan hydrolysate and
+    cellobiose. Subject to carbon catabolite repression.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIIC type-3 domain.
+Complete proteome; Membrane; Phosphotransferase system;
+Sugar transport; Transmembrane; Transport.
+TMTEN

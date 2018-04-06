@@ -1,0 +1,32 @@
+AC   P53049;
+Oligomycin resistance ATP-dependent permease YOR1.
+"Expression of an ATP-binding cassette transporter-encoding gene
+(YOR1) is required for oligomycin resistance in Saccharomyces
+cerevisiae.";
+"Sequence analysis of a near-subtelomeric 35.4 kb DNA segment on the
+right arm of chromosome VII from Saccharomyces cerevisiae carrying the
+MAL1 locus reveals 15 complete open reading frames, including ZUO1,
+BGL2 and BIO2 genes and an ABC transporter gene.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"A general strategy to uncover transcription factor properties
+identifies a new regulator of drug resistance in yeast.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Required for oligomycin resistance.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: Transcriptionally regulated by PDR8.
+-!- MISCELLANEOUS: Present with 3610 molecules/cell.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; TAS:SGD.
+ GO:0042493; P:response to drug; TAS:SGD.
+ GO:0000723; P:telomere maintenance; IMP:SGD.
+ GO:0006810; P:transport; TAS:SGD.
+ATP-binding; Complete proteome; Glycoprotein; Membrane;
+Nucleotide-binding; Phosphorylation; Repeat; Transmembrane; Transport.
+TMTWELVE

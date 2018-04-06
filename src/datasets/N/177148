@@ -1,0 +1,22 @@
+AC   Q29476;
+Sulfotransferase 1A1 (EC 2.8.2.1) (Aryl sulfotransferase) (Phenol
+sulfotransferase) (Phenol-sulfating phenol sulfotransferase) (P-PST).
+"Molecular cloning and sequencing of a dog liver cDNA (dPST-1)
+encoding a phenol sulfotransferase.";
+"Canine sulfotransferase SULT1A1: molecular cloning, expression, and
+characterization.";
+-!- FUNCTION: Catalyzes the sulfate conjugation of catecholamines and
+    phenolic drugs and neurotransmitters. Acts on p-nitrophenol (PNP),
+    alpha-naphthol, dopamine, minoxidil and beta-estradiol but not
+    dehydroepiandrosterone.
+-!- CATALYTIC ACTIVITY: 3'-phosphoadenylyl sulfate + a phenol =
+    adenosine 3',5'-bisphosphate + an aryl sulfate.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- TISSUE SPECIFICITY: Ubiquitously expressed in canine tissues with
+    highest expression in male and female liver.
+-!- SIMILARITY: Belongs to the sulfotransferase family.
+ GO:0004062; F:aryl sulfotransferase activity; IEA:EC.
+Catecholamine metabolism; Lipid metabolism; Steroid metabolism;
+Transferase.
+TMZERO

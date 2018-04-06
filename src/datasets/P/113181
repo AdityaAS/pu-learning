@@ -1,0 +1,72 @@
+AC   O15118; Q9P130;
+Niemann-Pick C1 protein precursor.
+"Niemann-Pick C1 disease gene: homology to mediators of cholesterol
+homeostasis.";
+"The genomic organization and polymorphism analysis of the human
+Niemann-Pick C1 gene.";
+"NPC1: complete genomic sequence, mutation analysis, and
+characterization of haplotypes.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Niemann-Pick C1 protein: obligatory roles for N-terminal domains and
+lysosomal targeting in cholesterol mobilization.";
+"The Nova Scotia (type D) form of Niemann-Pick disease is caused by a
+G3097-->T transversion in NPC1.";
+"Mutations in NPC1 highlight a conserved NPC1-specific cysteine-rich
+domain.";
+"Niemann-Pick C1 disease: the I1061T substitution is a frequent mutant
+allele in patients of Western European descent and correlates with a
+classic juvenile phenotype.";
+"NPC1 gene mutations in Japanese patients with Niemann-Pick disease
+type C.";
+"Niemann-Pick C variant detection by altered sphingolipid trafficking
+and correlation with mutations within a specific domain of NPC1.";
+"Niemann-Pick C1 disease: correlations between NPC1 mutations, levels
+of NPC1 protein, and phenotypes emphasize the functional significance
+of the putative sterol-sensing domain and of the cysteine-rich luminal
+loop.";
+"Niemann-Pick type C disease: NPC1 mutations associated with severe
+and mild cellular cholesterol trafficking alterations.";
+-!- FUNCTION: Involved in the intracellular trafficking of
+    cholesterol. May play a role in vesicular trafficking in glia, a
+    process that may be crucial for maintaining the structural and
+    functional integrity of nerve terminals.
+-!- SUBCELLULAR LOCATION: Endosome; late endosome; late endosomal
+    membrane; single-pass membrane protein. Lysosome; lysosomal
+    membrane; single-pass membrane protein.
+-!- DOMAIN: A cysteine-rich N-terminal domain and a C-terminal domain
+    containing a di-leucine motif necessary for lysosomal targeting
+    are critical for mobilization of cholesterol from lysosomes.
+-!- PTM: Glycosylated.
+-!- DISEASE: Defects in NPC1 are the cause of Niemann-Pick disease
+    type C1 (NPC1) [MIM:257220]. NPC1 is an autosomal recessive lipid
+    storage disorder, which affects particularly the brain, liver and
+    spleen, and which is characterized by lysosomal accumulation of
+    low density lipoprotein derived cholesterol. Clinical features
+    include variable hepatosplenomegaly and severe progressive
+    neurological dysfunction such as ataxia, dystonia and dementia.
+    The age of onset can vary from infancy to late adulthood.
+-!- DISEASE: Defects in NPC1 are the cause of Niemann-Pick disease
+    type D (NPD) [MIM:257220]; also known as Niemann-Pick disease
+    without sphingomyelinase deficiency, or Nova Scotian type. Because
+    of evidence from biochemical changes, lack of complementation, and
+    linkage mapping to the same chromosome site, NPD and NPC1 are
+    considered to be allelic disorders.
+-!- SIMILARITY: Belongs to the patched family.
+-!- SIMILARITY: Contains 1 SSD (sterol-sensing) domain.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=NPC1".
+ GO:0005783; C:endoplasmic reticulum; IDA:UniProtKB.
+ GO:0005887; C:integral to plasma membrane; IDA:UniProtKB.
+ GO:0005764; C:lysosome; TAS:ProtInc.
+ GO:0005635; C:nuclear envelope; IDA:UniProtKB.
+ GO:0048471; C:perinuclear region; IDA:UniProtKB.
+ GO:0005478; F:intracellular transporter activity; ISS:UniProtKB.
+ GO:0015248; F:sterol transporter activity; TAS:ProtInc.
+ GO:0004888; F:transmembrane receptor activity; TAS:ProtInc.
+ GO:0008206; P:bile acid metabolism; ISS:UniProtKB.
+ GO:0042632; P:cholesterol homeostasis; IDA:UniProtKB.
+ GO:0007041; P:lysosomal transport; ISS:UniProtKB.
+Disease mutation; Glycoprotein; Lysosome; Membrane; Polymorphism;
+Signal; Transmembrane.
+TMELEVEN

@@ -1,0 +1,26 @@
+AC   Q06700;
+Glutaconyl-CoA decarboxylase subunit alpha (EC 4.1.1.70)
+(Carboxyltransferase).
+"Cloning, sequencing and expression of the gene encoding the
+carboxytransferase subunit of the biotin-dependent Na+ pump
+glutaconyl-CoA decarboxylase from Acidaminococcus fermentans in
+Escherichia coli.";
+"Identification of the gene encoding the activator of (R)-2-
+hydroxyglutaryl-CoA dehydratase from Acidaminococcus fermentans by
+gene expression in Escherichia coli.";
+"Activation of (R)-2-hydroxyglutaryl-CoA dehydratase from
+Acidaminococcus fermentans.";
+"Crystal structure of the carboxyltransferase subunit of the bacterial
+sodium ion pump glutaconyl-coenzyme A decarboxylase.";
+-!- FUNCTION: Decarboxylase subunit of the primary sodium pump
+    glutaconyl-CoA decarboxylase (GCD).
+-!- CATALYTIC ACTIVITY: 4-carboxybut-2-enoyl-CoA = but-2-enoyl-CoA +
+    CO(2).
+-!- PATHWAY: Anaerobic glutamate metabolism; fifth step.
+-!- SUBUNIT: Heterooctamer consisting of two alpha, two beta, two
+    gamma and two delta subunits.
+-!- SIMILARITY: Contains 1 carboxyltransferase domain.
+ GO:0018801; F:glutaconyl-CoA decarboxylase activity; IEA:EC.
+3D-structure; Biotin; Decarboxylase; Direct protein sequencing;
+Ion transport; Lyase; Sodium; Sodium transport; Transport.
+TMZERO

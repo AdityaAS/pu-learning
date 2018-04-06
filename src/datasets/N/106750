@@ -1,0 +1,19 @@
+AC   Q9ZDC2;
+UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9) (UDP-N-
+acetylmuramoyl-L-alanyl-D-glutamate synthetase) (D-glutamic acid-
+adding enzyme).
+"The genome sequence of Rickettsia prowazekii and the origin of
+mitochondria.";
+-!- FUNCTION: Cell wall formation. Catalyzes the addition of glutamate
+    to the nucleotide precursor UDP-N-acetylmuramoyl-L-alanine (UMA)
+    (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + UDP-N-acetylmuramoyl-L-alanine +
+    glutamate = ADP + phosphate + UDP-N-acetylmuramoyl-L-alanyl-D-
+    glutamate.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the murCDEF family.
+ATP-binding; Cell cycle; Cell division; Cell shape; Cell wall;
+Complete proteome; Ligase; Nucleotide-binding;
+Peptidoglycan synthesis.
+TMZERO

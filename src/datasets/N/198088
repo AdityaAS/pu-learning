@@ -1,0 +1,29 @@
+AC   P34710;
+Netrin unc-6 precursor (Uncoordinated protein 6).
+"UNC-6, a laminin-related protein, guides cell and pioneer axon
+migrations in C. elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"Expression of the UNC-5 guidance receptor in the touch neurons of C.
+elegans steers their axons dorsally.";
+"UNC-40, a C. elegans homolog of DCC (Deleted in Colorectal Cancer),
+is required in motile cells responding to UNC-6 netrin cues.";
+-!- FUNCTION: Component of an extracellular matrix cue that guides
+    dorsoventral migrations on the epidermis. Required for the
+    guidance of pioneer axons and migrating cells along the body wall.
+    Its association with either unc-40 or unc-5 receptors will lead to
+    axon attraction or repulsion, respectively.
+-!- SUBUNIT: Binds to unc-5 and unc-40 receptors.
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space;
+    extracellular matrix; basement membrane. Note=Epidermal basal
+    lamina.
+-!- DOMAIN: Mutations that delete the second laminin EGF-like repeat
+    impair only dorsal migrations of mesodermal cells and axons.
+-!- SIMILARITY: Contains 3 laminin EGF-like domains.
+-!- SIMILARITY: Contains 1 laminin N-terminal domain.
+-!- SIMILARITY: Contains 1 NTR domain.
+ GO:0030424; C:axon; IDA:WormBase.
+ GO:0005737; C:cytoplasm; IDA:WormBase.
+Complete proteome; Extracellular matrix; Glycoprotein;
+Laminin EGF-like domain; Repeat; Signal.
+TMZERO

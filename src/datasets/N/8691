@@ -1,0 +1,13 @@
+AC   P26206;
+6-phospho-beta-glucosidase (EC 3.2.1.86).
+"Nucleotide sequences of the arb genes, which control beta-glucoside
+utilization in Erwinia chrysanthemi: comparison with the Escherichia
+coli bgl operon and evidence for a new beta-glycohydrolase family
+including enzymes from eubacteria, archeabacteria, and humans.";
+-!- CATALYTIC ACTIVITY: 6-phospho-beta-D-glucosyl-(1,4)-D-glucose +
+    H(2)O = D-glucose + D-glucose 6-phosphate.
+-!- PATHWAY: Carbohydrate metabolism; beta-glucoside metabolism.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 1 family.
+ GO:0008706; F:6-phospho-beta-glucosidase activity; IEA:EC.
+Glycosidase; Hydrolase.
+TMZERO

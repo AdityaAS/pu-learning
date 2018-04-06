@@ -1,0 +1,14 @@
+AC   P50655;
+ATP synthase protein 8 (EC 3.6.3.14) (ATPase subunit 8) (A6L).
+"Molecular characterization and evolution of a duck mitochondrial
+genome.";
+-!- FUNCTION: This is one of the chains of the nonenzymatic component
+    (CF(0) subunit) of the mitochondrial ATPase complex.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    single-pass membrane protein.
+-!- SIMILARITY: Belongs to the ATPase protein 8 family.
+CF(0); Hydrogen ion transport; Ion transport; Membrane; Mitochondrion;
+Transmembrane; Transport.
+TMONE

@@ -1,0 +1,50 @@
+AC   Q8N0W4; Q6UX10; Q9ULG0;
+Neuroligin-4, X-linked precursor (Neuroligin X) (HNLX).
+"Mutations of the X-linked genes encoding neuroligins NLGN3 and NLGN4
+are associated with autism.";
+"Prediction of the coding sequences of unidentified human genes. XV.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"Signal peptide prediction based on analysis of experimentally
+verified cleavage sites.";
+"Binding of neuroligins to PSD-95.";
+"Identification of a novel neuroligin in humans which binds to PSD-95
+and has a widespread expression.";
+"X-linked mental retardation and autism are associated with a mutation
+in the NLGN4 gene, a member of the neuroligin family.";
+-!- FUNCTION: Putative neuronal cell surface protein involved in cell-
+    cell-interactions.
+-!- SUBUNIT: Interacts through its C-terminus with DLG4/PSD-95 third
+    PDZ domain.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8N0W4-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8N0W4-2; Sequence=VSP_013270;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Expressed at highest levels in heart.
+    Expressed at lower levels in liver, skeletal muscle and pancreas
+    and at very low levels in brain.
+-!- DISEASE: Defects in NLGN4X may be the cause of susceptibility to
+    X-linked autism 2 (AUTSX2) [MIM:300495]. AUTSX2 is a pervasive
+    developmental disorder (PDD), prototypically characterized by
+    impairments in reciprocal social interaction and communication,
+    restricted and stereotyped patterns of interests and activities,
+    and the presence of developmental abnormalities by 3 years of age.
+-!- DISEASE: Defects in NLGN4X may be the cause of susceptibility to
+    X-linked Asperger syndrome 2 (ASPGX2) [MIM:300497]. ASPGX2 is
+    considered to be a form of childhood autism.
+-!- SIMILARITY: Belongs to the type-B carboxylesterase/lipase family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=NLGN4X".
+Alternative splicing; Cell adhesion; Direct protein sequencing;
+Glycoprotein; Membrane; Signal; Transmembrane.
+TMONE

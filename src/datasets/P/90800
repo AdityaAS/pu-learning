@@ -1,0 +1,16 @@
+AC   Q00564;
+Lactococcin-A transport/processing ATP-binding protein lcnC
+(EC 3.4.22.-).
+"Molecular analyses of the lactococcin A gene cluster from Lactococcus
+lactis subsp. lactis biovar diacetylactis WM4.";
+-!- FUNCTION: Involved in the export process of the bacteriocin
+    lactococcin A.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. HlyB subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 1 peptidase C39 domain.
+ATP-binding; Bacteriocin transport; Hydrolase; Membrane;
+Nucleotide-binding; Plasmid; Protease; Protein transport;
+Thiol protease; Transmembrane; Transport.
+TMSIX

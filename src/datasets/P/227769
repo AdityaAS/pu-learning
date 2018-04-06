@@ -1,0 +1,19 @@
+AC   P53838;
+Putative transporter YNL275W.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 195 molecules/cell.
+-!- SIMILARITY: Belongs to the anion exchanger (TC 2.A.31) family.
+ GO:0005624; C:membrane fraction; IDA:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0008509; F:anion transporter activity; IPI:SGD.
+ GO:0046714; F:boron binding; IDA:SGD.
+ GO:0046715; F:boron transporter activity; IMP:SGD.
+ GO:0046713; P:boron transport; IMP:SGD.
+Anion exchange; Complete proteome; Ion transport; Membrane;
+Transmembrane; Transport.
+TMELEVEN

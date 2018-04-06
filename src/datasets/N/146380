@@ -1,0 +1,21 @@
+AC   Q9LY66; Q9LWB4;
+50S ribosomal protein L1, chloroplast precursor (CL1).
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+-!- FUNCTION: This protein binds directly to 23S ribosomal RNA (By
+    similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=1;
+      Comment=A number of isoforms are produced. According to EST
+      sequences;
+    Name=1;
+      IsoId=Q9LY66-1; Sequence=Displayed;
+-!- SIMILARITY: Belongs to the ribosomal protein L1P family.
+ GO:0009535; C:thylakoid membrane (sensu Viridiplantae); IDA:TAIR.
+Alternative splicing; Chloroplast; Plastid; Ribonucleoprotein;
+Ribosomal protein; RNA-binding; rRNA-binding; Transit peptide.
+TMZERO

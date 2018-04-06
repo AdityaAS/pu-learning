@@ -1,0 +1,11 @@
+AC   P78009;
+Elongation factor Ts (EF-Ts).
+"Complete sequence analysis of the genome of the bacterium Mycoplasma
+pneumoniae.";
+-!- FUNCTION: Associates with the EF-Tu.GDP complex and induces the
+    exchange of GDP to GTP. It remains bound to the aminoacyl-tRNA.EF-
+    Tu.GTP complex up to the GTP hydrolysis stage on the ribosome.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the EF-Ts family.
+Complete proteome; Elongation factor; Protein biosynthesis.
+TMZERO

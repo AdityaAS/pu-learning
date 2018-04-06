@@ -1,0 +1,12 @@
+AC   Q25011;
+FMRFamide-activated amiloride-sensitive sodium channel (FANACH).
+"Cloning of the amiloride-sensitive FMRFamide peptide-gated sodium
+channel.";
+-!- FUNCTION: FMRFamide-gated ionotropic receptor.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Muscle and nervous tissue.
+-!- SIMILARITY: Belongs to the amiloride-sensitive sodium channel
+    family.
+Glycoprotein; Ion transport; Ionic channel; Membrane; Sodium;
+Sodium channel; Sodium transport; Transmembrane; Transport.
+TMTWO

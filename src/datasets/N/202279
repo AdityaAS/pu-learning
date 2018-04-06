@@ -1,0 +1,10 @@
+AC   P36812;
+Protein E6.
+"Primer-directed sequencing of human papillomavirus types.";
+-!- FUNCTION: Transcriptional transactivator. Binds double stranded
+    DNA (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear matrix (By similarity).
+-!- SIMILARITY: Belongs to the papillomaviruses E6 protein family.
+Activator; DNA-binding; Early protein; Metal-binding; Nuclear protein;
+Transcription; Transcription regulation; Zinc; Zinc-finger.
+TMZERO

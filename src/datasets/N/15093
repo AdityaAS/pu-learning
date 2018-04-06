@@ -1,0 +1,76 @@
+AC   Q99700; Q6ZQZ7; Q99493;
+Ataxin-2 (Spinocerebellar ataxia type 2 protein) (Trinucleotide
+repeat-containing gene 13 protein).
+"Moderate expansion of a normally biallelic trinucleotide repeat in
+spinocerebellar ataxia type 2.";
+"Identification of the spinocerebellar ataxia type 2 gene using a
+direct identification of repeat expansion and cloning technique,
+DIRECT.";
+"Genomic structure of the human gene for spinocerebellar ataxia type 2
+(SCA2) on chromosome 12q24.1.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Cloning of the gene for spinocerebellar ataxia 2 reveals a locus with
+high sensitivity to expanded CAG/glutamine repeats.";
+-!- SUBUNIT: Monomer (By similarity). Can also form homodimers (By
+    similarity).
+-!- INTERACTION:
+    P54253:ATXN1; NbExp=1; IntAct=EBI-697691, EBI-930964;
+    P13796:LCP1; NbExp=1; IntAct=EBI-697691, EBI-698036;
+    P11940:PABPC1; NbExp=1; IntAct=EBI-697691, EBI-81531;
+    P13797:PLS3; NbExp=1; IntAct=EBI-697691, EBI-698052;
+    Q99962:SH3GL2; NbExp=4; IntAct=EBI-697691, EBI-77938;
+    Q99963:SH3GL3; NbExp=5; IntAct=EBI-697691, EBI-473910;
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=Q99700-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q99700-2; Sequence=VSP_011575, VSP_011577;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q99700-3; Sequence=VSP_011574, VSP_011576, VSP_011578,
+                               VSP_011579, VSP_011580, VSP_011581;
+      Note=No experimental confirmation available;
+    Name=4;
+      IsoId=Q99700-4; Sequence=VSP_011582;
+-!- TISSUE SPECIFICITY: Expressed in the brain, heart, liver, skeletal
+    muscle, pancreas and placenta. Isoform 1 is predominant in the
+    brain and spinal cord while isoform 4 is more abundant in the
+    cerebellum. In the brain, broadly expressed in the amygdala,
+    caudate nucleus, corpus callosum, hippocampus, hypothalamus,
+    substantia nigra, subthalamic nucleus and thalamus.
+-!- POLYMORPHISM: The poly-Gln region of ATXN2 is polymorphic: 17 to
+    29 repeats in the normal population, expanded to about 36 to 52
+    repeats in spinocerebellar ataxia 2 (SCA2) patients.
+-!- DISEASE: Defects in ATXN2 are the cause of spinocerebellar ataxia
+    2 (SCA2) [MIM:183090]; also known as olivopontocerebellar atrophy
+    II (OPCA II or OPCA2). Spinocerebellar ataxia is a clinically and
+    genetically heterogeneous group of autosomal dominant cerebellar
+    ataxias (ADCA). Patients show progressive incoordination of gait
+    and often poor coordination of hands, speech and eye movements.
+    Spinocerebellar ataxia is caused by degeneration of the cerebellum
+    with variable involvement of the brainstem and spinal cord. Three
+    clinical types are distinguished, according to the extent of
+    extra-cerebellar signs: cerebellar ataxia with additional features
+    like optic atrophy, ophthalmoplegia, bulbar and extrapyramidal
+    signs, peripheral neuropathy and dementia, is known as ADCA type
+    I; cerebellar ataxia with retinal degeneration and pigmentary
+    macular dystrophy is defined as ADCA type II; pure cerebellar
+    ataxia without additional signs is classified as ADCA type III.
+    SCA2 is clinically classified as ADCA I. It is characterized by
+    hyporeflexia, myoclonus and action tremor and dopamine-responsive
+    parkinsonism. SCA2 is caused by expansion of a CAG repeat in the
+    coding region of ATXN2. Longer expansions result in earlier onset
+    of the disease. In some patients with smaller CAG repeat
+    expansions, SCA2 presents as pure familial parkinsonism without
+    cerebellar signs.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ATXN2".
+ GO:0005737; C:cytoplasm; TAS:ProtInc.
+ GO:0005634; C:nucleus; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Alternative splicing; Neurodegeneration; Parkinsonism; Polymorphism;
+Spinocerebellar ataxia; Triplet repeat expansion.
+TMZERO

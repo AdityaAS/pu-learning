@@ -1,0 +1,18 @@
+AC   Q7U3Q5;
+Glycine dehydrogenase [decarboxylating] (EC 1.4.4.2) (Glycine
+decarboxylase) (Glycine cleavage system P-protein).
+"The genome of a motile marine Synechococcus.";
+-!- FUNCTION: The glycine cleavage system catalyzes the degradation of
+    glycine. The P protein binds the alpha-amino group of glycine
+    through its pyridoxal phosphate cofactor; CO(2) is released and
+    the remaining methylamine moiety is then transferred to the
+    lipoamide cofactor of the H protein (By similarity).
+-!- CATALYTIC ACTIVITY: Glycine + H-protein-lipoyllysine = H-protein-
+    S-aminomethyldihydrolipoyllysine + CO(2).
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- SUBUNIT: The glycine cleavage system is composed of four proteins:
+    P, T, L and H (By similarity).
+-!- SIMILARITY: Belongs to the gcvP family.
+ GO:0019464; P:glycine decarboxylation via glycine cleavag...; IEA:HAMAP.
+Complete proteome; Oxidoreductase; Pyridoxal phosphate.
+TMZERO

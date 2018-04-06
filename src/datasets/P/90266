@@ -1,0 +1,37 @@
+AC   P02920; Q2MC81;
+Lactose permease (Lactose-proton symport).
+"Sequence of the lactose permease gene.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The distribution of positively charged residues in bacterial inner
+membrane proteins correlates with the trans-membrane topology.";
+"lac permease of Escherichia coli: topology and sequence elements
+promoting membrane insertion.";
+"Membrane topology of helices VII and XI in the lactose permease of
+Escherichia coli studied by lacY-phoA fusion analysis and site-
+directed spectroscopy.";
+"The interaction between aspartic acid 237 and lysine 358 in the
+lactose carrier of Escherichia coli.";
+"Amino acid substitution in the lactose carrier protein with the use
+of amber suppressors.";
+"The lac permease of Escherichia coli: a prototypic energy-transducing
+membrane protein.";
+"Toward the bilayer proteome, electrospray ionization-mass
+spectrometry of large, intact transmembrane proteins.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Structure and mechanism of the lactose permease of Escherichia
+coli.";
+-!- FUNCTION: Responsible for transport of beta-galactosides into the
+    cell, with the concomitant import of a proton (symport system).
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MASS SPECTROMETRY: MW=47357; METHOD=Electrospray; RANGE=1-417;
+    NOTE=Ref.12.
+-!- SIMILARITY: Belongs to the lacY/rafB permease family.
+3D-structure; Complete proteome; Formylation; Inner membrane;
+Membrane; Sugar transport; Symport; Transmembrane; Transport.
+TMTWELVE

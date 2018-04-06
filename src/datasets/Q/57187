@@ -1,0 +1,16 @@
+AC   Q9K0K9;
+Iron-regulated protein frpA.
+"Complete genome sequence of Neisseria meningitidis serogroup B strain
+MC58.";
+-!- FUNCTION: May participate in the pathogenesis of meningococcal
+    disease.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; peripheral membrane
+    protein (By similarity). Secreted protein (By similarity).
+-!- DOMAIN: The Gly-rich region is probably involved in binding
+    calcium, which is required for target cell-binding or cytolytic
+    activity.
+-!- SIMILARITY: Belongs to the RTX prokaryotic toxin (TC 1.C.11)
+    family.
+-!- SIMILARITY: Contains 12 hemolysin-type calcium-binding repeats.
+Calcium; Complete proteome; Membrane; Outer membrane; Repeat; Toxin.
+TMZERO

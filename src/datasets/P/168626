@@ -1,0 +1,28 @@
+AC   P55011; Q8N713; Q8WWH7;
+Solute carrier family 12 member 2 (Bumetanide-sensitive sodium-
+(potassium)-chloride cotransporter 1) (Basolateral Na-K-Cl symporter).
+"Primary structure, functional expression, and chromosomal
+localization of the bumetanide-sensitive Na-K-Cl cotransporter in
+human colon.";
+"Quantitation of Na(+)-K(+)-2Cl(-) cotransport splice variants in
+human tissues using kinetic polymerase chain reaction.";
+-!- FUNCTION: Electrically silent transporter system. Mediates sodium
+    and chloride reabsorption. Plays a vital role in the regulation of
+    ionic balance and cell volume.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=P55011-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P55011-3; Sequence=VSP_006105;
+-!- TISSUE SPECIFICITY: Expressed in many tissues.
+-!- SIMILARITY: Belongs to the SLC12A transporter family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0008511; F:sodium:potassium:chloride symporter activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Potassium; Potassium transport; Sodium; Sodium transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,29 @@
+AC   P23702;
+Leukotoxin translocation ATP-binding protein lktB (EC 3.6.3.43).
+"Sequence of the lktB gene from Actinobacillus
+actinomycetemcomitans.";
+"Structure and function of the B and D genes of the Actinobacillus
+actinomycetemcomitans leukotoxin complex.";
+-!- FUNCTION: Part of the ABC transporter complex lktBD involved in
+    leukotoxin export. Transmembrane domains (TMD) form a pore in the
+    inner membrane and the ATP-binding domain (NBD) is responsible for
+    energy generation (Probable).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + peptide(In) = ADP + phosphate +
+    peptide(Out).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- DOMAIN: In lktB the peptidase C39 domain, the ATP-binding domain
+    (NBD) and the transmembrane domain (TMD) are fused.
+-!- SIMILARITY: Belongs to the ABC transporter family. Protein-1
+    exporter (TC 3.A.1.109) subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 1 peptidase C39 domain.
+-!- CAUTION: Leu-9 is present instead of the conserved Cys which is
+    expected to be the active site residue of peptidase C39. Thus they
+    are presumed to be without peptidase activity.
+ GO:0015440; F:peptide-transporting ATPase activity; IEA:EC.
+ATP-binding; Hydrolase; Inner membrane; Membrane; Nucleotide-binding;
+Transmembrane; Transport.
+TMFIVE

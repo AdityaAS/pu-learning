@@ -1,0 +1,35 @@
+AC   P33226; P77446;
+Cytochrome c-type protein torC.
+"TMAO anaerobic respiration in Escherichia coli: involvement of the
+tor operon.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"A reassessment of the range of c-type cytochromes synthesized by
+Escherichia coli K-12.";
+"TorC apocytochrome negatively autoregulates the trimethylamine N-
+oxide (TMAO) reductase operon in Escherichia coli.";
+"Electron transfer and binding of the c-type cytochrome TorC to the
+trimethylamine N-oxide reductase in Escherichia coli.";
+"An unsuspected autoregulatory pathway involving apocytochrome TorC
+and sensor TorS in Escherichia coli.";
+-!- FUNCTION: Part of the anaerobic respiratory chain of
+    trimethylamine-N-oxide reductase torA. Acts by transferring
+    electrons from the membranous menaquinones to torA. This transfer
+    probably involves an electron transfer pathway from menaquinones
+    to the N-terminal domain of torC, then from the N-terminus to the
+    C-terminus, and finally to torA. TorC apocytochrome negatively
+    autoregulates the torCAD operon probably by inhibiting the torS
+    kinase activity.
+-!- SUBUNIT: The N-terminal domain interacts with torA. The immature
+    C-terminal domain can bind to the N-terminal detector region of
+    torS.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein.
+-!- PTM: Binds 5 heme groups per subunit (By similarity).
+-!- SIMILARITY: Belongs to the torC/torY family.
+Complete proteome; Electron transport; Heme; Inner membrane; Iron;
+Membrane; Metal-binding; Transmembrane; Transport.
+TMONE

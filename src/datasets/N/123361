@@ -1,0 +1,22 @@
+AC   O33065;
+Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5) (PNP/PMP oxidase)
+(PNPOx).
+"Massive gene decay in the leprosy bacillus.";
+-!- FUNCTION: Oxidizes PNP and PMP into pyridoxal 5'-phosphate (PLP)
+    (By similarity).
+-!- CATALYTIC ACTIVITY: Pyridoxamine 5'-phosphate + H(2)O + O(2) =
+    pyridoxal 5'-phosphate + NH(3) + H(2)O(2).
+-!- CATALYTIC ACTIVITY: Pyridoxine 5'-phosphate + O(2) = pyridoxal 5'-
+    phosphate + H(2)O(2).
+-!- COFACTOR: Binds 1 FMN per subunit (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; B6 vitamer interconversion;
+    pyridoxal 5'-phosphate from pyridoxamine 5'-phosphate: single
+    step.
+-!- PATHWAY: Cofactor biosynthesis; B6 vitamer interconversion;
+    pyridoxal 5'-phosphate from pyridoxine 5'-phosphate: single step.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the pyridoxamine 5'-phosphate oxidase
+    family.
+Complete proteome; Flavoprotein; FMN; Oxidoreductase;
+Pyridoxine biosynthesis.
+TMZERO

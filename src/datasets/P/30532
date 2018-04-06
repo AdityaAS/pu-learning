@@ -1,0 +1,33 @@
+AC   P98002;
+Cytochrome c oxidase subunit 1-beta (EC 1.9.3.1) (Cytochrome c oxidase
+polypeptide I-beta) (Cytochrome aa3 subunit 1-beta).
+"Are there isoenzymes of cytochrome c oxidase in Paracoccus
+denitrificans?";
+"Structure at 2.8-A resolution of cytochrome c oxidase from Paracoccus
+denitrificans.";
+"Structure at 2.7-A resolution of the Paracoccus denitrificans two-
+subunit cytochrome c oxidase complexed with an antibody FV fragment.";
+"Evidence for a copper-coordinated histidine-tyrosine cross-link in
+the active site of cytochrome oxidase.";
+"Cytochrome c oxidase.";
+-!- FUNCTION: Subunit I and II form the functional core of the enzyme
+    complex. Electrons originating in cytochrome c are transferred via
+    heme a and Cu(A) to the binuclear center formed by heme a3 and
+    Cu(B). This cytochrome c oxidase shows proton pump activity across
+    the membrane in addition to the electron transfer.
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- COFACTOR: Binds 1 copper B ion per subunit.
+-!- COFACTOR: Binds 2 heme groups per subunit.
+-!- PATHWAY: Respiratory chain; terminal step.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- PTM: His-276 and Tyr-280 are involved in the formation of a
+    copper-coordinated covalent cross-link at the active site of the
+    catalytic subunit I.
+-!- SIMILARITY: Belongs to the heme-copper respiratory oxidase family.
+3D-structure; Copper; Electron transport; Heme;
+Hydrogen ion transport; Inner membrane; Ion transport; Iron; Membrane;
+Metal-binding; Oxidoreductase; Respiratory chain; Transmembrane;
+Transport.
+TMTWELVE

@@ -1,0 +1,17 @@
+AC   Q8PLG9;
+Histidinol dehydrogenase (EC 1.1.1.23) (HDH).
+"Comparison of the genomes of two Xanthomonas pathogens with differing
+host specificities.";
+-!- FUNCTION: Catalyzes the sequential NAD-dependent oxidations of L-
+    histidinol to L-histidinaldehyde and then to L-histidine (By
+    similarity).
+-!- CATALYTIC ACTIVITY: L-histidinol + 2 NAD(+) = L-histidine + 2
+    NADH.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 9
+    [final step].
+-!- SIMILARITY: Belongs to the histidinol dehydrogenase family.
+Amino-acid biosynthesis; Complete proteome; Histidine biosynthesis;
+Metal-binding; NAD; Oxidoreductase; Zinc.
+TMZERO

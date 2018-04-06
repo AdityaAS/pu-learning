@@ -1,0 +1,28 @@
+AC   Q61672;
+Equilibrative nucleoside transporter 2 (Equilibrative
+nitrobenzylmercaptopurine riboside-insensitive nucleoside transporter)
+(Equilibrative NBMPR-insensitive nucleoside transporter) (Nucleoside
+transporter, ei-type) (Solute carrier family 29 member 2) (36 kDa
+nucleolar protein HNP36) (Hydrophobic nucleolar protein, 36 kDa)
+(Delayed-early response protein 12).
+"A mammalian delayed-early response gene encodes HNP36, a novel,
+conserved nucleolar protein.";
+-!- FUNCTION: Mediates equilibrative transport of purine and
+    pyrimidine nucleosides, and the purine base hypoxanthine.
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear membrane; multi-pass
+    membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Short; Synonyms=HNP36;
+      IsoId=Q61672-1; Sequence=Displayed;
+    Name=Long;
+      IsoId=Q61672-2; Sequence=Not described;
+      Note=No experimental confirmation available;
+-!- INDUCTION: By platelet derived growth factor (PDGF) and fibroblast
+    growth factor (FGF).
+-!- SIMILARITY: Belongs to the SLC29A transporter family.
+ GO:0005337; F:nucleoside transporter activity; IDA:MGI.
+ GO:0015858; P:nucleoside transport; IDA:MGI.
+Alternative splicing; Membrane; Nuclear protein; Transmembrane;
+Transport.
+TMEIGHT

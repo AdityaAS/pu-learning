@@ -1,0 +1,27 @@
+AC   Q9S1H0;
+Selenate reductase subunit alpha precursor (EC 1.97.1.9) (Selenate
+reductase molybdenum subunit).
+"Cloning and sequencing of the genes encoding the periplasmic-
+cytochrome B-containing selenate reductase of Thauera selenatis.";
+"Purification and characterization of the selenate reductase from
+Thauera selenatis.";
+"Crystallization and preliminary X-ray analysis of the selenate
+reductase from Thauera selenatis.";
+-!- FUNCTION: Terminal reductase that allows anaerobic growth on
+    selenate as the sole respiratory oxidant.
+-!- CATALYTIC ACTIVITY: Selenite + H(2)O + acceptor = selenate +
+    reduced acceptor.
+-!- COFACTOR: Binds 1 4Fe-4S cluster (Potential).
+-!- COFACTOR: Molybdenum (molybdopterin).
+-!- ENZYME REGULATION: Inhibited by O(2).
+-!- SUBUNIT: Heterotrimer of alpha, beta and gamma subunits.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- PTM: Predicted to be exported by the Tat system. The position of
+    the signal peptide cleavage has been experimentally proven.
+-!- BIOTECHNOLOGY: Has potential use in bioremediation of waste sites
+    contaminated with selenate, such as agricultural drainage waters.
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+4Fe-4S; Direct protein sequencing; Iron; Iron-sulfur; Metal-binding;
+Molybdenum; Oxidoreductase; Periplasmic; Signal.
+TMZERO

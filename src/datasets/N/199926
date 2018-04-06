@@ -1,0 +1,12 @@
+AC   P81022;
+Urotensin-2 (Urotensin II) (U-II) (UII).
+"Urotensin II from the river lamprey (Lampetra fluviatilis), the sea
+lamprey (Petromyzon marinus), and the paddlefish (Polyodon
+spathula).";
+-!- FUNCTION: Has a suggested role in osmoregulation and as a
+    corticotropin-releasing factor. Probably involved in smooth muscle
+    stimulation.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the urotensin 2 family.
+Direct protein sequencing; Hormone.
+TMZERO

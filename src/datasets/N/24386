@@ -1,0 +1,12 @@
+AC   Q9KKF1;
+10 kDa chaperonin (Protein Cpn10) (groES protein).
+"GroEL (Hsp60) of Clostridium difficile is involved in cell
+adherence.";
+-!- FUNCTION: Binds to Cpn60 in the presence of Mg-ATP and suppresses
+    the ATPase activity of the latter.
+-!- SUBUNIT: Heptamer of 7 subunits arranged in a ring (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the groES chaperonin family.
+Chaperone.
+TMZERO

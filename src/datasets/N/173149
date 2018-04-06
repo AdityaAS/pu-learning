@@ -1,0 +1,37 @@
+AC   P97801; O09092;
+Survival motor neuron protein.
+"cDNA isolation, expression, and chromosomal localization of the mouse
+survival motor neuron gene (Smn).";
+"Cloning, characterization, and copy number of the murine survival
+motor neuron gene: homolog of the spinal muscular atrophy-determining
+gene.";
+"Inactivation of the survival motor neuron gene, a candidate gene for
+human spinal muscular atrophy, leads to massive cell death in early
+mouse embryos.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Specific interaction of Smn, the spinal muscular atrophy determining
+gene product, with hnRNP-R and gry-rbp/hnRNP-Q: a role for Smn in RNA
+processing in motor axons?";
+"Phosphoproteomic analysis of the developing mouse brain.";
+-!- FUNCTION: The SMN complex plays an essential role in spliceosomal
+    snRNP assembly in the cytoplasm and is required for pre-mRNA
+    splicing in the nucleus. It may also play a role in the metabolism
+    of snoRNPs (By similarity).
+-!- SUBUNIT: Component of an import snRNP complex composed of KPNB1,
+    RNUT1, SMN1 and ZNF259. Part of the core SMN complex that contains
+    SMN1, SIP1/GEMIN2, DDX20/GEMIN3, GEMIN4, GEMIN5, GEMIN6, GEMIN7,
+    GEMIN8 and STRAP/UNRIP. Interacts with DDX20, FBL, NOLA1, RNUT1
+    and with several spliceosomal snRNP core Sm proteins, including
+    SNRPB, SNRPD1, SNRPD2, SNRPD3, SNRPE and with ILF3. Interacts with
+    OSTF1 (By similarity). Interacts with SYNCRIP.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity). Note=Localized in subnuclear structures next to
+    coiled bodies, called Gemini of Cajal bodies (Gems) (By
+    similarity).
+-!- SIMILARITY: Belongs to the SMN family.
+-!- SIMILARITY: Contains 1 Tudor domain.
+ GO:0005737; C:cytoplasm; IDA:MGI.
+ GO:0005634; C:nucleus; IDA:MGI.
+mRNA processing; Nuclear protein; Phosphorylation; RNA-binding.
+TMZERO

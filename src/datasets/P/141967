@@ -1,0 +1,33 @@
+AC   P02925; Q2M869;
+D-ribose-binding periplasmic protein precursor.
+"The amino acid sequence of D-ribose-binding protein from Escherichia
+coli K12.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The nucleotide sequences of the rbsD, rbsA, and rbsC genes of
+Escherichia coli K12.";
+"Ribokinase from Escherichia coli K12. Nucleotide sequence and
+overexpression of the rbsK gene and purification of ribokinase.";
+"FIS is a regulator of metabolism in Escherichia coli.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"1.7-A X-ray structure of the periplasmic ribose receptor from
+Escherichia coli.";
+"Probing protein-protein interactions. The ribose-binding protein in
+bacterial transport and chemotaxis.";
+"Multiple open forms of ribose-binding protein trace the path of its
+conformational change.";
+-!- FUNCTION: Involved in the high-affinity D-ribose membrane
+    transport system and also serves as the primary chemoreceptor for
+    chemotaxis.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 2
+    family.
+ GO:0015407; F:monosaccharide-transporting ATPase activity; IEA:EC.
+3D-structure; Chemotaxis; Complete proteome;
+Direct protein sequencing; Periplasmic; Signal; Sugar transport;
+Transport.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P28246; Q2MAQ9;
+Bicyclomycin resistance protein (Sulfonamide resistance protein).
+"Cloning and sequence analysis of an Escherichia coli gene conferring
+bicyclomycin resistance.";
+"Automated multiplex sequencing of the E.coli genome.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Gene amplification contributes to sulfonamide resistance in
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in sulfonamide (sulfathiazole) and bicyclomycin
+    resistance. Probable membrane translocase.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Bcr/cmlA
+    family.
+Antibiotic resistance; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTWELVE

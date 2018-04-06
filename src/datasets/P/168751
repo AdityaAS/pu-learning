@@ -1,0 +1,25 @@
+AC   Q9BXS9; Q96Q90;
+Solute carrier family 26 member 6 (Pendrin-like protein 1) (Pendrin
+L1).
+"Cloning and characterization of SLC26A6, a novel member of the solute
+carrier 26 gene family.";
+"Molecular cloning of a new putative sulfate anion transporter.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Does not seem to be involved in anion transport.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9BXS9-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9BXS9-2; Sequence=VSP_006169;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Ubiquitous. Highest levels in kidney and
+    pancreas. Lower expression in heart, skeletal muscle, liver and
+    placenta. Also found in lung and brain.
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+-!- SIMILARITY: Contains 1 STAS domain.
+Alternative splicing; Membrane; Polymorphism; Transmembrane.
+TMNINE

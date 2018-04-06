@@ -1,0 +1,16 @@
+AC   P33755;
+Protein NPL4.
+"Sequence and function analysis of a 4.3 kb fragment of Saccharomyces
+cerevisiae chromosome II including three open reading frames.";
+"Complete DNA sequence of yeast chromosome II.";
+"Global analysis of protein expression in yeast.";
+-!- INTERACTION:
+    P25694:CDC48; NbExp=1; IntAct=EBI-12193, EBI-4308;
+    P53044:UFD1; NbExp=1; IntAct=EBI-12193, EBI-19997;
+-!- MISCELLANEOUS: Present with 1050 molecules/cell.
+ GO:0005783; C:endoplasmic reticulum; IDA:SGD.
+ GO:0042175; C:nuclear envelope-endoplasmic reticulum network; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0030433; P:ER-associated protein catabolism; IMP:SGD.
+Complete proteome.
+TMZERO

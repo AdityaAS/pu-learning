@@ -1,0 +1,24 @@
+AC   P30859; P77640;
+Arginine-binding periplasmic protein 1 precursor.
+"Physical map location of the new artPIQMJ genes of Escherichia coli,
+encoding a periplasmic arginine transport system.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"A third periplasmic transport system for L-arginine in Escherichia
+coli: molecular characterization of the artPIQMJ genes, arginine
+binding and transport.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Protein identification with N and C-terminal sequence tags in
+proteome projects.";
+-!- FUNCTION: Binds arginine; part of the arginine periplasmic
+    transport system.
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Amino-acid transport; Complete proteome; Direct protein sequencing;
+Periplasmic; Signal; Transport.
+TMZERO

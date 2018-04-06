@@ -1,0 +1,11 @@
+AC   O13402;
+Mating-type protein MAT-1.
+"The two Cochliobolus mating type genes are conserved among species
+but one of them is missing in C. victoriae.";
+-!- FUNCTION: Required for mating.
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Belongs to the MATALPHA1 family.
+-!- SIMILARITY: Contains 1 alpha box DNA-binding domain.
+DNA-binding; Fertilization; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

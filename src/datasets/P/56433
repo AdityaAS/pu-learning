@@ -1,0 +1,11 @@
+AC   P0AC24; P21501;
+Probable formate transporter 1 (Formate channel 1).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Involved in the bidirectional transport of formate (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the FNT transporter (TC 2.A.44) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMSIX

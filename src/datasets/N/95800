@@ -1,0 +1,22 @@
+AC   Q7VJR7;
+S-ribosylhomocysteine lyase (EC 4.4.1.21) (Autoinducer-2 production
+protein luxS) (AI-2 synthesis protein).
+"The complete genome sequence of the carcinogenic bacterium
+Helicobacter hepaticus.";
+-!- FUNCTION: Involved in the synthesis of autoinducer 2 (AI-2) which
+    is secreted by bacteria and is used to communicate both the cell
+    density and the metabolic potential of the environment. The
+    regulation of gene expression in response to changes in cell
+    density is called quorum sensing. Catalyzes the transformation of
+    S-ribosylhomocysteine (RHC) to homocysteine (HC) and 4,5-
+    dihydroxy-2,3-pentadione (DPD) (By similarity).
+-!- CATALYTIC ACTIVITY: S-(5-deoxy-D-ribos-5-yl)-L-homocysteine = L-
+    homocysteine + (S)-4,5-dihydroxypentan-2,3-dione.
+-!- COFACTOR: Binds 1 iron ion per subunit (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the luxS family.
+ GO:0046508; F:hydrolase activity, acting on carbon-sulfur...; IEA:HAMAP.
+ GO:0019138; F:ribosylhomocysteinase activity; IEA:EC.
+Autoinducer synthesis; Complete proteome; Iron; Lyase; Metal-binding;
+Quorum sensing.
+TMZERO

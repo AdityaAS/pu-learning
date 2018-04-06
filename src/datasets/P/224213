@@ -1,0 +1,22 @@
+AC   P77774;
+Lipoprotein yfgL precursor.
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of a multicomponent complex required for outer
+membrane biogenesis in Escherichia coli.";
+-!- FUNCTION: May play a role in a homeostatic control mechanism that
+    coordinates the overall outer membrane assembly process.
+-!- SUBUNIT: Forms a heterooligomeric complex with yaeT, yfiO and
+    nlpB.
+-!- INTERACTION:
+    P33232:lldD; NbExp=1; IntAct=EBI-907297, EBI-553210;
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor.
+-!- SIMILARITY: To R.prowazekii RP232.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Lipoprotein; Membrane; Outer membrane; Palmitate;
+Signal.
+TMZERO

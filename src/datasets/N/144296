@@ -1,0 +1,12 @@
+AC   Q8EZT4;
+Peptide chain release factor 2 (RF-2).
+"Unique physiological and pathogenic features of Leptospira
+interrogans revealed by whole-genome sequencing.";
+-!- FUNCTION: Peptide chain release factor 2 directs the termination
+    of translation in response to the peptide chain termination codons
+    UGA and UAA (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the prokaryotic/mitochondrial release
+    factor family.
+Complete proteome; Protein biosynthesis.
+TMZERO

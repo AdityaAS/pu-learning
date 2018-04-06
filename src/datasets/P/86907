@@ -1,0 +1,32 @@
+AC   O95279;
+Potassium channel subfamily K member 5 (Acid-sensitive potassium
+channel protein TASK-2) (TWIK-related acid-sensitive K(+) channel 2).
+"Cloning and expression of a novel pH-sensitive two pore domain K+
+channel from human kidney.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Extracellular conserved cysteine forms an intersubunit disulphide
+bridge in the KCNK5 (TASK-2) K+ channel without having an essential
+effect upon activity.";
+-!- FUNCTION: pH-dependent, voltage insensitive, outwardly rectifying
+    potassium channel. Outward rectification is lost at high external
+    K(+) concentrations.
+-!- SUBUNIT: Homodimer; disulfide-linked.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Abundant expression in kidney, also detected
+    in liver, placenta and small intestine. In the kidney, expression
+    is restricted to the distal tubules and collecting ducts. Not
+    expressed in proximal tubules or glomeruli.
+-!- MISCELLANEOUS: Inhibited by quinine, quinidine and external
+    acidification.
+-!- SIMILARITY: Belongs to the two pore domain potassium channel
+    (TC 1.A.1.8) family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005267; F:potassium channel activity; TAS:ProtInc.
+ GO:0007588; P:excretion; TAS:ProtInc.
+ GO:0006813; P:potassium ion transport; TAS:ProtInc.
+Glycoprotein; Ion transport; Ionic channel; Membrane; Potassium;
+Potassium channel; Potassium transport; Transmembrane; Transport;
+Voltage-gated channel.
+TMFOUR

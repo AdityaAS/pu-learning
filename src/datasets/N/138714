@@ -1,0 +1,18 @@
+AC   P44341;
+CTP synthase (EC 6.3.4.2) (UTP--ammonia ligase) (CTP synthetase).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: Catalyzes the ATP-dependent amination of UTP to CTP with
+    either L-glutamine or ammonia as the source of nitrogen (By
+    similarity).
+-!- CATALYTIC ACTIVITY: ATP + UTP + NH(3) = ADP + phosphate + CTP.
+-!- ENZYME REGULATION: Allosterically activated by GTP, when glutamine
+    is the substrate. Inhibited by CTP (By similarity).
+-!- PATHWAY: Nucleotide biosynthesis; CTP biosynthesis; CTP from UDP:
+    step 2 [final step].
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the CTP synthase family.
+-!- SIMILARITY: Contains 1 glutamine amidotransferase type-1 domain.
+Complete proteome; Glutamine amidotransferase; Ligase;
+Pyrimidine biosynthesis.
+TMZERO

@@ -1,0 +1,19 @@
+AC   Q85CV5;
+Chloroplast 50S ribosomal protein L20.
+"The complete nucleotide sequence of the hornwort (Anthoceros
+formosae) chloroplast genome: insight into the earliest land plants.";
+"RNA editing in hornwort chloroplasts makes more than half the genes
+functional.";
+-!- FUNCTION: Binds directly to 23S ribosomal RNA and is necessary for
+    the in vitro assembly process of the 50S ribosomal subunit. It is
+    not involved in the protein synthesizing functions of that subunit
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- RNA EDITING: Modified_positions=29, 97; Note=The nonsense codon at
+    position 97 is modified to a sense codon.
+-!- SIMILARITY: Belongs to the ribosomal protein L20P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+ GO:0000027; P:ribosomal large subunit assembly and mainte...; IEA:HAMAP.
+Chloroplast; Plastid; Ribonucleoprotein; Ribosomal protein;
+RNA editing; RNA-binding; rRNA-binding.
+TMZERO

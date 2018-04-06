@@ -1,0 +1,41 @@
+AC   O15354; O00348; O14768; Q8TD39;
+Probable G-protein coupled receptor 37 precursor (Endothelin B
+receptor-like protein 1) (ETBR-LP-1) (Parkin-associated endothelin
+receptor-like receptor) (PAELR).
+"Cloning of GPR37, a gene located on chromosome 7 encoding a putative
+G-protein-coupled peptide receptor, from a human frontal brain EST
+library.";
+"A human gene encodes a putative G protein-coupled receptor highly
+expressed in the central nervous system.";
+"A novel endothelin receptor type-B-like gene enriched in the brain.";
+"An unfolded putative transmembrane polypeptide, which can lead to
+endoplasmic reticulum stress, is a substrate of Parkin.";
+"The DNA sequence of human chromosome 7.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"CHIP is associated with Parkin, a gene responsible for familial
+Parkinson's disease, and enhances its ubiquitin ligase activity.";
+"A product of the human gene adjacent to parkin is a component of Lewy
+bodies and suppresses Pael receptor-induced cell death.";
+-!- FUNCTION: Orphan receptor. May have a unique functional role in
+    the central nervous system.
+-!- SUBUNIT: Forms a complex with PARK2, STUB1 and HSP70. The amount
+    of STUB1 in the complex increases during ER stress. STUB1 promotes
+    the dissociation of HSP70 from PARK2, thus facilitating PARK2-
+    mediated GPR37 ubiquitination. Interacts with PACRG.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in brain and spinal cord, and at
+    lower levels in testis, placenta and liver, but no detectable
+    expression observed in any other tissue. When overexpressed, cells
+    tends to become insoluble and unfolded. Accumulation of the
+    unfolded protein may lead to dopaminergic neuronal death in
+    juvenile Parkinson disease (PDJ).
+-!- PTM: Ubiquitinated by PARK2 in the presence of UBE2E1 and UBE2L3
+    in the endoplasmic reticulum.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0004930; F:G-protein coupled receptor activity; TAS:ProtInc.
+ GO:0007186; P:G-protein coupled receptor protein signalin...; TAS:ProtInc.
+G-protein coupled receptor; Glycoprotein; Membrane; Receptor; Signal;
+Transducer; Transmembrane; Ubl conjugation.
+TMSEVEN

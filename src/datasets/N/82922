@@ -1,0 +1,22 @@
+AC   Q9W4Z4;
+Probable insulin-like peptide 6 precursor (Insulin-related peptide)
+(DILP6) [Contains: Probable insulin-like peptide 6 A chain; Probable
+insulin-like peptide 6 B chain].
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"An evolutionarily conserved function of the Drosophila insulin
+receptor and insulin-like peptides in growth control.";
+-!- SUBUNIT: Heterodimer of a B chain and an A chain linked by two
+    disulfide bonds (By similarity).
+-!- INTERACTION:
+    P08570:RpLP1; NbExp=1; IntAct=EBI-143792, EBI-125901;
+-!- SUBCELLULAR LOCATION: Secreted protein (Potential).
+-!- TISSUE SPECIFICITY: Expressed at a low level in the larval gut.
+-!- SIMILARITY: Belongs to the insulin family.
+ GO:0005576; C:extracellular region; ISS:UniProtKB.
+ GO:0005158; F:insulin receptor binding; ISS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0008286; P:insulin receptor signaling pathway; ISS:UniProtKB.
+Cleavage on pair of basic residues; Complete proteome; Signal.
+TMZERO

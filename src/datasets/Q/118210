@@ -1,0 +1,15 @@
+AC   Q5PKD5;
+Porin ompL precursor.
+"Comparison of genome degradation in Paratyphi A and Typhi, human-
+restricted serovars of Salmonella enterica that cause typhoid.";
+-!- FUNCTION: Outer membrane channel protein that allows an efficient
+    diffusion of low-molecular-weight solutes such as small sugars and
+    tetraglycine. However, the specific substrate recognized by the
+    ompL channel is unknown (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the oligogalacturonate-specific porin kdgM
+    (TC 1.B.35) family. OmpL subfamily.
+Complete proteome; Ion transport; Membrane; Outer membrane; Porin;
+Signal; Sugar transport; Transmembrane; Transport.
+TMZERO

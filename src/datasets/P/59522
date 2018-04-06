@@ -1,0 +1,17 @@
+AC   P0AEP1; P37021; Q2M9Q0;
+Galactose-proton symporter (Galactose transporter).
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Uptake of galactose across the boundary membrane with
+    the concomitant transport of protons into the cell (symport
+    system).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Inner membrane; Membrane; Sugar transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

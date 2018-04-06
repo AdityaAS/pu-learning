@@ -1,0 +1,15 @@
+AC   P45487;
+8-amino-7-oxononanoate synthase (EC 2.3.1.47) (AONS) (8-amino-7-
+ketopelargonate synthase) (7-keto-8-amino-pelargonic acid synthetase)
+(7-KAP synthetase) (L-alanine--pimelyl CoA ligase).
+"Massive gene decay in the leprosy bacillus.";
+-!- CATALYTIC ACTIVITY: 6-carboxyhexanoyl-CoA + L-alanine = 8-amino-7-
+    oxononanoate + CoA + CO(2).
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; biotin biosynthesis; biotin from
+    6-carboxyhexanoyl-CoA: step 1.
+-!- SIMILARITY: Belongs to the class-II pyridoxal-phosphate-dependent
+    aminotransferase family.
+Biotin biosynthesis; Complete proteome; Pyridoxal phosphate;
+Transferase.
+TMZERO

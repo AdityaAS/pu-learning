@@ -1,0 +1,23 @@
+AC   P15928;
+Flagellar M-ring protein.
+"L-, P-, and M-ring proteins of the flagellar basal body of Salmonella
+typhimurium: gene sequences and deduced protein sequences.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Characterization of the fliE genes of Escherichia coli and Salmonella
+typhimurium and identification of the FliE protein as a component of
+the flagellar hook-basal body complex.";
+-!- FUNCTION: The M ring may be actively involved in energy
+    transduction.
+-!- SUBUNIT: The basal body constitutes a major portion of the
+    flagellar organelle and consists of four rings (L,P,S, and M)
+    mounted on a central rod. The M ring is integral to the inner
+    membrane of the cell and may be connected to the flagellar rod via
+    the S ring. The S (supramembrane ring) lies just distal to the M
+    ring. The L and P rings lie in the outer membrane and the
+    periplasmic space, respectively.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the fliF family.
+Complete proteome; Flagellum; Inner membrane; Membrane; Transmembrane.
+TMTWO

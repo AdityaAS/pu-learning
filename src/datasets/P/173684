@@ -1,0 +1,44 @@
+AC   Q96BD0; Q9H4T7; Q9H4T8; Q9H8P2; Q9NWX8; Q9UI35; Q9UIG7;
+Solute carrier organic anion transporter family member 4A1 (Solute
+carrier family 21 member 12) (Sodium-independent organic anion
+transporter E) (Organic anion-transporting polypeptide E) (OATP-E)
+(Colon organic anion transporter) (Organic anion transporter
+polypeptide-related protein 1) (OATP-RP1) (OATPRP1) (POAT).
+"Molecular identification and characterization of novel members of the
+human organic anion transporter (OATP) family.";
+"Identification of thyroid hormone transporters in humans: different
+molecules are involved in a tissue-specific manner.";
+"Molecular cloning of a putative organic anion transporter, POAT.";
+"Identification and characterization of novel human OATP family
+members.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Large-scale characterization of HeLa cell nuclear phosphoproteins.";
+-!- FUNCTION: Mediates the Na(+)-independent transport of organic
+    anions such as the thyroid hormones T3 (triiodo-L-thyronine), T4
+    (thyroxine) and rT3, and of estrone-3-sulfate and taurocholate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+      Comment=Experimental confirmation may be lacking for some
+      isoforms;
+    Name=1;
+      IsoId=Q96BD0-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q96BD0-2; Sequence=VSP_006152, VSP_006156;
+    Name=3;
+      IsoId=Q96BD0-3; Sequence=VSP_006153, VSP_006155;
+    Name=4;
+      IsoId=Q96BD0-4; Sequence=VSP_006154;
+-!- TISSUE SPECIFICITY: Ubiquitous, with the exception of spleen and
+    leukocytes.
+-!- SIMILARITY: Belongs to the organo anion transporter (TC 2.A.60)
+    family.
+-!- CAUTION: Ref.4 (CAC14919) sequence differs from that shown due to
+    a frameshift in position 548.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Phosphorylation; Transmembrane; Transport.
+TMTWELVE

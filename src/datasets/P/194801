@@ -1,0 +1,13 @@
+AC   P0A929; P22786;
+Nucleoside-specific channel-forming protein tsx precursor.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Functions as substrate-specific channel for nucleosides
+    and deoxynucleosides (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+Complete proteome; Ion transport; Membrane; Outer membrane;
+Phage recognition; Porin; Signal; Transmembrane; Transport.
+TMZERO

@@ -1,0 +1,17 @@
+AC   P40876; P75861;
+Hypothetical fimbrial chaperone ycbF precursor.
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the pyrD gene of Escherichia coli and
+characterization of the flavoprotein dihydroorotate dehydrogenase.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the periplasmic pilus chaperone family.
+-!- SIMILARITY: Contains 1 Ig-like (immunoglobulin-like) domain.
+Chaperone; Complete proteome; Fimbria; Hypothetical protein;
+Immunoglobulin domain; Periplasmic; Signal.
+TMZERO

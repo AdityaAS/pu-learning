@@ -1,0 +1,40 @@
+AC   P16683; P76792; Q2M6K0; Q47479; Q47716;
+Phosphonates transport system permease protein phnE.
+"Molecular biology of carbon-phosphorus bond cleavage. Cloning and
+sequencing of the phn (psiD) genes involved in alkylphosphonate uptake
+and C-P lyase activity in Escherichia coli B.";
+"Molecular analysis of the cryptic and functional phn operons for
+phosphonate use in Escherichia coli K-12.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for phosphonates; probably responsible for the translocation of
+    the substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: The sequence shown is that of strain B.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- CAUTION: Ref.2 (BAA14264) sequence differs from that shown due to
+    a frameshift in position 155.
+-!- CAUTION: Ref.2 (BAA14265) sequence differs from that shown due to
+    a frameshift in position 155.
+-!- CAUTION: Ref.3 (AAA97003) sequence differs from that shown due to
+    a frameshift in position 155.
+-!- CAUTION: Ref.3 (AAA97002) sequence differs from that shown due to
+    a frameshift in position 155.
+-!- CAUTION: Ref.4 (AAC77065) sequence differs from that shown due to
+    a frameshift in position 155.
+-!- CAUTION: Ref.4 (AAC77064) sequence differs from that shown due to
+    a frameshift in position 155.
+-!- CAUTION: In strain K12 the phnE gene has an 8-bp insertion, absent
+    from the strain B gene, which causes a frameshift mutation.
+Complete proteome; Inner membrane; Membrane; Phosphonate transport;
+Transmembrane; Transport.
+TMSIX

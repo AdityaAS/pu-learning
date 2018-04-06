@@ -1,0 +1,14 @@
+AC   P0AAF7; P30858; P77355;
+Arginine transport ATP-binding protein artP.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for arginine. Probably responsible for energy coupling to the
+    transport system (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Amino-acid transport; ATP-binding; Complete proteome; Inner membrane;
+Membrane; Nucleotide-binding; Transport.
+TMZERO

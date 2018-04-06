@@ -1,0 +1,19 @@
+AC   Q4JB01;
+Glycerol-1-phosphate dehydrogenase [NAD(P)] (EC 1.1.1.261) (sn-
+glycerol-1-phosphate dehydrogenase) (G-1-P dehydrogenase)
+(Enantiomeric glycerophosphate synthase).
+"The genome of Sulfolobus acidocaldarius, a model organism of the
+Crenarchaeota.";
+-!- FUNCTION: Responsible for the formation of archaea-specific
+    glycerophosphate backbone of phospholipids, G-1-P, from
+    dihydroxyacetonephosphate (DHAP) (By similarity).
+-!- CATALYTIC ACTIVITY: sn-glycerol-1-phosphate + NAD(P)(+) =
+    glycerone phosphate + NAD(P)H.
+-!- PATHWAY: De novo phospholipid biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the glycerol-1-phosphate dehydrogenase
+    family.
+ GO:0050492; F:glycerol-1-phosphate dehydrogenase [NAD(P)+...; IEA:EC.
+ GO:0008654; P:phospholipid biosynthesis; IEA:HAMAP.
+Complete proteome; NADP; Oxidoreductase; Phospholipid biosynthesis.
+TMZERO

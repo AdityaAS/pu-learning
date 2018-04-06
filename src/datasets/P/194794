@@ -1,0 +1,20 @@
+AC   P0A927; P22786; Q2MC15;
+Nucleoside-specific channel-forming protein tsx precursor.
+"Analysis of the tsx gene, which encodes a nucleoside-specific
+channel-forming protein (Tsx) in the outer membrane of Escherichia
+coli.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Analysis of a mutated phage T6 receptor protein of Escherichia coli K
+12.";
+-!- FUNCTION: Constitutes the receptor for colicin K and phage T6, and
+    functions as substrate-specific channel for nucleosides and
+    deoxynucleosides.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+3D-structure; Complete proteome; Ion transport; Membrane;
+Outer membrane; Phage recognition; Porin; Signal; Transmembrane;
+Transport.
+TMZERO

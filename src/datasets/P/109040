@@ -1,0 +1,25 @@
+AC   Q04121;
+Mitochondrial sodium/hydrogen exchanger (Mitochondrial Na(+)/H(+)
+exchanger) (Vacuolar protein sorting-associated protein 44).
+"Identification of a mitochondrial Na+/H+ exchanger.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- FUNCTION: Electroneutral exchange of protons for Na(+) and K(+)
+    across the mitochondrial inner membrane. Contributes to organellar
+    volume and calcium homeostasis.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 521 molecules/cell.
+-!- SIMILARITY: Belongs to the Na(+)/H(+) exchanger (TC 2.A.36.5.1)
+    family.
+ GO:0005770; C:late endosome; IDA:SGD.
+ GO:0015077; F:monovalent inorganic cation transporter act...; IDA:SGD.
+ GO:0016197; P:endosome transport; IMP:SGD.
+ GO:0030004; P:monovalent inorganic cation homeostasis; IMP:SGD.
+ GO:0015672; P:monovalent inorganic cation transport; IMP:SGD.
+ GO:0007035; P:vacuolar acidification; IMP:SGD.
+Antiport; Complete proteome; Ion transport; Membrane; Mitochondrion;
+Phosphorylation; Sodium; Sodium transport; Transmembrane; Transport.
+TMTWELVE

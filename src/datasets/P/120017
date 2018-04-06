@@ -1,0 +1,38 @@
+AC   Q51330;
+Oxalate:formate antiporter (OFA) (Oxalate:formate antiport protein)
+(Oxalate:formate exchange protein).
+"Cloning, sequencing and expression in Escherichia coli of OxlT, the
+oxalate:formate exchange protein of Oxalobacter formigenes.";
+"Structure-function relationships in OxlT, the oxalate/formate
+transporter of Oxalobacter formigenes. Topological features of
+transmembrane helix 11 as visualized by site-directed fluorescent
+labeling.";
+"Structure/function relationships in OxlT, the oxalate/formate
+antiporter of Oxalobacter formigenes. Assignment of transmembrane
+helix 2 to the translocation pathway.";
+"Structure/function relationships in OxlT, the oxalate-formate
+transporter of Oxalobacter formigenes. Assignment of transmembrane
+helix 11 to the translocation pathway.";
+"Topology of OxlT, the oxalate transporter of Oxalobacter formigenes,
+determined by site-directed fluorescence labeling.";
+"Projection structure and molecular architecture of OxlT, a bacterial
+membrane transporter.";
+-!- FUNCTION: Anion transporter that carries out the exchange of
+    divalent oxalate with monovalent formate, the product of oxalate
+    decarboxylation, at the plasma membrane, and in doing so catalyzes
+    the vectorial portion of a proton-motive metabolic cycle that
+    drives ATP synthesis.
+-!- SUBUNIT: Monomer (Potential).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: The protein has a two-fold symmetry axis, with a central
+    cavity which may be associated with substrate transport. Residues
+    contributed from seven transmembrane helices probably line the
+    substrate transport pathway.
+-!- MISCELLANEOUS: Its velocity of transport is the highest one known
+    so far among transporters of organic molecules.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. OFA
+    (TC 2.A.1.11) family.
+Antiport; Direct protein sequencing; Inner membrane; Ion transport;
+Membrane; Transmembrane; Transport.
+TMTWELVE

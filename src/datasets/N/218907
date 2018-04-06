@@ -1,0 +1,8 @@
+AC   Q8ZYP4;
+UPF0179 protein PAE0681.
+"Genome sequence of the hyperthermophilic crenarchaeon Pyrobaculum
+aerophilum.";
+-!- SIMILARITY: Belongs to the UPF0179 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

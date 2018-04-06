@@ -1,0 +1,10 @@
+AC   P0A352; Q9Z5R4;
+Cold shock-like protein cspA.
+"The B. pertussis cspA gene locus.";
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Contains 1 CSD (cold-shock) domain.
+Activator; Complete proteome; DNA-binding; Transcription;
+Transcription regulation.
+TMZERO

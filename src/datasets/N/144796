@@ -1,0 +1,27 @@
+AC   O43566; O43565; Q8TD62;
+Regulator of G-protein signaling 14 (RGS14).
+"cDNA clones of human proteins involved in signal transduction
+sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Inhibits signal transduction by increasing the GTPase
+    activity of G protein alpha subunits thereby driving them into
+    their inactive GDP-bound form.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=O43566-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O43566-2; Sequence=VSP_005691, VSP_005692, VSP_005693;
+    Name=3;
+      IsoId=O43566-3; Sequence=VSP_005691;
+    Name=4;
+      IsoId=O43566-4; Sequence=VSP_005690, VSP_005691, VSP_005692,
+                               VSP_005693;
+-!- SIMILARITY: Contains 1 GoLoco domain.
+-!- SIMILARITY: Contains 2 RBD (Ras-binding) domains.
+-!- SIMILARITY: Contains 1 RGS domain.
+ GO:0005096; F:GTPase activator activity; TAS:ProtInc.
+ GO:0008277; P:regulation of G-protein coupled receptor pr...; TAS:ProtInc.
+Alternative splicing; Repeat; Signal transduction inhibitor.
+TMZERO

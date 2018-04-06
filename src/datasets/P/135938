@@ -1,0 +1,59 @@
+AC   P00550; Q2M7R2;
+PTS system mannitol-specific EIICBA component (EIICBA-Mtl) (EII-Mtl)
+[Includes: Mannitol permease IIC component (PTS system mannitol-
+specific EIIC component); Mannitol-specific phosphotransferase enzyme
+IIB component (EC 2.7.1.69) (PTS system mannitol-specific EIIB
+component); Mannitol-specific phosphotransferase enzyme IIA component
+(EC 2.7.1.-) (PTS system mannitol-specific EIIA component)].
+"Mannitol-specific enzyme II of the bacterial phosphotransferase
+system. III. The nucleotide sequence of the permease gene.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the mannitol (mtl) operon in Escherichia
+coli.";
+"S-phosphocysteine and phosphohistidine are intermediates in the
+phosphoenolpyruvate-dependent mannitol transport catalyzed by
+Escherichia coli EIIMtl.";
+"Membrane topology analysis of Escherichia coli mannitol permease by
+using a nested-deletion method to create mtlA-phoA fusions.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"The structure of the Escherichia coli phosphotransferase IIAmannitol
+reveals a novel fold with two conformations of the active site.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in mannitol transport.
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBUNIT: Homodimer.
+-!- INTERACTION:
+    P0A6F5:groL; NbExp=1; IntAct=EBI-547239, EBI-543750;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- PTM: An intramolecular phosphotransfer takes places between His-
+    554 and Cys-384.
+-!- SIMILARITY: Contains 1 PTS EIIA type-2 domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-2 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-2 domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Complete proteome; Inner membrane; Membrane;
+Phosphorylation; Phosphotransferase system; Sugar transport;
+Transferase; Transmembrane; Transport.
+TMSIX

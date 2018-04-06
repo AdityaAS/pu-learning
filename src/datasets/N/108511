@@ -1,0 +1,15 @@
+AC   Q9YFQ1;
+Nascent polypeptide-associated complex protein.
+"Complete genome sequence of an aerobic hyper-thermophilic
+crenarchaeon, Aeropyrum pernix K1.";
+-!- FUNCTION: Contacts the emerging nascent chain on the ribosome (By
+    similarity).
+-!- SUBUNIT: Homodimer. Interacts with the ribosome. Binds ribosomal
+    RNA (By similarity).
+-!- SIMILARITY: Belongs to the NAC-alpha family.
+-!- SIMILARITY: Contains 1 NAC-A/B (NAC-alpha/beta) domain.
+-!- SIMILARITY: Contains 1 UBA domain.
+ GO:0003723; F:RNA binding; IEA:HAMAP.
+ GO:0015031; P:protein transport; IEA:HAMAP.
+Complete proteome; Protein transport; RNA-binding; Transport.
+TMZERO

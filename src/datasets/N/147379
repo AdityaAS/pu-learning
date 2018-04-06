@@ -1,0 +1,12 @@
+AC   Q07975;
+50S ribosomal protein L11.
+"Nucleotide sequence of the genes encoding L11 and L1 equivalent
+ribosomal protein from Streptomyces sp. FRI-5.";
+-!- FUNCTION: This protein binds directly to 23S ribosomal RNA (By
+    similarity).
+-!- PTM: One or more lysine residues are methylated (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L11P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Methylation; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

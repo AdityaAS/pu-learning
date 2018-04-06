@@ -1,0 +1,11 @@
+AC   Q46639;
+Amylovoran biosynthesis protein amsL.
+"Molecular analysis of the ams operon required for exopolysaccharide
+synthesis of Erwinia amylovora.";
+-!- FUNCTION: Involved in the biosynthesis of amylovoran which
+    functions as a virulence factor.
+-!- PATHWAY: Exopolysaccharide biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the polysaccharide synthase family.
+Exopolysaccharide synthesis; Membrane; Transmembrane; Virulence.
+TMSIX

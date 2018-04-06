@@ -1,0 +1,19 @@
+AC   P63264; P36660;
+Chaperone-modulator protein cbpM.
+"An analogue of the DnaJ molecular chaperone in Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"CbpA, a DnaJ homolog, is a DnaK co-chaperone, and its activity is
+modulated by CbpM.";
+-!- FUNCTION: Interacts with cbpA and inhibits both the dnaJ-like co-
+    chaperone activity and the DNA binding activity of cbpA. Together
+    with cbpA, modulates the activity of the dnaK chaperone system.
+    Does not inhibit the co-chaperone activity of dnaJ.
+-!- INDUCTION: In late stationary phase.
+-!- SIMILARITY: Belongs to the cbpM family.
+ GO:0030188; F:chaperone regulator activity; IEA:HAMAP.
+Complete proteome.
+TMZERO

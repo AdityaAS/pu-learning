@@ -1,0 +1,16 @@
+AC   P82352;
+Sarcospan.
+"Membrane targeting and stabilization of sarcospan is mediated by the
+sarcoglycan subcomplex.";
+"Sarcospan, the 25-kDa transmembrane component of the dystrophin-
+glycoprotein complex.";
+-!- FUNCTION: Component of the dystrophin-glycoprotein complex (DGC),
+    a complex that spans the muscle plasma membrane and forms a link
+    between the F-actin cytoskeleton and the extracellular matrix.
+    Preferentially associates with the sarcoglycan subcomplex of the
+    DGC.
+-!- SUBCELLULAR LOCATION: Cell membrane; sarcolemma; multi-pass
+    membrane protein. Note=Also found in myotendinous junctions and in
+    the postsynaptic membrane of neuromuscular junctions.
+Cytoskeleton; Direct protein sequencing; Membrane; Transmembrane.
+TMFOUR

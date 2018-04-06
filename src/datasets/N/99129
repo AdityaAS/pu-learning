@@ -1,0 +1,22 @@
+AC   Q9KUT3; Q8GN36; Q8GN37; Q8GN38; Q8GN39; Q99PZ5; Q99Q77; Q99QN5;
+AC   Q9AG49; Q9AG50; Q9AIU2; Q9R3N1; Q9R3N2; Q9R3N3; Q9S4R7; Q9XCZ8;
+Malate dehydrogenase (EC 1.1.1.37).
+"Evolutionary relationships of pathogenic clones of Vibrio cholerae by
+sequence analysis of four housekeeping genes.";
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+"Molecular analyses of a putative CTXphi precursor and evidence for
+independent acquisition of distinct CTXphis by toxigenic Vibrio
+cholerae.";
+"Allelic diversity and population structure in Vibrio cholerae O139
+Bengal based on nucleotide sequence analysis.";
+"Housekeeping genes of strains of Vibrio cholerae isolated from
+Guangdong province.";
+-!- FUNCTION: Catalyzes the reversible oxidation of malate to
+    oxaloacetate (By similarity).
+-!- CATALYTIC ACTIVITY: (S)-malate + NAD(+) = oxaloacetate + NADH.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the LDH/MDH superfamily. MDH type 1 family.
+ GO:0006099; P:tricarboxylic acid cycle; IEA:HAMAP.
+Complete proteome; NAD; Oxidoreductase; Tricarboxylic acid cycle.
+TMZERO

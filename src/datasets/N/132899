@@ -1,0 +1,31 @@
+AC   Q68S07;
+Photosystem I P700 chlorophyll a apoprotein A2 (PsaB) (PSI-B).
+"Complete chloroplast genome sequence from Korea ginseng (Panax
+schinseng Nees) and comparative analysis of sequence evolution among
+17 vascular plants.";
+-!- FUNCTION: PsaA and psaB bind P700, the primary electron donor of
+    photosystem I (PSI), as well as the electron acceptors A0, A1 and
+    FX. PSI is a plastocyanin-ferredoxin oxidoreductase, converting
+    photonic excitation into a charge separation, which transfers an
+    electron from the donor P700 chlorophyll pair to the
+    spectroscopically characterized acceptors A0, A1, FX, FA and FB in
+    turn. Oxidized P700 is reduced on the lumenal side of the
+    thylakoid membrane by plastocyanin.
+-!- COFACTOR: P700 is a chlorophyll a/chlorophyll a' dimer, A0 is one
+    or more chlorophyll a, A1 is one or both phylloquinones and FX is
+    a shared 4Fe-4S iron-sulfur center (By similarity).
+-!- SUBUNIT: The psaA/B heterodimer binds the P700 chlorophyll special
+    pair and subsequent electron acceptors. PSI consists of a core
+    antenna complex that captures photons, and an electron transfer
+    chain that converts photonic excitation into a charge separation.
+    The eukaryotic PSI reaction center is composed of at least 11
+    subunits (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the psaA/psaB family.
+ GO:0009055; F:electron carrier activity; IEA:HAMAP.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+4Fe-4S; Chlorophyll; Chloroplast; Chromophore; Electron transport;
+Iron; Iron-sulfur; Magnesium; Membrane; Metal-binding; Photosynthesis;
+Photosystem I; Plastid; Thylakoid; Transmembrane; Transport.
+TMELEVEN

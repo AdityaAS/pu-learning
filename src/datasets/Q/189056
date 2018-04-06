@@ -1,0 +1,22 @@
+AC   Q6CDV7;
+Import inner membrane translocase subunit TIM50, mitochondrial
+precursor.
+"Genome evolution in yeasts.";
+-!- FUNCTION: Essential component of the TIM23 complex, a complex that
+    mediates the translocation of transit peptide-containing proteins
+    across the mitochondrial inner membrane. Required to direct
+    preproteins in transit and direct them to the channel protein
+    TIM23, and possibly facilitates transfer of the translocating
+    proteins from the TOM complex to the TIM23 complex (By
+    similarity).
+-!- SUBUNIT: Component of the TIM23 complex, at least composed of
+    TIM23, TIM17, TIM50 and TIM21. Interacts with preproteins in
+    transit (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    single-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the TIM50 family.
+-!- SIMILARITY: Contains 1 FCP1 homology domain.
+Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Protein transport; Transit peptide; Translocation; Transmembrane;
+Transport.
+TMONE

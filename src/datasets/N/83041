@@ -1,0 +1,9 @@
+AC   P22877;
+Integrase (Recombinase).
+"Characterization of the genetic elements required for site-specific
+integration of plasmid pSE211 in Saccharopolyspora erythraea.";
+-!- FUNCTION: Is a recombinase (or integrase), catalyzing the cutting
+    and rejoining of the recombining DNA molecules.
+-!- SIMILARITY: Belongs to the "phage" integrase family.
+DNA integration; DNA recombination; Plasmid.
+TMZERO

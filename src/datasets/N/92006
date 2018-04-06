@@ -1,0 +1,20 @@
+AC   Q8U0C0;
+3-isopropylmalate dehydratase large subunit 2 (EC 4.2.1.33)
+(Isopropylmalate isomerase 2) (Alpha-IPM isomerase 2) (IPMI 2).
+"The complete sequence of the Pyrococcus furiosus genome.";
+-!- FUNCTION: Catalyzes the isomerization between 2-isopropylmalate
+    and 3-isopropylmalate, via the formation of 2-isopropylmaleate.
+-!- CATALYTIC ACTIVITY: (2R,3S)-3-isopropylmalate = (2S)-2-
+    isopropylmaleate + H(2)O.
+-!- CATALYTIC ACTIVITY: (2S)-2-isopropylmaleate + H(2)O = 3-hydroxy-4-
+    methyl-3-carboxypentanoate.
+-!- COFACTOR: Binds 1 4Fe-4S cluster per subunit (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-leucine biosynthesis; L-
+    leucine from 3-methyl-2-oxobutanoate: step 2.
+-!- SUBUNIT: Heterodimer of leuC and leuD (By similarity).
+-!- SIMILARITY: Belongs to the aconitase/IPM isomerase family. LeuC
+    type 2 subfamily.
+4Fe-4S; Amino-acid biosynthesis;
+Branched-chain amino acid biosynthesis; Complete proteome; Iron;
+Iron-sulfur; Leucine biosynthesis; Lyase; Metal-binding.
+TMZERO

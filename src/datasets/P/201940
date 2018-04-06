@@ -1,0 +1,18 @@
+AC   P42054;
+Outer plastidial membrane protein porin (Voltage-dependent anion-
+selective channel protein) (VDAC).
+"Porins from plants. Molecular cloning and functional characterization
+of two new members of the porin family.";
+-!- FUNCTION: Forms a channel through the cell membrane that allows
+    diffusion of small hydrophilic molecules. The channel adopts an
+    open conformation at low or zero membrane potential and a closed
+    conformation at potentials above 30-40 mV. The open state has a
+    weak anion selectivity whereas the closed state is cation-
+    selective (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; plastid outer membrane. Note=Found
+    in non-photosynthetic root plastids only.
+-!- DOMAIN: Consists mainly of membrane-spanning sided beta-sheets.
+-!- SIMILARITY: Belongs to the eukaryotic mitochondrial porin family.
+Direct protein sequencing; Ion transport; Membrane; Outer membrane;
+Plastid; Porin; Transmembrane; Transport.
+TMZERO

@@ -1,0 +1,10 @@
+AC   Q2KCH7;
+Probable chemotaxis protein cheY.
+"The partitioned Rhizobium etli genome: genetic and metabolic
+redundancy in seven interacting replicons.";
+-!- FUNCTION: Putative member of a two-component regulatory system.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Contains 1 response regulatory domain.
+Chemotaxis; Complete proteome; Phosphorylation;
+Two-component regulatory system.
+TMZERO

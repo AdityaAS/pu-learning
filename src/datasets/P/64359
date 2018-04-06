@@ -1,0 +1,27 @@
+AC   P08194;
+Glycerol-3-phosphate transporter (G-3-P transporter) (G-3-P permease).
+"Nucleotide sequence and transcriptional startpoint of the glpT gene
+of Escherichia coli: extensive sequence homology of the glycerol-3-
+phosphate transport protein with components of the hexose-6-phosphate
+transport system.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The transmembrane topology of the sn-glycerol-3-phosphate permease of
+Escherichia coli analysed by phoA and lacZ protein fusions.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Structure and mechanism of the glycerol-3-phosphate transporter from
+Escherichia coli.";
+-!- FUNCTION: Responsible for glycerol-3-phosphate uptake.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. SLC37A
+    family.
+3D-structure; Complete proteome; Glycerol metabolism; Inner membrane;
+Membrane; Transmembrane; Transport.
+TMTWELVE

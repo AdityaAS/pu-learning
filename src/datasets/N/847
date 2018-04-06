@@ -1,0 +1,16 @@
+AC   O51240;
+6-phosphogluconolactonase (EC 3.1.1.31) (6PGL).
+"Genomic sequence of a Lyme disease spirochaete, Borrelia
+burgdorferi.";
+-!- FUNCTION: Hydrolysis of 6-phosphogluconolactone to 6-
+    phosphogluconate.
+-!- CATALYTIC ACTIVITY: 6-phospho-D-glucono-1,5-lactone + H(2)O = 6-
+    phospho-D-gluconate.
+-!- PATHWAY: Carbohydrate degradation; pentose phosphate pathway; D-
+    ribulose 5-phosphate from D-glucose 6-phosphate (oxidative stage):
+    step 2.
+-!- SIMILARITY: Belongs to the glucosamine/galactosamine-6-phosphate
+    isomerase family. 6-phosphogluconolactonase subfamily.
+ GO:0017057; F:6-phosphogluconolactonase activity; IEA:EC.
+Complete proteome; Hydrolase.
+TMZERO

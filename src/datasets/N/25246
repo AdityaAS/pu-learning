@@ -1,0 +1,35 @@
+AC   P04042;
+Chemotaxis response regulator protein-glutamate methylesterase
+(EC 3.1.1.61).
+"Multiple forms of the CheB methylesterase in bacterial
+chemosensing.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Active site of the enzyme which demethylates receptors during
+bacterial chemotaxis.";
+"Phosphorylation of three proteins in the signaling pathway of
+bacterial chemotaxis.";
+"Activation of methylesterase CheB: evidence of a dual role for the
+regulatory domain.";
+"Crystal structure of the catalytic domain of the chemotaxis receptor
+methylesterase, CheB.";
+"Structural basis for methylesterase CheB regulation by a
+phosphorylation-activated domain.";
+-!- FUNCTION: Responsible for removing the methyl group from the
+    gamma-glutamyl methyl ester residues in the methyl-accepting
+    chemotaxis proteins (MCP). The MCP methylation state of the cell
+    is crucial for sensory responses and adaptations.
+-!- CATALYTIC ACTIVITY: Protein L-glutamate 5-O-methyl ester + H(2)O =
+    protein L-glutamate + methanol.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- DOMAIN: The N-terminal domain interferes with esterase activity
+    and is not essential for catalysis.
+-!- PTM: Phosphorylated by cheA.
+-!- PTM: Two forms were isolated, the intact protein and a proteolytic
+    fragment (146-349) that is 15-fold more active than its precursor.
+-!- SIMILARITY: Contains 1 cheB-type methylesterase domain.
+-!- SIMILARITY: Contains 1 response regulatory domain.
+ GO:0007606; P:sensory perception of chemical stimulus; IEA:HAMAP.
+3D-structure; Chemotaxis; Complete proteome;
+Direct protein sequencing; Hydrolase; Phosphorylation.
+TMZERO

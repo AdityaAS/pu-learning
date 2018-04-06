@@ -1,0 +1,13 @@
+AC   P69098; P04465;
+Calmodulin (CaM).
+"Calmodulin genes in trypanosomes are tandemly repeated and produce
+multiple mRNAs with a common 5' leader sequence.";
+-!- FUNCTION: Calmodulin mediates the control of a large number of
+    enzymes and other proteins by Ca(2+). Among the enzymes to be
+    stimulated by the calmodulin-Ca(2+) complex are a number of
+    protein kinases and phosphatases.
+-!- MISCELLANEOUS: This protein has four functional calcium-binding
+    sites.
+-!- SIMILARITY: Contains 4 EF-hand domains.
+Calcium; Methylation; Repeat.
+TMZERO

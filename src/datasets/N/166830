@@ -1,0 +1,63 @@
+AC   Q96T23; Q86X86; Q9H3L8; Q9NVZ8; Q9NYU0;
+Remodeling and spacing factor 1 (Rsf-1) (Hepatitis B virus X-
+associated protein) (HBV pX-associated protein 8) (p325 subunit of RSF
+chromatin remodelling complex).
+"HBXAP, a novel PHD-finger protein, possesses transcription repression
+activity.";
+"Hepatitis B virus pX interacts with HBXAP, a PHD finger protein to
+coactivate transcription.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Functional analysis of the subunits of the chromatin assembly factor
+RSF.";
+"A probability-based approach for high-throughput protein
+phosphorylation analysis and site localization.";
+-!- FUNCTION: Required for assembly of regular nucleosome arrays by
+    the RSF chromatin remodelling complex. Facilitates transcription
+    of hepatitis B virus (HBV) genes by the pX transcription
+    activator. In case of infection by HBV, together with pX, it
+    represses TNF-alpha induced NF-kappaB transcription activation.
+    Represses transcription when artificially recruited to chromatin
+    by fusion to a heterogeneous DNA binding domain.
+-!- SUBUNIT: Interacts with SMARCA5/SNF2H to form the RSF complex.
+    Also binds the HBV pX/HBx protein, which is required to activate
+    transcription of the viral genome.
+-!- INTERACTION:
+    O60264:SMARCA5; NbExp=3; IntAct=EBI-926768, EBI-352588;
+    O60264:SMARCA5; NbExp=1; IntAct=EBI-926793, EBI-352588;
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+      Comment=Experimental confirmation may be lacking for some
+      isoforms;
+    Name=1; Synonyms=Alpha, XAP8alpha;
+      IsoId=Q96T23-1; Sequence=Displayed;
+    Name=2; Synonyms=Beta;
+      IsoId=Q96T23-2; Sequence=VSP_012500;
+    Name=3; Synonyms=Gamma;
+      IsoId=Q96T23-3; Sequence=VSP_012499;
+-!- TISSUE SPECIFICITY: Ubiquitously expressed.
+-!- SIMILARITY: Contains 1 DDT domain.
+-!- SIMILARITY: Contains 1 PHD-type zinc finger.
+-!- CAUTION: Ref.3 (AAG43114) sequence differs from that shown due to
+    a frameshift in position 539.
+-!- CAUTION: Ref.5 (BAA91591) sequence differs from that shown due to
+    a potential poly-A sequence starting in position 476.
+ GO:0005634; C:nucleus; IDA:UniProtKB.
+ GO:0031213; C:RSF complex; IPI:UniProtKB.
+ GO:0042393; F:histone binding; IDA:UniProtKB.
+ GO:0016563; F:transcriptional activator activity; IDA:UniProtKB.
+ GO:0016564; F:transcriptional repressor activity; IDA:UniProtKB.
+ GO:0006338; P:chromatin remodeling; IDA:UniProtKB.
+ GO:0043392; P:negative regulation of DNA binding; IDA:UniProtKB.
+ GO:0045892; P:negative regulation of transcription, DNA-d...; IDA:UniProtKB.
+ GO:0006334; P:nucleosome assembly; IDA:UniProtKB.
+ GO:0016584; P:nucleosome spacing; IDA:UniProtKB.
+ GO:0050434; P:positive regulation of viral transcription; IDA:UniProtKB.
+ GO:0006352; P:transcription initiation; IDA:UniProtKB.
+Alternative splicing; Chromatin regulator; Coiled coil; Metal-binding;
+Nuclear protein; Phosphorylation; Polymorphism; Transcription;
+Transcription regulation; Zinc; Zinc-finger.
+TMZERO

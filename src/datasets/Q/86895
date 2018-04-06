@@ -1,0 +1,28 @@
+AC   Q96L42;
+Potassium voltage-gated channel subfamily H member 8 (Voltage-gated
+potassium channel subunit Kv12.1) (Ether-a-go-go-like potassium
+channel 3) (ELK channel 3) (ELK3) (ELK1) (hElk1).
+"A novel membrane potential-sensitive fluorescent dye improves cell-
+based assays for ion channels.";
+"Distribution and functional properties of human KCNH8 (Elk1)
+potassium channels.";
+-!- FUNCTION: Pore-forming (alpha) subunit of voltage-gated potassium
+    channel. Elicits a slowly activating, outward rectifying current.
+    Channel properties may be modulated by cAMP and subunit assembly.
+-!- SUBUNIT: The potassium channel is probably composed of a homo- or
+    heterotetrameric complex of pore-forming alpha subunits that can
+    associate with modulating beta subunits.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Primarily expressed in the nervous system.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids at
+    every third position.
+-!- SIMILARITY: Belongs to the potassium channel family. H (Eag)
+    subfamily.
+-!- SIMILARITY: Contains 1 cyclic nucleotide-binding domain.
+-!- SIMILARITY: Contains 1 PAC (PAS-associated C-terminal) domain.
+-!- SIMILARITY: Contains 1 PAS (PER-ARNT-SIM) domain.
+Glycoprotein; Ion transport; Ionic channel; Membrane; Potassium;
+Potassium channel; Potassium transport; Transmembrane; Transport;
+Voltage-gated channel.
+TMSIX

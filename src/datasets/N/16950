@@ -1,0 +1,54 @@
+AC   O08839;
+Myc box-dependent-interacting protein 1 (Bridging integrator 1)
+(Amphiphysin-like protein) (Amphiphysin II).
+"Amphiphysin heterodimers: potential role in clathrin-mediated
+endocytosis.";
+"Clathrin interacts specifically with amphiphysin and is displaced by
+dynamin.";
+"Crystal structure of the alpha appendage of AP-2 reveals a
+recruitment platform for clathrin-coat assembly.";
+"Crystal structure of the amphiphysin-2 SH3 domain and its role in the
+prevention of dynamin ring formation.";
+-!- FUNCTION: May be involved in regulation of synaptic vesicle
+    endocytosis. May act as a tumor suppressor and inhibits malignant
+    cell transformation.
+-!- SUBUNIT: Heterodimer with AMPH. Binds SH3GLB1 (By similarity).
+    Binds to SYNJ1 and DNM1 through its SH3 domain, and to clathrin
+    through a region outside of the SH3 domain. Also binds AP2A2.
+    Interacts with the N-terminal transactivation domain of MYC in a
+    manner requiring the integrity of the conserved MYC box regions 1
+    and 2. Interacts with BIN2 (By similarity).
+-!- INTERACTION:
+    O08838:Amph; NbExp=1; IntAct=EBI-80095, EBI-80080;
+    P21575:Dnm1; NbExp=1; IntAct=EBI-80095, EBI-80070;
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=6;
+    Name=AMPH2-1;
+      IsoId=O08839-1; Sequence=Displayed;
+    Name=AMPH2-2;
+      IsoId=O08839-2; Sequence=VSP_000260;
+    Name=AMPH2-3;
+      IsoId=O08839-3; Sequence=VSP_000258;
+    Name=AMPH2-4;
+      IsoId=O08839-4; Sequence=VSP_000256, VSP_000257;
+    Name=AMPH2-5;
+      IsoId=O08839-5; Sequence=VSP_000259;
+    Name=AMPH2-6;
+      IsoId=O08839-6; Sequence=VSP_000256, VSP_000259;
+-!- TISSUE SPECIFICITY: Isoform AMPH2-1 is expressed in brain,
+    concentrated at nerve terminals. Isoform AMPH2-2 is widely
+    expressed.
+-!- PTM: Phosphorylated by protein kinase C.
+-!- SIMILARITY: Contains 1 BAR domain.
+-!- SIMILARITY: Contains 1 SH3 domain.
+ GO:0008021; C:synaptic vesicle; IDA:RGD.
+ GO:0051020; F:GTPase binding; IPI:RGD.
+ GO:0008022; F:protein C-terminus binding; IMP:RGD.
+ GO:0046982; F:protein heterodimerization activity; IPI:RGD.
+ GO:0048488; P:synaptic vesicle endocytosis; IMP:RGD.
+3D-structure; Alternative splicing; Anti-oncogene; Cell cycle;
+Coiled coil; Developmental protein; Differentiation; Endocytosis;
+Nuclear protein; Phosphorylation; SH3 domain.
+TMZERO

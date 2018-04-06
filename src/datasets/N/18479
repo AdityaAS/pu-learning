@@ -1,0 +1,11 @@
+AC   Q27514;
+Putative cytochrome P450 CYP13A5 (EC 1.14.-.-).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Cytochromes P450 are a group of heme-thiolate
+    monooxygenases. They oxidize a variety of structurally unrelated
+    compounds, including steroids, fatty acids, and xenobiotics.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+Complete proteome; Heme; Hypothetical protein; Iron; Metal-binding;
+Monooxygenase; Oxidoreductase.
+TMZERO

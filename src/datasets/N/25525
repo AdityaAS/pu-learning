@@ -1,0 +1,21 @@
+AC   P37851;
+Light-independent protochlorophyllide reductase subunit B
+(EC 1.18.-.-) (LI-POR subunit B) (DPOR subunit B) (Fragment).
+"Phylogenetic inferences from chloroplast chlB gene sequences of
+Nephrolepis exaltata (Filicopsida), Ephedra altissima (Gnetopsida),
+and diverse land plants.";
+-!- FUNCTION: Uses Mg-ATP and reduced ferredoxin to reduce ring D of
+    protochlorophyllide (Pchlide) to form chlorophyllide a (Chlide)
+    (By similarity). This reaction is light-independent.
+-!- PATHWAY: Light-independent chlorophyll biosynthesis.
+-!- SUBUNIT: Protochlorophyllide reductase is thought to be composed
+    of three subunits; chlL, chlN and chlB. Could form a
+    heterotetramer of two chlB and two chlN subunits (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the chlB/bchB/bchZ family.
+ GO:0016730; F:oxidoreductase activity, acting on iron-sul...; IEA:HAMAP.
+ GO:0030494; P:bacteriochlorophyll biosynthesis; IEA:HAMAP.
+ GO:0015979; P:photosynthesis; IEA:HAMAP.
+Chlorophyll biosynthesis; Chloroplast; Oxidoreductase; Photosynthesis;
+Plastid.
+TMZERO

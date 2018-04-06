@@ -1,0 +1,37 @@
+AC   Q12324; Q08500; Q7LGN3;
+Calcium channel YVC1 (Yeast vacuolar conductance protein 1) (TRP
+homolog).
+"A TRP homolog in Saccharomyces cerevisiae forms an intracellular
+Ca(2+)-permeable channel in the yeast vacuolar membrane.";
+"DNA sequencing and analysis of 130 kb from yeast chromosome XV.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Internal Ca(2+) release in yeast is triggered by hypertonic shock and
+mediated by a TRP channel homologue.";
+"Sequencing and comparison of yeast species to identify genes and
+regulatory elements.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Required for release of calcium ions from the vacuole in
+    response to hyperosmotic shock.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- MISCELLANEOUS: Present with 1310 molecules/cell.
+-!- SIMILARITY: Belongs to the transient receptor family.
+-!- CAUTION: Ref.2 (CAA64009) sequence differs from that shown due to
+    a frameshift in position 245.
+-!- CAUTION: Ref.3 (CAA99282) sequence differs from that shown due to
+    a frameshift in position 245.
+-!- CAUTION: Ref.3 (CAA99283) sequence differs from that shown due to
+    a frameshift in position 245.
+ GO:0000324; C:vacuole (sensu Fungi); IDA:SGD.
+ GO:0005227; F:calcium activated cation channel activity; IDA:SGD.
+ GO:0005262; F:calcium channel activity; IDA:SGD.
+ GO:0015281; F:nonselective cation channel activity; IDA:SGD.
+ GO:0005267; F:potassium channel activity; IDA:SGD.
+ GO:0005272; F:sodium channel activity; IDA:SGD.
+ GO:0005244; F:voltage-gated ion channel activity; IDA:SGD.
+ GO:0030003; P:cation homeostasis; IDA:SGD.
+Calcium; Calcium channel; Calcium transport; Complete proteome;
+Ion transport; Ionic channel; Membrane; Transmembrane; Transport.
+TMSIX

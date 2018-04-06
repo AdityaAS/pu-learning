@@ -1,0 +1,12 @@
+AC   O15604;
+Probable actin-related protein 2/3 complex subunit 3 (ARP2/3 complex
+21 kDa subunit) (p21-ARC) (Fragment).
+"Analysis of expressed sequence tags (ESTs) of the parasitic protozoa
+Entamoeba histolytica.";
+-!- FUNCTION: Part of a complex implicated in the control of actin
+    polymerization in cells (By similarity).
+-!- SUBUNIT: Belongs to a complex composed of ARP2, ARP3, ARPC1,
+    ARPC2, ARPC3, ARPC4 and ARPC5 (By similarity).
+-!- SIMILARITY: Belongs to the ARPC3 family.
+Cytoskeleton.
+TMZERO

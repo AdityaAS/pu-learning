@@ -1,0 +1,18 @@
+AC   Q5LNT7;
+Holliday junction ATP-dependent DNA helicase ruvA (EC 3.6.1.-).
+"Genome sequence of Silicibacter pomeroyi reveals adaptations to the
+marine environment.";
+-!- FUNCTION: The ruvA-ruvB complex in the presence of ATP renatures
+    cruciform structure in supercoiled DNA with palindromic sequence,
+    indicating that it may promote strand exchange reactions in
+    homologous recombination. RuvAB is an helicase that mediates the
+    Holliday junction migration by localized denaturation and
+    reannealing. RuvA stimulates, in the presence of DNA, the weak
+    ATPase activity of ruvB (By similarity).
+-!- SUBUNIT: Forms a complex with ruvB.
+-!- SIMILARITY: Belongs to the ruvA family.
+ GO:0009432; P:SOS response; IEA:HAMAP.
+ATP-binding; Complete proteome; DNA damage; DNA recombination;
+DNA repair; DNA-binding; Helicase; Hydrolase; Nucleotide-binding;
+SOS response.
+TMZERO

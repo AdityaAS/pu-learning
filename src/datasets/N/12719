@@ -1,0 +1,40 @@
+AC   Q9H1Y0; O60875; Q5JVR2; Q68DI4; Q9H2B8; Q9HCZ7;
+Autophagy protein 5 (APG5-like) (Apoptosis-specific protein).
+"Homology between a human apoptosis specific protein and the product
+of APG5, a gene involved in autophagy in yeast.";
+"A novel splicing isoform of human APG5.";
+"The DNA sequence and analysis of human chromosome 6.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"A novel protein expressed in mammalian cells undergoing apoptosis.";
+"A new protein conjugation system in human. The counterpart of the
+yeast Apg12p conjugation system essential for autophagy.";
+"Dissection of autophagosome formation using Apg5-deficient mouse
+embryonic stem cells.";
+-!- FUNCTION: Required for autophagy. Conjugates to ATG12 and
+    associates with isolation membrane to form cup-shaped isolation
+    membrane and autophagosome. The conjugate detaches from the
+    membrane immediately before or after autophagosome formation is
+    completed (By similarity).
+-!- FUNCTION: May play an important role in the apoptotic process,
+    possibly within the modified cytoskeleton. Its expression is a
+    relatively late event in the apoptotic process, occurring
+    downstream of caspase activity.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Note=Colocalizes with nonmuscle
+    actin.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long;
+      IsoId=Q9H1Y0-1; Sequence=Displayed;
+    Name=Short; Synonyms=APG5beta;
+      IsoId=Q9H1Y0-2; Sequence=VSP_003791;
+-!- TISSUE SPECIFICITY: Ubiquitous. The mRNA is present at similar
+    levels in viable and apoptotic cells, whereas the protein is
+    dramatically highly expressed in apoptotic cells.
+-!- INDUCTION: By apoptotic stimuli.
+-!- PTM: Conjugated to ATG12; which is essential for autophagy, but is
+    not required for association with isolation membrane.
+-!- SIMILARITY: Belongs to the ATG5 family.
+ GO:0005776; C:autophagic vacuole; IDA:MGI.
+Alternative splicing; Apoptosis; Autophagy; Ubl conjugation.
+TMZERO

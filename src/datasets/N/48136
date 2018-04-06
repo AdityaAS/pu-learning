@@ -1,0 +1,14 @@
+AC   P64024; Q8YHP2; Q8YHQ4;
+Elongation factor Tu (EF-Tu).
+"The genome sequence of the facultative intracellular pathogen
+Brucella melitensis.";
+-!- FUNCTION: This protein promotes the GTP-dependent binding of
+    aminoacyl-tRNA to the A-site of ribosomes during protein
+    biosynthesis.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the GTP-binding elongation factor family.
+    EF-Tu/EF-1A subfamily.
+Complete proteome; Elongation factor; GTP-binding; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

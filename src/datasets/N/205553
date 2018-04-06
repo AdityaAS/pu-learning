@@ -1,0 +1,17 @@
+AC   Q5HN50;
+Response regulator protein vraR.
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Member of the two-component regulatory system vraS/vraR
+    involved in the control of the cell wall peptidoglycan
+    biosynthesis (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- PTM: Phosphorylated by vraS (Probable).
+-!- SIMILARITY: Contains 1 HTH luxR-type DNA-binding domain.
+-!- SIMILARITY: Contains 1 response regulatory domain.
+Activator; Complete proteome; DNA-binding; Phosphorylation;
+Transcription; Transcription regulation;
+Two-component regulatory system.
+TMZERO

@@ -1,0 +1,13 @@
+AC   Q88NC5;
+Glycosyltransferase alg8 (EC 2.4.1.-).
+"Complete genome sequence and comparative analysis of the
+metabolically versatile Pseudomonas putida KT2440.";
+-!- FUNCTION: Possibly a processive enzyme that polymerizes GDP-
+    mannuronic acid (By similarity).
+-!- PATHWAY: Alginate biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the glycosyltransferase 2 family.
+Alginate biosynthesis; Complete proteome; Glycosyltransferase;
+Membrane; Transferase; Transmembrane.
+TMFIVE

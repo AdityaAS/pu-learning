@@ -1,0 +1,16 @@
+AC   Q85C36;
+Photosystem I assembly protein ycf3.
+"The complete nucleotide sequence of the hornwort (Anthoceros
+formosae) chloroplast genome: insight into the earliest land plants.";
+"RNA editing in hornwort chloroplasts makes more than half the genes
+functional.";
+-!- FUNCTION: Seems to be required for the assembly of the photosystem
+    I complex (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; peripheral membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the ycf3 family.
+-!- SIMILARITY: Contains 3 TPR repeats.
+ GO:0015979; P:photosynthesis; IEA:HAMAP.
+Chloroplast; Membrane; Photosynthesis; Plastid; Repeat; Thylakoid;
+TPR repeat.
+TMZERO

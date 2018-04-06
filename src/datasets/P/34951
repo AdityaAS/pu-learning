@@ -1,0 +1,27 @@
+AC   P27450; O81792; Q8VZ07; Q9M068;
+Probable serine/threonine-protein kinase Cx32, chloroplast precursor
+(EC 2.7.11.1).
+"Gap junction protein homologue from Arabidopsis thaliana: evidence
+for connexins in plants.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"The proposed plant connexin is a protein kinase-like protein.";
+"Phosphoproteomics of the Arabidopsis plasma membrane and a new
+phosphorylation site database.";
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast (Potential).
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+-!- CAUTION: Was originally (Ref.1) reported to be a connexin and to
+    contain transmembrane domains. Ref.4 authors have assigned that
+    this is not a connexin, but rather a protein kinase.
+-!- CAUTION: Ref.1 sequence differs from that shown due to several
+    frameshifts and sequencing errors.
+-!- CAUTION: Ref.2 sequences differ from that shown due to erroneous
+    gene model prediction.
+ATP-binding; Chloroplast; Kinase; Nucleotide-binding; Phosphorylation;
+Plastid; Serine/threonine-protein kinase; Transferase;
+Transit peptide.
+TMZERO

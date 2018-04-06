@@ -1,0 +1,21 @@
+AC   P0AAF4; P08531;
+Arabinose import ATP-binding protein araG (EC 3.6.3.17).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Part of the ABC transporter complex araFGH involved in
+    arabinose import. Responsible for energy coupling to the transport
+    system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + monosaccharide(Out) = ADP +
+    phosphate + monosaccharide(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (araG), two transmembrane proteins (araH) and a solute-binding
+    protein (araF) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Arabinose
+    importer (TC 3.A.1.2.2) subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0015407; F:monosaccharide-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Nucleotide-binding; Repeat; Sugar transport; Transport.
+TMZERO

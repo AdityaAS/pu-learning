@@ -1,0 +1,47 @@
+AC   P36544; Q15826; Q96RH2; Q99555; Q9BXH0;
+Neuronal acetylcholine receptor protein subunit alpha-7 precursor.
+"Human alpha 7 acetylcholine receptor: cloning of the alpha 7 subunit
+from the SH-SY5Y cell line and determination of pharmacological
+properties of native receptors and functional alpha 7 homomers
+expressed in Xenopus oocytes.";
+"Comparative structure of human neuronal alpha 2-alpha 7 and beta 2-
+beta 4 nicotinic acetylcholine receptor subunits and functional
+expression of the alpha 2, alpha 3, alpha 4, alpha 7, beta 2, and beta
+4 subunits.";
+"Cloning and sequence of full-length cDNAs encoding the human neuronal
+nicotinic acetylcholine receptor (nAChR) subunits beta3 and beta4 and
+expression of seven nAChR subunits in the human neuroblastoma cell
+line SH-SY5Y and/or IMR-32.";
+"Cloning cholinergic receptors in human keratinocytes.";
+"Cloning and sequence of the human a7 nicotinic acetylcholine
+receptor.";
+"Molecular cloning and chromosomal localization of the human alpha 7-
+nicotinic receptor subunit gene (CHRNA7).";
+"A 3-Mb map of a large segmental duplication overlapping the alpha7-
+nicotinic acetylcholine receptor gene (CHRNA7) at human 15q13-q14.";
+"Cluster analysis of an extensive human breast cancer cell line
+protein expression map database.";
+-!- FUNCTION: After binding acetylcholine, the AChR responds by an
+    extensive change in conformation that affects all subunits and
+    leads to opening of an ion-conducting channel across the plasma
+    membrane.
+-!- SUBUNIT: Forms a homo-oligomeric channel blocked by alpha-
+    bungarotoxin. The structure is probably pentameric (By
+    similarity).
+-!- INTERACTION:
+    P05067:APP; NbExp=1; IntAct=EBI-79333, EBI-77613;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MASS SPECTROMETRY: MW=54157.68; METHOD=MALDI; RANGE=23-502;
+    NOTE=Ref.10.
+-!- SIMILARITY: Belongs to the ligand-gated ionic channel (TC 1.A.9)
+    family.
+ GO:0005892; C:nicotinic acetylcholine-gated receptor-chan...; TAS:ProtInc.
+ GO:0015464; F:acetylcholine receptor activity; TAS:ProtInc.
+ GO:0004889; F:nicotinic acetylcholine-activated cation-se...; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0000187; P:activation of MAPK activity; TAS:ProtInc.
+ GO:0007165; P:signal transduction; NAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Glycoprotein; Ion transport; Ionic channel; Membrane;
+Postsynaptic membrane; Signal; Transmembrane; Transport.
+TMFOUR

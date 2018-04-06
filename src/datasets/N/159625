@@ -1,0 +1,11 @@
+AC   P49498;
+Chloroplast 30S ribosomal protein S10.
+"The chloroplast genome of a chlorophyll a+c-containing alga,
+Odontella sinensis.";
+-!- FUNCTION: Involved in the binding of tRNA to the ribosomes (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the ribosomal protein S10P family.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+Chloroplast; Plastid; Ribonucleoprotein; Ribosomal protein.
+TMZERO

@@ -1,0 +1,16 @@
+AC   Q4WPF7;
+Diphthamide biosynthesis protein 4.
+"Genomic sequence of the pathogenic and allergenic filamentous fungus
+Aspergillus fumigatus.";
+-!- FUNCTION: Required for the first step of diphtamide biosynthesis,
+    the transfer of 3-amino-3-carboxypropyl from S-adenosyl-L-
+    methionine to a histidine residue. Diphthamide is a post-
+    translational modification of histidine which occurs in elongation
+    factor 2 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the DPH4 family.
+-!- SIMILARITY: Contains 1 DPH-type zinc finger.
+-!- SIMILARITY: Contains 1 J domain.
+Complete proteome; Metal-binding; Nuclear protein; Zinc; Zinc-finger.
+TMZERO

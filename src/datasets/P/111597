@@ -1,0 +1,18 @@
+AC   O74869; O74912;
+High-affinity nickel transport protein nic1.
+"The genome sequence of Schizosaccharomyces pombe.";
+"Nic1p, a relative of bacterial transition metal permeases in
+Schizosaccharomyces pombe, provides nickel ion for urease
+biosynthesis.";
+-!- FUNCTION: High-affinity nickel transporter responsible for nickel
+    uptake. Required for urease biosynthesis.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the NiCoT transporter (TC 2.A.52) family.
+ GO:0005783; C:endoplasmic reticulum; IDA:GeneDB_SPombe.
+ GO:0005887; C:integral to plasma membrane; TAS:GeneDB_SPombe.
+ GO:0015099; F:nickel ion transporter activity; IMP:GeneDB_SPombe.
+ GO:0015675; P:nickel ion transport; IMP:GeneDB_SPombe.
+ GO:0000050; P:urea cycle; IMP:GeneDB_SPombe.
+Complete proteome; Membrane; Nickel; Transmembrane; Transport.
+TMSEVEN

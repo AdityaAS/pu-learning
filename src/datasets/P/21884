@@ -1,0 +1,29 @@
+AC   P45706;
+Cytochrome c-type biogenesis protein ccdA.
+"New genes in the 170 degrees region of the Bacillus subtilis genome
+encode DNA gyrase subunits, a thioredoxin, a xylanase and an amino
+acid transporter.";
+"Identification and characterization of the ccdA gene, required for
+cytochrome c synthesis in Bacillus subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Efficient spore synthesis in Bacillus subtilis depends on the CcdA
+protein.";
+"Mutations in the thiol-disulfide oxidoreductases BdbC and BdbD can
+suppress cytochrome c deficiency of CcdA-defective Bacillus subtilis
+cells.";
+-!- FUNCTION: Required for cytochrome c synthesis and stage V of
+    sporulation. Might transfer reducing equivalents across the
+    cytoplasmic membrane, promoting efficient disulfide bond
+    isomerization of proteins localized on the outer surface of the
+    membrane or in the spore coat.
+-!- FUNCTION: Cytochrome c oxidase activity is partially restored by
+    mutations in bdbC or bdbD that are defective in the synthesis of
+    disulfide bond containing proteins. The same mutations abrogate
+    the need for ccdA in sporulation.
+-!- PATHWAY: Cytochrome c synthesis system II.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the dsbD family.
+Complete proteome; Cytochrome c-type biogenesis; Membrane;
+Sporulation; Transmembrane.
+TMSIX

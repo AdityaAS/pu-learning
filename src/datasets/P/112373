@@ -1,0 +1,27 @@
+AC   Q14957;
+Glutamate [NMDA] receptor subunit epsilon 3 precursor (N-methyl D-
+aspartate receptor subtype 2C) (NR2C) (NMDAR2C).
+"Cloning of the cDNA for the human NMDA receptor NR2C subunit and its
+expression in the central nervous system and periphery.";
+-!- FUNCTION: NMDA receptor subtype of glutamate-gated ion channels
+    with high calcium permeability and voltage-dependent sensitivity
+    to magnesium. Mediated by glycine.
+-!- SUBUNIT: Interacts with PDZ domains of INADL and DLG4 (By
+    similarity). Forms heteromeric channel of a zeta subunit (GRIN1),
+    a epsilon subunit (GRIN2A, GRIN2B, GRIN2C or GRIN2D) and a third
+    subunit (GRIN3A or GRIN3B).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Mainly in brain with predominant expression is
+    in the cerebellum, also present in the hippocampus, amygdala,
+    caudate nucleus, corpus callosum, subthalamic nuclei and thalamus.
+    Detected in the heart, skeletal muscle and pancreas.
+-!- SIMILARITY: Belongs to the glutamate-gated ion channel (TC 1.A.10)
+    family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0004972; F:N-methyl-D-aspartate selective glutamate re...; TAS:ProtInc.
+ GO:0007215; P:glutamate signaling pathway; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Calcium; Glycoprotein; Ion transport; Ionic channel; Magnesium;
+Membrane; Postsynaptic membrane; Receptor; Signal; Transmembrane;
+Transport.
+TMFOUR

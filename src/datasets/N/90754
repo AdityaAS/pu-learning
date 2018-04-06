@@ -1,0 +1,12 @@
+AC   Q5KLL9; Q55YC2;
+Leucine carboxyl methyltransferase 1 (EC 2.1.1.-) (Protein phosphatase
+methyltransferase 1).
+"The genome of the basidiomycetous yeast and human pathogen
+Cryptococcus neoformans.";
+-!- FUNCTION: Methylates the carboxyl group of the C-terminal leucine
+    residue of protein phosphatase 2A catalytic subunits to form
+    alpha-leucine ester residues (By similarity).
+-!- SIMILARITY: Belongs to the methyltransferase superfamily. LCMT
+    family.
+Complete proteome; Methyltransferase; Transferase.
+TMZERO

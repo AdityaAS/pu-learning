@@ -1,0 +1,14 @@
+AC   P15688;
+NADH-ubiquinone oxidoreductase chain 2 (EC 1.6.5.3) (NADH
+dehydrogenase subunit 2).
+"Sugarbeet mitochondria contain an open reading frame showing
+extensive sequence homology to the subunit 2 gene of the NADH:
+ubiquinone reductase complex.";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the complex I subunit 2 family.
+-!- CAUTION: It is uncertain whether Met-1 or Met-52 is the initiator.
+Membrane; Mitochondrion; NAD; Oxidoreductase; Transmembrane;
+Ubiquinone.
+TMZERO

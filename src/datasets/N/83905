@@ -1,0 +1,12 @@
+AC   Q7VMA9;
+Cysteine desulfurase (EC 2.8.1.7).
+"The complete genome sequence of Haemophilus ducreyi.";
+-!- FUNCTION: Catalyzes the removal of elemental sulfur from cysteine
+    to produce alanine (By similarity).
+-!- CATALYTIC ACTIVITY: L-cysteine + [enzyme]-cysteine = L-alanine +
+    [enzyme]-S-sulfanylcysteine.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- SIMILARITY: Belongs to the class-V pyridoxal-phosphate-dependent
+    aminotransferase family. NifS/iscS subfamily.
+Complete proteome; Pyridoxal phosphate; Transferase.
+TMZERO

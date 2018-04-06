@@ -1,0 +1,18 @@
+AC   Q865X1;
+Interferon gamma precursor (IFN-gamma).
+"Cloning and sequence analysis of llama cytokines related to cell-
+mediated immunity.";
+-!- FUNCTION: Produced by lymphocytes activated by specific antigens
+    or mitogens. IFN-gamma, in addition to having antiviral activity,
+    has important immunoregulatory functions. It is a potent activator
+    of macrophages, it has antiproliferative effects on transformed
+    cells and it can potentiate the antiviral and antitumor effects of
+    the type I interferons (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- TISSUE SPECIFICITY: Released primarily from activated T
+    lymphocytes.
+-!- SIMILARITY: Belongs to the type II (or gamma) interferon family.
+Antiviral defense; Cytokine; Glycoprotein; Growth regulation;
+Pyrrolidone carboxylic acid; Signal.
+TMZERO

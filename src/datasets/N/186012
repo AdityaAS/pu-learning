@@ -1,0 +1,12 @@
+AC   Q9W790;
+T-complex protein 1 subunit alpha (TCP-1-alpha) (CCT-alpha).
+"Origin of gene overlap: the case of TCP1 and ACAT2.";
+-!- FUNCTION: Molecular chaperone; assist the folding of proteins upon
+    ATP hydrolysis. Known to play a role, in vitro, in the folding of
+    actin and tubulin (By similarity).
+-!- SUBUNIT: Hetero-oligomeric complex of about 850 to 900 kDa that
+    forms two stacked rings, 12 to 16 nm in diameter (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the TCP-1 chaperonin family.
+ATP-binding; Chaperone; Nucleotide-binding.
+TMZERO

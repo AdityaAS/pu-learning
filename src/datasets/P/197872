@@ -1,0 +1,37 @@
+AC   P69822; P39302; Q2M6B1;
+Ascorbate-specific phosphotransferase enzyme IIB component
+(EC 2.7.1.69) (Ascorbate-specific PTS system EIIB component).
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Novel phosphotransferases system genes revealed by bacterial genome
+analysis: operons encoding homologues of sugar-specific permease
+domains of the phosphotransferase system and pentose catabolic
+enzymes.";
+"The gene yjfQ encodes the repressor of the yjfR-X regulon (ula),
+which is involved in L-ascorbate metabolism in Escherichia coli.";
+"The ascorbate transporter of Escherichia coli.";
+"Regulation of expression of the divergent ulaG and ulaABCDEF operons
+involved in L-ascorbate dissimilation in Escherichia coli.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active-
+    transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in ascorbate transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- INTERACTION:
+    P0A6Y8:dnaK; NbExp=1; IntAct=EBI-1113922, EBI-542092;
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- INDUCTION: Induced by L-ascorbate. Repressed by ulaR.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-2 domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Phosphorylation; Phosphotransferase system;
+Transferase; Transport.
+TMZERO

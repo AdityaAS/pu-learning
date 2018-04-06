@@ -1,0 +1,16 @@
+AC   P69178; P08027;
+Shiga toxin B-chain precursor.
+"Cloning and sequencing of the genes for Shiga toxin from Shigella
+dysenteriae type 1.";
+"Cloning and primary structure of Shigella toxin genes.";
+"The primary structure of the operons coding for Shigella dysenteriae
+toxin and temperature phage H30 shiga-like toxin.";
+"Complete amino acid sequence of Shigella toxin B-chain. A novel
+polypeptide containing 69 amino acids and one disulfide bridge.";
+-!- FUNCTION: The B-chain is responsible for binding the holotoxin to
+    specific receptors on the target cell surface.
+-!- SUBUNIT: Shiga toxin contains a single A-chain and five copies of
+    a B-chain.
+-!- SIMILARITY: Belongs to the slt beta family.
+3D-structure; Signal; Toxin.
+TMZERO

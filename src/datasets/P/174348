@@ -1,0 +1,30 @@
+AC   P31122; P76883; P77353;
+Sugar efflux transporter.
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Genetic and functional analysis of the multiple antibiotic resistance
+(mar) locus in Escherichia coli.";
+"Transcriptional activation of ydeA, which encodes a member of the
+major facilitator superfamily, interferes with arabinose accumulation
+and induction of the Escherichia coli arabinose PBAD promoter.";
+"Escherichia coli gene ydeA encodes a major facilitator pump which
+exports L-arabinose and isopropyl-beta-D-thiogalactopyranoside.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in the efflux of sugars. The physiological role
+    may be the reduction of the intracellular concentration of toxic
+    sugars or sugar metabolites. Transports L-arabinose and to a
+    lesser extent IPTG. Seems to contribute to the control of the
+    arabinose regulon.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. SotB
+    (TC 2.A.1.2) family.
+ GO:0015144; F:carbohydrate transporter activity; IEA:HAMAP.
+ GO:0008643; P:carbohydrate transport; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,32 @@
+AC   P16520; Q9BQC0;
+Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta 3
+(Transducin beta chain 3).
+"Molecular cloning of beta 3 subunit, a third form of the G protein
+beta-subunit polypeptide.";
+"A gene-rich cluster between the CD4 and triosephosphate isomerase
+genes at human chromosome 12p13.";
+"Large-scale sequencing in human chromosome 12p13: experimental and
+computational gene structure determination.";
+"G protein beta 3 gene: structure, promoter, and additional
+polymorphisms.";
+"cDNA clones of human proteins involved in signal transduction
+sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+    involved as a modulator or transducer in various transmembrane
+    signaling systems. The beta and gamma chains are required for the
+    GTPase activity, for replacement of GDP by GTP, and for G protein-
+    effector interaction.
+-!- SUBUNIT: G proteins are composed of 3 units, alpha, beta and
+    gamma.
+-!- SIMILARITY: Contains 7 WD repeats.
+ GO:0003924; F:GTPase activity; TAS:ProtInc.
+ GO:0008217; P:blood pressure regulation; TAS:ProtInc.
+ GO:0007186; P:G-protein coupled receptor protein signalin...; TAS:ProtInc.
+Phosphorylation; Polymorphism; Repeat; Transducer; WD repeat.
+TMZERO

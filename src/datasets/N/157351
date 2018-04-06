@@ -1,0 +1,25 @@
+AC   O74633; Q7RVL5;
+DNA-directed RNA polymerase I polypeptide 2 (EC 2.7.7.6) (RNA
+polymerase I subunit 2).
+"Mutation of the gene for the second-largest subunit of RNA polymerase
+I prolongs the period length of the circadian conidiation rhythm in
+Neurospora crassa.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+    of DNA into RNA using the four ribonucleoside triphosphates as
+    substrates. RNA polymerase I is essentially used to transcribe
+    ribosomal DNA units.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: RNA polymerase I consists of 14 different subunits. This
+    subunit is the second largest component of RNA polymerase I (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- MISCELLANEOUS: Three distinct zinc-containing RNA polymerases are
+    found in eukaryotic nuclei: polymerase I for the ribosomal RNA
+    precursor, polymerase II for the mRNA precursor, and polymerase
+    III for 5S and tRNA genes.
+-!- SIMILARITY: Belongs to the RNA polymerase beta chain family.
+DNA-directed RNA polymerase; Metal-binding; Nuclear protein;
+Nucleotidyltransferase; Transcription; Transferase; Zinc; Zinc-finger.
+TMZERO

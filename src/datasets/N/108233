@@ -1,0 +1,45 @@
+AC   Q63358;
+Myosin-9B (Myosin IXb) (Unconventional myosin-9b).
+"A novel type of myosin implicated in signalling by rho family
+GTPases.";
+-!- FUNCTION: Myosins are actin-based motor molecules with ATPase
+    activity. Unconventional myosins serve in intracellular movements.
+    May be involved in the remodeling of the actin cytoskeleton. Binds
+    actin with high affinity both in the absence and presence of ATP
+    and its mechanochemical activity is inhibited by calcium ions.
+    Also acts as a GTPase activating protein on Rho.
+-!- SUBCELLULAR LOCATION: Cytoplasm; cell cortex. Cytoplasm;
+    perinuclear region (By similarity). Note=In undifferentiated cells
+    colocalizes with F-actin in the cell periphery while in
+    differentiated cells its localization is cytoplasmic with the
+    highest levels in the perinuclear region (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in testis, lung, thymus, brain,
+    liver and spleen.
+-!- SIMILARITY: Contains 4 IQ domains.
+-!- SIMILARITY: Contains 1 myosin head-like domain.
+-!- SIMILARITY: Contains 1 phorbol-ester/DAG-type zinc finger.
+-!- SIMILARITY: Contains 1 Ras-associating domain.
+-!- SIMILARITY: Contains 1 Rho-GAP domain.
+ GO:0005884; C:actin filament; IDA:RGD.
+ GO:0005737; C:cytoplasm; IDA:RGD.
+ GO:0030027; C:lamellipodium; IDA:RGD.
+ GO:0048471; C:perinuclear region; IDA:RGD.
+ GO:0001726; C:ruffle; IDA:RGD.
+ GO:0005625; C:soluble fraction; IDA:RGD.
+ GO:0051015; F:actin filament binding; IDA:RGD.
+ GO:0030898; F:actin-dependent ATPase activity; IDA:RGD.
+ GO:0043531; F:ADP binding; IDA:RGD.
+ GO:0005524; F:ATP binding; IDA:RGD.
+ GO:0043008; F:ATP-dependent protein binding; IDA:RGD.
+ GO:0016887; F:ATPase activity; IDA:RGD.
+ GO:0005096; F:GTPase activator activity; IDA:RGD.
+ GO:0005100; F:Rho GTPase activator activity; IDA:RGD.
+ GO:0017048; F:Rho GTPase binding; IPI:RGD.
+ GO:0008270; F:zinc ion binding; IDA:RGD.
+ GO:0030036; P:actin cytoskeleton organization and biogenesis; IPI:RGD.
+ GO:0006200; P:ATP catabolism; IDA:RGD.
+ GO:0007266; P:Rho protein signal transduction; IPI:RGD.
+Actin-binding; ATP-binding; Calmodulin-binding; Coiled coil;
+Cytoskeleton; GTPase activation; Metal-binding; Motor protein; Myosin;
+Nucleotide-binding; Phorbol-ester binding; Repeat; Zinc; Zinc-finger.
+TMZERO

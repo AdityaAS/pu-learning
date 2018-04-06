@@ -1,0 +1,15 @@
+AC   Q8NHB8; Q6IF47;
+Olfactory receptor 5K2 (Olfactory receptor OR3-9).
+"Genome-wide discovery and analysis of human seven transmembrane helix
+receptor genes.";
+"The DNA sequence, annotation and analysis of human chromosome 3.";
+"The human olfactory receptor gene family.";
+-!- FUNCTION: Putative odorant receptor.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+-!- WEB RESOURCE: NAME=Human Olfactory Receptor Data Exploratorium
+    (HORDE);
+    URL="http://bip.weizmann.ac.il/cgi-bin/HORDE/showGene.pl?key=symbol&value=OR5K2".
+G-protein coupled receptor; Glycoprotein; Membrane; Olfaction;
+Receptor; Sensory transduction; Transducer; Transmembrane.
+TMSEVEN

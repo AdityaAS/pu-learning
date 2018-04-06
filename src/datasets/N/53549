@@ -1,0 +1,28 @@
+AC   Q40300;
+Fucoxanthin-chlorophyll a-c binding protein F, chloroplast precursor
+(Fragment).
+"The gene family encoding the fucoxanthin chlorophyll proteins from
+the brown alga Macrocystis pyrifera.";
+-!- FUNCTION: The light-harvesting complex (LHC) functions as a light
+    receptor, it captures and delivers excitation energy to
+    photosystems with which it is closely associated. Energy is
+    transferred from the carotenoid and chlorophyll C (or B) to
+    chlorophyll A and the photosynthetic reaction centers where it is
+    used to synthesize ATP and reducing power.
+-!- SUBUNIT: The LHC complex of chromophytic algae is composed of
+    fucoxanthin, chlorophyll A and C bound non-covalently by
+    fucoxanthin chlorophyll proteins (FCPs). The ratio of pigments in
+    this LHC is; fucoxanthin: chlorophyll C: chlorophyll A; (0.6-1):
+    (0.1-0.3): (1).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; multi-pass membrane protein. Note=FCPs are probably
+    transported across the endoplasmic reticulum membranes that
+    surround the plastid via a signal peptide, followed by
+    translocation across the thylakoid membrane via a transit peptide.
+-!- INDUCTION: Levels are increased up to tenfold when transferred
+    from high intensity to low intensity blue or white light.
+-!- SIMILARITY: Belongs to the fucoxanthin chlorophyll protein family.
+Chlorophyll; Chloroplast; Chromophore; Light-harvesting polypeptide;
+Membrane; Photosynthesis; Photosystem II; Plastid; Thylakoid;
+Transit peptide; Transmembrane.
+THTHREE

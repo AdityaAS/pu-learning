@@ -1,0 +1,55 @@
+AC   O88704; O54899; Q9D613;
+Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated
+channel 1 (Brain cyclic nucleotide-gated channel 1) (BCNG-1)
+(Hyperpolarization-activated cation channel 2) (HAC-2).
+"Interactive cloning with the SH3 domain of N-src identifies a new
+brain specific ion channel protein, with homology to eag and cyclic
+nucleotide-gated channels.";
+"A family of hyperpolarization-activated cation channels.";
+"The transcriptional landscape of the mammalian genome.";
+"Identification of a gene encoding a hyperpolarization-activated
+'pacemaker' channel of brain.";
+"MinK-related peptide 1: a beta subunit for the HCN ion channel
+subunit family enhances expression and speeds activation.";
+"Molecular mechanism of cAMP modulation of HCN pacemaker channels.";
+"Hyperpolarization-activated channels HCN1 and HCN4 mediate responses
+to sour stimuli.";
+"Dominant-negative suppression of HCN1- and HCN2-encoded pacemaker
+currents by an engineered HCN1 construct: insights into structure-
+function relationships and multimerization.";
+"Different roles for the cyclic nucleotide binding domain and amino
+terminus in assembly and expression of hyperpolarization-activated,
+cyclic nucleotide-gated channels.";
+"An external determinant in the S5-P linker of the pacemaker (HCN)
+channel identified by sulfhydryl modification.";
+-!- FUNCTION: Hyperpolarization-activated ion channel exhibiting weak
+    selectivity for potassium over sodium ions. Contributes to the
+    native pacemaker currents in heart (If) and in neurons (Ih).
+    Activated by cAMP, and at 10-100 times higher concentrations, also
+    by cGMP. May mediate responses to sour stimuli.
+-!- SUBUNIT: The potassium channel is probably composed of a homo- or
+    heterotetrameric complex of pore-forming subunits. Heteromultimer
+    with HCN2. Interacts with KCNE2. Interacts with the SH3 domain of
+    CSK.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Predominantly expressed in brain. Highly
+    expressed in apical dendrites of pyramidal neurons in the cortex,
+    in the layer corresponding to the stratum lacunosum-moleculare in
+    the hippocampus and in axons of basket cells in the cerebellum.
+    Expressed in a subset of elongated cells in taste buds.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids at
+    every third position.
+-!- PTM: N-glycosylated.
+-!- MISCELLANEOUS: Inhibited by extracellular cesium ions.
+-!- SIMILARITY: Belongs to the potassium channel family. HCN
+    subfamily.
+-!- SIMILARITY: Contains 1 cyclic nucleotide-binding domain.
+-!- CAUTION: Ref.3 sequence differs from that shown due to a
+    frameshift in position 381.
+ GO:0030424; C:axon; IDA:MGI.
+cAMP; cAMP-binding; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Nucleotide-binding; Potassium; Potassium channel;
+Potassium transport; Sodium; Sodium channel; Sodium transport;
+Transmembrane; Transport; Voltage-gated channel.
+TMSEVEN

@@ -1,0 +1,30 @@
+AC   P69812; P24217; P94759;
+Multiphosphoryl transfer protein (MTP) (Phosphotransferase FPr
+protein) (Pseudo-HPr) [Includes: Phosphocarrier protein HPr (Protein
+H); Fructose-specific phosphotransferase enzyme IIA component
+(EC 2.7.1.-) (PTS system fructose-specific EIIA component)].
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in fructose transport (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- INDUCTION: By fructose (By similarity).
+-!- DOMAIN: In contrast to classical PTS systems, the fructose PTS has
+    no requirement for HPr; FPr combines a IIA domain with a HPr
+    domain.
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 HPr domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-2 domain.
+Complete proteome; Kinase; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport.
+TMZERO

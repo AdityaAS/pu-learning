@@ -1,0 +1,40 @@
+AC   P22001;
+Potassium voltage-gated channel subfamily A member 3 (Voltage-gated
+potassium channel subunit Kv1.3) (HPCN3) (HGK5) (HuKIII) (HLK3).
+"Sequence and functional expression in Xenopus oocytes of a human
+insulinoma and islet potassium channel.";
+"Characterization and functional expression of genomic DNA encoding
+the human lymphocyte type n potassium channel.";
+"Cloning, functional expression, and regulation of two K+ channels in
+human T lymphocytes.";
+"Confirmation of the assignment of the gene encoding Kv1.3, a voltage-
+gated potassium channel (KCNA3) to the proximal short arm of human
+chromosome 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Mediates the voltage-dependent potassium ion
+    permeability of excitable membranes. Assuming opened or closed
+    conformations in response to the voltage difference across the
+    membrane, the protein forms a potassium-selective channel through
+    which potassium ions may pass in accordance with their
+    electrochemical gradient.
+-!- SUBUNIT: Heterotetramer of potassium channel proteins. Binds PDZ
+    domains of DLG1, DLG2 and DLG4 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DOMAIN: The N-terminus may be important in determining the rate of
+    inactivation of the channel while the tail may play a role in
+    modulation of channel activity and/or targeting of the channel to
+    specific subcellular compartments.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids at
+    every third position.
+-!- SIMILARITY: Belongs to the potassium channel family. A (Shaker)
+    subfamily.
+ GO:0008076; C:voltage-gated potassium channel complex; TAS:ProtInc.
+ GO:0005251; F:delayed rectifier potassium channel activity; TAS:ProtInc.
+ GO:0005244; F:voltage-gated ion channel activity; TAS:ProtInc.
+ GO:0006813; P:potassium ion transport; TAS:ProtInc.
+Glycoprotein; Ion transport; Ionic channel; Lipoprotein; Membrane;
+Palmitate; Phosphorylation; Potassium; Potassium channel;
+Potassium transport; Transmembrane; Transport; Voltage-gated channel.
+TMSIX

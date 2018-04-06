@@ -1,0 +1,17 @@
+AC   Q9A823;
+2-isopropylmalate synthase (EC 2.3.3.13) (Alpha-isopropylmalate
+synthase) (Alpha-IPM synthetase).
+"Complete genome sequence of Caulobacter crescentus.";
+-!- FUNCTION: Catalyzes the condensation of the acetyl group of
+    acetyl-CoA with 3-methyl-2-oxobutanoate (2-oxoisovalerate) to form
+    3-carboxy-3-hydroxy-4-methylpentanoate (2-isopropylmalate).
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + 3-methyl-2-oxobutanoate + H(2)O =
+    (2S)-2-isopropylmalate + CoA.
+-!- PATHWAY: Amino-acid biosynthesis; L-leucine biosynthesis; L-
+    leucine from 3-methyl-2-oxobutanoate: step 1.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the alpha-IPM synthetase/homocitrate
+    synthase family. LeuA type 1 subfamily.
+Amino-acid biosynthesis; Branched-chain amino acid biosynthesis;
+Complete proteome; Leucine biosynthesis; Transferase.
+TMZERO

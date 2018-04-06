@@ -1,0 +1,13 @@
+AC   P0ABI6; P27841;
+Magnesium transport protein corA.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Mediates influx of magnesium ions (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the corA metal ion transporter (MIT)
+    (TC 1.A.35) family.
+Complete proteome; Inner membrane; Ion transport; Magnesium; Membrane;
+Transmembrane; Transport.
+TMTWO

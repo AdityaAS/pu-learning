@@ -1,0 +1,89 @@
+AC   P08491; Q88613; Q88614; Q88615; Q88616; Q88617; Q88728;
+Structural polyprotein (p130) [Contains: Capsid protein (EC 3.4.21.-)
+(Coat protein) (C); p62 (E3/E2); E3 protein (Spike glycoprotein E3);
+E2 envelope glycoprotein (Spike glycoprotein E2); 6K protein; E1
+envelope glycoprotein (Spike glycoprotein E1)].
+"Ross River virus 26 s RNA: complete nucleotide sequence and deduced
+sequence of the encoded structural proteins.";
+"Sequence studies of several alphavirus genomic RNAs in the region
+containing the start of the subgenomic RNA.";
+"Genetic stability of Ross River virus during epidemic spread in
+nonimmune humans.";
+"An evolutionary tree relating eight alphaviruses, based on amino-
+terminal sequences of their glycoproteins.";
+-!- FUNCTION: Capsid protein possesses a protease activity that
+    results in its autocatalytic cleavage from the nascent structural
+    protein. Following its self-cleavage, the capsid protein
+    transiently associates with ribosomes, and within several minutes
+    the protein binds to viral RNA and rapidly assembles into
+    icosaedric core particles. The resulting nucleocapsid eventually
+    associates with the cytoplasmic domain of E2 at the cell membrane,
+    leading to budding and formation of mature virions. New virions
+    attach to target cells, and after endocytosis their membrane fuses
+    with the target cell membrane. This leads to the release of the
+    nucleocapsid into the cytoplasm, followed by an uncoating event
+    necessary for the genomic RNA to become accessible. The uncoating
+    might be triggered by the interaction of capsid proteins with
+    ribosomes. Binding of ribosomes would release the genomic RNA
+    since the same region is genomic RNA-binding and ribosome-binding
+    (By similarity).
+-!- FUNCTION: E3 protein's function is unknown (By similarity).
+-!- FUNCTION: E2 is responsible for viral attachment to target host
+    cell, by binding to the cell receptor. Synthesized as a p62
+    precursor which is processed by furin at the cell membrane just
+    before virion budding, giving rise to E2-E1 heterodimer. The p62-
+    E1 heterodimer is stable, whereas E2-E1 is unstable and dissociate
+    at low pH. p62 is processed at the last step, presumably to avoid
+    E1 fusion activation before its final export to cell surface. E2
+    C-terminus contains a transitory transmembrane that would be
+    disrupted by palmitoylation, resulting in reorientation of the C-
+    terminal tail from lumenal to cytoplasmic side. This step is
+    critical since E2 C-terminus is involved in budding by interacting
+    with capsid proteins. This release of E2 C-terminus in cytoplasm
+    occurs lately in protein export, and precludes premature assembly
+    of particles at the endoplasmic reticulum membrane (By
+    similarity).
+-!- FUNCTION: 6K is a constitutive membrane protein involved in virus
+    glycoprotein processing, membrane permeabilization, and the
+    budding of viral particles. Because of its lipophilic properties,
+    the 6K protein is postulated to influence the selection of lipids
+    that interact with the transmembrane domains of the glycoproteins,
+    which, in turn, affects the deformability of the bilayer required
+    for the extreme curvature that occurs as budding proceeds (By
+    similarity).
+-!- FUNCTION: E1 is a class II viral fusion protein. Fusion activity
+    is inactive as long as E1 is bound to E2 in mature virion. After
+    virus attachment to target cell and endocytosis, acidification of
+    the endosome would induce dissociation of E1/E2 heterodimer and
+    concomitant trimerization of the E1 subunits. This E1 trimer is
+    fusion active, and promotes release of viral nucleocapsid in
+    cytoplasm after cell and viral membrane fusion. Efficient fusion
+    requires the presence of cholesterol and sphingolipid in the
+    target membrane (By similarity).
+-!- SUBUNIT: p62 and E1 form a heterodimer shortly after synthesis.
+    Processing of p62 into E2 and E3 results in a heterodimer of E2
+    and E1. Spike at virion surface are constituted of three E2-E1
+    heterodimers. After target cell attachment and endocytosis, E1
+    change conformation to form homotrimers (By similarity).
+-!- SUBCELLULAR LOCATION: Capsid protein: Cytoplasm (By similarity).
+    p62: Cell membrane; single-pass type I membrane protein (By
+    similarity). E2 envelope glycoprotein: Cell membrane; single-pass
+    type I membrane protein (By similarity). E1 envelope glycoprotein:
+    Cell membrane; single-pass type I membrane protein (By
+    similarity). 6K protein: Cell membrane; multi-pass membrane
+    protein (By similarity).
+-!- PTM: Specific enzymatic cleavages in vivo yield mature proteins.
+    Capsid protein is auto-cleaved during polyprotein translation,
+    unmasking p62 signal peptide. The remaining polyprotein is then
+    targeted to the endoplasmic reticulum, where host signal peptidase
+    cleaves it into p62, 6K and E1 proteins. p62 is further processed
+    to mature E3 and E2 by host furin in trans-Golgi vesicle (By
+    similarity).
+-!- PTM: E2 and 6K are palmitoylated via thioester bonds.
+-!- MISCELLANEOUS: Structural polyprotein is translated from a
+    subgenomic RNA synthesized during togaviruses replication.
+-!- SIMILARITY: Contains 1 peptidase S3 domain.
+Capsid protein; Direct protein sequencing; Glycoprotein; Hydrolase;
+Lipoprotein; Membrane; Palmitate; Protease; Serine protease; Signal;
+Transmembrane; Virion protein.
+TMFOUR

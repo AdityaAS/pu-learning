@@ -1,0 +1,11 @@
+AC   Q73G44;
+Malate dehydrogenase (EC 1.1.1.37).
+"Phylogenomics of the reproductive parasite Wolbachia pipientis wMel:
+a streamlined genome overrun by mobile genetic elements.";
+-!- FUNCTION: Catalyzes the reversible oxidation of malate to
+    oxaloacetate (By similarity).
+-!- CATALYTIC ACTIVITY: (S)-malate + NAD(+) = oxaloacetate + NADH.
+-!- SIMILARITY: Belongs to the LDH/MDH superfamily. MDH type 3 family.
+ GO:0006099; P:tricarboxylic acid cycle; IEA:HAMAP.
+Complete proteome; NAD; Oxidoreductase; Tricarboxylic acid cycle.
+TMZERO

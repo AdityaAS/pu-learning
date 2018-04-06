@@ -1,0 +1,15 @@
+AC   Q03024;
+Alkaline protease secretion ATP-binding protein aprD.
+"Sequence of a cluster of genes controlling synthesis and secretion of
+alkaline protease in Pseudomonas aeruginosa: relationships to other
+secretory pathways.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Involved in the secretion of alkaline protease.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. HlyB subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Membrane; Nucleotide-binding;
+Transmembrane; Transport.
+TMFIVE

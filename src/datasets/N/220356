@@ -1,0 +1,8 @@
+AC   Q87R12;
+UPF0229 protein VP0986.
+"Genome sequence of Vibrio parahaemolyticus: a pathogenic mechanism
+distinct from that of V. cholerae.";
+-!- SIMILARITY: Belongs to the UPF0229 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

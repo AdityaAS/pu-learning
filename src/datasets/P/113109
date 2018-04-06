@@ -1,0 +1,47 @@
+AC   Q9Y5S8; O95691; Q2PP02;
+NADPH oxidase homolog 1 (NOX-1) (NOH-1) (NADH/NADPH mitogenic oxidase
+subunit P65-MOX) (Mitogenic oxidase 1) (MOX1).
+"Cell transformation by the superoxide-generating oxidase Mox1.";
+"A mammalian H+ channel, generated through alternative splicing of the
+NADPH oxidase homolog NOH-1.";
+"The DNA sequence of the human X chromosome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Molecular interaction of NADPH oxidase 1 with betaPix and Nox
+Organizer 1.";
+-!- FUNCTION: NOH-1S is a voltage-gated proton channel that mediates
+    the H(+) currents of resting phagocytes and other tissues. It
+    participates in the regulation of cellular pH and is blocked by
+    zinc. NOH-1L is a pyridine nucleotide-dependent oxidoreductase
+    that generates superoxide and might conduct H(+) ions as part of
+    its electron transport mechanism, whereas NOH-1S does not contain
+    an electron transport chain.
+-!- COFACTOR: NADP (Potential).
+-!- COFACTOR: FAD (Potential).
+-!- ENZYME REGULATION: The oxidase activity is potentiated by NOXO1.
+-!- SUBUNIT: Interacts with NOXO1.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=NOH-1L;
+      IsoId=Q9Y5S8-1; Sequence=Displayed;
+    Name=NOH-1S;
+      IsoId=Q9Y5S8-2; Sequence=VSP_001577, VSP_001578;
+    Name=NOH-1LV;
+      IsoId=Q9Y5S8-3; Sequence=VSP_001579;
+-!- TISSUE SPECIFICITY: NOH-1L is detected in colon, uterus, prostate,
+    and colon carcinoma, but not in peripheral blood leukocytes. NOH-
+    1S is detected only in colon and colon carcinoma cells.
+-!- SIMILARITY: Contains 1 ferric oxidoreductase domain.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0016175; F:superoxide-generating NADPH oxidase activity; TAS:UniProtKB.
+ GO:0030171; F:voltage-gated proton channel activity; TAS:UniProtKB.
+ GO:0006118; P:electron transport; NAS:UniProtKB.
+ GO:0006746; P:FADH2 metabolism; NAS:UniProtKB.
+ GO:0006739; P:NADP metabolism; NAS:UniProtKB.
+ GO:0015992; P:proton transport; TAS:UniProtKB.
+Alternative splicing; Electron transport; FAD; Glycoprotein; Heme;
+Ion transport; Ionic channel; Iron; Membrane; Metal-binding; NADP;
+Oxidoreductase; Transmembrane; Transport; Voltage-gated channel.
+TMSIX

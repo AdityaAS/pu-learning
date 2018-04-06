@@ -1,0 +1,73 @@
+AC   Q9VR07; O02003; Q94917;
+Sodium- and chloride-dependent GABA transporter ine (Protein
+inebriated) (Protein receptor oscillation A).
+"Identification and characterization of inebriated, a gene affecting
+neuronal excitability in Drosophila.";
+"A neurotransmitter transporter encoded by the Drosophila inebriated
+gene.";
+"Drosophila rosA gene, which when mutant causes aberrant photoreceptor
+oscillation, encodes a novel neurotransmitter transporter homologue.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Control of Drosophila perineurial glial growth by interacting
+neurotransmitter-mediated signaling pathways.";
+"The Drosophila inebriated-encoded neurotransmitter/osmolyte
+transporter: dual roles in the control of neuronal excitability and
+the osmotic stress response.";
+"In vivo properties of the Drosophila inebriated-encoded
+neurotransmitter transporter.";
+-!- FUNCTION: Plays a role in neuronal membrane excitation, important
+    for normal response properties of the photoreceptor. Able to
+    control excitability from either neurons or glia cells. Ine
+    negatively regulates neuronal sodium channels. Controls
+    neurotransmitter-mediated signaling pathways associated with the
+    structure of the larval peripheral nerve, ine and eag control
+    perineurial glial growth through partially redundant pathways.
+    Isoform A and isoform B are both functional, although isoform A
+    functions with greater efficiency. Has a role in osmolyte
+    transport within the Malpighian tubule and hindgut.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=A; Synonyms=P1;
+      IsoId=Q9VR07-1; Sequence=Displayed;
+      Note=The long N terminus is uncommon among members of the
+      sodium- and chloride-dependent neurotransmitter transporter
+      family but is required for efficient transporter activity;
+    Name=B; Synonyms=P2;
+      IsoId=Q9VR07-2; Sequence=VSP_052087, VSP_052088;
+-!- TISSUE SPECIFICITY: Expressed both maternally and zygotically.
+    Developing embryos exhibit expression in the posterior hindgut,
+    foregut, midgut, Malpighian tubules, anal plate, Garland cells,
+    and a subset of cells in the central nervous system. Central
+    nervous system expression is seen in segmentally repeating in
+    cells flanking the midline of the ventral ganglion. Isoform A and
+    isoform B are colocalized in both the nervous system and the fluid
+    reabsorption system.
+-!- MISCELLANEOUS: Flies lacking ine, in a wild-type background,
+    display no observable behavioral defects. In a Shaker mutant
+    background, flies lacking ine exhibit downturned wings and an
+    indented thorax. Flies lacking ine exhibit increased excitability
+    of the larval peripheral nerve by causing the defective re-uptake
+    of the substrate neurotransmitter of the ine transporter and thus
+    overstimulation by this neurotransmitter. Flies lacking ine
+    increase the growth of the perineurial glial layer of the larval
+    peripheral nerve. Flies overexpressing ine exhibit delayed onset
+    of long-term facilitation and increased failure rate of
+    transmitter release at the larval neuromuscular junction, reduced
+    amplitude of larval nerve compound action potentials, suppression
+    of the leg-shaking behavior of mutants defective in the Shaker-
+    encoded potassium channel, and temperature-sensitive paralysis.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0005034; F:osmosensor activity; IMP:UniProtKB.
+ GO:0042065; P:glial growth; IMP:UniProtKB.
+ GO:0047484; P:regulation of response to osmotic stress; IMP:UniProtKB.
+ GO:0019226; P:transmission of nerve impulse; IMP:UniProtKB.
+Alternative splicing; Complete proteome; Developmental protein;
+Differentiation; Glycoprotein; Membrane; Neurogenesis;
+Neurotransmitter transport; Symport; Transmembrane; Transport.
+TMTWELVE

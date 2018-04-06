@@ -1,0 +1,29 @@
+AC   P02983; P03863; P14512; Q79CG9;
+Tetracycline resistance protein (Tetracycline efflux protein).
+"Complete nucleotide sequence of pT181, a tetracycline-resistance
+plasmid from Staphylococcus aureus.";
+"Characterization of the tetracycline resistance gene of plasmid pT181
+of Staphylococcus aureus.";
+"Determination of the complete nucleotide sequence of pNS1, a
+staphylococcal tetracycline-resistance plasmid propagated in Bacillus
+subtilis.";
+"Complete nucleotide sequence of pKH6, a tetracycline-resistance
+plasmid from multidrug-resistant Staphylococcus aureus SA2.";
+"The tet(K) gene of plasmid pT181 of Staphylococcus aureus encodes an
+efflux protein that contains 14 transmembrane helices.";
+"Association of tet gene with partial sequence of IS431mec in
+tetracycline resistance plasmid pKH1.";
+"Relationship between two tetracycline resistance plasmids of
+Staphylococcus aureus in Korea.";
+-!- FUNCTION: Resistance to tetracycline by an active tetracycline
+    efflux. This is an energy-dependent process that decreases the
+    accumulation of the antibiotic in whole cells. This protein
+    functions as a metal-tetracycline/H(+) antiporter.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. TCR/tet
+    family.
+-!- CAUTION: Ref.1 (AAA26034) sequence differs from that shown due to
+    a frameshift in positions 265, 433, 442 and 453.
+Antibiotic resistance; Antiport; Hydrogen ion transport;
+Ion transport; Membrane; Plasmid; Transmembrane; Transport.
+TMFOURTEEN

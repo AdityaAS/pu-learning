@@ -1,0 +1,21 @@
+AC   P0AB93; P37310; P76708; Q2M7G4;
+Arsenical pump membrane protein (Arsenic efflux pump protein).
+"An Escherichia coli chromosomal ars operon homolog is functional in
+arsenic detoxification and is conserved in Gram-negative bacteria.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Membrane topology of the ArsB protein, the membrane subunit of an
+anion-translocating ATPase.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in arsenical resistance. Thought to form the
+    channel of an arsenite pump (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the arsB family.
+Arsenical resistance; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMELEVEN

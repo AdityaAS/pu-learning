@@ -1,0 +1,23 @@
+AC   Q5X9A9; Q08494; Q54865; Q54868;
+Hyaluronan synthase (EC 2.4.1.212) (Hyaluronate synthase) (Hyaluronic
+acid synthase) (HA synthase).
+"Molecular cloning, identification, and sequence of the hyaluronan
+synthase gene from group A Streptococcus pyogenes.";
+"Progress toward characterization of the group A Streptococcus
+metagenome: complete genome sequence of a macrolide-resistant serotype
+M6 strain.";
+-!- FUNCTION: Glycosaminoglycan synthesis. The hyaluronic acid capsule
+    is involved in the pathogenicity of group A Streptococci; it may
+    be the major virulence determinant.
+-!- CATALYTIC ACTIVITY: n UDP-N-acetyl-D-glucosamine + n UDP-D-
+    glucuronate = (beta-N-acetyl-D-glucosaminyl(1->4)-beta-D-
+    glucuronosyl(1->3))(n) + 2n UDP.
+-!- COFACTOR: Magnesium.
+-!- PATHWAY: Glycan biosynthesis; hyaluronan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the nodC/HAS family.
+-!- CAUTION: It is uncertain whether Met-1 or Met-25 is the initiator.
+ GO:0050501; F:hyaluronan synthase activity; IEA:EC.
+Bacterial capsule; Complete proteome; Glycosyltransferase; Membrane;
+Transferase; Transmembrane; Virulence.
+TMFIVE

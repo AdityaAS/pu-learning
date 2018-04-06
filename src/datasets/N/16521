@@ -1,0 +1,16 @@
+AC   Q07947;
+Benzene 1,2-dioxygenase system ferredoxin subunit.
+"The Pseudomonas putida ML2 plasmid-encoded genes for benzene
+dioxygenase are unusual in codon usage and low in G+C content.";
+-!- FUNCTION: This protein seems to be a 2Fe-2S ferredoxin.
+-!- PATHWAY: Aromatic compound metabolism; benzene degradation;
+    catechol from benzene: step 1.
+-!- SUBUNIT: This dioxygenase system consists of four proteins: the
+    two subunits of the hydroxylase component (bedC1 and bedC2), a
+    ferredoxin (bedB) and a ferredoxin reductase (bedA).
+-!- SIMILARITY: Belongs to the bacterial ring-hydroxylating
+    dioxygenase ferredoxin component family.
+-!- SIMILARITY: Contains 1 Rieske domain.
+2Fe-2S; Aromatic hydrocarbons catabolism; Electron transport; Iron;
+Iron-sulfur; Metal-binding; Plasmid; Transport.
+TMZERO

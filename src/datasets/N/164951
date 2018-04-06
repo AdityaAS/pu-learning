@@ -1,0 +1,14 @@
+AC   Q4JB46;
+30S ribosomal protein S3P.
+"The genome of Sulfolobus acidocaldarius, a model organism of the
+Crenarchaeota.";
+-!- FUNCTION: Binds the lower part of the 30S subunit head (By
+    similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit.
+-!- SIMILARITY: Belongs to the ribosomal protein S3P family.
+-!- SIMILARITY: Contains 1 KH type-2 domain.
+ GO:0003729; F:mRNA binding; IEA:HAMAP.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

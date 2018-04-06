@@ -1,0 +1,19 @@
+AC   Q18779;
+UDP-sugar transporter sqv-7 (Squashed vulva protein 7).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"SQV-7, a protein involved in Caenorhabditis elegans epithelial
+invagination and early embryogenesis, transports UDP-glucuronic acid,
+UDP-N-acetylgalactosamine, and UDP-galactose.";
+-!- FUNCTION: Involved in the import of UDP-glucuronic acid (UDP-
+    GlcA), UDP-N-acetylgalactosamine (UDP-GalNAc) and UDP-galactose
+    (UDP-Gal) from the cytoplasm into the Golgi lumen for the
+    biosynthesis of glycoconjugates that play a pivotal role in
+    development.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the nucleotide-sugar transporter family.
+    SLC35D subfamily.
+Complete proteome; Golgi apparatus; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMNINE

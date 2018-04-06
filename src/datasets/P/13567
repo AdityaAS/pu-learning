@@ -1,0 +1,26 @@
+AC   P00856;
+ATP synthase protein 8 (EC 3.6.3.14) (ATPase subunit 8) (A6L) (ATP-
+associated protein 1).
+"Biogenesis of mitochondria: the mitochondrial gene (aap1) coding for
+mitochondrial ATPase subunit 8 in Saccharomyces cerevisiae.";
+"Organization and processing of the mitochondrial oxi3/oli2 multigenic
+transcript in yeast.";
+"The complete sequence of the mitochondrial genome of Saccharomyces
+cerevisiae.";
+-!- FUNCTION: This is one of the chains of the nonenzymatic component
+    (CF(0) subunit) of the mitochondrial ATPase complex.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. In yeast, the
+    dimeric form of ATP synthase consists of 18 polypeptides: alpha,
+    beta, gamma, delta, epsilon, 4 (B), 5 (OSCP), 6 (A), 8, 9 (C), d,
+    E (Tim11), f, g, h, i, j and k.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    single-pass membrane protein.
+-!- SIMILARITY: Belongs to the ATPase protein 8 family.
+ GO:0000276; C:proton-transporting ATP synthase complex, c...; IMP:SGD.
+ GO:0015986; P:ATP synthesis coupled proton transport; IMP:SGD.
+CF(0); Complete proteome; Hydrogen ion transport; Ion transport;
+Membrane; Mitochondrion; Transmembrane; Transport.
+TMONE

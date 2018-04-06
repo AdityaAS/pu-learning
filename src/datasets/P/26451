@@ -1,0 +1,21 @@
+AC   P42308;
+Citrate transporter.
+"Sequencing of a 65 kb region of the Bacillus subtilis genome
+containing the lic and cel loci, and creation of a 177 kb contig
+covering the gnt-sacXY region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Genes encoding xylan and beta-glucan hydrolysing enzymes in Bacillus
+subtilis: characterization, mapping and construction of strains
+deficient in lichenase, cellulase and xylanase.";
+"Secondary transporters for citrate and the Mg(2+)-citrate complex in
+Bacillus subtilis are homologous proteins.";
+-!- FUNCTION: Transports the free citrate anion. Probably cotransports
+    citrate and at least three or four protons. The citrate uptake is
+    inhibited by the presence of magnesium ions.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the citM transporter family.
+Citrate utilization; Complete proteome; Membrane; Symport;
+Transmembrane; Transport.
+TMTWELVE

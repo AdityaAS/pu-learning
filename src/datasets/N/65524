@@ -1,0 +1,27 @@
+AC   Q9NZW0; O94937; Q9NZG8; Q9NZW3;
+Golgin subfamily A member 8A/B (Golgi autoantigen golgin-67) (88 kDa
+Golgi protein) (Gm88 autoantigen).
+"Human autoantibodies to a novel Golgi protein golgin-67: high
+similarity with golgin-95/gm 130 autoantigen.";
+"Identification and characterization of a novel Golgi protein, golgin-
+67.";
+"GM88, a 88-kDa Golgi protein homologous to GM130.";
+"Prediction of the coding sequences of unidentified human genes. XII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+-!- FUNCTION: May be involved in maintaining Golgi structure (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi stack; Golgi stack
+    membrane; peripheral membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in brain, heart and kidney.
+    Detected at lower levels in liver, thymus, spleen, lung and
+    peripheral blood leukocytes.
+-!- DOMAIN: Extended rod-like protein with coiled-coil domains.
+-!- DISEASE: Antibodies against GM88 are present in serum from a
+    patient with Sjoegren syndrome. Sera from patients with Sjoegren
+    syndrome often contain antibodies that react with normal
+    components of the Golgi complex.
+-!- CAUTION: Maps to a duplicated region on chromosome 15; the gene is
+    present in 2 almost identical copies.
+Coiled coil; Golgi apparatus.
+TMZERO

@@ -1,0 +1,20 @@
+AC   Q57603;
+Hyperpolarization-activated voltage-gated potassium channel (MVP).
+"Hyperpolarization moves S4 sensors inward to open MVP, a
+methanococcal voltage-gated potassium channel.";
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+"MjK1, a K+ channel from M. jannaschii, mediates K+ uptake and K+
+sensitivity in E. coli.";
+-!- FUNCTION: Voltage-gated potassium-selective channel opened by
+    hyperpolarization.
+-!- SUBUNIT: Homotetramer (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids.
+-!- MISCELLANEOUS: Inhibited by barium.
+-!- SIMILARITY: Belongs to the potassium channel family.
+Complete proteome; Ion transport; Ionic channel; Membrane; Potassium;
+Potassium channel; Potassium transport; Transmembrane; Transport;
+Voltage-gated channel.
+TMSIX

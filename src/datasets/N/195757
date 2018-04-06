@@ -1,0 +1,36 @@
+AC   P04693; Q2M6Q0;
+Aromatic-amino-acid aminotransferase (EC 2.6.1.57) (AROAT) (ARAT).
+"The cloning and sequence analysis of the aspC and tyrB genes from
+Escherichia coli K12. Comparison of the primary structures of the
+aspartate aminotransferase and aromatic aminotransferase of E. coli
+with those of the pig aspartate aminotransferase isoenzymes.";
+"Aromatic amino acid aminotransferase of Escherichia coli: nucleotide
+sequence of the tyrB gene.";
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Molecular analysis of the regulatory region of the Escherichia coli
+K-12 tyrB gene.";
+"Crystallization and preliminary crystallographic analysis of the
+Escherichia coli tyrosine aminotransferase.";
+-!- CATALYTIC ACTIVITY: An aromatic amino acid + 2-oxoglutarate = an
+    aromatic oxo acid + L-glutamate.
+-!- COFACTOR: Pyridoxal phosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-phenylalanine biosynthesis; L-
+    phenylalanine from phenylpyruvate (ArAT route): single step [final
+    step].
+-!- PATHWAY: Amino-acid biosynthesis; L-tyrosine biosynthesis; L-
+    tyrosine from prephenate: step 2 [final step].
+-!- SUBUNIT: Homodimer.
+-!- INTERACTION:
+    P0A6F5:groL; NbExp=1; IntAct=EBI-1114498, EBI-543750;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I pyridoxal-phosphate-dependent
+    aminotransferase family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Amino-acid biosynthesis; Aminotransferase;
+Aromatic amino acid biosynthesis; Complete proteome;
+Pyridoxal phosphate; Transferase.
+TMZERO

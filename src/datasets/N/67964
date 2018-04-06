@@ -1,0 +1,26 @@
+AC   Q82ZG8;
+Glutathione biosynthesis bifunctional protein gshAB (Gamma-GCS-GS)
+(GCS-GS) [Includes: Glutamate--cysteine ligase (EC 6.3.2.2) (Gamma-
+glutamylcysteine synthetase) (Gamma-ECS) (GCS); Glutathione synthetase
+(EC 6.3.2.3) (Glutathione synthase) (GSH synthetase) (GSH-S) (GSHase)
+(GS)].
+"Role of mobile DNA in the evolution of vancomycin-resistant
+Enterococcus faecalis.";
+-!- FUNCTION: Synthesizes glutathione from L-glutamate and L-cysteine
+    via gamma-L-glutamyl-L-cysteine (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + L-glutamate + L-cysteine = ADP +
+    phosphate + gamma-L-glutamyl-L-cysteine.
+-!- CATALYTIC ACTIVITY: ATP + gamma-L-glutamyl-L-cysteine + glycine =
+    ADP + phosphate + glutathione.
+-!- PATHWAY: Sulfur metabolism; glutathione biosynthesis; glutathione
+    from L-cysteine and L-glutamate: step 1.
+-!- PATHWAY: Sulfur metabolism; glutathione biosynthesis; glutathione
+    from L-cysteine and L-glutamate: step 2 [final step].
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: In the N-terminal section; belongs to the glutamate--
+    cysteine ligase type 1 family. Type 2 subfamily.
+-!- SIMILARITY: Contains 1 ATP-grasp domain.
+ GO:0004363; F:glutathione synthase activity; IEA:HAMAP.
+ATP-binding; Complete proteome; Glutathione biosynthesis; Ligase;
+Multifunctional enzyme; Nucleotide-binding.
+TMZERO

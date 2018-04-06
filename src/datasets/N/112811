@@ -1,0 +1,42 @@
+AC   Q9NPE3;
+H/ACA ribonucleoprotein complex subunit 3 (Nucleolar protein family A
+member 3) (snoRNP protein NOP10).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Human H/ACA small nucleolar RNPs and telomerase share evolutionarily
+conserved proteins NHP2 and NOP10.";
+"Architecture and assembly of mammalian H/ACA small nucleolar and
+telomerase ribonucleoproteins.";
+-!- FUNCTION: Required for ribosome biogenesis and telomere
+    maintenance. Part of the H/ACA small nucleolar ribonucleoprotein
+    (H/ACA snoRNP) complex, which catalyzes pseudouridylation of rRNA.
+    This involves the isomerization of uridine such that the ribose is
+    subsequently attached to C5, instead of the normal N1. Each rRNA
+    can contain up to 100 pseudouridine ("psi") residues, which may
+    serve to stabilize the conformation of rRNAs. May also be required
+    for correct processing or intranuclear trafficking of TERC, the
+    RNA component of the telomerase reverse transcriptase (TERT)
+    holoenzyme.
+-!- SUBUNIT: Part of the H/ACA small nucleolar ribonucleoprotein
+    (H/ACA snoRNP) complex, which contains NOLA2/NHP2, NOLA1/GAR1,
+    NOLA3/NOP10, and DKC1/NOLA4, which is presumed to be the catalytic
+    subunit. The complex contains a stable core formed by binding of
+    one or two NOLA3-DKC1 heterodimers to NOLA2; NOLA1 subsequently
+    binds to this core via DKC1. The complex binds a box H/ACA small
+    nucleolar RNA (snoRNA), which may target the specific site of
+    modification within the RNA substrate. The complex also interacts
+    with TERC, which contains a 3'-terminal domain related to the box
+    H/ACA snoRNAs. Specific interactions with snoRNAs or TERC are
+    mediated by NOLA1 and NOLA2. Associates with NOLC1/NOPP140. H/ACA
+    snoRNPs interact with the SMN complex, consisting of SMN1 or SMN2,
+    SIP1/GEMIN2, DDX20/GEMIN3, and GEMIN4. This is mediated by
+    interaction between GAR1 and SMN1 or SMN2. The SMN complex may be
+    required for correct assembly of the H/ACA snoRNP complex.
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus. Nucleus; Cajal body.
+    Note=Also localized to Cajal bodies (coiled bodies).
+-!- SIMILARITY: Belongs to the NOP10 family.
+ GO:0005732; C:small nucleolar ribonucleoprotein complex; TAS:UniProtKB.
+ GO:0001522; P:pseudouridine synthesis; NAS:UniProtKB.
+Nuclear protein; Ribonucleoprotein; Ribosome biogenesis;
+rRNA processing.
+TMZERO

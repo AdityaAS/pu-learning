@@ -1,0 +1,14 @@
+AC   P06275;
+P protein [Includes: DNA-directed DNA polymerase (EC 2.7.7.7); RNA-
+directed DNA polymerase (EC 2.7.7.49); Ribonuclease H (EC 3.1.26.4)].
+"Nucleotide sequence of a cloned woodchuck hepatitis virus genome:
+evolutional relationship between hepadnaviruses.";
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+    phosphomonoester.
+-!- SIMILARITY: Contains 1 reverse transcriptase domain.
+DNA replication; DNA-binding; DNA-directed DNA polymerase;
+Endonuclease; Hydrolase; Multifunctional enzyme; Nuclease;
+Nucleotidyltransferase; RNA-directed DNA polymerase; Transferase.
+TMZERO

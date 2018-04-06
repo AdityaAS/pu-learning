@@ -1,0 +1,30 @@
+AC   P30902;
+ATP synthase D chain, mitochondrial (EC 3.6.3.14).
+"ATP synthase of yeast mitochondria. Characterization of subunit d and
+sequence analysis of the structural gene ATP7.";
+"Sequencing and analysis of 51.6 kilobases on the left arm of
+chromosome XI from Saccharomyces cerevisiae reveals 23 open reading
+frames including the FAS1 gene.";
+"Complete DNA sequence of yeast chromosome XI.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: This is one of the chains of the nonenzymatic component
+    (CF(0) subunit) of the mitochondrial ATPase complex. It has no
+    apparent bacterial homolog and its exact function is unknown.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. In yeast, the
+    dimeric form of ATP synthase consists of 18 polypeptides: alpha,
+    beta, gamma, delta, epsilon, 4 (B), 5 (OSCP), 6 (A), 8, 9 (C), d,
+    E (Tim11), f, g, h, i, j and k.
+-!- MISCELLANEOUS: Present with 6820 molecules/cell.
+-!- SIMILARITY: Belongs to the ATPase d subunit family.
+ GO:0000274; C:proton-transporting ATP synthase, stator st...; IMP:SGD.
+ GO:0015986; P:ATP synthesis coupled proton transport; IMP:SGD.
+ GO:0006461; P:protein complex assembly; IMP:SGD.
+Acetylation; ATP synthesis; CF(0); Complete proteome;
+Direct protein sequencing; Hydrogen ion transport; Ion transport;
+Mitochondrion; Transport.
+TMZERO

@@ -1,0 +1,13 @@
+AC   P54417;
+Glycine betaine transporter opuD.
+"Three transport systems for the osmoprotectant glycine betaine
+operate in Bacillus subtilis: characterization of OpuD.";
+"Sequencing and functional annotation of the Bacillus subtilis genes
+in the 200 kb rrnB-dnaB region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: High-affinity uptake of glycine betaine.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the BCCT transporter (TC 2.A.15) family.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTWELVE

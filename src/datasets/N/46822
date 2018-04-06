@@ -1,0 +1,13 @@
+AC   Q8TYC2;
+Probable exosome complex exonuclease 2 (EC 3.1.13.-).
+"The complete genome of hyperthermophile Methanopyrus kandleri AV19
+and monophyly of archaeal methanogens.";
+-!- FUNCTION: Probably involved in the 3'->5' degradation of a variety
+    of RNA species (Potential).
+-!- SUBUNIT: Component of the archaeal exosome multienzyme
+    ribonuclease complex (Potential).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the RNase PH family.
+ GO:0006401; P:RNA catabolism; IEA:HAMAP.
+Complete proteome; Exonuclease; Exosome; Hydrolase; Nuclease.
+TMZERO

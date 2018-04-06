@@ -1,0 +1,11 @@
+AC   Q47455;
+Copper resistance protein D.
+"Molecular genetics and transport analysis of the copper-resistance
+determinant (pco) from Escherichia coli plasmid pRJ1004.";
+-!- FUNCTION: Required for the copper-inducible expression of copper
+    resistance.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the copD family.
+Copper; Inner membrane; Membrane; Plasmid; Transmembrane.
+TMEIGHT

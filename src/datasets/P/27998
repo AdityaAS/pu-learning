@@ -1,0 +1,17 @@
+AC   P32482; Q56411; Q56412;
+Chloramphenicol resistance protein.
+"Characterization of the nonenzymatic chloramphenicol resistance
+(cmlA) gene of the In4 integron of Tn1696: similarity of the product
+to transmembrane transport proteins.";
+"Sequence analysis of the inducible chloramphenicol resistance
+determinant in the Tn1696 integron suggests regulation by
+translational attenuation.";
+-!- FUNCTION: Appears to provoke a reduction of the content of the
+    major porins ompA and ompC.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Bcr/cmlA
+    family.
+Antibiotic resistance; Inner membrane; Membrane; Plasmid;
+Transmembrane; Transport; Transposable element.
+TMTWELVE

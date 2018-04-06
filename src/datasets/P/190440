@@ -1,0 +1,48 @@
+AC   P07213;
+Mitochondrial import receptor subunit TOM70 (70 kDa mitochondrial
+outer membrane protein) (Translocase of outer membrane 70 kDa
+subunit).
+"Import of proteins into mitochondria: nucleotide sequence of the gene
+for a 70-kd protein of the yeast mitochondrial outer membrane.";
+"The DNA sequence of cosmid 14-13b from chromosome XIV of
+Saccharomyces cerevisiae reveals an unusually high number of
+overlapping open reading frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Expanding family.";
+"Protein import into yeast mitochondria is accelerated by the outer
+membrane protein MAS70.";
+"Precursor binding to yeast mitochondria. A general role for the outer
+membrane protein Mas70p.";
+"Preprotein translocase of the outer mitochondrial membrane: molecular
+dissection and assembly of the general import pore complex.";
+"Tom22 is a multifunctional organizer of the mitochondrial preprotein
+translocase.";
+"The mitochondrial import receptor Tom70: identification of a 25 kDa
+core domain with a specific binding site for preproteins.";
+"Yeast mitochondrial dehydrogenases are associated in a supramolecular
+complex.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Component of the TOM (translocase of outer membrane)
+    receptor complex responsible for the recognition and translocation
+    of cytosolically synthesized mitochondrial preproteins. Together
+    with TOM20 and TOM22 functions as the transit peptide receptor at
+    the surface of the mitochondrion outer membrane and facilitates
+    the movement of preproteins into the TOM40 translocation pore.
+-!- SUBUNIT: Forms part of the TOM (translocase of outer membrane)
+    complex that consists of at least 7 different proteins (TOM5,
+    TOM6, TOM7, TOM20, TOM22, TOM40 and TOM70). In the complex
+    interacts with TOM22. Interacts with TOM37.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 45300 molecules/cell.
+-!- SIMILARITY: Belongs to the Tom70 family.
+-!- SIMILARITY: Contains 9 TPR repeats.
+ GO:0031307; C:integral to mitochondrial outer membrane; IDA:SGD.
+ GO:0005742; C:mitochondrial outer membrane translocase co...; TAS:SGD.
+ GO:0008565; F:protein transporter activity; IPI:SGD.
+ GO:0045039; P:protein import into mitochondrial inner mem...; TAS:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; TAS:SGD.
+3D-structure; Complete proteome; Membrane; Mitochondrion;
+Outer membrane; Repeat; TPR repeat; Transmembrane.
+TMONE

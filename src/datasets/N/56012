@@ -1,0 +1,25 @@
+AC   O04395;
+Flavonol synthase/flavanone 3-hydroxylase (EC 1.14.11.23)
+(EC 1.14.11.9) (FLS) (Fragment).
+"Cloning and expression of a flavonol synthase gene from common stock
+(Matthiola incana).";
+-!- FUNCTION: Catalyzes the formation of flavonols from
+    dihydroflavonols. It can act on dihydrokaempferol to produce
+    kaempferol, on dihydroquercetin to produce quercitin and on
+    dihydromyricetin to produce myricetin.
+-!- CATALYTIC ACTIVITY: A dihydroflavonol + 2-oxoglutarate + O(2) = a
+    flavonol + succinate + CO(2) + H(2)O.
+-!- CATALYTIC ACTIVITY: A flavanone + 2-oxoglutarate + O(2) = a
+    dihydroflavonol + succinate + CO(2).
+-!- COFACTOR: Binds 1 ascorbate molecule per subunit.
+-!- COFACTOR: Binds 1 iron ion per subunit.
+-!- PATHWAY: Secondary metabolite biosynthesis; flavonoid
+    biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the iron/ascorbate-dependent oxidoreductase
+    family.
+ GO:0045431; F:flavonol synthase activity; IEA:EC.
+ GO:0045486; F:naringenin 3-dioxygenase activity; IEA:EC.
+Dioxygenase; Flavonoid biosynthesis; Iron; Metal-binding;
+Oxidoreductase; Vitamin C.
+TMZERO

@@ -1,0 +1,27 @@
+AC   P47082;
+Vacuolar amino acid transporter 1.
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"A family of yeast proteins mediating bidirectional vacuolar amino
+acid transport.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Required for the vacuolar uptake of large neutral amino
+    acids including tyrosine, glutamine, asparagine, isoleucine and
+    leucine. Requires ATP for function.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- MISCELLANEOUS: Present with 1820 molecules/cell.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); IMP:SGD.
+ GO:0005773; C:vacuole; IDA:SGD.
+ GO:0015186; F:L-glutamine transporter activity; IMP:SGD.
+ GO:0015188; F:L-isoleucine transporter activity; IMP:SGD.
+ GO:0005302; F:L-tyrosine transporter activity; IMP:SGD.
+ GO:0006865; P:amino acid transport; IMP:SGD.
+ GO:0007034; P:vacuolar transport; IMP:SGD.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport; Vacuole.
+TMELEVEN

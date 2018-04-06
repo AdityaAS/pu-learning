@@ -1,0 +1,14 @@
+AC   P26536; Q90081;
+Major capsid protein L1.
+"Biologic properties and nucleotide sequence analysis of human
+papillomavirus type 51.";
+"General primer polymerase chain reaction in combination with sequence
+analysis for identification of potentially novel human papillomavirus
+genotypes in cervical lesions.";
+-!- FUNCTION: Predominant protein of the capsid. Does not bind DNA.
+-!- SUBUNIT: Self-assembles into homopentamers. The capsid has
+    icosahedral symmetry and consists of 72 capsomers, with each
+    capsomer being a pentamer of L1.
+-!- SIMILARITY: Belongs to the papillomaviruses L1 protein family.
+Capsid protein; Late protein; Virion protein.
+TMZERO

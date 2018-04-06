@@ -1,0 +1,16 @@
+AC   Q08478;
+Pituitary-specific positive transcription factor 1 (Pit-1) (Growth
+hormone factor 1) (GHF-1).
+"Molecular cloning of fish Pit-1 cDNA and its functional binding to
+promoter of gene expressed in the pituitary.";
+-!- FUNCTION: Transcription factor that activates growth hormone and
+    prolactin genes. Specifically binds to the consensus sequence 5'-
+    TAAAT-3'.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the POU transcription factor family. Class-
+    1 subfamily.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+-!- SIMILARITY: Contains 1 POU-specific domain.
+Activator; DNA-binding; Homeobox; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

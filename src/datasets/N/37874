@@ -1,0 +1,18 @@
+AC   P04989;
+Cysteine proteinase 2 precursor (EC 3.4.22.-) (Prestalk cathepsin).
+"Identification of the sequences controlling cyclic AMP regulation and
+cell-type-specific expression of a prestalk-specific gene in
+Dictyostelium discoideum.";
+"Characterization of two highly diverged but developmentally co-
+regulated cysteine proteinase genes in Dictyostelium discoideum.";
+"Cellular and subcellular distribution of a cAMP-regulated prestalk
+protein and prespore protein in Dictyostelium discoideum: a study on
+the ontogeny of prestalk and prespore cells.";
+-!- FUNCTION: Cysteine proteinases 1 and 2 are believed to participate
+    in the breakdown of protein during differentiation of
+    Dictyostelium as a response to starvation.
+-!- SUBCELLULAR LOCATION: Lysosome.
+-!- DEVELOPMENTAL STAGE: Expressed by prestalk cells.
+-!- SIMILARITY: Belongs to the peptidase C1 family.
+Hydrolase; Lysosome; Protease; Signal; Thiol protease; Zymogen.
+TMZERO

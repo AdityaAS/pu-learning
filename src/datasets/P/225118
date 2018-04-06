@@ -1,0 +1,13 @@
+AC   P54596;
+Hypothetical symporter yhcL.
+"A 22 kb DNA sequence in the cspB-glpPFKD region at 75 degrees on the
+Bacillus subtilis chromosome.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the sodium:dicarboxylate (SDF) symporter
+    (TC 2.A.23) family.
+Complete proteome; Hypothetical protein; Membrane; Transmembrane;
+Transport.
+TMELEVEN

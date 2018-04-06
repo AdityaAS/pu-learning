@@ -1,0 +1,10 @@
+AC   P13345;
+Lysis protein for colicin E6 precursor.
+"Nucleotide sequences from the colicin E5, E6 and E9 operons: presence
+of a degenerate transposon-like structure in the ColE9-J plasmid.";
+"Molecular structure and immunity specificity of colicin E6, an
+evolutionary intermediate between E-group colicins and cloacin DF13.";
+-!- FUNCTION: Lysis proteins are required for both colicin release and
+    partial cell lysis.
+Lipoprotein; Membrane; Outer membrane; Palmitate; Plasmid; Signal.
+TMZERO

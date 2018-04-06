@@ -1,0 +1,33 @@
+AC   Q9FIA0;
+Cytokinin-N-glucosyltransferase 2 (EC 2.4.1.-).
+"Structural analysis of Arabidopsis thaliana chromosome 5. IX.
+Sequence features of the regions of 1,011,550 bp covered by seventeen
+P1 and TAC clones.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"N-glucosylation of cytokinins by glycosyltransferases of Arabidopsis
+thaliana.";
+-!- FUNCTION: Involved in the N-glucosylation of cytokinins. Catalyzes
+    the formation of both the 7-N and the 9-N-glucosides.
+-!- ENZYME REGULATION: Inhibited by olomoucine and 3-isobutyl-1-
+    methylxanthine.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=0.22 mM for trans-zeatin (at 30 degrees Celsius and pH 7.0);
+      KM=0.22 mM for dihydrozeatin (at 30 degrees Celsius and pH 7.0);
+      KM=0.07 mM for N6-isopentenyladenine (at 30 degrees Celsius and
+      pH 7.0);
+      KM=0.04 mM for N6-benzyladenine (at 30 degrees Celsius and pH
+      7.0);
+      KM=0.07 mM for kinetin (at 30 degrees Celsius and pH 7.0);
+      Vmax=5.91 nmol/sec/mg enzyme with trans-zeatin as substrate;
+      Vmax=10.78 nmol/sec/mg enzyme with dihydrozeatin as substrate;
+      Vmax=10.42 nmol/sec/mg enzyme with N6-isopentenyladenine as
+      substrate;
+      Vmax=7.90 nmol/sec/mg enzyme with N6-benzyladenine as substrate;
+      Vmax=3.63 nmol/sec/mg enzyme with kinetin as substrate;
+    pH dependence:
+      Optimum pH is 7.0;
+-!- SIMILARITY: Belongs to the UDP-glycosyltransferase family.
+Glycosyltransferase; Transferase.
+TMZERO

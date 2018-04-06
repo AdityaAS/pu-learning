@@ -1,0 +1,14 @@
+AC   Q09424; Q86NF1;
+Hypothetical protein R07G3.7.
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=a;
+      IsoId=Q09424-1; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=b;
+      IsoId=Q09424-2; Sequence=VSP_010379;
+      Note=No experimental confirmation available;
+Alternative splicing; Complete proteome; Hypothetical protein.
+TMZERO

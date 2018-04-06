@@ -1,0 +1,20 @@
+AC   Q06749; Q57292;
+Alginate lyase precursor (EC 4.2.2.3) (Poly(beta-D-mannuronate) lyase)
+(Poly(mana) alginate lyase).
+"Sequence of the algL gene of Pseudomonas aeruginosa and purification
+of its alginate lyase product.";
+"Characterization of the Pseudomonas aeruginosa alginate lyase gene
+(algL): cloning, sequencing, and expression in Escherichia coli.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Depolymerizes alginate by cleaving the beta-1,4
+    glycosidic bond. May enhance the production of alginate by
+    controlling the length of the polymer chain during export.
+-!- CATALYTIC ACTIVITY: Eliminative cleavage of polysaccharides
+    containing beta-D-mannuronate residues to give oligosaccharides
+    with 4-deoxy-alpha-L-erythro-hex-4-enopyranuronosyl groups at
+    their ends.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the polysaccharide lyase 5 family.
+Complete proteome; Lyase; Periplasmic; Signal.
+TMZERO

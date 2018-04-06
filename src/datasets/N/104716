@@ -1,0 +1,13 @@
+AC   Q7A0Y4;
+Regulatory protein msrR.
+"Genome and virulence determinants of high virulence community-
+acquired MRSA.";
+-!- FUNCTION: Involved in sarA attenuation. Affects resistance to
+    oxacillin and teicoplanin, as well as the synthesis of virulence
+    factors (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type II membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the lytR/cpsA/psr regulatory protein
+    family.
+Complete proteome; Membrane; Signal-anchor; Transmembrane.
+TMONE

@@ -1,0 +1,18 @@
+AC   P75799;
+Hypothetical ABC transporter permease protein yliD.
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Probably part of the binding-protein-dependent transport
+    system yliABCD; probably responsible for the translocation of the
+    substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. OppBC subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Complete proteome; Hypothetical protein; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMSIX

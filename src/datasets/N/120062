@@ -1,0 +1,9 @@
+AC   O87883;
+Probable hydrogen peroxide-inducible genes activator (Fragment).
+"Oxidative stress response and characterization of the oxyR-ahpC and
+furA-katG loci in Mycobacterium marinum.";
+-!- FUNCTION: Required for the induction the katG gene for catalase.
+    Involved in the response to hydrogen peroxide (By similarity).
+-!- SIMILARITY: Contains 1 HTH lysR-type DNA-binding domain.
+Activator; DNA-binding; Transcription; Transcription regulation.
+TMZERO

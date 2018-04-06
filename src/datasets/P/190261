@@ -1,0 +1,35 @@
+AC   Q41009; Q41029;
+Translocase of chloroplast 34 (EC 3.6.5.-) (34 kDa chloroplast outer
+envelope protein) (GTP-binding protein OEP34) (GTP-binding protein
+IAP34).
+"A constituent of the chloroplast import complex represents a new type
+of GTP-binding protein.";
+"Identification of two GTP-binding proteins in the chloroplast protein
+import machinery.";
+"Crystal structure of pea Toc34, a novel GTPase of the chloroplast
+protein translocon.";
+-!- FUNCTION: GTPase involved in protein precursor import into
+    chloroplasts. Seems to recognize chloroplast-destined precursor
+    proteins and regulate their presentation to the translocation
+    channel through GTP hydrolysis.
+-!- SUBUNIT: Homodimer and monomer. Part of the TOC core complex that
+    includes a protein for the specific recognition of transit
+    peptides surrounded by a ring composed of four proteins forming
+    translocation channels, and four to five GTP-binding proteins
+    providing energy. This core complex can interact with components
+    of the TIC complex to form a larger import complex. Chloroplastic
+    protein precursor such as prSS (precursor of the RuBisCO small
+    subunit) interacts with these complexes. The TOC complex contains
+    a specific subset of polar lipids such as
+    digalactosyldiacylglyceride (DGDG), phosphatidylcholine (PC) and
+    phosphatidylglycerol (PG). TOC34 interacts at least with TOC75.
+-!- INTERACTION:
+    Q9MUK5:toc64; NbExp=1; IntAct=EBI-638506, EBI-638487;
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast outer
+    membrane.
+-!- SIMILARITY: Belongs to the TOC34 family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Chloroplast; Direct protein sequencing; GTP-binding;
+Hydrolase; Membrane; Nucleotide-binding; Outer membrane; Plastid;
+Protein transport; Transmembrane; Transport.
+TMONE

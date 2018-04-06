@@ -1,0 +1,35 @@
+AC   Q9Y7U6;
+Rho1 guanine nucleotide exchange factor 1.
+"The genome sequence of Schizosaccharomyces pombe.";
+"Rho1-GEFs Rgf1 and Rgf2 are involved in formation of cell wall and
+septum, while Rgf3 is involved in cytokinesis in fission yeast.";
+"Cell wall remodeling at the fission yeast cell division site requires
+the Rho-GEF Rgf3p.";
+"Rgf1p is a specific Rho1-GEF that coordinates cell polarization with
+cell wall biogenesis in fission yeast.";
+"ORFeome cloning and global analysis of protein localization in the
+fission yeast Schizosaccharomyces pombe.";
+-!- FUNCTION: Stimulates the exchange of Rho1 and Rho5 GDP-bound form
+    into GTP-bound form. Controls septum formation, cell wall
+    synthesis and localization of F-actin patches. Coordinates actin
+    deposition with cell wall biosynthesis during bipolar growth.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Note=Septum. Localizes to cell
+    tips during interphase and the septum in mitotic cells.
+-!- SIMILARITY: Contains 1 CNH domain.
+-!- SIMILARITY: Contains 1 DH (DBL-homology) domain.
+-!- SIMILARITY: Contains 1 PH domain.
+ GO:0000935; C:barrier septum; IDA:GeneDB_SPombe.
+ GO:0051285; C:cell cortex of cell tip; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0005515; F:protein binding; IPI:GeneDB_SPombe.
+ GO:0005089; F:Rho guanyl-nucleotide exchange factor activity; IGI:GeneDB_SPombe.
+ GO:0006075; P:1,3-beta-glucan biosynthesis; IGI:GeneDB_SPombe.
+ GO:0048228; P:actin cortical patch distribution; IMP:GeneDB_SPombe.
+ GO:0009272; P:cell wall biosynthesis (sensu Fungi); IGI:GeneDB_SPombe.
+ GO:0051518; P:positive regulation of bipolar cell growth; IMP:GeneDB_SPombe.
+ GO:0035025; P:positive regulation of Rho protein signal t...; IGI:GeneDB_SPombe.
+ GO:0008360; P:regulation of cell shape; IGI:GeneDB_SPombe.
+ GO:0051056; P:regulation of small GTPase mediated signal ...; IGI:GeneDB_SPombe.
+Cell cycle; Cell division; Complete proteome;
+Guanine-nucleotide releasing factor; Septation.
+TMZERO

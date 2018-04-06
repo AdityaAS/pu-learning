@@ -1,0 +1,17 @@
+AC   Q7MEH7;
+Serine hydroxymethyltransferase 2 (EC 2.1.2.1) (Serine methylase 2)
+(SHMT 2).
+"Comparative genome analysis of Vibrio vulnificus, a marine
+pathogen.";
+-!- FUNCTION: Interconversion of serine and glycine.
+-!- CATALYTIC ACTIVITY: 5,10-methylenetetrahydrofolate + glycine +
+    H(2)O = tetrahydrofolate + L-serine.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: One-carbon metabolism; tetrahydrofolate pathway.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the SHMT family.
+ GO:0006730; P:one-carbon compound metabolism; IEA:HAMAP.
+Complete proteome; One-carbon metabolism; Pyridoxal phosphate;
+Transferase.
+TMZERO

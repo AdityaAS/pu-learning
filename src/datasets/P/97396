@@ -1,0 +1,16 @@
+AC   P01514;
+Mastoparan-L.
+"A new mast cell degranulating peptide 'mastoparan' in the venom of
+Vespula lewisii.";
+"Interaction of mastoparan with membranes studied by 1H-NMR
+spectroscopy in detergent micelles and by solid-state 2H-NMR and 15N-
+NMR spectroscopy in oriented lipid bilayers.";
+-!- FUNCTION: Mast cell degranulating peptide. Activates G proteins
+    that couple to phospholipase C. May be able to switch from an in-
+    plane to a transmembrane orientation in lipid bilayers.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the MCD family. Mastoparan subfamily.
+3D-structure; Amidation; Direct protein sequencing;
+Mast cell degranulation; Membrane; Transmembrane.
+TMZERO

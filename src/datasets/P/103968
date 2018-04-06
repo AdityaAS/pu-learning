@@ -1,0 +1,85 @@
+AC   Q42093; O22449; O24526; O48907; O48908; O64590;
+Multidrug resistance-associated protein 2 (EC 3.6.3.44) (Glutathione
+S-conjugate-transporting ATPase 2) (ATP-energized glutathione S-
+conjugate pump 2).
+"Cloning of AtMRP1, an Arabidopsis thaliana cDNA encoding a homologue
+of the mammalian multidrug resistance-associated protein.";
+"AtMRP2, an Arabidopsis ATP-binding cassette transporter able to
+transport glutathione S-conjugates and chlorophyll catabolites:
+functional comparisons with AtMRP1.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Differential expression of genes coding for ABC transporters after
+treatment of Arabidopsis thaliana with xenobiotics.";
+"Enhanced multispecificity of Arabidopsis vacuolar multidrug
+resistance-associated protein-type ATP-binding cassette transporter,
+AtMRP2.";
+"The Arabidopsis thaliana ABC protein superfamily, a complete
+inventory.";
+"Multifunctionality of plant ABC transporters - more than just
+detoxifiers.";
+"Family business: the multidrug-resistance related protein (MRP) ABC
+transporter genes in Arabidopsis thaliana.";
+"Arabidopsis immunophilin-like TWD1 functionally interacts with
+vacuolar ABC transporters.";
+-!- FUNCTION: Pump for glutathione S-conjugates. Mediates the
+    transport of S-conjugates such as GSH, S-(2,4-dinitrophenyl)-
+    glutathione (DNP-GS), GSSG, cyanidin 3-glucoside-GS (C3G-GS) and
+    metolachlor-GS (MOC-GS), glucuronides such as 17-beta-estradiol
+    17-(beta-D-glucuronide) (E(2)17betaG), and of the chlorophyll
+    catabolite such as B.napus nonfluorescent chlorophyll catabolite
+    (Bn-NCC-1).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + xenobiotic(In) = ADP + phosphate
+    + xenobiotic(Out).
+-!- ENZYME REGULATION: Reciprocal promotion of DNP-GS and E(2)17betaG
+    uptake. E(2)17betaG uptake is also stimulated by GSH and S-methyl-
+    glutathione (S-methyl-GS), and, to a lower extent, by GSSG and
+    C3G-GS. Metolachlor-GS and decyl-GS slightly inhibit E(2)17betaG
+    uptake.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=750 uM for E(2)17betaG (at pH 8.0 and 25 degrees Celsius);
+      KM=240 uM for E(2)17betaG (with 100 uM DNP-GS at pH 8.0 and 25
+      degrees Celsius);
+      KM=4.7 uM for E(2)17betaG (with 500 uM GSH at pH 8.0 and 25
+      degrees Celsius);
+      KM=66 uM for DNP-GS (at pH 8);
+      KM=20 uM for DNP-GS (with 100 uM E(2)17betaG at pH 8 and 25
+      degrees Celsius);
+      KM=73 uM for GSSG (at pH 8);
+      KM=75 uM for MOC-GS (at pH 8);
+      KM=15 uM for Bn-NCC-1 (at pH 8);
+      Vmax=8.8 nmol/min/mg enzyme with E(2)17betaG as substrate (at pH
+      8.0 and 25 degrees Celsius);
+      Vmax=11.5 nmol/min/mg enzyme with E(2)17betaG as substrate (with
+      100 uM DNP-GS at pH 8.0 and 25 degrees Celsius);
+      Vmax=33 nmol/min/mg enzyme with E(2)17betaG as substrate (with
+      500 uM GSH at pH 8.0 and 25 degrees Celsius);
+      Vmax=2 nmol/min/mg enzyme with DNP-GS as substrate (at pH 8 and
+      25 degrees Celsius);
+      Vmax=1.8 nmol/min/mg enzyme with DNP-GS as substrate (with 100
+      uM E(2)17betaG at pH 8 and 25 degrees Celsius);
+      Vmax=3.8 nmol/min/mg enzyme with GSSG as substrate (at pH 8);
+      Vmax=13.6 nmol/min/mg enzyme with MOC-GS as substrate (at pH 8);
+      Vmax=6.3 nmol/min/mg enzyme with Bn-NCC-1 as substrate (at pH
+      8);
+-!- SUBUNIT: Interacts with FKBP42/TWD1 and probably with calmodulin
+    (CaM).
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein (Potential). Note=Tonoplast.
+-!- TISSUE SPECIFICITY: Ubiquitous, at low levels.
+-!- INDUCTION: By 1-chloro-2,4-dinitrobenzene (CDNB).
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+-!- CAUTION: Ref.2 (AAC04246) sequence differs from that shown due to
+    frameshifts in positions 1212 and 1223.
+-!- CAUTION: Ref.4 sequence differs from that shown due to frameshifts
+    in positions 1223 and 1234.
+-!- CAUTION: Ref.5 sequence differs from that shown due to a
+    frameshift in position 1461.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; IEA:EC.
+ATP-binding; Calmodulin-binding; Hydrolase; Membrane;
+Nucleotide-binding; Repeat; Transmembrane; Transport; Vacuole.
+TMFIFTEEN

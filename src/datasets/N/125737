@@ -1,0 +1,22 @@
+AC   P06185; Q9KI72;
+Outer membrane protease E precursor (EC 3.4.23.-) (E protein).
+"Identification and nucleotide sequence of the activator gene of the
+externally induced phosphoglycerate transport system of Salmonella
+typhimurium.";
+"A PhoP-regulated outer membrane protease of Salmonella enterica
+serovar typhimurium promotes resistance to alpha-helical antimicrobial
+peptides.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Comparison of Escherichia coli K-12 outer membrane protease OmpT and
+Salmonella typhimurium E protein.";
+-!- FUNCTION: Protease that can cleave T7 RNA polymerase. Specific for
+    paired basic residues.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the peptidase A26 family.
+-!- CAUTION: Ref.1 (AAA27185) sequence differs from that shown due to
+    frameshifts in positions 7, 278, 288 and 295.
+Aspartyl protease; Complete proteome; Hydrolase; Membrane;
+Outer membrane; Protease; Signal; Transmembrane.
+TMZERO

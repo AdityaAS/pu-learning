@@ -1,0 +1,31 @@
+AC   P97260;
+Sterol regulatory element-binding protein cleavage-activating protein
+(SREBP cleavage-activating protein) (SCAP).
+"Sterol resistance in CHO cells traced to point mutation in SREBP
+cleavage-activating protein.";
+"Sterols regulate cycling of SREBP cleavage-activating protein (SCAP)
+between endoplasmic reticulum and Golgi.";
+"Topology of SREBP cleavage-activating protein, a polytopic membrane
+protein with a sterol-sensing domain.";
+"Overexpression of membrane domain of SCAP prevents sterols from
+inhibiting SCAP.SREBP exit from endoplasmic reticulum.";
+-!- FUNCTION: Sterol sensor. Necessary for the proteolytic activation
+    of SREBPs by site-1 protease in the Golgi.
+-!- SUBUNIT: In a tight complex with SREBs.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein. Golgi apparatus; Golgi
+    apparatus membrane; multi-pass membrane protein. Note=Moves from
+    the endoplasmic reticulum to the Golgi in the absence of sterols.
+-!- SIMILARITY: Contains 1 SSD (sterol-sensing) domain.
+-!- SIMILARITY: Contains 7 WD repeats.
+ GO:0005783; C:endoplasmic reticulum; ISS:UniProtKB.
+ GO:0005794; C:Golgi apparatus; ISS:UniProtKB.
+ GO:0016021; C:integral to membrane; ISS:UniProtKB.
+ GO:0051082; F:unfolded protein binding; NAS:UniProtKB.
+ GO:0045541; P:negative regulation of cholesterol biosynth...; ISS:UniProtKB.
+ GO:0045716; P:positive regulation of low-density lipoprot...; ISS:UniProtKB.
+ GO:0006994; P:sterol depletion response, SREBP target gen...; ISS:UniProtKB.
+Cholesterol metabolism; Endoplasmic reticulum; Glycoprotein;
+Golgi apparatus; Lipid metabolism; Membrane; Repeat;
+Steroid metabolism; Transmembrane; WD repeat.
+TMEIGHT

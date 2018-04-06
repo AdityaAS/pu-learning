@@ -1,0 +1,18 @@
+AC   P41943; Q96VC8;
+Glyoxylate pathway regulator.
+"Ylt1, a highly repetitive retrotransposon in the genome of the
+dimorphic fungus Yarrowia lipolytica.";
+"Characterization, localization and functional analysis of Gpr1p, a
+protein affecting sensitivity to acetic acid in the yeast Yarrowia
+lipolytica.";
+"Genome evolution in yeasts.";
+-!- FUNCTION: Plays a role in the adaptation of cell metabolism to the
+    utilization of acetic acid, possibly by inhibiting an anion-
+    transporting ATPase and affecting the plasma membrane H+-ATPase.
+    May be indirectly involved in the repression of genes encoding
+    glyoxylate cycle enzymes.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: By acetic acid and ethanol.
+-!- SIMILARITY: Belongs to the GPR1/FUN34/yaaH family.
+Complete proteome; Membrane; Phosphorylation; Transmembrane.
+TMSIX

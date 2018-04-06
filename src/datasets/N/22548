@@ -1,0 +1,19 @@
+AC   P56493;
+C-C chemokine receptor type 5 (C-C CKR-5) (CC-CKR-5) (CCR-5) (CCR5)
+(CD195 antigen).
+"Polymorphisms in the CCR5 genes of African green monkeys and mice
+implicate specific amino acids in infections by simian and human
+immunodeficiency viruses.";
+"cDNA sequence of African green monkey CCR-5 chemokine receptor
+gene.";
+-!- FUNCTION: Receptor for a C-C type chemokine. Binds to MIP-1-alpha,
+    MIP-1-beta and RANTES and subsequently transduces a signal by
+    increasing the intracellular calcium ions level. May play a role
+    in the control of granulocytic lineage proliferation or
+    differentiation.
+-!- SUBUNIT: Interacts with PRAF2 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+G-protein coupled receptor; Glycoprotein; Membrane; Polymorphism;
+Receptor; Sulfation; Transducer; Transmembrane.
+TMSEVEN

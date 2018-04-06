@@ -1,0 +1,20 @@
+AC   O06060;
+Diaminobutyrate--2-oxoglutarate transaminase (EC 2.6.1.76)
+(Diaminobutyrate--2-oxoglutarate aminotransferase) (L-2,4-
+diaminobutyric acid transaminase) (DABA aminotransferase).
+"Characterization of genes for the biosynthesis of the compatible
+solute ectoine from Marinococcus halophilus and osmoregulated
+expression in Escherichia coli.";
+-!- FUNCTION: Catalyzes reversively the conversion of L-aspartate
+    beta-semialdehyde (ASA) to L-2,4-diaminobutyrate (DABA) by
+    transamination with L-glutamate (Probable).
+-!- CATALYTIC ACTIVITY: L-2,4-diaminobutanoate + 2-oxoglutarate = L-
+    aspartate 4-semialdehyde + L-glutamate.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amine and polyamine biosynthesis; ectoine biosynthesis;
+    L-ectoine from L-aspartate 4-semialdehyde: step 1.
+-!- SIMILARITY: Belongs to the class-III pyridoxal-phosphate-dependent
+    aminotransferase family.
+ GO:0045303; F:diaminobutyrate-2-oxoglutarate transaminase...; IEA:EC.
+Aminotransferase; Pyridoxal phosphate; Transferase.
+TMZERO

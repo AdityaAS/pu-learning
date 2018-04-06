@@ -1,0 +1,13 @@
+AC   P0A539; O53359;
+Purine nucleoside phosphorylase (EC 2.4.2.1) (Inosine phosphorylase)
+(PNP).
+"The complete genome sequence of Mycobacterium bovis.";
+-!- FUNCTION: Cleavage of guanosine or inosine to respective bases and
+    sugar-1-phosphate molecules (By similarity).
+-!- CATALYTIC ACTIVITY: Purine nucleoside + phosphate = purine +
+    alpha-D-ribose 1-phosphate.
+-!- PATHWAY: Purine nucleoside salvage.
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SIMILARITY: Belongs to the PNP/MTAP phosphorylase family.
+Complete proteome; Glycosyltransferase; Transferase.
+TMZERO

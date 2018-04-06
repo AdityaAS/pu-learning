@@ -1,0 +1,15 @@
+AC   O34852;
+Probable amino-acid ABC transporter extracellular-binding protein ytmK
+precursor.
+"Sequencing and functional annotation of the Bacillus subtilis genes
+in the 200 kb rrnB-dnaB region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Probably part of the binding-protein-dependent transport
+    system ytmKLMN for an amino acid.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Potential).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Amino-acid transport; Complete proteome; Hypothetical protein;
+Lipoprotein; Membrane; Palmitate; Signal; Transport.
+TMZERO

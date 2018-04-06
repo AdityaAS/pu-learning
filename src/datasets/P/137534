@@ -1,0 +1,26 @@
+AC   P15380;
+Proline-specific permease.
+"Nucleotide sequence of the Saccharomyces cerevisiae PUT4 proline-
+permease-encoding gene: similarities between CAN1, HIP1 and PUT4
+permeases.";
+"Nucleotide sequence analysis of a 40 kb segment on the right arm of
+yeast chromosome XV reveals 18 open reading frames including a new
+pyruvate kinase and three homologues to chromosome I genes.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Substrate specificity and gene expression of the amino-acid permeases
+in Saccharomyces cerevisiae.";
+-!- FUNCTION: Required for high-affinity proline transport. May be
+    responsible for proline recognition and probably also for proline
+    translocation across the plasma membrane. Also function as non-
+    specific GABA permease. Can also transport alanine and glycine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: Requires the presence of GABA.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0005296; F:L-proline permease activity; IMP:SGD.
+ GO:0015175; F:neutral amino acid transporter activity; IDA:SGD.
+ GO:0015804; P:neutral amino acid transport; IDA:SGD.
+ GO:0006562; P:proline catabolism; TAS:SGD.
+Amino-acid transport; Complete proteome; Glycoprotein; Membrane;
+Proline metabolism; Transmembrane; Transport.
+TMTWELVE

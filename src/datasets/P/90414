@@ -1,0 +1,18 @@
+AC   P36500;
+Lantibiotic salivaricin-A precursor.
+"Isolation and characterization of the lantibiotic salivaricin A and
+its structural gene salA from Streptococcus salivarius 20P3.";
+"Salivaricin A gene cluster from Streptococcus salivarius.";
+-!- FUNCTION: Lanthionine-containing peptide antibiotic (lantibiotic)
+    active on Gram-positive bacteria. The bactericidal activity of
+    lantibiotics is based on depolarization of energized bacterial
+    cytoplasmic membranes, initiated by the formation of aqueous
+    transmembrane pores.
+-!- PTM: Maturation of lantibiotics involves the enzymic conversion of
+    Thr, and Ser into dehydrated AA and the formation of thioether
+    bonds with cysteine. This is followed by membrane translocation
+    and cleavage of the modified precursor.
+-!- SIMILARITY: Belongs to the type A lantibiotic family.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing;
+Lantibiotic; Thioether bond.
+TMZERO

@@ -1,0 +1,16 @@
+AC   P94633;
+Lysine exporter protein.
+"A new type of transporter with a new type of cellular function: L-
+lysine export from Corynebacterium glutamicum.";
+"Complete genomic sequence of Corynebacterium glutamicum ATCC 13032.";
+"The complete Corynebacterium glutamicum ATCC 13032 genome sequence
+and its impact on the production of L-aspartate-derived amino acids
+and vitamins.";
+-!- FUNCTION: Involved in the efflux of excess of L-lysine. This is
+    necessary to control the intracellular L-lysine level.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the lysE/argO transporter (TC 2.A.75)
+    family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMSIX

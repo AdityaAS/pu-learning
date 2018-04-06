@@ -1,0 +1,17 @@
+AC   P80282;
+Dermaseptin BI precursor (Dermaseptin B1).
+"Precursors of vertebrate peptide antibiotics dermaseptin b and
+adenoregulin have extensive sequence identities with precursors of
+opioid peptides dermorphin, dermenkephalin, and deltorphins.";
+"Isolation and structure of novel defensive peptides from frog skin.";
+-!- FUNCTION: Possesses a potent antimicrobial activity against
+    bacteria, fungi and protozoa. Probably acts by disturbing membrane
+    functions with its amphipathic structure.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin glands.
+-!- SIMILARITY: Belongs to the frog skin active peptide (FSAP) family.
+    Dermaseptin subfamily.
+Amidation; Amphibian defense peptide; Antibiotic; Antimicrobial;
+Cleavage on pair of basic residues; Direct protein sequencing;
+Fungicide; Signal.
+TMZERO

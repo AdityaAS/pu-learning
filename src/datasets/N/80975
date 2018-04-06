@@ -1,0 +1,14 @@
+AC   Q9AXQ5;
+Eukaryotic translation initiation factor 5A-2 (eIF-5A-2).
+"Isolation and characterization of senescence-induced cDNAs encoding
+deoxyhypusine synthase and eucaryotic translation initiation factor 5A
+from tomato.";
+-!- FUNCTION: The precise role of eIF-5A in protein biosynthesis is
+    not known but it functions by promoting the formation of the first
+    peptide bond.
+-!- PTM: eIF-5A seems to be the only eukaryotic protein to have an
+    hypusine residue which is a post-translational modification of a
+    lysine by the addition of a butylamino group (from spermidine).
+-!- SIMILARITY: Belongs to the eIF-5A family.
+Hypusine; Initiation factor; Protein biosynthesis.
+TMZERO

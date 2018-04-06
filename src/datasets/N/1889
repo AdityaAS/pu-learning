@@ -1,0 +1,21 @@
+AC   O52058;
+Biotin carboxylase (EC 6.3.4.14) (Acetyl-CoA carboxylase subunit A)
+(EC 6.4.1.2) (ACC) (Fragment).
+"Molecular genetic evidence for extracytoplasmic localization of
+sulfur globules in Chromatium vinosum.";
+-!- FUNCTION: This protein is a component of the acetyl coenzyme A
+    carboxylase complex; first, biotin carboxylase catalyzes the
+    carboxylation of the carrier protein and then the transcarboxylase
+    transfers the carboxyl group to form malonyl-CoA (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + biotin-carboxyl-carrier protein + CO(2)
+    = ADP + phosphate + carboxybiotin-carboxyl-carrier protein.
+-!- PATHWAY: Long-chain fatty acid biosynthesis; first step.
+-!- SUBUNIT: Acetyl-CoA carboxylase is an heterohexamer of biotin
+    carboxyl carrier protein, biotin carboxylase and the two subunits
+    of carboxyl transferase in a 2:2 complex (By similarity).
+-!- SIMILARITY: Contains 1 biotin carboxylation domain.
+ GO:0003989; F:acetyl-CoA carboxylase activity; IEA:EC.
+ GO:0004075; F:biotin carboxylase activity; IEA:EC.
+ATP-binding; Biotin; Fatty acid biosynthesis; Ligase; Lipid synthesis;
+Nucleotide-binding.
+TMZERO

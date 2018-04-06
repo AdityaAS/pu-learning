@@ -1,0 +1,30 @@
+AC   O06900;
+PTS system alpha-glucoside-specific EIICB component [Includes: Alpha-
+glucoside permease IIC component (PTS system alpha-glucoside-specific
+EIIC component); Alpha-glucoside-specific phosphotransferase enzyme
+IIB component (EC 2.7.1.69) (PTS system alpha-glucoside-specific EIIB
+component)].
+"Metabolism of sucrose and its five isomers by Fusobacterium
+mortiferum.";
+"6-phospho-alpha-D-glucosidase from Fusobacterium mortiferum: cloning,
+expression, and assignment to family 4 of the glycosylhydrolases.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in alpha-glucoside transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-1 domain.
+Membrane; Phosphorylation; Phosphotransferase system; Sugar transport;
+Transferase; Transmembrane; Transport.
+TMTWELVE

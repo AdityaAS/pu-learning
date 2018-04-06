@@ -1,0 +1,14 @@
+AC   Q58391;
+Type II restriction enzyme MjaI (EC 3.1.21.4) (Endonuclease MjaI)
+(R.MjaI).
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+"Method for screening restriction endonucleases.";
+-!- FUNCTION: Recognizes the double-stranded sequence CTAG and cleaves
+    after C-1 (By similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of DNA to give
+    specific double-stranded fragments with terminal 5'-phosphates.
+ GO:0009036; F:Type II site-specific deoxyribonuclease act...; IEA:EC.
+Complete proteome; Endonuclease; Hydrolase; Nuclease;
+Restriction system.
+TMZERO

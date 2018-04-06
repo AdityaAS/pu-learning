@@ -1,0 +1,18 @@
+AC   Q57AM8;
+Shikimate kinase (EC 2.7.1.71) (SK).
+"Completion of the genome sequence of Brucella abortus and comparison
+to the highly similar genomes of Brucella melitensis and Brucella
+suis.";
+-!- CATALYTIC ACTIVITY: ATP + shikimate = ADP + shikimate 3-phosphate.
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 5.
+-!- PATHWAY: Context: Aromatic amino acids biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the shikimate kinase family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0016089; P:aromatic amino acid family biosynthesis, sh...; IEA:HAMAP.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+Transferase.
+TMZERO

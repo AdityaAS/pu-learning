@@ -1,0 +1,21 @@
+AC   P21656;
+Tryptophanyl-tRNA synthetase (EC 6.1.1.2) (Tryptophan--tRNA ligase)
+(TrpRS).
+"Cloning and nucleotide sequence of the structural gene coding for
+Bacillus subtilis tryptophanyl-tRNA synthetase.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Tryptophanyl-tRNA synthetase from Bacillus subtilis. Characterization
+and role of hydrophobicity in substrate recognition.";
+"Mutational identification of an essential tryptophan in tryptophanyl-
+tRNA synthetase of Bacillus subtilis.";
+-!- CATALYTIC ACTIVITY: ATP + L-tryptophan + tRNA(Trp) = AMP +
+    diphosphate + L-tryptophyl-tRNA(Trp).
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome;
+Direct protein sequencing; Ligase; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

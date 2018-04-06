@@ -1,0 +1,38 @@
+AC   P60660; P16475; P24572; P24573; Q12790; Q6IAZ0; Q6IPY5;
+Myosin light polypeptide 6 (Smooth muscle and nonmuscle myosin light
+chain alkali 6) (Myosin light chain alkali 3) (Myosin light chain 3)
+(MLC-3) (LC17).
+"The alkali light chains of human smooth and nonmuscle myosins are
+encoded by a single gene. Tissue-specific expression by alternative
+splicing pathways.";
+"Characterization of human myosin light chains 1sa and 3nm:
+implications for isoform evolution and function.";
+"Molecular cloning, sequencing, and characterization of smooth muscle
+myosin alkali light chain from human eye cDNA: homology with
+myocardial fatty acid ethyl ester synthase-III cDNA.";
+"Molecular cloning and sequencing of myosin light chains in human
+megakaryoblastic leukemia cells.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Regulatory light chain of myosin. Does not bind calcium.
+-!- SUBUNIT: Myosin is an hexamer of 2 heavy chains and 4 light
+    chains.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Non-muscle; Synonyms=MLC3nm, LC17A, LC17-nm;
+      IsoId=P60660-1, P16475-1;
+      Sequence=Displayed;
+    Name=Smooth muscle; Synonyms=MLC3sm, LC17B, LC17-sm;
+      IsoId=P60660-2, P24572-2;
+      Sequence=VSP_009735;
+-!- SIMILARITY: Contains 3 EF-hand domains.
+ GO:0016461; C:unconventional myosin complex; IEP:HGNC.
+ GO:0003774; F:motor activity; TAS:HGNC.
+ GO:0008307; F:structural constituent of muscle; TAS:HGNC.
+ GO:0030049; P:muscle filament sliding; TAS:HGNC.
+ GO:0007519; P:striated muscle development; TAS:UniProtKB.
+Acetylation; Alternative splicing; Direct protein sequencing;
+Motor protein; Muscle protein; Myosin; Repeat.
+TMZERO

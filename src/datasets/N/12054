@@ -1,0 +1,17 @@
+AC   Q71XS4;
+Argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate
+ligase).
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- CATALYTIC ACTIVITY: ATP + L-citrulline + L-aspartate = AMP +
+    diphosphate + omega-N-(L-arginino)succinate.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; L-
+    arginine from L-ornithine and carbamoyl phosphate: step 2.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the argininosuccinate synthase family. Type
+    1 subfamily.
+Amino-acid biosynthesis; Arginine biosynthesis; ATP-binding;
+Complete proteome; Ligase; Nucleotide-binding.
+TMZERO

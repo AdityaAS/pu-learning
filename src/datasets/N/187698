@@ -1,0 +1,21 @@
+AC   Q9JWI2;
+Thiamine-phosphate pyrophosphorylase (EC 2.5.1.3) (TMP
+pyrophosphorylase) (TMP-PPase) (Thiamine-phosphate synthase).
+"Complete DNA sequence of a serogroup A strain of Neisseria
+meningitidis Z2491.";
+-!- FUNCTION: Condenses 4-methyl-5-(beta-hydroxyethyl)thiazole
+    monophosphate (THZ-P) and 4-amino-5-hydroxymethyl pyrimidine
+    pyrophosphate (HMP-PP) to form thiamine monophosphate (TMP) (By
+    similarity).
+-!- CATALYTIC ACTIVITY: 2-methyl-4-amino-5-hydroxymethylpyrimidine
+    diphosphate + 4-methyl-5-(2-phosphono-oxyethyl)thiazole =
+    diphosphate + thiamine monophosphate.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; thiamine pyrophosphate
+    biosynthesis; thiamine pyrophosphate from 4-amino-2-methyl-5-
+    diphosphomethylpyrimidine and 4-methyl-5-(2-phosphoethyl)-
+    thiazole: step 1.
+-!- SIMILARITY: Belongs to the TMP-PPase family.
+Complete proteome; Magnesium; Metal-binding; Thiamine biosynthesis;
+Transferase.
+TMZERO

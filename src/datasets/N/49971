@@ -1,0 +1,17 @@
+AC   Q6UW88;
+Epigen precursor (Epithelial mitogen) (EPG).
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"Signal peptide prediction based on analysis of experimentally
+verified cleavage sites.";
+"Epigen, the last ligand of ErbB receptors, reveals intricate
+relationships between affinity and mitogenicity.";
+-!- FUNCTION: Promotes the growth of epithelial cells. May stimulate
+    the phosphorylation of EGFR and mitogen-activated protein kinases.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Probable).
+-!- SIMILARITY: Contains 1 EGF-like domain.
+Direct protein sequencing; EGF-like domain; Growth factor; Membrane;
+Signal; Transmembrane.
+TMONE

@@ -1,0 +1,19 @@
+AC   Q2YR68; Q57AQ4; Q9LA79;
+Aquaporin Z (Aquaporin X).
+"A functional water channel protein in the pathogenic bacterium
+Brucella abortus.";
+"Whole-genome analyses of speciation events in pathogenic Brucellae.";
+-!- FUNCTION: Transport of water across the membrane. Possibly
+    involved in the adaptation to variation in intravacuolar pH or
+    osmolarity.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+ GO:0015250; F:water channel activity; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Repeat; Transmembrane;
+Transport.
+TMSIX

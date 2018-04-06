@@ -1,0 +1,33 @@
+AC   Q00325; Q96A03;
+Phosphate carrier protein, mitochondrial precursor (PTP) (Solute
+carrier family 25 member 3).
+"The sequences of human and bovine genes of the phosphate carrier from
+mitochondria contain evidence of alternatively spliced forms.";
+"Nucleotide sequence of a human heart cDNA encoding the mitochondrial
+phosphate carrier.";
+"Identification of immuno-peptidmics that are recognized by tumor-
+reactive CTL generated from TIL of colon cancer patients.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Transport of phosphate groups from the cytosol to the
+    mitochondrial matrix. Phosphate is cotransported with H(+).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=A;
+      IsoId=Q00325-1; Sequence=Displayed;
+    Name=B;
+      IsoId=Q00325-2; Sequence=VSP_003269;
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005743; C:mitochondrial inner membrane; TAS:ProtInc.
+ GO:0005739; C:mitochondrion; TAS:ProtInc.
+ GO:0015320; F:phosphate carrier activity; TAS:ProtInc.
+ GO:0006091; P:generation of precursor metabolites and energy; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Acetylation; Alternative splicing; Inner membrane; Membrane;
+Mitochondrion; Repeat; Symport; Transit peptide; Transmembrane;
+Transport.
+TMSIX

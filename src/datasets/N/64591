@@ -1,0 +1,35 @@
+AC   Q9ZNZ7; P93649;
+Ferredoxin-dependent glutamate synthase 1, chloroplast precursor
+(EC 1.4.7.1) (Fd-GOGAT 1).
+"Structure and regulation of ferredoxin-dependent glutamase synthase
+from Arabidopsis thaliana. Cloning of cDNA expression in different
+tissues of wild-type and gltS mutant strains, and light induction.";
+"Arabidopsis gls mutants and distinct Fd-GOGAT genes. Implications for
+photorespiration and primary nitrogen assimilation.";
+"Sequence and analysis of chromosome 5 of the plant Arabidopsis
+thaliana.";
+-!- CATALYTIC ACTIVITY: 2 L-glutamate + 2 oxidized ferredoxin = L-
+    glutamine + 2-oxoglutarate + 2 reduced ferredoxin.
+-!- COFACTOR: Binds 1 3Fe-4S cluster (By similarity).
+-!- COFACTOR: FAD (By similarity).
+-!- COFACTOR: FMN (By similarity).
+-!- PATHWAY: Amino-acid metabolism; glutamate metabolism.
+-!- PATHWAY: Energy metabolism; nitrogen metabolism.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast stroma (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long;
+      IsoId=Q9ZNZ7-1; Sequence=Displayed;
+    Name=Short;
+      IsoId=Q9ZNZ7-2; Sequence=VSP_001764;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Highest expression in leaves.
+-!- SIMILARITY: Belongs to the glutamate synthase family.
+-!- SIMILARITY: Contains 1 glutamine amidotransferase type-2 domain.
+ GO:0016041; F:glutamate synthase (ferredoxin) activity; IEA:EC.
+3Fe-4S; Alternative splicing; Amino-acid biosynthesis; Chloroplast;
+FAD; Flavoprotein; FMN; Glutamate biosynthesis;
+Glutamine amidotransferase; Iron; Iron-sulfur; Metal-binding;
+Oxidoreductase; Plastid; Transit peptide.
+TMZERO

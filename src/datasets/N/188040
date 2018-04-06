@@ -1,0 +1,27 @@
+AC   P07097;
+Acetyl-CoA acetyltransferase (EC 2.3.1.9) (Acetoacetyl-CoA thiolase).
+"Biosynthetic thiolase from Zoogloea ramigera. III. Isolation and
+characterization of the structural gene.";
+"Poly-beta-hydroxybutyrate biosynthesis in Alcaligenes eutrophus H16.
+Characterization of the genes encoding beta-ketothiolase and
+acetoacetyl-CoA reductase.";
+"Biosynthetic thiolase from Zoogloea ramigera. Evidence for a
+mechanism involving Cys-378 as the active site base.";
+"Crystallographic analysis of the reaction pathway of Zoogloea
+ramigera biosynthetic thiolase.";
+"A biosynthetic thiolase in complex with a reaction intermediate: the
+crystal structure provides new insights into the catalytic
+mechanism.";
+"The catalytic cycle of biosynthetic thiolase: a conformational
+journey of an acetyl group through four binding modes and two oxyanion
+holes.";
+-!- CATALYTIC ACTIVITY: 2 acetyl-CoA = CoA + acetoacetyl-CoA.
+-!- PATHWAY: Metabolic intermediate biosynthesis; mevalonate
+    biosynthesis; R-mevalonate from acetyl-CoA: step 1.
+-!- PATHWAY: Context: Poly-beta-hydroxybutyrate biosynthesis.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the thiolase family.
+ GO:0003985; F:acetyl-CoA C-acetyltransferase activity; IEA:EC.
+3D-structure; Acyltransferase; PHB biosynthesis; Transferase.
+TMZERO

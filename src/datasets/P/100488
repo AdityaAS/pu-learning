@@ -1,0 +1,25 @@
+AC   Q9LF50; Q9SPJ2; Q9SPJ3;
+Maltose excess protein 1, chloroplast precursor (Root cap protein 1).
+"Genetic ablation of root cap cells in Arabidopsis.";
+"Sequence and analysis of chromosome 5 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+"A previously unknown maltose transporter essential for starch
+degradation in leaves.";
+"Proteomics of the chloroplast envelope membranes from Arabidopsis
+thaliana.";
+-!- FUNCTION: Probable maltose transporter. Essential for the
+    conversion of starch to sucrose in leaves at night, probably via
+    the export of maltose from the chloroplast. Required for root cap
+    cells formation.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast inner
+    membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in leaves and roots. Expressed in
+    root cap cells.
+-!- CAUTION: Ref.2 sequence differs from that shown due to erroneous
+    gene model prediction.
+Chloroplast; Maltose metabolism; Membrane; Plastid; Transit peptide;
+Transmembrane; Transport.
+TMNINE

@@ -1,0 +1,18 @@
+AC   P77672;
+Inner membrane ABC transporter permease protein ydeY.
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Probably part of the binding-protein-dependent transport
+    system ego/ydeYZ. Probably responsible for the translocation of
+    the substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. AraH/rbsC subfamily.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMNINE

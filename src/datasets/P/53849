@@ -1,0 +1,16 @@
+AC   O25396;
+Ferrous iron transport protein B.
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+"Iron acquisition and virulence in Helicobacter pylori: a major role
+for FeoB, a high-affinity ferrous iron transporter.";
+-!- FUNCTION: ATP-driven Fe(2+) uptake system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- MISCELLANEOUS: FeoB mutants were unable to colonize the gastric
+    mucosa of mice.
+-!- SIMILARITY: Belongs to the feoB (TC 9.A.8) family.
+ATP-binding; Complete proteome; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Nucleotide-binding; Transmembrane;
+Transport.
+TMEIGHT

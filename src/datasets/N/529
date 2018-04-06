@@ -1,0 +1,25 @@
+AC   Q9V8M5; Q0E926; Q86R98; Q9V8M6;
+Probable 3-hydroxyisobutyrate dehydrogenase, mitochondrial precursor
+(EC 1.1.1.31) (HIBADH).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- CATALYTIC ACTIVITY: 3-hydroxy-2-methylpropanoate + NAD(+) = 2-
+    methyl-3-oxopropanoate + NADH.
+-!- INTERACTION:
+    Q9W1K6:CG18128; NbExp=1; IntAct=EBI-241464, EBI-178006;
+-!- SUBCELLULAR LOCATION: Mitochondrion (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=A; Synonyms=B;
+      IsoId=Q9V8M5-1; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=C;
+      IsoId=Q9V8M5-2; Sequence=VSP_001281, VSP_001282;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the 3-hydroxyisobutyrate dehydrogenase
+    family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Alternative splicing; Complete proteome; Hypothetical protein;
+Mitochondrion; NAD; Oxidoreductase; Transit peptide.
+TMZERO

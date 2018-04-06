@@ -1,0 +1,38 @@
+AC   P23363;
+Brain-derived neurotrophic factor precursor (BDNF).
+"Human and rat brain-derived neurotrophic factor and neurotrophin-3:
+gene structures, distributions, and chromosomal localizations.";
+"A rat brain-derived neurotrophic factor-encoding gene generates
+multiple transcripts through alternative use of 5' exons and
+polyadenylation sites.";
+"Neurotrophic factors, their receptors, and the signal transduction
+pathways they activate.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Multiple promoters direct tissue-specific expression of the rat BDNF
+gene.";
+"Evolutionary studies of the nerve growth factor family reveal a novel
+member abundantly expressed in Xenopus ovary.";
+-!- FUNCTION: Promotes the survival of neuronal populations that are
+    all located either in the central nervous system or directly
+    connected to it. Major regulator of synaptic transmission and
+    plasticity at adult synapses in many regions of the CNS. The
+    versatility of BDNF is emphasized by its contribution to a range
+    of adaptive neuronal responses including long-term potentiation
+    (LTP), long-term depression (LTD), certain forms of short-term
+    synaptic plasticity, as well as homeostatic regulation of
+    intrinsic neuronal excitability (By similarity).
+-!- SUBUNIT: Monomers and homodimers. Binds to NTRK2/TRKB (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- PTM: Converted into mature BDNF by plasmin (PLG) (By similarity).
+-!- SIMILARITY: Belongs to the NGF-beta family.
+ GO:0008083; F:growth factor activity; TAS:RGD.
+ GO:0005169; F:neurotrophin TRKB receptor binding; IDA:RGD.
+ GO:0006120; P:mitochondrial electron transport, NADH to u...; IMP:RGD.
+ GO:0007399; P:nervous system development; IDA:RGD.
+ GO:0030182; P:neuron differentiation; TAS:RGD.
+ GO:0048169; P:regulation of long-term neuronal synaptic p...; IDA:RGD.
+ GO:0048172; P:regulation of short-term neuronal synaptic ...; IDA:RGD.
+Glycoprotein; Growth factor; Signal.
+TMZERO

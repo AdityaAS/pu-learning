@@ -1,0 +1,15 @@
+AC   Q04895;
+Allantoin permease (Allantoin transport protein).
+"The allantoin and uracil permease gene sequences of Saccharomyces
+cerevisiae are nearly identical.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IX.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Transport of allantoin.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the purine-cytosine permease family.
+ GO:0005274; F:allantoin permease activity; TAS:SGD.
+ GO:0015720; P:allantoin transport; TAS:SGD.
+Complete proteome; Membrane; Purine metabolism; Transmembrane;
+Transport.
+TMTWELVE

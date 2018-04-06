@@ -1,0 +1,33 @@
+AC   Q9HY63;
+Bifunctional polymyxin resistance arnA protein [Includes: UDP-
+glucuronic acid decarboxylase (EC 4.1.1.-) (UDP-GlcUA decarboxylase)
+(ArnAFT); UDP-4-amino-4-deoxy-L-arabinose formyltransferase
+(EC 2.1.2.-) (UDP-L-Ara4N formyltransferase) (ArnADH)].
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Bifunctional enzyme that catalyzes the decarboxylation
+    of UDP-glucuronic acid (UDP-GlcA) to UDP-4-keto-arabinose (UDP-
+    Ara4O) and the addition of a formyl group to UDP-4-amino-4-deoxy-
+    L-arabinose (UDP-L-Ara4N) to form UDP-L-4-formamido-arabinose
+    (UDP-L-Ara4FN). The modified arabinose is attached to lipid A and
+    is required for resistance to polymyxin and cationic antimicrobial
+    peptides (By similarity).
+-!- CATALYTIC ACTIVITY: UDP-glucuronic acid + NAD(+) = UDP-beta-(L-
+    threo-pentapyranosyl-4''-ulose) + CO(2) + NADH.
+-!- CATALYTIC ACTIVITY: 10-formyltetrahydrofolate + UDP-4-amino-4-
+    deoxy-L-arabinose = tetrahydrofolate + UDP-beta-(4-deoxy-4-
+    formamido-L-arabinose).
+-!- PATHWAY: Lipid A modification with 4-amino-4-deoxy-L-arabinose;
+    step 2.
+-!- PATHWAY: Lipid A modification with 4-amino-4-deoxy-L-arabinose;
+    step 4.
+-!- SIMILARITY: In the N-terminal section; belongs to the fmt family.
+    UDP-L-Ara4N formyltransferase subfamily.
+-!- SIMILARITY: In the C-terminal section; belongs to the sugar
+    epimerase family. UDP-glucuronic acid decarboxylase subfamily.
+ GO:0016831; F:carboxy-lyase activity; IEA:HAMAP.
+ GO:0009245; P:lipid A biosynthesis; IEA:HAMAP.
+Antibiotic resistance; Complete proteome; Lipid A biosynthesis;
+Lipid synthesis; Lipopolysaccharide biosynthesis; Lyase;
+Methyltransferase; Multifunctional enzyme; NAD; Transferase.
+TMZERO

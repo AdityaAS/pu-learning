@@ -1,0 +1,10 @@
+AC   Q9CXW2; Q3U3T2; Q8VDG9; Q9D185;
+Mitochondrial 28S ribosomal protein S22 (S22mt) (MRP-S22).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBUNIT: Component of the mitochondrial ribosome small subunit
+    (28S) which comprises a 12S rRNA and about 30 distinct proteins.
+-!- SUBCELLULAR LOCATION: Mitochondrion (By similarity).
+Mitochondrion; Ribonucleoprotein; Ribosomal protein.
+TMZERO

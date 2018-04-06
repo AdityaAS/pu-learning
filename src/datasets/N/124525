@@ -1,0 +1,20 @@
+AC   P52770;
+Cytochrome b6-f complex subunit 4 (17 kDa polypeptide).
+"Loss of all ndh genes as determined by sequencing the entire
+chloroplast genome of the black pine Pinus thunbergii.";
+-!- FUNCTION: Component of the cytochrome b6-f complex, which mediates
+    electron transfer between photosystem II (PSII) and photosystem I
+    (PSI), cyclic electron flow around PSI, and state transitions (By
+    similarity).
+-!- SUBUNIT: The 4 large subunits of the cytochrome b6-f complex are
+    cytochrome b6, subunit IV (17 kDa polypeptide, petD), cytochrome f
+    and the Rieske protein, while the 4 small subunits are petG, petL,
+    petM and petN. The complex functions as a dimer (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the cytochrome b family. PetD subfamily.
+ GO:0045158; F:electron transporter, transferring electron...; IEA:HAMAP.
+ GO:0015979; P:photosynthesis; IEA:HAMAP.
+Chloroplast; Electron transport; Membrane; Photosynthesis; Plastid;
+Thylakoid; Transmembrane; Transport.
+THTHREE

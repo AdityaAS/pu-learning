@@ -1,0 +1,30 @@
+AC   P32568;
+Protein SNQ2.
+"Gene SNQ2 of Saccharomyces cerevisiae, which confers resistance to 4-
+nitroquinoline-N-oxide and other chemicals, encodes a 169 kDa protein
+homologous to ATP-dependent permeases.";
+"Sequencing and analysis of a 35.4 kb region on the right arm of
+chromosome IV from Saccharomyces cerevisiae reveal 23 open reading
+frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Identification and characterization of SNQ2, a new multidrug ATP
+binding cassette transporter of the yeast plasma membrane.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Could be an ATP-dependent permease. Confers hyper-
+    resistance to the mutagens 4-nitroquinoline-N-oxide (4-NQO) and
+    triaziquone, as well as to the chemicals sulphomethuron methyl
+    phenanthroline when present in multiple copies. Exhibits
+    nucleoside triphosphatase activity.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 1300 molecules/cell.
+-!- SIMILARITY: Belongs to the ABC transporter family. PDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; TAS:SGD.
+ GO:0042493; P:response to drug; TAS:SGD.
+ GO:0000304; P:response to singlet oxygen; IMP:SGD.
+ATP-binding; Complete proteome; Direct protein sequencing;
+Glycoprotein; Membrane; Nucleotide-binding; Repeat; Transmembrane;
+Transport.
+TMELEVEN

@@ -1,0 +1,22 @@
+AC   P33413;
+Urea active transporter.
+"Regulation of the urea active transporter gene (DUR3) in
+Saccharomyces cerevisiae.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Required for active transport of urea.
+-!- SUBUNIT: May polymerize.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: By allophanate or its non-metabolized analog oxalurate.
+    Sensitive to nitrogen catabolite repression.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0015204; F:urea transporter activity; IMP:SGD.
+ GO:0015840; P:urea transport; IMP:SGD.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMFOURTEEN

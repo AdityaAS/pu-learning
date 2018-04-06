@@ -1,0 +1,20 @@
+AC   Q9LG86;
+Auxin-responsive protein IAA2 (Indoleacetic acid-induced protein 2).
+"The genome sequence and structure of rice chromosome 1.";
+"Collection, mapping, and annotation of over 28,000 cDNA clones from
+japonica rice.";
+"Structure and expression analysis of early auxin-responsive Aux/IAA
+gene family in rice (Oryza sativa).";
+-!- FUNCTION: Aux/IAA proteins are short-lived transcriptional factors
+    that function as repressor of early auxin response genes at low
+    auxin concentrations (By similarity).
+-!- SUBUNIT: Homo and heterodimers (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- TISSUE SPECIFICITY: Highly expressed in flowers.
+-!- INDUCTION: By auxin.
+-!- SIMILARITY: Belongs to the Aux/IAA family.
+-!- SIMILARITY: Contains 1 Aux/IAA-ARF domain.
+ GO:0009733; P:response to auxin stimulus; IC:Gramene.
+Auxin signaling pathway; Nuclear protein; Repressor; Transcription;
+Transcription regulation.
+TMZERO

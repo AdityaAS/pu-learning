@@ -1,0 +1,9 @@
+AC   P23283;
+Desiccation-related protein PCC3-06.
+"Characterization of five abscisic acid-responsive cDNA clones
+isolated from the desiccation-tolerant plant Craterostigma
+plantagineum and their relationship to other water-stress genes.";
+-!- INDUCTION: By desiccation (leaves) and by abscisic acid (ABA)
+    (leaves and callus).
+-!- SIMILARITY: Belongs to the LEA type 1 family.
+TMZERO

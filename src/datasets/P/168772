@@ -1,0 +1,21 @@
+AC   Q62674;
+Sodium/nucleoside cotransporter 1 (Na(+)/nucleoside cotransporter 1)
+(Sodium-coupled nucleoside transporter 1) (Concentrative nucleoside
+transporter 1) (CNT 1).
+"Cloning and functional expression of a complementary DNA encoding a
+mammalian nucleoside transport protein.";
+-!- FUNCTION: Sodium-dependent and pyrimidine-selective. Exhibits the
+    transport characteristics of the nucleoside transport system cit
+    or N2 subtype (N2/cit) (selective for pyrimidine nucleosides and
+    adenosine). It also transports the antiviral pyrimidine nucleoside
+    analogs 3'-azido-3'-deoxythymidine (AZT) and 2',3'-dideoxycytidine
+    (ddC). May be involved in the intestinal absorption and renal
+    handling of pyrimidine nucleoside analogs used to treat acquired
+    immunodeficiency syndrome (AIDS).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in kidney and jejenum.
+-!- SIMILARITY: Belongs to the SLC28A transporter family.
+ GO:0005350; F:pyrimidine transporter activity; IDA:RGD.
+ GO:0015855; P:pyrimidine transport; IDA:RGD.
+Membrane; Transmembrane; Transport.
+TMSEVEN

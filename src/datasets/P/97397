@@ -1,0 +1,11 @@
+AC   P04205;
+Mastoparan-M (Mast cell-degranulating peptide).
+"A new mast cell degranulating peptide, mastoparan-M, in the venom of
+the hornet Vespa mandarinia.";
+-!- FUNCTION: Mast cell degranulating peptide. Activates G proteins
+    that couple to phospholipase C.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the MCD family. Mastoparan subfamily.
+Amidation; Direct protein sequencing; Mast cell degranulation.
+TMZERO

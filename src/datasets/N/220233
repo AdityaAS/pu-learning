@@ -1,0 +1,8 @@
+AC   Q7A668;
+UPF0358 protein SA0961.
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- SIMILARITY: Belongs to the UPF0358 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

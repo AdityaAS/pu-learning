@@ -1,0 +1,12 @@
+AC   Q3BM98;
+Thymidine kinase (EC 2.7.1.21).
+"Insights into genome plasticity and pathogenicity of the plant
+pathogenic Bacterium Xanthomonas campestris pv. vesicatoria revealed
+by the complete genome sequence.";
+-!- CATALYTIC ACTIVITY: ATP + thymidine = ADP + thymidine 5'-
+    phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the thymidine kinase family.
+ATP-binding; Complete proteome; DNA synthesis; Kinase;
+Nucleotide-binding; Transferase.
+TMZERO

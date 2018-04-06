@@ -1,0 +1,24 @@
+AC   Q5HK00;
+DNA polymerase III subunit beta (EC 2.7.7.7).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: DNA polymerase III is a complex, multichain enzyme
+    responsible for most of the replicative synthesis in bacteria.
+    This DNA polymerase also exhibits 3' to 5' exonuclease activity.
+    The beta chain is required for initiation of replication once it
+    is clamped onto DNA, it slides freely (bidirectional and ATP-
+    independent) along duplex DNA (By similarity).
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- SUBUNIT: DNA polymerase III contains a core (composed of alpha,
+    epsilon and theta chains) that associates with a tau subunit. This
+    core dimerizes to form the POLIII' complex. PolIII' associates
+    with the gamma complex (composed of gamma, delta, delta', psi and
+    chi chains) and with the beta chain to form the complete DNA
+    polymerase III complex (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+Complete proteome; DNA replication; DNA-directed DNA polymerase;
+Nucleotidyltransferase; Transferase.
+TMZERO

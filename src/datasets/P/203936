@@ -1,0 +1,11 @@
+AC   P03726;
+Internal virion protein D.
+"Complete nucleotide sequence of bacteriophage T7 DNA and the
+locations of T7 genetic elements.";
+"A conserved domain in putative bacterial and bacteriophage
+transglycosylases.";
+-!- FUNCTION: May be involved in the lysis of the bacterial cell wall
+    during the release of the phage progeny.
+-!- SIMILARITY: Belongs to the transglycosylase slt family.
+Cell wall; Glycosidase; Hydrolase.
+TMZERO

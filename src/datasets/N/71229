@@ -1,0 +1,15 @@
+AC   P29628;
+Hemoglobin subunit beta (Hemoglobin beta chain) (Beta-globin).
+"The hemoglobins of Notothenia angustata, a temperate fish belonging
+to a family largely endemic to the Antarctic Ocean.";
+-!- FUNCTION: Involved in oxygen transport from gills to the various
+    peripheral tissues.
+-!- SUBUNIT: Hb1 is a tetramer of two alpha-2 chains and two beta
+    chains, while Hb2 is a tetramer of two alpha-2 chains and two beta
+    chains.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- MISCELLANEOUS: This fish has two hemoglobins: Hb1 and Hb2.
+-!- SIMILARITY: Belongs to the globin family.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

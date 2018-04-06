@@ -1,0 +1,15 @@
+AC   P47543;
+Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12) (GAPDH).
+"The minimal gene complement of Mycoplasma genitalium.";
+"A survey of the Mycoplasma genitalium genome by using random
+sequencing.";
+-!- CATALYTIC ACTIVITY: D-glyceraldehyde 3-phosphate + phosphate +
+    NAD(+) = 3-phospho-D-glyceroyl phosphate + NADH.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 1.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the glyceraldehyde-3-phosphate
+    dehydrogenase family.
+Complete proteome; Glycolysis; NAD; Oxidoreductase.
+TMZERO

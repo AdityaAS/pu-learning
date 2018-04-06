@@ -1,0 +1,18 @@
+AC   Q9PDK4;
+Tryptophan synthase beta chain (EC 4.2.1.20).
+"The genome sequence of the plant pathogen Xylella fastidiosa.";
+-!- FUNCTION: The beta subunit is responsible for the synthesis of L-
+    tryptophan from indole and L-serine.
+-!- CATALYTIC ACTIVITY: L-serine + 1-(indol-3-yl)glycerol 3-phosphate
+    = L-tryptophan + glyceraldehyde 3-phosphate.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-tryptophan biosynthesis; L-
+    tryptophan from chorismate: step 5 [final step].
+-!- SUBUNIT: Tetramer of two alpha and two beta chains (By
+    similarity).
+-!- SIMILARITY: Belongs to the trpB family.
+ GO:0000162; P:tryptophan biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Complete proteome; Lyase; Pyridoxal phosphate;
+Tryptophan biosynthesis.
+TMZERO

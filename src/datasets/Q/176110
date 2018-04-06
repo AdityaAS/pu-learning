@@ -1,0 +1,12 @@
+AC   Q5RBR1;
+Signal recognition particle 19 kDa protein (SRP19).
+-!- FUNCTION: Signal-recognition-particle assembly, binds directly to
+    7S RNA and mediates binding of the 54 kDa subunit of the SRP (By
+    similarity).
+-!- SUBUNIT: Signal recognition particle consists of a 7S RNA molecule
+    of 300 nucleotides and six protein subunits: SRP72, SRP68, SRP54,
+    SRP19, SRP14 and SRP9 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the SRP19 family.
+Ribonucleoprotein; RNA-binding; Signal recognition particle.
+TMZERO

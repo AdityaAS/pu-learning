@@ -1,0 +1,19 @@
+AC   O18963; Q4PS78;
+Cytochrome P450 2E1 (EC 1.14.14.1) (CYPIIE1).
+"Isolation of a full length cytochrome P450 (CYP2E) cDNA sequence and
+its functional expression in V79 cells.";
+"Comparative mapping of the bovine SPRN locus.";
+-!- FUNCTION: Cytochromes P450 are a group of heme-thiolate
+    monooxygenases. In liver microsomes, this enzyme is involved in an
+    NADPH-dependent electron transport pathway. It oxidizes a variety
+    of structurally unrelated compounds, including steroids, fatty
+    acids, and xenobiotics.
+-!- CATALYTIC ACTIVITY: RH + reduced flavoprotein + O(2) = ROH +
+    oxidized flavoprotein + H(2)O.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; peripheral membrane protein.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+ GO:0050381; F:unspecific monooxygenase activity; IEA:EC.
+Endoplasmic reticulum; Heme; Iron; Membrane; Metal-binding; Microsome;
+Monooxygenase; Oxidoreductase.
+TMZERO

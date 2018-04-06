@@ -1,0 +1,77 @@
+AC   P23415; Q14C77; Q6DJV9;
+Glycine receptor subunit alpha-1 precursor (Glycine receptor 48 kDa
+subunit) (Glycine receptor strychnine-binding subunit).
+"Alpha subunit variants of the human glycine receptor: primary
+structures, functional expression and chromosomal localization of the
+corresponding genes.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"NMR structure and backbone dynamics of the extended second
+transmembrane domain of the human neuronal glycine receptor alpha1
+subunit.";
+"Structure and dynamics of the second and third transmembrane domains
+of human glycine receptor.";
+"Mutations in the alpha 1 subunit of the inhibitory glycine receptor
+cause the dominant neurologic disorder, hyperekplexia.";
+"Mutational and haplotype analysis of the aplha1 subunit of the
+glycine receptor in hyperekplexia patients.";
+"Decreased agonist affinity and chloride conductance of mutant glycine
+receptors associated with human hereditary hyperekplexia.";
+"An additional family with Startle disease and a G1192A mutation at
+the alpha 1 subunit of the inhibitory glycine receptor gene.";
+"Evidence for recessive as well as dominant forms of startle disease
+(hyperekplexia) caused by mutations in the alpha 1 subunit of the
+inhibitory glycine receptor.";
+"Mutational analysis of familial and sporadic hyperekplexia.";
+"A novel mutation (Gln266-->His) in the alpha 1 subunit of the
+inhibitory glycine-receptor gene (GLRA1) in hereditary
+hyperekplexia.";
+"Analysis of GLRA1 in hereditary and sporadic hyperekplexia: a novel
+mutation in a family cosegregating for hyperekplexia and spastic
+paraparesis.";
+"Startle disease in an Italian family by mutation (K276E): the alpha-
+subunit of the inhibiting glycine receptor.";
+"Hyperekplexia phenotype due to compound heterozygosity for GLRA1 gene
+mutations.";
+"Novel GLRA1 missense mutation (P250T) in dominant hyperekplexia
+defines an intracellular determinant of glycine receptor channel
+gating.";
+-!- FUNCTION: The glycine receptor is a neurotransmitter-gated ion
+    channel. Binding of glycine to its receptor increases the chloride
+    conductance and thus produces hyperpolarization (inhibition of
+    neuronal firing).
+-!- SUBUNIT: Pentamer composed of alpha and beta subunits.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=a;
+      IsoId=P23415-1; Sequence=Displayed;
+    Name=b;
+      IsoId=P23415-2; Sequence=VSP_021142;
+-!- DISEASE: Defects in GLRA1 are a cause of startle disease (STHE)
+    [MIM:149400]; also known as hereditary hyperekplexia or congenital
+    stiff-person syndrome. STHE is a genetically heterogeneous
+    neurologic disorder characterized by muscular rigidity of central
+    nervous system origin, particularly in the neonatal period, and by
+    an exaggerated startle response to unexpected acoustic or tactile
+    stimuli. Inheritance can be autosomal dominant or recessive.
+-!- MISCELLANEOUS: The alpha subunit binds strychnine.
+-!- SIMILARITY: Belongs to the ligand-gated ionic channel (TC 1.A.9)
+    family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=GLRA1".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0016594; F:glycine binding; IDA:MGI.
+ GO:0016934; F:glycine-gated chloride channel activity; IMP:MGI.
+ GO:0004891; F:glycine-inhibited chloride channel activity; TAS:ProtInc.
+ GO:0007166; P:cell surface receptor linked signal transdu...; TAS:ProtInc.
+ GO:0007399; P:nervous system development; TAS:ProtInc.
+ GO:0042391; P:regulation of membrane potential; IMP:MGI.
+ GO:0001964; P:startle response; IMP:MGI.
+ GO:0007268; P:synaptic transmission; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+3D-structure; Alternative splicing; Chloride; Chloride channel;
+Disease mutation; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Postsynaptic membrane; Receptor; Signal; Transmembrane;
+Transport.
+TMFOUR

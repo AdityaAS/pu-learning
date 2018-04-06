@@ -1,0 +1,14 @@
+AC   P32014;
+Capsule polysaccharide export inner-membrane protein ctrB.
+"Evidence for a common molecular origin of the capsule gene loci in
+Gram-negative bacteria expressing group II capsular polysaccharides.";
+"Complete genome sequence of Neisseria meningitidis serogroup B strain
+MC58.";
+-!- FUNCTION: May form an ATP-driven capsule polysaccharide export
+    apparatus, in association with the ctrC and ctrD proteins.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the bexC/ctrB/kpsE family.
+Bacterial capsule; Complete proteome; Inner membrane; Membrane;
+Polysaccharide transport; Sugar transport; Transmembrane; Transport.
+TMTWO

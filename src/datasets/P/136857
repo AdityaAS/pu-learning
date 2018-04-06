@@ -1,0 +1,16 @@
+AC   P42670;
+Puromycin resistance protein pur8.
+"The pur8 gene from the pur cluster of Streptomyces alboniger encodes
+a highly hydrophobic polypeptide which confers resistance to
+puromycin.";
+-!- FUNCTION: May be involved in active puromycin efflux energized by
+    a proton-dependent electrochemical gradient. In addition, it could
+    be implicated in secreting N-acetylpuromycin, the last
+    intermediate of the puromycin biosynthesis pathway, to the
+    environment.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. EmrB
+    family.
+Antibiotic biosynthesis; Antibiotic resistance; Membrane;
+Transmembrane; Transport.
+TMFOURTEEN

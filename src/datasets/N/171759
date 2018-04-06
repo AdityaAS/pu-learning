@@ -1,0 +1,25 @@
+AC   Q3MHR5;
+Splicing factor, arginine/serine-rich 2 (Splicing factor SC35) (SC-35)
+(Splicing component, 35 kDa).
+-!- FUNCTION: Necessary for the splicing of pre-mRNA. It is required
+    for formation of the earliest ATP-dependent splicing complex and
+    interacts with spliceosomal components bound to both the 5' and 3'
+    splice sites during spliceosome assembly. It also is required for
+    ATP-dependent interactions of both U1 and U2 snRNPs with pre-mRNA.
+    Interacts with other spliceosomal components, via the RS domains,
+    to form a bridge between the 5' and 3' splice site binding
+    components, U1 snRNP and U2AF. Binds to purine-rich RNA sequences,
+    either 5'-AGSAGAGTA-3' (S=C or G) or 5'-GTTCGAGTA-3'. Can bind to
+    beta-globin mRNA and commit it to the splicing pathway (By
+    similarity).
+-!- SUBUNIT: In vitro, binds SFRS1 (ASF/SF2), SNRP70 and U2AF1 but not
+    U2AF2. Binds SFRS12. Interacts with CCNL1 and CCNL2. Interacts
+    with SFRS2IP (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- PTM: Extensively phosphorylated on serine residues in the RS
+    domain (By similarity).
+-!- SIMILARITY: Belongs to the splicing factor SR family.
+-!- SIMILARITY: Contains 1 RRM (RNA recognition motif) domain.
+Acetylation; mRNA processing; mRNA splicing; Nuclear protein;
+Phosphorylation; RNA-binding.
+TMZERO

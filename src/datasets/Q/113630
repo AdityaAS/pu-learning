@@ -1,0 +1,28 @@
+AC   Q9X4Q8;
+Na(+)-translocating NADH-quinone reductase subunit F (EC 1.6.5.-)
+(Na(+)-translocating NQR subunit F) (Na(+)-NQR subunit F) (NQR complex
+subunit F) (NQR-1 subunit F).
+"Effects of changes in membrane sodium flux on virulence gene
+expression in Vibrio cholerae.";
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: NQR complex catalyzes the reduction of ubiquinone-1 to
+    ubiquinol by two successive reactions, coupled with the transport
+    of Na(+) ions from the cytoplasm to the periplasm. The first step
+    is catalyzed by nqrF, which accepts electrons from NADH and
+    reduces ubiquinone-1 to ubisemiquinone by a one-electron transfer
+    pathway.
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone + Na(+)(In) = NAD(+) +
+    ubiquinol + Na(+)(Out).
+-!- COFACTOR: Binds 1 2Fe-2S cluster (By similarity).
+-!- COFACTOR: FAD (By similarity).
+-!- SUBUNIT: Composed of six subunits; nqrA, nqrB, nqrC, nqrD, nqrE
+    and nqrF (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane (Potential).
+-!- SIMILARITY: Belongs to the nqrF family.
+-!- SIMILARITY: Contains 1 2Fe-2S ferredoxin-type domain.
+2Fe-2S; Complete proteome; FAD; Flavoprotein; Inner membrane;
+Ion transport; Iron; Iron-sulfur; Membrane; Metal-binding; NAD;
+Oxidoreductase; Sodium; Sodium transport; Transmembrane; Transport;
+Ubiquinone.
+TMONE

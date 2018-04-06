@@ -1,0 +1,17 @@
+AC   P46032;
+Peptide transporter PTR2 (Histidine-transporting protein).
+"Cloning of a second Arabidopsis peptide transport gene.";
+"Cloning of an Arabidopsis histidine transporting protein related to
+nitrate and peptide transporters.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+-!- FUNCTION: Peptide transport. High affinity, low capacity
+    transporter. Can also transport histidine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the PTR2/POT transporter (TC 2.A.17)
+    family.
+Membrane; Peptide transport; Protein transport; Transmembrane;
+Transport.
+TMELEVEN

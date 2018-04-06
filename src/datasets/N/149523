@@ -1,0 +1,19 @@
+AC   P50887; Q1EC97; Q9UAN1; Q9V3X9;
+60S ribosomal protein L22.
+"Poly(ADP-ribose) polymerase interacts with novel Drosophila ribosomal
+proteins, L22 and L23a, with unique histone-like amino-terminal
+extensions.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"From sequence to chromosome: the tip of the X chromosome of D.
+melanogaster.";
+"A Drosophila full-length cDNA resource.";
+-!- INTERACTION:
+    O62530:AP-50; NbExp=1; IntAct=EBI-174190, EBI-102705;
+    Q9VGI4:Lk6; NbExp=1; IntAct=EBI-174190, EBI-149942;
+    Q9V9M6:Tif-IA; NbExp=1; IntAct=EBI-174190, EBI-93028;
+-!- SIMILARITY: Belongs to the ribosomal protein L22e family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Ribonucleoprotein; Ribosomal protein.
+TMZERO

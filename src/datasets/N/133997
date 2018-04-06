@@ -1,0 +1,10 @@
+AC   Q7U9L1;
+Photosystem II reaction center protein K precursor (PSII-K).
+"The genome of a motile marine Synechococcus.";
+-!- FUNCTION: This protein is a component of the reaction center of
+    photosystem II.
+-!- SIMILARITY: Belongs to the psbK family.
+ GO:0030096; C:photosystem II (sensu Cyanobacteria); NAS:UniProtKB.
+ GO:0015979; P:photosynthesis; NAS:UniProtKB.
+Complete proteome; Photosynthesis; Photosystem II.
+TMZERO

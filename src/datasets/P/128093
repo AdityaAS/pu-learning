@@ -1,0 +1,36 @@
+AC   P07038; Q7RV59;
+Plasma membrane ATPase (EC 3.6.3.6) (Proton pump).
+"Amino acid sequence of the plasma membrane ATPase of Neurospora
+crassa: deduction from genomic and cDNA sequences.";
+"Primary structure of the Neurospora plasma membrane H+-ATPase deduced
+from the gene sequence. Homology to Na+/K+-, Ca2+-, and K+-ATPase.";
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+"Cysteine 532 and cysteine 545 are the N-ethylmaleimide-reactive
+residues of the Neurospora plasma membrane H+-ATPase.";
+"Identification of the major cytoplasmic regions of the Neurospora
+crassa plasma membrane H(+)-ATPase using protein chemical
+techniques.";
+"Identification of the membrane-embedded regions of the Neurospora
+crassa plasma membrane H(+)-ATPase.";
+"Cytoplasmic location of amino acids 359-440 of the Neurospora crassa
+plasma membrane H(+)-ATPase.";
+"Topology of the Neurospora plasma membrane H(+)-ATPase. Localization
+of a transmembrane segment.";
+-!- FUNCTION: The plasma membrane ATPase of plants and fungi is a
+    hydrogen ion pump. The proton gradient it generates drives the
+    active transport of nutrients by H(+)-symport. The resulting
+    external acidification and/or internal alkinization may mediate
+    growth responses.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIIA subfamily.
+ GO:0008553; F:hydrogen-exporting ATPase activity, phospho...; IEA:EC.
+3D-structure; ATP-binding; Direct protein sequencing;
+Hydrogen ion transport; Hydrolase; Ion transport; Magnesium; Membrane;
+Metal-binding; Nucleotide-binding; Phosphorylation; Transmembrane;
+Transport.
+TMTEN

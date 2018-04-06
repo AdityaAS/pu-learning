@@ -1,0 +1,22 @@
+AC   Q45460; O34332;
+Choline transport ATP-binding protein opuBA.
+"Characterization of a chimeric proU operon in a subtilin-producing
+mutant of Bacillus subtilis 168.";
+"Two evolutionarily closely related ABC transporters mediate the
+uptake of choline for synthesis of the osmoprotectant glycine betaine
+in Bacillus subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in a high affinity multicomponent binding-
+    protein-dependent transport system for choline. Probably
+    responsible for energy coupling to the transport system.
+-!- MISCELLANEOUS: LH45 is not a natural strain. It has been
+    constructed by transformation of strain 168 with linear DNA from
+    B.subtilis ATCC 6633. It is a subtilin-producing mutant of
+    B.subtilis 168.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 2 CBS domains.
+Amino-acid transport; ATP-binding; CBS domain; Complete proteome;
+Nucleotide-binding; Repeat; Transport.
+TMZERO

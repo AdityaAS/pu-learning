@@ -1,0 +1,24 @@
+AC   Q27257; Q20630;
+Protein dif-1.
+"Extension of the mitochondrial transporter super-family: sequences of
+five members from the nematode worm, Caenorhabditis elegans.";
+"Embryonic tissue differentiation in Caenorhabditis elegans requires
+dif-1, a gene homologous to mitochondrial solute carriers.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Seems to play a role in the maintenance of tissue
+    differentiation in the developing embryo, but not for its
+    initiation.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (Potential).
+-!- DEVELOPMENTAL STAGE: Although dif-1 activity is required only
+    during embryogenesis, it is expressed at all stages of
+    development.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005740; C:mitochondrial envelope; IMP:UniProtKB.
+ GO:0005215; F:transporter activity; IMP:UniProtKB.
+ GO:0006839; P:mitochondrial transport; IMP:UniProtKB.
+Complete proteome; Developmental protein; Inner membrane; Membrane;
+Mitochondrion; Repeat; Transmembrane; Transport.
+TMFIVE

@@ -1,0 +1,12 @@
+AC   Q9HAS0; Q7Z2H4;
+Protein Njmu-R1.
+"Njmu-R1: a novel new gene related to spermatogenesis.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May have a role in spermatogenesis.
+-!- TISSUE SPECIFICITY: Highly expressed in testis and also expressed
+    in fetal testis.
+-!- CAUTION: Ref.1 (AAG23214) sequence differs from that shown due to
+    a frameshift in position 362.
+ GO:0007283; P:spermatogenesis; NAS:UniProtKB.
+TMZERO

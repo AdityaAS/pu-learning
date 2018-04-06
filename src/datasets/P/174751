@@ -1,0 +1,15 @@
+AC   P33116;
+Subtilin transport ATP-binding protein spaT.
+"Analysis of genes involved in biosynthesis of the lantibiotic
+subtilin.";
+"The subtilin gene of Bacillus subtilis ATCC 6633 is encoded in an
+operon that contains a homolog of the hemolysin B transport protein.";
+-!- FUNCTION: Probably implicated in the export process of the
+    lantibiotic subtilin.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. HlyB subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Bacteriocin transport; Membrane; Nucleotide-binding;
+Protein transport; Transmembrane; Transport.
+TMFIVE

@@ -1,0 +1,33 @@
+AC   P0ADY7; P02414; Q2M6X8;
+50S ribosomal protein L16.
+"The primary structure of protein L16 located at the
+peptidyltransferase center of Escherichia coli ribosomes.";
+"Structure of the Escherichia coli S10 ribosomal protein operon.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"DNA sequence of the promoter region for the alpha ribosomal protein
+operon in Escherichia coli.";
+"Incorporation of six additional proteins to complete the assembly map
+of the 50 S subunit from Escherichia coli ribosomes.";
+"The ribosomal neighbourhood of the central fold of tRNA: cross-links
+from position 47 of tRNA located at the A, P or E site.";
+"Observation of Escherichia coli ribosomal proteins and their
+posttranslational modifications by mass spectrometry.";
+"Study of the structural dynamics of the E. coli 70S ribosome using
+real-space refinement.";
+"Structures of the bacterial ribosome at 3.5 A resolution.";
+-!- FUNCTION: This protein binds directly to 23S ribosomal RNA and is
+    located at the A site of the peptidyltransferase center. It
+    contacts the A and P site tRNAs. It has an essential role in
+    subunit assembly, which is not well understood.
+-!- SUBUNIT: Part of the 50S ribosomal subunit. Cross-links to the A
+    and P site tRNAs.
+-!- MASS SPECTROMETRY: MW=15326.2; METHOD=MALDI; RANGE=1-136;
+    NOTE=Ref.8.
+-!- SIMILARITY: Belongs to the ribosomal protein L16P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+3D-structure; Complete proteome; Direct protein sequencing;
+Methylation; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding; tRNA-binding.
+TMZERO

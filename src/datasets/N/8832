@@ -1,0 +1,40 @@
+AC   Q8BGX0; Q8C2B6; Q8CDA4; Q8CDA7;
+GTP-binding protein ARD-1 (ADP-ribosylation factor domain protein 1)
+(Tripartite motif-containing protein 23).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Not known, the C-terminus can act as an allosteric
+    activator of the cholera toxin catalytic subunit (By similarity).
+-!- SUBUNIT: Interacts with PSCD1 (By similarity).
+-!- SUBCELLULAR LOCATION: Intracytoplasmic membrane (By similarity).
+    Golgi apparatus; Golgi apparatus membrane (By similarity).
+    Lysosome; lysosomal membrane (By similarity). Note=Membrane-
+    associated with the Golgi complex and lysosomal structures (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q8BGX0-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8BGX0-2; Sequence=VSP_010814;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q8BGX0-3; Sequence=VSP_010815;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: In the C-terminal section; belongs to the small GTPase
+    superfamily. Arf family.
+-!- SIMILARITY: Contains 1 B box-type zinc finger.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+ GO:0005737; C:cytoplasm; IDA:MGI.
+ GO:0000139; C:Golgi membrane; ISS:HGNC.
+ GO:0005765; C:lysosomal membrane; ISS:HGNC.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0019003; F:GDP binding; ISS:HGNC.
+ GO:0005525; F:GTP binding; ISS:HGNC.
+ GO:0003924; F:GTPase activity; ISS:HGNC.
+ GO:0004842; F:ubiquitin-protein ligase activity; ISS:HGNC.
+ GO:0016567; P:protein ubiquitination; ISS:HGNC.
+Alternative splicing; Coiled coil; GTP-binding; Metal-binding;
+Nucleotide-binding; Zinc; Zinc-finger.
+TMZERO

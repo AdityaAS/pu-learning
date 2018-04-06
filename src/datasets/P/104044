@@ -1,0 +1,34 @@
+AC   P10566;
+Mitochondrial RNA-splicing protein MRS3.
+"Nuclear suppression of a mitochondrial RNA splice defect: nucleotide
+sequence and disruption of the MRS3 gene.";
+"MRS3 and MRS4, two suppressors of mtRNA splicing defects in yeast,
+are new members of the mitochondrial carrier family.";
+"Sequence analysis of a 40.7 kb segment from the left arm of yeast
+chromosome X reveals 14 known genes and 13 new open reading frames
+including homologues of genes clustered on the right arm of chromosome
+XI.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: MRS3 suppresses a mitochondrial splice defect in the
+    first intron of the COB gene. It may act as a carrier, exerting
+    its suppressor activity via modulation of solute concentrations in
+    the mitochondrion (possibly of cations).
+-!- INTERACTION:
+    P39743:RVS167; NbExp=1; IntAct=EBI-11291, EBI-14500;
+    P43603:YFR024C; NbExp=1; IntAct=EBI-11291, EBI-22980;
+    P32793:YSC84; NbExp=1; IntAct=EBI-11291, EBI-24460;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 1360 molecules/cell.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005381; F:iron ion transporter activity; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0048250; P:mitochondrial iron ion transport; IDA:SGD.
+ GO:0008380; P:RNA splicing; IGI:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion;
+mRNA processing; Repeat; Transmembrane; Transport.
+TMSIX

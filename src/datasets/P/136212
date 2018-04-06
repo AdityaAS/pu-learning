@@ -1,0 +1,62 @@
+AC   P69795; P17409;
+N,N'-diacetylchitobiose-specific phosphotransferase enzyme IIB
+component (EC 2.7.1.69) (PTS system N,N'-diacetylchitobiose-specific
+EIIB component).
+"Characterization and nucleotide sequence of the cryptic cel operon of
+Escherichia coli K12.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The cellobiose permease of Escherichia coli consists of three
+proteins and is homologous to the lactose permease of Staphylococcus
+aureus.";
+"Wild-type Escherichia coli grows on the chitin disaccharide, N,N'-
+diacetylchitobiose, by expressing the cel operon.";
+"The chitin disaccharide, N,N'-diacetylchitobiose, is catabolized by
+Escherichia coli and is transported/phosphorylated by the
+phosphoenolpyruvate:glycose phosphotransferase system.";
+"The transport/phosphorylation of N,N'-diacetylchitobiose in
+Escherichia coli. Characterization of phospho-IIB(Chb) and of a
+potential transition state analogue in the phosphotransfer reaction
+between the proteins IIA(Chb) and IIB(Chb).";
+"Analytical sedimentation of the IIAChb and IIBChb proteins of the
+Escherichia coli N,N'-diacetylchitobiose phosphotransferase system.
+Demonstration of a model phosphotransfer transition state complex.";
+"Enzyme IIBcellobiose of the phosphoenol-pyruvate-dependent
+phosphotransferase system of Escherichia coli: backbone assignment and
+secondary structure determined by three-dimensional NMR
+spectroscopy.";
+"The NMR side-chain assignments and solution structure of enzyme
+IIBcellobiose of the phosphoenolpyruvate-dependent phosphotransferase
+system of Escherichia coli.";
+"The structure of an energy-coupling protein from bacteria,
+IIBcellobiose, reveals similarity to eukaryotic protein tyrosine
+phosphatases.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in N,N'-diacetylchitobiose
+    transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- PATHWAY: N,N'-diacetylchitobiose utilization.
+-!- SUBUNIT: Monomer; in both its unphosphorylated and phosphorylated
+    forms.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- INDUCTION: By N,N'-diacetylchitobiose.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-3 domain.
+-!- CAUTION: Was originally (Ref.5) characterized as part of a cryptic
+    cel operon for a cellobiose degradation system. The Cel+ phenotype
+    is due to mutations making expression chitobiose-independent and
+    altering the substrate specificity.
+ GO:0008982; F:protein-N(PI)-phosphohistidine-sugar phosph...; IEA:EC.
+3D-structure; Complete proteome; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase; Transport.
+TMZERO

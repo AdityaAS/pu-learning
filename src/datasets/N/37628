@@ -1,0 +1,18 @@
+AC   Q9KP21;
+Adenylyl-sulfate kinase (EC 2.7.1.25) (APS kinase) (Adenosine-5'-
+phosphosulfate kinase) (ATP adenosine-5'-phosphosulfate 3'-
+phosphotransferase).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Catalyzes the synthesis of activated sulfate.
+-!- CATALYTIC ACTIVITY: ATP + adenylyl sulfate = ADP + 3'-
+    phosphoadenylyl sulfate.
+-!- PATHWAY: Sulfur metabolism; hydrogen sulfide biosynthesis; sulfite
+    from sulfate: step 2.
+-!- SIMILARITY: Belongs to the APS kinase family.
+ GO:0004020; F:adenylylsulfate kinase activity; IEA:HAMAP.
+ GO:0019344; P:cysteine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; ATP-binding; Complete proteome;
+Cysteine biosynthesis; Kinase; Nucleotide-binding; Phosphorylation;
+Transferase.
+TMZERO

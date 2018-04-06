@@ -1,0 +1,14 @@
+AC   O26074;
+Protein-export membrane protein secD.
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+-!- FUNCTION: Involved in protein export (By similarity).
+-!- SUBUNIT: Part of the prokaryotic protein translocation apparatus
+    which comprise secA, secB, secD, secE, secF, secG and secY (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the secD/secF family. SecD subfamily.
+Complete proteome; Inner membrane; Membrane; Protein transport;
+Translocation; Transmembrane; Transport.
+TMFIVE

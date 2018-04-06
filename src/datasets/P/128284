@@ -1,0 +1,18 @@
+AC   Q9I3Y3;
+Multidrug resistance protein pmpM (H(+)/drug antiporter) (Multidrug-
+efflux transporter).
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"An H(+)-coupled multidrug efflux pump, PmpM, a member of the MATE
+family of transporters, from Pseudomonas aeruginosa.";
+-!- FUNCTION: Multidrug efflux pump that functions as an H(+)/drug
+    antiporter. Confers resistance to benzalkonium chloride,
+    fluoroquinolones, ethidium bromide, acriflavine and
+    tetraphenylphosphonium chloride.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the multi antimicrobial extrusion (MATE)
+    (TC 2.A.66.1) family.
+Antibiotic resistance; Antiport; Complete proteome; Inner membrane;
+Ion transport; Membrane; Transmembrane; Transport.
+TMTWELVE

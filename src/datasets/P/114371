@@ -1,0 +1,23 @@
+AC   Q62633;
+Ileal sodium/bile acid cotransporter (Ileal Na(+)/bile acid
+cotransporter) (Na(+)-dependent ileal bile acid transporter) (Ileal
+sodium-dependent bile acid transporter) (ISBT) (IBAT) (Apical sodium-
+dependent bile acid transporter) (ASBT) (Sodium/taurocholate-
+cotransporting polypeptide, ileal) (Solute carrier family 10 member
+2).
+"Cloning and molecular characterization of the ontogeny of a rat ileal
+sodium-dependent bile acid transporter.";
+-!- FUNCTION: Plays a critical role in the sodium-dependent
+    reabsorption of bile acids from the lumen of the small intestine.
+    Plays a key role in cholesterol metabolism (By similarity).
+-!- SUBUNIT: Monomer and homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DEVELOPMENTAL STAGE: Transcriptionally regulated increases in mRNA
+    and protein levels at the time of weaning.
+-!- SIMILARITY: Belongs to the sodium:bile acid symporter family.
+ GO:0005634; C:nucleus; IDA:RGD.
+ GO:0008508; F:bile acid:sodium symporter activity; TAS:RGD.
+ GO:0006814; P:sodium ion transport; TAS:RGD.
+Glycoprotein; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMSEVEN

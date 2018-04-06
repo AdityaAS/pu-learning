@@ -1,0 +1,38 @@
+AC   P26431;
+Sodium/hydrogen exchanger 1 (Na(+)/H(+) exchanger 1) (NHE-1) (Solute
+carrier family 9 member 1).
+"Molecular cloning of putative members of the Na/H exchanger gene
+family. cDNA cloning, deduced amino acid sequence, and mRNA tissue
+expression of the rat Na/H exchanger NHE-1 and two structurally
+related proteins.";
+"Topological analysis of NHE1, the ubiquitous Na+/H+ exchanger using
+chymotryptic cleavage.";
+"Phosphoproteomic analysis of rat liver by high capacity IMAC and LC-
+MS/MS.";
+-!- FUNCTION: Involved in pH regulation to eliminate acids generated
+    by active metabolism or to counter adverse environmental
+    conditions. Major proton extruding system driven by the inward
+    sodium ion chemical gradient. Plays an important role in signal
+    transduction.
+-!- SUBUNIT: Interacts with tescalcin, CHP and CHP2 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Not tissue specific.
+-!- PTM: Phosphorylated (Possible).
+-!- PTM: N-glycosylated and O-glycosylated in the N-terminal region.
+-!- SIMILARITY: Belongs to the Na(+)/H(+) exchanger (TC 2.A.36.5.1)
+    family.
+-!- CAUTION: The region between transmembrane regions M4 and M5 and
+    between M6 and M7 (also termed intracellular loops IL2 and IL4,
+    respectively) seem to be localized at least in part in the
+    membrane. The hydrophobic region H10 is proposed to be located
+    within the membrane.
+ GO:0045121; C:lipid raft; IPI:RGD.
+ GO:0005886; C:plasma membrane; TAS:RGD.
+ GO:0015385; F:sodium:hydrogen antiporter activity; IMP:RGD.
+ GO:0008134; F:transcription factor binding; IDA:RGD.
+ GO:0007243; P:protein kinase cascade; IMP:RGD.
+ GO:0006885; P:regulation of pH; TAS:RGD.
+ GO:0006814; P:sodium ion transport; TAS:RGD.
+Antiport; Glycoprotein; Ion transport; Membrane; Phosphorylation;
+Sodium; Sodium transport; Transmembrane; Transport.
+TMTWELVE

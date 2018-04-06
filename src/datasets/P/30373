@@ -1,0 +1,14 @@
+AC   P0A2R9; P31138;
+Magnesium transport protein corA.
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: Mediates influx of magnesium ions (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the corA metal ion transporter (MIT)
+    (TC 1.A.35) family.
+Complete proteome; Inner membrane; Ion transport; Magnesium; Membrane;
+Transmembrane; Transport.
+TMTWO

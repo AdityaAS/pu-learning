@@ -1,0 +1,9 @@
+AC   P13059;
+Protein cII.
+"Nonessential region of bacteriophage P4: DNA sequence, transcription,
+gene products, and functions.";
+"DNA sequence of satellite bacteriophage P4.";
+-!- FUNCTION: Mutations in this gene cause a clear-plaque phenotype as
+    a result of efficient killing of infected cells by P4. How this
+    comes about is not understood.
+TMZERO

@@ -1,0 +1,48 @@
+AC   Q13510;
+Acid ceramidase precursor (EC 3.5.1.23) (Acylsphingosine deacylase)
+(N-acylsphingosine amidohydrolase) (AC) (Putative 32 kDa heart
+protein) (PHP32) [Contains: Acid ceramidase subunit alpha; Acid
+ceramidase subunit beta].
+"Molecular cloning and characterization of a full-length complementary
+DNA encoding human acid ceramidase. Identification of the first
+molecular lesion causing Farber disease.";
+"A new gene family predicted by a novel human heart cDNA.";
+"Human acid ceramidase gene.";
+"The human acid ceramidase gene (ASAH): structure, chromosomal
+location, mutation analysis, and expression.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Purification, characterization, and biosynthesis of human acid
+ceramidase.";
+"Identification and quantification of N-linked glycoproteins using
+hydrazide chemistry, stable isotope labeling and mass spectrometry.";
+"Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+hydrazide chemistry, and mass spectrometry.";
+"Elucidation of N-glycosylation sites on human platelet proteins: a
+glycoproteomic approach.";
+"Molecular analysis of acid ceramidase deficiency in patients with
+Farber disease.";
+"Mutation analysis of the acid ceramidase gene in Japanese patients
+with Farber disease.";
+-!- FUNCTION: Hydrolyzes the sphingolipid ceramide into sphingosine
+    and free fatty acid.
+-!- CATALYTIC ACTIVITY: N-acylsphingosine + H(2)O = a carboxylate +
+    sphingosine.
+-!- SUBUNIT: Heterodimer of one alpha and one beta subunit.
+-!- SUBCELLULAR LOCATION: Lysosome.
+-!- TISSUE SPECIFICITY: Broadly expressed with highest expression in
+    heart.
+-!- DISEASE: Defects in ASAH1 are the cause of Farber disease (FD)
+    [MIM:228000]; also known as Farber lipogranulomatosis. This
+    sphingolipid disease is characterized by subcutaneous lipid-loaded
+    nodules, excruciating pain in the joints and extremities, marked
+    accumulation of ceramide in lysosomes, and death by three years of
+    age.
+-!- SIMILARITY: Belongs to the acid ceramidase family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ASAH1".
+ GO:0003824; F:catalytic activity; TAS:ProtInc.
+ GO:0006672; P:ceramide metabolism; TAS:ProtInc.
+Direct protein sequencing; Disease mutation; Glycoprotein; Hydrolase;
+Lysosome; Polymorphism; Signal.
+TMZERO

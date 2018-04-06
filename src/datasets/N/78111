@@ -1,0 +1,16 @@
+AC   P13361;
+Protein hunchback.
+"Comparison of the gap segmentation gene hunchback between Drosophila
+melanogaster and Drosophila virilis reveals novel modes of
+evolutionary change.";
+"Microevolutionary divergence pattern of the segmentation gene
+hunchback in Drosophila.";
+-!- FUNCTION: Gap class segmentation protein that controls development
+    of head structures (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the hunchback C2H2-type zinc-finger protein
+    family.
+-!- SIMILARITY: Contains 6 C2H2-type zinc fingers.
+Developmental protein; DNA-binding; Gap protein; Metal-binding;
+Nuclear protein; Repeat; Zinc; Zinc-finger.
+TMZERO

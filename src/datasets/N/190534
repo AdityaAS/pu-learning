@@ -1,0 +1,19 @@
+AC   Q9KRB2;
+DNA topoisomerase 1 (EC 5.99.1.2) (DNA topoisomerase I) (Omega-
+protein) (Relaxing enzyme) (Untwisting enzyme) (Swivelase).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: The reaction catalyzed by topoisomerases leads to the
+    conversion of one topological isomer of DNA to another.
+-!- CATALYTIC ACTIVITY: ATP-independent breakage of single-stranded
+    DNA, followed by passage and rejoining.
+-!- SUBUNIT: Monomer (By similarity).
+-!- MISCELLANEOUS: When a topoisomerase transiently breaks a DNA
+    backbone bond, it simultaneously forms a protein-DNA link, in
+    which a tyrosyl oxygen in the enzyme is joined to a DNA phosphorus
+    at one end of the enzyme-severed DNA strand.
+-!- SIMILARITY: Belongs to the prokaryotic type I/III topoisomerase
+    family.
+Complete proteome; DNA-binding; Isomerase; Metal-binding; Repeat;
+Topoisomerase; Zinc; Zinc-finger.
+TMZERO

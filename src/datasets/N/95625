@@ -1,0 +1,16 @@
+AC   P10548;
+Lysostaphin precursor (EC 3.4.24.75) (Glycyl-glycine endopeptidase).
+"The molecular organization of the lysostaphin gene and its sequences
+repeated in tandem.";
+-!- FUNCTION: Lyses staphylococcal cells by hydrolyzing the
+    polyglycine interpeptide bridges of the peptidoglycan.
+-!- CATALYTIC ACTIVITY: Hydrolysis of the -Gly-|-Gly- bond in the
+    pentaglycine inter-peptide link joining staphylococcal cell wall
+    peptidoglycans.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the peptidase M23B family.
+Cell wall; Hydrolase; Metal-binding; Metalloprotease; Protease;
+Repeat; Signal; Zinc; Zymogen.
+TMZERO

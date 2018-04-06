@@ -1,0 +1,12 @@
+AC   P0ABI5; P27841;
+Magnesium transport protein corA.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Mediates influx of magnesium ions (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the corA metal ion transporter (MIT)
+    (TC 1.A.35) family.
+Complete proteome; Inner membrane; Ion transport; Magnesium; Membrane;
+Transmembrane; Transport.
+TMTWO

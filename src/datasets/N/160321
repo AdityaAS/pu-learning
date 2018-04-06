@@ -1,0 +1,16 @@
+AC   Q9TJQ9;
+Plastid 30S ribosomal protein S7.
+"The genes encoding subunits of ATP synthase are conserved in the
+reduced plastid genome of the heterotrophic alga Prototheca
+wickerhamii.";
+-!- FUNCTION: One of the primary rRNA binding proteins, it binds
+    directly to 16S rRNA where it nucleates assembly of the head
+    domain of the 30S subunit (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit.
+-!- SUBCELLULAR LOCATION: Plastid.
+-!- SIMILARITY: Belongs to the ribosomal protein S7P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+Plastid; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

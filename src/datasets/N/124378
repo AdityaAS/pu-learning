@@ -1,0 +1,16 @@
+AC   P80550;
+Eosinophil peroxidase (EC 1.11.1.7) (EPO) (Fragments).
+"Isolation and characterization of porcine cationic eosinophil granule
+proteins.";
+-!- CATALYTIC ACTIVITY: Donor + H(2)O(2) = oxidized donor + 2 H(2)O.
+-!- COFACTOR: Binds 1 calcium ion per heterodimer (By similarity).
+-!- COFACTOR: Binds 1 heme B (iron-protoporphyrin IX) group covalently
+    per heterodimer (By similarity).
+-!- SUBUNIT: Tetramer of two light chains and two heavy chains (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasmic granule. Note=Cytoplasmic
+    granules of eosinophils.
+-!- SIMILARITY: Belongs to the peroxidase family. XPO subfamily.
+Direct protein sequencing; Heme; Hydrogen peroxide; Iron;
+Metal-binding; Oxidoreductase; Peroxidase.
+TMZERO

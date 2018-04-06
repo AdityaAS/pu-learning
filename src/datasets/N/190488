@@ -1,0 +1,19 @@
+AC   Q00313; P78593;
+DNA topoisomerase 1 (EC 5.99.1.2) (DNA topoisomerase I).
+"Identification of the gene encoding DNA topoisomerase I from Candida
+albicans.";
+"The topoisomerase I gene from Candida albicans.";
+-!- FUNCTION: The reaction catalyzed by topoisomerases leads to the
+    conversion of one topological isomer of DNA to another.
+-!- CATALYTIC ACTIVITY: ATP-independent breakage of single-stranded
+    DNA, followed by passage and rejoining.
+-!- MISCELLANEOUS: Eukaryotic topoisomerase I and II can relax both
+    negative and positive supercoils, whereas prokaryotic enzymes
+    relax only negative supercoils.
+-!- MISCELLANEOUS: When a topoisomerase transiently breaks a DNA
+    backbone bond, it simultaneously forms a protein-DNA link, in
+    which a tyrosyl oxygen in the enzyme is joined to a DNA phosphorus
+    at one end of the enzyme-severed DNA strand.
+-!- SIMILARITY: Belongs to the eukaryotic type I topoisomerase family.
+DNA-binding; Isomerase; Topoisomerase.
+TMZERO

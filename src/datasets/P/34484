@@ -1,0 +1,37 @@
+AC   P38054; P77767;
+Cation efflux system protein cusA.
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Cloning and sequencing of the pheP gene, which encodes the
+phenylalanine-specific transport system of Escherichia coli.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+"Identification of a copper-responsive two-component system on the
+chromosome of Escherichia coli K-12.";
+"The independent cue and cus systems confer copper tolerance during
+aerobic and anaerobic growth in Escherichia coli.";
+"The product of the ybdE gene of the Escherichia coli chromosome is
+involved in detoxification of silver ions.";
+"Molecular analysis of the copper-transporting efflux system CusCFBA
+of Escherichia coli.";
+-!- FUNCTION: Part of a cation efflux system that mediates resistance
+    to copper and silver.
+-!- SUBUNIT: The cus efflux system is composed of cusA, cusB, cusC and
+    cusF.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- INDUCTION: Transcriptionally regulated by cusR in response to
+    copper and silver ions.
+-!- MISCELLANEOUS: The cus system plays an important role in copper
+    tolerance under anaerobic growth and, under extreme copper stress,
+    in aerobic growth.
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+-!- CAUTION: Ref.5 (M58000) sequence differs from that shown due to
+    frameshifts in positions 897 and 933.
+Complete proteome; Copper; Copper transport; Inner membrane;
+Ion transport; Membrane; Transmembrane; Transport.
+TMTWELVE

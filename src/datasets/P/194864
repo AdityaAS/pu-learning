@@ -1,0 +1,28 @@
+AC   O52248;
+Toluene efflux pump membrane transporter ttgB.
+"Efflux pumps involved in toluene tolerance in Pseudomonas putida DOT-
+T1E.";
+"Three efflux pumps are required to provide efficient tolerance to
+toluene in Pseudomonas putida DOT-T1E.";
+"Antibiotic-dependent induction of Pseudomonas putida DOT-T1E TtgABC
+efflux pump is mediated by the drug binding repressor TtgR.";
+-!- FUNCTION: The inner membrane transporter component of a
+    constitutive organic solvent efflux system. Involved in export of
+    toluene, styrene, m-xylene, propylbenzene and ethylbenzene. Also
+    exports AMP and the antibiotics carbenicillin, nalidixic acid,
+    chloramphenicol and tetracycline.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- INDUCTION: The ttgABC operon is repressed by toluene; this is
+    mediated by ttgR. The ttgABC operon is induced in response to
+    chloramphenicol and tetracycline.
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+-!- CAUTION: There are 4 nearly identical operons in various strains
+    of P.putida. This one and the mepABC operon of strain KT2442-TOL
+    function in solvent and antibiotic efflux; however the arpABC
+    operon of strain S12 functions only in antibiotic efflux. This may
+    be due to different protein expression levels. In strain KT2440
+    the equivalent operon does not seem to function in toluene efflux.
+Antibiotic resistance; Inner membrane; Membrane; Transmembrane;
+Transport.
+TMTWELVE

@@ -1,0 +1,14 @@
+AC   Q81VS3; Q6I4S7; Q6KYH3;
+50S ribosomal protein L16.
+"The genome sequence of Bacillus anthracis Ames and comparison to
+closely related bacteria.";
+"Bacillus anthracis comparative genomics.";
+"Complete genome sequence of Bacillus anthracis Sterne.";
+-!- FUNCTION: Binds 23S rRNA and is also seen to make contacts with
+    the A and possibly P site tRNAs (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit.
+-!- SIMILARITY: Belongs to the ribosomal protein L16P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding; tRNA-binding.
+TMZERO

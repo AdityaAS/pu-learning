@@ -1,0 +1,16 @@
+AC   P43549;
+Uncharacterized membrane protein YFL054C.
+"Analysis of the nucleotide sequence of chromosome VI from
+Saccharomyces cerevisiae.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+ GO:0005215; F:transporter activity; IMP:SGD.
+Complete proteome; Membrane; Repeat; Transmembrane; Transport.
+TMSIX

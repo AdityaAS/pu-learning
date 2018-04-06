@@ -1,0 +1,44 @@
+AC   P54710; Q53YC1; Q9GZP3; Q9GZQ7;
+Sodium/potassium-transporting ATPase gamma chain (Sodium pump gamma
+chain) (Na+/K+ ATPase subunit gamma) (FXYD domain-containing ion
+transport regulator 2).
+"Cloning and expression of human cDNA encoding Na+, K(+)-ATPase gamma-
+subunit.";
+"Genomic organization of the human FXYD2 gene encoding the gamma
+subunit of the Na,K-ATPase.";
+"Dominant isolated renal magnesium loss is caused by misrouting of the
+Na+,K+-ATPase gamma-subunit.";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May be involved in forming the receptor site for cardiac
+    glycoside binding or may modulate the transport function of the
+    sodium ATPase.
+-!- SUBUNIT: Composed of three subunits: alpha (catalytic), beta and
+    gamma.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type III membrane
+    protein (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=A;
+      IsoId=P54710-1; Sequence=Displayed;
+    Name=2; Synonyms=B;
+      IsoId=P54710-2; Sequence=VSP_001580;
+-!- TISSUE SPECIFICITY: Expressed in the distal convoluted tubule in
+    the kidney. Found on basolateral membranes of nephron epithelial
+    cells.
+-!- DISEASE: Defects in FXYD2 are a cause of dominant renal
+    hypomagnesemia (HOMG2) [MIM:154020].
+-!- SIMILARITY: Belongs to the FXYD family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 12.
+ GO:0005890; C:sodium:potassium-exchanging ATPase complex; NAS:UniProtKB.
+ GO:0005216; F:ion channel activity; NAS:UniProtKB.
+ GO:0005391; F:sodium:potassium-exchanging ATPase activity; TAS:ProtInc.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0006811; P:ion transport; NAS:UniProtKB.
+Alternative splicing; Disease mutation; Ion transport; Membrane;
+Potassium; Potassium transport; Sodium; Sodium transport;
+Sodium/potassium transport; Transmembrane; Transport.
+TMONE

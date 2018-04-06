@@ -1,0 +1,13 @@
+AC   Q9BBP2;
+NAD(P)H-quinone oxidoreductase chain 4L, chloroplast (EC 1.6.5.-)
+(NAD(P)H dehydrogenase, chain 4L) (NADH-plastoquinone oxidoreductase
+chain 4L).
+"Complete structure of the chloroplast genome of a legume, Lotus
+japonicus.";
+-!- CATALYTIC ACTIVITY: NAD(P)H + plastoquinone = NAD(P)(+) +
+    plastoquinol.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the complex I subunit 4L family.
+Chloroplast; NAD; NADP; Oxidoreductase; Plastid; Plastoquinone;
+Quinone.
+TMZERO

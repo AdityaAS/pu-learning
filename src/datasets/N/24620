@@ -1,0 +1,16 @@
+AC   P40171; O86801;
+60 kDa chaperonin 1 (Protein Cpn60 1) (groEL1 protein) (HSP58).
+"Characterization of two groEL genes in Streptomyces coelicolor
+A3(2).";
+"Complete genome sequence of the model actinomycete Streptomyces
+coelicolor A3(2).";
+-!- FUNCTION: Prevents misfolding and promotes the refolding and
+    proper assembly of unfolded polypeptides generated under stress
+    conditions (By similarity).
+-!- SUBUNIT: Oligomer of 14 subunits composed of two stacked rings of
+    7 subunits (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the chaperonin (HSP60) family.
+ GO:0042026; P:protein refolding; IEA:HAMAP.
+ATP-binding; Chaperone; Complete proteome; Nucleotide-binding.
+TMZERO

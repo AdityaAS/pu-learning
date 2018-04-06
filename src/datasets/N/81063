@@ -1,0 +1,48 @@
+AC   Q19289; Q19290; Q21063;
+Intermediate filament protein ifb-1 (Intermediate filament protein B1)
+(IF-B1) (Cel IF B1).
+"Eight genes and alternative RNA processing pathways generate an
+unexpectedly large diversity of cytoplasmic intermediate filament
+proteins in the nematode Caenorhabditis elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"Essential roles for four cytoplasmic intermediate filament proteins
+in Caenorhabditis elegans development.";
+"In vivo and in vitro evidence that the four essential intermediate
+filament (IF) proteins A1, A2, A3 and B1 of the nematode
+Caenorhabditis elegans form an obligate heteropolymeric IF system.";
+"Intermediate filaments are required for C. elegans epidermal
+elongation.";
+-!- FUNCTION: Cytoplasmic intermediate filaments provide mechanical
+    strength to cells. Essential protein, involved in attachment
+    structures in epidermal cells that connect muscles to the external
+    cuticle. Required in morphogenesis and epidermal integrity.
+    Probable component of embryonic epidermal attachment structures.
+    Functions in larval muscle attachment independently of ifa-2.
+-!- SUBUNIT: Forms some heteropolymeric filaments with ifa-1, ifa-2,
+    ifa-3 and probably ifa-4.
+-!- INTERACTION:
+    Q09248:C28H8.12; NbExp=1; IntAct=EBI-316236, EBI-316282;
+    Q9TZ38:gei-4; NbExp=1; IntAct=EBI-316236, EBI-329192;
+    Q8MQ68:klp-11; NbExp=1; IntAct=EBI-316236, EBI-320052;
+    Q27473:nex-3; NbExp=1; IntAct=EBI-316236, EBI-316229;
+    Q9XW79:pph-4.1; NbExp=1; IntAct=EBI-316236, EBI-331742;
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=a; Synonyms=B1b, IFB-1B;
+      IsoId=Q19289-1; Sequence=Displayed;
+    Name=b; Synonyms=B1a IFB-1A;
+      IsoId=Q19289-2; Sequence=VSP_010147;
+-!- TISSUE SPECIFICITY: Expressed in epidermal cells. Expressed in
+    amphid sensory neurons, the excretory cells, the vulva, the
+    uterus, the rectum and some neurons of the tail. Isoform a and
+    isoform b display a similar pattern of expression. Isoform a is
+    predominant in pharyngeal tonofilaments.
+-!- SIMILARITY: Belongs to the intermediate filament family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Alternative splicing; Coiled coil; Complete proteome;
+Intermediate filament.
+TMZERO

@@ -1,0 +1,14 @@
+AC   P0C1I5;
+Peptidyl-prolyl cis-trans isomerase-like 3 (EC 5.2.1.8) (PPIase)
+(Rotamase).
+"The genome sequence of Rhizopus oryzae RA 99-880.";
+-!- FUNCTION: PPIases accelerate the folding of proteins. It catalyzes
+    the cis-trans isomerization of proline imidic peptide bonds in
+    oligopeptides (By similarity).
+-!- CATALYTIC ACTIVITY: Peptidylproline (omega=180) = peptidylproline
+    (omega=0).
+-!- SIMILARITY: Belongs to the cyclophilin-type PPIase family. PPIL3
+    subfamily.
+-!- SIMILARITY: Contains 1 PPIase cyclophilin-type domain.
+Isomerase; Rotamase.
+TMZERO

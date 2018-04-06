@@ -1,0 +1,22 @@
+AC   O35739;
+Krueppel-like factor 9 (Transcription factor BTEB1) (Basic
+transcription element-binding protein 1) (BTE-binding protein 1) (GC
+box-binding protein 1).
+"Transcriptional regulation of the AP-2alpha promoter by BTEB-1 and
+AP-2rep, a novel wt-1/egr-related zinc finger repressor.";
+-!- FUNCTION: Transcription factor that binds to GC box promoter
+    elements. Selectively activates mRNA synthesis from genes
+    containing tandem repeats of GC boxes but represses genes with a
+    single GC box.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the Sp1 C2H2-type zinc-finger protein
+    family.
+-!- SIMILARITY: Contains 3 C2H2-type zinc fingers.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0030528; F:transcription regulator activity; IDA:MGI.
+ GO:0007566; P:embryo implantation; IDA:MGI.
+ GO:0050847; P:progesterone receptor signaling pathway; IDA:MGI.
+ GO:0045449; P:regulation of transcription; IDA:MGI.
+DNA-binding; Metal-binding; Nuclear protein; Repeat; Transcription;
+Transcription regulation; Zinc; Zinc-finger.
+TMZERO

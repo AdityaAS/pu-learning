@@ -1,0 +1,14 @@
+AC   P0A3F8; P05360;
+VirB11 protein.
+"Characterization of the virB operon from an Agrobacterium tumefaciens
+Ti plasmid.";
+"A gene required for transfer of T-DNA to plants encodes an ATPase
+with autophosphorylating activity.";
+-!- FUNCTION: Required for the transfer of T-DNA to plants. Couples
+    energy, by means of ATP hydrolysis, to T-DNA transport.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- PTM: Autophosphorylated.
+-!- SIMILARITY: Belongs to the GSP E family.
+ATP-binding; Crown gall tumor; Nucleotide-binding; Phosphorylation;
+Plasmid; Transport.
+TMZERO

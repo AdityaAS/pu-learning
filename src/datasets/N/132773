@@ -1,0 +1,30 @@
+AC   O24616;
+Proteasome subunit alpha type 7-B (EC 3.4.25.1) (Proteasome subunit
+alpha type 4) (20S proteasome alpha subunit D-2) (Proteasome component
+6B) (Proteasome component 6C).
+"Molecular organization of the 20S proteasome gene family from
+Arabidopsis thaliana.";
+"Structural analysis of Arabidopsis thaliana chromosome 5. V. Sequence
+features of the regions of 1,381,565 bp covered by twenty one
+physically assigned P1 and TAC clones.";
+"The 20S proteasome gene family in Arabidopsis thaliana.";
+"Purification of the Arabidopsis 26 S proteasome: biochemical and
+molecular analyses revealed the presence of multiple isoforms.";
+-!- FUNCTION: The proteasome is a multicatalytic proteinase complex
+    which is characterized by its ability to cleave peptides with Arg,
+    Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or
+    slightly basic pH. The proteasome has an ATP-dependent proteolytic
+    activity.
+-!- CATALYTIC ACTIVITY: Cleavage of peptide bonds with very broad
+    specificity.
+-!- SUBUNIT: The proteasome is composed of at least 15 non identical
+    subunits which form a highly ordered ring-shaped structure. The
+    26S proteasome consisting of a 20S core protease (CP) complex
+    capped at one or both ends by a 19S regulatory particle (RP). The
+    CP has a cylindrical shape composed by 4 heptameric rings made of
+    alpha and beta subunits.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the peptidase T1A family.
+Hydrolase; Nuclear protein; Protease; Proteasome; Threonine protease.
+TMZERO

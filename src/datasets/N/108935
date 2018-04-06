@@ -1,0 +1,14 @@
+AC   Q8Y8E7;
+Glucosamine-6-phosphate deaminase (EC 3.5.99.6) (Glucosamine-6-
+phosphate isomerase) (GNPDA) (GlcN6P deaminase).
+"Comparative genomics of Listeria species.";
+-!- FUNCTION: Catalyzes the reversible isomerization-deamination of
+    glucosamine 6-phosphate (GlcN6P) to form fructose 6-phosphate
+    (Fru6P) and ammonium ion (By similarity).
+-!- CATALYTIC ACTIVITY: D-glucosamine 6-phosphate + H(2)O = D-fructose
+    6-phosphate + NH(3).
+-!- PATHWAY: N-acetylglucosamine utilization.
+-!- SIMILARITY: Belongs to the glucosamine/galactosamine-6-phosphate
+    isomerase family. NagB subfamily.
+Carbohydrate metabolism; Complete proteome; Hydrolase.
+TMZERO

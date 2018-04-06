@@ -1,0 +1,16 @@
+AC   Q96QE2; Q17S07;
+Proton myo-inositol cotransporter (H(+)-myo-inositol cotransporter)
+(Hmit).
+"Identification of a mammalian H(+)-myo-inositol symporter expressed
+predominantly in the brain.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: H(+)-myo-inositol cotransporter. Can also transport
+    related stereoisomers.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Predominantly expressed in the brain.
+-!- PTM: Glycosylated.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Glycoprotein; Membrane; Sugar transport; Transmembrane; Transport.
+TMTWELVE

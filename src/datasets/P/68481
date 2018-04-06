@@ -1,0 +1,10 @@
+AC   Q01440;
+Membrane transporter D1.
+"Molecular characterization of two genes encoding members of the
+glucose transporter superfamily in the parasitic protozoan Leishmania
+donovani.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Membrane; Sugar transport; Transmembrane; Transport.
+TMTWELVE

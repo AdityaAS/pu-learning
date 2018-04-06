@@ -1,0 +1,24 @@
+AC   P31125;
+Probable amino acid metabolite efflux pump.
+"Genetic and functional analysis of the multiple antibiotic resistance
+(mar) locus in Escherichia coli.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of a major facilitator protein from Escherichia coli
+involved in efflux of metabolites of the cysteine pathway.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: May be an export pump for cysteine and other metabolites
+    of the cysteine pathway (such as N-acetyl-L-serine (NAS) and O-
+    acetyl-L-serine (OAS)), and for other amino acids and their
+    metabolites.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the eamA transporter family.
+-!- SIMILARITY: Contains 2 DUF6 domains.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Repeat; Transmembrane; Transport.
+TMTEN

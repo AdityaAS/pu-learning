@@ -1,0 +1,26 @@
+AC   Q9P1Z3; Q4VX12; Q8N6W6; Q9BWQ2;
+Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated
+channel 3.
+"The DNA sequence and biological annotation of human chromosome 1.";
+"Prediction of the coding sequences of unidentified human genes. XVII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Putative hyperpolarization-activated ion channel
+    exhibiting weak selectivity for potassium over sodium ions (By
+    similarity).
+-!- SUBUNIT: The potassium channel is probably composed of a homo- or
+    heterotetrameric complex of pore-forming subunits.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids at
+    every third position.
+-!- SIMILARITY: Belongs to the potassium channel family. HCN
+    subfamily.
+-!- SIMILARITY: Contains 1 cyclic nucleotide-binding domain.
+cAMP; cAMP-binding; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Nucleotide-binding; Potassium; Potassium channel;
+Potassium transport; Sodium; Sodium channel; Sodium transport;
+Transmembrane; Transport; Voltage-gated channel.
+TMSEVEN

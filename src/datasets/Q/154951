@@ -1,0 +1,17 @@
+AC   P10100;
+Rare lipoprotein A precursor.
+"Genes encoding two lipoproteins in the leuS-dacA region of the
+Escherichia coli chromosome.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the rodA gene, responsible for the rod shape
+of Escherichia coli: rodA and the pbpA gene, encoding penicillin-
+binding protein 2, constitute the rodA operon.";
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Probable).
+-!- SIMILARITY: Belongs to the rlpA family.
+Complete proteome; Lipoprotein; Membrane; Palmitate; Signal.
+TMZERO

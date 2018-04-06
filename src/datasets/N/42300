@@ -1,0 +1,19 @@
+AC   Q5HQM8;
+D-alanine--poly(phosphoribitol) ligase subunit 2 (EC 6.1.1.13) (D-
+alanyl carrier protein) (DCP).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Involved in the biosynthesis of D-alanyl-lipoteichoic
+    acid (LTA). Activated D-alanyl-Dcp donates its D-alanyl
+    substituent to membrane-associated LTA (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + D-alanine + poly(ribitol phosphate) =
+    AMP + diphosphate + O-D-alanyl-poly(ribitol phosphate).
+-!- PATHWAY: D-alanyl-lipoteichoic acid biosynthesis.
+-!- PTM: 4'-phosphopantetheine is transferred from CoA to a specific
+    serine of apo-DCP (By similarity).
+-!- SIMILARITY: Contains 1 acyl carrier domain.
+ GO:0047473; F:D-alanine-poly(phosphoribitol) ligase activity; IEA:EC.
+Cell shape; Cell wall; Complete proteome; Ligase; Phosphopantetheine.
+TMZERO

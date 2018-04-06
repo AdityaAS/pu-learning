@@ -1,0 +1,15 @@
+AC   P06545;
+DNA-binding protein (Arginine-rich protein 6.9 kDa) (Basic viral core
+protein) (Nucleocapsid protein).
+"Location, transcription, and sequence of a baculovirus gene encoding
+a small arginine-rich polypeptide.";
+"The complete DNA sequence of Autographa californica nuclear
+polyhedrosis virus.";
+"Nucleotide sequence of a gene essential for viral DNA replication in
+the baculovirus Autographa californica nuclear polyhedrosis virus.";
+-!- FUNCTION: Thought to be responsible for DNA condensation during
+    packaging of the nucleocapsids.
+-!- PTM: Probably phosphorylated in infected cells.
+DNA-binding; Late protein; Phosphorylation; Repeat;
+Viral nucleoprotein; Virion protein.
+TMZERO

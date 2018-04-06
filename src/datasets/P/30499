@@ -1,0 +1,21 @@
+AC   P19516;
+Cytochrome c oxidase assembly protein COX11, mitochondrial precursor.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Cytochrome oxidase assembly in yeast requires the product of COX11, a
+homolog of the P. denitrificans protein encoded by ORF3.";
+"Structure of the yeast ribosomal 5 S RNA-binding protein YL3.";
+-!- FUNCTION: Exerts its effect at some terminal stage of cytochrome c
+    oxidase synthesis, probably by being involved in the insertion of
+    the copper B into subunit I (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+    Note=Intrinsic component of the inner-membrane.
+-!- SIMILARITY: Belongs to the COX11/ctaG family.
+ GO:0005740; C:mitochondrial envelope; IDA:SGD.
+ GO:0005743; C:mitochondrial inner membrane; IDA:SGD.
+ GO:0005761; C:mitochondrial ribosome; IDA:SGD.
+ GO:0005507; F:copper ion binding; IDA:SGD.
+ GO:0009060; P:aerobic respiration; IMP:SGD.
+ GO:0006461; P:protein complex assembly; IMP:SGD.
+Complete proteome; Copper; Membrane; Mitochondrion; Transit peptide;
+Transmembrane.
+TMONE

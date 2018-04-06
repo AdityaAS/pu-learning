@@ -1,0 +1,33 @@
+AC   P0AGD7; P07019; P77007; P77008;
+Signal recognition particle protein (Fifty-four homolog) (p48).
+"The nucleotide sequence of an Escherichia coli operon containing
+genes for the tRNA(m1G)methyltransferase, the ribosomal proteins S16
+and L19 and a 21-K polypeptide.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"E. coli 4.5S RNA is part of a ribonucleoprotein particle that has
+properties related to signal recognition particle.";
+"Signal-sequence recognition by an Escherichia coli ribonucleoprotein
+complex.";
+"The E. coli ffh gene is necessary for viability and efficient protein
+export.";
+"Structure of a methionine-rich segment of Escherichia coli Ffh
+protein.";
+-!- FUNCTION: Necessary for efficient export of extracytoplasmic
+    proteins. Binds to the signal sequence when it emerges from the
+    ribosomes.
+-!- SUBUNIT: Signal recognition particle consists of a 4.5 RNA
+    molecule and protein ffh.
+-!- DOMAIN: The protein has a two domain structure: the G-domain binds
+    GTP; the M-domain binds the RNA and also binds the signal
+    sequence.
+-!- SIMILARITY: Belongs to the GTP-binding SRP family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to a
+    frameshift in position 100.
+3D-structure; Complete proteome; GTP-binding; Nucleotide-binding;
+Ribonucleoprotein; RNA-binding; Signal recognition particle.
+TMZERO

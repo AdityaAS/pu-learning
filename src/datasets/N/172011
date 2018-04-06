@@ -1,0 +1,19 @@
+AC   Q8IWX5; Q8N8Q6;
+Sphingosine-1-phosphate phosphatase 2 (EC 3.1.3.-) (Sphingosine-1-
+phosphatase 2) (SPPase2) (Spp2) (hSPP2).
+"Identification and characterization of a novel human sphingosine-1-
+phosphate phosphohydrolase, hSPP2.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+-!- FUNCTION: In vitro, has high phosphohydrolase activity against
+    dihydrosphingosine-1-phosphate and sphingosine-1-phosphate (S1P).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed strongly in kidney and heart,
+    followed by brain, colon, small intestine and lung.
+-!- SIMILARITY: Belongs to the type 2 lipid phosphate phosphatase
+    family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to the
+    presence of a sequence of unknown origin.
+Endoplasmic reticulum; Hydrolase; Membrane; Transmembrane.
+TMNINE

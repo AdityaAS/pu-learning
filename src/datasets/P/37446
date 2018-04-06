@@ -1,0 +1,28 @@
+AC   P0ABI9; P18401;
+Ubiquinol oxidase subunit 1 (EC 1.10.3.-) (Ubiquinol oxidase
+polypeptide I) (Cytochrome o subunit 1) (Oxidase BO(3) subunit 1)
+(Cytochrome o ubiquinol oxidase subunit 1) (Ubiquinol oxidase chain
+A).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Cytochrome o terminal oxidase complex is the component
+    of the aerobic respiratory chain that predominates when cells are
+    grown at high aeration. This ubiquinol oxidase shows proton pump
+    activity across the membrane in addition to the electron transfer
+    (By similarity).
+-!- CATALYTIC ACTIVITY: Ubiquinol-8 + O(2) = Ubiquinone-8 + H(2)O.
+-!- COFACTOR: Binds 1 copper ion (By similarity).
+-!- COFACTOR: Binds 2 protoheme IX (heme b55 and b562) groups (By
+    similarity).
+-!- SUBUNIT: Heterooctamer of two A chains, two B chains, two C chains
+    and two D chains (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- MISCELLANEOUS: Ubiquinol oxidase catalyzes the terminal step in
+    the electron transport chain.
+-!- SIMILARITY: Belongs to the heme-copper respiratory oxidase family.
+Complete proteome; Copper; Electron transport; Heme;
+Hydrogen ion transport; Inner membrane; Ion transport; Iron; Membrane;
+Metal-binding; Oxidoreductase; Respiratory chain; Transmembrane;
+Transport.
+TMFIFTEEN

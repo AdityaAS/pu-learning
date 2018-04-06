@@ -1,0 +1,12 @@
+AC   Q6NEF5;
+Leucyl-tRNA synthetase (EC 6.1.1.4) (Leucine--tRNA ligase) (LeuRS).
+"The complete genome sequence and analysis of Corynebacterium
+diphtheriae NCTC13129.";
+-!- CATALYTIC ACTIVITY: ATP + L-leucine + tRNA(Leu) = AMP +
+    diphosphate + L-leucyl-tRNA(Leu).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

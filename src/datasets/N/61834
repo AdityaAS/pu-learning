@@ -1,0 +1,16 @@
+AC   P36267;
+Gamma-glutamyltranspeptidase precursor (EC 2.3.2.2) [Contains: Gamma-
+glutamyltransferase large chain; Gamma-glutamyltransferase small
+chain].
+"Molecular cloning of the gamma-glutamyltranspeptidase gene from a
+Pseudomonas strain.";
+-!- CATALYTIC ACTIVITY: (5-L-glutamyl)-peptide + an amino acid =
+    peptide + 5-L-glutamyl amino acid.
+-!- PATHWAY: Sulfur metabolism; glutathione metabolism.
+-!- SUBUNIT: This enzyme consists of two polypeptide chains, which are
+    synthesized in precursor form from a single polypeptide.
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the gamma-glutamyltransferase family.
+Acyltransferase; Direct protein sequencing; Glutathione biosynthesis;
+Periplasmic; Signal; Transferase; Zymogen.
+TMZERO

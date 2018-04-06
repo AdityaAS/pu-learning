@@ -1,0 +1,24 @@
+AC   P52005; P76293;
+Cytochrome c-type protein torY.
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Alternative gene for biotin sulfoxide reduction in Escherichia coli
+K-12.";
+"The torYZ (yecK bisZ) operon encodes a third respiratory
+trimethylamine N-oxide reductase in Escherichia coli.";
+-!- FUNCTION: Part of the anaerobic respiratory chain of
+    trimethylamine-N-oxide reductase torZ. Required for electron
+    transfer to the torZ terminal enzyme.
+-!- INTERACTION:
+    Q9F541:yeaA; NbExp=1; IntAct=EBI-562234, EBI-562227;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein (By similarity).
+-!- PTM: Binds 5 heme groups per subunit (By similarity).
+-!- SIMILARITY: Belongs to the torC/torY family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Electron transport; Heme; Inner membrane; Iron;
+Membrane; Metal-binding; Transmembrane; Transport.
+TMONE

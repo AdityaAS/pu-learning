@@ -1,0 +1,8 @@
+AC   Q3JNG3;
+Probable (di)nucleoside polyphosphate hydrolase (EC 3.6.1.-).
+-!- FUNCTION: Hydrolyzes diadenosine polyphosphate (By similarity).
+-!- COFACTOR: Divalent ions (By similarity).
+-!- SIMILARITY: Belongs to the Nudix hydrolase family. NudH subfamily.
+ GO:0016818; F:hydrolase activity, acting on acid anhydrid...; IEA:HAMAP.
+Complete proteome; Hydrolase.
+TMZERO

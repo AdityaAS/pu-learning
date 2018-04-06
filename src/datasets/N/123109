@@ -1,0 +1,19 @@
+AC   Q9JK42;
+[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 2, mitochondrial
+precursor (EC 2.7.11.2) (Pyruvate dehydrogenase kinase isoform 2).
+"Mus musculus pyruvate dehydrogenase kinase 2 cDNA.";
+-!- FUNCTION: Inhibits the mitochondrial pyruvate dehydrogenase
+    complex by phosphorylation of the E1 alpha subunit, thus
+    contributing to the regulation of glucose metabolism.
+-!- CATALYTIC ACTIVITY: ATP + [pyruvate dehydrogenase (acetyl-
+    transferring)] = ADP + [pyruvate dehydrogenase (acetyl-
+    transferring)] phosphate.
+-!- INTERACTION:
+    O08908:Pik3r2; NbExp=2; IntAct=EBI-643530, EBI-643570;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix.
+-!- SIMILARITY: Belongs to the PDK/BCKDK protein kinase family.
+-!- SIMILARITY: Contains 1 histidine kinase domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Carbohydrate metabolism; Glucose metabolism; Kinase; Mitochondrion;
+Transferase; Transit peptide.
+TMZERO

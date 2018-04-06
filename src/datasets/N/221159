@@ -1,0 +1,20 @@
+AC   P38139;
+Putative peroxisomal lipase in CDC47-KTR3 intergenic region
+(EC 3.1.1.-).
+"A 12.8 kb segment, on the right arm of chromosome II from
+Saccharomyces cerevisiae including part of the DUR1,2 gene, contains
+five putative new genes.";
+"Complete DNA sequence of yeast chromosome II.";
+-!- CATALYTIC ACTIVITY: Triacylglycerol + H(2)O = diacylglycerol + a
+    fatty acid anion.
+-!- INTERACTION:
+    Self; NbExp=1; IntAct=EBI-20951, EBI-20951;
+    P10592:SSA2; NbExp=1; IntAct=EBI-20951, EBI-8603;
+-!- SUBCELLULAR LOCATION: Peroxisome (Potential).
+-!- SIMILARITY: Belongs to the AB hydrolase superfamily. Lipase
+    family.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+ GO:0017171; F:serine hydrolase activity; IDA:SGD.
+Complete proteome; Hydrolase; Hypothetical protein; Lipid degradation;
+Peroxisome.
+TMZERO

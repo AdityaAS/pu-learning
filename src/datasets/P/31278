@@ -1,0 +1,32 @@
+AC   P10174;
+Cytochrome c oxidase subunit 7 (EC 1.9.3.1) (Cytochrome c oxidase
+polypeptide VII).
+"Yeast cytochrome c oxidase subunit VII is essential for assembly of
+an active enzyme. Cloning, sequencing, and characterization of the
+nuclear-encoded gene.";
+"Nucleotide sequence of the gene encoding cytochrome c oxidase subunit
+VII from Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"The nuclear-coded subunits of yeast cytochrome c oxidase. The amino
+acid sequences of subunits VII and VIIa, structural similarities
+between the three smallest polypeptides of the holoenzyme, and
+implications for biogenesis.";
+"Kinetic properties and ligand binding of the eleven-subunit
+cytochrome-c oxidase from Saccharomyces cerevisiae isolated with a
+novel large-scale purification method.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBUNIT: Cytochrome c oxidase is composed of 11 subunits: one copy
+    each of COX1, COX2, COX3, COX4, COX5A or COX5B, COX6, COX7, COX9,
+    COX12, COX13 and two copies of COX8.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- MISCELLANEOUS: Present with 639 molecules/cell.
+ GO:0005751; C:respiratory chain complex IV (sensu Eukaryota); IPI:SGD.
+ GO:0006123; P:mitochondrial electron transport, cytochrom...; IDA:SGD.
+Complete proteome; Direct protein sequencing; Membrane; Mitochondrion;
+Oxidoreductase; Transmembrane.
+TMONE

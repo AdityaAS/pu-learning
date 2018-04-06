@@ -1,0 +1,61 @@
+AC   O74700;
+Mitochondrial import inner membrane translocase subunit TIM9.
+"Tim9p, an essential partner subunit of Tim10p for the import of
+mitochondrial carrier proteins.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Tim9, a new component of the TIM22.54 translocase in mitochondria.";
+"The structural basis of the TIM10 chaperone assembly.";
+"Transport of the ADP/ATP carrier of mitochondria from the TOM complex
+to the TIM22.54 complex.";
+"Two intermembrane space TIM complexes interact with different domains
+of Tim23p during its import into mitochondria.";
+"Functional reconstitution of the import of the yeast ADP/ATP carrier
+mediated by the TIM10 complex.";
+"The essential function of the small Tim proteins in the TIM22 import
+pathway does not depend on formation of the soluble 70-kilodalton
+complex.";
+"The Tim9p-Tim10p complex binds to the transmembrane domains of the
+ADP/ATP carrier.";
+"Assembly of Tim9 and Tim10 into a functional chaperone.";
+"Mitochondrial import of the ADP/ATP carrier: the essential TIM
+complex of the intermembrane space is required for precursor release
+from the TOM complex.";
+"The role of Tim9p in the assembly of the TIM22 import complexes.";
+"Biogenesis of the protein import channel Tom40 of the mitochondrial
+outer membrane: intermembrane space components are involved in an
+early stage of the assembly pathway.";
+"Distinct domains of small Tims involved in subunit interaction and
+substrate recognition.";
+-!- FUNCTION: Mitochondrial intermembrane chaperone that participates
+    in the import and insertion of multi-pass transmembrane proteins
+    into the mitochondrial inner membrane. Also required for the
+    transfer of beta-barrel precursors from the TOM complex to the
+    sorting and assembly machinery (SAM complex) of the outer
+    membrane. Acts as a chaperone-like protein that protects the
+    hydrophobic precursors from aggregation and guide them through the
+    mitochondrial intermembrane space. Compared to TIM10, it may have
+    a strong structural role.
+-!- SUBUNIT: Heterohexamer; composed of 3 copies of TIM9 and 3 copies
+    of TIM10, named soluble 70 kDa complex. Associates with the TIM12
+    component of the TIM22 complex, whose core is composed of TIM18,
+    TIM22 and TIM54. Interacts with the transmembrane regions of
+    multi-pass transmembrane proteins in transit.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    peripheral membrane protein; intermembrane side.
+-!- DOMAIN: The twin CX3C motif contains 4 conserved Cys residues that
+    form 2 disulfide bonds in the mitochondrial intermembrane space.
+    However, during the transit of TIM9 from cytoplasm into
+    mitochondrion, the Cys residues probably coordinate zinc, thereby
+    preventing folding and allowing its transfer across mitochondrial
+    outer membrane (Probable).
+-!- SIMILARITY: Belongs to the small Tim family.
+ GO:0042719; C:mitochondrial intermembrane space protein t...; IDA:SGD.
+ GO:0008565; F:protein transporter activity; IGI:SGD.
+ GO:0051082; F:unfolded protein binding; IDA:SGD.
+ GO:0045039; P:protein import into mitochondrial inner mem...; IGI:SGD.
+Chaperone; Complete proteome; Direct protein sequencing;
+Inner membrane; Membrane; Metal-binding; Mitochondrion;
+Protein transport; Translocation; Transport; Zinc.
+TMZERO

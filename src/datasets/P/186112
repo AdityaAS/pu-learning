@@ -1,0 +1,21 @@
+AC   P23054;
+Tetracycline resistance protein.
+"Nucleotide sequence homology of the tetracycline-resistance
+determinant naturally maintained in Bacillus subtilis Marburg 168
+chromosome and the tetracycline-resistance gene of B. subtilis plasmid
+pNS1981.";
+"Systematic sequencing of the 180 kilobase region of the Bacillus
+subtilis chromosome containing the replication origin.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Resistance to tetracycline by an active tetracycline
+    efflux. This is an energy-dependent process that decreases the
+    accumulation of the antibiotic in whole cells. This protein
+    functions as a metal-tetracycline/H(+) antiporter.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. TCR/tet
+    family.
+Antibiotic resistance; Antiport; Complete proteome;
+Hydrogen ion transport; Ion transport; Membrane; Transmembrane;
+Transport.
+TMTWELVE

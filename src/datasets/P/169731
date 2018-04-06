@@ -1,0 +1,18 @@
+AC   P28573;
+Sodium-dependent proline transporter (Solute carrier family 6 member
+7).
+"Molecular cloning and expression of a high affinity L-proline
+transporter expressed in putative glutamatergic pathways of rat
+brain.";
+-!- FUNCTION: Terminates the action of proline by its high affinity
+    sodium-dependent reuptake into presynaptic terminals.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in subpopulations of putative
+    glutamatergic pathways of rat brain.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+ GO:0015193; F:L-proline transporter activity; IDA:RGD.
+ GO:0015824; P:proline transport; IDA:RGD.
+Amino-acid transport; Glycoprotein; Membrane;
+Neurotransmitter transport; Symport; Transmembrane; Transport.
+TMTWELVE

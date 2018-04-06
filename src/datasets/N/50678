@@ -1,0 +1,11 @@
+AC   Q01797;
+Escargot/snail protein homolog (Fragment).
+"Evolutionary conservation pattern of zinc-finger domains of
+Drosophila segmentation genes.";
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- SIMILARITY: Belongs to the snail C2H2-type zinc-finger protein
+    family.
+-!- SIMILARITY: Contains at least 4 C2H2-type zinc fingers.
+DNA-binding; Metal-binding; Nuclear protein; Repeat; Zinc;
+Zinc-finger.
+TMZERO

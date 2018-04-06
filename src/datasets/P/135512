@@ -1,0 +1,51 @@
+AC   P20166; P08875;
+PTS system glucose-specific EIICBA component (EIICBA-Glc) (EII-
+Glc/EIII-Glc) [Includes: Glucose permease IIC component (PTS system
+glucose-specific EIIC component); Glucose-specific phosphotransferase
+enzyme IIB component (EC 2.7.1.69) (PTS system glucose-specific EIIB
+component); Glucose-specific phosphotransferase enzyme IIA component
+(EC 2.7.1.-) (PTS system glucose-specific EIIA component)].
+"Cloning and nucleotide sequence of the ptsG gene of Bacillus
+subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Phosphoenolpyruvate:sugar phosphotransferase system of Bacillus
+subtilis: nucleotide sequence of ptsX, ptsH and the 5'-end of ptsI and
+evidence for a ptsHI operon.";
+"The glucose permease of the phosphotransferase system of Bacillus
+subtilis: evidence for IIGlc and IIIGlc domains.";
+"The glucose permease of Bacillus subtilis is a single polypeptide
+chain that functions to energize the sucrose permease.";
+"Structure of the IIA domain of the glucose permease of Bacillus
+subtilis at 2.2-A resolution.";
+"Polypeptide backbone resonance assignments and secondary structure of
+Bacillus subtilis enzyme IIIglc determined by two-dimensional and
+three-dimensional heteronuclear NMR spectroscopy.";
+"High-resolution solution structure of Bacillus subtilis IIAglc.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in glucose transport.
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-1 domain.
+3D-structure; Complete proteome; Kinase; Membrane; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase;
+Transmembrane; Transport.
+TMELEVEN

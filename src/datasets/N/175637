@@ -1,0 +1,21 @@
+AC   O04933;
+Sucrose-phosphate synthase 2 (EC 2.4.1.14) (UDP-glucose-fructose-
+phosphate glucosyltransferase 2).
+"Analysis of cDNA clones encoding sucrose-phosphate synthase in
+relation to sugar interconversions associated with dehydration in the
+resurrection plant Craterostigma plantagineum Hochst.";
+-!- FUNCTION: Involved in the regulation of carbon partitioning in the
+    leaves of plants. May regulate the synthesis of sucrose and
+    therefore play a major role as a limiting factor in the export of
+    photoassimilates out of the leaf.
+-!- CATALYTIC ACTIVITY: UDP-glucose + D-fructose 6-phosphate = UDP +
+    sucrose 6-phosphate.
+-!- ENZYME REGULATION: Activity regulated by phosphorylation and
+    moderated by concentration of metabolites and light.
+-!- PATHWAY: Sucrose synthesis.
+-!- SUBUNIT: Homodimer or homotetramer (By similarity).
+-!- PTM: Phosphorylated. However, phosphorylation is not essential for
+    enzyme function (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 1 family.
+Glycosyltransferase; Phosphorylation; Transferase.
+TMZERO

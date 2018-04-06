@@ -1,0 +1,21 @@
+AC   Q5DTJ9; Q7TPW5; Q8BZ76;
+Myopalladin.
+"Prediction of the coding sequences of mouse homologues of KIAA gene.
+The complete nucleotide sequences of mouse KIAA-homologous cDNAs
+identified by screening of terminal sequences of cDNA clones randomly
+sampled from size-fractionated libraries.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Component of the sarcomere that tethers together nebulin
+    (skeletal muscle) and nebulette (cardiac muscle) to alpha-actinin,
+    at the Z lines (By similarity).
+-!- SUBUNIT: Interacts with TTN/titin, NEB, NEBL, ACTN2 and CARP (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus (By similarity).
+    Note=Bound to sarcomere both at the Z-line periphery and in the
+    central I-band region.
+-!- SIMILARITY: Contains 5 Ig-like (immunoglobulin-like) domains.
+Actin-binding; Coiled coil; Immunoglobulin domain; Nuclear protein;
+Phosphorylation; Repeat.
+TMZERO

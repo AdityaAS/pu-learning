@@ -1,0 +1,17 @@
+AC   Q8R5U4;
+Putative threonine-phosphate decarboxylase (EC 4.1.1.81) (L-threonine-
+O-3-phosphate decarboxylase).
+"A complete sequence of the T. tengcongensis genome.";
+-!- FUNCTION: Decarboxylates L-threonine-O-3-phosphate to yield (R)-1-
+    amino-2-propanol O-2-phosphate, the precursor for the linkage
+    between the nucleotide loop and the corrin ring in cobalamin (By
+    similarity).
+-!- CATALYTIC ACTIVITY: L-threonine O-3-phosphate = (R)-1-aminopropan-
+    2-yl phosphate + CO(2).
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; adenosylcobalamin biosynthesis.
+-!- SIMILARITY: Belongs to the class-II pyridoxal-phosphate-dependent
+    aminotransferase family.
+ GO:0048472; F:threonine-phosphate decarboxylase activity; IEA:EC.
+Cobalamin biosynthesis; Complete proteome; Lyase; Pyridoxal phosphate.
+TMZERO

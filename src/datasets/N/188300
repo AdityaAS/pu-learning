@@ -1,0 +1,13 @@
+AC   O24924;
+Threonine synthase (EC 4.2.3.1).
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+-!- CATALYTIC ACTIVITY: O-phospho-L-homoserine + H(2)O = L-threonine +
+    phosphate.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-threonine biosynthesis; L-
+    threonine from L-aspartate: step 5 [final step].
+-!- SIMILARITY: Belongs to the serine/threonine dehydratase family.
+Amino-acid biosynthesis; Complete proteome; Lyase;
+Pyridoxal phosphate; Threonine biosynthesis.
+TMZERO

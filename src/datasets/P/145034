@@ -1,0 +1,30 @@
+AC   P27125; Q2M8K4;
+L-rhamnose-proton symporter (L-rhamnose-H(+) transport protein).
+"Mapping, cloning, expression, and sequencing of the rhaT gene, which
+encodes a novel L-rhamnose-H+ transport protein in Salmonella
+typhimurium and Escherichia coli.";
+"Nucleotide sequence of the rhaR-sodA interval specifying rhaT in
+Escherichia coli.";
+"Analysis of the Escherichia coli genome. III. DNA sequence of the
+region from 87.2 to 89.2 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Membrane topology of the L-rhamnose-H+ transport protein (RhaT) from
+enterobacteria.";
+"Transcriptional regulation of the Escherichia coli rhaT gene.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Uptake of L-rhamnose across the boundary membrane with
+    the concomitant transport of protons into the cell (symport
+    system). Can also transport L-mannose and L-xylose, but at reduced
+    rates.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Induced by L-rhamnose via the rhaR-rhaS regulatory
+    cascade. Also induced by L-mannose or L-xylose.
+-!- SIMILARITY: Belongs to the L-rhamnose transporter (TC 2.A.7.6)
+    family.
+Complete proteome; Inner membrane; Membrane; Sugar transport; Symport;
+Transmembrane; Transport.
+TMTEN

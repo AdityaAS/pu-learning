@@ -1,0 +1,72 @@
+AC   P31414; O80390; Q41919; Q41920; Q56WP6; Q8RY20; Q8VZE3;
+Pyrophosphate-energized vacuolar membrane proton pump 1 (EC 3.6.1.1)
+(Pyrophosphate-energized inorganic pyrophosphatase 1) (H(+)-PPase 1)
+(Vacuolar proton pyrophosphatase 1) (Vacuolar proton pyrophosphatase
+3).
+"Molecular cloning and sequence of cDNA encoding the pyrophosphate-
+energized vacuolar membrane proton pump of Arabidopsis thaliana.";
+"Pollen-specific regulation of vacuolar H(+)-PPase expression by
+multiple cis-acting elements.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"An inventory of 1152 expressed sequence tags obtained by partial
+sequencing of cDNAs from Arabidopsis thaliana.";
+"Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+"Localization of cytosolically oriented maleimide-reactive domain of
+vacuolar H(+)-pyrophosphatase.";
+"Heterologous expression of plant vacuolar pyrophosphatase in yeast
+demonstrates sufficiency of the substrate-binding subunit for proton
+transport.";
+"Site-directed mutagenesis of vacuolar H(+)-pyrophosphatase. Necessity
+of Cys634 for inhibition by maleimides but not catalysis.";
+"Acidic residues necessary for pyrophosphate-energized pumping and
+inhibition of the vacuolar H(+)-pyrophosphatase by N,N'-
+dicyclohexylcarbodiimide.";
+"AVP2, a sequence-divergent, K(+)-insensitive H(+)-translocating
+inorganic pyrophosphatase from Arabidopsis.";
+"Drought- and salt-tolerant plants result from overexpression of the
+AVP1 H(+)-pump.";
+"Arabidopsis CAMTA family proteins enhance V-PPase expression in
+pollen.";
+"Isolation of intact vacuoles and proteomic analysis of tonoplast from
+suspension-cultured cells of Arabidopsis thaliana.";
+"Arabidopsis H(+)-PPase AVP1 regulates auxin-mediated organ
+development.";
+-!- FUNCTION: Contributes to the transtonoplast (from cytosol to
+    vacuole lumen) H(+)-electrochemical potential difference. It
+    establishes a proton gradient of similar and often greater
+    magnitude than the H(+)-ATPase on the same membrane. In addition,
+    facilitates auxin transport by modulating apoplastic pH and
+    regulates auxin-mediated developmental processes. Confers
+    tolerance to NaCl and to drought by increasing ion retention.
+-!- CATALYTIC ACTIVITY: Diphosphate + H(2)O = 2 phosphate.
+-!- ENZYME REGULATION: Activated by K(+) and Mg(2+). Inhibited by
+    Ca(2+), N,N'-dicyclohexylcarbodiimide (DCCD), N-ethylmaleimide
+    (NEM) and aminomethylenediphosphonate (AMDP), and, to a lower
+    extent, by fluoride (KF).
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=110 uM for PPi (at pH 8 and 37 degrees Celsius);
+      Vmax=0.5 umol/min/mg enzyme (at pH 8 and 37 degrees Celsius);
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein. Endosome; endosomal membrane; multi-pass
+    membrane protein. Cell membrane; multi-pass membrane protein.
+    Note=Mostly vacuolar, tonoplast. Also present in endosomes and
+    plasma membrane.
+-!- TISSUE SPECIFICITY: Ubiquitous (at protein level). Mostly
+    expressed in vascular tissues, meristems and root pericycle.
+-!- DEVELOPMENTAL STAGE: Increase of expression in pollen during
+    flower development. Expressed in developing leaves, sepals,
+    petals, stamens and carpels.
+-!- INDUCTION: Repressed by light. Induced by CAMTA1 and/or CAMTA5 in
+    pollen.
+-!- SIMILARITY: Belongs to the H(+)-translocating pyrophosphatase
+    (TC 3.A.10) family. Type 1 subfamily.
+-!- CAUTION: Ref.5 (CAA79039) sequence differs from that shown due to
+    a frameshift in position 718.
+Direct protein sequencing; Hydrogen ion transport; Hydrolase;
+Ion transport; Magnesium; Membrane; Transmembrane; Transport; Vacuole.
+TMTHIRTEEN

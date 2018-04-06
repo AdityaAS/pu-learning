@@ -1,0 +1,14 @@
+AC   P0AD97; P02917; P76698; Q8CVL7; Q8X6S2;
+Leu/Ile/Val-binding protein precursor (LIV-BP).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: This protein is a component of the leucine, isoleucine,
+    valine, (threonine) transport system, which is one of the two
+    periplasmic binding protein-dependent transport systems of the
+    high-affinity transport of the branched-chain amino acids (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the leucine-binding protein family.
+Amino-acid transport; Complete proteome; Periplasmic; Signal;
+Transport.
+TMZERO

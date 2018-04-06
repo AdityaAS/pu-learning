@@ -1,0 +1,24 @@
+AC   O53832;
+Phosphate import ATP-binding protein pstB 1 (EC 3.6.3.27) (Phosphate-
+transporting ATPase 1) (ABC phosphate transporter 1).
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+-!- FUNCTION: Part of the ABC transporter complex pstSACB involved in
+    phosphate import. Responsible for energy coupling to the transport
+    system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + phosphate(Out) = ADP + phosphate
+    + phosphate(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (pstB), two transmembrane proteins (pstC and pstA) and a solute-
+    binding protein (pstS) (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Phosphate
+    importer (TC 3.A.1.7) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0015415; F:phosphate-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Membrane;
+Nucleotide-binding; Phosphate transport; Transport.
+TMZERO

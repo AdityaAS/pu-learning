@@ -1,0 +1,12 @@
+AC   Q05809;
+Uncharacterized protein YLR218C.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- MISCELLANEOUS: Present with 907 molecules/cell.
+-!- SIMILARITY: Contains 1 CHCH domain.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+Complete proteome; Nuclear protein.
+TMZERO

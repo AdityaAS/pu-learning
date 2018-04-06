@@ -1,0 +1,18 @@
+AC   O30198;
+Cobalamin synthase 1 (EC 2.-.-.-).
+"The complete genome sequence of the hyperthermophilic, sulphate-
+reducing archaeon Archaeoglobus fulgidus.";
+-!- FUNCTION: Joins Ado-cobinamide-GDP and alpha-ribazole to generate
+    adenosylcobalamin (Ado-cobalamin) (By similarity).
+-!- CATALYTIC ACTIVITY: GDP-cobinamide + alpha-ribazole = cobalamin +
+    GMP.
+-!- PATHWAY: Cofactor biosynthesis; adenosylcobalamin biosynthesis;
+    adenosylcobalamin from cob(II)yrinic acid a,c-diamide: step 7
+    [final step].
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the cobS family.
+ GO:0015420; F:cobalamin-transporting ATPase activity; IEA:HAMAP.
+Cobalamin biosynthesis; Complete proteome; Membrane; Transferase;
+Transmembrane.
+TMFIVE

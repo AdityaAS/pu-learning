@@ -1,0 +1,71 @@
+AC   P70502; Q8R008; Q8R4J0; Q8R4J1; Q8R4J2; Q8R4J3; Q8R4J4; Q8R4J5;
+AC   Q8R4J6; Q8R4J7; Q8R4J8; Q8R4J9; Q8R4K0; Q8R4K1; Q9WTM0;
+Solute carrier organic anion transporter family member 1A3 (Solute
+carrier family 21 member 4) (Sodium-independent organic anion
+transporter K1) (OAT-K1) (OAT-K2) (rOAT-K).
+"Cloning and functional characterization of a novel rat organic anion
+transporter mediating basolateral uptake of methotrexate in the
+kidney.";
+"Cloning and functional characterization of a new multispecific
+organic anion transporter, OAT-K2, in rat kidney.";
+"Cloning and tissue-specific expression of spliced variants of the rat
+organic anion transporter (rOAT-K).";
+-!- FUNCTION: Mediates the Na(+)-independent transport of organic
+    anions such as methotrexate, taurocholate, folate and
+    prostaglandin E2. May contribute to renal secretion and/or
+    reabsorption of hydrophobic anionic compounds. Mediates renal
+    clearance of methotrexate from the blood.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=15;
+    Name=1;
+      IsoId=P70502-1; Sequence=Displayed;
+    Name=2; Synonyms=K1;
+      IsoId=P70502-2; Sequence=VSP_006143, VSP_006145;
+    Name=3; Synonyms=K5;
+      IsoId=P70502-3; Sequence=VSP_006133, VSP_006143, VSP_006145;
+    Name=4; Synonyms=K6;
+      IsoId=P70502-4; Sequence=VSP_006143, VSP_006144;
+    Name=5; Synonyms=K14;
+      IsoId=P70502-5; Sequence=VSP_006134, VSP_006140, VSP_006143,
+                               VSP_006145;
+    Name=6; Synonyms=K3;
+      IsoId=P70502-6; Sequence=VSP_006133, VSP_006143, VSP_006144;
+    Name=7; Synonyms=K8;
+      IsoId=P70502-7; Sequence=VSP_006135, VSP_006141, VSP_006143,
+                               VSP_006145;
+    Name=8; Synonyms=K2;
+      IsoId=P70502-8; Sequence=VSP_006136, VSP_006143, VSP_006145;
+    Name=9; Synonyms=K4, K13;
+      IsoId=P70502-9; Sequence=VSP_006139, VSP_006146;
+    Name=10; Synonyms=K12;
+      IsoId=P70502-10; Sequence=VSP_006137, VSP_006143, VSP_006144;
+    Name=11; Synonyms=K7;
+      IsoId=P70502-11; Sequence=VSP_006136, VSP_006143, VSP_006144;
+    Name=12; Synonyms=K11;
+      IsoId=P70502-12; Sequence=VSP_006135, VSP_006141, VSP_006143,
+                                VSP_006144;
+    Name=13; Synonyms=K2;
+      IsoId=P70502-13; Sequence=VSP_006138, VSP_006142, VSP_006143,
+                                VSP_006145;
+    Name=14; Synonyms=K9;
+      IsoId=P70502-14; Sequence=VSP_006137, VSP_006143, VSP_006145;
+    Name=15; Synonyms=K10;
+      IsoId=P70502-15; Sequence=VSP_006134, VSP_006140, VSP_006143,
+                                VSP_006144;
+-!- TISSUE SPECIFICITY: All isoforms are detected in kidney, and many
+    are kidney specific. Isoforms 2 and 13 are also detected in liver.
+    Isoforms 4 and 9/K4 are ubiquitous, but isoform 9/K13 is kidney
+    specific. Isoforms 5 and 14 are detected in all tissues tested,
+    with the exception of pancreas and spleen. Isoforms 11 and 15 are
+    detected in kidney, pancreas and testis. Isoform 7 is detected in
+    kidney, liver, testis and spleen.
+-!- SIMILARITY: Belongs to the organo anion transporter (TC 2.A.60)
+    family.
+ GO:0015350; F:methotrexate transporter activity; IDA:RGD.
+ GO:0008514; F:organic anion transporter activity; TAS:RGD.
+ GO:0015893; P:drug transport; IDA:RGD.
+ GO:0015711; P:organic anion transport; TAS:RGD.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Transmembrane; Transport.
+TMTEN

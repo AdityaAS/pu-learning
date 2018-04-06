@@ -1,0 +1,17 @@
+AC   Q9C169; Q7RV04;
+Catalase-3 precursor (EC 1.11.1.6).
+"Regulation and oxidation of two large monofunctional catalases.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: Occurs in almost all aerobically respiring organisms and
+    serves to protect cells from the toxic effects of hydrogen
+    peroxide (By similarity).
+-!- CATALYTIC ACTIVITY: 2 H(2)O(2) = O(2) + 2 H(2)O.
+-!- COFACTOR: Heme group.
+-!- DEVELOPMENTAL STAGE: Activity is predominant during late
+    exponential growth and at the start of the conidiation process.
+-!- INDUCTION: Induced under stress conditions, such as H(2)O(2),
+    paraquat, cadmium, heat shock, uric acid and nitrate treatment.
+-!- SIMILARITY: Belongs to the catalase family.
+Direct protein sequencing; Heme; Hydrogen peroxide; Iron;
+Metal-binding; Oxidoreductase; Peroxidase; Signal.
+TMZERO

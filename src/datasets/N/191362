@@ -1,0 +1,24 @@
+AC   Q9QZM4; Q9JJL5; Q9JJL6;
+Tumor necrosis factor receptor superfamily member 10B precursor (Death
+receptor 5) (MK).
+"Molecular cloning and functional analysis of the mouse homologue of
+the KILLER/DR5 tumor necrosis factor-related apoptosis-inducing ligand
+(TRAIL) death receptor.";
+"Mouse TRAIL receptor.";
+-!- FUNCTION: Receptor for the cytotoxic ligand TNFSF10/TRAIL. The
+    adapter molecule FADD recruits caspase-8 to the activated
+    receptor. The resulting death-inducing signaling complex (DISC)
+    performs caspase-8 proteolytic activation which initiates the
+    subsequent cascade of caspases (aspartate-specific cysteine
+    proteases) mediating apoptosis. Promotes the activation of NF-
+    kappa-B.
+-!- SUBUNIT: Homotrimer. Can interact with TRADD and RIP (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Highly expressed in heart, lung and kidney.
+-!- INDUCTION: TNFRSF10B is regulated by the tumor suppressor p53.
+-!- SIMILARITY: Contains 1 death domain.
+-!- SIMILARITY: Contains 3 TNFR-Cys repeats.
+Apoptosis; Membrane; Receptor; Repeat; Signal; Transmembrane.
+TMONE

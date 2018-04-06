@@ -1,0 +1,21 @@
+AC   P78619; Q5AQU1;
+Catalase B precursor (EC 1.11.1.6).
+"Two divergent catalase genes are differentially regulated during
+Aspergillus nidulans development and oxidative stress.";
+"Sequencing of Aspergillus nidulans and comparative analysis with A.
+fumigatus and A. oryzae.";
+-!- FUNCTION: Occurs in almost all aerobically respiring organisms and
+    serves to protect cells from the toxic effects of hydrogen
+    peroxide.
+-!- CATALYTIC ACTIVITY: 2 H(2)O(2) = O(2) + 2 H(2)O.
+-!- COFACTOR: Heme group.
+-!- DEVELOPMENTAL STAGE: Barely detectable in asexual spores
+    (conidia), disappears after germination, and starts to accumulate
+    10 hours after spore inoculation, throughout growth and
+    conidiation.
+-!- INDUCTION: By hydrogen peroxide, heat shock, paraquat, or uric
+    acid catabolism but not by osmotic stress.
+-!- SIMILARITY: Belongs to the catalase family.
+Heme; Hydrogen peroxide; Iron; Metal-binding; Oxidoreductase;
+Peroxidase; Signal.
+TMZERO

@@ -1,0 +1,23 @@
+AC   Q96KC8;
+DnaJ homolog subfamily C member 1.
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear membrane; multi-pass
+    membrane protein. Microsome; microsomal membrane; multi-pass
+    membrane protein (By similarity).
+-!- SIMILARITY: Contains 1 J domain.
+-!- SIMILARITY: Contains 1 Myb DNA-binding domain.
+ GO:0005783; C:endoplasmic reticulum; ISS:UniProtKB.
+ GO:0005788; C:endoplasmic reticulum lumen; ISS:UniProtKB.
+ GO:0016021; C:integral to membrane; ISS:UniProtKB.
+ GO:0005792; C:microsome; ISS:UniProtKB.
+ GO:0005634; C:nucleus; ISS:UniProtKB.
+ GO:0001671; F:ATPase stimulator activity; TAS:UniProtKB.
+ GO:0030192; F:Hsp70/Hsc70 protein regulator activity; TAS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0043022; F:ribosome binding; ISS:UniProtKB.
+ GO:0045861; P:negative regulation of proteolysis; TAS:UniProtKB.
+ GO:0050708; P:regulation of protein secretion; IDA:UniProtKB.
+3D-structure; Chaperone; DNA-binding; Endoplasmic reticulum; Membrane;
+Microsome; Nuclear protein; Transmembrane.
+TMTWO

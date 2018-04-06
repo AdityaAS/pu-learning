@@ -1,0 +1,54 @@
+AC   P18577; Q02163; Q02164; Q02165; Q16160; Q9UEC2; Q9UEC3;
+Blood group Rh(CE) polypeptide (Rhesus C/E antigens) (Rh30A) (RhIXB)
+(Rh polypeptide 1) (RhPI) (CD240CE antigen).
+"Molecular cloning and protein structure of a human blood group Rh
+polypeptide.";
+"cDNA cloning of a 30 kDa erythrocyte membrane protein associated with
+Rh (Rhesus)-blood-group-antigen expression.";
+"Isolation of a new cDNA clone encoding an Rh polypeptide associated
+with the Rh blood group system.";
+"Multiple Rh messenger RNA isoforms are produced by alternative
+splicing.";
+"The serological profile and molecular basis of the RhE variants
+(RhEFM and RhEKH) in Japanese.";
+"Organization of the gene (RHCE) encoding the human blood group RhCcEe
+antigens and characterization of the promoter region.";
+"Protein-sequence studies on Rh-related polypeptides suggest the
+presence of at least two groups of proteins which associate in the
+human red-cell membrane.";
+"Determination of the N-terminal sequence of human red cell Rh(D)
+polypeptide and demonstration that the Rh(D), (c), and (E) antigens
+are carried by distinct polypeptide chains.";
+"Regarding the size of Rh proteins.";
+"Molecular genetic basis of the human Rhesus blood group system.";
+-!- FUNCTION: May be part of an oligomeric complex which is likely to
+    have a transport or channel function in the erythrocyte membrane.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=RHI;
+      IsoId=P18577-1; Sequence=Displayed;
+    Name=RHIV;
+      IsoId=P18577-2; Sequence=VSP_005703, VSP_005704;
+    Name=RHVI;
+      IsoId=P18577-3; Sequence=VSP_005702, VSP_005705;
+    Name=RHVIII;
+      IsoId=P18577-4; Sequence=VSP_005701;
+-!- TISSUE SPECIFICITY: Restricted to tissues or cell lines expressing
+    erythroid characters.
+-!- POLYMORPHISM: RhCE and RhD are responsible for the RH blood group
+    system. The molecular basis of the E=Rh3/e=Rh5 blood group
+    antigens is a single variation in position 225; Pro-225
+    corresponds to Rh3 and Ala-225 to Rh5. The molecular basis of the
+    C=Rh2/c=Rh4 blood group antigens is a single variation in position
+    102; Ser-102 corresponds to Rh2 and Pro-102 to Rh4.
+-!- SIMILARITY: Belongs to the Rh family.
+-!- WEB RESOURCE: NAME=BGMUT;
+    NOTE=Blood group antigen gene mutation database";
+    URL="http://www.ncbi.nlm.nih.gov/projects/mhc/xslcgi.fcgi?cmd=bgmut/systems_info&system=rh".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=RHCE".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+Alternative splicing; Blood group antigen; Direct protein sequencing;
+Membrane; Polymorphism; Transmembrane.
+TMELEVEN

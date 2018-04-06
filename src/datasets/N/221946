@@ -1,0 +1,11 @@
+AC   Q32HN6;
+Putative hydrolase ycdX (EC 3.1.-.-).
+"Genome dynamics and diversity of Shigella species, the etiologic
+agents of bacillary dysentery.";
+-!- COFACTOR: Binds 3 zinc ions per subunit (By similarity).
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SIMILARITY: Belongs to the PHP family.
+ GO:0016787; F:hydrolase activity; IEA:HAMAP.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Complete proteome; Hydrolase; Metal-binding; Zinc.
+TMZERO

@@ -1,0 +1,8 @@
+AC   P22442;
+Karatasin (EC 3.4.22.-) (Fragment).
+"Subunit structure of karatasin, the proteinase isolated from Bromelia
+plumieri (karatas).";
+-!- SUBUNIT: Dimer of two small subunits linked by disulfide bonds.
+-!- SIMILARITY: Belongs to the peptidase C1 family.
+Direct protein sequencing; Hydrolase; Protease; Thiol protease.
+TMZERO

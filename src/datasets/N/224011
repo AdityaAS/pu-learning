@@ -1,0 +1,19 @@
+AC   P0A959; P77727;
+Probable aminotransferase yfbQ (EC 2.6.1.-).
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- INTERACTION:
+    P0A6N1:tufA; NbExp=1; IntAct=EBI-545313, EBI-301077;
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the class-I pyridoxal-phosphate-dependent
+    aminotransferase family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Aminotransferase; Complete proteome; Hypothetical protein;
+Pyridoxal phosphate; Transferase.
+TMZERO

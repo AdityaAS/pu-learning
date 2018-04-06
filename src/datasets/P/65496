@@ -1,0 +1,16 @@
+AC   P0AC95; P39373;
+High-affinity gluconate transporter (Gluconate permease 3) (Gnt-III
+system).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: High-affinity gluconate transporter with fairly broad
+    specificity, including low affinity for glucuronate, several
+    disaccharides, and some hexoses, but not glucose (By similarity).
+-!- PATHWAY: Gluconate utilization.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the gntP permease family.
+Complete proteome; Gluconate utilization; Inner membrane; Membrane;
+Sugar transport; Transmembrane; Transport.
+TMTHIRTEEN

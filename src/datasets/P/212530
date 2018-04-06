@@ -1,0 +1,10 @@
+AC   O27840;
+UPF0059 membrane protein MTH_1812.
+"Complete genome sequence of Methanobacterium thermoautotrophicum
+deltaH: functional analysis and comparative genomics.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the UPF0059 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Membrane; Transmembrane.
+TMSIX

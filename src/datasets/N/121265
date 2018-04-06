@@ -1,0 +1,13 @@
+AC   Q7NMK3;
+3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+(Ketopantoate hydroxymethyltransferase).
+"Complete genome structure of Gloeobacter violaceus PCC 7421, a
+cyanobacterium that lacks thylakoids.";
+-!- CATALYTIC ACTIVITY: 5,10-methylenetetrahydrofolate + 3-methyl-2-
+    oxobutanoate + H(2)O = tetrahydrofolate + 2-dehydropantoate.
+-!- PATHWAY: Cofactor biosynthesis; pantothenate biosynthesis;
+    pantoate from 3-methyl-2-oxobutanoate: step 1.
+-!- SIMILARITY: Belongs to the panB family.
+Complete proteome; Methyltransferase; Pantothenate biosynthesis;
+Transferase.
+TMZERO

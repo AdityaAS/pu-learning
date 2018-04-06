@@ -1,0 +1,18 @@
+AC   P34095; Q24839;
+Pore-forming peptide ameobapore A precursor (EH-APP).
+"Primary and secondary structure of the pore-forming peptide of
+pathogenic Entamoeba histolytica.";
+"Unusual gene organization in the protozoan parasite Entamoeba
+histolytica.";
+"Pore-forming peptide of pathogenic Entamoeba histolytica.";
+"Amoebapores, a family of membranolytic peptides from cytoplasmic
+granules of Entamoeba histolytica: isolation, primary structure, and
+pore formation in bacterial cytoplasmic membranes.";
+-!- FUNCTION: Forms pores in the cytoplasmic membrane of host cells.
+    Has antibacterial activity against M.luteus, no activity against
+    E.coli. Implicated in the cytolytic activity of the parasite.
+-!- SUBCELLULAR LOCATION: Cytoplasmic granule.
+-!- SIMILARITY: Contains 1 saposin B-type domain.
+3D-structure; Antibiotic; Antimicrobial; Direct protein sequencing;
+Signal.
+TMZERO

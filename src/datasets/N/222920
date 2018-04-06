@@ -1,0 +1,10 @@
+AC   P76069; Q2MBD8;
+Hypothetical protein ydaY.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- INTERACTION:
+    P0A8A2:yeeN; NbExp=1; IntAct=EBI-545264, EBI-545240;
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Hypothetical protein.
+TMZERO

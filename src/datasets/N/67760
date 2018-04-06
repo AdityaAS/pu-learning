@@ -1,0 +1,18 @@
+AC   Q74GA9;
+Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8) (GSA)
+(Glutamate-1-semialdehyde aminotransferase) (GSA-AT).
+"Genome of Geobacter sulfurreducens: metal reduction in subsurface
+environments.";
+-!- CATALYTIC ACTIVITY: (S)-4-amino-5-oxopentanoate = 5-
+    aminolevulinate.
+-!- COFACTOR: Pyridoxal phosphate.
+-!- PATHWAY: Cofactor biosynthesis; porphyrin biosynthesis; 5-
+    aminolevulinate from L-glutamyl-tRNA(Glu): step 2.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the class-III pyridoxal-phosphate-dependent
+    aminotransferase family.
+ GO:0015995; P:chlorophyll biosynthesis; IEA:HAMAP.
+Complete proteome; Isomerase; Porphyrin biosynthesis;
+Pyridoxal phosphate.
+TMZERO

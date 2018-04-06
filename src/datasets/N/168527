@@ -1,0 +1,12 @@
+AC   P41925; Q6CHV9;
+Ras-like GTP-binding protein RYL2.
+"RYL2 a new member of Ras/Rho/Ypt1-like gene family.";
+"Genome evolution in yeasts.";
+-!- FUNCTION: Protein transport. Probably involved in vesicular
+    traffic (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; cytoplasmic
+    side (Potential).
+-!- SIMILARITY: Belongs to the small GTPase superfamily. Rab family.
+Complete proteome; GTP-binding; Lipoprotein; Membrane;
+Nucleotide-binding; Prenylation; Protein transport; Transport.
+TMZERO

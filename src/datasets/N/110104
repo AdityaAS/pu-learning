@@ -1,0 +1,19 @@
+AC   Q5P9P7;
+Nucleoside diphosphate kinase (EC 2.7.4.6) (NDK) (NDP kinase)
+(Nucleoside-2-P kinase).
+"Complete genome sequencing of Anaplasma marginale reveals that the
+surface is skewed to two superfamilies of outer membrane proteins.";
+-!- FUNCTION: Major role in the synthesis of nucleoside triphosphates
+    other than ATP. The ATP gamma phosphate is transferred to the NDP
+    beta phosphate via a ping-pong mechanism, using a phosphorylated
+    active-site intermediate.
+-!- CATALYTIC ACTIVITY: ATP + nucleoside diphosphate = ADP +
+    nucleoside triphosphate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the NDK family.
+ATP-binding; Complete proteome; Kinase; Magnesium; Metal-binding;
+Nucleotide metabolism; Nucleotide-binding; Phosphorylation;
+Transferase.
+TMZERO

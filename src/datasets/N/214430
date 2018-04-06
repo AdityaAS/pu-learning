@@ -1,0 +1,8 @@
+AC   Q7MIF1;
+UPF0178 protein VV2566.
+"Comparative genome analysis of Vibrio vulnificus, a marine
+pathogen.";
+-!- SIMILARITY: Belongs to the UPF0178 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

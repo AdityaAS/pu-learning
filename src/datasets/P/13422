@@ -1,0 +1,153 @@
+AC   P35670; Q16318; Q16319; Q4U3V3; Q59FJ9; Q5T7X7;
+Copper-transporting ATPase 2 (EC 3.6.3.4) (Copper pump 2) (Wilson
+disease-associated protein).
+"Characterization of the Wilson disease gene encoding a P-type copper
+transporting ATPase: genomic organization, alternative splicing, and
+structure/function predictions.";
+"Molecular cloning of mutant ATP7B.";
+"The DNA sequence and analysis of human chromosome 13.";
+"Cloning and characterization of the promoter region of the Wilson
+disease gene.";
+"The Wilson disease gene is a putative copper transporting P-type
+ATPase similar to the Menkes gene.";
+"The Wilson disease gene is a copper transporting ATPase with homology
+to the Menkes disease gene.";
+"Isolation and characterization of a human liver cDNA as a candidate
+gene for Wilson disease.";
+"The Wilson disease gene: spectrum of mutations and their
+consequences.";
+"Two forms of Wilson disease protein produced by alternative splicing
+are localized in distinct cellular compartments.";
+"Localization of the Wilson's disease protein product to
+mitochondria.";
+"The copper toxicosis gene product Murr1 directly interacts with the
+Wilson disease protein.";
+"Molecular pathology and haplotype analysis of Wilson disease in
+Mediterranean populations.";
+"Efficient detection of mutations in Wilson disease by manifold
+sequencing.";
+"Wilson disease mutations associated with uncommon haplotypes in
+Mediterranean patients.";
+"High frequency of two mutations in codon 778 in exon 8 of the ATP7B
+gene in Taiwanese families with Wilson disease.";
+"Identification and analysis of mutations in the Wilson disease gene
+(ATP7B): population frequencies, genotype-phenotype correlation, and
+functional analyses.";
+"Identification of a novel missense mutation in Wilson's disease
+gene.";
+"24 bp deletion and Ala1278 to Val mutation of the ATP7B gene in a
+Sardinian family with Wilson disease.";
+"A homozygous nonsense mutation and a combination of two mutations of
+the Wilson disease gene in patients with different lysyl oxidase
+activities in cultured fibroblasts.";
+"His1069Gln and six novel Wilson disease mutations: analysis of
+relevance for early diagnosis and phenotype.";
+"Novel ATP7B mutations causing Wilson disease in several Israeli
+ethnic groups.";
+"Identification of three novel mutations and a high frequency of the
+Arg778Leu mutation in Korean patients with Wilson disease.";
+"Mutations of ATP7B gene in Wilson disease in Japan: identification of
+nine mutations and lack of clear founder effect in a Japanese
+population.";
+"Further delineation of the molecular pathology of Wilson disease in
+the Mediterranean population.";
+"Mutation analysis of Wilson disease in Taiwan and description of six
+new mutations.";
+"Missense mutations of exons 14 and 18 of Wilson's disease gene in
+Chinese patients.";
+"Mutation analysis in patients with Wilson disease: identification of
+4 novel mutations.";
+"Molecular characterization of Wilson disease in the Sardinian
+population -- evidence of a founder effect.";
+"A study of Wilson disease mutations in Britain.";
+"The His1069Gln mutation in the ATP7B gene in Russian patients with
+Wilson disease.";
+"Mutation analysis in patients of Mediterranean descent with Wilson
+disease: identification of 19 novel mutations.";
+"Mutational analysis of ATP7B and genotype-phenotype correlation in
+Japanese with Wilson's disease.";
+"Molecular analysis of Wilson disease in Taiwan: identification of one
+novel mutation and evidence of haplotype-mutation association.";
+"Three novel mutations (P760L, L1305P, Q1351Stop) causing Wilson
+disease.";
+"High prevalence of the H1069Q mutation in East German patients with
+Wilson disease: rapid detection of mutations by limited sequencing and
+phenotype-genotype analysis.";
+"Molecular diagnosis of Wilson disease.";
+"Identification of novel mutations and the three most common mutations
+in the human ATP7B gene of Korean patients with Wilson disease.";
+"Abnormal mRNA splicing resulting from consensus sequence splicing
+mutations of ATP7B.";
+"Mutation spectrum and polymorphisms in ATP7B identified on direct
+sequencing of all exons in Chinese Han and Hui ethnic patients with
+Wilson's disease.";
+"Wilson disease: novel mutations in the ATP7B gene and clinical
+correlation in Brazilian patients.";
+"Wilson disease: high prevalence in a mountainous area of Crete.";
+"Mutation analysis of Wilson disease in the Spanish population
+-identification of a prevalent substitution and eight novel mutations
+in the ATP7B gene.";
+"Mutation analysis of the ATP7B gene and genotype/phenotype
+correlation in 227 patients with Wilson disease.";
+-!- FUNCTION: Involved in the export of copper out of the cells, such
+    as the efflux of hepatic copper into the bile.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Cu(2+)(In) = ADP + phosphate +
+    Cu(2+)(Out).
+-!- SUBUNIT: Monomer. Interacts with COMMD1/MURR1.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; trans-Golgi network; trans-
+    Golgi network membrane; multi-pass membrane protein (By
+    similarity). Isoform 2: Cytoplasm. WND/140 kDa: Mitochondrion.
+    Note=Predominantly found in the trans-Golgi network (TGN). Not
+    redistributed to the plasma membrane in response to elevated
+    copper levels. Plasma membrane in response to elevated copper
+    levels. The cleaved form WND/140 kDa is located in mitochondria.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1; Synonyms=A;
+      IsoId=P35670-1; Sequence=Displayed;
+    Name=2; Synonyms=B;
+      IsoId=P35670-2; Sequence=VSP_000426, VSP_000427;
+    Name=3;
+      IsoId=P35670-3; Sequence=VSP_016559;
+    Name=4;
+      IsoId=P35670-4; Sequence=VSP_016560;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Most abundant in liver and kidney and also
+    found in brain. Isoform 2 is expressed in brain but not in liver.
+    The cleaved form WND/140 kDa is found in liver cell lines and
+    other tissues.
+-!- PTM: Isoform 1 may be proteolytically cleaved at the N-terminus to
+    produce the WND/140 kDa form.
+-!- DISEASE: Defects in ATP7B are the cause of Wilson disease (WD)
+    [MIM:277900]. WD is an autosomal recessive disorder of copper
+    metabolism in which copper cannot be incorporated into
+    ceruloplasmin in liver, and cannot be excreted from the liver into
+    the bile. Copper accumulates in the liver and subsequently in the
+    brain and kidney. The disease is characterized by neurologic
+    manifestations and signs of cirrhosis.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IB subfamily.
+-!- SIMILARITY: Contains 6 HMA domains.
+-!- CAUTION: Ref.6 sequences differ from that shown due to a
+    frameshift in position 456.
+-!- CAUTION: Ref.8 sequence differs from that shown due to a
+    frameshift in position 830.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ATP7B".
+ GO:0016023; C:cytoplasmic membrane-bound vesicle; IDA:UniProtKB.
+ GO:0005802; C:Golgi trans face; IDA:UniProtKB.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005770; C:late endosome; IDA:HGNC.
+ GO:0005524; F:ATP binding; IDA:UniProtKB.
+ GO:0005507; F:copper ion binding; IDA:HGNC.
+ GO:0004008; F:copper-exporting ATPase activity; TAS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0006878; P:copper ion homeostasis; TAS:UniProtKB.
+ GO:0015677; P:copper ion import; IDA:UniProtKB.
+ GO:0046688; P:response to copper ion; IDA:UniProtKB.
+ GO:0051208; P:sequestering of calcium ion; IDA:UniProtKB.
+3D-structure; Alternative splicing; ATP-binding; Copper;
+Copper transport; Disease mutation; Golgi apparatus; Hydrolase;
+Ion transport; Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Polymorphism; Repeat; Transmembrane; Transport.
+TMEIGHT

@@ -1,0 +1,13 @@
+AC   Q06068; Q94761;
+97 kDa heat shock protein (Egg sperm receptor).
+"Sea urchin egg receptor for sperm: sequence similarity of binding
+domain and hsp70.";
+-!- FUNCTION: Cell surface recognition protein that binds acrosome-
+    reacted sperm and thereby mediates binding and subsequent fusion
+    of the sperm and egg.
+-!- SIMILARITY: Belongs to the heat shock protein 70 family.
+-!- CAUTION: Was originally (Ref.1) thought to have a N-terminal
+    sequence signal and a C-terminal transmembrane region. Both
+    domains do not exist in the revised sequence.
+ATP-binding; Direct protein sequencing; Nucleotide-binding.
+TMZERO

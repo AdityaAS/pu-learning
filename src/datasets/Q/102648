@@ -1,0 +1,17 @@
+AC   P57788; Q9DEY5; Q9DG24;
+Monocarboxylate transporter 4 (MCT 4) (Solute carrier family 16 member
+3).
+"Characterization of the chicken and mouse MCT4 genes: tissue
+distribution and relationship to other monocarboxylate transporters.";
+-!- FUNCTION: Proton-linked monocarboxylate transporter. Catalyzes the
+    rapid transport across the plasma membrane of many
+    monocarboxylates such as lactate, pyruvate, branched-chain oxo
+    acids derived from leucine, valine and isoleucine, and the ketone
+    bodies acetoacetate, beta-hydroxybutyrate and acetate (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Monocarboxylate porter (TC 2.A.1.13) family.
+Membrane; Symport; Transmembrane; Transport.
+TMTWELVE

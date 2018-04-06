@@ -1,0 +1,12 @@
+AC   O26024;
+Putative phosphate permease HP1491.
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+-!- FUNCTION: Potential transporter for phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the pho-4 transporter (TC 2.A.20.1.2)
+    family.
+Complete proteome; Hypothetical protein; Membrane;
+Phosphate transport; Transmembrane; Transport.
+TMTWELVE

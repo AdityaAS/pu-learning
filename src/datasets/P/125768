@@ -1,0 +1,25 @@
+AC   Q52978; Q52979; Q8RTE9; Q92LV7;
+Probable K(+)/H(+) antiporter subunit A/B (pH adaptation potassium
+efflux system protein A/B) (Pha system subunit A/B).
+"The pha gene cluster of Rhizobium meliloti involved in pH adaptation
+and symbiosis encodes a novel type of K+ efflux system.";
+"Analysis of the chromosome sequence of the legume symbiont
+Sinorhizobium meliloti strain 1021.";
+"Sinorhizobium meliloti phaA gene segment.";
+-!- FUNCTION: Part of a K(+) efflux system which is required for the
+    adaptation of R.meliloti to alkaline pH as well as for the
+    infection process during symbiotic nodule development.
+-!- SUBUNIT: May form a hetero-oligomeric complex that consists of six
+    subunits: phaAB, phaC, phaD, phaE, phaF and phaG.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: In the N-terminal section; belongs to the CPA3
+    antiporters (TC 2.A.63) subunit A family.
+-!- SIMILARITY: In the C-terminal section; belongs to the CPA3
+    antiporters (TC 2.A.63) subunit B family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 718. The frameshift produces two separate
+    ORFs named phaA and phaB.
+Antiport; Complete proteome; Hydrogen ion transport; Ion transport;
+Membrane; Potassium; Potassium transport; Transmembrane; Transport.
+TMTWENTYFOUR

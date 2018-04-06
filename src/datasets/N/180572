@@ -1,0 +1,15 @@
+AC   Q8EKS5;
+Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14) (Glycine--tRNA ligase
+alpha chain) (GlyRS).
+"Genome sequence of the dissimilatory metal ion-reducing bacterium
+Shewanella oneidensis.";
+-!- CATALYTIC ACTIVITY: ATP + glycine + tRNA(Gly) = AMP + diphosphate
+    + glycyl-tRNA(Gly).
+-!- SUBUNIT: Tetramer of two alpha and two beta chains (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

@@ -1,0 +1,19 @@
+AC   Q9GK79;
+Urokinase plasminogen activator surface receptor precursor (uPAR) (U-
+PAR) (CD87 antigen).
+"Differential binding of urokinase and peptide antagonists to the
+urokinase receptor: evidence from characterization of the receptor in
+four primate species.";
+-!- FUNCTION: Acts as a receptor for urokinase plasminogen activator.
+    Plays a role in localizing and promoting plasmin formation.
+    Mediates the proteolysis-independent signal transduction
+    activation effects of U-PA. It is subject to negative-feedback
+    regulation by U-PA which cleaves it into an inactive form (By
+    similarity).
+-!- SUBUNIT: Monomer (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor (By
+    similarity).
+-!- SIMILARITY: Contains 3 UPAR/Ly6 domains.
+Glycoprotein; GPI-anchor; Lipoprotein; Membrane; Receptor; Repeat;
+Signal.
+TMZERO

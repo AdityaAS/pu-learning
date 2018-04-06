@@ -1,0 +1,9 @@
+AC   Q05879;
+Thymidine kinase (EC 2.7.1.21).
+"Comparison of the thymidine kinase genes from three
+entomopoxviruses.";
+-!- CATALYTIC ACTIVITY: ATP + thymidine = ADP + thymidine 5'-
+    phosphate.
+-!- SIMILARITY: Belongs to the thymidine kinase family.
+ATP-binding; DNA synthesis; Kinase; Nucleotide-binding; Transferase.
+TMZERO

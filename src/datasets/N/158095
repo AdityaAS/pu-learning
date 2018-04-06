@@ -1,0 +1,54 @@
+AC   Q06502; Q06503;
+Replicase polyprotein 1ab (ORF1ab polyprotein) [Includes: Replicase
+polyprotein 1a (ORF1a)] [Contains: Nsp1-alpha papain-like cysteine
+proteinase (EC 3.4.22.-) (PCP1-alpha); Nsp1-beta papain-like cysteine
+proteinase (EC 3.4.22.-) (PCP1-beta); Nsp2 cysteine proteinase
+(EC 3.4.22.-) (CP2) (CP); Non-structural protein 3 (Nsp3); 3C-like
+serine proteinase (EC 3.4.21.-) (3CLSP) (Nsp4); Non-structural protein
+5-6-7 (Nsp5-6-7); Non-structural protein 8 (Nsp8); RNA-directed RNA
+polymerase (EC 2.7.7.48) (RdRp) (Pol) (Nsp9); Helicase (EC 3.6.1.-)
+(Hel) (Nsp10); Non-structural protein 11 (Nsp11); Non-structural
+protein 12 (Nsp12)].
+"Complete genomic sequence and phylogenetic analysis of the lactate
+dehydrogenase-elevating virus (LDV).";
+-!- FUNCTION: The replicase polyprotein 1ab is a multifunctional
+    protein: it contains the activities necessary for the
+    transcription of negative stranded RNA, leader RNA, subgenomic
+    mRNAs and progeny virion RNA as well as proteinases responsible
+    for the cleavage of the polyprotein into functional products.
+-!- FUNCTION: The Nsp1 chain is essential for viral subgenomic mRNA
+    synthesis (By similarity).
+-!- FUNCTION: The 3C-like serine proteinase chain is responsible for
+    the majority of cleavages as it cleaves the C-terminus of the
+    polyprotein (By similarity).
+-!- FUNCTION: The helicase chain, which contains a zinc finger
+    structure, displays RNA and DNA duplex-unwinding activities with
+    5' to 3' polarity (By similarity).
+-!- CATALYTIC ACTIVITY: N nucleoside triphosphate = N diphosphate +
+    {RNA}(N).
+-!- DOMAIN: The hydrophobic domains (HD) could mediate the membrane
+    association of the replication complex and thereby alter the
+    architecture of the host cell membrane (By similarity).
+-!- PTM: Specific enzymatic cleavages in vivo by its own proteases
+    yield mature proteins. There are two alternative pathways for
+    processing. Either nsp4-5 is cleaved, which represents the major
+    pathway or the nsp5-6 and nsp6-7 are processed, which represents
+    the minor pathway. The major pathway occurs when nsp2 acts as
+    cofactor for nsp4 (By similarity).
+-!- MISCELLANEOUS: The polyprotein 1ab is translated as a 1a-1b
+    polyprotein by a ribosomal frameshifting mechanism. The 1a
+    polyprotein is produced by itself but not the 1b polyprotein.
+-!- SIMILARITY: Belongs to the arteriviruses polyprotein family.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 peptidase C31 domain.
+-!- SIMILARITY: Contains 1 peptidase C32 domain.
+-!- SIMILARITY: Contains 1 peptidase C33 domain.
+-!- SIMILARITY: Contains 1 peptidase S32 domain.
+-!- SIMILARITY: Contains 1 RdRp catalytic domain.
+-!- SIMILARITY: Contains 1 viral helicase-type-like zinc finger.
+ATP-binding; Helicase; Hydrolase; Membrane; Metal-binding;
+Nucleotide-binding; Nucleotidyltransferase; Protease;
+Ribosomal frameshift; RNA replication; RNA-directed RNA polymerase;
+Serine protease; Thiol protease; Transferase; Transmembrane; Zinc;
+Zinc-finger.
+TMTWELVE

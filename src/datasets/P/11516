@@ -1,0 +1,15 @@
+AC   P0AAF8; P30858; P77355;
+Arginine transport ATP-binding protein artP.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for arginine. Probably responsible for energy coupling to the
+    transport system (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Amino-acid transport; ATP-binding; Complete proteome; Inner membrane;
+Membrane; Nucleotide-binding; Transport.
+TMZERO

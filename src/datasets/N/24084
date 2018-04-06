@@ -1,0 +1,20 @@
+AC   Q03710;
+Complement factor B (EC 3.4.21.47) (C3/C5 convertase) (Properdin
+factor B) (Fragment).
+"Cloning and sequencing of the porcine complement factor B.";
+-!- FUNCTION: Factor B which is part of the alternate pathway of the
+    complement system is cleaved by factor D into 2 fragments: Ba and
+    Bb. Bb, a serine protease, then combines with complement factor 3b
+    to generate the C3 or C5 convertase.
+-!- CATALYTIC ACTIVITY: Cleavage of Arg-|-Ser bond in complement
+    component C3 alpha-chain to yield C3a and C3b, and Arg-|-Xaa bond
+    in complement component C5 alpha-chain to yield C5a and C5b.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the peptidase S1 family.
+-!- SIMILARITY: Contains 3 Sushi (CCP/SCR) domains.
+ GO:0003812; F:alternative-complement-pathway C3/C5 conver...; IEA:EC.
+Complement alternate pathway; Glycoprotein; Hydrolase;
+Immune response; Innate immunity; Protease; Repeat; Serine protease;
+Sushi.
+TMZERO

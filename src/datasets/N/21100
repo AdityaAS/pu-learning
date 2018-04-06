@@ -1,0 +1,17 @@
+AC   Q58181;
+Probable cobalt-precorrin-2 C(20)-methyltransferase (EC 2.1.1.151) (S-
+adenosyl-L-methionine--cobalt-precorrin-2 methyltransferase).
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+-!- FUNCTION: Methylates cobalt-precorrin-2 at the C-20 position to
+    produce cobalt-precorrin-3A in the anaerobic cobalamin
+    biosynthesis pathway (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + cobalt-factor II =
+    S-adenosyl-L-homocysteine + cobalt-factor III.
+-!- PATHWAY: Cofactor biosynthesis; adenosylcobalamin biosynthesis;
+    cob(II)yrinic acid a,c-diamide from sirohydrochlorin (anaerobic
+    route): step 2.
+-!- SIMILARITY: Belongs to the precorrin methyltransferase family.
+Cobalamin biosynthesis; Complete proteome; Methyltransferase;
+S-adenosyl-L-methionine; Transferase.
+TMZERO

@@ -1,0 +1,15 @@
+AC   P43071;
+Multidrug resistance protein CDR1.
+"Molecular cloning and characterization of a novel gene of Candida
+albicans, CDR1, conferring multiple resistance to drugs and
+antifungals.";
+-!- FUNCTION: Transporter, whose physiological function is not yet
+    established. Confers resistance to the chemical cycloheximide.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family. PDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+Antibiotic resistance; ATP-binding; Cycloheximide resistance;
+Glycoprotein; Membrane; Nucleotide-binding; Repeat; Transmembrane;
+Transport.
+TMTWELVE

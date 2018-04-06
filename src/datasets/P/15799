@@ -1,0 +1,20 @@
+AC   P25964; Q9HPF5;
+Sensory rhodopsin-1 (Sensory rhodopsin I) (SR-I).
+"Primary structure of sensory rhodopsin I, a prokaryotic
+photoreceptor.";
+"Primary structure of an archaebacterial transducer, a methyl-
+accepting protein associated with sensory rhodopsin I.";
+"Genome sequence of Halobacterium species NRC-1.";
+"Conformational changes in sensory rhodopsin I: similarities and
+differences with bacteriorhodopsin, halorhodopsin, and rhodopsin.";
+"Three-dimensional model of sensory rhodopsin I reveals important
+restraints between the protein and the chromophore.";
+-!- FUNCTION: Involved in the control of phototaxis. Mediates both
+    photoattractant (in the red) and photophobic (in the near UV)
+    responses. Seems to activate a methyl-accepting protein (HTR-I).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the archaeal/bacterial/fungal opsin family.
+3D-structure; Chromophore; Complete proteome;
+Direct protein sequencing; Membrane; Photoreceptor protein; Receptor;
+Retinal protein; Sensory transduction; Transmembrane.
+TMSEVEN

@@ -1,0 +1,9 @@
+AC   P80323;
+Bacteriocin curvaticin FS47 (Fragment).
+"Purification and partial amino acid sequence of curvaticin FS47, a
+heat-stable bacteriocin produced by Lactobacillus curvatus FS47.";
+-!- FUNCTION: Bacteriocin active against Listeria monocytogenes,
+    Pediococcus, Enterococcus, Lactobacilli and Bacilli.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing.
+TMZERO

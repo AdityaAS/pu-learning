@@ -1,0 +1,11 @@
+AC   Q5M4W5;
+Thymidine kinase (EC 2.7.1.21).
+"Complete sequence and comparative genome analysis of the dairy
+bacterium Streptococcus thermophilus.";
+-!- CATALYTIC ACTIVITY: ATP + thymidine = ADP + thymidine 5'-
+    phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the thymidine kinase family.
+ATP-binding; Complete proteome; DNA synthesis; Kinase;
+Nucleotide-binding; Transferase.
+TMZERO

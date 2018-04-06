@@ -1,0 +1,37 @@
+AC   O19131; Q2HJ72;
+Tumor necrosis factor receptor superfamily member 1A precursor (p60)
+(TNF-R1) (TNF-RI) (TNFR-I) (p55).
+"Cloning and sequencing of cDNA encoding bovine tumor necrosis factor
+(TNF)-receptor I.";
+-!- FUNCTION: Receptor for TNFSF2/TNF-alpha and homotrimeric
+    TNFSF1/lymphotoxin-alpha. The adapter molecule FADD recruits
+    caspase-8 to the activated receptor. The resulting death-inducing
+    signaling complex (DISC) performs caspase-8 proteolytic activation
+    which initiates the subsequent cascade of caspases (aspartate-
+    specific cysteine proteases) mediating apoptosis (By similarity).
+-!- SUBUNIT: Binding of TNF to the extracellular domain leads to
+    homotrimerization. The aggregated death domains provide a novel
+    molecular interface that interacts specifically with the death
+    domain of TRADD. Various TRADD-interacting proteins such as TRAFS,
+    RIPK1 and possibly FADD, are recruited to the complex by their
+    association with TRADD. This complex activates at least two
+    distinct signaling cascades, apoptosis and NF-kappa-B signaling.
+    Interacts with BAG4, BRE, GRB2, SQSTM1 and TRPC4AP (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- DOMAIN: Both the cytoplasmic membrane-proximal region and the C-
+    terminal region containing the death domain are involved in the
+    interaction with TRPC4AP (By similarity).
+-!- SIMILARITY: Contains 1 death domain.
+-!- SIMILARITY: Contains 4 TNFR-Cys repeats.
+ GO:0005031; F:tumor necrosis factor receptor activity; ISS:UniProtKB.
+ GO:0019221; P:cytokine and chemokine mediated signaling p...; ISS:UniProtKB.
+ GO:0006952; P:defense response; ISS:UniProtKB.
+ GO:0006954; P:inflammatory response; ISS:UniProtKB.
+ GO:0050729; P:positive regulation of inflammatory response; ISS:UniProtKB.
+ GO:0045944; P:positive regulation of transcription from R...; ISS:UniProtKB.
+ GO:0006693; P:prostaglandin metabolism; ISS:UniProtKB.
+Apoptosis; Glycoprotein; Membrane; Receptor; Repeat; Signal;
+Transmembrane.
+TMONE

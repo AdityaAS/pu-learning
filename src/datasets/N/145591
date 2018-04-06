@@ -1,0 +1,15 @@
+AC   Q6NGI4;
+Probable 16S rRNA-processing protein rimM.
+"The complete genome sequence and analysis of Corynebacterium
+diphtheriae NCTC13129.";
+-!- FUNCTION: Essential for efficient processing of 16S rRNA. Probably
+    part of the 30S subunit prior to or during the final step in the
+    processing of 16S free 30S ribosomal subunits. It could be some
+    accessory protein needed for efficient assembly of the 30S
+    subunit. It is needed in a step prior to rbfA during the
+    maturation of 16S rRNA. It has affinity for free ribosomal 30S
+    subunits but not for 70S ribosomes (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the rimM family.
+Complete proteome; rRNA processing.
+TMZERO

@@ -1,0 +1,23 @@
+AC   Q2HWD6;
+Mast/stem cell growth factor receptor precursor (EC 2.7.10.1) (SCFR)
+(Proto-oncogene tyrosine-protein kinase Kit) (c-kit) (CD117 antigen).
+"Sus scrofa KIT gene.";
+-!- FUNCTION: This is the receptor for stem cell factor (mast cell
+    growth factor). It has a tyrosine-protein kinase activity. Binding
+    of the ligands leads to the autophosphorylation of KIT and its
+    association with substrates such as phosphatidylinositol 3-kinase
+    (Pi3K) (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- SUBUNIT: Interacts with APS and MPDZ (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the Tyr protein kinase family. CSF-1/PDGF
+    receptor subfamily.
+-!- SIMILARITY: Contains 5 Ig-like C2-type (immunoglobulin-like)
+    domains.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ATP-binding; Glycoprotein; Immunoglobulin domain; Kinase; Membrane;
+Nucleotide-binding; Phosphorylation; Proto-oncogene; Receptor; Repeat;
+Signal; Transferase; Transmembrane; Tyrosine-protein kinase.
+TMONE

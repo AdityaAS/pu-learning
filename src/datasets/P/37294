@@ -1,0 +1,28 @@
+AC   P23886;
+Transport ATP-binding protein cydC.
+"The N-end rule in Escherichia coli: cloning and analysis of the
+leucyl, phenylalanyl-tRNA-protein transferase gene aat.";
+"Isolation and characterization of an Escherichia coli mutant
+defective in resuming growth after starvation.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Cytochrome bd biosynthesis in Escherichia coli: the sequences of the
+cydC and cydD genes suggest that they encode the components of an ABC
+membrane transporter.";
+"Structure and expression of the infA operon encoding translational
+initiation factor IF1. Transcriptional control by growth rate.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Somehow involved in the cytochrome D branch of aerobic
+    respiration. Seems to be a component of a transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. MsbA subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Inner membrane; Membrane;
+Nucleotide-binding; Transmembrane; Transport.
+TMSIX

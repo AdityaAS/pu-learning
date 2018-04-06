@@ -1,0 +1,13 @@
+AC   Q9UVZ5;
+Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23) (OMP decarboxylase)
+(OMPDCase) (OMPdecase) (Uridine 5'-monophosphate synthase) (UMP
+synthase).
+"Transformation of Endomyces fibuliger based on its gene for
+orotidine-5'-phosphate decarboxylase.";
+-!- CATALYTIC ACTIVITY: Orotidine 5'-phosphate = UMP + CO(2).
+-!- PATHWAY: Nucleotide biosynthesis; UMP biosynthesis; UMP from
+    HCO(3)(-): step 6 [final step].
+-!- PATHWAY: Context: Pyrimidine biosynthesis.
+-!- SIMILARITY: Belongs to the OMP decarboxylase family.
+Decarboxylase; Lyase; Pyrimidine biosynthesis.
+TMZERO

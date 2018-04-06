@@ -1,0 +1,15 @@
+AC   P29518;
+Protein brittle-1, chloroplast precursor.
+"Analysis of maize brittle-1 alleles and a defective Suppressor-
+mutator-induced mutable allele.";
+-!- FUNCTION: Could play a role in amyloplast membrane transport.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast inner
+    membrane; multi-pass membrane protein (Potential). Plastid;
+    amyloplast; amyloplast inner membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Endosperm of developing kernels.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+Amyloplast; Chloroplast; Inner membrane; Membrane; Plastid; Repeat;
+Transit peptide; Transmembrane; Transport.
+TMTWO

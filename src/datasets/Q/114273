@@ -1,0 +1,13 @@
+AC   Q01708;
+Copper-binding periplasmic protein precursor (Fragment).
+"Derived amino acid sequences of the nosZ gene (respiratory N2O
+reductase) from Alcaligenes eutrophus, Pseudomonas aeruginosa and
+Pseudomonas stutzeri reveal potential copper-binding residues.
+Implications for the CuA site of N2O reductase and cytochrome-c
+oxidase.";
+-!- FUNCTION: Involved in copper processing and transport; in the
+    assembly of the copper chromophores of nitrous oxide reductase.
+-!- SUBCELLULAR LOCATION: Periplasm.
+Copper; Copper transport; Ion transport; Periplasmic; Signal;
+Transport.
+TMZERO

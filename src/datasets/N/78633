@@ -1,0 +1,23 @@
+AC   P15861; Q4PRA2; Q8AWY8;
+Homeobox protein Hox-B6a (Hox-B6) (Zf-22).
+"The zebrafish homeobox gene hox-2.2: transcription unit, potential
+regulatory regions and in situ localization of transcripts.";
+"Sequence analysis of the zebrafish hox-B5/B6 region.";
+"Genomic annotation and transcriptome analysis of the zebrafish (Danio
+rerio) hox complex with description of a novel member, hoxb13a.";
+"Zebrafish hox genes: genomic organization and modified colinear
+expression patterns in the trunk.";
+-!- FUNCTION: Sequence-specific transcription factor which is part of
+    a developmental regulatory system that provides cells with
+    specific positional identities on the anterior-posterior axis.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- DEVELOPMENTAL STAGE: At the 10-somite stage, expressed in the
+    paraxial mesoderm with an anterior expression limit at somite 4.
+    At the 20-somite stage, expressed in the developing CNS with an
+    anterior expression limit adjacent to the somite 1/somite 2
+    boundary, and also expressed in the presumptive pronephric ducts.
+-!- SIMILARITY: Belongs to the Antp homeobox family.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+Developmental protein; DNA-binding; Homeobox; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

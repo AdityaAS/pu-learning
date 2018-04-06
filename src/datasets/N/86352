@@ -1,0 +1,10 @@
+AC   P25920;
+rRNA methyltransferase (EC 2.1.1.-) (Kanamycin-apramycin resistance
+methylase).
+"Cloning of an aminoglycoside-resistance-encoding gene, kamC, from
+Saccharopolyspora hirsuta: comparison with kamB from Streptomyces
+tenebrarius.";
+-!- FUNCTION: Modifies 16S rRNA so making ribosomes resistant to
+    certain aminoglycosides.
+Antibiotic resistance; Methyltransferase; Transferase.
+TMZERO

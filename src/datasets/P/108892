@@ -1,0 +1,23 @@
+AC   P24518;
+Transcriptional regulator nadR.
+"Regulation of NAD metabolism in Salmonella typhimurium: molecular
+sequence analysis of the bifunctional nadR regulator and the nadA-pnuC
+operon.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"The nadI region of Salmonella typhimurium encodes a bifunctional
+regulatory protein.";
+-!- FUNCTION: NadR is bifunctional; it interacts with pnuC at low
+    internal NAD levels, permitting transport of NMN intact into the
+    cell. As NAD levels increase within the cell, the affinity of nadR
+    for the operator regions of nadA, nadB, and pncB increases,
+    repressing the transcription of these genes.
+-!- SUBCELLULAR LOCATION: Membrane; peripheral membrane protein.
+    Cytoplasm. Note=May loosely associate with the membrane through
+    its interaction with the membrane-bound pnuC. In combination with
+    corepressor (NAD?), the cytoplasmic form of nadR would be capable
+    of acting as a transcriptional repressor.
+-!- SIMILARITY: Contains 1 HTH cro/C1-type DNA-binding domain.
+Complete proteome; DNA-binding; NAD; Pyridine nucleotide biosynthesis;
+Repressor; Transcription; Transcription regulation; Transport.
+TMZERO

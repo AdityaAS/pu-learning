@@ -1,0 +1,24 @@
+AC   P05028;
+Sodium/potassium-transporting ATPase subunit beta-1 (Sodium/potassium-
+dependent ATPase beta-1 subunit).
+"Amino-acid sequence of the beta-subunit of the (Na+ + K+)ATPase
+deduced from a cDNA.";
+"Identification of antigenic sites on the Na+/K(+)-ATPase beta-
+subunit: their sequences and the effects of thiol reduction upon their
+structure.";
+-!- FUNCTION: This is the non-catalytic component of the active
+    enzyme, which catalyzes the hydrolysis of ATP coupled with the
+    exchange of Na(+) and K(+) ions across the plasma membrane. The
+    beta subunit regulates, through assembly of alpha/beta
+    heterodimers, the number of sodium pumps transported to the plasma
+    membrane.
+-!- SUBUNIT: Composed of three subunits: alpha (catalytic), beta and
+    gamma.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein.
+-!- SIMILARITY: Belongs to the Na+/K+ and H+/K+ ATPases subunit beta
+    family.
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Signal-anchor; Sodium; Sodium transport; Sodium/potassium transport;
+Transmembrane; Transport.
+TMONE

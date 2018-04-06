@@ -1,0 +1,55 @@
+AC   P27105; Q14087; Q15609; Q5VX96; Q96FK4;
+Erythrocyte band 7 integral membrane protein (Stomatin) (Protein
+7.2b).
+"Cloning and nucleotide sequence of cDNA encoding human erythrocyte
+band 7 integral membrane protein.";
+"Isolation of cDNA coding for an ubiquitous membrane protein deficient
+in high Na+, low K+ stomatocytic erythrocytes.";
+"The organization of the gene (EPB72) encoding the human erythrocyte
+band 7 integral membrane protein (protein 7.2b).";
+"Structure, organization, and expression of the human band 7.2b gene,
+a candidate gene for hereditary hydrocytosis.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"DNA sequence and analysis of human chromosome 9.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of the phosphorylation site on human erythrocyte band
+7 integral membrane protein: implications for a monotopic protein
+structure.";
+"Colocalization of stomatin (band 7.2b) and actin microfilaments in
+UAC epithelial cells.";
+"Isolation, molecular characterization, and tissue-specific expression
+of a novel putative G protein-coupled receptor.";
+"Oligomeric nature of the integral membrane protein stomatin.";
+"Cysteine 29 is the major palmitoylation site on stomatin.";
+"Stomatin is a major lipid-raft component of platelet alpha
+granules.";
+"Characterization of the stomatin domain involved in homo-
+oligomerization and lipid raft association.";
+-!- FUNCTION: Thought to regulate cation conductance. May regulate
+    ACCN1 and ACCN3 gating (By similarity).
+-!- SUBUNIT: Homooligomer containing between 9 and 12 monomers.
+    Interacts with ACCN1, ACCN2 and ACCN3 (By similarity). Interacts
+    with LANCL1.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass membrane protein;
+    cytoplasmic side. Cell membrane; lipid-anchor; cytoplasmic side.
+    Note=Exposed on the cytoplasmic surface of the membrane.
+    Associated with lipid rafts. Concentrates preferentially in plasma
+    membrane protrusions and in a juxta-nuclear region which may
+    represent Golgi-derived vesicles. Colocalizes with actin.
+-!- TISSUE SPECIFICITY: Widely expressed.
+-!- DISEASE: Stomatin is deficient in overhydrated hereditary
+    stomatocytosis (OHS); also known as cryohydrocytosis or hereditary
+    stomatocytosis. OHS results in red cell anomaly associated with
+    hemolytic anemia. There is increased Na(+)/K(+)-permeability and
+    hence a disorder of cell volume control. The nature of the
+    molecular defect underlying OHS is unknown.
+-!- SIMILARITY: Belongs to the band 7/mec-2 family.
+ GO:0005856; C:cytoskeleton; IPI:UniProtKB.
+ GO:0005887; C:integral to plasma membrane; IDA:UniProtKB.
+ GO:0045121; C:lipid raft; IDA:UniProtKB.
+ GO:0051260; P:protein homooligomerization; IDA:UniProtKB.
+Direct protein sequencing; Lipoprotein; Membrane; Palmitate;
+Phosphorylation; Transmembrane.
+TMONE

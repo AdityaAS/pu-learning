@@ -1,0 +1,23 @@
+AC   P38359;
+Sulfate permease 1 (High-affinity sulfate transporter 1).
+"Isolation of a cDNA from Saccharomyces cerevisiae that encodes a high
+affinity sulphate transporter at the plasma membrane.";
+"Complete DNA sequence of yeast chromosome II.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Characterization of SFP2, a putative sulfate permease gene of
+Saccharomyces cerevisiae.";
+"Molecular characterization of two high affinity sulfate transporters
+in Saccharomyces cerevisiae.";
+-!- FUNCTION: High affinity uptake of sulfate into the cell.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+-!- SIMILARITY: Contains 1 STAS domain.
+-!- CAUTION: Ref.4 (CAA84506) sequence differs from that shown due to
+    a frameshift in position 488.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0015116; F:sulfate transporter activity; IGI:SGD.
+ GO:0008272; P:sulfate transport; IGI:SGD.
+Complete proteome; Glycoprotein; Membrane; Transmembrane; Transport.
+TMTWELVE

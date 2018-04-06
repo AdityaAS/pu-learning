@@ -1,0 +1,21 @@
+AC   O88397; Q9EQR8;
+Solute carrier organic anion transporter family member 1A5 (Solute
+carrier family 21 member 7) (Sodium-independent organic anion
+transporter 3) (Organic anion-transporting polypeptide 3) (OATP3).
+"Molecular characterization and tissue distribution of a new organic
+anion transporter subtype (oatp3) that transports thyroid hormones and
+taurocholate and comparison with oatp2.";
+"Expression, transport properties, and chromosomal location of organic
+anion transporter subtype 3.";
+-!- FUNCTION: Mediates the Na(+)-independent transport of organic
+    anions such as taurocholate and thyroid hormones.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in the kidney and moderately
+    abundant in the retina.
+-!- SIMILARITY: Belongs to the organo anion transporter (TC 2.A.60)
+    family.
+ GO:0005887; C:integral to plasma membrane; TAS:RGD.
+ GO:0008514; F:organic anion transporter activity; TAS:RGD.
+ GO:0015711; P:organic anion transport; TAS:RGD.
+Glycoprotein; Ion transport; Membrane; Transmembrane; Transport.
+TMTEN

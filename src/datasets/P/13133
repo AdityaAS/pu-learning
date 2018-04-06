@@ -1,0 +1,22 @@
+AC   P22037;
+Protein mgtC.
+"The mgtB Mg2+ transport locus of Salmonella typhimurium encodes a P-
+type ATPase.";
+"The SPI-3 pathogenicity island of salmonella enterica.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"The Salmonella selC locus contains a pathogenicity island mediating
+intramacrophage survival.";
+"Magnesium and the role of MgtC in growth of Salmonella typhimurium.";
+"The MgtC virulence factor of Salmonella enterica serovar Typhimurium
+activates Na(+),K(+)-ATPase.";
+-!- FUNCTION: Virulence factor required for growth in low Mg(2+)
+    medium and for intramacrophage survival. May be involved in
+    regulating membrane potential by activating Na(+)/K(+)-ATPase.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: Transcriptionally regulated by extracellular magnesium
+    via the two-component regulatory system phoQ/phoP.
+-!- SIMILARITY: Belongs to the mgtC/sapB family.
+Complete proteome; Membrane; Transmembrane; Virulence.
+TMFOUR

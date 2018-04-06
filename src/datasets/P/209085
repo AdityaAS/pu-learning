@@ -1,0 +1,12 @@
+AC   Q58492;
+Putative nickel/cobalt efflux system MJ1092.
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+-!- FUNCTION: Efflux system for nickel and cobalt (Potential).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the NiCoT transporter (TC 2.A.52) family.
+Cobalt; Cobalt transport; Complete proteome; Hypothetical protein;
+Ion transport; Membrane; Nickel; Nickel transport; Transmembrane;
+Transport.
+TMSIX

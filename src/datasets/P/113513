@@ -1,0 +1,30 @@
+AC   P29921;
+NADH-quinone oxidoreductase subunit 9 (EC 1.6.99.5) (NADH
+dehydrogenase I subunit 9) (NDH-1 subunit 9).
+"DNA sequencing of the seven remaining structural genes of the gene
+cluster encoding the energy-transducing NADH-quinone oxidoreductase of
+Paracoccus denitrificans.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain. The
+    immediate electron acceptor for the enzyme in this species is
+    believed to be ubiquinone. Couples the redox reaction to proton
+    translocation (for every two electrons transferred, four hydrogen
+    ions are translocated across the cytoplasmic membrane), and thus
+    conserves the redox energy in a proton gradient.
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- COFACTOR: Binds 2 4Fe-4S clusters per subunit (By similarity).
+-!- SUBUNIT: NDH-1 is composed of 15 different subunits, nqo1 to
+    nqo15. The complex has a L-shaped structure, with the hydrophobic
+    arm (subunits nqo7, nqo8 and nqo10 to nqo14) embedded in the
+    membrane and the hydrophilic peripheral arm (subunits nqo1 to
+    nqo6, nqo9 and nqo15) protruding into the bacterial cytoplasm. The
+    hydrophilic domain contains all the redox centers.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the complex I 23 kDa subunit family.
+-!- SIMILARITY: Contains 2 4Fe-4S type ferredoxin domains.
+ GO:0050136; F:NADH dehydrogenase (quinone) activity; IEA:EC.
+ GO:0019684; P:photosynthesis, light reaction; IEA:HAMAP.
+4Fe-4S; Iron; Iron-sulfur; Membrane; Metal-binding; NAD;
+Oxidoreductase; Quinone; Ubiquinone.
+TMZERO

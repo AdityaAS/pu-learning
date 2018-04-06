@@ -1,0 +1,29 @@
+AC   Q8BUJ9; Q8BWM9;
+Low-density lipoprotein receptor-related protein 12 precursor.
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Probable receptor, which may be involved in the
+    internalization of lipophilic molecules and/or signal
+    transduction. May act as a tumor suppressor (By similarity).
+-!- SUBUNIT: May interact with GNB2L1, MADHIP and ITGB1BP3 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8BUJ9-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8BUJ9-2; Sequence=VSP_009821;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the LDLR family.
+-!- SIMILARITY: Contains 2 CUB domains.
+-!- SIMILARITY: Contains 5 LDL-receptor class A domains.
+-!- CAUTION: Ref.1 (BAC39247) sequence differs from that shown due to
+    a frameshift in position 854 and to wrong initiation.
+-!- CAUTION: Ref.1 (BAC39247) sequence differs from that shown due to
+    wrong initiation.
+Alternative splicing; Coated pits; Endocytosis; Glycoprotein;
+Membrane; Receptor; Repeat; Signal; Transmembrane.
+TMONE

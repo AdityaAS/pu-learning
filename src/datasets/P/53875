@@ -1,0 +1,24 @@
+AC   P23876; P77097; Q2MBL1;
+Ferric enterobactin transport system permease protein fepD.
+"Nucleotide sequence and genetic organization of the ferric
+enterobactin transport system: homology to other periplasmic binding
+protein-dependent systems in Escherichia coli.";
+"Organization of genes encoding membrane proteins of the Escherichia
+coli ferrienterobactin permease.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for ferric enterobactin. Probably responsible for the
+    translocation of the substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Controlled in part by the amount of available iron.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. FecCD subfamily.
+Complete proteome; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Transmembrane; Transport.
+TMNINE

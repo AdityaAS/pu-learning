@@ -1,0 +1,18 @@
+AC   P83455;
+Tryptophyllin-1 (PdT-1).
+"Pachymedusa dacnicolor tryptophyllin-1 (PdT-1): structural
+characterization, pharmacological activity and cloning of precursor
+cDNA.";
+-!- FUNCTION: Myoactive. Has selective relaxing activity on vascular
+    smooth muscle.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin glands.
+-!- MASS SPECTROMETRY: MW=809.2; METHOD=MALDI; RANGE=1-7; NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the frog skin active peptide (FSAP) family.
+    Tryptophillin subfamily.
+ GO:0005576; C:extracellular region; NAS:UniProtKB.
+ GO:0003674; F:molecular_function; NAS:UniProtKB.
+ GO:0045986; P:negative regulation of smooth muscle contra...; NAS:UniProtKB.
+Amidation; Amphibian defense peptide; Direct protein sequencing;
+Hydroxylation.
+TMZERO

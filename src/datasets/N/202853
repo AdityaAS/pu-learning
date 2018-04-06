@@ -1,0 +1,18 @@
+AC   P08232;
+Long tail fiber protein p37 (Protein Gp37) (Receptor recognizing
+protein) (Fragment).
+"Receptor-recognizing proteins of T-even type bacteriophages. Constant
+and hypervariable regions and an unusual case of evolution.";
+-!- FUNCTION: Structural component of the distal-half tail fiber. It
+    constitutes the part of the long tail fibers that recognizes the
+    bacterial receptor.
+-!- SUBUNIT: The distal half-fiber contains two molecules each of Gp36
+    and Gp37 and one molecule of Gp35.
+-!- MISCELLANEOUS: The two Gp37 protein chains run in parallel, the
+    length of the distal half-fiber, with the amino end near the
+    center kink of the fiber and the carboxyl end at the distal tip.
+    The other polypeptides are distributed uniformly along the length
+    of the distal half-fiber.
+-!- SIMILARITY: Belongs to the tail fiber family.
+Fiber protein.
+TMZERO

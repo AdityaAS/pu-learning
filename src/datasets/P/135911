@@ -1,0 +1,26 @@
+AC   P0A0D4; P02909;
+Lactose-specific phosphotransferase enzyme IIA component (EC 2.7.1.-)
+(PTS system lactose-specific EIIA component) (EIIA-Lac) (EIII-Lac).
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in lactose transport (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- COFACTOR: Binds 1 magnesium or manganese ion per trimer (By
+    similarity).
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-3 domain.
+Complete proteome; Magnesium; Manganese; Metal-binding;
+Phosphorylation; Phosphotransferase system; Sugar transport;
+Transferase; Transport.
+TMZERO

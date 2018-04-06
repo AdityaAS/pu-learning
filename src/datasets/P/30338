@@ -1,0 +1,26 @@
+AC   P0ABI4; P27841; Q2M8C1;
+Magnesium transport protein corA.
+"Sequence and topology of the CorA magnesium transport systems of
+Salmonella typhimurium and Escherichia coli. Identification of a new
+class of transport protein.";
+"Physical map of the corA region of the E.coli chromosome.";
+"Analysis of the Escherichia coli genome: DNA sequence of the region
+from 84.5 to 86.5 minutes.";
+"Analysis of the Escherichia coli genome. III. DNA sequence of the
+region from 87.2 to 89.2 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Mutants in three genes affecting transport of magnesium in
+Escherichia coli: genetics and physiology.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Mediates influx of magnesium ions. Can also mediate
+    cobalt and manganese uptake.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the corA metal ion transporter (MIT)
+    (TC 1.A.35) family.
+Cobalt; Complete proteome; Inner membrane; Ion transport; Magnesium;
+Manganese; Membrane; Transmembrane; Transport.
+TMTWO

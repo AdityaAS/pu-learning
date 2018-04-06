@@ -1,0 +1,30 @@
+AC   Q01625; O32298;
+Membrane protein oxaA 1 precursor.
+"Structure and function of the spoIIIJ gene of Bacillus subtilis: a
+vegetatively expressed gene that is essential for sigma G activity at
+an intermediate stage of sporulation.";
+"Genes and their organization in the replication origin region of the
+bacterial chromosome.";
+"Systematic sequencing of the 180 kilobase region of the Bacillus
+subtilis chromosome containing the replication origin.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Analysis of the Bacillus subtilis spoIIIJ gene and its paralogue
+gene, yqjG.";
+"Complementary impact of paralogous Oxa1-like proteins of Bacillus
+subtilis on post-translocational stages in protein secretion.";
+"Expression of spoIIIJ in the prespore is sufficient for activation of
+sigma G and for sporulation in Bacillus subtilis.";
+-!- FUNCTION: Membrane protein required for the insertion of membrane
+    proteins into the membrane. Also involved in protein secretion
+    processes. Essential for sporulation by activating spoIIIG/sigG in
+    the prespore. It has an overlapping, through partly distinct,
+    function compared to oxaA2.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- DEVELOPMENTAL STAGE: SpoIIIJ is required only after engulfment and
+    turned off at the onset of sporulation. Predominantly expressed in
+    vegetative cells.
+-!- SIMILARITY: Belongs to the OXA1/oxaA family. Type 2 subfamily.
+Complete proteome; Lipoprotein; Membrane; Palmitate; Signal;
+Sporulation; Transmembrane.
+THTHREE

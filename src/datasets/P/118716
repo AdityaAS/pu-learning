@@ -1,0 +1,18 @@
+AC   Q17758; O76185;
+Oligopeptide transporter 1 (Di-/tri-peptide transporter CPTA).
+"Two oligopeptide transporters from Caenorhabditis elegans: molecular
+cloning and functional expression.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Proton-dependent uptake of di- or tripeptides, and to a
+    minor extent tetrapeptides. Transport is independent of sodium and
+    chloride ions. Protein shows high affinity to peptide substrates.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- DEVELOPMENTAL STAGE: Gradual increase in expression during
+    development from embryo through to adult.
+-!- SIMILARITY: Belongs to the PTR2/POT transporter (TC 2.A.17)
+    family.
+Complete proteome; Membrane; Peptide transport; Protein transport;
+Transmembrane; Transport.
+TMTWELVE

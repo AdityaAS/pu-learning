@@ -1,0 +1,14 @@
+AC   P43412;
+Adenylate kinase (EC 2.7.4.3) (ATP-AMP transphosphorylase).
+"A novel locus of Yersinia enterocolitica serotype O:3 involved in
+lipopolysaccharide outer core biosynthesis.";
+-!- FUNCTION: This small ubiquitous enzyme is essential for
+    maintenance and cell growth.
+-!- CATALYTIC ACTIVITY: ATP + AMP = 2 ADP.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the adenylate kinase family.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+ GO:0009165; P:nucleotide biosynthesis; IEA:HAMAP.
+ATP-binding; Kinase; Nucleotide-binding; Transferase.
+TMZERO

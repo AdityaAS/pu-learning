@@ -1,0 +1,27 @@
+AC   P34158;
+Cystic fibrosis transmembrane conductance regulator (CFTR) (cAMP-
+dependent chloride channel) (ATP-binding cassette transporter sub-
+family C member 7) (Fragments).
+"Analysis of the mouse and rat CFTR promoter regions.";
+"Localization of the gene encoding the cystic fibrosis transmembrane
+conductance regulator (CFTR) in the rat to chromosome 4 and
+implications for the evolution of mammalian chromosomes.";
+"Inhibitory regulation of cystic fibrosis transmembrane conductance
+regulator anion-transporting activities by Shank2.";
+-!- FUNCTION: Involved in the transport of chloride ions. May regulate
+    bicarbonate secretion and salvage in epithelial cells by
+    regulating the SLC4A7 transporter.
+-!- SUBUNIT: Interacts with MYO6, SLC9A3R1 and GOPC. Interacts with
+    SLC4A7 through SLC9A3R1 (By similarity). Interacts with SHANK2.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. CFTR
+    transporter (TC 3.A.1.202) subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0016324; C:apical plasma membrane; IDA:RGD.
+ GO:0030659; C:cytoplasmic vesicle membrane; IDA:RGD.
+ GO:0007589; P:fluid secretion; TAS:RGD.
+ATP-binding; Chloride; Chloride channel; Glycoprotein; Ion transport;
+Ionic channel; Membrane; Nucleotide-binding; Phosphorylation; Repeat;
+Transmembrane; Transport.
+TMTWO

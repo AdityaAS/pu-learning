@@ -1,0 +1,18 @@
+AC   P24022;
+Bacteriocin lactacin-F subunit lafA precursor.
+"Cloning, phenotypic expression, and DNA sequence of the gene for
+lactacin F, an antimicrobial peptide produced by Lactobacillus spp.";
+"Molecular analysis of the lactacin F operon.";
+"The genome sequence of the probiotic intestinal bacterium
+Lactobacillus johnsonii NCC 533.";
+"Purification and partial characterization of lactacin F, a
+bacteriocin produced by Lactobacillus acidophilus 11088.";
+-!- FUNCTION: Heat stable bacteriocin active against Enterococcus
+    faecalis and other Lactobacilli.
+-!- SUBUNIT: This bacteriocin depends upon the complementation of two
+    peptides for activity: lafA and lafX. Associated with a 180 kDa
+    bacteriocin complex.
+-!- SIMILARITY: Belongs to the bacteriocin class IIB family.
+Antibiotic; Antimicrobial; Bacteriocin; Complete proteome;
+Direct protein sequencing.
+TMZERO

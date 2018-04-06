@@ -1,0 +1,16 @@
+AC   Q8EB01;
+Phosphoadenosine phosphosulfate reductase (EC 1.8.4.8) (PAPS
+reductase, thioredoxin dependent) (PAdoPS reductase) (3'-
+phosphoadenylylsulfate reductase) (PAPS sulfotransferase).
+"Genome sequence of the dissimilatory metal ion-reducing bacterium
+Shewanella oneidensis.";
+-!- FUNCTION: Reduction of activated sulfate into sulfite.
+-!- CATALYTIC ACTIVITY: Adenosine 3',5'-bisphosphate + sulfite +
+    thioredoxin disulfide = 3'-phosphoadenylyl sulfate + thioredoxin.
+-!- PATHWAY: Sulfur metabolism; hydrogen sulfide biosynthesis; sulfite
+    from sulfate: step 3.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the PAPS reductase family. CysH subfamily.
+Amino-acid biosynthesis; Complete proteome; Cysteine biosynthesis;
+Oxidoreductase.
+TMZERO

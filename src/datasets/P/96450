@@ -1,0 +1,17 @@
+AC   P01546;
+M1-1 protoxin precursor (Killer toxin K1) [Contains: M1-1 delta chain;
+M1-1 alpha chain; M1-1 gamma immunity chain; M1-1 beta chain].
+"Sequence of the preprotoxin dsRNA gene of type I killer yeast:
+multiple processing events produce a two-component toxin.";
+"Cloning and sequencing of the preprotoxin-coding region of the yeast
+M1 double-stranded RNA.";
+"Cloning, sequencing and expression of a full-length cDNA copy of the
+M1 double-stranded RNA virus from the yeast, Saccharomyces
+cerevisiae.";
+-!- FUNCTION: K1 toxin binds to a cell wall (1->6)-beta-D-glucan and
+    then disrupts the cell by creating a pore across the membrane.
+-!- SUBUNIT: The secreted toxin contains alpha and beta chains that
+    are linked by three disulfide bonds. The fates of the gamma and
+    delta chains are unknown.
+Glycoprotein; Lectin; Membrane; Signal; Toxin; Transmembrane.
+TMTWO

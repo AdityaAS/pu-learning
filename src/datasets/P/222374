@@ -1,0 +1,35 @@
+AC   P39109; Q03905;
+Metal resistance protein YCF1 (Yeast cadmium factor 1).
+"A yeast metal resistance protein similar to human cystic fibrosis
+transmembrane conductance regulator (CFTR) and multidrug resistance-
+associated protein.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"The yeast cadmium factor protein (YCF1) is a vacuolar glutathione S-
+conjugate pump.";
+"The products of YCF1 and YLL015w (BPT1) cooperate for the ATP-
+dependent vacuolar transport of unconjugated bilirubin in
+Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"A proteomics approach to understanding protein ubiquitination.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Cooperates for the ATP-dependent vacuolar transport of
+    bilirubin and glutathione conjugates.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- MISCELLANEOUS: Present with 396 molecules/cell.
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0005774; C:vacuolar membrane; IDA:SGD.
+ GO:0015127; F:bilirubin transporter activity; IGI:SGD.
+ GO:0015431; F:glutathione S-conjugate-exporting ATPase ac...; IDA:SGD.
+ GO:0015723; P:bilirubin transport; IGI:SGD.
+ GO:0010038; P:response to metal ion; IDA:SGD.
+ATP-binding; Cadmium resistance; Complete proteome; Membrane;
+Nucleotide-binding; Phosphorylation; Repeat; Transmembrane; Transport;
+Vacuole.
+TMSEVENTEEN

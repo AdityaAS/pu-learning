@@ -1,0 +1,13 @@
+AC   Q05000;
+Myosin heavy chain (Fragment).
+"Life stage specific expression of a myosin heavy chain in the
+hydrozoan Podocoryne carnea.";
+-!- FUNCTION: Myosin is a protein that binds to F-actin and has ATPase
+    activity that is activated by F-actin.
+-!- SUBCELLULAR LOCATION: Note=Thick filaments of the myofibrils.
+-!- DEVELOPMENTAL STAGE: Only present in the striated muscle cells of
+    the medusa stage.
+-!- SIMILARITY: Contains 1 myosin head-like domain.
+Actin-binding; ATP-binding; Coiled coil; Motor protein;
+Muscle protein; Myosin; Nucleotide-binding; Thick filament.
+TMZERO

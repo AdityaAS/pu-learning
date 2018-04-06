@@ -1,0 +1,18 @@
+AC   P50334;
+Aerobic C4-dicarboxylate transport protein.
+"Utilization of orotate as a pyrimidine source by Salmonella
+typhimurium and Escherichia coli requires the dicarboxylate transport
+protein encoded by dctA.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Responsible for the transport of dicarboxylates such as
+    succinate, fumarate, and malate from the periplasm across the
+    inner membrane (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the sodium:dicarboxylate (SDF) symporter
+    (TC 2.A.23) family.
+ GO:0015293; F:symporter activity; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Sugar transport; Symport;
+Transmembrane; Transport.
+TMNINE

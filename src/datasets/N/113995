@@ -1,0 +1,14 @@
+AC   Q889R0;
+Transcriptional repressor nrdR.
+"The complete genome sequence of the Arabidopsis and tomato pathogen
+Pseudomonas syringae pv. tomato DC3000.";
+-!- FUNCTION: Negatively regulates transcription of bacterial
+    ribonucleotide reductase nrd genes and operons. Repression of nrd
+    genes and operons seems to be direct and acts by binding specific
+    sequences (NrdR-boxes) in the promoter region (By similarity).
+-!- SIMILARITY: Belongs to the nrdR family.
+-!- SIMILARITY: Contains 1 ATP-cone domain.
+ GO:0016564; F:transcriptional repressor activity; IEA:HAMAP.
+ATP-binding; Complete proteome; DNA-binding; Nucleotide-binding;
+Repressor; Transcription; Transcription regulation.
+TMZERO

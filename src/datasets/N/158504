@@ -1,0 +1,16 @@
+AC   P41452;
+Probable DNA-directed RNA polymerase beta chain (EC 2.7.7.6) (Late
+expression factor 8).
+"A baculovirus gene involved in late gene expression predicts a large
+polypeptide with a conserved motif of RNA polymerases.";
+"The complete DNA sequence of Autographa californica nuclear
+polyhedrosis virus.";
+-!- FUNCTION: Required for late and very late gene expression. May be
+    a component of the novel RNA polymerase activity induced by
+    baculovirus infection.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SIMILARITY: Belongs to the RNA polymerase beta chain family.
+DNA-directed RNA polymerase; Nucleotidyltransferase; Transcription;
+Transferase.
+TMZERO

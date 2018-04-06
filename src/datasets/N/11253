@@ -1,0 +1,25 @@
+AC   Q80US4; Q8BL26;
+Actin-related protein 5.
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May be involved in transcription regulation via its
+    interaction with the INO80 complex, a chromatin remodeling complex
+    (By similarity).
+-!- SUBUNIT: Component of the chromatin remodeling INO80 complex (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q80US4-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q80US4-2; Sequence=VSP_020075, VSP_020076;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q80US4-3; Sequence=VSP_020073, VSP_020074;
+      Note=No experimental confirmation available;
+-!- CAUTION: Ref.1 (AK142980) sequence differs from that shown due to
+    a frameshift in position 235.
+Alternative splicing; Coiled coil; Transcription;
+Transcription regulation.
+TMZERO

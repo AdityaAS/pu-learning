@@ -1,0 +1,38 @@
+AC   P69811; P24217; P94759;
+Multiphosphoryl transfer protein (MTP) (Phosphotransferase FPr
+protein) (Pseudo-HPr) [Includes: Phosphocarrier protein HPr (Protein
+H); Fructose-specific phosphotransferase enzyme IIA component
+(EC 2.7.1.-) (PTS system fructose-specific EIIA component)].
+"Automated multiplex sequencing of the E.coli genome.";
+"Sequence of the fruB gene of Escherichia coli encoding the
+diphosphoryl transfer protein (DTP) of the phosphoenolpyruvate: sugar
+phosphotransferase system.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Sequence similarities between the gene specifying 1-
+phosphofructokinase (fruK), genes specifying other kinases in
+Escherichia coli K12, and lacC of Staphylococcus aureus.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in fructose transport.
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- INDUCTION: By fructose.
+-!- DOMAIN: In contrast to classical PTS systems, the fructose PTS has
+    no requirement for HPr; FPr combines a IIA domain with a HPr
+    domain.
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 HPr domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-2 domain.
+Complete proteome; Kinase; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport.
+TMZERO

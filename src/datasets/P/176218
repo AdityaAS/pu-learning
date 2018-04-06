@@ -1,0 +1,31 @@
+AC   P32916; Q05553;
+Signal recognition particle receptor subunit alpha homolog (SR-alpha)
+(Docking protein alpha) (DP-alpha).
+"Signal recognition particle receptor is important for cell growth and
+protein secretion in Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Ensures, in conjunction with SRP, the correct targeting
+    of the nascent secretory proteins to the endoplasmic reticulum
+    membrane system. GTP hydrolysis may enhance the fidelity of and
+    provide unidirectionality to the targeting reaction. It is
+    important but not essential for cell growth. May be directly
+    involved in mitochondrial protein import.
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain.
+-!- INTERACTION:
+    P36057:SRP102; NbExp=2; IntAct=EBI-18098, EBI-18091;
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane.
+-!- MISCELLANEOUS: Present with 2000 molecules/cell.
+-!- SIMILARITY: Belongs to the GTP-binding SRP family.
+ GO:0005789; C:endoplasmic reticulum membrane; IDA:SGD.
+ GO:0005785; C:signal recognition particle receptor complex; TAS:SGD.
+ GO:0005525; F:GTP binding; IPI:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0005047; F:signal recognition particle binding; IMP:SGD.
+ GO:0045047; P:protein targeting to ER; IMP:SGD.
+ GO:0006614; P:SRP-dependent cotranslational protein targe...; TAS:SGD.
+3D-structure; Complete proteome; Endoplasmic reticulum; GTP-binding;
+Membrane; Nucleotide-binding; Receptor; Ribonucleoprotein;
+Signal recognition particle; Transmembrane.
+TMZERO

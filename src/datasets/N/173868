@@ -1,0 +1,22 @@
+AC   Q01137;
+Superoxide dismutase [Cu-Zn] (EC 1.15.1.1).
+"Molecular cloning of a 16-kilodalton Cu/Zn superoxide dismutase from
+Schistosoma mansoni.";
+"Schistosoma mansoni: cloning of a complementary DNA encoding a
+cytosolic Cu/Zn superoxide dismutase and high-yield expression of the
+enzymatically active gene product in Escherichia coli.";
+"Schistosoma mansoni: cloning and characterization of a gene encoding
+cytosolic Cu/Zn superoxide dismutase.";
+"Structure of the cytosolic Cu,Zn superoxide dismutase from
+Schistosoma mansoni.";
+-!- FUNCTION: Destroys radicals which are normally produced within the
+    cells and which are toxic to biological systems.
+-!- CATALYTIC ACTIVITY: 2 superoxide + 2 H(+) = O(2) + H(2)O(2).
+-!- COFACTOR: Binds 1 copper ion per subunit.
+-!- COFACTOR: Binds 1 zinc ion per subunit.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the Cu-Zn superoxide dismutase family.
+3D-structure; Antioxidant; Copper; Metal-binding; Oxidoreductase;
+Zinc.
+TMZERO

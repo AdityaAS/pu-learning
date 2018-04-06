@@ -1,0 +1,23 @@
+AC   O57728;
+V-type ATP synthase alpha chain (EC 3.6.3.14) (V-type ATPase subunit
+A) [Contains: Endonuclease PI-Pho2 (EC 3.1.-.-) (Pho atpA intein) (Pho
+VMA intein)].
+"Complete sequence and gene organization of the genome of a hyper-
+thermophilic archaebacterium, Pyrococcus horikoshii OT3.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane. The archaeal alpha chain is a
+    catalytic subunit.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- PTM: This protein undergoes a protein self splicing that involves
+    a post-translational excision of the VDE intervening region
+    (intein) followed by peptide ligation (Potential).
+-!- MISCELLANEOUS: The intein interrupts the ATP-binding site.
+-!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+-!- SIMILARITY: Contains 1 DOD-type homing endonuclease domain.
+ GO:0042777; P:ATP synthesis coupled proton transport (sen...; IEA:HAMAP.
+ATP synthesis; ATP-binding; Autocatalytic cleavage; Complete proteome;
+Endonuclease; Hydrogen ion transport; Hydrolase; Intron homing;
+Ion transport; Nuclease; Nucleotide-binding; Protein splicing;
+Transport.
+TMZERO

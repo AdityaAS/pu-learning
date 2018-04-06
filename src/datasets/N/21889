@@ -1,0 +1,8 @@
+AC   Q52043;
+Cytotoxic protein ccdB (Protein letB).
+"Positive-selection vectors using the F plasmid ccdB killer gene.";
+-!- FUNCTION: Killing of plasmid-free segregants. Interferes with the
+    activity of DNA gyrase. Acts to inhibit partitioning of the
+    chromosomal DNA.
+Plasmid.
+TMZERO

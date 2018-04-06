@@ -1,0 +1,14 @@
+AC   P35818; Q9HZB2;
+General secretion pathway protein D precursor.
+"Xcp-mediated protein secretion in Pseudomonas aeruginosa:
+identification of two additional genes and evidence for regulation of
+xcp gene expression.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Involved in a general secretion pathway (GSP) for the
+    export of proteins.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the GSP D family.
+Complete proteome; Membrane; Outer membrane; Signal; Transport.
+TMZERO

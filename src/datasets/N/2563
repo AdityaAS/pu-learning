@@ -1,0 +1,11 @@
+AC   Q2A1K3;
+Aconitate hydratase (EC 4.2.1.3) (Citrate hydro-lyase) (Aconitase).
+"Complete genome sequence of Francisella tularensis LVS (Live Vaccine
+Strain).";
+-!- CATALYTIC ACTIVITY: Citrate = cis-aconitate + H(2)O.
+-!- COFACTOR: Binds 1 4Fe-4S cluster per subunit (By similarity).
+-!- PATHWAY: Carbohydrate metabolism; tricarboxylic acid cycle.
+-!- SIMILARITY: Belongs to the aconitase/IPM isomerase family.
+4Fe-4S; Complete proteome; Iron; Iron-sulfur; Lyase; Metal-binding;
+Tricarboxylic acid cycle.
+TMZERO

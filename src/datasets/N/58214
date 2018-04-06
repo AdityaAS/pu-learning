@@ -1,0 +1,18 @@
+AC   Q659L1;
+Alpha-(1,3)-fucosyltransferase (EC 2.4.1.-) (Galactoside 3-L-
+fucosyltransferase) (Fucosyltransferase 9) (FUCT-IX).
+"Phylogeny of fucosyltransferases.";
+-!- FUNCTION: Transfers a fucose to lacto-N-neotetraose but not to
+    either alpha2,3-sialyl lacto-N-neotetraose or lacto-N-tetraose.
+    Can catalyze the last step in the biosynthesis of Lewis antigen,
+    the addition of a fucose to precursor polysaccharides (By
+    similarity).
+-!- PATHWAY: Glycosylation.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi stack; Golgi stack
+    membrane; single-pass type II membrane protein (By similarity).
+    Note=Membrane-bound form in trans cisternae of Golgi (By
+    similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 10 family.
+Glycoprotein; Glycosyltransferase; Golgi apparatus; Membrane;
+Signal-anchor; Transferase; Transmembrane.
+TMONE

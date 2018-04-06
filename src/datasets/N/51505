@@ -1,0 +1,18 @@
+AC   Q875R9;
+Glucan 1,3-beta-glucosidase precursor (EC 3.2.1.58) (Exo-1,3-beta-
+glucanase).
+"Yeast genome duplication was followed by asynchronous differentiation
+of duplicated genes.";
+-!- FUNCTION: Beta-glucanases participate in the metabolism of beta-
+    glucan, the main structural component of the cell wall. It could
+    also function biosynthetically as a transglycosylase (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Successive hydrolysis of beta-D-glucose units
+    from the non-reducing ends of 1,3-beta-D-glucans, releasing alpha-
+    glucose.
+-!- SUBCELLULAR LOCATION: Secreted protein (Potential).
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+    family.
+ GO:0004338; F:glucan 1,3-beta-glucosidase activity; IEA:EC.
+Cell wall; Glycosidase; Hydrolase; Signal; Zymogen.
+TMZERO

@@ -1,0 +1,26 @@
+AC   P30121;
+Metalloproteinase inhibitor 2 precursor (TIMP-2) (Tissue inhibitor of
+metalloproteinases 2).
+"Cloning and regulation of rat tissue inhibitor of metalloproteinases-
+2 in osteoblastic cells.";
+"Cloning of the rat tissue inhibitor of metalloproteinases type 2
+(TIMP-2) gene: analysis of its expression in normal and transformed
+thyroid cells.";
+"Purification, cDNA cloning, and developmental changes in the steady-
+state mRNA level of rat testicular tissue inhibitor of
+metalloproteases-2 (TIMP-2).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Purification and sequence analysis of two rat tissue inhibitors of
+metalloproteinases.";
+-!- FUNCTION: Complexes with metalloproteinases (such as collagenases)
+    and irreversibly inactivates them.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- PTM: The activity of TIMP2 is dependent on the presence of
+    disulfide bonds.
+-!- SIMILARITY: Belongs to the protease inhibitor I35 (TIMP) family.
+-!- SIMILARITY: Contains 1 NTR domain.
+ GO:0007283; P:spermatogenesis; NAS:RGD.
+Direct protein sequencing; Metalloenzyme inhibitor;
+Metalloprotease inhibitor; Signal.
+TMZERO

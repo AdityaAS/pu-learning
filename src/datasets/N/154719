@@ -1,0 +1,9 @@
+AC   Q30QS9;
+50S ribosomal protein L9.
+"Complete sequence of Thiomicrospira denitrificans ATCC 33889.";
+-!- FUNCTION: Binds to the 23S rRNA (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L9P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

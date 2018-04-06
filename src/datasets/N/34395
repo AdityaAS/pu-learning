@@ -1,0 +1,16 @@
+AC   O07586;
+HTH-type transcriptional regulator cueR.
+"The 172 kb prkA-addAB region from 83 degrees to 97 degrees of the
+Bacillus subtilis chromosome contains several dysfunctional genes, the
+glyB marker, many genes encoding transporter proteins, and the
+ubiquitous hit gene.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Two MerR homologues that affect copper induction of the Bacillus
+subtilis copZA operon.";
+-!- FUNCTION: Transcriptional activator of the copZA operon.
+-!- MISCELLANEOUS: Binds a DNA inverted repeat of copZA operon.
+-!- SIMILARITY: Contains 1 HTH merR-type DNA-binding domain.
+Activator; Complete proteome; DNA-binding; Transcription;
+Transcription regulation.
+TMZERO

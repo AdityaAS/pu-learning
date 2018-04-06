@@ -1,0 +1,16 @@
+AC   Q86SD9;
+Alpha-neurotoxin 3 precursor (AamH3).
+"Isolation of scorpion (Androctonus amoreuxi) putative alpha
+neurotoxins and parallel cloning of their respective cDNAs from a
+single sample of venom.";
+-!- FUNCTION: Binds to sodium channels and inhibits the inactivation
+    of the activated channels, thereby blocking neuronal transmission.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- PTM: The C-terminal basic residue is removed by a
+    carboxypeptidase.
+-!- SIMILARITY: Belongs to the long (4 C-C) scorpion toxin
+    superfamily. Sodium channel inhibitor family. Alpha subfamily.
+Direct protein sequencing; Ionic channel inhibitor; Neurotoxin;
+Signal; Sodium channel inhibitor; Toxin.
+TMZERO

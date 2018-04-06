@@ -1,0 +1,16 @@
+AC   P21609;
+Thioredoxin (TRX).
+"Glycine reductase of Clostridium litorale. Cloning, sequencing, and
+molecular analysis of the grdAB operon that contains two in-frame TGA
+codons for selenium incorporation.";
+"Thioredoxin elicits a new dihydrolipoamide dehydrogenase activity by
+interaction with the electron-transferring flavoprotein in Clostridium
+litoralis and Eubacterium acidaminophilum.";
+-!- FUNCTION: Participates in various redox reactions through the
+    reversible oxidation of its active center dithiol to a disulfide
+    and catalyzes dithiol-disulfide exchange reactions.
+-!- SIMILARITY: Belongs to the thioredoxin family.
+-!- SIMILARITY: Contains 1 thioredoxin domain.
+Direct protein sequencing; Electron transport; Redox-active center;
+Transport.
+TMZERO

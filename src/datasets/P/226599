@@ -1,0 +1,20 @@
+AC   P49856;
+Multidrug resistance protein ykkC.
+"Oxygen-controlled regulation of the flavohemoglobin gene in Bacillus
+subtilis.";
+"Sequence of the Bacillus subtilis genome between xlyA and ykoR.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"A broad-specificity multidrug efflux pump requiring a pair of
+homologous SMR-type proteins.";
+-!- FUNCTION: Part of a multidrug efflux pump. Confers resistance to a
+    broad range of toxic compounds such as cationic dyes, neutral and
+    anionic antimicrobials.
+-!- SUBUNIT: The efflux pump is composed of ykkC and ykkD (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the small multidrug resistance (SMR)
+    protein family. YkkC/ykkD (TC 2.A.7.1.5) subfamily.
+Antibiotic resistance; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMFOUR

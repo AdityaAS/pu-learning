@@ -1,0 +1,13 @@
+AC   Q09629;
+Probable adenylate kinase isoenzyme ZK673.2 (EC 2.7.4.3) (ATP-AMP
+transphosphorylase).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: This small ubiquitous enzyme is essential for
+    maintenance and cell growth (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + AMP = 2 ADP.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the adenylate kinase family.
+ATP-binding; Complete proteome; Hypothetical protein; Kinase;
+Nucleotide-binding; Transferase.
+TMZERO

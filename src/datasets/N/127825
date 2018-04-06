@@ -1,0 +1,17 @@
+AC   P58130;
+Glycerol-3-phosphate acyltransferase (EC 2.3.1.15) (GPAT).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- CATALYTIC ACTIVITY: Acyl-CoA + sn-glycerol 3-phosphate = CoA + 1-
+    acyl-sn-glycerol 3-phosphate.
+-!- PATHWAY: De novo phospholipid biosynthesis; first step.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- DOMAIN: The HXXXXD motif is essential for acyltransferase activity
+    and may constitute the binding site for the phosphate moiety of
+    the glycerol-3-phosphate (By similarity).
+-!- SIMILARITY: Belongs to the GPAT/DAPAT family.
+Acyltransferase; Complete proteome; Membrane;
+Phospholipid biosynthesis; Transferase.
+TMZERO

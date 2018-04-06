@@ -1,0 +1,22 @@
+AC   P69452; P29212;
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) (Long-chain acyl-CoA
+synthetase) (Acyl-CoA synthetase).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Catalyzes the esterification, concomitant with
+    transport, of exogenous long-chain fatty acids into metabolically
+    active CoA thioesters for subsequent degradation or incorporation
+    into phospholipids (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + a long-chain carboxylic acid + CoA = AMP
+    + diphosphate + an acyl-CoA.
+-!- SUBUNIT: Homodimer (Probable).
+-!- SUBCELLULAR LOCATION: Membrane; peripheral membrane protein (By
+    similarity). Note=Partially membrane-associated (By similarity).
+-!- MISCELLANEOUS: Activity is the highest with fatty acid substrates
+    of > 10 carbon atoms (By similarity).
+-!- SIMILARITY: Belongs to the ATP-dependent AMP-binding enzyme
+    family.
+ GO:0004467; F:long-chain-fatty-acid-CoA ligase activity; IEA:EC.
+ATP-binding; Complete proteome; Fatty acid metabolism; Ligase;
+Lipid metabolism; Membrane; Nucleotide-binding.
+TMZERO

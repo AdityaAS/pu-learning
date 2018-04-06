@@ -1,0 +1,17 @@
+AC   Q9LVK9;
+Putative phospholipid-transporting ATPase 7 (EC 3.6.3.1)
+(Aminophospholipid flippase 7).
+"Structural analysis of Arabidopsis thaliana chromosome 3. I. Sequence
+features of the regions of 4,504,864 bp covered by sixty P1 and TAC
+clones.";
+-!- FUNCTION: Involved in transport of phospholipids (Potential).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IV subfamily.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction.
+ GO:0004012; F:phospholipid-translocating ATPase activity; IEA:EC.
+ATP-binding; Hydrolase; Hypothetical protein; Magnesium; Membrane;
+Metal-binding; Nucleotide-binding; Phosphorylation; Transmembrane.
+TMTEN

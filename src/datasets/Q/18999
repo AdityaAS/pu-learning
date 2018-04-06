@@ -1,0 +1,58 @@
+AC   Q02789; Q99240;
+Voltage-dependent L-type calcium channel subunit alpha-1S (Voltage-
+gated calcium channel subunit alpha Cav1.1) (Calcium channel, L type,
+alpha-1 polypeptide, isoform 3, skeletal muscle).
+"A single nucleotide deletion in the skeletal muscle-specific calcium
+channel transcript of muscular dysgenesis (mdg) mice.";
+"Molecular diversity of L-type calcium channels. Evidence for
+alternative splicing of the transcripts of three non-allelic genes.";
+-!- FUNCTION: Voltage-sensitive calcium channels (VSCC) mediate the
+    entry of calcium ions into excitable cells and are also involved
+    in a variety of calcium-dependent processes, including muscle
+    contraction, hormone or neurotransmitter release, gene expression,
+    cell motility, cell division and cell death. The isoform alpha-1S
+    gives rise to L-type calcium currents. Long-lasting (L-type)
+    calcium channels belong to the "high-voltage activated" (HVA)
+    group. They are blocked by dihydropyridines (DHP),
+    phenylalkylamines, benzothiazepines, and by omega-agatoxin-IIIA
+    (omega-Aga-IIIA). They are however insensitive to omega-conotoxin-
+    GVIA (omega-CTx-GVIA) and omega-agatoxin-IVA (omega-Aga-IVA).
+    Calcium channels containing the alpha-1S subunit play an important
+    role in excitation-contraction coupling in skeletal muscle.
+-!- SUBUNIT: Multisubunit complex consisting of alpha-1, alpha-2, beta
+    and delta subunits in a 1:1:1:1 ratio. The channel activity is
+    directed by the pore-forming and voltage-sensitive alpha-1
+    subunit. In many cases, this subunit is sufficient to generate
+    voltage-sensitive calcium channel activity. The auxiliary subunits
+    beta and alpha-2/delta linked by a disulfide bridge regulate the
+    channel activity. An additional gamma subunit is present only in
+    skeletal muscle L-type channel.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q02789-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q02789-2; Sequence=VSP_050420;
+-!- DOMAIN: Each of the four internal repeats contains five
+    hydrophobic transmembrane segments (S1, S2, S3, S5, S6) and one
+    positively charged transmembrane segment (S4). S4 segments
+    probably represent the voltage-sensor and are characterized by a
+    series of positively charged amino acids at every third position.
+-!- DOMAIN: The loop between repeats II and III interacts with the
+    ryanodine receptor, and is therefore important for calcium release
+    from the endoplasmic reticulum necessary for muscle contraction.
+-!- PTM: Phosphorylation by PKA activates the calcium channel (By
+    similarity).
+-!- DISEASE: Defects in Cacna1s are the cause of muscular dysgenesis
+    (MDG), a lethal autosomal recessive disorder in which there is
+    total lack of excitation-contraction coupling in homozygotes, and
+    which results in complete skeletal muscle paralysis. A single
+    nucleotide deletion yields a protein with an altered and truncated
+    C-terminus.
+-!- SIMILARITY: Belongs to the calcium channel alpha-1 subunit family.
+ GO:0030315; C:T-tubule; IDA:MGI.
+Alternative splicing; Calcium; Calcium channel; Calcium transport;
+Glycoprotein; Ion transport; Ionic channel; Membrane; Phosphorylation;
+Repeat; Transmembrane; Transport; Voltage-gated channel.
+TMTWENTYFOUR

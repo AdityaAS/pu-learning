@@ -1,0 +1,33 @@
+AC   P53048;
+General alpha-glucoside permease (Maltose permease MAL11) (Maltose
+transport protein MAL11).
+"Characterization of AGT1 encoding a general alpha-glucoside
+transporter from Saccharomyces.";
+"Sequence analysis of a near-subtelomeric 35.4 kb DNA segment on the
+right arm of chromosome VII from Saccharomyces cerevisiae carrying the
+MAL1 locus reveals 15 complete open reading frames, including ZUO1,
+BGL2 and BIO2 genes and an ABC transporter gene.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Concurrent knock-out of at least 20 transporter genes is required to
+block uptake of hexoses in Saccharomyces cerevisiae.";
+"Characterization of the putative maltose transporters encoded by
+YDL247w and YJR160c.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High-affinity uptake of alpha-glucosides such as
+    maltose, turanose, isomaltose, alpha-methylglucoside, maltotriose,
+    palatinose, trehalose, melezitose and glucose. Acts with the
+    concomitant transport of protons into the cell (symport system).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: By maltose and maltotriose. Repressed by glucose.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+ GO:0005624; C:membrane fraction; TAS:SGD.
+ GO:0005352; F:alpha-glucoside:hydrogen symporter activity; IDA:SGD.
+ GO:0005364; F:maltose:hydrogen symporter activity; IMP:SGD.
+ GO:0015574; F:trehalose transporter activity; IDA:SGD.
+ GO:0000017; P:alpha-glucoside transport; IDA:UniProtKB.
+ GO:0015771; P:trehalose transport; IDA:SGD.
+Complete proteome; Glycoprotein; Maltose metabolism; Membrane;
+Sugar transport; Symport; Transmembrane; Transport.
+TMTWELVE

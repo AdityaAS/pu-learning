@@ -1,0 +1,12 @@
+AC   P67236; Q10826;
+UPF0109 protein Rv2908c/MT2976.
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+-!- SIMILARITY: Belongs to the UPF0109 family.
+-!- SIMILARITY: Contains 1 KH domain.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+ GO:0003723; F:RNA binding; IEA:HAMAP.
+Complete proteome; RNA-binding.
+TMZERO

@@ -1,0 +1,21 @@
+AC   O61305;
+DEAD-box helicase Dbp80 (EC 3.6.1.-).
+"A novel DEAD-box RNA helicase exhibits high sequence conservation
+from yeast to humans.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"Heterochromatic sequences in a Drosophila whole-genome shotgun
+assembly.";
+-!- FUNCTION: ATP-dependent RNA helicase involved in mRNA export from
+    the nucleus (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus; nuclear
+    pore complex; cytoplasmic side (By similarity). Note=Nuclear pore
+    complex cytoplasmic fibrils.
+-!- SIMILARITY: Belongs to the DEAD box helicase family. DDX19/DBP5
+    subfamily.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ATP-binding; Complete proteome; Helicase; Hydrolase; Nuclear protein;
+Nucleotide-binding; RNA-binding.
+TMZERO

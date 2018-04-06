@@ -1,0 +1,45 @@
+AC   P22748;
+Carbonic anhydrase 4 precursor (EC 4.2.1.1) (Carbonic anhydrase IV)
+(Carbonate dehydratase IV) (CA-IV).
+"Human carbonic anhydrase IV: cDNA cloning, sequence comparison, and
+expression in COS cell membranes.";
+"Genomic organization and localization of gene for human carbonic
+anhydrase IV to chromosome 17q.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Carbonic anhydrase IV from human lung. Purification,
+characterization, and comparison with membrane carbonic anhydrase from
+human kidney.";
+"Carbonic anhydrase IV: purification of a secretory form of the
+recombinant human enzyme and identification of the positions and
+importance of its disulfide bonds.";
+"Carbonic anhydrase IV: role of removal of C-terminal domain in
+glycosylphosphatidylinositol anchoring and realization of enzyme
+activity.";
+"Crystal structure of the secretory form of membrane-associated human
+carbonic anhydrase IV at 2.8-A resolution.";
+"Mutant carbonic anhydrase 4 impairs pH regulation and causes retinal
+photoreceptor degeneration.";
+-!- FUNCTION: Reversible hydration of carbon dioxide. May stimulate
+    the sodium/bicarbonate transporter activity of SLC4A4.
+-!- CATALYTIC ACTIVITY: H(2)CO(3) = CO(2) + H(2)O.
+-!- COFACTOR: Zinc.
+-!- ENZYME REGULATION: Inhibited by acetazolamide.
+-!- SUBUNIT: Interacts with SLC4A4.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor.
+-!- TISSUE SPECIFICITY: Expressed in the endothelium of the
+    choriocapillaris in eyes (at protein level).
+-!- DISEASE: Defects in CA4 are the cause of retinitis pigmentosa 17
+    (RP17) [MIM:600852]. Retinitis pigmentosa (RP) [MIM:268000] leads
+    to degeneration of retinal photoreceptor cells. Patients typically
+    have night vision blindness and loss of midperipheral visual
+    field. As their condition progresses, they lose their far
+    peripheral visual field and eventually central vision as well.
+    RP17 inheritance is autosomal dominant.
+-!- SIMILARITY: Belongs to the alpha-carbonic anhydrase family.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0004089; F:carbonate dehydratase activity; TAS:ProtInc.
+3D-structure; Direct protein sequencing; Disease mutation; GPI-anchor;
+Lipoprotein; Lyase; Membrane; Metal-binding; Retinitis pigmentosa;
+Sensory transduction; Signal; Vision; Zinc.
+TMZERO

@@ -1,0 +1,28 @@
+AC   P38085;
+Valine/tyrosine/tryptophan amino-acid permease.
+"Two FK506 resistance-conferring genes in Saccharomyces cerevisiae,
+TAT1 and TAT2, encode amino acid permeases mediating tyrosine and
+tryptophan uptake.";
+"Complete DNA sequence of yeast chromosome II.";
+"Sequence analysis of a 31 kb DNA fragment from the right arm of
+Saccharomyces cerevisiae chromosome II.";
+"Cysteine uptake by Saccharomyces cerevisiae is accomplished by
+multiple permeases.";
+"Global analysis of protein expression in yeast.";
+"A subset of membrane-associated proteins is ubiquitinated in response
+to mutations in the endoplasmic reticulum degradation machinery.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High-affinity transport of valine and tyrosine. Low-
+    affinity transport of tryptophan. Can also transport L-cysteine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 504 molecules/cell.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0015171; F:amino acid transporter activity; IDA:SGD.
+ GO:0006865; P:amino acid transport; IDA:SGD.
+Acetylation; Amino-acid transport; Complete proteome; Membrane;
+Phosphorylation; Transmembrane; Transport; Ubl conjugation.
+TMTWELVE

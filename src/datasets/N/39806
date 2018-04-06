@@ -1,0 +1,22 @@
+AC   P0AEC9; P39272; P76795;
+Sensor protein dcuS (EC 2.7.13.3).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Member of the two-component regulatory system dcuR/dcuS.
+    Involved in the C4-dicarboxylate-stimulated regulation of the
+    genes encoding the anaerobic fumarate respiratory system (frdABCD;
+    nuoAN; dcuB; dcuC; sdhCDAB; etc.). Weakly regulates the aerobic
+    C4-dicarboxylate transporter dctA. Activates dcuR by
+    phosphorylation (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + protein L-histidine = ADP + protein N-
+    phospho-L-histidine.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- PTM: Autophosphorylated. The phosphoryl group is rapidely
+    transferred to dcuR (By similarity).
+-!- SIMILARITY: Contains 1 histidine kinase domain.
+-!- SIMILARITY: Contains 1 PAS (PER-ARNT-SIM) domain.
+Complete proteome; Inner membrane; Kinase; Membrane; Phosphorylation;
+Transferase; Transmembrane; Two-component regulatory system.
+TMTWO

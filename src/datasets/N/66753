@@ -1,0 +1,14 @@
+AC   P60895; Q9JHI6; Q9NPD1;
+Probable G-protein coupled receptor 85 (Super conserved receptor
+expressed in brain 2) (PKrCx1).
+"An evolutionarily conserved G-protein coupled receptor family, SREB,
+expressed in the central nervous system.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Orphan receptor.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+G-protein coupled receptor; Glycoprotein; Membrane; Receptor;
+Transducer; Transmembrane.
+TMSEVEN

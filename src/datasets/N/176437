@@ -1,0 +1,13 @@
+AC   Q5XE77;
+Single-stranded DNA-binding protein 1 (SSB 1) (Helix-destabilizing
+protein 1).
+"Progress toward characterization of the group A Streptococcus
+metagenome: complete genome sequence of a macrolide-resistant serotype
+M6 strain.";
+-!- FUNCTION: This protein is essential for replication of the
+    chromosome. It is also involved in DNA recombination and repair
+    (By similarity).
+-!- SIMILARITY: Contains 1 SSB domain.
+Complete proteome; DNA damage; DNA repair; DNA replication;
+DNA-binding.
+TMZERO

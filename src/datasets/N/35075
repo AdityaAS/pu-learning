@@ -1,0 +1,12 @@
+AC   P01466;
+Cytotoxin 7 (Toxin CM-4B).
+"Snake venom toxin. The amino acid sequence of three toxins (CM-2h,
+CM-4b and CM-6) from Naja haje annulifera (Egyptian cobra) venom.";
+-!- FUNCTION: Shows cytolytic activity (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- TOXIC DOSE: LD(50) is 2.61 mg/kg by subcutaneous injection.
+-!- SIMILARITY: Belongs to the snake toxin family. Type IA cytotoxin
+    subfamily.
+Cardiotoxin; Cytolysis; Direct protein sequencing; Toxin.
+TMZERO

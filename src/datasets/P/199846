@@ -1,0 +1,16 @@
+AC   Q62668;
+Urea transporter, kidney.
+"Cloning and regulation of expression of the rat kidney urea
+transporter (rUT2).";
+"Molecular cloning and characterization of the vasopressin-regulated
+urea transporter of rat kidney collecting ducts.";
+-!- FUNCTION: Specialized low-affinity urea transporter. Mediates urea
+    transport in kidney.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Kidney.
+-!- SIMILARITY: Belongs to the urea transporter family.
+ GO:0015204; F:urea transporter activity; NAS:RGD.
+ GO:0009414; P:response to water deprivation; IEP:RGD.
+ GO:0015840; P:urea transport; NAS:RGD.
+Glycoprotein; Membrane; Transmembrane; Transport.
+TMTEN

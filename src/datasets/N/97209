@@ -1,0 +1,16 @@
+AC   Q9ZDF6;
+Probable NADP-dependent malic enzyme (EC 1.1.1.40) (NADP-ME).
+"The genome sequence of Rickettsia prowazekii and the origin of
+mitochondria.";
+-!- CATALYTIC ACTIVITY: (S)-malate + NADP(+) = pyruvate + CO(2) +
+    NADPH.
+-!- COFACTOR: Divalent metal cations. Prefers magnesium or manganese
+    (By similarity).
+-!- SIMILARITY: In the N-terminal section; belongs to the malic
+    enzymes family.
+-!- SIMILARITY: In the C-terminal section; belongs to the phosphate
+    acetyltransferase and butyryltransferase family.
+ GO:0004473; F:malate dehydrogenase (oxaloacetate-decarbox...; IEA:EC.
+Complete proteome; Metal-binding; Multifunctional enzyme; NADP;
+Oxidoreductase.
+TMZERO

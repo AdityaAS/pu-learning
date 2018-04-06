@@ -1,0 +1,32 @@
+AC   P02586;
+Troponin C, skeletal muscle.
+"Isolation and sequence of a cDNA clone for rabbit fast skeletal
+muscle troponin C. Homology with calmodulin and parvalbumin.";
+"Cloning, sequencing and expression of a full-length rabbit fast
+skeletal troponin-C cDNA.";
+"Determination of the amino acid sequence of troponon C from rabbit
+skeletal muscle.";
+"The predicted structure of the calcium-binding component of
+troponin.";
+"Solution structure of a polypeptide dimer comprising the fourth
+Ca(2+)-binding site of troponin C by nuclear magnetic resonance
+spectroscopy.";
+"Structures of four Ca2+-bound troponin C at 2.0-A resolution: further
+insights into the Ca2+-switch in the calmodulin superfamily.";
+"Conformational variation of calcium-bound troponin C.";
+"Crystal structure of troponin C in complex with troponin I fragment
+at 2.3-A resolution.";
+-!- FUNCTION: Troponin is the central regulatory protein of striated
+    muscle contraction. Tn consists of three components: Tn-I which is
+    the inhibitor of actomyosin ATPase, Tn-T which contains the
+    binding site for tropomyosin and Tn-C. The binding of calcium to
+    Tn-C abolishes the inhibitory action of Tn on actin filaments.
+-!- INTERACTION:
+    P02643:TNNI2; NbExp=1; IntAct=EBI-1026870, EBI-1026877;
+-!- MISCELLANEOUS: Skeletal muscle troponin C binds four calcium ions.
+-!- SIMILARITY: Belongs to the troponin C family.
+-!- SIMILARITY: Contains 4 EF-hand domains.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Acetylation; Calcium; Direct protein sequencing;
+Muscle protein; Repeat.
+TMZERO

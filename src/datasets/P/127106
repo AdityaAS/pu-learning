@@ -1,0 +1,42 @@
+AC   Q9C6B8; Q9ZSY5; Q9ZSY6;
+Auxin efflux carrier component 1 (Protein PIN-FORMED) (AtPIN1).
+"Regulation of polar auxin transport by AtPIN1 in Arabidopsis vascular
+tissue.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Coordinated polar localization of auxin efflux carrier PIN1 by GNOM
+ARF GEF.";
+"Auxin transport inhibitors block PIN1 cycling and vesicle
+trafficking.";
+"Efflux-dependent auxin gradients establish the apical-basal axis of
+Arabidopsis.";
+"Local, efflux-dependent auxin gradients as a common module for plant
+organ formation.";
+-!- FUNCTION: Acts as a component of the auxin efflux carrier. Seems
+    to be involved in the basipetal auxin transport. Mediates the
+    formation of auxin gradient which is required to ensure correct
+    organogenesis. Coordinated polar localization of PIN1 is directly
+    regulated by the vesicle trafficking process. The ARF-GEF protein
+    GNOM is required for the correct recycling of PIN1 between the
+    plasma membrane and endosomal compartments.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Expressed at the basal side of elongated
+    parenchymatous xylem cells.
+-!- DEVELOPMENTAL STAGE: Expressed during embryogenesis. Already
+    detected in the 8-cell stage at the inner cell boundaries. Later,
+    polarity is gradually established at the basal side of provascular
+    cells then in epidermis cells.
+-!- MISCELLANEOUS: Loss-of-function mutants exhibit developed naked,
+    pin-shaped inflorescences and abnormalities in the number, size,
+    shape, and position of lateral organs.
+-!- SIMILARITY: Belongs to the auxin efflux carrier (TC 2.A.69)
+    family.
+-!- CAUTION: Ref.1 (AAD04377) sequence differs from that shown due to
+    erroneous gene model prediction.
+ GO:0005737; C:cytoplasm; IDA:TAIR.
+Auxin signaling pathway; Glycoprotein; Membrane; Transmembrane;
+Transport.
+TMTEN

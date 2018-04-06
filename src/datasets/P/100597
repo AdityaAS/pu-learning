@@ -1,0 +1,23 @@
+AC   Q9H2D1; Q96JZ6; Q96SU7;
+Mitochondrial folate transporter/carrier (Solute carrier family 25
+member 32).
+"Retrovirally mediated complementation of the glyB phenotype. Cloning
+of a human gene encoding the carrier for entry of folates into
+mitochondria.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Transports folate across the inner membranes of
+    mitochondria.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005743; C:mitochondrial inner membrane; NAS:UniProtKB.
+ GO:0008517; F:folic acid transporter activity; NAS:UniProtKB.
+ GO:0015884; P:folic acid transport; NAS:UniProtKB.
+Inner membrane; Membrane; Mitochondrion; Repeat; Transmembrane;
+Transport.
+THTHREE

@@ -1,0 +1,46 @@
+AC   P08067;
+Ubiquinol-cytochrome c reductase iron-sulfur subunit, mitochondrial
+precursor (EC 1.10.2.2) (Complex III subunit RIP1) (Cytochrome b-c1
+complex subunit RIP1) (Rieske iron-sulfur protein) (RISP).
+"Isolation and characterization of the nuclear gene encoding the
+Rieske iron-sulfur protein (RIP1) from Saccharomyces cerevisiae.";
+"Mutational analysis of the mitochondrial Rieske iron-sulfur protein
+of Saccharomyces cerevisiae. I. Construction of a RIP1 deletion strain
+and isolation of temperature-sensitive mutants.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Mutational analysis of the mitochondrial Rieske iron-sulfur protein
+of Saccharomyces cerevisiae. III. Import, protease processing, and
+assembly into the cytochrome bc1 complex of iron-sulfur protein
+lacking the iron-sulfur cluster.";
+"Structure and function of the mitochondrial bc1 complex. A mutational
+analysis of the yeast Rieske iron-sulfur protein.";
+"Structure at 2.3 A resolution of the cytochrome bc1 complex from the
+yeast Saccharomyces cerevisiae co-crystallized with an antibody Fv
+fragment.";
+"Crystal structure of the yeast cytochrome bc1 complex with its bound
+substrate cytochrome c.";
+-!- FUNCTION: Component of the ubiquinol-cytochrome c reductase
+    complex (complex III or cytochrome b-c1 complex), which is part of
+    the mitochondrial respiratory chain that generates an
+    electrochemical potential coupled to ATP synthesis. The complex
+    couples electron transfer from ubiquinol to cytochrome c.
+-!- CATALYTIC ACTIVITY: QH(2) + 2 ferricytochrome c = Q + 2
+    ferrocytochrome c.
+-!- COFACTOR: Binds 1 2Fe-2S cluster per subunit.
+-!- SUBUNIT: Fungi cytochrome b-c1 complex contains 10 subunits; 3
+    respiratory subunits, 2 core proteins and 5 low-molecular weight
+    proteins. Cytochrome b-c1 complex is a homodimer.
+-!- MISCELLANEOUS: The Rieske protein is a high potential 2Fe-2S
+    protein.
+-!- SIMILARITY: Contains 1 Rieske domain.
+ GO:0005750; C:respiratory chain complex III (sensu Eukary...; IDA:SGD.
+ GO:0008121; F:ubiquinol-cytochrome-c reductase activity; IDA:SGD.
+ GO:0009060; P:aerobic respiration; IMP:SGD.
+ GO:0006122; P:mitochondrial electron transport, ubiquinol...; IDA:SGD.
+2Fe-2S; 3D-structure; Complete proteome; Electron transport;
+Inner membrane; Iron; Iron-sulfur; Membrane; Metal-binding;
+Mitochondrion; Oxidoreductase; Respiratory chain; Transit peptide;
+Transmembrane; Transport.
+TMZERO

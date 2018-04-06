@@ -1,0 +1,20 @@
+AC   P04982; Q2M866;
+High affinity ribose transport protein rbsD.
+"The nucleotide sequences of the rbsD, rbsA, and rbsC genes of
+Escherichia coli K12.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence and 3'-end deletion studies indicate that the
+K(+)-uptake protein kup from Escherichia coli is composed of a
+hydrophobic core linked to a large and partially essential hydrophilic
+C-terminus.";
+-!- FUNCTION: Involved in the high-affinity ribose membrane transport
+    system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transport.
+TMZERO

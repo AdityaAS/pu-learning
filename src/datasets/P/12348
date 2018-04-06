@@ -1,0 +1,21 @@
+AC   Q29449;
+Probable phospholipid-transporting ATPase IA (EC 3.6.3.1) (Chromaffin
+granule ATPase II) (ATPase class I type 8A member 1).
+"A subfamily of P-type ATPases with aminophospholipid transporting
+activity.";
+-!- FUNCTION: May play a role in the transport of aminophospholipids
+    from the outer to the inner leaflet of various membranes and the
+    maintenance of asymmetric distribution of phospholipids, mainly in
+    secretory vesicles.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; secretory vesicle;
+    chromaffin granule; chromaffin granule membrane; multi-pass
+    membrane protein.
+-!- TISSUE SPECIFICITY: Kidney.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IV subfamily.
+ GO:0004012; F:phospholipid-translocating ATPase activity; IEA:EC.
+ATP-binding; Direct protein sequencing; Hydrolase; Magnesium;
+Membrane; Metal-binding; Nucleotide-binding; Phosphorylation;
+Transmembrane.
+TMTEN

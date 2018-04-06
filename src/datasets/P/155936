@@ -1,0 +1,30 @@
+AC   Q07396;
+Electron transport complex protein rnfA (Nitrogen fixation protein
+rnfA).
+"Identification of a new class of nitrogen fixation genes in
+Rhodobacter capsulatus: a putative membrane complex involved in
+electron transport to nitrogenase.";
+"Nucleotide sequence and genetic analysis of the region essential for
+functional expression of the gene for ferredoxin I, fdxN, in
+Rhodobacter capsulatus: sharing of one upstream activator sequence in
+opposite directions by two operons related to nitrogen fixation.";
+"Overexpression in Escherichia coli of the rnf genes from Rhodobacter
+capsulatus -- characterization of two membrane-bound iron-sulfur
+proteins.";
+"Membrane localization, topology, and mutual stabilization of the
+rnfABC gene products in Rhodobacter capsulatus and implications for a
+new family of energy-coupling NADH oxidoreductases.";
+-!- FUNCTION: Required for nitrogen fixation. May be part of a
+    membrane complex functioning as an intermediate in the electron
+    transport to nitrogenase. Required for stable existence of rnfB
+    and rnfC.
+-!- SUBUNIT: Composed of at least six subunits; rnfA, rnfB, rnfC,
+    rnfD, rnfE and rnfG.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Expression is reduced under iron-limiting conditions.
+-!- SIMILARITY: Belongs to the nqrDE/rnfAE family.
+ GO:0009399; P:nitrogen fixation; IEA:HAMAP.
+Electron transport; Inner membrane; Membrane; Nitrogen fixation;
+Transmembrane; Transport.
+TMSIX

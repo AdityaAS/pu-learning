@@ -1,0 +1,22 @@
+AC   P19568;
+ADP,ATP carrier protein 1 (ADP/ATP translocase 1).
+"Nucleotide sequence of the Rickettsia prowazekii ATP/ADP translocase-
+encoding gene.";
+"The genome sequence of Rickettsia prowazekii and the origin of
+mitochondria.";
+"Identification and initial topological analysis of the Rickettsia
+prowazekii ATP/ADP translocase.";
+"Rickettsia prowazekii and ATP/ADP translocase. Analysis of gene
+fusions encoding beta-galactosidase-ATP/ADP translocase fusion
+proteins.";
+"Membrane topology of the Rickettsia prowazekii ATP/ADP translocase
+revealed by novel dual pho-lac reporters.";
+-!- FUNCTION: Provides the rickettsial cell with host ATP in exchange
+    for rickettsial ADP. This is an obligate exchange system. This
+    energy acquiring activity is an important component of rickettsial
+    parasitism.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ADP/ATP translocase tlc family.
+ATP-binding; Complete proteome; Membrane; Nucleotide-binding;
+Transmembrane; Transport.
+TMTWELVE

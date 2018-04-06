@@ -1,0 +1,22 @@
+AC   P17921; P94539;
+Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+(Phenylalanine--tRNA ligase alpha chain) (PheRS).
+"Structure and nucleotide sequence of the Bacillus subtilis
+phenylalanyl-tRNA synthetase genes.";
+"The dnaB-pheA (256 degrees-240 degrees) region of the Bacillus
+subtilis chromosome containing genes responsible for stress responses,
+the utilization of plant cell walls and primary metabolism.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- CATALYTIC ACTIVITY: ATP + L-phenylalanine + tRNA(Phe) = AMP +
+    diphosphate + L-phenylalanyl-tRNA(Phe).
+-!- COFACTOR: Binds 2 magnesium ions per tetramer (By similarity).
+-!- SUBUNIT: Tetramer of two alpha and two beta chains (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family. Phe-tRNA synthetase alpha chain type 1 subfamily.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Magnesium; Metal-binding; Nucleotide-binding; Protein biosynthesis.
+TMZERO

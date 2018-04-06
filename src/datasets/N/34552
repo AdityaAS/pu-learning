@@ -1,0 +1,10 @@
+AC   Q98L96;
+Copper homeostasis protein cutC.
+"Complete genome structure of the nitrogen-fixing symbiotic bacterium
+Mesorhizobium loti.";
+-!- FUNCTION: Involved in copper homeostasis (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the cutC family.
+ GO:0006878; P:copper ion homeostasis; IEA:HAMAP.
+Complete proteome; Copper.
+TMZERO

@@ -1,0 +1,42 @@
+AC   Q9NZJ7; Q6PK60; Q6UX45; Q7L465; Q9BW23; Q9NZR6; Q9UJZ5;
+Mitochondrial carrier homolog 1 (Presenilin-associated protein).
+"Identification of an evolutionary conserved mitochondrial carrier
+family from various organisms.";
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"The DNA sequence and analysis of human chromosome 6.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of a novel PSD-95/Dlg/ZO-1 (PDZ)-like protein
+interacting with the C terminus of presenilin-1.";
+"The novel presenilin-1-associated protein is a proapoptotic
+mitochondrial protein.";
+-!- FUNCTION: Potential mitochondrial transporter. May play a role in
+    apoptosis.
+-!- SUBUNIT: Interacts with PSEN1.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q9NZJ7-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9NZJ7-2; Sequence=VSP_017882;
+    Name=3;
+      IsoId=Q9NZJ7-3; Sequence=VSP_017881, VSP_017882;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Widely expressed with a predominant expression
+    in brain.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 2 Solcar repeats.
+ GO:0005622; C:intracellular; NAS:UniProtKB.
+ GO:0005739; C:mitochondrion; IMP:UniProtKB.
+ GO:0030165; F:PDZ domain binding; NAS:UniProtKB.
+ GO:0006919; P:caspase activation; IMP:UniProtKB.
+ GO:0045161; P:neuronal ion channel clustering; NAS:UniProtKB.
+ GO:0043065; P:positive regulation of apoptosis; IEP:UniProtKB.
+ GO:0009966; P:regulation of signal transduction; NAS:UniProtKB.
+Alternative splicing; Apoptosis; Membrane; Repeat; Transmembrane;
+Transport.
+TMTWO

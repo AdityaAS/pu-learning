@@ -1,0 +1,22 @@
+AC   Q9QXQ1;
+cAMP-specific 3',5'-cyclic phosphodiesterase 7B (EC 3.1.4.17).
+"Cloning and characterization of PDE7B, a cAMP-specific
+phosphodiesterase.";
+"Cloning and characterisation of the human and mouse PDE7B, a novel
+cAMP-specific nucleotide phosphodiesterase.";
+-!- FUNCTION: May be involved in the control of cAMP-mediated neural
+    activity and cAMP metabolism in the brain.
+-!- CATALYTIC ACTIVITY: Adenosine 3',5'-cyclic phosphate + H(2)O =
+    adenosine 5'-phosphate.
+-!- COFACTOR: Divalent cations (By similarity).
+-!- ENZYME REGULATION: Inhibited by dipyridamole, IBMX and SCH 51866.
+    Insensitive to zaprinast, rolipram, and milrinone.
+-!- PATHWAY: Cyclic nucleotide metabolism.
+-!- TISSUE SPECIFICITY: Highly expressed in brain.
+-!- DOMAIN: Composed of a C-terminal catalytic domain containing two
+    putative divalent metal sites and an N-terminal regulatory domain.
+-!- SIMILARITY: Belongs to the cyclic nucleotide phosphodiesterase
+    family.
+ GO:0004115; F:3',5'-cyclic-AMP phosphodiesterase activity; IDA:MGI.
+cAMP; Hydrolase.
+TMZERO

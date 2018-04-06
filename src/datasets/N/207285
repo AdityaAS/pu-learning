@@ -1,0 +1,36 @@
+AC   P14068; Q09197; Q9HF66; Q9URF4; Q9UTF9; Q9UTG0; Q9UUL0; Q9UUL1;
+Exportin-1 (Chromosome region maintenance protein 1) (Caffeine
+resistance protein 2).
+"Higher order chromosome structure is affected by cold-sensitive
+mutations in a Schizosaccharomyces pombe gene crm1+ which encodes a
+115-kD protein preferentially localized in the nucleus and its
+periphery.";
+"Fission yeast pap1-dependent transcription is negatively regulated by
+an essential nuclear protein, crm1.";
+"Leptomycin B targets a regulatory cascade of crm1, a fission yeast
+nuclear protein, involved in control of higher order chromosome
+structure and gene expression.";
+"Leptomycin B inactivates CRM1/exportin 1 by covalent modification at
+a cysteine residue in the central conserved region.";
+"Sequence of Crm1/exportin 1 mutant alleles reveals critical sites
+associated with multidrug resistance.";
+"Cloning of caf1+, caf2+ and caf4+ from Schizosaccharomyces pombe:
+their involvement in multidrug resistance, UV and pH sensitivity.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Receptor for the leucine-rich nuclear export signal
+    (NES).
+-!- SUBCELLULAR LOCATION: Nucleus. Note=Localized in the nucleus and
+    at its periphery.
+-!- MISCELLANEOUS: Cellular target of leptomycin B (LMB), a nuclear
+    export inhibitor. LMB alkylates Cys-529 leading to CRM1
+    inactivation.
+-!- SIMILARITY: Belongs to the exportin family.
+-!- SIMILARITY: Contains 1 importin N-terminal domain.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005635; C:nuclear envelope; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0006611; P:protein export from nucleus; IGI:GeneDB_SPombe.
+ GO:0031000; P:response to caffeine; IMP:GeneDB_SPombe.
+ GO:0006979; P:response to oxidative stress; IMP:GeneDB_SPombe.
+Complete proteome; Nuclear protein; Protein transport; Transport.
+TMZERO

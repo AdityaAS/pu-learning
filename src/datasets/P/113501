@@ -1,0 +1,19 @@
+AC   P29916;
+NADH-quinone oxidoreductase chain 4 (EC 1.6.99.5) (NADH dehydrogenase
+I, chain 4) (NDH-1, chain 4).
+"Gene cluster of the energy-transducing NADH-quinone oxidoreductase of
+Paracoccus denitrificans: characterization of four structural gene
+products.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain. The
+    immediate electron acceptor for the enzyme in this species is
+    believed to be ubiquinone. Couples the redox reaction to proton
+    translocation (for every two electrons transferred, four hydrogen
+    ions are translocated across the cytoplasmic membrane), and thus
+    conserves the redox energy in a proton gradient.
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- SUBUNIT: Composed of 14 different subunits.
+-!- SIMILARITY: Belongs to the complex I 49 kDa subunit family.
+ GO:0050136; F:NADH dehydrogenase (quinone) activity; IEA:EC.
+Direct protein sequencing; NAD; Oxidoreductase; Quinone; Ubiquinone.
+TMZERO

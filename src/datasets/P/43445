@@ -1,0 +1,46 @@
+AC   Q9HC21;
+Mitochondrial deoxynucleotide carrier (Solute carrier family 25 member
+19) (Mitochondrial uncoupling protein 1).
+"The human mitochondrial deoxynucleotide carrier and its role in the
+toxicity of nucleoside antivirals.";
+"MUP 1, a mitochondrial uncoupling protein.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Mutant deoxynucleotide carrier is associated with congenital
+microcephaly.";
+-!- FUNCTION: Responsible for the uptake of deoxynucleotides into the
+    matrix of the mitochondria. Transports all four deoxy NDPs, and,
+    less efficiently, the corresponding dNTPs. Does not transport
+    dNMPs, NMPs, deoxynucleosides, nucleosides, purines, or
+    pyrimidines. Supply deoxynucleotides to the mitochondrial matrix
+    for conversion to triphosphates and incorporation into
+    mitochondrial DNA.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in all tissues examined except for
+    placenta. Highest levels in colon, kidney, lung, testis, spleen,
+    and brain.
+-!- DISEASE: Defects in SLC25A19 are the cause of Amish type
+    microcephaly (MCPHA) [MIM:607196]; also known as Amish lethal
+    microcephaly. MCPHA is an autosomal recessive metabolic disorder
+    characterized by severe congenital microcephaly, severe 2-
+    ketoglutaric aciduria and death within the first year.
+-!- DISEASE: Likely to be medically important by providing the means
+    of uptake into mitochondria of nucleoside analogs, leading to the
+    mitochondrial impairment that underlies the toxic side effects of
+    such drugs in the treatment of viral illnesses, including AIDS,
+    and in cancer therapy.
+-!- MISCELLANEOUS: The transmembrane helices are not perpendicular to
+    the plane of the membrane, but cross the membrane at an angle.
+    Odd-numbered transmembrane helices exhibit a sharp kink, due to
+    the presence of a conserved proline residue (By similarity).
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SLC25A19".
+ GO:0005743; C:mitochondrial inner membrane; NAS:UniProtKB.
+ GO:0030233; F:deoxynucleotide transporter activity; TAS:UniProtKB.
+ GO:0030302; P:deoxynucleotide transport; NAS:UniProtKB.
+Disease mutation; Inner membrane; Membrane; Mitochondrion; Repeat;
+Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,21 @@
+AC   O30477; O50478;
+Replicative DNA helicase (EC 3.6.1.-) [Contains: Endonuclease PI-
+Rma43812IP (EC 3.1.-.-) (Rma dnaB intein)].
+"A DnaB intein in Rhodothermus marinus: indication of recent intein
+homing across remotely related organisms.";
+"Cloning of a dnaB homolog gene from Rhodothermus marinus with high
+similarity to the E.coli helicase but not able to complement a dnaBts
+mutation.";
+-!- FUNCTION: Participates in initiation and elongation during
+    chromosome replication; it exhibits DNA-dependent ATPase activity
+    (By similarity).
+-!- PTM: This protein undergoes a protein self splicing that involves
+    a post-translational excision of the intervening region (intein)
+    followed by peptide ligation (Potential).
+-!- SIMILARITY: Belongs to the helicase family. DnaB subfamily.
+-!- SIMILARITY: Contains 1 DOD-type homing endonuclease domain.
+-!- SIMILARITY: Contains 1 SF4 helicase domain.
+ATP-binding; Autocatalytic cleavage; DNA replication; DNA-binding;
+Endonuclease; Helicase; Hydrolase; Intron homing; Nuclease;
+Nucleotide-binding; Primosome; Protein splicing; Repeat.
+TMZERO

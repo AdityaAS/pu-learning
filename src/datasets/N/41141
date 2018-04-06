@@ -1,0 +1,12 @@
+AC   Q8NWQ3;
+Alanine dehydrogenase 1 (EC 1.4.1.1).
+"Genome and virulence determinants of high virulence community-
+acquired MRSA.";
+-!- FUNCTION: May play a role in cell wall synthesis as L-alanine is
+    an important constituent of the peptidoglycan layer (By
+    similarity).
+-!- CATALYTIC ACTIVITY: L-alanine + H(2)O + NAD(+) = pyruvate + NH(3)
+    + NADH.
+-!- SIMILARITY: Belongs to the AlaDH/PNT family.
+Complete proteome; NAD; Oxidoreductase.
+TMZERO

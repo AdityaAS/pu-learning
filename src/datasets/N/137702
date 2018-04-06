@@ -1,0 +1,12 @@
+AC   P50036;
+Phycobilisome 7.8 kDa linker polypeptide, allophycocyanin-associated,
+core (LC 7.8).
+"Complete genome structure of the thermophilic cyanobacterium
+Thermosynechococcus elongatus BP-1.";
+-!- SUBCELLULAR LOCATION: Note=This protein occurs in the core
+    membrane of phycobilisomes, associated with allophycocyanin.
+-!- SIMILARITY: Belongs to the phycobilisome linker protein family.
+ GO:0030089; C:phycobilisome; NAS:UniProtKB.
+ GO:0009765; P:photosynthesis, light harvesting; NAS:UniProtKB.
+Complete proteome; Photosynthesis; Phycobilisome.
+TMZERO

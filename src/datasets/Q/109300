@@ -1,0 +1,24 @@
+AC   P44654;
+Diheme cytochrome c napB precursor.
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+"Overproduction, purification and novel redox properties of the dihaem
+cytochrome c, NapB, from Haemophilus influenzae.";
+"Crystallization and preliminary X-ray analysis of the recombinant
+dihaem cytochrome c (NapB) from Haemophilus influenzae.";
+-!- FUNCTION: Small subunit of the periplasmic nitrate reductase
+    (NAP). Only expressed at high levels during aerobic growth. NapAB
+    complex receives electrons from the membrane-anchored tetraheme
+    napC protein, thus allowing electron flow between membrane and
+    periplasm. Essential function for nitrate assimilation and may
+    have a role in anaerobic metabolism (By similarity).
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Redox potential:
+      E(0) are -25 mV and -175 mV;
+-!- SUBUNIT: Heterodimer of a catalytic subunit and a cytochrome c (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- PTM: Binds 2 heme groups per subunit.
+3D-structure; Complete proteome; Electron transport; Heme; Iron;
+Metal-binding; Periplasmic; Signal; Transport.
+TMZERO

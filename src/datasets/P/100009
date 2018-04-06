@@ -1,0 +1,24 @@
+AC   P31547;
+D-methionine transport system permease protein metI.
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+4.0 - 6.0 min (189,987 - 281,416bp) region.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The metD D-methionine transporter locus of Escherichia coli is an ABC
+transporter gene cluster.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for D-methionine and the toxic methionine analog alpha-methyl-
+    methionine. Probably responsible for the translocation of the
+    substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. CysTW subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMFIVE

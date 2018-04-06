@@ -1,0 +1,17 @@
+AC   P84674;
+Phospholipase A2 VRV-PL-V (EC 3.1.1.4) (Phosphatidylcholine 2-
+acylhydrolase).
+"Mechanism of action of snake venom toxic phospholipases.";
+-!- FUNCTION: PA2 catalyzes the calcium-dependent hydrolysis of the 2-
+    acyl groups in 3-sn-phosphoglycerides.
+-!- CATALYTIC ACTIVITY: Phosphatidylcholine + H(2)O = 1-
+    acylglycerophosphocholine + a carboxylate.
+-!- COFACTOR: Binds 1 calcium ion.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the phospholipase A2 family. Group II
+    subfamily.
+Calcium; Direct protein sequencing; Hydrolase; Lipid degradation;
+Metal-binding; Toxin.
+TMZERO

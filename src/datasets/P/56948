@@ -1,0 +1,36 @@
+AC   P23900;
+Glycerol uptake/efflux facilitator protein.
+"A yeast homologue of the bovine lens fibre MIP gene family
+complements the growth defect of a Saccharomyces cerevisiae mutant on
+fermentable sugars but not its defect in glucose-induced RAS-mediated
+cAMP signalling.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Fps1, a yeast member of the MIP family of channel proteins, is a
+facilitator for glycerol uptake and efflux and is inactive under
+osmotic stress.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Channel protein for glycerol. Has a role in both
+    glycerol influx and efflux. Plays a role in osmoregulation: under
+    osmotic stress the channel is apparently closed to allow
+    accumulation of glycerol in the cell under hyperosmotic
+    conditions.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro/Leu-Ala/Ser (NPA).
+-!- MISCELLANEOUS: Present with 907 molecules/cell.
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0000324; C:vacuole (sensu Fungi); IDA:SGD.
+ GO:0015168; F:glycerol transporter activity; IDA:SGD.
+ GO:0005215; F:transporter activity; IDA:SGD.
+ GO:0000747; P:conjugation with cellular fusion; IMP:SGD.
+ GO:0015793; P:glycerol transport; IDA:SGD.
+ GO:0046685; P:response to arsenic; IGI:SGD.
+Complete proteome; Glycerol metabolism; Membrane; Repeat;
+Transmembrane; Transport.
+TMFIVE

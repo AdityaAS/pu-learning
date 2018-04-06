@@ -1,0 +1,17 @@
+AC   Q64322;
+Neural proliferation differentiation and control protein 1 precursor
+(NPDC-1 protein).
+"Proliferation and differentiation properties of bipotent glial
+progenitor cell lines immortalized with the adenovirus E1A gene.";
+"Identification of a neural-specific cDNA, NPDC-1, able to down-
+regulate cell proliferation and to suppress transformation.";
+-!- FUNCTION: Suppresses oncogenic transformation in neural and non-
+    neural cells and down-regulates neural cell proliferation. Might
+    be involved in transcriptional regulation.
+-!- TISSUE SPECIFICITY: Expressed in the brain and nervous system. Not
+    detected in liver, heart, skeletal muscle, spleen, pancreas,
+    pituitary and adrenal glands. Expression increases when cultured
+    neural cells are growth-arrested and begin to differentiate.
+-!- SIMILARITY: Belongs to the NPDC1/cab-1 family.
+Membrane; Signal; Transmembrane.
+TMONE

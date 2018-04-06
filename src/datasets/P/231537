@@ -1,0 +1,27 @@
+AC   P75757;
+Zinc transporter zitB.
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"ZitB (YbgR), a member of the cation diffusion facilitator family, is
+an additional zinc transporter in Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in zinc efflux across the cytoplasmic membrane,
+    thus reducing zinc accumulation in the cytoplasm and rendering
+    bacteria more resistant to zinc. It may contribute to zinc
+    homeostasis at low concentrations of zinc, whereas zntA is
+    required for growth at more toxic concentrations.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By zinc.
+-!- MISCELLANEOUS: Appears to be selective for zinc, not conferring
+    resistance to cobalt nor cadmium.
+-!- SIMILARITY: Belongs to the cation diffusion facilitator (CDF)
+    transporter (TC 2.A.4) family. SLC30A subfamily.
+ GO:0006829; P:zinc ion transport; IEA:HAMAP.
+Complete proteome; Inner membrane; Ion transport; Membrane;
+Transmembrane; Transport; Zinc; Zinc transport.
+TMSIX

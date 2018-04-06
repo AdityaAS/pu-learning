@@ -1,0 +1,21 @@
+AC   Q8UDM5;
+Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-
+MurNAc-pentapeptide phosphotransferase).
+"The genome of the natural genetic engineer Agrobacterium tumefaciens
+C58.";
+"Genome sequence of the plant pathogen and biotechnology agent
+Agrobacterium tumefaciens C58.";
+-!- FUNCTION: First step of the lipid cycle reactions in the
+    biosynthesis of the cell wall peptidoglycan (By similarity).
+-!- CATALYTIC ACTIVITY: UDP-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-
+    D-Ala) + undecaprenyl phosphate = UMP + Mur2Ac(oyl-L-Ala-gamma-D-
+    Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 4 family. MraY
+    subfamily.
+Cell cycle; Cell division; Cell shape; Cell wall; Complete proteome;
+Inner membrane; Membrane; Peptidoglycan synthesis; Transferase;
+Transmembrane.
+TMTEN

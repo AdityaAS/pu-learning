@@ -1,0 +1,18 @@
+AC   P0A3X9; P56534; Q9F1M0;
+Cytochrome c6 precursor (Soluble cytochrome f) (Cytochrome c553)
+(Cytochrome c-553).
+"Cloning of the genes for cytochrome c550 and a c550-like protein from
+the thermophilic cyanobacterium Synechococcus elongatus.";
+"Complete genome structure of the thermophilic cyanobacterium
+Thermosynechococcus elongatus BP-1.";
+-!- FUNCTION: Functions as an electron carrier between membrane-bound
+    cytochrome b6-f and photosystem I in oxygenic photosynthesis (By
+    similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cellular thylakoid lumen (Potential).
+-!- PTM: Binds 1 heme group per subunit.
+-!- SIMILARITY: Belongs to the cytochrome c family. PetJ subfamily.
+ GO:0009767; P:photosynthetic electron transport; NAS:UniProtKB.
+3D-structure; Complete proteome; Electron transport; Heme; Iron;
+Metal-binding; Photosynthesis; Signal; Thylakoid; Transport.
+TMZERO

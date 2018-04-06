@@ -1,0 +1,12 @@
+AC   Q2YNJ9;
+Arginyl-tRNA synthetase (EC 6.1.1.19) (Arginine--tRNA ligase) (ArgRS).
+"Whole-genome analyses of speciation events in pathogenic Brucellae.";
+-!- CATALYTIC ACTIVITY: ATP + L-arginine + tRNA(Arg) = AMP +
+    diphosphate + L-arginyl-tRNA(Arg).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

@@ -1,0 +1,30 @@
+AC   P11836; P08984; Q13963;
+B-lymphocyte antigen CD20 (Membrane-spanning 4-domains subfamily A
+member 1) (B-lymphocyte surface antigen B1) (Leu-16) (Bp35).
+"Analysis of two cDNA clones encoding the B lymphocyte antigen CD20
+(B1, Bp35), a type III integral membrane protein.";
+"Isolation and structure of a cDNA encoding the B1 (CD20) cell-surface
+antigen of human B lymphocytes.";
+"Molecular cloning of the human B cell CD20 receptor predicts a
+hydrophobic protein with multiple transmembrane domains.";
+"Structure of the gene encoding the human B lymphocyte differentiation
+antigen CD20 (B1).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: This protein may be involved in the regulation of B-cell
+    activation and proliferation.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed on B-cells.
+-!- PTM: Phosphorylated. Might be functionally regulated by protein
+    kinase(s).
+-!- PHARMACEUTICAL: Monoclonal antibodies against CD20 are used to
+    treat people who have B-cell non-Hodgkin's lymphoma (NHL). Various
+    forms of the antibody are known as Rituximab (Mabthera),
+    Britumomab (Zevalin) and Tositumomab (Bexxar).
+-!- SIMILARITY: Belongs to the MS4A family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0006955; P:immune response; TAS:ProtInc.
+3D-structure; B-cell activation; Membrane; Pharmaceutical;
+Phosphorylation; Transmembrane.
+TMFOUR

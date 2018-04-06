@@ -1,0 +1,15 @@
+AC   Q02820; O00037; O00038;
+Non-classical export protein 1.
+"A new pathway for protein export in Saccharomyces cerevisiae.";
+"The sequence of a 36 kb segment on the left arm of yeast chromosome X
+identifies 24 open reading frames including NUC1, PRP21 (SPP91), CDC6,
+CRY2, the gene for S24, a homologue to the aconitase gene ACO1 and two
+homologues to chromosome III genes.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+-!- FUNCTION: Involved in a novel pathway of export of proteins that
+    lack a cleavable signal sequence. May be part of the export
+    machinery or may also be a substrate for non-classical export.
+ GO:0009306; P:protein secretion; IGI:SGD.
+Complete proteome; Protein transport; Transport.
+TMZERO

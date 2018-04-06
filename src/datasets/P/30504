@@ -1,0 +1,31 @@
+AC   P32799;
+Cytochrome c oxidase polypeptide VIa, mitochondrial precursor
+(EC 1.9.3.1).
+"Subunit VIa of yeast cytochrome c oxidase is not necessary for
+assembly of the enzyme complex but modulates the enzyme activity.
+Isolation and characterization of the nuclear-coded gene.";
+"Sequencing of a 40.5 kb fragment located on the left arm of
+chromosome VII from Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Purification of yeast cytochrome c oxidase with a subunit composition
+resembling the mammalian enzyme.";
+"Kinetic properties and ligand binding of the eleven-subunit
+cytochrome-c oxidase from Saccharomyces cerevisiae isolated with a
+novel large-scale purification method.";
+-!- FUNCTION: Not necessary for assembly of the enzyme complex but
+    interacts with ATP and thereby modulates the enzyme activity.
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBUNIT: Cytochrome c oxidase is composed of 11 subunits: one copy
+    each of COX1, COX2, COX3, COX4, COX5A or COX5B, COX6, COX7, COX9,
+    COX12, COX13 and two copies of COX8.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase VIa family.
+ GO:0005751; C:respiratory chain complex IV (sensu Eukaryota); IPI:SGD.
+ GO:0030234; F:enzyme regulator activity; IDA:SGD.
+ GO:0009060; P:aerobic respiration; IMP:SGD.
+Complete proteome; Direct protein sequencing; Inner membrane;
+Membrane; Mitochondrion; Oxidoreductase; Transit peptide.
+TMZERO

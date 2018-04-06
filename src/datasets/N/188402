@@ -1,0 +1,22 @@
+AC   Q08686;
+Putative thiosulfate sulfurtransferase (EC 2.8.1.1).
+"Sequencing analysis of a 36.8 kb fragment of yeast chromosome XV
+reveals 26 open reading frames including SEC63, CDC31, SUG2, GCD1,
+RBL2, PNT1, PAC1 and VPH1.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: Thiosulfate + cyanide = sulfite + thiocyanate.
+-!- INTERACTION:
+    Q08409:AUS1; NbExp=1; IntAct=EBI-19264, EBI-35723;
+    P39940:RSP5; NbExp=1; IntAct=EBI-19264, EBI-16219;
+    P40318:SSM4; NbExp=1; IntAct=EBI-19264, EBI-18208;
+-!- SUBCELLULAR LOCATION: Mitochondrion. Cytoplasm.
+-!- MISCELLANEOUS: Present with 5770 molecules/cell.
+-!- SIMILARITY: Contains 2 rhodanese domains.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Mitochondrion; Repeat; Transferase.
+TMZERO

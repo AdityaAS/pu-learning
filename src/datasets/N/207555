@@ -1,0 +1,14 @@
+AC   P39211;
+Xylulose kinase (EC 2.7.1.17) (Xylulokinase).
+"Sequencing of a 26 kb region of the Bacillus subtilis genome
+downstream of spoVJ.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Nucleotide sequence of the Bacillus subtilis xylose isomerase gene:
+extensive homology between the Bacillus and Escherichia coli enzyme.";
+-!- CATALYTIC ACTIVITY: ATP + D-xylulose = ADP + D-xylulose 5-
+    phosphate.
+-!- SIMILARITY: Belongs to the FGGY kinase family.
+Carbohydrate metabolism; Complete proteome; Kinase; Transferase;
+Xylose metabolism.
+TMZERO

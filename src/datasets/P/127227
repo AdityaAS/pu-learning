@@ -1,0 +1,13 @@
+AC   P0AFJ8; P37308;
+Low-affinity inorganic phosphate transporter 1.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Low-affinity inorganic phosphate transport. Can also
+    transport arsenate (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the pho-4 transporter (TC 2.A.20.1.1)
+    family. Pit subfamily.
+Complete proteome; Inner membrane; Membrane; Phosphate transport;
+Transmembrane; Transport.
+TMTEN

@@ -1,0 +1,12 @@
+AC   Q58DG6;
+F-box/LRR-repeat protein 20 (F-box and leucine-rich repeat protein
+20).
+"Characterization of 954 bovine full-CDS cDNA sequences.";
+-!- FUNCTION: Substrate-recognition component of the SCF (SKP1-CUL1-F-
+    box protein)-type E3 ubiquitin ligase complex (By similarity).
+-!- SUBUNIT: Interacts with SKP1A and CUL1 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Contains 1 F-box domain.
+-!- SIMILARITY: Contains 12 LRR (leucine-rich) repeats.
+Leucine-rich repeat; Repeat; Ubl conjugation pathway.
+TMZERO

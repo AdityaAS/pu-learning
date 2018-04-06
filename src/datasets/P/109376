@@ -1,0 +1,30 @@
+AC   P0AF32; P19316;
+Respiratory nitrate reductase 2 gamma chain (EC 1.7.99.4).
+"Nitrate reductases of Escherichia coli: sequence of the second
+nitrate reductase and comparison with that encoded by the narGHJI
+operon.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: This is a second nitrate reductase enzyme which can
+    substitute for the NRA enzyme and allows E.coli to use nitrate as
+    an electron acceptor during anaerobic growth. The gamma chain is a
+    membrane-embedded heme-iron unit resembling cytochrome b, which
+    transfers electrons from quinones to the beta subunit.
+-!- CATALYTIC ACTIVITY: Nitrite + acceptor = nitrate + reduced
+    acceptor.
+-!- COFACTOR: Binds 2 hemes per subunit (By similarity).
+-!- SUBUNIT: Dimer of heterotrimers each composed of an alpha, a beta
+    and a gamma chain. Alpha and beta are catalytic chains; gamma
+    chains are involved in binding the enzyme complex to the
+    cytoplasmic membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+Complete proteome; Electron transport; Heme; Inner membrane; Iron;
+Membrane; Metal-binding; Nitrate assimilation; Oxidoreductase;
+Transmembrane; Transport.
+TMFIVE

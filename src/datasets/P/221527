@@ -1,0 +1,12 @@
+AC   P0AA69; P36545; P75784;
+Inner membrane transport protein ybiF.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the eamA transporter family.
+-!- SIMILARITY: Contains 2 DUF6 domains.
+Complete proteome; Inner membrane; Membrane; Repeat; Transmembrane;
+Transport.
+TMTEN

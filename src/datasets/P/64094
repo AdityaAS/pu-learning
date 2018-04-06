@@ -1,0 +1,16 @@
+AC   P0AEQ7; P10345; P76825;
+Glutamine transport system permease protein glnP.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for glutamine; probably responsible for the translocation of the
+    substrate across the membrane (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- INDUCTION: By lack of glutamine (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMFIVE

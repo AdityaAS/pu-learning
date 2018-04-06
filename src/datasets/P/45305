@@ -1,0 +1,77 @@
+AC   Q9NRD8; Q9NR02; Q9UHF9;
+Dual oxidase 2 precursor (EC 1.6.3.1) (EC 1.11.1.-) (NADPH
+oxidase/peroxidase DUOX2) (NADPH thyroid oxidase 2) (Thyroid oxidase
+2) (NADH/NADPH thyroid oxidase p138-tox) (p138 thyroid oxidase) (Large
+NOX 2) (Long NOX 2).
+"Cloning of two human thyroid cDNAs encoding new members of the NADPH
+oxidase family.";
+"Tyrosine cross-linking of extracellular matrix is catalyzed by Duox,
+a multidomain oxidase/peroxidase with homology to the phagocyte
+oxidase subunit gp91phox.";
+"Purification of a novel flavoprotein involved in the thyroid NADPH
+oxidase. Cloning of the porcine and human cdnas.";
+"Characterization of ThOX proteins as components of the thyroid
+H(2)O(2)-generating system.";
+"Inactivating mutations in the gene for thyroid oxidase 2 (THOX2) and
+congenital hypothyroidism.";
+"Dual oxidases represent novel hydrogen peroxide sources supporting
+mucosal surface host defense.";
+"NADPH oxidase-dependent acid production in airway epithelial cells.";
+"Dual oxidase2 is expressed all along the digestive tract.";
+"Identification of a novel partner of duox: EFP1, a thioredoxin-
+related protein.";
+"Dual oxidase-2 has an intrinsic Ca2+-dependent H2O2-generating
+activity.";
+"Persistent mild hypothyroidism associated with novel sequence
+variants of the DUOX2 gene in two siblings.";
+"Three mutations (p.Q36H, p.G418fsX482, and g.IVS19-2A&gt;C) in the
+dual oxidase 2 gene responsible for congenital goiter and iodide
+organification defect.";
+-!- FUNCTION: Generates hydrogen peroxide which is required for the
+    activity of thyroid peroxidase/TPO and lactoperoxidase/LPO. Plays
+    a role in thyroid hormones synthesis and lactoperoxidase-mediated
+    antimicrobial defense at the surface of mucosa. May have its own
+    peroxidase activity through its N-terminal peroxidase-like domain.
+-!- CATALYTIC ACTIVITY: NAD(P)H + O(2) = NAD(P)(+) + H(2)O(2).
+-!- ENZYME REGULATION: Peroxidase activity is inhibited by
+    aminobenzohydrazide (By similarity). The NADPH oxidase activity is
+    calcium-dependent.
+-!- PATHWAY: Thyroid hormone biosynthesis.
+-!- SUBUNIT: Interacts with TXNDC11, TPO and CYBA.
+-!- SUBCELLULAR LOCATION: Cell membrane; apical cell membrane; multi-
+    pass membrane protein. Note=Localizes to the apical membrane of
+    epithelial cells.
+-!- TISSUE SPECIFICITY: Expressed in colon, small intestine, duodenum
+    and tracheal surface epithelial cells (at protein level).
+    Expressed in thyrocytes. Also detected in kidney, liver, lung,
+    pancreas, prostate, salivary glands, rectum and testis.
+-!- DEVELOPMENTAL STAGE: Widely expressed in fetal tissues.
+-!- INDUCTION: By forskolin, thyrotropin and the Th1-specific cytokine
+    interferon gamma.
+-!- PTM: N-glycosylated.
+-!- DISEASE: Defects in DUOX2 are a cause of congenital hypothyroidism
+    (CH) [MIM:607200]. This form of CH, characterized by a defect in
+    hydrogen peroxide production in the thyroid gland, is due to a
+    loss of DUOX2 function. It results in total iodide organification
+    defects (TIOD) in the case of biallelic inactivating mutations or
+    partial iodide organification defects (PIOD) in the case of
+    monoallelic inactivating mutations.
+-!- SIMILARITY: In the N-terminal section; belongs to the peroxidase
+    family.
+-!- SIMILARITY: Contains 3 EF-hand domains.
+-!- SIMILARITY: Contains 1 ferric oxidoreductase domain.
+ GO:0016324; C:apical plasma membrane; ISS:UniProtKB.
+ GO:0005509; F:calcium ion binding; IDA:UniProtKB.
+ GO:0016174; F:NAD(P)H oxidase activity; IDA:UniProtKB.
+ GO:0050661; F:NADP binding; ISS:UniProtKB.
+ GO:0042335; P:cuticle biosynthesis; ISS:UniProtKB.
+ GO:0019221; P:cytokine and chemokine mediated signaling p...; IDA:UniProtKB.
+ GO:0006118; P:electron transport; TAS:UniProtKB.
+ GO:0050665; P:hydrogen peroxide biosynthesis; ISS:UniProtKB.
+ GO:0051591; P:response to cAMP; IDA:UniProtKB.
+ GO:0009615; P:response to virus; IDA:UniProtKB.
+ GO:0042554; P:superoxide release; ISS:UniProtKB.
+Calcium; Disease mutation; FAD; Glycoprotein; Hydrogen peroxide;
+Membrane; NADP; Oxidoreductase; Peroxidase; Polymorphism; Repeat;
+Signal; Thyroid hormones biosynthesis; Transmembrane.
+TMSEVEN

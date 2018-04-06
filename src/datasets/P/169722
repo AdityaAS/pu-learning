@@ -1,0 +1,27 @@
+AC   Q761V0; Q8CFM5; Q91ZQ2;
+Sodium- and chloride-dependent glycine transporter 2 (GlyT2) (GlyT-2)
+(Solute carrier family 6 member 5).
+"Gene structure and alternative splicing of the mouse glycine
+transporter type-2.";
+"Cloning and expression of mouse sodium-dependent glycine transporter
+2 (Glyt2).";
+-!- FUNCTION: Terminates the action of glycine by its high affinity
+    sodium-dependent reuptake into presynaptic terminals. May be
+    responsible for the termination of neurotransmission at
+    strychnine-sensitive glycinergic synapses (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=a;
+      IsoId=Q761V0-1; Sequence=Displayed;
+    Name=b;
+      IsoId=Q761V0-2; Sequence=VSP_051603;
+-!- TISSUE SPECIFICITY: Isoform a and isoform b are expressed at high
+    levels in brain stem and spinal cord. Isoform a is also expressed
+    in the cerebellum.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+Alternative splicing; Glycoprotein; Membrane;
+Neurotransmitter transport; Symport; Transmembrane; Transport.
+TMTWELVE

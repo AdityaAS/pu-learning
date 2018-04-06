@@ -1,0 +1,9 @@
+AC   P44762;
+Sulfurtransferase tusD homolog (EC 2.8.1.-).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: Could be part of a sulfur-relay system (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the dsrE/tusD family.
+Complete proteome; Transferase.
+TMZERO

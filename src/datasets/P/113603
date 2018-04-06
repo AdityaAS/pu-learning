@@ -1,0 +1,41 @@
+AC   Q56589; Q56583;
+Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.-)
+(Na(+)-translocating NQR subunit E) (Na(+)-NQR subunit E) (NQR complex
+subunit E) (NQR-1 subunit E).
+"Sequencing and the alignment of structural genes in the nqr operon
+encoding the Na(+)-translocating NADH-quinone reductase from Vibrio
+alginolyticus.";
+"Cloning and sequencing of four structural genes for the Na(+)-
+translocating NADH-ubiquinone oxidoreductase of Vibrio
+alginolyticus.";
+"Identification of six subunits constituting Na+-translocating NADH-
+quinone reductase from the marine Vibrio alginolyticus.";
+"Inhibitor studies of a new antibiotic, korormicin, 2-n-heptyl-4-
+hydroxyquinoline N-oxide and Ag+ toward the Na+-translocating NADH-
+quinone reductase from the marine Vibrio alginolyticus.";
+"Recent progress in the Na(+)-translocating NADH-quinone reductase
+from the marine Vibrio alginolyticus.";
+"Na(+) translocation by bacterial NADH:quinone oxidoreductases: an
+extension to the complex-I family of primary redox pumps.";
+-!- FUNCTION: NQR complex catalyzes the reduction of ubiquinone-1 to
+    ubiquinol by two successive reactions, coupled with the transport
+    of Na(+) ions from the cytoplasm to the periplasm. NqrA to nqrE
+    are probably involved in the second step, the conversion of
+    ubisemiquinone to ubiquinol.
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone + Na(+)(In) = NAD(+) +
+    ubiquinol + Na(+)(Out).
+-!- ENZYME REGULATION: This reaction is tightly coupled to the Na(+)
+    pumping activity and specifically requires Na(+) for activity.
+    Inhibited by korormicin and 2-N-heptyl-4-hydroxyquinoline N-oxide
+    (HQNO).
+-!- SUBUNIT: Composed of six subunits; nqrA, nqrB, nqrC, nqrD, nqrE
+    and nqrF.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the nqrDE/rnfAE family.
+ GO:0006814; P:sodium ion transport; IEA:HAMAP.
+Direct protein sequencing; Inner membrane; Ion transport; Membrane;
+NAD; Oxidoreductase; Sodium; Sodium transport; Transmembrane;
+Transport; Ubiquinone.
+TMSIX

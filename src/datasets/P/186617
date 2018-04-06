@@ -1,0 +1,41 @@
+AC   P04958;
+Tetanus toxin precursor (EC 3.4.24.68) (Tentoxylysin) [Contains:
+Tetanus toxin light chain (Tetanus toxin chain L); Tetanus toxin heavy
+chain (Tetanus toxin chain H)].
+"Tetanus toxin: primary structure, expression in E. coli, and homology
+with botulinum toxins.";
+"The complete nucleotide sequence of tetanus toxin.";
+"The genome sequence of Clostridium tetani, the causative agent of
+tetanus disease.";
+"Cloning, nucleotide sequencing, and expression of tetanus toxin
+fragment C in Escherichia coli.";
+"Arrangement of disulfide bridges and positions of sulfhydryl groups
+in tetanus toxin.";
+"Limited proteolysis of tetanus toxin. Relation to activity and
+identification of cleavage sites.";
+"Tetanus toxin is a zinc protein and its inhibition of
+neurotransmitter release and protease activity depend on zinc.";
+"Tetanus and botulinum-B neurotoxins block neurotransmitter release by
+proteolytic cleavage of synaptobrevin.";
+"Structure of the receptor binding fragment HC of tetanus
+neurotoxin.";
+-!- FUNCTION: Tetanus toxin acts by inhibiting neurotransmitter
+    release. It binds to peripheral neuronal synapses, is internalized
+    and moves by retrograde transport up the axon into the spinal cord
+    where it can move between postsynaptic and presynaptic neurons. It
+    inhibits neurotransmitter release by acting as a zinc
+    endopeptidase that catalyzes the hydrolysis of the '76-Gln-|-Phe-
+    77' bond of synaptobrevin-2.
+-!- CATALYTIC ACTIVITY: Hydrolysis of 76-Gln-|-Phe-77 bond in
+    synaptobrevin 2.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: The precursor polypeptide is subsequently cleaved to
+    yield subchains L and H. These remain linked by a disulfide bridge
+    and are non-toxic after separation.
+-!- MISCELLANEOUS: The C-terminus of the heavy chain binds to
+    ganglioside receptors.
+-!- SIMILARITY: Belongs to the peptidase M27 family.
+3D-structure; Complete proteome; Direct protein sequencing; Hydrolase;
+Metal-binding; Metalloprotease; Neurotoxin; Plasmid; Protease; Toxin;
+Zinc.
+TMZERO

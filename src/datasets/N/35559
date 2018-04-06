@@ -1,0 +1,10 @@
+AC   Q59685;
+Adenylate cyclase (EC 4.6.1.1) (ATP pyrophosphate-lyase) (Adenylyl
+cyclase).
+"Comparative analysis of the cya locus in enterobacteria and related
+Gram-negative facultative anaerobes.";
+-!- CATALYTIC ACTIVITY: ATP = 3',5'-cyclic AMP + diphosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the adenylyl cyclase class-1 family.
+cAMP biosynthesis; Lyase.
+TMZERO

@@ -1,0 +1,11 @@
+AC   P37041; P20407;
+Gonadoliberin-1 (Gonadoliberin I) (Gonadotropin-releasing hormone I)
+(GnRH-I) (LH-RH I) (Luliberin I).
+"Primary structure of two forms of gonadotropin-releasing hormone from
+brains of the American alligator (Alligator mississippiensis).";
+-!- FUNCTION: Stimulates the secretion of gonadotropins.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the GnRH family.
+Amidation; Direct protein sequencing; Hormone;
+Pyrrolidone carboxylic acid.
+TMZERO

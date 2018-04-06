@@ -1,0 +1,15 @@
+AC   Q8Y0J1;
+Acyl carrier protein 1 (ACP 1).
+"Genome sequence of the plant pathogen Ralstonia solanacearum.";
+-!- FUNCTION: Carrier of the growing fatty acid chain in fatty acid
+    biosynthesis (By similarity).
+-!- PATHWAY: De novo fatty acid biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- PTM: 4'-phosphopantetheine is transferred from CoA to a specific
+    serine of apo-ACP by acpS. This modification is essential for
+    activity because fatty acids are bound in thioester linkage to the
+    sulfhydryl of the prosthetic group (By similarity).
+-!- SIMILARITY: Contains 1 acyl carrier domain.
+Complete proteome; Fatty acid biosynthesis; Lipid synthesis;
+Phosphopantetheine.
+TMZERO

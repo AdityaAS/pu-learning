@@ -1,0 +1,30 @@
+AC   P61011; P13624;
+Signal recognition particle 54 kDa protein (SRP54).
+"Sequence of the highly conserved gene encoding the human 54kDa
+subunit of signal recognition particle.";
+"Protein SRP54 of human signal recognition particle: cloning,
+expression, and comparative analysis of functional sites.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Human RNPS1 and its associated factors: a versatile alternative pre-
+mRNA splicing regulator in vivo.";
+"Crystal structure of the conserved subdomain of human protein SRP54M
+at 2.1 A resolution: evidence for the mechanism of signal peptide
+binding.";
+"Induced structural changes of 7SL RNA during the assembly of human
+signal recognition particle.";
+-!- FUNCTION: Binds to the signal sequence of presecretory protein
+    when they emerge from the ribosomes and transfers them to TRAM
+    (translocating chain-associating membrane protein).
+-!- SUBUNIT: Signal recognition particle consists of a 7S RNA molecule
+    of 300 nucleotides and six protein subunits: SRP72, SRP68, SRP54,
+    SRP19, SRP14 and SRP9. Interacts with RNPS1.
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear speckle. Cytoplasm.
+-!- DOMAIN: Has a two domain structure: the G-domain binds GTP; the M-
+    domain binds the 7S RNA in presence of SRP19 and also binds the
+    signal sequence.
+-!- SIMILARITY: Belongs to the GTP-binding SRP family.
+ GO:0003723; F:RNA binding; TAS:ProtInc.
+3D-structure; GTP-binding; Nuclear protein; Nucleotide-binding;
+Ribonucleoprotein; RNA-binding; Signal recognition particle.
+TMZERO

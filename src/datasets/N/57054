@@ -1,0 +1,13 @@
+AC   Q61574; Q8C5N7;
+Forkhead-related transcription factor 10 (FREAC-10) (Forkhead-like 18
+protein) (Transcription factor FKH-3).
+"The transcriptional landscape of the mammalian genome.";
+"Six members of the mouse forkhead gene family are developmentally
+regulated.";
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- DEVELOPMENTAL STAGE: Expressed during embryogenesis.
+-!- SIMILARITY: Contains 1 fork-head DNA-binding domain.
+ GO:0040018; P:positive regulation of body size; IMP:MGI.
+ GO:0050885; P:regulation of balance; IMP:MGI.
+DNA-binding; Nuclear protein; Transcription; Transcription regulation.
+TMZERO

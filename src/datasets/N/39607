@@ -1,0 +1,16 @@
+AC   Q43714;
+(+)-delta-cadinene synthase isozyme A (EC 4.2.3.13) (D-cadinene
+synthase).
+"Cloning and heterologous expression of a second (+)-delta-cadinene
+synthase from Gossypium arboreum.";
+-!- FUNCTION: Responsible for the cyclization of trans,trans-farnesyl
+    diphosphate (FPP) to (+)-delta cadinene.
+-!- CATALYTIC ACTIVITY: 2-trans,6-trans-farnesyl diphosphate = (+)-
+    delta-cadinene + diphosphate.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (Potential).
+-!- PATHWAY: Secondary metabolite biosynthesis; terpenoid
+    biosynthesis.
+-!- SIMILARITY: Belongs to the terpene synthase family.
+ GO:0047461; F:(+)-delta-cadinene synthase activity; IEA:EC.
+Lyase; Magnesium; Metal-binding.
+TMZERO

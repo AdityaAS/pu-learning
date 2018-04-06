@@ -1,0 +1,13 @@
+AC   Q73P28;
+Arginyl-tRNA synthetase (EC 6.1.1.19) (Arginine--tRNA ligase) (ArgRS).
+"Comparison of the genome of the oral pathogen Treponema denticola
+with other spirochete genomes.";
+-!- CATALYTIC ACTIVITY: ATP + L-arginine + tRNA(Arg) = AMP +
+    diphosphate + L-arginyl-tRNA(Arg).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

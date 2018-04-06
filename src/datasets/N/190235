@@ -1,0 +1,38 @@
+AC   Q07011;
+Tumor necrosis factor receptor superfamily member 9 precursor (4-1BB
+ligand receptor) (T-cell antigen 4-1BB homolog) (T-cell antigen ILA)
+(CD137 antigen) (CDw137).
+"Molecular and biological characterization of human 4-1BB and its
+ligand.";
+"A receptor induced by lymphocyte activation (ILA): a new member of
+the human nerve-growth-factor/tumor-necrosis-factor receptor family.";
+"Characterization of human homologue of 4-1BB and its ligand.";
+"NIEHS-SNPs, environmental genome project, NIEHS ES15478, Department
+of Genome Sciences, Seattle, WA (URL: http://egp.gs.washington.edu).";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Signal peptide prediction based on analysis of experimentally
+verified cleavage sites.";
+"4-1BB and Ox40 are members of a tumor necrosis factor (TNF)-nerve
+growth factor receptor subfamily that bind TNF receptor-associated
+factors and activate nuclear factor kappaB.";
+"CD28-independent, TRAF2-dependent costimulation of resting T cells by
+4-1BB ligand.";
+"A novel leucine-rich repeat protein (LRR-1): potential involvement in
+4-1BB-mediated signal transduction.";
+-!- FUNCTION: Receptor for TNFSF14/4-1BBL. Possibly active during T
+    cell activation.
+-!- SUBUNIT: Interacts with TRAF1, TRAF2 and TRAF3. Interacts with
+    LRR-repeat protein 1/LRR-1.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Expressed on the surface of activated T-cells.
+-!- SIMILARITY: Contains 4 TNFR-Cys repeats.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0004872; F:receptor activity; TAS:ProtInc.
+ GO:0006917; P:induction of apoptosis; TAS:ProtInc.
+ GO:0008285; P:negative regulation of cell proliferation; TAS:ProtInc.
+Direct protein sequencing; Glycoprotein; Membrane; Polymorphism;
+Receptor; Repeat; Signal; Transmembrane.
+TMONE

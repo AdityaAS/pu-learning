@@ -1,0 +1,13 @@
+AC   Q721K3;
+Probable protease htpX homolog (EC 3.4.24.-).
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the peptidase M48B family.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Complete proteome; Hydrolase; Membrane; Metal-binding;
+Metalloprotease; Protease; Transmembrane; Zinc.
+TMFOUR

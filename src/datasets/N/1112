@@ -1,0 +1,17 @@
+AC   Q7A1T4;
+N-acetylmuramoyl-L-alanine amidase sle1 precursor (EC 3.5.1.28).
+"Genome and virulence determinants of high virulence community-
+acquired MRSA.";
+-!- FUNCTION: Peptidoglycan hydrolase involved in the splitting of the
+    septum during cell division (By similarity).
+-!- CATALYTIC ACTIVITY: Hydrolyzes the link between N-acetylmuramoyl
+    residues and L-amino acid residues in certain cell-wall
+    glycopeptides.
+-!- SUBCELLULAR LOCATION: Cell surface (By similarity).
+-!- SIMILARITY: Contains 3 LysM repeats.
+-!- SIMILARITY: Contains 1 peptidase C51 domain.
+ GO:0008745; F:N-acetylmuramoyl-L-alanine amidase activity; IEA:EC.
+Antimicrobial; Bacteriolytic enzyme; Cell cycle; Cell division;
+Cell wall; Complete proteome; Hydrolase; Repeat; Septation; Signal;
+Virulence.
+TMZERO

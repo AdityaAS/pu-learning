@@ -1,0 +1,22 @@
+AC   Q9GKY1; Q9GKY2;
+Anion exchange protein 4 (Anion exchanger 4) (Solute carrier family 4
+member 9).
+"A new member of the HCO3-transporter superfamily is an apical anion
+exchanger of beta-intercalated cells in the kidney.";
+-!- FUNCTION: Probable apical anion exchanger of the beta-intercalated
+    cells of kidney. May participate in HCO3(-) secretion.
+-!- SUBCELLULAR LOCATION: Cell membrane; apical cell membrane; multi-
+    pass membrane protein. Note=In contrast to the rat ortholog, it is
+    present on apical membrane of cortical kidney cells.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=AE4a;
+      IsoId=Q9GKY1-1; Sequence=Displayed;
+    Name=2; Synonyms=AE4b;
+      IsoId=Q9GKY1-2; Sequence=VSP_007088;
+-!- TISSUE SPECIFICITY: Highly expressed in kidney. Expressed in
+    certain types of cells in the kidney cortex.
+-!- SIMILARITY: Belongs to the anion exchanger (TC 2.A.31) family.
+Alternative splicing; Anion exchange; Antiport; Glycoprotein;
+Ion transport; Membrane; Transmembrane; Transport.
+TMTWELVE

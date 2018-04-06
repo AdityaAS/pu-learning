@@ -1,0 +1,14 @@
+AC   P76269;
+Hypothetical transport protein yebQ.
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. TCR/tet
+    family.
+Complete proteome; Hypothetical protein; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMFOURTEEN

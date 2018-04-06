@@ -1,0 +1,42 @@
+AC   Q7K755; Q9XW72;
+Putative polypeptide N-acetylgalactosaminyltransferase 11
+(EC 2.4.1.41) (Protein-UDP acetylgalactosaminyltransferase 11) (UDP-
+GalNAc:polypeptide N-acetylgalactosaminyltransferase 11) (pp-GaNTase
+11).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: May catalyze the initial reaction in O-linked
+    oligosaccharide biosynthesis, the transfer of an N-acetyl-D-
+    galactosamine residue to a serine or threonine residue on the
+    protein receptor (By similarity).
+-!- CATALYTIC ACTIVITY: UDP-N-acetyl-D-galactosamine + polypeptide =
+    UDP + N-acetyl-D-galactosaminyl-polypeptide.
+-!- COFACTOR: Manganese (By similarity).
+-!- COFACTOR: Calcium (By similarity).
+-!- PATHWAY: Glycosylation.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type II membrane protein (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=a;
+      IsoId=Q7K755-1; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=b;
+      IsoId=Q7K755-2; Sequence=VSP_011242, VSP_011243;
+      Note=No experimental confirmation available;
+-!- DOMAIN: There are two conserved domains in the glycosyltransferase
+    region: the N-terminal domain (domain A, also called GT1 motif),
+    which is probably involved in manganese coordination and substrate
+    binding and the C-terminal domain (domain B, also called
+    Gal/GalNAc-T motif), which is probably involved in catalytic
+    reaction and UDP-Gal binding (By similarity).
+-!- DOMAIN: The ricin B-type lectin domain binds to GalNAc and
+    contributes to the glycopeptide specificity (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 2 family. GalNAc-T
+    subfamily.
+-!- SIMILARITY: Contains 1 ricin B-type lectin domain.
+ GO:0004653; F:polypeptide N-acetylgalactosaminyltransfera...; IEA:EC.
+Alternative splicing; Calcium; Complete proteome; Glycoprotein;
+Glycosyltransferase; Golgi apparatus; Hypothetical protein; Lectin;
+Manganese; Membrane; Signal-anchor; Transferase; Transmembrane.
+TMONE

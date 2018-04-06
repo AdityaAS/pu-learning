@@ -1,0 +1,26 @@
+AC   Q08828; Q75MI1;
+Adenylate cyclase type 1 (EC 4.6.1.1) (Adenylate cyclase type I) (ATP
+pyrophosphate-lyase 1) (Adenylyl cyclase 1) (Ca(2+)/calmodulin-
+activated adenylyl cyclase).
+"The DNA sequence of human chromosome 7.";
+"Cloning, chromosomal mapping, and expression of human fetal brain
+type I adenylyl cyclase.";
+-!- FUNCTION: This is a calmodulin-sensitive adenylyl cyclase. May be
+    involved in regulatory processes in the central nervous system. It
+    may play a role in memory acquisition and learning.
+-!- CATALYTIC ACTIVITY: ATP = 3',5'-cyclic AMP + diphosphate.
+-!- COFACTOR: Binds 2 magnesium ions per subunit (By similarity).
+-!- ENZYME REGULATION: Activated by calcium/calmodulin. Inhibited by
+    the G protein beta and gamma subunit complex.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Brain, retina and adrenal medulla.
+-!- SIMILARITY: Belongs to the adenylyl cyclase class-4/guanylyl
+    cyclase family.
+-!- SIMILARITY: Contains 2 guanylate cyclase domains.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0008294; F:calcium- and calmodulin-responsive adenylat...; NAS:UniProtKB.
+ GO:0005516; F:calmodulin binding; NAS:UniProtKB.
+ GO:0006171; P:cAMP biosynthesis; NAS:UniProtKB.
+Calmodulin-binding; cAMP biosynthesis; Glycoprotein; Lyase; Magnesium;
+Membrane; Metal-binding; Polymorphism; Repeat; Transmembrane.
+TMTWELVE

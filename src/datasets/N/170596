@@ -1,0 +1,19 @@
+AC   O14462;
+Ras-related protein SEC4.
+"Isolation and characterization of the Candida albicans SEC4 gene.";
+"Candida albicans strain 1161 genome pilot sequencing project.";
+-!- FUNCTION: Involved in exocytosis. Maybe by regulating the binding
+    and fusion of secretory vesicles with the cell surface. The GTP-
+    bound form of SEC4 may interact with an effector, thereby
+    stimulating its activity and leading to exocytotic fusion. SEC4
+    may be an upstream activator of the 19.5S SEC8/SEC15 particle.
+    SEC4 probably interacts directly with SEC8; it could serve as the
+    attachment site for the SEC8/SEC15 particle (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; secretory vesicle;
+    secretory vesicle membrane; lipid-anchor; cytoplasmic side (By
+    similarity). Cell membrane; lipid-anchor; cytoplasmic side (By
+    similarity).
+-!- SIMILARITY: Belongs to the small GTPase superfamily. Rab family.
+Exocytosis; GTP-binding; Lipoprotein; Nucleotide-binding; Palmitate;
+Prenylation; Protein transport; Transport.
+TMZERO

@@ -1,0 +1,11 @@
+AC   Q6JLX1;
+Insulin-like growth factor I precursor (IGF-I) (Somatomedin).
+"Cloning of insulin-like growth factor I from giant panda (Ailuropoda
+melanoleuca) and its expression in Escherichia coli.";
+-!- FUNCTION: The insulin-like growth factors, isolated from plasma,
+    are structurally and functionally related to insulin but have a
+    much higher growth-promoting activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the insulin family.
+Growth factor; Signal.
+TMZERO

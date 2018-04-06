@@ -1,0 +1,25 @@
+AC   P32837;
+GABA-specific permease (GABA-specific transport protein).
+"Cloning and expression of the UGA4 gene coding for the inducible
+GABA-specific transport protein of Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Uptake of GABA and putrescine by UGA4 on the vacuolar membrane in
+Saccharomyces cerevisiae.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Required for high-affinity, high-specificity GABA
+    transport. Also transports putrescine.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- INDUCTION: In the presence of GABA.
+-!- MISCELLANEOUS: It requires NPR (nitrogen permease reactivator
+    protein) for its full activity.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Amino acid/choline transporter (ACT) (TC 2.A.3.4)
+    family.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); IDA:SGD.
+ GO:0015489; F:putrescine transporter activity; IDA:SGD.
+ GO:0015847; P:putrescine transport; IDA:SGD.
+ GO:0006810; P:transport; TAS:SGD.
+Complete proteome; Membrane; Transmembrane; Transport; Vacuole.
+TMTWELVE

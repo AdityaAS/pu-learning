@@ -1,0 +1,12 @@
+AC   P0A2R6; P37405; Q8Z3D1;
+tRNA-dihydrouridine synthase B (EC 1.-.-.-).
+"Sequence, regulation, and functions of fis in Salmonella
+typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Catalyzes the synthesis of dihydrouridine, a modified
+    base found in the D-loop of most tRNAs (By similarity).
+-!- COFACTOR: FAD (By similarity).
+-!- SIMILARITY: Belongs to the dus family. DusB subfamily.
+Complete proteome; FAD; Flavoprotein; Oxidoreductase; tRNA processing.
+TMZERO

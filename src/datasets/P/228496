@@ -1,0 +1,20 @@
+AC   P33941; P33942;
+ABC transporter ATP-binding protein yojI.
+"Automated multiplex sequencing of the E.coli genome.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"YojI of Escherichia coli functions as a microcin J25 efflux pump.";
+-!- FUNCTION: Mediates resistance to the antibacterial peptide
+    microcin J25. Functions as an efflux pump for microcin J25.
+    Requires tolC for export of microcin J25.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Antibiotic resistance; ATP-binding; Complete proteome; Inner membrane;
+Membrane; Nucleotide-binding; Transmembrane; Transport.
+TMSIX

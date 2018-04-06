@@ -1,0 +1,15 @@
+AC   Q9JHI3;
+Solute carrier organic anion transporter family member 2B1 (Solute
+carrier family 21 member 9) (Organic anion transporter moatp1).
+"Molecular identification of a rat novel organic anion transporter
+moat1, which transports prostaglandin D(2), leukotriene C(4), and
+taurocholate.";
+-!- FUNCTION: Mediates the Na(+)-independent transport of organic
+    anions such as taurocholate, the prostaglandins PGD2, PGE1, PGE2,
+    leukotriene C4, thromboxane B2 and iloprost.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- SIMILARITY: Belongs to the organo anion transporter (TC 2.A.60)
+    family.
+Glycoprotein; Ion transport; Membrane; Transmembrane; Transport.
+TMTWELVE

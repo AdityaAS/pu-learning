@@ -1,0 +1,30 @@
+AC   P20606;
+GTP-binding protein SAR1.
+"A novel GTP-binding protein, Sar1p, is involved in transport from the
+endoplasmic reticulum to the Golgi apparatus.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Mutational analysis of the Sar1 protein, a small GTPase which is
+essential for vesicular transport from the endoplasmic reticulum.";
+"Distinct roles for the cytoplasmic tail sequences of Emp24p and
+Erv25p in transport between the endoplasmic reticulum and Golgi
+complex.";
+"Structure of the Sec23/24-Sar1 pre-budding complex of the COPII
+vesicle coat.";
+-!- FUNCTION: Component of the COPII coat, that covers ER-derived
+    vesicles involved in transport from the endoplasmic reticulum to
+    the Golgi apparatus. COPII is composed of at least five proteins:
+    the SEC23/24 complex, the SEC13/31 complex, and the protein SAR1.
+    SAR1 GTP-hydrolysis is a necessary step in the uncoating of
+    vesicles. Essential for cell growth. May cooperate with SEC12.
+-!- SUBUNIT: COPII is composed of at least five proteins: the SEC23/24
+    complex, the SEC13/31 complex and SAR1. Interacts with EMP24.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Endoplasmic reticulum;
+    endoplasmic reticulum membrane; peripheral membrane protein.
+-!- SIMILARITY: Belongs to the small GTPase superfamily. SAR1 family.
+ GO:0030127; C:COPII vesicle coat; TAS:SGD.
+ GO:0003924; F:GTPase activity; TAS:SGD.
+ GO:0006888; P:ER to Golgi vesicle-mediated transport; TAS:SGD.
+3D-structure; Complete proteome; Endoplasmic reticulum;
+ER-Golgi transport; Golgi apparatus; GTP-binding; Nucleotide-binding;
+Protein transport; Transport.
+TMZERO

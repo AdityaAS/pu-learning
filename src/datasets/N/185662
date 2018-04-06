@@ -1,0 +1,10 @@
+AC   Q9D6T1;
+Tubulin epsilon chain (Epsilon tubulin).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBCELLULAR LOCATION: Centrosome. Note=Associated with
+    pericentriolar material.
+-!- SIMILARITY: Belongs to the tubulin family.
+GTP-binding; Microtubule; Nucleotide-binding.
+TMZERO

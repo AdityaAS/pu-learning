@@ -1,0 +1,36 @@
+AC   Q14596; Q13173; Q15026; Q96GB6; Q9NRF7;
+Next to BRCA1 gene 1 protein (Neighbor of BRCA1 gene 1 protein)
+(Membrane component, chromosome 17, surface marker 2) (1A1-3B).
+"A novel gene encoding a B-box protein within the BRCA1 region at
+17q21.1.";
+"Prediction of the coding sequences of unidentified human genes. II.
+The coding sequences of 40 new genes (KIAA0041-KIAA0080) deduced by
+analysis of cDNA clones from human cell line KG-1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Expression profiles and intergenic structure of head-to-head oriented
+Brca1 and Nbr1 genes.";
+"Comparison of the positional cloning methods used to isolate the
+BRCA1 gene.";
+"Interaction codes within the family of mammalian Phox and Bem1p
+domain-containing proteins.";
+"The kinase domain of titin controls muscle gene expression and
+protein turnover.";
+-!- SUBUNIT: Homooligomer and heterooligomer. Interacts with SQSTM1,
+    titin/TTN and RNF29.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q14596-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q14596-2; Sequence=VSP_004314;
+      Note=No experimental confirmation available;
+-!- DOMAIN: The OPR domain mediates interaction with SQSTM1.
+-!- SIMILARITY: Contains 1 OPR domain.
+-!- SIMILARITY: Contains 1 UBA domain.
+-!- SIMILARITY: Contains 1 ZZ-type zinc finger.
+-!- CAUTION: Was originally (Ref.1) thought to be the ovarian
+    carcinoma antigen CA125.
+3D-structure; Alternative splicing; Metal-binding; Polymorphism; Zinc;
+Zinc-finger.
+TMZERO

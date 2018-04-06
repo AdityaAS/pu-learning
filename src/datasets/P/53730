@@ -1,0 +1,20 @@
+AC   P15028; P76816; Q2M625;
+Iron(III) dicitrate-binding periplasmic protein precursor.
+"Nucleotide sequences of the fecBCDE genes and locations of the
+proteins suggest a periplasmic-binding-protein-dependent transport
+mechanism for iron(III) dicitrate in Escherichia coli.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Binds citrate-dependent Fe(3+); part of the binding-
+    protein-dependent transport system for uptake of citrate-dependent
+    Fe(3+).
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 8
+    family.
+-!- SIMILARITY: Contains 1 Fe/B12 periplasmic-binding domain.
+Complete proteome; Ion transport; Iron; Iron transport; Periplasmic;
+Signal; Transport.
+TMZERO

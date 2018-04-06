@@ -1,0 +1,10 @@
+AC   P38006; P56827;
+Outer membrane protein B precursor.
+"Genome sequence of an obligate intracellular pathogen of humans:
+Chlamydia trachomatis.";
+-!- SUBCELLULAR LOCATION: Note=Integral membrane protein. Outer
+    membrane of elementary body.
+-!- SIMILARITY: Belongs to the chlamydial OMP family.
+Complete proteome; Ion transport; Membrane; Outer membrane; Porin;
+Signal; Transmembrane; Transport.
+TMZERO

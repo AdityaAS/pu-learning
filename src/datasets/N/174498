@@ -1,0 +1,13 @@
+AC   P21788;
+15 kDa calcium-binding protein (CABP).
+"The amino acid sequence, immunofluorescence and microinjection
+studies on the 15 kDa calcium-binding protein from sea urchin egg.";
+-!- FUNCTION: May play an important role in mitosis of sea urchin egg.
+    May function as a Ca(2+)-dependent intracellular modulator of
+    microtubule assembly.
+-!- SUBCELLULAR LOCATION: Nucleus. Spindle. Note=Nuclei of fertilized
+    eggs and mitotic apparatus of dividing eggs.
+-!- SIMILARITY: Contains 4 EF-hand domains.
+Acetylation; Calcium; Direct protein sequencing; Nuclear protein;
+Repeat.
+TMZERO

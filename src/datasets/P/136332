@@ -1,0 +1,14 @@
+AC   P23462;
+Protein pucC.
+"Genes downstream from pucB and pucA are essential for formation of
+the B800-850 complex of Rhodobacter capsulatus.";
+"Analysis of the Rhodobacter capsulatus puc operon: the pucC gene
+plays a central role in the regulation of LHII (B800-850 complex)
+expression.";
+"Topological analysis of the Rhodobacter capsulatus PucC protein and
+effects of C-terminal deletions on light-harvesting complex II.";
+-!- FUNCTION: PucC is required for high-level transcription of the puc
+    operon.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+Antenna complex; Membrane; Transmembrane.
+TMTWELVE

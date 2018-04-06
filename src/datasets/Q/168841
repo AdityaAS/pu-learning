@@ -1,0 +1,27 @@
+AC   Q9QZ03; Q99K44;
+Zinc transporter ZIP1 (Zinc-iron-regulated transporter-like) (Solute
+carrier family 39 member 1).
+"Isolation and characterization of human and mouse ZIRTL, a member of
+the IRT1 family of transporters, mapping within the epidermal
+differentiation complex.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Mediates zinc uptake. May function as a major endogenous
+    zinc uptake transporter in many cells of the body (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- TISSUE SPECIFICITY: Ubiquitous. Highest levels seen in kidney,
+    salivary gland and placenta.
+-!- DEVELOPMENTAL STAGE: Found to be developmentally regulated in the
+    skin where it is expressed in the epidermal layer, excluding the
+    dermis, at embryonic day E17.5 but not in E10.5 and E15.5. In the
+    small intestine found toward the base of the intestinal villi from
+    E17.5. In the pancreas, expression was detected from E17.5 and no
+    expression was found in the liver. Also expressed in osteoblats of
+    developing bone from E15.5.
+-!- SIMILARITY: Belongs to the ZIP transporter (TC 2.A.5) family.
+-!- CAUTION: Ref.1 (CAB59982) sequence differs from that shown due to
+    frameshifts in positions 4 and 291.
+Ion transport; Membrane; Transmembrane; Transport; Zinc;
+Zinc transport.
+TMEIGHT

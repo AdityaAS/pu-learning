@@ -1,0 +1,15 @@
+AC   P38661;
+Probable protein disulfide-isomerase A6 precursor (EC 5.3.4.1) (P5).
+"Molecular characterization and expression of an alfalfa protein with
+sequence similarity to mammalian ERp72, a glucose-regulated
+endoplasmic reticulum protein containing active site sequences of
+protein disulphide isomerase.";
+-!- CATALYTIC ACTIVITY: Catalyzes the rearrangement of -S-S- bonds in
+    proteins.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    lumen (By similarity).
+-!- SIMILARITY: Belongs to the protein disulfide isomerase family.
+-!- SIMILARITY: Contains 2 thioredoxin domains.
+ GO:0003756; F:protein disulfide isomerase activity; IEA:EC.
+Endoplasmic reticulum; Isomerase; Redox-active center; Repeat; Signal.
+TMZERO

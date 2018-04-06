@@ -1,0 +1,11 @@
+AC   Q9KGS7;
+Alkaline proteinase inhibitor precursor.
+"Phase-variable expression of an operon encoding extracellular
+alkaline protease, a serine protease homolog, and lipase in
+Pseudomonas brassicacearum.";
+-!- FUNCTION: Inhibitor of the alkaline protease.
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the protease inhibitor I38 family.
+Metalloenzyme inhibitor; Metalloprotease inhibitor; Periplasmic;
+Signal.
+TMZERO

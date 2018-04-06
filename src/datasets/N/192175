@@ -1,0 +1,14 @@
+AC   Q478Z3;
+tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33) (tRNA(m7G46)-
+methyltransferase).
+"Complete sequence of Dechloromonas aromatica RCB.";
+-!- FUNCTION: Catalyzes the formation of 7-N-methylguanine at position
+    46 (m7G46) in tRNA (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + tRNA = S-adenosyl-L-
+    homocysteine + tRNA containing 7-N-methylguanine.
+-!- SIMILARITY: Belongs to the RNA m7G methyltransferase family.
+ GO:0008176; F:tRNA (guanine-N7-)-methyltransferase activity; IEA:HAMAP.
+ GO:0006400; P:tRNA modification; IEA:HAMAP.
+Complete proteome; Methyltransferase; S-adenosyl-L-methionine;
+Transferase; tRNA processing.
+TMZERO

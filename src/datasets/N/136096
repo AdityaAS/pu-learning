@@ -1,0 +1,9 @@
+AC   P28201;
+Tyrosine-protein phosphatase 9 (EC 3.1.3.48) (Fragment).
+"Protein tyrosine phosphatase domains from the protochordate Styela
+plicata.";
+-!- CATALYTIC ACTIVITY: Protein tyrosine phosphate + H(2)O = protein
+    tyrosine + phosphate.
+-!- SIMILARITY: Contains 1 tyrosine-protein phosphatase domain.
+Hydrolase; Protein phosphatase.
+TMZERO

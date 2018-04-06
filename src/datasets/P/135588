@@ -1,0 +1,36 @@
+AC   P56580; P05705; P78103; P78215;
+Glucitol/sorbitol-specific phosphotransferase enzyme IIB component
+(EC 2.7.1.69) (PTS system glucitol/sorbitol-specific EIIB component)
+(EII-Gut).
+"Glucitol-specific enzymes of the phosphotransferase system in
+Escherichia coli. Nucleotide sequence of the gut operon.";
+"The glucitol permease of Escherichia coli: a tripartite permease of
+the phosphotransferase system.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in glucitol/sorbitol transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-5 domain.
+Complete proteome; Inner membrane; Kinase; Membrane; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase;
+Transmembrane; Transport.
+TMFIVE

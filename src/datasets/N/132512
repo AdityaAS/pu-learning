@@ -1,0 +1,24 @@
+AC   P83266;
+Sperm protamine R3 isoform 1.
+"The primary structure of a chondrichthyan protamine: a new apparent
+contradiction in protamine evolution.";
+-!- FUNCTION: Protamines substitute for histones in the chromatin of
+    sperm during the haploid phase of spermatogenesis. They compact
+    sperm DNA into a highly condensed, stable and inactive complex.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Testis.
+-!- MASS SPECTROMETRY: MW=6041.3; METHOD=Electrospray; RANGE=1-48;
+    NOTE=Ref.1.
+-!- MISCELLANEOUS: Two isoforms exist, a major form and a minor form.
+    This is the major form.
+ GO:0000786; C:nucleosome; TAS:UniProtKB.
+ GO:0005634; C:nucleus; TAS:UniProtKB.
+ GO:0003677; F:DNA binding; TAS:UniProtKB.
+ GO:0007001; P:chromosome organization and biogenesis (sen...; TAS:UniProtKB.
+ GO:0007076; P:mitotic chromosome condensation; TAS:UniProtKB.
+ GO:0006334; P:nucleosome assembly; TAS:UniProtKB.
+ GO:0007283; P:spermatogenesis; TAS:UniProtKB.
+Chromosomal protein; Developmental protein; Differentiation;
+Direct protein sequencing; DNA condensation; DNA-binding;
+Nuclear protein; Nucleosome core; Spermatogenesis.
+TMZERO

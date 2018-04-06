@@ -1,0 +1,54 @@
+AC   P08590; Q9NRS8;
+Myosin light polypeptide 3 (Myosin light chain 1, slow-twitch muscle
+B/ventricular isoform) (MLC1SB) (Ventricular/slow twitch myosin alkali
+light chain) (Cardiac myosin light chain-1) (CMLC1).
+"Molecular cloning and complete nucleotide sequence of a human
+ventricular myosin light chain 1.";
+"Molecular cloning and characterization of human atrial and
+ventricular myosin alkali light chain cDNA clones.";
+"Human ventricular/slow twitch myosin alkali light chain gene
+characterization, sequence, and chromosomal location.";
+"The sequence of human cardiac myosin light chain I (CMLC-1) from a
+Chinese patient and the preparation of monoclonal antibody to
+CHCMLC1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The major protein expression profile and two-dimensional protein
+database of human heart.";
+"Mutations in either the essential or regulatory light chains of
+myosin are associated with a rare myopathy in human heart and skeletal
+muscle.";
+"Myosin light chain mutation causes autosomal recessive cardiomyopathy
+with mid-cavitary hypertrophy and restrictive physiology.";
+"Hypertrophic cardiomyopathy: distribution of disease genes, spectrum
+of mutations, and implications for a molecular diagnosis strategy.";
+-!- FUNCTION: Regulatory light chain of myosin. Does not bind calcium.
+-!- SUBUNIT: Myosin is an hexamer of 2 heavy chains and 4 light
+    chains.
+-!- PTM: The N-terminus is blocked.
+-!- DISEASE: Defects in MYL3 are the cause of familial hypertrophic
+    cardiomyopathy type 8 (CMH8) [MIM:608751, 192600]; also designated
+    HCM or FHC. Hypertrophic cardiomyopathy is a heart disorder
+    characterized by ventricular hypertrophy, which is usually
+    asymmetric and often involves the interventricular septum. The
+    prevalence of the disease in the general population is 0.2%. FHC
+    is clinically heterogeneous, with inter- and intrafamilial
+    variations ranging from benign to malignant forms with a high risk
+    of cardiac failure and sudden cardiac death. CMH8 inheritance can
+    be autosomal dominant or recessive.
+-!- DISEASE: Defects in MYL3 are the cause of hypertrophic
+    cardiomyopathy with mid-left ventricular chamber type 1 (MVC1)
+    [MIM:608751]. MVC1 is a very rare variant of familial hypertrophic
+    cardiomyopathy, characterized by mid-left ventricular chamber
+    thickening.
+-!- SIMILARITY: Contains 3 EF-hand domains.
+-!- WEB RESOURCE: NAME=Familial hypertrophic cardiomyopathy mutation
+    database;
+    URL="http://www.angis.org.au/Databases/Heart/heartbreak.html".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=MYL3".
+ GO:0005859; C:muscle myosin complex; TAS:ProtInc.
+ GO:0008307; F:structural constituent of muscle; TAS:ProtInc.
+Cardiomyopathy; Direct protein sequencing; Disease mutation;
+Motor protein; Muscle protein; Myosin; Repeat.
+TMZERO

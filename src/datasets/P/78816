@@ -1,0 +1,11 @@
+AC   P45356;
+Heme/hemopexin utilization protein B precursor.
+"A gene cluster involved in the utilization of both free heme and
+heme:hemopexin by Haemophilus influenzae type b.";
+-!- FUNCTION: Likely functions in the release of soluble hxuA from the
+    cell.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: To S.marcescens shlB.
+Direct protein sequencing; Membrane; Outer membrane; Signal;
+Transport.
+TMZERO

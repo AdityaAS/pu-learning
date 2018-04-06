@@ -1,0 +1,16 @@
+AC   Q9LX93;
+RING-H2 finger protein ATL5F.
+"Sequence and analysis of chromosome 5 of the plant Arabidopsis
+thaliana.";
+"Large-scale analysis of RIKEN Arabidopsis full-length (RAFL) cDNAs.";
+"Evaluation and classification of RING-finger domains encoded by the
+Arabidopsis genome.";
+-!- PATHWAY: Ubiquitin conjugation; third step.
+-!- DOMAIN: The RING-type zinc finger domain mediates binding to an E2
+    ubiquitin-conjugating enzyme (By similarity).
+-!- SIMILARITY: Belongs to the RING-type zinc finger family. ATL
+    subfamily.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+Membrane; Metal-binding; Transmembrane; Ubl conjugation pathway; Zinc;
+Zinc-finger.
+TMONE

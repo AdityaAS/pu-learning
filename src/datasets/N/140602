@@ -1,0 +1,20 @@
+AC   Q5U651; Q6U676;
+Ras-interacting protein 1 (Rain).
+"Identification and characterization of Rain, a novel Ras-interacting
+protein with a unique subcellular localization.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May act as effector for Golgi-bound HRAS and other Ras-
+    like proteins. May promote HRAS-mediated transformation.
+-!- SUBUNIT: Interacts with Ras family members that have been
+    activated by GTP binding. Interacts with HRAS, RAP1A, RAP2, RRAS,
+    RAF1 and RRAS2.
+-!- SUBCELLULAR LOCATION: Cytoplasm; perinuclear region. Golgi
+    apparatus; Golgi stack. Note=Associated with perinuclear vesicles.
+    Is recruited to Golgi stacks by activated HRAS.
+-!- TISSUE SPECIFICITY: Highly expressed in heart. Detected at lower
+    levels in placenta and pancreas.
+-!- SIMILARITY: Contains 1 dilute domain.
+-!- SIMILARITY: Contains 1 Ras-associating domain.
+Golgi apparatus; Membrane.
+TMZERO

@@ -1,0 +1,68 @@
+AC   Q9H251; Q6UWW1; Q9H4K9;
+Cadherin-23 precursor (Otocadherin).
+"Mutation of CDH23, encoding a new member of the cadherin gene family,
+causes Usher syndrome type 1D.";
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"Usher syndrome 1D and nonsyndromic autosomal recessive deafness
+DFNB12 are caused by allelic mutations of the novel cadherin-like gene
+CDH23.";
+"Identification of three novel non-classical cadherin genes through
+comprehensive analysis of large cDNAs.";
+"CDH23 mutation and phenotype heterogeneity: a profile of 107 diverse
+families with Usher syndrome and nonsyndromic deafness.";
+"Mutations in the calcium-binding motifs of CDH23 and the 35delG
+mutation in GJB2 cause hearing loss in one family.";
+"Characterization of Usher syndrome type I gene mutations in an Usher
+syndrome patient population.";
+"Modification of human hearing loss by plasma-membrane calcium pump
+PMCA2.";
+"Survey of the frequency of USH1 gene mutations in a cohort of Usher
+patients shows the importance of cadherin 23 and protocadherin 15
+genes and establishes a detection rate of above 90%.";
+-!- FUNCTION: Cadherins are calcium dependent cell adhesion proteins.
+    They preferentially interact with themselves in a homophilic
+    manner in connecting cells. Cadherin 23 may function as hair
+    bundle organizer perhaps by cross-linking the stereocilia (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=5;
+      Comment=Additional isoforms seem to exist;
+    Name=1;
+      IsoId=Q9H251-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9H251-2; Sequence=VSP_000645;
+    Name=3;
+      IsoId=Q9H251-3; Sequence=VSP_000646;
+    Name=4;
+      IsoId=Q9H251-4; Sequence=VSP_000647;
+    Name=5;
+      IsoId=Q9H251-5; Sequence=VSP_013268, VSP_013269;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Particularly strong expression in the retina.
+    Found also in the cochlea.
+-!- DISEASE: Defects in CDH23 are the cause of Usher syndrome type 1D
+    (USH1D) [MIM:601067]. Usher syndrome type 1 is an autosomal
+    recessive disorder characterized by congenital profound
+    sensorineural hearing loss, constant vestibular dysfunction and
+    prepubertal onset of retinitis pigmentosa leading to blindness.
+    Usher syndrome is the most common cause of combined deafness and
+    blindness in developed countries.
+-!- DISEASE: Defects in CDH23 are the cause of a form of non-syndromic
+    autosomal recessive deafness (DFNB12) [MIM:601386].
+-!- SIMILARITY: Contains 27 cadherin domains.
+-!- WEB RESOURCE: NAME=Mutations of the CDH23 gene;
+    NOTE=Retina International's Scientific Newsletter;
+    URL="http://www.retina-international.com/sci-news/cdh23mut.htm".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=CDH23".
+ GO:0016020; C:membrane; NAS:UniProtKB.
+ GO:0016339; P:calcium-dependent cell-cell adhesion; NAS:UniProtKB.
+Alternative splicing; Calcium; Cell adhesion; Deafness;
+Disease mutation; Glycoprotein; Membrane; Polymorphism; Repeat;
+Retinitis pigmentosa; Sensory transduction; Signal; Transmembrane;
+Usher syndrome; Vision.
+TMONE

@@ -1,0 +1,27 @@
+AC   P47186; Q07787;
+Alpha-glucosides permease MPH2/3 (Maltose transport protein 2/3).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Concurrent knock-out of at least 20 transporter genes is required to
+block uptake of hexoses in Saccharomyces cerevisiae.";
+"Characterization of the putative maltose transporters encoded by
+YDL247w and YJR160c.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High-affinity uptake of maltose and maltotriose. Also
+    transports alpha-methylglucoside, glucose and turanose but not
+    melezitose or trehalose.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: By maltose and maltotriose. Repressed by glucose.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 583.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0015151; F:alpha-glucoside transporter activity; IDA:UniProtKB.
+ GO:0000017; P:alpha-glucoside transport; IDA:UniProtKB.
+ GO:0008643; P:carbohydrate transport; IDA:SGD.
+Complete proteome; Maltose metabolism; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

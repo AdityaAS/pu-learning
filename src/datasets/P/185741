@@ -1,0 +1,19 @@
+AC   P31550; P75637;
+Thiamine-binding periplasmic protein precursor.
+"E. coli periplasmic thiamin binding protein: cloning, overexpression,
+purification, and characterization.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"thiBPQ encodes an ABC transporter required for transport of thiamine
+and thiamine pyrophosphate in Salmonella typhimurium.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    tbpA-thiPQ for thiamine and TPP.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 1
+    family.
+Complete proteome; Direct protein sequencing; Periplasmic; Signal;
+Transport.
+TMZERO

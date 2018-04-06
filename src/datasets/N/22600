@@ -1,0 +1,20 @@
+AC   Q924I3; Q8C0M1; Q8QZW9;
+C-C chemokine receptor type 11 (C-C CKR-11) (CC-CKR-11) (CCR-11) (CC
+chemokine receptor-like 1) (CCRL1) (CCX CKR).
+"Astrocytes express functional chemokine receptors.";
+"Characterization of mouse CCX-CKR, a receptor for the lymphocyte-
+attracting chemokines TECK/mCCL25, SLC/mCCL21 and MIP-3beta/mCCL19:
+comparison to human CCX-CKR.";
+"RANTES and eotaxin stimulate chemotaxis, chemokine/cytokine
+synthesis, and receptor modulation in murine astrocytes.";
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: Receptor for CCL19, CCL21A and CCL25. Receptor for CCL2,
+    CCL8 and CCL13 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- TISSUE SPECIFICITY: Expressed in lung, heart, spleen, skeletal
+    muscle, testis, astrocytes and microglia.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+G-protein coupled receptor; Glycoprotein; Membrane; Receptor;
+Transducer; Transmembrane.
+TMSEVEN

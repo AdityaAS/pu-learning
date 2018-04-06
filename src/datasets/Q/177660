@@ -1,0 +1,16 @@
+AC   O94607;
+Siderophore iron transporter 2.
+"The genome sequence of Schizosaccharomyces pombe.";
+"Fep1 represses expression of the fission yeast Schizosaccharomyces
+pombe siderophore-iron transport system.";
+-!- FUNCTION: Involved in the transport of siderophore iron and so has
+    a role in iron homeostasis.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+ GO:0005774; C:vacuolar membrane; IDA:GeneDB_SPombe.
+ GO:0015344; F:siderophore-iron (ferrioxamine) uptake tran...; TAS:GeneDB_SPombe.
+ GO:0015892; P:siderophore-iron transport; TAS:GeneDB_SPombe.
+Complete proteome; Ion transport; Iron; Iron transport; Membrane;
+Transmembrane; Transport.
+TMFOURTEEN

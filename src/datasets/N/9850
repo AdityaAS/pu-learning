@@ -1,0 +1,16 @@
+AC   Q7SIE0;
+Delta-1 crystallin (Delta crystallin I).
+"Structural studies of duck delta 1 and delta 2 crystallin suggest
+conformational changes occur during catalysis.";
+-!- FUNCTION: Delta crystallin, the principal crystallin in embryonic
+    lens, is found only in birds and reptiles (By similarity).
+-!- SUBUNIT: Homotetramer.
+-!- TISSUE SPECIFICITY: Eye lens.
+-!- SIMILARITY: Belongs to the lyase 1 family. Argininosuccinate lyase
+    subfamily.
+-!- CAUTION: Despite possessing the necessary catalytic residues, this
+    protein does not function as an enzymatically active
+    argininosuccinate lyase.
+ GO:0005212; F:structural constituent of eye lens; TAS:UniProtKB.
+3D-structure; Eye lens protein.
+TMZERO

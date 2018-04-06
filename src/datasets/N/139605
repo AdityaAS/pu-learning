@@ -1,0 +1,12 @@
+AC   Q9KS93;
+Queuosine biosynthesis protein queC (EC 3.5.-.-).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Catalyzes the transformation of GTP to 7-cyano-7-
+    deazaguanine (preQ0) (By similarity).
+-!- PATHWAY: Nucleoside biosynthesis; queuosine biosynthesis;
+    queuosine-tRNA from GTP; step 1.
+-!- SIMILARITY: Belongs to the queC family.
+ GO:0008616; P:queuosine biosynthesis; IEA:HAMAP.
+Complete proteome; Hydrolase; Queuosine biosynthesis.
+TMZERO

@@ -1,0 +1,24 @@
+AC   P17315; Q2MAS4;
+Colicin I receptor precursor.
+"Evolutionary relationship between the TonB-dependent outer membrane
+transport proteins: nucleotide and amino acid sequences of the
+Escherichia coli colicin I receptor gene.";
+"Automated multiplex sequencing of the E.coli genome.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Cloning and promoter identification of the iron-regulated cir gene of
+Escherichia coli.";
+"The lysP gene encodes the lysine-specific permease.";
+"Activation of expression of the Escherichia coli cir gene by an iron-
+independent regulatory mechanism involving cyclic AMP-cyclic AMP
+receptor protein complex.";
+-!- FUNCTION: Not yet known. Postulated to participate in iron
+    transport. Outer membrane receptor for colicins IA and IB.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- INDUCTION: By iron and by a cAMP/cAMP receptor protein complex.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+Complete proteome; Direct protein sequencing; Ion transport; Iron;
+Iron transport; Membrane; Outer membrane; Receptor; Signal; TonB box;
+Transport.
+TMZERO

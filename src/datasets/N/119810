@@ -1,0 +1,19 @@
+AC   O54901; O54816; Q9JHD5;
+OX-2 membrane glycoprotein precursor (MRC OX-2 antigen) (CD200
+antigen).
+"Cloning and characterization of the murine homologue of the rat/human
+MRC OX-2 gene.";
+"Characterization and localization of Mox2, the gene encoding the
+murine homolog of the rat MRC OX-2 membrane glycoprotein.";
+-!- FUNCTION: Costimulates T-cell proliferation. May regulate myeloid
+    cell activity in a variety of tissues (By similarity).
+-!- SUBUNIT: Interacts with OX2R.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- SIMILARITY: Contains 1 Ig-like C2-type (immunoglobulin-like)
+    domain.
+-!- SIMILARITY: Contains 1 Ig-like V-type (immunoglobulin-like)
+    domain.
+ GO:0005515; F:protein binding; IPI:MGI.
+Glycoprotein; Immunoglobulin domain; Membrane; Signal; Transmembrane.
+TMONE

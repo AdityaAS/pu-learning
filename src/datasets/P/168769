@@ -1,0 +1,35 @@
+AC   O00337; O00335; O00336; Q9UEZ9;
+Sodium/nucleoside cotransporter 1 (Na(+)/nucleoside cotransporter 1)
+(Sodium-coupled nucleoside transporter 1) (Concentrative nucleoside
+transporter 1) (CNT 1) (hCNT1).
+"Molecular cloning and functional expression of cDNAs encoding a human
+Na+-nucleoside cotransporter (hCNT1).";
+"Genomic organization and sequence of the gene encoding the human
+sodium-dependent, pyrimidine-selective nucleoside transporter
+(CNT1).";
+"Identification of amino acid residues responsible for the pyrimidine
+and purine nucleoside specificities of human concentrative Na(+)
+nucleoside cotransporters hCNT1 and hCNT2.";
+-!- FUNCTION: Sodium-dependent and pyrimidine-selective. Exhibits the
+    transport characteristics of the nucleoside transport system cit
+    or N2 subtype (N2/cit) (selective for pyrimidine nucleosides and
+    adenosine). It also transports the antiviral pyrimidine nucleoside
+    analogs 3'-azido-3'-deoxythymidine (AZT) and 2',3'-dideoxycytidine
+    (ddC). It may be involved in the intestinal absorption and renal
+    handling of pyrimidine nucleoside analogs used to treat acquired
+    immunodeficiency syndrome (AIDS). It has the following selective
+    inhibition: adenosine, thymidine, cytidine, uridine >> guanosine,
+    inosine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in kidney.
+-!- POLYMORPHISM: Three isoforms; A, B, and C (shown here); are
+    expressed in the kidney. All isoforms have similar nucleoside
+    transport activity.
+-!- SIMILARITY: Belongs to the SLC28A transporter family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0005337; F:nucleoside transporter activity; TAS:ProtInc.
+ GO:0006139; P:nucleobase, nucleoside, nucleotide and nucl...; TAS:ProtInc.
+ GO:0015858; P:nucleoside transport; TAS:ProtInc.
+Membrane; Polymorphism; Transmembrane; Transport.
+TMTEN

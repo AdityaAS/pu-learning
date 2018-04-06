@@ -1,0 +1,71 @@
+AC   P13473; Q16641; Q96J30; Q99534;
+Lysosome-associated membrane glycoprotein 2 precursor (LAMP-2) (CD107b
+antigen).
+"Cloning of cDNAs encoding human lysosomal membrane glycoproteins, h-
+lamp-1 and h-lamp-2. Comparison of their deduced amino acid
+sequences.";
+"Complete cDNA sequence of human lysosome-associated membrane protein-
+2.";
+"An alternatively spliced form of the human lysosome-associated
+membrane protein-2 gene is expressed in a tissue-specific manner.";
+"The genes of major lysosomal membrane glycoproteins, lamp-1 and lamp-
+2. 5'-flanking sequence of lamp-2 gene and comparison of exon
+organization in two genes.";
+"The DNA sequence of the human X chromosome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Purification and characterization of human lysosomal membrane
+glycoproteins.";
+"Signal peptide prediction based on analysis of experimentally
+verified cleavage sites.";
+"The polylactosaminoglycans of human lysosomal membrane glycoproteins
+lamp-1 and lamp-2. Localization on the peptide backbones.";
+"Assignment of O-glycan attachment sites to the hinge-like regions of
+human lysosomal membrane glycoproteins lamp-1 and lamp-2.";
+"Identification and quantification of N-linked glycoproteins using
+hydrazide chemistry, stable isotope labeling and mass spectrometry.";
+"Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+hydrazide chemistry, and mass spectrometry.";
+"Glycogen storage diseases presenting as hypertrophic
+cardiomyopathy.";
+"Asymptomatic hyperCKemia in a case of Danon disease due to a missense
+mutation in Lamp-2 gene.";
+-!- FUNCTION: Implicated in tumor cell metastasis. May function in
+    protection of the lysosomal membrane from autodigestion,
+    maintenance of the acidic environment of the lysosome, adhesion
+    when expressed on the cell surface (plasma membrane), and inter-
+    and intracellular signal transduction.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type I membrane
+    protein. Endosome; endosomal membrane; single-pass type I membrane
+    protein. Lysosome; lysosomal membrane; single-pass type I membrane
+    protein. Note=This protein shuttles between lysosomes, endosomes,
+    and the plasma membrane.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=LAMP-2A;
+      IsoId=P13473-1; Sequence=Displayed;
+    Name=LAMP-2B;
+      IsoId=P13473-2; Sequence=VSP_003044;
+-!- TISSUE SPECIFICITY: Isoform LAMP-2A is highly expressed in
+    placenta, lung and liver, less in kidney and pancreas, low in
+    brain and skeletal muscle. Isoform LAMP-2B is highly expressed in
+    skeletal muscle, less in brain, placenta, lung, kidney and
+    pancreas, very low in liver.
+-!- PTM: O- and N-glycosylated; some of the 16 N-linked glycans are
+    polylactosaminoglycans.
+-!- DISEASE: Defects in LAMP2 are the cause of Danon disease
+    [MIM:300257]; also known as glycogen storage disease type IIb
+    (GSD2B). It is characterized by the clinical triad of
+    cardiomyopathy, vacuolar myopathy and mental retardation. It is
+    often linked with an accumulation of glycogen in muscle and
+    lysosomes.
+-!- SIMILARITY: Belongs to the LAMP family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=LAMP2".
+ GO:0005770; C:late endosome; IDA:MGI.
+ GO:0005765; C:lysosomal membrane; IDA:MGI.
+ GO:0005624; C:membrane fraction; IDA:MGI.
+ GO:0031088; C:platelet dense granule membrane; IDA:MGI.
+Alternative splicing; Direct protein sequencing; Disease mutation;
+Glycoprotein; Lysosome; Membrane; Polymorphism; Signal; Transmembrane.
+TMONE

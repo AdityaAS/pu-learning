@@ -1,0 +1,15 @@
+AC   O66212;
+60 kDa chaperonin (Protein Cpn60) (groEL protein) (Fragment).
+"Phylogenetical relationship based on groE genes among phenotypically
+related Enterobacter, Pantoea, Klebsiella, Serratia, and Erwinia
+species.";
+-!- FUNCTION: Prevents misfolding and promotes the refolding and
+    proper assembly of unfolded polypeptides generated under stress
+    conditions (By similarity).
+-!- SUBUNIT: Oligomer of 14 subunits composed of two stacked rings of
+    7 subunits (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the chaperonin (HSP60) family.
+ GO:0042026; P:protein refolding; IEA:HAMAP.
+ATP-binding; Chaperone; Nucleotide-binding.
+TMZERO

@@ -1,0 +1,44 @@
+AC   Q9AWA5; O82061;
+Alpha-glucan water dikinase, chloroplast precursor (EC 2.7.9.4)
+(EC 2.7.13.3) (Starch-related R1 protein).
+"Inhibition of a starch-granule-bound protein leads to modified starch
+and repression of cold sweetening.";
+"Production of highly phosphorylated glycopolymers by expression of R1
+in Escherichia coli.";
+"Reversible binding of the starch-related R1 protein to the surface of
+transitory starch granules.";
+"The starch-related R1 protein is an alpha-glucan, water dikinase.";
+"Functional characterization of alpha-glucan, water dikinase, the
+starch phosphorylating enzyme.";
+-!- FUNCTION: Mediates the incorporation of phosphate into starch-like
+    alpha-glucan. Acts as an overall regulator of starch mobilization.
+    Required for starch degradation, suggesting that the phosphate
+    content of starch regulates its degradability. More active on
+    alpha-1,6 branched amylopectin.
+-!- CATALYTIC ACTIVITY: ATP + alpha-glucan + H(2)O = AMP + phospho-
+    alpha-glucan + phosphate.
+-!- CATALYTIC ACTIVITY: ATP + protein L-histidine = ADP + protein N-
+    phospho-L-histidine.
+-!- COFACTOR: Magnesium.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=0.23 uM for ATP;
+      KM=1.7 uM for amylopectin;
+    pH dependence:
+      Optimum pH is 7;
+    Temperature dependence:
+      Optimum temperature is 35 degrees Celsius;
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast. Note=Starch granules.
+    Binds to starch granules isolated from either illuminated or
+    darkened leaves. However, binding to darkened leaves is more
+    effective, suggesting that depending upon the metabolic state of
+    the cells, the starch granule surface changes and thereby affects
+    its binding.
+-!- TISSUE SPECIFICITY: Expressed in leaves.
+-!- SIMILARITY: Belongs to the PEP-utilizing enzyme family.
+ GO:0050521; F:alpha-glucan, water dikinase activity; IEA:EC.
+ATP-binding; Carbohydrate metabolism; Chloroplast;
+Direct protein sequencing; Kinase; Nucleotide-binding;
+Phosphorylation; Plastid; Transferase; Transit peptide.
+TMZERO

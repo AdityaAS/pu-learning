@@ -1,0 +1,12 @@
+AC   P42203;
+Interleukin-13 precursor (IL-13) (T-cell activation protein P600).
+"Cloning of rat interleukin-13 (IL-13) cDNA and analysis of IL-13 gene
+expression in experimental glomerulonephritis.";
+-!- FUNCTION: Cytokine. Inhibits inflammatory cytokine production.
+    Synergizes with IL2 in regulating interferon-gamma synthesis. May
+    be critical in regulating inflammatory and immune responses (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the IL-4/IL-13 family.
+Cytokine; Glycoprotein; Signal.
+TMZERO

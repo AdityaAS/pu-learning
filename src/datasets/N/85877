@@ -1,0 +1,13 @@
+AC   Q93LR4;
+6-phosphofructokinase (EC 2.7.1.11) (Phosphofructokinase)
+(Phosphohexokinase).
+"6-phosphofructokinase of Bacillus sphaericus 2362.";
+-!- CATALYTIC ACTIVITY: ATP + D-fructose 6-phosphate = ADP + D-
+    fructose 1,6-bisphosphate.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; D-glyceraldehyde 3-
+    phosphate and glycerone phosphate from D-glucose: step 3.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the phosphofructokinase family.
+Allosteric enzyme; ATP-binding; Glycolysis; Kinase; Magnesium;
+Metal-binding; Nucleotide-binding; Transferase.
+TMZERO

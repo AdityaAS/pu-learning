@@ -1,0 +1,30 @@
+AC   P04039;
+Cytochrome c oxidase polypeptide VIII, mitochondrial precursor
+(EC 1.9.3.1).
+"COX8, the structural gene for yeast cytochrome c oxidase subunit
+VIII. DNA sequence and gene disruption indicate that subunit VIII is
+required for maximal levels of cellular respiration and is derived
+from a precursor which is extended at both its NH2 and COOH termini.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"The nuclear-coded subunits of yeast cytochrome c oxidase. II. The
+amino acid sequence of subunit VIII and a model for its disposition in
+the inner mitochondrial membrane.";
+"Kinetic properties and ligand binding of the eleven-subunit
+cytochrome-c oxidase from Saccharomyces cerevisiae isolated with a
+novel large-scale purification method.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBUNIT: Cytochrome c oxidase is composed of 11 subunits: one copy
+    each of COX1, COX2, COX3, COX4, COX5A or COX5B, COX6, COX7, COX9,
+    COX12, COX13 and two copies of COX8.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- MISCELLANEOUS: Present with 672 molecules/cell.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase VIIc family.
+ GO:0005751; C:respiratory chain complex IV (sensu Eukaryota); IPI:SGD.
+ GO:0006123; P:mitochondrial electron transport, cytochrom...; IDA:SGD.
+Complete proteome; Direct protein sequencing; Mitochondrion;
+Oxidoreductase; Transit peptide.
+TMZERO

@@ -1,0 +1,23 @@
+AC   P26465;
+Flagellum-specific ATP synthase (EC 3.6.3.14).
+"Salmonella typhimurium mutants defective in flagellar filament
+regrowth and sequence similarity of FliI to F0F1, vacuolar, and
+archaebacterial ATPase subunits.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Genetic and biochemical analysis of Salmonella typhimurium FliI, a
+flagellar protein related to the catalytic subunit of the F0F1 ATPase
+and to virulence proteins of mammalian and plant pathogens.";
+-!- FUNCTION: Probable catalytic subunit of a protein translocase for
+    flagellum-specific export, or a proton translocase involved in
+    local circuits at the flagellum. May be involved in a specialized
+    protein export pathway that proceeds without signal peptide
+    cleavage.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+ATP synthesis; ATP-binding; Complete proteome; Flagellum;
+Hydrogen ion transport; Hydrolase; Ion transport; Nucleotide-binding;
+Protein transport; Transport.
+TMZERO

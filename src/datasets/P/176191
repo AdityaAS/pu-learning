@@ -1,0 +1,21 @@
+AC   O31100;
+Solvent-resistant pump membrane transporter srpB.
+"Identification and molecular characterization of an efflux pump
+involved in Pseudomonas putida S12 solvent tolerance.";
+"Active efflux of organic solvents by Pseudomonas putida S12 is
+induced by solvents.";
+-!- FUNCTION: The inner membrane transporter component of an organic
+    solvent efflux pump. Involved in export of a number of low log POW
+    compounds including hexane (log POW 3.5), toluene (log POW 2.5)
+    and dimethylphthalate (log POW 2.3). The solvent resistance
+    phenotype has been postulated to depend on the operon expression
+    level.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- INDUCTION: Low constitutive expression; the srpABC operon is
+    further induced up to 17-fold by organic solvents (e.g. toluene
+    and aliphatic solvents and alcohols) but not by antibiotics, heavy
+    metals, pH, temperature, high NaCl or 60 mM acetic acid.
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

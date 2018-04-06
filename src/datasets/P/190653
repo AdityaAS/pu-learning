@@ -1,0 +1,31 @@
+AC   P33225; P78227;
+Trimethylamine-N-oxide reductase 1 precursor (EC 1.7.2.3) (TMAO
+reductase 1) (Trimethylamine oxidase 1).
+"TMAO anaerobic respiration in Escherichia coli: involvement of the
+tor operon.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"An analogue of the DnaJ molecular chaperone in Escherichia coli.";
+"The inducible trimethylamine N-oxide reductase of Escherichia coli
+K12: its localization and inducers.";
+"A novel Sec-independent periplasmic protein translocation pathway in
+Escherichia coli.";
+-!- FUNCTION: Reduces trimethylamine-N-oxide (TMAO) into
+    trimethylamine; an anaerobic reaction coupled to energy-yielding
+    reactions.
+-!- CATALYTIC ACTIVITY: Trimethylamine + 2 (ferricytochrome c)-subunit
+    + H(2)O = trimethylamine N-oxide + 2 (ferrocytochrome c)-subunit +
+    2 H(+).
+-!- COFACTOR: Molybdenum (molybdopterin) (By similarity).
+-!- SUBUNIT: Interacts with the N-terminal domain of torC.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- PTM: Exported by the Tat system. The position of the signal
+    peptide cleavage has been experimentally proven.
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+Complete proteome; Direct protein sequencing; Molybdenum;
+Oxidoreductase; Periplasmic; Signal.
+TMZERO

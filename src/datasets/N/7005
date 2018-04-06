@@ -1,0 +1,8 @@
+AC   Q00746;
+Antigen 1 precursor (ASPND1).
+"Characterization of the Aspergillus nidulans aspnd1 gene demonstrates
+that the ASPND1 antigen, which it encodes, and several A.fumigatus
+immunodominant antigens belong to the same family.";
+-!- SIMILARITY: Belongs to the ZPS1 family.
+Glycoprotein; Signal.
+TMZERO

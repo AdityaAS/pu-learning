@@ -1,0 +1,13 @@
+AC   Q43056;
+Chalcone--flavonone isomerase (EC 5.5.1.6) (Chalcone isomerase).
+"Cloning of chalcone-flavanone isomerase cDNA from Pueraria lobata and
+its overexpression in Escherichia coli.";
+-!- FUNCTION: Responsible for the isomerization of 4,2',4',6'-
+    tetrahydroxychalcone (also termed chalcone) into naringenin.
+-!- CATALYTIC ACTIVITY: A chalcone = a flavanone.
+-!- PATHWAY: Secondary metabolite biosynthesis; flavonoid
+    biosynthesis.
+-!- SIMILARITY: Belongs to the chalcone isomerase family.
+ GO:0045430; F:chalcone isomerase activity; IEA:EC.
+Flavonoid biosynthesis; Isomerase.
+TMZERO

@@ -1,0 +1,33 @@
+AC   P14693;
+Sorting assembly machinery 35 kDa subunit (TOB complex 38 kDa subunit)
+(Mitochondrial 38 kDa outer membrane protein).
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"STE12, a protein involved in cell-type-specific transcription and
+signal transduction in yeast, is part of protein-DNA complexes.";
+"Global analysis of protein expression in yeast.";
+"Tob38, a novel essential component in the biogenesis of beta-barrel
+proteins of mitochondria.";
+"The Omp85 family of proteins is essential for outer membrane
+biogenesis in mitochondria and bacteria.";
+"Two novel proteins in the mitochondrial outer membrane mediate beta-
+barrel protein assembly.";
+"Sam35 of the mitochondrial protein sorting and assembly machinery is
+a peripheral outer membrane protein essential for cell viability.";
+-!- FUNCTION: Essential component of the mitochondrial outer membrane
+    sorting assembly machinery (SAM or TOB) complex, which is required
+    for the sorting of proteins with complicated topology, such as
+    beta-barrel proteins, to the mitochondrial outer membrane after
+    import by the TOM complex.
+-!- SUBUNIT: Component of the mitochondrial outer membrane sorting
+    assembly machinery (SAM or TOB) complex, which at least consists
+    of SAM35, SAM37 and SAM50.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane.
+-!- MISCELLANEOUS: Present with 1470 molecules/cell.
+ GO:0019898; C:extrinsic to membrane; IDA:SGD.
+ GO:0001401; C:mitochondrial sorting and assembly machiner...; IDA:SGD.
+ GO:0005515; F:protein binding; IDA:SGD.
+ GO:0045040; P:protein import into mitochondrial outer mem...; IMP:SGD.
+Complete proteome; Membrane; Mitochondrion; Outer membrane;
+Protein transport; Transport.
+TMZERO

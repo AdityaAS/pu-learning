@@ -1,0 +1,23 @@
+AC   P36662;
+Chaperone protein torD.
+"TMAO anaerobic respiration in Escherichia coli: involvement of the
+tor operon.";
+"An analogue of the DnaJ molecular chaperone in Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"TorD, a cytoplasmic chaperone that interacts with the unfolded
+trimethylamine N-oxide reductase enzyme (TorA) in Escherichia coli.";
+"Involvement of a mate chaperone (TorD) in the maturation pathway of
+molybdoenzyme TorA.";
+-!- FUNCTION: Involved in the biogenesis of torA. Acts on torA before
+    the insertion of the molybdenum cofactor and, as a result,
+    probably favors a conformation of the apoenzyme that is competent
+    for acquiring the cofactor.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the torD/dmsD family. TorD subfamily.
+ GO:0006457; P:protein folding; IEA:HAMAP.
+Chaperone; Complete proteome; Direct protein sequencing.
+TMZERO

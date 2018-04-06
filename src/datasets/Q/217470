@@ -1,0 +1,11 @@
+AC   P55454;
+Probable ABC transporter periplasmic-binding protein y4fP precursor.
+"Molecular basis of symbiosis between Rhizobium and legumes.";
+-!- FUNCTION: Probably part of the binding-protein-dependent transport
+    system y4fNOP.
+-!- SUBCELLULAR LOCATION: Periplasm (Potential).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 1
+    family.
+-!- CAUTION: It is uncertain whether Met-1 is the initiator.
+Hypothetical protein; Periplasmic; Plasmid; Signal; Transport.
+TMZERO

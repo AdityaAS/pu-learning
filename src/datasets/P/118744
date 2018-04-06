@@ -1,0 +1,22 @@
+AC   P46920;
+Glycine betaine transport ATP-binding protein opuAA (EC 3.6.3.32)
+(Quaternary-amine-transporting ATPase).
+"OpuA, an osmotically regulated binding protein-dependent transport
+system for the osmoprotectant glycine betaine in Bacillus subtilis.";
+"The 25 degrees-36 degrees region of the Bacillus subtilis chromosome:
+determination of the sequence of a 146 kb segment and identification
+of 113 genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in a multicomponent binding-protein-dependent
+    transport system for glycine betaine. Probably responsible for
+    energy coupling to the transport system.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + quaternary amine(Out) = ADP +
+    phosphate + quaternary amine(In).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 2 CBS domains.
+ GO:0015418; F:quaternary-ammonium-compound-transporting A...; IEA:EC.
+Amino-acid transport; ATP-binding; CBS domain; Complete proteome;
+Hydrolase; Nucleotide-binding; Repeat; Transport.
+TMZERO

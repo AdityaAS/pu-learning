@@ -1,0 +1,20 @@
+AC   Q5UAW9; Q8WWB8; Q9HA73;
+Probable G-protein coupled receptor 157.
+"Complete coding sequence of GPR157.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Orphan receptor.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q5UAW9-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q5UAW9-2; Sequence=VSP_014994, VSP_014995;
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 2 family.
+Alternative splicing; G-protein coupled receptor; Membrane; Receptor;
+Transducer; Transmembrane.
+TMSEVEN

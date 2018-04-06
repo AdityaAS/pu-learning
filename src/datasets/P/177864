@@ -1,0 +1,58 @@
+AC   Q39232;
+Sucrose transport protein SUC1 (Sucrose permease 1) (Sucrose-proton
+symporter 1).
+"SUC1 and SUC2: two sucrose transporters from Arabidopsis thaliana;
+expression and characterization in baker's yeast and identification of
+the histidine-tagged protein.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Arabidopsis ORF clones.";
+"A kinetic model with ordered cytoplasmic dissociation for SUC1, an
+Arabidopsis H(+)/sucrose cotransporter expressed in Xenopus oocytes.";
+"His-65 in the proton-sucrose symporter is an essential amino acid
+whose modification with site-directed mutagenesis increases transport
+activity.";
+"The AtSUC1 sucrose carrier may represent the osmotic driving force
+for anther dehiscence and pollen tube growth in Arabidopsis.";
+"Sugar-induced increase in cytosolic Ca(2+) in Arabidopsis thaliana
+whole plants.";
+"Isolation of intact vacuoles and proteomic analysis of tonoplast from
+suspension-cultured cells of Arabidopsis thaliana.";
+-!- FUNCTION: Responsible for the transport of sucrose into the cell,
+    with the concomitant uptake of protons (symport system). This
+    transport is both voltage- and energy-dependent. Can also
+    transport other glucosides such as maltose, alpha-phenylglucoside
+    and beta-phenylglucoside. May also transport biotin. Seems
+    probably involved in pollen germination.
+-!- ENZYME REGULATION: Inhibited by DEPC, protonophores (e.g.
+    dinitrophenol and carbonyl cyanide m-chlorophenyl-hydrazone
+    (CCCP)), and SH group inhibitors (e.g. N-ethylmaleimide (NEM) and
+    p-chloromercuriphenyl sulphonic acid (PCMPS)).
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=450 uM for sucrose (at pH 5.5 and 30 degrees Celsius);
+      Vmax=45 umol/h/g enzyme (without glucose);
+      Vmax=154 umol/h/g enzyme (in the presence of 10 mM glucose);
+    pH dependence:
+      Optimum pH is 5-6;
+-!- PATHWAY: Sucrose metabolism.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Flowers (at protein level).
+-!- DEVELOPMENTAL STAGE: Transcripts accumulate in mature pollen
+    before and during germination, but translation starts only when
+    pollen germination initiates, and continues in pollen tubes.
+    Expressed in cells surrounding the vascular bundle of the anther
+    connective tissue, mostly at the dehiscence time. Also present in
+    a ring of parenchymatic cells between the xylem vessels of the
+    style (upper end of the transmitting tract toward which pollen
+    tubes grow). Expressed in the epidermal cell layers of funiculi
+    (at protein level).
+-!- INDUCTION: Induced by sucrose depletion.
+-!- SIMILARITY: Belongs to the glycoside-pentoside-hexuronide (GPH)
+    cation symporter transporter (TC 2.A.2.4.1) family.
+ GO:0009624; P:response to nematode; IEP:TAIR.
+Membrane; Sugar transport; Symport; Transmembrane; Transport.
+TMTWELVE

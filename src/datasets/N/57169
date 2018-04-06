@@ -1,0 +1,23 @@
+AC   Q8X839; Q8X3V9;
+Fructoselysine kinase (EC 2.7.1.-).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Phosphorylates fructoselysine to yield fructoselysine 6-
+    phosphate (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + fructoselysine = ADP + fructoselysine 6-
+    phosphate.
+-!- PATHWAY: Fructoselysine utilization; first step.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the carbohydrate kinase pfkB family.
+-!- CAUTION: Ref.1 (AAG58481) sequence differs from that shown due to
+    a stop codon at position 111 which was translated as Trp to extend
+    the sequence.
+-!- CAUTION: Ref.1 (AAG58482) sequence differs from that shown due to
+    a stop codon at position 111 which was translated as Trp to extend
+    the sequence.
+-!- CAUTION: Ref.2 (BAB37647) sequence differs from that shown due to
+    a stop codon at position 111 which was translated as Trp to extend
+    the sequence.
+Complete proteome; Kinase; Transferase.
+TMZERO

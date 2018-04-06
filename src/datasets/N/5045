@@ -1,0 +1,21 @@
+AC   P94417;
+Probable aspartokinase (EC 2.7.2.4) (Aspartate kinase).
+"The 25 degrees-36 degrees region of the Bacillus subtilis chromosome:
+determination of the sequence of a 146 kb segment and identification
+of 113 genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- CATALYTIC ACTIVITY: ATP + L-aspartate = ADP + 4-phospho-L-
+    aspartate.
+-!- PATHWAY: Amino-acid biosynthesis; L-lysine biosynthesis via DAP
+    pathway; tetrahydrodipicolinate from L-aspartate: step 1.
+-!- PATHWAY: Amino-acid biosynthesis; L-methionine biosynthesis; L-
+    homoserine from L-aspartate: step 1.
+-!- PATHWAY: Amino-acid biosynthesis; L-threonine biosynthesis; L-
+    threonine from L-aspartate: step 1.
+-!- SIMILARITY: Belongs to the aspartokinase family.
+-!- SIMILARITY: Contains 2 ACT domains.
+Amino-acid biosynthesis; Complete proteome;
+Diaminopimelate biosynthesis; Kinase; Lysine biosynthesis; Repeat;
+Transferase.
+TMZERO

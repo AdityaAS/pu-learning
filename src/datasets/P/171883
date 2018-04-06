@@ -1,0 +1,12 @@
+AC   Q63965;
+Sideroflexin-1 (Tricarboxylate carrier protein) (TCC).
+"The mitochondrial tricarboxylate carrier.";
+-!- FUNCTION: Might be involved in the transport of a component
+    required for iron utilization into or out of the mitochondria.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in liver and brain.
+-!- SIMILARITY: Belongs to the sideroflexin family.
+Acetylation; Ion transport; Iron; Iron transport; Membrane;
+Mitochondrion; Transmembrane; Transport.
+TMFIVE

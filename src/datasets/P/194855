@@ -1,0 +1,30 @@
+AC   P39414; Q2M9E2; Q46870;
+Putative tartrate carrier (Tartrate transporter) (Tartrate/succinate
+antiporter).
+"Possible new genes as revealed by molecular analysis of a 5-kb
+Escherichia coli chromosomal region 5' to the rpsU-dnaG-rpoD
+macromolecular-synthesis operon.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+"The Escherichia coli citrate carrier CitT: a member of a novel
+eubacterial transporter family related to the 2-oxoglutarate/malate
+translocator from spinach chloroplasts.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Functional identification of ygiP as a positive regulator of the
+ttdA-ttdB-ygjE operon.";
+-!- FUNCTION: Responsible for the uptake of tartrate in exchange to
+    the efflux of succinate (Potential).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Induced by tartrate, via ttdR.
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    SODIT1 subfamily.
+-!- CAUTION: Ref.1 (M16194) sequence differs from that shown due to
+    frameshifts in positions 35, 51, 132, 245, 268 and 443.
+Antiport; Complete proteome; Inner membrane; Membrane; Transmembrane;
+Transport.
+TMFOURTEEN

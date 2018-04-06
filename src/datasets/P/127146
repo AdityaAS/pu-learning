@@ -1,0 +1,22 @@
+AC   P25794; Q41006;
+Probable aquaporin PIP-type 7a (Turgor-responsive protein 7a) (Turgor-
+responsive protein 31).
+"Turgor-responsive gene transcription and RNA levels increase rapidly
+when pea shoots are wilted. Sequence and expression of three inducible
+genes.";
+"Tissue-specific expression of a plant turgor-responsive gene with
+amino acid sequence homology to transport-facilitating proteins.";
+-!- FUNCTION: Aquaporins facilitate the transport of water and small
+    neutral solutes across cell membranes (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- INDUCTION: By water stress, heat shock and to a small extent by
+    abscisic acid (ABA). Induced within 30 min after the loss of leaf
+    turgor.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family. PIP
+    subfamily.
+Membrane; Repeat; Transmembrane; Transport.
+TMSIX

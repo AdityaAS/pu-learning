@@ -1,0 +1,11 @@
+AC   Q9RKA8;
+Molybdenum cofactor biosynthesis protein C.
+"Complete genome sequence of the model actinomycete Streptomyces
+coelicolor A3(2).";
+-!- FUNCTION: Together with moaA, is involved in the conversion of a
+    guanosine derivative (5'-GTP) into molybdopterin precursor Z (By
+    similarity).
+-!- PATHWAY: Cofactor biosynthesis; molybdopterin biosynthesis.
+-!- SIMILARITY: Belongs to the moaC family.
+Complete proteome; Molybdenum cofactor biosynthesis.
+TMZERO

@@ -1,0 +1,24 @@
+AC   Q95107;
+Neural Wiskott-Aldrich syndrome protein (N-WASP).
+"N-WASP, a novel actin-depolymerizing protein, regulates the cortical
+cytoskeletal rearrangement in a PIP2-dependent manner downstream of
+tyrosine kinases.";
+-!- FUNCTION: Regulates actin polymerization by stimulating the actin-
+    nucleating activity of the actin-related protein 2/3 (Arp2/3)
+    complex. Binds to HSF1/HSTF1 and forms a complex on heat shock
+    promoter elements (HSE) that negatively regulates HSP90
+    expression.
+-!- SUBUNIT: Binds actin and the Arp2/3 complex. Interacts with CDC42.
+    Binds to SH3 domains of GRB2. Interacts with the C-terminal SH3
+    domain of DNMBP. Interacts with the WW domains of PRPF40A/FBP11
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity). Note=Preferentially localized in the cytoplasm when
+    phosphorylated and in the nucleus when unphosphorylated (By
+    similarity).
+-!- SIMILARITY: Contains 1 CRIB domain.
+-!- SIMILARITY: Contains 1 WH1 domain.
+-!- SIMILARITY: Contains 2 WH2 domains.
+Actin-binding; Cytoskeleton; Nuclear protein; Phosphorylation; Repeat;
+Transcription; Transcription regulation.
+TMZERO

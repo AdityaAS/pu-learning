@@ -1,0 +1,12 @@
+AC   P21608;
+Citrate-sodium symporter (Citrate transporter) (Citrate carrier
+protein).
+"Nucleotide sequence and expression in Escherichia coli of the
+Lactococcus lactis citrate permease gene.";
+-!- FUNCTION: Uptake of citrate across the boundary membrane with the
+    concomitant uptake of a sodium ion (symport system).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the sodium:citrate (SCF) symporter family.
+Citrate utilization; Membrane; Plasmid; Symport; Transmembrane;
+Transport.
+TMZERO

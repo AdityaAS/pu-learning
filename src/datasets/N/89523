@@ -1,0 +1,9 @@
+AC   Q9YA48;
+Putative thymidylate kinase (EC 2.7.4.9) (dTMP kinase).
+"Complete genome sequence of an aerobic hyper-thermophilic
+crenarchaeon, Aeropyrum pernix K1.";
+-!- CATALYTIC ACTIVITY: ATP + dTMP = ADP + dTDP.
+-!- SIMILARITY: Belongs to the thymidylate kinase family.
+-!- CAUTION: Could be inactive due to a defective ATP-binding site.
+Complete proteome; Kinase; Nucleotide biosynthesis; Transferase.
+TMZERO

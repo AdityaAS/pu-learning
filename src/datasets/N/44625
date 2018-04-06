@@ -1,0 +1,41 @@
+AC   Q9NY33; O95748; Q969H2; Q9BV67; Q9HAL6;
+Dipeptidyl-peptidase 3 (EC 3.4.14.4) (Dipeptidyl-peptidase III) (DPP
+III) (Dipeptidyl aminopeptidase III) (Dipeptidyl arylamidase III).
+"Cloning and sequencing of human dipeptidyl-peptidase III.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Dipeptidyl peptidase III is a zinc metallo-exopeptidase. Molecular
+cloning and expression.";
+"Human and rat dipeptidyl peptidase III: biochemical and mass
+spectrometric arguments for similarities and differences.";
+"An unappreciated role for RNA surveillance.";
+"Global phosphoproteome analysis on human HepG2 hepatocytes using
+reversed-phase diagonal LC.";
+-!- FUNCTION: Cleaves Arg-Arg-beta-naphthylamide.
+-!- CATALYTIC ACTIVITY: Release of an N-terminal dipeptide from a
+    peptide comprising four or more residues, with broad specificity.
+    Also acts on dipeptidyl 2-naphthylamides.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 8.8;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9NY33-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9NY33-2; Sequence=VSP_005510;
+      Note=May be produced at very low levels due to a premature stop
+      codon in the mRNA, leading to nonsense-mediated mRNA decay. No
+      experimental confirmation available;
+-!- MASS SPECTROMETRY: MW=82500; MW_ERR=60; METHOD=MALDI; RANGE=1-737
+    (Q9NY33-1); NOTE=Ref.5.
+-!- SIMILARITY: Belongs to the peptidase M49 family.
+ GO:0008239; F:dipeptidyl-peptidase activity; TAS:ProtInc.
+ GO:0006508; P:proteolysis; TAS:ProtInc.
+Alternative splicing; Aminopeptidase; Hydrolase; Metal-binding;
+Metalloprotease; Phosphorylation; Polymorphism; Protease; Zinc.
+TMZERO

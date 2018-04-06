@@ -1,0 +1,21 @@
+AC   Q7J1B1;
+Cytochrome b559 beta subunit (PSII reaction center subunit VI).
+"Utility of 17 chloroplast genes for inferring the phylogeny of the
+basal angiosperms.";
+"RNA editing in an untranslated region of the Ginkgo chloroplast
+genome.";
+-!- FUNCTION: This b-type cytochrome is tightly associated with the
+    reaction center of photosystem II and possibly is part of the
+    water-oxidation complex (By similarity).
+-!- SUBUNIT: Heterodimer of an alpha subunit and a beta subunit (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; single-pass membrane protein (By similarity).
+-!- RNA EDITING: Modified_positions=26.
+-!- SIMILARITY: Belongs to the psbE/psbF family.
+ GO:0009055; F:electron carrier activity; IEA:HAMAP.
+ GO:0005506; F:iron ion binding; IEA:HAMAP.
+Chloroplast; Electron transport; Heme; Iron; Membrane; Metal-binding;
+Photosynthesis; Photosystem II; Plastid; RNA editing; Thylakoid;
+Transmembrane; Transport.
+TMONE

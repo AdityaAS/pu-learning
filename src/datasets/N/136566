@@ -1,0 +1,17 @@
+AC   Q97J93;
+Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) (AIRS)
+(Phosphoribosyl-aminoimidazole synthetase) (AIR synthase).
+"Genome sequence and comparative analysis of the solvent-producing
+bacterium Clostridium acetobutylicum.";
+-!- CATALYTIC ACTIVITY: ATP + 2-(formamido)-1-N-(5-phospho-D-
+    ribosyl)acetamidine = ADP + phosphate + 5-amino-1-(5-phospho-D-
+    ribosyl)imidazole.
+-!- PATHWAY: Nucleotide biosynthesis; IMP biosynthesis; 5-amino-1-(5-
+    phospho-D-ribosyl)imidazole-4-carboxamide from 2-N-formyl-1-N-(5-
+    phospho-D-ribosyl)glycinamide: step 2.
+-!- PATHWAY: Context: Purine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the AIR synthase family.
+ GO:0006164; P:purine nucleotide biosynthesis; IEA:HAMAP.
+Complete proteome; Ligase; Purine biosynthesis.
+TMZERO

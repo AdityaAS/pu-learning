@@ -1,0 +1,17 @@
+AC   Q9FL62;
+Probable WRKY transcription factor 30 (WRKY DNA-binding protein 30).
+"Structural analysis of Arabidopsis thaliana chromosome 5. V. Sequence
+features of the regions of 1,381,565 bp covered by twenty one
+physically assigned P1 and TAC clones.";
+"Functional annotation of a full-length Arabidopsis cDNA collection.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+-!- FUNCTION: Transcription factor. Interacts specifically with the W
+    box (5'-(T)TGAC(C/T)-3'), a frequently occurring elicitor-
+    responsive cis-acting element (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- SIMILARITY: Belongs to the WRKY group III family.
+-!- SIMILARITY: Contains 1 WRKY DNA-binding domain.
+DNA-binding; Nuclear protein; Transcription; Transcription regulation.
+TMZERO

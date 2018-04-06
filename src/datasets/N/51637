@@ -1,0 +1,46 @@
+AC   Q96B26; O43480;
+Exosome complex exonuclease RRP43 (EC 3.1.13.-) (Ribosomal RNA-
+processing protein 43) (Exosome component 8) (p9) (Opa-interacting
+protein 2).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Using the yeast two-hybrid system to identify human epithelial cell
+proteins that bind gonococcal Opa proteins: intracellular gonococci
+bind pyruvate kinase via their Opa proteins and require host pyruvate
+for growth.";
+"AU binding proteins recruit the exosome to degrade ARE-containing
+mRNAs.";
+-!- FUNCTION: Component of the nuclear exosome 3'->5' exoribonuclease
+    complex. Required for the 3' processing of the 7S pre-RNA to the
+    mature 5.8S rRNA. Has a 3'-5' exonuclease activity (By
+    similarity).
+-!- SUBUNIT: Component of the exosome multienzyme ribonuclease complex
+    composed of at least 11 proteins: RRP4, RRP40, RRP41/SKI6, RRP42,
+    RRP43, RRP44/DIS3, PM/Scl-75, RRP46, CSL4 and PM/Scl-100 (only in
+    the nuclear complex). Also associated with the GTPase Ran (By
+    similarity). Binds outer membrane protein opap from neisseria
+    gonorrhoeae.
+-!- INTERACTION:
+    Self; NbExp=1; IntAct=EBI-371922, EBI-371922;
+    Q9H1J2:-; NbExp=1; IntAct=EBI-371922, EBI-372073;
+    O00409:CHES1; NbExp=1; IntAct=EBI-371922, EBI-372721;
+    Q9Y3B2:EXOSC1; NbExp=1; IntAct=EBI-371922, EBI-371892;
+    Q01780:EXOSC10; NbExp=1; IntAct=EBI-371922, EBI-358236;
+    Q9NQT5:EXOSC3; NbExp=1; IntAct=EBI-371922, EBI-371866;
+    Q9NQT4:EXOSC5; NbExp=2; IntAct=EBI-371922, EBI-371876;
+    Q9Y613:FHOD1; NbExp=1; IntAct=EBI-371922, EBI-348433;
+    Q7Z481:KIAA1008; NbExp=1; IntAct=EBI-371922, EBI-373539;
+    Q9HCG8:KIAA1604; NbExp=1; IntAct=EBI-371922, EBI-373289;
+    O15116:LSM1; NbExp=1; IntAct=EBI-371922, EBI-347619;
+    Q9UK45:LSM7; NbExp=1; IntAct=EBI-371922, EBI-348372;
+    Q9UHC7:MKRN1; NbExp=1; IntAct=EBI-371922, EBI-373524;
+    Q9NS22:rassf1; NbExp=1; IntAct=EBI-371922, EBI-372213;
+    Q9H0D6:XRN2; NbExp=1; IntAct=EBI-371922, EBI-372110;
+    P26651:ZFP36; NbExp=1; IntAct=EBI-371922, EBI-374248;
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus;
+    nucleolus (By similarity).
+-!- SIMILARITY: Belongs to the RNase PH family.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+Exonuclease; Exosome; Hydrolase; Nuclear protein; Nuclease;
+RNA-binding; rRNA processing.
+TMZERO

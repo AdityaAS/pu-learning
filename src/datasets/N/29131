@@ -1,0 +1,11 @@
+AC   P15158;
+Coat protein (Virion protein).
+"Primary structure of belladonna mottle virus coat protein.";
+"Partial amino acid sequence of belladonna mottle virus coat
+protein.";
+-!- SUBUNIT: The virus coat is composed of 180 copies of the coat
+    protein arranged in a icosahedral shell.
+-!- SIMILARITY: Belongs to the tymoviruses coat protein family.
+Acetylation; Capsid protein; Direct protein sequencing;
+Virion protein.
+TMZERO

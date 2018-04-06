@@ -1,0 +1,12 @@
+AC   P82422;
+Ponericin-L2.
+"Ponericins, new antibacterial and insecticidal peptides from the
+venom of the ant Pachycondyla goeldii.";
+-!- FUNCTION: Broad spectrum of activity against both Gram-positive
+    and Gram-negative bacteria. Has non-hemolytic activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- MASS SPECTROMETRY: MW=2576.67; METHOD=MALDI; RANGE=1-24;
+    NOTE=Ref.1.
+Amidation; Antibiotic; Antimicrobial; Direct protein sequencing;
+Immune response; Innate immunity.
+TMZERO

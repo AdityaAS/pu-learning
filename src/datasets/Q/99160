@@ -1,0 +1,14 @@
+AC   Q89A97;
+Multidrug resistance-like ATP-binding protein mdlA (EC 3.6.3.44).
+"Reductive genome evolution in Buchnera aphidicola.";
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + xenobiotic(In) = ADP + phosphate
+    + xenobiotic(Out).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Membrane;
+Nucleotide-binding; Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,70 @@
+AC   P01023; Q13677; Q59F47; Q5QTS0; Q68DN2; Q6PIY3; Q6PN97;
+Alpha-2-macroglobulin precursor (Alpha-2-M).
+"Nucleotide sequence of cDNA encoding human alpha 2-macroglobulin and
+assignment of the chromosomal locus.";
+"Structure of the human alpha-2 macroglobulin gene and its promotor.";
+"Alpha 2 macroglobulin, a PSA-binding protein, is expressed in human
+prostate stroma.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Primary structure of human alpha 2-macroglobulin. V. The complete
+structure.";
+"Primary structure of human alpha 2-macroglobulin. Complete disulfide
+bridge assignment and localization of two interchain bridges in the
+dimeric proteinase binding unit.";
+"A genetic polymorphism in a functional domain of human pregnancy zone
+protein: the bait region. Genomic structure of the bait domains of
+human pregnancy zone protein and alpha 2 macroglobulin.";
+"Cloning of the human alpha 2-macroglobulin gene and detection of
+mutations in two functional domains: the bait region and the
+thiolester site.";
+"Human alpha 2-macroglobulin gene is located on chromosome 12.";
+"Identification and quantification of N-linked glycoproteins using
+hydrazide chemistry, stable isotope labeling and mass spectrometry.";
+"Human neutrophil elastase and cathepsin G cleavage sites in the bait
+region of alpha 2-macroglobulin. Proposed structural limits of the
+bait region.";
+"Primary structure of the 'bait' region for proteinases in alpha 2-
+macroglobulin. Nature of the complex.";
+"Proteolytic cleavage sites on alpha 2-macroglobulin resulting in
+proteinase binding are different for trypsin and Staphylococcus aureus
+V-8 proteinase.";
+"Primary and secondary cleavage sites in the bait region of alpha 2-
+macroglobulin.";
+"Screening for N-glycosylated proteins by liquid chromatography mass
+spectrometry.";
+"Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+hydrazide chemistry, and mass spectrometry.";
+"Localization of basic residues required for receptor binding to the
+single alpha-helix of the receptor binding domain of human alpha2-
+macroglobulin.";
+"Sequence polymorphism in the human alpha2-macroglobulin (A2M) gene.";
+-!- FUNCTION: Is able to inhibit all four classes of proteinases by a
+    unique 'trapping' mechanism. This protein has a peptide stretch,
+    called the 'bait region' which contains specific cleavage sites
+    for different proteinases. When a proteinase cleaves the bait
+    region, a conformational change is induced in the protein which
+    traps the proteinase. The entrapped enzyme remains active against
+    low molecular weight substrates (activity against high molecular
+    weight substrates is greatly reduced). Following cleavage in the
+    bait region a thioester bond is hydrolyzed and mediates the
+    covalent binding of the protein to the proteinase.
+-!- SUBUNIT: Homotetramer; disulfide-linked.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Plasma.
+-!- DEVELOPMENTAL STAGE: Contrary to the rat protein, which is an
+    acute phase protein, this protein is always present at high levels
+    in circulation.
+-!- SIMILARITY: Belongs to the protease inhibitor I39 (alpha-2-
+    macroglobulin) family.
+ GO:0005576; C:extracellular region; NAS:UniProtKB.
+ GO:0004866; F:endopeptidase inhibitor activity; NAS:UniProtKB.
+ GO:0019899; F:enzyme binding; IPI:UniProtKB.
+ GO:0019966; F:interleukin-1 binding; IDA:UniProtKB.
+ GO:0019959; F:interleukin-8 binding; IPI:UniProtKB.
+ GO:0043120; F:tumor necrosis factor binding; IDA:UniProtKB.
+ GO:0051260; P:protein homooligomerization; NAS:UniProtKB.
+3D-structure; Bait region; Direct protein sequencing; Glycoprotein;
+Polymorphism; Protease inhibitor; Serine protease inhibitor; Signal;
+Thioester bond.
+TMZERO

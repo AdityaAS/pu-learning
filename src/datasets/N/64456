@@ -1,0 +1,11 @@
+AC   P73492;
+Probable glutaredoxin ssr2061.
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- FUNCTION: Has a glutathione-disulfide oxidoreductase activity in
+    the presence of NADPH and glutathione reductase. Reduces low
+    molecular weight disulfides and proteins (By similarity).
+-!- SIMILARITY: Belongs to the glutaredoxin family.
+Complete proteome; Electron transport; Redox-active center; Transport.
+TMZERO

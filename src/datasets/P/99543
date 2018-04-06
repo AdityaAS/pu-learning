@@ -1,0 +1,29 @@
+AC   P02921; Q2M6I4;
+Melibiose carrier protein (Thiomethylgalactoside permease II)
+(Melibiose permease) (Na+ (Li+)/melibiose symporter) (Melibiose
+transporter).
+"Nucleotide sequence of the melB gene and characteristics of deduced
+amino acid sequence of the melibiose carrier in Escherichia coli.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Membrane topology of the melibiose carrier of Escherichia coli.";
+"Membrane topology of the melibiose permease of Escherichia coli
+studied by melB-phoA fusion analysis.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Melibiose permease of Escherichia coli: mutation of aspartic acid 55
+in putative helix II abolishes activation of sugar binding by Na+
+ions.";
+-!- FUNCTION: Responsible for melibiose transport. It is capable of
+    using hydrogen, sodium, and lithium cations as coupling cations
+    for cotransport, depending on the particular sugar transported
+    (symport system).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the sodium:galactoside symporter family.
+Complete proteome; Inner membrane; Membrane; Sugar transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

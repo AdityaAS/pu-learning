@@ -1,0 +1,12 @@
+AC   P37473;
+Alcohol dehydrogenase (EC 1.1.1.1).
+"Nucleotide sequence analysis of Adh genes estimates the time of
+geographic isolation of the Bogota population of Drosophila
+pseudoobscura.";
+-!- CATALYTIC ACTIVITY: An alcohol + NAD(+) = an aldehyde or ketone +
+    NADH.
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+    (SDR) family.
+NAD; Oxidoreductase.
+TMZERO

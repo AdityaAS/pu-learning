@@ -1,0 +1,13 @@
+AC   P50333;
+Nodulation protein J.
+"Identification of nodulation promoter (nod-box) regions of Rhizobium
+galegae.";
+-!- FUNCTION: Forms, with nodI, a membrane transport complex involved
+    in the nodulation process. It probably exports a modified beta-
+    1,4-linked N-acetylglucosamine oligosaccharide.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC-2 integral membrane protein family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-2 domain.
+Inner membrane; Membrane; Nodulation; Transmembrane; Transport.
+TMSIX

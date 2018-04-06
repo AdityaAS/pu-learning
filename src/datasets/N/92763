@@ -1,0 +1,22 @@
+AC   O86847;
+LexA repressor (EC 3.4.21.88).
+"Streptomyces clavuligerus vitamin B12-dependent ribonucleotide
+reductase enzyme: from protein to gene.";
+-!- FUNCTION: Represses a number of genes involved in the response to
+    DNA damage (SOS response), including recA and lexA. In the
+    presence of single-stranded DNA, recA interacts with lexA causing
+    an autocatalytic cleavage which disrupts the DNA-binding part of
+    lexA, leading to derepression of the SOS regulon and eventually
+    DNA repair (By similarity).
+-!- CATALYTIC ACTIVITY: Hydrolysis of Ala-|-Gly bond in repressor
+    lexA.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the peptidase S24 family.
+ GO:0006281; P:DNA repair; IEA:HAMAP.
+ GO:0006260; P:DNA replication; IEA:HAMAP.
+ GO:0045892; P:negative regulation of transcription, DNA-d...; IEA:HAMAP.
+ GO:0009432; P:SOS response; IEA:HAMAP.
+Autocatalytic cleavage; DNA damage; DNA repair; DNA replication;
+DNA-binding; Hydrolase; Repressor; SOS response; Transcription;
+Transcription regulation.
+TMZERO

@@ -1,0 +1,27 @@
+AC   P69828; P37187; P76413; P94757; P97243;
+Galactitol-specific phosphotransferase enzyme IIA component
+(EC 2.7.1.-) (PTS system galactitol-specific EIIA component) (EIIA-
+Gat).
+"Sequence of the gat operon for galactitol utilization from a wild-
+type strain EC3132 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in galactitol transport.
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-2 domain.
+-!- CAUTION: In strain W3110, the sequence is interrupted by the
+    insertion of an IS5 element between positions 69 and 70.
+Complete proteome; Galactitol metabolism; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase; Transport.
+TMZERO

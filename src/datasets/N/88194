@@ -1,0 +1,11 @@
+AC   Q57NR0;
+Thymidine kinase (EC 2.7.1.21).
+"The genome sequence of Salmonella enterica serovar Choleraesuis, a
+highly invasive and resistant zoonotic pathogen.";
+-!- CATALYTIC ACTIVITY: ATP + thymidine = ADP + thymidine 5'-
+    phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the thymidine kinase family.
+ATP-binding; Complete proteome; DNA synthesis; Kinase;
+Nucleotide-binding; Transferase.
+TMZERO

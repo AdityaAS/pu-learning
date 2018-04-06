@@ -1,0 +1,10 @@
+AC   O93883;
+Polygalacturonase precursor (EC 3.2.1.15) (PG) (Pectinase).
+"Cloning and characterization of a gene encoding the
+endopolygalacturonase of Penicillium griseoroseum.";
+-!- CATALYTIC ACTIVITY: Random hydrolysis of 1,4-alpha-D-
+    galactosiduronic linkages in pectate and other galacturonans.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 28 family.
+-!- SIMILARITY: Contains 5 PbH1 repeats.
+Cell wall; Glycosidase; Hydrolase; Repeat; Signal.
+TMZERO

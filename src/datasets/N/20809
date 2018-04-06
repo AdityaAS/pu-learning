@@ -1,0 +1,19 @@
+AC   Q3ZDQ5;
+Caveolin-3.
+"Characterization of the porcine caveolin 3 gene and its expression in
+various tissues and during development.";
+-!- FUNCTION: May act as a scaffolding protein within caveolar
+    membranes. Interacts directly with G-protein alpha subunits and
+    can functionally regulate their activity. May also regulate
+    voltage-gated potassium channels (By similarity).
+-!- SUBUNIT: Homooligomer. Interacts with DLG1 and KCNA5 and forms a
+    ternary complex (By similarity).
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    peripheral membrane protein; cytoplasmic side (By similarity).
+    Cell membrane; caveola; peripheral membrane protein; cytoplasmic
+    side (By similarity). Note=Membrane protein of protein of
+    caveolae. Potential hairpin-like structure in the membrane (By
+    similarity).
+-!- SIMILARITY: Belongs to the caveolin family.
+Membrane; Transmembrane.
+TMONE

@@ -1,0 +1,14 @@
+AC   Q8FBV2;
+Tryptophanase (EC 4.1.99.1) (L-tryptophan indole-lyase) (TNase).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- CATALYTIC ACTIVITY: L-tryptophan + H(2)O = indole + pyruvate +
+    NH(3).
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amino-acid degradation; L-tryptophan degradation; indole
+    and pyruvate from L-tryptophan: single step [final step].
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the beta-eliminating lyase family.
+ GO:0006569; P:tryptophan catabolism; IEA:HAMAP.
+Complete proteome; Lyase; Pyridoxal phosphate; Tryptophan catabolism.
+TMZERO

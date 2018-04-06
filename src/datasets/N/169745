@@ -1,0 +1,10 @@
+AC   P35794;
+Fruiting body protein SC7 precursor.
+"The Sc7/Sc14 gene family of Schizophyllum commune codes for
+extracellular proteins specifically expressed during fruit-body
+formation.";
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- DEVELOPMENTAL STAGE: Expressed only in fruiting dikaryons.
+-!- SIMILARITY: Belongs to the CRISP family.
+Fruiting body; Glycoprotein; Signal.
+TMZERO

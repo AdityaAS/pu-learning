@@ -1,0 +1,28 @@
+AC   Q90617; Q90616; Q90618;
+Lysosome-associated membrane glycoprotein 2 precursor (LAMP-2).
+"The family of LAMP-2 proteins arises by alternative splicing from a
+single gene: characterization of the avian LAMP-2 gene and
+identification of mammalian homologs of LAMP-2b and LAMP-2c.";
+-!- FUNCTION: Implicated in tumor cell metastasis. May function in
+    protection of the lysosomal membrane from autodigestion,
+    maintenance of the acidic environment of the lysosome, adhesion
+    when expressed on the cell surface (plasma membrane), and inter-
+    and intracellular signal transduction (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type I membrane
+    protein (By similarity). Endosome; endosomal membrane; single-pass
+    type I membrane protein (By similarity). Lysosome; lysosomal
+    membrane; single-pass type I membrane protein (By similarity).
+    Note=This protein shuttles between lysosomes, endosomes, and the
+    plasma membrane (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=LAMP-2B;
+      IsoId=Q90617-1; Sequence=Displayed;
+    Name=LAMP-2A;
+      IsoId=Q90617-2; Sequence=VSP_003048;
+    Name=LAMP-2C;
+      IsoId=Q90617-3; Sequence=VSP_003047;
+-!- SIMILARITY: Belongs to the LAMP family.
+Alternative splicing; Glycoprotein; Lysosome; Membrane; Signal;
+Transmembrane.
+TMONE

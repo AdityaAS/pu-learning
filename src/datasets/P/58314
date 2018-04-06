@@ -1,0 +1,11 @@
+AC   P46360;
+Pesticin receptor precursor (IRPC) (IPR65).
+"The pesticin receptor of Yersinia enterocolitica: a novel virulence
+factor with dual function.";
+-!- FUNCTION: Receptor for the bacteriocin pesticin and for the
+    siderophore yersiniabactin.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+Ion transport; Iron; Iron transport; Membrane; Outer membrane;
+Receptor; Signal; TonB box; Transmembrane; Transport.
+TMZERO

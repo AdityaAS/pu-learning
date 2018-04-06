@@ -1,0 +1,67 @@
+AC   Q9BX84; Q6VPR8; Q6VPR9; Q6VPS0; Q6VPS1; Q6VPS2;
+Transient receptor potential cation channel subfamily M member 6
+(EC 2.7.11.1) (Channel kinase 2) (Melastatin-related TRP cation
+channel 6).
+"Novel type of signaling molecules: protein kinases covalently linked
+to ion channels.";
+"Hypomagnesemia with secondary hypocalcemia is caused by mutations in
+TRPM6, a new member of the TRPM gene family.";
+"Disruption of TRPM6/TRPM7 complex formation by a mutation in the
+TRPM6 gene causes hypomagnesemia with secondary hypocalcemia.";
+"DNA sequence and analysis of human chromosome 9.";
+-!- FUNCTION: Essential ion channel and serine/threonine-protein
+    kinase. Crucial for magnesium homeostasis. Has an important role
+    in epithelial magnesium transport and in the active magnesium
+    absorption in the gut and kidney. Isoforms of the type M6-kinase
+    lack the ion channel region.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SUBUNIT: Forms heterodimers with TRPM7. TRPM6 requires the
+    presence of TRPM7 to be targeted to the cell membrane (in HEK 293
+    cells).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=7;
+    Name=TRPM6a;
+      IsoId=Q9BX84-1; Sequence=Displayed;
+    Name=TRPM6b;
+      IsoId=Q9BX84-2; Sequence=VSP_012069;
+    Name=TRPM6c;
+      IsoId=Q9BX84-3; Sequence=VSP_012070;
+    Name=TRPM6t;
+      IsoId=Q9BX84-4; Sequence=VSP_012075, VSP_012076;
+    Name=M6-kinase 1;
+      IsoId=Q9BX84-5; Sequence=VSP_012074;
+      Note=Lacks the ion channel region;
+    Name=M6-kinase 2;
+      IsoId=Q9BX84-6; Sequence=VSP_012073;
+      Note=Lacks the ion channel region;
+    Name=M6-kinase 3;
+      IsoId=Q9BX84-7; Sequence=VSP_012071, VSP_012072;
+      Note=Lacks the ion channel region;
+-!- TISSUE SPECIFICITY: Highly expressed in kidney and colon. Isoform
+    TRPM6a and isoform TRPM6b, are coexpressed with TRPM7 in kidney,
+    and testis, and are also found in several cell lines of lung
+    origin. Isoform TRPM6c is detected only in testis and in H510
+    small cell lung carcinoma cells.
+-!- DISEASE: Defects in TRPM6 are the cause of hypomagnesemia with
+    secondary hypocalcemia (HOMG) [MIM:602014]; also known as HSH.
+    HOMG is an autosomal recessive disease characterized by low levels
+    of serum magnesium alongside with a normal renal magnesium
+    secretion, secondary hypocalcemia and calcinocis. Affected
+    individuals show neurologic symptoms of hypomagnesemic
+    hypocalcemia, including seizures and muscle spasms, during
+    infancy. Hypocalcemia is secondary to parathyroid failure
+    resulting from magnesium deficiency. Untreated, the disorder may
+    be fatal or may result in neurological damage. Restoring the
+    concentrations of serum magnesium to normal values by high-dose
+    magnesium supplementation can overcome the apparent defect in
+    magnesium absorption and in serum concentrations of calcium.
+-!- SIMILARITY: In the N-terminal section; belongs to the transient
+    receptor family. LTrpC subfamily.
+-!- SIMILARITY: Contains 1 alpha-type protein kinase domain.
+Alternative splicing; ATP-binding; Calcium; Calcium channel;
+Calcium transport; Disease mutation; Ion transport; Ionic channel;
+Kinase; Membrane; Metal-binding; Nucleotide-binding; Phosphorylation;
+Polymorphism; Serine/threonine-protein kinase; Transferase;
+Transmembrane; Transport; Zinc.
+TMSIX

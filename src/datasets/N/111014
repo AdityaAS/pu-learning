@@ -1,0 +1,25 @@
+AC   P12760;
+Neuromedin-U precursor [Contains: Neuromedin-U-23 (NmU-23)].
+"Characterization of complementary DNA encoding the rat neuromedin U
+precursor.";
+"Molecular cloning, characterization and chromosomal localization of
+the rat neuromedin U (NmU) gene.";
+"Isolation and structural determination of rat neuromedin U.";
+"Primary structure of neuromedin U from the rat.";
+"Distribution and developmental pattern of neuromedin U expression in
+the rat gastrointestinal tract.";
+"Identification of neuromedin S and its possible role in the mammalian
+circadian oscillator system.";
+-!- FUNCTION: Stimulates muscle contractions of specific regions of
+    the gastrointestinal tract. In rat, NMU stimulates contractions of
+    stomach circular muscle.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed throughout the gastrointestinal
+    tract with highest levels in the duodenum and jejunum. Low levels
+    in spinal cord, hypothalamus, and stomach.
+-!- SIMILARITY: Belongs to the NmU family.
+ GO:0042922; F:neuromedin U receptor binding; IDA:MGI.
+ GO:0007218; P:neuropeptide signaling pathway; IDA:MGI.
+Amidation; Cleavage on pair of basic residues;
+Direct protein sequencing; Neuropeptide; Signal.
+TMZERO

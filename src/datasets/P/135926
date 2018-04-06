@@ -1,0 +1,28 @@
+AC   P11162;
+PTS system lactose-specific EIICB component (EIICB-Lac) (EII-Lac)
+[Includes: Lactose permease IIC component (PTS system lactose-specific
+EIIC component); Lactose-specific phosphotransferase enzyme IIB
+component (EC 2.7.1.69) (PTS system lactose-specific EIIB component)].
+"Identification of the genes for the lactose-specific components of
+the phosphotransferase system in the lac operon of Staphylococcus
+aureus.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in lactose transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-3 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-3 domain.
+Membrane; Phosphorylation; Phosphotransferase system; Sugar transport;
+Transferase; Transmembrane; Transport.
+TMNINE

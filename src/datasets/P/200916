@@ -1,0 +1,46 @@
+AC   P32366;
+Vacuolar ATP synthase subunit d (EC 3.6.3.14) (V-ATPase d subunit)
+(Vacuolar proton pump subunit d) (V-ATPase 39 kDa subunit) (V-ATPase
+subunit M39).
+"The Saccharomyces cerevisiae VMA6 gene encodes the 36-kDa subunit of
+the vacuolar H(+)-ATPase membrane sector.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Vacuolar ATPase is responsible for acidifying a variety
+    of intracellular compartments in eukaryotic cells. The active
+    enzyme consists of a catalytic V1 domain attached to an integral
+    membrane V0 proton pore complex. This subunit is a non-integral
+    membrane component of the membrane pore domain and is required for
+    proper assembly of the V0 sector. Might be involved in the
+    regulated assembly of V1 subunits onto the membrane sector or
+    alternatively may prevent the passage of protons through V0 pores.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'', d and e).
+-!- INTERACTION:
+    P40917:CIN5; NbExp=1; IntAct=EBI-20201, EBI-4680;
+    P39524:DRS2; NbExp=1; IntAct=EBI-20201, EBI-3106;
+    P35198:MTH1; NbExp=1; IntAct=EBI-20201, EBI-11561;
+    Q02794:STD1; NbExp=1; IntAct=EBI-20201, EBI-18344;
+    P37296:STV1; NbExp=1; IntAct=EBI-20201, EBI-18479;
+    P38784:VMA22; NbExp=1; IntAct=EBI-20201, EBI-20329;
+    P22203:VMA4; NbExp=1; IntAct=EBI-20201, EBI-20268;
+    Q03935:YAP6; NbExp=1; IntAct=EBI-20201, EBI-37603;
+    P47172:YJR141W; NbExp=1; IntAct=EBI-20201, EBI-25723;
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; peripheral
+    membrane protein.
+-!- MISCELLANEOUS: Present with 1630 molecules/cell.
+-!- SIMILARITY: Belongs to the V-ATPase V0D/AC39 subunit family.
+ GO:0000220; C:hydrogen-transporting ATPase V0 domain; TAS:SGD.
+ GO:0005774; C:vacuolar membrane; IDA:SGD.
+ GO:0046961; F:hydrogen-transporting ATPase activity, rota...; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0007035; P:vacuolar acidification; TAS:SGD.
+Acetylation; ATP synthesis; Complete proteome;
+Direct protein sequencing; Hydrogen ion transport; Hydrolase;
+Ion transport; Transport.
+TMZERO

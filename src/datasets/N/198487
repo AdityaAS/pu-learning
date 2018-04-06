@@ -1,0 +1,22 @@
+AC   Q9JSY6;
+Undecaprenyl-diphosphatase (EC 3.6.1.27) (Undecaprenyl pyrophosphate
+phosphatase) (Bacitracin resistance protein).
+"Complete DNA sequence of a serogroup A strain of Neisseria
+meningitidis Z2491.";
+-!- FUNCTION: Catalyzes the dephosphorylation of undecaprenyl
+    diphosphate (UPP). Confers resistance to bacitracin (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Undecaprenyl diphosphate + H(2)O =
+    undecaprenyl phosphate + phosphate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- MISCELLANEOUS: Bacitracin is thought to be involved in the
+    inhibition of peptidoglycan synthesis by sequestering undecaprenyl
+    diphosphate, thereby reducing the pool of lipid carrier available.
+-!- SIMILARITY: Belongs to the uppP family.
+ GO:0050380; F:undecaprenyl-diphosphatase activity; IEA:HAMAP.
+ GO:0046677; P:response to antibiotic; IEA:HAMAP.
+Antibiotic resistance; Cell shape; Cell wall; Complete proteome;
+Hydrolase; Inner membrane; Membrane; Peptidoglycan synthesis;
+Transmembrane.
+TMSEVEN

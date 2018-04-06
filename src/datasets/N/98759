@@ -1,0 +1,12 @@
+AC   P11564;
+Methyl-coenzyme M reductase I operon protein D.
+"Cloning and characterization of the methyl coenzyme M reductase genes
+from Methanobacterium thermoautotrophicum.";
+-!- PATHWAY: Methanogenesis; last step.
+-!- SUBUNIT: MCR is composed of three subunits: alpha, beta, and
+    gamma. The function of proteins C and D is not known.
+-!- DEVELOPMENTAL STAGE: There are two MCR complexes in this bacteria.
+    MCR II is expressed in the early growth phase. Late growth cells
+    contains mostly MCR I.
+Methanogenesis.
+TMZERO

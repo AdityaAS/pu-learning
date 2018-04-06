@@ -1,0 +1,16 @@
+AC   Q08120;
+Bacteroid development protein bacA.
+"A Rhizobium meliloti homolog of the Escherichia coli peptide-
+antibiotic transport protein SbmA is essential for bacteroid
+development.";
+"The complete sequence of the 1,683-kb pSymB megaplasmid from the N2-
+fixing endosymbiont Sinorhizobium meliloti.";
+-!- FUNCTION: Functions in the transport of molecules, possibly
+    peptides, across the inner membrane. Is essential for bacteroid
+    development.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: To E.coli sbmA.
+Complete proteome; Inner membrane; Membrane; Plasmid; Transmembrane;
+Transport.
+TMSEVEN

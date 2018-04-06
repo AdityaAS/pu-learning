@@ -1,0 +1,18 @@
+AC   P00795;
+Cathepsin D precursor (EC 3.4.23.5) [Contains: Cathepsin D light
+chain; Cathepsin D heavy chain].
+"Amino acid sequence of porcine spleen cathepsin D light chain.";
+"Amino acid sequence of porcine spleen cathepsin D.";
+"Structures at the proteolytic processing region of cathepsin D.";
+"Oligosaccharides on cathepsin D from porcine spleen.";
+-!- FUNCTION: Acid protease active in intracellular protein breakdown.
+-!- CATALYTIC ACTIVITY: Specificity similar to, but narrower than,
+    that of pepsin A. Does not cleave the 4-Gln-|-His-5 bond in B
+    chain of insulin.
+-!- SUBUNIT: Consists of a light chain and a heavy chain.
+-!- SUBCELLULAR LOCATION: Lysosome.
+-!- SIMILARITY: Belongs to the peptidase A1 family.
+ GO:0004192; F:cathepsin D activity; IEA:EC.
+Aspartyl protease; Direct protein sequencing; Glycoprotein; Hydrolase;
+Lysosome; Protease; Zymogen.
+TMZERO

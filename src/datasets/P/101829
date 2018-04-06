@@ -1,0 +1,13 @@
+AC   P69927; P95094;
+Multidrug resistance protein mmr.
+"The complete genome sequence of Mycobacterium bovis.";
+-!- FUNCTION: Multidrug efflux pump. Confers resistance to
+    tetraphenylphosphonium (TPP), erythromycin, ethidium bromide,
+    acriflavine, safranin O and pyronin Y (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the small multidrug resistance (SMR)
+    protein family. Mmr (TC 2.A.7.1.2) subfamily.
+Antibiotic resistance; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMFOUR

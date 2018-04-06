@@ -1,0 +1,15 @@
+AC   Q05135;
+Replication protein E1 (EC 3.6.1.-) (ATP-dependent helicase E1).
+"Primer-directed sequencing of human papillomavirus types.";
+"Phylogenetic analysis of 48 papillomavirus types and 28 subtypes and
+variants: a showcase for the molecular evolution of DNA viruses.";
+-!- FUNCTION: ATP-dependent DNA helicase required for initiation of
+    viral DNA replication. It forms a complex with the viral E2
+    protein. The E1-E2 complex binds to the replication origin which
+    contains binding sites for both proteins.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the papillomaviruses E1 protein family.
+-!- SIMILARITY: Contains 1 SF3 helicase domain.
+ATP-binding; DNA replication; DNA-binding; Early protein; Helicase;
+Hydrolase; Nuclear protein; Nucleotide-binding.
+TMZERO

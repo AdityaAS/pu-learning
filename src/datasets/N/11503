@@ -1,0 +1,30 @@
+AC   Q9FYL3; Q9FYL4;
+Protein ARTEMIS, chloroplast precursor (Arabidopsis thaliana envelope
+membrane integrase) (Ath4) (ALBINO3-like protein 1).
+"Cell and chloroplast division requires ARTEMIS.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+-!- FUNCTION: Required during late stages of chloroplast division.
+    Probably involved in the positioning of constriction ring(s) and
+    recruitment of the envelope-located division apparatus. Not
+    involved in general protein translocation into chloroplast, like
+    light-harvesting complex protein insertion or photosystem II
+    assembly.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast inner
+    membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in green tissues, and barely
+    detected in roots and flowers.
+-!- DOMAIN: Consists of three domains: a N-terminal receptor-like
+    region, a central Gly/Ser-rich stretch containing a GTP-binding
+    site, and a C-terminal YidC/Oxa1p/Alb3 protein translocase-like
+    domain.
+-!- SIMILARITY: In the C-terminal section; belongs to the OXA1/oxaA
+    family.
+-!- CAUTION: Ref.2 sequences differ from that shown due to erroneous
+    gene model prediction.
+-!- CAUTION: This protein is a fusion of two formerly distinct coding
+    sequences.
+Cell cycle; Cell division; Chloroplast; Coiled coil; GTP-binding;
+Inner membrane; Membrane; Nucleotide-binding; Plastid; Septation;
+Transit peptide; Transmembrane.
+TMFOUR

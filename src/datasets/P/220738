@@ -1,0 +1,17 @@
+AC   P0A943; P39170; P39181; P77465; Q549H3;
+Outer membrane protein assembly factor yaeT precursor.
+"Identification and characterization of an in vivo regulated D15/Oma87
+homologue in Shigella flexneri using differential display polymerase
+chain reaction.";
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Involved in the assembly of outer membrane proteins.
+    Does not play a direct role in the export of outer membrane lipids
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane (By similarity).
+-!- MISCELLANEOUS: Up-regulated during intraperitoneal growth.
+-!- SIMILARITY: Belongs to the surface antigen D15 family.
+Complete proteome; Membrane; Outer membrane; Signal.
+TMZERO

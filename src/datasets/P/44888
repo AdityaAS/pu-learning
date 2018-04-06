@@ -1,0 +1,11 @@
+AC   P32010;
+Daunorubicin resistance ATP-binding protein drrA.
+"A bacterial analog of the mdr gene of mammalian tumor cells is
+present in Streptomyces peucetius, the producer of daunorubicin and
+doxorubicin.";
+-!- FUNCTION: DrrA and drrB may act jointly to confer daunorubicin and
+    doxorubicin resistance by an export mechanism.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Antibiotic resistance; ATP-binding; Nucleotide-binding; Transport.
+TMZERO

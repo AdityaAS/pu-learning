@@ -1,0 +1,35 @@
+AC   Q8ZAN0;
+Fatty oxidation complex alpha subunit [Includes: Enoyl-CoA hydratase
+(EC 4.2.1.17); Delta(3)-cis-Delta(2)-trans-enoyl-CoA isomerase
+(EC 5.3.3.8); 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35); 3-
+hydroxybutyryl-CoA epimerase (EC 5.1.2.3)].
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: Catalyzes the formation of an hydroxyacyl-CoA by
+    addition of water on enoyl-CoA. Also exhibits 3-hydroxyacyl-CoA
+    epimerase and 3-hydroxyacyl-CoA dehydrogenase activities. Involved
+    in the aerobic and anaerobic degradation of long-chain fatty acids
+    (By similarity).
+-!- CATALYTIC ACTIVITY: (S)-3-hydroxyacyl-CoA + NAD(+) = 3-oxoacyl-CoA
+    + NADH.
+-!- CATALYTIC ACTIVITY: (3S)-3-hydroxyacyl-CoA = trans-2(or 3)-enoyl-
+    CoA + H(2)O.
+-!- CATALYTIC ACTIVITY: (S)-3-hydroxybutanoyl-CoA = (R)-3-
+    hydroxybutanoyl-CoA.
+-!- CATALYTIC ACTIVITY: (3Z)-dodec-3-enoyl-CoA = (2E)-dodec-2-enoyl-
+    CoA.
+-!- PATHWAY: Lipid catabolism; beta-oxidation cycle; from acyl-CoA:
+    step B.
+-!- SUBUNIT: Heterotetramer of two alpha chains (fadB) and two beta
+    chains (fadA) (By similarity).
+-!- SIMILARITY: In the N-terminal section; belongs to the enoyl-CoA
+    hydratase/isomerase family.
+-!- SIMILARITY: In the C-terminal section; belongs to the 3-
+    hydroxyacyl-CoA dehydrogenase family.
+ GO:0016042; P:lipid catabolism; IEA:HAMAP.
+Complete proteome; Fatty acid metabolism; Isomerase;
+Lipid degradation; Lipid metabolism; Lyase; Multifunctional enzyme;
+NAD; Oxidoreductase.
+TMZERO

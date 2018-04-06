@@ -1,0 +1,12 @@
+AC   Q9CII1;
+Probable thiamine biosynthesis protein thiI.
+"The complete genome sequence of the lactic acid bacterium Lactococcus
+lactis ssp. lactis IL1403.";
+-!- FUNCTION: Required for the synthesis of the thiazole moiety (By
+    similarity).
+-!- PATHWAY: Thiamine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the thiI family.
+-!- SIMILARITY: Contains 1 THUMP domain.
+Complete proteome; Thiamine biosynthesis.
+TMZERO

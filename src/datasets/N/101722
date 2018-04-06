@@ -1,0 +1,42 @@
+AC   O35548; O35541;
+Matrix metalloproteinase-16 precursor (EC 3.4.24.-) (MMP-16)
+(Membrane-type matrix metalloproteinase 3) (MT-MMP 3) (MTMMP3)
+(Membrane-type-3 matrix metalloproteinase) (MT3-MMP) (MT3MMP).
+"Expression of three membrane-type matrix metalloproteinases (MT-MMPs)
+in rat vascular smooth muscle cells and characterization of MT3-MMPs
+with and without transmembrane domain.";
+-!- FUNCTION: Endopeptidase that degrades various components of the
+    extracellular matrix, such as collagen type III and fibronectin.
+    Activates progelatinase A. Involved in the matrix remodeling of
+    blood vessels. The short isoform efficiently converts
+    progelatinase A to the intermediate form but not to the mature
+    one. It has no effect on type I, II, IV and V collagen. However,
+    upon interaction with CSPG4, it may be involved in degradation and
+    invasion of type I collagen by melanoma cells.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- COFACTOR: Calcium (By similarity).
+-!- SUBUNIT: Interacts with CSPG4 through CSPG4 chondroitin sulfate
+    glycosaminoglycan (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type I membrane
+    protein (Potential). Isoform Short: Secreted protein.
+    Note=Localized at the cell surface of melanoma cells (By
+    similarity). A secreted form (Short isoform) is produced by
+    alternative splicing.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long;
+      IsoId=O35548-1; Sequence=Displayed;
+    Name=Short; Synonyms=MT3-MMP-del;
+      IsoId=O35548-2; Sequence=VSP_005455;
+-!- TISSUE SPECIFICITY: Strongly expressed in the lung, brain and
+    smooth muscle cells. Weakly detectable in the spleen and liver and
+    indetectable in the heart, skeletal muscle and kidney.
+-!- PTM: The precursor is cleaved by a furin endopeptidase (By
+    similarity).
+-!- SIMILARITY: Belongs to the peptidase M10A family.
+-!- SIMILARITY: Contains 1 hemopexin-like domain.
+Alternative splicing; Calcium; Collagen degradation;
+Extracellular matrix; Glycoprotein; Hydrolase; Membrane;
+Metal-binding; Metalloprotease; Protease; Signal; Transmembrane; Zinc;
+Zymogen.
+TMONE

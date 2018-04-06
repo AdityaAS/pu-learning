@@ -1,0 +1,9 @@
+AC   O82040;
+Polcalcin Phl p 7 (Calcium-binding pollen allergen Phl p 7) (P7).
+"Calcium-dependent immunoglobulin E recognition of the apo- and
+calcium-bound form of a cross-reactive two EF-hand timothy grass
+pollen allergen, Phl p 7.";
+-!- ALLERGEN: Causes an allergic reaction in human. Binds to IgE.
+-!- SIMILARITY: Contains 2 EF-hand domains.
+3D-structure; Allergen; Calcium; Repeat.
+TMZERO

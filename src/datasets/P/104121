@@ -1,0 +1,39 @@
+AC   P60752; P27299;
+Lipid A export ATP-binding/permease protein msbA (EC 3.6.3.-).
+"The essential Escherichia coli msbA gene, a multicopy suppressor of
+null mutations in the htrB gene, is related to the universally
+conserved family of ATP-dependent translocators.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Function of Escherichia coli MsbA, an essential ABC family
+transporter, in lipid A and phospholipid biosynthesis.";
+"ATPase activity of the MsbA lipid flippase of Escherichia coli.";
+"Mutational analysis and properties of the msbA gene of Escherichia
+coli, coding for an essential ABC family transporter.";
+"An Escherichia coli mutant defective in lipid export.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Structure of MsbA from E. coli: a homolog of the multidrug resistance
+ATP binding cassette (ABC) transporters.";
+-!- FUNCTION: Involved in lipid A export and possibly also in
+    glycerophospholipid export and for biogenesis of the outer
+    membrane. Transmembrane domains (TMD) form a pore in the inner
+    membrane and the ATP-binding domain (NBD) is responsible for
+    energy generation.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: In msbA the ATP-binding domain (NBD) and the transmembrane
+    domain (TMD) are fused.
+-!- SIMILARITY: Belongs to the ABC transporter family. Lipid exporter
+    (TC 3.A.1.106) subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0005624; C:membrane fraction; IDA:UniProtKB.
+3D-structure; ATP-binding; Complete proteome; Hydrolase;
+Inner membrane; Lipid transport; Membrane; Nucleotide-binding;
+Transmembrane; Transport.
+TMSIX

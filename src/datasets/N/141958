@@ -1,0 +1,21 @@
+AC   Q08186;
+Ribulose bisphosphate carboxylase small chain 6, chloroplast precursor
+(EC 4.1.1.39) (RuBisCO small subunit 6).
+"The six genes of the Rubisco small subunit multigene family from
+Mesembryanthemum crystallinum, a facultative CAM plant.";
+-!- FUNCTION: RuBisCO catalyzes two reactions: the carboxylation of D-
+    ribulose 1,5-bisphosphate, the primary event in carbon dioxide
+    fixation, as well as the oxidative fragmentation of the pentose
+    substrate. Both reactions occur simultaneously and in competition
+    at the same active site (By similarity).
+-!- CATALYTIC ACTIVITY: D-ribulose 1,5-bisphosphate + CO(2) + H(2)O =
+    2 3-phospho-D-glycerate.
+-!- CATALYTIC ACTIVITY: D-ribulose 1,5-bisphosphate + O(2) = 3-
+    phospho-D-glycerate + 2-phosphoglycolate.
+-!- SUBUNIT: 8 large chains + 8 small chains.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the RuBisCO small chain family.
+Calvin cycle; Carbon dioxide fixation; Chloroplast; Lyase;
+Monooxygenase; Oxidoreductase; Photorespiration; Photosynthesis;
+Plastid; Transit peptide.
+TMZERO

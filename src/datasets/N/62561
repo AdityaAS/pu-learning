@@ -1,0 +1,12 @@
+AC   P80722;
+Globin (Myoglobin).
+"Trematode myoglobins, functional molecules with a distal tyrosine.";
+-!- FUNCTION: Oxygen binding protein.
+-!- SUBUNIT: Monomer.
+-!- MISCELLANEOUS: This globin lacks one of the heme-binding histidine
+    residues found in most other globins (replaced by tyrosine) but is
+    functional despite this change.
+-!- SIMILARITY: Belongs to the globin family.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

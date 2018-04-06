@@ -1,0 +1,23 @@
+AC   Q9DD65;
+Lysozyme C precursor (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C).
+"Characterization and expression of c-type lysozyme cDNA from Japanese
+flounder (Paralichthys olivaceus).";
+"Moleculer cloning and novel repeated sequences of a c-type lysozyme
+gene in Japanese flounder (Paralichthys olivaceus).";
+-!- FUNCTION: Lysozymes have primarily a bacteriolytic function; those
+    in tissues and body fluids are associated with the monocyte-
+    macrophage system and enhance the activity of immunoagents (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Hydrolysis of 1,4-beta-linkages between N-
+    acetylmuramic acid and N-acetyl-D-glucosamine residues in a
+    peptidoglycan and between N-acetyl-D-glucosamine residues in
+    chitodextrins.
+-!- SUBUNIT: Monomer (By similarity).
+-!- MISCELLANEOUS: Lysozyme C is capable of both hydrolysis and
+    transglycosylation; it shows also a slight esterase activity. It
+    acts rapidly on both peptide-substituted and unsubstituted
+    peptidoglycan, and slowly on chitin oligosaccharides.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 22 family.
+Antimicrobial; Bacteriolytic enzyme; Glycoprotein; Glycosidase;
+Hydrolase; Signal.
+TMZERO

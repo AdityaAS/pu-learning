@@ -1,0 +1,13 @@
+AC   P60777; Q8XB31;
+Protein smp precursor.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the smp family.
+-!- CAUTION: Ref.1 and Ref.2 sequences differ from that shown due to a
+    missing stop codon that produces one ORF, which contains smp and
+    lplA.
+Complete proteome; Membrane; Signal.
+TMZERO

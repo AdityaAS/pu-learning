@@ -1,0 +1,23 @@
+AC   Q9LX49;
+Pirin 1 (AtPirin1).
+"Pirin, a highly conserved protein essential for Arabidopsis
+development, interacts with the MET1/DNMT1 class of DNA
+methyltransferases.";
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"The Arabidopsis cupin domain protein AtPirin1 interacts with the G
+protein alpha-subunit GPA1 and regulates seed germination and early
+seedling development.";
+-!- FUNCTION: Involved in abscisic acid signal transduction. Plays a
+    role in seed germination and early seedling development.
+-!- SUBUNIT: Interacts with the G protein alpha-1 subunit GPA1.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- DEVELOPMENTAL STAGE: Present at similar levels in seedlings and
+    mature plants.
+-!- INDUCTION: Up-regulated by abscisic acid (ABA) and low-fluence red
+    light, but not by low-fluence blue light.
+-!- DOMAIN: Contains one cupin domain that is not required for
+    interaction with the G protein alpha subunit.
+-!- SIMILARITY: Belongs to the pirin family.
+Abscisic acid signaling pathway; Nuclear protein.
+TMZERO

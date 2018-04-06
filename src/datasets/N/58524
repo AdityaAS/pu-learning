@@ -1,0 +1,15 @@
+AC   Q01558;
+Glyceraldehyde-3-phosphate dehydrogenase, cytosolic (EC 1.2.1.12)
+(GAPDH).
+"Molecular analysis of the cytosolic and glycosomal glyceraldehyde-3-
+phosphate dehydrogenase in Leishmania mexicana.";
+-!- CATALYTIC ACTIVITY: D-glyceraldehyde 3-phosphate + phosphate +
+    NAD(+) = 3-phospho-D-glyceroyl phosphate + NADH.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 1.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the glyceraldehyde-3-phosphate
+    dehydrogenase family.
+Glycolysis; NAD; Oxidoreductase.
+TMZERO

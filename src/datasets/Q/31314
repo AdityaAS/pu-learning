@@ -1,0 +1,17 @@
+AC   Q7TNN2;
+Cytochrome c oxidase polypeptide 8 isoform 3, mitochondrial precursor
+(EC 1.9.3.1) (Cytochrome c oxidase polypeptide VIII isoform 3)
+(Cytochrome c oxidase subunit 8-3) (COX VIII-3).
+"A third isoform of cytochrome c oxidase subunit VIII is present in
+mammals.";
+-!- FUNCTION: This protein is one of the nuclear-coded polypeptide
+    chains of cytochrome c oxidase, the terminal oxidase in
+    mitochondrial electron transport.
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase VIII family.
+ GO:0004129; F:cytochrome-c oxidase activity; IEA:EC.
+Inner membrane; Membrane; Mitochondrion; Oxidoreductase;
+Transit peptide; Transmembrane.
+TMONE

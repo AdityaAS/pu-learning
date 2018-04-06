@@ -1,0 +1,34 @@
+AC   P23670; Q9S428;
+Acetoacetate decarboxylase (EC 4.1.1.4) (ADC) (AAD).
+"Cloning, sequencing, and molecular analysis of the acetoacetate
+decarboxylase gene region from Clostridium acetobutylicum.";
+"Sequence and arrangement of genes encoding enzymes of the acetone-
+production pathway of Clostridium acetobutylicum ATCC824.";
+"Genome sequence and comparative analysis of the solvent-producing
+bacterium Clostridium acetobutylicum.";
+"Cloning, sequencing, and molecular analysis of the sol operon of
+Clostridium acetobutylicum, a chromosomal locus involved in
+solventogenesis.";
+"Molecular characterization of amyP, a pSOL1 located gene coding the
+major alpha-amylase of Clostridium acetobutylicum ATCC824, and its use
+as a reporter system for strain degeneration.";
+"Purification of acetoacetate decarboxylase from Clostridium
+acetobutylicum ATCC 824 and cloning of the acetoacetate decarboxylase
+gene in Escherichia coli.";
+"The active site of acetoacetate decarboxylase.";
+"Mechanism of the reaction catalyzed by acetoacetate decarboxylase.
+Importance of lysine 116 in determining the pKa of active-site lysine
+115.";
+-!- FUNCTION: Catalyzes the conversion of acetoacetate to acetone and
+    carbon dioxide.
+-!- CATALYTIC ACTIVITY: Acetoacetate = acetone + CO(2).
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 5.95;
+-!- SUBUNIT: Homododecamer.
+-!- INDUCTION: By linear fatty acids (up to butyrate).
+-!- SIMILARITY: Belongs to the ADC family.
+ GO:0047602; F:acetoacetate decarboxylase activity; IEA:EC.
+Complete proteome; Decarboxylase; Direct protein sequencing; Lyase;
+Plasmid; Schiff base.
+TMZERO

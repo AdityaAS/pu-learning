@@ -1,0 +1,15 @@
+AC   P0AG97; P16920;
+Preprotein translocase secE subunit.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Essential for protein export (By similarity).
+-!- SUBUNIT: Part of the prokaryotic protein translocation apparatus
+    which comprise secA, secB, secD, secE, secF, secG and secY. The
+    translocation channel seems to be composed of a secA homodimer and
+    four copies of a secYEG complex (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the secE/SEC61-gamma family.
+Complete proteome; Inner membrane; Membrane; Protein transport;
+Translocation; Transmembrane; Transport.
+THTHREE

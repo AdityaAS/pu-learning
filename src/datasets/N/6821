@@ -1,0 +1,22 @@
+AC   P56634;
+Alpha-amylase (EC 3.2.1.1) (1,4-alpha-D-glucan glucanohydrolase).
+"The alpha-amylase from the yellow meal worm: complete primary
+structure, crystallization and preliminary X-ray analysis.";
+"Crystal structure of yellow meal worm alpha-amylase at 1.64-A
+resolution.";
+"A novel strategy for inhibition of alpha-amylases: yellow meal worm
+alpha-amylase in complex with the Ragi bifunctional inhibitor at 2.5-A
+resolution.";
+"Specific inhibition of insect alpha-amylases: yellow meal worm alpha-
+amylase in complex with the amaranth alpha-amylase inhibitor at 2.0 A
+resolution.";
+-!- CATALYTIC ACTIVITY: Endohydrolysis of 1,4-alpha-D-glucosidic
+    linkages in oligosaccharides and polysaccharides.
+-!- COFACTOR: Binds 1 calcium ion per subunit.
+-!- COFACTOR: Binds 1 chloride ion per subunit.
+-!- SUBUNIT: Monomer.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 13 family.
+3D-structure; Calcium; Carbohydrate metabolism; Chloride;
+Direct protein sequencing; Glycosidase; Hydrolase; Metal-binding;
+Pyrrolidone carboxylic acid.
+TMZERO

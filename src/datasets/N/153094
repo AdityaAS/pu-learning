@@ -1,0 +1,15 @@
+AC   P30762; O32981;
+50S ribosomal protein L3.
+"Massive gene decay in the leprosy bacillus.";
+"Nucleotide sequence of the first cosmid from the Mycobacterium leprae
+genome project: structure and function of the Rif-Str regions.";
+-!- FUNCTION: One of the primary rRNA binding proteins, it binds
+    directly near the 3' end of the 23S rRNA, where it nucleates
+    assembly of the 50S subunit (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit. Forms a cluster with
+    proteins L14 and L19 (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L3P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

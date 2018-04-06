@@ -1,0 +1,22 @@
+AC   P00460;
+Nitrogenase iron protein (EC 1.18.6.1) (Nitrogenase component II)
+(Nitrogenase Fe protein) (Nitrogenase reductase).
+"Nucleotide sequence of the R.meliloti nitrogenase reductase (nifH)
+gene.";
+"Nucleotide sequence and predicted functions of the entire
+Sinorhizobium meliloti pSymA megaplasmid.";
+"Directed transposon Tn5 mutagenesis and complementation analysis of
+Rhizobium meliloti symbiotic nitrogen fixation genes.";
+-!- FUNCTION: The key enzymatic reactions in nitrogen fixation are
+    catalyzed by the nitrogenase complex, which has 2 components: the
+    iron protein and the molybdenum-iron protein.
+-!- CATALYTIC ACTIVITY: 8 reduced ferredoxin + 8 H(+) + N(2) + 16 ATP
+    + 16 H(2)O = 8 oxidized ferredoxin + H(2) + 2 NH(3) + 16 ADP + 16
+    phosphate.
+-!- COFACTOR: Binds 1 4Fe-4S cluster per dimer.
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the nifH/bchL/chlL family.
+4Fe-4S; ATP-binding; Complete proteome; Iron; Iron-sulfur;
+Metal-binding; Nitrogen fixation; Nucleotide-binding; Oxidoreductase;
+Plasmid.
+TMZERO

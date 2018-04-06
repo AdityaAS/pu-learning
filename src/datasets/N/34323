@@ -1,0 +1,13 @@
+AC   P81225; P81226;
+Cuticle protein 21 (LM-ACP 21).
+"Primary structure of two major cuticular proteins from the migratory
+locust, Locusta migratoria, and their identification in polyacrylamide
+gels by mass spectrometry.";
+-!- FUNCTION: Component of the cuticle of migratory locust which
+    contains more than 100 different structural proteins.
+-!- DOMAIN: The tetrapeptide (A-A-P-[AV]) repeats found throughout the
+    protein are also present in many proteins constituting the
+    protective envelope of other species.
+-!- SIMILARITY: Contains 1 chitin-binding type R&R domain.
+Cuticle; Direct protein sequencing; Repeat; Structural protein.
+TMZERO

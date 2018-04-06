@@ -1,0 +1,17 @@
+AC   Q8K4M9;
+Oxysterol-binding protein-related protein 1 (OSBP-related protein 1)
+(ORP-1).
+"Androgen-regulated expression of a novel member of the aldo-keto
+reductase superfamily in regrowing rat prostate.";
+"Structural basis of FFAT motif-mediated ER targeting.";
+-!- FUNCTION: Binds phospholipids; exhibits strong binding to
+    phosphatidic acid and weak binding to phosphatidylinositol 3-
+    phosphate (By similarity).
+-!- SUBUNIT: Interacts with VAPA.
+-!- TISSUE SPECIFICITY: Detected in prostate and liver.
+-!- SIMILARITY: Belongs to the OSBP family.
+-!- SIMILARITY: Contains 3 ANK repeats.
+-!- SIMILARITY: Contains 1 PH domain.
+3D-structure; ANK repeat; Coiled coil; Lipid transport; Repeat;
+Transport.
+TMZERO

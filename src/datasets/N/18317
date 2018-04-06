@@ -1,0 +1,63 @@
+AC   P23293;
+Serine/threonine-protein kinase BUR1 (EC 2.7.11.22) (EC 2.7.11.23)
+(Suppressor of GPA1-Vall50 mutation protein 1) (Bypass UAS requirement
+protein 1).
+"SGV1 encodes a CDC28/cdc2-related kinase required for a G alpha
+subunit-mediated adaptive response to pheromone in S. cerevisiae.";
+"DNA sequence analysis of a 10.4 kbp region on the right arm of yeast
+chromosome XVI positions GPH1 and SGV1 adjacent to KRE6, and
+identifies two novel tRNA genes.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Mutations that suppress the deletion of an upstream activating
+sequence in yeast: involvement of a protein kinase and histone H3 in
+repressing transcription in vivo.";
+"BUR1 and BUR2 encode a divergent cyclin-dependent kinase-cyclin
+complex important for transcription in vivo.";
+"Phosphorylation of the RNA polymerase II carboxy-terminal domain by
+the Bur1 cyclin-dependent kinase.";
+"Activation of the Bur1-Bur2 cyclin-dependent kinase complex by
+Cak1.";
+"Phosphoproteome analysis by mass spectrometry and its application to
+Saccharomyces cerevisiae.";
+"Bur1 kinase is required for efficient transcription elongation by RNA
+polymerase II.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"BUR kinase selectively regulates H3 K4 trimethylation and H2B
+ubiquitylation through recruitment of the PAF elongation complex.";
+"The Bur1/Bur2 complex is required for histone H2B monoubiquitination
+by Rad6/Bre1 and histone methylation by COMPASS.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- FUNCTION: Serine/threonine-protein kinase component of the BUR
+    kinase complex involved in transcription regulation. This complex
+    phosphorylates 'Ser-120' of the UBC2/RAD6 ubiquitin-conjugating
+    enzyme (E2), leading to monoubiquitination of histone H2B, the
+    localization of the PAF1 complex to the chromatin, and the
+    silencing of telomeric-associated genes. Also required for histone
+    H3 'Lys-4' trimethylation. May phosphorylate the 'Ser-5' of the
+    RBP1 carboxy-terminal domain (CTD) repeats. Necessary for the
+    recovery from pheromone-induced growth arrest in the cell cycle G1
+    phase. The kinase activity of the complex requires the presence of
+    BUR2.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- CATALYTIC ACTIVITY: ATP + [DNA-directed RNA polymerase] = ADP +
+    [DNA-directed RNA polymerase] phosphate.
+-!- SUBUNIT: Belongs to the BUR kinase complex composed of SGV1/BUR1
+    and BUR2. Interacts with BUR2 and RBP1.
+-!- INTERACTION:
+    Q05949:BUR2; NbExp=2; IntAct=EBI-17078, EBI-30948;
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- MISCELLANEOUS: Present with 2070 molecules/cell.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+    CDC2/CDKX subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005634; C:nucleus; IPI:SGD.
+ GO:0004693; F:cyclin-dependent protein kinase activity; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006468; P:protein amino acid phosphorylation; IDA:SGD.
+ GO:0006350; P:transcription; IDA:SGD.
+ATP-binding; Complete proteome; Kinase; Nuclear protein;
+Nucleotide-binding; Phosphorylation; Serine/threonine-protein kinase;
+Transferase.
+TMZERO

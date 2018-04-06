@@ -1,0 +1,14 @@
+AC   P0A014; Q08841;
+10 kDa chaperonin (Protein Cpn10) (groES protein) (Heat shock protein
+10).
+"Molecular characterization of the gene operon of heat shock proteins
+HSP60 and HSP10 in methicillin-resistant Staphylococcus aureus.";
+-!- FUNCTION: Binds to Cpn60 in the presence of Mg-ATP and suppresses
+    the ATPase activity of the latter.
+-!- SUBUNIT: Heptamer of 7 subunits arranged in a ring (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- INDUCTION: By heat shock.
+-!- SIMILARITY: Belongs to the groES chaperonin family.
+Chaperone; Direct protein sequencing; Heat shock.
+TMZERO

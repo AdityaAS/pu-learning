@@ -1,0 +1,31 @@
+AC   Q6P0E1;
+Transcription factor Sox-2.
+"Comparative genomic and expression analysis of group B1 sox genes in
+zebrafish indicates their diversification during vertebrate
+evolution.";
+"Mutations in SOX2 cause anophthalmia-esophageal-genital (AEG)
+syndrome.";
+"Histone deacetylase 1 is essential for oligodendrocyte specification
+in the zebrafish CNS.";
+-!- FUNCTION: Transcriptional activator.
+-!- SUBCELLULAR LOCATION: Nucleus. Cytoplasm.
+-!- DEVELOPMENTAL STAGE: Expressed zygotically. First detected at the
+    30% epiboly stage. At the shield stage, expressed uniformly in the
+    future ectoderm. At the 75-80% epiboly stage, becomes localized to
+    the presumptive neuroectoderm; strong expression in the
+    presumptive forebrain, weak expression in the presumptive spinal
+    cord. At the tail bud to 3-somite stage, expressed in distinct
+    regions of the future brain, the anterior margin of the neural
+    plate and the future retina. At the 12-somite stage, strong
+    expression in the central nervous system rostral to the hindbrain,
+    including the optic vesicle. At the 21- to 25-somite stage, strong
+    expression in the retina, otic placode and cerebellum. At 28-50
+    hours post-fertilization, restricted to the ventricular zone of
+    the hindbrain. At 5 days, expressed in the esophageal endoderm.
+-!- SIMILARITY: Contains 1 HMG box DNA-binding domain.
+ GO:0005667; C:transcription factor complex; IC:ZFIN.
+ GO:0048592; P:eye morphogenesis; IMP:ZFIN.
+ GO:0051091; P:positive regulation of transcription factor...; IDA:ZFIN.
+Activator; Developmental protein; DNA-binding; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

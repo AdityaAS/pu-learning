@@ -1,0 +1,34 @@
+AC   P02924;
+L-arabinose-binding periplasmic protein precursor (ABP).
+"High-affinity L-arabinose transport operon. Nucleotide sequence and
+analysis of gene products.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The nucleotide sequences defining the signal peptides of the
+galactose-binding protein and the arabinose-binding protein.";
+"Amino acid sequence of the L-arabinose-binding protein from
+Escherichia coli B/r.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"L-arabinose-binding protein-sugar complex at 2.4-A resolution.
+Stereochemistry and evidence for a structural change.";
+"The 2.8-A resolution structure of the L-arabinose-binding protein
+from Escherichia coli. Polypeptide chain folding, domain similarity,
+and probable location of sugar-binding site.";
+"A Pro to Gly mutation in the hinge of the arabinose-binding protein
+enhances binding and alters specificity. Sugar-binding and
+crystallographic studies.";
+-!- FUNCTION: Involved in the high-affinity L-arabinose membrane
+    transport system. Binds with high affinity to arabinose, but can
+    also bind D-galactose (approximately 2-fold reduction) and D-
+    fucose (approximately 40-fold reduction).
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 2
+    family.
+ GO:0015407; F:monosaccharide-transporting ATPase activity; IEA:EC.
+3D-structure; Complete proteome; Direct protein sequencing;
+Periplasmic; Signal; Sugar transport; Transport.
+TMZERO

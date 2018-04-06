@@ -1,0 +1,14 @@
+AC   Q01074; Q7PCH9;
+DNA transfer protein gp7 precursor.
+"Oligopeptidase A is required for normal phage P22 development.";
+"Sequence of the genome of Salmonella bacteriophage P22.";
+"Corrected sequence of the bacteriophage P22 genome.";
+"Sequence of a DNA injection gene from Salmonella typhimurium phage
+P22.";
+"Nucleotide sequence of the bacteriophage P22 genes required for DNA
+packaging.";
+-!- FUNCTION: Required for ejection of the phage DNA from the phage
+    particle and injection of that DNA into the host.
+-!- SIMILARITY: Belongs to the podoviruses gp7 family.
+Direct protein sequencing; Late protein.
+TMZERO

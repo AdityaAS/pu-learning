@@ -1,0 +1,8 @@
+AC   Q8DKP1;
+Deoxyhypusine synthase-like protein (EC 2.5.-.-).
+"Complete genome structure of the thermophilic cyanobacterium
+Thermosynechococcus elongatus BP-1.";
+-!- SIMILARITY: Belongs to the deoxyhypusine synthase family.
+ GO:0016765; F:transferase activity, transferring alkyl or...; IEA:HAMAP.
+Complete proteome; Transferase.
+TMZERO

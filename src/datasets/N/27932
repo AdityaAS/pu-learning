@@ -1,0 +1,16 @@
+AC   Q9XSC5;
+Clusterin precursor (Apolipoprotein J) (Apo-J) [Contains: Clusterin
+beta chain; Clusterin alpha chain].
+"Apolipoprotein J/clusterin is induced in vascular smooth muscle cells
+after vascular injury.";
+-!- FUNCTION: Not yet clear. It is known to be expressed in a variety
+    of tissues and it seems to be able to bind to cells, membranes and
+    hydrophobic proteins. It has been associated with programmed cell
+    death (By similarity).
+-!- SUBUNIT: Antiparallel disulfide-linked heterodimer. Interacts with
+    CLUAP1 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; secretory vesicle;
+    chromaffin granule. Note=Present in chromaffin granules.
+-!- SIMILARITY: Belongs to the clusterin family.
+Glycoprotein; Signal.
+TMZERO

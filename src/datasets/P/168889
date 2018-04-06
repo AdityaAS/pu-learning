@@ -1,0 +1,74 @@
+AC   Q9R1N3; Q9QYD5; Q9R1L1;
+Sodium bicarbonate cotransporter 3 (Electroneutral sodium bicarbonate
+cotransporter 1) (NBC-like protein) (Solute carrier family 4 member
+7).
+"An electroneutral sodium/bicarbonate cotransporter NBCn1 and
+associated sodium channel.";
+"Immunoelectron microscopic localization of NBC3 sodium-bicarbonate
+cotransporter in rat kidney.";
+"Immunolocalization of electroneutral Na-HCO(3)(-) cotransporter in
+rat kidney.";
+"Immunolocalization of NBC3 and NHE3 in the rat epididymis:
+colocalization of NBC3 and the vacuolar H+-ATPase.";
+"The cystic fibrosis transmembrane conductance regulator interacts
+with and regulates the activity of the HCO3- salvage transporter human
+Na+-HCO3-cotransport isoform 3.";
+"NBCn1 is a basolateral Na+-HCO3- cotransporter in rat kidney inner
+medullary collecting ducts.";
+"Basolateral Na+-dependent HCO3- transporter NBCn1-mediated HCO3-
+influx in rat medullary thick ascending limb.";
+"Scaffold protein harmonin (USH1C) provides molecular links between
+Usher syndrome type 1 and type 2.";
+"Molecular and functional characterization of the electroneutral
+Na/HCO3 cotransporter NBCn1 in rat hippocampal neurons.";
+"An anti-NH2-terminal antibody localizes NBCn1 to heart endothelia and
+skeletal and vascular smooth muscle cells.";
+-!- FUNCTION: Electroneutral sodium- and bicarbonate-dependent
+    cotransporter with a Na(+):HCO3(-) 1:1 stoichiometry. Regulates
+    intracellular pH and may play a role in bicarbonate salvage in
+    secretory epithelia. May also have an associated sodium channel
+    activity.
+-!- ENZYME REGULATION: Transporter activity is regulated by
+    CA2/carbonic anhydrase 2, cAMP and PKA. Insensitive to stilbene
+    derivatives. May be inhibited by 5-(N-ethyl-N-isopropyl)-amiloride
+    (EIPA) (By similarity).
+-!- SUBUNIT: Interacts with USH1C. Forms a complex with ATP6V1B1 and
+    SLC9A3R1/EBP50. Interacts in a pH dependent-manner with
+    CA2/carbonic anhydrase 2 (By similarity). Interacts with CFTR
+    probably through SLC9A3R1/EBP50.
+-!- SUBCELLULAR LOCATION: Cell membrane; basolateral cell membrane;
+    multi-pass membrane protein. Note=Also described at the apical
+    cell membrane. Localizes to the stereocilia of cochlear outer hair
+    cells and to the lateral membrane of cochlear inner hair cells.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=6;
+    Name=1; Synonyms=NBCn1-B, NBCn1B;
+      IsoId=Q9R1N3-1; Sequence=Displayed;
+    Name=2; Synonyms=NBCn1-D, NBCn1D;
+      IsoId=Q9R1N3-2; Sequence=VSP_017172;
+    Name=3; Synonyms=NBCn1-C, NBCn1C;
+      IsoId=Q9R1N3-3; Sequence=VSP_017169, VSP_017172;
+    Name=4;
+      IsoId=Q9R1N3-4; Sequence=VSP_017171, VSP_017172;
+    Name=5;
+      IsoId=Q9R1N3-5; Sequence=VSP_017170, VSP_017171, VSP_017172;
+    Name=6; Synonyms=NBCn1-E;
+      IsoId=Q9R1N3-6; Sequence=VSP_017171;
+-!- TISSUE SPECIFICITY: Expressed in aorta, ventricles, atrium,
+    mesenteric artery, kidney, spleen, duodenum, jejunum, ileum,
+    colon, lung, trachea, gastric fundus and pylorus, cerebrum,
+    cerebellum, pancreas, liver, parotid gland, and epididymis.
+    Expressed in the inner ear by cochlear outer and inner hair cells
+    (at protein level). Highly expressed in testis and spleen. Also
+    detected in heart, brain, lung, liver and kidney. Isoform 4 and
+    isoform 5 are specifically expressed in kidney. Isoform 6 is
+    specifically expressed in hippocampal neurons.
+-!- INDUCTION: Up-regulated in kidney upon metabolic acidosis.
+-!- DOMAIN: The PDZ-binding motif mediates interaction with the CFTR,
+    SLC9A3R1/EBP50 complex and probably with USH1C (By similarity).
+-!- PTM: N-glycosylated.
+-!- SIMILARITY: Belongs to the anion exchanger (TC 2.A.31) family.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Phosphorylation; Sodium; Sodium transport; Symport; Transmembrane;
+Transport.
+TMELEVEN

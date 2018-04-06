@@ -1,0 +1,45 @@
+AC   Q8IWT3; O75188; Q68CP2; Q68D92; Q8N3W9; Q9BU56;
+p53-associated parkin-like cytoplasmic protein (UbcH7-associated
+protein 1).
+"Parc: a cytoplasmic anchor for p53.";
+"UbcH7 associated protein, H7AP1. A new member of the Parkin/Ariadne
+E3 ubiquitin Ligase (PAUL) family.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Prediction of the coding sequences of unidentified human genes. X.
+The complete sequences of 100 new cDNA clones from brain which can
+code for large proteins in vitro.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The ubiquitin-conjugating enzymes UbcH7 and UbcH8 interact with RING
+finger/IBR motif-containing domains of HHARI and H7-AP1.";
+-!- FUNCTION: Cytoplasmic anchor protein in p53-associated protein
+    complex. Regulates the subcellular localization of p53 and
+    subsequent function.
+-!- SUBUNIT: Forms a complex with p53 in the cytoplasm of unstressed
+    cells. Interacts with UBCH7 and UBCH8.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q8IWT3-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8IWT3-2; Sequence=VSP_009572, VSP_009574, VSP_009575;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q8IWT3-3; Sequence=VSP_009573, VSP_009574, VSP_009575;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Ubiquitously expressed in all tissues with
+    highest expression in testis brain and kidney.
+-!- DOMAIN: The IBR domain is required for interaction with UBCH7 and
+    UBCH8.
+-!- PTM: In vitro, self-ubiquitination in the presence of E1, E2 and
+    ubiquitin.
+-!- SIMILARITY: Belongs to the cullin family.
+-!- SIMILARITY: Contains 1 APC10 domain.
+-!- SIMILARITY: Contains 1 IBR-type zinc finger.
+-!- SIMILARITY: Contains 2 RING-type zinc fingers.
+Alternative splicing; ATP-binding; Coiled coil;
+Direct protein sequencing; Metal-binding; Nucleotide-binding; Repeat;
+Ubl conjugation; Ubl conjugation pathway; Zinc; Zinc-finger.
+TMZERO

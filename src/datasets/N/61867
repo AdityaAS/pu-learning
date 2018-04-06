@@ -1,0 +1,15 @@
+AC   P34999; Q28993;
+Growth hormone-releasing hormone receptor precursor (GHRH receptor)
+(GRF receptor) (GRFR).
+"Structure and functional expression of a complementary DNA for
+porcine growth hormone-releasing hormone receptor.";
+-!- FUNCTION: Receptor for GRF, coupled to G proteins which activate
+    adenylyl cyclase. Stimulates somatotroph cell growth, growth
+    hormone gene transcription and growth hormone secretion.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Pituitary gland. Also detected in the
+    lymphocytes and thymocytes.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 2 family.
+G-protein coupled receptor; Glycoprotein; Membrane; Receptor; Signal;
+Transducer; Transmembrane.
+TMSEVEN

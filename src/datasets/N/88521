@@ -1,0 +1,13 @@
+AC   Q60653;
+Killer cell lectin-like receptor 6 (T-cell surface glycoprotein Ly-
+49F) (Lymphocyte antigen 49f) (Ly-49f).
+"Ly-49 multigene family expressed by IL-2-activated NK cells.";
+-!- FUNCTION: Receptor on natural killer (NK) cells for class I MHC.
+-!- SUBUNIT: Homodimer; disulfide-linked.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein.
+-!- SIMILARITY: Contains 1 C-type lectin domain.
+ GO:0005886; C:plasma membrane; TAS:MGI.
+Cell adhesion; Glycoprotein; Lectin; Membrane; Receptor;
+Signal-anchor; Transmembrane.
+TMONE

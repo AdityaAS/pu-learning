@@ -1,0 +1,31 @@
+AC   Q9US03;
+Kinesin-like protein 2.
+"pkl1(+)and klp2(+): two kinesins of the Kar3 subfamily in fission
+yeast perform different functions in both mitosis and meiosis.";
+"The genome sequence of Schizosaccharomyces pombe.";
+"The kinesin Klp2 mediates polarization of interphase microtubules in
+fission yeast.";
+-!- FUNCTION: Microtubule-dependent motor that is involved in
+    microtubule organization in the mitotic spindle. Required for the
+    polarization of interphase microtubules where it orients the
+    microtubule plus ends toward the cell ends and the minus ends
+    toward the cell center. Mediates minus end-directed sliding of
+    cytoplasmic microtubules relative to each other, thereby promoting
+    mitotic spindle disassembly.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus. Note=During interphase.
+    When in the nucleus, it associates with chromatin.
+-!- SIMILARITY: Belongs to the kinesin-like protein family. NCD
+    subfamily.
+-!- SIMILARITY: Contains 1 kinesin-motor domain.
+ GO:0005737; C:cytoplasm; IDA:GeneDB_SPombe.
+ GO:0000776; C:kinetochore; TAS:GeneDB_SPombe.
+ GO:0015630; C:microtubule cytoskeleton; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0003777; F:microtubule motor activity; TAS:GeneDB_SPombe.
+ GO:0031122; P:cytoplasmic microtubule organization and bi...; IMP:GeneDB_SPombe.
+ GO:0030951; P:establishment and/or maintenance of microtu...; IMP:GeneDB_SPombe.
+ GO:0031534; P:minus-end directed microtubule sliding; IMP:GeneDB_SPombe.
+ GO:0000022; P:mitotic spindle elongation; IGI:GeneDB_SPombe.
+ATP-binding; Coiled coil; Complete proteome; Microtubule;
+Motor protein; Nuclear protein; Nucleotide-binding.
+TMZERO

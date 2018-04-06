@@ -1,0 +1,17 @@
+AC   P09883;
+Colicin-E9 (EC 3.1.-.-).
+"Nucleotide sequences from the colicin E5, E6 and E9 operons: presence
+of a degenerate transposon-like structure in the ColE9-J plasmid.";
+"Complete nucleotide sequence of the colicin E9 (cei) gene.";
+-!- FUNCTION: This plasmid-coded bactericidal protein is an
+    endonuclease active on both single- and double-stranded DNA but
+    with undefined specificity.
+-!- FUNCTION: Colicins are polypeptide toxins produced by and active
+    against, Escherichia coli and closely related bacteria.
+-!- INTERACTION:
+    P13479:imm; NbExp=1; IntAct=EBI-1029888, EBI-1029882;
+-!- SIMILARITY: Belongs to the colicin/pyosin nuclease family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Antibiotic; Antimicrobial; Bacteriocin; Endonuclease;
+Hydrolase; Metal-binding; Nuclease; Plasmid; Zinc.
+TMZERO

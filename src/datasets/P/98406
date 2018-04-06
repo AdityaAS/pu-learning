@@ -1,0 +1,21 @@
+AC   P97521;
+Mitochondrial carnitine/acylcarnitine carrier protein
+(Carnitine/acylcarnitine translocase) (CAC) (Solute carrier family 25
+member 20).
+"The mitochondrial carnitine carrier protein: cDNA cloning, primary
+structure and comparison with other mitochondrial transport
+proteins.";
+-!- FUNCTION: Mediates the transport of acylcarnitines of different
+    length across the mitochondrial inner membrane from the cytosol to
+    the mitochondrial matrix for their oxidation by the mitochondrial
+    fatty acid-oxidation pathway.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005743; C:mitochondrial inner membrane; TAS:RGD.
+ GO:0006810; P:transport; NAS:RGD.
+Acetylation; Direct protein sequencing; Inner membrane; Membrane;
+Mitochondrion; Repeat; Transmembrane; Transport.
+TMSIX

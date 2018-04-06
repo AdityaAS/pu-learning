@@ -1,0 +1,17 @@
+AC   O46689;
+Steroidogenic acute regulatory protein, mitochondrial precursor (StAR)
+(StARD1).
+"Human chorionic gonadotropin induces an inverse regulation of
+steroidogenic acute regulatory protein messenger ribonucleic acid in
+theca interna and granulosa cells of equine preovulatory follicles.";
+-!- FUNCTION: Plays a key role in steroid hormone synthesis by
+    enhancing the metabolism of cholesterol into pregnenolone.
+    Mediates the transfer of cholesterol from the outer mitochondrial
+    membrane to the inner mitochondrial membrane where it is cleaved
+    to pregnenolone (By similarity).
+-!- PATHWAY: Steroidogenesis; rate-limiting step.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- SIMILARITY: Contains 1 START domain.
+Lipid transport; Lipid-binding; Mitochondrion; Phosphorylation;
+Steroidogenesis; Transit peptide; Transport.
+TMZERO

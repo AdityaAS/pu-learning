@@ -1,0 +1,23 @@
+AC   P0AE24; P09830; Q2M9Z6; Q46937;
+Arabinose-proton symporter (Arabinose transporter).
+"Mammalian and bacterial sugar transport proteins are homologous.";
+"The cloning, DNA sequence, and overexpression of the gene araE coding
+for arabinose-proton symport in Escherichia coli K12.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The araE low affinity L-arabinose transport promoter. Cloning,
+sequence, transcription start site and DNA binding sites of regulatory
+proteins.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Uptake of arabinose across the boundary membrane with
+    the concomitant transport of protons into the cell (symport
+    system).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Inner membrane; Membrane; Sugar transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

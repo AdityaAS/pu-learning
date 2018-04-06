@@ -1,0 +1,43 @@
+AC   Q94900; O77295; Q8IN68; Q9GQ52; Q9GQ53; Q9VDU5;
+Glutamate-gated chloride channel precursor.
+"Identification of a Drosophila melanogaster glutamate-gated chloride
+channel sensitive to the antiparasitic agent avermectin.";
+"Diversification of Drosophila chloride channel gene by multiple
+posttranscriptional mRNA modifications.";
+"Drug-resistant Drosophila indicate glutamate-gated chloride channels
+are targets for the antiparasitics nodulisporic acid and ivermectin.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A-to-I pre-mRNA editing in Drosophila is primarily involved in adult
+nervous system function and integrity.";
+-!- FUNCTION: Glutamate gated chloride channel that is dual gated by
+    glutamate and avermectin.
+-!- SUBUNIT: Homomultimer.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=C;
+      IsoId=Q94900-1; Sequence=Displayed;
+    Name=B;
+      IsoId=Q94900-2; Sequence=VSP_051644, VSP_051646, VSP_051647;
+    Name=A;
+      IsoId=Q94900-3; Sequence=VSP_051645;
+      Note=No experimental confirmation available;
+-!- DEVELOPMENTAL STAGE: Expressed throughout development.
+-!- RNA EDITING: Modified_positions=27, 63, 66, 241, 345;
+    Note=Partially edited. Edited by Adar.
+-!- MISCELLANEOUS: Channels desensitize rapidly in the continued
+    presence of glutamate and are activated by the glutamate analog
+    ibotenate. In Xenopus oocytes, avermectins and nodulisporic acid
+    directly activate channel conductance.
+-!- SIMILARITY: Belongs to the ligand-gated ionic channel (TC 1.A.9)
+    family.
+ GO:0016021; C:integral to membrane; IC:UniProtKB.
+ GO:0008068; F:glutamate-gated chloride channel activity; IDA:FlyBase.
+ GO:0006821; P:chloride transport; IDA:UniProtKB.
+Alternative splicing; Chloride; Chloride channel; Complete proteome;
+Ion transport; Ionic channel; Membrane; Postsynaptic membrane;
+Receptor; RNA editing; Signal; Transmembrane; Transport.
+THTHREE

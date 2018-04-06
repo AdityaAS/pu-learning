@@ -1,0 +1,15 @@
+AC   Q9C6B2; Q9XH62;
+Metal transporter Nramp2 (AtNramp2).
+"EIN2, a bifunctional transducer of ethylene and stress responses in
+Arabidopsis.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+-!- FUNCTION: Seems to be involved in iron uptake (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the NRAMP family.
+Ion transport; Iron; Iron transport; Membrane; Transmembrane;
+Transport.
+TMTWELVE

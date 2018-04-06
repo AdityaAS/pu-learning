@@ -1,0 +1,20 @@
+AC   P0ABC9; P17447; Q2MCA9;
+High-affinity choline transport protein.
+"DNA sequence and analysis of the bet genes encoding the
+osmoregulatory choline-glycine betaine pathway of Escherichia coli.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: High-affinity uptake of choline driven by a proton-
+    motive force.
+-!- PATHWAY: Amine and polyamine biosynthesis; betaine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By osmotic stress. Choline is required for full
+    expression.
+-!- SIMILARITY: Belongs to the BCCT transporter (TC 2.A.15) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

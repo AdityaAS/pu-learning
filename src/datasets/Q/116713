@@ -1,0 +1,17 @@
+AC   Q92G96;
+NADH-quinone oxidoreductase chain M (EC 1.6.99.5) (NADH dehydrogenase
+I, chain M) (NDH-1, chain M).
+"Mechanisms of evolution in Rickettsia conorii and R. prowazekii.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain.
+    Couples the redox reaction to proton translocation (for every two
+    electrons transferred, four hydrogen ions are translocated across
+    the cytoplasmic membrane), and thus conserves the redox energy in
+    a proton gradient (By similarity).
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the complex I subunit 4 family.
+Complete proteome; Membrane; NAD; Oxidoreductase; Quinone;
+Transmembrane.
+TMFOURTEEN

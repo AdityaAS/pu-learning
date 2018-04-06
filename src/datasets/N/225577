@@ -1,0 +1,17 @@
+AC   P0ADK8; P36564; Q2M7R6;
+Hypothetical protein yibL.
+"Corrected sequence of the mannitol (mtl) operon in Escherichia
+coli.";
+"Three overlapping lct genes involved in L-lactate utilization by
+Escherichia coli.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The mannitol repressor (MtlR) of Escherichia coli.";
+-!- INTERACTION:
+    P0AE70:chpA; NbExp=1; IntAct=EBI-549687, EBI-1036253;
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Hypothetical protein.
+TMZERO

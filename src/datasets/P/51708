@@ -1,0 +1,10 @@
+AC   P39115;
+Nucleotide-binding protein expZ.
+"A 148 kbp sequence of the region between 35 and 47 degree of the
+Bacillus subtilis genome.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ATP-binding; Complete proteome; Nucleotide-binding; Repeat.
+TMZERO

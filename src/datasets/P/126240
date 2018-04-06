@@ -1,0 +1,37 @@
+AC   P16677; Q2M6J8;
+Phosphonates import ATP-binding protein phnC (EC 3.6.3.28).
+"Molecular biology of carbon-phosphorus bond cleavage. Cloning and
+sequencing of the phn (psiD) genes involved in alkylphosphonate uptake
+and C-P lyase activity in Escherichia coli B.";
+"Molecular analysis of the cryptic and functional phn operons for
+phosphonate use in Escherichia coli K-12.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Involvement of the Escherichia coli phn (psiD) gene cluster in
+assimilation of phosphorus in the form of phosphonates, phosphite, Pi
+esters, and Pi.";
+"Mutational analysis of an Escherichia coli fourteen-gene operon for
+phosphonate degradation, using TnphoA' elements.";
+-!- FUNCTION: Part of the ABC transporter complex phnCDE involved in
+    phosphonates, phosphate esters, phosphite and phosphate import.
+    Responsible for energy coupling to the transport system.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + phosphonate(Out) = ADP +
+    phosphate + phosphonate(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (phnC), two transmembrane proteins (phnE) and a solute-binding
+    protein (phnD) (Probable).
+-!- INTERACTION:
+    P0A6F5:groL; NbExp=1; IntAct=EBI-1134635, EBI-543750;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- MISCELLANEOUS: Phosphonates utilization is cryptic in strain K12.
+-!- SIMILARITY: Belongs to the ABC transporter family. Phosphonates
+    importer (TC 3.A.1.9.1) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Nucleotide-binding; Phosphonate transport; Transport.
+TMZERO

@@ -1,0 +1,41 @@
+AC   P38090;
+General amino acid permease AGP2.
+"The sequence of 29.7 kb from the right arm of chromosome II reveals
+13 complete open reading frames, of which ten correspond to new
+genes.";
+"Complete DNA sequence of yeast chromosome II.";
+"An analysis of the sequence of part of the right arm of chromosome II
+of S. cerevisiae reveals new genes encoding an amino-acid permease and
+a carboxypeptidase.";
+"Molecular characterization of carnitine-dependent transport of
+acetyl-CoA from peroxisomes to mitochondria in Saccharomyces
+cerevisiae and identification of a plasma membrane carnitine
+transporter, Agp2p.";
+"Carnitine uptake by AGP2 in yeast Saccharomyces cerevisiae is
+dependent on Hog1 MAP kinase pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: General amino acid permease with broad substrate
+    specificity. Can also transport carnitine.
+-!- INTERACTION:
+    P43603:YFR024C; NbExp=1; IntAct=EBI-2362, EBI-22980;
+    P32793:YSC84; NbExp=1; IntAct=EBI-2362, EBI-24460;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0005789; C:endoplasmic reticulum membrane; IDA:SGD.
+ GO:0005887; C:integral to plasma membrane; IDA:SGD.
+ GO:0005774; C:vacuolar membrane; IDA:SGD.
+ GO:0015171; F:amino acid transporter activity; IMP:SGD.
+ GO:0015226; F:carnitine transporter activity; IDA:SGD.
+ GO:0015203; F:polyamine transporter activity; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006865; P:amino acid transport; IMP:SGD.
+ GO:0015879; P:carnitine transport; IDA:SGD.
+ GO:0006631; P:fatty acid metabolism; IDA:SGD.
+ GO:0015846; P:polyamine transport; IMP:SGD.
+ GO:0006970; P:response to osmotic stress; IDA:SGD.
+ GO:0000723; P:telomere maintenance; IMP:SGD.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTWELVE

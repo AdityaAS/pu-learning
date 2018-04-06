@@ -1,0 +1,36 @@
+AC   P54105; Q9NRD2; Q9NRD3;
+Methylosome subunit pICln (Chloride conductance regulatory protein
+ICln) (I(Cln)) (Chloride channel, nucleotide sensitive 1A) (Chloride
+ion current inducer protein) (ClCI) (Reticulocyte pICln).
+"The ubiquitously expressed pICln protein forms homomeric complexes in
+vitro.";
+"Molecular cloning of the human volume-sensitive chloride conductance
+regulatory protein, pICln, from ocular ciliary epithelium.";
+"Colocalization of CLCI and CLCN3 to human 4q32 and mouse 8: the
+candidate region for tottering (tg).";
+"Molecular cloning and expression of a chloride channel-associated
+protein pI(Cln) in human young red blood cells: association with
+actin.";
+"Chloride ion current inducer protein in human lens epithelium.";
+"Modulation of volume regulated anion current by I(Cln).";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"pICln inhibits snRNP biogenesis by binding core spliceosomal
+proteins.";
+"The methylosome, a 20S complex containing JBP1 and pICln, produces
+dimethylarginine-modified Sm proteins.";
+-!- FUNCTION: The interaction with Sm proteins inhibits their assembly
+    on U RNA and interferes with snRNP biogenesis. Inhibits the
+    binding of survival motor neuron protein (SMN) to Sm proteins. May
+    participate in cellular volume control by activation of a
+    swelling-induced chloride conductance pathway.
+-!- SUBUNIT: Homooligomer. Component of the methylosome, a 20S complex
+    containing SKB1. Interacts with Sm proteins.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus. Cytoplasm; cytoskeleton.
+    Note=A small fraction is also associated with the cytoskeleton.
+-!- SIMILARITY: Belongs to the pICln family.
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0008015; P:circulation; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Nuclear protein; Polymorphism.
+TMZERO

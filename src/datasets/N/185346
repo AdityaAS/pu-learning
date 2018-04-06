@@ -1,0 +1,12 @@
+AC   Q38771;
+Tubulin alpha chain.
+"Expression characteristics of an epsilon-subunit for the cytosolic
+chaperonin containing TCP-1 (CCT) from oat in differently growing
+tissues.";
+-!- FUNCTION: Tubulin is the major constituent of microtubules. It
+    binds two moles of GTP, one at an exchangeable site on the beta
+    chain and one at a non-exchangeable site on the alpha-chain.
+-!- SUBUNIT: Dimer of alpha and beta chains.
+-!- SIMILARITY: Belongs to the tubulin family.
+GTP-binding; Microtubule; Nucleotide-binding.
+TMZERO

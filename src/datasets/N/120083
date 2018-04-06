@@ -1,0 +1,27 @@
+AC   Q8BQN6; Q9Z0Q5;
+Zinc finger protein OZF (Only zinc finger protein) (Zinc finger
+protein 146).
+"Cloning, characterization, and chromosome assignment of Zfp146 the
+mouse ortholog of human ZNF146, a gene amplified and overexpressed in
+pancreatic cancer, and Zfp260 a closely related gene.";
+"The transcriptional landscape of the mammalian genome.";
+"Targeted expression of the only zinc finger gene in transgenic mice
+is associated with impaired mammary development.";
+-!- SUBUNIT: Binds DNA. Interacts with SUMO conjugating enzyme
+    UBC9/UBE2I. Interacts with the telomeric protein TERF2IP (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in heart, brain, liver, lung,
+    skeletal muscle and kidney, and at much lower level in spleen and
+    testicle. Expressed in lactating mammary gland.
+-!- MISCELLANEOUS: Mice lacking Zfp146 in mammary gland display
+    impaired mammary gland development. They cannot sustain full
+    growth of their pups. This phenotype is associated with an
+    impaired mammary gland development noticeable only after mid-
+    gestation.
+-!- SIMILARITY: Belongs to the krueppel C2H2-type zinc-finger protein
+    family.
+-!- SIMILARITY: Contains 10 C2H2-type zinc fingers.
+DNA-binding; Metal-binding; Nuclear protein; Repeat; Ubl conjugation;
+Zinc; Zinc-finger.
+TMZERO

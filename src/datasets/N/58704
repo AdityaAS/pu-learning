@@ -1,0 +1,48 @@
+AC   Q9JHE4; Q9D8V6;
+Galactosylceramide sulfotransferase (EC 2.8.2.11) (GalCer
+sulfotransferase) (Cerebroside sulfotransferase) (3'-
+phosphoadenylylsulfate:galactosylceramide 3'-sulfotransferase) (3'-
+phosphoadenosine-5'-phosphosulfate:GalCer sulfotransferase).
+"cDNA cloning, genomic cloning, and tissue-specific regulation of
+mouse cerebroside sulfotransferase.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Paranodal junction formation and spermatogenesis require
+sulfoglycolipids.";
+-!- FUNCTION: Catalyzes the sulfation of membrane glycolipids. Seems
+    to prefer beta-glycosides at the nonreducing termini of sugar
+    chains attached to a lipid moiety. Catalyzes the synthesis of
+    HSO3-3-galactosylceramide (sulfatide), a major lipid component of
+    the myelin sheath and of HSO3-3-monogalactosylalkylacylglycerol
+    (seminolipid), present in spermatocytes. Also acts on
+    lactosylceramide, galactosyl 1-alkyl-2-sn-glycerol and galactosyl
+    diacylglycerol (in vitro).
+-!- CATALYTIC ACTIVITY: 3'-phosphoadenylyl sulfate + a
+    galactosylceramide = adenosine 3',5'-bisphosphate +
+    galactosylceramide sulfate.
+-!- CATALYTIC ACTIVITY: 3'-phosphoadenylyl sulfate +
+    monogalactosylalkylacylglycerol = adenosine 3',5'-bisphosphate +
+    monogalactosylalkylacylglycerol sulfate.
+-!- PATHWAY: Lipid metabolism; sphingolipid metabolism.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type II membrane protein (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in brain, testis, kidney, stomach,
+    small intestine, liver, and lung. Not detected in heart, skeletal
+    muscle, and spleen.
+-!- MISCELLANEOUS: Mice homozygous for a null mutation of the CST gene
+    display hindlimb weakness from week 6 of age and subsequently show
+    a prenounced tremor and progressive ataxia. Myelin vacuolation is
+    observed in the cerebellar white matter, diencephalon, brainstem
+    and spinal anterior column. Male mice were infertile due to a
+    blocked spermatogenesis.
+-!- SIMILARITY: Belongs to the galactose-3-O-sulfotransferase family.
+ GO:0000139; C:Golgi membrane; TAS:MGI.
+ GO:0001733; F:galactosylceramide sulfotransferase activity; IDA:MGI.
+ GO:0006682; P:galactosylceramide biosynthesis; IDA:MGI.
+ GO:0009247; P:glycolipid biosynthesis; TAS:MGI.
+ GO:0042552; P:myelination; IMP:MGI.
+ GO:0007283; P:spermatogenesis; IMP:MGI.
+Glycoprotein; Golgi apparatus; Membrane; Signal-anchor; Transferase;
+Transmembrane.
+TMONE

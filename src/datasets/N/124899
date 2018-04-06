@@ -1,0 +1,22 @@
+AC   Q7S7C5;
+Palmitoyltransferase PFA3 (EC 2.3.1.-) (Protein fatty acyltransferase
+3).
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: Palmitoyltransferase specific for VAC8. Palmitoylates
+    VAC8 at one or more of its N-terminal cysteine residues, which is
+    required for its proper membrane localization (By similarity).
+-!- CATALYTIC ACTIVITY: Palmitoyl-CoA + protein-cysteine = S-palmitoyl
+    protein + CoA.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein (By similarity).
+-!- DOMAIN: The DHHC domain is required for palmitoyltransferase
+    activity (By similarity).
+-!- PTM: Autopalmitoylated (By similarity).
+-!- SIMILARITY: Belongs to the DHHC palmitoyltransferase family. PFA3
+    subfamily.
+-!- SIMILARITY: Contains 1 DHHC-type zinc finger.
+Acyltransferase; Lipoprotein; Membrane; Metal-binding; Palmitate;
+Transferase; Transmembrane; Vacuole; Zinc; Zinc-finger.
+TMFOUR

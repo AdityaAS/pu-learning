@@ -1,0 +1,17 @@
+AC   P0A9P7; P23304; Q8FD90;
+Cold-shock DEAD box protein A (EC 3.6.1.-) (ATP-dependent RNA helicase
+deaD).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Has a helix-destabilizing activity. Plays a key role in
+    optimal cell growth at low temperature and is required for normal
+    cell division. Suppressor of a mutant defective in rpsB gene for
+    ribosomal protein S2 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the DEAD box helicase family.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ATP-binding; Complete proteome; Helicase; Hydrolase;
+Nucleotide-binding; RNA-binding; Transcription;
+Transcription regulation.
+TMZERO

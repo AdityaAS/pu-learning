@@ -1,0 +1,17 @@
+AC   P0A9X1; P52648; P76285;
+High-affinity zinc uptake system ATP-binding protein znuC.
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The ZnuABC high-affinity zinc uptake system and its regulator Zur in
+Escherichia coli.";
+-!- FUNCTION: Involved in the high-affinity zinc uptake transport
+    system.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 188.
+ATP-binding; Complete proteome; Nucleotide-binding; Transport; Zinc.
+TMZERO

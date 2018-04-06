@@ -1,0 +1,18 @@
+AC   Q8U9K6;
+Holliday junction ATP-dependent DNA helicase ruvB (EC 3.6.1.-).
+"The genome of the natural genetic engineer Agrobacterium tumefaciens
+C58.";
+"Genome sequence of the plant pathogen and biotechnology agent
+Agrobacterium tumefaciens C58.";
+-!- FUNCTION: The ruvA-ruvB complex in the presence of ATP renatures
+    cruciform structure in supercoiled DNA with palindromic sequence,
+    indicating that it may promote strand exchange reactions in
+    homologous recombination. RuvAB is an helicase that mediates the
+    Holliday junction migration by localized denaturation and
+    reannealing (By similarity).
+-!- SUBUNIT: Forms a complex with ruvA (By similarity).
+-!- SIMILARITY: Belongs to the ruvB family.
+ GO:0009432; P:SOS response; IEA:HAMAP.
+ATP-binding; Complete proteome; DNA damage; DNA recombination;
+DNA repair; Helicase; Hydrolase; Nucleotide-binding; SOS response.
+TMZERO

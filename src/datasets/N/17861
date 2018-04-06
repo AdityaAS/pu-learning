@@ -1,0 +1,29 @@
+AC   Q3U319; Q6ZQ75; Q8BJA1; Q8BY03; Q8CHX4;
+Ubiquitin-protein ligase BRE1B (EC 6.3.2.-) (BRE1-B) (RING finger
+protein 40).
+"Prediction of the coding sequences of mouse homologues of KIAA gene:
+III. The complete nucleotide sequences of 500 mouse KIAA-homologous
+cDNAs identified by screening of terminal sequences of cDNA clones
+randomly sampled from size-fractionated libraries.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: E3 ubiquitin ligase protein that mediates
+    monoubiquitination of 'Lys-120' of histone H2B. H2B 'Lys-120'
+    ubiquitination gives a specific tag for epigenetic transcriptional
+    activation and is also prerequisite for histone H3 'Lys-4' and
+    'Lys-79' methylation. Forms a ubiquitin ligase complex in
+    cooperation with the E2 enzyme UBE2E1/UBCH6. It thereby plays a
+    central role in histone code and gene regulation. Required for
+    transcriptional activation of Hox genes (By similarity).
+-!- PATHWAY: Ubiquitin conjugation; third step.
+-!- SUBUNIT: Homodimer. Component of the RNF20/40 complex at least
+    composed of 2 copies of RNF20/BRE1A, 2 copies of RNF40/BRE1B and
+    UBE2E1/UBCH6. Interacts with RB1 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the BRE1 family.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+Chromatin regulator; Chromosomal protein; Coiled coil; Ligase;
+Metal-binding; Nuclear protein; Ubl conjugation pathway; Zinc;
+Zinc-finger.
+TMZERO

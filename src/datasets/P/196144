@@ -1,0 +1,13 @@
+AC   P48777;
+Purine permease.
+"Genetic and molecular characterization of a gene encoding a wide
+specificity purine permease of Aspergillus nidulans reveals a novel
+family of transporters conserved in prokaryotes and eukaryotes.";
+-!- FUNCTION: Able to transport with low efficiency all natural
+    purines as well as purine analogs.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: Inducible by 2-thiouric acid, and highly repressible by
+    ammonium.
+-!- SIMILARITY: Belongs to the xanthine/uracil permease family.
+Membrane; Transmembrane; Transport.
+TMTWELVE

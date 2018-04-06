@@ -1,0 +1,16 @@
+AC   P05529;
+Protein mcbF.
+"The export of the DNA replication inhibitor Microcin B17 provides
+immunity for the host cell.";
+-!- FUNCTION: Together with two further proteins mcbE and mcbG this
+    protein causes immunity to the peptide antibiotic microcin B17,
+    which inhibits DNA replication in enterobacteriaceae. Immunity is
+    determined by two different mechanisms. McbE is involved in the
+    production of extracellular MccB17 and, in a complex with mcbf it
+    also serves as "pump" for the export of active MccB17 from the
+    cytoplasm to the periplasmic space.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Antibiotic resistance; ATP-binding; Nucleotide-binding; Plasmid;
+Transport.
+TMZERO

@@ -1,0 +1,56 @@
+AC   Q9NXR7; Q13880; Q96P06;
+Protein BRE (Brain and reproductive organ-expressed protein)
+(BRCA1/BRCA2-containing complex subunit 45).
+"Identification of a brain- and reproductive-organs-specific gene
+responsive to DNA damage and retinoic acid.";
+"Expression of human BRE in multiple isoforms.";
+"Regulation of BRCC, a holoenzyme complex containing BRCA1 and BRCA2,
+by a signalosome-like subunit and its role in DNA repair.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"A death receptor-associated anti-apoptotic protein, BRE, inhibits
+mitochondrial apoptotic pathway.";
+-!- FUNCTION: Plays a role in the modulation of E3 ubiquitin ligase
+    activity of the 2-subunit BRCA1/BARD1 complex. May play a role in
+    homeostasis or cellular differentiation in cells of neural,
+    epithelial and germ line origins. Probably functions as a death
+    receptor-associated anti-apoptotic protein, which inhibits the
+    mitochondrial apoptotic pathway. May regulate TNF-alpha signaling
+    through its interactions with TNFRSF1A.
+-!- SUBUNIT: Component of the BRCA1/BRCA2 containing complex (BRCC),
+    which also contains BRCA1, BRCA2, BARD1, BRCC3 and RAD51. BRCC is
+    a ubiquitin E3 ligase complex that enhances cellular survival
+    following DNA damage. Interacts with FAS and TNFRSF1A.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus. Note=Mainly cytoplasmic.
+    Also found in the nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+      Comment=Additional isoforms may exist;
+    Name=1;
+      IsoId=Q9NXR7-1; Sequence=Displayed;
+      Note=No experimental confirmation exists;
+    Name=2;
+      IsoId=Q9NXR7-2; Sequence=VSP_051956;
+    Name=3; Synonyms=Alpha a';
+      IsoId=Q9NXR7-3; Sequence=VSP_051957;
+-!- TISSUE SPECIFICITY: Expressed in all cell lines examined. Highly
+    expressed in placenta.
+-!- INDUCTION: Down-regulated by DNA-damaging agents in fibroblasts,
+    by retinoic acid in brain glioma U-251 and promyelocytic HL-60
+    cell lines, and by LPS in peripheral blood mononuclear cells
+    (PBMC).
+-!- SIMILARITY: Belongs to the BRE family.
+ GO:0005737; C:cytoplasm; IDA:UniProtKB.
+ GO:0000152; C:nuclear ubiquitin ligase complex; IDA:UniProtKB.
+ GO:0005634; C:nucleus; IDA:UniProtKB.
+ GO:0000268; F:peroxisome targeting sequence binding; TAS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0005164; F:tumor necrosis factor receptor binding; IDA:UniProtKB.
+ GO:0045768; P:positive regulation of anti-apoptosis; IDA:UniProtKB.
+ GO:0006974; P:response to DNA damage stimulus; IEP:UniProtKB.
+ GO:0007165; P:signal transduction; TAS:ProtInc.
+Alternative splicing; Apoptosis; DNA damage; Nuclear protein;
+Ubl conjugation pathway.
+TMZERO

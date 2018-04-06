@@ -1,0 +1,21 @@
+AC   P75905;
+Biofilm PGA synthesis N-glycosyltransferase pgaC (EC 2.4.-.-).
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The pgaABCD locus of Escherichia coli promotes the synthesis of a
+polysaccharide adhesin required for biofilm formation.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Required for the synthesis of the beta-1,6-GlcNAc
+    polysaccharide (PGA) that seems to serve as a biofilm adhesin.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: Disruption of the pga operon causes severe and
+    persistent defects in the biofilm formation process.
+-!- SIMILARITY: Belongs to the glycosyltransferase 2 family.
+Complete proteome; Glycosyltransferase; Inner membrane; Membrane;
+Transferase; Transmembrane.
+TMFIVE

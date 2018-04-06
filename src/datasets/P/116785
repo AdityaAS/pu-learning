@@ -1,0 +1,20 @@
+AC   P0AFF2; P33031; P77236;
+Nucleoside permease nupC (Nucleoside-transport system protein nupC).
+"Cloning of the nupC gene of Escherichia coli encoding a nucleoside
+transport system, and identification of an adjacent insertion element,
+IS 186.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Transports nucleosides with a high affinity except
+    guanosine and deoxyguanosine. Driven by a proton motive force.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the SLC28A transporter family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMNINE

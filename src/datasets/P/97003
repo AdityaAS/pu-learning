@@ -1,0 +1,20 @@
+AC   P68186; P07622;
+Maltose transport system permease protein malG.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for maltose; probably responsible for the translocation of the
+    substrate across the membrane.
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (malK), two transmembrane proteins (malG and malF) and a solute-
+    binding protein (malE) (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. MalFG subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMSIX

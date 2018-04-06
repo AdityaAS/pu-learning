@@ -1,0 +1,12 @@
+AC   P55941;
+Gamma crystallin-4 (Gamma crystallin IV) (Gamma-4-CRY) (Fragment).
+"Characterization of Xenopus laevis gamma-crystallin-encoding genes.";
+-!- FUNCTION: Crystallins are the dominant structural components of
+    the vertebrate eye lens.
+-!- SUBUNIT: Monomer (By similarity).
+-!- DOMAIN: Has a two-domain beta-structure, folded into four very
+    similar Greek key motifs.
+-!- SIMILARITY: Belongs to the beta/gamma-crystallin family.
+-!- SIMILARITY: Contains 4 beta/gamma crystallin 'Greek key' domains.
+Eye lens protein; Repeat.
+TMZERO

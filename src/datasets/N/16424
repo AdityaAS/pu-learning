@@ -1,0 +1,21 @@
+AC   Q91V82; Q8R556;
+Beta-defensin 8 precursor (Defensin, beta 8) (BD-8) (mBD-8) (Defensin-
+related peptide) (Defr1).
+"Identification and characterisation a novel murine beta defensin
+related gene.";
+"Cloning and characterization of mBD-7 and mBD-8, two novel mouse
+beta-defensins.";
+"Structure determination of human and murine beta-defensins reveals
+structural conservation in the absence of significant sequence
+similarity.";
+-!- FUNCTION: A synthetic peptide displays antimicrobial activities
+    against S.aureus, P.aeruginosa, E.coli and B.cepacia. The
+    antimicrobial activity against S.aureus, E.coli and B.cepacia is
+    reduced in raised concentration of NaCl, but its action against
+    P.aeruginosa is independent of NaCl concentration.
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- TISSUE SPECIFICITY: Most highly expressed in testis and heart.
+-!- SIMILARITY: Belongs to the beta-defensin family.
+ GO:0042742; P:defense response to bacterium; IDA:MGI.
+3D-structure; Antibiotic; Antimicrobial; Defensin; Signal.
+TMZERO

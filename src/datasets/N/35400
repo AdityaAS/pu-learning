@@ -1,0 +1,18 @@
+AC   P28881; Q9UB25;
+Omega-conotoxin SVIB precursor (SNX-183).
+"Conopeptides from Conus striatus and Conus textile by cDNA cloning.";
+"Novel alpha- and omega-conotoxins from Conus striatus venom.";
+"A consensus structure for omega-conotoxins with different
+selectivities for voltage-sensitive calcium channel subtypes:
+comparison of MVIIA, SVIB and SNX-202.";
+-!- FUNCTION: Omega-conotoxins act at presynaptic membranes, they bind
+    and block voltage-sensitive calcium channels (VSCC). This toxin
+    blocks N-, P- and Q-type calcium channels.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom duct.
+-!- SIMILARITY: Belongs to the conotoxin O superfamily. Omega-type
+    family.
+3D-structure; Amidation; Calcium channel inhibitor;
+Direct protein sequencing; Ionic channel inhibitor; Neurotoxin;
+Presynaptic neurotoxin; Signal; Toxin.
+TMZERO

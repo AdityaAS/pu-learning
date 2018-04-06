@@ -1,0 +1,37 @@
+AC   P15822; Q14122;
+Zinc finger protein 40 (Human immunodeficiency virus type I enhancer-
+binding protein 1) (HIV-EP1) (Major histocompatibility complex-binding
+protein 1) (MBP-1) (Positive regulatory domain II-binding factor 1)
+(PRDII-BF1).
+"A DNA-binding protein containing two widely separated zinc finger
+motifs that recognize the same DNA sequence.";
+"A large protein containing zinc finger domains binds to related
+sequence elements in the enhancers of the class I major
+histocompatibility complex and kappa immunoglobulin genes.";
+"Large-scale characterization of HeLa cell nuclear phosphoproteins.";
+"High-resolution three-dimensional structure of a single zinc finger
+from a human enhancer binding protein in solution.";
+"High-resolution solution structure of the double Cys2His2 zinc finger
+from the human enhancer binding protein MBP-1.";
+-!- FUNCTION: This protein specifically binds to the DNA sequence 5'-
+    GGGACTTTCC-3' which is found in the enhancer elements of numerous
+    viral promoters such as those of SV40, CMV, or HIV1. In addition,
+    related sequences are found in the enhancer elements of a number
+    of cellular promoters, including those of the class I MHC,
+    interleukin-2 receptor, and interferon-beta genes. It may act in
+    T-cell activation.
+-!- INTERACTION:
+    P54253:ATXN1; NbExp=1; IntAct=EBI-722264, EBI-930964;
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- INDUCTION: By mitogens and phorbol ester.
+-!- DOMAIN: Contains two sets of 2 zinc-fingers, which are widely
+    separated and recognize the same DNA sequence. There is a fifth
+    zinc-finger in-between.
+-!- SIMILARITY: Contains 5 C2H2-type zinc fingers.
+ GO:0005634; C:nucleus; TAS:ProtInc.
+ GO:0003677; F:DNA binding; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; DNA-binding; Metal-binding; Nuclear protein;
+Phosphorylation; Repeat; Transcription; Transcription regulation;
+Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,16 @@
+AC   Q09417; O62341;
+Hypothetical WD repeat protein R06F6.8.
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=b;
+      IsoId=Q09417-1; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=a;
+      IsoId=Q09417-2; Sequence=VSP_012311;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Contains 2 WD repeats.
+Alternative splicing; Complete proteome; Hypothetical protein; Repeat;
+WD repeat.
+TMZERO

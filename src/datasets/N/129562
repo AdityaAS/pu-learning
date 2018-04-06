@@ -1,0 +1,24 @@
+AC   Q9QZ67;
+Protein phosphatase 2C isoform delta (EC 3.1.3.16) (PP2C-delta) (p53-
+induced protein phosphatase 1) (Protein phosphatase magnesium-
+dependent 1 delta).
+"The structure and expression of the murine wildtype p53-induced
+phosphatase 1 (Wip1) gene.";
+-!- FUNCTION: Required for the relief of p53-dependent checkpoint
+    mediated cell cycle arrest. Binds to and dephosphorylates 'Ser-18'
+    of TP53 and 'Ser-345' of CHEK1 which contributes to the functional
+    inactivation of these proteins (By similarity).
+-!- CATALYTIC ACTIVITY: A phosphoprotein + H(2)O = a protein +
+    phosphate.
+-!- COFACTOR: Binds 2 magnesium or manganese ions per subunit (By
+    similarity).
+-!- SUBUNIT: Interacts with CHEK1 (By similarity).
+-!- TISSUE SPECIFICITY: Ubiquitously expressed.
+-!- INDUCTION: By p53.
+-!- SIMILARITY: Belongs to the PP2C family.
+-!- SIMILARITY: Contains 1 PP2C-like domain.
+ GO:0000086; P:G2/M transition of mitotic cell cycle; IMP:MGI.
+ GO:0009617; P:response to bacterium; IMP:MGI.
+Cell cycle; Hydrolase; Magnesium; Manganese; Metal-binding;
+Protein phosphatase.
+TMZERO

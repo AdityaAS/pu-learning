@@ -1,0 +1,16 @@
+AC   P44502;
+Cystathionine gamma-synthase (EC 2.5.1.48) (CGS) (O-succinylhomoserine
+(thiol)-lyase).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- CATALYTIC ACTIVITY: O-succinyl-L-homoserine + L-cysteine = L-
+    cystathionine + succinate.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-methionine biosynthesis.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the trans-sulfuration enzymes family.
+ GO:0003962; F:cystathionine gamma-synthase activity; IEA:EC.
+Amino-acid biosynthesis; Complete proteome; Methionine biosynthesis;
+Pyridoxal phosphate; Transferase.
+TMZERO

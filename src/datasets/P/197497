@@ -1,0 +1,24 @@
+AC   P0AGC0; P13408; P76727; Q2M7X9;
+Hexose phosphate transport protein.
+"Nucleotide sequence of the uhp region of Escherichia coli.";
+"Structure and function of the uhp genes for the sugar phosphate
+transport system in Escherichia coli and Salmonella typhimurium.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Topology of the Escherichia coli uhpT sugar-phosphate transporter
+analyzed by using TnphoA fusions.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Transport protein for sugar phosphate uptake.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: External glucose-6-phosphate induces the expression of
+    the UHP-region.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. SLC37A
+    family.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,11 @@
+AC   Q8ZPZ1;
+Ribosomal large subunit pseudouridine synthase E (EC 5.4.99.-) (rRNA-
+uridine isomerase E) (rRNA pseudouridylate synthase E).
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Responsible for synthesis of pseudouridine from uracil-
+    2457 in 23S ribosomal RNA (By similarity).
+-!- CATALYTIC ACTIVITY: rRNA uridine = rRNA pseudouridine.
+-!- SIMILARITY: Belongs to the pseudouridine synthase rsuA family.
+Complete proteome; Isomerase; rRNA processing.
+TMZERO

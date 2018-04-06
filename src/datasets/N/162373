@@ -1,0 +1,18 @@
+AC   Q72ER5;
+30S ribosomal protein S15.
+"The genome sequence of the anaerobic, sulfate-reducing bacterium
+Desulfovibrio vulgaris Hildenborough.";
+-!- FUNCTION: One of the primary rRNA binding proteins, it binds
+    directly to 16S rRNA where it helps nucleate assembly of the
+    platform of the 30S subunit by binding and bridging several RNA
+    helices of the 16S rRNA (By similarity).
+-!- FUNCTION: Forms an intersubunit bridge (bridge B4) with the 23S
+    rRNA of the 50S subunit in the ribosome (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Forms a bridge to the
+    50S subunit in the 70S ribosome, contacting the 23S rRNA (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S15P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

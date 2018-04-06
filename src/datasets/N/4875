@@ -1,0 +1,13 @@
+AC   Q43585;
+Floral homeotic protein AGAMOUS (NAG1).
+"Conversion of perianth into reproductive organs by ectopic expression
+of the tobacco floral homeotic gene NAG1.";
+-!- FUNCTION: Probable transcription factor involved in regulating
+    genes that determines stamen and carpel development in wild-type
+    flowers (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Contains 1 K-box domain.
+-!- SIMILARITY: Contains 1 MADS-box domain.
+Activator; DNA-binding; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

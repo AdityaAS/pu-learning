@@ -1,0 +1,47 @@
+AC   Q39140; Q9C7D1; Q9LHI1;
+Transcription factor TGA6 (AtbZIP45).
+"Isolation of TGA6, a new member of the TGA family of bZIP
+transcription factors in Arabidopsis thaliana.";
+"bZIP transcription factors in Arabidopsis.";
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"Structural analysis of Arabidopsis thaliana chromosome 3. II.
+Sequence features of the 4,251,695 bp regions covered by 90 P1, TAC
+and BAC clones.";
+"DNA-binding properties, genomic organization and expression pattern
+of TGA6, a new member of the TGA family of bZIP transcription factors
+in Arabidopsis thaliana.";
+"NPR1 differentially interacts with members of the TGA/OBF family of
+transcription factors that bind an element of the PR-1 gene required
+for induction by salicylic acid.";
+-!- FUNCTION: Transcriptional activator that binds specifically to the
+    DNA sequence 5'-TGACG-3'. Recognizes ocs elements like the as-1
+    motif of the cauliflower mosaic virus 35S promoter. Binding to the
+    as-1-like cis elements mediate auxin- and salicylic acid-inducible
+    transcription. May be involved in the induction of the systemic
+    aquired resistance (SAR) via its interaction with NPR1. Could also
+    bind to the Hex-motif (5'-TGACGTGG-3') another cis-acting element
+    found in plant histone promoters (By similarity).
+-!- SUBUNIT: Binds DNA as a dimer. Interacts with NPR1.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q39140-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q39140-2; Sequence=VSP_009468;
+      Note=May be due to an intron retention. No experimental
+      confirmation available;
+-!- TISSUE SPECIFICITY: Expressed predominantly in roots and flowers.
+-!- DEVELOPMENTAL STAGE: Expressed primarily in roots of young
+    seedlings and later expressed in aging cotyledons, mesophyll cells
+    of hydathodes on leaf margins, vascular tissue and trichomes of
+    senescing rosette leaves. Also detected in young lateral roots and
+    in mature pollen grains.
+-!- SIMILARITY: Belongs to the bZIP family.
+-!- SIMILARITY: Contains 1 bZIP domain.
+-!- CAUTION: Ref.4 sequence differs from that shown due to erroneous
+    gene model prediction.
+Activator; Alternative splicing; Coiled coil; DNA-binding;
+Nuclear protein; Transcription; Transcription regulation.
+TMZERO

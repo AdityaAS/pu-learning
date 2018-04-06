@@ -1,0 +1,13 @@
+AC   P54663;
+Sensor protein degS (EC 2.7.13.3).
+"Cloning and sequencing the degS-degU operon from an alkalophilic
+Bacillus brevis.";
+-!- FUNCTION: Involved in a sensory transduction pathway that affect
+    the production of enzymes that degrade polymeric carbon and
+    nitrogen sources. DegS probably acts as a kinase that
+    phosphorylates degU.
+-!- CATALYTIC ACTIVITY: ATP + protein L-histidine = ADP + protein N-
+    phospho-L-histidine.
+-!- SIMILARITY: Contains 1 histidine kinase domain.
+Kinase; Phosphorylation; Transferase; Two-component regulatory system.
+TMZERO

@@ -1,0 +1,18 @@
+AC   Q324G4;
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (EC 5.4.2.1)
+(Phosphoglyceromutase) (PGAM) (BPG-dependent PGAM) (dPGM).
+"Genome dynamics and diversity of Shigella species, the etiologic
+agents of bacillary dysentery.";
+-!- FUNCTION: Catalyzes the interconversion of 2-phosphoglycerate and
+    3-phosphoglycerate (By similarity).
+-!- CATALYTIC ACTIVITY: 2-phospho-D-glycerate + 2,3-diphosphoglycerate
+    = 3-phospho-D-glycerate + 2,3-diphosphoglycerate.
+-!- CATALYTIC ACTIVITY: 2-phospho-D-glycerate = 3-phospho-D-glycerate.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 3.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the phosphoglycerate mutase family. BPG-
+    dependent PGAM subfamily.
+ GO:0046538; F:2,3-bisphosphoglycerate-dependent phosphogl...; IEA:HAMAP.
+Complete proteome; Glycolysis; Isomerase.
+TMZERO

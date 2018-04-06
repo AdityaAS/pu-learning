@@ -1,0 +1,14 @@
+AC   P32094;
+mRNA capping enzyme (mRNA guanylyltransferase) (EC 2.7.7.50) (GTP--RNA
+guanylyltransferase) (GTase).
+"African swine fever virus guanylyltransferase.";
+"Analysis of the complete nucleotide sequence of African swine fever
+virus.";
+-!- FUNCTION: Catalyzes the second reaction in the mRNA cap formation
+    pathway.
+-!- CATALYTIC ACTIVITY: GTP + (5')pp-Pur-mRNA = diphosphate +
+    G(5')ppp-Pur-mRNA.
+-!- PATHWAY: mRNA cap formation; second step.
+-!- SIMILARITY: Belongs to the viral GTase family.
+mRNA capping; mRNA processing; Nucleotidyltransferase; Transferase.
+TMZERO

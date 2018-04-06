@@ -1,0 +1,19 @@
+AC   Q5HS95;
+50S ribosomal protein L22.
+"Major structural differences and novel potential virulence mechanisms
+from the genomes of multiple Campylobacter species.";
+-!- FUNCTION: This protein binds specifically to 23S rRNA; its binding
+    is stimulated by other ribosomal proteins, e.g., L4, L17, and L20.
+    It is important during the early stages of 50S assembly. It makes
+    multiple contacts with different domains of the 23S rRNA in the
+    assembled 50S subunit and ribosome (By similarity).
+-!- FUNCTION: The globular domain of the protein is located near the
+    polypeptide exit tunnel on the outside of the subunit, while an
+    extended beta-hairpin is found that lines the wall of the exit
+    tunnel in the center of the 70S ribosome (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit.
+-!- SIMILARITY: Belongs to the ribosomal protein L22P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

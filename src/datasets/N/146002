@@ -1,0 +1,25 @@
+AC   Q4R7Q7;
+Ribonucleoside-diphosphate reductase M2 subunit (EC 1.17.4.1)
+(Ribonucleotide reductase small subunit) (Ribonucleotide reductase
+small chain).
+"DNA sequences of macaque genes expressed in brain or testis and its
+evolutionary implications.";
+-!- FUNCTION: Provides the precursors necessary for DNA synthesis.
+    Catalyzes the biosynthesis of deoxyribonucleotides from the
+    corresponding ribonucleotides (By similarity).
+-!- CATALYTIC ACTIVITY: 2'-deoxyribonucleoside diphosphate +
+    thioredoxin disulfide + H(2)O = ribonucleoside diphosphate +
+    thioredoxin.
+-!- COFACTOR: Binds 2 iron ions per subunit (By similarity).
+-!- PATHWAY: Genetic information processing; DNA replication.
+-!- SUBUNIT: Heterodimer of a large (M1) and a small chain (M2).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- MISCELLANEOUS: Two distinct regulatory sites have been defined:
+    the specificity site, which controls substrate specificity, and
+    the activity site which regulates overall catalytic activity. A
+    substrate-binding catalytic site, located on M1, is formed only in
+    the presence of the second subunit M2 (By similarity).
+-!- SIMILARITY: Belongs to the ribonucleoside diphosphate reductase
+    small chain family.
+DNA replication; Iron; Metal-binding; Oxidoreductase; Phosphorylation.
+TMZERO

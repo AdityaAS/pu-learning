@@ -1,0 +1,27 @@
+AC   P56730; Q9UP16;
+Neurotrypsin precursor (EC 3.4.21.-) (Serine protease 12) (Motopsin)
+(Leydin).
+"Cloning and sequencing of the cDNA encoding human neurotrypsin.";
+"Cloning and structural analysis of leydin, a novel human serine
+protease expressed by the Leydig cells of the testis.";
+"Truncating neurotrypsin mutation in autosomal recessive nonsyndromic
+mental retardation.";
+-!- FUNCTION: Plays a role in neuronal plasticity and the proteolytic
+    action may subserve structural reorganizations associated with
+    learning and memory operations (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Brian and Leydig cells of the testis.
+-!- DISEASE: Defects in PRSS12 are a cause of autosomal recessive
+    nonsyndromic mental retardation [MIM:249500]. Mental retardation
+    is a mental disorder characterized by significantly subaverage
+    general intellectual functioning associated with impairments in
+    adaptative behavior and manifested during the developmental
+    period.
+-!- SIMILARITY: Belongs to the peptidase S1 family.
+-!- SIMILARITY: Contains 1 kringle domain.
+-!- SIMILARITY: Contains 1 peptidase S1 domain.
+-!- SIMILARITY: Contains 4 SRCR domains.
+ GO:0008236; F:serine-type peptidase activity; TAS:ProtInc.
+Glycoprotein; Hydrolase; Kringle; Protease; Repeat; Serine protease;
+Signal.
+TMZERO

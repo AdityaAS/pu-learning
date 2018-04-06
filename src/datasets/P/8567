@@ -1,0 +1,23 @@
+AC   O68874; P48838; P75827; Q47159;
+Aquaporin Z.
+"Cloning of the S. flexneri aquaporin-Z coding region.";
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Channel that permits osmotically driven movement of
+    water in both directions. It is involved in the osmoregulation and
+    in the maintenance of cell turgor during volume expansion in
+    rapidly growing cells. It mediates rapid entry or exit of water in
+    response to abrupt changes in osmolarity (By similarity).
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+ GO:0015250; F:water channel activity; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Repeat; Transmembrane;
+Transport.
+TMSIX

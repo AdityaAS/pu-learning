@@ -1,0 +1,26 @@
+AC   P0A334; Q54397;
+Voltage-gated potassium channel.
+"A prokaryotic potassium ion channel with two predicted transmembrane
+segments from Streptomyces lividans.";
+"Proteomics on full-length membrane proteins using mass
+spectrometry.";
+"Single potassium ion seeks open channel for transmembrane travels:
+tales from the KcsA structure.";
+"The structure of the potassium channel: molecular basis of K+
+conduction and selectivity.";
+"Molecular architecture of full-length KcsA: role of cytoplasmic
+domains in ion permeation and activation gating.";
+"Structure of the KcsA channel intracellular gate in the open state.";
+"Energetic optimization of ion conduction rate by the K+ selectivity
+filter.";
+"Chemistry of ion coordination and hydration revealed by a K+ channel-
+Fab complex at 2.0 A resolution.";
+-!- FUNCTION: Acts as a potassium ion channel.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: The amino acids 62-79 are situated in the membrane
+    and are important for channel structure and properties.
+-!- SIMILARITY: Belongs to the potassium channel family.
+3D-structure; Ion transport; Ionic channel; Membrane; Transmembrane;
+Transport; Voltage-gated channel.
+TMTWO

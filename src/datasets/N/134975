@@ -1,0 +1,32 @@
+AC   P79801;
+Presenilin-2 (EC 3.4.23.-) (PS-2) [Contains: Presenilin-2 NTF subunit;
+Presenilin-2 CTF subunit] (Fragment).
+"Cloning of the presenilin 2 cDNA and its distribution in brain of the
+primate, Microcebus murinus: coexpression with betaAPP and Tau
+proteins.";
+-!- FUNCTION: Probable catalytic subunit of the gamma-secretase
+    complex, an endoprotease complex that catalyzes the intramembrane
+    cleavage of integral membrane proteins such as Notch receptors and
+    APP (beta-amyloid precursor protein). Requires the other members
+    of the gamma-secretase complex to have a protease activity. May
+    play a role in intracellular signaling and gene expression or in
+    linking chromatin to the nuclear membrane. May function in the
+    cytoplasmic partitioning of proteins (By similarity).
+-!- SUBUNIT: Homodimer. Component of the gamma-secretase complex, a
+    complex composed of a presenilin homodimer (PSEN1 or PSEN2),
+    nicastrin (NCSTN), APH1 (APH1A or APH1B) and PEN2. Such minimal
+    complex is sufficient for secretase activity, although other
+    components may exist. Interacts with DOCK3. Interacts with
+    HERPUD1, FLNA and FLNB (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (By similarity). Golgi
+    apparatus; Golgi apparatus membrane; multi-pass membrane protein
+    (By similarity).
+-!- DOMAIN: The PAL motif is required for normal active site
+    conformation (By similarity).
+-!- PTM: Phosphorylated on serine residues (By similarity).
+-!- SIMILARITY: Belongs to the peptidase A22A family.
+Endoplasmic reticulum; Golgi apparatus; Hydrolase; Membrane;
+Notch signaling pathway; Parkinsonism; Phosphorylation; Protease;
+Transmembrane.
+TMEIGHT

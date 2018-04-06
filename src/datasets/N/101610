@@ -1,0 +1,54 @@
+AC   P10916; Q16123;
+Myosin regulatory light chain 2, ventricular/cardiac muscle isoform
+(MLC-2) (MLC-2v).
+"Isolation and nucleotide sequence of the cDNA encoding human
+ventricular myosin light chain 2.";
+"Interaction of a conserved peptide domain in recombinant human
+ventricular myosin light chain-2 with myosin heavy chain.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The major protein expression profile and two-dimensional protein
+database of human heart.";
+"Mutations in either the essential or regulatory light chains of
+myosin are associated with a rare myopathy in human heart and skeletal
+muscle.";
+"Identification of two novel mutations in the ventricular regulatory
+myosin light chain gene (MYL2) associated with familial and classical
+forms of hypertrophic cardiomyopathy.";
+"Systematic analysis of the regulatory and essential myosin light
+chain genes: genetic variants and mutations in hypertrophic
+cardiomyopathy.";
+"Hypertrophic cardiomyopathy: distribution of disease genes, spectrum
+of mutations, and implications for a molecular diagnosis strategy.";
+"Identification of the genotypes causing hypertrophic cardiomyopathy
+in northern Sweden.";
+-!- SUBUNIT: Myosin is an hexamer of 2 heavy chains and 4 light
+    chains.
+-!- DISEASE: Defects in MYL2 are the cause of familial hypertrophic
+    cardiomyopathy type 10 (CMH10) [MIM:608758]; also designated FHC
+    or HCM. Familial hypertrophic cardiomyopathy [MIM:192600] is a
+    heart disorder characterized by ventricular hypertrophy, which is
+    usually asymmetric and often involves the interventricular septum.
+    The prevalence of the disease in the general population is 0.2%.
+    FHC is clinically heterogeneous, with inter- and intrafamilial
+    variations ranging from benign to malignant forms with high risk
+    of cardiac failure and sudden cardiac death.
+-!- DISEASE: Defects in MYL2 are the cause of hypertrophic
+    cardiomyopathy with mid-left ventricular chamber type 2 (MVC2)
+    [MIM:608758]. MVC2 is a very rare variant of familial hypertrophic
+    cardiomyopathy, characterized by mid-left ventricular chamber
+    thickening.
+-!- MISCELLANEOUS: This chain binds calcium.
+-!- SIMILARITY: Contains 3 EF-hand domains.
+-!- WEB RESOURCE: NAME=Familial hypertrophic cardiomyopathy mutation
+    database;
+    URL="http://www.angis.org.au/Databases/Heart/heartbreak.html".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=MYL2".
+ GO:0005856; C:cytoskeleton; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:MGI.
+ GO:0008307; F:structural constituent of muscle; TAS:ProtInc.
+ GO:0006942; P:regulation of striated muscle contraction; TAS:ProtInc.
+Calcium; Cardiomyopathy; Direct protein sequencing; Disease mutation;
+Motor protein; Muscle protein; Myosin; Polymorphism; Repeat.
+TMZERO

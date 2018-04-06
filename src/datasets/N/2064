@@ -1,0 +1,13 @@
+AC   Q9SE26;
+Isocitrate lyase (EC 4.1.3.1) (Isocitrase) (Isocitratase) (ICL).
+"Sequence analysis of DcrIcl, an isocitrate lyase gene from the
+tropical orchid, Dendrobium crumenatum.";
+-!- CATALYTIC ACTIVITY: Isocitrate = succinate + glyoxylate.
+-!- PATHWAY: Glyoxylate bypass; first step.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Glyoxysome.
+-!- DEVELOPMENTAL STAGE: Expressed maximally during postgerminative
+    growth.
+-!- SIMILARITY: Belongs to the isocitrate lyase family.
+Glyoxylate bypass; Glyoxysome; Lyase; Tricarboxylic acid cycle.
+TMZERO

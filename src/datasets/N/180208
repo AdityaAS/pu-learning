@@ -1,0 +1,16 @@
+AC   Q30S84;
+Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+(Phenylalanine--tRNA ligase alpha chain) (PheRS).
+"Complete sequence of Thiomicrospira denitrificans ATCC 33889.";
+-!- CATALYTIC ACTIVITY: ATP + L-phenylalanine + tRNA(Phe) = AMP +
+    diphosphate + L-phenylalanyl-tRNA(Phe).
+-!- COFACTOR: Binds 2 magnesium ions per tetramer (By similarity).
+-!- SUBUNIT: Tetramer of two alpha and two beta chains (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family. Phe-tRNA synthetase alpha chain type 1 subfamily.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Magnesium; Metal-binding; Nucleotide-binding; Protein biosynthesis.
+TMZERO

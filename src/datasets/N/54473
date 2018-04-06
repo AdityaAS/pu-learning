@@ -1,0 +1,28 @@
+AC   P33573;
+Fibrinogen alpha-2 chain precursor [Contains: Fibrinopeptide A].
+"cDNA sequence of a second fibrinogen alpha chain in lamprey: an
+archetypal version alignable with full-length beta and gamma chains.";
+-!- FUNCTION: Fibrinogen has a double function: yielding monomers that
+    polymerize into fibrin and acting as a cofactor in platelet
+    aggregation.
+-!- SUBUNIT: Heterohexamer; disulfide linked. Contains 2 sets of 3
+    non-identical chains (alpha, beta and gamma). The 2 heterotrimers
+    are in head to head conformation with the N-termini in a small
+    central domain (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- DOMAIN: A long coiled coil structure formed by 3 polypeptide
+    chains connects the central nodule to the C-terminal domains
+    (distal nodules). The long C-terminal ends of the alpha chains
+    fold back, contributing a fourth strand to the coiled coil
+    structure.
+-!- PTM: Conversion of fibrinogen to fibrin is triggered by thrombin,
+    which cleaves fibrinopeptides A and B from alpha and beta chains,
+    and thus exposes the N-terminal polymerization sites responsible
+    for the formation of the soft clot. The soft clot is converted
+    into the hard clot by factor XIIIA which catalyzes the epsilon-
+    (gamma-glutamyl)lysine cross-linking between gamma chains
+    (stronger) and between alpha chains (weaker) of different
+    monomers.
+-!- SIMILARITY: Contains 1 fibrinogen C-terminal domain.
+Blood coagulation; Coiled coil; Glycoprotein; Repeat; Signal.
+TMZERO

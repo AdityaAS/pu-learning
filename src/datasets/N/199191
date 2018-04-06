@@ -1,0 +1,24 @@
+AC   P17087;
+Urease subunit beta (EC 3.5.1.5) (Urea amidohydrolase subunit beta).
+"Proteus mirabilis urease: nucleotide sequence determination and
+comparison with jack bean urease.";
+"Proteus mirabilis urease: histidine 320 of UreC is essential for urea
+hydrolysis and nickel ion binding within the native enzyme.";
+"Proteus mirabilis urease: transcriptional regulation by UreR.";
+"Proteus mirabilis urease: operon fusion and linker insertion analysis
+of ure gene organization, regulation, and function.";
+-!- CATALYTIC ACTIVITY: Urea + H(2)O = CO(2) + 2 NH(3).
+-!- PATHWAY: Nitrogen metabolism; urea degradation; CO(2) and NH(3)
+    from urea (urease route): single step [final step].
+-!- SUBUNIT: Probable heterotrimer of ureA (gamma), ureB (beta) and
+    ureC (alpha) subunits. Three heterotrimers associate to form the
+    active enzyme. The trimeric urease interacts with an accessory
+    complex composed of ureD, ureF and ureG, which is required for the
+    assembly of the nickel containing metallocenter of ureC. The ureE
+    protein may also play a direct role in nickel transfer to the
+    urease apoprotein.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- INDUCTION: By urea.
+-!- SIMILARITY: Belongs to the urease beta subunit family.
+Hydrolase.
+TMZERO

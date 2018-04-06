@@ -1,0 +1,14 @@
+AC   P0AG79; P06997;
+Sulfate-binding protein precursor (Sulfate starvation-induced protein
+2) (SSI2).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: This protein specifically binds sulfate and is involved
+    in its transmembrane transport (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the prokaryotic sulfate binding protein
+    family.
+Complete proteome; Periplasmic; Signal; Sulfate transport; Transport.
+TMZERO

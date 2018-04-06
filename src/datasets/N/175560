@@ -1,0 +1,13 @@
+AC   Q81VF1; Q6I4F3; Q6KY54;
+Protein sprT-like.
+"The genome sequence of Bacillus anthracis Ames and comparison to
+closely related bacteria.";
+"Bacillus anthracis comparative genomics.";
+"Complete genome sequence of Bacillus anthracis Sterne.";
+-!- COFACTOR: Binds 1 zinc ion (Potential).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the sprT family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Complete proteome; Metal-binding; Zinc.
+TMZERO

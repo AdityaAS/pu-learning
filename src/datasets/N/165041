@@ -1,0 +1,15 @@
+AC   P62703; P12631; P12750; P27576; P55831; Q14727;
+40S ribosomal protein S4, X isoform.
+"The primary structure of rat ribosomal protein S4.";
+"The primary structure of rat ribosomal proteins: the amino acid
+sequences of L27a and L28 and corrections in the sequences of S4 and
+S12.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- MISCELLANEOUS: This isoform is encoded on the X chromosome.
+-!- SIMILARITY: Belongs to the ribosomal protein S4e family.
+-!- SIMILARITY: Contains 1 S4 RNA-binding domain.
+ GO:0005840; C:ribosome; ISS:UniProtKB.
+ GO:0006412; P:protein biosynthesis; ISS:UniProtKB.
+Ribonucleoprotein; Ribosomal protein; RNA-binding; rRNA-binding.
+TMZERO

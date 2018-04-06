@@ -1,0 +1,15 @@
+AC   P83839;
+Vodo peptide M.
+"Primary and 3-D modelled structures of two cyclotides from Viola
+odorata.";
+-!- FUNCTION: Probably participates in a plant defense mechanism.
+-!- PTM: This is a cyclic peptide.
+-!- MASS SPECTROMETRY: MW=3077; METHOD=Electrospray; RANGE=1-29;
+    NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the cyclotide family. Moebius subfamily.
+-!- CAUTION: This peptide is cyclic. The start position was chosen by
+    similarity to Oak1 (kalata B1) for which the DNA sequence is
+    known.
+ GO:0006952; P:defense response; ISS:UniProtKB.
+Direct protein sequencing; Plant defense.
+TMZERO

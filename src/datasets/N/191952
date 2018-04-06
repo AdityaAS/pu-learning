@@ -1,0 +1,47 @@
+AC   Q38HM4; Q8BWC4;
+Ubiquitin ligase TRIM63 (EC 6.3.2.-) (Tripartite motif-containing
+protein 63) (Muscle-specific RING finger protein 1) (MuRF1) (MURF-1)
+(Muscle RING finger protein 1).
+"Muscle-specific RING finger 1 is a bona fide ubiquitin ligase that
+degrades cardiac troponin I.";
+"The transcriptional landscape of the mammalian genome.";
+"Hydrogen peroxide stimulates ubiquitin-conjugating activity and
+expression of genes for specific E2 and E3 proteins in skeletal muscle
+myotubes.";
+"Muscle ring finger protein-1 inhibits PKC-epsilon activation and
+prevents cardiomyocyte hypertrophy.";
+-!- FUNCTION: E3 ubiquitin ligase. Regulates proteasomal degradation
+    of cardiac troponin I/TNNI3 and probably of other sarcomeric-
+    associated proteins. May play a role in striated muscle atrophy
+    and hypertrophy by regulating an anti-hypertrophic PKC-mediated
+    signaling pathway. May regulate the organization of myofibrils
+    through TTN in muscle cells.
+-!- PATHWAY: Ubiquitin conjugation; third step.
+-!- SUBUNIT: Homooligomer and heterooligomer. Interacts with SUMO2,
+    titin/TTN and GMEB1. Interacts with TRIM54 and probably with
+    TRIM55 (By similarity). Interacts with TNNI3. Forms a ternary
+    complex with GNB2L1 and PRKCE.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus. Note=Localizes to the M-
+    and Z-lines in skeletal muscle (By similarity). Colocalizes with
+    TNNI3 in myocytes.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q38HM4-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q38HM4-2; Sequence=VSP_016647, VSP_016648;
+      Note=No experimental confirmation available;
+-!- INDUCTION: By hydrogen peroxide.
+-!- DOMAIN: The RING-type zinc finger mediates interaction with SUMO2
+    and localization to the nucleus (By similarity). Also required for
+    the E3 ubiquitin ligase activity.
+-!- SIMILARITY: Contains 1 B box-type zinc finger.
+-!- SIMILARITY: Contains 1 COS domain.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+ GO:0005515; F:protein binding; IPI:MGI.
+ GO:0004842; F:ubiquitin-protein ligase activity; IDA:MGI.
+ GO:0043161; P:proteasomal ubiquitin-dependent protein cat...; IDA:MGI.
+Alternative splicing; Coiled coil; Ligase; Metal-binding;
+Muscle protein; Nuclear protein; Ubl conjugation pathway; Zinc;
+Zinc-finger.
+TMZERO

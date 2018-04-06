@@ -1,0 +1,16 @@
+AC   O46642;
+Glycoprotein hormones alpha chain precursor (Anterior pituitary
+glycoprotein hormones common subunit alpha) (Follitropin alpha chain)
+(Follicle-stimulating hormone alpha chain) (FSH-alpha) (Lutropin alpha
+chain) (Luteinizing hormone alpha chain) (LSH-alpha) (Thyrotropin
+alpha chain) (Thyroid-stimulating hormone alpha chain) (TSH-alpha).
+"Cloning, sequencing and functional expression of zebra (Equus
+burchelli) LH.";
+-!- SUBUNIT: Heterodimer of a common alpha chain and a unique beta
+    chain which confers biological specificity to thyrotropin,
+    lutropin, follitropin and gonadotropin.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the glycoprotein hormones subunit alpha
+    family.
+Glycoprotein; Hormone; Signal.
+TMZERO

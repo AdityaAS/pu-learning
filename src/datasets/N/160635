@@ -1,0 +1,13 @@
+AC   Q4UKF3;
+Ribosome recycling factor (Ribosome-releasing factor) (RRF).
+"The genome sequence of Rickettsia felis identifies the first putative
+conjugative plasmid in an obligate intracellular parasite.";
+-!- FUNCTION: Responsible for the release of ribosomes from messenger
+    RNA at the termination of protein biosynthesis. May increase the
+    efficiency of translation by recycling ribosomes from one round of
+    translation to another (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the RRF family.
+ GO:0006415; P:translational termination; IEA:HAMAP.
+Complete proteome; Protein biosynthesis.
+TMZERO

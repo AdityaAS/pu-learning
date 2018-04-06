@@ -1,0 +1,22 @@
+AC   P04997; Q31NF0;
+Photosystem Q(B) protein (32 kDa thylakoid membrane protein)
+(Photosystem II protein D1).
+"Expression of a family of psbA genes encoding a photosystem II
+polypeptide in the cyanobacterium Anacystis nidulans R2.";
+"Complete sequence of chromosome 1 of Synechococcus elongatus PCC
+7942.";
+"Different and rapid responses of four cyanobacterial psbA transcripts
+to changes in light intensity.";
+-!- FUNCTION: This is one of the two reaction center proteins of the
+    photosystem II.
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; multi-pass
+    membrane protein.
+-!- MISCELLANEOUS: Herbicides such as atrazine, BNT, diuron or ioxynil
+    bind to Q(B) and blocks the electron transport.
+-!- MISCELLANEOUS: Cyanobacteria are generally known to contain 2 to 3
+    copies of the psbA gene.
+-!- SIMILARITY: Belongs to the reaction center pufL/M/psbA/D family.
+Complete proteome; Electron transport; Herbicide resistance; Iron;
+Membrane; Metal-binding; Photosynthesis; Photosystem II; Thylakoid;
+Transmembrane; Transport.
+TMFIVE

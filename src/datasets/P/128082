@@ -1,0 +1,13 @@
+AC   Q00319;
+Peroxisomal membrane protein PMP47B.
+"The peroxisomal membrane proteins of Candida boidinii: gene isolation
+and expression.";
+-!- FUNCTION: May have transport activity.
+-!- SUBCELLULAR LOCATION: Peroxisome; peroxisomal membrane; multi-pass
+    membrane protein.
+-!- INDUCTION: By oleic acid, methanol or D-alanine.
+-!- DOMAIN: Lacks a typical peroxisomal sorting signal.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+Membrane; Peroxisome; Repeat; Transmembrane; Transport.
+TMSIX

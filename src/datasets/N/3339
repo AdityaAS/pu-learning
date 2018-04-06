@@ -1,0 +1,14 @@
+AC   P53505;
+Actin, cytoplasmic type 5.
+"An amphibian cytoskeletal-type actin gene is expressed exclusively in
+muscle tissue.";
+-!- FUNCTION: Actins are highly conserved proteins that are involved
+    in various types of cell motility and are ubiquitously expressed
+    in all eukaryotic cells.
+-!- SUBUNIT: Polymerization of globular actin (G-actin) leads to a
+    structural filament (F-actin) in the form of a two-stranded helix.
+    Each actin can bind to 4 others.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the actin family.
+ATP-binding; Cytoskeleton; Nucleotide-binding; Structural protein.
+TMZERO

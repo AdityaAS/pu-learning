@@ -1,0 +1,22 @@
+AC   P39944;
+Ubiquitin carboxyl-terminal hydrolase 5 (EC 3.1.2.15) (Ubiquitin
+thioesterase 5) (Ubiquitin-specific-processing protease 5)
+(Deubiquitinating enzyme 5).
+"UBP5 encodes a putative yeast ubiquitin-specific protease that is
+related to the human Tre-2 oncogene product.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: Ubiquitin C-terminal thioester + H(2)O =
+    ubiquitin + a thiol.
+-!- INTERACTION:
+    Q05080:CYK2; NbExp=1; IntAct=EBI-19847, EBI-5412;
+-!- MISCELLANEOUS: Present with 300 molecules/cell.
+-!- SIMILARITY: Belongs to the peptidase C19 family.
+-!- SIMILARITY: Contains 1 rhodanese domain.
+ GO:0005737; C:cytoplasm; IC:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0004843; F:ubiquitin-specific protease activity; TAS:SGD.
+ GO:0016579; P:protein deubiquitination; TAS:SGD.
+Complete proteome; Hydrolase; Protease; Thiol protease;
+Ubl conjugation pathway.
+TMZERO

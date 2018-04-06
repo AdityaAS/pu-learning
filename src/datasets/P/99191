@@ -1,0 +1,28 @@
+AC   Q08179;
+Mitochondrial distribution and morphology protein 38, mitochondrial
+precursor.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Genetic basis of mitochondrial function and morphology in
+Saccharomyces cerevisiae.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"The proteome of Saccharomyces cerevisiae mitochondria.";
+"The LETM1/YOL027 gene family encodes a factor of the mitochondrial K+
+homeostasis with a potential role in the Wolf-Hirschhorn syndrome.";
+-!- FUNCTION: Involved in mitochondrial potassium homeostasis through
+    the mitochondrial K(+)/H(+) exchange regulation.
+-!- INTERACTION:
+    Self; NbExp=1; IntAct=EBI-31553, EBI-31553;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- MISCELLANEOUS: Present with 7390 molecules/cell.
+-!- SIMILARITY: Contains 1 LETM1 domain.
+ GO:0005743; C:mitochondrial inner membrane; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+ GO:0007005; P:mitochondrion organization and biogenesis; IMP:SGD.
+ GO:0030007; P:potassium ion homeostasis; IMP:SGD.
+ GO:0006813; P:potassium ion transport; IMP:SGD.
+ GO:0051204; P:protein insertion into mitochondrial membrane; IMP:SGD.
+Coiled coil; Complete proteome; Inner membrane; Membrane;
+Mitochondrion; Transit peptide; Transmembrane.
+TMONE

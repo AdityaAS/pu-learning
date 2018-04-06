@@ -1,0 +1,55 @@
+AC   P09323;
+PTS system N-acetylglucosamine-specific EIICBA component (EIICBA-Nag)
+(EII-Nag) [Includes: N-acetylglucosamine permease IIC component (PTS
+system N-acetylglucosamine-specific EIIC component); N-
+acetylglucosamine-specific phosphotransferase enzyme IIB component
+(EC 2.7.1.69) (PTS system N-acetylglucosamine-specific EIIB
+component); N-acetylglucosamine-specific phosphotransferase enzyme IIA
+component (EC 2.7.1.-) (PTS system N-acetylglucosamine-specific EIIA
+component)].
+"Nucleotide sequences of the Escherichia coli nagE and nagB genes: the
+structural genes for the N-acetylglucosamine transport protein of the
+bacterial phosphoenolpyruvate: sugar phosphotransferase system and for
+glucosamine-6-phosphate deaminase.";
+"Sequence of cloned enzyme IIN-acetylglucosamine of the
+phosphoenolpyruvate:N-acetylglucosamine phosphotransferase system of
+Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in N-acetylglucosamine
+    transport.
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-1 domain.
+-!- SIMILARITY: Contains 1 PTS EIIC type-1 domain.
+ GO:0016020; C:membrane; NAS:UniProtKB.
+ GO:0016740; F:transferase activity; NAS:UniProtKB.
+ GO:0005215; F:transporter activity; NAS:UniProtKB.
+Complete proteome; Inner membrane; Membrane; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase;
+Transmembrane; Transport.
+TMTWELVE

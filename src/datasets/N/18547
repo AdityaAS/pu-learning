@@ -1,0 +1,65 @@
+AC   P09871; Q9UCU7; Q9UCU8; Q9UCU9; Q9UCV0; Q9UCV1; Q9UCV2; Q9UCV3;
+AC   Q9UCV4; Q9UCV5; Q9UM14;
+Complement C1s subcomponent precursor (EC 3.4.21.42) (C1 esterase)
+[Contains: Complement C1s subcomponent heavy chain; Complement C1s
+subcomponent light chain].
+"Molecular cloning of cDNA for human complement component C1s. The
+complete amino acid sequence.";
+"Complete cDNA sequence of human complement Cls and close physical
+linkage of the homologous genes Cls and Clr.";
+"Human genes for complement components C1r and C1s in a close tail-to-
+tail arrangement.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Two lineages of mannose-binding lectin-associated serine protease
+(MASP) in vertebrates.";
+"Complement genes C1r and C1s feature an intronless serine protease
+domain closely related to haptoglobin.";
+"Human complement component C1s. Partial sequence determination of the
+heavy chain and identification of the peptide bond cleaved during
+activation.";
+"The serine proteinase chain of human complement component C1s.
+Cyanogen bromide cleavage and N-terminal sequences of the fragments.";
+"Chemical and functional characterization of a fragment of C1-s
+containing the epidermal growth factor homology region.";
+"Effect of lactoperoxidase-catalyzed iodination on the Ca(2+)-
+dependent interactions of human C1s. Location of the iodination
+sites.";
+"Identification of the disulfide bonds of human complement C1s.";
+"Structure of the catalytic region of human complement protease C1s:
+study by chemical cross-linking and three-dimensional homology
+modeling.";
+"Molecular basis of a selective C1s deficiency associated with early
+onset multiple autoimmune diseases.";
+"Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+hydrazide chemistry, and mass spectrometry.";
+"Crystal structure of the catalytic domain of human complement c1s: a
+serine protease with a handle.";
+"X-ray structure of the Ca2+-binding interaction domain of C1s.
+Insights into the assembly of the C1 complex of complement.";
+-!- FUNCTION: C1s B chain is a serine protease that combines with C1q
+    and C1s to form C1, the first component of the classical pathway
+    of the complement system. C1r activates C1s so that it can, in
+    turn, activate C2 and C4.
+-!- CATALYTIC ACTIVITY: Cleavage of Arg-|-Ala bond in complement
+    component C4 to form C4a and C4b, and Lys(or Arg)-|-Lys bond in
+    complement component C2 to form C2a and C2b: the 'classical'
+    pathway C3 convertase.
+-!- SUBUNIT: C1 is a calcium-dependent trimolecular complex of C1q,
+    C1r and C1s in the molar ration of 1:2:2. Activated C1s is an
+    disulfide-linked heterodimer of a heavy chain and a light chain.
+-!- DISEASE: Defects in C1S are the cause of selective C1s deficiency
+    [MIM:120580]; that is associated with early onset multiple
+    autoimmune diseases.
+-!- SIMILARITY: Belongs to the peptidase S1 family.
+-!- SIMILARITY: Contains 2 CUB domains.
+-!- SIMILARITY: Contains 1 EGF-like domain.
+-!- SIMILARITY: Contains 1 peptidase S1 domain.
+-!- SIMILARITY: Contains 2 Sushi (CCP/SCR) domains.
+ GO:0003816; F:complement component C1s activity; TAS:ProtInc.
+ GO:0008236; F:serine-type peptidase activity; TAS:ProtInc.
+3D-structure; Calcium; Complement pathway; Direct protein sequencing;
+EGF-like domain; Glycoprotein; Hydrolase; Hydroxylation;
+Immune response; Innate immunity; Metal-binding; Polymorphism;
+Protease; Repeat; Serine protease; Signal; Sushi.
+TMZERO

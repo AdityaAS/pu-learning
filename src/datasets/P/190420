@@ -1,0 +1,53 @@
+AC   P49334; Q36757;
+Mitochondrial import receptor subunit TOM22 (Mitochondrial 22 kDa
+outer membrane protein) (Translocase of outer membrane 22 kDa subunit)
+(Protein MAS17) (Mitochondrial 17 kDa assembly protein).
+"The mitochondrial receptor complex: Mom22 is essential for cell
+viability and directly interacts with preproteins.";
+"Identification of yeast MAS17 encoding the functional counterpart of
+the mitochondrial receptor complex protein MOM22 of Neurospora
+crassa.";
+"The mitochondrial outer membrane protein Mas22p is essential for
+protein import and viability of yeast.";
+"A 43.5 kb segment of yeast chromosome XIV, which contains MFA2, MEP2,
+CAP/SRV2, NAM9, FKB1/FPR1/RBP1, MOM22 and CPT1, predicts an adenosine
+deaminase gene and 14 new open reading frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Preprotein translocase of the outer mitochondrial membrane: molecular
+dissection and assembly of the general import pore complex.";
+"Tom22 is a multifunctional organizer of the mitochondrial preprotein
+translocase.";
+"Multistep assembly of the protein import channel of the mitochondrial
+outer membrane.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Central component of the TOM (translocase of outer
+    membrane) receptor complex responsible for the recognition and
+    translocation of cytosolically synthesized mitochondrial
+    preproteins. Together with TOM20 and TOM70 functions as the
+    transit peptide receptor at the surface of the mitochondrion outer
+    membrane and facilitates the movement of preproteins into the
+    TOM40 translocation pore. Docks TOM20 and TOM70 for interaction
+    with the general TOM40 import pore (GIP) complex. May regulate the
+    TOM machinery organization, stability and channel gating.
+-!- SUBUNIT: Forms part of the TOM (translocase of outer membrane)
+    complex that consists of at least 7 different proteins (TOM5,
+    TOM6, TOM7, TOM20, TOM22, TOM40 and TOM70). Interacts with TOM20
+    and TOM70.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    single-pass type II membrane protein.
+-!- DOMAIN: Its cytoplasmic domain associates with the cytoplasmic
+    domains of TOM20 and TOM70. Its intermembrane space domain
+    provides a trans binding site for presequences and the single
+    membrane anchor is required for a stable interaction between the
+    GIP complex proteins.
+-!- MISCELLANEOUS: Present with 6610 molecules/cell.
+-!- SIMILARITY: Belongs to the Tom22 family.
+ GO:0031307; C:integral to mitochondrial outer membrane; IDA:SGD.
+ GO:0005742; C:mitochondrial outer membrane translocase co...; TAS:SGD.
+ GO:0008565; F:protein transporter activity; TAS:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; IMP:SGD.
+Complete proteome; Direct protein sequencing; Membrane; Mitochondrion;
+Outer membrane; Protein transport; Receptor; Translocation;
+Transmembrane; Transport.
+TMONE

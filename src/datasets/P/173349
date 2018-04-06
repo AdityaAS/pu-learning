@@ -1,0 +1,35 @@
+AC   P14359; Q6B236;
+Protein SNA3.
+"Biosynthesis of inositol in yeast. Primary structure of myo-inositol-
+1-phosphate synthase (EC 5.5.1.4) and functional analysis of its
+structural gene, the INO1 locus.";
+"Sequence analysis of a 40.7 kb segment from the left arm of yeast
+chromosome X reveals 14 known genes and 13 new open reading frames
+including homologues of genes clustered on the right arm of chromosome
+XI.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Sorting of proteins into multivesicular bodies: ubiquitin-dependent
+and -independent targeting.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"A subset of membrane-associated proteins is ubiquitinated in response
+to mutations in the endoplasmic reticulum degradation machinery.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- INTERACTION:
+    P35197:GCS1; NbExp=1; IntAct=EBI-26122, EBI-7475;
+    P39940:RSP5; NbExp=1; IntAct=EBI-26122, EBI-16219;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+    Note=Sorted via late endosomes to the vacuolar lumen in a
+    ubiquitin-independent manner.
+-!- MISCELLANEOUS: Present with 12500 molecules/cell.
+-!- SIMILARITY: Belongs to the UPF0057 (PMP3) family.
+-!- CAUTION: It is uncertain whether Met-1 or Met-13 is the initiator.
+ GO:0016020; C:membrane; IDA:SGD.
+ GO:0000328; C:vacuolar lumen (sensu Fungi); IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Membrane; Transmembrane; Ubl conjugation; Vacuole.
+TMTWO

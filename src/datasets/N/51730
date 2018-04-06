@@ -1,0 +1,44 @@
+AC   P70428; P70395; Q923D6;
+Exostosin-2 (EC 2.4.1.224) (EC 2.4.1.225) (Glucuronosyl-N-
+acetylglucosaminyl-proteoglycan/N-acetylglucosaminyl-proteoglycan 4-
+alpha-N-acetylglucosaminyltransferase) (Multiple exostoses protein 2
+homolog).
+"Isolation and characterization of the murine homolog of the human
+EXT2 multiple exostoses gene.";
+"The structure of the human multiple exostoses 2 gene and
+characterization of homologs in mouse and Caenorhabditis elegans.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The putative tumor suppressors EXT1 and EXT2 form a stable complex
+that accumulates in the Golgi apparatus and catalyzes the synthesis of
+heparan sulfate.";
+-!- FUNCTION: Glycosyltransferase required for the biosynthesis of
+    heparan-sulfate. The EXT1/EXT2 complex possesses substantially
+    higher glycosyltransferase activity than EXT1 or EXT2 alone.
+    Appears to be a tumor suppressor.
+-!- CATALYTIC ACTIVITY: UDP-N-acetyl-D-glucosamine + beta-D-
+    glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-proteoglycan =
+    UDP + N-acetyl-alpha-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-
+    (1->4)-N-acetyl-alpha-D-glucosaminyl-proteoglycan.
+-!- CATALYTIC ACTIVITY: UDP-alpha-D-glucuronate + N-acetyl-alpha-D-
+    glucosaminyl-(1->4)-beta-D-glucuronosyl-proteoglycan = UDP + beta-
+    D-glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-(1->4)-beta-D-
+    glucuronosyl-proteoglycan.
+-!- PATHWAY: Glycosylation.
+-!- SUBUNIT: Interacts with GALNT5 (By similarity). Forms a
+    homo/hetero-oligomeric complex with EXT1.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; single-pass type II membrane protein. Golgi apparatus;
+    Golgi apparatus membrane; single-pass type II membrane protein.
+    Note=The EXT1/EXT2 complex is localized in the Golgi apparatus.
+-!- TISSUE SPECIFICITY: Heart, brain, spleen, lung, liver, skeletal
+    muscle, kidney and testis.
+-!- DEVELOPMENTAL STAGE: Expressed in early stages of embryonic
+    development.
+-!- SIMILARITY: Belongs to the glycosyltransferase 47 family.
+ GO:0030154; P:cell differentiation; IMP:MGI.
+ GO:0015012; P:heparan sulfate proteoglycan biosynthesis; IMP:MGI.
+ GO:0001707; P:mesoderm formation; IMP:MGI.
+Endoplasmic reticulum; Glycoprotein; Glycosyltransferase;
+Golgi apparatus; Membrane; Signal-anchor; Transferase; Transmembrane.
+TMONE

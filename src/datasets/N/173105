@@ -1,0 +1,50 @@
+AC   Q23972; Q9V3T0; Q9VSS8;
+Protein Smaug.
+"Smaug, a novel RNA-binding protein that operates a translational
+switch in Drosophila.";
+"Smaug, a novel and conserved protein, contributes to repression of
+nanos mRNA translation in vitro.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"smaug protein represses translation of unlocalized nanos mRNA in the
+Drosophila embryo.";
+"Overlapping but distinct RNA elements control repression and
+activation of nanos translation.";
+"The RNA-binding SAM domain of Smaug defines a new family of post-
+transcriptional regulators.";
+"Drosophila Cup is an eIF4E-binding protein that functions in Smaug-
+mediated translational repression.";
+"RNA recognition via the SAM domain of Smaug.";
+-!- FUNCTION: Translation regulator that binds to the 3'untranslated
+    region (UTR) of specific mRNAs such as nanos (nos) and prevent
+    their translation. Prevents translation of unlocalized nos in the
+    bulk cytoplasm via the recruitment of cup.
+-!- SUBUNIT: Interacts with oskar (osk). Binds to the 3'UTR of nos.
+    Interacts with cup, which in turn recruits eIF4-E, leading to an
+    indirect interaction between smg and eIF4-E that prevents mRNA
+    translation.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: At syncitial blastoderm, it is located
+    throughout the bulk cytoplasm and pole plasm. By the time of
+    cellularization, it concentrates at the posterior pole.
+-!- DEVELOPMENTAL STAGE: Expressed maternally. The protein accumulates
+    during the first 3 hours after fertilization, and then decreases
+    rapidly.
+-!- DOMAIN: The SAM domain mediates the association with the 3'UTR of
+    specific mRNAs.
+-!- SIMILARITY: Contains 1 SAM (sterile alpha motif) domain.
+-!- CAUTION: Ref.6 sequence differs from that shown due to the absence
+    of a large region from Gly-793 to the end of the coding region
+    that changes the frame.
+ GO:0005737; C:cytoplasm; IDA:UniProtKB.
+ GO:0003730; F:mRNA 3'-UTR binding; TAS:FlyBase.
+ GO:0005515; F:protein binding; TAS:FlyBase.
+ GO:0000900; F:translation repressor activity, nucleic aci...; TAS:FlyBase.
+ GO:0051236; P:establishment of RNA localization; IMP:FlyBase.
+ GO:0016478; P:negative regulation of translation; IDA:UniProtKB.
+3D-structure; Complete proteome; Developmental protein;
+Direct protein sequencing; Repressor; RNA-binding;
+Translation regulation.
+TMZERO

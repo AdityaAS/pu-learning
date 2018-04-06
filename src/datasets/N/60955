@@ -1,0 +1,15 @@
+AC   Q9HNL6;
+Putative O-sialoglycoprotein endopeptidase (EC 3.4.24.57)
+(Glycoprotease).
+"Genome sequence of Halobacterium species NRC-1.";
+-!- FUNCTION: Could be a metalloprotease.
+-!- CATALYTIC ACTIVITY: Hydrolysis of O-sialoglycoproteins; cleaves
+    31-Arg-|-Asp-32 bond in glycophorin A. Does not cleave
+    unglycosylated proteins, desialylated glycoproteins or
+    glycoproteins that are only N-glycosylated.
+-!- COFACTOR: Zinc (Probable).
+-!- SIMILARITY: Belongs to the peptidase M22 family.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+Complete proteome; Hydrolase; Hypothetical protein; Metal-binding;
+Metalloprotease; Protease; Zinc.
+TMZERO

@@ -1,0 +1,16 @@
+AC   Q5WGU2;
+Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94) (NAD(P)H-
+dependent glycerol-3-phosphate dehydrogenase).
+"The complete genome sequence of the alkaliphilic Bacillus clausii
+KSM-K16.";
+-!- CATALYTIC ACTIVITY: sn-glycerol 3-phosphate + NAD(P)(+) =
+    glycerone phosphate + NAD(P)H.
+-!- PATHWAY: Lipid metabolism; glycerophospholid metabolism.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the NAD-dependent glycerol-3-phosphate
+    dehydrogenase family.
+ GO:0047952; F:glycerol-3-phosphate dehydrogenase [NAD(P)+...; IEA:HAMAP.
+ GO:0046167; P:glycerol-3-phosphate biosynthesis; IEA:HAMAP.
+ GO:0008654; P:phospholipid biosynthesis; IEA:HAMAP.
+Complete proteome; NAD; Oxidoreductase; Phospholipid biosynthesis.
+TMZERO

@@ -1,0 +1,18 @@
+AC   P02982;
+Tetracycline resistance protein, class A (TetA(A)).
+"Complete nucleotide sequence of Tn1721: gene organization and a novel
+gene product with features of a chemotaxis protein.";
+"The tetracycline resistance determinants of RP1 and Tn1721:
+nucleotide sequence analysis.";
+-!- FUNCTION: Resistance to tetracycline by an active tetracycline
+    efflux. This is an energy-dependent process that decreases the
+    accumulation of the antibiotic in whole cells. This protein
+    functions as a metal-tetracycline/H(+) antiporter.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. TCR/tet
+    family.
+Antibiotic resistance; Antiport; Hydrogen ion transport;
+Inner membrane; Ion transport; Membrane; Plasmid; Transmembrane;
+Transport; Transposable element.
+TMTWELVE

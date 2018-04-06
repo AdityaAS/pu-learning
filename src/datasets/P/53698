@@ -1,0 +1,32 @@
+AC   P0AAJ3; P24184; P77166;
+Formate dehydrogenase, nitrate-inducible, iron-sulfur subunit (Formate
+dehydrogenase-N subunit beta) (FDH-N subunit beta) (Anaerobic formate
+dehydrogenase iron-sulfur subunit).
+"Nitrate-inducible formate dehydrogenase in Escherichia coli K-12. I.
+Nucleotide sequence of the fdnGHI operon and evidence that opal (UGA)
+encodes selenocysteine.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Molecular basis of proton motive force generation: structure of
+formate dehydrogenase-N.";
+-!- FUNCTION: Formate dehydrogenase allows E.coli to use formate as
+    major electron donor during anaerobic respiration, when nitrate is
+    used as electron acceptor. The beta chain is an electron transfer
+    unit containing 4 cysteine clusters involved in the formation of
+    iron-sulfur centers. Electrons are transferred from the gamma
+    chain to the molybdenum cofactor of the alpha subunit.
+-!- COFACTOR: Binds 4 4Fe-4S clusters per subunit.
+-!- PATHWAY: Anaerobic nitrate respiration.
+-!- SUBUNIT: Trimer of heterotrimers, consisting of subunits alpha,
+    beta and gamma.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- INDUCTION: By nitrate under anaerobic conditions.
+-!- MISCELLANEOUS: The 4Fe-4S clusters from Ref.5 are renumbered in
+    standard order.
+-!- SIMILARITY: Contains 4 4Fe-4S type ferredoxin domains.
+3D-structure; 4Fe-4S; Complete proteome; Electron transport; Iron;
+Iron-sulfur; Membrane; Metal-binding; Transmembrane; Transport.
+TMONE

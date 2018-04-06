@@ -1,0 +1,6 @@
+AC   Q8CBY1;
+Sterile alpha motif domain-containing protein 4A.
+"The transcriptional landscape of the mammalian genome.";
+-!- SIMILARITY: Contains 1 SAM (sterile alpha motif) domain.
+ GO:0019717; C:synaptosome; IDA:MGI.
+TMZERO

@@ -1,0 +1,16 @@
+AC   Q5FQF4;
+Cytochrome c-type biogenesis protein ccmE (Cytochrome c maturation
+protein E) (Heme chaperone ccmE).
+"Complete genome sequence of the acetic acid bacterium Gluconobacter
+oxydans.";
+-!- FUNCTION: Heme chaperone required for the biogenesis of c-type
+    cytochromes. Transiently binds heme delivered by ccmC and
+    transfers the heme to apo-cytochromes in a process facilitated by
+    ccmF and ccmH (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein; periplasmic side (Potential).
+-!- SIMILARITY: Belongs to the ccmE/cycJ family.
+ GO:0017003; P:protein-heme linkage; IEA:HAMAP.
+Complete proteome; Cytochrome c-type biogenesis; Heme; Inner membrane;
+Iron; Membrane; Metal-binding; Signal-anchor; Transmembrane.
+TMONE

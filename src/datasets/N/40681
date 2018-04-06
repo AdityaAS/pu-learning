@@ -1,0 +1,16 @@
+AC   P0A6L1; P00882;
+Deoxyribose-phosphate aldolase (EC 4.1.2.4) (Phosphodeoxyriboaldolase)
+(Deoxyriboaldolase) (DERA).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- CATALYTIC ACTIVITY: 2-deoxy-D-ribose 5-phosphate = D-
+    glyceraldehyde 3-phosphate + acetaldehyde.
+-!- PATHWAY: Metabolic intermediate biosynthesis; 5-phospho-alpha-D-
+    ribose 1-diphosphate biosynthesis; 5-phospho-alpha-D-ribose 1-
+    diphosphate from D-ribose 5-phosphate (route II): step 1.
+-!- SUBUNIT: Monomer and homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the deoC/fbaB aldolase family. DeoC type 2
+    subfamily.
+Complete proteome; Lyase; Schiff base.
+TMZERO

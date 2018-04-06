@@ -1,0 +1,14 @@
+AC   P00267;
+Rubredoxin (Rd).
+"Nonheme iron proteins. IV. Structural studies of Micrococcus
+aerogenes rubredoxin.";
+-!- FUNCTION: Rubredoxin is a small nonheme, iron protein lacking
+    acid-labile sulfide. Its single Fe, chelated to 4 Cys, functions
+    as an electron acceptor and may also stabilize the conformation of
+    the molecule.
+-!- COFACTOR: Binds 1 Fe(3+) ion per subunit.
+-!- SIMILARITY: Belongs to the rubredoxin family.
+-!- SIMILARITY: Contains 1 rubredoxin-like domain.
+Direct protein sequencing; Electron transport; Iron; Metal-binding;
+Transport.
+TMZERO

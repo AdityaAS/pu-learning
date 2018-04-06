@@ -1,0 +1,140 @@
+AC   P03315;
+Structural polyprotein (p130) [Contains: Capsid protein (EC 3.4.21.-)
+(Coat protein) (C); p62 (E3/E2); E3 protein (Spike glycoprotein E3);
+E2 envelope glycoprotein (Spike glycoprotein E2); 6K protein; E1
+envelope glycoprotein (Spike glycoprotein E1)].
+"The capsid protein of Semliki Forest virus has clusters of basic
+amino acids and prolines in its amino-terminal region.";
+"Nucleotide sequence of cDNA coding for Semliki Forest virus membrane
+glycoproteins.";
+"Carboxyl-terminal sequence analysis of the four structural proteins
+of Semliki Forest virus.";
+"An evolutionary tree relating eight alphaviruses, based on amino-
+terminal sequences of their glycoproteins.";
+"Chemical identification of cysteine as palmitoylation site in a
+transmembrane protein (Semliki Forest virus E1).";
+"Processing of the p62 envelope precursor protein of Semliki Forest
+virus.";
+"Mutagenesis of the putative fusion domain of the Semliki Forest virus
+spike protein.";
+"Internally located cleavable signal sequences direct the formation of
+Semliki Forest virus membrane proteins from a polyprotein precursor.";
+"Fate of the 6K membrane protein of Semliki Forest virus during virus
+assembly.";
+"Membrane fusion of Semliki Forest virus involves homotrimers of the
+fusion protein.";
+"The 6-kilodalton membrane protein of Semliki Forest virus is involved
+in the budding process.";
+"A single point mutation controls the cholesterol dependence of
+Semliki Forest virus entry and exit.";
+"Role of the C-terminal tryptophan residue for the structure-function
+of the alphavirus capsid protein.";
+"Glycoproteins form mixed disulphides with oxidoreductases during
+folding in living cells.";
+"Novel mutations that control the sphingolipid and cholesterol
+dependence of the Semliki Forest virus fusion protein.";
+"Furin processing and proteolytic activation of Semliki Forest
+virus.";
+"Structure of Semliki Forest virus core protein.";
+"Cryo-electron microscopy reveals the functional organization of an
+enveloped virus, Semliki Forest virus.";
+"The Fusion glycoprotein shell of Semliki Forest virus: an icosahedral
+assembly primed for fusogenic activation at endosomal pH.";
+"Conformational change and protein-protein interactions of the fusion
+protein of Semliki Forest virus.";
+-!- FUNCTION: Capsid protein possesses a protease activity that
+    results in its autocatalytic cleavage from the nascent structural
+    protein. Following its self-cleavage, the capsid protein
+    transiently associates with ribosomes, and within several minutes
+    the protein binds to viral RNA and rapidly assembles into
+    icosaedric core particles. The resulting nucleocapsid eventually
+    associates with the cytoplasmic domain of E2 at the cell membrane,
+    leading to budding and formation of mature virions. New virions
+    attach to target cells, and after endocytosis their membrane fuses
+    with the target cell membrane. This leads to the release of the
+    nucleocapsid into the cytoplasm, followed by an uncoating event
+    necessary for the genomic RNA to become accessible. The uncoating
+    might be triggered by the interaction of capsid proteins with
+    ribosomes. Binding of ribosomes would release the genomic RNA
+    since the same region is genomic RNA-binding and ribosome-binding.
+-!- FUNCTION: E3 protein's function is unknown.
+-!- FUNCTION: E2 is responsible for viral attachment to target host
+    cell, by binding to the cell receptor. Synthesized as a p62
+    precursor which is processed by furin at the cell membrane just
+    before virion budding, giving rise to E2-E1 heterodimer. The p62-
+    E1 heterodimer is stable, whereas E2-E1 is unstable and dissociate
+    at low pH. p62 is processed at the last step, presumably to avoid
+    E1 fusion activation before its final export to cell surface. E2
+    C-terminus contains a transitory transmembrane that would be
+    disrupted by palmitoylation, resulting in reorientation of the C-
+    terminal tail from lumenal to cytoplasmic side. This step is
+    critical since E2 C-terminus is involved in budding by interacting
+    with capsid proteins. This release of E2 C-terminus in cytoplasm
+    occurs lately in protein export, and precludes premature assembly
+    of particles at the endoplasmic reticulum membrane.
+-!- FUNCTION: 6K is a constitutive membrane protein involved in virus
+    glycoprotein processing, membrane permeabilization, and the
+    budding of viral particles. Present in low amount in virions,
+    about 3% compared to viral glycoproteins. Because of its
+    lipophilic properties, the 6K protein is postulated to influence
+    the selection of lipids that interact with the transmembrane
+    domains of the glycoproteins, which, in turn, affects the
+    deformability of the bilayer required for the extreme curvature
+    that occurs as budding proceeds.
+-!- FUNCTION: E1 is a class II viral fusion protein. Fusion activity
+    is inactive as long as E1 is bound to E2 in mature virion. After
+    virus attachment to target cell and endocytosis, acidification of
+    the endosome would induce dissociation of E1/E2 heterodimer and
+    concomitant trimerization of the E1 subunits. This E1 trimer is
+    fusion active, and promotes release of viral nucleocapsid in
+    cytoplasm after cell and viral membrane fusion. Efficient fusion
+    requires the presence of cholesterol and sphingolipid in the
+    target membrane. Fusion is optimal at levels of about 1 molecule
+    of cholesterol per 2 molecules of phospholipids, and is specific
+    for sterols containing a 3beta-hydroxyl group.
+-!- SUBUNIT: p62 and E1 form a heterodimer shortly after synthesis.
+    Processing of p62 into E2 and E3 results in a heterodimer of E2
+    and E1. Spike at virion surface are constituted of three E2-E1
+    heterodimers. After target cell attachment and endocytosis, E1
+    change conformation to form homotrimers.
+-!- SUBCELLULAR LOCATION: Capsid protein: Cytoplasm. p62: Cell
+    membrane; single-pass type I membrane protein. E2 envelope
+    glycoprotein: Cell membrane; single-pass type I membrane protein.
+    E1 envelope glycoprotein: Cell membrane; single-pass type I
+    membrane protein. 6K protein: Cell membrane; multi-pass membrane
+    protein.
+-!- PTM: Specific enzymatic cleavages in vivo yield mature proteins.
+    Capsid protein is auto-cleaved during polyprotein translation,
+    unmasking p62 signal peptide. The remaining polyprotein is then
+    targeted to the endoplasmic reticulum, where host signal peptidase
+    cleaves it into p62, 6K and E1 proteins. p62 is further processed
+    to mature E3 and E2 by host furin in trans-Golgi vesicle. Protein
+    processing process takes about 30 minutes at physiologic
+    temperatures. The folding of the p62/6K/E1 precursor requires the
+    formation of intrachain disulfide bonds and has been shown to
+    involve a transient covalent interaction between the nascent and
+    newly synthesized heterodimer and the host-cell chaperones,
+    P4HB/PDI and PDIA3/ERp57. The folding pathway also includes non
+    covalent interaction with human CANX/calnexin and
+    CALR/calreticulin.
+-!- PTM: Envelope E1, E2 and E3 proteins are N-glycosylated.
+-!- PTM: E2 is palmitoylated via thioester bonds. These
+    palmitoylations may induce disruption of the C-terminus
+    transmembrane. This would result in the reorientation of E2 c-
+    terminus from lumenal to cytoplasmic side. 6K protein is also
+    palmitoylated with about four covalently bound fatty acids per
+    molecule. E1 is stearoylated.
+-!- MISCELLANEOUS: The mature virion nucleocapsid consists of 240
+    copies of the capsid protein. 80 spike trimers of E1 and E2 are
+    present at the surface of mature virion. They project about 100
+    Angstroms from the outer surface and are located at the local and
+    strict three fold axis of the icosaedral lattice. The
+    glycoproteins splay out to form a protein shell or skirt covering
+    most of the outer surface of the membrane bilayer.
+-!- MISCELLANEOUS: Structural polyprotein is translated from a
+    subgenomic RNA synthesized during togavirus replication.
+-!- SIMILARITY: Contains 1 peptidase S3 domain.
+3D-structure; Capsid protein; Direct protein sequencing; Glycoprotein;
+Hydrolase; Lipoprotein; Membrane; Palmitate; Protease;
+Serine protease; Signal; Transmembrane; Virion protein.
+TMFOUR

@@ -1,0 +1,15 @@
+AC   P55708;
+Putative cysteine synthase (EC 2.5.1.47) (O-acetylserine
+sulfhydrylase) (O-acetylserine (Thiol)-lyase) (CSase).
+"Molecular basis of symbiosis between Rhizobium and legumes.";
+-!- FUNCTION: As it is highly similar to bacterial and plant cysteine
+    synthases, it is possible that it catalyzes a related reaction.
+-!- CATALYTIC ACTIVITY: 3-O-acetyl-L-serine + H(2)S = L-cysteine +
+    acetate.
+-!- COFACTOR: Pyridoxal phosphate.
+-!- SIMILARITY: Belongs to the cysteine synthase/cystathionine beta-
+    synthase family.
+ GO:0004124; F:cysteine synthase activity; IEA:EC.
+Amino-acid biosynthesis; Cysteine biosynthesis; Hypothetical protein;
+Plasmid; Pyridoxal phosphate; Transferase.
+TMZERO

@@ -1,0 +1,14 @@
+AC   P76460;
+Short-chain fatty acids transporter.
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Responsible for the intake of short-chain fatty acids.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

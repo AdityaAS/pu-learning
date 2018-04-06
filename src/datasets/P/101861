@@ -1,0 +1,16 @@
+AC   Q47689;
+Probable S-methylmethionine permease.
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+4.0 - 6.0 min (189,987 - 281,416bp) region.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"S-methylmethionine metabolism in Escherichia coli.";
+-!- FUNCTION: Transporter for the intake of S-methylmethionine.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Amino acid transporter (AAT) (TC 2.A.3.1) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

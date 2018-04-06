@@ -1,0 +1,32 @@
+AC   Q805F3;
+Cathepsin E-A precursor (EC 3.4.23.34).
+"Differential expression of two cathepsin Es during metamorphosis-
+associated remodeling of the larval to adult type epithelium in
+Xenopus stomach.";
+-!- FUNCTION: May have a role in immune function. Probably involved in
+    the processing of antigenic peptides during MHC class II-mediated
+    antigen presentation (By similarity).
+-!- CATALYTIC ACTIVITY: Similar to cathepsin D, but slightly broader
+    specificity.
+-!- SUBUNIT: Homodimer; disulfide-linked.
+-!- SUBCELLULAR LOCATION: Endosome (By similarity). Note=The proenzyme
+    is localized to the endoplasmic reticulum and Golgi apparatus,
+    while the mature enzyme is localized to the endosome (By
+    similarity).
+-!- TISSUE SPECIFICITY: Expressed predominantly in the larval foregut
+    and the anterior and posterior adult stomach.
+-!- DEVELOPMENTAL STAGE: Expression levels are high in surface mucous
+    cells and manicotto gland cells of the foregut epithelium of pro-
+    metamorphic tadpoles. During metamorphosis, expression levels
+    decrease markedly in larval epithelial cells but are high in
+    proliferating adult epithelial primordia. In the adult stomach,
+    expression was strongest in oxynticopeptic cells, but was also
+    detected at a lower level in surface mucose cells.
+-!- PTM: Glycosylated. Contains high mannose-type oligosaccharide.
+-!- SIMILARITY: Belongs to the peptidase A1 family.
+ GO:0005768; C:endosome; ISS:UniProtKB.
+ GO:0004193; F:cathepsin E activity; IDA:UniProtKB.
+ GO:0019886; P:antigen processing and presentation of exog...; ISS:UniProtKB.
+Aspartyl protease; Direct protein sequencing; Glycoprotein; Hydrolase;
+Protease; Signal; Zymogen.
+TMZERO

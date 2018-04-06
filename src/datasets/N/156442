@@ -1,0 +1,15 @@
+AC   P81296;
+Ribonuclease Le2 (EC 3.1.27.1) (RNase Le2).
+"Primary structure of a base non-specific and adenylic acid
+preferential ribonuclease from the fruit bodies of Lentinus edodes.";
+"Purification and characterization of a base non-specific and adenylic
+acid preferring ribonuclease from the fruit bodies of Lentinus
+edodes.";
+-!- FUNCTION: This is a base non-specific and adenylic acid
+    preferential ribonuclease.
+-!- CATALYTIC ACTIVITY: Two-stage endonucleolytic cleavage to
+    nucleoside 3'-phosphates and 3'-phosphooligonucleotides with
+    2',3'-cyclic phosphate intermediates.
+-!- SIMILARITY: Belongs to the RNase T2 family.
+Direct protein sequencing; Endonuclease; Hydrolase; Nuclease.
+TMZERO

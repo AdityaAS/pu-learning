@@ -1,0 +1,19 @@
+AC   Q93PU4;
+Toluene efflux pump membrane transporter ttgH.
+"Three efflux pumps are required to provide efficient tolerance to
+toluene in Pseudomonas putida DOT-T1E.";
+"In vivo and in vitro evidence that TtgV is the specific regulator of
+the TtgGHI multidrug and solvent efflux pump of Pseudomonas putida.";
+-!- FUNCTION: The inner membrane transporter component of an organic
+    solvent efflux pump. Involved in export of a number of organic
+    solvents, including toluene and styrene. This is the most
+    important solvent efflux pump in this strain, although it can
+    export AMP and some antibiotics.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- INDUCTION: Constitutively expressed; the ttgGHI operon is further
+    induced about 4-fold by toluene and styrene but not by
+    antibiotics.
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

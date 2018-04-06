@@ -1,0 +1,15 @@
+AC   O42779;
+Candidapepsin-9 precursor (EC 3.4.23.24) (Aspartate protease 9) (ACP
+9) (Secreted aspartic protease 9).
+"Differential regulation of SAP8 and SAP9, which encode two new
+members of the secreted aspartic proteinase family in Candida
+albicans.";
+-!- CATALYTIC ACTIVITY: Preferential cleavage at the carboxyl of
+    hydrophobic amino acids, but fails to cleave 15-Leu-|-Tyr-16, 16-
+    Tyr-|-Leu-17 and 24-Phe-|-Phe-25 of insulin B chain. Activates
+    trypsinogen, and degrades keratin.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- PTM: O-glycosylated (By similarity).
+-!- SIMILARITY: Belongs to the peptidase A1 family.
+Aspartyl protease; Glycoprotein; Hydrolase; Protease; Signal; Zymogen.
+TMZERO

@@ -1,0 +1,18 @@
+AC   Q7SCL1; Q6MGF0;
+GPI-anchored wall transfer protein 1 (EC 2.3.-.-).
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: Probable acetyltransferase, which acetylates the
+    inositol ring of phosphatidylinositol during biosynthesis of GPI-
+    anchor (By similarity).
+-!- PATHWAY: Glycolipid biosynthesis; glycosylphosphatidylinositol-
+    anchor biosynthesis.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the PIGW family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction.
+Acyltransferase; Cell wall; Endoplasmic reticulum; Glycoprotein;
+GPI-anchor biosynthesis; Membrane; Transferase; Transmembrane.
+TMTHIRTEEN

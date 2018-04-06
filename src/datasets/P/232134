@@ -1,0 +1,17 @@
+AC   Q9EYX5; Q7CQH1;
+Zinc transport protein zntB.
+"ZntB is a novel Zn(2+) transporter in Salmonella enterica serovar
+Typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Membrane topology of the ZntB efflux system of Salmonella enterica
+serovar Typhimurium.";
+-!- FUNCTION: Mediates efflux of zinc ions.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the corA metal ion transporter (MIT)
+    (TC 1.A.35) family.
+ GO:0006829; P:zinc ion transport; IEA:HAMAP.
+Complete proteome; Inner membrane; Ion transport; Membrane;
+Transmembrane; Transport; Zinc.
+TMTWO

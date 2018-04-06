@@ -1,0 +1,24 @@
+AC   P00355; O18816; P79299; P79317; Q29546;
+Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12) (GAPDH).
+"Glyceraldehyde 3-phosphate dehydrogenase from pig muscle.";
+"Sus scrofa glyceraldehyde-3-phosphate dehydrogenase, genomic and cDNA
+sequences.";
+"Structural evidence for a liver-specific glyceraldehyde-3-phosphate
+dehydrogenase.";
+"Evaluation and characterization of a porcine small intestine cDNA
+library.";
+"Isolation and characterization of cDNA clones coding for porcine
+muscle proteins.";
+"Detection of transcripts for retinoic acid receptors, retinol-binding
+protein, and transforming growth factors during rapid trophoblastic
+elongation in the porcine conceptus.";
+-!- CATALYTIC ACTIVITY: D-glyceraldehyde 3-phosphate + phosphate +
+    NAD(+) = 3-phospho-D-glyceroyl phosphate + NADH.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 1.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the glyceraldehyde-3-phosphate
+    dehydrogenase family.
+Direct protein sequencing; Glycolysis; NAD; Oxidoreductase.
+TMZERO

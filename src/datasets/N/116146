@@ -1,0 +1,18 @@
+AC   P40010;
+Nuclear GTP-binding protein NUG1 (Nuclear GTPase 1).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Identification of a 60S preribosomal particle that is closely linked
+to nuclear export.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: GTPase required for 60S ribosomal subunit export to the
+    cytoplasm.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- MISCELLANEOUS: Present with 7130 molecules/cell.
+-!- SIMILARITY: Belongs to the MMR1/HSR1 GTP-binding protein family.
+ GO:0005730; C:nucleolus; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0003924; F:GTPase activity; TAS:SGD.
+ GO:0006364; P:rRNA processing; IMP:SGD.
+Complete proteome; GTP-binding; Nuclear protein; Nucleotide-binding;
+Protein transport; Ribosome biogenesis; Transport.
+TMZERO

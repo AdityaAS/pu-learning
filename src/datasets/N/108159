@@ -1,0 +1,27 @@
+AC   P25323;
+Myosin light chain kinase (EC 2.7.11.18) (MLCK).
+"Characterization and bacterial expression of the Dictyostelium myosin
+light chain kinase cDNA. Identification of an autoinhibitory domain.";
+"Dictyostelium myosin light chain kinase. Purification and
+characterization.";
+-!- FUNCTION: Phosphorylates a specific serine in the N-terminus of a
+    myosin light chain.
+-!- CATALYTIC ACTIVITY: ATP + [myosin light-chain] = ADP + [myosin
+    light-chain] phosphate.
+-!- ENZYME REGULATION: Possesses an autoinhibitory domain.
+    Autophosphorylation appears to increase the enzymatic activity.
+    Does not have a calmodulin-binding domain.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. CaMK
+    subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005737; C:cytoplasm; IDA:DictyBase.
+ GO:0030898; F:actin-dependent ATPase activity; IDA:DictyBase.
+ GO:0004687; F:myosin light chain kinase activity; IDA:DictyBase.
+ GO:0019933; P:cAMP-mediated signaling; IDA:DictyBase.
+ GO:0019934; P:cGMP-mediated signaling; IDA:DictyBase.
+ GO:0000910; P:cytokinesis; IMP:DictyBase.
+ GO:0046777; P:protein amino acid autophosphorylation; IDA:DictyBase.
+ GO:0050920; P:regulation of chemotaxis; IMP:DictyBase.
+ATP-binding; Direct protein sequencing; Kinase; Nucleotide-binding;
+Phosphorylation; Serine/threonine-protein kinase; Transferase.
+TMZERO

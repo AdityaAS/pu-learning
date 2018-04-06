@@ -1,0 +1,24 @@
+AC   P37758; P77696;
+Nitrite extrusion protein 2 (Nitrite facilitator 2).
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nitrate reductases of Escherichia coli: sequence of the second
+nitrate reductase and comparison with that encoded by the narGHJI
+operon.";
+"Nitrate reductases in Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in excretion of nitrite produced by the
+    dissimilatory reduction of nitrate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: Since the transport is controlled by oxygen, five
+    Cys residues in narU may play an important role in sensing redox
+    potential to regulate the facilitator.
+-!- SIMILARITY: Belongs to the narK/nasA transporter family.
+Complete proteome; Inner membrane; Membrane; Nitrate assimilation;
+Transmembrane; Transport.
+TMTWELVE

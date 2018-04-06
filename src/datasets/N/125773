@@ -1,0 +1,21 @@
+AC   P00316;
+Allophycocyanin alpha chain.
+"Molecular cloning and nucleotide sequence of the alpha and beta
+subunits of allophycocyanin from the cyanelle genome of Cyanophora
+paradoxa.";
+"Nucleotide sequence of the cyanelle DNA from Cyanophora paradoxa.";
+"The complete sequence of the cyanelle genome of Cyanophora paradoxa:
+the genetic complexity of a primitive plastid.";
+"Major light-harvesting polypeptides encoded in polycistronic
+transcripts in a eukaryotic alga.";
+-!- FUNCTION: Light-harvesting photosynthetic bile pigment-protein
+    from the phycobiliprotein complex. Allophycocyanin has a maximum
+    absorption at approximately 650 nanometers.
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain.
+-!- SUBCELLULAR LOCATION: Plastid; cyanelle.
+-!- PTM: Contains one covalently linked phycocyanobilin chromophore
+    (By similarity).
+-!- SIMILARITY: Belongs to the phycobiliprotein family.
+Bile pigment; Chromophore; Cyanelle; Electron transport;
+Photosynthesis; Phycobilisome; Plastid; Transport.
+TMZERO

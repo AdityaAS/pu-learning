@@ -1,0 +1,16 @@
+AC   P94304;
+Cell division protease ftsH homolog (EC 3.4.24.-).
+"Diverse genes of alkaliphilic Bacillus firmus OF4 that complement K+-
+uptake-deficient Escherichia coli include an ftsH homologue.";
+-!- FUNCTION: Seems to act as an ATP-dependent zinc metallopeptidase
+    (By similarity).
+-!- COFACTOR: Binds 1 zinc ion (Potential).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: In the N-terminal section; belongs to the AAA ATPase
+    family.
+-!- SIMILARITY: In the C-terminal section; belongs to the peptidase
+    M41 family.
+ATP-binding; Cell cycle; Cell division; Hydrolase; Membrane;
+Metal-binding; Metalloprotease; Nucleotide-binding; Protease;
+Transmembrane; Zinc.
+TMTWO

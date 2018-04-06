@@ -1,0 +1,24 @@
+AC   Q9Z0Z5;
+Solute carrier family 13 member 3 (Sodium-dependent high-affinity
+dicarboxylate transporter 2) (Na(+)/dicarboxylate cotransporter 3)
+(NaDC-3) (rNaDC3).
+"Primary structure and functional characteristics of a mammalian
+sodium-coupled high affinity dicarboxylate transporter.";
+"Molecular and functional analysis of SDCT2, a novel rat sodium-
+dependent dicarboxylate transporter.";
+-!- FUNCTION: High-affinity sodium-dicarboxylate cotransporter that
+    accepts a range of substrates with 4-5 carbon atoms. The
+    stoichiometry is probably 3 Na(+) for 1 divalent succinate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in proximal parts of straight
+    tubules in the kidney. Detected in placenta, in meningeal layers
+    in the brain, and in hepatocytes surrounding the central vein in
+    liver.
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    NADC subfamily.
+ GO:0016021; C:integral to membrane; IDA:RGD.
+ GO:0005310; F:dicarboxylic acid transporter activity; IDA:RGD.
+ GO:0006835; P:dicarboxylic acid transport; IDA:RGD.
+Glycoprotein; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMELEVEN

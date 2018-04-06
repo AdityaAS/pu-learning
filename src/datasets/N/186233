@@ -1,0 +1,14 @@
+AC   Q5PC07;
+L-threonine 3-dehydrogenase (EC 1.1.1.103).
+"Comparison of genome degradation in Paratyphi A and Typhi, human-
+restricted serovars of Salmonella enterica that cause typhoid.";
+-!- CATALYTIC ACTIVITY: L-threonine + NAD(+) = L-2-amino-3-
+    oxobutanoate + NADH.
+-!- COFACTOR: Binds 2 zinc ions per subunit (By similarity).
+-!- PATHWAY: Threonine catabolism; first step.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the zinc-containing alcohol dehydrogenase
+    family.
+Complete proteome; Metal-binding; NAD; Oxidoreductase; Zinc.
+TMZERO

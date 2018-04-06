@@ -1,0 +1,16 @@
+AC   Q9A5B6;
+Histidinol-phosphate aminotransferase 2 (EC 2.6.1.9) (Imidazole
+acetol-phosphate transaminase 2).
+"Complete genome sequence of Caulobacter crescentus.";
+-!- CATALYTIC ACTIVITY: L-histidinol phosphate + 2-oxoglutarate = 3-
+    (imidazol-4-yl)-2-oxopropyl phosphate + L-glutamate.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 7.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the class-II pyridoxal-phosphate-dependent
+    aminotransferase family. Histidinol-phosphate aminotransferase
+    subfamily.
+Amino-acid biosynthesis; Aminotransferase; Complete proteome;
+Histidine biosynthesis; Pyridoxal phosphate; Transferase.
+TMZERO

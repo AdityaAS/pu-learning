@@ -1,0 +1,18 @@
+AC   Q9D7Z3; Q9CY79; Q9JJE2;
+Nucleolar protein 7.
+"Isolation of full-length cDNA clones from mouse brain cDNA library
+made by oligo-capping method.";
+"The transcriptional landscape of the mammalian genome.";
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9D7Z3-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9D7Z3-2; Sequence=VSP_014793;
+      Note=No experimental confirmation available. May be due to
+      intron retention;
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 104.
+Alternative splicing; Nuclear protein.
+TMZERO

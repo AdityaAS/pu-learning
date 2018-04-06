@@ -1,0 +1,13 @@
+AC   Q8ETE9;
+Queuosine biosynthesis protein queC (EC 3.5.-.-).
+"Genome sequence of Oceanobacillus iheyensis isolated from the Iheya
+Ridge and its unexpected adaptive capabilities to extreme
+environments.";
+-!- FUNCTION: Catalyzes the transformation of GTP to 7-cyano-7-
+    deazaguanine (preQ0) (By similarity).
+-!- PATHWAY: Nucleoside biosynthesis; queuosine biosynthesis;
+    queuosine-tRNA from GTP; step 1.
+-!- SIMILARITY: Belongs to the queC family.
+ GO:0008616; P:queuosine biosynthesis; IEA:HAMAP.
+Complete proteome; Hydrolase; Queuosine biosynthesis.
+TMZERO

@@ -1,0 +1,32 @@
+AC   Q9H5Y7; Q495Q0; Q6AW93; Q9HAA8; Q9NT60;
+SLIT and NTRK-like protein 6 precursor.
+"The DNA sequence and analysis of human chromosome 13.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Human SLITRK family genes: genomic organization and expression
+profiling in normal brain and brain tumor tissue.";
+-!- FUNCTION: Suppresses neurite outgrowth (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9H5Y7-1; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=2;
+      IsoId=Q9H5Y7-2; Sequence=VSP_050711, VSP_050712;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: In adult brain, highly expressed in putamen
+    with no expression in cerebral cortex. Expressed in adult and
+    fetal lung and fetal liver. Also expressed at high levels in some
+    brain tumors including medulloblastomas and primitive
+    neuroectodermal tumors.
+-!- SIMILARITY: Belongs to the SLITRK family.
+-!- SIMILARITY: Contains 16 LRR (leucine-rich) repeats.
+-!- CAUTION: Ref.4 (BAB15480) sequence differs from that shown due to
+    frameshifts in positions 468, 489, 501 and 519.
+Alternative splicing; Leucine-rich repeat; Membrane; Polymorphism;
+Repeat; Signal; Transmembrane.
+TMONE

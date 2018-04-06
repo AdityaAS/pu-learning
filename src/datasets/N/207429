@@ -1,0 +1,14 @@
+AC   P39785;
+PBSX phage terminase small subunit.
+"Genetic control of bacterial suicide: regulation of the induction of
+PBSX in Bacillus subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Functions as a terminase.
+-!- SUBUNIT: Dimer of a small and a large subunit (Potential).
+-!- SIMILARITY: To B.subtilis yqaS and B.subtilis phage SPP1 terminase
+    small subunit.
+-!- CAUTION: Ref.2 (CAA84047) sequence differs from that shown due to
+    a frameshift in position 202.
+Complete proteome; DNA packaging.
+TMZERO

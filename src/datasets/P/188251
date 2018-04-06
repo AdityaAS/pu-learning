@@ -1,0 +1,19 @@
+AC   P01543;
+Purothionin A-1 precursor (Purothionin A-I) (Beta-purothionin)
+[Contains: Purothionin A-1; Acidic protein].
+"Complete primary structures of two subunits of purothionin A, a
+lethal protein for brewer's yeast from wheat flour.";
+"The amino acid sequence of purothionin A, a lethal toxic protein to
+brewer's yeast from wheat.";
+"The amino acid sequence of wheat beta-purothionin.";
+"Refinement of purothionins reveals solute particles important for
+lattice formation and toxicity. Part 2: structure of beta-purothionin
+at 1.7-A resolution.";
+-!- FUNCTION: Thionins are small plant proteins which are toxic to
+    animal cells. They seem to exert their toxic effect at the level
+    of the cell membrane. Their precise function is not known.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the plant thionin (TC 1.C.44) family.
+3D-structure; Direct protein sequencing; Plant defense; Plant toxin;
+Signal; Toxin.
+TMZERO

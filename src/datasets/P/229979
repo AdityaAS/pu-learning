@@ -1,0 +1,18 @@
+AC   P54428; O07087;
+UPF0053 protein yrkA.
+"Sequence of the Bacillus subtilis genome region in the vicinity of
+the lev operon reveals two new extracytoplasmic function RNA
+polymerase sigma factors SigV and SigZ.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Systematic sequencing of the 283 kb 210 degrees-232 degrees region of
+the Bacillus subtilis genome containing the skin element and many
+sporulation genes.";
+"Two highly similar multidrug transporters of Bacillus subtilis whose
+expression is differentially regulated.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the UPF0053 family.
+-!- SIMILARITY: Contains 2 CBS domains.
+CBS domain; Complete proteome; Membrane; Repeat; Transmembrane.
+THTHREE

@@ -1,0 +1,14 @@
+AC   Q6KH87;
+Guanylate kinase (EC 2.7.4.8) (GMP kinase).
+"The complete genome and proteome of Mycoplasma mobile.";
+-!- FUNCTION: Essential for recycling GMP and indirectly, cGMP (By
+    similarity).
+-!- CATALYTIC ACTIVITY: ATP + GMP = ADP + GDP.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the guanylate kinase family.
+-!- SIMILARITY: Contains 1 guanylate kinase-like domain.
+ GO:0004385; F:guanylate kinase activity; IEA:HAMAP.
+ GO:0006163; P:purine nucleotide metabolism; IEA:HAMAP.
+ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+Transferase.
+TMZERO

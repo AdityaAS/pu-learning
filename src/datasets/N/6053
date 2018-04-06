@@ -1,0 +1,14 @@
+AC   Q8KB67;
+Alanine racemase (EC 5.1.1.1).
+"The complete genome sequence of Chlorobium tepidum TLS, a
+photosynthetic, anaerobic, green-sulfur bacterium.";
+-!- FUNCTION: Provides the D-alanine required for cell wall
+    biosynthesis (By similarity).
+-!- CATALYTIC ACTIVITY: L-alanine = D-alanine.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SIMILARITY: Belongs to the alanine racemase family.
+ GO:0009252; P:peptidoglycan biosynthesis; IEA:HAMAP.
+Cell shape; Cell wall; Complete proteome; Isomerase;
+Peptidoglycan synthesis; Pyridoxal phosphate.
+TMZERO

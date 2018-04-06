@@ -1,0 +1,83 @@
+AC   P04977; O69258; O70057; Q599G4; Q5EIB9; Q93V22;
+Pertussis toxin subunit 1 precursor (PTX S1) (Islet-activating protein
+S1) (IAP S1) (NAD-dependent ADP-ribosyltransferase) (EC 2.4.2.-).
+"Cloning and sequencing of the pertussis toxin genes: operon structure
+and gene duplication.";
+"Pertussis toxin gene: nucleotide sequence and genetic organization.";
+"A unique sequence of the Bordetella pertussis toxin operon.";
+"Polymorphism in the Bordetella pertussis virulence factors
+P.69/pertactin and pertussis toxin in The Netherlands: temporal trends
+and evidence for vaccine-driven evolution.";
+"Intranasal murine model of Bordetella pertussis infection: II.
+Sequence variation and protection induced by a tricomponent acellular
+vaccine.";
+"Temporal trends in circulating Bordetella pertussis strains in
+Australia.";
+"Bordetella pertussis toxin gene encoding subunit S1.";
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+"Identification of a region in the S1 subunit of pertussis toxin that
+is required for enzymatic activity and that contributes to the
+formation of a neutralizing antigenic determinant.";
+"Identification of an active-site residue in subunit S1 of pertussis
+toxin by photocrosslinking to NAD.";
+"Role of tryptophan 26 in the NAD glycohydrolase reaction of the S-1
+subunit of pertussis toxin.";
+"Further analysis of the sequence of the S1 subunit of pertussis
+toxin.";
+"A proposed mechanism of ADP-ribosylation catalyzed by the pertussis
+toxin S1 subunit.";
+"Synergistic binding of RNA polymerase and BvgA phosphate to the
+pertussis toxin promoter of Bordetella pertussis.";
+"Mutations in the S1 subunit of pertussis toxin that affect
+secretion.";
+"Membrane localization of the S1 subunit of pertussis toxin in
+Bordetella pertussis and implications for pertussis toxin secretion.";
+"DsbA and DsbC are required for secretion of pertussis toxin by
+Bordetella pertussis.";
+"Temporal expression of pertussis toxin and Ptl secretion proteins by
+Bordetella pertussis.";
+"The crystal structure of pertussis toxin.";
+"Crystal structure of the pertussis toxin-ATP complex: a molecular
+sensor.";
+-!- FUNCTION: S1 is an NAD-dependent ADP-ribosyltransferase, which
+    plays a crucial role in the pathogenesis of B.pertussis causing
+    disruption of normal host cellular regulation. It catalyzes the
+    ADP-ribosylation of a cysteine in the alpha subunit of host
+    heterotrimeric G proteins. In the absence of G proteins it also
+    catalyzes the cleavage of NAD(+) into ADP-ribose and nicotinamide.
+    It irreversibly uncouples the G-alpha GTP-binding proteins from
+    their membrane receptors.
+-!- SUBUNIT: Pertussis toxin contains five different chains, S1-S5.
+    They are organized into 2 functional subunits: A, composed of S1
+    (which is toxic) and B, containing S2, S3, S5, and two copies of
+    S4 (B binds to the membrane receptors). Dimers of S2-S4 and S3-S4
+    are held together by S5.
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=The individual chains
+    are secreted by a sec-dependent mechanism into the periplasm.
+    Then, S1 associates with the outer membrane before it joins with
+    the B subunit to form the secretion-competent holotoxin. The type
+    IV secretion system ptl mediates secretion of assembled toxin
+    through the outer membrane.
+-!- INDUCTION: Activated by the two-component regulatory system
+    bvgS/bvgA.
+-!- DOMAIN: The region which spans amino-acids 42-49 is required for
+    enzymatic activity and contributes to the formation of a
+    potentially important antigenic determinant.
+-!- PHARMACEUTICAL: Currently used in vaccines available under the
+    names Daptacel (Sanofi Pasteur), Infanrix (GlaxoSmithKline),
+    Pediarix (GlaxoSmithKline), TriHIBit (Sanofi Pasteur) and Tripedia
+    (Sanofi Pasteur).
+-!- MISCELLANEOUS: Thiol:disulfide oxidoreductases dsbA and dsbB are
+    required for periplasmic toxin assembly, whereas dbsC is important
+    for extracellular toxin secretion.
+-!- MISCELLANEOUS: Experiments with temporal expression of PTX
+    indicate that holotoxin secretion is at a rate of 3
+    molecules/min/cell. Also, more of toxin chains S1, S2 and S3 are
+    produced than secreted; one half of each chain is incorporated
+    into holotoxin.
+-!- SIMILARITY: Belongs to the bacterial exotoxin subunit A family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Glycosyltransferase; NAD; Pharmaceutical; Signal; Toxin; Transferase;
+Virulence; Whooping cough.
+TMZERO

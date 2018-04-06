@@ -1,0 +1,17 @@
+AC   Q7S747;
+Enhancer of polycomb-like protein 1.
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: Component of the NuA4 histone acetyltransferase complex
+    which is involved in transcriptional activation of selected genes
+    principally by acetylation of nucleosomal histone H4 and H2A. The
+    NuA4 complex is also involved in DNA repair. Involved in gene
+    silencing by neighboring heterochromatin, blockage of the
+    silencing spreading along the chromosome, and required for cell
+    cycle progression through G2/M (By similarity).
+-!- SUBUNIT: Component of the NuA4 histone acetyltransferase complex
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the enhancer of polycomb family.
+Cell cycle; DNA damage; DNA repair; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

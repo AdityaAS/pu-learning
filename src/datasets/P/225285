@@ -1,0 +1,10 @@
+AC   P0AGM1; P37622; P76700; Q8X6P3;
+UPF0118 inner membrane protein yhhT.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the UPF0118 (perM) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMEIGHT

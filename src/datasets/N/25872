@@ -1,0 +1,15 @@
+AC   Q9XGX1;
+Chalcone synthase 7 (EC 2.3.1.74) (Naringenin-chalcone synthase 7).
+"Molecular cloning of chalcone synthase genes from sorghum.";
+-!- FUNCTION: The primary product of this enzyme is 4,2',4',6'-
+    tetrahydroxychalcone (also termed naringenin-chalcone or chalcone)
+    which can under specific conditions spontaneously isomerize into
+    naringenin.
+-!- CATALYTIC ACTIVITY: 3 malonyl-CoA + 4-coumaroyl-CoA = 4 CoA +
+    naringenin chalcone + 3 CO(2).
+-!- PATHWAY: Secondary metabolite biosynthesis; flavonoid
+    biosynthesis.
+-!- SIMILARITY: Belongs to the chalcone/stilbene synthases family.
+ GO:0016210; F:naringenin-chalcone synthase activity; IEA:EC.
+Acyltransferase; Flavonoid biosynthesis; Transferase.
+TMZERO

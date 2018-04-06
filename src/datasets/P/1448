@@ -1,0 +1,99 @@
+AC   P33897; Q6GTZ2;
+ATP-binding cassette sub-family D member 1 (Adrenoleukodystrophy
+protein) (ALDP).
+"Putative X-linked adrenoleukodystrophy gene shares unexpected
+homology with ABC transporters.";
+"The DNA sequence of the human X chromosome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Homo- and heterodimerization of peroxisomal ATP-binding cassette
+half-transporters.";
+"Characterization and functional analysis of the nucleotide binding
+fold in human peroxisomal ATP binding cassette transporters.";
+"Adrenoleukodystrophy gene: unexpected homology to a protein involved
+in peroxisome biogenesis.";
+"Human adrenoleukodystrophy protein and related peroxisomal ABC
+transporters interact with the peroxisomal assembly protein PEX19p.";
+"PEX19 binds multiple peroxisomal membrane proteins, is predominantly
+cytoplasmic, and is required for peroxisome membrane synthesis.";
+"Mutations in the adrenoleukodystrophy gene.";
+"ABCD1 mutations and the X-linked adrenoleukodystrophy mutation
+database: role in diagnosis and clinical correlations.";
+"Abnormal messenger RNA expression and a missense mutation in patients
+with X-linked adrenoleukodystrophy.";
+"Missense mutations are frequent in the gene for X-chromosomal
+adrenoleukodystrophy (ALD).";
+"Identification of mutations in the putative ATP-binding domain of the
+adrenoleukodystrophy gene.";
+"Spectrum of mutations in the gene encoding the adrenoleukodystrophy
+protein.";
+"Mutations in the gene for X-linked adrenoleukodystrophy in patients
+with different clinical phenotypes.";
+"Mutational analysis of patients with X-linked adrenoleukodystrophy.";
+"Mutational and protein analysis of patients and heterozygous women
+with X-linked adrenoleukodystrophy.";
+"Identification of mutations in the ALD-gene of 20 families with
+adrenoleukodystrophy/adrenomyeloneuropathy.";
+"First missense mutation (W679R) in exon 10 of the
+adrenoleukodystrophy gene in siblings with adrenomyeloneuropathy.";
+"X-linked adrenomyeloneuropathy associated with 14 novel ALD-gene
+mutations: no correlation between type of mutation and age of onset.";
+"Two novel missense mutations causing adrenoleukodystrophy in Italian
+patients.";
+"Determination of 30 X-linked adrenoleukodystrophy mutations,
+including 15 not previously described.";
+"Detection of mutations in the ALD gene (ABCD1) in seven Italian
+families: description of four novel mutations.";
+"Eight novel ABCD1 gene mutations and three polymorphisms in patients
+with X-linked adrenoleukodystrophy: the first polymorphism causing an
+amino acid exchange.";
+"Characterisation of two mutations in the ABCD1 gene leading to low
+levels of normal ALDP.";
+"Contiguous deletion of the X-linked adrenoleukodystrophy gene (ABCD1)
+and DXS1357E: a novel neonatal phenotype similar to peroxisomal
+biogenesis disorders.";
+"Identification of seven novel mutations in ABCD1 by a DHPLC-based
+assay in Italian patients with X-linked adrenoleukodystrophy.";
+-!- FUNCTION: Probable transporter. The nucleotide-binding fold acts
+    as an ATP-binding subunit with ATPase activity.
+-!- SUBUNIT: Can form homo- and heterodimers with ABCD2/ALDR and
+    ABCD3/PMP70. Dimerization is necessary to form an active
+    transporter. Interacts with PEX19.
+-!- INTERACTION:
+    Self; NbExp=1; IntAct=EBI-81045, EBI-81045;
+    P48410:Abcd1 (xeno); NbExp=1; IntAct=EBI-81045, EBI-81118;
+    P28288:ABCD3; NbExp=1; IntAct=EBI-81045, EBI-80992;
+    P55096:Abcd3 (xeno); NbExp=1; IntAct=EBI-81045, EBI-81160;
+-!- SUBCELLULAR LOCATION: Peroxisome; peroxisomal membrane; multi-pass
+    membrane protein.
+-!- DISEASE: Defects in ABCD1 are the cause of recessive X-linked
+    adrenoleukodystrophy (X-ALD) [MIM:300100]. X-ALD is a rare
+    peroxisomal metabolic disorder that occurs in boys and is
+    characterized by progressive multifocal demyelination of the
+    central nervous system and by adrenocortical insufficiency. It
+    produces mental deterioration, corticospinal tract dysfunction,
+    and cortical blindness. There is laboratory evidence of adrenal
+    cortical dysfunction. Different clinical manifestations exist
+    like: cerebral childhood ALD (CALD), adult cerebral ALD (ACALD),
+    adrenomyeloneuropathy (AMN) and "Addison disease only" (ADO)
+    phenotype.
+-!- DISEASE: Microdeletions in ABCD1 are involved in the contiguous
+    ABCD1/DXS1375E deletion syndrome (CADDS) [MIM:300475]. Patients
+    manifest profound neonatal hypotonia, subsequent failure to
+    thrive, and cholestatic liver disease.
+-!- SIMILARITY: Belongs to the ABC transporter family. ALD subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- WEB RESOURCE: NAME=X-ALD gene mutation database;
+    URL="http://www.x-ald.nl/".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ABCD1".
+ GO:0005779; C:integral to peroxisomal membrane; NAS:UniProtKB.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; NAS:UniProtKB.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+ GO:0005215; F:transporter activity; NAS:UniProtKB.
+ GO:0015919; P:peroxisomal membrane transport; NAS:UniProtKB.
+ GO:0007031; P:peroxisome organization and biogenesis; NAS:UniProtKB.
+ATP-binding; Disease mutation; Glycoprotein; Membrane;
+Nucleotide-binding; Peroxisome; Transmembrane; Transport.
+TMFIVE

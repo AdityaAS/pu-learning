@@ -1,0 +1,18 @@
+AC   P69982; P40298; P42715; Q663J4;
+Yop proteins translocation protein S.
+"A low-Ca2+ response (LCR) secretion (ysc) locus lies within the lcrB
+region of the LCR plasmid in Yersinia pestis.";
+"DNA sequencing and analysis of the low-Ca2+-response plasmid pCD1 of
+Yersinia pestis KIM5.";
+"Structural organization of virulence-associated plasmids of Yersinia
+pestis.";
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: Component of the yop secretion machinery.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the fliQ/mopD/spaQ family.
+Complete proteome; Membrane; Plasmid; Protein transport;
+Transmembrane; Transport; Virulence.
+TMTWO

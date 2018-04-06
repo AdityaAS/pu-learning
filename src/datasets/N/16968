@@ -1,0 +1,14 @@
+AC   P06651;
+Bindin precursor.
+"Sequence of mRNA coding for bindin, a species-specific sea urchin
+sperm protein required for fertilization.";
+-!- FUNCTION: Species-specific sea urchin sperm protein required for
+    adhesion of sperm to the egg surface during fertilization. Bindin
+    coats the acrosomal process after it is externalized by the
+    acrosome reaction. It binds to sulfated, fucose-containing
+    polysaccharides on the vitelline layer receptor proteoglycans
+    which cover the egg plasma membrane.
+-!- SUBCELLULAR LOCATION: Acrosome; acrosomal lumen.
+-!- SIMILARITY: Belongs to the bindin family.
+Cell adhesion; Fertilization; Signal.
+TMZERO

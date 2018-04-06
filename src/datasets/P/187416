@@ -1,0 +1,19 @@
+AC   Q05998; P87335;
+Thiamine transporter.
+"Isolation and characterization of a thiamin transport gene, THI10,
+from Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Global analysis of protein expression in yeast.";
+"A proteomics approach to understanding protein ubiquitination.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Responsible for intake of thiamine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 3120 molecules/cell.
+-!- SIMILARITY: Belongs to the purine-cytosine permease family.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0015234; F:thiamin transporter activity; TAS:SGD.
+ GO:0015888; P:thiamin transport; TAS:SGD.
+Complete proteome; Membrane; Phosphorylation; Transmembrane;
+Transport.
+TMTWELVE

@@ -1,0 +1,12 @@
+AC   P0A205; O54291;
+Curli production assembly/transport component csgG precursor.
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: May be involved in the biogenesis of curli organelles
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Potential).
+Complete proteome; Lipoprotein; Membrane; Palmitate; Signal;
+Transmembrane.
+TMONE

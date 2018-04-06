@@ -1,0 +1,11 @@
+AC   P0AC08; P33134;
+Flagellar biosynthetic protein fliQ.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Required for the assembly of the rivet at the earliest
+    stage of flagellar biosynthesis (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the fliQ/mopD/spaQ family.
+Complete proteome; Flagellum; Inner membrane; Membrane; Transmembrane.
+TMTWO

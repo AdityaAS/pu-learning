@@ -1,0 +1,16 @@
+AC   O75973;
+C1q-related factor precursor (Complement component 1 Q subcomponent-
+like 1).
+"Cloning and characterization of CRF, a novel C1q-related factor,
+expressed in areas of the brain involved in motor function.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed in brainstem.
+-!- SIMILARITY: Contains 1 C1q domain.
+-!- SIMILARITY: Contains 1 collagen-like domain.
+ GO:0007626; P:locomotory behavior; NAS:UniProtKB.
+Collagen; Signal.
+TMZERO

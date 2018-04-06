@@ -1,0 +1,10 @@
+AC   P52223;
+Cytochrome c-type biogenesis protein cycH.
+-!- FUNCTION: Required for the biogenesis of c-type cytochromes.
+    Possible subunit of a heme lyase (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein; periplasmic side (Potential).
+-!- SIMILARITY: Contains 2 TPR repeats.
+Cytochrome c-type biogenesis; Inner membrane; Membrane; Repeat;
+TPR repeat; Transmembrane.
+TMTWO

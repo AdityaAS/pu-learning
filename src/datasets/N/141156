@@ -1,0 +1,14 @@
+AC   Q8Z3H8;
+Ribosome-binding factor A.
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: Associates with free 30S ribosomal subunits (but not
+    with 30S subunits that are part of 70S ribosomes or polysomes).
+    Essential for efficient processing of 16S rRNA. May interact with
+    the 5'-terminal helix region of 16S rRNA (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the rbfA family.
+Complete proteome; rRNA processing.
+TMZERO

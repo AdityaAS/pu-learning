@@ -1,0 +1,17 @@
+AC   P13406;
+Proto-oncogene tyrosine-protein kinase Fyn (EC 2.7.10.2) (p59-Fyn).
+"Structure and expression of fyn genes in Xenopus laevis.";
+-!- FUNCTION: Implicated in the control of cell growth.
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- SUBUNIT: Associates through its SH3 domain, to the p85 subunit of
+    phosphatidylinositol 3-kinase.
+-!- SIMILARITY: Belongs to the Tyr protein kinase family. SRC
+    subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+-!- SIMILARITY: Contains 1 SH2 domain.
+-!- SIMILARITY: Contains 1 SH3 domain.
+ATP-binding; Kinase; Lipoprotein; Myristate; Nucleotide-binding;
+Palmitate; Phosphorylation; Proto-oncogene; SH2 domain; SH3 domain;
+Transferase; Tyrosine-protein kinase.
+TMZERO

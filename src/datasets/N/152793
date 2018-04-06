@@ -1,0 +1,11 @@
+AC   Q9VXX8;
+Probable 60S ribosomal protein L37-A.
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Binds to the 23S rRNA (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L37e family.
+Complete proteome; Metal-binding; Ribonucleoprotein;
+Ribosomal protein; RNA-binding; rRNA-binding; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,12 @@
+AC   P66928; P56430;
+Thioredoxin (TRX).
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+-!- FUNCTION: Participates in various redox reactions through the
+    reversible oxidation of its active center dithiol to a disulfide
+    and catalyzes dithiol-disulfide exchange reactions (By
+    similarity).
+-!- SIMILARITY: Belongs to the thioredoxin family.
+-!- SIMILARITY: Contains 1 thioredoxin domain.
+Complete proteome; Electron transport; Redox-active center; Transport.
+TMZERO

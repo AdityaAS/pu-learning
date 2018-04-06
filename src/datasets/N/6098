@@ -1,0 +1,18 @@
+AC   P54918;
+Alanine racemase (EC 5.1.1.1).
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. I. Sequence features in the 1 Mb
+region from map positions 64% to 92% of the genome.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- FUNCTION: Provides the D-alanine required for cell wall
+    biosynthesis (By similarity).
+-!- CATALYTIC ACTIVITY: L-alanine = D-alanine.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SIMILARITY: Belongs to the alanine racemase family.
+ GO:0009252; P:peptidoglycan biosynthesis; IEA:HAMAP.
+Cell shape; Cell wall; Complete proteome; Isomerase;
+Peptidoglycan synthesis; Pyridoxal phosphate.
+TMZERO

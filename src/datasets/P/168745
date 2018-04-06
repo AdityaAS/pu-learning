@@ -1,0 +1,16 @@
+AC   Q9R155;
+Pendrin (Sodium-independent chloride/iodide transporter) (Solute
+carrier family 26 member 4).
+"Expression pattern of the mouse ortholog of the Pendred's syndrome
+gene (Pds) suggests a key role for pendrin in the inner ear.";
+-!- FUNCTION: Sodium-independent transporter of chloride and iodide.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Throughout the endolymphatic duct and sac, in
+    distinct areas of the utricle and saccule, and in the external
+    sulcus region within the cochlea.
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+-!- SIMILARITY: Contains 1 STAS domain.
+Chloride; Membrane; Transmembrane; Transport.
+TMELEVEN

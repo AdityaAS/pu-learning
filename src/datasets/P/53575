@@ -1,0 +1,33 @@
+AC   P17064;
+Purine-cytosine permease FCY2 (PCP FCY2) (Cytosine/purine transport
+protein FCY2) (Fluorocytosine resistance protein 2).
+"The purine-cytosine permease gene of Saccharomyces cerevisiae:
+primary structure and deduced protein sequence of the FCY2 gene
+product.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Repeated DNA sequences upstream from HIS1 also occur at several other
+co-regulated genes in Saccharomyces cerevisiae.";
+"The immunodetected yeast purine-cytosine permease is not N-linked
+glycosylated, nor are glycosylation sequences required to have a
+functional permease.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: This permease has a broad specificity towards purines,
+    and also transport cytosine and 5-methylcytosine but neither
+    uracil nor thymine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- PTM: Not N-glycosylated.
+-!- MISCELLANEOUS: Present with 23600 molecules/cell.
+-!- SIMILARITY: Belongs to the purine-cytosine permease family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0015212; F:cytidine transporter activity; IDA:SGD.
+ GO:0015392; F:cytosine-purine permease activity; IDA:SGD.
+ GO:0015861; P:cytidine transport; IMP:SGD.
+ GO:0015856; P:cytosine transport; IDA:SGD.
+ GO:0006863; P:purine transport; IDA:SGD.
+Complete proteome; Membrane; Phosphorylation; Transmembrane;
+Transport.
+TMEIGHT

@@ -1,0 +1,25 @@
+AC   P25736; Q2M9P8;
+Endonuclease-1 precursor (EC 3.1.21.1) (Endonuclease I) (Endo I).
+"The periplasmic endonuclease I of Escherichia coli has amino-acid
+sequence homology to the extracellular DNases of Vibrio cholerae and
+Aeromonas hydrophila.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Localization of E. coli endonuclease I.";
+"The deoxyribonuclease of Escherichia coli. II. Purification and
+properties of a ribonucleic acid-inhibitable endonuclease.";
+"The deoxyribonuclease of Escherichia coli. III. Studies on the nature
+of the inhibition of endonuclease by ribonucleic acid.";
+"Location of the endA gene coding for endonuclease I on the physical
+map of the Escherichia coli K-12 chromosome.";
+-!- FUNCTION: Has double-strand break activity.
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+    phosphodinucleotide and 5'-phosphooligonucleotide end-products.
+-!- ENZYME REGULATION: Inhibited by RNA.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the endA/nucM nuclease family.
+ GO:0004530; F:deoxyribonuclease I activity; IEA:EC.
+Complete proteome; Endonuclease; Hydrolase; Nuclease; Periplasmic;
+Signal.
+TMZERO

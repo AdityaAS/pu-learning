@@ -1,0 +1,29 @@
+AC   P37188; P76412;
+Galactitol-specific phosphotransferase enzyme IIB component
+(EC 2.7.1.69) (EIIB-Gat) (PTS system galactitol-specific EIIB
+component).
+"Sequence of the gat operon for galactitol utilization from a wild-
+type strain EC3132 of Escherichia coli.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Small genes/gene-products in Escherichia coli K-12.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in galactitol transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-2 domain.
+Complete proteome; Direct protein sequencing; Galactitol metabolism;
+Phosphorylation; Phosphotransferase system; Sugar transport;
+Transferase; Transport.
+TMZERO

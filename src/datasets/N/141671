@@ -1,0 +1,31 @@
+AC   P51226;
+Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39) (RuBisCO
+large subunit).
+"Complete nucleotide sequence of the Porphyra purpurea chloroplast
+genome.";
+-!- FUNCTION: RuBisCO catalyzes two reactions: the carboxylation of D-
+    ribulose 1,5-bisphosphate, the primary event in carbon dioxide
+    fixation, as well as the oxidative fragmentation of the pentose
+    substrate in the photorespiration process. Both reactions occur
+    simultaneously and in competition at the same active site (By
+    similarity).
+-!- CATALYTIC ACTIVITY: D-ribulose 1,5-bisphosphate + CO(2) + H(2)O =
+    2 3-phospho-D-glycerate.
+-!- CATALYTIC ACTIVITY: D-ribulose 1,5-bisphosphate + O(2) = 3-
+    phospho-D-glycerate + 2-phosphoglycolate.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- SUBUNIT: Heterohexadecamer of 8 large chains and 8 small chains
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- MISCELLANEOUS: The basic functional RuBisCO is composed of a large
+    chain homodimer in a "head-to-tail" conformation. In form I
+    RuBisCO this homodimer is arranged in a barrel-like tetramer with
+    the small subunits forming a tetrameric "cap" on each end of the
+    "barrel" (By similarity).
+-!- SIMILARITY: Belongs to the RuBisCO large chain family. Type I
+    subfamily.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Calvin cycle; Carbon dioxide fixation; Chloroplast; Lyase; Magnesium;
+Metal-binding; Monooxygenase; Oxidoreductase; Photorespiration;
+Photosynthesis; Plastid.
+TMZERO

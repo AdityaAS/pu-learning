@@ -1,0 +1,20 @@
+AC   P37760; P76377;
+dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133) (dTDP-4-keto-L-
+rhamnose reductase) (dTDP-6-deoxy-L-mannose dehydrogenase) (dTDP-L-
+rhamnose synthetase).
+"Structure of the O antigen of Escherichia coli K-12 and the sequence
+of its rfb gene cluster.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- CATALYTIC ACTIVITY: dTDP-6-deoxy-L-mannose + NADP(+) = dTDP-4-
+    dehydro-6-deoxy-L-mannose + NADPH.
+-!- PATHWAY: Carbohydrate biosynthesis; dTDP-L-rhamnose biosynthesis.
+-!- PATHWAY: Context: Lipopolysaccharide O-antigen biosynthesis.
+-!- SIMILARITY: Belongs to the dTDP-4-dehydrorhamnose reductase
+    family.
+Complete proteome; Lipopolysaccharide biosynthesis; NADP;
+Oxidoreductase.
+TMZERO

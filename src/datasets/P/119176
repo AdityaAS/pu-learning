@@ -1,0 +1,24 @@
+AC   Q9BXI2; Q8NFZ2;
+Mitochondrial ornithine transporter 2 (Solute carrier family 25 member
+2).
+"Comparative DNA sequence analysis of mouse and human protocadherin
+gene clusters.";
+"Cloning and characterization of human ORNT2: a second mitochondrial
+ornithine transporter that can rescue a defective ORNT1 in patients
+with the hyperornithinemia-hyperammonemia-homocitrullinuria syndrome,
+a urea cycle disorder.";
+-!- FUNCTION: Ornithine transport across inner mitochondrial membrane,
+    from the cytoplasm to the matrix.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in liver, kidney, pancreas, and
+    cultured fibroblats.
+-!- POLYMORPHISM: Variant Cys-159 has a reduced ornithine transport
+    activity, while variant Gly-181 has an increased activity.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0000064; F:L-ornithine transporter activity; NAS:UniProtKB.
+ GO:0000066; P:mitochondrial ornithine transport; NAS:UniProtKB.
+Inner membrane; Membrane; Mitochondrion; Polymorphism; Repeat;
+Transmembrane; Transport.
+TMSIX

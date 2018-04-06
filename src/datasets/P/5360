@@ -1,0 +1,12 @@
+AC   P30145;
+Sodium/proton-dependent alanine carrier protein.
+"Primary structure of the alanine carrier protein of thermophilic
+bacterium PS3.";
+-!- FUNCTION: Protein responsible for alanine transport. Uses hydrogen
+    and sodium cations as coupling cations for cotransport.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the sodium:alanine (SAF) symporter family.
+Amino-acid transport; Ion transport; Membrane; Sodium;
+Sodium transport; Symport; Transmembrane; Transport.
+TMEIGHT

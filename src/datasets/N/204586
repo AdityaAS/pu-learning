@@ -1,0 +1,16 @@
+AC   P04136;
+Non-structural protein 7 (X3 protein) (9 kDa hydrophobic protein)
+(HP).
+"Enteric coronavirus TGEV: partial sequence of the genomic RNA, its
+organization and expression.";
+"Sequence analysis of the porcine transmissible gastroenteritis
+coronavirus nucleocapsid protein gene.";
+"The 9-kDa hydrophobic protein encoded at the 3' end of the porcine
+transmissible gastroenteritis coronavirus genome is membrane-
+associated.";
+-!- FUNCTION: May function in the formation of membrane-bound
+    replication complexes or in the assembly of the virus.
+-!- SUBCELLULAR LOCATION: Membrane; peripheral membrane protein.
+-!- SIMILARITY: Belongs to the coronaviruses NS7 family.
+Membrane.
+TMZERO

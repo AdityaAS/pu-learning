@@ -1,0 +1,14 @@
+AC   Q5V5Y2;
+Formate--tetrahydrofolate ligase (EC 6.3.4.3) (Formyltetrahydrofolate
+synthetase) (FHS) (FTHFS).
+"Genome sequence of Haloarcula marismortui: a halophilic archaeon from
+the Dead Sea.";
+-!- CATALYTIC ACTIVITY: ATP + formate + tetrahydrofolate = ADP +
+    phosphate + 10-formyltetrahydrofolate.
+-!- PATHWAY: One-carbon metabolism; tetrahydrofolate pathway.
+-!- SIMILARITY: Belongs to the formate--tetrahydrofolate ligase
+    family.
+ GO:0006730; P:one-carbon compound metabolism; IEA:HAMAP.
+ATP-binding; Complete proteome; Ligase; Nucleotide-binding;
+One-carbon metabolism; Plasmid.
+TMZERO

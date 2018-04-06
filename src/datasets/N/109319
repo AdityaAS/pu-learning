@@ -1,0 +1,9 @@
+AC   P0AAL1; P33939;
+Ferredoxin-type protein napF.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Involved in electron transfer (By similarity).
+-!- SIMILARITY: Contains 3 4Fe-4S type ferredoxin domains.
+4Fe-4S; Complete proteome; Electron transport; Iron; Iron-sulfur;
+Metal-binding; Transport.
+TMZERO

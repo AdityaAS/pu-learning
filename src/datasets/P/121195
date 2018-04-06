@@ -1,0 +1,15 @@
+AC   P0A914; P07176;
+Peptidoglycan-associated lipoprotein precursor.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Thought to play a role in bacterial envelope integrity.
+    Very strongly associated with the peptidoglycan (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor (By
+    similarity).
+-!- SIMILARITY: Belongs to the ompA family. Pal subfamily.
+-!- SIMILARITY: Contains 1 OmpA-like domain.
+Complete proteome; Lipoprotein; Membrane; Outer membrane; Palmitate;
+Signal.
+TMZERO

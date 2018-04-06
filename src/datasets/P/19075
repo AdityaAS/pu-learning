@@ -1,0 +1,19 @@
+AC   P20021;
+Probable cadmium-transporting ATPase (EC 3.6.3.3) (Cadmium efflux
+ATPase).
+"Cadmium resistance from Staphylococcus aureus plasmid pI258 cadA gene
+results from a cadmium-efflux ATPase.";
+-!- FUNCTION: This electroneutral antiporter ejects one cadmium ion
+    while accumulating two protons by an energy-dependent efflux
+    mechanism.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Cd(2+)(In) = ADP + phosphate +
+    Cd(2+)(Out).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IB subfamily.
+-!- SIMILARITY: Contains 1 HMA domain.
+ GO:0008551; F:cadmium-exporting ATPase activity; IEA:EC.
+Antiport; ATP-binding; Cadmium; Cadmium resistance; Hydrolase;
+Ion transport; Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Plasmid; Transmembrane; Transport.
+TMSIX

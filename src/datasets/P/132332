@@ -1,0 +1,35 @@
+AC   Q9F7P4;
+Green-light absorbing proteorhodopsin precursor (GPR).
+"Bacterial rhodopsin: evidence for a new type of phototrophy in the
+sea.";
+"Detection of fast light-activated H+ release and M intermediate
+formation from proteorhodopsin.";
+"Proton transfers in the photochemical reaction cycle of
+proteorhodopsin.";
+"Characterization of the photochemical reaction cycle of
+proteorhodopsin.";
+"Spectroscopic and photochemical characterization of a deep ocean
+proteorhodopsin.";
+"Proteorhodopsin is a light-driven proton pump with variable
+vectoriality.";
+"The photochemical reaction cycle of proteorhodopsin at low pH.";
+"Proton transport by proteorhodopsin requires that the retinal Schiff
+base counterion Asp-97 be anionic.";
+"Proteorhodopsin phototrophy in the ocean.";
+"Diversification and spectral tuning in marine proteorhodopsins.";
+-!- FUNCTION: Light-driven proton pump that generates photothrophic
+    energy.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: It presents a fast proton release and an
+    alkaliphilic photocycle, consistent with its marine origin and the
+    near-surface environment where this bacterium was collected.
+    Transport occurs only at pHs above 7 and is unidirectional.
+-!- MISCELLANEOUS: Mutagenesis experiments that removed all the Cys
+    residues of GPR show that at least one of the Cys residues in the
+    protein is probably modified post-translationally.
+-!- SIMILARITY: Belongs to the archaeal/bacterial/fungal opsin family.
+Chromophore; Hydrogen ion transport; Ion transport; Membrane;
+Photoreceptor protein; Receptor; Retinal protein;
+Sensory transduction; Signal; Transmembrane; Transport.
+TMSEVEN

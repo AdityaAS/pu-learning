@@ -1,0 +1,11 @@
+AC   P0A3W1; P05353; P05354; P09777;
+Protein virB4 precursor.
+"Analysis of the complete nucleotide sequence of the Agrobacterium
+tumefaciens virB operon.";
+-!- FUNCTION: A possible function of virB4 might be to provide the
+    energy, via hydrolysis of ATP, for translocation of virulence
+    proteins of the transfer of a T-DNA-protein complex across the
+    agrobacterium membrane.
+-!- SIMILARITY: To A.tumefaciens trbE.
+ATP-binding; Crown gall tumor; Nucleotide-binding; Plasmid; Signal.
+TMZERO

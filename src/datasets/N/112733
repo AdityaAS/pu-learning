@@ -1,0 +1,12 @@
+AC   Q6FWS1;
+Nucleolar GTP-binding protein 2.
+"Genome evolution in yeasts.";
+-!- FUNCTION: GTPase that associates with pre-60S ribosomal subunits
+    in the nucleolus and is required for their nuclear export and
+    maturation (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus (By similarity).
+-!- SIMILARITY: Belongs to the MMR1/HSR1 GTP-binding protein family.
+    NOG2 subfamily.
+Complete proteome; GTP-binding; Nuclear protein; Nucleotide-binding;
+Ribosome biogenesis.
+TMZERO

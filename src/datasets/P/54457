@@ -1,0 +1,25 @@
+AC   P06972; P77372;
+Ferrichrome transport system permease protein fhuB (Ferrichrome uptake
+protein fhuB).
+"Iron hydroxamate transport of Escherichia coli: nucleotide sequence
+of the fhuB gene and identification of the protein.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+2.4-4.1 min (110,917-193,643 bp) region.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the fhuC and fhuD genes involved in iron (III)
+hydroxamate transport: domains in FhuC homologous to ATP-binding
+proteins.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in the high-affinity transport of Fe(3+)-
+    ferrichrome into the E.coli cell.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. FecCD subfamily.
+Complete proteome; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Transmembrane; Transport.
+TMSEVENTEEN

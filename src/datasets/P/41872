@@ -1,0 +1,17 @@
+AC   P28303; Q2M6R0;
+DNA-damage-inducible protein F.
+"E. coli dinF gene.";
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By DNA damage.
+-!- SIMILARITY: Belongs to the multi antimicrobial extrusion (MATE)
+    (TC 2.A.66.1) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMTWELVE

@@ -1,0 +1,38 @@
+AC   O27564;
+Calcium-gated potassium channel mthK.
+"Complete genome sequence of Methanobacterium thermoautotrophicum
+deltaH: functional analysis and comparative genomics.";
+"Crystal structure and mechanism of a calcium-gated potassium
+channel.";
+-!- FUNCTION: Calcium-gated potassium channel.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative initiation; Named isoforms=2;
+    Name=1; Synonyms=Calcium-gated potassium channel;
+      IsoId=O27564-1; Sequence=Displayed;
+    Name=Soluble; Synonyms=RCK domain;
+      IsoId=O27564-2; Sequence=VSP_018901;
+      Note=No experimental confirmation available;
+-!- DOMAIN: The channel is composed of 4 repeated units, each
+    containing a transmembrane pore part and a gating ring part. The
+    gating ring is composed of eight identical RCK (Regulators of K
+    conductance) domains, in an alternating arrangement of one domain
+    from each of the four subunits and four from the intracellular
+    solution. Two protein interfaces between dimers of RCK domains
+    from the pore-forming subunit and from the intracellular solution
+    hold the ring together. One is called the fixed interface and the
+    other the flexible interface. The flexible interface forms a cleft
+    where calcium binds. Upon calcium binding the gating ring
+    undergoes a conformational change that enables it to pull open the
+    inner helices of the pore, allowing ion conduction.
+-!- MISCELLANEOUS: It is not known whether calcium is the
+    physiological ligand.
+-!- MISCELLANEOUS: Inhibited by charybdotoxin (CTX), a protein from
+    scorpion venom.
+-!- SIMILARITY: Contains 1 RCK C-terminal domain.
+-!- SIMILARITY: Contains 1 RCK N-terminal domain.
+3D-structure; Alternative initiation; Calcium; Complete proteome;
+Ion transport; Ionic channel; Membrane; Metal-binding; Potassium;
+Potassium transport; Transmembrane; Transport.
+TMTWO

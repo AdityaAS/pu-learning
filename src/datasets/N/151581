@@ -1,0 +1,13 @@
+AC   Q9KTM4;
+50S ribosomal protein L31 type B.
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+"Comparative genomics of bacterial zinc regulons: enhanced ion
+transport, pathogenesis, and rearrangement of ribosomal proteins.";
+-!- SUBUNIT: Part of the 50S ribosomal subunit (By similarity).
+-!- INDUCTION: May be induced under zinc-limiting conditions; in that
+    case may be repressed by the zinc uptake regulation protein zur.
+-!- SIMILARITY: Belongs to the ribosomal protein L31P family. Type B
+    subfamily.
+Complete proteome; Ribonucleoprotein; Ribosomal protein.
+TMZERO

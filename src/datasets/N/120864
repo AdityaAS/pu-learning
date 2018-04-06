@@ -1,0 +1,10 @@
+AC   Q5XLR0;
+Terminase B protein (PACase B protein) (DNA packaging B protein).
+"Survey of the pac-c1 region in P1-related phages.";
+-!- FUNCTION: Necessary for recognition and cleavage of the phage
+    packaging site (PAC), together with the pacA protein. Both are
+    probably the two major subunits of the phage PACase (By
+    similarity).
+-!- SUBUNIT: Multimer of two distinct subunits (By similarity).
+ATP-binding; DNA-binding; Hydrolase; Nuclease; Nucleotide-binding.
+TMZERO

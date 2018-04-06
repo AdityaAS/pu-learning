@@ -1,0 +1,38 @@
+AC   P42263; Q4VXD5; Q4VXD6; Q9HDA0; Q9HDA1; Q9HDA2;
+Glutamate receptor 3 precursor (GluR-3) (GluR-C) (GluR-K3) (Glutamate
+receptor ionotropic, AMPA 3) (AMPA-selective glutamate receptor 3).
+"Human glutamate receptor hGluR3 flip and flop isoforms: cloning and
+sequencing of the cDNAs and primary structure of the proteins.";
+"Candidate gene analysis in Rett syndrome and the identification of 21
+SNPs in Xq.";
+"The DNA sequence of the human X chromosome.";
+-!- FUNCTION: Receptor for glutamate. L-glutamate acts as an
+    excitatory neurotransmitter at many synapses in the central
+    nervous system. The postsynaptic actions of Glu are mediated by a
+    variety of receptors that are named according to their selective
+    agonists. This receptor binds AMPA(quisqualate) > glutamate >
+    kainate.
+-!- SUBUNIT: Interacts with PRKCABP, GRIP1 and GRIP2 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Flop;
+      IsoId=P42263-1; Sequence=Displayed;
+    Name=Flip;
+      IsoId=P42263-2; Sequence=VSP_000115, VSP_000116, VSP_000117,
+                               VSP_000118;
+-!- PTM: Palmitoylated. Depalmitoylated upon glutamate stimulation.
+    Cys-621 palmitoylation leads to Golgi retention and decreased cell
+    surface expression. In contrast, Cys-847 palmitoylation does not
+    affect cell surface expression but regulates stimulation-dependent
+    endocytosis (By similarity).
+-!- SIMILARITY: Belongs to the glutamate-gated ion channel (TC 1.A.10)
+    family.
+-!- CAUTION: It is uncertain whether Met-1 or Met-7 is the initiator.
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0007215; P:glutamate signaling pathway; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Alternative splicing; Glycoprotein; Ion transport; Ionic channel;
+Lipoprotein; Membrane; Palmitate; Polymorphism; Postsynaptic membrane;
+Receptor; Signal; Transmembrane; Transport.
+TMFOUR

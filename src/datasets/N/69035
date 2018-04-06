@@ -1,0 +1,26 @@
+AC   P54937;
+Endoglucanase A precursor (EC 3.2.1.4) (Endo-1,4-beta-glucanase A)
+(Cellulase A).
+"Cloning of an endo-(1-->4)-beta-glucanase gene, celA, from the rumen
+bacterium Clostridium sp. ('C. longisporum') and characterization of
+its product, CelA, in Escherichia coli.";
+-!- FUNCTION: Hydrolyzes barley beta-glucan, lichenan,
+    carboxymethylcellulose and xylan. It shows preferential activity
+    against the larger cellooligosaccharides (cellohexaose and
+    cellopentaose); cellotetraose is the smallest substrate degraded
+    completely.
+-!- CATALYTIC ACTIVITY: Endohydrolysis of 1,4-beta-D-glucosidic
+    linkages in cellulose, lichenin and cereal beta-D-glucans.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 4.8;
+    Temperature dependence:
+      Optimum temperature is 43 degrees Celsius;
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+    family.
+-!- SIMILARITY: Contains 1 CBM2 (carbohydrate binding type-2) domain.
+ GO:0008810; F:cellulase activity; IEA:EC.
+Carbohydrate metabolism; Cellulose degradation;
+Direct protein sequencing; Glycosidase; Hydrolase;
+Polysaccharide degradation; Signal.
+TMZERO

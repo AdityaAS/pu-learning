@@ -1,0 +1,17 @@
+AC   Q5E9F7; Q3SZ74;
+Cofilin-1 (Cofilin, non-muscle isoform).
+"Characterization of 954 bovine full-CDS cDNA sequences.";
+-!- FUNCTION: Controls reversibly actin polymerization and
+    depolymerization in a pH-sensitive manner. It has the ability to
+    bind G- and F-actin in a 1:1 ratio of cofilin to actin. It is the
+    major component of intranuclear and cytoplasmic actin rods (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Cytoplasm (By
+    similarity).
+-!- PTM: The phosphorylation of Ser-23 may prevent recognition of the
+    nuclear localization signal (By similarity).
+-!- SIMILARITY: Belongs to the actin-binding proteins ADF family.
+-!- SIMILARITY: Contains 1 ADF-H domain.
+Acetylation; Actin-binding; Cytoskeleton; Nuclear protein;
+Phosphorylation.
+TMZERO

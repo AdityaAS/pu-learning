@@ -1,0 +1,14 @@
+AC   Q87KV8;
+Cell volume regulation protein A homolog.
+"Genome sequence of Vibrio parahaemolyticus: a pathogenic mechanism
+distinct from that of V. cholerae.";
+-!- FUNCTION: Participates in control of cell volume in low-osmolarity
+    conditions (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the Na(+)/H(+) exchanger (TC 2.A.36.5.1)
+    family. CvrA subfamily.
+-!- SIMILARITY: Contains 1 RCK C-terminal domain.
+ GO:0006884; P:regulation of cell volume; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMELEVEN

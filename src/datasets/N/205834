@@ -1,0 +1,12 @@
+AC   O13058;
+Venom serine proteinase 3 precursor (EC 3.4.21.-).
+"Accelerated evolution of crotalinae snake venom gland serine
+proteases.";
+-!- FUNCTION: Thrombin-like snake venom serine protease.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the peptidase S1 family. Snake venom
+    subfamily.
+-!- SIMILARITY: Contains 1 peptidase S1 domain.
+Glycoprotein; Hydrolase; Protease; Serine protease; Signal; Zymogen.
+TMZERO

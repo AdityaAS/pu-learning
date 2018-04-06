@@ -1,0 +1,17 @@
+AC   P20423; O24185; Q5VRI8; Q9SBB8;
+Plastocyanin, chloroplast precursor.
+"Molecular cloning and characterization of plastocyanin precursor in
+rice.";
+"Oryza sativa nipponbare chromosome 6 genomic DNA sequence.";
+"The amino acid sequence of plastocyanin from rice (Oryza sativa,
+subspecies japonica).";
+-!- FUNCTION: Participates in electron transfer between P700 and the
+    cytochrome b6-f complex in photosystem I.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; peripheral membrane protein; lumenal side. Note=Loosely
+    bound to the inner thylakoid membrane surface in chloroplasts.
+-!- SIMILARITY: Contains 1 plastocyanin-like domain.
+Chloroplast; Copper; Direct protein sequencing; Electron transport;
+Membrane; Metal-binding; Plastid; Thylakoid; Transit peptide;
+Transport.
+TMZERO

@@ -1,0 +1,19 @@
+AC   P0AFA7; P27377; P77533;
+Na(+)/H(+) antiporter 2 (Sodium/proton antiporter 2).
+"Cloning, sequencing, and expression of the nhaB gene, encoding a
+Na+/H+ antiporter in Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Na(+)/H(+) antiporter. Has a high affinity for Na(+) and
+    a relative independence of its activity on pH.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the nhaB Na(+)/H(+) antiporter family.
+Antiport; Complete proteome; Inner membrane; Ion transport; Membrane;
+Sodium; Sodium transport; Transmembrane; Transport.
+TMTWELVE

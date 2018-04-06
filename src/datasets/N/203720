@@ -1,0 +1,17 @@
+AC   Q62468; Q91WH4;
+Villin-1.
+"Expression and localization of villin, fimbrin, and myosin I in
+differentiating mouse F9 teratocarcinoma cells.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Ca(2+)-regulated actin-binding protein.
+-!- SUBUNIT: Monomer (By similarity).
+-!- DOMAIN: Consists of a large core fragment, the N-terminal portion,
+    and a small headpiece, the C-terminal portion. The headpiece binds
+    F-actin strongly in both the presence and absence of calcium.
+-!- SIMILARITY: Belongs to the villin/gelsolin family.
+-!- SIMILARITY: Contains 6 gelsolin-like repeats.
+-!- SIMILARITY: Contains 1 HP (headpiece) domain.
+ GO:0005903; C:brush border; TAS:MGI.
+Actin capping; Actin-binding; Calcium; Cytoskeleton; Repeat.
+TMZERO

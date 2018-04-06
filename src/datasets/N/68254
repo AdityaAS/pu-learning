@@ -1,0 +1,27 @@
+AC   P30115;
+Glutathione S-transferase A3 (EC 2.5.1.18) (Glutathione S-transferase
+Yc) (Ya3) (GST class-alpha member 3).
+"Molecular cloning and heterologous expression of a cDNA encoding a
+mouse glutathione S-transferase Yc subunit possessing high catalytic
+activity for aflatoxin B1-8,9-epoxide.";
+"Complementary DNA cloning, messenger RNA expression, and induction of
+alpha-class glutathione S-transferases in mouse tissues.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Regulation of mouse glutathione S-transferases by chemoprotectors.
+Molecular evidence for the existence of three distinct alpha-class
+glutathione S-transferase subunits, Ya1, Ya2, and Ya3, in mouse
+liver.";
+"Purification, mass spectrometric characterization, and covalent
+modification of murine glutathione S-transferases.";
+-!- FUNCTION: Conjugation of reduced glutathione to a wide number of
+    exogenous and endogenous hydrophobic electrophiles. This GST has a
+    high catalytic activity for aflatoxin B1-8,9 epoxide.
+-!- CATALYTIC ACTIVITY: RX + glutathione = HX + R-S-glutathione.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MASS SPECTROMETRY: MW=25271.4; MW_ERR=2; METHOD=Electrospray;
+    RANGE=1-220; NOTE=Ref.4.
+-!- SIMILARITY: Belongs to the GST superfamily. Alpha family.
+Acetylation; Direct protein sequencing; Transferase.
+TMZERO

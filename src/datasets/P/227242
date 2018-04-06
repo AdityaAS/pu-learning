@@ -1,0 +1,17 @@
+AC   P75797; Q9R7R5; Q9R7R7; Q9R7R8;
+Putative binding protein yliB precursor.
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Enrichment of low abundance proteins of Escherichia coli by
+hydroxyapatite chromatography.";
+-!- FUNCTION: Probably part of the binding-protein-dependent transport
+    system yliABCD.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Probable).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 5
+    family.
+3D-structure; Complete proteome; Lipoprotein; Membrane; Palmitate;
+Signal; Transport.
+TMZERO

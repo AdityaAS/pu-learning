@@ -1,0 +1,15 @@
+AC   Q61247;
+Alpha-2-antiplasmin precursor (Alpha-2-plasmin inhibitor) (Alpha-2-PI)
+(Alpha-2-AP).
+"The kidney is a major site of alpha(2)-antiplasmin production.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Characterization of the murine plasma fibrinolytic system.";
+-!- FUNCTION: The major targets of this inhibitor are plasmin and
+    trypsin, but it also inactivates chymotrypsin.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+-!- SIMILARITY: Belongs to the serpin family.
+Acute phase; Direct protein sequencing; Glycoprotein;
+Protease inhibitor; Serine protease inhibitor; Signal; Sulfation.
+TMZERO

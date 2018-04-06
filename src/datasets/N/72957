@@ -1,0 +1,14 @@
+AC   P03281;
+Hexon-associated protein (Protein IX) (pIX).
+"The 2.2 kb E1b mRNA of human Ad12 and Ad5 codes for two tumor
+antigens starting at different AUG triplets.";
+"The nucleotide sequence of adenovirus type 5 early region E1: the
+region between map positions 8.0 (HindIII site) and 11.8 (SmaI
+site).";
+"The sequence of the genome of adenovirus type 5 and its comparison
+with the genome of adenovirus type 2.";
+-!- FUNCTION: This protein is a structural component of the virion. It
+    may have an additional role during adenovirus multiplication.
+-!- SIMILARITY: Belongs to the adenoviruses pIX family.
+Hexon-associated protein.
+TMZERO

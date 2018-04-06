@@ -1,0 +1,27 @@
+AC   Q76I89; Q5ZLT8;
+Kinetochore protein Hec1 (Kinetochore-associated protein 2).
+"Dynamic behavior of Nuf2-Hec1 complex that localizes to the
+centrosome and centromere and is essential for mitotic progression in
+vertebrate cells.";
+"Full-length cDNAs from chicken bursal lymphocytes to facilitate gene
+function analysis.";
+"The functional region of CENP-H interacts with the Nuf2 complex that
+localizes to centromere during mitosis.";
+"CENP-A is required for accurate chromosome segregation and sustained
+kinetochore association of BubR1.";
+-!- FUNCTION: Acts as a component of the essential kinetochore-
+    associated NDC80 complex, which is required for chromosome
+    segregation and spindle checkpoint activity.
+-!- SUBUNIT: Component of the NDC80 complex, which is composed of at
+    least KNTC2/HEC1 and CDCA1. Interacts with CENPH.
+-!- INTERACTION:
+    Q90ZF9:CENP-H; NbExp=1; IntAct=EBI-1003779, EBI-1003677;
+    Q76I90:Nuf2; NbExp=1; IntAct=EBI-1003779, EBI-1003866;
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus. Kinetochore. Centrosome.
+    Note=Localizes to kinetochores from late prophase to anaphase and
+    to the centrosome during G1 and S phase.
+-!- SIMILARITY: Belongs to the NDC80/HEC1 family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Cell cycle; Cell division; Centromere; Coiled coil; Mitosis;
+Nuclear protein.
+TMZERO

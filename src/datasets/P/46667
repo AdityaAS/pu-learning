@@ -1,0 +1,16 @@
+AC   P0ADB7; P56549; Q2M6F5;
+Entericidin B precursor.
+"The entericidin locus of Escherichia coli and its implications for
+programmed bacterial cell death.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Plays a role in the bacteriolysis. Is activated under
+    conditions of high osmolarity by the factor sigma S. Entericidin A
+    functions as an antidote.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor.
+-!- SIMILARITY: Belongs to the ecnA/ecnB lipoprotein family.
+Complete proteome; Lipoprotein; Membrane; Palmitate; Signal.
+TMZERO

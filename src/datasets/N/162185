@@ -1,0 +1,15 @@
+AC   Q5XA27;
+30S ribosomal protein S14.
+"Progress toward characterization of the group A Streptococcus
+metagenome: complete genome sequence of a macrolide-resistant serotype
+M6 strain.";
+-!- FUNCTION: Binds 16S rRNA, required for the assembly of 30S
+    particles and may also be responsible for determining the
+    conformation of the 16S rRNA at the A site (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Contacts proteins S3
+    and S10 (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S14P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

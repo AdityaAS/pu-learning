@@ -1,0 +1,30 @@
+AC   Q8VCC8; Q8BZK9; Q8R1R1;
+Rap guanine nucleotide exchange factor 3 (cAMP-regulated guanine
+nucleotide exchange factor I) (cAMP-GEFI) (Exchange factor directly
+activated by cAMP 1) (Epac 1).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: Guanine nucleotide exchange factor (GEF) for RAP1A and
+    RAP2A small GTPases that is activated by binding cAMP (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm. Membrane; peripheral membrane
+    protein (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8VCC8-1; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=2;
+      IsoId=Q8VCC8-2; Sequence=VSP_007610;
+      Note=No experimental confirmation available;
+-!- DOMAIN: The DEP domain is involved in membrane localization
+    independent from regulation by cAMP (By similarity).
+-!- SIMILARITY: Contains 1 cyclic nucleotide-binding domain.
+-!- SIMILARITY: Contains 1 DEP domain.
+-!- SIMILARITY: Contains 1 N-terminal Ras-GEF domain.
+-!- SIMILARITY: Contains 1 Ras-GEF domain.
+ GO:0005085; F:guanyl-nucleotide exchange factor activity; IDA:MGI.
+Alternative splicing; cAMP; cAMP-binding;
+Guanine-nucleotide releasing factor; Nucleotide-binding.
+TMZERO

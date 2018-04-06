@@ -1,0 +1,26 @@
+AC   Q8MJC3;
+Caspase-3 precursor (EC 3.4.22.-) (CASP-3) (Apopain) (Cysteine
+protease CPP32) [Contains: Caspase-3 p17 subunit; Caspase-3 p12
+subunit].
+"Molecular characterization of rabbit CPP32 and its function in
+vascular smooth muscle cell apoptosis.";
+-!- FUNCTION: Involved in the activation cascade of caspases
+    responsible for apoptosis execution. At the onset of apoptosis it
+    proteolytically cleaves poly(ADP-ribose) polymerase (PARP) at a
+    '216-Asp-|-Gly-217' bond. Cleaves and activates sterol regulatory
+    element binding proteins (SREBPs) between the basic helix-loop-
+    helix leucine zipper domain and the membrane attachment domain.
+    Cleaves and activates caspase-6, -7 and -9 (By similarity).
+-!- SUBUNIT: Heterodimer of a 17 kDa (p17) and a 12 kDa (p12) subunit
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- PTM: Cleavage by granzyme B, caspase-6, caspase-8 and caspase-10
+    generates the two active subunits. Additional processing of the
+    propeptides is likely due to the autocatalytic activity of the
+    activated protease. Active heterodimers between the small subunit
+    of caspase-7 protease and the large subunit of caspase-3 also
+    occur and vice versa (By similarity).
+-!- SIMILARITY: Belongs to the peptidase C14 family.
+Apoptosis; Hydrolase; Phosphorylation; Protease; Thiol protease;
+Zymogen.
+TMZERO

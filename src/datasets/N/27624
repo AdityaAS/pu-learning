@@ -1,0 +1,13 @@
+AC   Q5X6T6;
+ATP-dependent Clp protease adaptor protein clpS.
+"Evidence in the Legionella pneumophila genome for exploitation of
+host cell functions and high genome plasticity.";
+-!- FUNCTION: Involved in the modulation of the specificity of the
+    clpAP-mediated ATP-dependent protein degradation (By similarity).
+-!- SUBUNIT: Binds to the N-terminal domain of the chaperone ClpA (By
+    similarity).
+-!- SIMILARITY: Belongs to the clpS family.
+ GO:0008462; F:endopeptidase Clp activity; IEA:HAMAP.
+ GO:0006508; P:proteolysis; IEA:HAMAP.
+Complete proteome.
+TMZERO

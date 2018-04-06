@@ -1,0 +1,17 @@
+AC   P0A931; P71235; P71273; P76388;
+Putative polysaccharide export protein wza precursor.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Probably involved in the export of the extracellular
+    polysaccharide colanic acid from the cell to medium (By
+    similarity).
+-!- PATHWAY: Exopolysaccharide biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the bexD/ctrA/vexA family.
+Complete proteome; Exopolysaccharide synthesis; Ion transport;
+Lipoprotein; Membrane; Outer membrane; Palmitate;
+Polysaccharide transport; Porin; Signal; Sugar transport;
+Transmembrane; Transport.
+TMZERO

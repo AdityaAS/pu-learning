@@ -1,0 +1,14 @@
+AC   P0AFJ9; P37308;
+Low-affinity inorganic phosphate transporter 1.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Low-affinity inorganic phosphate transport. Can also
+    transport arsenate (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the pho-4 transporter (TC 2.A.20.1.1)
+    family. Pit subfamily.
+Complete proteome; Inner membrane; Membrane; Phosphate transport;
+Transmembrane; Transport.
+TMTEN

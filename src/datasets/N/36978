@@ -1,0 +1,20 @@
+AC   P92857;
+Cytochrome b (Fragment).
+"Weighting and congruence: a case study based on three mitochondrial
+genes in pitvipers.";
+"Molecular systematics of pitvipers: paraphyly of the Bothrops
+complex.";
+-!- FUNCTION: Component of the ubiquinol-cytochrome c reductase
+    complex (complex III or cytochrome b-c1 complex), which is a
+    respiratory chain that generates an electrochemical potential
+    coupled to ATP synthesis (By similarity).
+-!- COFACTOR: Binds 2 heme groups non-covalently (By similarity).
+-!- SUBUNIT: The main subunits of complex b-c1 are: cytochrome b,
+    cytochrome c1 and the Rieske protein (By similarity).
+-!- MISCELLANEOUS: Heme 1 (or BL or b562) is low-potential and absorbs
+    at about 562 nm, and heme 2 (or BH or b566) is high-potential and
+    absorbs at about 566 nm (By similarity).
+-!- SIMILARITY: Belongs to the cytochrome b family.
+Electron transport; Heme; Iron; Membrane; Metal-binding;
+Mitochondrion; Respiratory chain; Transmembrane; Transport.
+TMZERO

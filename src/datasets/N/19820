@@ -1,0 +1,19 @@
+AC   Q43299;
+Phosphoenolpyruvate carboxylase (EC 4.1.1.31) (PEPCase) (PEPC).
+"The C4 phosphoenolpyruvate carboxylase (PEPCase) from grain
+Amaranth.";
+-!- FUNCTION: Through the carboxylation of phosphoenolpyruvate (PEP)
+    it forms oxaloacetate, a four-carbon dicarboxylic acid source for
+    the tricarboxylic acid cycle.
+-!- CATALYTIC ACTIVITY: Phosphate + oxaloacetate = H(2)O +
+    phosphoenolpyruvate + CO(2).
+-!- ENZYME REGULATION: By light-reversible phosphorylation (By
+    similarity).
+-!- PATHWAY: Tricarboxylic acid cycle. This isozyme is involved in C4
+    photosynthesis.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the PEPCase family.
+Allosteric enzyme; Carbon dioxide fixation; Lyase; Phosphorylation;
+Photosynthesis; Tricarboxylic acid cycle.
+TMZERO

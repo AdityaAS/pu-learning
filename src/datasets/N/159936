@@ -1,0 +1,12 @@
+AC   Q6ENS3;
+Chloroplast 30S ribosomal protein S19.
+"Complete nucleotide sequence of the sugarcane (Saccharum officinarum)
+chloroplast genome: a comparative analysis of four monocot chloroplast
+genomes.";
+-!- FUNCTION: Protein S19 forms a complex with S13 that binds strongly
+    to the 16S ribosomal RNA (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the ribosomal protein S19P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Chloroplast; Plastid; Ribonucleoprotein; Ribosomal protein.
+TMZERO

@@ -1,0 +1,12 @@
+AC   Q01076; Q7PCH8;
+DNA transfer protein gp20.
+"Sequence of a DNA injection gene from Salmonella typhimurium phage
+P22.";
+"Sequence of the genome of Salmonella bacteriophage P22.";
+"Corrected sequence of the bacteriophage P22 genome.";
+"Oligopeptidase A is required for normal phage P22 development.";
+-!- FUNCTION: Required for ejection of the phage DNA from the phage
+    particle and injection of that DNA into the host.
+-!- SIMILARITY: To phage APSE-1 p33.
+Late protein.
+TMZERO

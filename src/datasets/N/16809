@@ -1,0 +1,68 @@
+AC   P16442; O14758; Q14490; Q9UQ68; Q9UQ69;
+Histo-blood group ABO system transferase (NAGAT) [Includes:
+Glycoprotein-fucosylgalactoside alpha-N-
+acetylgalactosaminyltransferase (EC 2.4.1.40) (Fucosylglycoprotein
+alpha-N-acetylgalactosaminyltransferase) (Histo-blood group A
+transferase) (A transferase); Glycoprotein-fucosylgalactoside alpha-
+galactosyltransferase (EC 2.4.1.37) (Fucosylglycoprotein 3-alpha-
+galactosyltransferase) (Histo-blood group B transferase) (B
+transferase)] [Contains: Fucosylglycoprotein alpha-N-
+acetylgalactosaminyltransferase; Fucosylglycoprotein alpha-N-
+acetylgalactosaminyltransferase soluble form].
+"Cloning and characterization of DNA complementary to human UDP-
+GalNAc: Fuc alpha 1-->2Gal alpha 1-->3GalNAc transferase (histo-blood
+group A transferase) mRNA.";
+"Molecular genetic basis of the histo-blood group ABO system.";
+"Genomic cloning of the human histo-blood group ABO locus.";
+"Genomic cloning of the human histo-blood group ABO locus.";
+"Human histo-blood group ABO gene locus alleles.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"Heterogeneity of the blood group Ax allele: genetic recombination of
+common alleles can result in the Ax phenotype.";
+"Evolution of the O alleles of the human ABO blood group gene.";
+"Animal histo-blood group ABO genes.";
+"Sugar-nucleotide donor specificity of histo-blood group A and B
+transferases is based on amino acid substitutions.";
+"The structural basis for specificity in human ABO(H) blood group
+biosynthesis.";
+-!- FUNCTION: This protein is the basis of the ABO blood group system.
+    The histo-blood group ABO involves three carbohydrate antigens: A,
+    B, and H. A, B, and AB individuals express a glycosyltransferase
+    activity that converts the H antigen to the A antigen (by addition
+    of UDP-GalNAc) or to the B antigen (by addition of UDP-Gal),
+    whereas O individuals lack such activity.
+-!- CATALYTIC ACTIVITY: UDP-N-acetyl-D-galactosamine + glycoprotein-
+    alpha-L-fucosyl-(1,2)-D-galactose = UDP + glycoprotein-N-acetyl-
+    alpha-D-galactosaminyl-(1,3)-(alpha-L-fucosyl-(1,2))-D-galactose.
+-!- CATALYTIC ACTIVITY: UDP-galactose + alpha-L-fucosyl-(1->2)-D-
+    galactosyl-R = UDP + alpha-D-galactosyl-(1->3)-(alpha-L-fucosyl-
+    (1->2))-D-galactosyl-R.
+-!- COFACTOR: Manganese.
+-!- PATHWAY: Glycosylation.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi stack; Golgi stack
+    membrane; single-pass type II membrane protein. Secreted protein.
+    Note=Membrane-bound form in trans cisternae of Golgi. Secreted
+    into the body fluid.
+-!- DOMAIN: The conserved DXD motif is involved in cofactor binding.
+    The manganese ion interacts with the beta-phosphate group of UDP
+    and may also have a role in catalysis.
+-!- PTM: The soluble form derives from the membrane form by
+    proteolytic processing.
+-!- POLYMORPHISM: The sequence shown is that of the A transferase. The
+    B form differs by a few residues substitutions. The O phenotype is
+    result of a single base frameshift deletion in the N-terminal
+    extremity of the gene.
+-!- SIMILARITY: Belongs to the glycosyltransferase 6 family.
+-!- WEB RESOURCE: NAME=GGDB; NOTE=GlycoGene database";
+    URL="http://ggdb.muse.aist.go.jp/GGDB/index.jsp".
+ GO:0005576; C:extracellular region; NAS:UniProtKB.
+ GO:0030173; C:integral to Golgi membrane; NAS:UniProtKB.
+ GO:0004381; F:fucosylgalactoside 3-alpha-galactosyltransf...; NAS:UniProtKB.
+ GO:0004380; F:glycoprotein-fucosylgalactoside alpha-N-ace...; NAS:UniProtKB.
+ GO:0006486; P:protein amino acid glycosylation; NAS:UniProtKB.
+3D-structure; Blood group antigen; Direct protein sequencing;
+Glycoprotein; Glycosyltransferase; Golgi apparatus; Manganese;
+Membrane; Metal-binding; Polymorphism; Signal-anchor; Transferase;
+Transmembrane.
+TMONE

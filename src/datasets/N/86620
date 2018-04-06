@@ -1,0 +1,15 @@
+AC   Q9N661;
+Potassium channel toxin beta-KTx 4 precursor (Toxin BmTX K-beta2)
+(BmTXKbeta2) (BmTX K beta2').
+"Molecular cloning and sequencing of two 'short chain' and two 'long
+chain' K(+) channel-blocking peptides from the Chinese scorpion Buthus
+martensii Karsch.";
+-!- FUNCTION: Selectively blocks voltage-gated noninactivating
+    potassium channels (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the long chain potassium channel inhibitor
+    scorpion toxin family.
+Ionic channel inhibitor; Neurotoxin; Potassium channel inhibitor;
+Signal; Toxin.
+TMZERO

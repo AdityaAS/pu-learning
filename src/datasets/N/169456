@@ -1,0 +1,11 @@
+AC   P35142;
+Small, acid-soluble spore protein gamma-type (SASP).
+"A gene encoding a small, acid-soluble spore protein from alkaliphilic
+Bacillus firmus OF4.";
+-!- FUNCTION: SASP are proteins degraded in the first minutes of spore
+    germination and provide amino acids for both new protein synthesis
+    and metabolism. These proteins may be involved in dormant spore's
+    high resistance to UV light.
+-!- SIMILARITY: Belongs to the gamma-type SASP family.
+Sporulation.
+TMZERO

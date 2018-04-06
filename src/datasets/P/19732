@@ -1,0 +1,24 @@
+AC   P25230;
+Antimicrobial protein CAP18 precursor (18 kDa lipopolysaccharide-
+binding protein) (18 kDa cationic protein) (CAP18-A) [Contains:
+Antimicrobial protein CAP7].
+"Complementary DNA sequence of rabbit CAP18 -- a unique
+lipopolysaccharide binding protein.";
+"Characterization of a rabbit cationic protein (CAP18) with
+lipopolysaccharide-inhibitory activity.";
+"A novel granulocyte-derived peptide with lipopolysaccharide-
+neutralizing activity.";
+"Identification and characterization of a primary antibacterial domain
+in CAP18, a lipopolysaccharide binding protein from rabbit
+leukocytes.";
+"The solution structure of the active domain of CAP18 -- a
+lipopolysaccharide binding protein from rabbit leukocytes.";
+-!- FUNCTION: CAP18 binds to the lipid A moiety of bacterial
+    lipopolysaccharides (LPS), a glycolipid present in the outer
+    membrane of all Gram-negative bacteria. Has antibiotic activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Neutrophils.
+-!- SIMILARITY: Belongs to the cathelicidin family.
+3D-structure; Antibiotic; Antimicrobial; Direct protein sequencing;
+Pyrrolidone carboxylic acid; Signal.
+TMZERO

@@ -1,0 +1,31 @@
+AC   P0ABJ3; P18402; Q2MBZ6;
+Cytochrome o ubiquinol oxidase subunit 3 (EC 1.10.3.-) (Cytochrome o
+ubiquinol oxidase subunit III) (Ubiquinol oxidase chain C).
+"The sequence of the cyo operon indicates substantial structural
+similarities between the cytochrome o ubiquinol oxidase of Escherichia
+coli and the aa3-type family of cytochrome c oxidases.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The use of gene fusions to determine the topology of all of the
+subunits of the cytochrome o terminal oxidase complex of Escherichia
+coli.";
+"Recent studies of the cytochrome o terminal oxidase complex of
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"The structure of the ubiquinol oxidase from Escherichia coli and its
+ubiquinone binding site.";
+-!- FUNCTION: Cytochrome o terminal oxidase complex is the component
+    of the aerobic respiratory chain of E.coli that predominates when
+    cells are grown at high aeration.
+-!- CATALYTIC ACTIVITY: Ubiquinol-8 + O(2) = Ubiquinone-8 + H(2)O.
+-!- SUBUNIT: Heterooctamer of two A chains, two B chains, two C chains
+    and two D chains.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 3 family.
+3D-structure; Complete proteome; Electron transport; Inner membrane;
+Membrane; Oxidoreductase; Transmembrane; Transport.
+TMFIVE

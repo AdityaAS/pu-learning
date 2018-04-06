@@ -1,0 +1,27 @@
+AC   O61309;
+Nitric-oxide synthase (EC 1.14.13.39) (NOS type I) (Neuronal NOS) (N-
+NOS) (nNOS).
+"Molecular characterization of NOS in a mollusc: expression in a giant
+modulatory neuron.";
+-!- FUNCTION: Produces nitric oxide (NO) which is a messenger molecule
+    with diverse functions throughout the body (By similarity).
+-!- CATALYTIC ACTIVITY: L-arginine + n NADPH + m O(2) = citrulline +
+    nitric oxide + n NADP(+).
+-!- COFACTOR: Heme group (By similarity).
+-!- COFACTOR: Binds 1 FAD (By similarity).
+-!- COFACTOR: Binds 1 FMN (By similarity).
+-!- ENZYME REGULATION: Stimulated by calcium/calmodulin.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long;
+      IsoId=O61309-1; Sequence=Displayed;
+    Name=Short;
+      IsoId=O61309-2; Sequence=VSP_003584;
+-!- TISSUE SPECIFICITY: Expressed in the central nervous system, in
+    the serotonergic cerebral giant cells. The isoform Long and
+    isoform Short are expressed equally in the CNS.
+-!- SIMILARITY: Belongs to the NOS family.
+-!- SIMILARITY: Contains 1 flavodoxin-like domain.
+Alternative splicing; Calmodulin-binding; FAD; FMN; Heme; Iron;
+Metal-binding; NADP; Oxidoreductase; Repeat.
+TMZERO

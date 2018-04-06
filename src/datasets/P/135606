@@ -1,0 +1,15 @@
+AC   P0AA05; P05525; P07006;
+Phosphocarrier protein HPr (Histidine-containing protein).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: This is a component of the phosphoenolpyruvate-dependent
+    sugar phosphotransferase system (PTS), a major carbohydrate active
+    -transport system. The phosphoryl group from phosphoenolpyruvate
+    (PEP) is transferred to the phosphoryl carrier protein HPr by
+    enzyme I. Phospho-HPr then transfers it to the permease (enzymes
+    II/III). HPr is common to all PTS (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the HPr family.
+Complete proteome; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transport.
+TMZERO

@@ -1,0 +1,13 @@
+AC   Q9X4M3; Q38Z80;
+Putative ribose uptake protein rbsU.
+"Ribose utilization in Lactobacillus sakei: analysis of the regulation
+of the rbs operon and putative involvement of a new transporter.";
+"The complete genome sequence of the meat-borne lactic acid bacterium
+Lactobacillus sakei 23K.";
+-!- FUNCTION: Could be involved in the uptake of ribose.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the GRP transporter (TC 2.A.7.5) family.
+Complete proteome; Membrane; Sugar transport; Transmembrane;
+Transport.
+TMTEN

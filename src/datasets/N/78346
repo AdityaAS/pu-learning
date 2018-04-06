@@ -1,0 +1,15 @@
+AC   Q8U8Z9;
+Urocanate hydratase (EC 4.2.1.49) (Urocanase) (Imidazolonepropionate
+hydrolase).
+"The genome of the natural genetic engineer Agrobacterium tumefaciens
+C58.";
+"Genome sequence of the plant pathogen and biotechnology agent
+Agrobacterium tumefaciens C58.";
+-!- CATALYTIC ACTIVITY: 3-(5-oxo-4,5-dihydro-3H-imidazol-4-
+    yl)propanoate = urocanate + H(2)O.
+-!- COFACTOR: Binds 1 NAD per subunit (By similarity).
+-!- PATHWAY: Histidine degradation; second step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the urocanase family.
+Complete proteome; Histidine metabolism; Lyase; NAD.
+TMZERO

@@ -1,0 +1,15 @@
+AC   P06927; Q71BI2;
+Probable protein E5.
+"Human papillomavirus type 16 DNA sequence.";
+"DNA sequence of the HPV-16 E5 ORF and the structural conservation of
+its encoded protein.";
+"Cloning and sequencing of non-European human papillomavirus (HPV)
+variant complete genomes from cervicovaginal cells by an overlapping
+PCR method.";
+-!- MISCELLANEOUS: HPV16, in comparison to HPV types 6 and 11, is more
+    often associated with malignant genital cancers in humans.
+-!- SIMILARITY: Belongs to the papillomaviruses E5 protein family.
+-!- CAUTION: Ref.1 (AAA46938) sequence differs from that shown due to
+    a frameshift in position 20.
+Early protein.
+TMZERO

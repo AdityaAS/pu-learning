@@ -1,0 +1,53 @@
+AC   Q9R0K7; O88863;
+Plasma membrane calcium-transporting ATPase 2 (EC 3.6.3.8) (PMCA2)
+(Plasma membrane calcium pump isoform 2) (Plasma membrane calcium
+ATPase isoform 2).
+"Mutations in a plasma membrane Ca2+-ATPase gene cause deafness in
+deafwaddler mice.";
+"A mouse with a point mutation in plasma membrane Ca2+-ATPase isoform
+2 gene showed the reduced Ca2+ influx in cerebellar neurons.";
+"Balance and hearing deficits in mice with a null mutation in the gene
+encoding plasma membrane Ca2+-ATPase isoform 2.";
+-!- FUNCTION: This magnesium-dependent enzyme catalyzes the hydrolysis
+    of ATP coupled with the transport of calcium out of the cell.
+    Plays a role in maintaining balance and hearing.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Ca(2+)(Cis) = ADP + phosphate +
+    Ca(2+)(Trans).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Mainly expressed in brain cortex. Found at low
+    levels in heart, liver, lung and testis during late gestation.
+    Also found in cochlea (stereocilia and outer wall of hair cells).
+-!- DISEASE: Atp2b2 null deficient mice are deaf.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIB subfamily.
+ GO:0043025; C:cell soma; IDA:MGI.
+ GO:0005929; C:cilium; IDA:MGI.
+ GO:0005737; C:cytoplasm; ISS:UniProtKB.
+ GO:0005792; C:microsome; IDA:MGI.
+ GO:0005886; C:plasma membrane; ISS:UniProtKB.
+ GO:0005524; F:ATP binding; ISS:UniProtKB.
+ GO:0005509; F:calcium ion binding; ISS:UniProtKB.
+ GO:0005388; F:calcium-transporting ATPase activity; ISS:UniProtKB.
+ GO:0005516; F:calmodulin binding; ISS:UniProtKB.
+ GO:0030165; F:PDZ domain binding; ISS:UniProtKB.
+ GO:0008022; F:protein C-terminus binding; ISS:UniProtKB.
+ GO:0006874; P:calcium ion homeostasis; IMP:MGI.
+ GO:0006816; P:calcium ion transport; IMP:MGI.
+ GO:0000902; P:cell morphogenesis; IMP:MGI.
+ GO:0021707; P:cerebellar granule cell differentiation; IMP:MGI.
+ GO:0021702; P:cerebellar Purkinje cell differentiation; IMP:MGI.
+ GO:0046068; P:cGMP metabolism; IMP:MGI.
+ GO:0050910; P:detection of mechanical stimulus during sen...; IMP:MGI.
+ GO:0042472; P:inner ear morphogenesis; IMP:MGI.
+ GO:0007595; P:lactation; IMP:MGI.
+ GO:0007626; P:locomotory behavior; IMP:MGI.
+ GO:0030182; P:neuron differentiation; ISS:UniProtKB.
+ GO:0045299; P:otolith mineralization; IMP:MGI.
+ GO:0050885; P:regulation of balance; IMP:MGI.
+ GO:0042428; P:serotonin metabolism; IMP:MGI.
+ GO:0050808; P:synapse organization and biogenesis; IMP:MGI.
+ATP-binding; Calcium; Calcium transport; Calmodulin-binding;
+Disease mutation; Hydrolase; Ion transport; Magnesium; Membrane;
+Metal-binding; Nucleotide-binding; Phosphorylation; Polymorphism;
+Transmembrane; Transport.
+TMTEN

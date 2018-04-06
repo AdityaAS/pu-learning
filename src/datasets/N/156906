@@ -1,0 +1,12 @@
+AC   Q9KT97;
+Ribonuclease T (EC 3.1.13.-) (Exoribonuclease T) (RNase T).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Responsible for the end-turnover of tRNA: specifically
+    removes the terminal AMP residue from uncharged tRNA (tRNA-C-C-A).
+    Also appears to be involved in tRNA biosynthesis (By similarity).
+-!- SIMILARITY: Belongs to the RNase T family.
+ GO:0016896; F:exoribonuclease activity, producing 5'-phos...; IEA:HAMAP.
+ GO:0008033; P:tRNA processing; IEA:HAMAP.
+Complete proteome; Exonuclease; Hydrolase; Nuclease; tRNA processing.
+TMZERO

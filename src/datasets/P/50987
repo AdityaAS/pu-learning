@@ -1,0 +1,27 @@
+AC   P38134; P75879;
+Tyrosine-protein kinase etk (EC 2.7.10.2).
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The complete nucleotide sequence of the Escherichia coli gene appA
+reveals significant homology between pH 2.5 acid phosphatase and
+glucose-1-phosphatase.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+"Relationship between exopolysaccharide production and protein-
+tyrosine phosphorylation in Gram-negative bacteria.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- PTM: Autophosphorylated. Dephosphorylated by etp.
+-!- SIMILARITY: Belongs to the etk/wzc family.
+-!- CAUTION: Seems to be expressed only in enteropathogenic E.coli
+    strains.
+Complete proteome; Inner membrane; Kinase; Membrane; Phosphorylation;
+Transferase; Transmembrane; Tyrosine-protein kinase.
+TMTWO

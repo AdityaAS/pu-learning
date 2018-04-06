@@ -1,0 +1,14 @@
+AC   P56609;
+Toxin III-8 (Tb2).
+"Toxic peptides and genes encoding toxin gamma of the Brazilian
+scorpions Tityus bahiensis and Tityus stigmurus.";
+-!- FUNCTION: Binds voltage-independently at site 4 of sodium channels
+    and shift the voltage of activation toward more negative
+    potentials. This toxin is active against mammals (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the long (4 C-C) scorpion toxin
+    superfamily. Sodium channel inhibitor family. Beta subfamily.
+Amidation; Direct protein sequencing; Ionic channel inhibitor;
+Neurotoxin; Sodium channel inhibitor; Toxin.
+TMZERO

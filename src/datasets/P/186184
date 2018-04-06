@@ -1,0 +1,23 @@
+AC   P0AAD8; P11867; Q2M991;
+Threonine/serine transporter.
+"The complete nucleotide sequence of the tdc region of Escherichia
+coli.";
+"Molecular characterization of the tdc operon of Escherichia coli K-
+12.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Isolation and characterization of an Escherichia coli mutant lacking
+the major serine transporter, and cloning of a serine transporter
+gene.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in the import of threonine and serine into the
+    cell. Uses hydrogen cation for cotransport (symport system).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family. SdaC/tdcC subfamily.
+Complete proteome; Inner membrane; Membrane; Symport; Transmembrane;
+Transport.
+TMELEVEN

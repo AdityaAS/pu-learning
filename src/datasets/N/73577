@@ -1,0 +1,12 @@
+AC   Q39K83;
+Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31) (PRA-PH).
+"Complete sequence of chromosome 1 of Burkholderia sp. 383.";
+-!- CATALYTIC ACTIVITY: 1-(5-phosphoribosyl)-ATP + H(2)O = 1-(5-
+    phosphoribosyl)-AMP + diphosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 2.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the PRA-PH family.
+Amino-acid biosynthesis; Complete proteome; Histidine biosynthesis;
+Hydrolase.
+TMZERO

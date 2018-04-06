@@ -1,0 +1,12 @@
+AC   Q9NAE2;
+Probable urocanate hydratase (EC 4.2.1.49) (Urocanase)
+(Imidazolonepropionate hydrolase).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- CATALYTIC ACTIVITY: 3-(5-oxo-4,5-dihydro-3H-imidazol-4-
+    yl)propanoate = urocanate + H(2)O.
+-!- COFACTOR: NAD (By similarity).
+-!- PATHWAY: Histidine degradation; second step.
+-!- SIMILARITY: Belongs to the urocanase family.
+Complete proteome; Histidine metabolism; Lyase; NAD.
+TMZERO

@@ -1,0 +1,13 @@
+AC   Q8DD53;
+Thiosulfate sulfurtransferase glpE (EC 2.8.1.1).
+"Complete genome sequence of Vibrio vulnificus CMCP6.";
+-!- FUNCTION: Catalyzes, although with low efficiency, the sulfur
+    transfer reaction from thiosulfate to cyanide (By similarity).
+-!- CATALYTIC ACTIVITY: Thiosulfate + cyanide = sulfite + thiocyanate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the glpE family.
+-!- SIMILARITY: Contains 1 rhodanese domain.
+ GO:0004792; F:thiosulfate sulfurtransferase activity; IEA:HAMAP.
+ GO:0006071; P:glycerol metabolism; IEA:HAMAP.
+Complete proteome; Glycerol metabolism; Transferase.
+TMZERO

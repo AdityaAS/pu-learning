@@ -1,0 +1,31 @@
+AC   P32722;
+Porin D precursor (EC 3.4.21.-) (Outer membrane protein D2)
+(Imipenem/basic amino acid-specific outer membrane pore).
+"Nucleotide sequence of the protein D2 gene of Pseudomonas
+aeruginosa.";
+"Analysis of two gene regions involved in the expression of the
+imipenem-specific, outer membrane porin protein OprD of Pseudomonas
+aeruginosa.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"Two-dimensional polyacrylamide gel electrophoresis isolation and
+microsequencing of Pseudomonas aeruginosa proteins.";
+"Protein D2 channel of the Pseudomonas aeruginosa outer membrane has a
+binding site for basic amino acids and peptides.";
+"Protein D2 porin of the Pseudomonas aeruginosa outer membrane bears
+the protease activity.";
+"Identification of the catalytic triad of the protein D2 protease in
+Pseudomonas aeruginosa.";
+-!- FUNCTION: Porin with a specificity for basic amino acids. Also
+    possesses serine protease activity.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the oprD family.
+ GO:0045203; C:integral to outer membrane (sensu Proteobac...; IDA:UniProtKB.
+ GO:0015288; F:porin activity; IDA:UniProtKB.
+ GO:0008236; F:serine-type peptidase activity; IDA:UniProtKB.
+ GO:0015802; P:basic amino acid transport; IDA:UniProtKB.
+Complete proteome; Direct protein sequencing; Hydrolase;
+Ion transport; Membrane; Outer membrane; Porin; Protease;
+Serine protease; Signal; Transmembrane; Transport.
+TMZERO

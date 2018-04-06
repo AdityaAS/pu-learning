@@ -1,0 +1,37 @@
+AC   Q28139; O46384;
+Sodium/potassium/calcium exchanger 1 (Na(+)/K(+)/Ca(2+)-exchange
+protein 1) (Retinal rod Na-Ca+K exchanger).
+"Primary structure and functional expression of the Na/Ca,K-exchanger
+from bovine rod photoreceptors.";
+"cDNA cloning of the human retinal rod Na-Ca + K exchanger: comparison
+with a revised bovine sequence.";
+"The retinal rod Na(+)/Ca(2+),K(+) exchanger contains a noncleaved
+signal sequence required for translocation of the N-terminus.";
+-!- FUNCTION: Critical component of the visual transduction cascade,
+    controlling the calcium concentration of outer segments during
+    light and darkness. Light causes a rapid lowering of cytosolic
+    free calcium in the outer segment of both retinal rod and cone
+    photoreceptors and the light-induced lowering of calcium is caused
+    by extrusion via this protein which plays a key role in the
+    process of light adaptation. Transports 1 Ca(2+) and 1 K(+) in
+    exchange for 4 Na(+) (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q28139-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q28139-2; Sequence=VSP_006159;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Retina.
+-!- PTM: The uncleaved signal sequence is required for efficient
+    membrane targeting and proper membrane integration and topology.
+-!- PTM: Glycosylated.
+-!- SIMILARITY: Belongs to the sodium/potassium/calcium exchanger
+    family. SLC24A subfamily.
+Alternative splicing; Antiport; Calcium; Calcium transport;
+Direct protein sequencing; Glycoprotein; Ion transport; Membrane;
+Phosphorylation; Potassium; Potassium transport; Repeat;
+Sensory transduction; Signal; Sodium; Sodium transport; Symport;
+Transmembrane; Transport; Vision.
+TMELEVEN

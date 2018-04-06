@@ -1,0 +1,11 @@
+AC   Q49LS5;
+Membrane transport protein XK (XK-related protein 1).
+"A superfamily of XK-related genes (XRG) widely expressed in
+vertebrates and invertebrates.";
+-!- FUNCTION: May be involved in sodium-dependent transport of neutral
+    amino acids or oligopeptides (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the XK family.
+Amino-acid transport; Membrane; Transmembrane; Transport.
+TMTEN

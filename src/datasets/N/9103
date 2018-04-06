@@ -1,0 +1,16 @@
+AC   Q7UQZ8;
+Acetylglutamate kinase (EC 2.7.2.8) (NAG kinase) (AGK) (N-acetyl-L-
+glutamate 5-phosphotransferase).
+"Complete genome sequence of the marine planctomycete Pirellula sp.
+strain 1.";
+-!- CATALYTIC ACTIVITY: ATP + N-acetyl-L-glutamate = ADP + N-acetyl-L-
+    glutamate 5-phosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; 2-N-
+    acetyl-L-ornithine from L-glutamate: step 2.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the acetylglutamate kinase family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0009085; P:lysine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Arginine biosynthesis; ATP-binding;
+Complete proteome; Kinase; Nucleotide-binding; Transferase.
+TMZERO

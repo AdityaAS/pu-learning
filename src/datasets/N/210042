@@ -1,0 +1,8 @@
+AC   O57868;
+UPF0286 protein PH0128.
+"Complete sequence and gene organization of the genome of a hyper-
+thermophilic archaebacterium, Pyrococcus horikoshii OT3.";
+-!- SIMILARITY: Belongs to the UPF0286 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

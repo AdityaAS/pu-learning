@@ -1,0 +1,15 @@
+AC   Q9C1T1; Q2UGV7;
+3-phytase A precursor (EC 3.1.3.8) (Myo-inositol-hexaphosphate 3-
+phosphohydrolase A) (3 phytase A) (Myo-inositol hexakisphosphate
+phosphohydrolase A).
+"Nucleotide sequence of Aspergillus oryzae phytase cDNA.";
+"Genome sequencing and analysis of Aspergillus oryzae.";
+-!- FUNCTION: Catalyzes the hydrolysis of inorganic orthophosphate
+    from phytate.
+-!- CATALYTIC ACTIVITY: Myo-inositol hexakisphosphate + H(2)O = 1D-
+    myo-inositol 1,2,4,5,6-pentakisphosphate + phosphate.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the histidine acid phosphatase family.
+ GO:0016158; F:3-phytase activity; IEA:EC.
+Complete proteome; Glycoprotein; Hydrolase; Signal.
+TMZERO

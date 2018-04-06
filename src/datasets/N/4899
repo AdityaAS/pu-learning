@@ -1,0 +1,36 @@
+AC   Q9LU15; O04321;
+Histidine-containing phosphotransfer protein 4.
+"Compilation and characterization of histidine-containing
+phosphotransmitters implicated in His-to-Asp phosphorelay in plants:
+AHP signal transducers of Arabidopsis thaliana.";
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"Two-component signal transduction pathways in Arabidopsis.";
+"Comparative studies of the AHP histidine-containing
+phosphotransmitters implicated in His-to-Asp phosphorelay in
+Arabidopsis thaliana.";
+-!- FUNCTION: Functions as two-component phosphorelay mediators
+    between cytokinin sensor histidine kinases and response regulators
+    (B-type ARRs). Plays an important role in propagating cytokinin
+    signal transduction through the multistep His-to-Asp phosphorelay.
+-!- SUBUNIT: Interacts with the B-type response regulators ARR1 and
+    ARR2.
+-!- TISSUE SPECIFICITY: Predominantly expressed in aerial parts of the
+    plant.
+-!- DOMAIN: Histidine-containing phosphotransfer domain (HPt) contains
+    an active histidine that mediates the phosphotransfer.
+-!- PTM: Two-component system major event consists of a His-to-Asp
+    phosphorelay between a sensor histidine kinase (HK) and a response
+    regulator (RR). In plants, the His-to-Asp phosphorelay involves an
+    additionnal intermediate named Histidine-containing
+    phosphotransfer protein (HPt). This multistep phosphorelay
+    consists of a His-Asp-His-Asp sequential transfer of a phosphate
+    group between first an His and an Asp of the HK protein, followed
+    by the transfer to a conserved His of the HPt protein and finally
+    the transfer to an Asp in the receiver domain of the RR protein.
+-!- SIMILARITY: Contains 1 HPt domain.
+-!- CAUTION: Ref.2 sequences differ from that shown due to erroneous
+    gene model prediction.
+Cytokinin signaling pathway; Phosphorylation;
+Two-component regulatory system.
+TMZERO

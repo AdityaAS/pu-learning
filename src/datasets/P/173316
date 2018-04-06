@@ -1,0 +1,12 @@
+AC   P37594;
+Methyl viologen resistance protein smvA.
+"The methyl viologen-resistance-encoding gene smvA of Salmonella
+typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. TCR/tet
+    family.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMFOURTEEN

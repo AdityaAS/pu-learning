@@ -1,0 +1,11 @@
+AC   O71024;
+Outer capsid protein VP2.
+"The complete sequence of four major structural proteins of African
+horse sickness virus serotype 6: evolutionary relationships within and
+between the orbiviruses.";
+-!- FUNCTION: The VP2 protein is one of the two proteins (with VP5)
+    which constitute the virus particle outer capsid. It is the major
+    target of the host immunogenic response.
+-!- SIMILARITY: Belongs to the reoviruses VP2 family.
+Capsid protein; Virion protein.
+TMZERO

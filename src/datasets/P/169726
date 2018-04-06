@@ -1,0 +1,21 @@
+AC   P31641; Q9BXB0;
+Sodium- and chloride-dependent taurine transporter.
+"Cloning of the human taurine transporter and characterization of
+taurine uptake in thyroid cells.";
+"Functional characterization and chromosomal localization of a cloned
+taurine transporter from human placenta.";
+"Isolation of a cDNA encoding a taurine transporter in the human
+retinal pigment epithelium.";
+"Taurine transporter expression in various organs.";
+-!- FUNCTION: Required for the uptake of taurine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- PTM: Down-regulated upon Ser-322 phosphorylation (By similarity).
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0005369; F:taurine:sodium symporter activity; TAS:ProtInc.
+ GO:0006520; P:amino acid metabolism; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Glycoprotein; Membrane; Neurotransmitter transport; Phosphorylation;
+Polymorphism; Symport; Transmembrane; Transport.
+TMTWELVE

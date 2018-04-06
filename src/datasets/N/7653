@@ -1,0 +1,31 @@
+AC   P91926; O01937; Q86P64; Q9VPP4;
+AP-2 complex subunit alpha (Alpha-adaptin).
+"Role of Drosophila alpha-adaptin in presynaptic vesicle recycling.";
+"Alpha-adaptin, a marker for endocytosis, is expressed in complex
+patterns during Drosophila development.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Adaptins are components of the adapter complexes which
+    link clathrin to receptors in coated vesicles. Clathrin-associated
+    protein complexes are believed to interact with the cytoplasmic
+    tails of membrane proteins, leading to their selection and
+    concentration. Alpha adaptin is a subunit of the plasma membrane
+    adapter (By similarity).
+-!- SUBUNIT: Assembly protein complex 2 (AP-2) is a heterotetramer
+    composed of two large chains (alpha and beta), a medium chain
+    (mu/AP50) and a small chain (sigma/AP17).
+-!- SUBCELLULAR LOCATION: Cell membrane; coated pit; cytoplasmic side
+    (By similarity). Note=Component of the coat surrounding the
+    cytoplasmic face of coated vesicles in the plasma membrane (By
+    similarity).
+-!- SIMILARITY: Belongs to the adaptor complexes large subunit family.
+ GO:0030135; C:coated vesicle; TAS:FlyBase.
+ GO:0005886; C:plasma membrane; IDA:FlyBase.
+ GO:0008021; C:synaptic vesicle; TAS:FlyBase.
+ GO:0008356; P:asymmetric cell division; TAS:FlyBase.
+ GO:0007269; P:neurotransmitter secretion; NAS:FlyBase.
+ GO:0016183; P:synaptic vesicle coating; TAS:FlyBase.
+ GO:0048489; P:synaptic vesicle transport; TAS:FlyBase.
+Coated pits; Complete proteome.
+TMZERO

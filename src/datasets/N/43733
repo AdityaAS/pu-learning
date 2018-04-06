@@ -1,0 +1,14 @@
+AC   Q8C147; Q6PIS0; Q7TMQ5; Q8K105; Q9DBQ2;
+Dedicator of cytokinesis protein 8.
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: Potential guanine nucleotide exchange factor (GEF). GEF
+    proteins activate some small GTPases by exchanging bound GDP for
+    free GTP (By similarity).
+-!- DOMAIN: The DHR-2 domain may mediate some GEF activity (By
+    similarity).
+-!- SIMILARITY: Belongs to the DOCK family.
+-!- SIMILARITY: Contains 1 DHR-2 (CZH-2) domain.
+Guanine-nucleotide releasing factor.
+TMZERO

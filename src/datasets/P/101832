@@ -1,0 +1,19 @@
+AC   P69926; P95094;
+Multidrug resistance protein mmr.
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+"mmr, a Mycobacterium tuberculosis gene conferring resistance to small
+cationic dyes and inhibitors.";
+-!- FUNCTION: Multidrug efflux pump. Confers resistance to
+    tetraphenylphosphonium (TPP), erythromycin, ethidium bromide,
+    acriflavine, safranin O and pyronin Y.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Extrusion of TPP is inhibited by CCCP.
+-!- SIMILARITY: Belongs to the small multidrug resistance (SMR)
+    protein family. Mmr (TC 2.A.7.1.2) subfamily.
+Antibiotic resistance; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMFOUR

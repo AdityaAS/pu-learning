@@ -1,0 +1,14 @@
+AC   Q93149;
+Acetylcholine receptor subunit beta-type acr-3 precursor.
+"ACR-3, a Caenorhabditis elegans nicotinic acetylcholine receptor
+subunit. Molecular cloning and functional expression.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Possible acetylcholine receptor.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ligand-gated ionic channel (TC 1.A.9)
+    family.
+Complete proteome; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Postsynaptic membrane; Receptor; Signal; Transmembrane;
+Transport.
+TMFOUR

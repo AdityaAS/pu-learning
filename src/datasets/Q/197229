@@ -1,0 +1,23 @@
+AC   P23136;
+Ubiquinol-cytochrome c reductase iron-sulfur subunit (EC 1.10.2.2)
+(Rieske iron-sulfur protein) (RISP).
+"The pet genes of Rhodospirillum rubrum: cloning and sequencing of the
+genes for the cytochrome bc1-complex.";
+-!- FUNCTION: Component of the ubiquinol-cytochrome c reductase
+    complex (complex III or cytochrome b-c1 complex), which is a
+    respiratory chain that generates an electrochemical potential
+    coupled to ATP synthesis.
+-!- CATALYTIC ACTIVITY: QH(2) + 2 ferricytochrome c = Q + 2
+    ferrocytochrome c.
+-!- COFACTOR: Binds 1 2Fe-2S cluster per subunit (By similarity).
+-!- SUBUNIT: The main subunits of complex b-c1 are: cytochrome b,
+    cytochrome c1 and the Rieske protein.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein.
+-!- MISCELLANEOUS: The Rieske protein is a high potential 2Fe-2S
+    protein.
+-!- SIMILARITY: Contains 1 Rieske domain.
+2Fe-2S; Direct protein sequencing; Electron transport; Inner membrane;
+Iron; Iron-sulfur; Membrane; Metal-binding; Oxidoreductase;
+Transmembrane; Transport.
+TMONE

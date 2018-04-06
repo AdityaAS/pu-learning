@@ -1,0 +1,20 @@
+AC   Q9LM66; Q9SYQ2;
+Xylem cysteine proteinase 2 precursor (EC 3.4.22.-) (AtXCP2).
+"Exploiting secondary growth in Arabidopsis. Construction of xylem and
+bark cDNA libraries and cloning of three xylem endopeptidases.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"The Arabidopsis xylem peptidase XCP1 is a tracheary element vacuolar
+protein that may be a papain ortholog.";
+-!- FUNCTION: Probable thiol protease (By similarity).
+-!- SUBCELLULAR LOCATION: Vacuole (By similarity). Cell membrane (By
+    similarity). Note=Predominantly vacuolar. May be associated to
+    plasma membrane (By similarity).
+-!- TISSUE SPECIFICITY: Mostly expressed in roots, stems and flowers.
+    Confined to tracheary elements, and specifically to xylem.
+-!- SIMILARITY: Belongs to the peptidase C1 family.
+Glycoprotein; Hydrolase; Protease; Signal; Thiol protease; Vacuole;
+Zymogen.
+TMZERO

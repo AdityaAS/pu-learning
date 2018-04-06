@@ -1,0 +1,8 @@
+AC   P81583;
+Cuticle protein CP1499 (CPCP1499).
+"Exoskeletal proteins from the crab, Cancer pagurus.";
+-!- TISSUE SPECIFICITY: Calcified shell.
+-!- MASS SPECTROMETRY: MW=14979.4; METHOD=MALDI; RANGE=1-148;
+    NOTE=Ref.1.
+Cuticle; Direct protein sequencing; Structural protein.
+TMZERO

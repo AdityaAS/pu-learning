@@ -1,0 +1,14 @@
+AC   P47099;
+Transposon Ty1 protein A.
+"The sequence of 24.3 kb from chromosome X reveals five complete open
+reading frames, all of which correspond to new genes, and a tandem
+insertion of a Ty1 transposon.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+-!- INTERACTION:
+    P35729:NUP120; NbExp=1; IntAct=EBI-26341, EBI-11713;
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Hypothetical protein; Transposable element.
+TMZERO

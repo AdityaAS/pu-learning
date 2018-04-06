@@ -1,0 +1,31 @@
+AC   P38077;
+ATP synthase gamma chain, mitochondrial precursor (EC 3.6.3.14).
+"Cloning of the yeast ATP3 gene coding for the gamma-subunit of F1 and
+characterization of atp3 mutants.";
+"Complete DNA sequence of yeast chromosome II.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane. The gamma chain is believed to be
+    important in regulating ATPase activity and the flow of protons
+    through the CF(0) complex. May play a role in the assembly/
+    stability of CF(1).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- INTERACTION:
+    P36130:YKR036C; NbExp=1; IntAct=EBI-3271, EBI-26394;
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- MISCELLANEOUS: Present with 28100 molecules/cell.
+-!- SIMILARITY: Belongs to the ATPase gamma chain family.
+ GO:0005756; C:proton-transporting ATP synthase, central s...; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015986; P:ATP synthesis coupled proton transport; IMP:SGD.
+ATP synthesis; CF(1); Complete proteome; Direct protein sequencing;
+Hydrogen ion transport; Hydrolase; Ion transport; Mitochondrion;
+Transit peptide; Transport.
+TMZERO

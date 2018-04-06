@@ -1,0 +1,15 @@
+AC   P01633;
+Ig kappa chain V-V region MPC11 precursor.
+"Functional significance and evolutionary development of the 5'-
+terminal regions of immunoglobulin variable-region genes.";
+"The variability, arrangement, and rearrangement of immunoglobulin
+genes.";
+"Sequence of the full-length immunoglobulin kappa-chain of mouse
+myeloma MPC 11.";
+-!- MISCELLANEOUS: The mature chain has 12 additional residues at its
+    amino end, due to a tandem duplication of 36 nucleotides after the
+    codon for residue 36. Residue 42 corresponds to the N-terminal
+    residue of typical kappa chains.
+Direct protein sequencing; Immunoglobulin domain;
+Immunoglobulin V region; Repeat; Signal.
+TMZERO

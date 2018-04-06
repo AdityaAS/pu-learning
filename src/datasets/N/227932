@@ -1,0 +1,10 @@
+AC   P76150; Q2MB94;
+Hypothetical protein yneK.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- INTERACTION:
+    P0AB87:fucA; NbExp=1; IntAct=EBI-1128384, EBI-1130362;
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Hypothetical protein.
+TMZERO

@@ -1,0 +1,13 @@
+AC   Q8DCF6;
+Aspartate carbamoyltransferase (EC 2.1.3.2) (Aspartate
+transcarbamylase) (ATCase).
+"Complete genome sequence of Vibrio vulnificus CMCP6.";
+-!- CATALYTIC ACTIVITY: Carbamoyl phosphate + L-aspartate = phosphate
+    + N-carbamoyl-L-aspartate.
+-!- PATHWAY: Nucleotide biosynthesis; UMP biosynthesis; UMP from
+    HCO(3)(-): step 2.
+-!- PATHWAY: Context: Pyrimidine biosynthesis.
+-!- SIMILARITY: Belongs to the ATCase/OTCase family.
+ GO:0006221; P:pyrimidine nucleotide biosynthesis; IEA:HAMAP.
+Complete proteome; Pyrimidine biosynthesis; Transferase.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P00125; Q2TBM2;
+Cytochrome c1, heme protein, mitochondrial precursor (Cytochrome c-1).
+"Structural studies of bovine heart cytochrome c1.";
+"Partial genomic sequence of the bovine cytochrome c1 gene.";
+"Crystal structure of the cytochrome bc1 complex from bovine heart
+mitochondria.";
+"Complete structure of the 11-subunit bovine mitochondrial cytochrome
+bc1 complex.";
+-!- FUNCTION: This is the heme-containing component of the cytochrome
+    b-c1 complex, which accepts electrons from Rieske protein and
+    transfers electrons to cytochrome c in the mitochondrial
+    respiratory chain.
+-!- SUBUNIT: The bc1 complex contains 11 subunits; 3 respiratory
+    subunits (cytochrome b, cytochrome c1, Rieske protein), 2 core
+    proteins and 6 low-molecular weight proteins.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial intermembrane
+    space.
+-!- PTM: Binds 1 heme group per subunit.
+3D-structure; Direct protein sequencing; Electron transport; Heme;
+Iron; Membrane; Metal-binding; Mitochondrion; Respiratory chain;
+Transit peptide; Transmembrane; Transport.
+TMONE

@@ -1,0 +1,15 @@
+AC   P0A3G6; Q00565;
+Lactococcin A secretion protein lcnD.
+"Organization and nucleotide sequences of two lactococcal bacteriocin
+operons.";
+"Lactococcin A, a new bacteriocin from Lactococcus lactis subsp.
+cremoris: isolation and characterization of the protein and its
+gene.";
+-!- FUNCTION: Involved in the secretion of lactococcin A.
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type II membrane
+    protein.
+-!- SIMILARITY: Belongs to the membrane fusion protein (MFP)
+    (TC 8.A.1) family.
+Bacteriocin transport; Membrane; Plasmid; Protein transport;
+Transmembrane; Transport.
+TMONE

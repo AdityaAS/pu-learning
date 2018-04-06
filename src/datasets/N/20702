@@ -1,0 +1,19 @@
+AC   Q10991;
+Cathepsin L (EC 3.4.22.15) [Contains: Cathepsin L heavy chain;
+Cathepsin L light chain].
+"The amino acid sequences, structure comparisons and inhibition
+kinetics of sheep cathepsin L and sheep stefin B.";
+-!- FUNCTION: Important for the overall degradation of proteins in
+    lysosomes.
+-!- CATALYTIC ACTIVITY: Specificity close to that of papain. As
+    compared to cathepsin B, cathepsin L exhibits higher activity
+    toward protein substrates, but has little activity on Z-Arg-Arg-
+    NHMec, and no peptidyl-dipeptidase activity.
+-!- SUBUNIT: Dimer of a heavy and a light chain linked by disulfide
+    bonds.
+-!- SUBCELLULAR LOCATION: Lysosome.
+-!- SIMILARITY: Belongs to the peptidase C1 family.
+ GO:0004217; F:cathepsin L activity; IEA:EC.
+Direct protein sequencing; Hydrolase; Lysosome; Protease;
+Thiol protease.
+TMZERO

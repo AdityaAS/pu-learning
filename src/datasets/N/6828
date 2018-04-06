@@ -1,0 +1,21 @@
+AC   Q4R684;
+Archaemetzincin-2 (EC 3.-.-.-) (Archeobacterial metalloproteinase-like
+protein 2).
+"DNA sequences of macaque genes expressed in brain or testis and its
+evolutionary implications.";
+-!- FUNCTION: Zinc metalloprotease. Exhibits activity against
+    angiotensin-3 in vitro. Does not hydrolyze neurogranin nor
+    angiotensin-2 (By similarity).
+-!- ENZYME REGULATION: Inhibited by the general metalloprotease
+    inhibitors o-phenanthroline and batimastat. Also significantly
+    inhibited by amastatin, which is an inhibitor of aminopeptidases.
+    Not inhibited by 4-(2-aminoethyl)-benzenesulfonyl fluoride, E-64,
+    and TIMPS (tissue inhibitors of metalloproteinases), which are
+    inhibitors of serine, cysteine, and matrix metalloproteases,
+    respectively (By similarity).
+-!- SIMILARITY: Belongs to the peptidase archaemetzincin family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a stop
+    codon in position 307 which was translated as Arg to extend the
+    sequence.
+Hydrolase; Metal-binding; Metalloprotease; Protease; Zinc.
+TMZERO

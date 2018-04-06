@@ -1,0 +1,25 @@
+AC   Q86SQ6; Q86SN7; Q96JJ9;
+Probable G-protein coupled receptor 123.
+"There exist at least 30 human G-protein-coupled receptors with long
+Ser/Thr-rich N-termini.";
+"Prediction of the coding sequences of unidentified human genes. XX.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+"The G protein-coupled receptor repertoires of human and mouse.";
+-!- FUNCTION: Orphan receptor.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q86SQ6-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q86SQ6-2; Sequence=VSP_009893;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 2 family.
+    LN-TM7 subfamily.
+ GO:0016021; C:integral to membrane; TAS:GDB.
+ GO:0004930; F:G-protein coupled receptor activity; TAS:GDB.
+ GO:0007186; P:G-protein coupled receptor protein signalin...; TAS:GDB.
+Alternative splicing; G-protein coupled receptor; Glycoprotein;
+Membrane; Receptor; Transducer; Transmembrane.
+TMSEVEN

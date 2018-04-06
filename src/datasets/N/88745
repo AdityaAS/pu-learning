@@ -1,0 +1,19 @@
+AC   P81664;
+Phosphoribulokinase (EC 2.7.1.19) (Phosphopentokinase) (PRKase) (PRK)
+(Fragments).
+"Separation and characterization of needle and xylem maritime pine
+proteins.";
+-!- CATALYTIC ACTIVITY: ATP + D-ribulose 5-phosphate = ADP + D-
+    ribulose 1,5-bisphosphate.
+-!- ENZYME REGULATION: Light regulated via thioredoxin by reversible
+    oxidation/reduction of sulfhydryl/disulfide groups (By
+    similarity).
+-!- PATHWAY: Carbohydrate biosynthesis; Calvin cycle.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- MISCELLANEOUS: On the 2D-gel the determined pI of this protein
+    (spot N148) is: 5.6, its MW is: 37 kDa.
+-!- SIMILARITY: Belongs to the phosphoribulokinase family.
+ GO:0008974; F:phosphoribulokinase activity; IEA:EC.
+ATP-binding; Calvin cycle; Chloroplast; Direct protein sequencing;
+Kinase; Nucleotide-binding; Photosynthesis; Plastid; Transferase.
+TMZERO

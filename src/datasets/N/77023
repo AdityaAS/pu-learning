@@ -1,0 +1,16 @@
+AC   Q5M1P9;
+33 kDa chaperonin (Heat shock protein 33 homolog) (HSP33).
+"Complete sequence and comparative genome analysis of the dairy
+bacterium Streptococcus thermophilus.";
+-!- FUNCTION: Redox regulated molecular chaperone. Protects both
+    thermally unfolding and oxidatively damaged proteins from
+    irreversible aggregation. Plays an important role in the bacterial
+    defense system toward oxidative stress (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- PTM: Under oxidizing conditions two disulfide bonds are formed
+    involving the reactive cysteines. Under reducing conditions zinc
+    is bound to the reactive cysteines and the protein is inactive (By
+    similarity).
+-!- SIMILARITY: Belongs to the HSP33 family.
+Chaperone; Complete proteome; Redox-active center; Zinc.
+TMZERO

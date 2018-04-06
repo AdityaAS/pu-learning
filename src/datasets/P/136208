@@ -1,0 +1,49 @@
+AC   P69791; P17335; Q47092; Q47093; Q47094; Q57128;
+N,N'-diacetylchitobiose-specific phosphotransferase enzyme IIA
+component (EC 2.7.1.-) (PTS system N,N'-diacetylchitobiose-specific
+EIIA component) (EIIA-Chb) (EIII-Chb).
+"Characterization and nucleotide sequence of the cryptic cel operon of
+Escherichia coli K12.";
+"Molecular population genetics of Escherichia coli: DNA sequence
+diversity at the celC, crr, and gutB loci of natural isolates.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Wild-type Escherichia coli grows on the chitin disaccharide, N,N'-
+diacetylchitobiose, by expressing the cel operon.";
+"The chitin disaccharide, N,N'-diacetylchitobiose, is catabolized by
+Escherichia coli and is transported/phosphorylated by the
+phosphoenolpyruvate:glycose phosphotransferase system.";
+"Isolation and characterization of IIAChb, a soluble protein of the
+enzyme II complex required for the transport/phosphorylation of N, N'-
+diacetylchitobiose in Escherichia coli.";
+"Analytical sedimentation of the IIAChb and IIBChb proteins of the
+Escherichia coli N,N'-diacetylchitobiose phosphotransferase system.
+Demonstration of a model phosphotransfer transition state complex.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in N,N'-diacetylchitobiose
+    transport.
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- PATHWAY: N,N'-diacetylchitobiose utilization.
+-!- SUBUNIT: Homodimer; in both its unphosphorylated and
+    phosphorylated forms.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- INDUCTION: By N,N'-diacetylchitobiose.
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-3 domain.
+-!- CAUTION: Was originally (Ref.1) characterized as part of a cryptic
+    cel operon for a cellobiose degradation system. The Cel+ phenotype
+    is due to mutations making expression chitobiose-independent and
+    altering the substrate specificity.
+3D-structure; Complete proteome; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transferase; Transport.
+TMZERO

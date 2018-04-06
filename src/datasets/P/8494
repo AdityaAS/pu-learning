@@ -1,0 +1,71 @@
+AC   P29972; Q8TBI5; Q8TDC1;
+Aquaporin-1 (AQP-1) (Aquaporin-CHIP) (Water channel protein for red
+blood cells and kidney proximal tubule) (Urine water channel).
+"Isolation of the cDNA for erythrocyte integral membrane protein of 28
+kilodaltons: member of an ancient channel family.";
+"The human aquaporin-CHIP gene. Structure, organization, and
+chromosomal localization.";
+"Characterization of the 3' UTR sequence encoded by the AQP-1 gene in
+human retinal pigment epithelium.";
+"The water channel gene in human uterus.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"The DNA sequence of human chromosome 7.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Human chondrocytes in situ express aquaporin water channels: changes
+in AQP1 abundance in pathologies of articular cartilage.";
+"Erythrocyte Mr 28,000 transmembrane protein exists as a multisubunit
+oligomer similar to channel proteins.";
+"Appearance of water channels in Xenopus oocytes expressing red cell
+CHIP28 protein.";
+"The mercury-sensitive residue at cysteine 189 in the CHIP28 water
+channel.";
+"Membrane topology of aquaporin CHIP. Analysis of functional epitope-
+scanning mutants by vectorial proteolysis.";
+"The three-dimensional structure of human erythrocyte aquaporin
+CHIP.";
+"The three-dimensional structure of aquaporin-1.";
+"Structural determinants of water permeation through aquaporin-1.";
+"A refined structure of human aquaporin-1.";
+"Visualization of a water-selective pore by electron crystallography
+in vitreous ice.";
+"Human red cell aquaporin CHIP. I. Molecular characterization of ABH
+and Colton blood group antigens.";
+"Mutations in aquaporin-1 in phenotypically normal humans without
+functional CHIP water channels.";
+-!- FUNCTION: Forms a water-specific channel that provides the plasma
+    membranes of red cells and kidney proximal tubules with high
+    permeability to water, thereby permitting water to move in the
+    direction of an osmotic gradient.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in a number of tissues including
+    erythrocytes, renal tubules, retinal pigment epithelium, heart,
+    lung, skeletal muscle, kidney and pancreas. Weakly expressed in
+    brain, placenta and liver.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- POLYMORPHISM: AQP1 is responsible for the Colton blood group
+    system. Approximately 92% of Caucasians are Co(A+B-) (Ala-45),
+    approximately 8% are Co(A+B+), and only 0.2% are Co(A-B+) (Val-
+    45). Co(A-B-) which is very rare, is due to a complete absence of
+    AQP1.
+-!- MISCELLANEOUS: Pharmacologically inhibited by submillimolar
+    concentrations of mercury.
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+-!- WEB RESOURCE: NAME=BGMUT;
+    NOTE=Blood group antigen gene mutation database";
+    URL="http://www.ncbi.nlm.nih.gov/projects/mhc/xslcgi.fcgi?cmd=bgmut/systems_info&system=colton".
+-!- WEB RESOURCE: NAME=Protein Spotlight;
+    NOTE=Liquid states - Issue 36 of July 2003;
+    URL="http://www.expasy.org/spotlight/back_issues/sptlt036.shtml".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005372; F:water transporter activity; TAS:ProtInc.
+ GO:0007588; P:excretion; TAS:ProtInc.
+ GO:0006833; P:water transport; TAS:ProtInc.
+3D-structure; Blood group antigen; Direct protein sequencing;
+Glycoprotein; Membrane; Polymorphism; Repeat; Transmembrane;
+Transport.
+TMEIGHT

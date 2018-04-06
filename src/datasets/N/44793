@@ -1,0 +1,23 @@
+AC   Q9LN86; Q6J9N3;
+Dehydration-responsive element-binding protein 1F (DREB1F protein).
+"Molecular cloning, expression, phylogenetic and functional
+characterization of the Arabidopsis AP2/EREBP transcription factor
+family.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"DNA-binding specificity of the ERF/AP2 domain of Arabidopsis DREBs,
+transcription factors involved in dehydration- and cold-inducible gene
+expression.";
+-!- FUNCTION: Transcriptional activator that binds specifically to the
+    DNA sequence 5'-[AG]CCGAC-3'. Binding to the C-repeat/DRE element
+    mediates cold or dehydration-inducible transcription. CBF/DREB1
+    factors play a key role in freezing tolerance and cold
+    acclimation.
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- INDUCTION: By high-salt stress.
+-!- SIMILARITY: Contains 1 AP2/ERF DNA-binding domain.
+ GO:0016049; P:cell growth; IMP:TAIR.
+ GO:0048510; P:regulation of timing of transition from veg...; IMP:TAIR.
+Activator; DNA-binding; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

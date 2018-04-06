@@ -1,0 +1,13 @@
+AC   Q5KMN5; Q55X98;
+mRNA 3'-end-processing protein YTH1.
+"The genome of the basidiomycetous yeast and human pathogen
+Cryptococcus neoformans.";
+-!- FUNCTION: Component of the cleavage factor I (CF I) involved in
+    pre-mRNA 3'-end processing (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the CPSF4/YTH1 family.
+-!- SIMILARITY: Contains 4 C3H1-type zinc fingers.
+-!- SIMILARITY: Contains 1 CCHC-type zinc finger.
+Complete proteome; Metal-binding; mRNA processing; Nuclear protein;
+Repeat; RNA-binding; Zinc; Zinc-finger.
+TMZERO

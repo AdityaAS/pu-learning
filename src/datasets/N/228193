@@ -1,0 +1,18 @@
+AC   Q08422; O00017;
+AN1-type zinc finger protein YOR052C.
+"The sequence of a 54.7 kb fragment of yeast chromosome XV reveals the
+presence of two tRNAs and 24 new open reading frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- MISCELLANEOUS: Present with 9520 molecules/cell.
+-!- SIMILARITY: Contains 1 AN1-type zinc finger.
+ GO:0005634; C:nucleus; IDA:SGD.
+Complete proteome; Metal-binding; Nuclear protein; Phosphorylation;
+Zinc; Zinc-finger.
+TMZERO

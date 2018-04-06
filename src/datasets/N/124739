@@ -1,0 +1,20 @@
+AC   Q5IBK4;
+Cytochrome b6-f complex subunit 8 (Cytochrome b6-f complex subunit
+VIII) (Cytochrome b6-f complex subunit petN).
+"Mitochondrial substitution rates are extraordinarily elevated and
+variable in a genus of flowering plants.";
+-!- FUNCTION: Component of the cytochrome b6-f complex, which mediates
+    electron transfer between photosystem II (PSII) and photosystem I
+    (PSI), cyclic electron flow around PSI, and state transitions (By
+    similarity).
+-!- SUBUNIT: The 4 large subunits of the cytochrome b6-f complex are
+    cytochrome b6, subunit IV (17 kDa polypeptide, petD), cytochrome f
+    and the Rieske protein, while the 4 small subunits are petG, petL,
+    petM and petN. The complex functions as a dimer (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; single-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the petN family.
+ GO:0006118; P:electron transport; IEA:HAMAP.
+Chloroplast; Electron transport; Membrane; Photosynthesis; Plastid;
+Thylakoid; Transmembrane; Transport.
+TMONE

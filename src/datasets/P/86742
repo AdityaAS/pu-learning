@@ -1,0 +1,22 @@
+AC   P31069; P94716; P94717; P94723; P94729; P97198; P97225;
+Putative potassium channel protein.
+"An Escherichia coli homologue of eukaryotic potassium channel
+proteins.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Structure of the RCK domain from the E. coli K+ channel and
+demonstration of its presence in the human BK channel.";
+-!- FUNCTION: May play a role in the defense against osmotic shock.
+-!- SUBUNIT: Dimer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the potassium channel family.
+-!- SIMILARITY: Contains 1 RCK N-terminal domain.
+3D-structure; Complete proteome; Inner membrane; Ion transport;
+Ionic channel; Membrane; Transmembrane; Transport.
+TMSIX

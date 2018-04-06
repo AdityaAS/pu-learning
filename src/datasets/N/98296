@@ -1,0 +1,50 @@
+AC   P03879; Q02324; Q9ZZW6;
+Intron-encoded RNA maturase bI4 precursor (RNA maturase SCbI4)
+[Contains: Truncated, nonfunctional cytochrome b; RNA maturase bI4
+(EC 3.1.-.-)].
+"Assembly of the mitochondrial membrane system. DNA sequence and
+organization of the cytochrome b gene in Saccharomyces cerevisiae
+D273-10B.";
+"The complete sequence of the mitochondrial genome of Saccharomyces
+cerevisiae.";
+"Connections between RNA splicing and DNA intron mobility in yeast
+mitochondria: RNA maturase and DNA endonuclease switching
+experiments.";
+"The NAM2 proteins from S. cerevisiae and S. douglasii are
+mitochondrial leucyl-tRNA synthetases, and are involved in mRNA
+splicing.";
+"Synthesis and function of the mitochondrial intron -- encoded bI4 RNA
+maturase from Saccharomyces cerevisiae. Effects of upstream frameshift
+mutations.";
+"Introns as mobile genetic elements.";
+"The bI4 group I intron binds directly to both its protein splicing
+partners, a tRNA synthetase and maturase, to facilitate RNA splicing
+activity.";
+-!- FUNCTION: Mitochondrial mRNA maturase required for splicing of
+    intron 4 of the cytochrome b (COB) gene, containing its own coding
+    sequence, and intron 4 in COX1, coding for the related homing
+    endonuclease aI4. In vivo splicing requires in addition the
+    imported mitochondrial leucyl-tRNA synthetase NAM2. Both proteins
+    seem to stimulate the intrinsic ribozyme activity of intron bI4
+    through binding to and stabilizing specific secondary and tertiary
+    structure elements in the RNA.
+-!- SUBUNIT: Forms a ternary complex with intron derived RNA and the
+    imported mitochondrial leucyl-tRNA synthetase NAM2. The proteins
+    do not interact directly with each other.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- PTM: The mature protein may arise from proteolytic cleavage of an
+    in-frame translation of COB exons 1 to 4 plus intron 4, containing
+    the bI4 open reading frame. Cleavage would take place close to the
+    Met-385 resulting in an active maturase of about 30 kDa.
+-!- MISCELLANEOUS: Residues 385 to 638 are sufficient for maturase
+    activity.
+-!- SIMILARITY: In the C-terminal section; belongs to the LAGLIDADG
+    endonuclease family.
+-!- CAUTION: Ref.1 sequence differs from that shown because COB was
+    not predicted to be expressed alternatively as a fusion with
+    intron 4.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0003723; F:RNA binding; IDA:SGD.
+ GO:0000372; P:Group I intron splicing; IDA:SGD.
+Complete proteome; Mitochondrion; mRNA processing; mRNA splicing.
+TMZERO

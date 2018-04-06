@@ -1,0 +1,12 @@
+AC   P43439;
+V-type sodium ATP synthase subunit I (EC 3.6.3.15) (Na(+)-
+translocating ATPase subunit I).
+"Sequencing and characterization of the ntp gene cluster for vacuolar-
+type Na(+)-translocating ATPase of Enterococcus hirae.";
+"Operon of vacuolar-type Na(+)-ATPase of Enterococcus hirae.";
+-!- FUNCTION: Involved in ATP-driven sodium extrusion.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+Hydrolase; Ion transport; Membrane; Sodium; Sodium transport;
+Transmembrane; Transport.
+TMSIX

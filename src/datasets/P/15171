@@ -1,0 +1,101 @@
+AC   Q96247;
+Auxin transporter protein 1 (Auxin influx carrier protein 1) (Polar
+auxin transport inhibitor-resistant protein 1).
+"Arabidopsis AUX1 gene: a permease-like regulator of root
+gravitropism.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+"The growth and gravitropic responses of wild-type and auxin-resistant
+mutants of Arabidopsis thaliana.";
+"The aux1 mutation of Arabidopsis confers both auxin and ethylene
+resistance.";
+"Reversible root tip rotation in Arabidopsis seedlings induced by
+obstacle-touching stimulus.";
+"Ammonium inhibition of Arabidopsis root growth can be reversed by
+potassium and by auxin resistance mutations aux1, axr1, and axr2.";
+"Responses of Arabidopsis roots to auxin studied with high temporal
+resolution: comparison of wild type and auxin-response mutants.";
+"The AXR1 and AUX1 genes of Arabidopsis function in separate auxin-
+response pathways.";
+"Genetic analysis of ethylene signal transduction in Arabidopsis
+thaliana: five novel mutant loci integrated into a stress response
+pathway.";
+"Genetic analysis of the effects of polar auxin transport inhibitors
+on root growth in Arabidopsis thaliana.";
+"Differential effects of 1-naphthaleneacetic acid, indole-3-acetic
+acid and 2,4-dichlorophenoxyacetic acid on the gravitropic response of
+roots in an auxin-resistant mutant of Arabidopsis, aux1.";
+"Auxin and ethylene promote root hair elongation in Arabidopsis.";
+"The Arabidopsis AUX1 gene: a model system to study mRNA processing in
+plants.";
+"AUX1 regulates root gravitropism in Arabidopsis by facilitating auxin
+uptake within root apical tissues.";
+"Quick on the uptake: characterization of a family of plant auxin
+influx carriers.";
+"Auxin is a positive regulator for ethylene-mediated response in the
+growth of Arabidopsis roots.";
+"Localization of the auxin permease AUX1 suggests two functionally
+distinct hormone transport pathways operate in the Arabidopsis root
+apex.";
+"Novel auxin transport inhibitors phenocopy the auxin influx carrier
+mutation aux1.";
+"Chromosaponin I specifically interacts with AUX1 protein in
+regulating the gravitropic response of Arabidopsis roots.";
+"Cell polarity signaling in Arabidopsis involves a BFA-sensitive auxin
+influx pathway.";
+"Auxin and ethylene response interactions during Arabidopsis root hair
+development dissected by auxin influx modulators.";
+"AUX1 promotes lateral root formation by facilitating indole-3-acetic
+acid distribution between sink and source tissues in the Arabidopsis
+seedling.";
+"Structure-function analysis of the presumptive Arabidopsis auxin
+permease AUX1.";
+-!- FUNCTION: Carrier protein involved in proton-driven auxin influx.
+    Mediates the formation of auxin gradient from developing leaves
+    (site of auxin biosynthesis) to tips by contributing to the
+    loading of auxin in vascular tissues and facilitating acropetal
+    (base to tip) auxin transport within inner tissues of the root
+    apex, and basipetal (tip to base) auxin transport within outer
+    tissues of the root apex. Unloads auxin from the mature phloem to
+    deliver the hormone to the root meristem via the protophloem cell
+    files. Coordinated subcellular localization of AUX1 is regulated
+    by a brefeldin A-sensitive (BFA) vesicle trafficking process.
+    Involved in lateral root formation, trichoblast polarization and
+    root hair elongation. Required for gravitropism and thigmotropism,
+    especially in roots, by modulating responses to auxin, ethylene
+    and cytokinins such as benzyladenine (BA). Needed for ammonium-
+    mediated root-growth inhibition. Confers sensitivity to the
+    herbicide 2,4-dichlorophenoxyacetic acid (2,4-D, auxin analog),
+    and to polar auxin transport inhibitors such as N-1-
+    naphthylphthalamic acid (NPA) and 2,3,5-triiodobenzoic acid
+    (TIBA).
+-!- ENZYME REGULATION: Auxin uptake mediated by AUX1 is inhibited by
+    chromosaponin-1 (CSI), 1-naphthoxyacetic acid (1-NOA) and 3-
+    chloro-4-hydroxyphenylacetic acid (CHPAA).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Note=In S2 columella cells, a dynamic cytoplasmic to membrane
+    localization seems to occur during early stage of gravity signal
+    transduction. In roots protophloem cells, asymmetric repartition
+    in the upper plasma membrane.
+-!- TISSUE SPECIFICITY: Expressed in root and shoot apical tissues. In
+    root apex, confined to stele initials, protophloem poles,
+    statolith-containing S2 columella cells, lateral root cap cells
+    (LRC), and in epidermal cells from the distal elongation zone
+    (DEZ) up to central elongation zone (CEZ).
+-!- DEVELOPMENTAL STAGE: In seedlings, first expressed in primary
+    root, followed by shoot apical meristem and then in lateral roots.
+    During lateral root formation, expression in primordia starts at a
+    late phase of stage I, before the first periclinal division. In
+    later stages II and III, localized in the apical tip, extending to
+    the elongation zone, and in the vascular cylinder extending to the
+    junction with the primary root.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family. Amino acid/auxin permease (AAAP) (TC 2.A.18.1.-)
+    subfamily.
+ GO:0009624; P:response to nematode; IEP:TAIR.
+Amino-acid transport; Auxin signaling pathway; Membrane; Symport;
+Transmembrane; Transport.
+TMELEVEN

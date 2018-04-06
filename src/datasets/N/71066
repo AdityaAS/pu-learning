@@ -1,0 +1,16 @@
+AC   P68058; P02079;
+Hemoglobin subunit beta-C (Hemoglobin beta-C chain) (Beta-C-globin).
+"Production of hemoglobin C in the Moufflon (Ovis musimon Pallas,
+1811) and the Barbary sheep (Ammotragus lervia Pallas, 1777) during
+experimental anemia: amino acid composition of tryptic peptides from
+the beta B and beta C chains.";
+-!- FUNCTION: Involved in oxygen transport from the lung to the
+    various peripheral tissues.
+-!- SUBUNIT: Heterotetramer of two alpha chains and two beta chains.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- MISCELLANEOUS: This type of beta-C chain is found in these animals
+    when anemia has been experimentally produced.
+-!- SIMILARITY: Belongs to the globin family.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

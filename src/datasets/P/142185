@@ -1,0 +1,31 @@
+AC   P0C0Y9; P02953; Q9RFB8;
+Reaction center protein M chain (Photosynthetic reaction center M
+subunit).
+"Primary structure of the M subunit of the reaction center from
+Rhodopseudomonas sphaeroides.";
+"Towards the understanding of the function of Rb sphaeroides Y wild
+type reaction center: gene cloning, protein and detergent structures
+in the three-dimensional crystals.";
+"Primary structure of the L subunit of the reaction center from
+Rhodopseudomonas sphaeroides.";
+"Structure of the membrane-bound protein photosynthetic reaction
+center from Rhodobacter sphaeroides.";
+"Structure of the reaction center from Rhodobacter sphaeroides R-26:
+protein-cofactor (quinones and Fe2+) interactions.";
+"Structure of the reaction center from Rhodobacter sphaeroides R-26:
+the protein subunits.";
+"Structural studies of wild-type and mutant reaction centers from an
+antenna-deficient strain of Rhodobacter sphaeroides: monitoring the
+optical properties of the complex from bacterial cell to crystal.";
+-!- FUNCTION: The reaction center is a membrane-bound complex that
+    mediates the initial photochemical event in the electron transfer
+    process of photosynthesis.
+-!- SUBUNIT: Reaction center is composed of four bacteriochlorophylls,
+    two bacteriopheophytins, two ubiquinones, one iron, and three
+    highly hydrophobic polypeptide chains (designated L, M, and H).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the reaction center pufL/M/psbA/D family.
+3D-structure; Bacteriochlorophyll; Chlorophyll; Chromophore;
+Electron transport; Iron; Magnesium; Membrane; Metal-binding;
+Photosynthesis; Reaction center; Transmembrane; Transport.
+TMFIVE

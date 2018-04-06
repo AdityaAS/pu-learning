@@ -1,0 +1,26 @@
+AC   Q24319; Q24355; Q9W382;
+Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa
+subunit precursor (EC 2.4.1.119) (Oligosaccharyl transferase 48 kDa
+subunit) (DDOST 48 kDa subunit) (OST5OP) (DrOST) (DmOST50).
+"PCR-mediated cloning and sequencing of the DmOST50 gene, a
+WBP1/AvOST50/OST48 homologue, from Drosophila melanogaster.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"Structure and expression of histone H3.3 genes in Drosophila
+melanogaster and Drosophila hydei.";
+-!- FUNCTION: Essential subunit of N-oligosaccharyl transferase enzyme
+    which catalyzes the transfer of a high mannose oligosaccharide to
+    an asparagine residue within an Asn-X-Ser/Thr consensus motif in
+    nascent polypeptide chains.
+-!- CATALYTIC ACTIVITY: Dolichyl diphosphooligosaccharide + protein L-
+    asparagine = dolichyl diphosphate + a glycoprotein with the
+    oligosaccharide chain attached by N-glycosyl linkage to protein L-
+    asparagine.
+-!- PATHWAY: Glycosylation.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; single-pass type I membrane protein (Potential).
+-!- SIMILARITY: Belongs to the DDOST 48 kDa subunit family.
+Complete proteome; Endoplasmic reticulum; Membrane; Signal;
+Transferase; Transmembrane.
+TMONE

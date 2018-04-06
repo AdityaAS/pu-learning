@@ -1,0 +1,20 @@
+AC   Q01513;
+Adenylate cyclase (EC 4.6.1.1) (ATP pyrophosphate-lyase) (Adenylyl
+cyclase).
+"An additional copy of the adenylate cyclase-encoding gene relieves
+developmental defects produced by a mutation in a vegetative
+incompatibility-controlling gene in Podospora anserina.";
+-!- FUNCTION: Plays essential roles in regulation of cellular
+    metabolism by catalyzing the synthesis of a second messenger,
+    cAMP.
+-!- CATALYTIC ACTIVITY: ATP = 3',5'-cyclic AMP + diphosphate.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the adenylyl cyclase class-3 family.
+-!- SIMILARITY: Contains 1 guanylate cyclase domain.
+-!- SIMILARITY: Contains 21 LRR (leucine-rich) repeats.
+-!- SIMILARITY: Contains 1 PP2C-like domain.
+-!- SIMILARITY: Contains 1 Ras-associating domain.
+ GO:0004016; F:adenylate cyclase activity; IEA:EC.
+cAMP biosynthesis; Leucine-rich repeat; Lyase; Magnesium;
+Metal-binding; Repeat.
+TMZERO

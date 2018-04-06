@@ -1,0 +1,14 @@
+AC   O74766; P78880;
+Probable delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12)
+(P5C dehydrogenase).
+"The genome sequence of Schizosaccharomyces pombe.";
+"Identification of open reading frames in Schizosaccharomyces pombe
+cDNAs.";
+-!- CATALYTIC ACTIVITY: 1-pyrroline-5-carboxylate + NAD(+) + H(2)O =
+    L-glutamate + NADH.
+-!- PATHWAY: Amino-acid biosynthesis; L-glutamate biosynthesis; L-
+    glutamate from L-proline: step 2 [final step].
+-!- SIMILARITY: Belongs to the aldehyde dehydrogenase family.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+Complete proteome; NAD; Oxidoreductase; Proline metabolism.
+TMZERO

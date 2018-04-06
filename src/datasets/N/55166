@@ -1,0 +1,21 @@
+AC   P14070;
+Flavodoxin.
+"The amino acid sequence of a flavodoxin from the eukaryotic red alga
+Chondrus crispus.";
+"N-terminal amino acid sequences of flavodoxins from Chondrus crispus
+and Nostoc strain MAC.";
+"Tertiary structure of oxidized flavodoxin from an eukaryotic red alga
+Chondrus crispus at 2.35-A resolution. Localization of charged
+residues and implication for interaction with electron transfer
+partners.";
+"Crystal structure of oxidized flavodoxin from a red alga Chondrus
+crispus refined at 1.8-A resolution. Description of the flavin
+mononucleotide binding site.";
+-!- FUNCTION: Low-potential electron donor to a number of redox
+    enzymes.
+-!- COFACTOR: FMN.
+-!- SIMILARITY: Belongs to the flavodoxin family.
+-!- SIMILARITY: Contains 1 flavodoxin-like domain.
+3D-structure; Direct protein sequencing; Electron transport;
+Flavoprotein; FMN; Transport.
+TMZERO

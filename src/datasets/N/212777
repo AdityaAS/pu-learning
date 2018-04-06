@@ -1,0 +1,8 @@
+AC   Q5M2E4;
+UPF0340 protein stu1894.
+"Complete sequence and comparative genome analysis of the dairy
+bacterium Streptococcus thermophilus.";
+-!- SIMILARITY: Belongs to the UPF0340 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

@@ -1,0 +1,23 @@
+AC   P28570;
+Sodium- and chloride-dependent creatine transporter 1 (CT1) (Creatine
+transporter 1) (CHOT1) (Solute carrier family 6 member 8).
+"Primary structure and functional expression of a choline transporter
+expressed in the rat nervous system.";
+-!- FUNCTION: Required for the uptake of creatine. Plays an important
+    role in supplying creatine to the brain via the blood-brain
+    barrier (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in brain, cerebellum, spinal cord,
+    to a lesser extent, heart, but only very low expression in lung,
+    kidney, and muscle.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+-!- CAUTION: This protein was initially reported to be a choline
+    transporter (Ref.1), but is a creatine transporter.
+ GO:0005886; C:plasma membrane; TAS:RGD.
+ GO:0015220; F:choline transporter activity; NAS:RGD.
+ GO:0005309; F:creatine:sodium symporter activity; IDA:RGD.
+ GO:0015881; P:creatine transport; IDA:RGD.
+Glycoprotein; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMTWELVE

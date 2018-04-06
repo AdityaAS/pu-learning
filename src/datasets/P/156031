@@ -1,0 +1,8 @@
+AC   P97056;
+Protein rnfH.
+"Overexpression in Escherichia coli of the rnf genes from Rhodobacter
+capsulatus -- characterization of two membrane-bound iron-sulfur
+proteins.";
+-!- SIMILARITY: Belongs to the UPF0125 (rnfH) family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+TMZERO

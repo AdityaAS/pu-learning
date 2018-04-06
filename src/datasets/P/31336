@@ -1,0 +1,17 @@
+AC   P24009;
+Protoheme IX farnesyltransferase (EC 2.5.1.-) (Heme O synthase).
+"The Bacillus subtilis cytochrome-c oxidase. Variations on a conserved
+protein theme.";
+"Bacillus subtilis chromosomal region downstream nprE.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"The Bacillus subtilis ctaB paralogue, yjdK, can complement the heme A
+synthesis deficiency of a CtaB-deficient mutant.";
+-!- FUNCTION: Converts protoheme IX and farnesyl diphosphate to heme
+    O.
+-!- PATHWAY: Cofactor biosynthesis; heme A biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ubiA prenyltransferase family.
+Complete proteome; Heme biosynthesis; Membrane; Transferase;
+Transmembrane.
+TMSEVEN

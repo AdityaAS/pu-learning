@@ -1,0 +1,56 @@
+AC   P40454;
+Serine/threonine-protein phosphatase 2A activator 1 (EC 5.2.1.8)
+(Peptidyl-prolyl cis-trans isomerase PTPA-1) (PPIase PTPA-1) (Rotamase
+PTPA-1) (Phosphotyrosyl phosphatase activator 1).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IX.";
+"The Saccharomyces cerevisiae phosphotyrosyl phosphatase activator
+proteins are required for a subset of the functions disrupted by
+protein phosphatase 2A mutations.";
+"The phosphotyrosyl phosphatase activator, Ncs1p (Rrd1p), functions
+with Cla4p to regulate the G(2)/M transition in Saccharomyces
+cerevisiae.";
+"A novel and essential mechanism determining specificity and activity
+of protein phosphatase 2A (PP2A) in vivo.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"The yeast phosphotyrosyl phosphatase activator protein, yPtpa1/Rrd1,
+interacts with Sit4 phosphatase to mediate resistance to 4-
+nitroquinoline-1-oxide and UVA.";
+"Specific interactions of PP2A and PP2A-like phosphatases with the
+yeast PTPA homologues, Ypa1 and Ypa2.";
+"The yeast phosphotyrosyl phosphatase activator is part of the Tap42-
+phosphatase complexes.";
+"The protein phosphatase 2A phosphatase activator is a novel peptidyl-
+prolyl cis/trans-isomerase.";
+-!- FUNCTION: PPIases accelerate the folding of proteins. It catalyzes
+    the cis-trans isomerization of proline imidic peptide bonds in
+    oligopeptides. Acts as a regulatory subunit for TAP42-associated
+    PP2A-like phosphatases modulating their activity or substrate
+    specificity, probably by inducing a conformational change in the
+    catalytic subunit, a direct target of the PPIase. Can reactivate
+    inactive phosphatase PP2A-phosphatase methylesterase complexes
+    (PP2Ai) in presence of ATP and Mg(2+) by dissociating the inactive
+    form from the complex. Involved in the regulation of cell cycle
+    progression, mitotic spindle formation, bud morphogenesis and DNA
+    repair.
+-!- CATALYTIC ACTIVITY: Peptidylproline (omega=180) = peptidylproline
+    (omega=0).
+-!- SUBUNIT: Interacts with the phosphatase PP2A-like catalytic
+    subunits PPG1, PPH3 and SIT4. Forms a ternary complex with SIT4-
+    TAP42.
+-!- INTERACTION:
+    P43582:YFL010C; NbExp=1; IntAct=EBI-25278, EBI-22766;
+    P40164:YNL201C; NbExp=1; IntAct=EBI-25278, EBI-29107;
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- MISCELLANEOUS: Present with 4590 molecules/cell.
+-!- SIMILARITY: Belongs to the PTPA-type PPIase family.
+ GO:0000267; C:cell fraction; IDA:SGD.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0008601; F:protein phosphatase type 2A regulator activity; IMP:SGD.
+ GO:0006281; P:DNA repair; IDA:SGD.
+ GO:0030472; P:mitotic spindle organization and biogenesis...; IMP:SGD.
+ GO:0006970; P:response to osmotic stress; IGI:SGD.
+3D-structure; Complete proteome; Isomerase; Nuclear protein.
+TMZERO

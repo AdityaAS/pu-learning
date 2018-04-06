@@ -1,0 +1,18 @@
+AC   Q8TG07; Q6FNG9;
+Lysophospholipase 1 precursor (EC 3.1.1.5) (Phospholipase B 1).
+"Cloning and characterization of phospholipase gene (PLB1) of Candida
+glabrata.";
+"Genome evolution in yeasts.";
+-!- FUNCTION: Catalyzes the release of fatty acids from
+    lysophospholipids. Phospholipase B may well contribute to
+    pathogenicity by abetting the fungus in damaging and traversing
+    host cell membranes, processes which likely increase the rapidity
+    of disseminated infection (By similarity).
+-!- CATALYTIC ACTIVITY: 2-lysophosphatidylcholine + H(2)O =
+    glycerophosphocholine + a carboxylate.
+-!- SUBCELLULAR LOCATION: Secreted protein (Probable).
+-!- SIMILARITY: Belongs to the lysophospholipase family.
+-!- SIMILARITY: Contains 1 PLA2c domain.
+ GO:0004622; F:lysophospholipase activity; IEA:EC.
+Complete proteome; Glycoprotein; Hydrolase; Lipid degradation; Signal.
+TMZERO

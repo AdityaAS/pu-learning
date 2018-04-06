@@ -1,0 +1,16 @@
+AC   P31077;
+Polysulfide reductase chain C (Sulfur reductase chain C).
+"Cloning and nucleotide sequence of the psrA gene of Wolinella
+succinogenes polysulphide reductase.";
+"Complete genome sequence and analysis of Wolinella succinogenes.";
+-!- FUNCTION: Could possibly serve as the membrane anchor of the
+    enzyme.
+-!- FUNCTION: Component of the phosphorylative electron transport
+    system with polysulfide as the terminal acceptor.
+-!- SUBUNIT: Functional polysulfide reductase is made up of three
+    different (A, B, and C) subunits.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the nrfD family.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMEIGHT

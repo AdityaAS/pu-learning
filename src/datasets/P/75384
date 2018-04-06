@@ -1,0 +1,13 @@
+AC   P06739;
+Hemolysin secretion protein D, plasmid.
+"Nucleotide sequence of a plasmid-encoded hemolysin determinant and
+its comparison with a corresponding chromosomal hemolysin sequence.";
+"A topological model for the haemolysin translocator protein HlyD.";
+-!- FUNCTION: Involved in the transport of hemolysin A.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein.
+-!- SIMILARITY: Belongs to the membrane fusion protein (MFP)
+    (TC 8.A.1) family.
+Cytolysis; Hemolysis; Inner membrane; Membrane; Plasmid;
+Signal-anchor; Transmembrane; Transport.
+TMONE

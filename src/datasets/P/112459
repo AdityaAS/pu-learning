@@ -1,0 +1,33 @@
+AC   P11024;
+NAD(P) transhydrogenase, mitochondrial precursor (EC 1.6.1.2)
+(Pyridine nucleotide transhydrogenase) (Nicotinamide nucleotide
+transhydrogenase).
+"The primary structure of the mitochondrial energy-linked nicotinamide
+nucleotide transhydrogenase deduced from the sequence of cDNA
+clones.";
+"Amino acid sequence of the signal peptide of mitochondrial
+nicotinamide nucleotide transhydrogenase as determined from the
+sequence of its messenger RNA.";
+"Characterization of the substrate-binding sites of the mitochondrial
+nicotinamide nucleotide transhydrogenase.";
+"Amino acid sequence of the NAD (H)--binding region of the
+mitochondrial nicotinamide nucleotide transhydrogenase modified by
+N,N'-dicyclohexylcarbodiimide.";
+"Mitochondrial energy-linked nicotinamide nucleotide transhydrogenase.
+Membrane topography of the bovine enzyme.";
+"Crystal structure of transhydrogenase domain III at 1.2 A
+resolution.";
+-!- FUNCTION: The transhydrogenation between NADH and NADP is coupled
+    to respiration and ATP hydrolysis and functions as a proton pump
+    across the membrane.
+-!- CATALYTIC ACTIVITY: NADPH + NAD(+) = NADP(+) + NADH.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein; matrix side (Potential).
+-!- SIMILARITY: In the N-terminal section; belongs to the AlaDH/PNT
+    family.
+-!- SIMILARITY: In the C-terminal section; belongs to the PNT beta
+    subunit family.
+3D-structure; Direct protein sequencing; Membrane; Mitochondrion; NAD;
+NADP; Oxidoreductase; Transit peptide; Transmembrane.
+TMFOURTEEN

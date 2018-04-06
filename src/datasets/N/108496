@@ -1,0 +1,29 @@
+AC   Q86S66; Q9N2Z8;
+Nascent polypeptide-associated complex subunit alpha (NAC-alpha)
+(Alpha-NAC).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: May promote appropriate targeting of ribosome-nascent
+    polypeptide complexes (By similarity).
+-!- INTERACTION:
+    Self; NbExp=1; IntAct=EBI-326549, EBI-326549;
+    Q95ZQ4:aak-2; NbExp=1; IntAct=EBI-326549, EBI-326514;
+    Q9N5V2:CC8.1; NbExp=1; IntAct=EBI-326549, EBI-311836;
+    Q20632:F49E8.7; NbExp=1; IntAct=EBI-326549, EBI-326535;
+    Q18885:icd-1; NbExp=1; IntAct=EBI-326549, EBI-326530;
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=a;
+      IsoId=Q86S66-1; Sequence=Displayed;
+      Note=Gene prediction based on EST data. No experimental
+      confirmation;
+    Name=b;
+      IsoId=Q86S66-2; Sequence=VSP_014887;
+      Note=Gene prediction based on EST data. No experimental
+      confirmation;
+-!- SIMILARITY: Belongs to the NAC-alpha family.
+-!- SIMILARITY: Contains 1 NAC-A/B (NAC-alpha/beta) domain.
+-!- SIMILARITY: Contains 1 UBA domain.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+Alternative splicing; Complete proteome; Protein transport; Transport.
+TMZERO

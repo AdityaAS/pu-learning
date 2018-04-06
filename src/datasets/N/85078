@@ -1,0 +1,14 @@
+AC   P80747;
+Integrin beta-5 (Fragment).
+"Bovine PAS-6/7 binds alpha v beta 5 integrins and anionic
+phospholipids through two domains.";
+-!- FUNCTION: Integrin alpha-V/beta-5 is a receptor for fibronectin.
+    It recognizes the sequence R-G-D in its ligand.
+-!- SUBUNIT: Heterodimer of an alpha and a beta subunit. Beta-5
+    associates with alpha-V.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the integrin beta chain family.
+Cell adhesion; Direct protein sequencing; Integrin; Membrane;
+Receptor; Repeat; Transmembrane.
+TMZERO

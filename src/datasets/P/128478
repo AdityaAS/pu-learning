@@ -1,0 +1,29 @@
+AC   P0AB67; P07002; P76890;
+NAD(P) transhydrogenase subunit beta (EC 1.6.1.2) (Pyridine nucleotide
+transhydrogenase subunit beta) (Nicotinamide nucleotide
+transhydrogenase subunit beta).
+"Nucleotide sequence of the pntA and pntB genes encoding the pyridine
+nucleotide transhydrogenase of Escherichia coli.";
+"A mutation at Gly314 of the beta subunit of the Escherichia coli
+pyridine nucleotide transhydrogenase abolishes activity and affects
+the NADP(H)-induced conformational change.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Topological analysis of the pyridine nucleotide transhydrogenase of
+Escherichia coli using proteolytic enzymes.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: The transhydrogenation between NADH and NADP is coupled
+    to respiration and ATP hydrolysis and functions as a proton pump
+    across the membrane.
+-!- CATALYTIC ACTIVITY: NADPH + NAD(+) = NADP(+) + NADH.
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the PNT beta subunit family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Inner membrane; Membrane; NAD; NADP; Oxidoreductase; Transmembrane.
+TMNINE

@@ -1,0 +1,27 @@
+AC   P78316; Q7LGI5; Q7Z6K0; Q8TBR6;
+Probable nucleolar complex protein 14.
+"Exon trapping and sequence-based methods of gene finding in
+transcript mapping of human 4p16.3.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The primary structure and genomic organization of five novel
+transcripts located close to the Huntington's disease gene on human
+chromosome 4p16.3.";
+"Phosphoproteome analysis of the human mitotic spindle.";
+-!- FUNCTION: Involved in nucleolar processing of pre-18S ribosomal
+    RNA. Has a role in the nuclear export of 40S pre-ribosomal subunit
+    to the cytoplasm (By similarity).
+-!- SUBUNIT: Component of the ribosomal small subunit (SSU) processome
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=P78316-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P78316-2; Sequence=VSP_018021, VSP_018022;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the NOP14 family.
+Alternative splicing; Nuclear protein; Phosphorylation;
+Ribosome biogenesis; rRNA processing.
+TMZERO

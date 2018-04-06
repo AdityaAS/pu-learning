@@ -1,0 +1,14 @@
+AC   Q9HFS2;
+DNA-binding protein creA (Carbon catabolite repressor).
+"Isolation of the carbon catabolite repressor (CREA) gene from the
+plant-pathogenic fungus Cochliobolus carbonum.";
+-!- FUNCTION: Involved in carbon catabolite repression. Represses the
+    transcription of a number of genes by binding to a GC-rich region
+    in their promoter (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the creA/MIG C2H2-type zinc-finger protein
+    family.
+-!- SIMILARITY: Contains 2 C2H2-type zinc fingers.
+DNA-binding; Metal-binding; Nuclear protein; Repeat; Repressor;
+Transcription; Transcription regulation; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,19 @@
+AC   Q48262;
+High-affinity nickel-transport protein nixA.
+"Helicobacter pylori nickel-transport gene nixA: synthesis of
+catalytically active urease in Escherichia coli independent of growth
+conditions.";
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+"Membrane topology of the NixA nickel transporter of Helicobacter
+pylori: two nickel transport-specific motifs within transmembrane
+helices II and III.";
+-!- FUNCTION: High-affinity nickel intake protein. Imports nickel ions
+    in an energy-dependent fashion. Necessary for the expression of
+    catalytically active urease.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the NiCoT transporter (TC 2.A.52) family.
+Complete proteome; Inner membrane; Membrane; Nickel; Transmembrane;
+Transport.
+TMEIGHT

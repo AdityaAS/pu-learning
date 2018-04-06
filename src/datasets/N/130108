@@ -1,0 +1,18 @@
+AC   Q7SF72;
+Peptidyl-prolyl cis-trans isomerase-like 1 (EC 5.2.1.8) (PPIase)
+(Rotamase).
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: PPIases accelerate the folding of proteins. It catalyzes
+    the cis-trans isomerization of proline imidic peptide bonds in
+    oligopeptides (By similarity).
+-!- CATALYTIC ACTIVITY: Peptidylproline (omega=180) = peptidylproline
+    (omega=0).
+-!- SIMILARITY: Belongs to the cyclophilin-type PPIase family. PPIL1
+    subfamily.
+-!- SIMILARITY: Contains 1 PPIase cyclophilin-type domain.
+-!- CAUTION: Ref.1 and Ref.2 sequences differ from that shown due to
+    erroneous gene model prediction.
+Isomerase; Rotamase.
+TMZERO

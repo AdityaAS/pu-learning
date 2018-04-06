@@ -1,0 +1,11 @@
+AC   P96949;
+Hemoglobin-haptoglobin utilization protein B precursor.
+"Molecular characterization of hpuAB, the haemoglobin-haptoglobin-
+utilization operon of Neisseria meningitidis.";
+-!- FUNCTION: Acts as a receptor for hemoglobin or the
+    hemoglobin/haptoglobin complex and is required for heme uptake.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+Membrane; Outer membrane; Receptor; Signal; TonB box; Transport.
+TMZERO

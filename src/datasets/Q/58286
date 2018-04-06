@@ -1,0 +1,13 @@
+AC   P59645;
+FXYD domain-containing ion transport regulator 3 precursor.
+"The FXYD gene family of small ion transport regulators or channels:
+cDNA sequence, protein signature sequence, and expression.";
+-!- FUNCTION: Induces a hyperpolarization-activated chloride current
+    when expressed in Xenopus oocytes. May be a modulator capable of
+    activating endogenous oocyte channels.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the FXYD family.
+Ion transport; Ionic channel; Membrane; Signal; Transmembrane;
+Transport.
+TMONE

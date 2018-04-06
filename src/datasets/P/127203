@@ -1,0 +1,17 @@
+AC   P80569; Q934J2;
+Bacteriocin piscicolin 126 precursor.
+"Characterization of the genes involved in the production of
+piscicolin 126, a bacteriocin from Carnobacterium piscicola JG126.";
+"Characterization of the chemical and antimicrobial properties of
+piscicolin 126, a bacteriocin produced by Carnobacterium piscicola
+JG126.";
+-!- FUNCTION: Inhibits the growth of several Gram-positive bacteria,
+    especially the food-borne pathogen L.monocytogenes, but has no
+    effect on the growth of a number of yeasts and Gram-negative
+    bacteria.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- MASS SPECTROMETRY: MW=4416.6; MW_ERR=1.9; METHOD=Electrospray;
+    RANGE=19-62; NOTE=Ref.2.
+-!- SIMILARITY: Belongs to the bacteriocin class IIA/YGNGV family.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing.
+TMZERO

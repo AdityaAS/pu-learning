@@ -1,0 +1,18 @@
+AC   P39695;
+ComE operon protein 3.
+"Characterization of comE, a late competence operon of Bacillus
+subtilis required for the binding and uptake of transforming DNA.";
+"Systematic sequencing of the 283 kb 210 degrees-232 degrees region of
+the Bacillus subtilis genome containing the skin element and many
+sporulation genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: The comE operon is required for the binding and uptake
+    of transforming DNA. ComEC is required for internalization but is
+    dispensable for DNA binding.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: To H.influenzae REC2, N.gonorrhoeae comA and E.coli
+    ycaI.
+Competence; Complete proteome; Membrane; Transmembrane; Transport.
+TMTEN

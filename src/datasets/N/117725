@@ -1,0 +1,22 @@
+AC   P35489;
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate
+dehydrogenase complex (EC 2.3.1.12) (E2) (Dihydrolipoamide
+acetyltransferase component of pyruvate dehydrogenase complex).
+"Identification and analysis of the genes coding for the putative
+pyruvate dehydrogenase enzyme complex in Acholeplasma laidlawii.";
+-!- FUNCTION: The pyruvate dehydrogenase complex catalyzes the overall
+    conversion of pyruvate to acetyl-CoA and CO(2). It contains
+    multiple copies of three enzymatic components: pyruvate
+    dehydrogenase (E1), dihydrolipoamide acetyltransferase (E2) and
+    lipoamide dehydrogenase (E3).
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + enzyme 6-N-(dihydrolipoyl)lysine
+    = CoA + enzyme 6-N-(S-acetyldihydrolipoyl)lysine.
+-!- COFACTOR: Binds 2 lipoyl cofactors covalently (Potential).
+-!- SUBUNIT: Forms a 24-polypeptide structural core with octahedral
+    symmetry (By similarity).
+-!- SIMILARITY: Belongs to the 2-oxoacid dehydrogenase family.
+-!- SIMILARITY: Contains 2 lipoyl-binding domains.
+ GO:0004742; F:dihydrolipoyllysine-residue acetyltransfera...; IEA:EC.
+Acyltransferase; Direct protein sequencing; Glycolysis; Lipoyl;
+Repeat; Transferase.
+TMZERO

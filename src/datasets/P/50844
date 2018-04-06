@@ -1,0 +1,20 @@
+AC   O33407; Q7DC45; Q9F3Y2;
+Esterase estA precursor (EC 3.1.1.1).
+"A novel lipolytic enzyme located in the outer membrane of Pseudomonas
+aeruginosa.";
+"Evolutionary origins of the autotransporter proteins.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- CATALYTIC ACTIVITY: A carboxylic ester + H(2)O = an alcohol + a
+    carboxylate.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: Contains a C-terminal autotransporter domain that
+    integrates into the outer membrane and enables the translocation
+    of the catalytic N-terminal domain to the bacterial cell surface.
+-!- SIMILARITY: Belongs to the "GDSL" lipolytic enzyme family.
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+ GO:0004091; F:carboxylesterase activity; IEA:EC.
+Complete proteome; Hydrolase; Membrane; Outer membrane; Signal;
+Transmembrane.
+TMELEVEN

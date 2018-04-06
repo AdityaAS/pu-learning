@@ -1,0 +1,13 @@
+AC   P0A012; Q08841;
+10 kDa chaperonin (Protein Cpn10) (groES protein) (Heat shock protein
+10).
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: Binds to Cpn60 in the presence of Mg-ATP and suppresses
+    the ATPase activity of the latter.
+-!- SUBUNIT: Heptamer of 7 subunits arranged in a ring (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the groES chaperonin family.
+Chaperone; Complete proteome; Heat shock.
+TMZERO

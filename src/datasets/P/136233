@@ -1,0 +1,26 @@
+AC   P37081;
+Sorbose-specific phosphotransferase enzyme IIB component (EC 2.7.1.69)
+(PTS system sorbose-specific EIIB component) (EIIB-Sor) (EIII-B-Sor).
+"Sequence of the sor-operon for L-sorbose utilization from Klebsiella
+pneumoniae KAY2026.";
+"Molecular analysis of the phosphoenolpyruvate-dependent L-sorbose:
+phosphotransferase system from Klebsiella pneumoniae and of its
+multidomain structure.";
+"Crystal structure of the IIB(Sor) domain of the sorbose permease from
+Klebsiella pneumoniae solved to 1.75A resolution.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in sorbose transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-4 domain.
+3D-structure; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport.
+TMZERO

@@ -1,0 +1,26 @@
+AC   P55319; P01271; P10616;
+Adipokinetic prohormone type 1 precursor [Contains: Adipokinetic
+hormone 1 (Adipokinetic hormone I) (AKH-I); Adipokinetic hormone
+precursor-related peptide alpha chain (APRP-alpha) (6 kDa dimeric
+peptide A)].
+"Molecular cloning of three distinct cDNAs, each encoding a different
+adipokinetic hormone precursor, of the migratory locust, Locusta
+migratoria. Differential expression of the distinct adipokinetic
+hormone precursor genes during flight activity.";
+"Structure of locust adipokinetic hormone, a neurohormone that
+regulates lipid utilisation during flight.";
+"Isolation, identification, and synthesis of AKH-I4-10 from Locusta
+migratoria.";
+"Isolation and structure of two novel 6-kDa dimeric peptides from the
+corpora cardiaca of the insect Locusta migratoria. Molecular mass
+determination by mass spectrometry.";
+-!- FUNCTION: This hormone, released from cells in the corpora
+    cardiaca after the beginning of flight, causes release of
+    diglycerides from the fat body and then stimulates the flight
+    muscles to use these diglycerides as an energy source.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the AKH/HRTH/RPCH family.
+Amidation; Cleavage on pair of basic residues;
+Direct protein sequencing; Flight; Neuropeptide;
+Pyrrolidone carboxylic acid; Signal.
+TMZERO

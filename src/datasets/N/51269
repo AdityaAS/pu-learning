@@ -1,0 +1,17 @@
+AC   Q4L6M4;
+Probable exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+(Exonuclease VII large subunit).
+"Whole-genome sequencing of Staphylococcus haemolyticus uncovers the
+extreme plasticity of its genome and the evolution of human-colonizing
+staphylococcal species.";
+-!- FUNCTION: Bidirectionally degrades single-stranded DNA into large
+    acid-insoluble oligonucleotides, which are then degraded further
+    into small acid-soluble oligonucleotides (By similarity).
+-!- CATALYTIC ACTIVITY: Exonucleolytic cleavage in either 5'- to 3'-
+    or 3'- to 5'-direction to yield nucleoside 5'-phosphates.
+-!- SUBUNIT: Heterooligomer composed of large and small subunits (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the xseA family.
+Complete proteome; Exonuclease; Hydrolase; Nuclease.
+TMZERO

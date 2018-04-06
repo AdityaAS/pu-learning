@@ -1,0 +1,16 @@
+AC   P60000;
+Chlorate reductase subunit gamma precursor (Chlorate reductase heme
+subunit).
+"A gene cluster for chlorate metabolism in Ideonella dechloratans.";
+-!- FUNCTION: May transfer electrons to the iron-sulfur centers of
+    clrB.
+-!- COFACTOR: Binds 1 heme B (iron-protoporphyrin IX) group per
+    subunit (Potential).
+-!- SUBUNIT: Heterotrimer of alpha, beta and gamma subunits.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- BIOTECHNOLOGY: Has potential use in bioremediation of waste sites
+    contaminated with chlorate, such as pulp and paper industry
+    wastewater.
+Electron transport; Heme; Iron; Metal-binding; Periplasmic; Signal;
+Transport.
+TMZERO

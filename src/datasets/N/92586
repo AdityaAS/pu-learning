@@ -1,0 +1,18 @@
+AC   Q88LE7;
+3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
+(Isopropylmalate isomerase) (Alpha-IPM isomerase) (IPMI).
+"Complete genome sequence and comparative analysis of the
+metabolically versatile Pseudomonas putida KT2440.";
+-!- FUNCTION: Catalyzes the isomerization between 2-isopropylmalate
+    and 3-isopropylmalate, via the formation of 2-isopropylmaleate.
+-!- CATALYTIC ACTIVITY: (2R,3S)-3-isopropylmalate = (2S)-2-
+    isopropylmaleate + H(2)O.
+-!- CATALYTIC ACTIVITY: (2S)-2-isopropylmaleate + H(2)O = 3-hydroxy-4-
+    methyl-3-carboxypentanoate.
+-!- PATHWAY: Amino-acid biosynthesis; L-leucine biosynthesis; L-
+    leucine from 3-methyl-2-oxobutanoate: step 2.
+-!- SUBUNIT: Heterodimer of leuC and leuD (By similarity).
+-!- SIMILARITY: Belongs to the leuD family. LeuD type 1 subfamily.
+Amino-acid biosynthesis; Branched-chain amino acid biosynthesis;
+Complete proteome; Leucine biosynthesis; Lyase.
+TMZERO

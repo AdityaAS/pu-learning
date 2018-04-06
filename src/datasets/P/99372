@@ -1,0 +1,25 @@
+AC   P24612;
+Degenerin mec-4 (Mechanosensory abnormality protein 4).
+"Sequence and transmembrane topology of MEC-4, an ion channel subunit
+required for mechanotransduction in Caenorhabditis elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"The mec-4 gene is a member of a family of Caenorhabditis elegans
+genes that can mutate to induce neuronal degeneration.";
+"The mechanosensory protein MEC-6 is a subunit of the C. elegans
+touch-cell degenerin channel.";
+-!- FUNCTION: Probable sodium channel subunit. May be needed for
+    mechanosensory transduction (touch sensitivity).
+-!- SUBUNIT: The channel is probably composed of at least the mec-2,
+    mec-4, mec-6 and mec-10 subunits.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Coexpressed with mec-6 in touch-cell axons.
+-!- MISCELLANEOUS: Mutations in mec-4 results in the degeneration of a
+    small set of neurons which typically swell to several time their
+    normal diameter before they disappear, presumably due to lysis.
+-!- SIMILARITY: Belongs to the amiloride-sensitive sodium channel
+    family.
+Complete proteome; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Neurodegeneration; Sodium; Sodium channel; Sodium transport;
+Transmembrane; Transport.
+TMTWO

@@ -1,0 +1,34 @@
+AC   P02930; Q2M9G5;
+Outer membrane protein tolC precursor.
+"Nucleotide sequence of the tolC gene of Escherichia coli.";
+"Primary structure of the tolC gene that codes for an outer membrane
+protein of Escherichia coli K12.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The TolC protein of Escherichia coli K12 is synthesised in a
+precursor form.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Extraction of membrane proteins by differential solubilization for
+separation using two-dimensional gel electrophoresis.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Crystal structure of the bacterial membrane protein TolC central to
+multidrug efflux and protein export.";
+-!- FUNCTION: Required for proper expression of outer membrane protein
+    genes such as ompF, nmpC, protein 2, hemolysin, colicin V, or
+    colicin E1. May be specialized for signal sequence independent,
+    extracellular secretion in Gram-negative bacteria.
+-!- SUBUNIT: Homotrimer that assembles to form a continuous, solvent-
+    accessible conduit: a 'channel-tunnel' over 140 Angstroms long
+    that spans both the outer membrane and periplasmic space. The
+    periplasmic or proximal end of the tunnel is sealed by sets of
+    coiled helices.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the outer membrane factor (OMF) (TC 1.B.17)
+    family.
+-!- CAUTION: Ref.2 sequence was extensively corrected by Ref.1.
+3D-structure; Complete proteome; Direct protein sequencing; Membrane;
+Outer membrane; Repeat; Signal; Transmembrane; Transport.
+TMFOUR

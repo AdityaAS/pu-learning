@@ -1,0 +1,10 @@
+AC   O34496; Q795T2;
+UPF0354 protein ytpQ.
+"Sequencing and functional annotation of the Bacillus subtilis genes
+in the 200 kb rrnB-dnaB region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- SIMILARITY: Belongs to the UPF0354 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

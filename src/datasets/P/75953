@@ -1,0 +1,20 @@
+AC   P0ACG4; P22982; P75618; Q2MCH5;
+Protein hokC (Protein gef).
+"A family of genes encoding a cell-killing function may be conserved
+in all Gram-negative bacteria.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Topographic analysis of the toxic Gef protein from Escherichia
+coli.";
+"Multiple hok genes on the chromosome of Escherichia coli.";
+-!- FUNCTION: When overexpressed, kills the cells from the inside by
+    interfering with a vital function in the cell membrane.
+-!- SUBUNIT: Homodimer; disulfide-linked.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein.
+-!- SIMILARITY: Belongs to the hok/gef family.
+Complete proteome; Membrane; Signal-anchor; Transmembrane.
+TMONE

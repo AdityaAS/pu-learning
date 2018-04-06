@@ -1,0 +1,23 @@
+AC   P35828; Q46015; Q9RFI2;
+S-layer protein (Paracrystalline surface layer protein).
+"Nucleotide sequence analysis of the gene encoding the Caulobacter
+crescentus paracrystalline surface layer protein.";
+"The secretion signal of C. crescentus S-layer protein is located in
+the C-terminal 82 amino acids of the molecule.";
+"Complete genome sequence of Caulobacter crescentus.";
+"Transcriptional analysis of the major surface array gene of
+Caulobacter crescentus.";
+"The Caulobacter crescentus paracrystalline S-layer protein is
+secreted by an ABC transporter (type I) secretion apparatus.";
+-!- FUNCTION: The S-layer is a paracrystalline mono-layered assembly
+    of proteins which coats the surface of bacteria. Probably acts as
+    a physical barrier to parasites and lytic enzymes.
+-!- SUBCELLULAR LOCATION: Cell wall. Note=This bacterium is covered by
+    a S-layer with hexagonal symmetry. Secreted by an ABC transporter
+    (type I) secretion apparatus.
+-!- MISCELLANEOUS: The calcium binding of this protein may mediate
+    surface attachment by ionic bridging between the S-layer and a
+    specific membrane-associated oligosaccharide.
+Calcium; Cell wall; Complete proteome; Direct protein sequencing;
+S-layer.
+TMZERO

@@ -1,0 +1,43 @@
+AC   P0A7F9; P21516; Q2MC21;
+S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)
+(Queuosine biosynthesis protein queA).
+"Structure and organization of Escherichia coli genes involved in
+biosynthesis of the deazaguanine derivative queuine, a nutrient factor
+for eukaryotes.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"A new function of S-adenosylmethionine: the ribosyl moiety of AdoMet
+is the precursor of the cyclopentenediol moiety of the tRNA wobble
+base queuine.";
+"Transfer and isomerization of the ribose moiety of AdoMet during the
+biosynthesis of queuosine tRNAs, a new unique reaction catalyzed by
+the QueA protein from Escherichia coli.";
+"Kinetic mechanism of the tRNA-modifying enzyme S-
+adenosylmethionine:tRNA ribosyltransferase-isomerase (QueA).";
+-!- FUNCTION: Transfers and isomerizes the ribose moiety from AdoMet
+    to the 7-aminomethyl group of 7-deazaguanine (preQ1-tRNA) to give
+    epoxyqueuosine (oQ-tRNA).
+-!- CATALYTIC ACTIVITY: S-adenosylmethionine + 7-aminomethyl-7-
+    deazaguanosine = methionine + adenine + epoxyqueuosine.
+-!- ENZYME REGULATION: Inhibited by S-adenosylhomocysteine,
+    adenosylornithine and products.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=98 uM for S-adenosylmethionine;
+      KM=1.9 uM for 7-(aminomethyl)-7-deazaguanosine;
+-!- PATHWAY: Nucleoside biosynthesis; queuosine biosynthesis;
+    qeuosine-tRNA from GTP; step 4.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- MISCELLANEOUS: This reaction follows a completely ordered
+    sequential bi-ter kinetic mechanism, with binding of preQ1-tRNATyr
+    followed by AdoMet to form the ternary complex. Products are then
+    released in the following order: adenine, methionine, and oQ-
+    tRNATyr.
+-!- SIMILARITY: Belongs to the queA family.
+ GO:0016853; F:isomerase activity; IEA:HAMAP.
+ GO:0016740; F:transferase activity; IEA:HAMAP.
+Complete proteome; Isomerase; Queuosine biosynthesis; Transferase.
+TMZERO

@@ -1,0 +1,45 @@
+AC   P52002; Q9S505;
+Multidrug resistance protein mexB (Multidrug-efflux transporter mexB).
+"Cloning and sequence analysis of an EnvCD homologue in Pseudomonas
+aeruginosa: regulation by iron and possible involvement in the
+secretion of the siderophore pyoverdine.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"Molecular mechanisms of bacterial virulence elucidated using a
+Pseudomonas aeruginosa-Caenorhabditis elegans pathogenesis model.";
+"Global analysis of the membrane subproteome of Pseudomonas aeruginosa
+using liquid chromatography-tandem mass spectrometry.";
+"Multiple antibiotic resistance in Pseudomonas aeruginosa: evidence
+for involvement of an efflux operon.";
+"Role of mexA-mexB-oprM in antibiotic efflux in Pseudomonas
+aeruginosa.";
+"Role of the multidrug efflux systems of Pseudomonas aeruginosa in
+organic solvent tolerance.";
+"Membrane topology of the xenobiotic-exporting subunit, MexB, of the
+MexA,B-OprM extrusion pump in Pseudomonas aeruginosa.";
+-!- FUNCTION: The inner membrane transporter component of the mexAB-
+    oprM efflux system that confers multidrug resistance. Also
+    functions as the major efflux pump for n-hexane and p-xylene
+    efflux. Over-expression of the pump increases antibiotic and
+    solvent efflux capacities. Implicated in the secretion of the
+    siderophore pyoverdine.
+-!- FUNCTION: The ability to export antibiotics and solvents is
+    dramatically decreased in the presence of the proton conductor
+    carbonyl cyanide m-chlorophenylhydrazone (CCCP), showing that an
+    energized inner membrane is required for efflux. It is thought
+    that the mexB subunit is a proton antiporter.
+-!- SUBUNIT: Component of the mexAB-oprM multidrug efflux complex
+    composed of an unknown number of mexA subunits, mexB and an oprM
+    homotrimer. The mexA subunits are thought to form a barrel between
+    the mexB inner membrane transporter and the trimeric oprM outer
+    membrane channel protein which allows substrates to pass directly
+    from the cytoplasm to the external mileu. How the mexA subunits
+    interact with oprM and mexB, and how the oprM channel is opened is
+    unknown.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By growth under severe iron limitation.
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+Antibiotic resistance; Complete proteome; Direct protein sequencing;
+Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

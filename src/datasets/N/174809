@@ -1,0 +1,15 @@
+AC   P15501;
+Prostatic spermine-binding protein precursor (SBP) (Major prostatic
+secretory glycoprotein) (P25).
+"Androgen regulated expression of a spermine binding protein gene in
+mouse ventral prostate.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: This protein seems to be functional equivalent to rat
+    prostatic spermine-binding protein, which is involved in polyamine
+    binding.
+-!- TISSUE SPECIFICITY: Prostate.
+-!- INDUCTION: By androgens.
+-!- SIMILARITY: To rat SBP.
+Glycoprotein; Signal.
+TMZERO

@@ -1,0 +1,28 @@
+AC   P0AFZ7; P21166; P76769; Q2M8F2;
+Trk system potassium uptake protein trkH.
+"Nucleotide sequence between the fadB gene and the rrnA operon from
+Escherichia coli.";
+"TrkH and its homolog, TrkG, determine the specificity and kinetics of
+cation transport by the Trk system of Escherichia coli.";
+"Analysis of the Escherichia coli genome: DNA sequence of the region
+from 84.5 to 86.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Low-affinity potassium transport system. Interacts with
+    trk system potassium uptake protein trkA and requires trkE for
+    transport activity.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the trkH potassium transport family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to frameshifts
+    in positions 418 and 420.
+-!- CAUTION: Ref.3 (AAA67646) sequence differs from that shown due to
+    a frameshift in position 416.
+Complete proteome; Inner membrane; Ion transport; Membrane; Potassium;
+Potassium transport; Transmembrane; Transport.
+TMELEVEN

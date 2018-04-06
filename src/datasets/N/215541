@@ -1,0 +1,8 @@
+AC   Q67J66;
+UPF0247 protein STH3303.
+"Genome sequence of Symbiobacterium thermophilum, an uncultivable
+bacterium that depends on microbial commensalism.";
+-!- SIMILARITY: Belongs to the UPF0247 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P0A951; P37354;
+Spermidine N(1)-acetyltransferase (EC 2.3.1.57) (Diamine
+acetyltransferase) (SAT).
+"Properties and structure of spermidine acetyltransferase in
+Escherichia coli.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Regulates polyamine concentration by their degradation.
+    Acts on spermidine, forming 1-N- and 8-N-acetylspermidine.
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + an alkane-alpha,omega-diamine =
+    CoA + an N-acetyldiamine.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the acetyltransferase family.
+-!- SIMILARITY: Contains 1 N-acetyltransferase domain.
+ GO:0004145; F:diamine N-acetyltransferase activity; IEA:EC.
+Acyltransferase; Complete proteome; Direct protein sequencing;
+Transferase.
+TMZERO

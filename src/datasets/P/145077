@@ -1,0 +1,55 @@
+AC   Q02161; Q02162; Q07618; Q16147; Q16235; Q16355; Q9NPK0; Q9UQ20;
+AC   Q9UQ21; Q9UQ22; Q9UQ23;
+Blood group Rh(D) polypeptide (Rhesus D antigen) (RHXIII) (Rh
+polypeptide 2) (RhPII) (CD240D antigen).
+"Molecular cloning and primary structure of the human blood group RhD
+polypeptide.";
+"Multiple Rh messenger RNA isoforms are produced by alternative
+splicing.";
+"Molecular cloning of RhD cDNA derived from a gene present in RhD-
+positive, but not RhD-negative individuals.";
+"Isolation of a new cDNA clone encoding an Rh polypeptide associated
+with the Rh blood group system.";
+"Identification of a partial internal deletion in the RH locus causing
+the human erythrocyte D-phenotype.";
+"Identification of a new RhD-specific mRNA from K562 cells.";
+"Rh(D) antigen expression and isolation of a new Rh(D) cDNA isoform in
+human erythroleukemic K562 cells.";
+"Protein-sequence studies on Rh-related polypeptides suggest the
+presence of at least two groups of proteins which associate in the
+human red-cell membrane.";
+"Polymorphism in the Mr 32,000 Rh protein purified from Rh(D)-positive
+and -negative erythrocytes.";
+"Determination of the N-terminal sequence of human red cell Rh(D)
+polypeptide and demonstration that the Rh(D), (c), and (E) antigens
+are carried by distinct polypeptide chains.";
+"Regarding the size of Rh proteins.";
+"Polymorphisms of RhDVa in Japanese.";
+"Leu110Pro substitution in the RhD polypeptide is responsible for the
+DVII category blood group phenotype.";
+-!- FUNCTION: May be part of an oligomeric complex which is likely to
+    have a transport or channel function in the erythrocyte membrane.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=Long;
+      IsoId=Q02161-1; Sequence=Displayed;
+    Name=2; Synonyms=Short 1;
+      IsoId=Q02161-2; Sequence=VSP_005706;
+    Name=3; Synonyms=Short 2;
+      IsoId=Q02161-3; Sequence=VSP_005707, VSP_005708;
+-!- TISSUE SPECIFICITY: Restricted to tissues or cell lines expressing
+    erythroid characters.
+-!- POLYMORPHISM: RHD and RHCE are responsible for the Rh blood group
+    system. The molecular basis of the Tar=Rh40 blood group antigen is
+    a polymorphism in position 109.
+-!- SIMILARITY: Belongs to the Rh family.
+-!- WEB RESOURCE: NAME=BGMUT;
+    NOTE=Blood group antigen gene mutation database";
+    URL="http://www.ncbi.nlm.nih.gov/projects/mhc/xslcgi.fcgi?cmd=bgmut/systems_info&system=rh".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=RhD".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+Alternative splicing; Blood group antigen; Direct protein sequencing;
+Membrane; Polymorphism; Transmembrane.
+TMELEVEN

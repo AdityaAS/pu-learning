@@ -1,0 +1,26 @@
+AC   P31428;
+Dipeptidase 1 precursor (EC 3.4.13.19) (Microsomal dipeptidase) (Renal
+dipeptidase) (Membrane-bound dipeptidase 1) (MBD-1).
+"Purification and molecular cloning of mouse renal dipeptidase.";
+"Identification of two additional members of the membrane-bound
+dipeptidase family.";
+-!- FUNCTION: Hydrolyzes a wide range of dipeptides. Implicated in the
+    renal metabolism of glutathione and its conjugates. Converts
+    leukotriene D4 to leukotriene E4; it may play an important role in
+    the regulation of leukotriene activity.
+-!- CATALYTIC ACTIVITY: Hydrolysis of dipeptides.
+-!- COFACTOR: Zinc.
+-!- ENZYME REGULATION: Inhibited by L-penicillamine.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=10 uM for leukotriene D4;
+      KM=0.45 mM for cystinyl-bis-glycine;
+      KM=111 uM for beta-lactam;
+-!- SUBUNIT: Homodimer; disulfide-linked.
+-!- SUBCELLULAR LOCATION: Cell membrane; apical cell membrane; lipid-
+    anchor; GPI-anchor. Note=Brush border membrane.
+-!- SIMILARITY: Belongs to the peptidase M19 family.
+Dipeptidase; Endoplasmic reticulum; Glycoprotein; GPI-anchor;
+Hydrolase; Lipoprotein; Membrane; Metal-binding; Metalloprotease;
+Microsome; Protease; Signal; Zinc.
+TMZERO

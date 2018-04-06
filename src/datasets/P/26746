@@ -1,0 +1,38 @@
+AC   P37019; P77394;
+H(+)/Cl(-) exchange transporter clcA (ClC-ec1).
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+2.4-4.1 min (110,917-193,643 bp) region.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"High-level expression, functional reconstitution, and quaternary
+structure of a prokaryotic ClC-type chloride channel.";
+"Expression, purification, and initial structural characterization of
+YadQ, a bacterial homolog of mammalian ClC chloride channel
+proteins.";
+"A biological role for prokaryotic ClC chloride channels.";
+"Secondary active transport mediated by a prokaryotic homologue of ClC
+Cl-channels.";
+"Projection structure of a ClC-type chloride channel at 6.5 A
+resolution.";
+"X-ray structure of a ClC chloride channel at 3.0 A reveals the
+molecular basis of anion selectivity.";
+"Gating the selectivity filter in ClC chloride channels.";
+-!- FUNCTION: Probably acts as an electrical shunt for an outwardly-
+    directed proton pump that is linked to amino acid decarboxylation,
+    as part of the extreme acid resistance (XAR) response.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- INDUCTION: By acid-shock conditions.
+-!- SIMILARITY: Belongs to the chloride channel (TC 1.A.11) family.
+    ClcA subfamily.
+-!- CAUTION: Was originally thought to be a voltage-gated ClC-type
+    chloride channel.
+-!- CAUTION: Ref.1 sequence differs from that shown due to a
+    frameshift in position 11.
+ GO:0015297; F:antiporter activity; IEA:HAMAP.
+3D-structure; Antiport; Chloride; Complete proteome; Inner membrane;
+Ion transport; Membrane; Transmembrane; Transport.
+TMSEVENTEEN

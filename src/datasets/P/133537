@@ -1,0 +1,15 @@
+AC   P11005; Q31MQ2;
+Photosystem II D2 protein (Photosystem Q(A) protein) (PSII D2
+protein).
+"Nucleotide sequence and transcript analysis of three photosystem II
+genes from the cyanobacterium Synechococcus sp. PCC7942.";
+"Complete sequence of chromosome 1 of Synechococcus elongatus PCC
+7942.";
+-!- FUNCTION: This is one of the two reaction center proteins of PSII,
+    D2 protein is needed for assembly of a stable PSII complex.
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; multi-pass
+    membrane protein.
+-!- SIMILARITY: Belongs to the reaction center pufL/M/psbA/D family.
+Complete proteome; Electron transport; Iron; Membrane; Metal-binding;
+Photosynthesis; Photosystem II; Thylakoid; Transmembrane; Transport.
+TMFIVE

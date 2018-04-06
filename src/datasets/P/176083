@@ -1,0 +1,23 @@
+AC   P49458;
+Signal recognition particle 9 kDa protein (SRP9).
+"Human signal recognition particle (SRP) Alu-associated protein also
+binds Alu interspersed repeat sequence RNAs. Characterization of human
+SRP9.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Signal-recognition-particle assembly has a crucial role
+    in targeting secretory proteins to the rough endoplasmic reticulum
+    membrane. SRP9 together with SRP14 and the Alu portion of the SRP
+    RNA, constitutes the elongation arrest domain of SRP. The complex
+    of SRP9 and SRP14 is required for SRP RNA binding.
+-!- SUBUNIT: Signal recognition particle consists of a 7S RNA molecule
+    of 300 nucleotides and six protein subunits: SRP72, SRP68, SRP54,
+    SRP19, SRP14 and SRP9.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the SRP9 family.
+ GO:0005785; C:signal recognition particle receptor complex; TAS:ProtInc.
+ GO:0003723; F:RNA binding; TAS:ProtInc.
+ GO:0005047; F:signal recognition particle binding; TAS:ProtInc.
+3D-structure; Ribonucleoprotein; RNA-binding;
+Signal recognition particle.
+TMZERO

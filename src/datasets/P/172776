@@ -1,0 +1,154 @@
+AC   Q03720; Q24369; Q59DU0; Q59DU1; Q59DU2; Q59DU3; Q59DU4; Q59DU5;
+AC   Q59DU6; Q59DU7; Q59DU8; Q59DU9; Q59DV0; Q59DV1; Q59DV2; Q7KS13;
+AC   Q86NK5; Q8IMV9; Q9TWA1; Q9VC51;
+Calcium-activated potassium channel slowpoke (Maxi K channel) (MaxiK)
+(BK channel) (dSlo).
+"A component of calcium-activated potassium channels encoded by the
+Drosophila slo locus.";
+"Calcium-activated potassium channels expressed from cloned
+complementary DNAs.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Tissue-specific expression of a Drosophila calcium-activated
+potassium channel.";
+"dSLo interacting protein 1, a novel protein that interacts with
+large-conductance calcium-activated potassium channels.";
+"Slob, a novel protein that interacts with the Slowpoke calcium-
+dependent potassium channel.";
+"Simultaneous binding of two protein kinases to a calcium-dependent
+potassium channel.";
+"A dynamically regulated 14-3-3, Slob, and Slowpoke potassium channel
+complex in Drosophila presynaptic nerve terminals.";
+"Ca2+-binding activity of a COOH-terminal fragment of the Drosophila
+BK channel involved in Ca2+-dependent activation.";
+"Modulation of Drosophila slowpoke calcium-dependent potassium channel
+activity by bound protein kinase a catalytic subunit.";
+-!- FUNCTION: Potassium channel activated by both membrane
+    depolarization or increase in cytosolic Ca(2+) that mediates
+    export of K(+). Its activation dampens the excitatory events that
+    elevate the cytosolic Ca(2+) concentration and/or depolarize the
+    cell membrane. It therefore contributes to repolarization of the
+    membrane potential. Kinetics are determined by alternative
+    splicing, phosphorylation status and its combination interaction
+    with Slob and 14-3-3-zeta. While the interaction with Slob1 alone
+    increases its activity, its interaction with both Slob1 and 14-3-
+    3-zeta decreases its activity.
+-!- SUBUNIT: Homotetramer; which constitutes the calcium-activated
+    potassium channel (By similarity). Interacts with Slip1. Interacts
+    with Slob, and, indirectly with 14-3-3-zeta via its interaction
+    with Slob. Interacts with Pka-C1 and Src kinases, which can bind
+    simultaneously to it.
+-!- INTERACTION:
+    P12370:Pka-C1; NbExp=3; IntAct=EBI-426805, EBI-82224;
+    Q8MR31:Slip1; NbExp=4; IntAct=EBI-426805, EBI-421276;
+    Q8IPH9:Slob; NbExp=1; IntAct=EBI-426805, EBI-142379;
+    Q8IPH9-1:Slob; NbExp=1; IntAct=EBI-426805, EBI-424896;
+    P00528:Src64B; NbExp=3; IntAct=EBI-426805, EBI-87092;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=20;
+      Comment=Additional isoforms seem to exist;
+    Name=N;
+      IsoId=Q03720-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q03720-2; Sequence=VSP_050267, VSP_050268;
+      Note=Ref.1 sequence is in conflict in positions:
+      660:QMV->QMVGMV, 783:MP->M;
+    Name=3;
+      IsoId=Q03720-4; Sequence=VSP_050268;
+      Note=Ref.1 sequence is in conflict in positions: 783:MP->M;
+    Name=5;
+      IsoId=Q03720-6; Sequence=VSP_010001, VSP_010002, VSP_050267,
+                               VSP_050268;
+      Note=Ref.2 sequence is in conflict in position: 764:Q->NN;
+    Name=6;
+      IsoId=Q03720-3; Sequence=VSP_009999, VSP_010000, VSP_010001,
+                               VSP_010003, VSP_050268;
+    Name=A; Synonyms=G;
+      IsoId=Q03720-5; Sequence=VSP_010004;
+    Name=B;
+      IsoId=Q03720-7; Sequence=VSP_009999;
+      Note=No experimental confirmation available;
+    Name=C;
+      IsoId=Q03720-8; Sequence=VSP_009999, VSP_010002;
+      Note=No experimental confirmation available;
+    Name=D;
+      IsoId=Q03720-9; Sequence=VSP_020625, VSP_010004;
+      Note=No experimental confirmation available;
+    Name=E;
+      IsoId=Q03720-10; Sequence=VSP_010000, VSP_010004;
+      Note=No experimental confirmation available;
+    Name=F;
+      IsoId=Q03720-11; Sequence=VSP_010001, VSP_010004;
+      Note=No experimental confirmation available;
+    Name=H;
+      IsoId=Q03720-12; Sequence=VSP_010002, VSP_010004;
+      Note=No experimental confirmation available;
+    Name=I;
+      IsoId=Q03720-13; Sequence=VSP_050267;
+      Note=No experimental confirmation available;
+    Name=J;
+      IsoId=Q03720-14; Sequence=VSP_020627;
+      Note=No experimental confirmation available;
+    Name=K;
+      IsoId=Q03720-15; Sequence=VSP_020628;
+      Note=No experimental confirmation available;
+    Name=L;
+      IsoId=Q03720-16; Sequence=VSP_020626;
+      Note=No experimental confirmation available;
+    Name=M;
+      IsoId=Q03720-17; Sequence=VSP_010004, VSP_050268;
+      Note=No experimental confirmation available;
+    Name=O;
+      IsoId=Q03720-18; Sequence=VSP_010002, VSP_020628;
+      Note=No experimental confirmation available;
+    Name=P;
+      IsoId=Q03720-19; Sequence=VSP_010000, VSP_010002, VSP_020628;
+      Note=No experimental confirmation available;
+    Name=Q;
+      IsoId=Q03720-20; Sequence=VSP_010000, VSP_010002, VSP_010004;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Expressed in muscle cells, neurons of the CNS
+    and PNS, mushroom bodies, a limited number of cells in embryonic
+    and larval midgut and in epithelial-derived tracheal cells. During
+    pupariation and embryogenesis, it is expressed in muscles many
+    hours prior to the appearance of functional channels.
+-!- DOMAIN: The S4 segment, which is characterized by a series of
+    positively charged amino acids at every third position, is part of
+    the voltage-sensor (By similarity).
+-!- DOMAIN: The pore-forming domain (also referred as P region) is
+    imbedded into the membrane, and forms the selectivity filter of
+    the pore. It contains the signature sequence of potassium channels
+    that displays selectivity to potassium (By similarity).
+-!- DOMAIN: The RCK N-terminal domain mediates the
+    homotetramerization, thereby promoting the assembly of monomers
+    into functional potassium channel. It includes binding sites for
+    Ca(2+) and Mg(2+) (By similarity).
+-!- DOMAIN: The calcium bowl constitutes one of the Ca(2+) sensors and
+    probably acts as a Ca(2+)-binding site.
+-!- PTM: Phosphorylated. Phosphorylation may be mediated by both PKA
+    and SRC kinases, which activate the channel activity.
+    Phosphorylation by PKA is however unclear. Indeed, although
+    modulation of channel activity requires Pka-C1, it does not
+    interacts with the whole PKA holoenzyme. Moreover, modulation of
+    activity does not depend upon phosphorylation of Ser-978.
+-!- SIMILARITY: Belongs to the potassium channel family. Calcium-
+    activated subfamily.
+-!- SIMILARITY: Contains 1 RCK N-terminal domain.
+-!- CAUTION: Ref.5 sequence differs from that shown due to a
+    frameshift in position 192.
+ GO:0005886; C:plasma membrane; NAS:FlyBase.
+ GO:0015269; F:calcium-activated potassium channel activity; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0007623; P:circadian rhythm; IMP:FlyBase.
+ GO:0045433; P:male courtship behavior (sensu Insecta), so...; NAS:FlyBase.
+ GO:0006813; P:potassium ion transport; IDA:UniProtKB.
+ GO:0042493; P:response to drug; IMP:FlyBase.
+Alternative splicing; Calcium; Complete proteome; Ion transport;
+Ionic channel; Membrane; Phosphorylation; Potassium;
+Potassium channel; Potassium transport; Transmembrane; Transport;
+Voltage-gated channel.
+TMSEVEN

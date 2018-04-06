@@ -1,0 +1,21 @@
+AC   P15754;
+Type 4 prepilin-like proteins leader peptide-processing enzyme
+(Pullulanase secretion protein pulO) [Includes: Leader peptidase
+(EC 3.4.23.43) (Prepilin peptidase); N-methyltransferase
+(EC 2.1.1.-)].
+"Five genes at the 3' end of the Klebsiella pneumoniae pulC operon are
+required for pullulanase secretion.";
+-!- FUNCTION: Cleaves type-4 fimbrial leader sequence and methylates
+    the N-terminal (generally Phe) residue. Required for the
+    translocation of pullulanase.
+-!- CATALYTIC ACTIVITY: Typically cleaves a -Gly-|-Phe- bond to
+    release an N-terminal, basic peptide of 5-8 residues from type IV
+    prepilin, and then N-methylates the new N-terminal amino group,
+    the methyl donor being S-adenosyl-L-methionine.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the peptidase A24 family.
+ GO:0008978; F:prepilin peptidase activity; IEA:EC.
+Hydrolase; Inner membrane; Membrane; Methyltransferase;
+Multifunctional enzyme; Protease; Transferase; Transmembrane.
+TMSIX

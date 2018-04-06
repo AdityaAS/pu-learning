@@ -1,0 +1,13 @@
+AC   P48805;
+Fibroblast growth factor 4-I precursor (FGF-4-I) (HBGF-4-I) (Embryonic
+fibroblast growth factor I) (XEFGF-I).
+"Expression of a novel FGF in the Xenopus embryo. A new candidate
+inducing factor for mesoderm formation and anteroposterior
+specification.";
+-!- FUNCTION: Good candidate for an inducing factor with possible
+    roles both in mesoderm induction at the blastula stage and in the
+    formation of the anteroposterior axis at the gastrula stage.
+-!- SUBCELLULAR LOCATION: Secreted protein (Probable).
+-!- SIMILARITY: Belongs to the heparin-binding growth factors family.
+Growth factor; Mitogen; Signal.
+TMZERO

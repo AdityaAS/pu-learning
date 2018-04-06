@@ -1,0 +1,15 @@
+AC   Q50559; O26152;
+Mevalonate kinase (EC 2.7.1.36) (MK).
+"Complete genome sequence of Methanobacterium thermoautotrophicum
+deltaH: functional analysis and comparative genomics.";
+-!- CATALYTIC ACTIVITY: ATP + (R)-mevalonate = ADP + (R)-5-
+    phosphomevalonate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the GHMP kinase family. Mevalonate kinase
+    subfamily.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ATP-binding; Complete proteome; Kinase; Magnesium; Nucleotide-binding;
+Transferase.
+TMZERO

@@ -1,0 +1,27 @@
+AC   P0AE26; P08532; P76304; P76305;
+L-arabinose transport system permease protein araH.
+"High-affinity L-arabinose transport operon. Nucleotide sequence and
+analysis of gene products.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Analysis of the otsBA operon for osmoregulatory trehalose synthesis
+in Escherichia coli and homology of the OtsA and OtsB proteins to the
+yeast trehalose-6-phosphate synthase/phosphatase complex.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for L-arabinose. Probably responsible for the translocation of the
+    substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. AraH/rbsC subfamily.
+ GO:0015407; F:monosaccharide-transporting ATPase activity; IEA:EC.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTEN

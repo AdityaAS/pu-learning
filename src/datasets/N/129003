@@ -1,0 +1,47 @@
+AC   P27276;
+Structural polyprotein (PP) [Contains: Capsid protein VP2; p1; p2; p3;
+p4; Protease VP4 (EC 3.4.21.-) (Non-structural protein VP4) (NS);
+Capsid assembly protein VP3].
+"Genome cloning and analysis of the large RNA segment (segment A) of a
+naturally avirulent serotype 2 infectious bursal disease virus.";
+"Site-directed mutagenesis of Avibirnavirus VP4 gene.";
+-!- FUNCTION: VP2 trimers form the shell (By similarity).
+-!- FUNCTION: Protease VP4 is a serine protease that cleaves the
+    polyprotein to release the mature proteins (By similarity).
+-!- FUNCTION: VP3 binds to viral double-strand RNA (dsRNA), both of
+    the A segment and of the B segment. Might therefore be involved in
+    genomic RNA packaging. Although it does not follow the icosahedral
+    symmetry, VP3 controls the assembly of the T=13 capsid (By
+    similarity).
+-!- FUNCTION: p1 is a small peptide derived from pVP2 C-terminus. It
+    is essential for the virus viability (By similarity).
+-!- FUNCTION: p2 is a small peptide derived from pVP2 C-terminus. It
+    is not essential for the virus viability, but viral growth is
+    affected when missing (By similarity).
+-!- FUNCTION: p3 is a small peptide derived from pVP2 C-terminus. It
+    is not essential for the virus viability, but viral growth is
+    affected when missing (By similarity).
+-!- FUNCTION: p4 is a small peptide derived from pVP2 C-terminus. It
+    is essential for the virus viability (By similarity).
+-!- SUBUNIT: VP2 is trimeric. VP3 interacts with VP1 in the cytoplasm
+    (By similarity).
+-!- PTM: Specific enzymatic cleavages yield mature proteins. The
+    capsid assembly seems to be regulated by polyprotein processing.
+    The polyprotein is processed by protease VP4 into the major
+    structural proteins of the virion, precursor of VP2 (pVP2) and
+    VP3. During capsid assembly, the C-terminus of pVP2 is processed
+    by VP4, giving rise to VP2, the external capsid protein and four
+    small peptides that all stay closely associated with the capsid
+    (By similarity).
+-!- MISCELLANEOUS: Birnavirus particles are about 60 nm in diameter
+    and are composed of a single, non-enveloped, T=13 icosahedral
+    shell, made of 260 VP2 trimers. The major components of the
+    particles are VP2 and VP3. The capsid contains two genome segments
+    A and B of double-strand RNA. Minor amounts of VP1, VP4, p1, p2,
+    p3, p4 and trace amount of the polyprotein are also incorporated
+    in the virion (By similarity).
+-!- MISCELLANEOUS: This protein is encoded by the large RNA segment A
+    coding for the structural polyprotein and VP5.
+-!- SIMILARITY: Contains 1 peptidase S50 domain.
+Capsid protein; Hydrolase; Protease; Serine protease; Virion protein.
+TMZERO

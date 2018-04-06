@@ -1,0 +1,35 @@
+AC   P38307;
+Degradation in the endoplasmic reticulum protein 1.
+"Der1, a novel protein specifically required for endoplasmic reticulum
+degradation in yeast.";
+"Nucleotide sequence analysis of an 11.7 kb fragment of yeast
+chromosome II including BEM1, a new gene of the WD-40 repeat family
+and a new member of the KRE2/MNT1 family.";
+"Complete DNA sequence of yeast chromosome II.";
+"Functional and genomic analyses reveal an essential coordination
+between the unfolded protein response and ER-associated degradation.";
+"Global analysis of protein expression in yeast.";
+"Der1p, a protein required for degradation of malfolded soluble
+proteins of the endoplasmic reticulum: topology and Der1-like
+proteins.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Specifically required for the degradation process of
+    misfolded endoplasmic reticulum (ER) luminal proteins. Probably
+    participates in the transfer of misfolded proteins from the ER to
+    the cytosol, where they are destroyed by the proteasome in a
+    ubiquitin-dependent manner.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein.
+-!- INDUCTION: Up-regulated by the unfolded protein response (UPR).
+-!- MISCELLANEOUS: Present with 238 molecules/cell.
+-!- SIMILARITY: Belongs to the derlin family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to a
+    frameshift in position 40.
+ GO:0005789; C:endoplasmic reticulum membrane; IDA:SGD.
+ GO:0008233; F:peptidase activity; IMP:UniProtKB.
+ GO:0005515; F:protein binding; IMP:SGD.
+ GO:0030433; P:ER-associated protein catabolism; IMP:SGD.
+Complete proteome; Endoplasmic reticulum; Membrane; Protein transport;
+Transmembrane; Transport.
+TMFOUR

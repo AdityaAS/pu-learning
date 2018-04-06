@@ -1,0 +1,11 @@
+AC   Q5LDK8;
+Recombination protein recR.
+"Extensive DNA inversions in the B. fragilis genome control variable
+gene expression.";
+-!- FUNCTION: May play a role in DNA repair. It seems to be involved
+    in an recBC-independent recombinational process of DNA repair. It
+    may act with recF and recO (By similarity).
+-!- SIMILARITY: Belongs to the recR family.
+Complete proteome; DNA damage; DNA recombination; DNA repair;
+Metal-binding; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,16 @@
+AC   Q12150;
+Protein CSF1 (Cold sensitive for fermentation protein 1).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Cloning and characterization of the CSF1 gene of Saccharomyces
+cerevisiae, which is required for nutrient uptake at low
+temperature.";
+-!- FUNCTION: Required for the glucose and other nutrients uptake at
+    low temperature.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the CSF1 family.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0006113; P:fermentation; IMP:SGD.
+Complete proteome; Glycoprotein; Membrane; Signal-anchor;
+Transmembrane.
+TMONE

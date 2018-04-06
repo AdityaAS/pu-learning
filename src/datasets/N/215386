@@ -1,0 +1,8 @@
+AC   Q7VRA3;
+UPF0054 protein Bfl316.
+"The genome sequence of Blochmannia floridanus: comparative analysis
+of reduced genomes.";
+-!- SIMILARITY: Belongs to the UPF0054 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

@@ -1,0 +1,47 @@
+AC   Q04195; Q06762; Q7LIJ4;
+E3 SUMO-protein ligase SIZ1 (EC 6.-.-.-) (SAP and Miz-finger domain-
+containing protein 1) (Ubiquitin-like--protein ligase 1).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Isolation and DNA sequence of the STE14 gene encoding farnesyl
+cysteine: carboxyl methyltransferase.";
+"An E3-like factor that promotes SUMO conjugation to the yeast
+septins.";
+"A novel factor required for the SUMO1/Smt3 conjugation of yeast
+septins.";
+"Saccharomyces cerevisiae SMT4 encodes an evolutionarily conserved
+protease with a role in chromosome condensation regulation.";
+"Yeast Ull1/Siz1 is a novel SUMO1/Smt3 ligase for septin components
+and functions as an adaptor between conjugating enzyme and
+substrates.";
+"RAD6-dependent DNA repair is linked to modification of PCNA by
+ubiquitin and SUMO.";
+"Comparative analysis of yeast PIAS-type SUMO ligases in vivo and in
+vitro.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"Global analyses of sumoylated proteins in Saccharomyces cerevisiae.
+Induction of protein sumoylation by cellular stresses.";
+"Yeast PIAS-type Ull1/Siz1 is composed of SUMO ligase and regulatory
+domains.";
+-!- FUNCTION: Acts as an E3 ligase mediating SUMO/Smt3 attachment to
+    septins and PCNA. May be involved in chromosome maintenance.
+-!- PATHWAY: SUMO conjugation; third step.
+-!- SUBUNIT: Interacts with UBC9 and CDC3.
+-!- SUBCELLULAR LOCATION: Cytoplasm; cytosol. Nucleus. Bud; bud neck.
+    Note=Present at the bud neck in early M-phase.
+-!- DOMAIN: The SAP domain is required for nuclear targeting.
+-!- DOMAIN: The SP-RING-type zinc finger mediates interaction with
+    UBC9 and CDC3 and is required for E3 activity.
+-!- PTM: Phosphorylated in early M-phase.
+-!- PTM: Autosumoylated upon ethanol stress.
+-!- MISCELLANEOUS: Present with 149 molecules/cell.
+-!- SIMILARITY: Belongs to the PIAS family.
+-!- SIMILARITY: Contains 1 SAP domain.
+-!- SIMILARITY: Contains 1 SP-RING-type zinc finger.
+ GO:0005940; C:septin ring; IDA:SGD.
+ GO:0019789; F:SUMO ligase activity; IDA:SGD.
+ GO:0016925; P:protein sumoylation; IMP:SGD.
+Complete proteome; Ligase; Metal-binding; Nuclear protein;
+Phosphorylation; Ubl conjugation; Ubl conjugation pathway; Zinc;
+Zinc-finger.
+TMZERO

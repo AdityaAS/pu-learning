@@ -1,0 +1,26 @@
+AC   Q9MAH0; Q546E4;
+Phosphoenolpyruvate carboxylase 1 (EC 4.1.1.31) (PEPCase 1) (PEPC 1)
+(AtPPC1).
+"Identification and expression analysis of a gene encoding a
+bacterial-type phosphoenolpyruvate carboxylase from Arabidopsis and
+rice.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+-!- FUNCTION: Through the carboxylation of phosphoenolpyruvate (PEP)
+    it forms oxaloacetate, a four-carbon dicarboxylic acid source for
+    the tricarboxylic acid cycle.
+-!- CATALYTIC ACTIVITY: Phosphate + oxaloacetate = H(2)O +
+    phosphoenolpyruvate + CO(2).
+-!- ENZYME REGULATION: By light-reversible phosphorylation (By
+    similarity).
+-!- PATHWAY: Carbohydrate metabolism; tricarboxylic acid cycle.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in all plant organs, with higher
+    levels in roots.
+-!- SIMILARITY: Belongs to the PEPCase family.
+Allosteric enzyme; Carbon dioxide fixation; Lyase; Phosphorylation;
+Photosynthesis; Tricarboxylic acid cycle.
+TMZERO

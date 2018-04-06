@@ -1,0 +1,21 @@
+AC   P0AAD6; P36559; Q2MA38;
+Serine transporter.
+"Sequencing and characterization of the sdaC gene and identification
+of the sdaCB operon in Escherichia coli K12.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Genetic control of the resistance to phage C1 of Escherichia coli K-
+12.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in the import of serine into the cell. May be
+    required for phage C1 adsorption by interacting with drcB. May
+    also be involved in ampicillin sensitivity.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By leucine and by growth in rich medium.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family. SdaC/tdcC subfamily.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMELEVEN

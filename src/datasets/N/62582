@@ -1,0 +1,21 @@
+AC   O94923; Q6GUQ2;
+D-glucuronyl C5-epimerase (EC 5.1.3.-) (Heparin/heparan
+sulfate:glucuronic acid C5 epimerase).
+"Homo sapiens D-glucuronyl C5-epimerase (GLCE).";
+"Prediction of the coding sequences of unidentified human genes. XII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+-!- FUNCTION: Converts D-glucuronic acid residues adjacent to N-
+    sulfate sugar residues to L-iduronic acids (By similarity).
+-!- PATHWAY: Heparin and heparan sulfate biosynthesis.
+-!- SUBUNIT: Interacts with HS2ST1 (By similarity).
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type II membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the D-glucuronyl C5-epimerase family.
+ GO:0005794; C:Golgi apparatus; ISS:UniProtKB.
+ GO:0050379; F:UDP-glucuronate 5'-epimerase activity; IDA:HGNC.
+ GO:0015012; P:heparan sulfate proteoglycan biosynthesis; ISS:UniProtKB.
+ GO:0030210; P:heparin biosynthesis; ISS:UniProtKB.
+Cell shape; Cell wall; Golgi apparatus; Isomerase; Membrane;
+Peptidoglycan synthesis; Signal-anchor; Transmembrane.
+TMONE

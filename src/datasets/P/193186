@@ -1,0 +1,21 @@
+AC   Q9WVC5;
+Short transient receptor potential channel 7 (TrpC7) (mTRP7).
+"Molecular and functional characterization of a novel mouse transient
+receptor potential protein homologue TRP7. Ca(2+)-permeable cation
+channel that is constitutively activated and enhanced by stimulation
+of G protein-coupled receptor.";
+-!- FUNCTION: Thought to form a receptor-activated non-selective
+    calcium permeant cation channel. Probably is operated by a
+    phosphatidylinositol second messenger system activated by receptor
+    tyrosine kinases or G-protein coupled receptors. Activated by
+    diacylglycerol (DAG). May also be activated by intracellular
+    calcium store depletion.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the transient receptor family. STrpC
+    subfamily.
+-!- SIMILARITY: Contains 5 ANK repeats.
+ANK repeat; Calcium; Calcium channel; Calcium transport; Glycoprotein;
+Ion transport; Ionic channel; Membrane; Repeat; Transmembrane;
+Transport.
+TMSIX

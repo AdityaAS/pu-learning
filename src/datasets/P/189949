@@ -1,0 +1,26 @@
+AC   P23173; Q2M823; Q2M825;
+Low affinity tryptophan permease.
+"A new family of integral membrane proteins involved in transport of
+aromatic amino acids in Escherichia coli.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the structural gene for tryptophanase of
+Escherichia coli K-12.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in tryptophan transport across the cytoplasmic
+    membrane. Plays a role in transporting tryptophan which is to be
+    used catabolically.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By tryptophan. Is subject to catabolic repression.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family. Mtr/tnaB/tyrP permease subfamily.
+-!- CAUTION: In strain W3110, the sequence is interrupted by the
+    insertion of an IS5 element between positions 291 and 292.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport; Tryptophan catabolism.
+TMELEVEN

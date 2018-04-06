@@ -1,0 +1,15 @@
+AC   O87880; Q5SIU3;
+V-type ATP synthase subunit D (EC 3.6.3.14) (V-type ATPase subunit D).
+"V-type H+-ATPase/synthase from a thermophilic eubacterium, Thermus
+thermophilus. Subunit structure and operon.";
+"Complete genome sequence of Thermus thermophilus HB8.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SIMILARITY: Belongs to the V-ATPase D subunit family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0042777; P:ATP synthesis coupled proton transport (sen...; IEA:HAMAP.
+ATP synthesis; Complete proteome; Hydrogen ion transport; Hydrolase;
+Ion transport; Transport.
+TMZERO

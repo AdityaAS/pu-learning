@@ -1,0 +1,22 @@
+AC   P33026;
+Sugar efflux transporter B.
+"Automated multiplex sequencing of the E.coli genome.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The identification of a new family of sugar efflux pumps in
+Escherichia coli.";
+"Functional and biochemical characterization of Escherichia coli sugar
+efflux transporters.";
+-!- FUNCTION: Involved in the efflux of sugars. The physiological role
+    may be the detoxification of non-metabolizable sugar analogs. Can
+    transport lactose and glucose.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Set
+    transporter family.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

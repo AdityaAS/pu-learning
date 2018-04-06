@@ -1,0 +1,34 @@
+AC   Q21339; Q86G93; Q86R85;
+Sodium-dependent high-affinity dicarboxylate transporter 3
+(Na(+)/dicarboxylate cotransporter 3) (NaDC-3) (ceNaDC3).
+"Structural and functional characteristics of two sodium-coupled
+dicarboxylate transporters (ceNaDC1 and ceNaDC2) from Caenorhabditis
+elegans and their relevance to life span.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: High-affinity sodium-dicarboxylate cotransporter that
+    accepts a range of tricarboxylic acid-cycle intermediates with 4-5
+    carbon atoms. There is no interaction with monocarboxylates. Plays
+    a role in the regulation of life span.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=a;
+      IsoId=Q21339-1; Sequence=Displayed;
+    Name=b;
+      IsoId=Q21339-2; Sequence=VSP_009680;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Nad-1 and nad-2 are coexpressed in the
+    intestinal tract from early larvae to adults, expression is from
+    the pharynx through to the anus. Expression level is significantly
+    greater in the anterior half of the intestine than in the
+    posterior half.
+-!- DEVELOPMENTAL STAGE: Not detected in the embryo. Expressed at the
+    early larval, late larval and adult stages, with highest levels at
+    the late larval stage.
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    NADC subfamily.
+Alternative splicing; Complete proteome; Ion transport; Membrane;
+Sodium; Sodium transport; Symport; Transmembrane; Transport.
+TMTWELVE

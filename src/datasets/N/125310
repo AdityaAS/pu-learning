@@ -1,0 +1,14 @@
+AC   Q8KAE1;
+Phosphoglycerate kinase (EC 2.7.2.3).
+"The complete genome sequence of Chlorobium tepidum TLS, a
+photosynthetic, anaerobic, green-sulfur bacterium.";
+-!- CATALYTIC ACTIVITY: ATP + 3-phospho-D-glycerate = ADP + 3-phospho-
+    D-glyceroyl phosphate.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 2.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the phosphoglycerate kinase family.
+ATP-binding; Complete proteome; Glycolysis; Kinase;
+Nucleotide-binding; Transferase.
+TMZERO

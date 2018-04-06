@@ -1,0 +1,14 @@
+AC   P58568;
+Photosystem I reaction center subunit IX.
+"Complete genomic sequence of the filamentous nitrogen-fixing
+cyanobacterium Anabaena sp. strain PCC 7120.";
+-!- FUNCTION: May help in the organization of the psaE and psaF
+    subunits (By similarity).
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; single-pass
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the psaJ family.
+ GO:0030094; C:photosystem I (sensu Cyanobacteria); NAS:UniProtKB.
+ GO:0015979; P:photosynthesis; NAS:UniProtKB.
+Complete proteome; Membrane; Photosynthesis; Photosystem I; Thylakoid;
+Transmembrane.
+TMONE

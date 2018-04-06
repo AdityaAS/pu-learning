@@ -1,0 +1,16 @@
+AC   Q9I471;
+Cobyrinic acid A,C-diamide synthase.
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Responsible for the amidation of carboxylic groups at
+    position A and C of either cobyrinic acid or hydrogenobrynic acid.
+    NH(2) groups are provided by glutamine, and one molecule of ATP is
+    hydrogenolyzed for each amidation (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; adenosylcobalamin biosynthesis;
+    cob(II)yrinic acid a,c-diamide from precorrin-2 (aerobic route):
+    step 9.
+-!- SIMILARITY: Belongs to the cobB/cobQ family. CobB subfamily.
+-!- SIMILARITY: Contains 1 GATase cobBQ-type domain.
+ GO:0015420; F:cobalamin-transporting ATPase activity; IEA:HAMAP.
+Cobalamin biosynthesis; Complete proteome; Porphyrin biosynthesis.
+TMZERO

@@ -1,0 +1,17 @@
+AC   P0A0C3; P05061;
+Replication protein.
+"Nucleotide sequence and physical map of kanamycin-resistant plasmid
+pUB110 from Staphylococcus aureus.";
+"Complete nucleotide sequences of Bacillus plasmids pUB110dB, pRBH1
+and its copy mutants.";
+"The nucleotide sequence of pUB110: some salient features in relation
+to replication and its regulation.";
+"Correction. A revision of the nucleotide sequence and functional map
+of pUB110.";
+-!- FUNCTION: Produces a single-strand nick in a specific site of the
+    plasmid, and this nick results in single-strand replication by
+    rolling circle mechanism.
+-!- SIMILARITY: Belongs to the Gram-positive plasmids replication
+    protein type 1 family.
+DNA replication; Plasmid.
+TMZERO

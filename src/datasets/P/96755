@@ -1,0 +1,32 @@
+AC   P75831;
+Macrolide export ATP-binding/permease protein macB (EC 3.6.3.-).
+"Novel macrolide-specific ABC-type efflux transporter in Escherichia
+coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Membrane topology of ABC-type macrolide antibiotic exporter MacB in
+Escherichia coli.";
+-!- FUNCTION: Part of the ABC transporter complex macAB involved in
+    macrolide export. Transmembrane domains (TMD) form a pore in the
+    inner membrane and the ATP-binding domain (NBD) is responsible for
+    energy generation. Seems to confer resistance against macrolides
+    composed of 14- and 15-membered lactones but no or weak resistance
+    against 16-membered ones (Probable).
+-!- SUBUNIT: Homodimer (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: In macB the ATP-binding domain (NBD) and the transmembrane
+    domain (TMD) are fused.
+-!- MISCELLANEOUS: The complex macAB-tolC (OMF) forms a single
+    transport channel across the two membranes, allowing direct export
+    of macrolide. This channel is involved in type 1 secretion system.
+-!- SIMILARITY: Belongs to the ABC transporter family. Macrolide
+    exporter (TC 3.A.1.122) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Antibiotic resistance; ATP-binding; Complete proteome; Hydrolase;
+Inner membrane; Membrane; Nucleotide-binding; Transmembrane;
+Transport.
+TMFOUR

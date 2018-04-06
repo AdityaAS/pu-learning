@@ -1,0 +1,89 @@
+AC   Q04671; Q15211; Q15212; Q96EN1; Q9UMI5;
+P protein (Melanocyte-specific transporter protein) (Pink-eyed
+dilution protein homolog).
+"A gene for the mouse pink-eyed dilution locus and for human type II
+oculocutaneous albinism.";
+"Organization and sequence of the human P gene and identification of a
+new family of transport proteins.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The mouse pink-eyed dilution gene: association with human Prader-
+Willi and Angelman syndromes.";
+"The mouse p (pink-eyed dilution) and human P genes, oculocutaneous
+albinism type 2 (OCA2), and melanosomal pH.";
+"Inverse correlation between pink-eyed dilution protein expression and
+induction of melanogenesis by bafilomycin A1.";
+"Eye colour: portals into pigmentation genes and ancestry.";
+"Molecular basis of albinism: mutations and polymorphisms of
+pigmentation genes associated with albinism.";
+"Diverse mutations of the P gene among African-Americans with type II
+(tyrosinase-positive) oculocutaneous albinism (OCA2).";
+"Frequent intragenic deletion of the P gene in Tanzanian patients with
+type II oculocutaneous albinism (OCA2).";
+"Novel mutations of the P gene in type II oculocutaneous albinism
+(OCA2).";
+"Mutations of the human P gene associated with type II oculocutaneous
+albinism (OCA2).";
+"Novel and recurrent mutations in the tyrosinase gene and the P gene
+in the German albino population.";
+"Identification of P gene mutations in individuals with oculocutaneous
+albinism in sub-Saharan Africa.";
+"P gene as an inherited biomarker of human eye color.";
+"MC1R mutations modify the classic phenotype of oculocutaneous
+albinism type 2 (OCA2).";
+"A novel P gene missense mutation in a Japanese patient with
+oculocutaneous albinism type II (OCA2).";
+"Six novel P gene mutations and oculocutaneous albinism type 2
+frequency in Japanese albino patients.";
+-!- FUNCTION: Could be involved in the transport of tyrosine, the
+    precursor to melanin synthesis, within the melanocyte. Regulates
+    the pH of melanosome and the melanosome maturation. One of the
+    components of the mammalian pigmentary system. Seems to regulate
+    the postranslational processing of tyrosinase, which catalyzes the
+    limiting reaction in melanin synthesis. May serve as a key control
+    point at which ethnic skin color variation is determined. Major
+    determinant of brown and/or blue eye color.
+-!- SUBCELLULAR LOCATION: Melanosome; melanosomal membrane; multi-pass
+    membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q04671-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q04671-2; Sequence=VSP_012284;
+    Name=3;
+      IsoId=Q04671-3; Sequence=VSP_012285, VSP_012286;
+      Note=No experimental confirmation available;
+-!- DISEASE: Defects in OCA2 are the cause of oculocutaneous albinism
+    type II (OCA2) [MIM:203200, 203310]. OCA2 is an autosomal
+    recessive form of albinism, a disorder of pigmentation in the
+    skin, hair, and eyes. The phenotype of patients with OCA2 is
+    typically somewhat less severe than in those with tyrosinase-
+    deficient OCA1. There are several forms of OCA2, from typical OCA
+    to relatively mild 'autosomal recessive ocular albinism' (AROA).
+    OCA2 is the most prevalent type of albinism throughout the world.
+-!- DISEASE: The gene OCA2 is localized to chromosome 15 at 15q11.2-
+    q12, a region associated with Prader-Willi and Angelman syndromes,
+    suggesting that altered expression of the OCA2 gene may be
+    responsible for the hypopygmentation phenotype exhibited by
+    certain individuals with these disorders.
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+    P subfamily.
+-!- WEB RESOURCE: NAME=Albinism database (ADB); NOTE=OCA-II mutations;
+    URL="http://albinismdb.med.umn.edu/".
+-!- WEB RESOURCE: NAME=Mutations of the P gene;
+    NOTE=Retina International's Scientific Newsletter;
+    URL="http://www.retina-international.com/sci-news/pgenemut.htm".
+-!- WEB RESOURCE: NAME=Protein Spotlight;
+    NOTE=Questioning colour - Issue 54 of January 2005;
+    URL="http://www.expasy.org/spotlight/back_issues/sptlt054.shtml".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=OCA2".
+ GO:0005737; C:cytoplasm; TAS:ProtInc.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0005302; F:L-tyrosine transporter activity; TAS:ProtInc.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0006726; P:eye pigment biosynthesis; TAS:ProtInc.
+Albinism; Alternative splicing; Disease mutation; Glycoprotein;
+Membrane; Polymorphism; Transmembrane; Transport.
+TMTWELVE

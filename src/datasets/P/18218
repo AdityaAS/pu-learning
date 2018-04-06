@@ -1,0 +1,19 @@
+AC   Q8ZRP7; Q9ZFP9;
+Vitamin B12-binding protein precursor.
+"A new class of cobalamin transport mutants (btuF) provides genetic
+evidence for a periplasmic binding protein in Salmonella
+typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Part of the ABC transporter complex btuCDF involved in
+    vitamin B12 import. Binds vitamin B12 and delivers it to the
+    periplasmic surface of btuC (By similarity).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (btuD), two transmembrane proteins (btuC) and a solute-binding
+    protein (btuF) (Probable).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the btuF family.
+-!- SIMILARITY: Contains 1 Fe/B12 periplasmic-binding domain.
+ GO:0015889; P:cobalamin transport; IEA:HAMAP.
+Complete proteome; Periplasmic; Signal; Transport.
+TMZERO

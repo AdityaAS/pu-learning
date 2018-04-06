@@ -1,0 +1,17 @@
+AC   Q9WVC8;
+Chloride anion exchanger (Protein DRA) (Down-regulated in adenoma)
+(Solute carrier family 26 member 3).
+"Mouse down-regulated in adenoma (DRA) is an intestinal
+Cl(-)/HCO(3)(-) exchanger and is up-regulated in colon of mice lacking
+the NHE3 Na(+)/H(+) exchanger.";
+-!- FUNCTION: Chloride/bicarbonate exchanger. Involved in absorbtion
+    of in the colon. Helps mediate electrolyte and fluid absorption.
+-!- SUBUNIT: Interacts with PDZK1 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+-!- SIMILARITY: Contains 1 STAS domain.
+ GO:0015380; F:anion exchanger activity; IDA:MGI.
+Antiport; Chloride; Membrane; Transmembrane; Transport.
+TMFOURTEEN

@@ -1,0 +1,27 @@
+AC   Q9RBJ2;
+Putative cellulose synthase 2 [Includes: Cellulose synthase catalytic
+subunit [UDP-forming] (EC 2.4.1.12); Cyclic di-GMP-binding domain
+(Cellulose synthase 2 regulatory subunit)].
+"Cloning of cellulose synthase genes from Acetobacter xylinum JCM
+7664: implication of a novel set of cellulose synthase genes.";
+-!- CATALYTIC ACTIVITY: UDP-glucose + (1,4-beta-D-glucosyl)(n) = UDP +
+    (1,4-beta-D-glucosyl)(n+1).
+-!- PATHWAY: Bacterial cellulose biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- DOMAIN: There are two conserved domains in the globular part of
+    the catalytic subunit: the N-terminal domain (domain A) contains
+    the conserved DXD motif and is possibly involved in catalysis and
+    substrate binding. The C-terminal domain (domain B) contains the
+    QXXRW motif and is present only in processive glycosyl
+    transferases. It could be involved in the processivity function of
+    the enzyme, possibly required for holding the growing glycan chain
+    in the active site.
+-!- SIMILARITY: In the N-terminal section; belongs to the
+    glycosyltransferase 2 family.
+-!- SIMILARITY: In the C-terminal section; belongs to the acsB/bcsB
+    family.
+ GO:0016760; F:cellulose synthase (UDP-forming) activity; IEA:EC.
+Cellulose biosynthesis; Glycosyltransferase; Inner membrane; Membrane;
+Transferase; Transmembrane.
+TMNINE

@@ -1,0 +1,28 @@
+AC   P62569; P56226;
+Caerin-1.1 [Contains: Caerin-1.1.1; Caerin-1.1.3; Caerin-1.1.5;
+Caerin-1.1.6; Caerin-1.1.7; Caerin-1.1.8].
+"Peptides from Australian frogs. The structures of the caerins and
+caeridins from Litoria gilleni.";
+-!- FUNCTION: Antibacterial and antiviral peptides that adopt an alpha
+    helical conformation which can disrupt bacterial membranes. Each
+    caerin displays a different antimicrobial specificity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin parotoid and/or rostral
+    glands.
+-!- DOMAIN: Contains two amphipathic alpha helix regions separated by
+    a region of less-defined helicity and greater flexibility.
+-!- PTM: The major product is Caerin-1.1; in addition, different
+    peptides are produced that are missing some amino acid residues at
+    the N-terminus or C-terminus. Caerin-1.1.1 is inactive.
+-!- MASS SPECTROMETRY: MW=2582; METHOD=FAB; RANGE=1-25; NOTE=Ref.1.
+-!- MASS SPECTROMETRY: MW=2412; METHOD=FAB; RANGE=3-25; NOTE=Ref.1.
+-!- MASS SPECTROMETRY: MW=1421; METHOD=FAB; RANGE=13-25; NOTE=Ref.1.
+-!- MASS SPECTROMETRY: MW=1626; METHOD=FAB; RANGE=1-16; NOTE=Ref.1.
+-!- MASS SPECTROMETRY: MW=1489; METHOD=FAB; RANGE=1-15; NOTE=Ref.1.
+-!- MASS SPECTROMETRY: MW=1180; METHOD=FAB; RANGE=1-12; NOTE=Ref.1.
+-!- MASS SPECTROMETRY: MW=915; METHOD=FAB; RANGE=1-10; NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the frog skin active peptide (FSAP) family.
+    Caerin subfamily.
+Amidation; Amphibian defense peptide; Antibiotic; Antimicrobial;
+Antiviral defense; Direct protein sequencing.
+TMZERO

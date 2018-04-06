@@ -1,0 +1,22 @@
+AC   P06683; Q91XA7;
+Complement component C9 precursor.
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Topological mapping of complement component C9 by recombinant DNA
+techniques suggests a novel mechanism for its insertion into target
+membranes.";
+"Proteome-wide characterization of N-glycosylation events by diagonal
+chromatography.";
+-!- FUNCTION: C9 is the final component of the complement system to be
+    added in the assembly of the membrane attack complex. It is able
+    to enter lipid bilayers, forming transmembrane channels.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the complement C6/C7/C8/C9 family.
+-!- SIMILARITY: Contains 1 EGF-like domain.
+-!- SIMILARITY: Contains 1 LDL-receptor class A domain.
+-!- SIMILARITY: Contains 1 MACPF domain.
+-!- SIMILARITY: Contains 1 TSP type-1 domain.
+Complement alternate pathway; Complement pathway; Cytolysis;
+EGF-like domain; Glycoprotein; Immune response; Innate immunity;
+Membrane; Membrane attack complex; Signal; Transmembrane.
+TMTWO

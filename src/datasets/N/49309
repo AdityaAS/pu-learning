@@ -1,0 +1,30 @@
+AC   Q9UKH7;
+HERV-K_5q13.3 provirus ancestral Env polyprotein precursor (Envelope
+polyprotein) (HERV-K104 envelope protein) [Includes: Truncated surface
+protein (SU)].
+"Many human endogenous retrovirus K (HERV-K) proviruses are unique to
+humans.";
+"Quantitation of HERV-K env gene expression and splicing in human
+breast cancer.";
+-!- FUNCTION: Retroviral envelope proteins mediate receptor
+    recognition and membrane fusion during early infection. Endogenous
+    envelope proteins may have kept, lost or modified their original
+    function during evolution.
+-!- MISCELLANEOUS: This envelope protein is encoded by a human
+    specific provirus.
+-!- MISCELLANEOUS: HERV-K_5q13.3 has a type 2 genome. The HERV-K(HML-
+    2) family contains type 1 and type 2 genomes depending on the
+    absence or presence of 292 nucleotides at the 5' end of the env
+    gene resulting in Env proteins of distinct sizes. Despite their
+    overall retroviral envelope structure HERV-K(HML-2) type 1
+    envelope proteins lack a predictable signal sequence. Subgenomic
+    RNA transcripts coding for full-length envelope proteins have been
+    detected for both type of genomes.
+-!- SIMILARITY: Belongs to the beta type-B retroviral envelope protein
+    family. HERV class-II K(HML-2) subfamily.
+-!- CAUTION: Truncated; premature stop codon in the surface protein.
+-!- WEB RESOURCE: NAME=Human Endogenous Retrovirus Database (HERVd);
+    URL="http://herv.img.cas.cz/cgi-bin/draw_full_element.cgi?fid=29513".
+Envelope protein; ERV; Glycoprotein; Signal; Transposable element;
+Virion protein.
+TMZERO

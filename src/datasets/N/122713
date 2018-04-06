@@ -1,0 +1,7 @@
+AC   Q8Y6C8;
+Protein pcrB homolog.
+"Comparative genomics of Listeria species.";
+-!- SIMILARITY: Belongs to the pcrB family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

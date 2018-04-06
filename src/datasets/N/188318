@@ -1,0 +1,17 @@
+AC   P20178;
+Stilbene synthase 1 (EC 2.3.1.95) (Resveratrol synthase 1) (RS1)
+(Trihydroxystilbene synthase 1).
+"Molecular analysis of resveratrol synthase. cDNA, genomic clones and
+relationship with chalcone synthase.";
+"Stilbene synthase gene.";
+-!- CATALYTIC ACTIVITY: 3 malonyl-CoA + 4-coumaroyl-CoA = 4 CoA +
+    3,4',5-trihydroxystilbene + 4 CO(2).
+-!- PATHWAY: Stilbene-type phytoalexins biosynthesis.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- INDUCTION: By stress. Experimentally, by yeast extract and
+    elicitor from P.megasperma.
+-!- SIMILARITY: Belongs to the chalcone/stilbene synthases family.
+ GO:0050350; F:trihydroxystilbene synthase activity; IEA:EC.
+Acyltransferase; Transferase.
+TMZERO

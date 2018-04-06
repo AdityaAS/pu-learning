@@ -1,0 +1,26 @@
+AC   P32467;
+Low-affinity glucose transporter HXT4 (Low-affinity glucose
+transporter LGT1).
+"High-copy suppression of glucose transport defects by HXT4 and
+regulatory elements in the promoters of the HXT genes in Saccharomyces
+cerevisiae.";
+"Low-affinity glucose carrier gene LGT1 of Saccharomyces cerevisiae, a
+homologue of the Kluyveromyces lactis RAG1 gene.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"A subset of membrane-associated proteins is ubiquitinated in response
+to mutations in the endoplasmic reticulum degradation machinery.";
+-!- FUNCTION: Low-affinity glucose transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Glucose transport is thought to be mediated by two
+    kinetically distinct systems, a glucose-repressible high-affinity
+    system and a constitutive low-affinity system.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+ GO:0005353; F:fructose transporter activity; TAS:SGD.
+ GO:0005355; F:glucose transporter activity; IDA:SGD.
+ GO:0015578; F:mannose transporter activity; TAS:SGD.
+ GO:0008645; P:hexose transport; TAS:SGD.
+Complete proteome; Glycoprotein; Membrane; Repeat; Sugar transport;
+Transmembrane; Transport; Ubl conjugation.
+TMTWELVE

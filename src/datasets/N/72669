@@ -1,0 +1,15 @@
+AC   P0A577; P71765;
+Ferrochelatase (EC 4.99.1.1) (Protoheme ferro-lyase) (Heme
+synthetase).
+"The complete genome sequence of Mycobacterium bovis.";
+-!- FUNCTION: Catalyzes the ferrous insertion into protoporphyrin IX.
+-!- CATALYTIC ACTIVITY: Protoporphyrin + Fe(2+) = protoheme + 2 H(+).
+-!- COFACTOR: Binds 1 2Fe-2S cluster (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; protoheme biosynthesis; protoheme
+    from protoporphyrin-IX: single step [final step].
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the ferrochelatase family.
+2Fe-2S; Complete proteome; Heme biosynthesis; Iron; Iron-sulfur;
+Lyase; Metal-binding; Porphyrin biosynthesis.
+TMZERO

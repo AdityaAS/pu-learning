@@ -1,0 +1,35 @@
+AC   P38225; O60021; Q86ZS3;
+Very long-chain fatty acid transport protein.
+"Disruption of the Saccharomyces cerevisiae homologue to the murine
+fatty acid transport protein impairs uptake and growth on long-chain
+fatty acids.";
+"Complete DNA sequence of yeast chromosome II.";
+"Saccharomyces cerevisiae YBR041W sequence update.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: May be involved in long-chain fatty acids uptake, and
+    thus may play a pivotal role in regulating their accessibility
+    prior to metabolic utilization. May play an important role in
+    uptake of these hydrophobic compounds under conditions where fatty
+    acid synthesis is compromised.
+-!- INTERACTION:
+    Q12136:SAS10; NbExp=1; IntAct=EBI-6819, EBI-36084;
+    P10592:SSA2; NbExp=1; IntAct=EBI-6819, EBI-8603;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Present with 16900 molecules/cell.
+-!- SIMILARITY: Belongs to the ATP-dependent AMP-binding enzyme
+    family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to a
+    frameshift in position 620.
+ GO:0005811; C:lipid particle; IDA:SGD.
+ GO:0005792; C:microsome; IDA:SGD.
+ GO:0005777; C:peroxisome; IDA:SGD.
+ GO:0005886; C:plasma membrane; IMP:SGD.
+ GO:0005324; F:long-chain fatty acid transporter activity; IMP:SGD.
+ GO:0004467; F:long-chain-fatty-acid-CoA ligase activity; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006869; P:lipid transport; IMP:SGD.
+ GO:0000038; P:very-long-chain fatty acid metabolism; IMP:SGD.
+Complete proteome; Glycoprotein; Lipid transport; Membrane;
+Transmembrane; Transport.
+TMFOUR

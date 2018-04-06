@@ -1,0 +1,11 @@
+AC   Q63T34;
+SsrA-binding protein.
+"Genomic plasticity of the causative agent of melioidosis,
+Burkholderia pseudomallei.";
+-!- FUNCTION: Binds specifically to the ssrA RNA (tmRNA) and is
+    required for stable association of ssrA with ribosomes (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the smpB family.
+Complete proteome; RNA-binding.
+TMZERO

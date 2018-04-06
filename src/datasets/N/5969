@@ -1,0 +1,22 @@
+AC   Q10235; Q9UTM6;
+Cell polarity protein alp11 (Altered polarity protein 11).
+"Characterisation of fission yeast alp11 mutants defines three
+functional domains within tubulin-folding cofactor B.";
+"Functional dissection and hierarchy of tubulin-folding cofactor
+homologues in fission yeast.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Required for microtubule function and cell polarity.
+    Involved in the proper folding of alpha-tubulin.
+-!- SUBUNIT: Binds to monomeric alpha-tubulin. Interacts with alp21.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the TBCB family.
+-!- SIMILARITY: Contains 1 CAP-Gly domain.
+-!- SIMILARITY: Contains 1 ubiquitin-like domain.
+ GO:0005737; C:cytoplasm; IDA:GeneDB_SPombe.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0043014; F:alpha-tubulin binding; IPI:GeneDB_SPombe.
+ GO:0005515; F:protein binding; IPI:GeneDB_SPombe.
+ GO:0007024; P:alpha-tubulin folding; TAS:GeneDB_SPombe.
+Chaperone; Complete proteome; Cytoskeleton; Microtubule.
+TMZERO

@@ -1,0 +1,19 @@
+AC   P04480; Q51599;
+Colicin-A.
+"Complete nucleotide sequence of the structural gene for colicin A, a
+gene translated at non-uniform rate.";
+"The complete nucleotide sequence of the colicinogenic plasmid ColA.
+High extent of homology with ColE1.";
+"Nucleotide sequence of promoter, operator and amino-terminal region
+of caa, the structural gene of colicin A.";
+-!- FUNCTION: This colicin is a channel-forming colicin. This class of
+    transmembrane toxins depolarize the cytoplasmic membrane, leading
+    to dissipation of cellular energy.
+-!- FUNCTION: Colicins are polypeptide toxins produced by and active
+    against, Escherichia coli and closely related bacteria.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the channel forming colicin family.
+Antibiotic; Antimicrobial; Bacteriocin; Membrane; Plasmid;
+Transmembrane.
+TMTWO

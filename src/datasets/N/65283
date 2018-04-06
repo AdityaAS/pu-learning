@@ -1,0 +1,34 @@
+AC   P36959; Q96HQ6;
+GMP reductase 1 (EC 1.7.1.7) (Guanosine 5'-monophosphate
+oxidoreductase 1) (Guanosine monophosphate reductase 1).
+"Two structural genes on different chromosomes are required for
+encoding the major subunit of human red cell glucose-6-phosphate
+dehydrogenase.";
+"Genomic structure and expression of human guanosine monophosphate
+reductase.";
+"The DNA sequence and analysis of human chromosome 6.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The human mRNA that provides the N-terminus of chimeric G6PD encodes
+GMP reductase.";
+"Origin of 'fused' glucose-6-phosphate dehydrogenase.";
+"Identification of common variant alleles of the human guanosine
+monophosphate reductase gene.";
+-!- FUNCTION: Catalyzes the irreversible NADPH-dependent deamination
+    of GMP to IMP. It functions in the conversion of nucleobase,
+    nucleoside and nucleotide derivatives of G to A nucleotides, and
+    in maintaining the intracellular balance of A and G nucleotides.
+-!- CATALYTIC ACTIVITY: Inosine 5'-phosphate + NH(3) + NADP(+) =
+    guanosine 5'-phosphate + NADPH.
+-!- SUBUNIT: Homotetramer.
+-!- POLYMORPHISM: At least two different alleles are known.
+-!- SIMILARITY: Belongs to the IMPDH/GMPR family.
+-!- CAUTION: The N-terminus was initially (Ref.1) thought to be fused
+    in glucose-6-phosphate-dehydrogenase (G6PD) protein in vivo.
+    However, Ref.5 showed that it encodes a GMP reductase, and Ref.6
+    showed that the chimeric protein is an artifact.
+ GO:0003920; F:GMP reductase activity; TAS:ProtInc.
+ GO:0009409; P:response to cold; TAS:ProtInc.
+3D-structure; Metal-binding; NADP; Oxidoreductase; Polymorphism;
+Potassium.
+TMZERO

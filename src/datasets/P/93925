@@ -1,0 +1,17 @@
+AC   P0AEX8; P08340;
+High-affinity branched-chain amino acid transport system permease
+protein livH (LIV-I protein H).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for branched-chain amino acids. Probably responsible for the
+    translocation of the substrates across the membrane (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. LivHM subfamily.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMEIGHT

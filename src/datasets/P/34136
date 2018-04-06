@@ -1,0 +1,30 @@
+AC   P18581;
+Low-affinity cationic amino acid transporter 2 (CAT-2) (CAT2) (TEA
+protein) (T-cell early activation protein) (20.5).
+"Identification of a low affinity, high capacity transporter of
+cationic amino acids in mouse liver.";
+"Control of cationic amino acid transport and retroviral receptor
+functions in a membrane protein family.";
+"Activated T cells express a novel gene on chromosome 8 that is
+closely related to the murine ecotropic retroviral receptor.";
+-!- FUNCTION: Low-affinity, high capacity permease involved in the
+    transport of the cationic amino acids (arginine, lysine and
+    ornithine).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Alpha;
+      IsoId=P18581-1; Sequence=Displayed;
+    Name=Beta;
+      IsoId=P18581-2; Sequence=VSP_000025;
+      Note=Affinity of isoform Beta for arginine uptake is 70-fold
+      higher than for isoform Alpha;
+-!- TISSUE SPECIFICITY: Highest expression in liver and T-cells.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. Cationic amino acid transporter (CAT) (TC 2.A.3.3)
+    family.
+ GO:0015179; F:L-amino acid transporter activity; IDA:MGI.
+ GO:0015807; P:L-amino acid transport; IDA:MGI.
+Alternative splicing; Amino-acid transport; Glycoprotein; Membrane;
+Transmembrane; Transport.
+TMFOURTEEN

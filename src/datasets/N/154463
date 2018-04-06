@@ -1,0 +1,9 @@
+AC   O13672;
+60S ribosomal protein L8 (L7A) (L4).
+"The gene for ribosomal protein L7A in Schizosaccharomyces pombe
+contains an intron after the initiation codon.";
+"The genome sequence of Schizosaccharomyces pombe.";
+"S.pombe ribosomal protein L4 homolog.";
+-!- SIMILARITY: Belongs to the ribosomal protein L7Ae family.
+Complete proteome; Ribonucleoprotein; Ribosomal protein.
+TMZERO

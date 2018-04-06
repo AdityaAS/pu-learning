@@ -1,0 +1,33 @@
+AC   P0AG96; P16920; Q2M8R7;
+Preprotein translocase secE subunit.
+"The secE gene encodes an integral membrane protein required for
+protein export in Escherichia coli.";
+"Sequence and transcriptional pattern of the essential Escherichia
+coli secE-nusG operon.";
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"One of three transmembrane stretches is sufficient for the
+functioning of the SecE protein, a membrane component of the E. coli
+secretion machinery.";
+"Evaluating the oligomeric state of SecYEG in preprotein
+translocase.";
+"SecYEG assembles into a tetramer to form the active protein
+translocation channel.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"The allele-specific synthetic lethality of prlA-prlG double mutants
+predicts interactive domains of SecY and SecE.";
+-!- FUNCTION: Essential for protein export.
+-!- SUBUNIT: Part of the prokaryotic protein translocation apparatus
+    which comprise secA, secB, secD, secE, secF, secG and secY. The
+    translocation channel seems to be composed of a secA homodimer and
+    four copies of a secYEG complex.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the secE/SEC61-gamma family.
+3D-structure; Complete proteome; Inner membrane; Membrane;
+Protein transport; Translocation; Transmembrane; Transport.
+THTHREE

@@ -1,0 +1,18 @@
+AC   P12748; Q9S3Z3;
+Acyl-CoA reductase (EC 1.2.1.50).
+"Vibrio fischeri Lux operon SalI digest.";
+"Nucleotide sequence of the regulatory locus controlling expression of
+bacterial genes for bioluminescence.";
+"Nucleotide sequence of the luxR and luxI genes and structure of the
+primary regulatory region of the lux regulon of Vibrio fischeri ATCC
+7744.";
+-!- FUNCTION: LuxC is the fatty acid reductase enzyme responsible for
+    synthesis of the aldehyde substrate for the luminescent reaction
+    catalyzed by luciferase.
+-!- CATALYTIC ACTIVITY: A long-chain aldehyde + CoA + NADP(+) = a
+    long-chain acyl-CoA + NADPH.
+-!- PATHWAY: Bioluminescent fatty acid reduction system; third step.
+-!- SIMILARITY: Belongs to the luxC family.
+ GO:0050062; F:long-chain-fatty-acyl-CoA reductase activity; IEA:EC.
+Luminescence; NADP; Oxidoreductase.
+TMZERO

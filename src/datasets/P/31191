@@ -1,0 +1,16 @@
+AC   P24013;
+Cytochrome c oxidase subunit 4B (EC 1.9.3.1) (Cytochrome c oxidase
+polypeptide IVB) (Cytochrome aa3 subunit 4B) (Caa-3605 subunit 4B).
+"The Bacillus subtilis cytochrome-c oxidase. Variations on a conserved
+protein theme.";
+"Bacillus subtilis chromosomal region downstream nprE.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase bacterial subunit
+    4 family.
+ GO:0004129; F:cytochrome-c oxidase activity; IEA:EC.
+Complete proteome; Membrane; Oxidoreductase; Transmembrane.
+THTHREE

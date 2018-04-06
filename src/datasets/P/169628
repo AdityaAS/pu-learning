@@ -1,0 +1,16 @@
+AC   P26430;
+Sodium/nucleoside cotransporter (Na(+)/nucleoside cotransporter).
+"Cloning and functional expression of a mammalian Na+/nucleoside
+cotransporter. A member of the SGLT family.";
+-!- FUNCTION: Actively transports uridine into cells by Na(+)
+    cotransport. May play a role in reabsorption of nucleosides from
+    glomerular filtrate by the proximal tubule in kidney, and in the
+    regulation of cardiac contractility by adenosine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: More abundant in heart than in kidney, where
+    it is absent from the outer cortex.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+Glycoprotein; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMELEVEN

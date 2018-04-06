@@ -1,0 +1,13 @@
+AC   P27458;
+Beta-lytic metalloendopeptidase precursor (EC 3.4.24.32) (Beta-lytic
+protease).
+"Molecular cloning and nucleotide sequence of the beta-lytic protease
+gene from Achromobacter lyticus.";
+-!- CATALYTIC ACTIVITY: Cleavage of N-acetylmuramoyl-|-Ala, and of the
+    insulin B chain at 23-Gly-|-Phe-24 > 18-Val-|-Cys(SO(3)H).
+-!- COFACTOR: Binds 1 zinc ion per subunit.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the peptidase M23A family.
+Direct protein sequencing; Hydrolase; Metal-binding; Metalloprotease;
+Protease; Signal; Zinc; Zymogen.
+TMZERO

@@ -1,0 +1,23 @@
+AC   P98004; Q4J749;
+Quinol oxidase subunit 1 (EC 1.10.3.-) (Quinol oxidase polypeptide I)
+(Cytochrome aa3 subunit 1) (Oxidase aa(3) subunit 1).
+"An archaebacterial terminal oxidase combines core structures of two
+mitochondrial respiratory complexes.";
+"The genome of Sulfolobus acidocaldarius, a model organism of the
+Crenarchaeota.";
+-!- FUNCTION: Catalyzes the reduction of oxygen to water.
+-!- FUNCTION: Subunits I, II and III form the functional core of the
+    enzyme complex. Electrons originating in caldariella quinol are
+    transferred to the binuclear center formed by heme A3 and Cu(B).
+-!- FUNCTION: Subunit I binds heme a and the bimetallic center.
+-!- CATALYTIC ACTIVITY: Ubiquinol-8 + O(2) = Ubiquinone-8 + H(2)O.
+-!- PATHWAY: Ethanol oxidation; terminal oxidase.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the heme-copper respiratory oxidase family.
+ GO:0016021; C:integral to membrane; ISS:UniProtKB.
+ GO:0016682; F:oxidoreductase activity, acting on diphenol...; ISS:UniProtKB.
+ GO:0042773; P:ATP synthesis coupled electron transport; ISS:UniProtKB.
+Complete proteome; Copper; Electron transport; Heme; Iron; Membrane;
+Metal-binding; Oxidoreductase; Respiratory chain; Transmembrane;
+Transport.
+TMZERO

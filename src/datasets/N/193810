@@ -1,0 +1,14 @@
+AC   P70830; O51045;
+tRNA pseudouridine synthase A (EC 5.4.99.12) (tRNA-uridine isomerase
+I) (tRNA pseudouridylate synthase I).
+"Genomic sequence of a Lyme disease spirochaete, Borrelia
+burgdorferi.";
+-!- FUNCTION: Formation of pseudouridine at positions 38, 39 and 40 in
+    the anticodon stem and loop of transfer RNAs (By similarity).
+-!- CATALYTIC ACTIVITY: tRNA uridine = tRNA pseudouridine.
+-!- SIMILARITY: Belongs to the tRNA pseudouridine synthase truA
+    family.
+ GO:0016439; F:tRNA-pseudouridine synthase activity; IEA:HAMAP.
+ GO:0031119; P:tRNA pseudouridine synthesis; IEA:HAMAP.
+Complete proteome; Isomerase; tRNA processing.
+TMZERO

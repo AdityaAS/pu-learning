@@ -1,0 +1,16 @@
+AC   P17495;
+Disintegrin trigramin-beta-2 (Platelet aggregation activation
+inhibitor) [Contains: Disintegrin trigramin-beta-1].
+"Platelet glycoprotein IIb-IIIa protein antagonists from snake venoms:
+evidence for a family of platelet-aggregation inhibitors.";
+-!- FUNCTION: Inhibits fibrinogen interaction with platelet receptors
+    expressed on glycoprotein IIb-IIIa complex. Acts by binding to the
+    glycoprotein IIb-IIIa receptor on the platelet surface and
+    inhibits aggregation induced by ADP, thrombin, platelet-activating
+    factor and collagen.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the disintegrin family.
+-!- SIMILARITY: Contains 1 disintegrin domain.
+Blood coagulation; Cell adhesion; Direct protein sequencing.
+TMZERO

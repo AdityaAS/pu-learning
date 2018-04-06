@@ -1,0 +1,11 @@
+AC   Q71YM0;
+UPF0109 protein LMOf2365_1823.
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- SIMILARITY: Belongs to the UPF0109 family.
+-!- SIMILARITY: Contains 1 KH domain.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+ GO:0003723; F:RNA binding; IEA:HAMAP.
+Complete proteome; RNA-binding.
+TMZERO

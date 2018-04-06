@@ -1,0 +1,36 @@
+AC   P07140; Q9VFY0;
+Acetylcholinesterase precursor (EC 3.1.1.7) (AChE).
+"The Ace locus of Drosophila melanogaster: structural gene for
+acetylcholinesterase with an unusual 5' leader.";
+"Drosophila melanogaster acetylcholinesterase gene. Structure,
+evolution and mutations.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"Acetylcholinesterase from Drosophila melanogaster. Identification of
+two subunits encoded by the same gene.";
+"Post-translational modifications of Drosophila acetylcholinesterase.
+In vitro mutagenesis and expression in Xenopus oocytes.";
+"Three-dimensional structures of Drosophila melanogaster
+acetylcholinesterase and of its complexes with two potent
+inhibitors.";
+-!- FUNCTION: Rapidly hydrolyzes choline released into the synapse. It
+    can hydrolyze butyrylthiocholine.
+-!- CATALYTIC ACTIVITY: Acetylcholine + H(2)O = choline + acetate.
+-!- SUBUNIT: Homodimer of two active units; disulfide-linked. The
+    active unit is formed by non-covalent association of the 55 kDa
+    and 16 kDa subunits.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor.
+    Note=Attached to the membrane of the neuronal cholinergic synapses
+    by a GPI-anchor.
+-!- PTM: Proteolytic cleavage leads to the formation of the 16 kDa
+    subunit and the 55 kDa subunit.
+-!- SIMILARITY: Belongs to the type-B carboxylesterase/lipase family.
+ GO:0005737; C:cytoplasm; IDA:FlyBase.
+ GO:0005886; C:plasma membrane; IDA:FlyBase.
+ GO:0006581; P:acetylcholine catabolism; TAS:FlyBase.
+ GO:0007268; P:synaptic transmission; IMP:FlyBase.
+3D-structure; Complete proteome; Glycoprotein; GPI-anchor; Hydrolase;
+Lipoprotein; Membrane; Neurotransmitter degradation; Serine esterase;
+Signal; Synapse.
+TMZERO

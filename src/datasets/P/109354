@@ -1,0 +1,59 @@
+AC   P09152; P78294;
+Respiratory nitrate reductase 1 alpha chain (EC 1.7.99.4) (Nitrate
+reductase A subunit alpha) (Quinol-nitrate oxidoreductase alpha
+subunit).
+"Nitrate reductase of Escherichia coli: completion of the nucleotide
+sequence of the nar operon and reassessment of the role of the alpha
+and beta subunits in iron binding and electron transfer.";
+"Nitrate reductases of Escherichia coli: sequence of the second
+nitrate reductase and comparison with that encoded by the narGHJI
+operon.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Respiratory nitrate reductase of Escherichia coli. Sequence
+identification of the large subunit gene.";
+"Delineation of two distinct regulatory domains in the 5' region of
+the nar operon of Escherichia coli.";
+"The narK gene product participates in nitrate transport induced in
+Escherichia coli nitrate-respiring cells.";
+"Promoter region of the nar operon of Escherichia coli: nucleotide
+sequence and transcription initiation signals.";
+"Roles of the narJ and narI gene products in the expression of nitrate
+reductase in Escherichia coli.";
+"Molybdenum cofactor properties and [Fe-S] cluster coordination in
+Escherichia coli nitrate reductase A: investigation by site-directed
+mutagenesis of the conserved his-50 residue in the NarG subunit.";
+"Insights into the respiratory electron transfer pathway from the
+structure of nitrate reductase A.";
+"Architecture of NarGH reveals a structural classification of Mo-
+bisMGD enzymes.";
+-!- FUNCTION: The nitrate reductase enzyme complex allows E.coli to
+    use nitrate as an electron acceptor during anaerobic growth. The
+    alpha chain is the actual site of nitrate reduction.
+-!- CATALYTIC ACTIVITY: Nitrite + acceptor = nitrate + reduced
+    acceptor.
+-!- COFACTOR: Binds 1 4Fe-4S cluster per subunit.
+-!- COFACTOR: Binds 1 molybdenum ion per subunit.
+-!- COFACTOR: Binds 2 molybdopterin guanine dinucleotide (MGD) groups
+    per subunit.
+-!- SUBUNIT: Dimer of heterotrimers each composed of an alpha, a beta
+    and a gamma chain. Alpha and beta are catalytic chains; gamma
+    chains are involved in binding the enzyme complex to the
+    cytoplasmic membrane.
+-!- INTERACTION:
+    P0AF26:narJ; NbExp=1; IntAct=EBI-547248, EBI-555043;
+    P0A7V8:rpsD; NbExp=1; IntAct=EBI-547248, EBI-543939;
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein.
+-!- INDUCTION: By nitrate.
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+-!- WEB RESOURCE: NAME=Worthington enzyme manual;
+    URL="http://www.worthington-biochem.com/NAR/".
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; 4Fe-4S; Complete proteome; Direct protein sequencing;
+Electron transport; Iron; Iron-sulfur; Membrane; Metal-binding;
+Molybdenum; Nitrate assimilation; Oxidoreductase; Transport.
+TMZERO

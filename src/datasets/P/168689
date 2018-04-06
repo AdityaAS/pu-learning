@@ -1,0 +1,36 @@
+AC   O60779; Q9UBL7; Q9UKJ2; Q9UN31; Q9UN43;
+Thiamine transporter 1 (ThTr-1) (ThTr1) (Thiamine carrier 1) (TC1)
+(Solute carrier family 19 member 2).
+"Mutations in SLC19A2 cause thiamine-responsive megaloblastic anaemia
+associated with diabetes mellitus and deafness.";
+"Mutations in a new gene encoding a thiamine transporter cause
+thiamine-responsive megaloblastic anaemia syndrome.";
+"The gene mutated in thiamine-responsive anaemia with diabetes and
+deafness (TRMA) encodes a functional thiamine transporter.";
+"Cloning of the human thiamine transporter, a member of the folate
+transporter family.";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"The spectrum of mutations, including four novel ones, in the
+thiamine-responsive megaloblastic anemia gene SLC19A2 of eight
+families.";
+-!- FUNCTION: High-affinity transporter for the intake of thiamine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Ubiquitous; most abundant in skeletal and
+    cardiac muscle. Medium expression in placenta, heart, liver and
+    kidney, low in lung.
+-!- DISEASE: Defects in SLC19A2 are the cause of thiamine-responsive
+    megaloblastic anemia syndrome (TRMA) [MIM:249270]; also known as
+    Rogers syndrome. TRMA is an autosomal recessive disease with
+    features that include megaloblastic anemia, mild thrombocytopenia
+    and leucopenia, sensorineural deafness and diabetes mellitus.
+-!- SIMILARITY: Belongs to the reduced folate carrier (RFC)
+    transporter (TC 2.A.48) family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=SLC19A2".
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0008517; F:folic acid transporter activity; NAS:UniProtKB.
+ GO:0015234; F:thiamin transporter activity; TAS:UniProtKB.
+ GO:0015888; P:thiamin transport; NAS:UniProtKB.
+Deafness; Diabetes mellitus; Disease mutation; Glycoprotein; Membrane;
+Transmembrane; Transport.
+TMTWELVE

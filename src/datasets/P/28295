@@ -1,0 +1,22 @@
+AC   P37972; Q5NUX5;
+Nickel and cobalt resistance protein cnrA.
+"Characterization of the inducible nickel and cobalt resistance
+determinant cnr from pMOL28 of Alcaligenes eutrophus CH34.";
+"Sequence and features of the Ralstonia metallidurans CH34 heavy metal
+plasmids pMOL28 and pMOL30.";
+"Complete sequence of plasmid pMOL28 of Ralstonia metallidurans
+CH34.";
+"Regulation of the cnr cobalt and nickel resistance determinant from
+Ralstonia sp. strain CH34.";
+-!- FUNCTION: The products of the genes cnrA, cnrB, and cnrC are
+    likely to form a membrane-bound protein complex catalyzing an
+    energy-dependent efflux of Ni(2+) and Co(2+). The mechanism of
+    action of the cnrCBA complex may be that of a proton/cation
+    antiporter.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- INDUCTION: By nickel.
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+Cobalt; Complete proteome; Inner membrane; Membrane; Nickel; Plasmid;
+Transmembrane; Transport.
+TMTWELVE

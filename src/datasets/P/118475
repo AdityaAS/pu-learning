@@ -1,0 +1,16 @@
+AC   P08007;
+Oligopeptide transport ATP-binding protein oppF.
+"Molecular characterization of the oligopeptide permease of Salmonella
+typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for oligopeptides. Probably responsible for energy coupling to the
+    transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Inner membrane; Membrane;
+Nucleotide-binding; Peptide transport; Protein transport; Transport.
+TMZERO

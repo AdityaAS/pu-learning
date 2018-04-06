@@ -1,0 +1,12 @@
+AC   P64118; Q10820;
+Protein fdhD homolog.
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+-!- FUNCTION: Necessary for formate dehydrogenase activity (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the fdhD family.
+Complete proteome.
+TMZERO

@@ -1,0 +1,44 @@
+AC   Q6P5W5; Q7L5S5; Q9H6T8; Q9NXC4;
+Zinc transporter ZIP4 precursor (Solute carrier family 39 member 4).
+"Identification of SLC39A4, a gene involved in acrodermatitis
+enteropathica.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"A novel member of a zinc transporter family is defective in
+acrodermatitis enteropathica.";
+"Zn2+-stimulated endocytosis of the mZIP4 zinc transporter regulates
+its location at the plasma membrane.";
+"Novel SLC39A4 mutations in acrodermatitis enteropathica.";
+-!- FUNCTION: Play an important role in cellular zinc homeostasis as a
+    zinc transporter. Regulated in response to zinc availability (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Endosome; recycling endosome; recycling endosomal membrane; multi-
+    pass membrane protein. Note=Colocalized with TFRC in the recycling
+    endosomes. Cycles between endosomal compartments and the plasma
+    membrane in response to zinc availability.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q6P5W5-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q6P5W5-2; Sequence=VSP_015911, VSP_015912;
+-!- TISSUE SPECIFICITY: Highly expressed in kidney, small intestine,
+    stomach, colon, jejunum and duodenum.
+-!- DISEASE: Defects in SLC39A4 are the cause of acrodermatitis
+    enteropathica zinc-deficiency type (AEZ) [MIM:201100]. AEZ is a
+    rare autosomal recessive disease caused by the inability to absorb
+    sufficient zinc. The clinicals features are growth retardation,
+    immune-system dysfunction, alopecia, severe dermatitis, diarrhea
+    and occasionally mental disorders. All these manifestations are
+    reversible with zinc supplementation. Without zinc therapy this
+    disease is fatal.
+-!- SIMILARITY: Belongs to the ZIP transporter (TC 2.A.5) family.
+-!- CAUTION: Ref.2 (BAA91091) sequence differs from that shown due to
+    frameshifts in positions 573, 598 and 618.
+Alternative splicing; Disease mutation; Glycoprotein; Ion transport;
+Membrane; Polymorphism; Signal; Transmembrane; Transport; Zinc;
+Zinc transport.
+TMSIX

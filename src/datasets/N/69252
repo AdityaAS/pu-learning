@@ -1,0 +1,22 @@
+AC   P53258;
+GTPase-activating protein GYP2 (MAC1-dependent regulator) (Protein
+MIC1).
+"MIC1 encodes a protein interacting with Mac1p, a nuclear metal
+activator.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Stimulates specifically the GTPase activity of YPT6.
+-!- SUBUNIT: Interacts with MAC1.
+-!- INTERACTION:
+    Self; NbExp=1; IntAct=EBI-10889, EBI-10889;
+-!- MISCELLANEOUS: Present with 768 molecules/cell.
+-!- SIMILARITY: Contains 2 EF-hand domains.
+-!- SIMILARITY: Contains 1 GRAM domain.
+-!- SIMILARITY: Contains 1 Rab-GAP TBC domain.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005625; C:soluble fraction; TAS:SGD.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+ GO:0005097; F:Rab GTPase activator activity; IDA:SGD.
+ GO:0006886; P:intracellular protein transport; IGI:SGD.
+Complete proteome; GTPase activation; Repeat.
+TMZERO

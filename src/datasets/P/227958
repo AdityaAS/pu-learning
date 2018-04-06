@@ -1,0 +1,23 @@
+AC   P77374; P77291;
+Putative dimethyl sulfoxide reductase chain ynfE precursor
+(EC 1.8.99.-) (DMSO reductase).
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Terminal reductase during anaerobic growth on various
+    sulfoxide and N-oxide compounds (By similarity).
+-!- COFACTOR: Binds 1 4Fe-4S cluster (Potential).
+-!- COFACTOR: Molybdenum (molybdopterin) (By similarity).
+-!- INTERACTION:
+    P10443:dnaE; NbExp=1; IntAct=EBI-556186, EBI-549111;
+    P0AEV1:hnr; NbExp=1; IntAct=EBI-556186, EBI-1122979;
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein;
+    cytoplasmic side (By similarity).
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+4Fe-4S; Complete proteome; Hypothetical protein; Iron; Iron-sulfur;
+Metal-binding; Molybdenum; Oxidoreductase; Signal.
+TMZERO

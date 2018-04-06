@@ -1,0 +1,24 @@
+AC   Q8BZ60;
+Stonin-2 (Stoned B).
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: Adapter protein involved in endocytic machinery. May be
+    involved in the vesicle recycling. May facilitate clathrin-coated
+    vesicle uncoating (By similarity).
+-!- SUBUNIT: Interacts with the second C2 domain of synaptotagmins
+    SYT1 and SYT2. Interacts with EPS15, EPS15R and ITSN1. Interacts
+    indirectly with the AP-2 adapter complex (By similarity).
+-!- INTERACTION:
+    P18484:Ap2a2 (xeno); NbExp=1; IntAct=EBI-539385, EBI-539360;
+    P84092:Ap2m1 (xeno); NbExp=1; IntAct=EBI-539385, EBI-297693;
+    P21707:Syt1 (xeno); NbExp=1; IntAct=EBI-539385, EBI-458098;
+-!- DOMAIN: The Asn-Pro-Phe (NPF) motifs, which are found in proteins
+    involved in the endocytic pathway, mediate the interaction with
+    the EH domain of SYT1, SYT2, EPS15, EPS15R and ITSN1 (By
+    similarity).
+-!- SIMILARITY: Belongs to the Stoned B family.
+-!- SIMILARITY: Contains 1 MHD (mu homology) domain.
+-!- SIMILARITY: Contains 1 SHD (stonin homology) domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0030100; P:regulation of endocytosis; IDA:UniProtKB.
+Endocytosis; Membrane; Repeat.
+TMZERO

@@ -1,0 +1,20 @@
+AC   Q865U8;
+Ankyrin repeat domain-containing protein 1 (Cardiac ankyrin repeat
+protein).
+"Left-right asymmetric ventricular expression of CARP in the piglet
+heart: regional response to experimental heart failure.";
+-!- FUNCTION: May play an important role in endothelial cell
+    activation. May act as a nuclear transcription factor that
+    negatively regulates the expression of cardiac genes (By
+    similarity).
+-!- SUBUNIT: Interacts with TTN/titin and YBX1 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in heart. In postnatal neonatal
+    heart, it is expressed in an assymetrical way; left ventricule
+    favored towards right ventricule. Whether or not, this could be
+    correlated with an hypertrophic heart is still a matter of debate.
+    Levels increase gradually from newborn to adult.
+-!- INDUCTION: Down-regulated by doxorubicin (adriamycin), in vitro.
+-!- SIMILARITY: Contains 5 ANK repeats.
+ANK repeat; Coiled coil; Nuclear protein; Repeat.
+TMZERO

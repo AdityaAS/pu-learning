@@ -1,0 +1,10 @@
+AC   Q6FNB1;
+Phosphatidylglycerol/phosphatidylinositol transfer protein precursor
+(PG/PI-TP).
+"Genome evolution in yeasts.";
+-!- FUNCTION: Catalyzes the intermembrane transfer of
+    phosphatidylglycerol and phosphatidylinositol (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the NPC2 family.
+Complete proteome; Lipid transport; Signal; Transport.
+TMZERO

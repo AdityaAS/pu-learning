@@ -1,0 +1,12 @@
+AC   P84199;
+Serine/threonine-protein kinase D1044.8 (EC 2.7.11.1).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- COFACTOR: Magnesium (By similarity).
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. NIMA
+    subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ATP-binding; Complete proteome; Kinase; Magnesium; Metal-binding;
+Nucleotide-binding; Serine/threonine-protein kinase; Transferase.
+TMZERO

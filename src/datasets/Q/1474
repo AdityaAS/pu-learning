@@ -1,0 +1,16 @@
+AC   Q4GZT4;
+ATP-binding cassette sub-family G member 2 (CD338 antigen).
+"Identification of a missense mutation in the bovine ABCG2 gene with a
+major effect on the QTL on chromosome 6 affecting milk yield and
+composition in Holstein cattle.";
+-!- FUNCTION: Xenobiotic transporter that may play an important role
+    in the exclusion of xenobiotics from the brain. May be involved in
+    brain-to-blood efflux (By similarity).
+-!- SUBUNIT: Monomer or homodimer; disulfide-linked (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. ABCG (White)
+    subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Glycoprotein; Membrane; Nucleotide-binding; Polymorphism;
+Transmembrane; Transport.
+TMSIX

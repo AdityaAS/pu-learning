@@ -1,0 +1,42 @@
+AC   P06401; Q9UPF7;
+Progesterone receptor (PR).
+"Two distinct estrogen-regulated promoters generate transcripts
+encoding the two functionally different human progesterone receptor
+forms A and B.";
+"Complete amino acid sequence of the human progesterone receptor
+deduced from cloned cDNA.";
+"NIEHS-SNPs, environmental genome project, NIEHS ES15478, Department
+of Genome Sciences, Seattle, WA (URL: http://egp.gs.washington.edu).";
+"Identification of a phosphorylation site in the hinge region of the
+human progesterone receptor and additional amino-terminal
+phosphorylation sites.";
+"Atomic structure of progesterone complexed with its receptor.";
+"Molecular and pharmacological properties of a potent and selective
+novel nonsteroidal progesterone receptor agonist tanaproget.";
+-!- FUNCTION: The steroid hormones and their receptors are involved in
+    the regulation of eukaryotic gene expression and affect cellular
+    proliferation and differentiation in target tissues.
+-!- INTERACTION:
+    P55345:HRMT1L1; NbExp=1; IntAct=EBI-78539, EBI-78458;
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=B;
+      IsoId=P06401-1; Sequence=Displayed;
+    Name=A;
+      IsoId=P06401-2; Sequence=VSP_003706;
+-!- DOMAIN: Composed of three domains: a modulating N-terminal domain,
+    a DNA-binding domain and a C-terminal steroid-binding domain.
+-!- SIMILARITY: Belongs to the nuclear hormone receptor family. NR3
+    subfamily.
+-!- SIMILARITY: Contains 1 nuclear receptor DNA-binding domain.
+ GO:0003677; F:DNA binding; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0003707; F:steroid hormone receptor activity; TAS:ProtInc.
+ GO:0007267; P:cell-cell signaling; TAS:ProtInc.
+ GO:0007165; P:signal transduction; TAS:ProtInc.
+3D-structure; Alternative splicing; Direct protein sequencing;
+DNA-binding; Lipid-binding; Metal-binding; Nuclear protein;
+Phosphorylation; Polymorphism; Receptor; Steroid-binding;
+Transcription; Transcription regulation; Zinc; Zinc-finger.
+TMZERO

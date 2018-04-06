@@ -1,0 +1,8 @@
+AC   Q7MMT3;
+UPF0319 protein VV0984 precursor.
+"Comparative genome analysis of Vibrio vulnificus, a marine
+pathogen.";
+-!- SIMILARITY: Belongs to the UPF0319 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Signal.
+TMZERO

@@ -1,0 +1,24 @@
+AC   P0A1A6; P15168; Q9L6T0;
+Branched-chain-amino-acid aminotransferase (EC 2.6.1.42) (Transaminase
+B) (BCAT).
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: Acts on leucine, isoleucine and valine (By similarity).
+-!- CATALYTIC ACTIVITY: L-leucine + 2-oxoglutarate = 4-methyl-2-
+    oxopentanoate + L-glutamate.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-isoleucine biosynthesis; L-
+    isoleucine from 2-oxobutanoate: step 4 [final step].
+-!- PATHWAY: Amino-acid biosynthesis; L-leucine biosynthesis; L-
+    leucine from 3-methyl-2-oxobutanoate: step 4 [final step].
+-!- PATHWAY: Amino-acid biosynthesis; L-valine biosynthesis; L-valine
+    from pyruvate: step 4 [final step].
+-!- SUBUNIT: Homohexamer (By similarity).
+-!- SIMILARITY: Belongs to the class-IV pyridoxal-phosphate-dependent
+    aminotransferase family.
+Amino-acid biosynthesis; Aminotransferase;
+Branched-chain amino acid biosynthesis; Complete proteome;
+Pyridoxal phosphate; Transferase.
+TMZERO

@@ -1,0 +1,26 @@
+AC   O15439; Q9Y6J2;
+Multidrug resistance-associated protein 4 (ATP-binding cassette sub-
+family C member 4) (MRP/cMOAT-related ABC transporter) (Multi-specific
+organic anion transporter-B) (MOAT-B).
+"Isolation of MOAT-B, a widely expressed multidrug resistance-
+associated protein/canalicular multispecific organic anion
+transporter-related transporter.";
+"Analysis of expression of cMOAT (MRP2), MRP3, MRP4, and MRP5,
+homologues of the multidrug resistance-associated protein gene (MRP1),
+in human cancer cell lines.";
+-!- FUNCTION: May be an organic anion pump relevant to cellular
+    detoxification.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Widely expressed, with particularly high
+    levels in prostate, but is barely detectable in liver.
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0005624; C:membrane fraction; IDA:MGI.
+ GO:0005886; C:plasma membrane; IDA:MGI.
+ GO:0031088; C:platelet dense granule membrane; IDA:MGI.
+ GO:0016404; F:15-hydroxyprostaglandin dehydrogenase (NAD+...; NAS:UniProtKB.
+ATP-binding; Glycoprotein; Membrane; Nucleotide-binding; Polymorphism;
+Repeat; Transmembrane; Transport.
+TMFOURTEEN

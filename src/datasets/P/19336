@@ -1,0 +1,26 @@
+AC   P31553; P75624; Q6IU45;
+L-carnitine/gamma-butyrobetaine antiporter.
+"Molecular characterization of the cai operon necessary for carnitine
+metabolism in Escherichia coli.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"CaiT of Escherichia coli, a new transporter catalyzing L-
+carnitine/gamma-butyrobetaine exchange.";
+"Rates of DNA sequence evolution in experimental populations of
+Escherichia coli during 20,000 generations.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Catalyzes the exchange of L-carnitine for gamma-
+    butyrobetaine and related betaines.
+-!- PATHWAY: Amine and polyamine metabolism; carnitine metabolism.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the BCCT transporter (TC 2.A.15) family.
+    CaiT subfamily.
+ GO:0015297; F:antiporter activity; IEA:HAMAP.
+Antiport; Complete proteome; Direct protein sequencing;
+Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

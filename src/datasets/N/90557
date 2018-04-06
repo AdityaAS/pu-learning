@@ -1,0 +1,18 @@
+AC   Q5FVQ5;
+Lymphocyte transmembrane adapter 1 (Membrane-associated adapter
+protein LAX).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Negatively regulates TCR (T-cell antigen receptor)-
+    mediated signaling in T-cells and BCR (B-cell antigen receptor)-
+    mediated signaling in B-cells (By similarity).
+-!- SUBUNIT: When phosphorylated, interacts with GRB2, PIK3R1 and
+    GRAP2 (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type III membrane
+    protein (By similarity).
+-!- PTM: Phosphorylated on tyrosines upon TCR or BCR activation; which
+    leads to the recruitment of GRB2, PIK3R1 and GRAP2 (By
+    similarity).
+Immune response; Membrane; Phosphorylation; Signal-anchor;
+Transmembrane.
+TMONE

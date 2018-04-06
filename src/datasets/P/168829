@@ -1,0 +1,29 @@
+AC   Q8K4D3; Q811N9;
+Proton-coupled amino acid transporter 1 (Proton/amino acid transporter
+1) (Solute carrier family 36 member 1).
+"Functional characterization of two novel mammalian electrogenic
+proton-dependent amino acid cotransporters.";
+"Organization and expression of the SLC36 cluster of amino acid
+transporter genes.";
+-!- FUNCTION: Neutral amino acid/proton symporter. Has a pH-dependent
+    electrogenic transport activity for small amino acids such as
+    glycine, alanine and proline. Besides small apolar L-amino acids,
+    it also recognize their D-enantiomers and selected amino acid
+    derivatives such as gamma-aminobutyric acid.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity). Lysosome; lysosomal membrane; multi-pass membrane
+    protein (By similarity).
+-!- TISSUE SPECIFICITY: Highly expressed in small intestine, colon,
+    kidney and brain.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family.
+ GO:0015187; F:glycine transporter activity; IDA:MGI.
+ GO:0015180; F:L-alanine transporter activity; IDA:MGI.
+ GO:0015193; F:L-proline transporter activity; IDA:MGI.
+ GO:0015816; P:glycine transport; IDA:MGI.
+ GO:0015808; P:L-alanine transport; IDA:MGI.
+ GO:0015824; P:proline transport; IDA:MGI.
+ GO:0015992; P:proton transport; IDA:MGI.
+Amino-acid transport; Glycoprotein; Membrane; Symport; Transmembrane;
+Transport.
+TMELEVEN

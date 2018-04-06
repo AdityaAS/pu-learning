@@ -1,0 +1,13 @@
+AC   P33916;
+Hypothetical ABC transporter ATP-binding protein yejF.
+"Automated multiplex sequencing of the E.coli genome.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ATP-binding; Complete proteome; Hypothetical protein;
+Nucleotide-binding; Repeat; Transport.
+TMZERO

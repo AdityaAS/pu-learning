@@ -1,0 +1,46 @@
+AC   Q9M8S6; O82630; Q9SB86;
+Potassium channel SKOR (Stelar K(+) outward rectifying channel).
+"Identification and disruption of a plant shaker-like outward channel
+involved in K+ release into the xylem sap.";
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"pH control of the plant outwardly-rectifying potassium channel
+SKOR.";
+"Phylogenetic relationships within cation transporter families of
+Arabidopsis.";
+"Regulated expression of Arabidopsis shaker K(+) channel genes
+involved in K(+) uptake and distribution in the plant.";
+-!- FUNCTION: Highly selective outward-rectifying potassium channel.
+    Involved in potassium release into the xylem sap toward the
+    shoots. Assuming opened or closed conformations in response to the
+    voltage difference across the membrane, the channel is activated
+    by depolarization. The voltage-dependence of the channel is
+    abolished by internal or external acidification. May interact with
+    the cytoskeleton or with regulatory proteins.
+-!- SUBUNIT: The potassium channel is probably composed of a homo- or
+    heterotetrameric complex of pore-forming subunits (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in root pericycle and xylem
+    parenchyma, and in flower at a lower level.
+-!- INDUCTION: In roots, strongly inhibited by 2,4-
+    dichlorophenoxyacetic acid (2,4-D), abscisic acid (ABA) and
+    benzyladenine (BA) treatment or by potassium starvation.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids. The
+    pore-forming region H5 is enclosed by the transmembrane segments
+    S5 and S6 in the Shaker-type (1P/6TM) and contains the GYGD
+    signature motif which seems to be involved in potassium
+    selectivity.
+-!- DOMAIN: The KHA domain (rich in hydrophobic and acidic residues)
+    present in the C-terminal part is likely to be important for
+    tetramerization.
+-!- MISCELLANEOUS: Loss-of-function mutation skor-1 leads to a reduced
+    shoot potassium content.
+-!- SIMILARITY: Belongs to the potassium channel (TC 1.A.1.4) family.
+-!- SIMILARITY: Contains 6 ANK repeats.
+-!- SIMILARITY: Contains 1 cyclic nucleotide-binding domain.
+-!- SIMILARITY: Contains 1 KHA domain.
+ANK repeat; Ion transport; Ionic channel; Membrane; Potassium;
+Potassium channel; Potassium transport; Repeat; Transmembrane;
+Transport; Voltage-gated channel.
+TMSIX

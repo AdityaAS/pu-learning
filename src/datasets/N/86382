@@ -1,0 +1,50 @@
+AC   P05131;
+cAMP-dependent protein kinase, beta-1-catalytic subunit (EC 2.7.11.11)
+(PKA C-beta-1).
+"A cloned bovine cDNA encodes an alternate form of the catalytic
+subunit of cAMP-dependent protein kinase.";
+"A conserved deamidation site at Asn 2 in the catalytic subunit of
+mammalian cAMP-dependent protein kinase detected by capillary LC-MS
+and tandem mass spectrometry.";
+"Intracellular distribution of mammalian protein kinase A catalytic
+subunit altered by conserved Asn2 deamidation.";
+"The amino terminus of PKA catalytic subunit- a site for introduction
+of posttranslational heterogeneities by deamidation: D-Asp2 and D-
+isoAsp2 containing isozymes.";
+-!- FUNCTION: Phosphorylates a large number of substrates in the
+    cytoplasm and the nucleus.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- ENZYME REGULATION: Activated by cAMP.
+-!- SUBUNIT: A number of inactive tetrameric holoenzymes are produced
+    by the combination of homo- or heterodimers of the different
+    regulatory subunits associated with two catalytic subunits. cAMP
+    causes the dissociation of the inactive holoenzyme into a dimer of
+    regulatory subunits bound to four cAMP and two free monomeric
+    catalytic subunits.
+-!- SUBCELLULAR LOCATION: Inactive holoenzyme: Cytoplasm. Monomeric
+    catalytic subunit: Cytoplasm. Nucleus. Note=Translocates into the
+    nucleus (monomeric catalytic subunit).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+      Comment=N-terminal differences in alternatively spliced products
+      could be involved in regulation such as alternative targeting;
+    Name=1; Synonyms=Beta-1;
+      IsoId=P05131-1; Sequence=Displayed;
+    Name=2; Synonyms=Beta-2;
+      IsoId=P24256-1; Sequence=External;
+      Note=No experimental confirmation available;
+-!- PTM: Asn-2 is deaminated to Asp in more than 25% of the proteins,
+    giving rise to 2 major isoelectric variants, called CB and CA
+    respectively (0.4 pH unit change). Deamidation proceeds via the
+    so-called beta-aspartyl shift mechanism and yields either 'D-Asp-
+    2' (major) or 'D-isoAsp-2' (minor), in addition to L-isomers.
+    Deamidation occurs after the addition of myristate. The Asn-2 form
+    reaches a significantly larger nuclear/cytoplasmic ratio than the
+    'Asp-2' form.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. cAMP
+    subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+Alternative splicing; ATP-binding; cAMP; Direct protein sequencing;
+Kinase; Lipoprotein; Myristate; Nuclear protein; Nucleotide-binding;
+Phosphorylation; Serine/threonine-protein kinase; Transferase.
+TMZERO

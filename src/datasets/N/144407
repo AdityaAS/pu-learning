@@ -1,0 +1,17 @@
+AC   Q3YU19;
+Peptide chain release factor 3 (RF-3).
+"Genome dynamics and diversity of Shigella species, the etiologic
+agents of bacillary dysentery.";
+-!- FUNCTION: Increases the formation of ribosomal termination
+    complexes and stimulates activities of RF-1 and RF-2. It binds
+    guanine nucleotides and has strong preference for UGA stop codons.
+    It may interact directly with the ribosome. The stimulation of RF-
+    1 and RF-2 is significantly reduced by GTP and GDP, but not by GMP
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the GTP-binding elongation factor family.
+    PrfC subfamily.
+ GO:0006449; P:regulation of translational termination; IEA:HAMAP.
+Complete proteome; GTP-binding; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

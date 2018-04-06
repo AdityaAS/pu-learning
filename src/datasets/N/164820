@@ -1,0 +1,16 @@
+AC   Q5X853;
+30S ribosomal protein S3.
+"Evidence in the Legionella pneumophila genome for exploitation of
+host cell functions and high genome plasticity.";
+-!- FUNCTION: Binds the lower part of the 30S subunit head. Binds mRNA
+    in the 70S ribosome, positioning it for translation (By
+    similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Forms a tight complex
+    with proteins S10 and S14 (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S3P family.
+-!- SIMILARITY: Contains 1 KH type-2 domain.
+ GO:0003729; F:mRNA binding; IEA:HAMAP.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

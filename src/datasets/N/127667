@@ -1,0 +1,12 @@
+AC   Q59121;
+Phospholipase D precursor (EC 3.1.4.4) (Choline phosphatase) (PLD-A).
+"Arcanobacterium haemolyticum phospholipase D is genetically and
+functionally similar to Corynebacterium pseudotuberculosis
+phospholipase D.";
+-!- FUNCTION: Has sphingomyelinase and hemolytic activity. Thought to
+    act as a virulence factor.
+-!- CATALYTIC ACTIVITY: A phosphatidylcholine + H(2)O = choline + a
+    phosphatidate.
+ GO:0004630; F:phospholipase D activity; IEA:EC.
+Hydrolase; Lipid degradation; Signal; Virulence.
+TMZERO

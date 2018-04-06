@@ -1,0 +1,15 @@
+AC   Q47BB1;
+Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+(dUTPase) (dUTP pyrophosphatase).
+"Complete sequence of Dechloromonas aromatica RCB.";
+-!- FUNCTION: This enzyme is involved in nucleotide metabolism: it
+    produces dUMP, the immediate precursor of thymidine nucleotides
+    and it decreases the intracellular concentration of dUTP so that
+    uracil cannot be incorporated into DNA (By similarity).
+-!- CATALYTIC ACTIVITY: dUTP + H(2)O = dUMP + diphosphate.
+-!- PATHWAY: De novo synthesis of thymidylate.
+-!- SIMILARITY: Belongs to the dUTPase family.
+ GO:0004170; F:dUTP diphosphatase activity; IEA:HAMAP.
+ GO:0006220; P:pyrimidine nucleotide metabolism; IEA:HAMAP.
+Complete proteome; Hydrolase; Nucleotide metabolism.
+TMZERO

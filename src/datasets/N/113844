@@ -1,0 +1,10 @@
+AC   Q8EWW3;
+Protein nrdI.
+"The complete genomic sequence of Mycoplasma penetrans, an
+intracellular bacterial pathogen in humans.";
+-!- FUNCTION: Not known; probably involved in ribonucleotide reductase
+    function.
+-!- SIMILARITY: Belongs to the nrdI family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

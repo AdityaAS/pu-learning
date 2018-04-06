@@ -1,0 +1,67 @@
+AC   P63252; O15110; P48049;
+Inward rectifier potassium channel 2 (Potassium channel, inwardly
+rectifying subfamily J member 2) (Inward rectifier K(+) channel
+Kir2.1) (Cardiac inward rectifier potassium channel) (IRK1).
+"Molecular cloning and expression of a human heart inward rectifier
+potassium channel.";
+"Cloning and functional expression of a human gene, hIRK1, encoding
+the heart inward rectifier K+-channel.";
+"Inwardly rectifying whole cell potassium current in human blood
+eosinophils.";
+"Genetic and functional linkage of Kir5.1 and Kir2.1 channel
+subunits.";
+"Inward rectifier K+ channel from human heart and brain: cloning and
+stable expression in a human cell line.";
+"Mutations in Kir2.1 cause the developmental and episodic electrical
+phenotypes of Andersen's syndrome.";
+"KCNJ2 mutation results in Andersen syndrome with sex-specific cardiac
+and skeletal muscle phenotypes.";
+"Functional and clinical characterization of KCNJ2 mutations
+associated with LQT7 (Andersen syndrome).";
+"A novel form of short QT syndrome (SQT3) is caused by a mutation in
+the KCNJ2 gene.";
+-!- FUNCTION: Probably participates in establishing action potential
+    waveform and excitability of neuronal and muscle tissues. Inward
+    rectifier potassium channels are characterized by a greater
+    tendency to allow potassium to flow into the cell rather than out
+    of it. Their voltage dependence is regulated by the concentration
+    of extracellular potassium; as external potassium is raised, the
+    voltage range of the channel opening shifts to more positive
+    voltages. The inward rectification is mainly due to the blockage
+    of outward current by internal magnesium. Can be blocked by
+    extracellular barium or cesium.
+-!- SUBUNIT: Homomultimeric and heteromultimeric association with
+    Kir2.3, resulting in an enhanced G-protein-induced current.
+    Association, via its PDZ-recognition domain, with LIN7A, LIN7B,
+    LIN7C, DLG1, CASK and APBA1 plays a key role in its localization
+    and trafficking (By similarity).
+-!- INTERACTION:
+    P24588:AKAP5; NbExp=1; IntAct=EBI-703457, EBI-703640;
+    P21333:FLNA; NbExp=1; IntAct=EBI-703457, EBI-350432;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Heart, brain, placenta, lung, skeletal muscle,
+    and kidney. Diffusely distributed throughout the brain.
+-!- DISEASE: Defects in KCNJ2 are the cause of Andersen syndrome
+    [MIM:170390]; also called Andersen cardiodysrhythmic periodic
+    paralysis or long QT syndrome type 7 (LQT7). Andersen syndrome
+    manifests itself as a clinical triad consisting of potassium-
+    sensitive periodic paralysis, ventricular ectopy and dysmorphic
+    features.
+-!- DISEASE: Defects in KCNJ2 are the cause of short QT syndrome type
+    3 (SQT3) [MIM:609622]. Short QT syndromes are heart disorders
+    characterized by idiopathic persistently and uniformly short QT
+    interval on ECG in the absence of structural heart disease in
+    affected individuals. They cause syncope and sudden death. SQT3
+    has a unique ECG phenotype characterized by asymmetrical T waves.
+-!- SIMILARITY: Belongs to the inward rectifier-type potassium channel
+    family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=KCNJ2".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005242; F:inward rectifier potassium channel activity; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006813; P:potassium ion transport; TAS:ProtInc.
+Disease mutation; Ion transport; Ionic channel; Long QT syndrome;
+Membrane; Potassium; Potassium transport; Short QT syndrome;
+Transmembrane; Transport; Voltage-gated channel.
+TMTWO

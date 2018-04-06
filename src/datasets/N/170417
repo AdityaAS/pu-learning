@@ -1,0 +1,28 @@
+AC   Q03323;
+COMPASS component SDC1 (Complex proteins associated with SET1 protein
+SDC1) (Set1C component SDC1) (Suppressor of CDC25 protein 1).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"The Saccharomyces cerevisiae Set1 complex includes an Ash2 homologue
+and methylates histone 3 lysine 4.";
+"COMPASS, a histone H3 (Lysine 4) methyltransferase required for
+telomeric silencing of gene expression.";
+"COMPASS: a complex of proteins associated with a trithorax-related
+SET domain protein.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: The COMPASS (Set1C) complex specifically methylates
+    'Lys-4' of histone H3, which subsequently plays a role in telomere
+    length maintenance.
+-!- SUBUNIT: Component of the COMPASS (Set1C) complex which consists
+    of SET1(2), BRE2(2), SPP1(2), SDC1(1), SHG1(1), SWD1(1), SWD2(1),
+    and SWD3(1).
+-!- INTERACTION:
+    P43132:BRE2; NbExp=1; IntAct=EBI-38307, EBI-27115;
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- MISCELLANEOUS: Present with 937 molecules/cell.
+-!- SIMILARITY: Belongs to the dpy-30 family.
+ GO:0048188; C:COMPASS complex; IPI:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006348; P:chromatin silencing at telomere; IMP:SGD.
+ GO:0016571; P:histone methylation; IDA:SGD.
+Chromosomal protein; Complete proteome; Nuclear protein; Telomere.
+TMZERO

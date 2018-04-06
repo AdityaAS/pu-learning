@@ -1,0 +1,29 @@
+AC   Q9W719;
+Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8) (HGPRT)
+(HGPRTase).
+"The chicken HPRT gene: a counter selectable marker for the DT40 cell
+line.";
+-!- CATALYTIC ACTIVITY: IMP + diphosphate = hypoxanthine + 5-phospho-
+    alpha-D-ribose 1-diphosphate.
+-!- CATALYTIC ACTIVITY: GMP + diphosphate = guanine + 5-phospho-alpha-
+    D-ribose 1-diphosphate.
+-!- COFACTOR: Binds 2 magnesium ions per subunit. One of the ions does
+    not make direct protein contacts (By similarity).
+-!- PATHWAY: Purine salvage.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the purine/pyrimidine
+    phosphoribosyltransferase family.
+ GO:0005737; C:cytoplasm; ISS:UniProtKB.
+ GO:0004422; F:hypoxanthine phosphoribosyltransferase acti...; ISS:UniProtKB.
+ GO:0000287; F:magnesium ion binding; ISS:UniProtKB.
+ GO:0042803; F:protein homodimerization activity; ISS:UniProtKB.
+ GO:0007610; P:behavior; ISS:UniProtKB.
+ GO:0046100; P:hypoxanthine metabolism; ISS:UniProtKB.
+ GO:0045964; P:positive regulation of dopamine metabolism; ISS:UniProtKB.
+ GO:0051289; P:protein homotetramerization; ISS:UniProtKB.
+ GO:0006164; P:purine nucleotide biosynthesis; ISS:UniProtKB.
+ GO:0006166; P:purine ribonucleoside salvage; ISS:UniProtKB.
+Glycosyltransferase; Magnesium; Metal-binding; Purine salvage;
+Transferase.
+TMZERO

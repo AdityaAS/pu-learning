@@ -1,0 +1,13 @@
+AC   Q887D9;
+Formamidase (EC 3.5.1.49) (Formamide amidohydrolase).
+"The complete genome sequence of the Arabidopsis and tomato pathogen
+Pseudomonas syringae pv. tomato DC3000.";
+-!- FUNCTION: Is an aliphatic amidase with a restricted substrate
+    specificity, as it only hydrolyzes formamide (By similarity).
+-!- CATALYTIC ACTIVITY: Formamide + H(2)O = formate + NH(3).
+-!- SIMILARITY: Belongs to the nitrilase superfamily. Aliphatic
+    amidase family.
+-!- SIMILARITY: Contains 1 CN hydrolase domain.
+ GO:0004328; F:formamidase activity; IEA:HAMAP.
+Complete proteome; Hydrolase.
+TMZERO

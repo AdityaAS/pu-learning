@@ -1,0 +1,44 @@
+AC   Q9XSM3;
+Transient receptor potential cation channel subfamily V member 5
+(TrpV5) (osm-9-like TRP channel 3) (OTRPC3) (Epithelial calcium
+channel 1) (ECaC1).
+"Molecular identification of the apical Ca2+ channel in 1, 25-
+dihydroxyvitamin D3-responsive epithelia.";
+"The single pore residue Asp542 determines Ca2+ permeation and Mg2+
+block of the epithelial Ca2+ channel.";
+"Homo- and heterotetrameric architecture of the epithelial Ca2+
+channels TRPV5 and TRPV6.";
+"The carboxyl terminus of the epithelial Ca(2+) channel ECaC1 is
+involved in Ca(2+)-dependent inactivation.";
+-!- FUNCTION: Constitutively active calcium selective cation channel
+    thought to be involved in Ca(2+) reabsorption in kidney and
+    intestine. The channel is activated by low internal calcium level
+    and the current exhibits an inward rectification. A Ca(2+)-
+    dependent feedback regulation includes fast channel inactivation
+    and slow current decay. Heteromeric assembly with TRPV6 seems to
+    modify channel properties. TRPV5-TRPV6 heteromultimeric
+    concatemers exhibit voltage-dependent gating.
+-!- SUBUNIT: Homotetramer and probably heterotetramer with TRPV6.
+    Interacts with TRPV6. Interacts with S100A10 and probably with the
+    ANAX2-S100A10 heterotetramer. The interaction with S100A10 is
+    required for the trafficking to the plasma membrane. Interacts
+    with calmodulin. Interacts with BSPRY, which results in its
+    inactivation (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; apical cell membrane; multi-
+    pass membrane protein (By similarity). Note=Colocalized with
+    S100A10 and ANAX2 along the apical domain of kidney distal tubular
+    cells (By similarity).
+-!- PTM: Glycosylated.
+-!- SIMILARITY: Belongs to the transient receptor family. TrpV
+    subfamily.
+-!- SIMILARITY: Contains 5 ANK repeats.
+ GO:0005887; C:integral to plasma membrane; ISS:UniProtKB.
+ GO:0005262; F:calcium channel activity; ISS:UniProtKB.
+ GO:0005515; F:protein binding; ISS:UniProtKB.
+ GO:0006874; P:calcium ion homeostasis; ISS:UniProtKB.
+ GO:0006816; P:calcium ion transport; ISS:UniProtKB.
+ GO:0051262; P:protein tetramerization; ISS:UniProtKB.
+ANK repeat; Calcium; Calcium channel; Calcium transport; Glycoprotein;
+Ion transport; Ionic channel; Membrane; Repeat; Transmembrane;
+Transport.
+TMSIX

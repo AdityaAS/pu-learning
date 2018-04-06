@@ -1,0 +1,29 @@
+AC   O68460; Q2RTC7;
+Pyrophosphate-energized proton pump (EC 3.6.1.1) (Pyrophosphate-
+energized inorganic pyrophosphatase) (H+-PPase) (Membrane-bound
+proton-translocating pyrophosphatase).
+"A pyrophosphate synthase gene: molecular cloning and sequencing of
+the cDNA encoding the inorganic pyrophosphate synthase from
+Rhodospirillum rubrum.";
+"Complete sequence of the chromosome of Rhodospirillum rubrum ATCC
+11170.";
+"Differential regulation of soluble and membrane-bound inorganic
+pyrophosphatases in the photosynthetic bacterium Rhodospirillum
+rubrum: insights into a pyrophosphate-based stress bioenergetics.";
+"H+-pyrophosphatase of Rhodospirillum rubrum. High yield expression in
+Escherichia coli and identification of the Cys residues responsible
+for inactivation my mersalyl.";
+-!- FUNCTION: Generates a proton motive force; it probably catalyzes a
+    fully reversible reaction, thus being able to synthesize
+    pyrophosphate when the proton motive force is sufficient.
+-!- CATALYTIC ACTIVITY: Diphosphate + H(2)O = 2 phosphate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- SUBUNIT: Homodimer (Potential).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the H(+)-translocating pyrophosphatase
+    (TC 3.A.10) family. Type 2 subfamily.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Complete proteome; Hydrogen ion transport; Hydrolase; Ion transport;
+Magnesium; Membrane; Transmembrane; Transport.
+TMFIFTEEN

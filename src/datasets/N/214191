@@ -1,0 +1,10 @@
+AC   Q1MGK1;
+UPF0078 membrane protein RL2428.
+"The genome of Rhizobium leguminosarum has recognizable core and
+accessory components.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the UPF0078 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMFIVE

@@ -1,0 +1,15 @@
+AC   P0AFZ9; P21166; P76769;
+Trk system potassium uptake protein trkH.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Low-affinity potassium transport system. Interacts with
+    trk system potassium uptake protein trkA and requires trkE for
+    transport activity (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the trkH potassium transport family.
+Complete proteome; Inner membrane; Ion transport; Membrane; Potassium;
+Potassium transport; Transmembrane; Transport.
+TMELEVEN

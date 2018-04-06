@@ -1,0 +1,26 @@
+AC   P05695;
+Porin P precursor (Outer membrane protein D1).
+"Sequence and relatedness in other bacteria of the Pseudomonas
+aeruginosa oprP gene coding for the phosphate-specific porin P.";
+"Polyphosphate-selective porin OprO of Pseudomonas aeruginosa:
+expression, purification and sequence.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"Regulation of components of the Pseudomonas aeruginosa phosphate-
+starvation-inducible regulon in Escherichia coli.";
+"Large-scale purification and biochemical characterization of
+crystallization-grade porin protein P from Pseudomonas aeruginosa.";
+"Demonstration and chemical modification of a specific phosphate
+binding site in the phosphate-starvation-inducible outer membrane
+porin protein P of Pseudomonas aeruginosa.";
+-!- FUNCTION: Anion specific, the binding site has higher affinity for
+    phosphate than chloride ions. Porin O has a higher affinity for
+    polyphosphates (tripolyphosphate and pyrophosphate) while porin P
+    has a higher affinity for orthophosphate.
+-!- SUBUNIT: Homotrimer. Trimer pore size is 0.6 nM.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the oprO/oprP family.
+Chloride; Complete proteome; Direct protein sequencing; Ion transport;
+Membrane; Outer membrane; Porin; Signal; Transmembrane; Transport.
+TMZERO

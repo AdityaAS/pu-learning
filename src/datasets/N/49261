@@ -1,0 +1,11 @@
+AC   Q8P2N7;
+Probable GTPase engC (EC 3.6.1.-).
+"Genome sequence and comparative microarray analysis of serotype M18
+group A Streptococcus strains associated with acute rheumatic fever
+outbreaks.";
+-!- FUNCTION: Unusual circulary permuted GTPase that catalyzes rapid
+    hydrolysis of GTP with a slow catalytic turnover (By similarity).
+-!- SUBUNIT: Monomer (Probable).
+-!- SIMILARITY: Contains 1 engC GTPase domain.
+Complete proteome; GTP-binding; Hydrolase; Nucleotide-binding.
+TMZERO

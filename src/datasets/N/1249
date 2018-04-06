@@ -1,0 +1,36 @@
+AC   P29997; Q999V2; Q999V3;
+Large delta antigen (p27) (HDAg-L) [Contains: Small delta antigen
+(p24) (HDAg-S)].
+"Molecular cloning of hepatitis delta virus RNA from an infected
+woodchuck liver: sequence, structure, and applications.";
+"Nucleotide sequence analysis of three different hepatitis delta
+viruses isolated from a woodchuck and humans.";
+-!- FUNCTION: Binds specifically to HDV RNA. The large form is
+    required for packaging of the HDV ribonucleoprotein with hepatitis
+    B surface antigen and inhibits viral RNA replication, whereas the
+    small form is required for viral replication.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- PTM: Prenylation of HDAg-L is required for the assembly of viral
+    particles (By similarity).
+-!- PTM: Phosphorylated (By similarity).
+-!- RNA EDITING: Modified_positions=196; Note=Partially edited. RNA
+    editing at this position occurs on the antigenomic strand and
+    consists of a conversion of A to G catalyzed by the cellular
+    enzyme ADAR1. The unedited RNA version gives rise to the small
+    delta antigen, which ends with a nonsense codon at position 196.
+    In the edited version, this amber codon is modified to a
+    tryptophan codon and gives rise to the large delta antigen
+    protein. HDAg-S suppresses editing of non-replicating antigenomic
+    RNA, thereby regulating the extent of editing.
+-!- MISCELLANEOUS: The farnesyltransferase inhibitors BZA-5B and FTI-
+    277 prevent the production of complete, infectious virions and are
+    therefore antiviral agents against HDV (By similarity).
+-!- MISCELLANEOUS: Binds specifically to antisera from patients with
+    chronic hepatitis delta viral infections.
+-!- MISCELLANEOUS: This strain belongs to the genotype I found in
+    North America, Europe, Africa, East and West Asia and the South
+    Pacific.
+-!- SIMILARITY: Belongs to the hepatitis delta antigen family.
+Lipoprotein; Nuclear protein; Phosphorylation; Prenylation;
+RNA editing; RNA-binding.
+TMZERO

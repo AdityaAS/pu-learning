@@ -1,0 +1,13 @@
+AC   Q38008;
+Holin (Lysis protein).
+"Analysis of the complete nucleotide sequence and functional
+organization of the genome of Streptococcus pneumoniae bacteriophage
+Cp-1.";
+"Functional analysis of the two-gene lysis system of the pneumococcal
+phage Cp-1 in homologous and heterologous host cells.";
+-!- FUNCTION: Produces a lesion in the cytoplasmic membrane allowing
+    the phage lysosyme to attack the peptidoglycan.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the Cp-1 holin family.
+Membrane; Phage lysis protein; Transmembrane.
+THTHREE

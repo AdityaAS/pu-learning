@@ -1,0 +1,10 @@
+AC   Q6G770;
+30S ribosomal protein S10.
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Involved in the binding of tRNA to the ribosomes (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S10P family.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein.
+TMZERO

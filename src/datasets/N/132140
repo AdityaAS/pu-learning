@@ -1,0 +1,53 @@
+AC   Q99KP6; Q3TP64; Q8BKZ5; Q8BVQ4;
+Pre-mRNA-processing factor 19 (EC 6.3.2.-) (PRP19/PSO4 homolog)
+(Nuclear matrix protein 200) (Senescence evasion factor).
+"Cloning of mSNEV, the mouse homologue of the human nuclear matrix
+protein NMP200.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Plays a role in DNA double-strand break (DSB) repair.
+    Binds double-stranded DNA in a sequence-nonspecific manner. Acts
+    as a structural component of the nuclear framework. May also serve
+    as a support for spliceosome binding and activity. Essential for
+    spliceosome assembly in a oligomerization-dependent manner and
+    might also be important for spliceosome stability. May have E3
+    ubiquitin ligase activity. The PSO4 complex is required in the DNA
+    interstrand cross-links (ICLs) repair process (By similarity).
+-!- SUBUNIT: Homooligomer. Identified in the spliceosome C complex, at
+    least composed of AQR, ASCC3L1, C19orf29, CDC40, CDC5L, CRNKL1,
+    DDX23, DDX41, DDX48, DDX5, DGCR14, DHX35, DHX38, DHX8, EFTUD2,
+    FRG1, GPATC1, HNRPA1, HNRPA2B1, HNRPA3, HNRPC, HNRPF, HNRPH1,
+    HNRPK, HNRPM, HNRPR, HNRPU, KIAA1160, KIAA1604, LSM2, LSM3, MAGOH,
+    MORG1, PABPC1, PLRG1, PNN, PPIE, PPIL1, PPIL3, PPWD1, PRPF19,
+    PRPF4B, PRPF6, PRPF8, RALY, RBM22, RBM8A, RBMX, SART1, SF3A1,
+    SF3A2, SF3A3, SF3B1, SF3B2, SF3B3, SFRS1, SKIV2L2, SNRPA1, SNRPB,
+    SNRPB2, SNRPD1, SNRPD2, SNRPD3, SNRPE, SNRPF, SNRPG, SNW1, SRRM1,
+    SRRM2, SYF2, SYNCRIP, TFIP11, THOC4, U2AF1, WDR57, XAB2 and
+    ZCCHC8. Component of the PSO4 complex, composed of PRPF19, CDC5L,
+    PLRG1. Interacts with DNTT/TdT and PSMB4 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Nucleus;
+    nucleoplasm (By similarity). Note=Nucleoplasmic in interphase
+    cells. Irregularly distributed in anaphase cells. In prophase
+    cells, uniformly distributed, but not associated with condensing
+    chromosomes. Found in extrachromosomal regions in metaphase cells.
+    Mainly localized to the mitotic spindle apparatus when chromosomes
+    segregate during anaphase. When nuclei reform during late
+    telophase, uniformly distributed in daughter cells and displays no
+    preferred association with decondensing chromatin (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q99KP6-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q99KP6-2; Sequence=VSP_011945;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q99KP6-3; Sequence=VSP_012192;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Contains 1 U-box domain.
+-!- SIMILARITY: Contains 7 WD repeats.
+Alternative splicing; DNA damage; DNA repair; DNA-binding; Ligase;
+mRNA processing; mRNA splicing; Nuclear protein; Repeat; Spliceosome;
+Ubl conjugation pathway; WD repeat.
+TMZERO

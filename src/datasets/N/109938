@@ -1,0 +1,26 @@
+AC   P36587; Q9USU6; Q9UU68;
+NADPH--cytochrome P450 reductase (EC 1.6.2.4) (CPR) (P450R).
+"Structurally and functionally conserved regions of cytochrome P-450
+reductase as targets for DNA amplification by the polymerase chain
+reaction. Cloning and nucleotide sequence of the Schizosaccharomyces
+pombe cDNA.";
+"The genome sequence of Schizosaccharomyces pombe.";
+"Large-scale screening of intracellular protein localization in living
+fission yeast cells by the use of a GFP-fusion genomic DNA library.";
+-!- FUNCTION: This enzyme is required for electron transfer from NADP
+    to cytochrome P450 in microsomes. It can also provide electron
+    transfer to heme oxygenase and cytochrome B5.
+-!- CATALYTIC ACTIVITY: NADPH + n oxidized hemoprotein = NADP(+) + n
+    reduced hemoprotein.
+-!- COFACTOR: FAD.
+-!- COFACTOR: FMN.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; single-pass membrane protein.
+-!- SIMILARITY: In the C-terminal section; belongs to the flavoprotein
+    pyridine nucleotide cytochrome reductase family.
+-!- SIMILARITY: Contains 1 FAD-binding domain.
+-!- SIMILARITY: Contains 1 flavodoxin-like domain.
+ GO:0005783; C:endoplasmic reticulum; IDA:GeneDB_SPombe.
+Complete proteome; Endoplasmic reticulum; FAD; Flavoprotein; FMN;
+Membrane; NADP; Oxidoreductase; Transmembrane.
+TMONE

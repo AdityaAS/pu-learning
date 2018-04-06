@@ -1,0 +1,14 @@
+AC   Q87NH5;
+Asparaginyl-tRNA synthetase (EC 6.1.1.22) (Asparagine--tRNA ligase)
+(AsnRS).
+"Genome sequence of Vibrio parahaemolyticus: a pathogenic mechanism
+distinct from that of V. cholerae.";
+-!- CATALYTIC ACTIVITY: ATP + L-asparagine + tRNA(Asn) = AMP +
+    diphosphate + L-asparaginyl-tRNA(Asn).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

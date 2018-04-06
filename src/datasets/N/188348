@@ -1,0 +1,17 @@
+AC   O24735;
+Thermosome subunit beta (Thermosome subunit 2) (Chaperonin beta
+subunit).
+"Purification and molecular cloning of the group II chaperonin from
+the acidothermophilic archaeon, Sulfolobus sp. strain 7.";
+"Complete genome sequence of an aerobic thermoacidophilic
+Crenarchaeon, Sulfolobus tokodaii strain7.";
+-!- FUNCTION: Molecular chaperone; binds unfolded polypeptides in
+    vitro, and has a weak ATPase activity (By similarity).
+-!- SUBUNIT: Forms a hetero-oligomeric complex of two stacked nine-
+    membered rings; one of alpha and the other of beta subunits (By
+    similarity).
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the TCP-1 chaperonin family.
+ATP-binding; Chaperone; Complete proteome; Direct protein sequencing;
+Nucleotide-binding.
+TMZERO

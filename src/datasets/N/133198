@@ -1,0 +1,15 @@
+AC   P14225;
+Photosystem I reaction center subunit psaK, chloroplast precursor
+(Photosystem I subunit X) (PSI-K) (Light-harvesting complex I 8.4 kDa
+protein) (P37 protein).
+"Isolation and characterization of cDNA clones encoding photosystem I
+subunits with molecular masses 11.0, 10.0 and 8.4 kDa from
+Chlamydomonas reinhardtii.";
+-!- FUNCTION: The exact function of psaK in photosystem I (PSI) is not
+    yet known.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; multi-pass membrane protein (Probable).
+-!- SIMILARITY: Belongs to the psaG/psaK family.
+Chloroplast; Membrane; Photosynthesis; Photosystem I; Plastid;
+Thylakoid; Transit peptide; Transmembrane.
+TMTWO

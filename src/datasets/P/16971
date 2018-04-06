@@ -1,0 +1,19 @@
+AC   P53744;
+7-keto 8-aminopelargonic acid transporter (KAPA transporter).
+"Characterization of the biotin biosynthesis pathway in Saccharomyces
+cerevisiae and evidence for a cluster containing BIO5, a novel gene
+involved in vitamer uptake.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Transport into the cell of 7-keto 8-aminopelargonic
+    acid.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily.
+ GO:0015646; F:permease activity; IDA:SGD.
+ GO:0009102; P:biotin biosynthesis; IMP:SGD.
+ GO:0051180; P:vitamin transport; IDA:SGD.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,12 @@
+AC   P58300;
+Maltotriose-binding protein precursor (Maltodextrin-binding protein)
+(MMBP).
+"The complete sequence of the Pyrococcus furiosus genome.";
+"Structural basis for oligosaccharide recognition by Pyrococcus
+furiosus maltodextrin-binding protein.";
+-!- FUNCTION: Involved in an abc transport system for maltotriose.
+    Binds maltotriose much more tightly than maltose.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 1
+    family.
+3D-structure; Complete proteome; Signal; Sugar transport; Transport.
+TMZERO

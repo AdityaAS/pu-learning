@@ -1,0 +1,15 @@
+AC   Q8M9U1;
+NAD(P)H-quinone oxidoreductase chain 4, chloroplast (EC 1.6.5.-)
+(NAD(P)H dehydrogenase, chain 4) (NADH-plastoquinone oxidoreductase
+chain 4).
+"The chloroplast and mitochondrial genome sequences of the charophyte
+Chaetosphaeridium globosum: insights into the timing of the events
+that restructured organelle DNAs within the green algal lineage that
+led to land plants.";
+-!- CATALYTIC ACTIVITY: NAD(P)H + plastoquinone = NAD(P)(+) +
+    plastoquinol.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the complex I subunit 4 family.
+Chloroplast; NAD; NADP; Oxidoreductase; Plastid; Plastoquinone;
+Quinone.
+TMZERO

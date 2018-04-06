@@ -1,0 +1,71 @@
+AC   O94759; Q5KTC2; Q6J3P5; Q96KN6; Q96Q93;
+Transient receptor potential cation channel subfamily M member 2
+(EC 3.6.1.13) (Long transient receptor potential channel 2) (LTrpC2)
+(LTrpC-2) (Transient receptor potential channel 7) (TrpC7) (Estrogen-
+responsive element-associated gene 1 protein).
+"Molecular cloning of a novel putative Ca2+ channel protein (TRPC7)
+highly expressed in brain.";
+"Activation of the cation channel long transient receptor potential
+channel 2 (LTRPC2) by hydrogen peroxide. A splice variant reveals a
+mode of activation independent of ADP-ribose.";
+"A novel TRPM2 isoform inhibits calcium influx and susceptibility to
+cell death.";
+"Characterization of human and mouse TRPM2 genes: Identification of a
+novel N-terminal truncated protein specifically expressed in human
+striatum.";
+"Cloning of the human TRPM2.";
+"NIEHS-SNPs, environmental genome project, NIEHS ES15478, Department
+of Genome Sciences, Seattle, WA (URL: http://egp.gs.washington.edu).";
+"The DNA sequence of human chromosome 21.";
+"Molecular cloning of a novel estrogen responsive gene, estrogen
+responsive element associated gene 1 (EREG1), which contains MutT like
+domain.";
+"ADP-ribose gating of the calcium-permeable LTRPC2 channel revealed by
+Nudix motif homology.";
+"Immunocyte Ca2+ influx system mediated by LTRPC2.";
+"LTRPC2 Ca2+-permeable channel activated by changes in redox status
+confers susceptibility to cell death.";
+-!- FUNCTION: Nonselective, voltage-independent cation channel
+    mediating sodium and calcium ion influx in response to oxidative
+    stress. Extracellular calcium passes through the channel and acts
+    from the intracellular side as a positive regulator in channel
+    activation. Activated by ADP-ribose, nicotinamide adenine
+    dinucleotide (NAD(+)), reactive nitrogen species and arachidonic
+    acid. Inactivated by intracellular ATP. Confers susceptibility to
+    cell death following oxidative stress. Isoform 2 does not seem to
+    be regulated by ADPR. Has ADP-ribose pyrophosphatase activity.
+-!- CATALYTIC ACTIVITY: ADP-ribose + H(2)O = AMP + D-ribose 5-
+    phosphate.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=100 uM for ADP-ribose;
+      Vmax=0.1 umol/min/mg enzyme;
+-!- SUBUNIT: Isoform 1 can interact with isoform 3. This interaction
+    decreases calcium influx through isoform 1 and suppresses
+    susceptibility to oxidative stress-induced cell death.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=TRPM2-L;
+      IsoId=O94759-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O94759-2; Sequence=VSP_006574, VSP_006575;
+    Name=3; Synonyms=TRPM2-S;
+      IsoId=O94759-3; Sequence=VSP_013018;
+-!- TISSUE SPECIFICITY: Highly expressed in brain and peripheral blood
+    cells, such as neutrophils. Also detected in bone marrow, spleen,
+    heart, liver and lung. Isoform 2 is found in neutrophil
+    granulocytes.
+-!- INDUCTION: NAD(+).
+-!- SIMILARITY: Belongs to the transient receptor family. LTrpC
+    subfamily.
+-!- SIMILARITY: Contains 1 nudix hydrolase domain.
+-!- CAUTION: Ref.7 sequence differs from that shown due to frameshifts
+    in positions 1227 and 1237.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005262; F:calcium channel activity; TAS:ProtInc.
+ GO:0006816; P:calcium ion transport; TAS:ProtInc.
+Alternative splicing; Calcium; Calcium channel; Calcium transport;
+Hydrolase; Ion transport; Ionic channel; Membrane; NAD; Polymorphism;
+Sodium; Sodium channel; Sodium transport; Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,15 @@
+AC   P0A770; P77145;
+Manganese transport protein mntH.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: H(+)-stimulated, highly selective, manganese uptake
+    system (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the NRAMP family.
+ GO:0030145; F:manganese ion binding; IEA:HAMAP.
+ GO:0015293; F:symporter activity; IEA:HAMAP.
+ GO:0006828; P:manganese ion transport; IEA:HAMAP.
+Complete proteome; Inner membrane; Manganese; Membrane; Symport;
+Transmembrane; Transport.
+TMELEVEN

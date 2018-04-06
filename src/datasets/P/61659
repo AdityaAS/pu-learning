@@ -1,0 +1,16 @@
+AC   P49940;
+Spore germination protein KB.
+"Nucleotide sequence and gene organization of the gerK spore
+germinating locus of Bacillus subtilis 168.";
+"The 25 degrees-36 degrees region of the Bacillus subtilis chromosome:
+determination of the sequence of a 146 kb segment and identification
+of 113 genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in the germination response to the combination
+    of glucose, fructose, L-asparagine, and KCl.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: To B.subtilis gerA2.
+Complete proteome; Germination; Membrane; Transmembrane.
+TMTEN

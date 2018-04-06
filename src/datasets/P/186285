@@ -1,0 +1,32 @@
+AC   Q8LG88; Q9FEH9; Q9FGK1; Q9MAW4;
+Tonoplast dicarboxylate transporter (AttDT) (Vacuolar malate
+transporter) (Sodium-dicarboxylate cotransporter-like) (AtSDAT).
+"The plant homolog to the human sodium/dicarboxylic cotransporter is
+the vacuolar malate carrier.";
+"Sodium sulfate or dicarboxylate transporter form Arabidopsis
+thaliana.";
+"Structural analysis of Arabidopsis thaliana chromosome 5. XI.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+"Impaired pH homeostasis in Arabidopsis lacking the vacuolar
+dicarboxylate transporter and analysis of carboxylic acid transport
+across the tonoplast.";
+-!- FUNCTION: Putative carrier protein indirectly involved in the
+    uptake of malate and fumarate to the vacuole, probably by
+    regulating the energization across the tonoplast. Uptake of malate
+    to vacuoles is inhibited by citrate and by the uncoupler carbonyl-
+    cyanide m-chlorophenylhydrazone, but seems to be not affected by
+    sodium. Critical for pH homeostasis.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein. Note=Tonoplast.
+-!- TISSUE SPECIFICITY: Expressed in leaves, stems and flowers.
+-!- INDUCTION: Induced by malate and by acidification of the
+    cytoplasm.
+-!- SIMILARITY: Belongs to the SLC13A transporter (TC 2.A.47) family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to frameshifts
+    in positions 475 and 479.
+-!- CAUTION: Ref.3 sequence differs from that shown due to erroneous
+    gene model prediction.
+Membrane; Transmembrane; Transport; Vacuole.
+TMTWELVE

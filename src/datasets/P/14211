@@ -1,0 +1,22 @@
+AC   P29708;
+ATP synthase delta chain, sodium ion specific (EC 3.6.3.15).
+"Cloning, sequencing and in vivo expression of genes encoding the F0
+part of the sodium-ion-dependent ATP synthase of Propionigenium
+modestum in Escherichia coli.";
+"N-terminal amino acid sequences of the subunits of the Na(+)-
+translocating F1F0 ATPase from Propionigenium modestum.";
+-!- FUNCTION: This protein seems to be part of the stalk that links
+    CF(0) to CF(1). It either transmits conformational changes from
+    CF(0) into CF(1) or is implicated in proton conduction.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- MISCELLANEOUS: The ATPase of P.modestum is of special interest
+    because it uses sodium ions instead of protons as the
+    physiological coupling ion.
+-!- SIMILARITY: Belongs to the ATPase delta chain family.
+ATP synthesis; CF(1); Direct protein sequencing; Hydrolase;
+Ion transport; Sodium; Sodium transport; Transport.
+TMZERO

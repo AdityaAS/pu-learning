@@ -1,0 +1,26 @@
+AC   P07821; P77548;
+Ferrichrome transport ATP-binding protein fhuC.
+"fhuC and fhuD genes for iron (III)-ferrichrome transport into
+Escherichia coli K-12.";
+"Nucleotide sequence of the fhuC and fhuD genes involved in iron (III)
+hydroxamate transport: domains in FhuC homologous to ATP-binding
+proteins.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+2.4-4.1 min (110,917-193,643 bp) region.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for Fe(3+)-ferrichrome. Probably responsible for energy coupling
+    to the transport system.
+-!- INTERACTION:
+    P39298:yjfP; NbExp=1; IntAct=EBI-1114151, EBI-1114160;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ATP-binding; Complete proteome; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Nucleotide-binding; Transport.
+TMZERO

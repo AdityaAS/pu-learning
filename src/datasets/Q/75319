@@ -1,0 +1,17 @@
+AC   Q6GE14;
+Gamma-hemolysin component A precursor (H-gamma-2) (H-gamma-II).
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Toxin that seems to act by forming pores in the membrane
+    of the cell. Has a hemolytic and a leucotoxic activity (By
+    similarity).
+-!- SUBUNIT: Toxicity requires sequential binding and synergistic
+    association of a class S and a class F component which form
+    heterooligomeric complexes. HlgA (class S) associates with hlgB
+    (class F) thus forming an AB toxin in strains producing both
+    gamma-hemolysins and leukocidins. HlgA and lukF-PV can also form a
+    complex (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- SIMILARITY: Belongs to the aerolysin family.
+Complete proteome; Cytolysis; Hemolysis; Signal; Toxin.
+TMZERO

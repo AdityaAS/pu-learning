@@ -1,0 +1,9 @@
+AC   Q8RFE6;
+Maf-like protein FN0759.
+"Genome sequence and analysis of the oral bacterium Fusobacterium
+nucleatum strain ATCC 25586.";
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the maf family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

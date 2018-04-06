@@ -1,0 +1,8 @@
+AC   Q9R0A3;
+Spermatogenesis-associated protein 7 homolog (Rat sperm DNA no.3)
+(RSD-3) (Fertility-related protein WMP1).
+"A novel gene, RSD-3/HSD-3.1, encodes a meiotic-related protein
+expressed in rat and human testis.";
+-!- TISSUE SPECIFICITY: In early prophase of primary spermatocytes.
+ GO:0007283; P:spermatogenesis; IEP:RGD.
+TMZERO

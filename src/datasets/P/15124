@@ -1,0 +1,35 @@
+AC   P37617; Q2M7D2;
+Lead, cadmium, zinc and mercury-transporting ATPase (EC 3.6.3.3)
+(EC 3.6.3.5).
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The zntA gene of Escherichia coli encodes a Zn(II)-translocating P-
+type ATPase.";
+"Zinc(II) tolerance in Escherichia coli K-12: evidence that the zntA
+gene (o732) encodes a cation transport ATPase.";
+"The ATP hydrolytic activity of purified ZntA, a Pb(II)/Cd(II)/Zn(II)-
+translocating ATPase from Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"A new zinc-protein coordination site in intracellular metal
+trafficking: solution structure of the Apo and Zn(II) forms of
+ZntA(46-118).";
+-!- FUNCTION: Involved in export of lead, cadmium, zinc and mercury.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Cd(2+)(In) = ADP + phosphate +
+    Cd(2+)(Out).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Zn(2+)(In) = ADP + phosphate +
+    Zn(2+)(Out).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IB subfamily.
+-!- SIMILARITY: Contains 1 HMA domain.
+ GO:0008551; F:cadmium-exporting ATPase activity; IEA:EC.
+ GO:0016463; F:zinc-exporting ATPase activity; IEA:EC.
+3D-structure; ATP-binding; Cadmium; Complete proteome; Hydrolase;
+Inner membrane; Magnesium; Membrane; Mercury; Metal-binding;
+Nucleotide-binding; Phosphorylation; Transmembrane; Zinc.
+TMSEVEN

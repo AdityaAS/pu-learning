@@ -1,0 +1,16 @@
+AC   P0ACJ3; P19494;
+Leucine-responsive regulatory protein.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Mediates a global response to leucine. Exogenous leucine
+    affects the expression of a number of different operons; lrp
+    mediates this effect for at least some of these operons. For
+    example it is regulator of the branched-chain amino acid transport
+    genes (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Contains 1 HTH asnC-type DNA-binding domain.
+Activator; Complete proteome; DNA-binding; Transcription;
+Transcription regulation.
+TMZERO

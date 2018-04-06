@@ -1,0 +1,14 @@
+AC   P28140;
+Protein Wnt-3a (Fragment).
+"Diversification of the Wnt gene family on the ancestral lineage of
+vertebrates.";
+-!- FUNCTION: Ligand for members of the frizzled family of seven
+    transmembrane receptors. Probable developmental protein. May be a
+    signaling molecule which affects the development of discrete
+    regions of tissues. Is likely to signal over only few cell
+    diameters.
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space;
+    extracellular matrix.
+-!- SIMILARITY: Belongs to the Wnt family.
+Developmental protein; Glycoprotein; Wnt signaling pathway.
+TMZERO

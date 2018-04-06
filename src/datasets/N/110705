@@ -1,0 +1,47 @@
+AC   Q8K4Q6; Q80V58; Q9CYT9;
+Endonuclease VIII-like 1 (EC 3.2.2.-) (EC 4.2.99.18) (Nei-like 1) (DNA
+glycosylase/AP lyase Neil1) (DNA-(apurinic or apyrimidinic site) lyase
+Neil1) (NEH1).
+"A back-up glycosylase in Nth1 knock-out mice is a functional Nei
+(endonuclease VIII) homologue.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Involved in base excision repair of DNA damaged by
+    oxidation or by mutagenic agents. Acts as DNA glycosylase that
+    recognizes and removes damaged bases. Has a preference for
+    oxidized pyrimidines, such as thymine glycol, formamidopyrimidine
+    (Fapy) and 5-hydroxyuracil. Has marginal activity towards 8-
+    oxoguanine. Has AP (apurinic/apyrimidinic) lyase activity and
+    introduces nicks in the DNA strand. Cleaves the DNA backbone by
+    beta-delta elimination to generate a single-strand break at the
+    site of the removed base with both 3'- and 5'-phosphates. Has DNA
+    glycosylase/lyase activity towards mismatched uracil and thymine,
+    in particular in U:C and T:C mismatches (By similarity).
+-!- CATALYTIC ACTIVITY: Removes damaged bases from DNA, leaving an
+    abasic site.
+-!- CATALYTIC ACTIVITY: The C-O-P bond 3' to the apurinic or
+    apyrimidinic site in DNA is broken by a beta-elimination reaction,
+    leaving a 3'-terminal unsaturated sugar and a product with a
+    terminal 5'-phosphate.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8K4Q6-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8K4Q6-2; Sequence=VSP_012207;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Detected in heart, spleen and lung.
+-!- INDUCTION: Up-regulated during S-phase (By similarity).
+-!- SIMILARITY: Belongs to the FPG family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to a
+    frameshift in position 343.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0019104; F:DNA N-glycosylase activity; IDA:MGI.
+ GO:0016829; F:lyase activity; IDA:MGI.
+ GO:0006281; P:DNA repair; IDA:MGI.
+Alternative splicing; DNA damage; DNA repair; DNA-binding;
+Glycosidase; Hydrolase; Lyase; Multifunctional enzyme;
+Nuclear protein.
+TMZERO

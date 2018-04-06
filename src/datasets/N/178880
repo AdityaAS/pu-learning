@@ -1,0 +1,15 @@
+AC   Q8EBS1;
+Alanyl-tRNA synthetase (EC 6.1.1.7) (Alanine--tRNA ligase) (AlaRS).
+"Genome sequence of the dissimilatory metal ion-reducing bacterium
+Shewanella oneidensis.";
+-!- CATALYTIC ACTIVITY: ATP + L-alanine + tRNA(Ala) = AMP +
+    diphosphate + L-alanyl-tRNA(Ala).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Metal-binding; Nucleotide-binding; Protein biosynthesis; Zinc;
+Zinc-finger.
+TMZERO

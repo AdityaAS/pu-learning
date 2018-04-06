@@ -1,0 +1,16 @@
+AC   P0ACX0; P52110; P77466;
+Inner membrane protein ydgC.
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: To P.aeruginosa glpM.
+-!- CAUTION: Ref.1 sequence differs from that shown due to frameshifts
+    in positions 11 and 38.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+THTHREE

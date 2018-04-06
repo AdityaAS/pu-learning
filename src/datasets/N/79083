@@ -1,0 +1,30 @@
+AC   Q8MJS1; Q8WN24;
+Interleukin-12 receptor beta-2 chain precursor (IL-12 beta2 receptor)
+(IL-12R-beta2).
+"Cloning of porcine interleukin (IL)-12 receptor beta2 (IL-12Rbeta2)
+gene and its application to a rapid biological assay for human/porcine
+IL-12.";
+"Limited effect of recombinant porcine interleukin-12 on porcine
+lymphocytes due to a low level of IL-12 beta2 receptor.";
+-!- FUNCTION: Receptor for interleukin-12. This subunit is the
+    signaling component coupling to the JAK2/STAT4 pathway.
+-!- SUBUNIT: Heterodimer/heteroligomer; disulfide-linked. The
+    functional high affinity IL12 receptor is composed of I12RB1 and
+    IL12RB2. Il12RB2 binds JAK2 (via its N-terminal) through a
+    membrane-proximal region of the cytoplasmic domain (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- DOMAIN: The WSXWS motif appears to be necessary for proper protein
+    folding and thereby efficient intracellular transport and cell-
+    surface receptor binding.
+-!- DOMAIN: The box 1 motif is required for JAK interaction and/or
+    activation.
+-!- PTM: On IL12 stimulation, phosphorylated on C-terminal tyrosine
+    residues (By similarity).
+-!- SIMILARITY: Belongs to the type I cytokine receptor family. Type 2
+    subfamily.
+-!- SIMILARITY: Contains 5 fibronectin type-III domains.
+Glycoprotein; Membrane; Phosphorylation; Receptor; Repeat; Signal;
+Transmembrane.
+TMONE

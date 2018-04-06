@@ -1,0 +1,9 @@
+AC   Q6HFB2;
+UPF0291 protein BT9727_3443.
+"Pathogenomic sequence analysis of Bacillus cereus and Bacillus
+thuringiensis isolates closely related to Bacillus anthracis.";
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the UPF0291 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

@@ -1,0 +1,15 @@
+AC   P04519;
+DNA alpha-glucosyltransferase (EC 2.4.1.26) (AGT) (Alpha-GT).
+"Genes 55, alpha gt, 47 and 46 of bacteriophage T4: the genomic
+organization as deduced by sequence analysis.";
+"Bacteriophage T4 genome.";
+"Structural evidence of a passive base-flipping mechanism for AGT, an
+unusual GT-B glycosyltransferase.";
+-!- FUNCTION: Is involved in a DNA modification process to protect the
+    phage genome against its own nucleases and the host restriction
+    endonuclease system.
+-!- CATALYTIC ACTIVITY: Transfers an alpha-D-glucosyl residue from
+    UDP-glucose to an hydroxymethylcytosine residue in DNA.
+-!- PATHWAY: Genetic information processing; DNA modification.
+3D-structure; Glycosyltransferase; Transferase.
+TMZERO

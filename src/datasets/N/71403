@@ -1,0 +1,15 @@
+AC   Q28779;
+Hemoglobin subunit gamma-1 (Hemoglobin gamma-1 chain) (Gamma-1-globin)
+(Hemoglobin gamma-A chain).
+"Reexamination of the African hominoid trichotomy with additional
+sequences from the primate beta-globin gene cluster.";
+-!- FUNCTION: Gamma chains make up the fetal hemoglobin F, in
+    combination with alpha chains.
+-!- SUBUNIT: Heterotetramer of two alpha chains and two gamma chains
+    in fetal hemoglobin (Hb F). The ratio of gamma-G to gamma-A chains
+    in is approximately 2:1 in infant chimpanzee, and 1:2 in the
+    adult.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- SIMILARITY: Belongs to the globin family.
+Acetylation; Heme; Iron; Metal-binding; Oxygen transport; Transport.
+TMZERO

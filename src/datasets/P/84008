@@ -1,0 +1,21 @@
+AC   P40900; P78943; Q9HGP2;
+Sexual differentiation process protein isp4.
+"Identification and characterization of genes induced during sexual
+differentiation in Schizosaccharomyces pombe.";
+"S.pombe chromosome II cosmid 1228 sequence.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- DEVELOPMENTAL STAGE: Transcribed specifically during sexual
+    development.
+-!- SIMILARITY: Belongs to the oligopeptide OPT transporter family.
+-!- CAUTION: Ref.2 (BAA12193) sequence differs from that shown due to
+    several frameshifts.
+-!- CAUTION: Ref.2 (BAA12193) sequence differs from that shown due to
+    sequencing errors.
+ GO:0005783; C:endoplasmic reticulum; IDA:GeneDB_SPombe.
+ GO:0000747; P:conjugation with cellular fusion; IMP:GeneDB_SPombe.
+ GO:0031142; P:induction of conjugation upon nitrogen star...; IEP:GeneDB_SPombe.
+Complete proteome; Membrane; Peptide transport; Protein transport;
+Transmembrane; Transport.
+TMSIXTEEN

@@ -1,0 +1,17 @@
+AC   P46538;
+Dihydroorotase (EC 3.5.2.3) (DHOase).
+"Molecular characterization of pyrimidine biosynthesis genes from the
+thermophile Bacillus caldolyticus.";
+-!- CATALYTIC ACTIVITY: (S)-dihydroorotate + H(2)O = N-carbamoyl-L-
+    aspartate.
+-!- COFACTOR: Binds 2 zinc ions per subunit (By similarity).
+-!- PATHWAY: Nucleotide biosynthesis; UMP biosynthesis; UMP from
+    HCO(3)(-): step 3.
+-!- PATHWAY: Context: Pyrimidine biosynthesis.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the DHOase family. Type 2 subfamily.
+ GO:0004151; F:dihydroorotase activity; IEA:HAMAP.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+ GO:0006221; P:pyrimidine nucleotide biosynthesis; IEA:HAMAP.
+Hydrolase; Metal-binding; Pyrimidine biosynthesis; Zinc.
+TMZERO

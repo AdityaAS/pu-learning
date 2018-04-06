@@ -1,0 +1,16 @@
+AC   Q5WEM3;
+Ribonuclease PH (EC 2.7.7.56) (RNase PH) (tRNA
+nucleotidyltransferase).
+"The complete genome sequence of the alkaliphilic Bacillus clausii
+KSM-K16.";
+-!- FUNCTION: Phosphorolytic exoribonuclease that removes nucleotide
+    residues following the -CCA terminus of tRNA and adds nucleotides
+    to the ends of RNA molecules by using nucleoside diphosphates as
+    substrates (By similarity).
+-!- CATALYTIC ACTIVITY: tRNA(n+1) + phosphate = tRNA(n) + a nucleoside
+    diphosphate.
+-!- SIMILARITY: Belongs to the RNase PH family.
+ GO:0009022; F:tRNA nucleotidyltransferase activity; IEA:HAMAP.
+Complete proteome; Nucleotidyltransferase; Transferase;
+tRNA processing.
+TMZERO

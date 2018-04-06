@@ -1,0 +1,30 @@
+AC   P20395; Q64183;
+Follicle-stimulating hormone receptor precursor (FSH-R) (Follitropin
+receptor).
+"The testicular receptor for follicle stimulating hormone: structure
+and functional expression of cloned cDNA.";
+"Structural organization of the follicle-stimulating hormone receptor
+gene.";
+"Identification of the sites of N-linked glycosylation on the
+follicle-stimulating hormone (FSH) receptor and assessment of their
+role in FSH receptor function.";
+-!- FUNCTION: Receptor for follicle-stimulating hormone. The activity
+    of this receptor is mediated by G proteins which activate
+    adenylate cyclase.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Sertoli cells and ovarian granulosa cells.
+-!- PTM: N-glycosylated; indirectly required for FSH-binding, possibly
+    via a conformational change that allows high affinity binding of
+    hormone.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+    FSH/LSH/TSH subfamily.
+-!- SIMILARITY: Contains 6 LRR (leucine-rich) repeats.
+-!- WEB RESOURCE: NAME=GRIS;
+    NOTE=Glycoprotein-hormone Receptors Information System;
+    URL="http://gris.ulb.ac.be/".
+ GO:0004963; F:follicle-stimulating hormone receptor activity; IDA:RGD.
+ GO:0004930; F:G-protein coupled receptor activity; TAS:RGD.
+G-protein coupled receptor; Glycoprotein; Leucine-rich repeat;
+Membrane; Phosphorylation; Receptor; Repeat; Signal; Transducer;
+Transmembrane.
+TMSEVEN

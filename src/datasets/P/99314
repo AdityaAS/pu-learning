@@ -1,0 +1,36 @@
+AC   P37340; P77276; P77765;
+Multidrug resistance protein mdtK (Multidrug-efflux transporter).
+"Analysis of the boundaries of Salmonella pathogenicity island 2 and
+the corresponding chromosomal region of Escherichia coli K-12.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"NorM, a putative multidrug efflux protein, of Vibrio parahaemolyticus
+and its homolog in Escherichia coli.";
+"The multidrug efflux protein NorM is a prototype of a new family of
+transporters.";
+"Analysis of a complete library of putative drug transporter genes in
+Escherichia coli.";
+"Relative contributions of the AcrAB, MdfA and NorE efflux pumps to
+quinolone resistance in Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Multidrug efflux pump that functions probably as a
+    Na(+)/drug antiporter. Confers resistance to many drugs such as
+    fluoroquinolones (norfloxacin, ciprofloxacin, enoxacin),
+    tetraphenylphosphonium ion (TPP), deoxycholate, doxorubicin,
+    trimethoprim, chloramphenicol, fosfomycin, acriflavine, ethidium
+    bromide and benzalkonium.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the multi antimicrobial extrusion (MATE)
+    (TC 2.A.66.1) family. MdtK subfamily.
+ GO:0006814; P:sodium ion transport; IEA:HAMAP.
+Antibiotic resistance; Antiport; Complete proteome; Inner membrane;
+Ion transport; Membrane; Sodium; Sodium transport; Transmembrane;
+Transport.
+TMTWELVE

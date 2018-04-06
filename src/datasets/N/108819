@@ -1,0 +1,12 @@
+AC   Q8EFF2;
+NH(3)-dependent NAD(+) synthetase (EC 6.3.1.5).
+"Genome sequence of the dissimilatory metal ion-reducing bacterium
+Shewanella oneidensis.";
+-!- CATALYTIC ACTIVITY: ATP + deamido-NAD(+) + NH(3) = AMP +
+    diphosphate + NAD(+).
+-!- PATHWAY: Cofactor biosynthesis; NAD(+) biosynthesis; NAD(+) from
+    deamido-NAD(+) (ammonia route): single step [final step].
+-!- SIMILARITY: Belongs to the NAD synthetase family.
+ GO:0008795; F:NAD+ synthase activity; IEA:EC.
+ATP-binding; Complete proteome; Ligase; NAD; Nucleotide-binding.
+TMZERO

@@ -1,0 +1,65 @@
+AC   O95786; Q5HYE1; Q5VYT1; Q9NT04;
+Probable ATP-dependent RNA helicase DDX58 (EC 3.6.1.-) (DEAD-box
+protein 58) (Retinoic acid-inducible gene 1 protein) (RIG-1) (RIG-I).
+"RIG-I, a human homolog gene of RNA helicase, is induced by retinoic
+acid during the differentiation of acute promyelocytic leukemia
+cell.";
+"Retinoic acid-inducible gene-I is induced in endothelial cells by LPS
+and regulates expression of COX-2.";
+"DNA sequence and analysis of human chromosome 9.";
+"Retinoic acid-inducible gene-I is induced by interferon-gamma and
+regulates the expression of interferon-gamma stimulated gene 15 in
+MCF-7 cells.";
+"Expression of retinoic acid-inducible gene-I in vascular smooth
+muscle cells stimulated with interferon-gamma.";
+"The RNA helicase RIG-I has an essential function in double-stranded
+RNA-induced innate antiviral responses.";
+"Identification and characterization of MAVS, a mitochondrial
+antiviral signaling protein that activates NF-kappaB and IRF 3.";
+"Regulating intracellular antiviral defense and permissiveness to
+hepatitis C virus RNA replication through a cellular RNA helicase,
+RIG-I.";
+"VISA is an adapter protein required for virus-triggered IFN-beta
+Signaling.";
+"IPS-1, an adaptor triggering RIG-I- and Mda5-mediated type I
+interferon induction.";
+"Human ISG15 conjugation targets both IFN-induced and constitutively
+expressed proteins functioning in diverse cellular pathways.";
+-!- FUNCTION: Involved in innate immune defense against viruses. Upon
+    interaction with intracellular dsRNA produced during viral
+    replication, triggers a transduction cascade involving MAVS, which
+    results in the activation of NF-kappa-B, IRF3 and IRF7 and the
+    induction of the expression of antiviral cytokines such as IFN-
+    beta and RANTES (CCL5). Essential for the production of
+    interferons in response to RNA viruses including paramyxoviruses,
+    influenza viruses and Japanese encephalitis virus (By similarity).
+-!- SUBUNIT: Interacts with MAVS/IPS1.
+-!- INTERACTION:
+    Q7Z434:MAVS; NbExp=1; IntAct=EBI-995350, EBI-995373;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O95786-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O95786-2; Sequence=VSP_016054;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Present in vascular smooth cells (at protein
+    level).
+-!- INDUCTION: By bacterial lipopolysaccharide (LPS) in endothelial
+    cells. By IFN-alpha, -beta and -gamma.
+-!- DOMAIN: The helicase domain is responsible for dsRNA recognition.
+-!- DOMAIN: The 2 CARD domains are responsible for interaction with
+    and signaling through MAVS.
+-!- PTM: Isgylated. Conjugated to ubiquitin-like protein ISG15 upon
+    IFN-beta stimulation.
+-!- SIMILARITY: Belongs to the helicase family.
+-!- SIMILARITY: Contains 2 CARD domains.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Alternative splicing; Antiviral defense; ATP-binding; Helicase;
+Hydrolase; Immune response; Innate immunity; Interferon induction;
+Nucleotide-binding; Polymorphism; Repeat; RNA-binding;
+Ubl conjugation.
+TMZERO

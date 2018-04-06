@@ -1,0 +1,8 @@
+AC   Q9HPE9;
+30S ribosomal protein S8e.
+"Genome sequence of Halobacterium species NRC-1.";
+-!- SUBUNIT: Part of the 30S ribosomal subunit.
+-!- SIMILARITY: Belongs to the ribosomal protein S8e family.
+ GO:0006412; P:protein biosynthesis; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein.
+TMZERO

@@ -1,0 +1,10 @@
+AC   P06962;
+Lysis protein for colicin A precursor.
+"Lysis protein encoded by plasmid ColA-CA31. Gene sequence and
+export.";
+"The complete nucleotide sequence of the colicinogenic plasmid ColA.
+High extent of homology with ColE1.";
+-!- FUNCTION: Lysis proteins are required for both colicin release and
+    partial cell lysis.
+Lipoprotein; Membrane; Outer membrane; Palmitate; Plasmid; Signal.
+TMZERO

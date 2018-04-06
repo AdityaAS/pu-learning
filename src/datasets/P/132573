@@ -1,0 +1,13 @@
+AC   P09489;
+Extracellular serine protease precursor (EC 3.4.21.-).
+"Specific excretion of Serratia marcescens protease through the outer
+membrane of Escherichia coli.";
+"Detection of large COOH-terminal domains processed from the precursor
+of Serratia marcescens serine protease in the outer membrane of
+Escherichia coli.";
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+-!- SIMILARITY: Contains 1 peptidase S8 domain.
+Direct protein sequencing; Hydrolase; Protease; Serine protease;
+Signal; Zymogen.
+TMZERO

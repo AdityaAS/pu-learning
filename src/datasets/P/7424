@@ -1,0 +1,42 @@
+AC   Q06497;
+Peroxisomal adenine nucleotide transporter 1.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Identification and functional reconstitution of the yeast peroxisomal
+adenine nucleotide transporter.";
+"Identification of a peroxisomal ATP carrier required for medium-chain
+fatty acid beta-oxidation and normal peroxisome proliferation in
+Saccharomyces cerevisiae.";
+"The peroxisomal transporter gene ANT1 is regulated by a deviant
+oleate response element (ORE): characterization of the signal for
+fatty acid induction.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"The yeast peroxisomal adenine nucleotide transporter:
+characterization of two transport modes and involvement in DeltapH
+formation across peroxisomal membranes.";
+"The peroxisomal lumen in Saccharomyces cerevisiae is alkaline.";
+-!- FUNCTION: Adenine nucleotide transporter involved in the uniport
+    of ATP and adenine nucleotide hetero-exchange transport between
+    the cytosol and the peroxisomal lumen. This transport is
+    accompanied by a proton transport from the peroxisomal lumen to
+    the cytosol. Transport of ATP into the peroxisome is required for
+    beta-oxydation of medium-chain fatty acids. Required for growth on
+    medium-chain fatty acids, pH gradient formation in peroxisomes and
+    for normal peroxisome proliferation.
+-!- SUBCELLULAR LOCATION: Peroxisome; peroxisomal membrane; multi-pass
+    membrane protein.
+-!- INDUCTION: Induced by oleic acid, through its ORE-like (oleate
+    responsive element) promoter element and the PIP2-OAF1
+    transcription factors.
+-!- MISCELLANEOUS: Present with 2250 molecules/cell.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005779; C:integral to peroxisomal membrane; IDA:SGD.
+ GO:0000295; F:adenine nucleotide transporter activity; IDA:SGD.
+ GO:0015867; P:ATP transport; IDA:SGD.
+ GO:0006635; P:fatty acid beta-oxidation; IGI:SGD.
+ GO:0007031; P:peroxisome organization and biogenesis; IMP:SGD.
+Complete proteome; Hydrogen ion transport; Ion transport; Membrane;
+Peroxisome; Repeat; Transmembrane; Transport.
+TMSIX

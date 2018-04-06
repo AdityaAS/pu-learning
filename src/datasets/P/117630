@@ -1,0 +1,19 @@
+AC   Q9BQT8;
+Mitochondrial 2-oxodicarboxylate carrier (Solute carrier family 25
+member 21).
+"Identification of the human mitochondrial oxodicarboxylate carrier.
+Bacterial expression, reconstitution, functional characterization,
+tissue distribution and chromosomal location.";
+-!- FUNCTION: Transports C5-C7 oxodicarboxylates across the inner
+    membranes of mitochondria. Can transport 2-oxoadipate, 2-
+    oxoglutarate, adipate, glutarate, and to a lesser extent,
+    pimelate, 2-oxopimelate, 2-aminoadipate, oxaloacetate, and
+    citrate.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+Inner membrane; Membrane; Mitochondrion; Repeat; Transmembrane;
+Transport.
+TMFOUR

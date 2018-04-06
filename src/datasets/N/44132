@@ -1,0 +1,22 @@
+AC   O84549;
+DNA polymerase III subunit alpha (EC 2.7.7.7).
+"Genome sequence of an obligate intracellular pathogen of humans:
+Chlamydia trachomatis.";
+-!- FUNCTION: DNA polymerase III is a complex, multichain enzyme
+    responsible for most of the replicative synthesis in bacteria.
+    This DNA polymerase also exhibits 3' to 5' exonuclease activity.
+    The alpha chain is the DNA polymerase (By similarity).
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- SUBUNIT: DNA polymerase III contains a core (composed of alpha,
+    epsilon and theta chains) that associates with a tau subunit. This
+    core dimerizes to form the PolIII' complex. PolIII' associates
+    with the gamma complex (composed of gamma, delta, delta', psi and
+    chi chains) and with the beta chain to form the complete DNA
+    polymerase III complex (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the DNA polymerase type-C family. DnaE
+    subfamily.
+Complete proteome; DNA replication; DNA-directed DNA polymerase;
+Nucleotidyltransferase; Transferase.
+TMZERO

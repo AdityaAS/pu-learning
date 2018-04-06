@@ -1,0 +1,24 @@
+AC   Q9RLT3;
+Protein citXG [Includes: Apo-citrate lyase phosphoribosyl-dephospho-
+CoA transferase (EC 2.7.7.61) (Holo-ACP synthase) (Holo-citrate lyase
+synthase) (Apo-ACP nucleodityltransferase); 2-(5''-triphosphoribosyl)-
+3'-dephosphocoenzyme-A synthase (EC 2.7.8.25) (2-(5''-
+triphosphoribosyl)-3'-dephospho-CoA synthase)].
+"Cloning and molecular characterization of the citrate utilization
+citMCDEFGRP cluster of Leuconostoc paramesenteroides.";
+-!- FUNCTION: Bifunctional enzyme that catalyzes formation of 2-(5''-
+    triphosphoribosyl)-3'-dephosphocoenzyme-A, and then the transfer
+    of this prosthetic group precursor to the apo-acyl carrier protein
+    (gamma chain) of the citrate lyase to yield the holo-acyl carrier
+    protein (By similarity).
+-!- CATALYTIC ACTIVITY: 2'-(5''-triphosphoribosyl)-3'-dephospho-CoA +
+    apo-citrate lyase = holo-citrate lyase + diphosphate.
+-!- CATALYTIC ACTIVITY: ATP + 3-dephospho-CoA = 2'-(5''-
+    triphosphoribosyl)-3'-dephospho-CoA + adenine.
+-!- SIMILARITY: In the N-terminal section; belongs to the citX family.
+-!- SIMILARITY: In the C-terminal section; belongs to the citG/mdcB
+    family.
+ GO:0050519; F:holo-[acyl-carrier-protein] synthase activity; IEA:EC.
+ GO:0046917; F:triphosphoribosyl-dephospho-CoA synthase ac...; IEA:HAMAP.
+Multifunctional enzyme; Nucleotidyltransferase; Plasmid; Transferase.
+TMZERO

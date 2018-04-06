@@ -1,0 +1,9 @@
+AC   P42361;
+29 kDa membrane protein in psaA 5'region (ORF1).
+"Nucleotide sequence of the Streptococcus gordonii PK488 coaggregation
+adhesin gene, scaA, and ATP-binding cassette.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the ABC-3 integral membrane protein family.
+Membrane; Transmembrane; Transport.
+TMNINE

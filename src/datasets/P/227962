@@ -1,0 +1,21 @@
+AC   P76173; P77142;
+Anaerobic dimethyl sulfoxide reductase chain ynfH (DMSO reductase
+anchor subunit ynfH).
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Terminal reductase during anaerobic growth on various
+    sulfoxide and N-oxide compounds. The C subunit anchors the other
+    two subunits to the membrane and stabilize the catalytic subunits
+    (By similarity).
+-!- SUBUNIT: The complex consist of three subunits: ynfF, the
+    reductase; ynfG, an electron transfer protein, and ynfH, a
+    membrane anchor protein (Potential).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: To E.coli dmsC.
+Complete proteome; Hypothetical protein; Inner membrane; Membrane;
+Oxidoreductase; Transmembrane.
+TMEIGHT

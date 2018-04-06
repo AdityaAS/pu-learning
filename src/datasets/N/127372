@@ -1,0 +1,33 @@
+AC   Q9UF11; Q9UBF5; Q9UI37; Q9UI44;
+Pleckstrin homology domain-containing family B member 1 (Pleckstrin
+homology domain retinal protein 1) (PH domain-containing protein in
+retina 1) (PHRET1).
+"PHR1 encodes an abundant, pleckstrin homology domain-containing
+integral membrane protein in the photoreceptor outer segments.";
+"KPL1, which encodes a novel PH domain-containing protein, is induced
+during ciliated cell differentiation of rat tracheal epithelial
+cells.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBUNIT: Binds transducins.
+-!- SUBCELLULAR LOCATION: Membrane. Note=Membrane-associated. Highly
+    expressed in the outer segments of photoreceptor cells, both in
+    rods and cones.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=Q9UF11-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9UF11-2; Sequence=VSP_009780;
+    Name=3;
+      IsoId=Q9UF11-3; Sequence=VSP_009779;
+    Name=4;
+      IsoId=Q9UF11-4; Sequence=VSP_009779, VSP_009780;
+-!- TISSUE SPECIFICITY: Highly expressed in retina and brain. Levels
+    are very low or not detectable in all other tissues tested.
+-!- SIMILARITY: Contains 1 PH domain.
+ GO:0016021; C:integral to membrane; IDA:UniProtKB.
+ GO:0004871; F:signal transducer activity; TAS:ProtInc.
+ GO:0007602; P:phototransduction; NAS:UniProtKB.
+Alternative splicing; Membrane.
+TMZERO

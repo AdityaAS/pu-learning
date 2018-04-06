@@ -1,0 +1,13 @@
+AC   P29810;
+Aminoglycoside N(3')-acetyltransferase IX (EC 2.3.1.81) (ACC(3)-IX)
+(Aminocyclitol 3-N-acetyltransferase type IX).
+"Characterisation of aminoglycoside acetyltransferase-encoding genes
+of neomycin-producing Micromonospora chalcea and Streptomyces
+fradiae.";
+-!- FUNCTION: Resistance to neomycin.
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + a 2-deoxystreptamine antibiotic =
+    CoA + N(3')-acetyl-2-deoxystreptamine antibiotic.
+-!- SIMILARITY: Belongs to the antibiotic N-acetyltransferase family.
+ GO:0046353; F:aminoglycoside N3'-acetyltransferase activity; IEA:EC.
+Acyltransferase; Antibiotic resistance; Transferase.
+TMZERO

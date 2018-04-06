@@ -1,0 +1,16 @@
+AC   Q4K3M0;
+Probable chorismate--pyruvate lyase (EC 4.1.3.-) (CL) (CPL).
+"Complete genome sequence of the plant commensal Pseudomonas
+fluorescens Pf-5.";
+-!- FUNCTION: Removes the pyruvyl group from chorismate, with
+    concomitant aromatization of the ring, to provide 4-
+    hydroxybenzoate (4HB) for the ubiquinone pathway (By similarity).
+-!- CATALYTIC ACTIVITY: Chorismate = 4-hydroxybenzoate + pyruvate.
+-!- PATHWAY: Cofactor biosynthesis; ubiquinone biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the ubiC family.
+ GO:0008813; F:chorismate pyruvate lyase activity; IEA:HAMAP.
+ GO:0042866; P:pyruvate biosynthesis; IEA:HAMAP.
+ GO:0006744; P:ubiquinone biosynthesis; IEA:HAMAP.
+Complete proteome; Lyase; Pyruvate; Ubiquinone biosynthesis.
+TMZERO

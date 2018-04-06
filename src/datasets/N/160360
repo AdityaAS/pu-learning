@@ -1,0 +1,17 @@
+AC   P30058;
+Plastid 30S ribosomal protein S8.
+"Function and evolution of a minimal plastid genome from a
+nonphotosynthetic parasitic plant.";
+"Rapid evolution of the plastid translational apparatus in a
+nonphotosynthetic plant: loss or accelerated sequence evolution of
+tRNA and ribosomal protein genes.";
+-!- FUNCTION: One of the primary rRNA binding proteins, it binds
+    directly to 16S rRNA central domain where it helps coordinate
+    assembly of the platform of the 30S subunit (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit.
+-!- SUBCELLULAR LOCATION: Plastid.
+-!- SIMILARITY: Belongs to the ribosomal protein S8P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Plastid; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

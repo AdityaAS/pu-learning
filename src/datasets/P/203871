@@ -1,0 +1,18 @@
+AC   P0A3W8; P07544; Q9JN10;
+Single-strand DNA-binding protein.
+"Characterization of the virE operon of the Agrobacterium Ti plasmid
+pTiA6.";
+"Genetic analysis of the virE operon of the Agrobacterium Ti plasmid
+pTiA6.";
+"Single-stranded DNA binding protein encoded by the virE locus of
+Agrobacterium tumefaciens.";
+"Agrobacterium VirE2 protein mediates nuclear uptake of single-
+stranded DNA in plant cells.";
+"Nuclear localization of Agrobacterium VirE2 protein in plant cells.";
+-!- FUNCTION: Involved in DNA transformation; mediates the nuclear
+    uptake of single-stranded DNA copies of the transferred DNA (T-
+    DNA) element. Binds single-stranded but not double-stranded DNA
+    regardless of nucleotide sequence composition.
+-!- SUBCELLULAR LOCATION: Host nucleus.
+Crown gall tumor; DNA-binding; Plasmid.
+TMZERO

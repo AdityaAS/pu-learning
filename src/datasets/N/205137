@@ -1,0 +1,9 @@
+AC   P03709;
+DNA packaging protein FI.
+"Nucleotide sequence of bacteriophage lambda DNA.";
+-!- FUNCTION: Is an assembly catalyst acting to assist binding of the
+    prohead to complex I (complex of terminase with lambda DNA).
+-!- SIMILARITY: To phage 21 hypothetical 13.5 kDa protein.
+-!- CAUTION: The translation initiation site corresponding to Met-1 is
+    the most probable of two possible sites.
+TMZERO

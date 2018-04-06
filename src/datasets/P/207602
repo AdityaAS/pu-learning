@@ -1,0 +1,11 @@
+AC   P96792;
+Putative xylose-proton symporter (Xylose transporter).
+"Cloning, sequence analysis, and characterization of the genes
+involved in isoprimeverose metabolism in Lactobacillus pentosus.";
+-!- FUNCTION: Responsible for transport of xylose into the cell, with
+    the concomitant uptake of protons (symport system).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the sodium:galactoside symporter family.
+Membrane; Sugar transport; Symport; Transmembrane; Transport.
+TMELEVEN

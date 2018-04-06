@@ -1,0 +1,11 @@
+AC   Q68670;
+Glycoprotein L precursor.
+-!- FUNCTION: The complex glycoprotein H-glycoprotein L is important
+    for infection and cell fusion. Also induces neutralizing and
+    syncytia inhibiting antibodies.
+-!- SUBUNIT: Interacts with glycoprotein H (gH). This association is
+    necessary for the correct processing and cell surface expression
+    of gH.
+-!- SIMILARITY: Belongs to the herpesviruses glycoprotein L family.
+Envelope protein; Glycoprotein; Signal; Virion protein.
+TMZERO

@@ -1,0 +1,18 @@
+AC   P50916;
+DNA replication and repair protein recF.
+"Organization of the origins of replication of the chromosomes of
+Mycobacterium smegmatis, Mycobacterium leprae and Mycobacterium
+tuberculosis and isolation of a functional origin from M. smegmatis.";
+"Sequence analysis, purification, and study of inhibition by 4-
+quinolones of the DNA gyrase from Mycobacterium smegmatis.";
+-!- FUNCTION: The recF protein is involved in DNA metabolism; it is
+    required for DNA replication and normal SOS inducibility. RecF
+    binds preferentially to single-stranded, linear DNA. It also seems
+    to bind ATP (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the recF family.
+ GO:0006260; P:DNA replication; IEA:HAMAP.
+ GO:0009432; P:SOS response; IEA:HAMAP.
+ATP-binding; DNA damage; DNA repair; DNA replication; DNA-binding;
+Nucleotide-binding; SOS response.
+TMZERO

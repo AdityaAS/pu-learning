@@ -1,0 +1,18 @@
+AC   P61493; P45747; Q5SLM1; Q60017;
+10 kDa chaperonin (Protein Cpn10) (groES protein).
+"Molecular cloning, expression, and characterization of chaperonin-60
+and chaperonin-10 from a thermophilic bacterium, Thermus thermophilus
+HB8.";
+"Cloning and characterization of the GroESL operon in Thermus
+aquaticus HB8.";
+"Complete genome sequence of Thermus thermophilus HB8.";
+"A chaperonin from a thermophilic bacterium, Thermus thermophilus,
+that controls refoldings of several thermophilic enzymes.";
+-!- FUNCTION: Binds to Cpn60 in the presence of Mg-ATP and suppresses
+    the ATPase activity of the latter.
+-!- SUBUNIT: Heptamer of 7 subunits arranged in a ring (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the groES chaperonin family.
+3D-structure; Chaperone; Complete proteome; Direct protein sequencing.
+TMZERO

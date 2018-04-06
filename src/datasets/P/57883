@@ -1,0 +1,32 @@
+AC   P11551; Q2MA33;
+L-fucose-proton symporter (L-fucose permease) (6-deoxy-L-galactose
+permease).
+"The nucleotide sequence of Escherichia coli genes for L-fucose
+dissimilation.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Constitutive activation of the fucAO operon and silencing of the
+divergently transcribed fucPIK operon by an IS5 element in Escherichia
+coli mutants selected for growth on L-1,2-propanediol.";
+"Identification of a novel sugar-H+ symport protein, FucP, for
+transport of L-fucose into Escherichia coli.";
+"Proton-linked L-fucose transport in Escherichia coli.";
+"Topological analyses of the L-fucose-H+ symport protein, FucP, from
+Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Mediates the uptake of L-fucose across the boundary
+    membrane with the concomitant transport of protons into the cell
+    (symport system). Can also transport L-galactose and D-arabinose,
+    but at reduced rates compared with L-fucose. Is not able to
+    transport L-rhamnose and L-arabinose.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By L-fucose.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. FHS
+    transporter (TC 2.A.1.7) family.
+Carbohydrate metabolism; Complete proteome; Direct protein sequencing;
+Fucose metabolism; Inner membrane; Membrane; Sugar transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

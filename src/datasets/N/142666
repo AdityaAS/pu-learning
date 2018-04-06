@@ -1,0 +1,26 @@
+AC   P0A5U5; O34519; P26345;
+Protein recA (Recombinase A) [Contains: Endonuclease PI-MboI
+(EC 3.1.-.-) (Mbo recA intein)].
+"The complete genome sequence of Mycobacterium bovis.";
+-!- FUNCTION: Can catalyze the hydrolysis of ATP in the presence of
+    single-stranded DNA, the ATP-dependent uptake of single-stranded
+    DNA by duplex DNA, and the ATP-dependent hybridization of
+    homologous single-stranded DNAs. It interacts with lexA causing
+    its activation and leading to its autocatalytic cleavage (By
+    similarity).
+-!- FUNCTION: PI-MboI is an endonuclease (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- PTM: This protein undergoes a protein self splicing that involves
+    a post-translational excision of the intervening region (intein)
+    followed by peptide ligation (By similarity).
+-!- SIMILARITY: Belongs to the recA family.
+-!- SIMILARITY: Contains 1 DOD-type homing endonuclease domain.
+ GO:0003684; F:damaged DNA binding; IEA:HAMAP.
+ GO:0003697; F:single-stranded DNA binding; IEA:HAMAP.
+ GO:0006281; P:DNA repair; IEA:HAMAP.
+ GO:0009432; P:SOS response; IEA:HAMAP.
+ATP-binding; Autocatalytic cleavage; Complete proteome; DNA damage;
+DNA recombination; DNA repair; DNA-binding; Endonuclease; Hydrolase;
+Intron homing; Nuclease; Nucleotide-binding; Protein splicing;
+SOS response.
+TMZERO

@@ -1,0 +1,19 @@
+AC   P53241;
+Vitamin H transporter (H+/biotin symporter).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Identification of the plasma membrane H+-biotin symporter of
+Saccharomyces cerevisiae by rescue of a fatty acid-auxotrophic
+mutant.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in uptake of biotin with the concomitant entry
+    of protons.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Allantoate permease family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0015225; F:biotin transporter activity; IDA:SGD.
+ GO:0015878; P:biotin transport; IDA:SGD.
+Biotin; Complete proteome; Membrane; Symport; Transmembrane;
+Transport.
+TMELEVEN

@@ -1,0 +1,13 @@
+AC   P50375;
+Elongation factor Tu (EF-Tu) (Fragment).
+"Phylogenetic analysis of tufA sequences indicates a cyanobacterial
+origin of all plastids.";
+-!- FUNCTION: This protein promotes the GTP-dependent binding of
+    aminoacyl-tRNA to the A-site of ribosomes during protein
+    biosynthesis.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the GTP-binding elongation factor family.
+    EF-Tu/EF-1A subfamily.
+Chloroplast; Elongation factor; GTP-binding; Nucleotide-binding;
+Plastid; Protein biosynthesis.
+TMZERO

@@ -1,0 +1,19 @@
+AC   P0AB70; P07002; P76890;
+NAD(P) transhydrogenase subunit beta (EC 1.6.1.2) (Pyridine nucleotide
+transhydrogenase subunit beta) (Nicotinamide nucleotide
+transhydrogenase subunit beta).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: The transhydrogenation between NADH and NADP is coupled
+    to respiration and ATP hydrolysis and functions as a proton pump
+    across the membrane (By similarity).
+-!- CATALYTIC ACTIVITY: NADPH + NAD(+) = NADP(+) + NADH.
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the PNT beta subunit family.
+Complete proteome; Inner membrane; Membrane; NAD; NADP;
+Oxidoreductase; Transmembrane.
+TMNINE

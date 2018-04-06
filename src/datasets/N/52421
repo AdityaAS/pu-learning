@@ -1,0 +1,27 @@
+AC   Q49WB6;
+3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.41) (3-oxoacyl-
+[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III)
+(KAS III).
+"Whole genome sequence of Staphylococcus saprophyticus reveals the
+pathogenesis of uncomplicated urinary tract infection.";
+-!- FUNCTION: Catalyzes the condensation reaction of fatty acid
+    synthesis by the addition to an acyl acceptor of two carbons from
+    malonyl-ACP. Catalyzes the first condensation reaction which
+    initiates fatty acid synthesis and may therefore play a role in
+    governing the total rate of fatty acid production. Possesses both
+    acetoacetyl-ACP synthase and acetyl transacylase activities. Its
+    substrate specificity determines the biosynthesis of branched-
+    chain and/or straight-chain of fatty acids (By similarity).
+-!- CATALYTIC ACTIVITY: Acyl-[acyl-carrier-protein] + malonyl-[acyl-
+    carrier-protein] = 3-oxoacyl-[acyl-carrier-protein] + CO(2) +
+    [acyl-carrier-protein].
+-!- PATHWAY: Fatty acid biosynthesis.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- DOMAIN: The last Arg residue of the ACP-binding site is essential
+    for the weak association between ACP/acpP and fabH (By
+    similarity).
+-!- SIMILARITY: Belongs to the fabH family.
+Acyltransferase; Complete proteome; Fatty acid biosynthesis;
+Lipid synthesis; Multifunctional enzyme; Transferase.
+TMZERO

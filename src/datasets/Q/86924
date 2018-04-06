@@ -1,0 +1,20 @@
+AC   Q8R5I0; Q920G1;
+Potassium channel subfamily K member 15 (Acid-sensitive potassium
+channel protein TASK-5) (TWIK-related acid-sensitive K(+) channel 5)
+(rTASK-5).
+"Expression pattern in brain of TASK-1, TASK-3, and a tandem pore
+domain K(+) channel subunit, TASK-5, associated with the central
+auditory nervous system.";
+-!- FUNCTION: Probable potassium channel subunit. No channel activity
+    observed in heterologous systems. May need to associate with
+    another protein to form a functional channel.
+-!- SUBUNIT: Heterodimer (Potential).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Brain-specific. Highly expressed in auditory
+    nuclei, in Purkinje cells and in olfactory bulb mitral cells.
+-!- PTM: Phosphorylated (Potential).
+-!- SIMILARITY: Belongs to the two pore domain potassium channel
+    (TC 1.A.1.8) family.
+Ion transport; Ionic channel; Membrane; Potassium; Potassium channel;
+Potassium transport; Transmembrane; Transport; Voltage-gated channel.
+TMFOUR

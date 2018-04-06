@@ -1,0 +1,15 @@
+AC   P60111; Q7MK60;
+Formimidoylglutamase (EC 3.5.3.8) (Formiminoglutamase)
+(Formiminoglutamate hydrolase).
+"Comparative genome analysis of Vibrio vulnificus, a marine
+pathogen.";
+-!- CATALYTIC ACTIVITY: N-formimidoyl-L-glutamate + H(2)O = L-
+    glutamate + formamide.
+-!- COFACTOR: Binds 2 manganese ions per subunit (By similarity).
+-!- PATHWAY: Histidine degradation; fourth step.
+-!- SIMILARITY: Belongs to the arginase family.
+ GO:0050415; F:formimidoylglutamase activity; IEA:HAMAP.
+ GO:0030145; F:manganese ion binding; IEA:HAMAP.
+Complete proteome; Histidine metabolism; Hydrolase; Manganese;
+Metal-binding.
+TMZERO

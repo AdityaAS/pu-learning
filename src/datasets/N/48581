@@ -1,0 +1,14 @@
+AC   P41804;
+Highly acidic elicitin 26 precursor.
+"Characterization of a gene cluster of Phytophthora cryptogea which
+codes for elicitins, proteins inducing a hypersensitive-like response
+in tobacco.";
+-!- FUNCTION: Induces local and distal defense responses (incompatible
+    hypersensitive reaction) in plants from the solanaceae and
+    cruciferae families. Elicit leaf necrosis and cause the
+    accumulation of pathogenesis-related proteins. Might interact with
+    the lipidic molecules of the plasma membrane.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the elicitin family.
+Hypersensitive response elicitation; Signal.
+TMZERO

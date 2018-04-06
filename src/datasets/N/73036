@@ -1,0 +1,14 @@
+AC   P60018;
+Hereditary hemochromatosis protein homolog precursor (HLA-H).
+"Sequence variation and haplotype structure at the Human HFE Locus.";
+-!- FUNCTION: Binds to transferrin receptor (TFR) and reduces its
+    affinity for iron-loaded transferrin (By similarity).
+-!- SUBUNIT: Binds TFR through the extracellular domain.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- SIMILARITY: Belongs to the MHC class I family.
+-!- SIMILARITY: Contains 1 Ig-like C1-type (immunoglobulin-like)
+    domain.
+Glycoprotein; Immune response; Ion transport; Iron; Iron transport;
+Membrane; MHC I; Signal; Transmembrane; Transport.
+TMONE

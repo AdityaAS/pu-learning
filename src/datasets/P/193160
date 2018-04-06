@@ -1,0 +1,39 @@
+AC   P48995;
+Short transient receptor potential channel 1 (TrpC1) (TRP-1 protein).
+"Molecular cloning of a widely expressed human homologue for the
+Drosophila trp gene.";
+"TRPC1, a human homolog of a Drosophila store-operated channel.";
+"Cloning and functional expression of a human Ca2+-permeable cation
+channel activated by calcium store depletion.";
+"Assembly of Trp1 in a signaling complex associated with caveolin-
+scaffolding lipid raft domains.";
+"TrpC1 is a membrane-spanning subunit of store-operated Ca(2+)
+channels in native vascular smooth muscle cells.";
+-!- FUNCTION: Thought to form a receptor-activated non-selective
+    calcium permeant cation channel. Probably is operated by a
+    phosphatidylinositol second messenger system activated by receptor
+    tyrosine kinases or G-protein coupled receptors. Seems to be also
+    activated by intracellular calcium store depletion.
+-!- SUBUNIT: Interacts with TRPC3. Interacts with ITPR3.
+-!- INTERACTION:
+    P20591:MX1; NbExp=1; IntAct=EBI-929665, EBI-929476;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long;
+      IsoId=P48995-1; Sequence=Displayed;
+    Name=Short;
+      IsoId=P48995-2; Sequence=VSP_006560;
+-!- TISSUE SPECIFICITY: Seems to be ubiquitous.
+-!- SIMILARITY: Belongs to the transient receptor family. STrpC
+    subfamily.
+-!- SIMILARITY: Contains 3 ANK repeats.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005886; C:plasma membrane; NAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015279; F:store-operated calcium channel activity; TAS:ProtInc.
+ GO:0006816; P:calcium ion transport; TAS:ProtInc.
+Alternative splicing; ANK repeat; Calcium; Calcium channel;
+Calcium transport; Ion transport; Ionic channel; Membrane; Repeat;
+Transmembrane; Transport.
+TMSIX

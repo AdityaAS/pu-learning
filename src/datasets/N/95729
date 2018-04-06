@@ -1,0 +1,16 @@
+AC   P23113; Q56820;
+Acyl-CoA reductase (EC 1.2.1.50).
+"Cloning and nucleotide sequences of lux genes and characterization of
+luciferase of Xenorhabdus luminescens from a human wound.";
+"Multiple repetitive elements and organization of the lux operons of
+luminescent terrestrial bacteria.";
+-!- FUNCTION: LuxC is the fatty acid reductase enzyme responsible for
+    synthesis of the aldehyde substrate for the luminescent reaction
+    catalyzed by luciferase.
+-!- CATALYTIC ACTIVITY: A long-chain aldehyde + CoA + NADP(+) = a
+    long-chain acyl-CoA + NADPH.
+-!- PATHWAY: Bioluminescent fatty acid reduction system; third step.
+-!- SIMILARITY: Belongs to the luxC family.
+ GO:0050062; F:long-chain-fatty-acyl-CoA reductase activity; IEA:EC.
+Luminescence; NADP; Oxidoreductase.
+TMZERO

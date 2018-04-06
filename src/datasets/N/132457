@@ -1,0 +1,18 @@
+AC   Q8CXK4;
+Foldase protein prsA precursor (EC 5.2.1.8).
+"Genome sequence of Oceanobacillus iheyensis isolated from the Iheya
+Ridge and its unexpected adaptive capabilities to extreme
+environments.";
+-!- FUNCTION: Plays a major role in protein secretion by helping the
+    post-translocational extracellular folding of several secreted
+    proteins (By similarity).
+-!- CATALYTIC ACTIVITY: Peptidylproline (omega=180) = peptidylproline
+    (omega=0).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Probable).
+-!- SIMILARITY: Belongs to the prsA family.
+-!- SIMILARITY: Contains 1 PpiC domain.
+ GO:0003755; F:peptidyl-prolyl cis-trans isomerase activity; IEA:HAMAP.
+ GO:0006457; P:protein folding; IEA:HAMAP.
+Complete proteome; Isomerase; Lipoprotein; Membrane; Palmitate;
+Rotamase; Signal.
+TMZERO

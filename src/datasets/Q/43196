@@ -1,0 +1,12 @@
+AC   Q01100; Q5UXH4;
+Chaperone protein dnaK (Heat shock protein 70) (Heat shock 70 kDa
+protein) (HSP70).
+"Cloning of the HSP70 gene from Halobacterium marismortui: relatedness
+of archaebacterial HSP70 to its eubacterial homologs and a model for
+the evolution of the HSP70 gene.";
+"Genome sequence of Haloarcula marismortui: a halophilic archaeon from
+the Dead Sea.";
+-!- FUNCTION: Acts as a chaperone (By similarity).
+-!- SIMILARITY: Belongs to the heat shock protein 70 family.
+ATP-binding; Chaperone; Complete proteome; Nucleotide-binding.
+TMZERO

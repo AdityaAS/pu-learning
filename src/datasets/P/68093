@@ -1,0 +1,11 @@
+AC   P45754;
+General secretion pathway protein A.
+"Isolation and characterization of a second exe operon required for
+extracellular protein secretion in Aeromonas hydrophila.";
+-!- FUNCTION: Involved in a general secretion pathway (GSP) for the
+    export of proteins.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Cell membrane; peripheral
+    membrane protein.
+-!- SIMILARITY: Belongs to the exeA family.
+ATP-binding; Nucleotide-binding; Transport.
+TMZERO

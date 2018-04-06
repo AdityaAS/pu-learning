@@ -1,0 +1,37 @@
+AC   Q96DB9; Q6UW44; Q9HC34; Q9P039;
+FXYD domain-containing ion transport regulator 5 precursor
+(Dysadherin).
+"A cDNA from human bone marrow encoding a protein exhibiting homology
+to the ATP11/PLM/MAT8 family of transmembrane proteins.";
+"Dysadherin, a cancer-associated cell membrane glycoprotein, down-
+regulates E-cadherin and promotes metastasis.";
+"Cloning and functional analysis of cDNAs with open reading frames for
+300 previously undefined genes expressed in CD34+ hematopoietic
+stem/progenitor cells.";
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Involved in down-regulation of E-cadherin which results
+    in reduced cell adhesion. Promotes metastasis.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q96DB9-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q96DB9-2; Sequence=VSP_001584;
+-!- PTM: Glycosylated.
+-!- SIMILARITY: Belongs to the FXYD family.
+ GO:0016021; C:integral to membrane; IDA:UniProtKB.
+ GO:0003779; F:actin binding; IDA:UniProtKB.
+ GO:0045296; F:cadherin binding; IDA:UniProtKB.
+ GO:0030033; P:microvillus biogenesis; NAS:UniProtKB.
+ GO:0046588; P:negative regulation of calcium-dependent ce...; NAS:UniProtKB.
+Alternative splicing; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Polymorphism; Signal; Transmembrane; Transport.
+TMONE

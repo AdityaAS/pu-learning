@@ -1,0 +1,39 @@
+AC   P13068;
+Lantibiotic nisin-A precursor.
+"Structure, expression, and evolution of a gene encoding the precursor
+of nisin, a small protein antibiotic.";
+"Characterization of the nisin gene as part of a polycistronic operon
+in the chromosome of Lactococcus lactis ATCC 11454.";
+"Nisin, a peptide antibiotic: cloning and sequencing of the nisA gene
+and posttranslational processing of its peptide product.";
+"Biosynthesis of the lantibiotic nisin: genomic organization and
+membrane localization of the NisB protein.";
+"Characterization of the nisin gene cluster nisABTCIPR of Lactococcus
+lactis. Requirement of expression of the nisA and nisI genes for
+development of immunity.";
+"The structure of nisin.";
+"NMR studies of lantibiotics. The structure of nisin in aqueous
+solution.";
+"Solution structures of nisin A and its two major degradation products
+determined by NMR.";
+"NMR and circular dichroism studies of the lantibiotic nisin in non-
+aqueous environments.";
+"15N- and 13C-labeled media from Anabaena sp. for universal isotopic
+labeling of bacteriocins: NMR resonance assignments of leucocin A from
+Leuconostoc gelidum and nisin A from Lactococcus lactis.";
+-!- FUNCTION: Lanthionine-containing peptide antibiotic (lantibiotic)
+    active on Gram-positive bacteria. The bactericidal activity of
+    lantibiotics is based on depolarization of energized bacterial
+    cytoplasmic membranes, initiated by the formation of aqueous
+    transmembrane pores.
+-!- PTM: Maturation of lantibiotics involves the enzymic conversion of
+    Thr, and Ser into dehydrated AA and the formation of thioether
+    bonds with cysteine. This is followed by membrane translocation
+    and cleavage of the modified precursor.
+-!- BIOTECHNOLOGY: Used as a food preservative.
+-!- MISCELLANEOUS: The nisA gene is found both on chromosomal and
+    plasmid DNA. The sequences reported are absolutely identical.
+-!- SIMILARITY: Belongs to the type A lantibiotic family.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing;
+Lantibiotic; Plasmid; Thioether bond.
+TMZERO

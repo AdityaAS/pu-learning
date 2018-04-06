@@ -1,0 +1,14 @@
+AC   P0AGA0; P33582;
+Protein-export membrane protein secG (Preprotein translocase band 1
+subunit) (P12).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Involved in protein export. Participates in an early
+    event of protein translocation (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- PTM: The N-terminus is blocked (By similarity).
+-!- SIMILARITY: Belongs to the secG family.
+Complete proteome; Inner membrane; Membrane; Protein transport;
+Translocation; Transmembrane; Transport.
+TMTWO

@@ -1,0 +1,34 @@
+AC   P00427;
+Cytochrome c oxidase polypeptide VI, mitochondrial precursor
+(EC 1.9.3.1).
+"Isolation and sequence of the structural gene for cytochrome c
+oxidase subunit VI from Saccharomyces cerevisiae.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Organization and expression of the COX6 genetic locus in
+Saccharomyces cerevisiae: multiple mRNAs with different 3' termini are
+transcribed from COX6 and regulated differentially.";
+"The amino acid sequence of cytochrome c oxidase subunit VI from
+Saccharomyces cerevisiae.";
+"Kinetic properties and ligand binding of the eleven-subunit
+cytochrome-c oxidase from Saccharomyces cerevisiae isolated with a
+novel large-scale purification method.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: This is the heme A-containing chain of cytochrome c
+    oxidase, the terminal oxidase in mitochondrial electron transport.
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBUNIT: Cytochrome c oxidase is composed of 11 subunits: one copy
+    each of COX1, COX2, COX3, COX4, COX5A or COX5B, COX6, COX7, COX9,
+    COX12, COX13 and two copies of COX8.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- MISCELLANEOUS: Present with 12500 molecules/cell.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase Va family.
+ GO:0005751; C:respiratory chain complex IV (sensu Eukaryota); IPI:SGD.
+ GO:0006123; P:mitochondrial electron transport, cytochrom...; IDA:SGD.
+Complete proteome; Direct protein sequencing; Heme; Inner membrane;
+Iron; Membrane; Metal-binding; Mitochondrion; Oxidoreductase;
+Transit peptide.
+TMZERO

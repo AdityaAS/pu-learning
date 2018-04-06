@@ -1,0 +1,18 @@
+AC   Q66A49;
+Tyrosyl-tRNA synthetase (EC 6.1.1.1) (Tyrosine--tRNA ligase) (TyrRS).
+"Insights into the evolution of Yersinia pestis through whole-genome
+comparison with Yersinia pseudotuberculosis.";
+-!- FUNCTION: Catalyzes the attachment of tyrosine to tRNA(Tyr) in a
+    two-step reaction: tyrosine is first activated by ATP to form Tyr-
+    AMP and then transferred to the acceptor end of tRNA(Tyr) (By
+    similarity).
+-!- CATALYTIC ACTIVITY: ATP + L-tyrosine + tRNA(Tyr) = AMP +
+    diphosphate + L-tyrosyl-tRNA(Tyr).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family. TyrS type 1 subfamily.
+-!- SIMILARITY: Contains 1 S4 RNA-binding domain.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis; RNA-binding.
+TMZERO

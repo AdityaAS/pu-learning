@@ -1,0 +1,16 @@
+AC   Q07647; Q62729;
+Solute carrier family 2, facilitated glucose transporter member 3
+(Glucose transporter type 3, brain).
+"Neuron-specific glucose transporter (NSGT): CNS distribution of GLUT3
+rat glucose transporter (RGT3) in rat central neurons.";
+"Cloning of glucose transporter-3 (GLUT3) cDNA from rat brain.";
+-!- FUNCTION: Facilitative glucose transporter. Probably a neuronal
+    glucose transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Highly expressed in brain.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family. Glucose transporter subfamily.
+ GO:0005355; F:glucose transporter activity; TAS:RGD.
+ GO:0015758; P:glucose transport; TAS:RGD.
+Glycoprotein; Membrane; Sugar transport; Transmembrane; Transport.
+TMTWELVE

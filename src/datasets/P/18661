@@ -1,0 +1,14 @@
+AC   Q9WUE3; Q3TRQ1;
+Cytochrome b561 domain-containing protein 2 (Putative tumor suppressor
+protein 101F6).
+"Mouse ortholog of the human 101F6 gene.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- COFACTOR: Binds 2 heme groups non-covalently (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Contains 1 cytochrome b561 domain.
+Electron transport; Heme; Iron; Membrane; Metal-binding;
+Transmembrane; Transport.
+TMSIX

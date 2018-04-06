@@ -1,0 +1,13 @@
+AC   Q9JV27;
+Probable multidrug resistance protein norM (Multidrug-efflux
+transporter).
+"Complete DNA sequence of a serogroup A strain of Neisseria
+meningitidis Z2491.";
+-!- FUNCTION: Multidrug efflux pump (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the multi antimicrobial extrusion (MATE)
+    (TC 2.A.66.1) family.
+Antiport; Complete proteome; Inner membrane; Ion transport; Membrane;
+Transmembrane; Transport.
+TMTWELVE

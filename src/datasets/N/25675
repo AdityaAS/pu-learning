@@ -1,0 +1,25 @@
+AC   Q58CS7; Q29RQ4;
+Charged multivesicular body protein 3 (Chromatin-modifying protein 3)
+(Vacuolar protein sorting-associated protein 24).
+"Characterization of 954 bovine full-CDS cDNA sequences.";
+-!- FUNCTION: Component of the ESCRT-III complex, which is required
+    for multivesicular bodies (MVBs) formation and sorting of
+    endosomal cargo proteins into MVBs. The MVB pathway mediates
+    delivery of transmembrane proteins into the lumen of the lysosome
+    for degradation. The ESCRT-III complex is probably involved in the
+    concentration of MVB cargo. Required for sorting/trafficking of
+    EGF receptor (By similarity).
+-!- SUBUNIT: Component of the endosomal sorting required for transport
+    complex III (ESCRT-III), at least composed of CHMP1A, CHMP1B,
+    CHMP2A, CHMP2B, CHMP3/VPS24, CHMP4A/SHAX2, CHMP4B/SHAX1,
+    CHMP4C/SHAX3, CHMP5/SNF7DC2 and CHMP6/VPS20. In the complex, it
+    interacts directly with CHMP2A and CHMP4A. ATP-dependent
+    disassembly of the ESCRT-III complex. Selectively binds to
+    phosphatidylinositol 3,5-bisphosphate (PtdIns(3,5)P2) and
+    PtdIns(3,4)P2 in preference to other phosphoinositides tested (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm; cytosol. Membrane; lipid-anchor.
+-!- SIMILARITY: Belongs to the SNF7 family.
+Coiled coil; Lipoprotein; Membrane; Myristate; Phosphorylation;
+Protein transport; Transport.
+TMZERO

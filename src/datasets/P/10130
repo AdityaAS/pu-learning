@@ -1,0 +1,24 @@
+AC   P38731;
+Siderophore iron transporter ARN1 (Ferrichrome permease).
+"Desferrioxamine-mediated iron uptake in Saccharomyces cerevisiae.
+Evidence for two pathways of iron uptake.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"The mechanism of ferrichrome transport through Arn1p and its
+metabolism in Saccharomyces cerevisiae.";
+"Siderophore-iron uptake in Saccharomyces cerevisiae. Identification
+of ferrichrome and fusarinine transporters.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in the transport of siderophore ferrichrome and
+    so has a role in iron homeostasis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Endosome; endosomal membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+ GO:0016023; C:cytoplasmic membrane-bound vesicle; IDA:SGD.
+ GO:0005768; C:endosome; TAS:SGD.
+ GO:0015343; F:siderophore-iron transporter activity; IMP:SGD.
+ GO:0015892; P:siderophore-iron transport; IMP:SGD.
+Complete proteome; Ion transport; Iron; Iron transport; Membrane;
+Transmembrane; Transport.
+TMTHIRTEEN

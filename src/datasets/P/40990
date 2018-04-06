@@ -1,0 +1,35 @@
+AC   P0AEE5; P02927; P17775; Q2MAS9;
+D-galactose-binding periplasmic protein precursor (GBP) (D-galactose/
+D-glucose-binding protein) (GGBP).
+"Nucleotide sequence and analysis of the mgl operon of Escherichia
+coli K12.";
+"Sequence of the mglB gene from Escherichia coli K12: comparison of
+wild-type and mutant galactose chemoreceptors.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The amino acid sequence of the D-galactose-binding protein from
+Escherichia coli B/r.";
+"The nucleotide sequences defining the signal peptides of the
+galactose-binding protein and the arabinose-binding protein.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"The 3-A resolution structure of a D-galactose-binding protein for
+transport and chemotaxis in Escherichia coli.";
+"A novel calcium binding site in the galactose-binding protein of
+bacterial transport and chemotaxis.";
+"Sugar and signal-transducer binding sites of the Escherichia coli
+galactose chemoreceptor protein.";
+-!- FUNCTION: This protein is involved in the active transport of
+    galactose and glucose. It plays a role in the chemotaxis towards
+    the two sugars by interacting with the trg chemoreceptor.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- DOMAIN: The calcium-binding site is structurally similar to that
+    of EF-hand proteins, but is in two parts, with the last calcium
+    ligand provided by Glu-228.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 2
+    family.
+3D-structure; Calcium; Chemotaxis; Complete proteome;
+Direct protein sequencing; Periplasmic; Signal; Sugar transport;
+Transport.
+TMZERO

@@ -1,0 +1,14 @@
+AC   P60448; Q99S21;
+50S ribosomal protein L3.
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+-!- FUNCTION: One of the primary rRNA binding proteins, it binds
+    directly near the 3' end of the 23S rRNA, where it nucleates
+    assembly of the 50S subunit (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit. Forms a cluster with
+    proteins L14 and L19 (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L3P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

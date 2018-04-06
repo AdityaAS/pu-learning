@@ -1,0 +1,16 @@
+AC   Q64422;
+Glucosamine-6-phosphate isomerase (EC 3.5.99.6) (Glucosamine-6-
+phosphate deaminase) (GNPDA) (GlcN6P deaminase) (Oscillin).
+"Calcium oscillations in mammalian eggs triggered by a soluble sperm
+protein.";
+-!- FUNCTION: Seems to trigger calcium oscillations in mammalian eggs.
+    These oscillations serve as the essential trigger for egg
+    activation and early development of the embryo.
+-!- CATALYTIC ACTIVITY: D-glucosamine 6-phosphate + H(2)O = D-fructose
+    6-phosphate + NH(3).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- TISSUE SPECIFICITY: At the equatorial segment of the sperm head.
+-!- SIMILARITY: Belongs to the glucosamine/galactosamine-6-phosphate
+    isomerase family.
+Carbohydrate metabolism; Hydrolase.
+TMZERO

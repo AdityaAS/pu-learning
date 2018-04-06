@@ -1,0 +1,18 @@
+AC   Q5HKF3;
+6-carboxyhexanoate--CoA ligase (EC 6.2.1.14) (Pimeloyl-CoA synthase).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Transforms pimelate into pimeloyl-CoA (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + 6-carboxyhexanoate + CoA = AMP +
+    diphosphate + 6-carboxyhexanoyl-CoA.
+-!- COFACTOR: Magnesium (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; biotin biosynthesis; 6-
+    carboxyhexanoyl-CoA from 6-carboxyhexanoate: single step.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the bioW family.
+ GO:0042410; F:6-carboxyhexanoate-CoA ligase activity; IEA:HAMAP.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Biotin biosynthesis; Complete proteome; Ligase; Magnesium.
+TMZERO

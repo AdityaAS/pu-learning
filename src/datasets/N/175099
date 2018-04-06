@@ -1,0 +1,20 @@
+AC   P19623; Q15511;
+Spermidine synthase (EC 2.5.1.16) (Putrescine aminopropyltransferase)
+(SPDSY).
+"Human spermidine synthase: cloning and primary structure.";
+"Human spermidine synthase gene: structure and chromosomal
+localization.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- CATALYTIC ACTIVITY: S-adenosylmethioninamine + putrescine = 5'-
+    methylthioadenosine + spermidine.
+-!- ENZYME REGULATION: The activity is thought to be regulated mainly
+    by the availability of decarboxylated S-adenosylmethionine.
+-!- PATHWAY: Amine and polyamine biosynthesis; spermidine
+    biosynthesis; spermidine from putrescine: single step [final
+    step].
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the spermidine/spermine synthase family.
+ GO:0004766; F:spermidine synthase activity; TAS:ProtInc.
+Polymorphism; Spermidine biosynthesis; Transferase.
+TMZERO

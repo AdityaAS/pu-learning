@@ -1,0 +1,12 @@
+AC   P0A313; Q00563;
+Bacteriocin lactococcin-A precursor (LCN-A).
+"Organization and nucleotide sequences of two lactococcal bacteriocin
+operons.";
+"Lactococcin A, a new bacteriocin from Lactococcus lactis subsp.
+cremoris: isolation and characterization of the protein and its
+gene.";
+-!- FUNCTION: Kills Lactococci.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing;
+Membrane; Plasmid; Transmembrane.
+TMONE

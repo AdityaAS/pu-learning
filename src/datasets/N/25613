@@ -1,0 +1,17 @@
+AC   Q7NI15;
+Light-independent protochlorophyllide reductase subunit N
+(EC 1.18.-.-) (LI-POR subunit N) (DPOR subunit N).
+"Complete genome structure of Gloeobacter violaceus PCC 7421, a
+cyanobacterium that lacks thylakoids.";
+-!- FUNCTION: Uses Mg-ATP and reduced ferredoxin to reduce ring D of
+    protochlorophyllide (Pchlide) to form chlorophyllide a (Chlide)
+    (By similarity). This reaction is light-independent.
+-!- PATHWAY: Light-independent chlorophyll biosynthesis.
+-!- SUBUNIT: Protochlorophyllide reductase is thought to be composed
+    of three subunits; chlL, chlN and chlB. Could form a
+    heterotetramer of two chlB and two chlN subunits (By similarity).
+-!- SIMILARITY: Belongs to the bchN/chlN family.
+ GO:0046148; P:pigment biosynthesis; NAS:UniProtKB.
+Chlorophyll biosynthesis; Complete proteome; Oxidoreductase;
+Photosynthesis.
+TMZERO

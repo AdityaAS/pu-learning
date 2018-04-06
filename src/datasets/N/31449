@@ -1,0 +1,18 @@
+AC   Q8HYN0;
+Cytochrome P450 17A1 (EC 1.14.99.9) (CYPXVII) (P450-C17) (P450c17)
+(Steroid 17-alpha-hydroxylase/17,20 lyase).
+"Molecular evolution of adrenarche: structural and functional analysis
+of p450c17 from four primate species.";
+-!- FUNCTION: Conversion of pregnenolone and progesterone to their 17-
+    alpha-hydroxylated products and subsequently to
+    dehydroepiandrosterone (DHEA) and androstenedione. Catalyzes both
+    the 17-alpha-hydroxylation and the 17,20-lyase reaction (By
+    similarity).
+-!- CATALYTIC ACTIVITY: A steroid + AH(2) + O(2) = a 17-alpha-
+    hydroxysteroid + A + H(2)O.
+-!- PATHWAY: Steroidogenic pathway; key step.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+ GO:0004508; F:steroid 17-alpha-monooxygenase activity; IEA:EC.
+Heme; Iron; Membrane; Metal-binding; Monooxygenase; Oxidoreductase;
+Steroidogenesis.
+TMZERO

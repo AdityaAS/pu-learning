@@ -1,0 +1,21 @@
+AC   Q7V977;
+6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.9) (DMRL synthase)
+(Lumazine synthase) (Riboflavin synthase beta chain).
+"Genome divergence in two Prochlorococcus ecotypes reflects oceanic
+niche differentiation.";
+-!- FUNCTION: Riboflavin synthase is a bifunctional enzyme complex
+    catalyzing the formation of riboflavin from 5-amino-6-(1'-D)-
+    ribityl-amino-2,4(1H,3H)-pyrimidinedione and L-3,4-dihydrohy-2-
+    butanone-4-phosphate via 6,7-dimethyl-8-lumazine. The beta subunit
+    catalyzes the condensation of 5-amino-6-(1'-D)-ribityl-amino-
+    2,4(1H,3H)-pyrimidinedione with L-3,4-dihydrohy-2-butanone-4-
+    phosphate yielding 6,7-dimethyl-8-lumazine (By similarity).
+-!- CATALYTIC ACTIVITY: 2 6,7-dimethyl-8-(1-D-ribityl)lumazine =
+    riboflavin + 4-(1-D-ribitylamino)-5-amino-2,6-dihydroxypyrimidine.
+-!- PATHWAY: Cofactor biosynthesis; riboflavin biosynthesis; 6,7-
+    dimethyl-8-(1-D-ribityl)lumazine and riboflavin from 4-(1-D-
+    ribitylamino)-5-amino-2,6-dihydroxypyrimidine: single step [final
+    step].
+-!- SIMILARITY: Belongs to the DMRL synthase family.
+Complete proteome; Riboflavin biosynthesis; Transferase.
+TMZERO

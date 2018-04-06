@@ -1,0 +1,11 @@
+AC   P29412; Q7M397;
+Elongation factor 1-beta (EF-1-beta).
+"The primary structure of elongation factor 1-beta from pig liver.";
+-!- FUNCTION: EF-1-beta and EF-1-delta stimulate the exchange of GDP
+    bound to EF-1-alpha to GTP.
+-!- SUBUNIT: EF-1 is composed of 4 subunits: alpha, beta, delta, and
+    gamma.
+-!- SIMILARITY: Belongs to the EF-1-beta/EF-1-delta family.
+Direct protein sequencing; Elongation factor; Phosphorylation;
+Protein biosynthesis.
+TMZERO

@@ -1,0 +1,17 @@
+AC   P55018;
+Solute carrier family 12 member 3 (Thiazide-sensitive sodium-chloride
+cotransporter) (Na-Cl symporter).
+"Molecular cloning, primary structure, and characterization of two
+members of the mammalian electroneutral sodium-(potassium)-chloride
+cotransporter family expressed in kidney.";
+-!- FUNCTION: Electrically silent transporter system. Mediates sodium
+    and chloride reabsorption.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Predominant in kidney.
+-!- SIMILARITY: Belongs to the SLC12A transporter family.
+ GO:0015378; F:sodium:chloride symporter activity; IMP:RGD.
+ GO:0006821; P:chloride transport; IMP:RGD.
+ GO:0006814; P:sodium ion transport; IMP:RGD.
+Glycoprotein; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMTWELVE

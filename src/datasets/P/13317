@@ -1,0 +1,58 @@
+AC   P0AB98; P00855; Q2M856; Q47708;
+ATP synthase a chain (EC 3.6.3.14) (ATPase protein 6).
+"DNA sequence around the Escherichia coli unc operon. Completion of
+the sequence of a 17 kilobase segment containing asnA, oriC, unc, glmS
+and phoS.";
+"The atp operon: nucleotide sequence of the promoter and the genes for
+the membrane proteins, and the delta subunit of Escherichia coli ATP-
+synthase.";
+"The nucleotide sequence of the atp genes coding for the F0 subunits
+a, b, c and the F1 subunit delta of the membrane bound ATP synthase of
+Escherichia coli.";
+"Nucleotide sequence of the genes for F0 components of the proton-
+translocating ATPase from Escherichia coli: prediction of the primary
+structure of F0 subunits.";
+"Structure and function of H+-ATPase: what we have learned from
+Escherichia coli H+-ATPase.";
+"Impaired proton conductivity resulting from mutations in the a
+subunit of F1F0 ATPase in Escherichia coli.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Overproduction of subunit a of the F0 component of proton-
+translocating ATPase inhibits growth of Escherichia coli cells.";
+"The promoters of the atp operon of Escherichia coli K12.";
+"Genetic evidence for interaction between the a and b subunits of the
+F0 portion of the Escherichia coli proton translocating ATPase.";
+"Proton translocation by the F1F0ATPase of Escherichia coli. Mutagenic
+analysis of the a subunit.";
+"Temperature-sensitive mutations at the carboxy terminus of the alpha
+subunit of the Escherichia coli F1F0 ATP synthase.";
+"A topological analysis of subunit alpha from Escherichia coli F1F0-
+ATP synthase predicts eight transmembrane segments.";
+"The transmembrane topology of the a subunit from the ATPase in
+Escherichia coli analyzed by PhoA protein fusions.";
+"Transmembrane topology of Escherichia coli H(+)-ATPase (ATP synthase)
+subunit a.";
+"Transmembrane topography of subunit a in the Escherichia coli F1F0
+ATP synthase.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Structural changes linked to proton translocation by subunit c of the
+ATP synthase.";
+-!- FUNCTION: Key component of the proton channel; it may play a
+    direct role in the translocation of protons across the membrane.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the ATPase A chain family.
+3D-structure; CF(0); Complete proteome; Hydrogen ion transport;
+Inner membrane; Ion transport; Membrane; Transmembrane; Transport.
+TMFIVE

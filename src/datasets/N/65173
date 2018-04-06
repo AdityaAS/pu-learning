@@ -1,0 +1,26 @@
+AC   P0AC88; P32054; P77687;
+GDP-mannose 4,6-dehydratase (EC 4.2.1.47) (GDP-D-mannose dehydratase).
+"Organization of the Escherichia coli K-12 gene cluster responsible
+for production of the extracellular polysaccharide colanic acid.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Evidence for effect of random genetic drift on G+C content after
+lateral transfer of fucose pathway genes to Escherichia coli K-12.";
+"Expression, purification and characterization of GDP-D-mannose 4,6-
+dehydratase from Escherichia coli.";
+"Structural and kinetic analysis of Escherichia coli GDP-mannose 4,6
+dehydratase provides insights into the enzyme's catalytic mechanism
+and regulation by GDP-fucose.";
+-!- CATALYTIC ACTIVITY: GDP-mannose = GDP-4-dehydro-6-deoxy-D-mannose
+    + H(2)O.
+-!- COFACTOR: NADP.
+-!- PATHWAY: Carbohydrate biosynthesis; GDP-L-fucose biosynthesis via
+    de novo pathway; GDP-L-fucose from GDP-D-mannose: step 1.
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the GDP-mannose 4,6-dehydratase family.
+3D-structure; Complete proteome; Lipopolysaccharide biosynthesis;
+Lyase; NADP.
+TMZERO

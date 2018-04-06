@@ -1,0 +1,26 @@
+AC   P09192;
+Photosystem II D2 protein (Photosystem Q(A) protein) (PSII D2
+protein).
+"Nucleotide sequence of psbC, the gene encoding the CP-43 chlorophyll
+a-binding protein of photosystem II, in the cyanobacterium
+Synechocystis 6803.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. I. Sequence features in the 1 Mb
+region from map positions 64% to 92% of the genome.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+"Molecular analysis of a mutant defective in photosynthetic oxygen
+evolution and isolation of a complementing clone by a novel screening
+procedure.";
+"The psbC start codon in Synechocystis sp. PCC 6803.";
+-!- FUNCTION: This is one of the two reaction center proteins of PSII,
+    D2 protein is needed for assembly of a stable PSII complex.
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; multi-pass
+    membrane protein.
+-!- SIMILARITY: Belongs to the reaction center pufL/M/psbA/D family.
+ GO:0030096; C:photosystem II (sensu Cyanobacteria); IDA:UniProtKB.
+ GO:0015979; P:photosynthesis; NAS:UniProtKB.
+Complete proteome; Electron transport; Iron; Membrane; Metal-binding;
+Photosynthesis; Photosystem II; Thylakoid; Transmembrane; Transport.
+TMFIVE

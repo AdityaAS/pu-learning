@@ -1,0 +1,20 @@
+AC   O30506; Q9I556;
+Arginine/ornithine transport ATP-binding protein aotP.
+"Molecular characterization and regulation of an operon encoding a
+system for transport of arginine and ornithine and the ArgR regulatory
+protein in Pseudomonas aeruginosa.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"Cloning and characterization of argR, a gene that participates in
+regulation of arginine biosynthesis and catabolism in Pseudomonas
+aeruginosa PAO1.";
+-!- FUNCTION: Part of the arginine-inducible binding-protein-dependent
+    transport system for arginine and ornithine. Probably responsible
+    for energy coupling to the transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Amino-acid transport; ATP-binding; Complete proteome; Inner membrane;
+Membrane; Nucleotide-binding; Transport.
+TMZERO

@@ -1,0 +1,40 @@
+AC   P0AEX9; P02928; Q2M6S0;
+Maltose-binding periplasmic protein precursor (Maltodextrin-binding
+protein) (MMBP).
+"Sequences of the malE gene and of its product, the maltose-binding
+protein of Escherichia coli K12.";
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"A DNA sequence containing the control regions of the malEFG and malK-
+lamB operons in Escherichia coli K12.";
+"Promoters of the malEFG and malK-lamB operons in Escherichia coli
+K12.";
+"The nucleotide sequence of the gene for malF protein, an inner
+membrane component of the maltose transport system of Escherichia
+coli. Repeated DNA sequences are found in the malE-malF intercistronic
+region.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Protein identification with N and C-terminal sequence tags in
+proteome projects.";
+"The 2.3-A resolution structure of the maltose-or maltodextrin-binding
+protein, a primary receptor of bacterial active transport and
+chemotaxis.";
+"Crystallographic evidence of a large ligand-induced hinge-twist
+motion between the two domains of the maltodextrin binding protein
+involved in active transport and chemotaxis.";
+"Extensive features of tight oligosaccharide binding revealed in high-
+resolution structures of the maltodextrin transport/chemosensory
+receptor.";
+-!- FUNCTION: Involved in the high-affinity maltose membrane transport
+    system malEFGK. Initial receptor for the active transport of and
+    chemotaxis toward maltooligosaccharides.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 1
+    family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Periplasmic; Signal; Sugar transport; Transport.
+TMZERO

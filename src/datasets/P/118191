@@ -1,0 +1,39 @@
+AC   P02931;
+Outer membrane protein F precursor (Porin ompF) (Outer membrane
+protein 1A) (Outer membrane protein IA) (Outer membrane protein B).
+"Primary structure of the ompF gene that codes for a major outer
+membrane protein of Escherichia coli K-12.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Amino acid sequence of the signal peptide of OmpF, a major outer
+membrane protein of Escherichia coli.";
+"Primary structure of major outer-membrane protein I (ompF protein,
+porin) of Escherichia coli B/r.";
+"Construction of a series of ompF-ompC chimeric genes by in vivo
+homologous recombination in Escherichia coli and characterization of
+the translational products.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Extraction of membrane proteins by differential solubilization for
+separation using two-dimensional gel electrophoresis.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Crystal structures explain functional properties of two E. coli
+porins.";
+"Structural and functional alterations of a colicin-resistant mutant
+of OmpF porin from Escherichia coli.";
+"Stability of trimeric OmpF porin: the contributions of the latching
+loop L2.";
+-!- FUNCTION: OmpF is a porin that forms passive diffusion pores which
+    allow small molecular weight hydrophilic materials across the
+    outer membrane. It is also a receptor for the bacteriophage T2.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the Gram-negative porin family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ion transport; Membrane; Outer membrane; Phage recognition; Porin;
+Signal; Transmembrane; Transport.
+TMSEVENTEEN

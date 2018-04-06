@@ -1,0 +1,19 @@
+AC   Q72M00;
+Ketol-acid reductoisomerase (EC 1.1.1.86) (Acetohydroxy-acid
+isomeroreductase) (Alpha-keto-beta-hydroxylacil reductoisomerase).
+"Comparative genomics of two Leptospira interrogans serovars reveals
+novel insights into physiology and pathogenesis.";
+-!- CATALYTIC ACTIVITY: (R)-2,3-dihydroxy-3-methylbutanoate + NADP(+)
+    = (S)-2-hydroxy-2-methyl-3-oxobutanoate + NADPH.
+-!- CATALYTIC ACTIVITY: (2R,3R)-2,3-dihydroxy-3-methylpentanoate +
+    NADP(+) = (S)-2-hydroxy-2-ethyl-3-oxobutanoate + NADPH.
+-!- PATHWAY: Amino-acid biosynthesis; L-isoleucine biosynthesis; L-
+    isoleucine from 2-oxobutanoate: step 2.
+-!- PATHWAY: Amino-acid biosynthesis; L-valine biosynthesis; L-valine
+    from pyruvate: step 2.
+-!- SIMILARITY: Belongs to the ketol-acid reductoisomerase family.
+ GO:0009097; P:isoleucine biosynthesis; IEA:HAMAP.
+ GO:0009099; P:valine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Branched-chain amino acid biosynthesis;
+Complete proteome; NADP; Oxidoreductase.
+TMZERO

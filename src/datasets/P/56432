@@ -1,0 +1,12 @@
+AC   P0AC25; P21501;
+Probable formate transporter 1 (Formate channel 1).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Involved in the bidirectional transport of formate (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the FNT transporter (TC 2.A.44) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMSIX

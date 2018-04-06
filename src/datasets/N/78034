@@ -1,0 +1,22 @@
+AC   P33741; P33955; Q9HPF6;
+Sensory rhodopsin I transducer (HTR-I) (Methyl-accepting phototaxis
+protein I) (MPP-I).
+"Primary structure of an archaebacterial transducer, a methyl-
+accepting protein associated with sensory rhodopsin I.";
+"The methyl-accepting transducer protein HtrI is functionally
+associated with the photoreceptor sensory rhodopsin I in the archaeon
+Halobacterium salinarium.";
+"Genome sequence of Halobacterium species NRC-1.";
+"Phototaxis of Halobacterium salinarium requires a signalling complex
+of sensory rhodopsin I and its methyl-accepting transducer HtrI.";
+-!- FUNCTION: Transduces signals from the phototaxis receptor sensory
+    rhodopsin I (SR-I) to the flagellar motor. Responds to light
+    changes through the variation of the level of methylation.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Contains 2 HAMP domains.
+-!- SIMILARITY: Contains 1 methyl-accepting transducer domain.
+Chromophore; Complete proteome; Direct protein sequencing; Membrane;
+Methylation; Photoreceptor protein; Receptor; Repeat;
+Sensory transduction; Transducer; Transmembrane.
+TMTWO

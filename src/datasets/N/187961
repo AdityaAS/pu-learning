@@ -1,0 +1,12 @@
+AC   Q8NW49;
+Probable thiamine biosynthesis protein thiI.
+"Genome and virulence determinants of high virulence community-
+acquired MRSA.";
+-!- FUNCTION: Required for the synthesis of the thiazole moiety (By
+    similarity).
+-!- PATHWAY: Thiamine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the thiI family.
+-!- SIMILARITY: Contains 1 THUMP domain.
+Complete proteome; Thiamine biosynthesis.
+TMZERO

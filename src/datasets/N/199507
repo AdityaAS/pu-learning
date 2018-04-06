@@ -1,0 +1,9 @@
+AC   P0A4R8; O06709;
+Urease accessory protein ureG.
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+-!- FUNCTION: Probably facilitates nickel incorporation (By
+    similarity).
+-!- SIMILARITY: Belongs to the ureG family.
+ATP-binding; Complete proteome; Nickel; Nucleotide-binding.
+TMZERO

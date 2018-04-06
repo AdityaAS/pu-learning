@@ -1,0 +1,19 @@
+AC   P43581;
+Hexose transporter HXT10.
+"Analysis of the nucleotide sequence of chromosome VI from
+Saccharomyces cerevisiae.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Probable glucose transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005353; F:fructose transporter activity; IGI:SGD.
+ GO:0005354; F:galactose transporter activity; IGI:SGD.
+ GO:0005355; F:glucose transporter activity; IGI:SGD.
+ GO:0015578; F:mannose transporter activity; IGI:SGD.
+ GO:0008645; P:hexose transport; IGI:SGD.
+Complete proteome; Glycoprotein; Membrane; Repeat; Sugar transport;
+Transmembrane; Transport.
+TMTWELVE

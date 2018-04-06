@@ -1,0 +1,30 @@
+AC   P46318;
+Lichenan-specific phosphotransferase enzyme IIB component
+(EC 2.7.1.69) (PTS system lichenan-specific EIIB component) (EIIB-
+Lic).
+"Identification and characterization of a new beta-glucoside
+utilization system in Bacillus subtilis.";
+"Sequencing of a 65 kb region of the Bacillus subtilis genome
+containing the lic and cel loci, and creation of a 177 kb contig
+covering the gnt-sacXY region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in lichenan transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- INDUCTION: Induced by lichenan, lichenan hydrolysate and
+    cellobiose. Subject to carbon catabolite repression.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-3 domain.
+ GO:0008982; F:protein-N(PI)-phosphohistidine-sugar phosph...; IEA:EC.
+Complete proteome; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport.
+TMZERO

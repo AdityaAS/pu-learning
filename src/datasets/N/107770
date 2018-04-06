@@ -1,0 +1,22 @@
+AC   Q3SYU9;
+Major vault protein (MVP).
+-!- FUNCTION: Required for normal vault structure. Vaults are multi-
+    subunit structures that may act as scaffolds for proteins involved
+    in signal transduction. Vaults may also play a role in nucleo-
+    cytoplasmic transport. Down-regulates INFG-mediated STAT1
+    signaling and subsequent activation of JAK. Down-regulates SRC
+    activity and signaling through MAP kinases (By similarity).
+-!- SUBUNIT: Major component of the vault ribonucleoprotein particle,
+    at least composed of MVP, PARP4 and one or more vault RNAs
+    (vRNAs). Interacts with TEP1. Interacts with PTEN and activated
+    MAPK1. The phosphorylated protein interacts with the SH2 domains
+    of PTPN11 and SRC (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- DOMAIN: MVP 3 mediates interaction with PTEN (By similarity).
+-!- DOMAIN: MVP 4 mediates interaction with PARP4 (By similarity).
+-!- PTM: Phosphorylated on Tyr residues after EGF stimulation (By
+    similarity).
+-!- PTM: Dephosphorylated by PTPN11 (By similarity).
+-!- SIMILARITY: Contains 8 MVP (vault) repeats.
+Phosphorylation; Repeat; Ribonucleoprotein.
+TMZERO

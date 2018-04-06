@@ -1,0 +1,19 @@
+AC   P31548; P75635;
+Thiamine transport ATP-binding protein thiQ.
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"thiBPQ encodes an ABC transporter required for transport of thiamine
+and thiamine pyrophosphate in Salmonella typhimurium.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    tbpA-thiPQ for thiamine and TPP. Probably responsible for energy
+    coupling to the transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Inner membrane; Membrane;
+Nucleotide-binding; Transport.
+TMZERO

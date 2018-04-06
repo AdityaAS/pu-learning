@@ -1,0 +1,9 @@
+AC   Q8XCU6;
+UPF0235 protein yggU.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- SIMILARITY: Belongs to the UPF0235 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+3D-structure; Complete proteome.
+TMZERO

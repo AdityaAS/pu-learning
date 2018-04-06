@@ -1,0 +1,16 @@
+AC   Q6U830;
+Follitropin subunit beta precursor (Follicle-stimulating hormone beta
+subunit) (FSH-beta) (FSH-B) (Follitropin beta chain).
+"Sequence analysis of cDNA encoding follicle-stimulating hormone and
+luteinizing hormone beta-subunits in the Mongolian gerbil (Meriones
+unguiculatus).";
+-!- FUNCTION: Stimulates development of follicle and spermatogenesis
+    in the reproductive organs (By similarity).
+-!- SUBUNIT: Heterodimer of a common alpha chain and a unique beta
+    chain which confers biological specificity to thyrotropin,
+    lutropin, follitropin and gonadotropin (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the glycoprotein hormones subunit beta
+    family.
+Glycoprotein; Hormone; Signal.
+TMZERO

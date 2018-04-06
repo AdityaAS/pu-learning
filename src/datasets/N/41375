@@ -1,0 +1,11 @@
+AC   O04937;
+Glutamate dehydrogenase A (EC 1.4.1.3) (GDH A).
+"Isolation and characterization of two cDNA clones encoding for
+glutamate dehydrogenase in Nicotiana plumbaginifolia.";
+"Genomic organisation of GDH genes in Nicotiana plumbaginifolia.";
+-!- CATALYTIC ACTIVITY: L-glutamate + H(2)O + NAD(P)(+) = 2-
+    oxoglutarate + NH(3) + NAD(P)H.
+-!- SIMILARITY: Belongs to the Glu/Leu/Phe/Val dehydrogenases family.
+ GO:0004353; F:glutamate dehydrogenase [NAD(P)+] activity; IEA:EC.
+NAD; Oxidoreductase.
+TMZERO

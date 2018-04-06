@@ -1,0 +1,129 @@
+AC   P07602; P07292; P15793; P78538; P78541; P78546; P78547; P78558;
+AC   Q6IBQ6; Q92739; Q92740; Q92741; Q92742;
+Proactivator polypeptide precursor [Contains: Saposin A (Protein A);
+Saposin B-Val; Saposin B (Sphingolipid activator protein 1) (SAP-1)
+(Cerebroside sulfate activator) (CSAct) (Dispersin) (Sulfatide/GM1
+activator); Saposin C (Co-beta-glucosidase) (A1 activator)
+(Glucosylceramidase activator) (Sphingolipid activator protein 2)
+(SAP-2); Saposin D (Protein C) (Component C)].
+"Molecular cloning of a human co-beta-glucosidase cDNA: evidence that
+four sphingolipid hydrolase activator proteins are encoded by single
+genes in humans and rats.";
+"Structure of full-length cDNA coding for sulfatide activator, a Co-
+beta-glucosidase and two other homologous proteins: two alternate
+forms of the sulfatide activator.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Coding of two sphingolipid activator proteins (SAP-1 and SAP-2) by
+same genetic locus.";
+"Structure and evolution of the human prosaposin chromosomal gene.";
+"Isolation, characterization, and proteolysis of human prosaposin, the
+precursor of saposins (sphingolipid activator proteins).";
+"Isolation and characterization of prosaposin from human milk.";
+"The organization of the gene for the human cerebroside sulfate
+activator protein.";
+"Saposin A: second cerebrosidase activator protein.";
+"Storage of saposins A and D in infantile neuronal ceroid-
+lipofuscinosis.";
+"Nucleotide sequence of cloned cDNA for human sphingolipid activator
+protein 1 precursor.";
+"Molecular cloning of the sphingolipid activator protein-1 (SAP-1),
+the sulfatide sulfatase activator.";
+"Complete amino-acid sequence of the naturally occurring A2 activator
+protein for enzymic sphingomyelin degradation: identity to the
+sulfatide activator protein (SAP-1).";
+"The complete amino-acid sequences of human ganglioside GM2 activator
+protein and cerebroside sulfate activator protein.";
+"Complete amino-acid sequence and carbohydrate content of the
+naturally occurring glucosylceramide activator protein (A1 activator)
+absent from a new human Gaucher disease variant.";
+"Saposin D: a sphingomyelinase activator.";
+"The precursor of sulfatide activator protein is processed to three
+different proteins.";
+"Preparation of the cerebroside sulfate activator (CSAct or saposin B)
+from human urine.";
+"Structural analysis of saposin C and B. Complete localization of
+disulfide bridges.";
+"Structure of the asparagine-linked sugar chains of porcine kidney and
+human urine cerebroside sulfate activator protein.";
+"Structural and membrane-binding properties of saposin D.";
+"Expression, purification, crystallization, and preliminary X-ray
+analysis of recombinant human saposin B.";
+"Cerebroside sulfate activator protein (Saposin B): chromatographic
+and electrospray mass spectrometric properties.";
+"Crystal structure of saposin B reveals a dimeric shell for lipid
+binding.";
+"Molecular genetics of metachromatic leukodystrophy.";
+"Detection of a point mutation in sphingolipid activator protein-1
+mRNA in patients with a variant form of metachromatic
+leukodystrophy.";
+"Characterization of a mutation in a family with saposin B deficiency:
+a glycosylation site defect.";
+"Sulfatide activator protein. Alternative splicing that generates
+three mRNAs and a newly found mutation responsible for a clinical
+disease.";
+"Mutation in the sphingolipid activator protein 2 in a patient with a
+variant of Gaucher disease.";
+-!- FUNCTION: The lysosomal degradation of sphingolipids takes place
+    by the sequential action of specific hydrolases. Some of these
+    enzymes require specific low-molecular mass, non-enzymic proteins:
+    the sphingolipids activator proteins (coproteins).
+-!- FUNCTION: Saposin A and saposin C stimulate the hydrolysis of
+    glucosylceramide by beta-glucosylceramidase (EC 3.2.1.45) and
+    galactosylceramide by beta-galactosylceramidase (EC 3.2.1.46).
+    Saposin C apparently acts by combining with the enzyme and acidic
+    lipid to form an activated complex, rather than by solubilizing
+    the substrate.
+-!- FUNCTION: Saposin B stimulates the hydrolysis of galacto-
+    cerebroside sulfate by arylsulfatase A (EC 3.1.6.8), GM1
+    gangliosides by beta-galactosidase (EC 3.2.1.23) and
+    globotriaosylceramide by alpha-galactosidase A (EC 3.2.1.22).
+    Saposin B forms a solubilizing complex with the substrates of the
+    sphingolipid hydrolases.
+-!- FUNCTION: Saposin D is a specific sphingomyelin phosphodiesterase
+    activator (EC 3.1.4.12).
+-!- SUBUNIT: Saposin B is a homodimer.
+-!- SUBCELLULAR LOCATION: Lysosome.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+      Comment=Additional isoforms seem to exist;
+    Name=Sap-mu-0;
+      IsoId=P07602-1; Sequence=Displayed;
+    Name=Sap-mu-6;
+      IsoId=P07602-2; Sequence=VSP_006014;
+    Name=Sap-mu-9;
+      IsoId=P07602-3; Sequence=VSP_006015;
+-!- PTM: This precursor is proteolytically processed to 4 small
+    peptides, which are similar to each other and are sphingolipid
+    hydrolase activator proteins.
+-!- PTM: N-linked glycans show a high degree of microheterogeneity.
+-!- PTM: The one residue extended Saposin B-Val is only found in 5% of
+    the chains.
+-!- DISEASE: Defects in PSAP saposin B region are the cause of a
+    variant of metachromatic leukodystrophy (MLD) [MIM:249900].
+-!- DISEASE: Defects in PSAP saposin C region are the cause of a
+    variant of Gaucher disease [MIM:176801].
+-!- DISEASE: Defects in PSAP saposin D region are the cause of a
+    variant of Tay-Sachs disease (GM2-gangliosidosis).
+-!- MISCELLANEOUS: Saposin B co-purifies with 1 molecule of
+    phosphatidylethanolamine.
+-!- SIMILARITY: Contains 2 saposin A-type domains.
+-!- SIMILARITY: Contains 4 saposin B-type domains.
+-!- WEB RESOURCE: NAME=Atlas of Genetics and Cytogenetics in Oncology
+    and Haematology;
+    URL="http://atlasgeneticsoncology.org/Genes/PSAPID42980ch10q22.html".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=PSAP".
+ GO:0005615; C:extracellular space; TAS:ProtInc.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0008047; F:enzyme activator activity; TAS:ProtInc.
+ GO:0008289; F:lipid binding; TAS:ProtInc.
+ GO:0006687; P:glycosphingolipid metabolism; TAS:ProtInc.
+ GO:0006869; P:lipid transport; TAS:ProtInc.
+3D-structure; Alternative splicing; Direct protein sequencing;
+Disease mutation; Gaucher disease; Glycoprotein; GM2-gangliosidosis;
+Lipid metabolism; Lysosome; Metachromatic leukodystrophy; Repeat;
+Signal; Sphingolipid metabolism.
+TMZERO

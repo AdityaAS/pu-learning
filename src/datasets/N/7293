@@ -1,0 +1,41 @@
+AC   O22040; O04030; O22039; Q8GZ05;
+Mitogen-activated protein kinase kinase kinase ANP1 (EC 2.7.11.25)
+(Arabidopsis NPK1-related kinase 1).
+"Possible involvement of differential splicing in regulation of the
+activity of Arabidopsis ANP1 that is related to mitogen-activated
+protein kinase kinase kinases (MAPKKKs).";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Functional annotation of a full-length Arabidopsis cDNA collection.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Functional analysis of oxidative stress-activated mitogen-activated
+protein kinase cascade in plants.";
+"An Arabidopsis mitogen-activated protein kinase kinase kinase gene
+family encodes essential positive regulators of cytokinesis.";
+"Mitogen-activated protein kinase cascades in plants: a new
+nomenclature.";
+-!- FUNCTION: Maybe involved oxidative stresse-mediated in signaling
+    cascade that phosphorylates downstream MAP kinases MPK3 and MPK6.
+    May suppress auxin signaling that promotes cell cycle.
+    Functionally redundant to ANP2 and ANP3 in the positive regulation
+    of cytokinesis.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1L;
+      IsoId=O22040-1; Sequence=Displayed;
+    Name=1S;
+      IsoId=O22040-2; Sequence=VSP_010124, VSP_010125;
+-!- TISSUE SPECIFICITY: Expressed in roots, inflorescence stems,
+    flower buds and flowers. Low amount in rosette and cauline leaves.
+-!- MISCELLANEOUS: The protein kinase activity of isoform 1S is higher
+    than that of isoform 1L.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. MAP
+    kinase kinase kinase subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+-!- CAUTION: Ref.2 sequence differs from that shown due to erroneous
+    gene model prediction.
+Alternative splicing; ATP-binding; Coiled coil; Kinase;
+Nucleotide-binding; Serine/threonine-protein kinase; Transferase.
+TMZERO

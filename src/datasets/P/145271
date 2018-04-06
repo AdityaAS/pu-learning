@@ -1,0 +1,25 @@
+AC   P0AG38; P27846; Q2M8C8;
+Threonine efflux protein.
+"Analysis of the Escherichia coli genome: DNA sequence of the region
+from 84.5 to 86.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The recQ gene of Escherichia coli K12: primary structure and evidence
+for SOS regulation.";
+"The novel transmembrane Escherichia coli proteins involved in the
+amino acid efflux.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Conducts the efflux of threonine.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the rht family.
+-!- CAUTION: Ref.1 (AAA67619) sequence differs from that shown due to
+    frameshifts in positions 80 and 118.
+-!- CAUTION: Ref.5 sequence differs from that shown due to frameshifts
+    in positions 47 and 73.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMFOUR

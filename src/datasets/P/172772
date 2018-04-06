@@ -1,0 +1,55 @@
+AC   Q95V25; Q95V26; Q95V27; Q9U268;
+Calcium-activated potassium channel slo-1 (Maxi K channel) (MaxiK) (BK
+channel) (Slo homolog) (Slowpoke protein 1).
+"SLO-1 potassium channels control quantal content of neurotransmitter
+release at the C. elegans neuromuscular junction.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"A central role of the BK potassium channel in behavioral responses to
+ethanol in C. elegans.";
+-!- FUNCTION: Potassium channel activated by both membrane
+    depolarization or increase in cytosolic Ca(2+) that mediates
+    export of K(+). Its activation dampens the excitatory events that
+    elevate the cytosolic Ca(2+) concentration and/or depolarize the
+    cell membrane. It therefore contributes to repolarization of the
+    membrane potential. Plays a central role in synapses by regulating
+    neurotransmitter release (By similarity).
+-!- SUBUNIT: Homotetramer; which constitutes the calcium-activated
+    potassium channel (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=a;
+      IsoId=Q95V25-1; Sequence=Displayed;
+    Name=b;
+      IsoId=Q95V25-2; Sequence=VSP_009998;
+    Name=c;
+      IsoId=Q95V25-3; Sequence=VSP_009996, VSP_009997, VSP_009998;
+-!- TISSUE SPECIFICITY: Expressed in synaptic regions of the nervous
+    system including in both the nerve ring and nerve cords, as well
+    as in the body-wall and vulval muscle.
+-!- DOMAIN: The S4 segment, which is characterized by a series of
+    positively charged amino acids at every third position, is part of
+    the voltage-sensor (By similarity).
+-!- DOMAIN: The pore-forming domain (also referred as P region) is
+    imbedded into the membrane, and forms the selectivity filter of
+    the pore. It contains the signature sequence of potassium channels
+    that displays selectivity to potassium (By similarity).
+-!- DOMAIN: The RCK N-terminal domain mediates the
+    homotetramerization, thereby promoting the assembly of monomers
+    into functional potassium channel. It includes binding sites for
+    Ca(2+) and Mg(2+) (By similarity).
+-!- DOMAIN: The calcium bowl constitutes one of the Ca(2+) sensors and
+    probably acts as a Ca(2+)-binding site (By similarity).
+-!- PTM: Phosphorylated (By similarity).
+-!- MISCELLANEOUS: Its activity is activated by ethanol, leading to
+    the inhibition of neuronal activity.
+-!- SIMILARITY: Belongs to the potassium channel family. Calcium-
+    activated subfamily.
+-!- SIMILARITY: Contains 1 RCK N-terminal domain.
+Alternative splicing; Calcium; Complete proteome; Ion transport;
+Ionic channel; Membrane; Phosphorylation; Potassium;
+Potassium channel; Potassium transport; Transmembrane; Transport;
+Voltage-gated channel.
+TMSEVEN

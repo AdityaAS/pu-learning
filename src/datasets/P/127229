@@ -1,0 +1,19 @@
+AC   P43676; Q2M9K8;
+Probable low-affinity inorganic phosphate transporter 2.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Glutathionylspermidine metabolism in Escherichia coli. Purification,
+cloning, overproduction, and characterization of a bifunctional
+glutathionylspermidine synthetase/amidase.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Low-affinity inorganic phosphate transport (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the pho-4 transporter (TC 2.A.20.1.2)
+    family. Pit subfamily.
+Complete proteome; Inner membrane; Membrane; Phosphate transport;
+Transmembrane; Transport.
+TMTEN

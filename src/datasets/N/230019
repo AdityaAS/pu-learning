@@ -1,0 +1,10 @@
+AC   O69777;
+Putative peroxiredoxin in rpoN2 3' region (EC 1.11.1.15) (Thioredoxin
+reductase).
+"Differential regulation of the Rhizobium etli rpoN2 gene expression
+during symbiosis and free-living growth.";
+-!- CATALYTIC ACTIVITY: 2 R'-SH + ROOH = R'-S-S-R' + H(2)O + ROH.
+-!- SIMILARITY: Belongs to the peroxiredoxin 2 family.
+ GO:0051920; F:peroxiredoxin activity; IEA:EC.
+Hypothetical protein; Oxidoreductase; Peroxidase; Redox-active center.
+TMZERO

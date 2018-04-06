@@ -1,0 +1,19 @@
+AC   O67620;
+Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20) (Phenylalanine--
+tRNA ligase beta chain) (PheRS).
+"The complete genome of the hyperthermophilic bacterium Aquifex
+aeolicus.";
+-!- CATALYTIC ACTIVITY: ATP + L-phenylalanine + tRNA(Phe) = AMP +
+    diphosphate + L-phenylalanyl-tRNA(Phe).
+-!- COFACTOR: Binds 2 magnesium ions per tetramer (By similarity).
+-!- SUBUNIT: Tetramer of two alpha and two beta chains (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the phenylalanyl-tRNA synthetase beta chain
+    family. Type 1 subfamily.
+-!- SIMILARITY: Contains 1 tRNA-binding domain.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Magnesium; Metal-binding; Nucleotide-binding; Protein biosynthesis;
+RNA-binding; tRNA-binding.
+TMZERO

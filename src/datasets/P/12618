@@ -1,0 +1,21 @@
+AC   P25568;
+Autophagy-related protein 22.
+"The complete DNA sequence of yeast chromosome III.";
+"Genetic and phenotypic overlap between autophagy and the cytoplasm to
+vacuole protein targeting pathway.";
+"The breakdown of autophagic vesicles inside the vacuole depends on
+Aut4p.";
+"A unified nomenclature for yeast autophagy-related genes.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Required for lysis of autophagic vesicles after delivery
+    to the vacuole.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein. Note=Vacuole and punctate structures.
+-!- SIMILARITY: Belongs to the ATG22 family.
+ GO:0005774; C:vacuolar membrane; IDA:SGD.
+ GO:0006914; P:autophagy; IGI:SGD.
+ GO:0006623; P:protein targeting to vacuole; IGI:SGD.
+Autophagy; Complete proteome; Membrane; Protein transport;
+Transmembrane; Transport; Vacuole.
+TMTEN

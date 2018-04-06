@@ -1,0 +1,17 @@
+AC   P28584;
+Low-affinity potassium transport protein.
+"TRK1 and TRK2 encode structurally related K+ transporters in
+Saccharomyces cerevisiae.";
+"Complete DNA sequence of yeast chromosome XI.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: This protein is required for low-affinity potassium
+    transport.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the trkH potassium transport family.
+ GO:0005886; C:plasma membrane; TAS:SGD.
+ GO:0015079; F:potassium ion transporter activity; IDA:SGD.
+ GO:0030007; P:potassium ion homeostasis; IDA:SGD.
+Complete proteome; Glycoprotein; Ion transport; Membrane; Potassium;
+Potassium transport; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,26 @@
+AC   Q96T83; O75827; Q5JXP9;
+Sodium/hydrogen exchanger 7 (Na(+)/H(+) exchanger 7) (NHE-7) (Solute
+carrier family 9 member 7).
+"Molecular cloning and characterization of a novel (Na+,K+)/H+
+exchanger localized to the trans-Golgi network.";
+"The DNA sequence of the human X chromosome.";
+-!- FUNCTION: Mediates electroneutral exchange of protons for Na(+)
+    and K(+) across endomembranes. May contribute to Golgi volume and
+    cation homeostasis.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; trans-Golgi network; trans-
+    Golgi network membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Ubiquitously expressed.
+-!- MISCELLANEOUS: Is not inhibited by amiloride but by benzamil and
+    quinine.
+-!- SIMILARITY: Belongs to the Na(+)/H(+) exchanger (TC 2.A.36.5.1)
+    family.
+ GO:0005794; C:Golgi apparatus; IDA:UniProtKB.
+ GO:0005802; C:Golgi trans face; IDA:UniProtKB.
+ GO:0016021; C:integral to membrane; IDA:UniProtKB.
+ GO:0015386; F:potassium:hydrogen antiporter activity; IDA:UniProtKB.
+ GO:0042803; F:protein homodimerization activity; TAS:UniProtKB.
+ GO:0015385; F:sodium:hydrogen antiporter activity; IDA:UniProtKB.
+ GO:0006885; P:regulation of pH; IDA:UniProtKB.
+Antiport; Ion transport; Membrane; Potassium; Potassium transport;
+Sodium; Sodium transport; Transmembrane; Transport.
+TMTHIRTEEN

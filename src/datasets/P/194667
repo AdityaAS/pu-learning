@@ -1,0 +1,39 @@
+AC   Q47692; Q6QE02; Q83WR9;
+Temperature-sensitive hemagglutinin tsh precursor (EC 3.4.21.-)
+(Autotransporter tsh).
+"Isolation and characterization of a gene involved in hemagglutination
+by an avian pathogenic Escherichia coli strain.";
+"Relationship between the Tsh autotransporter and pathogenicity of
+avian Escherichia coli and localization and analysis of the tsh
+genetic region.";
+"Putative virulence region of a ColV plasmid from an avian pathogenic
+Escherichia coli (APEC).";
+"Cloning and characterization of the tsh gene from an avian pathogenic
+Escherichia coli strain.";
+"Characterization of the avian pathogenic Escherichia coli
+hemagglutinin Tsh, a member of the immunoglobulin A protease-type
+family of autotransporters.";
+"Functional analysis of the Tsh autotransporter from an avian
+pathogenic Escherichia coli strain.";
+-!- FUNCTION: Contributes to the development of lesions and deposition
+    of fibrin in the avian air sacs. It can act both as an adhesin and
+    as a serine protease. Agglutinates erythrocytes while in contact
+    with the extracellular surface of the bacterial cells. Can adhere
+    to purified hemoglobin and bind with great efficiency to
+    extracellular matrix proteins. Cleaves casein and exhibits
+    mucinolytic activity.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Temperature dependence:
+      Optimum temperature is 26 degrees Celsius for hemagglutination
+      activity;
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- DOMAIN: Adhesive and proteolytic functions of tsh lie in different
+    domains of the protein.
+-!- PTM: The C-terminus is blocked (Probable).
+-!- PTM: Cleaved to release the mature protein from the outer
+    membrane.
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+-!- SIMILARITY: Contains 1 peptidase S6 domain.
+Direct protein sequencing; Hydrolase; Membrane; Plasmid; Protease;
+Serine protease; Signal; Transmembrane; Virulence; Zymogen.
+TMZERO

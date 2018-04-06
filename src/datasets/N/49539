@@ -1,0 +1,16 @@
+AC   P33676;
+Enolase (EC 4.2.1.11) (2-phosphoglycerate dehydratase) (2-phospho-D-
+glycerate hydro-lyase).
+"Cloning and functional expression of a Schistosoma japonicum cDNA
+homologous to the enolase gene family.";
+-!- CATALYTIC ACTIVITY: 2-phospho-D-glycerate = phosphoenolpyruvate +
+    H(2)O.
+-!- COFACTOR: Magnesium. Required for catalysis and for stabilizing
+    the dimer (By similarity).
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 4.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the enolase family.
+Glycolysis; Lyase; Magnesium; Metal-binding.
+TMZERO

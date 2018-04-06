@@ -1,0 +1,14 @@
+AC   P0AFG1; P16921;
+Transcription antitermination protein nusG.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Influences transcription termination and
+    antitermination. Acts as a component of the transcription complex,
+    and interacts with the termination factor rho and RNA polymerase
+    (By similarity).
+-!- SIMILARITY: Belongs to the nusG family.
+-!- SIMILARITY: Contains 1 KOW domain.
+Complete proteome; Transcription; Transcription antitermination;
+Transcription regulation; Transcription termination.
+TMZERO

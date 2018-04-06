@@ -1,0 +1,40 @@
+AC   Q5RCF7; Q5R7M6; Q5RF44;
+PDZ domain-containing protein 1 (Na(+)/H(+) exchanger regulatory
+factor 3) (Sodium-hydrogen exchanger regulatory factor 3).
+-!- FUNCTION: A scaffold protein that connects plasma membrane
+    proteins and regulatory components, regulating their surface
+    expression in epithelial cells apical domains. May be involved in
+    the coordination of a diverse range of regulatory processes for
+    ion transport and second messenger cascades. In complex with
+    SLC9A3R1, may cluster proteins that are functionally dependent in
+    a mutual fashion and modulate the trafficking and the activity of
+    the associated membrane proteins. May play a role in the cellular
+    mechanisms associated with multidrug resistance through its
+    interaction with ABCC2 and PDZK1IP1. May potentiate the CFTR
+    chloride channel activity. May function to connect SCARB1 with the
+    cellular machineries for intracellular cholesterol transport
+    and/or metabolism. May be involved in the regulation of proximal
+    tubular Na(+)-dependent inorganic phosphate cotransport therefore
+    playing an important role in tubule function (By similarity).
+-!- SUBUNIT: Interacts with PDZK1IP1 and ABCC2. Binds to the C-
+    terminal region of SLC26A3. Interacts via its PDZ1 domain with the
+    C-terminal domain of SCARB1. Forms a heterodimeric complex with
+    SLC9A3R1. Interacts with AKAP2, BCR, CFTR, SLCO1A1, SLC22A12,
+    SLC22A4, SLC22A5, SLC26A6, SLC9A3R2 and SLC17A1 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Membrane;
+    peripheral membrane protein (By similarity). Note=Associated with
+    peripheral membranes. Localizes to the apical compartment of
+    proximal tubular cells and to sinusoidal liver membranes (By
+    similarity).
+-!- DOMAIN: The PDZ 2 and 3 domains seem to be involved in the
+    interaction with SLC26A3 (By similarity).
+-!- DOMAIN: Interaction with the C-terminus of CFTR could be mediated
+    through independent binding of PDZ 1, 3 and 4 domains (By
+    similarity).
+-!- DOMAIN: The PDZ 1 and 3 domains seem to be involved in the
+    interaction with SLCO1A1 (By similarity).
+-!- DOMAIN: The PDZ 1 domain interacts with BCR (By similarity).
+-!- SIMILARITY: Belongs to the NHER family.
+-!- SIMILARITY: Contains 4 PDZ (DHR) domains.
+Repeat.
+TMZERO

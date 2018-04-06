@@ -1,0 +1,9 @@
+AC   Q8K9M6;
+High-affinity zinc uptake system ATP-binding protein znuC.
+"50 million years of genomic stasis in endosymbiotic bacteria.";
+-!- FUNCTION: Involved in the high-affinity zinc uptake transport
+    system (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Nucleotide-binding; Transport; Zinc.
+TMZERO

@@ -1,0 +1,11 @@
+AC   Q7T6Y4;
+Probable DNA polymerase family X (EC 2.7.7.7).
+"The 1.2-megabase genome sequence of Mimivirus.";
+-!- FUNCTION: Repair polymerase (Potential).
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- SIMILARITY: Belongs to the DNA polymerase type-X family.
+DNA damage; DNA repair; DNA replication; DNA synthesis; DNA-binding;
+DNA-directed DNA polymerase; Lyase; Nucleotidyltransferase;
+Transferase.
+TMZERO

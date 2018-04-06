@@ -1,0 +1,43 @@
+AC   P38993;
+Iron transport multicopper oxidase FET3 precursor (EC 1.-.-.-).
+"The FET3 gene of S. cerevisiae encodes a multicopper oxidase required
+for ferrous iron uptake.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"The FET3 gene product required for high affinity iron transport in
+yeast is a cell surface ferroxidase.";
+"Spectroscopic characterization of the Cu(II) sites in the Fet3
+protein, the multinuclear copper oxidase from yeast required for high
+affinity iron uptake.";
+"Spectral and kinetic properties of the Fet3 protein from
+Saccharomyces cerevisiae, a multinuclear copper ferroxidase enzyme.";
+"Spectroscopy and reactivity of the type 1 copper site in Fet3p from
+Saccharomyces cerevisiae: correlation of structure with reactivity in
+the multicopper oxidases.";
+"Spectroscopic characterization and O(2) reactivity of the trinuclear
+Cu cluster of mutants of the multicopper oxidase Fet3p.";
+"Spectroscopic analysis of the trinuclear cluster in the Fet3 protein
+from yeast, a multinuclear copper oxidase.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Iron transport multicopper ferroxidase required for
+    Fe(2+) ion high affinity uptake. Required to oxidize Fe(2+) and
+    release it from the transporter. Essential component of copper-
+    dependent iron transport.
+-!- COFACTOR: Binds 4 copper ions per monomer (By similarity).
+-!- INTERACTION:
+    P40088:FTR1; NbExp=3; IntAct=EBI-6876, EBI-7138;
+-!- SUBCELLULAR LOCATION: Cell membrane; single-pass type I membrane
+    protein; extracellular side.
+-!- INDUCTION: By iron deprivation. Repressed by iron excess.
+-!- MISCELLANEOUS: Present with 1050 molecules/cell.
+-!- SIMILARITY: Belongs to the multicopper oxidase family.
+-!- SIMILARITY: Contains 3 plastocyanin-like domains.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0004322; F:ferroxidase activity; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006827; P:high affinity iron ion transport; IMP:SGD.
+ GO:0046688; P:response to copper ion; IGI:SGD.
+3D-structure; Complete proteome; Copper; Glycoprotein; Ion transport;
+Iron; Iron transport; Membrane; Metal-binding; Oxidoreductase; Repeat;
+Signal; Transmembrane; Transport.
+TMONE

@@ -1,0 +1,15 @@
+AC   Q9CZV5;
+STAGA complex 65 subunit gamma (STAF65gamma) (SPTF-associated factor
+65 gamma) (Suppressor of Ty 7-like).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBUNIT: Component of the STAGA transcription coactivator-HAT
+    complex, at least composed of SF3B3/SAP130, STAF65gamma/KIAA0764,
+    GCN5L2, TAF5L, TAF6L, TADA3L, TAF10, TAF12 and TAF9 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- PTM: Sumoylated (By similarity).
+Nuclear protein; Transcription; Transcription regulation;
+Ubl conjugation.
+TMZERO

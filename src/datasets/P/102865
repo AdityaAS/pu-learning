@@ -1,0 +1,31 @@
+AC   P12234;
+Phosphate carrier protein, mitochondrial precursor (PTP) (Solute
+carrier family 25 member 3).
+"The sequences of human and bovine genes of the phosphate carrier from
+mitochondria contain evidence of alternatively spliced forms.";
+"Sequence of the bovine mitochondrial phosphate carrier protein:
+structural relationship to ADP/ATP translocase and the brown fat
+mitochondria uncoupling protein.";
+"Sequence of the N-terminal formic acid fragment and location of the
+N-ethylmaleimide-binding site of the phosphate transport protein from
+beef heart mitochondria.";
+"Transmembrane topography of the mitochondrial phosphate carrier
+explored by peptide-specific antibodies and enzymatic digestion.";
+-!- FUNCTION: Transport of phosphate groups from the cytosol to the
+    mitochondrial matrix. Phosphate is cotransported with H(+).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=A;
+      IsoId=P12234-1; Sequence=Displayed;
+    Name=B;
+      IsoId=P12234-2; Sequence=VSP_003268;
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005743; C:mitochondrial inner membrane; ISS:AgBase.
+ GO:0005739; C:mitochondrion; ISS:AgBase.
+Acetylation; Alternative splicing; Direct protein sequencing;
+Inner membrane; Membrane; Mitochondrion; Repeat; Symport;
+Transit peptide; Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,14 @@
+AC   Q03030;
+Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3).
+"Sequence of the sodium ion pump oxaloacetate decarboxylase from
+Salmonella typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Lyase and sodium transporter.
+-!- CATALYTIC ACTIVITY: Oxaloacetate = pyruvate + CO(2).
+-!- COFACTOR: Biotin.
+-!- SUBUNIT: Composed of three chains (alpha, beta, and gamma).
+-!- SIMILARITY: Contains 1 biotinyl-binding domain.
+Biotin; Complete proteome; Decarboxylase; Ion transport; Lyase;
+Sodium; Sodium transport; Transport.
+TMZERO

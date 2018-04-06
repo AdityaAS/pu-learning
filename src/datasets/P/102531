@@ -1,0 +1,27 @@
+AC   P10332;
+Major outer membrane porin precursor (MOMP).
+"Chlamydia psittaci ewe abortion agent: complete nucleotide sequence
+of the major outer membrane protein gene.";
+-!- FUNCTION: In elementary bodies (EBs, the infectious stage, which
+    is able to survive outside the host cell) provides the structural
+    integrity of the outer envelope through disulfide cross-links with
+    the small cysteine-rich protein and the large cysteine-rich
+    periplasmic protein. It has been described in publications as the
+    Sarkosyl-insoluble COMC (Chlamydia outer membrane complex), and
+    serves as the functional equivalent of peptidoglycan (By
+    similarity).
+-!- FUNCTION: Permits diffusion of specific solutes through the outer
+    membrane (By similarity).
+-!- SUBUNIT: Part of a disulfide cross-linked outer membrane complex
+    (COMC) composed of the major outer membrane porin, the small
+    cysteine-rich protein (omcA) and the large cysteine-rich
+    periplasmic protein (omcB) (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (Potential).
+-!- DEVELOPMENTAL STAGE: It is present but some of the disulfide bonds
+    are reduced in the intracellular reticulate bodies (RBs).
+-!- SIMILARITY: Belongs to the chlamydial porin (CP) (TC 1.B.2)
+    family.
+Ion transport; Membrane; Outer membrane; Porin; Signal; Transmembrane;
+Transport.
+TMZERO

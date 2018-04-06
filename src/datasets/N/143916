@@ -1,0 +1,51 @@
+AC   Q9UBZ9; O95941; Q9C0J4; Q9NUP2;
+DNA repair protein REV1 (EC 2.7.7.-) (Rev1-like terminal deoxycytidyl
+transferase) (Alpha integrin-binding protein 80) (AIBP80).
+"The human REV1 gene codes for a DNA template-dependent dCMP
+transferase.";
+"The function of the human homolog of Saccharomyces cerevisiae REV1 is
+required for mutagenesis induced by UV light.";
+"Deoxycytidyl transferase activity of the human REV1 protein is
+closely associated with the conserved polymerase domain.";
+"Interactions in the error-prone postreplication repair proteins
+hREV1, hREV3, and hREV7.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Identification of novel interaction partners for the conserved
+membrane proximal region of alpha-integrin cytoplasmic domains.";
+"Structure and enzymatic properties of a stable complex of the human
+REV1 and REV7 proteins.";
+-!- FUNCTION: Required for normal induction of mutations by physical
+    and chemical agents. Has a deoxycytidyl transferase activity which
+    transfers a dCMP residue from dCTP to the 3'-end of a DNA primer
+    in a template-dependent reaction. May assist in the first step in
+    the bypass of abasic lesions by the insertion of a nucleotide
+    opposite the lesion.
+-!- SUBUNIT: Monomer. Binds POLH, POLI and POLK (By similarity). Binds
+    MAD2L2 and REV3L. May bind ITGA3.
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=REV1;
+      IsoId=Q9UBZ9-1; Sequence=Displayed;
+    Name=2; Synonyms=REV1S;
+      IsoId=Q9UBZ9-2; Sequence=VSP_012812;
+    Name=3;
+      IsoId=Q9UBZ9-3; Sequence=VSP_012809, VSP_012810, VSP_012811;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- DOMAIN: The C-terminal domain is necessary for protein
+    interactions.
+-!- SIMILARITY: Belongs to the DNA polymerase type-Y family.
+-!- SIMILARITY: Contains 1 BRCT domain.
+-!- SIMILARITY: Contains 1 umuC domain.
+ GO:0003684; F:damaged DNA binding; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0006260; P:DNA replication; TAS:ProtInc.
+ GO:0042276; P:error-prone postreplication DNA repair; TAS:UniProtKB.
+ GO:0006280; P:mutagenesis; TAS:UniProtKB.
+ GO:0009411; P:response to UV; IDA:UniProtKB.
+Alternative splicing; DNA damage; DNA repair; DNA synthesis;
+DNA-binding; Magnesium; Metal-binding; Nuclear protein;
+Nucleotidyltransferase; Polymorphism; Transferase.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P94537;
+Small, acid-soluble spore protein I (SASP I).
+"The dnaB-pheA (256 degrees-240 degrees) region of the Bacillus
+subtilis chromosome containing genes responsible for stress responses,
+the utilization of plant cell walls and primary metabolism.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"New small, acid-soluble proteins unique to spores of Bacillus
+subtilis: identification of the coding genes and regulation and
+function of two of these genes.";
+"Analysis of the regulation and function of five genes encoding small,
+acid-soluble spore proteins of Bacillus subtilis.";
+-!- SUBCELLULAR LOCATION: Spore core.
+-!- DEVELOPMENTAL STAGE: Expressed only in the forespore compartment
+    of sporulating cells. Disappears after 45 minutes of spore
+    germination.
+-!- INDUCTION: Expression is sigma G-dependent.
+-!- SIMILARITY: Belongs to the sspI family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+ GO:0030436; P:sporulation (sensu Bacteria); IEA:HAMAP.
+Complete proteome; Direct protein sequencing; Sporulation.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P24177; P76971; P77178; Q46715;
+Probable aminoglycoside efflux pump (Acriflavine resistance protein
+D).
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Cloning, characterization, and expression of the dapE gene of
+Escherichia coli.";
+"AcrD of Escherichia coli is an aminoglycoside efflux pump.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Participates in the efflux of aminoglycosides. Confers
+    resistance to a variety of these substances.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

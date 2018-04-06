@@ -1,0 +1,29 @@
+AC   P05626; Q02830;
+ATP synthase subunit 4, mitochondrial precursor (EC 3.6.3.14).
+"ATP4, the structural gene for yeast F0F1 ATPase subunit 4.";
+"The yeast ATP synthase subunit 4: structure and function.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Subunit 4 of ATP synthase (F0F1) from yeast mitochondria.
+Purification, amino-acid composition and partial N-terminal
+sequence.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: This is one of the chains of the nonenzymatic component
+    (CF(0) subunit) of the mitochondrial ATPase complex.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. In yeast, the
+    dimeric form of ATP synthase consists of 18 polypeptides: alpha,
+    beta, gamma, delta, epsilon, 4 (B), 5 (OSCP), 6 (A), 8, 9 (C), d,
+    E (Tim11), f, g, h, i, j and k.
+-!- INTERACTION:
+    P40069:KAP123; NbExp=1; IntAct=EBI-3264, EBI-9166;
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- MISCELLANEOUS: Present with 12900 molecules/cell.
+-!- SIMILARITY: Belongs to the eukaryotic ATPase B chain family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015986; P:ATP synthesis coupled proton transport; IMP:SGD.
+CF(0); Complete proteome; Direct protein sequencing;
+Hydrogen ion transport; Ion transport; Mitochondrion; Transit peptide;
+Transport.
+TMZERO

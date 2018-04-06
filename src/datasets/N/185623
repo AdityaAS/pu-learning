@@ -1,0 +1,30 @@
+AC   P48606;
+Tubulin-specific chaperone A (Tubulin-folding cofactor A) (CFA).
+"Rbl2p, a yeast protein that binds to beta-tubulin and participates in
+microtubule function in vivo.";
+"Sequencing analysis of a 36.8 kb fragment of yeast chromosome XV
+reveals 26 open reading frames including SEC63, CDC31, SUG2, GCD1,
+RBL2, PNT1, PAC1 and VPH1.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- FUNCTION: Tubulin-folding protein; involved in the early step of
+    the tubulin folding pathway.
+-!- INTERACTION:
+    P47135:JSN1; NbExp=1; IntAct=EBI-18991, EBI-9422;
+    P02557:TUB2; NbExp=1; IntAct=EBI-18991, EBI-18986;
+    Q12071:VPS54; NbExp=1; IntAct=EBI-18991, EBI-36751;
+-!- MISCELLANEOUS: Present with 1760 molecules/cell.
+-!- SIMILARITY: Belongs to the TBCA family.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0048487; F:beta-tubulin binding; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0007025; P:beta-tubulin folding; TAS:SGD.
+ GO:0000226; P:microtubule cytoskeleton organization and b...; IMP:SGD.
+ GO:0007023; P:post-chaperonin tubulin folding pathway; TAS:SGD.
+3D-structure; Chaperone; Complete proteome; Cytoskeleton; Microtubule;
+Phosphorylation.
+TMZERO

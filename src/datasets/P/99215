@@ -1,0 +1,73 @@
+AC   P08183; Q12755; Q14812;
+Multidrug resistance protein 1 (EC 3.6.3.44) (ATP-binding cassette
+sub-family B member 1) (P-glycoprotein 1) (CD243 antigen).
+"Internal duplication and homology with bacterial transport proteins
+in the mdr1 (P-glycoprotein) gene from multidrug-resistant human
+cells.";
+"Genomic organization of the human multidrug resistance (MDR1) gene
+and origin of P-glycoproteins.";
+"Multidrug-resistant human sarcoma cells with a mutant P-glycoprotein,
+altered phenotype, and resistance to cyclosporins.";
+"NIEHS-SNPs, environmental genome project, NIEHS ES15478, Department
+of Genome Sciences, Seattle, WA (URL: http://egp.gs.washington.edu).";
+"The DNA sequence of human chromosome 7.";
+"mdr1/P-glycoprotein gene segments analyzed from various human
+leukemic cell lines exhibiting different multidrug resistance
+profiles.";
+"P-glycoprotein gene (MDR1) cDNA from human adrenal: normal P-
+glycoprotein carries Gly185 with an altered pattern of multidrug
+resistance.";
+"ABC drug transporters: hereditary polymorphisms and pharmacological
+impact in MDR1, MRP1 and MRP2.";
+"An altered pattern of cross-resistance in multidrug-resistant human
+cells results from spontaneous mutations in the mdr1 (P-glycoprotein)
+gene.";
+"Genetic polymorphism in MDR-1: a tool for examining allelic
+expression in normal cells, unselected and drug-selected cell lines,
+and human tumors.";
+"A new polymorphism (N21D) in the exon 2 of the human MDR1 gene
+encoding the P-glycoprotein.";
+"Functional polymorphisms of the human multidrug-resistance gene:
+multiple sequence variations and correlation of one allele with P-
+glycoprotein expression and activity in vivo.";
+"Frequency of single nucleotide polymorphisms in the P-glycoprotein
+drug transporter MDR1 gene in white subjects.";
+"Polymorphism of MDR1 gene in healthy Japanese subjects: a novel SNP
+with an amino acid substitution (Glu108Lys).";
+"Twelve novel single nucleotide polymorphisms in ABCB1/MDR1 among
+Japanese patients with ventricular tachycardia who were administered
+amiodarone.";
+"Three hundred twenty-six genetic variations in genes encoding nine
+members of ATP-binding cassette, subfamily B (ABCB/MDR/TAP), in the
+Japanese population.";
+-!- FUNCTION: Energy-dependent efflux pump responsible for decreased
+    drug accumulation in multidrug-resistant cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + xenobiotic(In) = ADP + phosphate
+    + xenobiotic(Out).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in liver, kidney, small intestine
+    and brain.
+-!- POLYMORPHISM: Genetic variation in ABCB1 may play a role in
+    patients who do not respond to drug treatment.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+-!- CAUTION: Ref.5 (AAB69423) sequence differs from that shown due to
+    erroneous gene model prediction.
+-!- WEB RESOURCE: NAME=Atlas of Genetics and Cytogenetics in Oncology
+    and Haematology;
+    URL="http://atlasgeneticsoncology.org/Genes/PGY1ID105.html".
+-!- WEB RESOURCE: NAME=SHMPD;
+    NOTE=The Singapore human mutation and polymorphism database;
+    URL="http://shmpd.bii.a-star.edu.sg/gene.php?genestart=A&genename=ABCB1".
+ GO:0009986; C:cell surface; IEP:UniProtKB.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0005524; F:ATP binding; TAS:ProtInc.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; TAS:ProtInc.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0042493; P:response to drug; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+ATP-binding; Glycoprotein; Hydrolase; Membrane; Nucleotide-binding;
+Polymorphism; Repeat; Transmembrane; Transport.
+TMTWELVE

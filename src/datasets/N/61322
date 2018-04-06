@@ -1,0 +1,16 @@
+AC   Q8KBJ9;
+Aminomethyltransferase (EC 2.1.2.10) (Glycine cleavage system T
+protein).
+"The complete genome sequence of Chlorobium tepidum TLS, a
+photosynthetic, anaerobic, green-sulfur bacterium.";
+-!- FUNCTION: The glycine cleavage system catalyzes the degradation of
+    glycine (By similarity).
+-!- CATALYTIC ACTIVITY: [Protein]-8-S-aminomethyldihydrolipoyllysine +
+    tetrahydrofolate = [protein]-dihydrolipoyllysine + 5,10-
+    methylenetetrahydrofolate + NH(3).
+-!- SUBUNIT: The glycine cleavage system is composed of four proteins:
+    P, T, L and H (By similarity).
+-!- SIMILARITY: Belongs to the gcvT family.
+ GO:0019464; P:glycine decarboxylation via glycine cleavag...; IEA:HAMAP.
+Aminotransferase; Complete proteome; Transferase.
+TMZERO

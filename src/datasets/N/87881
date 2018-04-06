@@ -1,0 +1,15 @@
+AC   Q9KPK4;
+Homoserine kinase (EC 2.7.1.39) (HSK) (HK).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- CATALYTIC ACTIVITY: ATP + L-homoserine = ADP + O-phospho-L-
+    homoserine.
+-!- PATHWAY: Amino-acid biosynthesis; L-threonine biosynthesis; L-
+    threonine from L-aspartate: step 4.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the GHMP kinase family. Homoserine kinase
+    subfamily.
+ GO:0009088; P:threonine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; ATP-binding; Complete proteome; Kinase;
+Nucleotide-binding; Threonine biosynthesis; Transferase.
+TMZERO

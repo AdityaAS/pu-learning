@@ -1,0 +1,9 @@
+AC   Q10419;
+Mesentericin Y105 secretion protein mesE.
+"Mesentericin Y105 gene clusters in Leuconostoc mesenteroides Y105.";
+-!- FUNCTION: Involved in the secretion of mesentericin Y105.
+-!- SIMILARITY: Belongs to the membrane fusion protein (MFP)
+    (TC 8.A.1) family.
+Bacteriocin transport; Membrane; Plasmid; Protein transport;
+Transmembrane; Transport.
+TMONE

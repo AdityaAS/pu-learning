@@ -1,0 +1,13 @@
+AC   Q5RDW9;
+Cleavage stimulation factor 77 kDa subunit (CSTF 77 kDa subunit) (CF-1
+77 kDa subunit) (CstF-77).
+-!- FUNCTION: One of the multiple factors required for polyadenylation
+    and 3'-end cleavage of mammalian pre-mRNAs (By similarity).
+-!- SUBUNIT: Homodimer. The CSTF complex is composed of CSTF1 (50 kDa
+    subunit), CSTF2 (64 kDa subunit) and CSTF3 (77 kDa subunit). CSTF3
+    directly interacts with CSTF1 and CSTF2. Interacts with FIP1L1 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Contains 9 HAT repeats.
+mRNA processing; Nuclear protein; Repeat.
+TMZERO

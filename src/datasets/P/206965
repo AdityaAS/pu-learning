@@ -1,0 +1,26 @@
+AC   P07198;
+Xenopsin precursor [Contains: Xenopsin precursor fragment (XPF);
+Xenopsin].
+"Xenopsin: the neurotensin-like octapeptide from Xenopus skin at the
+carboxyl terminus of its precursor.";
+"Levitide, a neurohormone-like peptide from the skin of Xenopus
+laevis. Peptide and peptide precursor cDNA sequences.";
+"The genes for the frog skin peptides GLa, xenopsin, levitide and
+caerulein contain a homologous export exon encoding a signal sequence
+and part of an amphiphilic peptide.";
+"Antimicrobial peptides in the stomach of Xenopus laevis.";
+"Isolation and structure of a new active peptide 'Xenopsin' on the
+smooth muscle, especially on a strip of fundus from a rat stomach,
+from the skin of Xenopus laevis.";
+-!- FUNCTION: Xenopsin is a neurotensin-like octapeptide.
+-!- FUNCTION: XPF has antimicrobial activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: XPF is synthesized in the stomach and stored
+    in a novel granular multinucleated cell in the gastric mucosa, it
+    is stored as active, processed peptides in large granules within
+    the granular gland secretions of the skin.
+-!- SIMILARITY: Belongs to the gastrin/cholecystokinin family.
+    Magainin subfamily.
+Antibiotic; Antimicrobial; Direct protein sequencing; Signal;
+Vasoactive.
+TMZERO

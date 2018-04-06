@@ -1,0 +1,18 @@
+AC   P06315;
+Ig kappa chain V region EV15 precursor.
+"Aberrant recombination events in B cell lines derived from a kappa-
+deficient human.";
+"Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+hydrazide chemistry, and mass spectrometry.";
+-!- MISCELLANEOUS: This sequence does not belong to any of the
+    previously described V-kappa subgroups. Although the gene is
+    located in the same region as other V-kappa genes, it appears to
+    be the only one of its type.
+-!- MISCELLANEOUS: The gene was found to be aberrantly rearranged in
+    an individual who does not synthesize any kappa light chains. It
+    has not been shown to be expressed.
+ GO:0005576; C:extracellular region; NAS:UniProtKB.
+ GO:0003823; F:antigen binding; NAS:UniProtKB.
+ GO:0006955; P:immune response; NAS:UniProtKB.
+Glycoprotein; Immunoglobulin domain; Immunoglobulin V region; Signal.
+TMZERO

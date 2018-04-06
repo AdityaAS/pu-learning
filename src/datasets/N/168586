@@ -1,0 +1,20 @@
+AC   P50115;
+Protein S100-A8 (S100 calcium-binding protein A8) (Calgranulin-A)
+(Migration inhibitory factor-related protein 8) (MRP-8) (p8).
+"Expression and cloning of migration inhibitory factor-related protein
+(MRP)8 and MRP14 in arthritis-susceptible rats.";
+"Identification of posttranslational modifications and cDNA sequencing
+errors in the rat S100 proteins MRP8 and 14 using electrospray
+ionization mass spectrometry.";
+-!- FUNCTION: Has maximal chemotactic activity for neutrophils. May
+    play an important role in cellular immune reactions.
+-!- SUBUNIT: Homodimer and/or heterodimer.
+-!- MASS SPECTROMETRY: MW=10149; MW_ERR=2; METHOD=Electrospray;
+    RANGE=1-88; NOTE=Ref.2.
+-!- MISCELLANEOUS: Binds two calcium ions per molecule with an
+    affinity similar to that of the S100 proteins (By similarity).
+-!- SIMILARITY: Belongs to the S-100 family.
+-!- SIMILARITY: Contains 2 EF-hand domains.
+ GO:0006954; P:inflammatory response; NAS:RGD.
+Acetylation; Calcium; Chemotaxis; Direct protein sequencing; Repeat.
+TMZERO

@@ -1,0 +1,11 @@
+AC   Q9KTT7;
+Probable 2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+(EC 2.7.8.25) (2-(5''-triphosphoribosyl)-3'-dephospho-CoA synthase).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- CATALYTIC ACTIVITY: ATP + 3-dephospho-CoA = 2'-(5''-
+    triphosphoribosyl)-3'-dephospho-CoA + adenine.
+-!- SIMILARITY: Belongs to the citG/mdcB family.
+ GO:0046917; F:triphosphoribosyl-dephospho-CoA synthase ac...; IEA:HAMAP.
+Complete proteome; Transferase.
+TMZERO

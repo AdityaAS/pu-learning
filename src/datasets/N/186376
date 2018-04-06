@@ -1,0 +1,53 @@
+AC   O75443;
+Alpha-tectorin precursor.
+"Mutations in the human alpha-tectorin gene cause autosomal dominant
+non-syndromic hearing impairment.";
+"Mutation in the zonadhesin-like domain of alpha-tectorin associated
+with autosomal dominant non-syndromic hearing loss.";
+"Alpha-tectorin involvement in hearing disabilities: one gene -- two
+phenotypes.";
+"An alpha-tectorin gene defect causes a newly identified autosomal
+recessive form of sensorineural pre-lingual non-syndromic deafness,
+DFNB21.";
+"A cysteine substitution in the zona pellucida domain of alpha-
+tectorin results in autosomal dominant, postlingual, progressive, mid
+frequency hearing loss in a Spanish family.";
+"Association of clinical features with mutation of TECTA in a family
+with autosomal dominant hearing loss.";
+"Distinctive audiometric profile associated with DFNB21 alleles of
+TECTA.";
+-!- FUNCTION: One of the major non-collagenous components of the
+    tectorial membrane (By similarity). The tectorial membrane is an
+    extracellular matrix of the inner ear that covers the
+    neuroepithelium of the cochlea and contacts the stereocilia
+    bundles of specialized sensory hair cells. Sound induces movement
+    of these hair cells relative to the tectorial membrane, deflects
+    the stereocilia and leads to fluctuations in hair-cell membrane
+    potential, transducing sound into electrical signals.
+-!- SUBUNIT: May form homomeric filament after self-association or
+    heteromeric filament after association with beta-tectorin.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor;
+    extracellular side (Probable). Note=Found in the non-collagenous
+    matrix of the tectorial membrane (By similarity).
+-!- DOMAIN: Zona pellucida domain may enable to form filaments.
+-!- PTM: The presence of a hydrophobic C-terminus preceded by a
+    potential cleavage site strongly suggests that tectorins are
+    synthesized as glycosylphosphatidylinositol-linked, membrane-bound
+    precursors. Tectorins are targeted to the apical surface of the
+    inner ear epithelia by the lipid and proteolytically released into
+    the extracellular compartment.
+-!- DISEASE: Defects in TECTA are the cause of autosomal dominant non-
+    syndromic sensorineural deafness 8 (DFNA8) [MIM:601543].
+-!- DISEASE: Defects in TECTA are the cause of autosomal dominant non-
+    syndromic sensorineural deafness 12 (DFNA12) [MIM:601842].
+-!- DISEASE: Defects in TECTA are the cause of autosomal recessive
+    non-syndromic sensorineural deafness 21 (DFNB21) [MIM:603629].
+-!- SIMILARITY: Contains 1 NIDO domain.
+-!- SIMILARITY: Contains 3 TIL (trypsin inhibitory-like) domains.
+-!- SIMILARITY: Contains 1 VWFC domain.
+-!- SIMILARITY: Contains 4 VWFD domains.
+-!- SIMILARITY: Contains 1 ZP domain.
+ GO:0007605; P:sensory perception of sound; TAS:ProtInc.
+Deafness; Disease mutation; Extracellular matrix; Glycoprotein;
+GPI-anchor; Lipoprotein; Membrane; Polymorphism; Repeat; Signal.
+TMZERO

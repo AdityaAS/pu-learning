@@ -1,0 +1,10 @@
+AC   P63903; Q9JRE8;
+Deoxycytidine triphosphate deaminase (EC 3.5.4.13) (dCTP deaminase).
+"Complete DNA sequence of a serogroup A strain of Neisseria
+meningitidis Z2491.";
+-!- CATALYTIC ACTIVITY: dCTP + H(2)O = dUTP + NH(3).
+-!- PATHWAY: De novo synthesis of thymidylate.
+-!- SIMILARITY: Belongs to the dCTP deaminase family.
+ GO:0009220; P:pyrimidine ribonucleotide biosynthesis; IEA:HAMAP.
+Complete proteome; Hydrolase; Nucleotide metabolism.
+TMZERO

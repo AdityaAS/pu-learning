@@ -1,0 +1,14 @@
+AC   O34580;
+ATP-dependent DNA helicase pcrA (EC 3.6.1.-).
+"PcrA is an essential DNA helicase of Bacillus subtilis fulfilling
+functions both in repair and rolling-circle replication.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: DNA helicase used for plasmid rolling-circle replication
+    and also involved in UV repair.
+-!- SIMILARITY: Belongs to the helicase family. UvrD subfamily.
+-!- SIMILARITY: Contains 1 uvrD-like helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 uvrD-like helicase C-terminal domain.
+ATP-binding; Complete proteome; DNA damage; DNA repair; DNA-binding;
+Helicase; Hydrolase; Nucleotide-binding.
+TMZERO

@@ -1,0 +1,43 @@
+AC   Q9Y3M2; Q9UIK9;
+Protein Chibby (PKD2 interactor, Golgi and endoplasmic reticulum
+associated 1) (PIGEA-14) (Cytosolic leucine-rich protein).
+"A novel cytosolic leucine-rich protein.";
+"Towards a catalog of human genes and proteins: sequencing and
+analysis of 500 novel complete protein coding human cDNAs.";
+"Reevaluating human gene annotation: a second-generation analysis of
+chromosome 22.";
+"A genome annotation-driven approach to cloning the human ORFeome.";
+"The DNA sequence of human chromosome 22.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"HRI NTT human fetal brain cDNA project.";
+"Chibby, a nuclear beta-catenin-associated antagonist of the
+Wnt/Wingless pathway.";
+"PIGEA-14, a novel coiled-coil protein affecting the intracellular
+distribution of polycystin-2.";
+-!- FUNCTION: Inhibits the Wnt/Wingless pathway by binding to beta-
+    catenin and inhibiting beta-catenin-mediated transcriptional
+    activation by competing with TCF/LEF transcription factors. Has
+    also been shown to play a role in regulating the intracellular
+    trafficking of polycystin-2/PKD2 and possibly of other
+    intracellular proteins.
+-!- SUBUNIT: Homodimer; interacts with polycystin-2/PKD2 and GM130.
+    Interacts with the C-terminal region of beta-catenin.
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear speckle. Golgi apparatus;
+    trans-Golgi network. Note=Nuclear, in a punctate manner. Also
+    found in the trans-Golgi.
+-!- TISSUE SPECIFICITY: Widely expressed. Expressed at higher levels
+    in heart, skeletal muscle, kidney and placenta. Also found in
+    brain, lung, liver and testis. Significantly down-regulated in
+    thyroid and metastatic uterine tumors.
+-!- MISCELLANEOUS: Chibby is Japanese for 'small'; the gene was so
+    named for the RNAi phenotype seen in flies.
+ GO:0005802; C:Golgi trans face; IDA:UniProtKB.
+ GO:0005634; C:nucleus; IDA:UniProtKB.
+ GO:0008013; F:beta-catenin binding; IDA:UniProtKB.
+ GO:0042802; F:identical protein binding; IPI:UniProtKB.
+ GO:0045892; P:negative regulation of transcription, DNA-d...; IDA:UniProtKB.
+ GO:0030178; P:negative regulation of Wnt receptor signali...; IDA:UniProtKB.
+ GO:0008104; P:protein localization; IMP:UniProtKB.
+Coiled coil; Golgi apparatus; Nuclear protein.
+TMZERO

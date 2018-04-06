@@ -1,0 +1,13 @@
+AC   Q9RDD6;
+Heat-inducible transcription repressor hrcA.
+"Complete genome sequence of the model actinomycete Streptomyces
+coelicolor A3(2).";
+-!- FUNCTION: Negative regulator of class I heat shock genes (grpE-
+    dnaK-dnaJ and groELS operons). Prevents heat-shock induction of
+    these operons (By similarity).
+-!- SIMILARITY: Belongs to the hrcA family.
+ GO:0016564; F:transcriptional repressor activity; IEA:HAMAP.
+ GO:0045892; P:negative regulation of transcription, DNA-d...; IEA:HAMAP.
+Complete proteome; Heat shock; Repressor; Transcription;
+Transcription regulation.
+TMZERO

@@ -1,0 +1,14 @@
+AC   P53393;
+Low affinity sulfate transporter 3.
+"Plant members of a family of sulfate transporters reveal functional
+subtypes.";
+-!- FUNCTION: Low-affinity H(+)/sulfate cotransporter which may be
+    involved in the internal transport of sulfate between cellular or
+    subcellular compartments within the plant.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+-!- SIMILARITY: Contains 1 STAS domain.
+Membrane; Transmembrane; Transport.
+TMTHIRTEEN

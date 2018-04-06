@@ -1,0 +1,23 @@
+AC   Q43161;
+Caffeoyl-CoA O-methyltransferase (EC 2.1.1.104) (Trans-caffeoyl-CoA 3-
+O-methyltransferase) (CCoAMT) (CCoAOMT).
+"Nucleotide sequence of a cDNA clone encoding caffeoyl-coenzyme A 3-O-
+methyltransferase of Stellaria longipes (Caryophyllaceae).";
+"Molecular characterization of a cDNA encoding caffeoyl-coenzyme A 3-
+O-methyltransferase of Stellaria longipes.";
+-!- FUNCTION: Methylates caffeoyl-CoA to feruloyl-CoA and 5-
+    hydroxyferuloyl-CoA to sinapoyl-CoA. Plays a role in the synthesis
+    of feruloylated polysaccharides. Involved in the reinforcement of
+    the plant cell wall. Also involved in the responding to wounding
+    or pathogen challenge by the increased formation of cell wall-
+    bound ferulic acid polymers.
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + caffeoyl-CoA = S-
+    adenosyl-L-homocysteine + feruloyl-CoA.
+-!- PATHWAY: Lignin biosynthesis.
+-!- PATHWAY: Phenylpropanoid pathway.
+-!- SIMILARITY: Belongs to the methyltransferase superfamily. Type 3
+    family. CCoAMT subfamily.
+ GO:0042409; F:caffeoyl-CoA O-methyltransferase activity; IEA:EC.
+Lignin biosynthesis; Methyltransferase; S-adenosyl-L-methionine;
+Transferase.
+TMZERO

@@ -1,0 +1,11 @@
+AC   Q58715;
+Hypothetical sodium-dependent transporter MJ1319.
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+-!- FUNCTION: Putative sodium-dependent transporter.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+Complete proteome; Hypothetical protein; Membrane; Symport;
+Transmembrane; Transport.
+TMTWELVE

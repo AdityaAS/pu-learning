@@ -1,0 +1,28 @@
+AC   P69071; P02298; P05320; P05321; P05322;
+Histone H3, embryonic.
+"Histone genes in three sea star species: cluster arrangement,
+transcriptional polarity, and analyses of the flanking regions of H3
+and H4 genes.";
+-!- FUNCTION: Core component of nucleosome. Nucleosomes wrap and
+    compact DNA into chromatin, limiting DNA accessibility to the
+    cellular machineries which require DNA as a template. Histones
+    thereby play a central role in transcription regulation, DNA
+    repair, DNA replication and chromosomal stability. DNA
+    accessibility is regulated via a complex set of post-translational
+    modifications of histones, also called histone code, and
+    nucleosome remodelling.
+-!- SUBUNIT: The nucleosome is a histone octamer containing two
+    molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4
+    heterotetramer and two H2A-H2B heterodimers. The octamer wraps
+    approximately 147 bp of DNA.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- DEVELOPMENTAL STAGE: This histone is expressed during late
+    embryonic development.
+-!- PTM: Acetylation is generally linked to gene activation (By
+    similarity).
+-!- PTM: Methylation at Lys-4 is linked to gene activation.
+    Methylation at Lys-9 is linked to gene repression (By similarity).
+-!- SIMILARITY: Belongs to the histone H3 family.
+Acetylation; Chromosomal protein; DNA-binding; Methylation;
+Nuclear protein; Nucleosome core; Phosphorylation.
+TMZERO

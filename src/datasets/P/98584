@@ -1,0 +1,67 @@
+AC   Q9GZU1; Q7Z4F7; Q9H292; Q9H4B3; Q9H4B5;
+Mucolipin-1 (Mucolipidin) (MG-2).
+"Cloning of the gene encoding a novel integral membrane protein,
+mucolipidin, and identification of the two major founder mutations
+causing mucolipidosis type IV.";
+"Mucolipidosis type IV is caused by mutations in a gene encoding a
+novel transient receptor potential channel.";
+"Identification of the gene causing mucolipidosis type IV.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification and characterization of the single channel function of
+human mucolipin-1 implicated in mucolipidosis type IV, a disorder
+affecting the lysosomal pathway.";
+"Overexpression of wild-type and mutant mucolipin proteins in
+mammalian cells: effects on the late endocytic compartment
+organization.";
+"Molecular pathophysiology of mucolipidosis type IV: pH dysregulation
+of the mucolipin-1 cation channel.";
+"Mucolipidosis type IV: novel MCOLN1 mutations in Jewish and non-
+Jewish patients and the frequency of the disease in the Ashkenazi
+Jewish population.";
+"The neurogenetics of mucolipidosis type IV.";
+-!- FUNCTION: Cationic channel probably playing a role in the
+    endocytic pathway and in the control of membrane trafficking of
+    proteins and lipids. Could play a major role in Ca(2+) transport
+    regulating lysosomal exocytosis.
+-!- SUBUNIT: Forms multimeric complexes.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Endosome; late endosome; late endosomal membrane; multi-pass
+    membrane protein. Lysosome; lysosomal membrane; multi-pass
+    membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9GZU1-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9GZU1-2; Sequence=VSP_010819, VSP_010820;
+-!- TISSUE SPECIFICITY: Widely expressed in adult and fetal tissues.
+-!- DISEASE: Defects in MCOLN1 are the cause of mucolipidosis type IV
+    (MLIV) [MIM:252650]; also known as sialolipidosis. MLIV is an
+    autosomal recessive lysosomal storage disorder characterized by
+    severe psychomotor retardation and ophthalmologic abnormalities,
+    including corneal opacity, retinal degeneration and strabismus.
+    Storage bodies of lipids and water-soluble substances are seen by
+    electron microscopy in almost every cell type of the patients.
+    Most patients are unable to speak or walk independently and reach
+    a maximal developmental level of 1-2 years. All patients have
+    constitutive achlorhydia associated with a secondary elevation of
+    serum gastrin levels. MLIV may be due to a defect in sorting
+    and/or transport along the late endocytic pathway. MLIV is found
+    at relatively high frequency among Ashkenazi Jews.
+-!- MISCELLANEOUS: Channel function is transiently modulated by
+    changes in Ca(2+), and inhibited by a reduction of pH; pH changes
+    modify the aggregation state of unitary channels.
+-!- SIMILARITY: Belongs to the transient receptor family. Polycystin
+    subfamily.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=MCOLN1".
+ GO:0005887; C:integral to plasma membrane; NAS:UniProtKB.
+ GO:0005261; F:cation channel activity; NAS:UniProtKB.
+ GO:0006812; P:cation transport; NAS:UniProtKB.
+Alternative splicing; Calcium; Calcium transport; Disease mutation;
+Ion transport; Ionic channel; Lysosome; Membrane; Mucolipidosis;
+Phosphorylation; Transmembrane; Transport.
+TMSIX

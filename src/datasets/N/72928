@@ -1,0 +1,33 @@
+AC   Q00816;
+Protein HEX2 (Protein SRN1) (Protein REG1).
+"Characterization of Hex2 protein, a negative regulatory element
+necessary for glucose repression in yeast.";
+"SRN1, a yeast gene involved in RNA processing, is identical to
+HEX2/REG1, a negative regulator in glucose repression.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Sequencing and analysis of a 35.4 kb region on the right arm of
+chromosome IV from Saccharomyces cerevisiae reveal 23 open reading
+frames.";
+"REG1 binds to protein phosphatase type 1 and regulates glucose
+repression in Saccharomyces cerevisiae.";
+"Phosphoproteome analysis by mass spectrometry and its application to
+Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- FUNCTION: Involved in RNA processing and negative regulation of
+    glucose repression. Regulates the level of two antigens, P43 and
+    P70. Binds to protein phosphatase type 1. Functions with REG2 and
+    SNF1 protein kinase to regulate growth. Might regulate SNF1
+    directly or indirectly.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- MISCELLANEOUS: Present with 2560 molecules/cell.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0000164; C:protein phosphatase type 1 complex; TAS:SGD.
+ GO:0008599; F:protein phosphatase type 1 regulator activity; TAS:SGD.
+ GO:0005977; P:glycogen metabolism; TAS:SGD.
+ GO:0000122; P:negative regulation of transcription from R...; TAS:SGD.
+ GO:0006109; P:regulation of carbohydrate metabolism; IGI:SGD.
+ GO:0007039; P:vacuolar protein catabolism; IDA:SGD.
+Complete proteome; Nuclear protein; Phosphorylation.
+TMZERO

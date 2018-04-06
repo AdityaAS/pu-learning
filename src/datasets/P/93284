@@ -1,0 +1,16 @@
+AC   P14182; O05075; Q57357;
+Protein licB.
+"The molecular mechanism of phase variation of H. influenzae
+lipopolysaccharide.";
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- MISCELLANEOUS: Lipopolysaccharide (LPS) is a glycolipid that is a
+    necessary component and antigenic determinant of the outer
+    membrane and has been shown to be an important factor in the host-
+    parasite interaction in a number of Gram-negative species.
+-!- MISCELLANEOUS: H.influenzae is able to display an extensive
+    repertoire of different surface configurations through variability
+    of its LPS oligosaccharide.
+-!- SIMILARITY: Contains 2 DUF6 domains.
+Complete proteome; Repeat.
+TMZERO

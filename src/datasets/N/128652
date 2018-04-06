@@ -1,0 +1,33 @@
+AC   P18474; Q83857;
+RNA2 polyprotein (P2) [Contains: P2A protein (2A); Movement protein
+(2B-MP); Coat protein (2C-CP)].
+"RNA2 of grapevine fanleaf virus: sequence analysis and coat protein
+cistron location.";
+"Genome organization of grapevine fanleaf nepovirus RNA2 deduced from
+the 122K polyprotein P2 in vitro cleavage products.";
+"Protein 2A of grapevine fanleaf nepovirus is implicated in RNA2
+replication and colocalizes to the replication site.";
+"Involvement of the secretory pathway and the cytoskeleton in
+intracellular targeting and tubule assembly of Grapevine fanleaf virus
+movement protein in tobacco BY-2 cells.";
+-!- FUNCTION: Protein 2A is implicated in RNA2 replication. Could also
+    be required for nematode transmission of the virus.
+-!- FUNCTION: The movement protein is assembled into tubules that
+    allow the transport of virions from cell to cell.
+-!- SUBCELLULAR LOCATION: Cell junction; plasmodesma. Note=Viral
+    movement proteins assembled in tubules are embedded within
+    modified plasmodesmata. Movement proteins are targeted
+    preferentially to calreticulin-labeled foci within the youngest
+    cross walls, where they assemble into tubules. During cell
+    division, they colocalize in the cell plate with KNOLLE, a
+    cytokinesis-specific syntaxin. Protein 2A is cytoplasmic early in
+    infection. Later in infection, it becomes progressively
+    concentrated around the nucleus, where it forms large aggregates.
+-!- PTM: Specific enzymatic cleavages in vivo by the P1 encoded 3C-
+    like protease yield mature proteins.
+-!- MISCELLANEOUS: Virions are comprised of 60 copies of the coat
+    protein.
+-!- SIMILARITY: Belongs to the nepoviruses RNA2 polyprotein family.
+Capsid protein; Direct protein sequencing; Transport;
+Viral movement protein; Virion protein.
+TMZERO

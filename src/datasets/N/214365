@@ -1,0 +1,9 @@
+AC   Q9KP47;
+UPF0042 protein VC2532.
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- SIMILARITY: Belongs to the UPF0042 family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+ATP-binding; Complete proteome; Nucleotide-binding.
+TMZERO

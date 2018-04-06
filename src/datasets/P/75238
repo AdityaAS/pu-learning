@@ -1,0 +1,41 @@
+AC   P09616;
+Alpha-hemolysin precursor (Alpha-toxin) (Alpha-HL).
+"Primary sequence of the alpha-toxin gene from Staphylococcus aureus
+wood 46.";
+"Functional expression of the alpha-hemolysin of Staphylococcus aureus
+in intact Escherichia coli and in cell lysates. Deletion of five C-
+terminal amino acids selectively impairs hemolytic activity.";
+"Structure of staphylococcal alpha-hemolysin, a heptameric
+transmembrane pore.";
+"Assembly of the oligomeric membrane pore formed by Staphylococcal
+alpha-hemolysin examined by truncation mutagenesis.";
+"Site-directed mutagenesis of the alpha-toxin gene of Staphylococcus
+aureus: role of histidines in toxin activity in vitro and in a murine
+model.";
+"Histidine residues near the N-terminus of staphylococcal alpha-toxin
+as reporters of regions that are critical for oligomerization and pore
+formation.";
+"Key residues for membrane binding, oligomerization, and pore forming
+activity of staphylococcal alpha-hemolysin identified by cysteine
+scanning mutagenesis and targeted chemical modification.";
+-!- FUNCTION: Alpha-toxin binds to the membrane of eukaryotic cells
+    resulting in the release of low-molecular weight molecules and
+    leading to an eventual osmotic lysis. Heptamer oligomerization and
+    pore formation is required for lytic activity.
+-!- SUBUNIT: Self-assembles to form first, a non-lytic oligomeric
+    intermediate, and then, a mushroom-shaped homoheptamer structure
+    of 100 Angstroms in length and up to 100 Angstroms in diameter.
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=Secreted as a
+    monomer. After oligomerization and pore formation, the complex is
+    translocated across the bilayer, probably via the Gly-rich domain
+    of each strand.
+-!- DOMAIN: The mushroom-shaped heptamer is composed of a cap domain
+    (comprising 7 beta sandwiches and the amino latches of each
+    protomer), 7 rim regions whose protruding strands may interact
+    with the membrane bilayer, and the stem domain (52 Angstroms in
+    length, 26 Angstroms in diameter) which forms the transmembrane
+    pore.
+-!- SIMILARITY: Belongs to the aerolysin family.
+3D-structure; Cytolysis; Direct protein sequencing; Hemolysis; Signal;
+Toxin.
+TMZERO

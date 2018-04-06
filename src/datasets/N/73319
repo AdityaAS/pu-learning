@@ -1,0 +1,25 @@
+AC   Q9JKY5;
+Huntingtin-interacting protein 1-related protein (Hip1-related).
+"An actin-binding protein of the Sla2/Huntingtin interacting protein 1
+family is a novel component of clathrin-coated pits and vesicles.";
+-!- FUNCTION: Component of clathrin-coated pits and vesicles, that may
+    link the endocytic machinery to the actin cytoskeleton.
+-!- SUBUNIT: Interacts with actin and huntingtin interacting protein 1
+    (HIP1). Does not interact with huntingtin (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm; perinuclear region.
+    Intracytoplasmic membrane. Note=Membrane-associated protein,
+    mainly localized at the endocytic compartments and in the
+    perinuclear region.
+-!- TISSUE SPECIFICITY: Widely expressed. Expressed at lower levels in
+    skeletal muscle and heart. The level of expression does not change
+    appreciably during development.
+-!- DOMAIN: The talin-like domain binds F-actin.
+-!- SIMILARITY: Belongs to the SLA2 family.
+-!- SIMILARITY: Contains 1 ENTH (epsin N-terminal homology) domain.
+-!- SIMILARITY: Contains 1 I/LWEQ domain.
+ GO:0005905; C:coated pit; IDA:MGI.
+ GO:0005856; C:cytoskeleton; IDA:MGI.
+ GO:0003779; F:actin binding; IDA:MGI.
+ GO:0006898; P:receptor-mediated endocytosis; IDA:MGI.
+Actin-binding; Coiled coil.
+TMZERO

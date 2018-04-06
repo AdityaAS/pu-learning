@@ -1,0 +1,32 @@
+AC   P56579; P05705; P78102; P78214;
+Glucitol/sorbitol permease IIC component (PTS system
+glucitol/sorbitol-specific EIIC component) (EIIC-Gut).
+"Glucitol-specific enzymes of the phosphotransferase system in
+Escherichia coli. Nucleotide sequence of the gut operon.";
+"The glucitol permease of Escherichia coli: a tripartite permease of
+the phosphotransferase system.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"A whole genome approach to in vivo DNA-protein interactions in E.
+coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in glucitol/sorbitol transport.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- DOMAIN: The EIIC domain forms the PTS system translocation channel
+    and contains the specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIIC type-5 domain.
+Complete proteome; Inner membrane; Membrane;
+Phosphotransferase system; Sugar transport; Transmembrane; Transport.
+THTHREE

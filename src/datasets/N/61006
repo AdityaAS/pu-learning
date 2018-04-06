@@ -1,0 +1,15 @@
+AC   Q4J912;
+Probable glycine cleavage system H protein 1.
+"The genome of Sulfolobus acidocaldarius, a model organism of the
+Crenarchaeota.";
+-!- FUNCTION: The glycine cleavage system catalyzes the degradation of
+    glycine. The H protein shuttles the methylamine group of glycine
+    from the P protein to the T protein (By similarity).
+-!- COFACTOR: Binds 1 lipoyl cofactor covalently (By similarity).
+-!- SUBUNIT: The glycine cleavage system is composed of four proteins:
+    P, T, L and H (By similarity).
+-!- SIMILARITY: Belongs to the gcvH family.
+-!- SIMILARITY: Contains 1 lipoyl-binding domain.
+ GO:0019464; P:glycine decarboxylation via glycine cleavag...; IEA:HAMAP.
+Complete proteome; Lipoyl.
+TMZERO

@@ -1,0 +1,12 @@
+AC   P52324;
+RNA polymerase sigma factor rpoD (Sigma-70).
+"A consensus promoter sequence for Caulobacter crescentus genes
+involved in biosynthetic and housekeeping functions.";
+"Complete genome sequence of Caulobacter crescentus.";
+-!- FUNCTION: Sigma factors are initiation factors that promote the
+    attachment of RNA polymerase to specific initiation sites and are
+    then released. This is the primary sigma factor of this bacterium.
+-!- SIMILARITY: Belongs to the sigma-70 factor family.
+Complete proteome; DNA-binding; Sigma factor; Transcription;
+Transcription regulation.
+TMZERO

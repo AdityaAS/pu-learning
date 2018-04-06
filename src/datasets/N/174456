@@ -1,0 +1,20 @@
+AC   P0ACS4; P22538; Q53442;
+Redox-sensitive transcriptional activator soxR.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Activates the transcription of the soxS gene which
+    itself controls the superoxide response regulon. SoxR contains a
+    2Fe-2S iron-sulfur cluster that may act as a redox sensor system
+    that recognizes superoxide. The variable redox state of the Fe-S
+    cluster is employed in vivo to modulate the transcriptional
+    activity of soxR in response to specific types of oxidative
+    stress. Upon reduction of 2Fe-2S cluster, SoxR reversibly loses
+    its transcriptional activity, but retains its DNA binding affinity
+    (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Contains 1 HTH merR-type DNA-binding domain.
+2Fe-2S; Activator; Complete proteome; DNA-binding; Iron; Iron-sulfur;
+Metal-binding; Transcription; Transcription regulation.
+TMZERO

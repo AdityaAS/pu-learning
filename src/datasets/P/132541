@@ -1,0 +1,11 @@
+AC   P23598;
+Proteases secretion protein prtF precursor.
+"Protease secretion by Erwinia chrysanthemi: the specific secretion
+functions are analogous to those of Escherichia coli alpha-
+haemolysin.";
+-!- FUNCTION: Involved in the secretion of proteases A, B, C and G.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: Belongs to the outer membrane factor (OMF) (TC 1.B.17)
+    family.
+Membrane; Outer membrane; Signal; Transport.
+TMZERO

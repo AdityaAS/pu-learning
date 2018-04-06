@@ -1,0 +1,21 @@
+AC   O46613;
+Interleukin-1 alpha precursor (IL-1 alpha).
+"Identification of two transcripts of canine, feline, and porcine
+interleukin-1 alpha.";
+-!- FUNCTION: Produced by activated macrophages, IL-1 stimulates
+    thymocyte proliferation by inducing IL-2 release, B-cell
+    maturation and proliferation, and fibroblast growth factor
+    activity. IL-1 proteins are involved in the inflammatory response,
+    being identified as endogenous pyrogens, and are reported to
+    stimulate the release of prostaglandin and collagenase from
+    synovial cells (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=The lack of a
+    specific hydrophobic segment in the precursor sequence suggests
+    that IL-1 is released by damaged cells or is secreted by a
+    mechanism differing from that used for other secretory proteins.
+-!- DOMAIN: The similarity among the IL-1 precursors suggests that the
+    amino ends of these proteins serve some as yet undefined function.
+-!- SIMILARITY: Belongs to the IL-1 family.
+Cytokine; Glycoprotein; Inflammatory response; Mitogen; Pyrogen.
+TMZERO

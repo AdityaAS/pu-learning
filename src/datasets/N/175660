@@ -1,0 +1,20 @@
+AC   Q12455;
+Spermine synthase (EC 2.5.1.22) (Spermidine aminopropyltransferase)
+(SPMSY).
+"Spermine is not essential for growth of Saccharomyces cerevisiae:
+identification of the SPE4 gene (spermine synthase) and
+characterization of a spe4 deletion mutant.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: S-adenosylmethioninamine + spermidine = 5'-
+    methylthioadenosine + spermine.
+-!- PATHWAY: Amine and polyamine biosynthesis; spermine biosynthesis;
+    spermine from spermidine: single step [final step].
+-!- MISCELLANEOUS: Present with 3870 molecules/cell.
+-!- SIMILARITY: Belongs to the spermidine/spermine synthase family.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0016768; F:spermine synthase activity; IMP:SGD.
+ GO:0015940; P:pantothenate biosynthesis; IMP:SGD.
+ GO:0006597; P:spermine biosynthesis; IMP:SGD.
+Complete proteome; Transferase.
+TMZERO

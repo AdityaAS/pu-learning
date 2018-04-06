@@ -1,0 +1,8 @@
+AC   O74438;
+Meiotic coiled-coil protein 2.
+"Coiled-coil project.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- SIMILARITY: Contains 9 pumilio repeats.
+ GO:0005737; C:cytoplasm; IDA:GeneDB_SPombe.
+Complete proteome; Meiosis; Repeat; RNA-binding.
+TMZERO

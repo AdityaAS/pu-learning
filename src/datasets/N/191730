@@ -1,0 +1,18 @@
+AC   P39795; O34517;
+Trehalose-6-phosphate hydrolase (EC 3.2.1.93) (Alpha,alpha-
+phosphotrehalase).
+"Cleavage of trehalose-phosphate in Bacillus subtilis is catalysed by
+a phospho-alpha-(1-1)-glucosidase encoded by the treA gene.";
+"Cloning and sequencing of a 40.6 kb segment in the 73 degrees-76
+degrees region of the Bacillus subtilis chromosome containing genes
+for trehalose metabolism and acetoin utilization.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Purification and characterization of the phospho-
+alpha(1,1)glucosidase (TreA) of Bacillus subtilis 168.";
+-!- CATALYTIC ACTIVITY: Alpha,alpha-trehalose 6-phosphate + H(2)O = D-
+    glucose + D-glucose 6-phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 13 family.
+Complete proteome; Glycosidase; Hydrolase.
+TMZERO

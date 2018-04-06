@@ -1,0 +1,46 @@
+AC   P46889; P77450;
+DNA translocase ftsK.
+"A new Escherichia coli cell division gene, ftsK.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Membrane topology of the N-terminus of the Escherichia coli FtsK
+division protein.";
+"FtsQ, FtsL and FtsI require FtsK, but not FtsN, for co-localization
+with FtsZ during Escherichia coli cell division.";
+"ZipA is required for recruitment of FtsK, FtsQ, FtsL, and FtsN to the
+septal ring in Escherichia coli.";
+"FtsK is a DNA motor protein that activates chromosome dimer
+resolution by switching the catalytic state of the XerC and XerD
+recombinases.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: DNA motor protein, which is both required to move DNA
+    out of the region of the septum during cell division and for the
+    septum formation. Tracks DNA in an ATP-dependent manner by
+    generating positive supercoils in front of it and negative
+    supercoils behind it. Also plays a role in resolution of dimer
+    chromosomes by regulating the xerC and xerD recombination complex,
+    possibly by switching the catalytic state of the two recombinases.
+    Required for the targeting of ftsQ, ftsL and ftsI to the septum.
+-!- SUBUNIT: Homohexamer. This suggests the formation of a ring
+    between the two cells at the septum that surrounds DNA.
+-!- INTERACTION:
+    P0AFG8:aceE; NbExp=1; IntAct=EBI-550795, EBI-542683;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein; cytoplasmic side. Note=Located at the septum. The large
+    C-terminal part of the protein is cytoplasmic. Colocalizes with
+    ftsZ. ZipA is required to target it to the septum.
+-!- DOMAIN: The N-terminus domain is sufficient for the localization
+    to the septal ring.
+-!- DOMAIN: The hexamerization domain is required for the formation of
+    a homohexamer, suggesting the formation of a ring between the two
+    cells that surrounds DNA.
+-!- SIMILARITY: Contains 1 FtsK domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; ATP-binding; Cell cycle; Cell division;
+Chromosome partition; Complete proteome; DNA-binding; Inner membrane;
+Membrane; Nucleotide-binding; Transmembrane.
+TMFIVE

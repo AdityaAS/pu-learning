@@ -1,0 +1,14 @@
+AC   P39886;
+Tetracenomycin C resistance and export protein.
+"Sequence and transcriptional analysis of the Streptomyces glaucescens
+tcmAR tetracenomycin C resistance and repressor gene loci.";
+-!- FUNCTION: Resistance to tetracenomycin C by an active
+    tetracenomycin C efflux system which is probably energized by
+    transmembrane electrochemical gradients.
+-!- PATHWAY: Antibiotic biosynthesis; tetracenomycin C biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. EmrB
+    family.
+Antibiotic biosynthesis; Antibiotic resistance; Membrane;
+Transmembrane; Transport.
+TMFOURTEEN

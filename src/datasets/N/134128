@@ -1,0 +1,15 @@
+AC   Q85FM6;
+Photosystem II reaction center protein M (PSII-M).
+"Complete nucleotide sequence of the chloroplast genome from a
+leptosporangiate fern, Adiantum capillus-veneris L.";
+"High levels of RNA editing in a vascular plant chloroplast genome:
+analysis of transcripts from the fern Adiantum capillus-veneris.";
+-!- FUNCTION: Not known.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; single-pass membrane protein (By similarity).
+-!- RNA EDITING: Modified_positions=1; Note=The initiator methionine
+    is created by RNA editing.
+-!- SIMILARITY: Belongs to the psbM family.
+Chloroplast; Membrane; Photosynthesis; Photosystem II; Plastid;
+RNA editing; Thylakoid; Transmembrane.
+TMONE

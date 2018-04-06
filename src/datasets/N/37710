@@ -1,0 +1,17 @@
+AC   O33579;
+Phosphoadenosine phosphosulfate reductase (EC 1.8.4.8) (PAPS
+reductase, thioredoxin dependent) (PAdoPS reductase) (3'-
+phosphoadenylylsulfate reductase) (PAPS sulfotransferase) (Fragment).
+"Isolation and sequencing of a second Rhizobium tropici CFN299 genetic
+locus that contains genes homologous to amino acid sulphate activation
+genes.";
+-!- FUNCTION: Reduction of activated sulfate into sulfite.
+-!- CATALYTIC ACTIVITY: Adenosine 3',5'-bisphosphate + sulfite +
+    thioredoxin disulfide = 3'-phosphoadenylyl sulfate + thioredoxin.
+-!- PATHWAY: Sulfur metabolism; hydrogen sulfide biosynthesis; sulfite
+    from sulfate: step 3.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the PAPS reductase family. CysH subfamily.
+ GO:0019379; P:sulfate assimilation, phosphoadenylyl sulfa...; IEA:HAMAP.
+Amino-acid biosynthesis; Cysteine biosynthesis; Oxidoreductase.
+TMZERO

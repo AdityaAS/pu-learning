@@ -1,0 +1,24 @@
+AC   P38789;
+Ribosome biogenesis protein SSF1.
+"An essential gene pair in Saccharomyces cerevisiae with a potential
+role in mating.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"Ssf1p prevents premature processing of an early pre-60S ribosomal
+particle.";
+"Functional analysis in yeast of the Brix protein superfamily involved
+in the biogenesis of ribosomes.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Required for biogenesis of the 60S ribosomal subunit.
+-!- SUBUNIT: Part of a complex that includes BRX1, RPF1, RPF2 and SSF1
+    or SSF2.
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus.
+-!- MISCELLANEOUS: Present with 8150 molecules/cell.
+-!- SIMILARITY: Contains 1 Brix domain.
+ GO:0005730; C:nucleolus; IDA:SGD.
+ GO:0019843; F:rRNA binding; IPI:SGD.
+ GO:0000747; P:conjugation with cellular fusion; IGI:SGD.
+ GO:0008361; P:regulation of cell size; IMP:SGD.
+ GO:0000027; P:ribosomal large subunit assembly and mainte...; IMP:SGD.
+Complete proteome; Nuclear protein; Ribosome biogenesis.
+TMZERO

@@ -1,0 +1,15 @@
+AC   Q5G265;
+Neurotrypsin precursor (EC 3.4.21.-) (Serine protease 12).
+"Genetic evidence of a strong functional constraint of neurotrypsin
+during primate evolution.";
+-!- FUNCTION: Plays a role in neuronal plasticity and the proteolytic
+    action may subserve structural reorganizations associated with
+    learning and memory operations (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the peptidase S1 family.
+-!- SIMILARITY: Contains 1 kringle domain.
+-!- SIMILARITY: Contains 1 peptidase S1 domain.
+-!- SIMILARITY: Contains 4 SRCR domains.
+Glycoprotein; Hydrolase; Kringle; Protease; Repeat; Serine protease;
+Signal.
+TMZERO

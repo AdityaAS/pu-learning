@@ -1,0 +1,12 @@
+AC   Q8TUR2;
+Cell division control protein 6 homolog 1 (CDC6 homolog 1).
+"The genome of Methanosarcina acetivorans reveals extensive metabolic
+and physiological diversity.";
+-!- FUNCTION: Might be involved in the initiation of DNA replication.
+-!- PTM: Autophosphorylated (By similarity).
+-!- SIMILARITY: Belongs to the CDC6/cdc18 family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0006260; P:DNA replication; IEA:HAMAP.
+ATP-binding; Complete proteome; DNA replication; Nucleotide-binding;
+Phosphorylation.
+TMZERO

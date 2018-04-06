@@ -1,0 +1,9 @@
+AC   Q8E3X1;
+UPF0298 protein gbs1633.
+"Genome sequence of Streptococcus agalactiae, a pathogen causing
+invasive neonatal disease.";
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the UPF0298 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

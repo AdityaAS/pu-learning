@@ -1,0 +1,34 @@
+AC   Q5DTL9; Q8CFS3; Q9EST0;
+Sodium-driven chloride bicarbonate exchanger (Solute carrier family 4
+member 10).
+"The Na+-driven Cl-/HCO3- exchanger. Cloning, tissue distribution, and
+functional characterization.";
+"Prediction of the coding sequences of mouse homologues of KIAA gene.
+The complete nucleotide sequences of mouse KIAA-homologous cDNAs
+identified by screening of terminal sequences of cDNA clones randomly
+sampled from size-fractionated libraries.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"A SCL4A10 gene product maps selectively to the basolateral plasma
+membrane of choroid plexus epithelial cells.";
+"Comprehensive identification of phosphorylation sites in postsynaptic
+density preparations.";
+-!- FUNCTION: Electrogenic sodium/bicarbonate cotransporter in
+    exchange for intracellular chloride. Plays an important role in
+    regulating intracellular pH.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Note=Localizes to the basolateral membrane (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q5DTL9-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q5DTL9-2; Sequence=VSP_019654;
+-!- TISSUE SPECIFICITY: Expressed in pancreatic islets and in the
+    brain, in the epithelial cells of the choroid plexus.
+-!- SIMILARITY: Belongs to the anion exchanger (TC 2.A.31) family.
+ GO:0006885; P:regulation of pH; IDA:MGI.
+Alternative splicing; Antiport; Ion transport; Membrane;
+Phosphorylation; Sodium; Sodium transport; Symport; Transmembrane;
+Transport.
+TMTWELVE

@@ -1,0 +1,88 @@
+AC   O35240;
+Amiloride-sensitive cation channel 3 (Acid-sensing ion channel 3)
+(ASIC3) (Dorsal root ASIC) (DRASIC).
+"Molecular cloning of a non-inactivating proton-gated Na+ channel
+specific for sensory neurons.";
+"A modulatory subunit of acid sensing ion channels in brain and dorsal
+root ganglion cells.";
+"A sensory neuron-specific, proton-gated ion channel.";
+"The pre-transmembrane 1 domain of acid-sensing ion channels
+participates in the ion pore.";
+"Mammalian ASIC2a and ASIC3 subunits co-assemble into heteromeric
+proton-gated channels sensitive to Gd3+.";
+"Nonsteroid anti-inflammatory drugs inhibit both the activity and the
+inflammation-induced expression of acid-sensing ion channels in
+nociceptors.";
+"Lactate enhances the acid-sensing Na+ channel on ischemia-sensing
+neurons.";
+"Selective modulation of heteromeric ASIC proton-gated channels by
+neuropeptide FF.";
+"Acid-sensing ion channel 3 matches the acid-gated current in cardiac
+ischemia-sensing neurons.";
+"Proinflammatory mediators, stimulators of sensory neuron excitability
+via the expression of acid-sensing ion channels.";
+"Functional implications of the localization and activity of acid-
+sensitive channels in rat peripheral nervous system.";
+"How nerve growth factor drives physiological and inflammatory
+expressions of acid-sensing ion channel 3 in sensory neurons.";
+"Protons open acid-sensing ion channels by catalyzing relief of Ca2+
+blockade.";
+"Effects of neuropeptide SF and related peptides on acid sensing ion
+channel 3 and sensory neuron excitability.";
+"A new sea anemone peptide, APETx2, inhibits ASIC3, a major acid-
+sensitive channel in sensory neurons.";
+"ASIC2b-dependent regulation of ASIC3, an essential acid-sensing ion
+channel subunit in sensory neurons via the partner protein PICK-1.";
+"PSD-95 and Lin-7b interact with acid-sensing ion channel-3 and have
+opposite effects on H+- gated current.";
+-!- FUNCTION: Cation channel with high affinity for sodium, which is
+    gated by extracellular protons and inhibited by the diuretic
+    amiloride. Generates a biphasic current with a fast inactivating
+    and a slow sustained phase. In sensory neurons is proposed to
+    mediate the pain induced by acidosis that occurs in ischemic,
+    damaged or inflamed tissue. May be involved in hyperalgesia. May
+    play a role in mechanoreception. Heteromeric channel assembly
+    seems to modulate channel properties.
+-!- SUBUNIT: Homotetramer or heterotetramer with other ASIC proteins
+    (Probable). Interacts with STOM, LIN7B, MAGI1 and GOPC (By
+    similarity). Interacts with DLG4 and ACCN1.
+-!- INTERACTION:
+    Q9JJ19:Slc9a3r1; NbExp=1; IntAct=EBI-982374, EBI-982391;
+    Q920G2:Slc9a3r2; NbExp=1; IntAct=EBI-982374, EBI-982439;
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Cell membrane;
+    multi-pass membrane protein (By similarity). Note=In part
+    cytoplasmic in cochlea cells (By similarity). Cell surface
+    expression may be stabilized by interaction with LIN7B and
+    cytoplasmic retention by interaction with DLG4.
+-!- TISSUE SPECIFICITY: Expressed in sciatic nerve and dorsal root
+    ganglion (at protein level). Expressed in sensory neurons of
+    dorsal root ganglion. Expressed in Golgi interneurons in the
+    granular layer. Also found in superior cervical ganglia, spinal
+    chord and brain stem.
+-!- DEVELOPMENTAL STAGE: Expression is first detected at E15.5.
+    Strongly expressed perinatally.
+-!- INDUCTION: Transcriptionally regulated by the proinflamatory
+    mediators nerve growth factor, serotonin, interleukin-1 and
+    bradykinin. Up-regulation upon tissues inflammation is abolished
+    by anti-inflammatory drugs.
+-!- DOMAIN: The PDZ domain-binding motif is involved in interaction
+    with LIN7A, GOPC and MAGI1/BAIAP1 (By similarity).
+-!- PTM: Phosphorylated by PKA (By similarity). Phosphorylated by PKC.
+    In vitro, PRKCABP/PICK-1 is necessary for PKC phosphorylation and
+    activation of a ACCN3/ASIC3-ACCN1/ASIC2b channel, but does not
+    activate a homomeric ACCN3/ASIC3 channel.
+-!- MISCELLANEOUS: Potentiated by FMRFamide-related neuropeptides (By
+    similarity). Sensitized and potentiated by NPFF and NPSF.
+    Regulated by lactate and Ca(2+). Specifically inhibited by APETx2,
+    a sea anemone toxin. Inhibited by anti-inflammatory drugs like
+    salicylic acid.
+-!- SIMILARITY: Belongs to the amiloride-sensitive sodium channel
+    family.
+ GO:0005887; C:integral to plasma membrane; IDA:MGI.
+ GO:0015280; F:amiloride-sensitive sodium channel activity; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0001101; P:response to acid; IDA:MGI.
+ GO:0006814; P:sodium ion transport; IDA:MGI.
+Glycoprotein; Ion transport; Ionic channel; Membrane; Phosphorylation;
+Sodium; Sodium channel; Sodium transport; Transmembrane; Transport.
+TMTWO

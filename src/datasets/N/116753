@@ -1,0 +1,30 @@
+AC   O08587;
+Nucleoporin 50 kDa (Nuclear pore-associated protein 60 kDa-like).
+"cDNA cloning and characterization of Npap60: a novel rat nuclear
+pore-associated protein with an unusual subcellular localization
+during male germ cell differentiation.";
+"Nup50, a nucleoplasmically oriented nucleoporin with a role in
+nuclear protein export.";
+-!- FUNCTION: Component of the nuclear pore complex that has a direct
+    role in nuclear protein export. May serve as a binding site on the
+    nuclear side of the pore complex for export receptor-cargo
+    complexes. Interacts with multiple transport receptor proteins
+    including p27Kip1. This interaction is required for correct
+    intracellular transport and degradation of p27Kip1.
+-!- SUBUNIT: Interacts with Importin alpha-2, Importin beta, Importin
+    beta-2, NUP153, Ran binding protein 7, p27Kip1 and itself.
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear pore complex; nucleoplasmic
+    side. Note=Localizes to the nucleoplasmic fibrils of the nuclear
+    pore complex. In the testis, the localization changes during germ
+    cell differentiation. From the nuclear surface in spermatocytes to
+    the whole nucleus (interior) in spermatids and back to the nuclear
+    surface in spermatozoa.
+-!- TISSUE SPECIFICITY: Highly expressed in testis, intermediate
+    levels in kidney, liver, spleen and low basal levels in somatic
+    cells. Expression in testis undergoes changes and subcellular
+    localization during germ cell differentiation.
+-!- DOMAIN: Contains FG repeats.
+-!- SIMILARITY: Contains 1 RanBD1 domain.
+ GO:0005643; C:nuclear pore; IDA:RGD.
+Nuclear protein; Protein transport; Repeat; Transport.
+TMZERO

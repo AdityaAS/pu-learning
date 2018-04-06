@@ -1,0 +1,18 @@
+AC   Q7SGY6;
+Succinate dehydrogenase [ubiquinone] cytochrome b small subunit,
+mitochondrial precursor (CybS) (Succinate-ubiquinone reductase
+membrane anchor subunit).
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- PATHWAY: Carbohydrate metabolism; tricarboxylic acid cycle.
+-!- SUBUNIT: Forms part of complex II containing four subunits: a
+    flavoprotein (FP), an iron-sulfur protein (IP) and a cytochrome b
+    composed of two integral membrane proteins (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the CybS family.
+Electron transport; Heme; Iron; Membrane; Metal-binding;
+Mitochondrion; Transit peptide; Transmembrane; Transport;
+Tricarboxylic acid cycle.
+THTHREE

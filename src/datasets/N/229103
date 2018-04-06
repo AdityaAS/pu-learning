@@ -1,0 +1,18 @@
+AC   P16976;
+GTP-binding protein YPTM1.
+"Molecular cloning and structural analysis of genes from Zea mays (L.)
+coding for members of the ras-related ypt gene family.";
+"Identification of guanine-nucleotide binding proteins in plants:
+structural analysis and evolutionary comparisons of the ras-related
+ypt-gene family from Zea mays.";
+-!- FUNCTION: Protein transport. Probably involved in vesicular
+    traffic (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; cytoplasmic
+    side (Potential).
+-!- TISSUE SPECIFICITY: Low levels in coleoptiles.
+-!- PTM: The palmitic acid is required for membrane attachment and
+    biological function.
+-!- SIMILARITY: Belongs to the small GTPase superfamily. Rab family.
+GTP-binding; Lipoprotein; Membrane; Nucleotide-binding; Palmitate;
+Prenylation; Protein transport; Transport.
+TMZERO

@@ -1,0 +1,16 @@
+AC   O66392;
+Poly-beta-hydroxybutyrate polymerase (EC 2.3.1.-) (Poly(3-
+hydroxybutyrate) polymerase) (PHB polymerase) (PHB synthase) (Poly(3-
+hydroxyalkanoate) polymerase) (PHA polymerase) (PHA synthase)
+(Polyhydroxyalkanoic acid synthase).
+"Poly-beta-hydroxybutyrate turnover in Azorhizobium caulinodans is
+required for growth and affects nifA expression.";
+-!- FUNCTION: Polymerizes d(-)-3-hydroxybutyryl-CoA to create PHB
+    which consists of thousands of hydroxybutyrate molecules linked
+    end to end. PHB serves as an intracellular energy reserve material
+    when cells grow under conditions of nutrient limitation.
+-!- PATHWAY: Poly-beta-hydroxybutyrate biosynthesis; third step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the PHA/PHB synthase family.
+Acyltransferase; PHB biosynthesis; Transferase.
+TMZERO

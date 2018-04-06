@@ -1,0 +1,43 @@
+AC   O60931; Q9UNK6;
+Cystinosin.
+"A novel gene encoding an integral membrane protein is mutated in
+nephropathic cystinosis.";
+"The genomic region encompassing the nephropathic cystinosis gene
+(CTNS): complete sequencing of a 200-kb segment and discovery of a
+novel gene within the common cystinosis-causing deletion.";
+"Identification and detection of the common 65-kb deletion breakpoint
+in the nephropathic cystinosis gene (CTNS).";
+"CTNS mutations in patients with cystinosis.";
+"CTNS mutations in an American-based population of cystinosis
+patients.";
+"Molecular analysis of cystinosis: probable Irish origin of the most
+common French Canadian mutation.";
+"Mutations of CTNS causing intermediate cystinosis.";
+"Severity of phenotype in cystinosis varies with mutations in the CTNS
+gene: predicted effect on the model of cystinosin.";
+-!- FUNCTION: Thought to transport cystine out of lysosomes.
+-!- SUBCELLULAR LOCATION: Lysosome; lysosomal membrane; multi-pass
+    membrane protein.
+-!- TISSUE SPECIFICITY: Strongly expressed in pancreas, kidney (adult
+    and fetal) and in skeletal muscle. Expressed at lower levels in
+    placenta and heart. Weakly expressed in lung, liver and brain
+    (adult and fetal).
+-!- DISEASE: Defects in CTNS are the cause of cystinosis [MIM:219800,
+    219900, 219750]. This autosomal recessive disorder results from
+    defective lysosomal transport of cystine. The classical
+    nephropathic form is characterized by renal failure at 10 years of
+    age and other systemic complications. Milder phenotype exist such
+    as intermediate cystinosis, with later onset of renal disease and
+    benign or non-nephropathic cystinosis, with symptoms related only
+    to corneal crystals and photophobia.
+-!- SIMILARITY: Belongs to the cystinosin family.
+-!- SIMILARITY: Contains 2 PQ-loop domains.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=CTNS".
+ GO:0005765; C:lysosomal membrane; TAS:ProtInc.
+ GO:0015184; F:L-cystine transporter activity; TAS:ProtInc.
+ GO:0006520; P:amino acid metabolism; TAS:ProtInc.
+ GO:0015811; P:L-cystine transport; TAS:ProtInc.
+Disease mutation; Glycoprotein; Lysosome; Membrane; Polymorphism;
+Repeat; Transmembrane; Transport.
+TMSEVEN

@@ -1,0 +1,19 @@
+AC   P43151;
+Putative guanine nucleotide-binding protein subunit alpha.
+"Characterisation and expression of a G-alpha protein gene from
+Leishmania donovani.";
+-!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+    involved as modulators or transducers in various transmembrane
+    signaling systems.
+-!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+    gamma. The alpha chain contains the guanine nucleotide binding
+    site.
+-!- SIMILARITY: In the N-terminal section; belongs to the G-alpha
+    family.
+-!- SIMILARITY: In the C-terminal section; belongs to the class-II
+    aminoacyl-tRNA synthetase family.
+-!- CAUTION: Ref.2 has shown that this sequence seems to be an hybrid
+    that consists of parts of a G protein alpha subunit and a lysyl-
+    tRNA synthetase.
+GTP-binding; Nucleotide-binding; Transducer.
+TMZERO

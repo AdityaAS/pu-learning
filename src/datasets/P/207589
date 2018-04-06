@@ -1,0 +1,26 @@
+AC   P37388; Q2M7N0;
+Xylose import ATP-binding protein xylG (EC 3.6.3.17).
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Utilization of D-ribose through D-xylose transporter.";
+-!- FUNCTION: Part of the ABC transporter complex xylFGH involved in
+    xylose import. Responsible for energy coupling to the transport
+    system (Probable). The xylFGH system can also transport ribose in
+    absence of xylose.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + monosaccharide(Out) = ADP +
+    phosphate + monosaccharide(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (xylG), two transmembrane proteins (xylH) and a solute-binding
+    protein (xylF) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Xylose importer
+    (TC 3.A.1.2.4) subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0015407; F:monosaccharide-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Nucleotide-binding; Repeat; Sugar transport; Transport.
+TMZERO

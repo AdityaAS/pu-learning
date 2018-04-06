@@ -1,0 +1,14 @@
+AC   Q6LZL0;
+Probable tRNA pseudouridine synthase D 2 (EC 5.4.99.-) (tRNA-uridine
+isomerase D 2) (tRNA pseudouridylate synthase D 2).
+"Complete genome sequence of the genetically tractable
+hydrogenotrophic methanogen Methanococcus maripaludis.";
+-!- FUNCTION: Could be responsible for synthesis of pseudouridine from
+    uracil-13 in transfer RNAs (By similarity).
+-!- CATALYTIC ACTIVITY: tRNA uridine = tRNA pseudouridine.
+-!- SIMILARITY: Belongs to the pseudouridine synthase truD family.
+-!- SIMILARITY: Contains 1 TRUD domain.
+ GO:0016439; F:tRNA-pseudouridine synthase activity; IEA:HAMAP.
+ GO:0031119; P:tRNA pseudouridine synthesis; IEA:HAMAP.
+Complete proteome; Isomerase; tRNA processing.
+TMZERO

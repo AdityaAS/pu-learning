@@ -1,0 +1,17 @@
+AC   O34992;
+Glycine betaine/carnitine/choline transport ATP-binding protein opuCA.
+"Two evolutionarily closely related ABC transporters mediate the
+uptake of choline for synthesis of the osmoprotectant glycine betaine
+in Bacillus subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in a high affinity multicomponent binding-
+    protein-dependent transport system for glycine betaine, carnitine
+    and choline; probably responsible for energy coupling to the
+    transport system.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 2 CBS domains.
+Amino-acid transport; ATP-binding; CBS domain; Complete proteome;
+Nucleotide-binding; Repeat; Transport.
+TMZERO

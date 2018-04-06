@@ -1,0 +1,25 @@
+AC   P53788;
+Sodium channel subunit beta-1 precursor.
+"Cloning of the cDNA encoding the sodium channel beta 1 subunit from
+rabbit.";
+-!- FUNCTION: Crucial in the assembly, expression, and functional
+    modulation of the heterotrimeric complex of the sodium channel.
+    The subunit beta-1 can modulate multiple alpha subunit isoforms
+    from brain, skeletal muscle, and heart. Its association with
+    neurofascin may target the sodium channels to the nodes of Ranvier
+    of developing axons and retain these channels at the nodes in
+    mature myelinated axons (By similarity).
+-!- SUBUNIT: The voltage-sensitive sodium channel consists of an ion
+    conducting pore forming alpha-subunit regulated by one or more
+    beta-1, beta-2 and beta-3. Beta-1 and beta-3 are non-covalently
+    associated with alpha, while beta-2 is covalently linked by
+    disulfide bonds. Beta-1 or beta-3 subunits associate with
+    neurofascin. Associates with SCN10A (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- SIMILARITY: Contains 1 Ig-like C2-type (immunoglobulin-like)
+    domain.
+Glycoprotein; Immunoglobulin domain; Ion transport; Ionic channel;
+Membrane; Signal; Sodium; Sodium channel; Sodium transport;
+Transmembrane; Transport; Voltage-gated channel.
+TMONE

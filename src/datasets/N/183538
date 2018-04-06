@@ -1,0 +1,14 @@
+AC   Q8RGA3;
+Tryptophanyl-tRNA synthetase (EC 6.1.1.2) (Tryptophan--tRNA ligase)
+(TrpRS).
+"Genome sequence and analysis of the oral bacterium Fusobacterium
+nucleatum strain ATCC 25586.";
+-!- CATALYTIC ACTIVITY: ATP + L-tryptophan + tRNA(Trp) = AMP +
+    diphosphate + L-tryptophyl-tRNA(Trp).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

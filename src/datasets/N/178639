@@ -1,0 +1,16 @@
+AC   P40418; Q6CUW2;
+Regulatory protein SWI6 (Cell-cycle box factor, chain SWI6) (Trans-
+acting activator of HO endonuclease gene) (MBF subunit P90).
+"A role for the transcription factors Mbp1 and Swi4 in progression
+from G1 to S phase.";
+"Genome evolution in yeasts.";
+-!- FUNCTION: Part of a complex involved in cell-cycle-dependent
+    transcription. SWI4 and SWI6 are required for formation of the
+    cell-cycle box factor-DNA complex. The repeated element in the
+    upstream region of HO (5'-CACGAAAA-3') is called the cell cycle
+    box (CCB).
+-!- SUBUNIT: MBF contains SWI6 and MBP1; SBF contains SWI6 and SWI4.
+-!- SIMILARITY: Contains 2 ANK repeats.
+Activator; ANK repeat; Complete proteome; DNA-binding; Repeat;
+Transcription; Transcription regulation.
+TMZERO

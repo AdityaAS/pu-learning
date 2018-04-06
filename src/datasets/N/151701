@@ -1,0 +1,12 @@
+AC   Q88CU3;
+50S ribosomal protein L31.
+"Complete genome sequence and comparative analysis of the
+metabolically versatile Pseudomonas putida KT2440.";
+-!- FUNCTION: Binds the 23S rRNA (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L31P family. Type A
+    subfamily.
+Complete proteome; Metal-binding; Ribonucleoprotein;
+Ribosomal protein; RNA-binding; rRNA-binding; Zinc.
+TMZERO

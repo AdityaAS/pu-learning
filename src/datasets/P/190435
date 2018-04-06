@@ -1,0 +1,29 @@
+AC   P33448;
+Mitochondrial import receptor subunit TOM6 (Mitochondrial import-site
+protein ISP6) (Translocase of outer membrane 6 kDa subunit).
+"Genetic and biochemical characterization of ISP6, a small
+mitochondrial outer membrane protein associated with the protein
+translocation complex.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Preprotein translocase of the outer mitochondrial membrane: molecular
+dissection and assembly of the general import pore complex.";
+"Multistep assembly of the protein import channel of the mitochondrial
+outer membrane.";
+-!- FUNCTION: Component of the TOM (translocase of outer membrane)
+    receptor complex responsible for the recognition and translocation
+    of cytosolically synthesized mitochondrial preproteins. TOM6 is
+    involved in assembly and stability of the TOM complex.
+-!- SUBUNIT: Forms part of the TOM (translocase of outer membrane)
+    complex that consists of at least 7 different proteins (TOM5,
+    TOM6, TOM7, TOM20, TOM22, TOM40 and TOM70).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the Tom6 family.
+ GO:0005742; C:mitochondrial outer membrane translocase co...; IMP:SGD.
+ GO:0008565; F:protein transporter activity; IMP:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; IMP:SGD.
+Complete proteome; Membrane; Mitochondrion; Outer membrane;
+Protein transport; Transmembrane; Transport.
+TMONE

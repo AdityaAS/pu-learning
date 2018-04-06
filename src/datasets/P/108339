@@ -1,0 +1,43 @@
+AC   Q07932; Q9TWC1;
+Pilosulin-1 precursor (Major allergen Myr p 1) (Myr p I) [Contains:
+Pilosulin-1; Pilosulin-1 65->112; Pilosulin-1 68->112; Pilosulin-1
+71->112; Pilosulin-1 86->112].
+"Molecular cloning and characterization of a major allergen (Myr p I)
+from the venom of the Australian jumper ant, Myrmecia pilosula.";
+"Expression of jumper ant (Myrmecia pilosula) venom allergens: post-
+translational processing of allergen gene products.";
+"Characterisation of major peptides in 'jack jumper' ant venom by mass
+spectrometry.";
+"Molecular cloning and characterization of the major allergen Myr p II
+from the venom of the jumper ant Myrmecia pilosula: Myr p I and Myr p
+II share a common protein leader sequence.";
+"Cytotoxicity of pilosulin 1, a peptide from the venom of the jumper
+ant Myrmecia pilosula.";
+"Flow cytometric analysis of cell killing by the jumper ant venom
+peptide pilosulin 1.";
+"Identification and optimization of an antimicrobial peptide from the
+ant venom toxin pilosulin.";
+"Identification of an IgE-binding determinant of the major allergen
+Myr p I from the venom of the Australian jumper ant Myrmecia
+pilosula.";
+-!- FUNCTION: Has strong cytotoxic and hemolytic activities. Is more
+    potent against mononuclear leukocytes than against granulocytes.
+    The synthesized peptide 57-76 shows a potent and broad spectrum
+    antimicrobial activity against both Gram-positive and Gram-
+    negative bacteria, and also against the fungus C.albicans. Adopts
+    an alpha-helical structure.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- MASS SPECTROMETRY: MW=4938; METHOD=Electrospray; RANGE=68-112;
+    NOTE=Ref.6.
+-!- MASS SPECTROMETRY: MW=5279; METHOD=Electrospray; RANGE=65-112;
+    NOTE=Ref.6.
+-!- MASS SPECTROMETRY: MW=6052; METHOD=Electrospray; RANGE=57-112;
+    NOTE=Ref.6.
+-!- MASS SPECTROMETRY: MW=6067; METHOD=Electrospray; RANGE=57-112;
+    NOTE=Variant (Ref.6).
+-!- ALLERGEN: Causes an allergic reaction in human. Binds to IgE.
+-!- SIMILARITY: Belongs to the pilosulin family.
+Allergen; Antibiotic; Antimicrobial; Cytolysis;
+Direct protein sequencing; Fungicide; Hemolysis; Polymorphism; Signal.
+TMZERO

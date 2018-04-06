@@ -1,0 +1,27 @@
+AC   Q96NT5; Q86T92; Q8TEG3; Q96FL0;
+Heme carrier protein 1.
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of an intestinal heme transporter.";
+-!- FUNCTION: Intestinal heme transporter which mediates heme uptake
+    from the gut lumen into duodenal epithelial cells; the iron is
+    then released from heme and may be transported into the
+    bloodstream. Dietary heme iron is an important nutritional source
+    of iron (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; apical cell membrane; multi-
+    pass membrane protein. Membrane; multi-pass membrane protein.
+    Note=Localizes to the apical membrane of intestinal cells in iron-
+    deficient cells, while it resides in internal cellular
+    compartments in iron-replete animals.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q96NT5-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q96NT5-2; Sequence=VSP_016053;
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Alternative splicing; Glycoprotein; Membrane; Transmembrane;
+Transport.
+TMELEVEN

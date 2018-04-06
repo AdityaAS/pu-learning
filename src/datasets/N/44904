@@ -1,0 +1,35 @@
+AC   Q05762; Q9SIW4;
+Bifunctional dihydrofolate reductase-thymidylate synthase 1 (DHFR-TS
+1) [Includes: Dihydrofolate reductase (EC 1.5.1.3); Thymidylate
+synthase (EC 2.1.1.45)].
+"The origin of the bifunctional dihydrofolate reductase-thymidylate
+synthase isogenes of Arabidopsis thaliana.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+-!- FUNCTION: TS is exclusively involved in de novo dTMP biosynthesis.
+    DHFR can have two different roles depending on the source of
+    dihydrofolate: de novo synthesis of tetrahydrofolate or recycling
+    of the dihydrofolate released as one of the end products of the TS
+    catalyzed reaction.
+-!- CATALYTIC ACTIVITY: 5,6,7,8-tetrahydrofolate + NADP(+) = 7,8-
+    dihydrofolate + NADPH.
+-!- CATALYTIC ACTIVITY: 5,10-methylenetetrahydrofolate + dUMP =
+    dihydrofolate + dTMP.
+-!- PATHWAY: Cofactor biosynthesis; tetrahydrofolate biosynthesis;
+    tetrahydrofolate from 2-amino-4-hydroxy-6-hydroxymethyl-7,8-
+    dihydropteridine diphosphate and 4-aminobenzoate: step 3 [final
+    step].
+-!- SUBUNIT: Heterodimer or homodimer (By similarity).
+-!- MISCELLANEOUS: The reaction catalyzed by this enzyme represents an
+    essential step for de novo glycine and purine synthesis, DNA
+    precursor synthesis, and for the conversion of dUMP to dTMP.
+-!- SIMILARITY: In the N-terminal section; belongs to the
+    dihydrofolate reductase family.
+-!- SIMILARITY: In the C-terminal section; belongs to the thymidylate
+    synthase family.
+Methyltransferase; Multifunctional enzyme; NADP;
+Nucleotide biosynthesis; One-carbon metabolism; Oxidoreductase;
+Transferase.
+TMZERO

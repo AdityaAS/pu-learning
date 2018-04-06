@@ -1,0 +1,13 @@
+AC   Q864F9;
+Melanocyte-stimulating hormone receptor (MSH-R) (Melanotropin
+receptor) (Melanocortin receptor 1) (MC1-R).
+"Evolution of a pigmentation gene, the melanocortin-1 receptor, in
+primates.";
+-!- FUNCTION: Receptor for MSH (alpha, beta and gamma) and ACTH. The
+    activity of this receptor is mediated by G proteins which activate
+    adenylate cyclase (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+G-protein coupled receptor; Glycoprotein; Membrane; Phosphorylation;
+Receptor; Transducer; Transmembrane.
+TMSEVEN

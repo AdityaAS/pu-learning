@@ -1,0 +1,29 @@
+AC   P0A2X7; O54531; P35836;
+Carbamate kinase 1 (EC 2.7.2.2).
+"Carbamate kinase from Enterococcus faecalis and Enterococcus faecium:
+cloning of the genes, studies on the enzyme expressed in Escherichia
+coli, and sequence similarity with N-acetyl-L-glutamate kinase.";
+"Gene structure, organization, expression, and potential regulatory
+mechanisms of arginine catabolism in Enterococcus faecalis.";
+"Role of mobile DNA in the evolution of vancomycin-resistant
+Enterococcus faecalis.";
+-!- FUNCTION: Catalyzes the reversible synthesis of carbamate and ATP
+    from carbamoyl phosphate and ADP. Can also catalyze, although with
+    low efficiency, the phosphorylation of bicarbonate, leading to the
+    formation of carboxyphosphate, an unstable intermediate found in
+    the reactions catalyzed by carbamoyl-phosphate synthase and biotin
+    carboxylase. Can also use acetate.
+-!- CATALYTIC ACTIVITY: ATP + NH(3) + CO(2) = ADP + carbamoyl
+    phosphate.
+-!- ENZYME REGULATION: Inhibited by
+    adenosine(5')pentaphospho(5')adenosine (Ap5A), Ap6A and to a much
+    lower extent by Ap4A.
+-!- PATHWAY: Amino-acid degradation; L-arginine degradation via ADI
+    pathway; CO(2) and NH(3) from L-arginine: step 3 [final step].
+-!- SUBUNIT: Homodimer (predominantly) and homotetramer.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- INDUCTION: By arginine.
+-!- SIMILARITY: Belongs to the carbamate kinase family.
+3D-structure; Arginine metabolism; Complete proteome; Kinase;
+Transferase.
+TMZERO

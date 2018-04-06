@@ -1,0 +1,13 @@
+AC   P68257; Q28225; Q29434;
+Hemoglobin subunit gamma-2 (Hemoglobin gamma-2 chain) (Gamma-2-
+globin).
+"Reduction of two functional gamma-globin genes to one: an
+evolutionary trend in New World monkeys (infraorder Platyrrhini).";
+-!- FUNCTION: Gamma chains make up the fetal hemoglobin F, in
+    combination with alpha chains.
+-!- SUBUNIT: Heterotetramer of two alpha chains and two gamma chains
+    in fetal hemoglobin (Hb F).
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- SIMILARITY: Belongs to the globin family.
+Heme; Iron; Metal-binding; Oxygen transport; Transport.
+TMZERO

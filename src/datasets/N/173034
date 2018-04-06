@@ -1,0 +1,45 @@
+AC   P50532;
+Structural maintenance of chromosomes protein 4 (Chromosome-associated
+protein C) (Chromosome assembly protein XCAP-C).
+"A heterodimeric coiled-coil protein required for mitotic chromosome
+condensation in vitro.";
+"Condensins, chromosome condensation protein complexes containing
+XCAP-C, XCAP-E and a Xenopus homolog of the Drosophila Barren
+protein.";
+"Phosphorylation and activation of 13S condensin by Cdc2 in vitro.";
+"13S condensin actively reconfigures DNA by introducing global
+positive writhe: implications for chromosome condensation.";
+-!- FUNCTION: Central component of the condensin complex, a complex
+    required for conversion of interphase chromatin into mitotic-like
+    condense chromosomes. The condensin complex probably introduces
+    positive supercoils into relaxed DNA in the presence of type I
+    topoisomerases and converts nicked DNA into positive knotted forms
+    in the presence of type II topoisomerase.
+-!- SUBUNIT: Forms an heterodimer with XCAP-E/SMC2. Component of the
+    condensin complex, which contains the XCAP-E/SMC2 and XCAP-C/SMC4
+    heterodimer, and three non SMC subunits that probably regulate the
+    complex: XCAP-H/BRRN1, XCAP-D2/CNAP1 and XCAP-G/CAPG.
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Cytoplasm (By
+    similarity). Note=In interphase cells, the majority of the
+    condensin complex is found in the cytoplasm, while a minority of
+    the complex is associated with chromatin. A subpopulation of the
+    complex however remains associated with chromosome foci in
+    interphase cells. During mitosis, most of the condensin complex is
+    associated with the chromatin. At the onset of prophase, the
+    regulatory subunits of the complex are phosphorylated by CDC2,
+    leading to condensin's association with chromosome arms and to
+    chromosome condensation. Dissociation from chromosomes is observed
+    in late telophase (By similarity).
+-!- DOMAIN: The hinge domain, which separates the large intramolecular
+    coiled coil regions, allows the heterodimerization with XCAP-E,
+    forming a V-shaped heterodimer (By similarity).
+-!- SIMILARITY: Belongs to the SMC family. SMC4 subfamily.
+ GO:0000796; C:condensin complex; ISS:UniProtKB.
+ GO:0005634; C:nucleus; ISS:UniProtKB.
+ GO:0005524; F:ATP binding; ISS:UniProtKB.
+ GO:0046982; F:protein heterodimerization activity; ISS:UniProtKB.
+ GO:0007001; P:chromosome organization and biogenesis (sen...; ISS:UniProtKB.
+ GO:0007076; P:mitotic chromosome condensation; ISS:UniProtKB.
+ATP-binding; Cell cycle; Cell division; Coiled coil; DNA condensation;
+Mitosis; Nuclear protein; Nucleotide-binding.
+TMZERO

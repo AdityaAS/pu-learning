@@ -1,0 +1,78 @@
+AC   P55072; Q969G7;
+Transitional endoplasmic reticulum ATPase (TER ATPase) (15S Mg(2+)-
+ATPase p97 subunit) (Valosin-containing protein) (VCP).
+"Gene expression profiling in the human hypothalamus-pituitary-adrenal
+axis and full-length cDNA cloning.";
+"Sequence analysis of a human P1 clone containing the XRCC9 DNA repair
+gene.";
+"Exploring proteomes and analyzing protein processing by mass
+spectrometric identification of sorted N-terminal peptides.";
+"Characterization of different mRNA types expressed in human brain.";
+"A novel UBA and UBX domain protein that binds polyubiquitin and VCP
+and is a substrate for SAPKs.";
+"A membrane protein complex mediates retro-translocation from the ER
+lumen into the cytosol.";
+"Phosphoproteome analysis of HeLa cells using stable isotope labeling
+with amino acids in cell culture (SILAC).";
+"Immunoaffinity profiling of tyrosine phosphorylation in cancer
+cells.";
+"Recruitment of the p97 ATPase and ubiquitin ligases to the site of
+retrotranslocation at the endoplasmic reticulum membrane.";
+"Multiprotein complexes that link dislocation, ubiquitination, and
+extraction of misfolded proteins from the endoplasmic reticulum
+membrane.";
+"Derlin-2 and Derlin-3 are regulated by the mammalian unfolded protein
+response and are required for ER-associated degradation.";
+-!- FUNCTION: Necessary for the fragmentation of Golgi stacks during
+    mitosis and for their reassembly after mitosis. Involved in the
+    formation of the transitional endoplasmic reticulum (tER). The
+    transfer of membranes from the endoplasmic reticulum to the Golgi
+    apparatus occurs via 50-70 nm transition vesicles which derive
+    from part-rough, part-smooth transitional elements of the
+    endoplasmic reticulum (tER). Vesicle budding from the tER is an
+    ATP-dependent process. The ternary complex containing UFD1L, VCP
+    and NPLOC4 binds ubiquitinated proteins and is necessary for the
+    export of misfolded proteins from the ER to the cytoplasm, where
+    they are degraded by the proteasome. The NPLOC4-UFD1L-VCP complex
+    regulates spindle disassembly at the end of mitosis and is
+    necessary for the formation of a closed nuclear envelope (By
+    similarity).
+-!- SUBUNIT: Homohexamer. Forms a ring-shaped particle of 12.5 nm
+    diameter, that displays 6-fold radial symmetry. Part of a ternary
+    complex containing STX5A, NSFL1C and VCP. NSFL1C forms a
+    homotrimer that binds to one end of a VCP homohexamer. The complex
+    binds to membranes enriched in phosphatidylethanolamine-containing
+    lipids. Interaction with VCIP135 leads to dissociation of the
+    complex via ATP hydrolysis by VCP. Part of a ternary complex
+    containing NPLOC4, UFD1L and VCP (By similarity). Interacts with
+    SELS/VIMP, as well as with DERL1, DERL2 and DERL3; which probably
+    transfer misfolded proteins from the ER to VCP. Interacts with
+    SVIP. Component of a complex required to couple
+    retrotranslocation, ubiquitination and deglycosylation composed of
+    NGLY1, SAKS1, AMFR, VCP and RAD23B (By similarity).
+-!- INTERACTION:
+    Q14191:WRN; NbExp=1; IntAct=EBI-355164, EBI-368417;
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- PTM: Phosphorylated by tyrosine kinases in response to T-cell
+    antigen receptor activation (By similarity).
+-!- SIMILARITY: Belongs to the AAA ATPase family.
+ GO:0005829; C:cytosol; IDA:UniProtKB.
+ GO:0005783; C:endoplasmic reticulum; IDA:UniProtKB.
+ GO:0005792; C:microsome; ISS:UniProtKB.
+ GO:0005634; C:nucleus; IDA:UniProtKB.
+ GO:0005524; F:ATP binding; IC:UniProtKB.
+ GO:0016887; F:ATPase activity; TAS:UniProtKB.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0006919; P:caspase activation; ISS:UniProtKB.
+ GO:0006302; P:double-strand break repair; IDA:UniProtKB.
+ GO:0030433; P:ER-associated protein catabolism; TAS:UniProtKB.
+ GO:0045184; P:establishment of protein localization; TAS:UniProtKB.
+ GO:0016567; P:protein ubiquitination; NAS:UniProtKB.
+ GO:0042981; P:regulation of apoptosis; TAS:UniProtKB.
+ GO:0030970; P:retrograde protein transport, ER to cytosol; IDA:UniProtKB.
+ GO:0030968; P:unfolded protein response; TAS:UniProtKB.
+Acetylation; ATP-binding; Direct protein sequencing;
+Endoplasmic reticulum; Golgi apparatus; Lipid-binding;
+Nuclear protein; Nucleotide-binding; Phosphorylation; Repeat;
+Transport; Ubl conjugation pathway.
+TMZERO

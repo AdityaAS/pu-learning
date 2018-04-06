@@ -1,0 +1,53 @@
+AC   O95490; O94882; Q5VX76; Q9UKY5; Q9UKY6;
+Latrophilin-2 precursor (Calcium-independent alpha-latrotoxin receptor
+2) (Latrophilin homolog 1) (Lectomedin-1).
+"Isolation and characterisation of a human homologue of the
+latrophilin gene from a region of 1p31.1 implicated in breast
+cancer.";
+"Genomic structure and expression profile of LPHH1, a 7TM gene
+variably expressed in breast cancer cell lines.";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"Prediction of the coding sequences of unidentified human genes. XI.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+-!- FUNCTION: Calcium-independent receptor of low affinity for alpha-
+    latrotoxin, an excitatory neurotoxin present in black widow spider
+    venom which triggers massive exocytosis from neurons and
+    neuroendocrine cells. Receptor propably implicated in the
+    regulation of exocytosis (By similarity).
+-!- SUBUNIT: Forms a heterodimer, consisting of a large extracellular
+    region (p120) non-covalently linked to a seven-transmembrane
+    moiety (p85) (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=O95490-1; Sequence=Displayed;
+    Name=2; Synonyms=Lectomedin-1 gamma;
+      IsoId=O95490-2; Sequence=VSP_010104, VSP_010107;
+    Name=3; Synonyms=Lectomedin-1 beta;
+      IsoId=O95490-3; Sequence=VSP_010104, VSP_010105, VSP_010106;
+    Name=4; Synonyms=Lectomedin-1 alpha;
+      IsoId=O95490-4; Sequence=VSP_010104, VSP_010107, VSP_010108,
+                               VSP_010109;
+-!- TISSUE SPECIFICITY: Expressed very widely in all normal tissues
+    tested. Expression is variable in tumor cell lines, apparently
+    elevated in some lines and absent or markedly reduced in others.
+-!- PTM: Proteolytically cleaved into 2 subunits, an extracellular
+    subunit and a seven-transmembrane subunit (By similarity).
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 2 family.
+    LN-TM7 subfamily.
+-!- SIMILARITY: Contains 1 GPS domain.
+-!- SIMILARITY: Contains 1 olfactomedin-like domain.
+-!- SIMILARITY: Contains 1 SUEL-type lectin domain.
+-!- WEB RESOURCE: NAME=Atlas of Genetics and Cytogenetics in Oncology
+    and Haematology;
+    URL="http://atlasgeneticsoncology.org/Genes/LPHH1ID313.html".
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0004930; F:G-protein coupled receptor activity; TAS:GDB.
+ GO:0016524; F:latrotoxin receptor activity; NAS:UniProtKB.
+ GO:0007186; P:G-protein coupled receptor protein signalin...; NAS:UniProtKB.
+Alternative splicing; G-protein coupled receptor; Glycoprotein;
+Lectin; Membrane; Phosphorylation; Receptor; Signal; Transducer;
+Transmembrane.
+TMSEVEN

@@ -1,0 +1,13 @@
+AC   P28809;
+MmsAB operon regulatory protein.
+"Characterization of the mmsAB operon of Pseudomonas aeruginosa PAO
+encoding methylmalonate-semialdehyde dehydrogenase and 3-
+hydroxyisobutyrate dehydrogenase.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Regulatory protein for the mmsAB operon. Activates the
+    transcription of the mmsAB genes.
+-!- SIMILARITY: Contains 1 HTH araC/xylS-type DNA-binding domain.
+Activator; Complete proteome; DNA-binding; Transcription;
+Transcription regulation.
+TMZERO

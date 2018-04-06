@@ -1,0 +1,14 @@
+AC   P01734;
+T-cell receptor beta chain V region 3H.25 precursor.
+"Rearranged beta T cell receptor genes in a helper T cell clone
+specific for lysozyme: no correlation between V beta and MHC
+restriction.";
+-!- MISCELLANEOUS: This T-cell clone expresses only a single V-beta
+    chain segment although it has three rearrangements in the beta
+    chain family.
+-!- MISCELLANEOUS: This rearranged V-beta chain segment, specific for
+    chicken egg-white lysozyme and I-A(b), is the same as that
+    expressed in a T-helper cell specific for cytochrome C and an I-
+    E(k) MHC molecule.
+Immunoglobulin domain; Receptor; Signal.
+TMZERO

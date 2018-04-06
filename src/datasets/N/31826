@@ -1,0 +1,15 @@
+AC   P30612;
+Cytochrome P450 52C1 (EC 1.14.14.-) (CYPLIIC1) (Alkane-inducible P450-
+ALK7).
+"Identification and characterization of additional members of the
+cytochrome P450 multigene family CYP52 of Candida tropicalis.";
+-!- FUNCTION: Together with an NADPH cytochrome P450 the enzyme system
+    catalyzes the terminal hydroxylation as the first step in the
+    assimilation of alkanes and fatty acids.
+-!- CATALYTIC ACTIVITY: Hydroxylation of N-alkanes at the terminal
+    position.
+-!- INDUCTION: By various alkanes.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+Heme; Iron; Membrane; Metal-binding; Monooxygenase; Oxidoreductase;
+Transmembrane.
+TMONE

@@ -1,0 +1,29 @@
+AC   P13509; P94141; Q1LAI5; Q44010;
+Cobalt-zinc-cadmium resistance protein czcC precursor (Cation efflux
+system protein czcC).
+"Expression and nucleotide sequence of a plasmid-determined divalent
+cation efflux system from Alcaligenes eutrophus.";
+"Sequence and features of the Ralstonia metallidurans CH34 heavy
+metals plasmids pMOL28 and pMOL30.";
+"Complete sequence of plasmid pMOL30 of Ralstonia metallidurans
+CH34.";
+"The czc operon of Alcaligenes eutrophus CH34: from resistance
+mechanism to the removal of heavy metals.";
+-!- FUNCTION: CzcC protein appears to modify the specificity of the
+    system, perhaps by acting on the czcB protein. When the czcC
+    protein is added to czcA and czcB, the efflux system gains
+    specificity for cadmium and cobalt.
+-!- SUBCELLULAR LOCATION: Cell outer membrane (Potential).
+-!- INDUCTION: By zinc, cadmium and cobalt (zinc being the best and
+    cobalt being the worst inducer).
+-!- BIOTECHNOLOGY: In the presence of 2 mM Cd(2+) or 4-10 mM Zn(2+) up
+    to 99% of the metal is removed from the culture supernatant and is
+    sequestered via bioprecipitation. Additionally Cu(2+), Co(2+),
+    Ni(2+), Pb(2+), Y(3+) and Ge(4+) can also be removed from culture
+    supernatants, although it is not clear which efflux system is
+    responsible for all these substrates (Ref.4).
+-!- SIMILARITY: Belongs to the outer membrane factor (OMF) (TC 1.B.17)
+    family.
+Cadmium resistance; Cobalt; Complete proteome; Membrane;
+Outer membrane; Plasmid; Signal; Transport; Zinc.
+TMZERO

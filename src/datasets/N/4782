@@ -1,0 +1,13 @@
+AC   Q92FR2;
+Putative agrB-like protein (EC 3.4.-.-).
+"Comparative genomics of Listeria species.";
+-!- FUNCTION: May be involved in the proteolytic processing of a
+    quorum sensing system signal molecule precursor (Potential).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the agrB family.
+ GO:0008233; F:peptidase activity; IEA:HAMAP.
+ GO:0009372; P:quorum sensing; IEA:HAMAP.
+Complete proteome; Hydrolase; Membrane; Protease; Quorum sensing;
+Transmembrane.
+TMFIVE

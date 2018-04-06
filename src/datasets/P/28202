@@ -1,0 +1,21 @@
+AC   Q14028; Q14029;
+Cyclic nucleotide-gated cation channel 4 (CNG channel 4) (CNG-4)
+(CNG4) (Cyclic nucleotide-gated cation channel modulatory subunit).
+"A new subunit of the cyclic nucleotide-gated cation channel in
+retinal rods.";
+-!- SUBUNIT: Heterooligomeric complex with CNG1.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=RCNC2B;
+      IsoId=Q14028-1; Sequence=Displayed;
+    Name=RCNC2A;
+      IsoId=Q14028-2; Sequence=VSP_001110;
+-!- SIMILARITY: Belongs to the cyclic nucleotide-gated cation channel
+    (TC 1.A.1.5) family.
+-!- SIMILARITY: Contains 1 cyclic nucleotide-binding domain.
+ GO:0017071; C:intracellular cyclic nucleotide activated c...; NAS:UniProtKB.
+ GO:0005222; F:intracellular cAMP activated cation channel...; NAS:UniProtKB.
+Alternative splicing; cAMP; cAMP-binding; Ion transport;
+Ionic channel; Membrane; Nucleotide-binding; Transmembrane; Transport.
+TMSIX

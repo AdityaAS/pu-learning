@@ -1,0 +1,9 @@
+AC   P20126;
+RNA replicase polyprotein (EC 2.7.7.48).
+"Nucleotide sequence of the genome of eggplant mosaic tymovirus.";
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SIMILARITY: Contains 1 RdRp catalytic domain.
+ATP-binding; Nucleotide-binding; Nucleotidyltransferase;
+RNA replication; RNA-directed RNA polymerase; Transferase.
+TMZERO

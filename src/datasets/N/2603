@@ -1,0 +1,25 @@
+AC   Q9R0H0; O35616; Q3TDG0;
+Acyl-coenzyme A oxidase 1, peroxisomal (EC 1.3.3.6) (Palmitoyl-CoA
+oxidase) (AOX).
+"cDNA cloning and analysis of tissue-specific expression of mouse
+peroxisomal straight-chain acyl-CoA oxidase.";
+"The transcriptional landscape of the mammalian genome.";
+"Substrate and functional diversity of lysine acetylation revealed by
+a proteomics survey.";
+-!- FUNCTION: Catalyzes the desaturation of very long chain acyl-CoAs
+    to 2-trans-enoyl-CoAs (By similarity).
+-!- CATALYTIC ACTIVITY: Acyl-CoA + O(2) = trans-2,3-dehydroacyl-CoA +
+    H(2)O(2).
+-!- COFACTOR: FAD (By similarity).
+-!- PATHWAY: Peroxisomal fatty acid beta-oxidation system; first step.
+-!- SUBCELLULAR LOCATION: Peroxisome (By similarity).
+-!- SIMILARITY: Belongs to the acyl-CoA oxidase family.
+ GO:0005739; C:mitochondrion; IDA:MGI.
+ GO:0005778; C:peroxisomal membrane; IDA:MGI.
+ GO:0005777; C:peroxisome; TAS:MGI.
+ GO:0003997; F:acyl-CoA oxidase activity; TAS:MGI.
+ GO:0006635; P:fatty acid beta-oxidation; TAS:MGI.
+ GO:0007283; P:spermatogenesis; IMP:MGI.
+Acetylation; FAD; Fatty acid metabolism; Flavoprotein;
+Lipid metabolism; Oxidoreductase; Peroxisome.
+TMZERO

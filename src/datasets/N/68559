@@ -1,0 +1,16 @@
+AC   Q9V0I6;
+GMP synthase [glutamine-hydrolyzing] subunit A (EC 6.3.5.2) (Glutamine
+amidotransferase).
+"An integrated analysis of the genome of the hyperthermophilic
+archaeon Pyrococcus abyssi.";
+-!- FUNCTION: Catalyzes the synthesis of GMP from XMP (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + xanthosine 5'-phosphate + L-glutamine +
+    H(2)O = AMP + diphosphate + GMP + L-glutamate.
+-!- PATHWAY: Nucleotide biosynthesis; GMP biosynthesis; GMP from XMP
+    (glutamine route): single step [final step].
+-!- SUBUNIT: Heterodimer composed of a glutamine amidotransferase
+    subunit (A) and a GMP-binding subunit (B) (Potential).
+-!- SIMILARITY: Contains 1 glutamine amidotransferase type-1 domain.
+Complete proteome; Glutamine amidotransferase; GMP biosynthesis;
+Ligase; Purine biosynthesis.
+TMZERO

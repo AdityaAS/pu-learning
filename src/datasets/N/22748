@@ -1,0 +1,27 @@
+AC   P25063; Q16257;
+Signal transducer CD24 precursor.
+"CD24, a signal transducer modulating B cell activation responses, is
+a very short peptide with a glycosyl phosphatidylinositol membrane
+anchor.";
+"CD24, a signal-transducing molecule expressed on human B cells, is a
+major surface antigen on small cell lung carcinomas.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Mapping of CD24 and homologous sequences to multiple chromosomal
+loci.";
+-!- FUNCTION: Modulates B-cell activation responses. Signaling could
+    be triggered by the binding of a lectin-like ligand to the CD24
+    carbohydrates, and transduced by the release of second messengers
+    derived from the GPI-anchor. Promotes AG-dependent proliferation
+    of B-cells, and prevents their terminal differentiation into
+    antibody-forming cells.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor.
+-!- TISSUE SPECIFICITY: B-cells.
+-!- INDUCTION: Expression is lost when primary B-cells are induced to
+    differentiate in antibody-forming cells.
+-!- PTM: Extensively O-glycosylated.
+-!- SIMILARITY: Belongs to the CD24 family.
+ GO:0005886; C:plasma membrane; NAS:ProtInc.
+ GO:0006959; P:humoral immune response; TAS:ProtInc.
+Glycoprotein; GPI-anchor; Lipoprotein; Membrane; Polymorphism; Signal.
+TMZERO

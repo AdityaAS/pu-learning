@@ -1,0 +1,26 @@
+AC   Q9KNA8;
+Deoxyribodipyrimidine photo-lyase (EC 4.1.99.3) (DNA photolyase)
+(Photoreactivating enzyme).
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+"Purification and characterization of three members of the
+photolyase/cryptochrome family blue-light photoreceptors from Vibrio
+cholerae.";
+-!- FUNCTION: Involved in repair of UV radiation-induced DNA damage.
+    Catalyzes the light-dependent monomerization (300-600 nm) of
+    cyclobutyl pyrimidine dimers (in cis-syn configuration), which are
+    formed between adjacent bases on the same DNA strand upon exposure
+    to ultraviolet radiation.
+-!- CATALYTIC ACTIVITY: Cyclobutadipyrimidine (in DNA) = 2 pyrimidine
+    residues (in DNA).
+-!- COFACTOR: Binds 1 FAD per subunit.
+-!- COFACTOR: Binds 1 5,10-methenyltetrahydrofolate non-covalently per
+    subunit. The occupancy is 0.2. Usually had equal molar flavin and
+    folate.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SIMILARITY: Belongs to the DNA photolyase class-1 family.
+-!- SIMILARITY: Contains 1 DNA photolyase domain.
+ GO:0003904; F:deoxyribodipyrimidine photo-lyase activity; IEA:EC.
+Chromophore; Complete proteome; DNA damage; DNA repair; DNA-binding;
+FAD; Flavoprotein; Lyase.
+TMZERO

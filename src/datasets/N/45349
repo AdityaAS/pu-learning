@@ -1,0 +1,17 @@
+AC   Q5XHB2;
+Dual specificity protein phosphatase 22 (EC 3.1.3.48) (EC 3.1.3.16).
+-!- FUNCTION: Activates the Jnk signaling pathway. Dephosphorylates
+    and deactivates p38 and stress-activated protein kinase /c-Jun N-
+    terminal kinase (SAPK/JNK) (By similarity).
+-!- CATALYTIC ACTIVITY: Protein tyrosine phosphate + H(2)O = protein
+    tyrosine + phosphate.
+-!- CATALYTIC ACTIVITY: A phosphoprotein + H(2)O = a protein +
+    phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- SIMILARITY: Belongs to the protein-tyrosine phosphatase family.
+    Non-receptor class dual specificity subfamily.
+-!- SIMILARITY: Contains 1 tyrosine-protein phosphatase domain.
+ GO:0004725; F:protein tyrosine phosphatase activity; IEA:EC.
+Hydrolase; Nuclear protein; Protein phosphatase.
+TMZERO

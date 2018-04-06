@@ -1,0 +1,18 @@
+AC   Q6N734;
+Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6) (L/F-
+transferase) (Leucyltransferase) (Phenyalanyltransferase).
+"Complete genome sequence of the metabolically versatile
+photosynthetic bacterium Rhodopseudomonas palustris.";
+-!- FUNCTION: Functions in the N-end rule pathway of protein
+    degradation where it conjugates Leu, Phe and, less efficiently,
+    Met from aminoacyl-tRNAs to the N-termini of proteins containing
+    an N-terminal arginine or lysine (By similarity).
+-!- CATALYTIC ACTIVITY: L-leucyl-tRNA + protein = tRNA + L-leucyl-
+    protein.
+-!- CATALYTIC ACTIVITY: L-phenylalanyl-tRNA + protein = tRNA + L-
+    phenylalanyl-protein.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the L/F-transferase family.
+ GO:0008914; F:leucyltransferase activity; IEA:HAMAP.
+Acyltransferase; Complete proteome; Transferase.
+TMZERO

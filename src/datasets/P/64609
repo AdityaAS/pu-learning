@@ -1,0 +1,25 @@
+AC   P37902; P41408; P77612; Q9R7T1; Q9R7T3;
+Glutamate/aspartate periplasmic-binding protein precursor.
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Sequence and characterisation of three genes of a glutamate-aspartate
+binding protein-dependent transport system of Escherichia coli K12.";
+"Enrichment of low abundance proteins of Escherichia coli by
+hydroxyapatite chromatography.";
+"Purification and properties of a periplasmic glutamate-aspartate
+binding protein from Escherichia coli K12 strain W3092.";
+"Interactions of a glutamate-aspartate binding protein with the
+glutamate transport system of Escherichia coli.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for glutamate and aspartate. Binds to both aspartate and
+    glutamate.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Amino-acid transport; Complete proteome; Direct protein sequencing;
+Periplasmic; Signal; Transport.
+TMZERO

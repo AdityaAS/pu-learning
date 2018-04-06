@@ -1,0 +1,24 @@
+AC   Q12165;
+ATP synthase delta chain, mitochondrial precursor (EC 3.6.3.14).
+"ATP synthase of yeast mitochondria. Isolation of the F1 delta
+subunit, sequence and disruption of the structural gene.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane. May be involved in the stability of
+    the catalytic sector.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- SIMILARITY: Belongs to the ATPase epsilon chain family.
+ GO:0005756; C:proton-transporting ATP synthase, central s...; IMP:SGD.
+ GO:0015986; P:ATP synthesis coupled proton transport; IMP:SGD.
+ATP synthesis; CF(1); Complete proteome; Direct protein sequencing;
+Hydrogen ion transport; Hydrolase; Ion transport; Mitochondrion;
+Transit peptide; Transport.
+TMZERO

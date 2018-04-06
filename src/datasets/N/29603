@@ -1,0 +1,18 @@
+AC   Q96Y25;
+Cobalamin synthase (EC 2.-.-.-).
+"Complete genome sequence of an aerobic thermoacidophilic
+Crenarchaeon, Sulfolobus tokodaii strain7.";
+-!- FUNCTION: Joins Ado-cobinamide-GDP and alpha-ribazole to generate
+    adenosylcobalamin (Ado-cobalamin) (By similarity).
+-!- CATALYTIC ACTIVITY: GDP-cobinamide + alpha-ribazole = cobalamin +
+    GMP.
+-!- PATHWAY: Cofactor biosynthesis; adenosylcobalamin biosynthesis;
+    adenosylcobalamin from cob(II)yrinic acid a,c-diamide: step 7
+    [final step].
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the cobS family.
+ GO:0015420; F:cobalamin-transporting ATPase activity; IEA:HAMAP.
+Cobalamin biosynthesis; Complete proteome; Membrane; Transferase;
+Transmembrane.
+TMFIVE

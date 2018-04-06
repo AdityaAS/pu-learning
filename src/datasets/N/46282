@@ -1,0 +1,47 @@
+AC   Q61502;
+Transcription factor E2F5 (E2F-5).
+"Molecular and functional characterisation of E2F-5, a new member of
+the E2F family.";
+"Expression patterns of the E2F family of transcription factors during
+mouse nervous system development.";
+"Expression patterns of the E2F family of transcription factors during
+murine epithelial development.";
+-!- FUNCTION: Transcriptional activator that binds to E2F sites, these
+    sites are present in the promoter of many genes whose products are
+    involved in cell proliferation. May mediate growth factor-
+    initiated signal transduction.
+-!- SUBUNIT: Component of the DRTF1/E2F transcription factor complex.
+    Binds cooperatively with DP-1 to E2F sites. Interacts
+    preferentially with retinoblastoma-related pocket proteins p130
+    and to a lesser extent with p107, that inhibit the E2F
+    transactivation domain.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- DEVELOPMENTAL STAGE: In the developing epidermis, first detected
+    in 13.5-14.5 dpc embryos. With the appearance of stratified
+    epithelium, levels of E2F-5 expression increase and by 16.5 dpc,
+    high expression found in the suprabasal cell layers. High
+    expression also found in other regions with stratified squamous
+    epithelia including the developing palate, lip and tongue. In the
+    developing nervous system, first detected in the forebrain at 9.5
+    dpc. At 10.5 dpc, strongly expressed in the rostral region of the
+    spinal cord. By 11.5 dpc, E2F-5 is expressed throughout the
+    developing central nervous system. In 12.5-15.5 dpc embryos,
+    expression found in the undifferentiated ventricular regions of
+    the brain. In the retina, expressed, in 14.5-18.5 dpc embryos, in
+    the retinoblastic cell layer. In other developing tissues, highly
+    expressed in the choroid plexus. Also found in the kidney, liver,
+    lung, heart and weakly, in developing skeletal muscle and
+    chondrocytes.
+-!- SIMILARITY: Belongs to the E2F/DP family.
+ GO:0005737; C:cytoplasm; IDA:MGI.
+ GO:0005635; C:nuclear envelope; TAS:MGI.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:MGI.
+ GO:0003700; F:transcription factor activity; IDA:MGI.
+ GO:0000082; P:G1/S transition of mitotic cell cycle; TAS:MGI.
+ GO:0009887; P:organ morphogenesis; IMP:MGI.
+ GO:0000074; P:regulation of progression through cell cycle; TAS:MGI.
+ GO:0006355; P:regulation of transcription, DNA-dependent; IDA:MGI.
+Activator; DNA-binding; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

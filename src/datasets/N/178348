@@ -1,0 +1,18 @@
+AC   P57955;
+5'-nucleotidase surE (EC 3.1.3.5) (Nucleoside 5'-monophosphate
+phosphohydrolase).
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- FUNCTION: Nucleotidase that shows phosphatase activity on
+    nucleoside 5'-monophosphates (By similarity).
+-!- CATALYTIC ACTIVITY: A 5'-ribonucleotide + H(2)O = a ribonucleoside
+    + phosphate.
+-!- COFACTOR: Binds 1 divalent metal cation per subunit (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the surE nucleotidase family.
+ GO:0008254; F:3'-nucleotidase activity; IEA:HAMAP.
+ GO:0008253; F:5'-nucleotidase activity; IEA:HAMAP.
+ GO:0004309; F:exopolyphosphatase activity; IEA:HAMAP.
+ GO:0046872; F:metal ion binding; IEA:HAMAP.
+Complete proteome; Hydrolase; Metal-binding; Nucleotide-binding.
+TMZERO

@@ -1,0 +1,32 @@
+AC   P18428; O43438; Q92672; Q9H403; Q9UD66;
+Lipopolysaccharide-binding protein precursor (LBP).
+"Structure and function of lipopolysaccharide binding protein.";
+"Bactericidal/permeability-increasing protein and lipopolysaccharide
+(LPS)-binding protein. LPS binding properties and effects on LPS-
+mediated cell activation.";
+"The genomic organization of the genes for human lipopolysaccharide
+binding protein (LBP) and bactericidal permeability increasing protein
+(BPI) is highly conserved.";
+"Similar organization of the lipopolysaccharide-binding protein (LBP)
+and phospholipid transfer protein (PLTP) genes suggests a common gene
+family of lipid-binding proteins.";
+"Cloning and sequencing of human lipopolysaccharide-binding protein
+gene.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"Cloning and characterization of the human LBP upstream sequence.";
+"The BPI/LBP family of proteins: a structural analysis of conserved
+regions.";
+-!- FUNCTION: Binds to the lipid A moiety of bacterial
+    lipopolysaccharides (LPS), a glycolipid present in the outer
+    membrane of all Gram-negative bacteria. The LBP/LPS complex seems
+    to interact with the CD14 receptor.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the BPI/LBP/Plunc superfamily. BPI/LBP
+    family.
+ GO:0005576; C:extracellular region; NAS:UniProtKB.
+ GO:0005615; C:extracellular space; TAS:ProtInc.
+ GO:0006953; P:acute-phase response; TAS:ProtInc.
+ GO:0006968; P:cellular defense response; TAS:ProtInc.
+Antibiotic; Antimicrobial; Glycoprotein; Lipid transport; Membrane;
+Polymorphism; Signal; Transmembrane; Transport.
+TMZERO

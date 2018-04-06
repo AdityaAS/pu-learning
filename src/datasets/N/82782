@@ -1,0 +1,37 @@
+AC   P04088; Q8MIM0;
+Inhibin beta B chain precursor (Activin beta-B chain).
+"Molecular cloning of the porcine inhibin-beta B precursor subunit
+gene and reassignment to chromosome 15.";
+"Complementary DNA sequences of ovarian follicular fluid inhibin show
+precursor structure and homology with transforming growth factor-
+beta.";
+"Isolation and characterization of native activin B.";
+-!- FUNCTION: Inhibins and activins inhibit and activate,
+    respectively, the secretion of follitropin by the pituitary gland.
+    Inhibins/activins are involved in regulating a number of diverse
+    functions such as hypothalamic and pituitary hormone secretion,
+    gonadal hormone secretion, germ cell development and maturation,
+    erythroid differentiation, insulin secretion, nerve cell survival,
+    embryonic axial development or bone growth, depending on their
+    subunit composition. Inhibins appear to oppose the functions of
+    activins.
+-!- SUBUNIT: Dimeric, linked by one or more disulfide bonds. Inhibin A
+    is a dimer of alpha and beta-A. Inhibin B is a dimer of alpha and
+    beta-B. Activin A is a homodimer of beta-A. Activin B is a
+    homodimer of beta-B. Activin AB is a dimer of beta-A and beta-B.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the TGF-beta family.
+ GO:0005576; C:extracellular region; ISS:UniProtKB.
+ GO:0005125; F:cytokine activity; ISS:UniProtKB.
+ GO:0046789; F:host cell surface receptor binding; ISS:UniProtKB.
+ GO:0005515; F:protein binding; ISS:UniProtKB.
+ GO:0042803; F:protein homodimerization activity; ISS:UniProtKB.
+ GO:0006952; P:defense response; ISS:UniProtKB.
+ GO:0046882; P:negative regulation of follicle-stimulating...; ISS:UniProtKB.
+ GO:0048178; P:negative regulation of hepatocyte growth fa...; ISS:UniProtKB.
+ GO:0001541; P:ovarian follicle development; ISS:UniProtKB.
+ GO:0046881; P:positive regulation of follicle-stimulating...; ISS:UniProtKB.
+ GO:0009605; P:response to external stimulus; ISS:UniProtKB.
+Direct protein sequencing; Glycoprotein; Growth factor; Hormone;
+Signal.
+TMZERO

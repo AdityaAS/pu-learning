@@ -1,0 +1,25 @@
+AC   P00157; Q8SE06;
+Cytochrome b.
+"Complete sequence of bovine mitochondrial DNA. Conserved features of
+the mammalian mitochondrial genome.";
+"Evolution of the cytochrome b gene of mammals.";
+"Bos taurus mitochondrial protein coding regions.";
+"Crystal structure of the cytochrome bc1 complex from bovine heart
+mitochondria.";
+"Complete structure of the 11-subunit bovine mitochondrial cytochrome
+bc1 complex.";
+-!- FUNCTION: Component of the ubiquinol-cytochrome c reductase
+    complex (complex III or cytochrome b-c1 complex), which is a
+    respiratory chain that generates an electrochemical potential
+    coupled to ATP synthesis.
+-!- COFACTOR: Binds 2 heme groups non-covalently.
+-!- SUBUNIT: The bc1 complex contains 11 subunits; 3 respiratory
+    subunits (cytochrome b, cytochrome c1, Rieske protein), 2 core
+    proteins and 6 low-molecular weight proteins.
+-!- MISCELLANEOUS: Heme 1 (or BL or b562) is low-potential and absorbs
+    at about 562 nm, and heme 2 (or BH or b566) is high-potential and
+    absorbs at about 566 nm.
+-!- SIMILARITY: Belongs to the cytochrome b family.
+3D-structure; Electron transport; Heme; Iron; Membrane; Metal-binding;
+Mitochondrion; Respiratory chain; Transmembrane; Transport.
+TMZERO

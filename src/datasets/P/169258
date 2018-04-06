@@ -1,0 +1,14 @@
+AC   P36634;
+Peptide transport periplasmic protein sapA precursor.
+"Molecular genetic analysis of a locus required for resistance to
+antimicrobial peptides in Salmonella typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Involved in a peptide intake transport system that plays
+    a role in the resistance to antimicrobial peptides.
+-!- SUBCELLULAR LOCATION: Periplasm (Probable).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 5
+    family.
+Complete proteome; Peptide transport; Periplasmic; Protein transport;
+Signal; Transport.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q9U4X3;
+Superoxide dismutase [Cu-Zn] (EC 1.15.1.1).
+"Phylogenetic analysis of Drosophila melanogaster group based on Cu-Zn
+superoxide dismutase gene sequences.";
+-!- FUNCTION: Destroys radicals which are normally produced within the
+    cells and which are toxic to biological systems.
+-!- CATALYTIC ACTIVITY: 2 superoxide + 2 H(+) = O(2) + H(2)O(2).
+-!- COFACTOR: Binds 1 copper ion per subunit (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the Cu-Zn superoxide dismutase family.
+Antioxidant; Copper; Metal-binding; Oxidoreductase; Zinc.
+TMZERO

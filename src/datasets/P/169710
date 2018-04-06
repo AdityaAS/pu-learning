@@ -1,0 +1,49 @@
+AC   Q01959; Q14996;
+Sodium-dependent dopamine transporter (DA transporter) (DAT).
+"A human dopamine transporter cDNA predicts reduced glycosylation,
+displays a novel repetitive element and provides racially-dimorphic
+TaqI RFLPs.";
+"Cloning, pharmacological characterization, and chromosome assignment
+of the human dopamine transporter.";
+"Pharmacological heterogeneity of the cloned and native human dopamine
+transporter: disassociation of [3H]WIN 35,428 and [3H]GBR 12,935
+binding.";
+"Structure and organization of the gene encoding human dopamine
+transporter.";
+"Human dopamine transporter gene: coding region conservation among
+normal, Tourette's disorder, alcohol dependence and attention-deficit
+hyperactivity disorder populations.";
+"Evidence for linkage disequilibrium between the dopamine transporter
+and bipolar disorder.";
+"NIEHS-SNPs, environmental genome project, NIEHS ES15478, Department
+of Genome Sciences, Seattle, WA (URL: http://egp.gs.washington.edu).";
+"Human and mouse dopamine transporter genes: conservation of 5'-
+flanking sequence elements and gene structures.";
+"Dopamine transporter mRNA content in human substantia nigra decreases
+precipitously with age.";
+"Functional interaction between monoamine plasma membrane transporters
+and the synaptic PDZ domain-containing protein PICK1.";
+"Symmetrical homodimer of the human dopamine transporter revealed by
+cross-linking Cys306 at the extracellular end of TM6.";
+"Characterization of single-nucleotide polymorphisms in coding regions
+of human genes.";
+-!- FUNCTION: Amine transporter. Terminates the action of dopamine by
+    its high affinity sodium-dependent reuptake into presynaptic
+    terminals.
+-!- SUBUNIT: Homooligomer; disulfide-linked. Interacts with PRKCABP.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: This protein is the target of psychomotor
+    stimulants such as amphetamines or cocaine.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+ GO:0005737; C:cytoplasm; TAS:ProtInc.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0005886; C:plasma membrane; IDA:UniProtKB.
+ GO:0005329; F:dopamine transporter activity; TAS:ProtInc.
+ GO:0008504; F:monoamine transporter activity; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0015844; P:monoamine transport; IDA:MGI.
+ GO:0006810; P:transport; TAS:ProtInc.
+Glycoprotein; Membrane; Neurotransmitter transport; Polymorphism;
+Symport; Transmembrane; Transport.
+TMTWELVE

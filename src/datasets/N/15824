@@ -1,0 +1,19 @@
+AC   P26375; Q6CLH5;
+Transcription factor BAF1 (ARS-binding factor 1) (Protein ABF1)
+(Bidirectionally acting factor).
+"Kluyveromyces contains a functional ABF1-homologue.";
+"Genome evolution in yeasts.";
+-!- FUNCTION: Trans-acting factor in the regulation of transcription
+    and in DNA replication. Involved in the transcription activation
+    of a subset of ribosomal protein genes. Binds the ARS-elements
+    found in many promoters. Binds to the sequence 5'-TCN(7)ACG-3'.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- PTM: Extensively phosphorylated on Ser and Thr residues (By
+    similarity).
+-!- SIMILARITY: Belongs to the BAF1 family.
+-!- CAUTION: Ref.1 sequence differs from that shown due to frameshifts
+    in positions 300 and 379.
+Activator; Complete proteome; DNA replication; DNA-binding;
+Metal-binding; Nuclear protein; Phosphorylation; Transcription;
+Transcription regulation; Zinc; Zinc-finger.
+TMZERO

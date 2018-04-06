@@ -1,0 +1,22 @@
+AC   Q32BP9;
+G/U mismatch-specific DNA glycosylase (EC 3.2.2.-) (Mismatch-specific
+uracil DNA-glycosylase) (MUG) (Double-strand-specific uracil
+glycosylase).
+"Genome dynamics and diversity of Shigella species, the etiologic
+agents of bacillary dysentery.";
+-!- FUNCTION: Excises ethenocytosine and uracil, which can arise by
+    alkylation or deamination of cytosine, respectively, from the
+    corresponding mispairs with guanine in ds-DNA. It is capable of
+    hydrolyzing the carbon-nitrogen bond between the sugar-phosphate
+    backbone of the DNA and the mispaired base. The complementary
+    strand guanine functions in substrate recognition. Required for
+    DNA damage lesion repair in stationary-phase cells (By
+    similarity).
+-!- SUBUNIT: Binds DNA as a monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the TDG/mug DNA glycosylase family.
+ GO:0008263; F:pyrimidine-specific mismatch base pair DNA ...; IEA:HAMAP.
+ GO:0006285; P:base-excision repair, AP site formation; IEA:HAMAP.
+Complete proteome; DNA damage; DNA excision; DNA repair; DNA-binding;
+Glycosidase; Hydrolase.
+TMZERO

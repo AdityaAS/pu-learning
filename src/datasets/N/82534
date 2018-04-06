@@ -1,0 +1,22 @@
+AC   P38217;
+Importin beta-2 subunit (Karyopherin beta-2 subunit) (Karyopherin-104)
+(Importin-104) (Transportin) (TRN).
+"Sequence and functional analysis of a 7.2 kb fragment of
+Saccharomyces cerevisiae chromosome II including GAL7 and GAL10 and a
+new essential open reading frame.";
+"Complete DNA sequence of yeast chromosome II.";
+"Kap104p: a karyopherin involved in the nuclear transport of messenger
+RNA binding proteins.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Required for import of mRNA binding proteins. Binds to
+    nucleoporins.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- MISCELLANEOUS: Present with 2130 molecules/cell.
+-!- SIMILARITY: Belongs to the importin beta family.
+-!- SIMILARITY: Contains 10 HEAT repeats.
+ GO:0005829; C:cytosol; IDA:SGD.
+ GO:0008139; F:nuclear localization sequence binding; IPI:SGD.
+ GO:0007049; P:cell cycle; IMP:SGD.
+ GO:0006609; P:mRNA-binding (hnRNP) protein import into nu...; IDA:SGD.
+Complete proteome; Protein transport; Repeat; Transport.
+TMZERO

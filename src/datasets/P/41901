@@ -1,0 +1,22 @@
+AC   P53388;
+Dicarboxylic amino acid permease.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Substrate specificity and gene expression of the amino-acid permeases
+in Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Can transport glutamate, aspartate, glutamine,
+    asparagine, serine, alanine and glycine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 432 molecules/cell.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0015359; F:amino acid permease activity; IDA:SGD.
+ GO:0015171; F:amino acid transporter activity; IDA:SGD.
+ GO:0006865; P:amino acid transport; IDA:SGD.
+Amino-acid transport; Complete proteome; Membrane; Phosphorylation;
+Transmembrane; Transport.
+TMTWELVE

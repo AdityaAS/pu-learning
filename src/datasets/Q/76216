@@ -1,0 +1,22 @@
+AC   Q8VRZ2;
+Pyrophosphate-energized proton pump (EC 3.6.1.1) (Pyrophosphate-
+energized inorganic pyrophosphatase) (H+-PPase) (Membrane-bound
+proton-translocating pyrophosphatase) (Fragment).
+"High prevalence of the H+ proton-pumping inorganic pyrophosphatase
+gene in alpha proteobacteria and evidence of lateral transfer in its
+phylogeny.";
+-!- FUNCTION: Generates a proton motive force; it probably catalyzes a
+    fully reversible reaction, thus being able to synthesize
+    pyrophosphate when the proton motive force is sufficient (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Diphosphate + H(2)O = 2 phosphate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- SUBUNIT: Homodimer (Potential).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the H(+)-translocating pyrophosphatase
+    (TC 3.A.10) family. Type 2 subfamily.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Hydrogen ion transport; Hydrolase; Ion transport; Magnesium; Membrane;
+Transmembrane; Transport.
+TMFOUR

@@ -1,0 +1,18 @@
+AC   Q08857;
+Platelet glycoprotein 4 (Platelet glycoprotein IV) (GPIV) (GPIIIB)
+(CD36 antigen) (PAS IV) (PAS-4 protein).
+"CD36 is a receptor for oxidized low density lipoprotein.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Seems to have numerous potential physiological
+    functions. Binds to collagen, thrombospondin, anionic
+    phospholipids and oxidized LDL. May function as a cell adhesion
+    molecule. Directly mediates cytoadherence of Plasmodium falciparum
+    parasitized erythrocytes. Binds long chain fatty acids and may
+    function in the transport and/or as a regulator of fatty acid
+    transport.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the CD36 family.
+Cell adhesion; Glycoprotein; Lipoprotein; Membrane; Palmitate;
+Receptor; Transmembrane; Transport.
+TMTWO

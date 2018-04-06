@@ -1,0 +1,23 @@
+AC   P83627;
+Vitellogenesis-inhibiting hormone (VIH).
+"Isolation and amino acid sequence of a peptide with vitellogenesis
+inhibiting activity from the terrestrial isopod Armadillidium vulgare
+(Crustacea).";
+"Localization of crustacean hyperglycemic and vitellogenesis-
+inhibiting hormones in separate cell types in the protocerebrum of the
+woodlouse Armadillidium vulgare (Crustacea, Isopoda).";
+-!- FUNCTION: Inhibits secondary vitellogenesis in females. Has no
+    hyperglycemic or molt-inhibiting activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Found in the sinus glands of both male and
+    female. Found also in the brain; the neuroendocrine structures of
+    the protocerebrum.
+-!- MASS SPECTROMETRY: MW=9485; METHOD=Electrospray; RANGE=1-83;
+    NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the arthropod CHH/MIH/GIH/VIH hormone
+    family.
+ GO:0005576; C:extracellular region; IC:UniProtKB.
+ GO:0005184; F:neuropeptide hormone activity; TAS:UniProtKB.
+ GO:0007218; P:neuropeptide signaling pathway; TAS:UniProtKB.
+Direct protein sequencing; Hormone; Neuropeptide.
+TMZERO

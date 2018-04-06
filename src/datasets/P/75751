@@ -1,0 +1,15 @@
+AC   Q56991;
+Hemin-binding periplasmic protein hmuT precursor.
+"The hmu locus of Yersinia pestis is essential for utilization of free
+haemin and haem-protein complexes as iron sources.";
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for hemin.
+-!- SUBCELLULAR LOCATION: Periplasm (Potential).
+-!- SIMILARITY: Contains 1 Fe/B12 periplasmic-binding domain.
+Complete proteome; Ion transport; Iron; Iron transport; Periplasmic;
+Signal; Transport.
+TMZERO

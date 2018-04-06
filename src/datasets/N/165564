@@ -1,0 +1,20 @@
+AC   P66582; Q97SU5;
+30S ribosomal protein S5.
+"Genome of the bacterium Streptococcus pneumoniae strain R6.";
+-!- FUNCTION: With S4 and S12 plays an important role in translational
+    accuracy (By similarity).
+-!- FUNCTION: Located at the back of the 30S subunit body where it
+    stabilizes the conformation of the head with respect to the body
+    (By similarity).
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Contacts proteins S4
+    and S8 (By similarity).
+-!- DOMAIN: The N-terminal domain interacts with the head of the 30S
+    subunit; the C-terminal domain interacts with the body and
+    contacts protein S4. The interaction surface between S4 and S5 is
+    involved in control of translational fidelity.
+-!- SIMILARITY: Belongs to the ribosomal protein S5P family.
+-!- SIMILARITY: Contains 1 S5 DRBM domain.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

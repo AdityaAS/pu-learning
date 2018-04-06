@@ -1,0 +1,27 @@
+AC   P29913;
+NADH-quinone oxidoreductase chain 1 (EC 1.6.99.5) (NADH dehydrogenase
+I, chain 1) (NDH-1, chain 1).
+"The NADH-binding subunit of the energy-transducing NADH-ubiquinone
+oxidoreductase of Paracoccus denitrificans: gene cloning and deduced
+primary structure.";
+"Characterization of the 25-kilodalton subunit of the energy-
+transducing NADH-ubiquinone oxidoreductase of Paracoccus
+denitrificans: sequence similarity to the 24-kilodalton subunit of the
+flavoprotein fraction of mammalian complex I.";
+"Structural features of the 66-kDa subunit of the energy-transducing
+NADH-ubiquinone oxidoreductase (NDH-1) of Paracoccus denitrificans.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain. The
+    immediate electron acceptor for the enzyme in this species is
+    believed to be ubiquinone. Couples the redox reaction to proton
+    translocation (for every two electrons transferred, four hydrogen
+    ions are translocated across the cytoplasmic membrane), and thus
+    conserves the redox energy in a proton gradient.
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- COFACTOR: Binds 1 FMN (Potential).
+-!- COFACTOR: Binds 1 4Fe-4S cluster (Potential).
+-!- SUBUNIT: Composed of 14 different subunits.
+-!- SIMILARITY: Belongs to the complex I 51 kDa subunit family.
+4Fe-4S; Direct protein sequencing; Flavoprotein; FMN; Iron;
+Iron-sulfur; Metal-binding; NAD; Oxidoreductase; Quinone; Ubiquinone.
+TMZERO

@@ -1,0 +1,49 @@
+AC   P25694;
+Cell division control protein 48.
+"Yeast cell cycle protein CDC48p shows full-length homology to the
+mammalian protein VCP and is a member of a protein family involved in
+secretion, peroxisome formation, and gene expression.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Protein dislocation from the ER requires polyubiquitination and the
+AAA-ATPase Cdc48.";
+"The AAA ATPase Cdc48/p97 and its partners transport proteins from the
+ER into the cytosol.";
+"Global analysis of protein expression in yeast.";
+"A proteomics approach to understanding protein ubiquitination.";
+"Shp1 and Ubx2 are adaptors of Cdc48 involved in ubiquitin-dependent
+protein degradation.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- FUNCTION: Involved in spindle disassembly, degradation of
+    ubiquitinated proteins and protein export from the endoplasmic
+    reticulum to the cytoplasm.
+-!- INTERACTION:
+    P33755:NPL4; NbExp=1; IntAct=EBI-4308, EBI-12193;
+    Q04228:SEL1; NbExp=2; IntAct=EBI-4308, EBI-27730;
+    P34223:SHP1; NbExp=3; IntAct=EBI-4308, EBI-17093;
+    P40318:SSM4; NbExp=1; IntAct=EBI-4308, EBI-18208;
+    Q12229:UBX3; NbExp=1; IntAct=EBI-4308, EBI-35335;
+    P54730:UBX4; NbExp=2; IntAct=EBI-4308, EBI-28127;
+    Q06682:UBX5; NbExp=2; IntAct=EBI-4308, EBI-32041;
+    P47049:UBX6; NbExp=1; IntAct=EBI-4308, EBI-25866;
+    P38349:UBX7; NbExp=2; IntAct=EBI-4308, EBI-21157;
+-!- SUBCELLULAR LOCATION: Microsome. Note=Bound loosely to components
+    of the microsomal fraction.
+-!- MISCELLANEOUS: Present with 78400 molecules/cell.
+-!- SIMILARITY: Belongs to the AAA ATPase family.
+ GO:0005829; C:cytosol; IDA:SGD.
+ GO:0005789; C:endoplasmic reticulum membrane; IDA:SGD.
+ GO:0005792; C:microsome; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0016887; F:ATPase activity; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006915; P:apoptosis; TAS:SGD.
+ GO:0007049; P:cell cycle; IMP:SGD.
+ GO:0030433; P:ER-associated protein catabolism; IMP:SGD.
+ GO:0015031; P:protein transport; IDA:SGD.
+ GO:0006511; P:ubiquitin-dependent protein catabolism; IDA:SGD.
+ GO:0006906; P:vesicle fusion; IDA:SGD.
+ATP-binding; Cell cycle; Complete proteome; Nucleotide-binding;
+Phosphorylation; Protein transport; Repeat; Transport;
+Ubl conjugation.
+TMZERO

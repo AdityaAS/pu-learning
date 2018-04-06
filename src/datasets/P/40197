@@ -1,0 +1,12 @@
+AC   P50708;
+Defensin-related cryptdin 10 precursor (Fragment).
+"Mouse Paneth cell defensins: primary structures and antibacterial
+activities of numerous cryptdin isoforms.";
+"Structure and diversity of the murine cryptdin gene family.";
+-!- FUNCTION: Probably contributes to the antimicrobial barrier
+    function of the small bowel mucosa.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Paneth cells of the small bowel.
+-!- SIMILARITY: Belongs to the alpha-defensin family.
+Antibiotic; Antimicrobial; Defensin; Signal.
+TMZERO

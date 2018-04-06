@@ -1,0 +1,11 @@
+AC   Q84FY8;
+Malate dehydrogenase (EC 1.1.1.37).
+"Methylotrophy in Methylobacterium extorquens AM1 from a genomic point
+of view.";
+-!- FUNCTION: Catalyzes the reversible oxidation of malate to
+    oxaloacetate (By similarity).
+-!- CATALYTIC ACTIVITY: (S)-malate + NAD(+) = oxaloacetate + NADH.
+-!- SIMILARITY: Belongs to the LDH/MDH superfamily. MDH type 3 family.
+ GO:0006099; P:tricarboxylic acid cycle; IEA:HAMAP.
+NAD; Oxidoreductase; Tricarboxylic acid cycle.
+TMZERO

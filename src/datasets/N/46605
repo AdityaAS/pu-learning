@@ -1,0 +1,8 @@
+AC   Q46968;
+Autoinducer synthesis protein echI.
+-!- FUNCTION: Required for the synthesis of OHHL (N-(3-oxohexanoyl)-L-
+    homoserine lactone), an autoinducer molecule which binds to the
+    echR transcriptional regulator.
+-!- SIMILARITY: Belongs to the autoinducer synthetase family.
+Autoinducer synthesis; Quorum sensing.
+TMZERO

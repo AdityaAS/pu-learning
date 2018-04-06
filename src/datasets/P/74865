@@ -1,0 +1,23 @@
+AC   P02910;
+Histidine-binding periplasmic protein precursor (HBP).
+"Complete nucleotide sequence and identification of membrane
+components of the histidine transport operon of S. typhimurium.";
+"Two periplasmic transport proteins which interact with a common
+membrane receptor show extensive homology: complete nucleotide
+sequences.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"The amino acid sequence of the histidine binding protein of
+Salmonella typhimurium.";
+"The bacterial periplasmic histidine-binding protein.
+Structure/function analysis of the ligand-binding site and comparison
+with related proteins.";
+-!- FUNCTION: Component of the high-affinity histidine permease, a
+    binding-protein-dependent transport system. The other components
+    are proteins hisQ, hisM, and hisP.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+3D-structure; Amino-acid transport; Complete proteome;
+Direct protein sequencing; Periplasmic; Signal; Transport.
+TMZERO

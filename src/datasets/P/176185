@@ -1,0 +1,20 @@
+AC   O76094;
+Signal recognition particle 72 kDa protein (SRP72).
+"Protein SRP72 sequence of human signal recognition particle.";
+"Sequence of human signal recognition particle (SRP) 72.";
+-!- FUNCTION: Signal-recognition-particle assembly has a crucial role
+    in targeting secretory proteins to the rough endoplasmic reticulum
+    membrane. Binds the 7S RNA only in presence of SRP68. This
+    ribonucleoprotein complex might interact directly with the docking
+    protein in the ER membrane and possibly participate in the
+    elongation arrest function.
+-!- SUBUNIT: Signal recognition particle consists of a 7S RNA molecule
+    of 300 nucleotides and six protein subunits: SRP72, SRP68, SRP54,
+    SRP19, SRP14 and SRP9.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- DOMAIN: The C-terminus is essential for the interaction with the
+    SRP68/7S RNA complex (By similarity).
+-!- SIMILARITY: Belongs to the SRP72 family.
+-!- SIMILARITY: Contains 5 TPR repeats.
+Repeat; Ribonucleoprotein; Signal recognition particle; TPR repeat.
+TMZERO

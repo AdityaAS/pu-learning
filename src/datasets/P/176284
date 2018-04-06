@@ -1,0 +1,17 @@
+AC   P08375;
+Sarcotoxin-1A precursor (Sarcotoxin IA).
+"Molecular cloning of a cDNA and assignment of the C-terminal of
+sarcotoxin IA, a potent antibacterial protein of Sarcophaga
+peregrina.";
+"Primary structure of sarcotoxin I, an antibacterial protein induced
+in the hemolymph of Sarcophaga peregrina (flesh fly) larvae.";
+"Solution conformation of an antibacterial peptide, sarcotoxin IA, as
+determined by 1H-NMR.";
+-!- FUNCTION: Sarcotoxins, which are potent bactericidal proteins, are
+    produced in response to injury. They are cytotoxic to both Gram-
+    positive and Gram-negative bacteria.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the cecropin family.
+Amidation; Antibiotic; Antimicrobial; Direct protein sequencing;
+Immune response; Innate immunity; Signal.
+TMZERO

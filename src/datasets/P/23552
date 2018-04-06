@@ -1,0 +1,19 @@
+AC   P08083;
+Colicin-N.
+"Nucleotide sequencing of the structural gene for colicin N reveals
+homology between the catalytic, C-terminal domains of colicins A and
+N.";
+"The immunity and lysis genes of ColN plasmid pCHAP4.";
+"Crystal structure of a colicin N fragment suggests a model for
+toxicity.";
+-!- FUNCTION: This colicin is a channel-forming colicin. This class of
+    transmembrane toxins depolarize the cytoplasmic membrane, leading
+    to dissipation of cellular energy.
+-!- FUNCTION: Colicins are polypeptide toxins produced by and active
+    against, Escherichia coli and closely related bacteria.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the channel forming colicin family.
+3D-structure; Antibiotic; Antimicrobial; Bacteriocin; Membrane;
+Plasmid; Transmembrane.
+TMTWO

@@ -1,0 +1,13 @@
+AC   Q9HHE9;
+TATA-box-binding protein F (TATA-box factor F) (TATA sequence-binding
+protein F) (TBP F) (Box A-binding protein F) (BAP F).
+"Genome sequence of Halobacterium species NRC-1.";
+-!- FUNCTION: General factor that plays a role in the activation of
+    archaeal genes transcribed by RNA polymerase. Binds specifically
+    to the TATA box promoter element which lies close to the position
+    of transcription initiation (By similarity).
+-!- SIMILARITY: Belongs to the TBP family.
+ GO:0003700; F:transcription factor activity; IEA:HAMAP.
+Complete proteome; DNA-binding; Plasmid; Repeat; Transcription;
+Transcription regulation.
+TMZERO

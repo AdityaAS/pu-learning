@@ -1,0 +1,9 @@
+AC   O13283;
+NAD(P)H-dependent D-xylose reductase I,II (EC 1.1.1.-) (XR).
+"Cloning and sequencing of two D-xylose reductase genes (xyrA and
+xyrB) from Candida tropicalis.";
+-!- FUNCTION: Reduces D-xylose into xylitol.
+-!- PATHWAY: D-xylose degradation.
+-!- SIMILARITY: Belongs to the aldo/keto reductase family.
+Carbohydrate metabolism; NAD; Oxidoreductase; Xylose metabolism.
+TMZERO

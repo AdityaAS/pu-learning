@@ -1,0 +1,25 @@
+AC   P23622; Q7RZ41;
+Sulfate permease 2 (Sulfate permease II).
+"Nucleotide sequence, messenger RNA stability, and DNA recognition
+elements of cys-14, the structural gene for sulfate permease II in
+Neurospora crassa.";
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+"Similarities between a soybean nodulin, Neurospora crassa sulphate
+permease II and a putative human tumour suppressor.";
+-!- FUNCTION: Uptake of sulfate into the cell.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Mainly found in mycelia.
+-!- INDUCTION: Highly expressed, but only in cells subject to sulfur
+    limitation, and it is turned on by the positive-acting 'Cys-3'
+    sulfur regulatory protein.
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+-!- SIMILARITY: Contains 1 STAS domain.
+-!- CAUTION: Ref.1 sequence differs from that shown due to several
+    frameshifts.
+-!- CAUTION: Ref.3 sequence differs from that shown due to erroneous
+    gene model prediction.
+Glycoprotein; Membrane; Transmembrane; Transport.
+TMTEN

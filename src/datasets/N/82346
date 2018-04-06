@@ -1,0 +1,18 @@
+AC   Q8ZYU6;
+Dihydroxy-acid dehydratase (EC 4.2.1.9) (DAD).
+"Genome sequence of the hyperthermophilic crenarchaeon Pyrobaculum
+aerophilum.";
+-!- CATALYTIC ACTIVITY: 2,3-dihydroxy-3-methylbutanoate = 3-methyl-2-
+    oxobutanoate + H(2)O.
+-!- COFACTOR: Binds 1 4Fe-4S cluster (Potential).
+-!- PATHWAY: Amino-acid biosynthesis; L-isoleucine biosynthesis; L-
+    isoleucine from 2-oxobutanoate: step 3.
+-!- PATHWAY: Amino-acid biosynthesis; L-valine biosynthesis; L-valine
+    from pyruvate: step 3.
+-!- SIMILARITY: Belongs to the ilvD/edd family.
+ GO:0009097; P:isoleucine biosynthesis; IEA:HAMAP.
+ GO:0009099; P:valine biosynthesis; IEA:HAMAP.
+4Fe-4S; Amino-acid biosynthesis;
+Branched-chain amino acid biosynthesis; Complete proteome; Iron;
+Iron-sulfur; Lyase; Metal-binding.
+TMZERO

@@ -1,0 +1,35 @@
+AC   P31570;
+Cob(I)yrinic acid a,c-diamide adenosyltransferase (EC 2.5.1.17)
+(Cob(I)alamin adenosyltransferase) (Corrinoid adenosyltransferase).
+"Cloning, sequencing and overexpression of cobA which encodes
+ATP:corrinoid adenosyltransferase in Salmonella typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Purification and initial characterization of the ATP:corrinoid
+adenosyltransferase encoded by the cobA gene of Salmonella
+typhimurium.";
+"cobA function is required for both de novo cobalamin biosynthesis and
+assimilation of exogenous corrinoids in Salmonella typhimurium.";
+"The ATP:Co(I)rrinoid adenosyltransferase (CobA) enzyme of Salmonella
+enterica requires the 2'-OH group of ATP for function and yields
+inorganic triphosphate as its reaction byproduct.";
+"Three-dimensional structure of ATP:corrinoid adenosyltransferase from
+Salmonella typhimurium in its free state, complexed with MgATP, or
+complexed with hydroxycobalamin and MgATP.";
+-!- FUNCTION: Required for both de novo synthesis of the corrin ring
+    for the assimilation of exogenous corrinoids. Participates in the
+    adenosylation of a variety of incomplete and complete corrinoids.
+-!- CATALYTIC ACTIVITY: ATP + cob(I)yrinic acid a,c-diamide =
+    triphosphate + adenosylcob(III)yrinic acid a,c-diamide.
+-!- CATALYTIC ACTIVITY: ATP + cobinamide = triphosphate +
+    adenosylcobinamide.
+-!- PATHWAY: Cofactor biosynthesis; adenosylcobalamin biosynthesis;
+    adenosylcobalamin from cob(II)yrinic acid a,c-diamide: step 2.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the Cob(I)alamin adenosyltransferase
+    family.
+3D-structure; ATP-binding; Cobalamin biosynthesis; Complete proteome;
+Direct protein sequencing; Nucleotide-binding; Porphyrin biosynthesis;
+Transferase.
+TMZERO

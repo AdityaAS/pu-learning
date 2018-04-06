@@ -1,0 +1,28 @@
+AC   P0AAD2; P22306; Q2M949;
+Tryptophan-specific transport protein (Tryptophan permease).
+"Cloning, nucleotide sequence, and characterization of mtr, the
+structural gene for a tryptophan-specific permease of Escherichia coli
+K-12.";
+"Regulation of expression of the Escherichia coli K-12 mtr gene by
+TyrR protein and Trp repressor.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The tryptophan-specific permease gene, mtr, is differentially
+regulated by the tryptophan and tyrosine repressors in Escherichia
+coli K-12.";
+"Membrane topology analysis of Escherichia coli K-12 Mtr permease by
+alkaline phosphatase and beta-galactosidase fusions.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in transporting tryptophan across the
+    cytoplasmic membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By phenylalanine under the control of regulatory
+    protein tyrR.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family. Mtr/tnaB/tyrP permease subfamily.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMELEVEN

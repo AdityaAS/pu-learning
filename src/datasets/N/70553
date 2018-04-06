@@ -1,0 +1,21 @@
+AC   O97711;
+Hyaluronan synthase 2 (EC 2.4.1.212) (Hyaluronate synthase 2)
+(Hyaluronic acid synthase 2) (HA synthase 2).
+"Hyaluronan synthase is expressed during cumulus-oocyte complex
+maturation in the cow.";
+"HAS2.";
+"Hyaluronan synthase expression in bovine eyes.";
+-!- FUNCTION: Plays a role in hyaluronan/hyaluronic acid (HA)
+    synthesis (By similarity).
+-!- CATALYTIC ACTIVITY: n UDP-N-acetyl-D-glucosamine + n UDP-D-
+    glucuronate = (beta-N-acetyl-D-glucosaminyl(1->4)-beta-D-
+    glucuronosyl(1->3))(n) + 2n UDP.
+-!- COFACTOR: Magnesium.
+-!- PATHWAY: Glycan biosynthesis; hyaluronan biosynthesis.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Expressed in corneal endothelial cells.
+-!- SIMILARITY: Belongs to the nodC/HAS family.
+ GO:0050501; F:hyaluronan synthase activity; IEA:EC.
+Glycosyltransferase; Membrane; Transferase; Transmembrane.
+TMSEVEN

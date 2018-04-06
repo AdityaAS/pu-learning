@@ -1,0 +1,17 @@
+AC   Q4PI89;
+Transcription elongation factor SPT6 (Chromatin elongation factor
+SPT6).
+"Insights from the genome of the biotrophic fungal plant pathogen
+Ustilago maydis.";
+-!- FUNCTION: Plays a role in maintenance of chromatin structure
+    during RNA polymerase II transcription elongation thereby
+    repressing transcription initiation from cryptic promoters.
+    Mediates the reassembly of nucleosomes onto the promoters of at
+    least a selected set of genes during repression; the nucleosome
+    reassembly is essential for transcriptional repression (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the SPT6 family.
+-!- SIMILARITY: Contains 1 SH2 domain.
+Nuclear protein; SH2 domain; Transcription; Transcription regulation.
+TMZERO

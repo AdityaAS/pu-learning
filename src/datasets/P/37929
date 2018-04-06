@@ -1,0 +1,19 @@
+AC   P0AEB1; P16702; P76534;
+Sulfate transport system permease protein cysW.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Part of the ABC transporter complex cysAWTP
+    (TC 3.A.1.6.1) involved in sulfate/thiosulfate import. Probably
+    responsible for the translocation of the substrate across the
+    membrane.
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (cysA), two transmembrane proteins (cysT and cysW) and a solute-
+    binding protein (cysP) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. CysTW subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Complete proteome; Inner membrane; Membrane; Sulfate transport;
+Transmembrane; Transport.
+TMSIX

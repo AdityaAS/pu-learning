@@ -1,0 +1,14 @@
+AC   P0C197; Q4P8S3;
+Probable chloride channel protein UM03490-D.
+"Insights from the genome of the biotrophic fungal plant pathogen
+Ustilago maydis.";
+-!- FUNCTION: Voltage-gated chloride channel (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the chloride channel (TC 1.A.11) family.
+-!- SIMILARITY: Contains 1 CBS domain.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction. The predicted gene UM03490 has been split
+    into 4 genes: UM03490-A, UM03490-B, UM03490-C and UM03490-D.
+Membrane; Transmembrane.
+TMTWELVE

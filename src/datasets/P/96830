@@ -1,0 +1,24 @@
+AC   O05256;
+Na(+)-malate symporter (Sodium-dependent malate transporter).
+"Analysis of the Bacillus subtilis genome: cloning and nucleotide
+sequence of a 62 kb region between 275 degrees (rrnB) and 284 degrees
+(pai).";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Bacillus subtilis YqkI is a novel malic/Na+-lactate antiporter that
+enhances growth on malate at low protonmotive force.";
+"The Bacillus subtilis YufLM two-component system regulates the
+expression of the malate transporters MaeN (YufR) and YflS, and is
+essential for utilization of malate in minimal medium.";
+-!- FUNCTION: Acts as a Na(+)-malate symporter, as it catalyzes
+    malate-dependent uptake of Na(+) and Na(+)-dependent uptake of
+    malate.
+-!- ENZYME REGULATION: Activated by the two-component regulatory
+    system malK/malR in response to malate. The regulator malR binds
+    to the promoter region of maeN.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the sodium:citrate (SCF) symporter family.
+Complete proteome; Ion transport; Membrane; Sodium; Sodium transport;
+Symport; Transmembrane; Transport.
+TMELEVEN

@@ -1,0 +1,19 @@
+AC   P07148;
+Fatty acid-binding protein, liver (L-FABP).
+"Human liver fatty acid binding protein cDNA and amino acid sequence.
+Functional and evolutionary implications.";
+"Human liver fatty acid binding protein. Isolation of a full length
+cDNA and comparative sequence analyses of orthologous and paralogous
+proteins.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: This protein binds free fatty acids and their coenzyme A
+    derivatives, bilirubin, and some other small molecules in the
+    cytoplasm; it may be involved in intracellular lipid transport.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the fatty-acid binding protein (FABP)
+    family.
+ GO:0009887; P:organ morphogenesis; TAS:ProtInc.
+3D-structure; Acetylation; Lipid-binding; Phosphorylation;
+Polymorphism; Transport.
+TMZERO

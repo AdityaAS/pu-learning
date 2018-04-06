@@ -1,0 +1,15 @@
+AC   P91919;
+Triosephosphate isomerase (EC 5.3.1.1) (TIM) (Triose-phosphate
+isomerase) (Fragment).
+"Towards a reconciliation of the introns early or late views:
+triosephosphate isomerase genes from insects.";
+-!- CATALYTIC ACTIVITY: D-glyceraldehyde 3-phosphate = glycerone
+    phosphate.
+-!- PATHWAY: Carbohydrate biosynthesis; gluconeogenesis.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; D-glyceraldehyde 3-
+    phosphate from glycerone phosphate: single step.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the triosephosphate isomerase family.
+Fatty acid biosynthesis; Gluconeogenesis; Glycolysis; Isomerase;
+Lipid synthesis; Pentose shunt.
+TMZERO

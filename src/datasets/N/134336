@@ -1,0 +1,12 @@
+AC   Q9SBN6;
+Oxygen-evolving enhancer protein 1, chloroplast precursor (OEE1).
+"Volvox germline-specific genes that are putative targets of RegA
+repression encode chloroplast proteins.";
+-!- FUNCTION: Stabilizes the manganese cluster which is the primary
+    site of water splitting (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane. Note=Associated with the photosystem II complex.
+-!- SIMILARITY: Belongs to the psbO family.
+Chloroplast; Manganese; Membrane; Photosynthesis; Photosystem II;
+Plastid; Thylakoid; Transit peptide.
+TMZERO

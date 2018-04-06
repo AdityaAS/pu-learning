@@ -1,0 +1,18 @@
+AC   O79675;
+ATP synthase a chain (EC 3.6.3.14) (ATPase protein 6).
+"Complete mitochondrial genome suggests diapsid affinities of
+turtles.";
+-!- FUNCTION: Key component of the proton channel; it may play a
+    direct role in the translocation of protons across the membrane.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ATPase A chain family.
+CF(0); Hydrogen ion transport; Ion transport; Membrane; Mitochondrion;
+Transmembrane; Transport.
+TMZERO

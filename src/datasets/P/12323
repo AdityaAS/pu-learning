@@ -1,0 +1,17 @@
+AC   O75185;
+Probable calcium-transporting ATPase KIAA0703 (EC 3.6.3.8).
+"Prediction of the coding sequences of unidentified human genes. X.
+The complete sequences of 100 new cDNA clones from brain which can
+code for large proteins in vitro.";
+-!- FUNCTION: This magnesium-dependent enzyme catalyzes the hydrolysis
+    of ATP coupled with the transport of calcium (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Ca(2+)(Cis) = ADP + phosphate +
+    Ca(2+)(Trans).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIA subfamily.
+ATP-binding; Calcium; Calcium transport; Hydrolase; Ion transport;
+Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Transmembrane; Transport.
+TMTEN

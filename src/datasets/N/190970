@@ -1,0 +1,16 @@
+AC   Q7V7D2;
+Triosephosphate isomerase (EC 5.3.1.1) (TIM) (Triose-phosphate
+isomerase).
+"Genome divergence in two Prochlorococcus ecotypes reflects oceanic
+niche differentiation.";
+-!- CATALYTIC ACTIVITY: D-glyceraldehyde 3-phosphate = glycerone
+    phosphate.
+-!- PATHWAY: Carbohydrate biosynthesis; gluconeogenesis.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; D-glyceraldehyde 3-
+    phosphate from glycerone phosphate: single step.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the triosephosphate isomerase family.
+ GO:0015977; P:carbon utilization by fixation of carbon di...; NAS:UniProtKB.
+Complete proteome; Fatty acid biosynthesis; Gluconeogenesis;
+Glycolysis; Isomerase; Lipid synthesis; Pentose shunt.
+TMZERO

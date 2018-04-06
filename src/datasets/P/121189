@@ -1,0 +1,24 @@
+AC   P0A912; P07176;
+Peptidoglycan-associated lipoprotein precursor.
+"Nucleotide sequence of the gene for the peptidoglycan-associated
+lipoprotein of Escherichia coli K12.";
+"The excC gene of Escherichia coli K-12 required for cell envelope
+integrity encodes the peptidoglycan-associated lipoprotein (PAL).";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequences of the tolA and tolB genes and localization of
+their products, components of a multistep translocation system in
+Escherichia coli.";
+"Crystallization and preliminary crystallographic study of the
+peptidoglycan-associated lipoprotein from Escherichia coli.";
+-!- FUNCTION: Thought to play a role in bacterial envelope integrity.
+    Very strongly associated with the peptidoglycan.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor.
+-!- SIMILARITY: Belongs to the ompA family. Pal subfamily.
+-!- SIMILARITY: Contains 1 OmpA-like domain.
+3D-structure; Complete proteome; Lipoprotein; Membrane;
+Outer membrane; Palmitate; Signal.
+TMZERO

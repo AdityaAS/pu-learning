@@ -1,0 +1,16 @@
+AC   P0A4N6; P35119;
+Octopine transport system permease protein occQ.
+"Catabolism of the guanidino compounds nopaline, octopine, and L-
+arginine in Agrobacterium tumefaciens: enzymes, genes, and
+regulation.";
+-!- FUNCTION: Component of the octopine active transport system
+    probably consisting of four subunits: Q, M, P and T (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- INDUCTION: By octopine (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Inner membrane; Membrane; Plasmid; Transmembrane; Transport.
+TMFOUR

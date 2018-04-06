@@ -1,0 +1,33 @@
+AC   P13496; Q9VUA1;
+150 kDa dynein-associated polypeptide (DP-150) (DAP-150) (Protein
+glued).
+"Sequence analysis of the complete cDNA and encoded polypeptide for
+the Glued gene of Drosophila melanogaster.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Required for the cytoplasmic dynein-driven retrograde
+    movement of vesicles and organelles along microtubules. Dynein-
+    dynactin interaction is a key component of the mechanism of axonal
+    transport of vesicles and organelles.
+-!- SUBUNIT: Large macromolecular complex of at least 10 components;
+    p150(glued) binds directly to microtubules and to cytoplasmic
+    dynein.
+-!- INTERACTION:
+    Q9VKU4:CG13144; NbExp=1; IntAct=EBI-157742, EBI-149908;
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the dynactin 150 kDa subunit family.
+-!- SIMILARITY: Contains 1 CAP-Gly domain.
+-!- CAUTION: Ref.1 sequence differs from that shown due to frameshifts
+    in positions 32, 174, 220, 648, 672 and 1208.
+ GO:0005869; C:dynactin complex; TAS:FlyBase.
+ GO:0045502; F:dynein binding; TAS:FlyBase.
+ GO:0001709; P:cell fate determination; IMP:FlyBase.
+ GO:0001754; P:eye photoreceptor cell differentiation; IMP:FlyBase.
+ GO:0009993; P:oogenesis (sensu Insecta); NAS:FlyBase.
+ GO:0007467; P:photoreceptor cell differentiation (sensu E...; IMP:FlyBase.
+ GO:0042052; P:rhabdomere development; IMP:FlyBase.
+ GO:0016330; P:second mitotic wave (sensu Endopterygota); IMP:FlyBase.
+Coiled coil; Complete proteome; Cytoskeleton; Dynein; Microtubule;
+Motor protein.
+TMZERO

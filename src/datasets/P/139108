@@ -1,0 +1,15 @@
+AC   P0A0J9; P23215;
+Antiseptic resistance protein.
+"Efflux-mediated antiseptic resistance gene qacA from Staphylococcus
+aureus: common ancestry with tetracycline- and sugar-transport
+proteins.";
+"Multidrug resistance proteins QacA and QacB from Staphylococcus
+aureus: membrane topology and identification of residues involved in
+substrate specificity.";
+-!- FUNCTION: Confers export-mediated resistance against antiseptic
+    and disinfectant compounds such as intercalating dyes, quaternary
+    ammonium salts and diamidines.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Antibiotic resistance; Membrane; Plasmid; Transmembrane; Transport.
+TMFOURTEEN

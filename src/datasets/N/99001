@@ -1,0 +1,50 @@
+AC   P61889; O30401; O30402; O30403; P06994; Q2M8X7; Q59343; Q59344;
+AC   Q59345; Q59346; Q59347; Q59348; Q60133; Q60150; Q933J3; Q93R02;
+AC   Q9FDQ3; Q9FDQ4; Q9FDQ5;
+Malate dehydrogenase (EC 1.1.1.37).
+"Complete nucleotide sequence of the Escherichia coli gene encoding
+malate dehydrogenase.";
+"Cloning and sequence of the mdh structural gene of Escherichia coli
+coding for malate dehydrogenase.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Isolation and expression of the Escherichia coli gene encoding malate
+dehydrogenase.";
+"Malate dehydrogenase: isolation from E. coli and comparison with the
+eukaryotic mitochondrial and cytoplasmic forms.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Structural studies of malate dehydrogenases (MDHs): MDHs in
+Brevundimonas species are the first reported MDHs in Proteobacteria
+which resemble lactate dehydrogenases in primary structure.";
+"Identifying proteins from two-dimensional gels by molecular mass
+searching of peptide fragments in protein sequence databases.";
+"Bacterial defense against aging: role of the Escherichia coli ArcA
+regulator in gene expression, readjusted energy flux and survival
+during stasis.";
+"Protein identification with N and C-terminal sequence tags in
+proteome projects.";
+"Molecular genetic basis of allelic polymorphism in malate
+dehydrogenase (mdh) in natural populations of Escherichia coli and
+Salmonella enterica.";
+"Evolutionary relationships among pathogenic and nonpathogenic
+Escherichia coli strains inferred from multilocus enzyme
+electrophoresis and mdh sequence studies.";
+"Population genetics of Escherichia coli in a natural population of
+native Australian rats.";
+"Crystal structure of Escherichia coli malate dehydrogenase. A complex
+of the apoenzyme and citrate at 1.87-A resolution.";
+"Crystal structure of a ternary complex of Escherichia coli malate
+dehydrogenase citrate and NAD at 1.9 A resolution.";
+"Structural analyses of a malate dehydrogenase with a variable active
+site.";
+-!- FUNCTION: Catalyzes the reversible oxidation of malate to
+    oxaloacetate.
+-!- CATALYTIC ACTIVITY: (S)-malate + NAD(+) = oxaloacetate + NADH.
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the LDH/MDH superfamily. MDH type 1 family.
+ GO:0005624; C:membrane fraction; IDA:UniProtKB.
+3D-structure; Complete proteome; Direct protein sequencing; NAD;
+Oxidoreductase; Tricarboxylic acid cycle.
+TMZERO

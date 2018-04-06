@@ -1,0 +1,40 @@
+AC   P80372; Q5SHP4; Q9ACK0;
+30S ribosomal protein S3.
+"Complete genome sequence of Thermus thermophilus HB8.";
+"Purification and characterization of the 30S ribosomal proteins from
+the bacterium Thermus thermophilus.";
+"Extending ribosomal protein identifications to unsequenced bacterial
+strains using matrix-assisted laser desorption/ionization mass
+spectrometry.";
+"Structure of the 30S ribosomal subunit.";
+"Structure of functionally activated small ribosomal subunit at 3.3 A
+resolution.";
+"The structural basis for the action of the antibiotics tetracycline,
+pactamycin, and hygromycin B on the 30S ribosomal subunit.";
+"Functional insights from the structure of the 30S ribosomal subunit
+and its interactions with antibiotics.";
+"The path of messenger RNA through the ribosome.";
+"Crystal structures of complexes of the small ribosomal subunit with
+tetracycline, edeine and IF3.";
+"Crystal structure of an initiation factor bound to the 30S ribosomal
+subunit.";
+"Crystal structure of the ribosome at 5.5 A resolution.";
+"Recognition of cognate transfer RNA by the 30S ribosomal subunit.";
+"Crystal structure of the 30S ribosomal subunit from Thermus
+thermophilus: structure of the proteins and their interactions with
+16S RNA.";
+-!- FUNCTION: Binds the lower part of the 30S subunit head. Binds mRNA
+    in the 70S ribosome, positioning it for translation.
+-!- SUBUNIT: Part of the 30S ribosomal subunit. Forms a tight complex
+    with proteins S10 and S14.
+-!- MASS SPECTROMETRY: MW=26570; METHOD=MALDI; RANGE=1-238;
+    NOTE=Ref.3.
+-!- SIMILARITY: Belongs to the ribosomal protein S3P family.
+-!- SIMILARITY: Contains 1 KH type-2 domain.
+-!- WEB RESOURCE: NAME=T.thermophilus 30S ribosomal subunit structure;
+    URL="http://alf1.mrc-lmb.cam.ac.uk/~ribo/30S/".
+ GO:0003729; F:mRNA binding; IEA:HAMAP.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+3D-structure; Complete proteome; Direct protein sequencing;
+Ribonucleoprotein; Ribosomal protein; RNA-binding; rRNA-binding.
+TMZERO

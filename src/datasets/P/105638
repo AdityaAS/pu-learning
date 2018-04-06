@@ -1,0 +1,14 @@
+AC   P42364;
+Metal ABC transporter substrate-binding lipoprotein precursor
+(Coaggregation-mediating adhesin).
+"Nucleotide sequence of the Streptococcus gordonii PK488 coaggregation
+adhesin gene, scaA, and ATP-binding cassette.";
+-!- FUNCTION: Part of an ATP-driven transport system for a metal;
+    probably for manganese. Also act as an adhesin which is involved
+    on adherence to extracellular matrix. It is an important factor in
+    pathogenesis and infection.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (By similarity).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 9
+    family. Lipoprotein receptor antigen (Lrai) subfamily.
+Lipoprotein; Manganese; Membrane; Palmitate; Signal; Transport.
+TMZERO

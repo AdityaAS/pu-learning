@@ -1,0 +1,61 @@
+AC   P36051;
+GPI ethanolamine phosphate transferase 1 (EC 2.-.-.-) (Morphogenesis
+checkpoint-dependent protein 4) (Supersecretion of u-PA protein 21).
+"DNA sequencing of a 36.2 kb fragment located between the FAS1 and LAP
+loci of chromosome XI of Saccharomyces cerevisiae.";
+"Complete DNA sequence of yeast chromosome XI.";
+"MCD4 encodes a conserved endoplasmic reticulum membrane protein
+essential for glycosylphosphatidylinositol anchor synthesis in
+yeast.";
+"A novel vacuolar protein encoded by SSU21 / MCD4 is involved in cell
+wall integrity in yeast.";
+"A genetic screen for ethanolamine auxotrophs in Saccharomyces
+cerevisiae identifies a novel mutation in Mcd4p, a protein implicated
+in glycosylphosphatidylinositol anchor synthesis.";
+"Correct GPI-anchor synthesis is required for the incorporation of
+endoglucanase/glucanosyltransferase Bgl2p into the Saccharomyces
+cerevisiae cell wall.";
+"ATP uptake in the Golgi and extracellular release require Mcd4
+protein and the vacuolar H+-ATPase.";
+"Global analysis of protein localization in budding yeast.";
+"Deletion of MCD 4 involved in glycosylphosphatidylinositol (GPI)
+anchor synthesis leads to an increase in beta-1,6-glucan level and a
+decrease in GPI-anchored protein and mannan levels in the cell wall of
+Saccharomyces cerevisiae.";
+"Ethanolaminephosphate side chain added to
+glycosylphosphatidylinositol (GPI) anchor by mcd4p is required for
+ceramide remodeling and forward transport of GPI proteins from
+endoplasmic reticulum to Golgi.";
+-!- FUNCTION: Ethanolamine phosphate transferase involved in
+    glycosylphosphatidylinositol-anchor biosynthesis. Transfers
+    ethanolamine phosphate to the first alpha-1,4-linked mannose of
+    the glycosylphosphatidylinositol precursor of GPI-anchor.
+    Ethanolamine phosphate on the alpha-1,4-linked mannose is
+    essential for further mannosylation by GPI10 and is necessary for
+    an efficient recognition of GPI lipids and GPI proteins by the GPI
+    transamidase, for the efficient transport of GPI anchored proteins
+    from endoplasmic reticulum to Golgi and for the physiological
+    incorporation of ceramides into GPI anchors by lipid remodeling.
+    Also involved in non-mitochondrial ATP movements across membrane
+    and participates in Golgi and endoplasmic reticulum function, Also
+    required for the incorporation of BGL2 into the cell wall.
+-!- PATHWAY: Glycolipid biosynthesis; glycosylphosphatidylinositol-
+    anchor biosynthesis.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein. Golgi apparatus; Golgi
+    apparatus membrane; multi-pass membrane protein. Vacuole; vacuolar
+    membrane; multi-pass membrane protein.
+-!- PTM: N-glycosylated.
+-!- MISCELLANEOUS: Target of the inhibitor of GPI biosynthesis
+    YW3548/BE49385A.
+-!- SIMILARITY: Belongs to the PIGG/PIGN/PIGO family. PIGN subfamily.
+ GO:0009277; C:cell wall (sensu Fungi); IDA:SGD.
+ GO:0005783; C:endoplasmic reticulum; IDA:SGD.
+ GO:0000324; C:vacuole (sensu Fungi); IDA:SGD.
+ GO:0051377; F:mannose-ethanolamine phosphotransferase act...; IMP:SGD.
+ GO:0015867; P:ATP transport; IDA:SGD.
+ GO:0006506; P:GPI anchor biosynthesis; IDA:SGD.
+Cell wall; Complete proteome; Endoplasmic reticulum; Glycoprotein;
+Golgi apparatus; GPI-anchor biosynthesis; Membrane; Transferase;
+Transmembrane; Vacuole.
+TMFIFTEEN

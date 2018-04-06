@@ -1,0 +1,38 @@
+AC   P30750; P77517; Q47615;
+Methionine import ATP-binding protein metN (EC 3.6.3.-).
+"Nucleotide sequence of 5'flanking region of the ribosomal RNA gene
+(rrnH) in E. coli.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+4.0 - 6.0 min (189,987 - 281,416bp) region.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Cloning and organization of the abc and mdl genes of Escherichia
+coli: relationship to eukaryotic multidrug resistance.";
+"The metD D-methionine transporter locus of Escherichia coli is an ABC
+transporter gene cluster.";
+"A transporter of Escherichia coli specific for L- and D-methionine is
+the prototype for a new family within the ABC superfamily.";
+-!- FUNCTION: Part of the ABC transporter complex metNIQ involved in
+    methionine import. Responsible for energy coupling to the
+    transport system (Probable). It has also been shown to be involved
+    in formyl-L-methionine transport.
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (metN), two transmembrane proteins (metI) and a solute-binding
+    protein (metQ) (Probable).
+-!- INTERACTION:
+    P0A6N1:tufA; NbExp=1; IntAct=EBI-541886, EBI-301077;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Methionine
+    importer (TC 3.A.1.24) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- CAUTION: Ref.1 (BAA03659) sequence differs from that shown due to
+    frameshifts in positions 106 and 156.
+-!- CAUTION: Ref.6 (AAC36869) sequence differs from that shown due to
+    a frameshift in position 200.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Amino-acid transport; ATP-binding; Complete proteome; Hydrolase;
+Inner membrane; Membrane; Nucleotide-binding; Transport.
+TMZERO

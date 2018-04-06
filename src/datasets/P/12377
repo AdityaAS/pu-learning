@@ -1,0 +1,25 @@
+AC   P38929;
+Calcium-transporting ATPase 2 (EC 3.6.3.8) (Vacuolar Ca(2+)-ATPase).
+"Calcineurin-dependent growth control in Saccharomyces cerevisiae
+mutants lacking PMC1, a homolog of plasma membrane Ca2+ ATPases.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: This magnesium-dependent enzyme catalyzes the hydrolysis
+    of ATP coupled with the transport of calcium. Transports the
+    calcium to the vacuole and participates in the control of the
+    cytosolic free calcium.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Ca(2+)(Cis) = ADP + phosphate +
+    Ca(2+)(Trans).
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- MISCELLANEOUS: Present with 98 molecules/cell.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); IDA:SGD.
+ GO:0005388; F:calcium-transporting ATPase activity; IMP:SGD.
+ GO:0006874; P:calcium ion homeostasis; IMP:SGD.
+ GO:0006816; P:calcium ion transport; IMP:SGD.
+ATP-binding; Calcium; Calcium transport; Complete proteome; Hydrolase;
+Ion transport; Magnesium; Membrane; Nucleotide-binding;
+Phosphorylation; Transmembrane; Transport; Vacuole.
+TMTEN

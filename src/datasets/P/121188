@@ -1,0 +1,14 @@
+AC   P0A913; P07176;
+Peptidoglycan-associated lipoprotein precursor.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Thought to play a role in bacterial envelope integrity.
+    Very strongly associated with the peptidoglycan (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor (By
+    similarity).
+-!- SIMILARITY: Belongs to the ompA family. Pal subfamily.
+-!- SIMILARITY: Contains 1 OmpA-like domain.
+Complete proteome; Lipoprotein; Membrane; Outer membrane; Palmitate;
+Signal.
+TMZERO

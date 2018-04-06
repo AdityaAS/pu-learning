@@ -1,0 +1,39 @@
+AC   P40107;
+GDP-mannose transporter.
+"The yeast VRG4 gene is required for normal Golgi functions and
+defines a new family of related genes.";
+"Sodium orthovanadate-resistant mutants of Saccharomyces cerevisiae
+show defects in Golgi-mediated protein glycosylation, sporulation and
+detergent resistance.";
+"Sequence analysis of 203 kilobases from Saccharomyces cerevisiae
+chromosome VII.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"The VRG4 gene is required for GDP-mannose transport into the lumen of
+the Golgi in the yeast, Saccharomyces cerevisiae.";
+"Molecular characterization of Vig4/Vrg4 GDP-mannose transporter of
+the yeast Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in the import of GDP-mannose from the cytoplasm
+    into the Golgi lumen. Defective copy causes severe glycosylation
+    defect and abnormal retention of soluble endoplasmic reticulum
+    proteins.
+-!- SUBUNIT: Homooligomer.
+-!- INTERACTION:
+    P38822:BZZ1; NbExp=1; IntAct=EBI-7764, EBI-3889;
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 31900 molecules/cell.
+-!- SIMILARITY: Belongs to the nucleotide-sugar transporter family.
+    SLC35D subfamily.
+ GO:0005794; C:Golgi apparatus; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005338; F:nucleotide-sugar transporter activity; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0030259; P:lipid glycosylation; IMP:SGD.
+ GO:0015780; P:nucleotide-sugar transport; IDA:SGD.
+ GO:0006487; P:protein amino acid N-linked glycosylation; IMP:SGD.
+Complete proteome; Golgi apparatus; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTEN

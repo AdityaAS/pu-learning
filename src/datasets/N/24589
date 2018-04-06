@@ -1,0 +1,16 @@
+AC   Q15782; Q15749; Q15783;
+Chitinase 3-like protein 2 precursor (YKL-39) (Chondrocyte protein
+39).
+"Cloning of a novel lymphoid restricted human chitinase and
+localization to 1p13.3.";
+"Isolation and sequence of a novel human chondrocyte protein related
+to mammalian members of the chitinase protein family.";
+-!- FUNCTION: May bind glycan structure with high affinity, but not
+    heparin. Has no chitotriosidase activity.
+-!- TISSUE SPECIFICITY: Highest expression in chondrocytes, followed
+    by synoviocytes, lung and heart. Not detected in spleen, pancreas,
+    and liver. May also be expressed in developing brain and placenta.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 18 family.
+ GO:0005615; C:extracellular space; TAS:ProtInc.
+Direct protein sequencing; Glycoprotein; Hydrolase; Signal.
+TMZERO

@@ -1,0 +1,22 @@
+AC   P96920;
+Exodeoxyribonuclease V beta chain (EC 3.1.11.5).
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+-!- FUNCTION: Required for efficient DNA repair; it catalyzes the
+    unwinding of double-stranded DNA and the cleavage of single-
+    stranded DNA and it stimulates local genetic recombination. All of
+    these activities require concomitant hydrolysis of ATP (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Exonucleolytic cleavage (in the presence of
+    ATP) in either 5'- to 3'- or 3'- to 5'-direction to yield 5'-
+    phosphooligonucleotides.
+-!- SUBUNIT: Consist of three subunits; recB, recC and recD (By
+    similarity).
+-!- SIMILARITY: Belongs to the helicase family. UvrD subfamily.
+-!- SIMILARITY: Contains 1 uvrD-like helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 uvrD-like helicase C-terminal domain.
+ATP-binding; Complete proteome; DNA damage; DNA repair; Endonuclease;
+Exonuclease; Helicase; Hydrolase; Nuclease; Nucleotide-binding.
+TMZERO

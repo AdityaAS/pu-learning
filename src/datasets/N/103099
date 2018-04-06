@@ -1,0 +1,29 @@
+AC   Q32PI9;
+Myelin protein zero-like protein 1 precursor.
+-!- FUNCTION: Cell surface receptor, which is involved in signal
+    transduction processes. Recruits PTPN11/SHP-2 to the cell membrane
+    and is a putative substrate of PTPN11/SHP-2. Is a major receptor
+    for concanavalin A (ConA) and is involved in cellular signaling
+    induced by ConA, which probably includes Src family tyrosine-
+    protein kinases. May be involved in regulation of integrin-
+    mediated cell motility (By similarity).
+-!- SUBUNIT: Interacts with phosphorylated PTPN11/SHP-2 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- DOMAIN: Contains 2 copies of a cytoplasmic motif that is referred
+    to as the immunoreceptor tyrosine-based inhibitor motif (ITIM).
+    This motif is involved in modulation of cellular responses. The
+    phosphorylated ITIM motif can bind the SH2 domain of several SH2-
+    containing phosphatases.
+-!- PTM: Phosphorylated on tyrosine residues upon stimulation with
+    pervanadate and concanavalin A (ConA). Phosphorylation at Tyr-241
+    and Tyr-263 is required for interaction with PTPN11/SHP-2.
+    Dephosphorylated by PTPN11/SHP-2 (in vitro) (By similarity).
+-!- PTM: N-glycosylated (By similarity).
+-!- SIMILARITY: Belongs to the myelin P0 protein family.
+-!- SIMILARITY: Contains 1 Ig-like V-type (immunoglobulin-like)
+    domain.
+Glycoprotein; Immunoglobulin domain; Membrane; Phosphorylation;
+Signal; Transmembrane.
+TMONE

@@ -1,0 +1,15 @@
+AC   Q2KTN9;
+Arginyl-tRNA synthetase (EC 6.1.1.19) (Arginine--tRNA ligase) (ArgRS).
+"Comparison of the genome sequence of the poultry pathogen Bordetella
+avium with those of B. bronchiseptica, B. pertussis, and B.
+parapertussis reveals extensive diversity in surface structures
+associated with host interaction.";
+-!- CATALYTIC ACTIVITY: ATP + L-arginine + tRNA(Arg) = AMP +
+    diphosphate + L-arginyl-tRNA(Arg).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

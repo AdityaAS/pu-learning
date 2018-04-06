@@ -1,0 +1,29 @@
+AC   Q56228; Q5SM47;
+NADH-quinone oxidoreductase subunit 13 (EC 1.6.99.5) (NADH
+dehydrogenase I chain 13) (NDH-1 subunit 13).
+"The proton-translocating NADH-quinone oxidoreductase (NDH-1) of
+thermophilic bacterium Thermus thermophilus HB-8. Complete DNA
+sequence of the gene cluster and thermostable properties of the
+expressed NQO2 subunit.";
+"Complete genome sequence of Thermus thermophilus HB8.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain. The
+    immediate electron acceptor for the enzyme in this species is
+    menaquinone. Couples the redox reaction to proton translocation
+    (for every two electrons transferred, four hydrogen ions are
+    translocated across the cytoplasmic membrane), and thus conserves
+    the redox energy in a proton gradient required for the synthesis
+    of ATP.
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- SUBUNIT: NDH-1 is composed of 15 different subunits, nqo1 to
+    nqo15. The complex has a L-shaped structure, with the hydrophobic
+    arm (subunits nqo7, nqo8 and nqo10 to nqo14) embedded in the
+    membrane and the hydrophilic peripheral arm (subunits nqo1 to
+    nqo6, nqo9 and nqo15) protruding into the bacterial cytoplasm. The
+    hydrophilic domain contains all the redox centers.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the complex I subunit 4 family.
+Complete proteome; Membrane; NAD; Oxidoreductase; Quinone;
+Transmembrane.
+TMFOURTEEN

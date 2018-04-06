@@ -1,0 +1,23 @@
+AC   Q9WVR6;
+Large neutral amino acids transporter small subunit 2 (L-type amino
+acid transporter 2).
+"Identification and functional characterization of a Na+-independent
+neutral amino acid transporter with broad substrate selectivity.";
+-!- FUNCTION: Sodium-independent, high-affinity transport of large
+    neutral amino acids. Has higher affinity for L-phenylalanine than
+    LAT1 but lower affinity for glutamine and serine. L-alanine is
+    transported at physiological concentrations. Plays a role in
+    basolateral (re)absorption of neutral amino acids.
+-!- SUBUNIT: Disulfide-linked heterodimer with the amino acid
+    transport protein SLC3A2/4F2hc.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. L-type amino acid transporter (LAT) (TC 2.A.3.8)
+    family.
+ GO:0016021; C:integral to membrane; ISS:UniProtKB.
+ GO:0015171; F:amino acid transporter activity; ISS:UniProtKB.
+ GO:0042605; F:peptide antigen binding; ISS:UniProtKB.
+ GO:0015804; P:neutral amino acid transport; ISS:UniProtKB.
+Amino-acid transport; Membrane; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,24 @@
+AC   P32386; Q07882;
+ATP-dependent bile acid permease.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"RNP1, a new ribonucleoprotein gene of the yeast Saccharomyces
+cerevisiae.";
+"A yeast ATP-binding cassette-type protein mediating ATP-dependent
+bile acid transport.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- FUNCTION: Exhibits ATP-dependent bile acid transport.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Present with 3000 molecules/cell.
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0000324; C:vacuole (sensu Fungi); IDA:SGD.
+ GO:0015125; F:bile acid transporter activity; IMP:SGD.
+ GO:0015721; P:bile acid transport; IMP:SGD.
+ATP-binding; Complete proteome; Glycoprotein; Membrane;
+Nucleotide-binding; Phosphorylation; Repeat; Transmembrane; Transport.
+TMSEVENTEEN

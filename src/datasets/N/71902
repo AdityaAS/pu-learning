@@ -1,0 +1,11 @@
+AC   Q974S1;
+Putative ski2-type helicase (EC 3.6.1.-).
+"Complete genome sequence of an aerobic thermoacidophilic
+Crenarchaeon, Sulfolobus tokodaii strain7.";
+-!- SIMILARITY: Belongs to the helicase family. SKI2 subfamily.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ GO:0016818; F:hydrolase activity, acting on acid anhydrid...; IEA:HAMAP.
+ATP-binding; Complete proteome; Helicase; Hydrolase;
+Nucleotide-binding.
+TMZERO

@@ -1,0 +1,47 @@
+AC   P0ABA6; P00837; P00838; Q2M851;
+ATP synthase gamma chain (EC 3.6.3.14) (ATP synthase F1 sector gamma
+subunit).
+"DNA sequence around the Escherichia coli unc operon. Completion of
+the sequence of a 17 kilobase segment containing asnA, oriC, unc, glmS
+and phoS.";
+"The atp operon: nucleotide sequence of the genes for the gamma, beta,
+and epsilon subunits of Escherichia coli ATP synthase.";
+"Nucleotide sequence of the genes coding for alpha, beta and gamma
+subunits of the proton-translocating ATPase of Escherichia coli.";
+"Structure and function of H+-ATPase: what we have learned from
+Escherichia coli H+-ATPase.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Structure of the gamma subunit of Escherichia coli F1 ATPase probed
+in trypsin digestion and biotin-avidin binding studies.";
+"H(+)-ATPase gamma subunit of Escherichia coli. Role of the conserved
+carboxyl-terminal region.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Structural features of the gamma subunit of the Escherichia coli F(1)
+ATPase revealed by a 4.4-A resolution map obtained by X-ray
+crystallography.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane. The gamma chain is believed to be
+    important in regulating ATPase activity and the flow of protons
+    through the CF(0) complex.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- INTERACTION:
+    P0ACC1:hemK; NbExp=1; IntAct=EBI-544306, EBI-1122814;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ATPase gamma chain family.
+-!- CAUTION: Ref.3 sequence differs from that shown due to frameshifts
+    and various other errors.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; ATP synthesis; CF(1); Complete proteome;
+Direct protein sequencing; Hydrogen ion transport; Hydrolase;
+Ion transport; Transport.
+TMZERO

@@ -1,0 +1,13 @@
+AC   P53517;
+Outer membrane usher protein afaC precursor.
+"Nucleotide sequence of the afimbrial-adhesin-encoding afa-3 gene
+cluster and its translocation via flanking IS1 insertion sequences.";
+-!- FUNCTION: Involved in the export and assembly of AFA-III afimbrial
+    adhesin subunits across the outer membrane.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the fimbrial export usher family.
+-!- CAUTION: It is uncertain whether Met-1 or Met-9 is the initiator.
+Fimbria; Membrane; Outer membrane; Plasmid; Signal; Transmembrane;
+Transport.
+TMZERO

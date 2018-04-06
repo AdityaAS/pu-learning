@@ -1,0 +1,41 @@
+AC   P82271;
+Rhesus theta defensin-1/2, subunit B precursor (RTD-1b) (RTD-1 subunit
+B) (RTD-2) (Demidefensin-1).
+"A cyclic antimicrobial peptide produced in primate leukocytes by the
+ligation of two truncated alpha-defensins.";
+"Circular minidefensins and posttranslational generation of molecular
+diversity.";
+"Homodimeric theta-defensins from rhesus macaque leukocytes:
+isolation, synthesis, antimicrobial activities, and bacterial binding
+properties of the cyclic peptides.";
+-!- FUNCTION: RTD-1 and RTD-2 have similar antimicrobial activities
+    against the Gram-positive bacteria S.aureus 502A and
+    L.monocytogenes, the Gram-negative bacterium S.typhimurium, and
+    the fungi C.albicans 16820 and C.neoformans 271A. RTD-2 is 2-3-
+    fold less active than RTD-1 against E.coli ML35.
+-!- SUBUNIT: RTD-1 is a cyclic heterodimer composed of subunits A and
+    B; disulfide-linked. RTD-2 is a cyclic homodimer composed of two
+    subunits B; disulfide-linked.
+-!- TISSUE SPECIFICITY: RTD-1 is expressed in bone marrow. Detected in
+    promyelocytes, myelocytes and mature neutrophils and monocytes.
+-!- DEVELOPMENTAL STAGE: RTD-1 expression begins early during
+    granulocyte myelopoiesis.
+-!- PTM: Forms a cyclic peptide with 1 subunit B (RTD-2) or with 1
+    subunit A (RTD-1). An additional intersubunit disulfide bond is
+    formed.
+-!- MASS SPECTROMETRY: MW=2083.0; METHOD=MALDI; RANGE=65-73; NOTE=RTD-
+    1, heterodimer, cyclized and oxidized (Ref.3).
+-!- MASS SPECTROMETRY: MW=2087.9; METHOD=MALDI; RANGE=65-73; NOTE=RTD-
+    2, homodimer, cyclized and oxidized (Ref.3).
+-!- MASS SPECTROMETRY: MW=2087.70; METHOD=MALDI; RANGE=65-73;
+    NOTE=RTD-1, heterodimer and reduced (Ref.2).
+-!- MASS SPECTROMETRY: MW=2094.89; METHOD=MALDI; RANGE=65-73;
+    NOTE=RTD-2, homodimer and reduced (Ref.2).
+-!- MISCELLANEOUS: RTD-1 is 10-fold more present in cells than RTD-2.
+-!- SIMILARITY: Belongs to the alpha-defensin family. Theta subfamily.
+ GO:0050832; P:defense response to fungus; IDA:UniProtKB.
+ GO:0050829; P:defense response to Gram-negative bacterium; IDA:UniProtKB.
+ GO:0050830; P:defense response to Gram-positive bacterium; IDA:UniProtKB.
+Antibiotic; Antimicrobial; Defensin; Direct protein sequencing;
+Fungicide; Signal.
+TMZERO

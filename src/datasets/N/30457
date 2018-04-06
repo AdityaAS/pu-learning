@@ -1,0 +1,19 @@
+AC   Q9CQI6;
+Coactosin-like protein.
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Molecular cloning and functional characterization of mouse coactosin-
+like protein.";
+-!- FUNCTION: Binds to F-actin in a calcium-independent manner. Has no
+    direct effect on actin depolymerization.
+-!- SUBUNIT: Interacts with 5-lipoxygenase (5LO) in a calcium-
+    independent manner.
+-!- SIMILARITY: Belongs to the actin-binding proteins ADF family.
+    Coactosin subfamily.
+-!- SIMILARITY: Contains 1 ADF-H domain.
+ GO:0003779; F:actin binding; IDA:MGI.
+ GO:0019899; F:enzyme binding; IPI:UniProtKB.
+ GO:0050832; P:defense response to fungus; IDA:UniProtKB.
+3D-structure; Actin-binding; Cytoskeleton; Phosphorylation.
+TMZERO

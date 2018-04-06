@@ -1,0 +1,13 @@
+AC   P10472;
+Thioredoxin (TRX).
+"Mass spectrometrically derived amino acid sequence of thioredoxin
+from Chlorobium, an evolutionarily prominent photosynthetic
+bacterium.";
+-!- FUNCTION: Participates in various redox reactions through the
+    reversible oxidation of its active center dithiol to a disulfide
+    and catalyzes dithiol-disulfide exchange reactions.
+-!- SIMILARITY: Belongs to the thioredoxin family.
+-!- SIMILARITY: Contains 1 thioredoxin domain.
+Direct protein sequencing; Electron transport; Redox-active center;
+Transport.
+TMZERO

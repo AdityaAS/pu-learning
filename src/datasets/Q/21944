@@ -1,0 +1,19 @@
+AC   Q8VHW1;
+Voltage-dependent calcium channel gamma-like subunit (Neuronal
+voltage-gated calcium channel gamma-like subunit) (Transmembrane
+protein 37).
+"Calcium channel gamma subunits provide insights into the evolution of
+this gene family.";
+-!- FUNCTION: Thought to stabilize the calcium channel in an
+    inactivated (closed) state. Modulates calcium current when
+    coexpressed with CACNA1G (By similarity).
+-!- SUBUNIT: The L-type calcium channel is composed of five subunits:
+    alpha-1, alpha-2/delta, beta and gamma (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the PMP-22/EMP/MP20 family. CACNG
+    subfamily.
+Calcium; Calcium channel; Calcium transport; Ion transport;
+Ionic channel; Membrane; Transmembrane; Transport;
+Voltage-gated channel.
+TMFOUR

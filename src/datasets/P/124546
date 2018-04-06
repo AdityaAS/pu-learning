@@ -1,0 +1,27 @@
+AC   P27589;
+Cytochrome b6-f complex subunit 4 (17 kDa polypeptide).
+"Construction of insertion mutants of Synechocystis sp. PCC 6803:
+evidence for an essential function of subunit IV of the cytochrome
+b6/f complex.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. I. Sequence features in the 1 Mb
+region from map positions 64% to 92% of the genome.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- FUNCTION: Component of the cytochrome b6-f complex, which mediates
+    electron transfer between photosystem II (PSII) and photosystem I
+    (PSI), cyclic electron flow around PSI, and state transitions (By
+    similarity).
+-!- SUBUNIT: The 4 large subunits of the cytochrome b6-f complex are
+    cytochrome b6, subunit IV (17 kDa polypeptide, petD), cytochrome f
+    and the Rieske protein, while the 4 small subunits are petG, petL,
+    petM and petN. The complex functions as a dimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; multi-pass
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the cytochrome b family. PetD subfamily.
+ GO:0009512; C:cytochrome b6f complex; IDA:UniProtKB.
+ GO:0009767; P:photosynthetic electron transport; NAS:UniProtKB.
+Complete proteome; Electron transport; Membrane; Photosynthesis;
+Thylakoid; Transmembrane; Transport.
+THTHREE

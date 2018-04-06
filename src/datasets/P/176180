@@ -1,0 +1,34 @@
+AC   Q9UHB9; Q8NCJ4; Q8WUK2;
+Signal recognition particle 68 kDa protein (SRP68).
+"Signal recognition particle components in the nucleolus.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Signal-recognition-particle assembly has a crucial role
+    in targeting secretory proteins to the rough endoplasmic reticulum
+    membrane. SRP68 binds the 7S RNA, SRP72 binds to this complex
+    subsequently. This ribonucleoprotein complex might interact
+    directly with the docking protein in the ER membrane and possibly
+    participate in the elongation arrest function.
+-!- SUBUNIT: Signal recognition particle consists of a 7S RNA molecule
+    of 300 nucleotides and six protein subunits: SRP72, SRP68, SRP54,
+    SRP19, SRP14 and SRP9.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus; nucleolus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9UHB9-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9UHB9-2; Sequence=VSP_008347;
+      Note=No experimental confirmation available;
+-!- MISCELLANEOUS: The RNA binding domain is located near the N-
+    terminus.
+-!- SIMILARITY: Belongs to the SRP68 family.
+ GO:0005783; C:endoplasmic reticulum; TAS:ProtInc.
+ GO:0005730; C:nucleolus; TAS:ProtInc.
+ GO:0005840; C:ribosome; TAS:ProtInc.
+ GO:0005786; C:signal recognition particle (sensu Eukaryota); TAS:ProtInc.
+Alternative splicing; Nuclear protein; Ribonucleoprotein; RNA-binding;
+Signal recognition particle.
+TMZERO

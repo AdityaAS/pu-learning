@@ -1,0 +1,24 @@
+AC   Q51161; Q51157; Q51158; Q51159; Q51160; Q57214; Q60395;
+Dihydropteroate synthase (EC 2.5.1.15) (DHPS) (Dihydropteroate
+pyrophosphorylase).
+"Transformational exchanges in the dihydropteroate synthase gene of
+Neisseria meningitidis: a novel mechanism for acquisition of
+sulfonamide resistance.";
+"Sulfonamide resistance in Neisseria meningitidis as defined by site-
+directed mutagenesis could have its origin in other species.";
+"Complete genome sequence of Neisseria meningitidis serogroup B strain
+MC58.";
+-!- FUNCTION: DHPS catalyzes the formation of the immediate precursor
+    of folic acid. It is implicated in resistance to sulfonamide.
+-!- CATALYTIC ACTIVITY: 2-amino-4-hydroxy-6-hydroxymethyl-7,8-
+    dihydropteridine diphosphate + 4-aminobenzoate = diphosphate +
+    dihydropteroate.
+-!- PATHWAY: Cofactor biosynthesis; tetrahydrofolate biosynthesis;
+    tetrahydrofolate from 2-amino-4-hydroxy-6-hydroxymethyl-7,8-
+    dihydropteridine diphosphate and 4-aminobenzoate: step 1.
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the DHPS family.
+-!- SIMILARITY: Contains 1 pterin-binding domain.
+Antibiotic resistance; Complete proteome; Folate biosynthesis;
+Transferase.
+TMZERO

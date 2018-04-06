@@ -1,0 +1,18 @@
+AC   P12681;
+Phosphoglycerate transporter protein.
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Nucleotide sequence and transcription start point of the
+phosphoglycerate transporter gene of Salmonella typhimurium.";
+-!- FUNCTION: The phosphoglycerate transporter protein is a part of
+    the PGT transport system. It is the membrane bound transporter for
+    phosphoglycerate into salmonella.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By extracellular phosphoglycerate.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. SLC37A
+    family.
+-!- CAUTION: Ref.2 (AAA27186) sequence differs from that shown due to
+    frameshifts in positions 134, 146 and 407.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

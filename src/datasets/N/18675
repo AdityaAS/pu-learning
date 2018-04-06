@@ -1,0 +1,17 @@
+AC   P79188;
+C5a anaphylatoxin chemotactic receptor (C5a-R) (C5aR) (CD88 antigen)
+(Fragment).
+"Molecular evolution of the N-formyl peptide and C5a receptors in non-
+human primates.";
+-!- FUNCTION: Receptor for the chemotactic and inflammatory peptide
+    anaphylatoxin C5a. This receptor stimulates chemotaxis, granule
+    enzyme release and superoxide anion production.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- PTM: Sulfation plays a critical role in the association of C5aR
+    with C5a, but no significant role in the ability of the receptor
+    to transduce a signal and mobilize calcium in response to a small
+    peptide agonist (By similarity).
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+Chemotaxis; G-protein coupled receptor; Membrane; Phosphorylation;
+Receptor; Sulfation; Transducer; Transmembrane.
+TMSEVEN

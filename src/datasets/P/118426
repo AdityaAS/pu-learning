@@ -1,0 +1,15 @@
+AC   P46027;
+Outer membrane protein P2 precursor (OMP P2).
+"Antigenic drift of non-encapsulated Haemophilus influenzae major
+outer membrane protein P2 in patients with chronic bronchitis is
+caused by point mutations.";
+"Genetic analysis of the diversity in outer membrane protein P2 of
+non-encapsulated Haemophilus influenzae.";
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: The sequence of strain T1 is shown here.
+-!- SIMILARITY: Belongs to the Gram-negative porin family.
+Ion transport; Membrane; Outer membrane; Porin; Signal; Transmembrane;
+Transport.
+TMZERO

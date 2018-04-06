@@ -1,0 +1,37 @@
+AC   P97334; Q9QZ60; Q9WV67;
+Homeobox protein Nkx-2.3 (Homeobox protein NK-2 homolog C) (Nkx2-C)
+(Homeobox protein NK-2 homolog 3).
+"The mouse Nkx2-3 homeodomain gene is expressed in gut mesenchyme
+during pre- and postnatal mouse development.";
+"Homeodomain factor Nkx2-3 is required for normal development of the
+gut-associated lymphoid tissue and the spleen.";
+"Homeodomain factor Nkx2-3 controls regional expression of leukocyte
+homing coreceptor MAdCAM-1 in specialized endothelial cells of the
+viscera.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"NKX2.3 is required for MAdCAM-1 expression and homing of lymphocytes
+in spleen and mucosa-associated lymphoid tissue.";
+"NK-2 class homeobox genes and pharyngeal/oral patterning: Nkx2-3 is
+required for salivary gland and tooth morphogenesis.";
+-!- FUNCTION: Transcriptional regulator essential for normal
+    development and functions of the small intestine and spleen.
+    Activates directly MADCAM1 expression. Required for homing of
+    lymphocytes in spleen and mucosa-associated lymphoid tissue. May
+    have a role during pharyngeal organogenesis.
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- TISSUE SPECIFICITY: Expressed in spleen and intestine. Also
+    expressed in salivary gland and tongue.
+-!- DEVELOPMENTAL STAGE: Expressed in gut mesenchyme during pre- and
+    postnatal development. Expressed as well in the pharyngeal floor
+    and pouches, and in the oral and branchial arch ectoderm.
+    Expression persisted in the developing thyroid until birth, in
+    mucous forming cells of salivary glands and in odontogenic
+    epithelium of the mandible.
+-!- SIMILARITY: Belongs to the NK-2 homeobox family.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+ GO:0030183; P:B cell differentiation; IMP:MGI.
+ GO:0006955; P:immune response; IMP:MGI.
+Developmental protein; DNA-binding; Homeobox; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

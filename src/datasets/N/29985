@@ -1,0 +1,15 @@
+AC   P11149;
+Colipase (Fragment).
+"Purification and characterization of pancreatic colipase from the
+dogfish (Squalus acanthius).";
+-!- FUNCTION: Colipase is a cofactor of pancreatic lipase. It allows
+    the lipase to anchor itself to the lipid-water interface. Without
+    colipase the enzyme is washed off by bile salts, which have an
+    inhibitory effect on the lipase.
+-!- SUBUNIT: Forms a 1:1 stoichiometric complex with pancreatic
+    lipase.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the pancreas.
+-!- SIMILARITY: Belongs to the colipase family.
+Digestion; Direct protein sequencing; Lipid degradation.
+TMZERO

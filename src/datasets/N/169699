@@ -1,0 +1,12 @@
+AC   P84692;
+Toxin Tc64 (Fragment).
+"Proteomics of the venom from the Amazonian scorpion Tityus cambridgei
+and the role of prolines on mass spectrometry analysis of toxins.";
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- MASS SPECTROMETRY: MW=7628.7; METHOD=Electrospray; RANGE=1-?;
+    NOTE=Ref.1.
+ GO:0005576; C:extracellular region; IDA:UniProtKB.
+ GO:0009405; P:pathogenesis; IDA:UniProtKB.
+Direct protein sequencing; Toxin.
+TMZERO

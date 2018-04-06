@@ -1,0 +1,13 @@
+AC   P31256;
+Homeobox protein Hox-B6 (XlHox-2.2) (Fragment).
+"Effects of lithium chloride and retinoic acid on the expression of
+genes from the Xenopus laevis Hox 2 complex.";
+-!- FUNCTION: Sequence-specific transcription factor which is part of
+    a developmental regulatory system that provides cells with
+    specific positional identities on the anterior-posterior axis.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the Antp homeobox family.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+Developmental protein; DNA-binding; Homeobox; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

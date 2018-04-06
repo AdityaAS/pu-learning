@@ -1,0 +1,14 @@
+AC   Q03768;
+Protein GIR2.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+-!- INTERACTION:
+    P53295:YGR173W; NbExp=1; IntAct=EBI-7618, EBI-23421;
+-!- MISCELLANEOUS: Present with 10300 molecules/cell.
+-!- SIMILARITY: Contains 1 RWD domain.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome.
+TMZERO

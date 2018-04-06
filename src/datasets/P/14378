@@ -1,0 +1,26 @@
+AC   P29709;
+ATP synthase epsilon chain, sodium ion specific (EC 3.6.3.15) (Na(+)-
+translocating ATPase epsilon subunit).
+"Characterization of the genes coding for the F1F0 subunits of the
+sodium dependent ATPase of Propionigenium modestum.";
+"N-terminal amino acid sequences of the subunits of the Na(+)-
+translocating F1F0 ATPase from Propionigenium modestum.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a sodium
+    gradient across the membrane.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- MISCELLANEOUS: The ATPase of P.modestum is of special interest
+    because it uses sodium ions instead of protons as the
+    physiological coupling ion.
+-!- SIMILARITY: Belongs to the ATPase epsilon chain family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0042777; P:ATP synthesis coupled proton transport (sen...; IEA:HAMAP.
+ATP synthesis; CF(1); Direct protein sequencing; Hydrolase;
+Inner membrane; Ion transport; Membrane; Sodium; Sodium transport;
+Transport.
+TMZERO

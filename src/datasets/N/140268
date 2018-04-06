@@ -1,0 +1,43 @@
+AC   P32628;
+UV excision repair protein RAD23.
+"The Saccharomyces cerevisiae DNA repair gene RAD23 encodes a nuclear
+protein containing a ubiquitin-like domain required for biological
+function.";
+"The gene clusters ARC and COR on chromosomes 5 and 10, respectively,
+of Saccharomyces cerevisiae share a common ancestry.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"The N-terminus of yeast peptide: N-glycanase interacts with the DNA
+repair protein Rad23.";
+"Structure of a peptide:N-glycanase-Rad23 complex: insight into the
+deglycosylation for denatured glycoproteins.";
+-!- FUNCTION: Plays a central role both in proteosomal degradation of
+    misfolded proteins and DNA repair. Central component of a complex
+    required to couple deglycosylation and proteasome-mediated
+    degradation of misfolded proteins in the endoplasmic reticulun
+    that are retrotranslocated in the cytosol. Involved in DNA
+    excision repair. May play a part in DNA damage recognition and/or
+    in altering chromatin structure to allow access by damage-
+    processing enzymes.
+-!- SUBUNIT: Interacts directly with PNG1.
+-!- INTERACTION:
+    P25347:YCR001W; NbExp=1; IntAct=EBI-14668, EBI-21836;
+-!- SUBCELLULAR LOCATION: Nucleus. Cytoplasm.
+-!- MISCELLANEOUS: Present with 10900 molecules/cell.
+-!- SIMILARITY: Contains 2 UBA domains.
+-!- SIMILARITY: Contains 1 ubiquitin-like domain.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0000111; C:nucleotide-excision repair factor 2 complex; IDA:SGD.
+ GO:0000502; C:proteasome complex (sensu Eukaryota); IMP:SGD.
+ GO:0000108; C:repairosome; IDA:SGD.
+ GO:0003684; F:damaged DNA binding; IDA:SGD.
+ GO:0030674; F:protein binding, bridging; IPI:SGD.
+ GO:0030433; P:ER-associated protein catabolism; IMP:SGD.
+ GO:0042177; P:negative regulation of protein catabolism; TAS:SGD.
+ GO:0000715; P:nucleotide-excision repair, DNA damage reco...; TAS:SGD.
+3D-structure; Complete proteome; DNA damage; DNA repair;
+Nuclear protein; Repeat; Ubl conjugation pathway.
+TMZERO

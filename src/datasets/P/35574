@@ -1,0 +1,18 @@
+AC   P18770;
+Cyclolysin secretion/processing ATP-binding protein cyaB
+(EC 3.4.22.-).
+"Secretion of cyclolysin, the calmodulin-sensitive adenylate cyclase-
+haemolysin bifunctional protein of Bordetella pertussis.";
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+-!- FUNCTION: Involved in the export of calmodulin-sensitive adenylate
+    cyclase-hemolysin (cyclolysin).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. HlyB subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 1 peptidase C39 domain.
+ATP-binding; Complete proteome; Cytolysis; Hemolysis; Hydrolase;
+Membrane; Nucleotide-binding; Protease; Thiol protease; Transmembrane;
+Transport.
+TMTEN

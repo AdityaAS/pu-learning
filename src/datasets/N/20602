@@ -1,0 +1,16 @@
+AC   Q9Y7C2;
+Catalase B (EC 1.11.1.6).
+"Redundancy, phylogeny and differential expression of Histoplasma
+capsulatum catalases.";
+"Characterization of the Histoplasma capsulatum gene for the
+externally located catalase B enzyme.";
+-!- FUNCTION: Occurs in almost all aerobically respiring organisms and
+    serves to protect cells from the toxic effects of hydrogen
+    peroxide.
+-!- CATALYTIC ACTIVITY: 2 H(2)O(2) = O(2) + 2 H(2)O.
+-!- COFACTOR: Heme group.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the catalase family.
+Heme; Hydrogen peroxide; Iron; Metal-binding; Oxidoreductase;
+Peroxidase.
+TMZERO

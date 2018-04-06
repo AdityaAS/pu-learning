@@ -1,0 +1,15 @@
+AC   P80978;
+Cytochrome c oxidase polypeptide VIc-2 (EC 1.9.3.1) (Fragments).
+"The subunit structure of cytochrome-c oxidase from tuna heart and
+liver.";
+-!- FUNCTION: This protein is one of the nuclear-coded polypeptide
+    chains of cytochrome c oxidase, the terminal oxidase in
+    mitochondrial electron transport.
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane.
+-!- SIMILARITY: Belongs to the cytochrome c oxidase VIc family.
+ GO:0004129; F:cytochrome-c oxidase activity; IEA:EC.
+Direct protein sequencing; Inner membrane; Membrane; Mitochondrion;
+Oxidoreductase.
+TMZERO

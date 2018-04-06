@@ -1,0 +1,18 @@
+AC   P83099; Q5BIE9; Q9VYN2;
+Putative protein kinase C, delta type homolog (EC 2.7.11.13).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- INTERACTION:
+    Q9VWP6:Pvf1; NbExp=1; IntAct=EBI-101337, EBI-111993;
+    Q9V3S4:robl; NbExp=1; IntAct=EBI-101337, EBI-124888;
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. PKC
+    subfamily.
+-!- SIMILARITY: Contains 2 phorbol-ester/DAG-type zinc fingers.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ATP-binding; Complete proteome; Hypothetical protein; Kinase;
+Metal-binding; Nucleotide-binding; Phorbol-ester binding; Repeat;
+Serine/threonine-protein kinase; Transferase; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,16 @@
+AC   Q45Z28;
+Phospholipase A2, acidic 3 precursor (EC 3.1.1.4) (Phosphatidylcholine
+2-acylhydrolase 3) (PLA-3).
+"Identification and analysis of venom gland-specific genes from the
+coastal taipan (Oxyuranus scutellatus) and related species.";
+-!- FUNCTION: PA2 catalyzes the calcium-dependent hydrolysis of the 2-
+    acyl groups in 3-sn-phosphoglycerides.
+-!- CATALYTIC ACTIVITY: Phosphatidylcholine + H(2)O = 1-
+    acylglycerophosphocholine + a carboxylate.
+-!- COFACTOR: Binds 1 calcium ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the phospholipase A2 family. Group I
+    subfamily.
+Calcium; Hydrolase; Lipid degradation; Metal-binding; Signal; Toxin.
+TMZERO

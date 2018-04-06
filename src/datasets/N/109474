@@ -1,0 +1,14 @@
+AC   Q9DDD5;
+Protein neurobeachin (Fragment).
+"Neurobeachin: a protein kinase A-anchoring, beige/Chediak-Higashi
+protein homolog implicated in neuronal membrane traffic.";
+-!- FUNCTION: Binds to type II regulatory subunits of protein kinase A
+    and anchors/targets them to the membrane. May anchor the kinase to
+    cytoskeletal and/or organelle-associated proteins (By similarity).
+-!- SUBUNIT: Interacts with RII subunit of PKA (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Membrane;
+    peripheral membrane protein (By similarity).
+-!- TISSUE SPECIFICITY: Forebrain and cerebellum.
+-!- SIMILARITY: Belongs to the neurobeachin family.
+Membrane.
+TMZERO

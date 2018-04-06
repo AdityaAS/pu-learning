@@ -1,0 +1,45 @@
+AC   O56860;
+Gag polyprotein [Contains: Gag protein (p48Gag); p3 (p3Gag)].
+"Characterization of the genome of Feline foamy virus and its proteins
+shows distinct features different from those of Primate
+Spumaviruses.";
+"Specific interaction of a novel foamy virus Env leader protein with
+the N-terminal Gag domain.";
+"Features of the Env leader protein and the N-terminal Gag domain of
+feline foamy virus important for virus morphogenesis.";
+"N-terminal Gag domain required for foamy virus particle assembly and
+export.";
+-!- FUNCTION: Involved in capsid formation and genome binding. Shortly
+    after infection, centrosomal targeting of incoming particle-
+    associated Gag proteins allows the viral genome (associated to
+    Gag) to reach the nucleus and integrate the genome (By
+    similarity).
+-!- SUBUNIT: Gag protein specifically interacts with the N-terminus of
+    leader peptide. This specific interaction between Gag protein and
+    Env glycoprotein may compensate for the lack of a Gag membrane
+    targeting signal, and allow particle egress. The capsid is
+    composed of multimeric Gag protein (By similarity).
+-!- SUBCELLULAR LOCATION: Gag protein: Virion. Cytoplasm; perinuclear
+    region. p3: Virion. Cytoplasm; perinuclear region. Note=Gag
+    proteins assemble in the cytoplasm to form the capsids (By
+    similarity).
+-!- PTM: Specific enzymatic cleavages in vivo by viral protease yield
+    mature proteins. The protease is not cleaved off from Pol. Since
+    cleavage efficiency is not optimal for all sites, intermediary
+    molecules are expressed (By similarity).
+-!- MISCELLANEOUS: Foamy viruses are distinct from other retroviruses
+    in many respects. Their protease is active as an uncleaved Pro-Pol
+    protein. Mature particles do not include the usual processed
+    retroviral structural protein (MA, CA and NC), but instead contain
+    two large Gag proteins. Their functional nucleic acid appears to
+    be either RNA or dsDNA (up to 20% of extracellular particles),
+    because they probably proceed either to an early (before
+    integration) or late reverse transcription (after assembly). Foamy
+    viruses have the ability to retrotranspose intracellularly with
+    high efficiency. They bud predominantly into the endoplasmic
+    reticulum (ER) and occasionnally at the plasma membrane. Budding
+    requires the presence of Env proteins. Most viral particles
+    probably remain within the infected cell.
+Capsid protein; DNA-binding; RNA-binding; Viral nucleoprotein;
+Virion protein.
+TMZERO

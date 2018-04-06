@@ -1,0 +1,26 @@
+AC   P0ABP3; Q47134; Q9ZBC9; Q9ZBD0;
+Anaerobic C4-dicarboxylate transporter dcuC.
+"Identification of a third secondary carrier (DcuC) for anaerobic C4-
+dicarboxylate transport in Escherichia coli: roles of the three Dcu
+carriers in uptake and exchange.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Functioning of DcuC as the C4-dicarboxylate carrier during glucose
+fermentation by Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Responsible for the transport of C4-dicarboxylates
+    during anaerobic growth.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the dcuC/dcuD transporter (TC 2.A.61)
+    family.
+-!- CAUTION: Ref.2 and Ref.5 sequences differ from that shown due to
+    the presence of an IS5 insertion element between codons 327 and
+    328. Strain W3110A but not W3110B harbors this IS5 insertion.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

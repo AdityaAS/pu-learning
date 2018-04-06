@@ -1,0 +1,55 @@
+AC   P21812; Q9EPQ9; Q9EQT2;
+Mast cell protease 4 precursor (EC 3.4.21.-) (MMCP-4) (Serosal mast
+cell protease) (MSMCP) (Myonase).
+"Cloning of the cDNA and gene for mouse mast cell protease 4.
+Demonstration of its late transcription in mast cell subclasses and
+analysis of its homology to subclass-specific neutral proteases of the
+mouse and rat.";
+"Independent influence of strain difference and mi transcription
+factor on the expression of mouse mast cell chymases.";
+"Cloning and structural analysis of MMCP-1, MMCP-4 and MMCP-5, three
+mouse mast cell-specific serine proteases.";
+"Purification and characterization of myonase from X-chromosome linked
+muscular dystrophic mouse skeletal muscle.";
+"Different mouse mast cell populations express various combinations of
+at least six distinct mast cell serine proteases.";
+"Biochemical and immunological characterization of multiple glycoforms
+of mouse mast cell protease 1: comparison with an isolated murine
+serosal mast cell protease (MMCP-4).";
+"The chymase, mouse mast cell protease 4, constitutes the major
+chymotrypsin-like activity in peritoneum and ear tissue. A role for
+mouse mast cell protease 4 in thrombin regulation and fibronectin
+turnover.";
+-!- FUNCTION: Has chymotrypsin-like activity. Hydrolyzes the amide
+    bonds of synthetic substrates having Tyr and Phe residues at the
+    P1 position. Preferentially hydrolyzes the 'Tyr-4-|-Ile-5' bond of
+    angiotensin I and the 'Phe-20-|-Ala-21' bond of amyloid beta-
+    protein, and is less active towards the 'Phe-8-|-His-9' bond of
+    angiotensin I and the 'Phe-4-|-Ala-5' and 'Tyr-10-|-Glu-11' bonds
+    of amyloid beta-protein. Involved in thrombin regulation and
+    fibronectin processing.
+-!- ENZYME REGULATION: Completely inhibited by serine protease
+    inhibitors such as chymostatin, diisopropylfluorophosphate and
+    phenylmethylsulfonyl fluoride, but not by p-tosyl-L-phenylalanine
+    chloromethyl ketone, p-tosyl-L-lysine chloromethyl ketone,
+    pepstatin, E-64, EDTA or o-phenanthroline. Also inhibited by lima
+    bean trypsin inhibitor, soy bean trypsin inhibitor and human
+    plasma alpha1-antichymotrysin.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 9 at high salt concentrations;
+-!- SUBUNIT: Monomer.
+-!- TISSUE SPECIFICITY: Submucosal mast cells. In femoral muscle,
+    detected in myocytes but not in mast cells.
+-!- MASS SPECTROMETRY: MW=25187; METHOD=MALDI; RANGE=21-246;
+    NOTE=Ref.4.
+-!- MISCELLANEOUS: Mice lacking Mcpt4 display an impaired ability to
+    inactivate thrombin or degrade fibronectin in peritoneal cells.
+-!- SIMILARITY: Belongs to the peptidase S1 family. Granzyme
+    subfamily.
+-!- SIMILARITY: Contains 1 peptidase S1 domain.
+ GO:0004252; F:serine-type endopeptidase activity; IDA:UniProtKB.
+ GO:0006508; P:proteolysis; IDA:UniProtKB.
+Direct protein sequencing; Hydrolase; Polymorphism; Protease;
+Serine protease; Signal; Zymogen.
+TMZERO

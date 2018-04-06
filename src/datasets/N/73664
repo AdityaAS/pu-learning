@@ -1,0 +1,25 @@
+AC   Q5HCM5;
+Histidine biosynthesis bifunctional protein hisIE [Includes:
+Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) (PRA-CH);
+Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31) (PRA-PH)].
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- CATALYTIC ACTIVITY: 1-(5-phosphoribosyl)-ATP + H(2)O = 1-(5-
+    phosphoribosyl)-AMP + diphosphate.
+-!- CATALYTIC ACTIVITY: 1-(5-phosphoribosyl)-AMP + H(2)O = 1-(5-
+    phosphoribosyl)-5-((5-
+    phosphoribosylamino)methylideneamino)imidazole-4-carboxamide.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 2.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 3.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: In the N-terminal section; belongs to the PRA-CH
+    family.
+-!- SIMILARITY: In the C-terminal section; belongs to the PRA-PH
+    family.
+Amino-acid biosynthesis; Complete proteome; Histidine biosynthesis;
+Hydrolase; Multifunctional enzyme.
+TMZERO

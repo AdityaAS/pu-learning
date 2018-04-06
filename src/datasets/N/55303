@@ -1,0 +1,14 @@
+AC   O51715;
+Flagellar basal-body rod protein flgG (Distal rod protein).
+"Genomic sequence of a Lyme disease spirochaete, Borrelia
+burgdorferi.";
+-!- SUBUNIT: The basal body constitutes a major portion of the
+    flagellar organelle and consists of four rings (L,P,S, and M)
+    mounted on a central rod. The rod consists of about 26 subunits of
+    flgG in the distal portion, and flgB, flgC and flgF are thought to
+    build up the proximal portion of the rod with about 6 subunits
+    each (By similarity).
+-!- SIMILARITY: Belongs to the flagella basal body rod proteins
+    family.
+Complete proteome; Flagellum.
+TMZERO

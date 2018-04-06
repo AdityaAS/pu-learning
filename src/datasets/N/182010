@@ -1,0 +1,20 @@
+AC   Q9FFK1; O65099;
+Syntaxin-31 (AtSYP31) (AtSED5).
+"AtVPS45 complex formation at the trans-Golgi network.";
+"Structural analysis of Arabidopsis thaliana chromosome 5. I. Sequence
+features of the 1.6 Mb regions covered by twenty physically assigned
+P1 clones.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+-!- FUNCTION: Vesicle trafficking protein that functions in the
+    secretory pathway (By similarity).
+-!- SUBUNIT: Part of the t-SNARE complex. Does not interact with
+    VPS45.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; cis-Golgi network; cis-
+    Golgi network membrane; single-pass type IV membrane protein (By
+    similarity).
+-!- SIMILARITY: Belongs to the syntaxin family.
+-!- SIMILARITY: Contains 1 t-SNARE coiled-coil homology domain.
+Coiled coil; Golgi apparatus; Membrane; Protein transport;
+Transmembrane; Transport.
+TMONE

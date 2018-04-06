@@ -1,0 +1,28 @@
+AC   P20648; O00738;
+Potassium-transporting ATPase alpha chain 1 (EC 3.6.3.10) (Proton
+pump) (Gastric H+/K+ ATPase subunit alpha).
+"Human gastric (H+ + K+)-ATPase gene. Similarity to (Na+ + K+)-ATPase
+genes in exon/intron organization but difference in control region.";
+"Structure of the human gastric H,K-ATPase gene and comparison of the
+5'-flanking sequences of the human and rat genes.";
+"The DNA sequence and biology of human chromosome 19.";
+"The family of human Na+,K+-ATPase genes. No less than five genes
+and/or pseudogenes related to the alpha-subunit.";
+-!- FUNCTION: Catalyzes the hydrolysis of ATP coupled with the
+    exchange of H(+) and K(+) ions across the plasma membrane.
+    Responsible for acid production in the stomach.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) + K(+)(Out) = ADP +
+    phosphate + H(+)(Out) + K(+)(In).
+-!- SUBUNIT: Composed of two subunits: alpha (catalytic) and beta.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Found in gastric mucosa.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIC subfamily.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0008900; F:hydrogen:potassium-exchanging ATPase activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+ATP-binding; Hydrogen ion transport; Hydrolase; Ion transport;
+Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Polymorphism; Potassium; Potassium transport;
+Transmembrane; Transport.
+TMTEN

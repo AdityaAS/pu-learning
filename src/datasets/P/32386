@@ -1,0 +1,15 @@
+AC   P01518;
+Crabrolin.
+"Isolation and characterization of two new peptides, mastoparan C and
+crabrolin, from the venom of the European hornet, Vespa crabro.";
+"Antimicrobial and hemolytic activities of crabrolin, a 13-residue
+peptide from the venom of the European hornet, Vespa crabro, and its
+analogs.";
+-!- FUNCTION: Mast cell degranulating peptide. Induces the chemotaxis
+    of neutrophils. Has antimicrobial and hemolytic activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the MCD family. Crabrolin subfamily.
+Amidation; Antibiotic; Antimicrobial; Chemotaxis; Cytolysis;
+Direct protein sequencing; Hemolysis; Mast cell degranulation.
+TMZERO

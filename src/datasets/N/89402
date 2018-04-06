@@ -1,0 +1,14 @@
+AC   Q8TWU7;
+Probable dimethyladenosine transferase (EC 2.1.1.-) (S-
+adenosylmethionine-6-N',N'-adenosyl(rRNA) dimethyltransferase) (16S
+rRNA dimethylase).
+"The complete genome of hyperthermophile Methanopyrus kandleri AV19
+and monophyly of archaeal methanogens.";
+-!- FUNCTION: Specifically dimethylates two adjacent adenosines in the
+    loop of a conserved hairpin near the 3'-end of 16S rRNA in the 30S
+    particle (By similarity).
+-!- SIMILARITY: Belongs to the rRNA adenine N-6-methyltransferase
+    family. KsgA subfamily.
+ GO:0046677; P:response to antibiotic; IEA:HAMAP.
+Complete proteome; Methyltransferase; rRNA processing; Transferase.
+TMZERO

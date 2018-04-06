@@ -1,0 +1,10 @@
+AC   Q43885;
+Nitrogen fixation protein nifU.
+"Characterization of a nitrogen-fixation (nif) gene cluster from
+Anabaena azollae 1a shows that closely related cyanobacteria have
+highly variable but structured intergenic regions.";
+-!- FUNCTION: May be involved in the formation or repair of [Fe-S]
+    clusters present in iron-sulfur proteins (Potential).
+-!- SIMILARITY: Belongs to the nifU family.
+Nitrogen fixation.
+TMZERO

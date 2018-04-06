@@ -1,0 +1,63 @@
+AC   P68699; P00844; Q2M855;
+ATP synthase C chain (EC 3.6.3.14) (Lipid-binding protein)
+(Dicyclohexylcarbodiimide-binding protein).
+"Amino acid sequence of the ATPase proteolipid from mitochondria,
+chloroplasts and bacteria (wild type and mutants).";
+"Nucleotide sequence of genes coding for dicyclohexylcarbodiimide-
+binding protein and the alpha subunit of proton-translocating ATPase
+of Escherichia coli.";
+"The nucleotide sequence of the atp genes coding for the F0 subunits
+a, b, c and the F1 subunit delta of the membrane bound ATP synthase of
+Escherichia coli.";
+"The atp operon: nucleotide sequence of the promoter and the genes for
+the membrane proteins, and the delta subunit of Escherichia coli ATP-
+synthase.";
+"The F1F0-ATPase of Escherichia coli. Substitution of proline by
+leucine at position 64 in the c-subunit causes loss of oxidative
+phosphorylation.";
+"DNA sequence around the Escherichia coli unc operon. Completion of
+the sequence of a 17 kilobase segment containing asnA, oriC, unc, glmS
+and phoS.";
+"Amino acid replacement in dicyclohexylcarbodiimide-reactive proteins
+from mutant strains of Escherichia coli defective in the energy-
+transducing ATPase complex.";
+"Mutations in the uncE gene affecting assembly of the c-subunit of the
+adenosine triphosphatase of Escherichia coli.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Heteronuclear 1H-15N nuclear magnetic resonance studies of the c
+subunit of the Escherichia coli F1F0 ATP synthase: assignment and
+secondary structure.";
+"Determination of local protein structure by spin label difference 2D
+NMR: the region neighboring Asp61 of subunit c of the F1F0 ATP
+synthase.";
+"Solution structure of the transmembrane H+-transporting subunit c of
+the F1F0 ATP synthase.";
+"Structural changes linked to proton translocation by subunit c of the
+ATP synthase.";
+"Model of the c-subunit oligomer in the membrane domain of F-
+ATPases.";
+-!- FUNCTION: This is one of the three chains of the nonenzymatic
+    component (CF(0) subunit) of the ATPase complex.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: Dicyclohexylcarbodiimide (DCDD) binding to the
+    active aspartate residue inhibits ATPase in vitro.
+-!- MISCELLANEOUS: The uncE429, uncE408 and uncE463 mutant proteins
+    are unable to assemble in the membrane.
+-!- SIMILARITY: Belongs to the ATPase C chain family.
+3D-structure; CF(0); Complete proteome; Direct protein sequencing;
+Formylation; Hydrogen ion transport; Inner membrane; Ion transport;
+Lipid-binding; Membrane; Transmembrane; Transport.
+TMTWO

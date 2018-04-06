@@ -1,0 +1,19 @@
+AC   P46921;
+Glycine betaine transport system permease protein opuAB.
+"OpuA, an osmotically regulated binding protein-dependent transport
+system for the osmoprotectant glycine betaine in Bacillus subtilis.";
+"The 25 degrees-36 degrees region of the Bacillus subtilis chromosome:
+determination of the sequence of a 146 kb segment and identification
+of 113 genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in a multicomponent binding-protein-dependent
+    transport system for glycine betaine; probably responsible for the
+    translocation of the substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. CysTW subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMSEVEN

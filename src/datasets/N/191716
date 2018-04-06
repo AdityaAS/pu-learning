@@ -1,0 +1,14 @@
+AC   Q8XT38;
+Periplasmic trehalase precursor (EC 3.2.1.28) (Alpha,alpha-trehalase)
+(Alpha,alpha-trehalose glucohydrolase).
+"Genome sequence of the plant pathogen Ralstonia solanacearum.";
+-!- FUNCTION: Provides the cells with the ability to utilize trehalose
+    at high osmolarity by splitting it into glucose molecules that can
+    subsequently be taken up by the phosphotransferase-mediated uptake
+    system (By similarity).
+-!- CATALYTIC ACTIVITY: Alpha,alpha-trehalose + H(2)O = 2 D-glucose.
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 37 family.
+Complete proteome; Glycosidase; Hydrolase; Periplasmic; Plasmid;
+Signal.
+TMZERO

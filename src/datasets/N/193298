@@ -1,0 +1,17 @@
+AC   P26924;
+Anthranilate phosphoribosyltransferase (EC 2.4.2.18).
+"Relationship between tryptophan biosynthesis and indole-3-acetic acid
+production in Azospirillum: identification and sequencing of a trpGDC
+cluster.";
+-!- FUNCTION: Participates in the tryptophan-dependent indole-3-acetic
+    acid production, which is a phytohormone released by A.brasilense.
+-!- CATALYTIC ACTIVITY: N-(5-phospho-D-ribosyl)-anthranilate +
+    diphosphate = anthranilate + 5-phospho-alpha-D-ribose 1-
+    diphosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-tryptophan biosynthesis; L-
+    tryptophan from chorismate: step 2.
+-!- SIMILARITY: Belongs to the anthranilate phosphoribosyltransferase
+    family.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Glycosyltransferase; Transferase; Tryptophan biosynthesis.
+TMZERO

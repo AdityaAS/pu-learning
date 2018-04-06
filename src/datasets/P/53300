@@ -1,0 +1,26 @@
+AC   P44513; Q53441;
+Ferric cations import ATP-binding protein fbpC 2 (EC 3.6.3.30).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+"Identification of a locus involved in the utilization of iron by
+Haemophilus influenzae.";
+"Biochemical characterization of a Haemophilus influenzae periplasmic
+iron transport operon.";
+-!- FUNCTION: Part of the ABC transporter complex fbpABC involved in
+    Fe(3+) ions import. Responsible for energy coupling to the
+    transport system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Fe(3+)(Out) = ADP + phosphate +
+    Fe(3+)(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (fbpC), two transmembrane proteins (fbpB) and a solute-binding
+    protein (fbpA) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Fe(3+) ion
+    importer (TC 3.A.1.10) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0015408; F:ferric-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane;
+Ion transport; Iron; Iron transport; Membrane; Nucleotide-binding;
+Transport.
+TMZERO

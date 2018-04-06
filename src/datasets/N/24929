@@ -1,0 +1,14 @@
+AC   Q5LV15;
+60 kDa chaperonin (Protein Cpn60) (groEL protein).
+"Genome sequence of Silicibacter pomeroyi reveals adaptations to the
+marine environment.";
+-!- FUNCTION: Prevents misfolding and promotes the refolding and
+    proper assembly of unfolded polypeptides generated under stress
+    conditions (By similarity).
+-!- SUBUNIT: Oligomer of 14 subunits composed of two stacked rings of
+    7 subunits (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the chaperonin (HSP60) family.
+ GO:0042026; P:protein refolding; IEA:HAMAP.
+ATP-binding; Chaperone; Complete proteome; Nucleotide-binding.
+TMZERO

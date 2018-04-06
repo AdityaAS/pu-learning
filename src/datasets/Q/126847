@@ -1,0 +1,22 @@
+AC   P40035;
+Mitochondrial phosphate carrier protein 2 (Phosphate transport protein
+2) (PTP 2) (mPic 2) (Pi carrier isoform 2).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Characterization of a Saccharomyces cerevisiae gene that encodes a
+mitochondrial phosphate transporter-like protein.";
+"Global analysis of protein expression in yeast.";
+"Redundancy in the function of mitochondrial phosphate transport in
+Saccharomyces cerevisiae and Arabidopsis thaliana.";
+-!- FUNCTION: Transport of phosphate groups from the cytosol to the
+    mitochondrial matrix.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 2360 molecules/cell.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005315; F:inorganic phosphate transporter activity; IDA:SGD.
+ GO:0006817; P:phosphate transport; IDA:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion; Repeat;
+Transmembrane; Transport.
+TMFOUR

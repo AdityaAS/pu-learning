@@ -1,0 +1,19 @@
+AC   P05521; P11002;
+Acyl transferase (EC 2.3.1.-) (ACT) (Myristoyl-ACP-specific
+thioesterase) (C14ACP-TE).
+"Organization of the lux structural genes of Vibrio harveyi.
+Expression under the T7 bacteriophage promoter, mRNA analysis, and
+nucleotide sequence of the luxD gene.";
+"Nucleotide sequence of the luxA gene of Vibrio harveyi and the
+complete amino acid sequence of the alpha subunit of bacterial
+luciferase.";
+"Structure of a myristoyl-ACP-specific thioesterase from Vibrio
+harveyi.";
+-!- FUNCTION: Acyl transferase is part of the fatty acid reductase
+    system required for aldehyde biosynthesis; it produces fatty acids
+    for the luminescent reaction.
+-!- PATHWAY: Bioluminescent fatty acid reduction system; first step.
+-!- SIMILARITY: Belongs to the luxD family.
+ GO:0008218; P:bioluminescence; IEA:HAMAP.
+3D-structure; Acyltransferase; Luminescence; Transferase.
+TMZERO

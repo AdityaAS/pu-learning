@@ -1,0 +1,26 @@
+AC   P49067;
+Alpha-amylase (EC 3.2.1.1).
+"Alpha-amylase from the hyperthermophilic archaebacterium Pyrococcus
+furiosus. Cloning and sequencing of the gene and expression in
+Escherichia coli.";
+"The complete sequence of the Pyrococcus furiosus genome.";
+"The purification and characterization of an extremely thermostable
+alpha-amylase from the hyperthermophilic archaebacterium Pyrococcus
+furiosus.";
+-!- FUNCTION: Displays a broad range of substrate specificity, with
+    the capacity to hydrolyze carbohydrates as simple as maltotriose.
+-!- CATALYTIC ACTIVITY: Endohydrolysis of 1,4-alpha-D-glucosidic
+    linkages in oligosaccharides and polysaccharides.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 6.5-7.5;
+    Temperature dependence:
+      Optimum temperature is 100 degrees Celsius. Inactive below 40
+      degrees Celsius. Extremely thermostable;
+-!- PATHWAY: Polysaccharide degradation.
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 57 family.
+ GO:0004556; F:alpha-amylase activity; IEA:EC.
+Carbohydrate metabolism; Complete proteome; Direct protein sequencing;
+Glycosidase; Hydrolase.
+TMZERO

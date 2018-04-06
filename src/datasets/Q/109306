@@ -1,0 +1,12 @@
+AC   P0ABL6; P33932;
+Cytochrome c-type protein napC.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Mediates electron flow from quinones to the napAB
+    complex (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein.
+-!- PTM: Binds 4 heme groups per subunit (Potential).
+Complete proteome; Electron transport; Heme; Iron; Membrane;
+Metal-binding; Periplasmic; Transmembrane; Transport.
+TMONE

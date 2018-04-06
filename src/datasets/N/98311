@@ -1,0 +1,15 @@
+AC   Q66S65;
+Mannose-binding protein C precursor (MBP-C) (MBP1) (Mannan-binding
+protein) (Mannose-binding lectin).
+"Evolution of the mannose-binding lectin gene in primates.";
+-!- FUNCTION: Binds mannose and N-acetylglucosamine in a calcium-
+    dependent manner. Is capable of host defense against pathogens, by
+    activating the classical complement pathway independently of the
+    antibody (By similarity).
+-!- SUBUNIT: Oligomeric complex of 6 set of homotrimers. Binds MASP2
+    (By similarity).
+-!- SIMILARITY: Contains 1 C-type lectin domain.
+-!- SIMILARITY: Contains 1 collagen-like domain.
+Calcium; Collagen; Complement pathway; Hydroxylation; Immune response;
+Innate immunity; Lectin; Mannose-binding; Membrane; Repeat; Signal.
+TMZERO

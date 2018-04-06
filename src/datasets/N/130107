@@ -1,0 +1,29 @@
+AC   Q9D0W5; Q3UA03;
+Peptidyl-prolyl cis-trans isomerase-like 1 (EC 5.2.1.8) (PPIase)
+(Rotamase).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: PPIases accelerate the folding of proteins. It catalyzes
+    the cis-trans isomerization of proline imidic peptide bonds in
+    oligopeptides. May be involved in pre-mRNA splicing (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Peptidylproline (omega=180) = peptidylproline
+    (omega=0).
+-!- ENZYME REGULATION: Inhibited by Cyclosporin A (By similarity).
+-!- SUBUNIT: Identified in the spliceosome C complex, at least
+    composed of AQR, ASCC3L1, C19orf29, CDC40, CDC5L, CRNKL1, DDX23,
+    DDX41, DDX48, DDX5, DGCR14, DHX35, DHX38, DHX8, EFTUD2, FRG1,
+    GPATC1, HNRPA1, HNRPA2B1, HNRPA3, HNRPC, HNRPF, HNRPH1, HNRPK,
+    HNRPM, HNRPR, HNRPU, KIAA1160, KIAA1604, LSM2, LSM3, MAGOH, MORG1,
+    PABPC1, PLRG1, PNN, PPIE, PPIL1, PPIL3, PPWD1, PRPF19, PRPF4B,
+    PRPF6, PRPF8, RALY, RBM22, RBM8A, RBMX, SART1, SF3A1, SF3A2,
+    SF3A3, SF3B1, SF3B2, SF3B3, SFRS1, SKIV2L2, SNRPA1, SNRPB, SNRPB2,
+    SNRPD1, SNRPD2, SNRPD3, SNRPE, SNRPF, SNRPG, SNW1, SRRM1, SRRM2,
+    SYF2, SYNCRIP, TFIP11, THOC4, U2AF1, WDR57, XAB2 and ZCCHC8 (By
+    similarity).
+-!- SIMILARITY: Belongs to the cyclophilin-type PPIase family. PPIL1
+    subfamily.
+-!- SIMILARITY: Contains 1 PPIase cyclophilin-type domain.
+Isomerase; mRNA processing; mRNA splicing; Rotamase; Spliceosome.
+TMZERO

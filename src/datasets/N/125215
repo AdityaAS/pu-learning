@@ -1,0 +1,22 @@
+AC   P00559;
+Phosphoglycerate kinase 1 (EC 2.7.2.3).
+"Primary structure of 3-phosphoglycerate kinase from horse muscle. II.
+Amino acid sequence of cyanogen bromide peptides CB1-CB4 and CB6-CB14,
+sequence of methionine-containing regions, and complete sequence of
+the enzyme.";
+"Sequence, structure and activity of phosphoglycerate kinase: a
+possible hinge-bending enzyme.";
+-!- CATALYTIC ACTIVITY: ATP + 3-phospho-D-glycerate = ADP + 3-phospho-
+    D-glyceroyl phosphate.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 2.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the phosphoglycerate kinase family.
+ GO:0005524; F:ATP binding; IDA:UniProtKB.
+ GO:0004618; F:phosphoglycerate kinase activity; NAS:UniProtKB.
+ GO:0006096; P:glycolysis; ISS:UniProtKB.
+ GO:0016310; P:phosphorylation; NAS:UniProtKB.
+3D-structure; Acetylation; ATP-binding; Direct protein sequencing;
+Glycolysis; Kinase; Nucleotide-binding; Phosphorylation; Transferase.
+TMZERO

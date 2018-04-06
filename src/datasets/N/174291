@@ -1,0 +1,19 @@
+AC   Q7BD17;
+Guanine nucleotide exchange factor sopE (Effector protein sopE) (Toxin
+sopE).
+"Transfer of the Salmonella type III effector sopE between unrelated
+phage families.";
+-!- FUNCTION: Activator for both CDC42 and RAC1 by directly engaging
+    these Rho GTPases and acting as potent guanine nucleotide exchange
+    factor (GEF). This activation results in actin cytoskeleton
+    rearrangements and stimulates membrane ruffling, promoting
+    bacterial entry into non-phagocytic cells (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+    Note=Secreted via the type III secretion system 1 (SPI-1 TTSS) (By
+    similarity).
+-!- MISCELLANEOUS: Encoded within a lambda-like prophage region with
+    similarity to GIFSY phages.
+-!- SIMILARITY: Belongs to the GEF (guanine exchange factor) sopE
+    family.
+GTPase activation; Guanine-nucleotide releasing factor; Virulence.
+TMZERO

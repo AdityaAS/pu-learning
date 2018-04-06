@@ -1,0 +1,31 @@
+AC   P78381; Q92553;
+UDP-galactose translocator (UDP-galactose transporter) (UGT) (UDP-Gal-
+Tr) (Solute carrier family 35 member A2).
+"Human UDP-galactose translocator: molecular cloning of a
+complementary DNA that complements the genetic defect of a mutant cell
+line deficient in UDP-galactose translocator.";
+"Molecular cloning and characterization of a novel isoform of the
+human UDP-galactose transporter, and of related complementary DNAs
+belonging to the nucleotide-sugar transporter gene family.";
+"The UDP-galactose translocator gene is mapped to band Xp11.23-p11.22
+containing the Wiskott-Aldrich syndrome locus.";
+"Genomic organization of the human UDP-galactose transporter gene.";
+-!- FUNCTION: Transports nucleotide sugars from the cytosol into Golgi
+    vesicles where glycosyltransferases function.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=UGT2;
+      IsoId=P78381-1; Sequence=Displayed;
+    Name=UGT1;
+      IsoId=P78381-2; Sequence=VSP_003728;
+-!- SIMILARITY: Belongs to the nucleotide-sugar transporter family.
+    SLC35A subfamily.
+-!- WEB RESOURCE: NAME=GGDB; NOTE=GlycoGene database";
+    URL="http://ggdb.muse.aist.go.jp/GGDB/index.jsp".
+ GO:0005459; F:UDP-galactose transporter activity; TAS:ProtInc.
+ GO:0006012; P:galactose metabolism; TAS:ProtInc.
+ GO:0015785; P:UDP-galactose transport; TAS:ProtInc.
+Alternative splicing; Golgi apparatus; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTEN

@@ -1,0 +1,17 @@
+AC   P37385; Q31KS2;
+Probable copper-transporting ATPase synA (EC 3.6.3.4).
+"P-type ATPase from the cyanobacterium Synechococcus 7942 related to
+the human Menkes and Wilson disease gene products.";
+"Complete sequence of chromosome 1 of Synechococcus elongatus PCC
+7942.";
+-!- FUNCTION: Involved in copper transport.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Cu(2+)(In) = ADP + phosphate +
+    Cu(2+)(Out).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IB subfamily.
+-!- SIMILARITY: Contains 1 HMA domain.
+ATP-binding; Complete proteome; Copper; Copper transport; Hydrolase;
+Ion transport; Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Transmembrane; Transport.
+TMEIGHT

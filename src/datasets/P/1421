@@ -1,0 +1,133 @@
+AC   P78363; O15112; O60438; O60915;
+Retinal-specific ATP-binding cassette transporter (ATP-binding
+cassette sub-family A member 4) (RIM ABC transporter) (RIM protein)
+(RmP) (Stargardt disease protein).
+"A photoreceptor cell-specific ATP-binding transporter gene (ABCR) is
+mutated in recessive Stargardt macular dystrophy.";
+"The photoreceptor rim protein is an ABC transporter encoded by the
+gene for recessive Stargardt's disease (ABCR).";
+"Complete exon-intron structure of the retina-specific ATP binding
+transporter gene (ABCR) allows the identification of novel mutations
+underlying Stargardt disease.";
+"Mapping of the rod photoreceptor ABC transporter (ABCR) to 1p21-p22.1
+and identification of novel mutations in Stargardt's disease.";
+"Retinal stimulates ATP hydrolysis by purified and reconstituted ABCR,
+the photoreceptor-specific ATP-binding cassette transporter
+responsible for Stargardt disease.";
+"Autosomal recessive retinitis pigmentosa and cone-rod dystrophy
+caused by splice site mutations in the Stargardt's disease gene
+ABCR.";
+"Mutation of the Stargardt disease gene (ABCR) in age-related macular
+degeneration.";
+"Spectrum of ABCR gene mutations in autosomal recessive macular
+dystrophies.";
+"Genotype/phenotype analysis of a photoreceptor-specific ATP-binding
+cassette transporter gene, ABCR, in Stargardt disease.";
+"The 2588G-->C mutation in the ABCR gene is a mild frequent founder
+mutation in the western European population and allows the
+classification of ABCR Mutations in patients with Stargardt disease.";
+"A novel mutation in the ABCR gene in four patients with autosomal
+recessive Stargardt disease.";
+"Variation of clinical expression in patients with Stargardt dystrophy
+and sequence variations in the ABCR gene.";
+"Further evidence for an association of ABCR alleles with age-related
+macular degeneration.";
+"A comprehensive survey of sequence variation in the ABCA4 (ABCR) gene
+in Stargardt disease and age-related macular degeneration.";
+"Mutations in the ABCA4 (ABCR) gene are the major cause of autosomal
+recessive cone-rod dystrophy.";
+"Complex inheritance of ABCR mutations in Stargardt disease: linkage
+disequilibrium, complex alleles, and pseudodominance.";
+"An analysis of ABCR mutations in British patients with recessive
+retinal dystrophies.";
+"New ABCR mutations and clinical phenotype in Italian patients with
+Stargardt disease.";
+"Biochemical defects in ABCR protein variants associated with human
+retinopathies.";
+"Different clinical expressions in two families with Stargardt's
+macular dystrophy (STGD1).";
+"Analysis of the ABCR (ABCA4) gene in 4-aminoquinoline retinopathy: is
+retinal toxicity by chloroquine and hydroxychloroquine related to
+Stargardt disease?";
+"Variation of codons 1961 and 2177 of the Stargardt disease gene is
+not associated with age-related macular degeneration.";
+"Late-onset Stargardt disease is associated with missense mutations
+that map outside known functional regions of ABCR (ABCA4).";
+"Spectrum of ABCA4 (ABCR) gene mutations in Spanish patients with
+autosomal recessive macular dystrophies.";
+"An analysis of allelic variation in the ABCA4 gene.";
+"Mutations in ABCR (ABCA4) in patients with Stargardt macular
+degeneration or cone-rod degeneration.";
+"Catalog of 605 single-nucleotide polymorphisms (SNPs) among 13 genes
+encoding human ATP-binding cassette transporters: ABCA4, ABCA7, ABCA8,
+ABCD1, ABCD3, ABCD4, ABCE1, ABCF1, ABCG1, ABCG2, ABCG4, ABCG5, and
+ABCG8.";
+-!- FUNCTION: May play a role in photoresponse. Retinoids, and most
+    likely retinal, are the natural substrates for transport by abcr
+    in rod outer segments. May act in the visual cycle to flip PE-all-
+    trans-retinal adducts from the lumenal to the cytosolic face of
+    the disk membrane, move free all-trans-retinal from the lipid
+    phase of the disk membrane to a juxtamembrane location, or
+    possibly reorient all-trans-retinal in the bilayer.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Retinal-specific. Seems to be exclusively
+    found in the rims of rod photoreceptor cells.
+-!- POLYMORPHISM: The variant Ala-863 is present in the general
+    population at a frequency of approximately 3% and 1% in Northern
+    Europe and United States, respectively. It is a mild alteration
+    probably leading to STGD phenotype only in combination with a more
+    severe allele. The variant Glu-1961 is found with high frequency
+    in healthy individuals of Somali ancestry.
+-!- DISEASE: Defects in ABCA4 are a cause of Stargardt disease (STGD)
+    [MIM:248200]; also known as juvenile macular degeneration. STGD is
+    an autosomal recessive retinal disorder and one of the most
+    frequent causes of macular degeneration in childhood. It is
+    characterized by macular dystrophy with juvenile-onset, rapidly
+    progressive course, alterations of the peripheral retina, and
+    subretinal deposition of lipofuscin-like material.
+-!- DISEASE: Defects in ABCA4 are the cause of fundus flavimaculatus
+    (FFM) [MIM:248200]. FFM is an autosomal recessive retinal disorder
+    very similar to Stargardt disease. In contrast to Stargardt
+    disease, FFM is characterized by later onset and slowly
+    progressive course.
+-!- DISEASE: Defects in ABCA4 may be a cause of age-related macular
+    degeneration 2 (ARMD2) [MIM:153800]. ARMD is the most common cause
+    of irreversible vision loss in the developed world. In most
+    patients, the disease is manifest as ophthalmoscopically visible
+    yellowish accumulations of protein and lipid (known as drusen)
+    that lie beneath the retinal pigment epithelium and within an
+    elastin-containing structure known as Bruch membrane. ARMD is
+    likely to be a mechanistically heterogeneous group of disorders,
+    and the specific disease mechanisms that underlie the vast
+    majority of cases are currently unknown. However, a number of
+    studies have suggested that both genetic and environmental factors
+    are likely to play a role.
+-!- DISEASE: Defects in ABCA4 are the cause of cone-rod dystrophy 3
+    (CORD3) [MIM:604116]. Inheritance is autosomal recessive.
+-!- DISEASE: Defects in ABCA4 are the cause of retinitis pigmentosa 19
+    (RP19) [MIM:601718]. Retinitis pigmentosa (RP) [MIM:268000] leads
+    to degeneration of retinal photoreceptor cells. Patients typically
+    have night vision blindness and loss of midperipheral visual
+    field. As their condition progresses, they lose their far
+    peripheral visual field and eventually central vision as well.
+    RP19 is characterized by choroidal atrophy. Inheritance is
+    autosomal recessive.
+-!- SIMILARITY: Belongs to the ABC transporter family. ABCA subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+-!- WEB RESOURCE: NAME=Mutations of the ABCA4 gene;
+    NOTE=Retina International's Scientific Newsletter;
+    URL="http://www.retina-international.com/sci-news/abcrmut.htm".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ABCA4".
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0005524; F:ATP binding; TAS:ProtInc.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; TAS:ProtInc.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0007603; P:phototransduction, visible light; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+ GO:0007601; P:visual perception; TAS:ProtInc.
+Age-related macular degeneration; ATP-binding; Cone-rod dystrophy;
+Disease mutation; Glycoprotein; Membrane; Nucleotide-binding;
+Polymorphism; Repeat; Retinitis pigmentosa; Sensory transduction;
+Stargardt disease; Transmembrane; Transport; Vision.
+TMSIXTEEN

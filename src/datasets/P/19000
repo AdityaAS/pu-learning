@@ -1,0 +1,70 @@
+AC   P07293;
+Voltage-dependent L-type calcium channel subunit alpha-1S (Voltage-
+gated calcium channel subunit alpha Cav1.1) (Calcium channel, L type,
+alpha-1 polypeptide, isoform 3, skeletal muscle).
+"Primary structure of the receptor for calcium channel blockers from
+skeletal muscle.";
+"Sequence and expression of mRNAs encoding the alpha 1 and alpha 2
+subunits of a DHP-sensitive calcium channel.";
+"Calcium channel beta-subunit binds to a conserved motif in the I-II
+cytoplasmic linker of the alpha 1-subunit.";
+"Identification of a phenylalkylamine binding region within the alpha
+1 subunit of skeletal muscle Ca2+ channels.";
+"Identification of 1,4-dihydropyridine binding regions within the
+alpha 1 subunit of skeletal muscle Ca2+ channels by photoaffinity
+labeling with diazipine.";
+"Dihydropyridine receptor of L-type Ca2+ channels: identification of
+binding domains for [3H](+)-PN200-110 and [3H]azidopine within the
+alpha 1 subunit.";
+"CAMP-dependent protein kinase rapidly phosphorylates serine-687 of
+the skeletal muscle receptor for calcium channel blockers.";
+"Activation of purified calcium channels by stoichiometric protein
+phosphorylation.";
+"A structural requirement for activation of skeletal ryanodine
+receptors by peptides of the dihydropyridine receptor II-III loop.";
+"Structural analysis of the voltage-dependent calcium channel beta
+subunit functional core and its complex with the alpha1 interaction
+domain.";
+-!- FUNCTION: Voltage-sensitive calcium channels (VSCC) mediate the
+    entry of calcium ions into excitable cells and are also involved
+    in a variety of calcium-dependent processes, including muscle
+    contraction, hormone or neurotransmitter release, gene expression,
+    cell motility, cell division and cell death. The isoform alpha-1S
+    gives rise to L-type calcium currents. Long-lasting (L-type)
+    calcium channels belong to the "high-voltage activated" (HVA)
+    group. They are blocked by dihydropyridines (DHP),
+    phenylalkylamines, benzothiazepines, and by omega-agatoxin-IIIA
+    (omega-Aga-IIIA). They are however insensitive to omega-conotoxin-
+    GVIA (omega-CTx-GVIA) and omega-agatoxin-IVA (omega-Aga-IVA).
+    Calcium channels containing the alpha-1S subunit play an important
+    role in excitation-contraction coupling in skeletal muscle.
+-!- SUBUNIT: Multisubunit complex consisting of alpha-1, alpha-2, beta
+    and delta subunits in a 1:1:1:1 ratio. The channel activity is
+    directed by the pore-forming and voltage-sensitive alpha-1
+    subunit. In many cases, this subunit is sufficient to generate
+    voltage-sensitive calcium channel activity. The auxiliary subunits
+    beta and alpha-2/delta linked by a disulfide bridge regulate the
+    channel activity. An additional gamma subunit is present only in
+    skeletal muscle L-type channel.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Skeletal muscle specific.
+-!- DOMAIN: Each of the four internal repeats contains five
+    hydrophobic transmembrane segments (S1, S2, S3, S5, S6) and one
+    positively charged transmembrane segment (S4). S4 segments
+    probably represent the voltage-sensor and are characterized by a
+    series of positively charged amino acids at every third position.
+-!- DOMAIN: The loop between repeats II and III interacts with the
+    ryanodine receptor, and is therefore important for calcium release
+    from the endoplasmic reticulum necessary for muscle contraction.
+-!- PTM: The alpha-1S subunit is found in two isoforms in the skeletal
+    muscle: a minor form of 212 kDa containing the complete amino acid
+    sequence, and a major form of 190 kDa derived from the full-length
+    form by post-translational proteolysis close to Phe-1690.
+-!- PTM: Both the minor and major forms are phosphorylated in vitro by
+    PKA. Phosphorylation by PKA activates the calcium channel.
+-!- SIMILARITY: Belongs to the calcium channel alpha-1 subunit family.
+3D-structure; Calcium; Calcium channel; Calcium transport;
+Direct protein sequencing; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Phosphorylation; Polymorphism; Repeat; Transmembrane;
+Transport; Voltage-gated channel.
+TMTWENTYFOUR

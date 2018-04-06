@@ -1,0 +1,11 @@
+AC   Q818E9;
+Chaperone protein dnaK (Heat shock protein 70) (Heat shock 70 kDa
+protein) (HSP70).
+"Genome sequence of Bacillus cereus and comparative analysis with
+Bacillus anthracis.";
+-!- FUNCTION: Acts as a chaperone (By similarity).
+-!- INDUCTION: By stress conditions e.g. heat shock (By similarity).
+-!- SIMILARITY: Belongs to the heat shock protein 70 family.
+ATP-binding; Chaperone; Complete proteome; Heat shock;
+Nucleotide-binding; Phosphorylation.
+TMZERO

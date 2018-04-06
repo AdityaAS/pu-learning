@@ -1,0 +1,17 @@
+AC   P0A383; P05069; P05628;
+Type-1Aa cytolytic delta-endotoxin (27 kDa cytolytic toxin).
+"Bacillus thuringiensis var. morrisoni strain PG14: nucleotide
+sequence of a gene encoding a 27kDa crystal protein.";
+"Plasmid location, cloning, and sequence analysis of the gene encoding
+a 27.3-kilodalton cytolytic protein from Bacillus thuringiensis subsp.
+morrisoni (PG-14).";
+-!- FUNCTION: Kills the larvae of dipteran insects by making pores in
+    the epithelial cell membrane of the insect midgut. Acts on
+    mosquitos and black flies.
+-!- DEVELOPMENTAL STAGE: The crystal protein is produced during
+    sporulation and is accumulated both as an inclusion and as part of
+    the spore coat.
+-!- PTM: Active after proteolytic processing.
+-!- SIMILARITY: Belongs to the cyt1/cyt2 endotoxin family.
+Plasmid; Sporulation; Toxin.
+TMZERO

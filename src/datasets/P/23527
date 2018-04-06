@@ -1,0 +1,25 @@
+AC   P02978;
+Colicin-E1.
+"Nucleotide sequence of the structural gene for colicin E1 and
+predicted structure of the protein.";
+"Nucleotide polymorphism in colicin E1 and Ia plasmids from natural
+isolates of Escherichia coli.";
+"The nucleotide sequence surrounding the promoter region of colicin E1
+gene.";
+"Nucleotide sequence of small ColE1 derivatives: structure of the
+regions essential for autonomous replication and colicin E1
+immunity.";
+"Solution NMR studies of colicin E1 C-terminal thermolytic peptide.
+Structural comparison with colicin A and the effects of pH changes.";
+-!- FUNCTION: This colicin is a channel-forming colicin. This class of
+    transmembrane toxins depolarize the cytoplasmic membrane, leading
+    to dissipation of cellular energy.
+-!- FUNCTION: Colicins are polypeptide toxins produced by and active
+    against, Escherichia coli and closely related bacteria.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Plasmid PAO3 is a small colicin E1 derivative.
+-!- SIMILARITY: Belongs to the channel forming colicin family.
+Antibiotic; Antimicrobial; Bacteriocin; Membrane; Plasmid;
+Transmembrane.
+TMTWO

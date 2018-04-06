@@ -1,0 +1,20 @@
+AC   Q93WP7;
+Hydroxyproline-rich systemin B precursor [Contains: HypSysB I
+(TobHypSysB I); HypSysB II (TobHypSysB II)].
+"Production of multiple plant hormones from a single polyprotein
+precursor.";
+"Systemins: a functionally defined family of peptide signals that
+regulate defensive genes in Solanaceae species.";
+-!- FUNCTION: Activates a lipid-based signal transduction pathway in
+    which linolenic acid is converted to jasmonic acid, a potent
+    activator of defense gene transcription, including proteinase
+    inhibitors.
+-!- TISSUE SPECIFICITY: Expressed in leaves.
+-!- INDUCTION: By methyl jasmonate in leaves.
+-!- PTM: O-glycosylated; contains pentose side chains.
+ GO:0005622; C:intracellular; NAS:UniProtKB.
+ GO:0005488; F:binding; IDA:UniProtKB.
+ GO:0006952; P:defense response; IDA:UniProtKB.
+Direct protein sequencing; Glycoprotein; Hormone; Hydroxylation;
+Plant defense; Signal.
+TMZERO

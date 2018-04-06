@@ -1,0 +1,15 @@
+AC   Q97LS0;
+Phosphoglucosamine mutase (EC 5.4.2.10).
+"Genome sequence and comparative analysis of the solvent-producing
+bacterium Clostridium acetobutylicum.";
+-!- FUNCTION: Catalyzes the conversion of glucosamine-6-phosphate to
+    glucosamine-1-phosphate (By similarity).
+-!- CATALYTIC ACTIVITY: Alpha-D-glucosamine 1-phosphate = D-
+    glucosamine 6-phosphate.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the phosphohexose mutase family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0008966; F:phosphoglucosamine mutase activity; IEA:HAMAP.
+Complete proteome; Isomerase; Magnesium; Metal-binding;
+Phosphorylation.
+TMZERO

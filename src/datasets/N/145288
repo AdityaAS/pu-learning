@@ -1,0 +1,12 @@
+AC   Q757H6;
+5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193) (HTP
+reductase).
+"The Ashbya gossypii genome as a tool for mapping the ancient
+Saccharomyces cerevisiae genome.";
+-!- CATALYTIC ACTIVITY: 5-amino-6-(5-phosphoribitylamino)uracil +
+    NADP(+) = 5-amino-6-(5-phosphoribosylamino)uracil + NADPH.
+-!- PATHWAY: Cofactor biosynthesis; riboflavin biosynthesis; 6,7-
+    dimethyl-8-(1-D-ribityl)lumazine from GTP: step 3.
+-!- SIMILARITY: Belongs to the HTP reductase family.
+Complete proteome; NADP; Oxidoreductase; Riboflavin biosynthesis.
+TMZERO

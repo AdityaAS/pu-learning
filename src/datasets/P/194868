@@ -1,0 +1,17 @@
+AC   Q9KWV4;
+Toluene efflux pump membrane transporter ttgE.
+"A set of genes encoding a second toluene efflux system in Pseudomonas
+putida DOT-T1 is linked to the tod genes for toluene metabolism.";
+"Global and cognate regulators control the expression of the organic
+solvent efflux pumps TtgABC and TtgDEF of Pseudomonas putida.";
+-!- FUNCTION: The inner membrane transporter component of an inducible
+    organic solvent efflux pump. Involved in export of toluene and
+    styrene but not of m-xylene, propylbenzene or ethylbenzene. Is not
+    involved in antibiotic or AMP efflux.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- INDUCTION: The ttgDEF operon is induced in the presence of toluene
+    and styrene, but not m-xylene.
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

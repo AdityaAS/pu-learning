@@ -1,0 +1,28 @@
+AC   P0A4W2; P71747;
+Sulfate/thiosulfate import ATP-binding protein cysA (EC 3.6.3.25)
+(Sulfate-transporting ATPase).
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+"Functional genomics reveals the sole sulphate transporter of the
+Mycobacterium tuberculosis complex and its relevance to the
+acquisition of sulphur in vivo.";
+-!- FUNCTION: Part of the ABC transporter complex cysAWTP involved in
+    sulfate import. Responsible for energy coupling to the transport
+    system.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + sulfate(Out) = ADP + phosphate +
+    sulfate(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (cysA), two transmembrane proteins (cysT and cysW) and a solute-
+    binding protein (cysP) (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+    Sulfate/tungstate importer (TC 3.A.1.6) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0015419; F:sulfate-transporting ATPase activity; IEA:EC.
+ GO:0032146; F:thiosulfate-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Membrane;
+Nucleotide-binding; Sulfate transport; Transport.
+TMZERO

@@ -1,0 +1,13 @@
+AC   P17716;
+Islet amyloid polypeptide precursor (Amylin).
+"Nucleotide sequence of a cDNA for canine amylin.";
+"Canine IAPP cDNA sequence provides important clues regarding
+diabetogenesis and amyloidogenesis in type 2 diabetes.";
+-!- FUNCTION: Selectively inhibits insulin-stimulated glucose
+    utilization and glycogen deposition in muscle, while not affecting
+    adipocyte glucose metabolism.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the calcitonin family.
+Amidation; Amyloid; Cleavage on pair of basic residues; Hormone;
+Signal.
+TMZERO

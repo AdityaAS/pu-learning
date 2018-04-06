@@ -1,0 +1,23 @@
+AC   Q10749;
+Venom metalloproteinase mocarhagin (EC 3.4.24.-) (Fragment).
+"Mocarhagin, a novel cobra venom metalloproteinase, cleaves the
+platelet von Willebrand factor receptor glycoprotein Ibalpha.
+Identification of the sulfated tyrosine/anionic sequence Tyr-276-Glu-
+282 of glycoprotein Ibalpha as a binding site for von Willebrand
+factor and alpha-thrombin.";
+-!- FUNCTION: Zinc protease that inhibits fibrinogen interaction with
+    platelet receptors expressed on glycoprotein IIb-IIIa complex.
+    Acts by binding to the glycoprotein IIb-IIIa receptor on the
+    platelet surface and inhibits aggregation induced by Von
+    willibrand factor.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Contains 1 peptidase M12B domain.
+ GO:0005576; C:extracellular region; IDA:UniProtKB.
+ GO:0008233; F:peptidase activity; IDA:UniProtKB.
+ GO:0008270; F:zinc ion binding; IDA:UniProtKB.
+ GO:0030195; P:negative regulation of blood coagulation; IDA:UniProtKB.
+Blood coagulation; Cell adhesion; Direct protein sequencing;
+Hydrolase; Metal-binding; Metalloprotease; Protease; Zinc.
+TMZERO

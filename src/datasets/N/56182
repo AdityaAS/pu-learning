@@ -1,0 +1,13 @@
+AC   P69145; P01162;
+FMRFamide (Peak C) (Cardioexcitatory neuropeptide).
+"Structure of a molluscan cardioexcitatory neuropeptide.";
+"Purification and characterization of a cardioexcitatory neuropeptide
+from the central ganglia of a bivalve mollusc.";
+-!- FUNCTION: Myoactive; cardioexcitatory substance. Pharmacological
+    activities include augmentation, induction, and regularization of
+    cardiac contraction.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the FARP (FMRFamide related peptide)
+    family.
+Amidation; Direct protein sequencing; Neuropeptide.
+TMZERO

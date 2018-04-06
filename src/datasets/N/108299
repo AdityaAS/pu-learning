@@ -1,0 +1,17 @@
+AC   P37301;
+Myelin P0 protein precursor (Myelin protein zero) (Myelin peripheral
+protein) (MPP).
+"Molecular cloning of cDNAs that encode the chicken P0 protein:
+evidence for early expression in avians.";
+-!- FUNCTION: Creation of an extracellular membrane face which guides
+    the wrapping process and ultimately compacts adjacent lamellae.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Found only in peripheral nervous system
+    Schwann cells.
+-!- SIMILARITY: Belongs to the myelin P0 protein family.
+-!- SIMILARITY: Contains 1 Ig-like V-type (immunoglobulin-like)
+    domain.
+Glycoprotein; Immunoglobulin domain; Membrane; Phosphorylation;
+Signal; Structural protein; Transmembrane.
+TMONE

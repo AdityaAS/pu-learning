@@ -1,0 +1,43 @@
+AC   P29547; Q9URC6;
+Elongation factor 1-gamma 1 (EF-1-gamma 1) (Translation elongation
+factor 1B gamma 1) (Eukaryotic elongation factor 1Bgamma 1)
+(eEF1Bgamma 1) (Calcium and membrane-binding protein 1) (Calcium
+phospholipid-binding protein) (CPBP).
+"DRS1 to DRS7, novel genes required for ribosome assembly and function
+in Saccharomyces cerevisiae.";
+"Cloning and genetic characterization of a calcium- and phospholipid-
+binding protein from Saccharomyces cerevisiae that is homologous to
+translation elongation factor-1 gamma.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Calcium-dependent secretory vesicle-binding and lipid-binding
+proteins of Saccharomyces cerevisiae.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"A homologue of elongation factor 1 gamma regulates methionine
+sulfoxide reductase A gene expression in Saccharomyces cerevisiae.";
+"The crystal structure of the glutathione S-transferase-like domain of
+elongation factor 1Bgamma from Saccharomyces cerevisiae.";
+-!- FUNCTION: Subunit of the eukaryotic elongation factor 1 complex
+    (eEF1). Probably plays a role in anchoring the complex to other
+    cellular components. May be involved in transcriptional regulation
+    of MXR1.
+-!- PATHWAY: Protein biosynthesis; polypeptide chain elongation.
+-!- SUBUNIT: The eukaryotic elongation factor 1 complex (eEF1) is
+    probably a heterohexamer. Two trimeric complexes, each composed of
+    eEF1A (TEF1 or TEF2), eEF1Balpha (EFB1) and eEF1Bgamma (CAM1 or
+    TEF4), are probably dimerized via the eF1Bgamma subunits. The
+    eEF1B subcomplex with the GEF activity is formed of eEF1Balpha and
+    eEF1Bgamma. CAM1 interacts with EFB1. Component of a complex bound
+    to MXR1 promoter region.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- DOMAIN: Ths GST-like domain mediates the interaction to eEFB1 and
+    may be responsible for dimerization of the eEF1 complex.
+-!- MISCELLANEOUS: Present with 60865 molecules/cell.
+-!- MISCELLANEOUS: There are 2 isoforms for eEF1Bgamma in yeast.
+-!- SIMILARITY: Contains 1 EF-1-gamma C-terminal domain.
+-!- SIMILARITY: Contains 1 GST-like domain.
+ GO:0005830; C:cytosolic ribosome (sensu Eukaryota); IGI:SGD.
+ GO:0006448; P:regulation of translational elongation; IGI:SGD.
+3D-structure; Complete proteome; Direct protein sequencing;
+Elongation factor; Nuclear protein; Protein biosynthesis.
+TMZERO

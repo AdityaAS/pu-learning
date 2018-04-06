@@ -1,0 +1,15 @@
+AC   P58905;
+Ammonium transporter 1 member 1 (LeAMT1;1).
+"Preferential expression of an ammonium transporter and of two
+putative nitrate transporters in root hairs of tomato.";
+"Differential regulation of three functional ammonium transporter
+genes by nitrogen in root hairs and by light in leaves of tomato.";
+-!- FUNCTION: Involved in high affinity ammonium uptake.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Root hairs and leaves.
+-!- INDUCTION: By nitrogen deficiency.
+-!- SIMILARITY: Belongs to the ammonium transporter (TC 2.A.49)
+    family.
+Ammonia transport; Membrane; Transmembrane; Transport.
+TMELEVEN

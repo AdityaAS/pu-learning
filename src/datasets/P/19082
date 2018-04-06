@@ -1,0 +1,23 @@
+AC   P0AAE8; P23891; Q2M6H1;
+Probable cadaverine/lysine antiporter.
+"Identification of elements involved in transcriptional regulation of
+the Escherichia coli cad operon by external pH.";
+"Nucleotide sequence of the Escherichia coli cad operon: a system for
+neutralization of low extracellular pH.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Probable cadaverine/lysine antiporter or part of it.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: At low pH in the presence of lysine and achieves
+    maximal level under anaerobic conditions.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily.
+Amino-acid transport; Antiport; Complete proteome; Inner membrane;
+Membrane; Transmembrane; Transport.
+TMFOURTEEN

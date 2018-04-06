@@ -1,0 +1,36 @@
+AC   P69451; P29212;
+Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) (Long-chain acyl-CoA
+synthetase) (Acyl-CoA synthetase).
+"The fadD gene of Escherichia coli K12 is located close to rnd at 39.6
+min of the chromosomal map and is a new member of the AMP-binding
+protein family.";
+"Cloning, sequencing, and expression of the fadD gene of Escherichia
+coli encoding acyl coenzyme A synthetase.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Functional role of fatty acyl-coenzyme A synthetase in the
+transmembrane movement and activation of exogenous long-chain fatty
+acids. Amino acid residues within the ATP/AMP signature motif of
+Escherichia coli FadD are required for enzyme activity and fatty acid
+transport.";
+-!- FUNCTION: Catalyzes the esterification, concomitant with
+    transport, of exogenous long-chain fatty acids into metabolically
+    active CoA thioesters for subsequent degradation or incorporation
+    into phospholipids.
+-!- CATALYTIC ACTIVITY: ATP + a long-chain carboxylic acid + CoA = AMP
+    + diphosphate + an acyl-CoA.
+-!- SUBUNIT: Homodimer (Probable).
+-!- SUBCELLULAR LOCATION: Membrane; peripheral membrane protein (By
+    similarity). Note=Partially membrane-associated (By similarity).
+-!- MISCELLANEOUS: Activity is the highest with fatty acid substrates
+    of > 10 carbon atoms.
+-!- SIMILARITY: Belongs to the ATP-dependent AMP-binding enzyme
+    family.
+ GO:0004467; F:long-chain-fatty-acid-CoA ligase activity; IEA:EC.
+ATP-binding; Complete proteome; Direct protein sequencing;
+Fatty acid metabolism; Ligase; Lipid metabolism; Membrane;
+Nucleotide-binding.
+TMZERO

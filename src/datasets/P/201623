@@ -1,0 +1,41 @@
+AC   P32842; P32365;
+Vacuolar ATP synthase subunit c' (EC 3.6.3.14) (V-ATPase c' subunit)
+(Vacuolar proton pump c' subunit) (V-ATPase 16 kDa proteolipid subunit
+2) (Proteolipid protein VMA11).
+"VMA11, a novel gene that encodes a putative proteolipid, is
+indispensable for expression of yeast vacuolar membrane H(+)-ATPase
+activity.";
+"Expression of a proteolipid gene from a high-copy-number plasmid
+confers trifluoperazine resistance to Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"VMA11 and VMA16 encode second and third proteolipid subunits of the
+Saccharomyces cerevisiae vacuolar membrane H+-ATPase.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Proton-conducting pore forming subunit of the membrane
+    integral V0 complex of vacuolar ATPase. V-ATPase is responsible
+    for acidifying a variety of intracellular compartments in
+    eukaryotic cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'', d and e). The proteolipid components c, c' and c'' are
+    present as a hexameric ring that forms the proton-conducting pore.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- MISCELLANEOUS: Present with 538 molecules/cell.
+-!- SIMILARITY: Belongs to the V-ATPase proteolipid subunit family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to a
+    frameshift in position 102.
+ GO:0000220; C:hydrogen-transporting ATPase V0 domain; TAS:SGD.
+ GO:0016021; C:integral to membrane; IDA:SGD.
+ GO:0046961; F:hydrogen-transporting ATPase activity, rota...; TAS:SGD.
+ GO:0007035; P:vacuolar acidification; TAS:SGD.
+ATP synthesis; Complete proteome; Hydrogen ion transport; Hydrolase;
+Ion transport; Membrane; Transmembrane; Transport; Vacuole.
+TMFOUR

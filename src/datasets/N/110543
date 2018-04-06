@@ -1,0 +1,17 @@
+AC   P90789;
+Probable NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7
+(EC 1.6.5.3) (EC 1.6.99.3).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Transfer of electrons from NADH to the respiratory
+    chain. The immediate electron acceptor for the enzyme is believed
+    to be ubiquinone (By similarity).
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- CATALYTIC ACTIVITY: NADH + acceptor = NAD(+) + reduced acceptor.
+-!- SUBUNIT: Complex I is composed of 45 different subunits (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    matrix side.
+-!- SIMILARITY: Belongs to the complex I NDUFB7 subunit family.
+Complete proteome; Mitochondrion; NAD; Oxidoreductase; Ubiquinone.
+TMZERO

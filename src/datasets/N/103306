@@ -1,0 +1,8 @@
+AC   Q3A2F8;
+S-adenosyl-methyltransferase mraW (EC 2.1.1.-).
+"Complete sequence of Pelobacter carbinolicus DSM 2380.";
+-!- FUNCTION: Exhibits a S-adenosyl-dependent methyltransferase
+    activity (By similarity).
+-!- SIMILARITY: Belongs to the mraW family.
+Complete proteome; Methyltransferase; Transferase.
+TMZERO

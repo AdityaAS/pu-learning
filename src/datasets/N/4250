@@ -1,0 +1,14 @@
+AC   O49923;
+Adenosine kinase (EC 2.7.1.20) (AK) (Adenosine 5'-phosphotransferase).
+"Cloning and characterization of an adenosine kinase from
+Physcomitrella involved in cytokinin metabolism.";
+-!- FUNCTION: ATP dependent phosphorylation of adenosine and other
+    related nucleoside analogs to monophosphate derivatives. Can also
+    act on the cytokinin isopentenyladenosine to produce
+    isopentenyladenosine monophosphate.
+-!- CATALYTIC ACTIVITY: ATP + adenosine = ADP + AMP.
+-!- COFACTOR: Magnesium (By similarity).
+-!- PATHWAY: Purine salvage. Cytokinin interconversion.
+-!- SIMILARITY: Belongs to the carbohydrate kinase pfkB family.
+Kinase; Magnesium; Purine salvage; Transferase.
+TMZERO

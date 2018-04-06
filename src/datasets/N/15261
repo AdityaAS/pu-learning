@@ -1,0 +1,14 @@
+AC   P57094;
+Axin-1 (Axis inhibition protein 1).
+"Cooperative roles of Bozozok/Dharma and Nodal-related proteins in the
+formation of the dorsal organizer in zebrafish.";
+-!- FUNCTION: Inhibitor of the Wnt signaling pathway. Down-regulates
+    beta-catenin. Probably facilitate the phosphorylation of beta-
+    catenin and APC by GSK3B (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- PTM: Probably phosphorylated by GSK3B and dephosphorylated by PP2A
+    (By similarity).
+-!- SIMILARITY: Contains 1 DIX domain.
+-!- SIMILARITY: Contains 1 RGS domain.
+Developmental protein; Phosphorylation; Wnt signaling pathway.
+TMZERO

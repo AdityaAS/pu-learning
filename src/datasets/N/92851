@@ -1,0 +1,39 @@
+AC   Q08380;
+Galectin-3-binding protein precursor (Lectin galactoside-binding
+soluble 3-binding protein) (Mac-2-binding protein) (Mac-2 BP) (MAC2BP)
+(Tumor-associated antigen 90K).
+"Cloning and characterization of a human Mac-2-binding protein, a new
+member of the superfamily defined by the macrophage scavenger receptor
+cysteine-rich domain.";
+"The secreted tumor-associated antigen 90K is a potent immune
+stimulator.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Glycoprotein 90K/MAC-2BP interacts with galectin-1 and mediates
+galectin-1-induced cell aggregation.";
+"Functional studies on recombinant domains of Mac-2-binding protein.";
+"Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+hydrazide chemistry, and mass spectrometry.";
+"Identification of N-linked glycoproteins in human saliva by
+glycoprotein capture and mass spectrometry.";
+"Mac-2 binding protein is a cell-adhesive protein of the extracellular
+matrix which self-assembles into ring-like structures and binds beta1
+integrins, collagens and fibronectin.";
+-!- FUNCTION: Promotes intergrin-mediated cell adhesion. May stimulate
+    host defense against viruses and tumor cells.
+-!- SUBUNIT: Homodimers and homomultimers. The multimers form ring-
+    like structures with a diameter of 30-40 nm. Binds LGALS1 and
+    LGALS3. Binds ITGB1, COL4A1, COL5A1, COL6A1, FN1 and NID.
+-!- SUBCELLULAR LOCATION: Secreted protein. Secreted protein;
+    extracellular space; extracellular matrix.
+-!- TISSUE SPECIFICITY: Ubiquitous. Detected in body fluids such as
+    semen, milk, serum, tears, saliva and urine.
+-!- SIMILARITY: Contains 1 BTB (POZ) domain.
+-!- SIMILARITY: Contains 1 SRCR domain.
+ GO:0005615; C:extracellular space; TAS:ProtInc.
+ GO:0005044; F:scavenger receptor activity; TAS:ProtInc.
+ GO:0006968; P:cellular defense response; TAS:ProtInc.
+ GO:0007165; P:signal transduction; TAS:ProtInc.
+3D-structure; Cell adhesion; Direct protein sequencing;
+Extracellular matrix; Glycoprotein; Signal.
+TMZERO

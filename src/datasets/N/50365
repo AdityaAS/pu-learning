@@ -1,0 +1,18 @@
+AC   O13306; Q6FVS7;
+Squalene monooxygenase (EC 1.14.99.7) (Squalene epoxidase) (SE).
+"Genome evolution in yeasts.";
+"Molecular biological characterization of an azole-resistant Candida
+glabrata isolate.";
+-!- FUNCTION: Catalyzes the first oxygenation step in sterol
+    biosynthesis and is suggested to be one of the rate-limiting
+    enzymes in this pathway.
+-!- CATALYTIC ACTIVITY: Squalene + AH(2) + O(2) = (S)-squalene-2,3-
+    epoxide + A + H(2)O.
+-!- COFACTOR: FAD.
+-!- SUBCELLULAR LOCATION: Microsome; microsomal membrane; multi-pass
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the squalene monooxygenase family.
+ GO:0004506; F:squalene monooxygenase activity; IEA:EC.
+Complete proteome; FAD; Flavoprotein; Membrane; Oxidoreductase;
+Transmembrane.
+THTHREE

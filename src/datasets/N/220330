@@ -1,0 +1,8 @@
+AC   Q9V018;
+UPF0282 protein PYRAB09800.
+"An integrated analysis of the genome of the hyperthermophilic
+archaeon Pyrococcus abyssi.";
+-!- SIMILARITY: Belongs to the UPF0282 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

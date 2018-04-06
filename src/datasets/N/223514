@@ -1,0 +1,8 @@
+AC   P67179; Q8XFD4;
+UPF0082 protein yebC.
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- SIMILARITY: Belongs to the UPF0082 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

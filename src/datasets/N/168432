@@ -1,0 +1,18 @@
+AC   Q9VXE0;
+Probable small nuclear ribonucleoprotein G (snRNP-G) (Sm protein G)
+(Sm-G) (SmG).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: Associated with snRNP U1, U2, U4/U6 and U5 (By
+    similarity).
+-!- INTERACTION:
+    Q9VYG3:CG4332; NbExp=1; IntAct=EBI-174408, EBI-159882;
+    Q9V3G9:EG:BACR37P7.5; NbExp=1; IntAct=EBI-174408, EBI-162998;
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the snRNP Sm proteins family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; mRNA processing; mRNA splicing; Nuclear protein;
+Ribonucleoprotein; RNA-binding.
+TMZERO

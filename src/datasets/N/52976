@@ -1,0 +1,12 @@
+AC   Q6AYQ8;
+Fumarylacetoacetate hydrolase domain-containing protein 1
+(EC 3.-.-.-).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May have hydrolase activity.
+-!- COFACTOR: Calcium (Probable).
+-!- COFACTOR: Magnesium (Probable).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the FAH family.
+Calcium; Hydrolase; Magnesium; Metal-binding.
+TMZERO

@@ -1,0 +1,24 @@
+AC   P34711;
+Vesicular acetylcholine transporter unc-17 (Uncoordinated protein 17).
+"The Caenorhabditis elegans unc-17 gene: a putative vesicular
+acetylcholine transporter.";
+"Alternative splicing leads to two cholinergic proteins in
+Caenorhabditis elegans.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Involved in acetylcholine transport into synaptic
+    vesicles.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Cytoplasmic vesicle; secretory vesicle;
+    synaptic vesicle. Synaptic vesicles of cholinergic neurons.
+-!- MISCELLANEOUS: Mutations produce deficits in neuromuscular
+    function.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+    Vesicular transporter family.
+ GO:0005887; C:integral to plasma membrane; NAS:UniProtKB.
+ GO:0005277; F:acetylcholine transporter activity; IMP:UniProtKB.
+ GO:0015870; P:acetylcholine transport; NAS:UniProtKB.
+ GO:0006937; P:regulation of muscle contraction; IMP:UniProtKB.
+Complete proteome; Glycoprotein; Membrane; Neurotransmitter transport;
+Transmembrane; Transport.
+TMTWELVE

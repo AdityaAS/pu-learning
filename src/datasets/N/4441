@@ -1,0 +1,14 @@
+AC   Q63191;
+Apical endosomal glycoprotein precursor.
+"Molecular characterization of an apical early endosomal glycoprotein
+from developing rat intestinal epithelial cells.";
+-!- FUNCTION: Probably involved in the sorting and selective transport
+    of receptors and ligands across polarized epithelia.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Probable).
+-!- TISSUE SPECIFICITY: Apical endosomal tubules of developing rat
+    intestinal epithelial cells.
+-!- SIMILARITY: Contains 3 LDL-receptor class A domains.
+-!- SIMILARITY: Contains 6 MAM domains.
+Glycoprotein; Membrane; Repeat; Signal; Transmembrane.
+TMONE

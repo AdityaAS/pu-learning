@@ -1,0 +1,27 @@
+AC   Q9C0W7; O13623; O13624;
+AP-2 complex subunit alpha (Alpha-adaptin) (Clathrin assembly protein
+large alpha chain) (Clathrin assembly protein complex 2 alpha large
+chain).
+"A 38 kb segment containing the cdc2 gene from the left arm of fission
+yeast chromosome II: sequence analysis and characterization of the
+genomic DNA and cDNAs encoded on the segment.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Adaptins are components of the adaptor complexes which
+    link clathrin to receptors in coated vesicles. Clathrin-associated
+    protein complexes are believed to interact with the cytoplasmic
+    tails of membrane proteins, leading to their selection and
+    concentration. Alpha adaptin is a subunit of the plasma membrane
+    adaptor (By similarity).
+-!- SUBUNIT: Assembly protein complex 2 (AP-2) is a heterotetramer
+    composed of two large chains (alpha/apl3 and beta/apl1), a medium
+    chain (mu/apm4) and a small chain (sigma/aps2) (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; coated pit; cytoplasmic side
+    (By similarity). Note=Component of the coat surrounding the
+    cytoplasmic face of coated vesicles in the plasma membrane (By
+    similarity).
+-!- SIMILARITY: Belongs to the adaptor complexes large subunit family.
+ GO:0005938; C:cell cortex; IDA:GeneDB_SPombe.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+Coated pits; Complete proteome.
+TMZERO

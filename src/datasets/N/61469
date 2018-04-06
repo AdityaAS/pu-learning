@@ -1,0 +1,20 @@
+AC   P18573;
+Alpha/beta-gliadin MM1 precursor (Prolamin).
+"Nucleotide sequence of a cDNA encoding an alpha/beta-type gliadin
+from hexaploid wheat (Triticum aestivum).";
+"Structural basis for gluten intolerance in celiac sprue.";
+-!- FUNCTION: Gliadin is the major seed storage protein in wheat.
+-!- PTM: Substrate of transglutaminase.
+-!- ALLERGEN: Causes an allergic reaction in human. Is the cause of
+    the celiac disease, also known as celiac sprue or gluten-sensitive
+    enteropathy.
+-!- MISCELLANEOUS: An internal 33-mer peptide seems to be the primary
+    initiator of the inflammatory response to gluten.
+-!- MISCELLANEOUS: The alpha/beta-gliadins can be divided into 5
+    homology classes. Sequence divergence between the classes is due
+    to single base substitutions and to duplications or deletions
+    within or near direct repeats. There are more than a 100 copies of
+    the gene for alpha/beta-gliadin per haploid genome.
+-!- SIMILARITY: Belongs to the gliadin/glutenin family.
+Allergen; Repeat; Seed storage protein; Signal; Storage protein.
+TMZERO

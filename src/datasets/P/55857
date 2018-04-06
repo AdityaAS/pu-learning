@@ -1,0 +1,18 @@
+AC   P54700;
+Flagellar biosynthetic protein fliP precursor.
+"The FliO, FliP, FliQ, and FliR proteins of Salmonella typhimurium:
+putative components for flagellar assembly.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Plays a role in the flagellum-specific transport system
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: For insertion of fliP into the membrane, cleavage
+    of the signal peptide is important kinetically but not absolutely
+    required.
+-!- SIMILARITY: Belongs to the fliP/mopC/spaP family.
+Complete proteome; Direct protein sequencing; Flagellum;
+Inner membrane; Membrane; Protein transport; Signal; Transmembrane;
+Transport.
+TMFOUR

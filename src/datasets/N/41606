@@ -1,0 +1,26 @@
+AC   Q94523; Q0E918; Q9I7G3;
+Succinate dehydrogenase [ubiquinone] flavoprotein subunit,
+mitochondrial precursor (EC 1.3.5.1) (FP) (Flavoprotein subunit of
+complex II).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Identification of nuclear genes encoding mitochondrial proteins:
+isolation of a collection of D. melanogaster cDNAs homologous to
+sequences in the Human Gene Index database.";
+-!- CATALYTIC ACTIVITY: Succinate + ubiquinone = fumarate + ubiquinol.
+-!- COFACTOR: FAD (By similarity).
+-!- PATHWAY: Carbohydrate metabolism; tricarboxylic acid cycle.
+-!- SUBUNIT: Forms part of complex II containing four subunits: a
+    flavoprotein (FP), an iron-sulfur protein (IP) and a cytochrome b
+    composed of two integral membrane proteins (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane
+    (By similarity).
+-!- SIMILARITY: Belongs to the FAD-dependent oxidoreductase 2 family.
+    FRD/SDH subfamily.
+ GO:0008177; F:succinate dehydrogenase (ubiquinone) activity; IEA:EC.
+Complete proteome; Electron transport; FAD; Flavoprotein;
+Mitochondrion; Oxidoreductase; Transit peptide; Transport;
+Tricarboxylic acid cycle.
+TMZERO

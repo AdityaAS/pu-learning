@@ -1,0 +1,30 @@
+AC   P04994; P78230;
+Exodeoxyribonuclease VII large subunit (EC 3.1.11.6) (Exonuclease VII
+large subunit).
+"Escherichia coli exonuclease VII. Cloning and sequencing of the gene
+encoding the large subunit (xseA).";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Subunit structure of Escherichia coli exonuclease VII.";
+-!- FUNCTION: Bidirectionally degrades single-stranded DNA into large
+    acid-insoluble oligonucleotides, which are then degraded further
+    into small acid-soluble oligonucleotides. It can also degrade 3'
+    or 5' ss regions extending from the termini of duplex DNA
+    molecules and displaced ss regions.
+-!- CATALYTIC ACTIVITY: Exonucleolytic cleavage in either 5'- to 3'-
+    or 3'- to 5'-direction to yield nucleoside 5'-phosphates.
+-!- SUBUNIT: Heterooligomer composed of two different subunits with an
+    approximate ratio of 4 small subunits for 1 large.
+-!- INTERACTION:
+    P76168:intQ; NbExp=1; IntAct=EBI-559703, EBI-559711;
+    P45549:yhfW; NbExp=1; IntAct=EBI-559703, EBI-1132637;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the xseA family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Direct protein sequencing; Exonuclease; Hydrolase;
+Nuclease.
+TMZERO

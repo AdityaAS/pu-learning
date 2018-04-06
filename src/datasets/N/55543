@@ -1,0 +1,27 @@
+AC   P26477;
+Negative regulator of flagellin synthesis (Anti-sigma-28 factor).
+"Molecular characterization of flgM, a gene encoding a negative
+regulator of flagellin synthesis in Salmonella typhimurium.";
+"Mutation of flgM attenuates virulence of Salmonella typhimurium, and
+mutation of fliA represses the attenuated phenotype.";
+"Sequence analysis of the flgA gene and its adjacent region in
+Salmonella typhimurium, and identification of another flagellar gene,
+flgN.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Molecular dissection of the flagellum-specific anti-sigma factor,
+FlgM, of Salmonella typhimurium.";
+-!- FUNCTION: Responsible for the coupling of flagellin expression to
+    flagellar assembly by preventing expression of the flagellin genes
+    when a component of the middle class of proteins is defective. It
+    negatively regulates flagellar genes by inhibiting the activity of
+    fliA by directly binding to fliA.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Note=After completion of the
+    hook-basal body structure, it is exported out of the cell through
+    the completely assembled hook-basal body structures.
+-!- DOMAIN: The N-terminal domain is essential for export and the C-
+    terminal domain possess the fliA binding site.
+-!- SIMILARITY: Belongs to the flgM family.
+Complete proteome; Flagellum; Repressor; Transcription;
+Transcription regulation.
+TMZERO

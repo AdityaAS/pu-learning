@@ -1,0 +1,56 @@
+AC   P69797; P08186; Q47350;
+PTS system mannose-specific EIIAB component (EIIAB-Man) [Includes:
+Mannose-specific phosphotransferase enzyme IIA component (EC 2.7.1.-)
+(PTS system mannose-specific EIIA component) (EIII-Man); Mannose-
+specific phosphotransferase enzyme IIB component (EC 2.7.1.69) (PTS
+system mannose-specific EIIB component)].
+"Nucleotide sequence of manX(ptsL) encoding the enzyme III(Man) (II-
+A(Man)) function in the phosphotransferase system of Escherichia coli
+K-12.";
+"The mannose permease of Escherichia coli consists of three different
+proteins. Amino acid sequence and function in sugar transport, sugar
+phosphorylation, and penetration of phage lambda DNA.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Structure of the IIA domain of the mannose transporter from
+Escherichia coli at 1.7-A resolution.";
+"Predicted topology of the N-terminal domain of the hydrophilic
+subunit of the mannose transporter of Escherichia coli.";
+"Secondary structure of the IIB domain of the Escherichia coli mannose
+transporter, a new fold in the class of alpha/beta twisted open-sheet
+structures.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in mannose transport.
+-!- CATALYTIC ACTIVITY: Protein EIIA N(pi)-phospho-L-histidine +
+    protein EIIB = protein EIIA + protein EIIB N(pi)-phospho-L-
+    histidine/cysteine.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- INTERACTION:
+    P0ACN7:cytR; NbExp=1; IntAct=EBI-554089, EBI-1125696;
+-!- SUBCELLULAR LOCATION: Cytoplasm. Cell inner membrane; peripheral
+    membrane protein.
+-!- DOMAIN: The EIIA domain is phosphorylated by phospho-HPr on a
+    histidyl residue. Then, it transfers the phosphoryl group to the
+    EIIB domain.
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIA type-4 domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-4 domain.
+ GO:0005737; C:cytoplasm; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Complete proteome; Direct protein sequencing;
+Phosphorylation; Phosphotransferase system; Sugar transport;
+Transferase; Transport.
+TMZERO

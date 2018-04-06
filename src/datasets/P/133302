@@ -1,0 +1,28 @@
+AC   P16033;
+Photosystem Q(B) protein (32 kDa thylakoid membrane protein)
+(Photosystem II protein D1).
+"Nucleotide sequence of the psbA3 gene from the cyanobacterium
+Synechocystis PCC 6803.";
+"Nucleotide sequence of a second psbA gene from the unicellular
+cyanobacterium Synechocystis 6803.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+"Mutations in the D1 subunit of photosystem II distinguish between
+quinone and herbicide binding sites.";
+"The D-E region of the D1 protein is involved in multiple quinone and
+herbicide interactions in photosystem II.";
+-!- FUNCTION: This is one of the two reaction center proteins of the
+    photosystem II.
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; multi-pass
+    membrane protein.
+-!- MISCELLANEOUS: Herbicides such as atrazine, BNT, diuron or ioxynil
+    bind to Q(B) and blocks the electron transport.
+-!- MISCELLANEOUS: Cyanobacteria are generally known to contain 2 to 3
+    copies of the psbA gene.
+-!- SIMILARITY: Belongs to the reaction center pufL/M/psbA/D family.
+ GO:0030096; C:photosystem II (sensu Cyanobacteria); IDA:UniProtKB.
+Complete proteome; Electron transport; Herbicide resistance; Iron;
+Membrane; Metal-binding; Photosynthesis; Photosystem II; Thylakoid;
+Transmembrane; Transport.
+TMFIVE

@@ -1,0 +1,34 @@
+AC   Q8EYV8;
+Arginine biosynthesis bifunctional protein argJ [Includes: Glutamate
+N-acetyltransferase (EC 2.3.1.35) (Ornithine acetyltransferase)
+(Ornithine transacetylase) (OATase); Amino-acid acetyltransferase
+(EC 2.3.1.1) (N-acetylglutamate synthase) (AGS)] [Contains: Arginine
+biosynthesis bifunctional protein argJ alpha chain; Arginine
+biosynthesis bifunctional protein argJ beta chain].
+"Unique physiological and pathogenic features of Leptospira
+interrogans revealed by whole-genome sequencing.";
+-!- FUNCTION: Catalyzes two activities which are involved in the
+    cyclic version of arginine biosynthesis: the synthesis of
+    acetylglutamate from glutamate and acetyl-CoA, and of ornithine by
+    transacetylation between acetylornithine and glutamate (By
+    similarity).
+-!- CATALYTIC ACTIVITY: 2-N-acetyl-L-ornithine + L-glutamate = L-
+    ornithine + N-acetyl-L-glutamate.
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + L-glutamate = CoA + N-acetyl-L-
+    glutamate.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; L-
+    ornithine and N-acetyl-L-glutamate from 2-N-acetyl-L-ornithine and
+    L-glutamate (cyclic): single step.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; 2-N-
+    acetyl-L-ornithine from L-glutamate: step 1.
+-!- SUBUNIT: Heterotetramer of two alpha and two beta chains (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- MISCELLANEOUS: Some bacteria possess a monofunctional argJ, i.e.,
+    capable of catalyzing only the fifth step of the arginine
+    biosynthetic pathway.
+-!- SIMILARITY: Belongs to the argJ family.
+ GO:0004042; F:amino-acid N-acetyltransferase activity; IEA:HAMAP.
+Acyltransferase; Amino-acid biosynthesis; Arginine biosynthesis;
+Complete proteome; Multifunctional enzyme; Transferase.
+TMZERO

@@ -1,0 +1,15 @@
+AC   Q9N1U7;
+Ornithine carbamoyltransferase, mitochondrial precursor (EC 2.1.3.3)
+(OTCase) (Ornithine transcarbamylase).
+"Ornithine transcarbamylase is expressed in uricotelic animals.";
+-!- CATALYTIC ACTIVITY: Carbamoyl phosphate + L-ornithine = phosphate
+    + L-citrulline.
+-!- PATHWAY: Nitrogen metabolism; urea cycle; L-citrulline from L-
+    ornithine and carbamoyl phosphate: single step.
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix (By
+    similarity).
+-!- SIMILARITY: Belongs to the ATCase/OTCase family.
+Acetylation; Amino-acid biosynthesis; Arginine biosynthesis;
+Mitochondrion; Transferase; Transit peptide; Urea cycle.
+TMZERO

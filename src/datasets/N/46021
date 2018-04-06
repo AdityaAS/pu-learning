@@ -1,0 +1,12 @@
+AC   Q39592;
+Dynein 16 kDa light chain, flagellar outer arm.
+"Two functional thioredoxins containg redox-senesitive vicinal
+dithiols from the Chlamydomonas outer dynein arm.";
+-!- FUNCTION: May be involved in regulating the redox state of
+    functionally important thiol groups within dynein.
+-!- SUBUNIT: Consists of at least 3 heavy chains (alpha, beta and
+    gamma), 2 intermediate chains and 8 light chains.
+-!- SIMILARITY: Contains 1 thioredoxin domain.
+Direct protein sequencing; Dynein; Electron transport; Flagellum;
+Microtubule; Motor protein; Redox-active center; Transport.
+TMZERO

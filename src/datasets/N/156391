@@ -1,0 +1,20 @@
+AC   Q7N807;
+Ribonuclease H (EC 3.1.26.4) (RNase H).
+"The genome sequence of the entomopathogenic bacterium Photorhabdus
+luminescens.";
+-!- FUNCTION: Endonuclease that specifically degrades the RNA of RNA-
+    DNA hybrids (By similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+    phosphomonoester.
+-!- COFACTOR: Binds 1 magnesium ion per subunit. May bind a second
+    metal ion at a regulatory site, or after substrate binding (By
+    similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the RNase H family.
+-!- SIMILARITY: Contains 1 RNase H domain.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0006401; P:RNA catabolism; IEA:HAMAP.
+Complete proteome; Endonuclease; Hydrolase; Magnesium; Metal-binding;
+Nuclease.
+TMZERO

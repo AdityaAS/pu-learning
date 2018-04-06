@@ -1,0 +1,14 @@
+AC   O36639;
+Movement protein (MP) (Protein 3A).
+-!- FUNCTION: Involved in transport of the virus from the initially
+    infected cells to adjacent cells, binds to the cell wall.
+-!- SUBCELLULAR LOCATION: Cell junction; plasmodesma (By similarity).
+    Note=Assembles into long tubular structures at the surface of the
+    infected protoplast (By similarity).
+-!- MISCELLANEOUS: The virus has a tripartite genome (RNA1, RNA2 and
+    RNA3) and an encapsidated subgenomic RNA (RNA4) from which the
+    coat protein is expressed. Virions are icosahedral, not enveloped,
+    with 32 capsomers per nucleocapsid.
+-!- SIMILARITY: Belongs to the cucumoviruses/bromoviruses 3A family.
+Transport; Viral movement protein.
+TMZERO

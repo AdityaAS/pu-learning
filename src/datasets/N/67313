@@ -1,0 +1,20 @@
+AC   P97711;
+G protein-coupled receptor kinase 6 (EC 2.7.11.16) (G protein-coupled
+receptor kinase GRK6).
+"Molecular cloning of rat G-protein-coupled receptor kinase 6 (GRK6)
+from brain tissue, and its mRNA expression in different brain regions
+and peripheral tissues.";
+-!- FUNCTION: Specifically phosphorylates the activated forms of G
+    protein-coupled receptors (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + [G-protein-coupled receptor] = ADP + [G-
+    protein-coupled receptor] phosphate.
+-!- SUBCELLULAR LOCATION: Membrane; lipid-anchor.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. GPRK
+    subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+-!- SIMILARITY: Contains 1 RGS domain.
+ GO:0006468; P:protein amino acid phosphorylation; IDA:RGD.
+ATP-binding; Kinase; Lipoprotein; Membrane; Nucleotide-binding;
+Palmitate; Phosphorylation; Serine/threonine-protein kinase;
+Transferase.
+TMZERO

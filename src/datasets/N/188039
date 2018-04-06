@@ -1,0 +1,39 @@
+AC   P41338;
+Acetyl-CoA acetyltransferase (EC 2.3.1.9) (Acetoacetyl-CoA thiolase)
+(Ergosterol biosynthesis protein 10).
+"ERG10 from Saccharomyces cerevisiae encodes acetoacetyl-CoA
+thiolase.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Two forms of acetoacetyl coenzyme A thiolase in yeast. I. Separation
+and properties.";
+"Transcriptional regulation of a sterol-biosynthetic enzyme by sterol
+levels in Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Catalyzes the formation of acetoacetyl-CoA in the
+    biosynthesis of mevalonate, an intermediate required for the
+    biosynthesis of sterols and nonsterol isoprenoids.
+-!- CATALYTIC ACTIVITY: 2 acetyl-CoA = CoA + acetoacetyl-CoA.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=0.16 mM for CoA;
+      KM=0.35 mM for acetoacetyl-CoA;
+    pH dependence:
+      Optimum pH is 8.8;
+-!- PATHWAY: Metabolic intermediate biosynthesis; mevalonate
+    biosynthesis; R-mevalonate from acetyl-CoA: step 1.
+-!- PATHWAY: Context: Poly-beta-hydroxybutyrate biosynthesis.
+-!- SUBUNIT: Multimeric.
+-!- INTERACTION:
+    Self; NbExp=1; IntAct=EBI-19240, EBI-19240;
+    P50079:HSV2; NbExp=1; IntAct=EBI-19240, EBI-23505;
+    Q12505:SKS1; NbExp=1; IntAct=EBI-19240, EBI-17297;
+    P10592:SSA2; NbExp=1; IntAct=EBI-19240, EBI-8603;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- INDUCTION: Induced by low intracellular sterol levels.
+-!- MISCELLANEOUS: Present with 60895 molecules/cell.
+-!- SIMILARITY: Belongs to the thiolase family.
+ GO:0003985; F:acetyl-CoA C-acetyltransferase activity; IDA:SGD.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+Acetylation; Acyltransferase; Complete proteome;
+Direct protein sequencing; Transferase.
+TMZERO

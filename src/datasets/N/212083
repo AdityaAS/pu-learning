@@ -1,0 +1,8 @@
+AC   P67184; Q8DY48; Q8E3R5;
+UPF0082 protein gbs1691.
+"Genome sequence of Streptococcus agalactiae, a pathogen causing
+invasive neonatal disease.";
+-!- SIMILARITY: Belongs to the UPF0082 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

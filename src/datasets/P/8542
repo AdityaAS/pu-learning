@@ -1,0 +1,14 @@
+AC   O28846;
+Probable aquaporin aqpM.
+"The complete genome sequence of the hyperthermophilic, sulphate-
+reducing archaeon Archaeoglobus fulgidus.";
+-!- FUNCTION: Channel that permits osmotically driven movement of
+    water in both directions (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+Complete proteome; Membrane; Repeat; Transmembrane; Transport.
+TMSIX

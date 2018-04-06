@@ -1,0 +1,14 @@
+AC   Q6ENP7;
+NAD(P)H-quinone oxidoreductase chain 4, chloroplast (EC 1.6.5.-)
+(NAD(P)H dehydrogenase, chain 4) (NADH-plastoquinone oxidoreductase
+chain 4).
+"Complete nucleotide sequence of the sugarcane (Saccharum officinarum)
+chloroplast genome: a comparative analysis of four monocot chloroplast
+genomes.";
+-!- CATALYTIC ACTIVITY: NAD(P)H + plastoquinone = NAD(P)(+) +
+    plastoquinol.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the complex I subunit 4 family.
+Chloroplast; NAD; NADP; Oxidoreductase; Plastid; Plastoquinone;
+Quinone.
+TMZERO

@@ -1,0 +1,17 @@
+AC   O51929;
+Cell division protein ftsZ.
+"Characterization of ftsZ, the cell division gene of Buchnera
+aphidicola (endosymbiont of aphids) and detection of the product.";
+"50 million years of genomic stasis in endosymbiotic bacteria.";
+-!- FUNCTION: This protein is essential to the cell-division process.
+    It seems to assemble into a dynamic ring on the inner surface of
+    the cytoplasmic membrane at the place where division will occur,
+    and the formation of the ring is the signal for septation to
+    begin. Binds to and hydrolyzes GTP (By similarity).
+-!- SUBUNIT: Aggregates to form a ring-like structure (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Note=Assembles at
+    the inner surface of the cytoplasmic membrane (By similarity).
+-!- SIMILARITY: Belongs to the ftsZ family.
+Cell cycle; Cell division; Complete proteome; GTP-binding;
+Nucleotide-binding; Septation.
+TMZERO

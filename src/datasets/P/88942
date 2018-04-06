@@ -1,0 +1,14 @@
+AC   P24586;
+Polysialic acid transport ATP-binding protein kpsT.
+"Molecular analysis of the Escherichia coli K5 kps locus:
+identification and characterization of an inner-membrane capsular
+polysaccharide transport system.";
+-!- FUNCTION: Putative ATP-binding protein, and an energy coupling
+    component for the transport of polysialic acid across the
+    cytoplasmic membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Inner membrane; Membrane; Nucleotide-binding; Transport.
+TMZERO

@@ -1,0 +1,15 @@
+AC   Q9JVG3;
+Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-
+hydrolase) (PPase).
+"Complete DNA sequence of a serogroup A strain of Neisseria
+meningitidis Z2491.";
+-!- CATALYTIC ACTIVITY: Diphosphate + H(2)O = 2 phosphate.
+-!- COFACTOR: Binds 4 magnesium ions per subunit. Other metal ions can
+    support activity, but at a lower rate. Two magnesium ions are
+    required for the activation of the enzyme and are present before
+    substrate binds, two additional magnesium ions form complexes with
+    substrate and product (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the PPase family.
+Complete proteome; Hydrolase; Magnesium; Metal-binding.
+TMZERO

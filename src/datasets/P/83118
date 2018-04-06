@@ -1,0 +1,27 @@
+AC   P27716; Q9W3T8;
+Innexin inx1 (Innexin-1) (Protein ogre) (Protein optic ganglion
+reduced).
+"Molecular cloning and analysis of l(1)ogre, a locus of Drosophila
+melanogaster with prominent effects on the postembryonic development
+of the central nervous system.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+-!- FUNCTION: Structural component of the gap junctions. Essential for
+    generation and/or maintenance of postembryonic neuroblasts and
+    normal development of optic lobe.
+-!- SUBUNIT: Heterooligomer of inx2 and ogre.
+-!- INTERACTION:
+    O77237:Pli; NbExp=1; IntAct=EBI-164746, EBI-92779;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Expressed in larval CNS and in tissues outside
+    of the CNS.
+-!- SIMILARITY: Belongs to the pannexin family.
+ GO:0005921; C:gap junction; IEP:UniProtKB.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0015286; F:innexin channel activity; IEP:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0007602; P:phototransduction; IMP:FlyBase.
+Complete proteome; Gap junction; Membrane; Transmembrane.
+TMFOUR

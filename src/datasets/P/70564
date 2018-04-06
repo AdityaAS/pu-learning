@@ -1,0 +1,21 @@
+AC   Q54450;
+Hemophore HasA (Heme acquisition system protein A).
+"Iron acquisition from heme and hemoglobin by a Serratia marcescens
+extracellular protein.";
+"Purification and characterization of an extracellular heme-binding
+protein, HasA, involved in heme iron acquisition.";
+"A new type of hemophore-dependent heme acquisition system of Serratia
+marcescens reconstituted in Escherichia coli.";
+"The crystal structure of HasA, a hemophore secreted by Serratia
+marcescens.";
+"Functional aspects of the heme bound hemophore HasA by structural
+analysis of various crystal forms.";
+-!- FUNCTION: Can bind free heme and also acquire it from hemoglobin.
+    Conveys heme from hemoglobin to the HasR receptor which releases
+    it into the bacterium. HasR alone can take up heme but the synergy
+    between HasA and HasR increases heme uptake 100-fold.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- INDUCTION: By iron depletion.
+3D-structure; Direct protein sequencing; Heme; Iron; Metal-binding.
+TMZERO

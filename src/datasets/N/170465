@@ -1,0 +1,14 @@
+AC   Q81S85; Q6I0G7; Q6KUD4;
+Probable D-serine dehydratase (EC 4.3.1.18) (D-serine deaminase)
+(DSD).
+"The genome sequence of Bacillus anthracis Ames and comparison to
+closely related bacteria.";
+"Bacillus anthracis comparative genomics.";
+"Complete genome sequence of Bacillus anthracis Sterne.";
+-!- CATALYTIC ACTIVITY: D-serine = pyruvate + NH(3).
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- SIMILARITY: Belongs to the serine/threonine dehydratase family.
+    DsdA subfamily.
+ GO:0016836; F:hydro-lyase activity; IEA:HAMAP.
+Complete proteome; Lyase; Pyridoxal phosphate.
+TMZERO

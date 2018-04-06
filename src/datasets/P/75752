@@ -1,0 +1,20 @@
+AC   Q56992;
+Hemin transport system permease protein hmuU.
+"The hmu locus of Yersinia pestis is essential for utilization of free
+haemin and haem-protein complexes as iron sources.";
+"hmuRSTUV of Yersinia pestis encodes an ABC transport system necessary
+for hemin utilization.";
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for hemin; probably responsible for the translocation of the
+    substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. FecCD subfamily.
+Complete proteome; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Transmembrane; Transport.
+TMNINE

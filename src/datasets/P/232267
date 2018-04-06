@@ -1,0 +1,28 @@
+AC   P20107;
+Zinc/cadmium resistance protein.
+"Identification of a gene conferring resistance to zinc and cadmium
+ions in the yeast Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Probably responsible for the uptake of zinc and cadmium
+    ions.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 8200 molecules/cell.
+-!- SIMILARITY: Belongs to the cation diffusion facilitator (CDF)
+    transporter (TC 2.A.4) family. SLC30A subfamily.
+ GO:0000324; C:vacuole (sensu Fungi); IDA:SGD.
+ GO:0005385; F:zinc ion transporter activity; IMP:SGD.
+ GO:0006824; P:cobalt ion transport; NAS:SGD.
+ GO:0006749; P:glutathione metabolism; NAS:SGD.
+ GO:0006882; P:zinc ion homeostasis; IMP:SGD.
+ GO:0006829; P:zinc ion transport; NAS:SGD.
+Cadmium; Cadmium resistance; Complete proteome; Ion transport;
+Membrane; Mitochondrion; Transmembrane; Transport; Zinc;
+Zinc transport.
+TMSIX

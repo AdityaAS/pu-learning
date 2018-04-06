@@ -1,0 +1,27 @@
+AC   O01811; Q8T7S8;
+Mechanosensory abnormality protein 6.
+"The mechanosensory protein MEC-6 is a subunit of the C. elegans
+touch-cell degenerin channel.";
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Probable touch-cell sodium channel subunit. May be
+    needed for mechanosensory transduction (touch sensitivity).
+    Interacts with degenerin channel proteins and stabilizes the
+    channel. Non-voltage-gated amiloride-sensitive cation channel
+    permeable for sodium, potassium, lithium and N-methylglucamine.
+-!- SUBUNIT: The channel is probably composed of at least the mec-2,
+    mec-4, mec-6 and mec-10 subunits.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in muscle cells, many neurons,
+    including the six touch receptor neurons, and excretory canal.
+    Coexpressed with mec-4 in touch-cell axons.
+-!- PTM: Glycosylated.
+-!- MISCELLANEOUS: The U3 mutation does not affect the expression
+    levels, but completely blocks mec-4(d)-induced degenerations, and
+    abolishes the punctate expression of mec-4 in vivo.
+-!- SIMILARITY: Belongs to the paraoxonase family.
+Complete proteome; Glycoprotein; Hydrolase; Ion transport;
+Ionic channel; Membrane; Neurodegeneration; Potassium;
+Potassium transport; Sodium; Sodium channel; Sodium transport;
+Transmembrane; Transport.
+TMONE

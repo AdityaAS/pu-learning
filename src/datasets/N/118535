@@ -1,0 +1,37 @@
+AC   O01668; Q8SXF4; Q9VF58;
+Opsin Rh6 (Rhodopsin Rh6, long-wavelength).
+"Molecular cloning of Drosophila Rh6 rhodopsin: the visual pigment of
+a subset of R8 photoreceptor cells.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: Visual pigments are the light-absorbing molecules that
+    mediate vision. They consist of an apoprotein, opsin, covalently
+    linked to cis-retinal.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=B;
+      IsoId=O01668-1; Sequence=Displayed;
+    Name=A;
+      IsoId=O01668-2; Sequence=VSP_009271;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Each Drosophila eye is composed of 800 facets
+    or ommatidia. Each ommatidium contains 8 photoreceptor cells (R1-
+    R8), the R1 to R6 cells are outer cells, while R7 and R8 are inner
+    cells. Rh6 is expressed in a subset of R8 cells, most likely
+    expressed in the subset of R8 cells paired with Rh4-expressing R7
+    cells (R7y).
+-!- PTM: Phosphorylated on some or all of the serine and threonine
+    residues present in the C-terminal region (By similarity).
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+    Opsin subfamily.
+ GO:0016028; C:rhabdomere; IDA:FlyBase.
+ GO:0008020; F:G-protein coupled photoreceptor activity; IGI:FlyBase.
+ GO:0007602; P:phototransduction; IGI:FlyBase.
+Alternative splicing; Chromophore; Complete proteome;
+G-protein coupled receptor; Glycoprotein; Membrane; Phosphorylation;
+Photoreceptor protein; Receptor; Retinal protein;
+Sensory transduction; Transducer; Transmembrane; Vision.
+TMSEVEN

@@ -1,0 +1,28 @@
+AC   P00440; Q6MGJ7; Q7RVL7;
+Tyrosinase precursor (EC 1.14.18.1) (Monophenol monooxygenase).
+"Isolation and characterization of the tyrosinase gene from Neurospora
+crassa.";
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+"Primary structure of tyrosinase from Neurospora crassa. II. Complete
+amino acid sequence and chemical structure of a tripeptide containing
+an unusual thioether.";
+"Comparison of amino acid sequence and thermostability of tyrosinase
+from three wild type strains of Neurospora crassa.";
+-!- FUNCTION: This is a copper-containing oxidase that functions in
+    the formation of pigments such as melanins and other polyphenolic
+    compounds.
+-!- CATALYTIC ACTIVITY: L-tyrosine + L-dopa + O(2) = L-dopa +
+    dopaquinone + H(2)O.
+-!- COFACTOR: Binds 2 copper ions per subunit (By similarity).
+-!- MISCELLANEOUS: The strain TS sequence is shown.
+-!- SIMILARITY: Belongs to the tyrosinase family.
+-!- CAUTION: Ref.2 (CAE81941) sequence differs from that shown due to
+    erroneous gene model prediction.
+-!- CAUTION: Ref.3 (EAA35696) sequence differs from that shown due to
+    erroneous gene model prediction.
+ GO:0004503; F:monophenol monooxygenase activity; IEA:EC.
+Acetylation; Copper; Direct protein sequencing; Melanin biosynthesis;
+Metal-binding; Monooxygenase; Oxidoreductase; Thioether bond.
+TMZERO

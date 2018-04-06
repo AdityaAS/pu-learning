@@ -1,0 +1,21 @@
+AC   Q62241;
+U1 small nuclear ribonucleoprotein C (U1 snRNP protein C) (U1C
+protein) (U1-C).
+"Cloning and characterization of two processed pseudogenes and the
+cDNA for the murine U1 snRNP-specific protein C.";
+"Molecular cloning and developmental expression of a small ribonuclear
+protein in the mouse testis.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: This protein is associated with snRNP U1.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Widely expressed. In the testis, expressed in
+    somatic and germinal testicular cells but not in elongated
+    spermatids.
+-!- DEVELOPMENTAL STAGE: First detected in the testis 18 days after
+    birth. Levels increase successively between days 21-28. On day 42,
+    levels decrease.
+-!- SIMILARITY: Contains 1 matrin-type zinc finger.
+Metal-binding; Nuclear protein; Phosphorylation; Ribonucleoprotein;
+RNA-binding; Zinc; Zinc-finger.
+TMZERO

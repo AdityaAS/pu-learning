@@ -1,0 +1,15 @@
+AC   P36574; Q9CHM6;
+Di-/tripeptide transporter.
+"The di- and tripeptide transport protein of Lactococcus lactis. A new
+type of bacterial peptide transporter.";
+"The complete genome sequence of the lactic acid bacterium Lactococcus
+lactis ssp. lactis IL1403.";
+"Membrane topology of the di- and tripeptide transport protein of
+Lactococcus lactis.";
+-!- FUNCTION: Proton-dependent uptake of di- or tri-peptides.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the PTR2/POT transporter (TC 2.A.17)
+    family.
+Complete proteome; Membrane; Peptide transport; Protein transport;
+Transmembrane; Transport.
+TMTWELVE

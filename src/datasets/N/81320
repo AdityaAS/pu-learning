@@ -1,0 +1,35 @@
+AC   P01869;
+Ig gamma-1 chain C region, membrane-bound form.
+"Cloning and complete nucleotide sequence of mouse immunoglobulin
+gamma 1 chain gene.";
+"mRNA for surface immunoglobulin gamma chains encodes a highly
+conserved transmembrane sequence and a 28-residue intracellular
+domain.";
+"Gene segments encoding transmembrane carboxyl termini of
+immunoglobulin gamma chains.";
+"Nucleotide sequences of gene segments encoding membrane domains of
+immunoglobulin gamma chains.";
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Membrane-bound;
+      IsoId=P01869-1; Sequence=Displayed;
+    Name=Secreted;
+      IsoId=P01868-1; Sequence=External;
+      Note=May be the major isoform;
+ GO:0042571; C:immunoglobulin complex, circulating; IDA:MGI.
+ GO:0003823; F:antigen binding; IDA:MGI.
+ GO:0019733; P:antibacterial humoral response (sensu Verte...; IDA:MGI.
+ GO:0001788; P:antibody-dependent cellular cytotoxicity; IDA:MGI.
+ GO:0006958; P:complement activation, classical pathway; IDA:MGI.
+ GO:0042742; P:defense response to bacterium; IDA:MGI.
+ GO:0016064; P:immunoglobulin mediated immune response; IDA:MGI.
+ GO:0006911; P:phagocytosis, engulfment; IDA:MGI.
+ GO:0006910; P:phagocytosis, recognition; IDA:MGI.
+ GO:0050778; P:positive regulation of immune response; IDA:MGI.
+ GO:0050766; P:positive regulation of phagocytosis; IDA:MGI.
+ GO:0001812; P:positive regulation of type I hypersensitivity; IDA:MGI.
+ GO:0001798; P:positive regulation of type IIa hypersensit...; IDA:MGI.
+3D-structure; Alternative splicing; Glycoprotein;
+Immunoglobulin C region; Immunoglobulin domain; Membrane;
+Transmembrane.
+TMONE

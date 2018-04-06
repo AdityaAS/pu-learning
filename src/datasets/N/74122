@@ -1,0 +1,23 @@
+AC   Q9ZGM1;
+Imidazole glycerol phosphate synthase subunit hisH (EC 2.4.2.-) (IGP
+synthase glutamine amidotransferase subunit) (IGP synthase subunit
+hisH) (ImGP synthase subunit hisH) (IGPS subunit hisH).
+"Genetic organization of the lipopolysaccharide O-antigen biosynthetic
+locus of Leptospira borgpetersenii serovar Hardjobovis.";
+-!- FUNCTION: IGPS catalyzes the conversion of PRFAR and glutamine to
+    IGP, AICAR and glutamate. The hisH subunit provides the glutamine
+    amidotransferase activity that produces the ammonia necessary to
+    hisF for the synthesis of IGP and AICAR (By similarity).
+-!- CATALYTIC ACTIVITY: 5-[(5-phospho-1-deoxyribulos-1-
+    ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-
+    carboxamide + L-glutamine = imidazole-glycerol phosphate + 5-
+    aminoimidazol-4-carboxamide ribonucleotide + L-glutamate + H(2)O.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 5.
+-!- SUBUNIT: Heterodimer of hisH and hisF (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Contains 1 glutamine amidotransferase type-1 domain.
+ GO:0000107; F:imidazoleglycerol-phosphate synthase activity; IEA:HAMAP.
+Amino-acid biosynthesis; Glutamine amidotransferase;
+Histidine biosynthesis; Transferase.
+TMZERO

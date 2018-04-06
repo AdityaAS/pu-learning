@@ -1,0 +1,18 @@
+AC   O06446; Q2G054;
+Preprotein translocase secA subunit.
+"Molecular characterization of the Staphylococcus aureus SecA
+homolog.";
+"The Staphylococcus aureus NCTC8325 genome.";
+-!- FUNCTION: Involved in protein export. Interacts with the secY/secE
+    subunits. SecA has a central role in coupling the hydrolysis of
+    ATP to the transfer of pre-secretory proteins across the membrane
+    (By similarity).
+-!- SUBUNIT: Part of the prokaryotic protein translocation apparatus
+    which comprise secA, secB, secD, secE, secF, secG and secY (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein;
+    cytoplasmic side (By similarity).
+-!- SIMILARITY: Belongs to the secA family.
+ATP-binding; Complete proteome; Membrane; Nucleotide-binding;
+Protein transport; Translocation; Transport.
+TMZERO

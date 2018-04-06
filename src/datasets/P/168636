@@ -1,0 +1,27 @@
+AC   Q63632; P70632;
+Solute carrier family 12 member 4 (Electroneutral potassium-chloride
+cotransporter 1) (Erythroid K-Cl cotransporter 1) (rKCC1) (Furosemide-
+sensitive K-Cl cotransporter).
+"Molecular cloning and functional expression of the K-Cl cotransporter
+from rabbit, rat, and human. A new member of the cation-chloride
+cotransporter family.";
+"Mouse K-Cl cotransporter KCC1: cloning, mapping, pathological
+expression, and functional regulation.";
+-!- FUNCTION: Mediates electroneutral potassium-chloride cotransport
+    when activated by cell swelling. May contribute to cell volume
+    homeostasis in single cells. May be involved in the regulation of
+    basolateral Cl(-) exit in NaCl absorbing epithelia (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- PTM: N-glycosylated.
+-!- SIMILARITY: Belongs to the SLC12A transporter family.
+ GO:0016021; C:integral to membrane; ISS:UniProtKB.
+ GO:0015379; F:potassium:chloride symporter activity; ISS:UniProtKB.
+ GO:0008217; P:blood pressure regulation; ISS:UniProtKB.
+ GO:0006873; P:cell ion homeostasis; ISS:UniProtKB.
+ GO:0006884; P:regulation of cell volume; ISS:UniProtKB.
+ GO:0000074; P:regulation of progression through cell cycle; ISS:UniProtKB.
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Symport; Transmembrane; Transport.
+TMTWELVE

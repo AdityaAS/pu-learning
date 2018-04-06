@@ -1,0 +1,18 @@
+AC   Q8FY85;
+Aquaporin Z.
+"The Brucella suis genome reveals fundamental similarities between
+animal and plant pathogens and symbionts.";
+-!- FUNCTION: Transport of water across the membrane. Possibly
+    involved in the adaptation to variation in intravacuolar pH or
+    osmolarity (By similarity).
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+ GO:0015250; F:water channel activity; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Repeat; Transmembrane;
+Transport.
+TMSIX

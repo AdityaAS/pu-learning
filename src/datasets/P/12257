@@ -1,0 +1,46 @@
+AC   P05026; Q5TGZ3;
+Sodium/potassium-transporting ATPase subunit beta-1 (Sodium/potassium-
+dependent ATPase beta-1 subunit).
+"Molecular cloning and sequence analysis of human Na,K-ATPase beta-
+subunit.";
+"Characterization of two genes for the human Na,K-ATPase beta
+subunit.";
+"Characterization and quantification of full-length and truncated
+Na,K-ATPase alpha 1 and beta 1 RNA transcripts expressed in human
+retinal pigment epithelium.";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Human Na(+), K(+)-ATPase genes. Beta subunit gene family contains at
+least one gene and one pseudogene.";
+"Identification and quantification of N-linked glycoproteins using
+hydrazide chemistry, stable isotope labeling and mass spectrometry.";
+-!- FUNCTION: This is the non-catalytic component of the active
+    enzyme, which catalyzes the hydrolysis of ATP coupled with the
+    exchange of Na(+) and K(+) ions across the plasma membrane. The
+    beta subunit regulates, through assembly of alpha/beta
+    heterodimers, the number of sodium pumps transported to the plasma
+    membrane.
+-!- SUBUNIT: Composed of three subunits: alpha (catalytic), beta and
+    gamma.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=P05026-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P05026-2; Sequence=VSP_000349;
+-!- TISSUE SPECIFICITY: Found in most tissues.
+-!- SIMILARITY: Belongs to the Na+/K+ and H+/K+ ATPases subunit beta
+    family.
+ GO:0005890; C:sodium:potassium-exchanging ATPase complex; TAS:ProtInc.
+ GO:0005391; F:sodium:potassium-exchanging ATPase activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Potassium; Potassium transport; Signal-anchor; Sodium;
+Sodium transport; Sodium/potassium transport; Transmembrane;
+Transport.
+TMONE

@@ -1,0 +1,10 @@
+AC   Q7W7G3;
+30S ribosomal protein S20.
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+-!- FUNCTION: Binds directly to 16S ribosomal RNA (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S20P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

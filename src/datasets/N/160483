@@ -1,0 +1,27 @@
+AC   P10301;
+Ras-related protein R-Ras (p23).
+"Structure of the human and murine R-ras genes, novel genes closely
+related to ras proto-oncogenes.";
+"cDNA clones of human proteins involved in signal transduction
+sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Vectorial proteomics reveal targeting, phosphorylation and specific
+fragmentation of polymerase I and transcript release factor (PTRF) at
+the surface of caveolae in human adipocytes.";
+"The small GTPase R-Ras regulates organization of actin and drives
+membrane protrusions through the activity of PLCepsilon.";
+-!- FUNCTION: Regulates the organization of the actin cytoskeleton.
+-!- SUBUNIT: Interacts with PLCE1.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; cytoplasmic
+    side (By similarity). Note=Inner surface of plasma membrane
+    possibly with attachment requiring acylation of the C-terminal
+    cysteine (By similarity with RAS).
+-!- SIMILARITY: Belongs to the small GTPase superfamily. Ras family.
+ GO:0003924; F:GTPase activity; TAS:ProtInc.
+ GO:0007265; P:Ras protein signal transduction; TAS:ProtInc.
+3D-structure; Direct protein sequencing; GTP-binding; Lipoprotein;
+Nucleotide-binding; Prenylation.
+TMZERO

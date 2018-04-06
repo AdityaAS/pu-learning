@@ -1,0 +1,21 @@
+AC   Q12207;
+Non-classical export protein 2.
+"A new pathway for protein export in Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in a novel pathway of export of proteins that
+    lack a cleavable signal sequence. It may be an accessory subunit
+    to an essential core component of the non-classical export
+    machinery. Alternatively, its role in export may be indirect.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005783; C:endoplasmic reticulum; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0009306; P:protein secretion; IGI:SGD.
+Complete proteome; Membrane; Protein transport; Transmembrane;
+Transport.
+TMFOUR

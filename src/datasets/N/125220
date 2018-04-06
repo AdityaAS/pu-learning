@@ -1,0 +1,29 @@
+AC   P09411;
+Phosphoglycerate kinase 1 (EC 2.7.2.3).
+"The nucleotide sequence of a cDNA clone containing the entire coding
+region for mouse X-chromosome-linked phosphoglycerate kinase.";
+"Evolutionary conservation of the substrate-binding cleft of
+phosphoglycerate kinases.";
+"Cloning and expression of the mouse pgk-1 gene and the nucleotide
+sequence of its promoter.";
+"Selective activation of testis-specific genes in cultured rat
+spermatogenic cells.";
+"Polymorphisms in the coding and noncoding regions of murine Pgk-1
+alleles.";
+"Quantitative analysis of both protein expression and serine /
+threonine post-translational modifications through stable isotope
+labeling with dithiothreitol.";
+-!- CATALYTIC ACTIVITY: ATP + 3-phospho-D-glycerate = ADP + 3-phospho-
+    D-glyceroyl phosphate.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 2.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the phosphoglycerate kinase family.
+ GO:0005524; F:ATP binding; ISS:UniProtKB.
+ GO:0004618; F:phosphoglycerate kinase activity; ISS:UniProtKB.
+ GO:0006096; P:glycolysis; ISS:UniProtKB.
+ GO:0016310; P:phosphorylation; ISS:UniProtKB.
+ATP-binding; Glycolysis; Kinase; Nucleotide-binding; Phosphorylation;
+Transferase.
+TMZERO

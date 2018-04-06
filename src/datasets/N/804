@@ -1,0 +1,14 @@
+AC   Q9PKX7;
+6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44).
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+-!- CATALYTIC ACTIVITY: 6-phospho-D-gluconate + NADP(+) = D-ribulose
+    5-phosphate + CO(2) + NADPH.
+-!- PATHWAY: Carbohydrate degradation; pentose phosphate pathway; D-
+    ribulose 5-phosphate from D-glucose 6-phosphate (oxidative stage):
+    step 3.
+-!- SIMILARITY: Belongs to the 6-phosphogluconate dehydrogenase
+    family.
+Complete proteome; Gluconate utilization; NADP; Oxidoreductase;
+Pentose shunt.
+TMZERO

@@ -1,0 +1,24 @@
+AC   Q8SPU8;
+Dehydrogenase/reductase SDR family member 4 (EC 1.1.1.184) (NADPH-
+dependent carbonyl reductase/NADP-retinol dehydrogenase) (CR) (PHCR)
+(Peroxisomal short-chain alcohol dehydrogenase) (NADPH-dependent
+retinol dehydrogenase/reductase) (NDRD).
+"Bos taurus NDRD mRNA for NADPH-dependent retinol
+dehydrogenase/reductase.";
+-!- FUNCTION: Reduces all-trans-retinal and 9-cis retinal. Can also
+    catalyze the oxidation of all-trans-retinol with NADP as co-
+    factor, but with much lower efficiency. Reduces alkyl phenyl
+    ketones and alpha-dicarbonyl compounds with aromatic rings, such
+    as pyrimidine-4-aldehyde, 3-benzoylpyridine, 4-benzoylpyridine,
+    menadione and 4-hexanoylpyridine. Has no activity towards
+    aliphatic aldehydes and ketones (By similarity).
+-!- CATALYTIC ACTIVITY: R-CHOH-R' + NADP(+) = R-CO-R' + NADPH.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Peroxisome (By similarity).
+-!- MISCELLANEOUS: Inhibited by kaempferol, quercetin, genistein and
+    myristic acid (By similarity).
+-!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+    (SDR) family.
+ GO:0005739; C:mitochondrion; ISS:UniProtKB.
+NADP; Oxidoreductase; Peroxisome.
+TMZERO

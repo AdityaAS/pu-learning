@@ -1,0 +1,11 @@
+AC   P0C0E2; Q9FDU7;
+Lantibiotic transport ATP-binding protein srtF.
+"New gene cluster for lantibiotic streptin possibly involved in
+streptolysin S formation.";
+-!- FUNCTION: Implicated in the export process of the lantibiotic srtA
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Bacteriocin transport; Nucleotide-binding;
+Protein transport; Transport.
+TMZERO

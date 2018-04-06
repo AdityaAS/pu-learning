@@ -1,0 +1,50 @@
+AC   O22456; Q8GWQ4; Q8L9R5;
+Developmental protein SEPALLATA3 (Agamous-like MADS-box protein AGL9).
+"The Arabidopsis AGL9 MADS box gene is expressed in young flower
+primordia.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Full-length cDNA from Arabidopsis thaliana.";
+"Functional annotation of a full-length Arabidopsis cDNA collection.";
+"Specific interactions between the K domains of AG and AGLs, members
+of the MADS domain family of DNA binding proteins.";
+"B and C floral organ identity functions require SEPALLATA MADS-box
+genes.";
+"Complexes of MADS-box proteins are sufficient to convert leaves into
+floral organs.";
+-!- FUNCTION: Probable transcription factor active in inflorescence
+    development and floral organogenesis. Functions with
+    SEPALLATA1/AGL2 and SEPALLATA2/AGL4 to ensure proper development
+    of petals, stamens and carpels and to prevent the indeterminate
+    growth of the flower meristem. Interacts with APETALA1, AGAMOUS or
+    APETALA3/PISTILLATA to form complexes, that could be involved in
+    genes regulation during floral meristem development.
+-!- SUBUNIT: Heterodimer with AP1 or AG capable of binding to CArG-box
+    sequences. Binds AP3/PI to form a ternary complex.
+-!- INTERACTION:
+    P17839:AG; NbExp=2; IntAct=EBI-592020, EBI-592365;
+    P29381:AGL1; NbExp=2; IntAct=EBI-592020, EBI-592304;
+    P35631:AP1; NbExp=2; IntAct=EBI-592035, EBI-592003;
+    Q39081:CAL; NbExp=2; IntAct=EBI-592035, EBI-592136;
+    Q8RYD9:TT16; NbExp=2; IntAct=EBI-592035, EBI-621993;
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O22456-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O22456-2; Sequence=VSP_008893;
+      Note=May be due to a competing acceptor splice site. No
+      experimental confirmation available;
+-!- DEVELOPMENTAL STAGE: Expressed early during flower development
+    within petals, stamens, and carpels.
+-!- MISCELLANEOUS: Triple mutations in the SEP1, SEP2 and SEP3 genes
+    result in the replacement of the stamens and petals by sepals and
+    of the carpels by a new mutant flower with sepaloid organs.
+-!- SIMILARITY: Contains 1 K-box domain.
+-!- SIMILARITY: Contains 1 MADS-box domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Activator; Alternative splicing; Coiled coil; Developmental protein;
+Differentiation; DNA-binding; Flowering; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

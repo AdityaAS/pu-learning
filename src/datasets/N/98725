@@ -1,0 +1,39 @@
+AC   O62685; O19125;
+Membrane cofactor protein precursor (CD46 antigen) (Fragment).
+"Artificial mutations and natural variations in the CD46 molecules
+from human and monkey cells define regions important for measles virus
+binding.";
+"A single amino acid change in the hemagglutinin protein of measles
+virus determines its ability to bind CD46 and reveals another receptor
+on marmoset B cells.";
+"Inhibiting measles virus infection but promoting reproduction: an
+explanation for splicing and tissue-specific expression of CD46.";
+-!- FUNCTION: Acts as a cofactor for complement factor I, a serine
+    protease which protects autologous cells against complement-
+    mediated injury by cleaving C3b and C4b deposited on host tissue.
+    May be involved in the fusion of the spermatozoa with the oocyte
+    during fertilization. Also acts as a co-stimulatory factor for T-
+    cells which induces the differentiation of CD4+ into T-regulatory
+    1 cells. T-regulatory 1 cells suppress immune responses by
+    secreting interleukin-10, and therefore are thought to prevent
+    autoimmunity (By similarity).
+-!- SUBUNIT: Interacts with C3b and C4b (By similarity).
+-!- SUBCELLULAR LOCATION: Acrosome; acrosomal inner membrane; single-
+    pass type I membrane protein (By similarity). Note=Inner acrosomal
+    membrane of spermatozoa (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O62685-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O62685-2; Sequence=VSP_019048, VSP_019049;
+-!- TISSUE SPECIFICITY: Present in blood and sperm. Isoform 2, but not
+    isoform 1, is present at the erythrocyte membrane (at protein
+    level).
+-!- DOMAIN: Sushi domains 3 and 4 are the most important for
+    interaction with C3b and C4b (By similarity).
+-!- PTM: N-glycosylated. Probably less N-glycosylated in testis.
+-!- SIMILARITY: Contains 4 Sushi (CCP/SCR) domains.
+Alternative splicing; Complement pathway; Fertilization; Glycoprotein;
+Immune response; Innate immunity; Membrane; Repeat; Signal; Sushi.
+TMZERO

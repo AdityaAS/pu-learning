@@ -1,0 +1,14 @@
+AC   P16417;
+Hemoglobin subunit alpha-D (Hemoglobin alpha-D chain) (Alpha-D-
+globin).
+"The amino acid sequences of the alpha and beta chains of hemoglobin
+from the snake, Liophis miliaris.";
+-!- FUNCTION: Involved in oxygen transport from the lung to the
+    various peripheral tissues.
+-!- SUBUNIT: The deoxy-Hb is a heterotetramer of two alpha and two
+    beta chains, but oxygenation results in dissociation to dimers.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- SIMILARITY: Belongs to the globin family.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

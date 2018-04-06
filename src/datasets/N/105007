@@ -1,0 +1,17 @@
+AC   P18051;
+Modification methylase BamHII (EC 2.1.1.113) (N-4 cytosine-specific
+methyltransferase BamHII) (M.BamHII).
+"The complete sequence of the Bacillus amyloliquefaciens proviral H2,
+BamHI methylase gene.";
+-!- FUNCTION: This methylase recognizes the double-stranded sequence
+    GGATCC, causes specific methylation on C-5 on both strands, and
+    protects the DNA from cleavage by the BamHI endonuclease.
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + DNA cytosine = S-
+    adenosyl-L-homocysteine + DNA 4-N-methylcytosine.
+-!- MISCELLANEOUS: This methylase is encoded on the proviral phage H2.
+-!- SIMILARITY: Belongs to the N4/N6-methyltransferase family. N4
+    subfamily.
+ GO:0015667; F:site-specific DNA-methyltransferase (cytosi...; IEA:EC.
+Methyltransferase; Restriction system; S-adenosyl-L-methionine;
+Transferase.
+TMZERO

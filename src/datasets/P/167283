@@ -1,0 +1,31 @@
+AC   P38165; P89494;
+Retrograde regulation protein 3.
+"A basic helix-loop-helix-leucine zipper transcription complex in
+yeast functions in a signaling pathway from mitochondria to the
+nucleus.";
+"Sequence analysis of a 78.6 kb segment of the left end of
+Saccharomyces cerevisiae chromosome II.";
+"Complete DNA sequence of yeast chromosome II.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Transcription factor that regulates CIT2 gene
+    expression. Binds to two identical sites oriented as inverted
+    repeats 28 bp apart in a regulatory upstream activation sequence
+    element (UASR) in the CIT2 promoter. The core binding site is 5'-
+    GGTCAC-3'.
+-!- SUBUNIT: Binds DNA as a heterodimer with RTG1.
+-!- INTERACTION:
+    P32607:RTG1; NbExp=2; IntAct=EBI-16328, EBI-16312;
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- MISCELLANEOUS: Present with 1050 molecules/cell.
+-!- SIMILARITY: Contains 1 basic helix-loop-helix (bHLH) domain.
+-!- CAUTION: Ref.2 (CAA55992) sequence differs from that shown due to
+    a frameshift in position 310.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0003704; F:specific RNA polymerase II transcription fa...; IDA:SGD.
+ GO:0031930; P:mitochondrial signaling pathway; IDA:SGD.
+ GO:0006367; P:transcription initiation from RNA polymeras...; IDA:SGD.
+Complete proteome; DNA-binding; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

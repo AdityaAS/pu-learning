@@ -1,0 +1,15 @@
+AC   Q6N5A4;
+30S ribosomal protein S6 (RRP-S6).
+"Complete genome sequence of the metabolically versatile
+photosynthetic bacterium Rhodopseudomonas palustris.";
+"Characterization of the 70S ribosome from Rhodopseudomonas palustris
+using an integrated 'top-down' and 'bottom-up' mass spectrometric
+approach.";
+-!- FUNCTION: Binds together with S18 to 16S ribosomal RNA (By
+    similarity).
+-!- MISCELLANEOUS: The initiator methionine may be removed.
+-!- SIMILARITY: Belongs to the ribosomal protein S6P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

@@ -1,0 +1,13 @@
+AC   P43440;
+V-type sodium ATP synthase subunit J (EC 3.6.3.14) (Na(+)-
+translocating ATPase subunit J).
+"Sequencing and characterization of the ntp gene cluster for vacuolar-
+type Na(+)-translocating ATPase of Enterococcus hirae.";
+-!- FUNCTION: Involved in ATP-driven sodium extrusion.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the trkH potassium transport family.
+Hydrogen ion transport; Hydrolase; Ion transport; Membrane;
+Transmembrane; Transport.
+TMELEVEN

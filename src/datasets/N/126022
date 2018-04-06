@@ -1,0 +1,13 @@
+AC   Q6G8S6;
+ACT domain-containing protein pheB.
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Not known; may be a phenylalanine-binding regulatory
+    protein (Potential).
+-!- PATHWAY: Amino-acid biosynthesis; L-phenylalanine biosynthesis.
+-!- SIMILARITY: Belongs to the pheB family.
+-!- SIMILARITY: Contains 1 ACT domain.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Complete proteome; Phenylalanine biosynthesis.
+TMZERO

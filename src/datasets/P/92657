@@ -1,0 +1,10 @@
+AC   P13684;
+Prolevitide precursor [Contains: Amphipathic peptide; Levitide].
+"Levitide, a neurohormone-like peptide from the skin of Xenopus
+laevis. Peptide and peptide precursor cDNA sequences.";
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin glands.
+-!- SIMILARITY: Belongs to the gastrin/cholecystokinin family.
+Amidation; Amphibian defense peptide; Direct protein sequencing;
+Hormone; Neuropeptide; Pyrrolidone carboxylic acid; Signal.
+TMZERO

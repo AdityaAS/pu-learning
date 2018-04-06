@@ -1,0 +1,21 @@
+AC   Q9WUK5;
+Inhibin beta C chain precursor (Activin beta-C chain).
+"Rat activin beta C and beta E: sequence and expression.";
+-!- FUNCTION: Inhibins and activins inhibit and activate,
+    respectively, the secretion of follitropin by the pituitary gland.
+    Inhibins/activins are involved in regulating a number of diverse
+    functions such as hypothalamic and pituitary hormone secretion,
+    gonadal hormone secretion, germ cell development and maturation,
+    erythroid differentiation, insulin secretion, nerve cell survival,
+    embryonic axial development or bone growth, depending on their
+    subunit composition. Inhibins appear to oppose the functions of
+    activins.
+-!- SUBUNIT: Homodimeric or heterodimeric through association with
+    alpha and beta subunits, linked by one or more disulfide bonds.
+    Inhibins are heterodimers of one alpha and one beta subunit.
+    Activins are homo- or heterodimers of beta subunits only (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- SIMILARITY: Belongs to the TGF-beta family.
+Glycoprotein; Growth factor; Hormone; Signal.
+TMZERO

@@ -1,0 +1,15 @@
+AC   Q8A337;
+Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-).
+"A genomic view of the human-Bacteroides thetaiotaomicron symbiosis.";
+-!- FUNCTION: Transfers the N-acyl diglyceride group on what will
+    become the N-terminal cysteine of membrane lipoproteins (By
+    similarity).
+-!- PATHWAY: Lipoprotein biosynthesis; first step.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the lgt family.
+ GO:0008961; F:phosphatidylglycerol-prolipoprotein diacylg...; IEA:HAMAP.
+ GO:0042158; P:lipoprotein biosynthesis; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transferase;
+Transmembrane.
+TMSEVEN

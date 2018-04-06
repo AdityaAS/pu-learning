@@ -1,0 +1,22 @@
+AC   Q59291; Q9PNR7;
+Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11) (ASA dehydrogenase)
+(ASADH).
+"Complete nucleotide sequence of the Campylobacter jejuni 72Dz asd
+gene.";
+"The genome sequence of the food-borne pathogen Campylobacter jejuni
+reveals hypervariable sequences.";
+-!- CATALYTIC ACTIVITY: L-aspartate 4-semialdehyde + phosphate +
+    NADP(+) = L-4-aspartyl phosphate + NADPH.
+-!- PATHWAY: Amino-acid biosynthesis; L-lysine biosynthesis via DAP
+    pathway; tetrahydrodipicolinate from L-aspartate: step 2.
+-!- PATHWAY: Amino-acid biosynthesis; L-methionine biosynthesis; L-
+    homoserine from L-aspartate: step 2.
+-!- PATHWAY: Amino-acid biosynthesis; L-threonine biosynthesis; L-
+    threonine from L-aspartate: step 2.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the aspartate-semialdehyde dehydrogenase
+    family.
+Amino-acid biosynthesis; Complete proteome;
+Diaminopimelate biosynthesis; Lysine biosynthesis; NADP;
+Oxidoreductase.
+TMZERO

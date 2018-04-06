@@ -1,0 +1,53 @@
+AC   P00892; P76749;
+Acetolactate synthase isozyme II large subunit (EC 2.2.1.6) (AHAS-II)
+(Acetohydroxy-acid synthase II large subunit) (ALS-II).
+"The complete nucleotide sequence of the ilvGMEDA operon of
+Escherichia coli K-12.";
+"Analysis of the Escherichia coli genome: DNA sequence of the region
+from 84.5 to 86.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Sequence and transcriptional activity of the Escherichia coli K-12
+chromosome region between rrnC and ilvGMEDA.";
+"Multivalent translational control of transcription termination at
+attenuator of ilvGEDA operon of Escherichia coli K-12.";
+"Purification of Escherichia coli acetohydroxyacid synthase isoenzyme
+II and reconstitution of active enzyme from its individual pure
+subunits.";
+"Molecular basis of valine resistance in Escherichia coli K-12.";
+"Branched-chain amino acid aminotransferase of Escherichia coli:
+nucleotide sequence of the ilvE gene and the deduced amino acid
+sequence.";
+-!- FUNCTION: Catalyzes the first step in the biosynthesis of
+    branched-chain amino acids.
+-!- CATALYTIC ACTIVITY: 2 pyruvate = 2-acetolactate + CO(2).
+-!- COFACTOR: Binds 1 FAD molecule per subunit. The role of this
+    cofactor is not clear considering that the reaction does not
+    involve redox chemistry. However after removal of the FAD no AHAS
+    activity can be detected (Ref.6), indicating that the cofactor is
+    essential. The large subunit alone does not bind FAD, and FAD is
+    not necessary for association of the subunits.
+-!- COFACTOR: Binds 1 magnesium ion per subunit. Is not necessary for
+    subunit association (Ref.6).
+-!- COFACTOR: Binds 1 thiamine pyrophosphate per subunit. Is not
+    necessary for subunit association (Ref.6).
+-!- PATHWAY: Amino-acid biosynthesis; L-isoleucine biosynthesis; L-
+    isoleucine from 2-oxobutanoate: step 1.
+-!- PATHWAY: Amino-acid biosynthesis; L-valine biosynthesis; L-valine
+    from pyruvate: step 1.
+-!- SUBUNIT: Tetramer of two large (ilvG) and two small (ilvM) chains.
+-!- INTERACTION:
+    P03024:galR; NbExp=1; IntAct=EBI-1133701, EBI-556902;
+-!- MISCELLANEOUS: E.coli contains genes for 3 AHAS isozymes: ilvBN,
+    ilvGM and ilvIH. In strain K12 only the Val-inhibitable ilvBN and
+    ilvIH are expressed; ilvGM has a defect that disturbs the ilvG
+    reading frame. IlvG (this protein) is Val-resistant and is
+    expressed in K12 strains having what used to be referred to as
+    ilv0 mutations. The ilv02096 mutation (shown here, an insertion of
+    2 bp, Ref.7) causes a frameshift which restores the open reading
+    frame, permitting the expression of this isozyme.
+-!- SIMILARITY: Belongs to the TPP enzyme family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Amino-acid biosynthesis; Branched-chain amino acid biosynthesis;
+Complete proteome; Direct protein sequencing; FAD; Flavoprotein;
+Magnesium; Metal-binding; Thiamine pyrophosphate; Transferase.
+TMZERO

@@ -1,0 +1,12 @@
+AC   Q9CKK5;
+Cell division protein ftsB homolog.
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- FUNCTION: Required for the cell division process (By similarity).
+-!- SUBUNIT: May interact with ftsL (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein (Potential). Note=Colocalizes with ftsL to the
+    division site (By similarity).
+-!- SIMILARITY: Belongs to the ftsB family.
+Cell cycle; Cell division; Coiled coil; Complete proteome;
+Inner membrane; Membrane; Transmembrane.
+TMONE

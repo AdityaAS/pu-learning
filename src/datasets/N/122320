@@ -1,0 +1,30 @@
+AC   Q9V9A7; O18364;
+Putative propionyl-CoA carboxylase beta chain, mitochondrial precursor
+(EC 6.4.1.3) (PCCase subunit beta) (Propanoyl-CoA:carbon dioxide
+ligase subunit beta).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"Genes expressed in the ring gland, the major endocrine organ of
+Drosophila melanogaster.";
+-!- FUNCTION: Vital for adult survival.
+-!- CATALYTIC ACTIVITY: ATP + propanoyl-CoA + HCO(3)(-) = ADP +
+    phosphate + (S)-methylmalonyl-CoA.
+-!- PATHWAY: Carbohydrate metabolism; propanoate metabolism.
+-!- SUBUNIT: Probably a dodecamer composed of six biotin-containing
+    alpha subunits and six beta subunits (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial matrix.
+-!- TISSUE SPECIFICITY: Expressed in third instar larval ring gland
+    (lateral and medial secretory cells and corpus cardiacum cells)
+    and CNS.
+-!- SIMILARITY: Contains 1 carboxyltransferase domain.
+ GO:0004658; F:propionyl-CoA carboxylase activity; NAS:UniProtKB.
+ GO:0009062; P:fatty acid catabolism; NAS:UniProtKB.
+ GO:0006550; P:isoleucine catabolism; NAS:UniProtKB.
+ GO:0009087; P:methionine catabolism; NAS:UniProtKB.
+ GO:0007563; P:regulation of eclosion; IMP:UniProtKB.
+ GO:0006567; P:threonine catabolism; NAS:UniProtKB.
+ GO:0006574; P:valine catabolism; NAS:UniProtKB.
+Complete proteome; Hypothetical protein; Ligase; Mitochondrion;
+Transit peptide.
+TMZERO

@@ -1,0 +1,34 @@
+AC   P0A6M2; P30018; Q47408;
+Disulfide bond formation protein B (Disulfide oxidoreductase).
+"A pathway for disulfide bond formation in vivo.";
+"Identification and characterization of the Escherichia coli gene
+dsbB, whose product is involved in the formation of disulfide bonds in
+vivo.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Cloning, sequencing, and expression of the nhaB gene, encoding a
+Na+/H+ antiporter in Escherichia coli.";
+"Two cysteines in each periplasmic domain of the membrane protein DsbB
+are required for its function in protein disulfide bond formation.";
+"Respiratory chain strongly oxidizes the CXXC motif of DsbB in the
+Escherichia coli disulfide bond formation pathway.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Required for disulfide bond formation in some
+    periplasmic proteins such as phoA or ompA. Acts by oxidizing the
+    dsbA protein.
+-!- INTERACTION:
+    P0AEG4:dsbA; NbExp=1; IntAct=EBI-1170740, EBI-549711;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the dsbB family.
+-!- CAUTION: Ref.6 sequence differs from that shown due to a
+    frameshift in position 130.
+ GO:0009055; F:electron carrier activity; IEA:HAMAP.
+Chaperone; Complete proteome; Electron transport; Inner membrane;
+Membrane; Oxidoreductase; Redox-active center; Transmembrane;
+Transport.
+TMFOUR

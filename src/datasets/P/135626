@@ -1,0 +1,25 @@
+AC   P0AA07; P05525; P07006;
+Phosphocarrier protein HPr (Histidine-containing protein).
+"Sugar transport by the bacterial phosphotransferase system. Primary
+structure and active site of a general phosphocarrier protein (HPr)
+from Salmonella typhimurium.";
+"The primary structure of Salmonella typhimurium HPr, a phosphocarrier
+protein of the phosphoenolpyruvate:glycose phosphotransferase system.
+A correction.";
+"DNA sequences of the cysK regions of Salmonella typhimurium and
+Escherichia coli and linkage of the cysK regions to ptsH.";
+"Partial nucleotide sequence of the pts operon in Salmonella
+typhimurium: comparative analyses in five bacterial genera.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: This is a component of the phosphoenolpyruvate-dependent
+    sugar phosphotransferase system (PTS), a major carbohydrate active
+    -transport system. The phosphoryl group from phosphoenolpyruvate
+    (PEP) is transferred to the phosphoryl carrier protein HPr by
+    enzyme I. Phospho-HPr then transfers it to the permease (enzymes
+    II/III). HPr is common to all PTS (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the HPr family.
+Complete proteome; Direct protein sequencing; Phosphorylation;
+Phosphotransferase system; Sugar transport; Transport.
+TMZERO

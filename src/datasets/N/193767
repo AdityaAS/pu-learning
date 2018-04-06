@@ -1,0 +1,21 @@
+AC   Q23949;
+Female-specific protein transformer.
+"Interspecific comparison of the transformer gene of Drosophila
+reveals an unusually high degree of evolutionary divergence.";
+-!- FUNCTION: Member of the regulatory pathway controlling female
+    somatic sexual differentiation, regulated by Sxl. Activates dsx
+    female-specific splicing by promoting the formation of a splicing
+    enhancer complex which consists of tra, tra2 and sr proteins.
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear speckle (By similarity).
+    Note=Speckled subnuclear compartment (By similarity).
+-!- DOMAIN: RS domain directs localization of proteins to the speckled
+    subnuclear compartment and the purpose of this localization is to
+    allow colocalization and co-concentration of components of the
+    splicing and splicing regulatory machinery to permit relatively
+    high rates and/or efficiencies of reaction and interaction (By
+    similarity).
+-!- MISCELLANEOUS: The sexual regulation of tra occurs through a
+    mechanism of sex-specific alternative RNA splicing. The non-sex-
+    specific RNA expressed in males is not translated.
+Differentiation; Nuclear protein; Sexual differentiation.
+TMZERO

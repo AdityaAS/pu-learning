@@ -1,0 +1,13 @@
+AC   P07641;
+Chloramphenicol acetyltransferase (EC 2.3.1.28) (CAT).
+"Nucleotide sequence analysis of the cat gene of Proteus mirabilis:
+comparison with the type I (Tn9) cat gene.";
+-!- FUNCTION: This enzyme is an effector of chloramphenicol resistance
+    in bacteria.
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + chloramphenicol = CoA +
+    chloramphenicol 3-acetate.
+-!- SUBUNIT: Homotrimer.
+-!- SIMILARITY: Belongs to the chloramphenicol acetyltransferase
+    family.
+Acyltransferase; Antibiotic resistance; Transferase.
+TMZERO

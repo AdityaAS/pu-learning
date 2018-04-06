@@ -1,0 +1,14 @@
+AC   Q00538;
+Methylenomycin A resistance protein (MMR peptide).
+"Co-ordinate expression of the two threonyl-tRNA synthetase genes in
+Bacillus subtilis: control by transcriptional antitermination
+involving a conserved regulatory sequence.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Resistance to the epoxide antibiotic methylenomycin.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. EmrB
+    family.
+Antibiotic resistance; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMFOURTEEN

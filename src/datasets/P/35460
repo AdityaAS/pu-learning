@@ -1,0 +1,38 @@
+AC   P07143;
+Cytochrome c1, heme protein, mitochondrial precursor (Ubiquinol-
+cytochrome-c reductase complex cytochrome c1 subunit) (Complex III
+subunit CYT1) (Cytochrome b-c1 complex subunit CYT1).
+"Sequencing of the nuclear gene for the yeast cytochrome c1 precursor
+reveals an unusually complex amino-terminal presequence.";
+"The sequence of a 54.7 kb fragment of yeast chromosome XV reveals the
+presence of two tRNAs and 24 new open reading frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Global analysis of protein expression in yeast.";
+"Structure at 2.3 A resolution of the cytochrome bc1 complex from the
+yeast Saccharomyces cerevisiae co-crystallized with an antibody Fv
+fragment.";
+"Crystal structure of the yeast cytochrome bc1 complex with its bound
+substrate cytochrome c.";
+-!- FUNCTION: Heme-containing component of the ubiquinol-cytochrome c
+    reductase complex (complex III or cytochrome b-c1 complex), which
+    is part of the mitochondrial respiratory chain that generates an
+    electrochemical potential coupled to ATP synthesis. The complex
+    couples electron transfer from ubiquinol to cytochrome c.
+-!- SUBUNIT: Fungi cytochrome b-c1 complex contains 10 subunits; 3
+    respiratory subunits, 2 core proteins and 5 low-molecular weight
+    proteins. Cytochrome b-c1 complex is a homodimer.
+-!- INTERACTION:
+    P10592:SSA2; NbExp=1; IntAct=EBI-5357, EBI-8603;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    single-pass membrane protein; intermembrane side.
+-!- PTM: Binds 1 heme group per subunit.
+-!- MISCELLANEOUS: Present with 39900 molecules/cell.
+ GO:0005750; C:respiratory chain complex III (sensu Eukary...; IDA:SGD.
+ GO:0045153; F:electron transporter, transferring electron...; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006122; P:mitochondrial electron transport, ubiquinol...; IMP:SGD.
+ GO:0006119; P:oxidative phosphorylation; TAS:SGD.
+3D-structure; Complete proteome; Electron transport; Heme; Iron;
+Membrane; Metal-binding; Mitochondrion; Respiratory chain;
+Transit peptide; Transmembrane; Transport.
+TMONE

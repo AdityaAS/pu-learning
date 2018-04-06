@@ -1,0 +1,22 @@
+AC   Q02785;
+ATP-dependent permease PDR12.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Global analysis of protein expression in yeast.";
+"A proteomics approach to understanding protein ubiquitination.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 752 molecules/cell.
+-!- SIMILARITY: Belongs to the ABC transporter family. PDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0005342; F:organic acid transporter activity; IDA:SGD.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; TAS:SGD.
+ GO:0015849; P:organic acid transport; IDA:SGD.
+ GO:0019541; P:propionate metabolism; IEP:SGD.
+ATP-binding; Complete proteome; Glycoprotein; Membrane;
+Nucleotide-binding; Phosphorylation; Repeat; Transmembrane; Transport;
+Ubl conjugation.
+TMTWELVE

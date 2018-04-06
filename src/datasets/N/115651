@@ -1,0 +1,24 @@
+AC   P60497; Q01825;
+NADH-ubiquinone oxidoreductase chain 6 (EC 1.6.5.3) (NADH
+dehydrogenase subunit 6).
+"The mitochondrial genome of Arabidopsis thaliana contains 57 genes in
+366,924 nucleotides.";
+"RNA editing in Arabidopsis mitochondria effects 441 C to U changes in
+ORFs.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    multi-pass membrane protein (Potential).
+-!- RNA EDITING: Modified_positions=9, 18, 30, 32, 35, 54, 57, 64,
+    149.
+-!- MISCELLANEOUS: A stretch of 270 kb of the mitochondrial genome is
+    duplicated within the centromer of chromosome 2 resulting in the
+    duplication of the gene. The expression of the duplicated gene
+    (At2g07731) is not demonstrated. It is also probably not RNA
+    edited and therefore differs in all the positions known to be
+    edited.
+-!- SIMILARITY: Belongs to the complex I subunit 6 family.
+Membrane; Mitochondrion; NAD; Oxidoreductase; RNA editing;
+Transmembrane; Ubiquinone.
+THTHREE

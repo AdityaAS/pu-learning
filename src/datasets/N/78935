@@ -1,0 +1,23 @@
+AC   P04219;
+Hypothetical Ig-region protein.
+"Unusual sequences in the murine immunoglobulin mu-delta heavy-chain
+region.";
+-!- MISCELLANEOUS: This hypothetical protein is encoded between the mu
+    and delta chain coding regions in the Ig heavy chain gene cluster.
+ GO:0019815; C:B cell receptor complex; IDA:MGI.
+ GO:0009897; C:external side of plasma membrane; IDA:MGI.
+ GO:0042571; C:immunoglobulin complex, circulating; IDA:MGI.
+ GO:0048471; C:perinuclear region; IDA:MGI.
+ GO:0003823; F:antigen binding; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:MGI.
+ GO:0004888; F:transmembrane receptor activity; IDA:MGI.
+ GO:0000187; P:activation of MAPK activity; IDA:MGI.
+ GO:0019882; P:antigen processing and presentation; IDA:MGI.
+ GO:0050853; P:B cell receptor signaling pathway; IDA:MGI.
+ GO:0045022; P:early endosome to late endosome transport; IDA:MGI.
+ GO:0016064; P:immunoglobulin mediated immune response; IDA:MGI.
+ GO:0030890; P:positive regulation of B cell proliferation; IDA:MGI.
+ GO:0045807; P:positive regulation of endocytosis; IDA:MGI.
+ GO:0050731; P:positive regulation of peptidyl-tyrosine ph...; IDA:MGI.
+Hypothetical protein.
+TMZERO

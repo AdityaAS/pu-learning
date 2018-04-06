@@ -1,0 +1,13 @@
+AC   Q6A6K3;
+50S ribosomal protein L1.
+"The complete genome sequence of Propionibacterium acnes, a commensal
+of human skin.";
+-!- FUNCTION: This protein binds directly to 23S rRNA and is located
+    in the neighborhood of the site where elongation factor Tu is
+    bound to the ribosome (By similarity).
+-!- SUBUNIT: Part of the 50S ribosomal subunit.
+-!- SIMILARITY: Belongs to the ribosomal protein L1P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

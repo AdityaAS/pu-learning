@@ -1,0 +1,20 @@
+AC   Q5NI31;
+Porphobilinogen deaminase (EC 2.5.1.61) (PBG) (Hydroxymethylbilane
+synthase) (HMBS) (Pre-uroporphyrinogen synthase).
+"The complete genome sequence of Francisella tularensis, the causative
+agent of tularemia.";
+-!- FUNCTION: Tetrapolymerization of the monopyrrole PBG into the
+    hydroxymethylbilane pre-uroporphyrinogen in several discrete
+    steps.
+-!- CATALYTIC ACTIVITY: 4 porphobilinogen + H(2)O =
+    hydroxymethylbilane + 4 NH(3).
+-!- COFACTOR: Binds 1 dipyrromethane group covalently (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; porphyrin biosynthesis;
+    coproporphyrinogen III from 5-aminolevulinate: step 2.
+-!- SUBUNIT: Monomer (By similarity).
+-!- MISCELLANEOUS: The porphobilinogen subunits are added to the
+    dipyrromethan group.
+-!- SIMILARITY: Belongs to the HMBS family.
+ GO:0015995; P:chlorophyll biosynthesis; IEA:HAMAP.
+Complete proteome; Porphyrin biosynthesis; Transferase.
+TMZERO

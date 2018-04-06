@@ -1,0 +1,41 @@
+AC   P46098; O60854; Q99918; Q9BSZ9;
+5-hydroxytryptamine 3 receptor precursor (5-HT-3) (Serotonin-gated ion
+channel receptor) (5-HT3R).
+"Molecular cloning of human 5-hydroxytryptamine3 receptor:
+heterogeneity in distribution and function among species.";
+"Cloning and functional expression of a human 5-hydroxytryptamine type
+3AS receptor subunit.";
+"Molecular cloning of alternatively spliced human 5HT3 receptor
+cDNAs.";
+"Exon-intron organization of the human 5-HT3A receptor gene.";
+"cDNA clones of human proteins involved in signal transduction
+sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: This is one of the several different receptors for 5-
+    hydroxytryptamine (serotonin), a biogenic hormone that functions
+    as a neurotransmitter, a hormone, and a mitogen. This receptor is
+    a ligand-gated ion channel, which when activated causes fast,
+    depolarizing responses in neurons. It is a cation-specific, but
+    otherwise relatively nonselective, ion channel.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=5-HT3R-AS;
+      IsoId=P46098-1; Sequence=Displayed;
+    Name=2; Synonyms=5-HT3R-AL;
+      IsoId=P46098-2; Sequence=VSP_000078;
+-!- SIMILARITY: Belongs to the ligand-gated ionic channel (TC 1.A.9)
+    family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005230; F:extracellular ligand-gated ion channel acti...; NAS:UniProtKB.
+ GO:0004872; F:receptor activity; TAS:ProtInc.
+ GO:0004993; F:serotonin receptor activity; NAS:UniProtKB.
+ GO:0005232; F:serotonin-activated cation-selective channe...; TAS:ProtInc.
+ GO:0007586; P:digestion; TAS:ProtInc.
+ GO:0007268; P:synaptic transmission; TAS:ProtInc.
+ GO:0006810; P:transport; NAS:UniProtKB.
+Alternative splicing; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Postsynaptic membrane; Receptor; Signal; Transmembrane;
+Transport.
+TMFOUR

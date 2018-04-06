@@ -1,0 +1,15 @@
+AC   Q67ID9;
+NAD(P)H-quinone oxidoreductase chain 2, chloroplast (EC 1.6.5.-)
+(NAD(P)H dehydrogenase, chain 2) (NADH-plastoquinone oxidoreductase
+chain 2).
+"Phylogenetic relationships among the major lineages of Asparagales
+based on a large chloroplast data set.";
+-!- CATALYTIC ACTIVITY: NAD(P)H + plastoquinone = NAD(P)(+) +
+    plastoquinol.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the complex I subunit 2 family.
+ GO:0019684; P:photosynthesis, light reaction; IEA:HAMAP.
+Chloroplast; Membrane; NAD; NADP; Oxidoreductase; Plastid;
+Plastoquinone; Quinone; Thylakoid; Transmembrane.
+TMTHIRTEEN

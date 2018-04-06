@@ -1,0 +1,15 @@
+AC   Q9RT44;
+Nuclease sbcCD subunit C.
+"Genome sequence of the radioresistant bacterium Deinococcus
+radiodurans R1.";
+-!- FUNCTION: SbcCD cleaves DNA hairpin structures. These structures
+    can inhibit DNA replication and are intermediates in certain DNA
+    recombination reactions. The complex acts as a 3'->5' double
+    strand exonuclease that can open hairpins. It also has a 5'
+    single-strand endonuclease activity (By similarity).
+-!- SUBUNIT: Heterodimer of sbcC and sbcD (By similarity).
+-!- SIMILARITY: Belongs to the SMC family. SbcC subfamily.
+ATP-binding; Coiled coil; Complete proteome; DNA recombination;
+DNA replication; Endonuclease; Exonuclease; Hydrolase; Nuclease;
+Nucleotide-binding.
+TMZERO

@@ -1,0 +1,13 @@
+AC   Q47125;
+Colicin-10.
+"Novel colicin 10: assignment of four domains to TonB- and TolC-
+dependent uptake via the Tsx receptor and to pore formation.";
+-!- FUNCTION: This colicin is a channel-forming colicin. This class of
+    transmembrane toxins depolarize the cytoplasmic membrane, leading
+    to dissipation of cellular energy.
+-!- FUNCTION: Colicins are polypeptide toxins produced by and active
+    against, Escherichia coli and closely related bacteria.
+-!- SIMILARITY: Belongs to the channel forming colicin family.
+Antibiotic; Antimicrobial; Bacteriocin; Membrane; Plasmid;
+Transmembrane.
+TMONE

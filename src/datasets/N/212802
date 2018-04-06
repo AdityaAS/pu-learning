@@ -1,0 +1,9 @@
+AC   Q9EYI6;
+UPF0189 protein in sno 5'region (ORF7).
+"The entire nogalamycin biosynthetic gene cluster of Streptomyces
+nogalater: characterization of a 20-kb DNA region and generation of
+hybrid structures.";
+-!- SIMILARITY: Belongs to the UPF0189 family.
+-!- SIMILARITY: Contains 1 Macro domain.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+TMZERO

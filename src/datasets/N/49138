@@ -1,0 +1,10 @@
+AC   Q8XV43;
+Probable GTP-binding protein engB.
+"Genome sequence of the plant pathogen Ralstonia solanacearum.";
+-!- FUNCTION: Necessary for normal cell division and for the
+    maintenance of normal septation (By similarity).
+-!- SIMILARITY: Belongs to the engB family.
+ GO:0000917; P:barrier septum formation; IEA:HAMAP.
+Cell cycle; Cell division; Complete proteome; GTP-binding;
+Nucleotide-binding; Septation.
+TMZERO

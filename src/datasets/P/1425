@@ -1,0 +1,59 @@
+AC   Q9NP58; O75542; Q49A66; Q59GQ5; Q6ZME6; Q96ME8; Q9HAQ6; Q9HAQ7;
+Mitochondrial ATP-binding cassette sub-family B member 6
+(Mitochondrial ABC transporter 3) (Mt-ABC transporter 3) (Ubiquitously
+expressed mammalian ABC half transporter) (P-glycoprotein-related
+protein).
+"MTABC3, a novel mitochondrial ATP-binding cassette protein involved
+in iron homeostasis.";
+"Subcellular localization of the ABC transporter umat.";
+"Isolation of a genomic clone containing the promoter region of the
+human ATP binding cassette (ABC) transporter, ABCB6.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of a mammalian mitochondrial porphyrin transporter.";
+"Heteronuclear multidimensional NMR and homology modelling studies of
+the C-terminal nucleotide-binding domain of the human mitochondrial
+ABC transporter ABCB6.";
+-!- FUNCTION: Binds heme and porphyrins and functions in their ATP-
+    dependent uptake into the mitochondria. Plays a crucial role in
+    heme synthesis.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=Q9NP58-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9NP58-2; Sequence=VSP_021971;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q9NP58-3; Sequence=VSP_021974, VSP_021975;
+      Note=No experimental confirmation available;
+    Name=4;
+      IsoId=Q9NP58-4; Sequence=VSP_021972, VSP_021973;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Widely expressed. Highest expression in heart
+    and skeletal muscles.
+-!- DEVELOPMENTAL STAGE: Highly expressed in fetal liver.
+-!- INDUCTION: Up-regulated by cellular porphyrins (at protein level).
+-!- MISCELLANEOUS: Depletion of Abcb6 by RNAi abrogates heme
+    biosynthesis. Overexpression enhances porphyrin biosynthesis.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- CAUTION: Ref.4 (BAD18782) sequence differs from that shown due to
+    a stop codon at position 168 which was translated as Trp to extend
+    the sequence.
+ GO:0043190; C:ATP-binding cassette (ABC) transporter complex; NAS:UniProtKB.
+ GO:0005740; C:mitochondrial envelope; IDA:MGI.
+ GO:0005739; C:mitochondrion; IDA:UniProtKB.
+ GO:0005524; F:ATP binding; IDA:MGI.
+ GO:0006879; P:iron ion homeostasis; NAS:UniProtKB.
+ GO:0006810; P:transport; IDA:MGI.
+Alternative splicing; ATP-binding; Membrane; Mitochondrion;
+Nucleotide-binding; Outer membrane; Polymorphism; Transmembrane;
+Transport.
+TMTEN

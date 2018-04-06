@@ -1,0 +1,12 @@
+AC   Q42689;
+Glutamine synthetase, chloroplast precursor (EC 6.3.1.2) (Glutamate--
+ammonia ligase) (GS2).
+"Isolation and characterization of glutamine synthetase genes in
+Chlamydomonas reinhardtii.";
+-!- CATALYTIC ACTIVITY: ATP + L-glutamate + NH(3) = ADP + phosphate +
+    L-glutamine.
+-!- SUBUNIT: Homooctamer (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the glutamine synthetase family.
+Chloroplast; Ligase; Plastid; Transit peptide.
+TMZERO

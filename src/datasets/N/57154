@@ -1,0 +1,28 @@
+AC   P41822;
+Ferritin subunit precursor (EC 1.16.3.1) (Ferritin heavy chain-like
+protein) (AeFer(H)).
+"Isolation and characterization of mosquito ferritin and cloning of a
+cDNA that encodes one subunit.";
+"Aedes aegypti ferritin heavy chain-like protein.";
+"Single nucleotide polymorphism and codon usage bias in Aedes
+aegypti.";
+"Aedes aegypti ferritin.";
+-!- FUNCTION: Protection against toxic levels of iron. Stores iron in
+    a soluble, non-toxic, readily available form. Important for iron
+    homeostasis. Has ferroxidase activity. Iron is taken up in the
+    ferrous form and deposited as ferric hydroxides after oxidation.
+-!- CATALYTIC ACTIVITY: 4 Fe(2+) + 4 H(+) + O(2) = 4 Fe(3+) + 2 H(2)O.
+-!- SUBUNIT: Oligomer of 24 subunits. The functional molecule forms a
+    roughly spherical shell with a diameter of 12 nm and contains a
+    central cavity into which the insoluble ferric iron core is
+    deposited (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Larvae, pupae, and adult females. Detected in
+    midgut.
+-!- INDUCTION: By blood meal, iron and hydrogen peroxide.
+-!- SIMILARITY: Belongs to the ferritin family.
+-!- SIMILARITY: Contains 1 ferritin-like diiron domain.
+ GO:0004322; F:ferroxidase activity; IEA:EC.
+Direct protein sequencing; Iron; Iron storage; Metal-binding;
+Oxidoreductase; Signal.
+TMZERO

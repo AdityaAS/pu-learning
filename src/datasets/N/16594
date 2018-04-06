@@ -1,0 +1,14 @@
+AC   Q6G664;
+Choline dehydrogenase (EC 1.1.99.1) (CHD) (CDH).
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Can catalyze the oxidation of choline to betaine
+    aldehyde and betaine aldehyde to glycine betaine (By similarity).
+-!- CATALYTIC ACTIVITY: Choline + acceptor = betaine aldehyde +
+    reduced acceptor.
+-!- COFACTOR: FAD (By similarity).
+-!- PATHWAY: Amine and polyamine biosynthesis; betaine biosynthesis;
+    betaine aldehyde from choline (dehydrogenase route): single step.
+-!- SIMILARITY: Belongs to the GMC oxidoreductase family.
+Complete proteome; FAD; Flavoprotein; Oxidoreductase.
+TMZERO

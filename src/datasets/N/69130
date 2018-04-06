@@ -1,0 +1,24 @@
+AC   Q92400;
+Exoglucanase precursor (EC 3.2.1.91) (Exocellobiohydrolase) (1,4-beta-
+cellobiohydrolase) (Beta-glucancellobiohydrolase).
+"Expression of CEL2 and CEL4, two proteins from Agaricus bisporus with
+similarity to fungal cellobiohydrolase I and beta-mannanase,
+respectively, is regulated by the carbon source.";
+-!- FUNCTION: The biological conversion of cellulose to glucose
+    generally requires three types of hydrolytic enzymes: (1)
+    Endoglucanases which cut internal beta-1,4-glucosidic bonds; (2)
+    Exocellobiohydrolases that cut the dissaccharide cellobiose from
+    the nonreducing end of the cellulose polymer chain; (3) Beta-1,4-
+    glucosidases which hydrolyze the cellobiose and other short cello-
+    oligosaccharides to glucose.
+-!- CATALYTIC ACTIVITY: Hydrolysis of 1,4-beta-D-glucosidic linkages
+    in cellulose and cellotetraose, releasing cellobiose from the non-
+    reducing ends of the chains.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+    family.
+-!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+    domain.
+ GO:0016162; F:cellulose 1,4-beta-cellobiosidase activity; IEA:EC.
+Carbohydrate metabolism; Cellulose degradation; Glycoprotein;
+Glycosidase; Hydrolase; Polysaccharide degradation; Signal.
+TMZERO

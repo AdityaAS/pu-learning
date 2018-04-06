@@ -1,0 +1,15 @@
+AC   P81036;
+Superoxide dismutase [Cu-Zn] (EC 1.15.1.1) (Fragment).
+"Characterization of Cu,Zn superoxide dismutase from the bathophile
+fish, Lampanyctus crocodilus.";
+-!- FUNCTION: Destroys radicals which are normally produced within the
+    cells and which are toxic to biological systems.
+-!- CATALYTIC ACTIVITY: 2 superoxide + 2 H(+) = O(2) + H(2)O(2).
+-!- COFACTOR: Binds 1 copper ion per subunit.
+-!- COFACTOR: Binds 1 zinc ion per subunit.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the Cu-Zn superoxide dismutase family.
+Antioxidant; Copper; Direct protein sequencing; Metal-binding;
+Oxidoreductase; Zinc.
+TMZERO

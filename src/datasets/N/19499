@@ -1,0 +1,14 @@
+AC   P62150; P02593; P70667; P99014; Q61379; Q61380;
+Calmodulin-A (CaM A) (Fragment).
+"Four synonymous genes encode calmodulin in the teleost fish, medaka
+(Oryzias latipes): conservation of the multigene one-protein
+principle.";
+-!- FUNCTION: Calmodulin mediates the control of a large number of
+    enzymes and other proteins by Ca(2+). Among the enzymes to be
+    stimulated by the calmodulin-Ca(2+) complex are a number of
+    protein kinases and phosphatases.
+-!- MISCELLANEOUS: This protein has four functional calcium-binding
+    sites.
+-!- SIMILARITY: Contains 4 EF-hand domains.
+Calcium; Methylation; Repeat.
+TMZERO

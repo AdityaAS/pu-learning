@@ -1,0 +1,15 @@
+AC   P59313;
+N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38) (AGPR) (N-
+acetyl-glutamate semialdehyde dehydrogenase) (NAGSA dehydrogenase).
+"Complete genome sequence of Vibrio vulnificus CMCP6.";
+-!- CATALYTIC ACTIVITY: N-acetyl-L-glutamate 5-semialdehyde + NADP(+)
+    + phosphate = N-acetyl-5-glutamyl phosphate + NADPH.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; 2-N-
+    acetyl-L-ornithine from L-glutamate: step 3.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the NAGSA dehydrogenase family. Type 1
+    subfamily.
+ GO:0009085; P:lysine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Arginine biosynthesis; Complete proteome;
+NADP; Oxidoreductase.
+TMZERO

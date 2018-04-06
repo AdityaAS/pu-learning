@@ -1,0 +1,32 @@
+AC   P26290;
+Cytochrome b6-f complex iron-sulfur subunit 2 (EC 1.10.99.1) (Rieske
+iron-sulfur protein 2) (Plastohydroquinone:plastocyanin oxidoreductase
+iron-sulfur protein 2) (ISP 2) (RISP 2).
+"Primary structure of the psbN-psbH-petC-petA gene cluster of the
+cyanobacterium Synechocystis PCC 6803.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- FUNCTION: Component of the cytochrome b6-f complex, which mediates
+    electron transfer between photosystem II (PSII) and photosystem I
+    (PSI), cyclic electron flow around PSI, and state transitions (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Plastoquinol-1 + 2 oxidized plastocyanin =
+    plastoquinone + 2 reduced plastocyanin.
+-!- COFACTOR: Binds 1 2Fe-2S cluster per subunit (By similarity).
+-!- SUBUNIT: The 4 large subunits of the cytochrome b6-f complex are
+    cytochrome b6, subunit IV (17 kDa polypeptide, petD), cytochrome f
+    and the Rieske protein, while the 4 small subunits are petG, petL,
+    petM and petN. The complex functions as a dimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; single-pass
+    membrane protein (By similarity). Note=The transmembrane helix
+    obliquely spans the membrane in one monomer, and its extrinsic C-
+    terminal domain is part of the other monomer (By similarity).
+-!- MISCELLANEOUS: The Rieske iron-sulfur protein is a high potential
+    2Fe-2S protein.
+-!- SIMILARITY: Contains 1 Rieske domain.
+ GO:0009767; P:photosynthetic electron transport; NAS:UniProtKB.
+2Fe-2S; Complete proteome; Electron transport; Iron; Iron-sulfur;
+Membrane; Metal-binding; Oxidoreductase; Thylakoid; Transmembrane;
+Transport.
+TMONE

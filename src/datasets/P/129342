@@ -1,0 +1,26 @@
+AC   P0AFK9; P23861;
+Spermidine/putrescine-binding periplasmic protein precursor (SPBP).
+"Characteristics of the gene for a spermidine and putrescine transport
+system that maps at 15 min on the Escherichia coli chromosome.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Prediction of the structural similarity between
+spermidine/putrescine-binding protein and maltose-binding protein.";
+"Crystal structure of PotD, the primary receptor of the polyamine
+transport system in Escherichia coli.";
+"The 1.8-A X-ray structure of the Escherichia coli PotD protein
+complexed with spermidine and the mechanism of polyamine binding.";
+-!- FUNCTION: Required for the activity of the bacterial periplasmic
+    transport system of putrescine and spermidine. Polyamine binding
+    protein.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein
+    potD/potF family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Periplasmic; Signal; Transport.
+TMZERO

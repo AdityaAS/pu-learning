@@ -1,0 +1,29 @@
+AC   P10664;
+60S ribosomal protein L4-A (L2A) (RP2).
+"Ribosomal protein L2 in Saccharomyces cerevisiae is homologous to
+ribosomal protein L1 in Xenopus laevis. Isolation and characterization
+of the genes.";
+"The complete sequence of a 33 kb fragment on the right arm of
+chromosome II from Saccharomyces cerevisiae reveals 16 open reading
+frames, including ten new open reading frames, five previously
+identified genes and a homologue of the SCO1 gene.";
+"Complete DNA sequence of yeast chromosome II.";
+"The ribosomal protein L2 in S. cerevisiae controls the level of
+accumulation of its own mRNA.";
+"NH2-terminal acetylation of ribosomal proteins of Saccharomyces
+cerevisiae.";
+-!- FUNCTION: Participates in the regulation of the accumulation of
+    its own mRNA.
+-!- INTERACTION:
+    P38130:KTR3; NbExp=1; IntAct=EBI-15390, EBI-9987;
+    Q06058:YLR404W; NbExp=1; IntAct=EBI-15390, EBI-35851;
+-!- MISCELLANEOUS: There are two genes for L4 in yeast.
+-!- SIMILARITY: Belongs to the ribosomal protein L4P family.
+ GO:0005842; C:cytosolic large ribosomal subunit (sensu Eu...; TAS:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0003735; F:structural constituent of ribosome; TAS:SGD.
+ GO:0043037; P:translation; TAS:SGD.
+3D-structure; Acetylation; Complete proteome;
+Direct protein sequencing; Ribonucleoprotein; Ribosomal protein;
+RNA-binding.
+TMZERO

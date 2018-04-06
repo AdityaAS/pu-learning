@@ -1,0 +1,38 @@
+AC   P35547;
+Glucocorticoid receptor (GR) (Fragment).
+"Characterization of an ovine glucocorticoid receptor cDNA and
+developmental changes in its mRNA levels in the fetal sheep
+hypothalamus, pituitary gland and adrenal.";
+-!- FUNCTION: Receptor for glucocorticoids (GC). Has a dual mode of
+    action: as a transcription factor that binds to glucocorticoid
+    response elements (GRE) and as a modulator of other transcription
+    factors. Affects inflammatory responses, cellular proliferation
+    and differentiation in target tissues (By similarity).
+-!- SUBUNIT: Heteromultimeric cytoplasmic complex with HSP90, HSP70,
+    and an immunophilin. Upon ligand binding the complex undergoes a
+    conformation change and moves to the nucleus, where it
+    dissociates. Binds to DNA as a homodimer, and as heterodimer with
+    NR3C2 or the retinoid X receptor. Interacts with the coactivator
+    NCOA6, leading to a strong increase in transcription of target
+    genes. Interaction with numerous other transcription factors
+    modulates transcription activation. Interacts with TRIM28.
+    Interacts with PELP1 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity). Note=Cytoplasmic in the absence of ligand, nuclear
+    after ligand-binding (By similarity).
+-!- DOMAIN: Composed of three domains: a modulating N-terminal domain,
+    a DNA-binding domain and a C-terminal steroid-binding domain.
+-!- PTM: Increased proteasome-mediated degradation in response to
+    glucocorticoids (By similarity).
+-!- PTM: Phosphorylated in the absence of hormone; becomes
+    hyperphosphorylated in the presence of glucocorticoids (By
+    similarity).
+-!- PTM: Sumoylated; this reduces transcription transactivation (By
+    similarity).
+-!- SIMILARITY: Belongs to the nuclear hormone receptor family. NR3
+    subfamily.
+-!- SIMILARITY: Contains 1 nuclear receptor DNA-binding domain.
+DNA-binding; Lipid-binding; Metal-binding; Nuclear protein; Receptor;
+Steroid-binding; Transcription; Transcription regulation;
+Ubl conjugation; Zinc; Zinc-finger.
+TMZERO

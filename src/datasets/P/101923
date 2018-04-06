@@ -1,0 +1,17 @@
+AC   P60698; Q9ZNG0;
+Na(+)/H(+) antiporter subunit G (Mnh complex subunit G).
+"A putative multisubunit Na+/H+ antiporter from Staphylococcus
+aureus.";
+-!- FUNCTION: Mnh complex is a Na(+)/H(+) antiporter involved in Na(+)
+    excretion.
+-!- ENZYME REGULATION: Na(+) extrusion is completely inhibited by the
+    H(+) conductor carbonyl cyanide m-chlorophenylhydrazone (CCCP).
+-!- SUBUNIT: May form a hetero-oligomeric complex that consists of
+    seven subunits: mnhA, mnhB, mnhC, mnhD, mnhE, mnhF and mnhG.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the CPA3 antiporters (TC 2.A.63) subunit G
+    family.
+Antiport; Hydrogen ion transport; Ion transport; Membrane; Sodium;
+Sodium transport; Transmembrane; Transport.
+THTHREE

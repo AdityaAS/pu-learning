@@ -1,0 +1,15 @@
+AC   P0A333; Q54397;
+Voltage-gated potassium channel.
+"Complete genome sequence of the model actinomycete Streptomyces
+coelicolor A3(2).";
+-!- FUNCTION: Acts as a potassium ion channel (By similarity).
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- MISCELLANEOUS: The amino acids 62-79 are situated in the membrane
+    and are important for channel structure and properties (By
+    similarity).
+-!- SIMILARITY: Belongs to the potassium channel family.
+3D-structure; Complete proteome; Ion transport; Ionic channel;
+Membrane; Transmembrane; Transport; Voltage-gated channel.
+TMTWO

@@ -1,0 +1,22 @@
+AC   Q3B8Q0;
+Microtubule-associated protein RP/EB family member 2.
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May be involved in microtubule polymerization, and
+    spindle function by stabilizing microtubules and anchoring them at
+    centrosomes. May play a role in cell migration (By similarity).
+-!- SUBUNIT: Interacts with DCTN1. Binds to the C-terminal domain of
+    APC. Binds monomeric and polymerized tubulin (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Cytoplasm;
+    cytoskeleton (By similarity). Note=Associated with the microtubule
+    network. Accumulates at the plus end of microtubules (By
+    similarity).
+-!- DOMAIN: Composed of two functionally independent domains. The N-
+    terminal domain forms an hydrophobic cleft involved in microtubule
+    binding and the C-terminal is involved in the formation of
+    mutually exclusive complexes with APC and DCTN1 (By similarity).
+-!- SIMILARITY: Belongs to the MAPRE family.
+-!- SIMILARITY: Contains 1 CH (calponin-homology) domain.
+-!- SIMILARITY: Contains 1 EB1 C-terminal domain.
+Cell cycle; Cell division; Microtubule; Mitosis; Phosphorylation.
+TMZERO

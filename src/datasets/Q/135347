@@ -1,0 +1,23 @@
+AC   P0A250; P12654;
+Phosphoenolpyruvate-protein phosphotransferase (EC 2.7.3.9)
+(Phosphotransferase system, enzyme I).
+"Complete genome sequence of a multiple drug resistant Salmonella
+enterica serovar Typhi CT18.";
+"Comparative genomics of Salmonella enterica serovar Typhi strains Ty2
+and CT18.";
+-!- FUNCTION: This is a component of the phosphoenolpyruvate-dependent
+    sugar phosphotransferase system (PTS), a major carbohydrate active
+    -transport system. Enzyme I transfers the phosphoryl group from
+    phosphoenolpyruvate (PEP) to the phosphoryl carrier protein (HPr).
+    Enzyme I is common to all PTS (By similarity).
+-!- CATALYTIC ACTIVITY: Phosphoenolpyruvate + protein L-histidine =
+    pyruvate + protein N(pi)-phospho-L-histidine.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the PEP-utilizing enzyme family.
+-!- CAUTION: In strain CT18 it seems to be a pseudogene. It is
+    interrupted by a frameshift in position 353. The sequence has been
+    verified by the authors and is believed to be correct.
+Complete proteome; Kinase; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport.
+TMZERO

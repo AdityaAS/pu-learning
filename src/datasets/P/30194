@@ -1,0 +1,22 @@
+AC   P05425;
+Probable copper exporting ATPase B (EC 3.6.3.4).
+"Primary structure of two P-type ATPases involved in copper
+homeostasis in Enterococcus hirae.";
+"Cloning of the K+-ATPase of Streptococcus faecalis. Structural and
+evolutionary implications of its homology to the KdpB-protein of
+Escherichia coli.";
+-!- FUNCTION: The copper-transporting proteins, CopA and CopB, are
+    implicated in the regulation of cytoplasmic copper, copA being the
+    importer and copB the exporter of the metal. They may probably
+    serve as well for the import of other metals.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Cu(2+)(In) = ADP + phosphate +
+    Cu(2+)(Out).
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- INDUCTION: By copper.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IB subfamily.
+ATP-binding; Copper; Copper transport; Hydrolase; Ion transport;
+Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Repeat; Transmembrane; Transport.
+TMEIGHT

@@ -1,0 +1,30 @@
+AC   P13738;
+Na(+)/H(+) antiporter 1 (Sodium/proton antiporter 1).
+"Sequencing of the gene ant which affects the Na+/H+ antiporter
+activity in Escherichia coli.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Expression of a sodium proton antiporter (NhaA) in Escherichia coli
+is induced by Na+ and Li+ ions.";
+"Overproduction and purification of a functional Na+/H+ antiporter
+coded by nhaA (ant) from Escherichia coli.";
+"Histidine-226 is part of the pH sensor of NhaA, a Na+/H+ antiporter
+in Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: This is a Na(+)/H(+) antiporter. It can mediate sodium
+    uptake when a transmembrane pH gradient is applied. It probably
+    acts in the regulation of internal pH at the alkaline pH range. It
+    catalyzes the exchange of 2 H(+) per Na(+). Its activity is highly
+    dependent on the pH.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Transcription stimulated by high Na(+) concentrations.
+-!- SIMILARITY: Belongs to the nhaA Na(+)/H(+) antiporter family.
+3D-structure; Antiport; Complete proteome; Direct protein sequencing;
+Inner membrane; Ion transport; Membrane; Sodium; Sodium transport;
+Transmembrane; Transport.
+TMTEN

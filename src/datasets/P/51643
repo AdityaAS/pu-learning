@@ -1,0 +1,19 @@
+AC   P33699;
+Succinoglycan biosynthesis transport protein exoT.
+"Family of glycosyl transferases needed for the synthesis of
+succinoglycan by Rhizobium meliloti.";
+"Genes needed for the modification, polymerization, export, and
+processing of succinoglycan by Rhizobium meliloti: a model for
+succinoglycan biosynthesis.";
+"Analysis of the Rhizobium meliloti genes exoU, exoV, exoW, exoT, and
+exoI involved in exopolysaccharide biosynthesis and nodule invasion:
+exoU and exoW probably encode glucosyltransferases.";
+"The complete sequence of the 1,683-kb pSymB megaplasmid from the N2-
+fixing endosymbiont Sinorhizobium meliloti.";
+-!- PATHWAY: Exopolysaccharide biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the polysaccharide synthase family.
+Complete proteome; Exopolysaccharide synthesis; Membrane; Plasmid;
+Transmembrane.
+TMTHIRTEEN

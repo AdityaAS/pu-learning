@@ -1,0 +1,50 @@
+AC   O75592; Q5JSX8; Q5VZN6; Q6PIB6; Q9UQ11; Q9Y6E4;
+Probable E3 ubiquitin-protein ligase MYCBP2 (EC 6.3.2.-) (Myc-binding
+protein 2) (Protein associated with Myc) (Pam/highwire/rpm-1 protein).
+"Identification of a large Myc-binding protein that contains RCC1-like
+repeats.";
+"The DNA sequence and analysis of human chromosome 13.";
+"Prediction of the coding sequences of unidentified human genes. XII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+"Construction of expression-ready cDNA clones for KIAA genes: manual
+curation of 330 KIAA cDNA clones.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Cloning and functional analysis of cDNAs with open reading frames for
+300 previously undefined genes expressed in CD34+ hematopoietic
+stem/progenitor cells.";
+"Pam and its ortholog highwire interact with and may negatively
+regulate the TSC1.TSC2 complex.";
+"Large-scale characterization of HeLa cell nuclear phosphoproteins.";
+-!- FUNCTION: Probable E3 ubiquitin-protein ligase which mediates
+    ubiquitination and subsequent proteasomal degradation of target
+    proteins. May function as a facilitator or regulator of
+    transcriptional activation by MYC. May have a role during
+    synaptogenesis.
+-!- PATHWAY: Ubiquitin conjugation; third step.
+-!- SUBUNIT: Interacts with MYC. Interacts with TSC2 (tuberin) when
+    TSC2 is in complex with TSC1 (hamartin).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O75592-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O75592-2; Sequence=VSP_014183;
+      Note=Derived from EST data;
+-!- TISSUE SPECIFICITY: Expressed in all tissues examined, expression
+    is exceptionally abundant in brain and thymus. Colocalizes with
+    TSC1 and TSC2 along the neurites and in the growth cones.
+    Colocalized with TSC1 in one of the filopodial extensions at the
+    tip of a growth cone.
+-!- SIMILARITY: Contains 1 B box-type zinc finger.
+-!- SIMILARITY: Contains 1 filamin repeat.
+-!- SIMILARITY: Contains 5 RCC1 repeats.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+-!- CAUTION: Ref.2 (CAI39758) sequence differs from that shown due to
+    erroneous gene model prediction.
+Alternative splicing; Ligase; Metal-binding; Nuclear protein;
+Phosphorylation; Repeat; Transcription; Transcription regulation;
+Ubl conjugation pathway; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,19 @@
+AC   P80564; Q9XAY5;
+Pyrogallol hydroxytransferase small subunit (EC 1.97.1.2)
+(Transhydroxylase subunit beta).
+"One molecule of molybdopterin guanine dinucleotide is associated with
+each subunit of the heterodimeric Mo-Fe-S protein transhydroxylase of
+Pelobacter acidigallici as determined by SDS/PAGE and mass
+spectrometry.";
+"Towards the reaction mechanism of pyrogallol-phloroglucinol
+transhydroxylase of Pelobacter acidigallici.";
+-!- FUNCTION: Isomerization of pyrogallol to phloroglucin.
+-!- CATALYTIC ACTIVITY: 1,2,3,5-tetrahydroxybenzene + 1,2,3-
+    trihydroxybenzene = 1,3,5-trihydroxybenzene + 1,2,3,5-
+    tetrahydroxybenzene.
+-!- COFACTOR: Binds 3 4Fe-4S clusters.
+-!- SUBUNIT: Heterodimer of a large and a small subunit.
+ GO:0018706; F:pyrogallol hydroxytransferase activity; IEA:EC.
+3D-structure; 4Fe-4S; Direct protein sequencing; Iron; Iron-sulfur;
+Metal-binding; Oxidoreductase.
+TMZERO

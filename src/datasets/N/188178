@@ -1,0 +1,12 @@
+AC   Q98TX1;
+Thioredoxin (Trx).
+"cDNA sequence of Ophiophagus hannah venom gland thioredoxin
+protein.";
+-!- FUNCTION: Participates in various redox reactions through the
+    reversible oxidation of its active center dithiol to a disulfide
+    and catalyzes dithiol-disulfide exchange reactions (By
+    similarity).
+-!- SIMILARITY: Belongs to the thioredoxin family.
+-!- SIMILARITY: Contains 1 thioredoxin domain.
+Electron transport; Redox-active center; Transport.
+TMZERO

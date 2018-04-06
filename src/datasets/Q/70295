@@ -1,0 +1,25 @@
+AC   Q67UC7; Q67UC8; Q8VXB6;
+Probable potassium transporter 17 (OsHAK17).
+"Inventory and functional characterization of the HAK potassium
+transporters of rice.";
+"Oryza sativa nipponbare chromosome 9 genomic DNA sequence.";
+"Collection, mapping, and annotation of over 28,000 cDNA clones from
+japonica rice.";
+-!- FUNCTION: High-affinity potassium transporter (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q67UC7-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q67UC7-2; Sequence=VSP_016304, VSP_016305;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the HAK/KUP transporter (TC 2.A.72) family.
+-!- CAUTION: Ref.1 (CAD20996) sequence differs from that shown due to
+    erroneous gene model prediction.
+-!- CAUTION: Ref.3 (AK066194) sequence differs from that shown due to
+    a frameshift in position 490.
+Alternative splicing; Glycoprotein; Ion transport; Membrane;
+Potassium; Potassium transport; Transmembrane; Transport.
+TMTWELVE

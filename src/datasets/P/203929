@@ -1,0 +1,12 @@
+AC   Q00964; Q9JQ00;
+Vibriobactin receptor precursor.
+"Cloning, sequencing, and transcriptional regulation of viuA, the gene
+encoding the ferric vibriobactin receptor of Vibrio cholerae.";
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Receptor for ferric vibriobactin.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+Complete proteome; Ion transport; Iron; Iron transport; Membrane;
+Outer membrane; Receptor; Signal; TonB box; Transport.
+TMZERO

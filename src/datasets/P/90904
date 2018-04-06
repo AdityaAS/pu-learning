@@ -1,0 +1,20 @@
+AC   P21210; O68548; Q84GT4; Q93KU1;
+Low calcium response locus protein D.
+"Detailed genetic map of the pYVe227 plasmid of Yersinia
+enterocolitica serotype O:9.";
+"Complete DNA sequence of Yersinia enterocolitica serotype 0:8 low-
+calcium-response plasmid reveals a new virulence plasmid-associated
+replicon.";
+"DNA sequence and analysis of the pYVa127/90 virulence plasmid of
+Yersinia enterocolitica strain A127/90.";
+"The lcrE gene is part of an operon in the lcr region of Yersinia
+enterocolitica O:3.";
+-!- FUNCTION: Could be involved in the secretion of the yop virulence
+    proteins.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the FHIPEP (flagella/HR/invasion proteins
+    export pore) family.
+Inner membrane; Membrane; Plasmid; Protein transport; Transmembrane;
+Transport; Virulence.
+TMSEVEN

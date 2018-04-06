@@ -1,0 +1,38 @@
+AC   P18775;
+Anaerobic dimethyl sulfoxide reductase chain A precursor (EC 1.8.99.-)
+(DMSO reductase).
+"Nucleotide sequence of the dmsABC operon encoding the anaerobic
+dimethylsulphoxide reductase of Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Organization of dimethyl sulfoxide reductase in the plasma membrane
+of Escherichia coli.";
+"Multiple pathways of electron transfer in dimethyl sulfoxide
+reductase of Escherichia coli.";
+"Multiple roles for the twin arginine leader sequence of dimethyl
+sulfoxide reductase of Escherichia coli.";
+-!- FUNCTION: Terminal reductase during anaerobic growth on various
+    sulfoxide and N-oxide compounds. Allows E.coli to grow
+    anaerobically on Me(2)SO as respiratory oxidant.
+-!- CATALYTIC ACTIVITY: Reduces various N-oxide and sulfoxide
+    compounds including trimethylamine N-oxide.
+-!- COFACTOR: Binds 1 4Fe-4S cluster (Potential).
+-!- COFACTOR: Molybdenum (molybdopterin).
+-!- SUBUNIT: Heterotrimeric enzyme composed of a catalytic heterodimer
+    (DmsAB) and a membrane anchor protein (DmsC).
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein;
+    cytoplasmic side.
+-!- PTM: Exported by the Tat system. The position of the signal
+    peptide cleavage has been experimentally proven.
+-!- MISCELLANEOUS: The Tat signal sequence is essential for the
+    expression of dmsA, the stability of the dmsAB dimer and membrane
+    targeting. Despite the presence of a signal sequence, dmsA is not
+    exported to the periplasm.
+-!- SIMILARITY: Belongs to the prokaryotic molybdopterin-containing
+    oxidoreductase family.
+4Fe-4S; Complete proteome; Direct protein sequencing; Iron;
+Iron-sulfur; Metal-binding; Molybdenum; Oxidoreductase; Signal.
+TMZERO

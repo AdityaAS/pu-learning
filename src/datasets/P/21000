@@ -1,0 +1,28 @@
+AC   Q51603; O08068;
+2-halobenzoate 1,2-dioxygenase electron transfer component [Includes:
+Ferredoxin; Ferredoxin--NAD(+) reductase (EC 1.18.1.3)].
+"Cloning, nucleotide sequence, and expression of the plasmid-encoded
+genes for the two-component 2-halobenzoate 1,2-dioxygenase from
+Pseudomonas cepacia 2CBS.";
+"Purification and some properties of 2-halobenzoate 1,2-dioxygenase, a
+two-component enzyme system from Pseudomonas cepacia 2CBS.";
+-!- FUNCTION: Electron transfer component of 2-halobenzoate 1,2-
+    dioxygenase system.
+-!- CATALYTIC ACTIVITY: Reduced ferredoxin + NAD(+) = oxidized
+    ferredoxin + NADH.
+-!- COFACTOR: Binds 1 FAD per subunit (By similarity).
+-!- COFACTOR: Binds 1 2Fe-2S cluster per subunit (By similarity).
+-!- PATHWAY: Xenobiotic degradation; benzoate degradation via CoA
+    ligation.
+-!- SUBUNIT: Monomer. It is part of 2-halobenzoate dioxygenase two
+    component enzyme system. The other component is a dioxygenase
+    component consisting of 3 large (CbdA) subunits and 3 small (CbdB)
+    subunits.
+-!- SIMILARITY: Belongs to the bacterial ring-hydroxylating
+    dioxygenase ferredoxin reductase family.
+-!- SIMILARITY: Contains 1 2Fe-2S ferredoxin-type domain.
+ GO:0008860; F:ferredoxin-NAD+ reductase activity; IEA:EC.
+2Fe-2S; Aromatic hydrocarbons catabolism; Direct protein sequencing;
+FAD; Flavoprotein; Iron; Iron-sulfur; Metal-binding; NAD;
+Oxidoreductase; Plasmid.
+TMZERO

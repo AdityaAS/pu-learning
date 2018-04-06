@@ -1,0 +1,29 @@
+AC   P45749;
+CCA-adding enzyme (EC 2.7.7.25) (EC 2.7.7.21) (tRNA
+nucleotidyltransferase) (tRNA adenylyl-/cytidylyl- transferase) (tRNA
+CCA-pyrophosphorylase) (tRNA-NT) (Fragment).
+"Isolation and characterization of a second exe operon required for
+extracellular protein secretion in Aeromonas hydrophila.";
+-!- FUNCTION: Catalyzes the addition and repair of the essential 3'-
+    terminal CCA sequence in tRNAs without using a nucleic acid
+    template. Adds these three nucleotides in the order of C, C, and A
+    to the tRNA nucleotide-73, using CTP and ATP as substrates and
+    producing inorganic pyrophosphate (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + tRNA(n) = diphosphate + tRNA(n+1).
+-!- CATALYTIC ACTIVITY: CTP + tRNA(n) = diphosphate + tRNA(n+1).
+-!- COFACTOR: Magnesium (By similarity).
+-!- MISCELLANEOUS: A single active site specifically recognizes both
+    ATP and CTP and is responsible for their addition (By similarity).
+-!- SIMILARITY: Belongs to the tRNA nucleotidyltransferase/poly(A)
+    polymerase family. Bacterial CCA-adding enzyme type 2 subfamily.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0000166; F:nucleotide binding; IEA:HAMAP.
+ GO:0004810; F:tRNA adenylyltransferase activity; IEA:HAMAP.
+ GO:0000049; F:tRNA binding; IEA:HAMAP.
+ GO:0016437; F:tRNA cytidylyltransferase activity; IEA:HAMAP.
+ GO:0001680; P:tRNA 3'-terminal CCA addition; IEA:HAMAP.
+ATP-binding; Magnesium; Metal-binding; Nucleotide-binding;
+Nucleotidyltransferase; RNA repair; RNA-binding; Transferase;
+tRNA processing.
+TMZERO

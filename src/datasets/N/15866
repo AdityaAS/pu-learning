@@ -1,0 +1,17 @@
+AC   Q09323;
+Beta-N-acetyl-D-glucosaminide beta-1,4-N-acetylglucosaminyl-
+transferase (EC 2.4.1.-) (UDP-GlcNAc:GlcNAc beta-R beta-1,4-N-
+acetylglucosaminyl-transferase) (Beta-1,4-GlcNAcT).
+"A Lymnaea stagnalis gene, with sequence similarity to that of
+mammalian beta 1-->4-galactosyltransferases, encodes a novel UDP-
+GlcNAc:GlcNAc beta-R beta 1-->4-N-acetylglucosaminyltransferase.";
+-!- CATALYTIC ACTIVITY: UDP-N-acetyl-D-glucosamine + N-acetyl-D-
+    glucosaminyl-R = UDP + N-acetyl-beta-D-glucosaminyl-1,4-N-acetyl-
+    D-glucosaminyl-R.
+-!- PATHWAY: Glycosylation.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type II membrane protein.
+-!- SIMILARITY: Belongs to the glycosyltransferase 7 family.
+Glycoprotein; Glycosyltransferase; Golgi apparatus; Membrane;
+Signal-anchor; Transferase; Transmembrane.
+TMONE

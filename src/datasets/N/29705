@@ -1,0 +1,17 @@
+AC   Q6GHI0;
+GTP-sensing transcriptional pleiotropic repressor codY.
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: DNA-binding protein that represses the expression of
+    many genes that are induced as cells make the transition from
+    rapid exponential growth to stationary phase (By similarity). It
+    is a GTP-binding protein that senses the intracellular GTP
+    concentration as an indicator of nutritional limitations. At low
+    GTP concentration it no longer binds GTP and stop to act as a
+    transcriptional repressor (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the codY family.
+ GO:0045892; P:negative regulation of transcription, DNA-d...; IEA:HAMAP.
+Complete proteome; DNA-binding; GTP-binding; Nucleotide-binding;
+Repressor; Transcription; Transcription regulation.
+TMZERO

@@ -1,0 +1,12 @@
+AC   O67926;
+Thiazole biosynthesis protein thiG.
+"The complete genome of the hyperthermophilic bacterium Aquifex
+aeolicus.";
+-!- FUNCTION: Required for the synthesis of the thiazole moiety of
+    thiamine (By similarity).
+-!- COFACTOR: FMN (Potential).
+-!- PATHWAY: Thiamine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the thiG family.
+Complete proteome; Flavoprotein; FMN; Thiamine biosynthesis.
+TMZERO

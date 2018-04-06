@@ -1,0 +1,25 @@
+AC   P14213;
+Tachyplesin-1 precursor (Tachyplesin I).
+"Antimicrobial tachyplesin peptide precursor. cDNA cloning and
+cellular localization in the horseshoe crab (Tachypleus
+tridentatus).";
+"Tachyplesin, a class of antimicrobial peptide from the hemocytes of
+the horseshoe crab (Tachypleus tridentatus). Isolation and chemical
+structure.";
+"Antimicrobial peptide, tachyplesin I, isolated from hemocytes of the
+horseshoe crab (Tachypleus tridentatus). NMR determination of the
+beta-sheet structure.";
+"A comparative study of the solution structures of tachyplesin I and a
+novel anti-HIV synthetic peptide, T22 ([Tyr5,12, Lys7]-polyphemusin
+II), determined by nuclear magnetic resonance.";
+"Separation of large and small granules from horseshoe crab
+(Tachypleus tridentatus) hemocytes and characterization of their
+components.";
+-!- FUNCTION: Significantly inhibits the growth of Gram-negative and
+    Gram-positive bacteria.
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=S-granules.
+-!- TISSUE SPECIFICITY: Hemocytes.
+-!- SIMILARITY: Belongs to the tachyplesin/polyphemusin family.
+3D-structure; Amidation; Antibiotic; Antimicrobial;
+Cleavage on pair of basic residues; Direct protein sequencing; Signal.
+TMZERO

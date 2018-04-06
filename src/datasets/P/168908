@@ -1,0 +1,26 @@
+AC   Q9H9S3;
+Protein transport protein Sec61 subunit alpha isoform 2 (Sec61 alpha-
+2).
+"Sec61 alpha isoforms.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+-!- FUNCTION: Appears to play a crucial role in the insertion of
+    secretory and membrane polypeptides into the ER. It is required
+    for assembly of membrane and secretory proteins. Found to be
+    tightly associated with membrane-bound ribosomes, either directly
+    or through adaptor proteins (By similarity).
+-!- SUBUNIT: Heterotrimeric complex composed of SEC61-alpha, SEC61-
+    beta and SEC61-gamma (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9H9S3-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9H9S3-2; Sequence=VSP_010472;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the secY/SEC61-alpha family.
+Alternative splicing; Endoplasmic reticulum; Membrane;
+Protein transport; Translocation; Transmembrane; Transport.
+TMTEN

@@ -1,0 +1,18 @@
+AC   Q89XR6;
+1-aminocyclopropane-1-carboxylate deaminase (EC 3.5.99.7) (ACC
+deaminase) (ACCD).
+"Complete genomic sequence of nitrogen-fixing symbiotic bacterium
+Bradyrhizobium japonicum USDA110.";
+-!- FUNCTION: Catalyzes a cyclopropane ring-opening reaction, the
+    irreversible conversion of 1-aminocyclopropane-1-carboxylate (ACC)
+    to ammonia and alpha-ketobutyrate. Allows growth on ACC as a
+    nitrogen source (By similarity).
+-!- CATALYTIC ACTIVITY: 1-aminocyclopropane-1-carboxylate + H(2)O = 2-
+    oxobutanoate + NH(3).
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SIMILARITY: Belongs to the ACC deaminase/D-cysteine desulfhydrase
+    family.
+ GO:0018871; P:1-aminocyclopropane-1-carboxylate metabolism; IEA:HAMAP.
+Complete proteome; Hydrolase; Pyridoxal phosphate.
+TMZERO

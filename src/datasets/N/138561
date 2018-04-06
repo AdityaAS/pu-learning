@@ -1,0 +1,18 @@
+AC   Q2KDF0;
+Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23) (OMP decarboxylase)
+(OMPDCase) (OMPdecase).
+"The partitioned Rhizobium etli genome: genetic and metabolic
+redundancy in seven interacting replicons.";
+-!- FUNCTION: Catalyzes the decarboxylation of orotidine 5'-
+    monophosphate (OMP) to uridine 5'-monophosphate (UMP) (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Orotidine 5'-phosphate = UMP + CO(2).
+-!- PATHWAY: Nucleotide biosynthesis; UMP biosynthesis; UMP from
+    HCO(3)(-): step 6 [final step].
+-!- PATHWAY: Context: Pyrimidine biosynthesis.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the OMP decarboxylase family. Type 1
+    subfamily.
+ GO:0006221; P:pyrimidine nucleotide biosynthesis; IEA:HAMAP.
+Complete proteome; Decarboxylase; Lyase; Pyrimidine biosynthesis.
+TMZERO

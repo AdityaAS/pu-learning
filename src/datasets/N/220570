@@ -1,0 +1,12 @@
+AC   Q6GJI5;
+Initiation-control protein yabA.
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Involved in initiation control of chromosome replication
+    (By similarity).
+-!- SUBUNIT: Interacts with both dnaA and dnaN, acting as a bridge
+    between these two proteins (By similarity).
+-!- SIMILARITY: Belongs to the yabA family.
+ GO:0006260; P:DNA replication; IEA:HAMAP.
+Complete proteome; DNA replication.
+TMZERO

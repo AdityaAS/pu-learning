@@ -1,0 +1,16 @@
+AC   Q71WU5;
+Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-).
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- FUNCTION: Transfers the N-acyl diglyceride group on what will
+    become the N-terminal cysteine of membrane lipoproteins (By
+    similarity).
+-!- PATHWAY: Lipoprotein biosynthesis; first step.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the lgt family.
+ GO:0008961; F:phosphatidylglycerol-prolipoprotein diacylg...; IEA:HAMAP.
+ GO:0042158; P:lipoprotein biosynthesis; IEA:HAMAP.
+Complete proteome; Membrane; Transferase; Transmembrane.
+TMSEVEN

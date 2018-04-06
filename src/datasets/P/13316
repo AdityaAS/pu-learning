@@ -1,0 +1,20 @@
+AC   P0AB99; P00855; Q47708;
+ATP synthase a chain (EC 3.6.3.14) (ATPase protein 6).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Key component of the proton channel; it may play a
+    direct role in the translocation of protons across the membrane
+    (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ATPase A chain family.
+CF(0); Complete proteome; Hydrogen ion transport; Inner membrane;
+Ion transport; Membrane; Transmembrane; Transport.
+TMFIVE

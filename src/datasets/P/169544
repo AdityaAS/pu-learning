@@ -1,0 +1,17 @@
+AC   P0AFY6; P24212; P71313; P75702; Q2MC48;
+Protein sbmA.
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification, mapping, cloning and characterization of a gene
+(sbmA) required for microcin B17 action on Escherichia coli K12.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Required for the uptake of the peptide antibiotic
+    microcin B17 (MccB17).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: To R.meliloti bacA.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMSEVEN

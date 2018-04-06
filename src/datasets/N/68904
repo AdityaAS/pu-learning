@@ -1,0 +1,17 @@
+AC   P28902;
+Guanylin precursor (Guanylate cyclase activator 2A).
+"Cloning and expression of guanylin. Its existence in various
+mammalian tissues.";
+"Rat guanylin cDNA: characterization of the precursor of an endogenous
+activator of intestinal guanylate cyclase.";
+"Guanylin: an endogenous activator of intestinal guanylate cyclase.";
+-!- FUNCTION: Endogenous activator of intestinal guanylate cyclase. It
+    stimulates this enzyme through the same receptor binding region as
+    the heat-stable enterotoxins.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Intestine and in low abundance in adrenal
+    gland, kidney, and uterus/oviduct.
+-!- SIMILARITY: Belongs to the guanylin family.
+ GO:0030250; F:guanylate cyclase activator activity; IDA:RGD.
+Direct protein sequencing; Signal.
+TMZERO

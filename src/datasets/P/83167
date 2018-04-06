@@ -1,0 +1,21 @@
+AC   P42417;
+Minor myo-inositol transporter iolF.
+"Cloning and nucleotide sequencing of a 15 kb region of the Bacillus
+subtilis genome containing the iol operon.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Bacillus subtilis inositol dehydrogenase-encoding gene (idh):
+sequence and expression in Escherichia coli.";
+"Identification of two myo-inositol transporter genes of Bacillus
+subtilis.";
+-!- FUNCTION: Minor myo-inositol uptake transporter.
+-!- PATHWAY: Carbohydrate metabolism; myo-inositol degradation.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- MISCELLANEOUS: The growth-defect caused by the iolF inactivation
+    was only observed in the iolT-null background.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Membrane; Sugar transport; Transmembrane;
+Transport.
+TMELEVEN

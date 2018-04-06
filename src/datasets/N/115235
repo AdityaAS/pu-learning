@@ -1,0 +1,9 @@
+AC   P92483;
+NADH-ubiquinone oxidoreductase chain 4L (EC 1.6.5.3) (NADH
+dehydrogenase subunit 4L).
+"The complete mitochondrial DNA (mtDNA) of the donkey and mtDNA
+comparisons among four closely related mammalian species-pairs.";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SIMILARITY: Belongs to the complex I subunit 4L family.
+Mitochondrion; NAD; Oxidoreductase; Ubiquinone.
+TMZERO

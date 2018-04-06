@@ -1,0 +1,33 @@
+AC   Q8NET8; Q8NDW7; Q8NET9; Q8NFH2;
+Transient receptor potential cation channel subfamily V member 3
+(TrpV3) (Vanilloid receptor-like 3) (VRL-3).
+"TRPV3 is a temperature-sensitive vanilloid receptor-like protein.";
+"TRPV3 is a calcium-permeable temperature-sensitive cation channel.";
+"Human TRPV3, a new member of the vanilloid receptor family.";
+-!- FUNCTION: Putative receptor-activated non-selective calcium
+    permeant cation channel. It is activated by innocuous (warm)
+    temperatures and shows an increased response at noxious
+    temperatures greater than 39 degrees Celsius. Activation exhibits
+    an outward rectification. May associate with TRPV1 and may
+    modulate its activity.
+-!- SUBUNIT: May form a heteromeric channel with TRPV1. Interacts with
+    TRPV1.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q8NET8-1; Sequence=Displayed;
+    Name=2; Synonyms=A;
+      IsoId=Q8NET8-2; Sequence=VSP_013433;
+    Name=3; Synonyms=B;
+      IsoId=Q8NET8-3; Sequence=VSP_013434, VSP_013435;
+-!- TISSUE SPECIFICITY: Abundantly expressed in CNS. Widely expressed
+    at low levels. Detected in dorsal root ganglion (at protein
+    level).
+-!- SIMILARITY: Belongs to the transient receptor family. TrpV
+    subfamily.
+-!- SIMILARITY: Contains 3 ANK repeats.
+Alternative splicing; ANK repeat; Calcium; Calcium channel;
+Calcium transport; Ion transport; Ionic channel; Membrane; Repeat;
+Transmembrane; Transport.
+TMSIX

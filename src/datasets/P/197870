@@ -1,0 +1,25 @@
+AC   P69823; P39302;
+Ascorbate-specific phosphotransferase enzyme IIB component
+(EC 2.7.1.69) (Ascorbate-specific PTS system EIIB component).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active-
+    transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in ascorbate transport (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- INDUCTION: Induced by L-ascorbate. Repressed by ulaR (By
+    similarity).
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-2 domain.
+Complete proteome; Phosphorylation; Phosphotransferase system;
+Transferase; Transport.
+TMZERO

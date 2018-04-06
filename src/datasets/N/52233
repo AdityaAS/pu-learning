@@ -1,0 +1,11 @@
+AC   Q89AH0;
+Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39) (MCT).
+"Reductive genome evolution in Buchnera aphidicola.";
+-!- CATALYTIC ACTIVITY: Malonyl-CoA + [acyl-carrier-protein] = CoA +
+    malonyl-[acyl-carrier-protein].
+-!- PATHWAY: Fatty acid biosynthesis.
+-!- SIMILARITY: Belongs to the fabD family.
+ GO:0004314; F:[acyl-carrier-protein] S-malonyltransferase...; IEA:EC.
+Complete proteome; Fatty acid biosynthesis; Lipid synthesis;
+Transferase.
+TMZERO

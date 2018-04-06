@@ -1,0 +1,18 @@
+AC   P01549;
+Macromomycin precursor (MCR) (Auromomycin apoprotein).
+"Nucleotide sequence of the macromomycin apoprotein gene and its
+expression in Streptomyces macromomyceticus.";
+"Primary structure of macromomycin, an antitumor antibiotic protein.";
+"Amino terminal amino acid sequence of macromomycin, a protein
+antitumor antibiotic.";
+"Crystal structure analysis of auromomycin apoprotein (macromomycin)
+shows importance of protein side chains to chromophore binding
+selectivity.";
+-!- FUNCTION: Binds non-covalently to a chromophore which is the
+    cytotoxic and mutagenic component of the antibiotic. The
+    chromophore binds to DNA as a weak intercalator and causes single-
+    and double-strand breaks.
+-!- SIMILARITY: Belongs to the neocarzinostatin family.
+3D-structure; Antibiotic; Antimicrobial; Direct protein sequencing;
+DNA-binding; Signal.
+TMZERO

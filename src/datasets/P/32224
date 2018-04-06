@@ -1,0 +1,29 @@
+AC   Q800R2; P56226;
+Caerin-1.1 precursor [Contains: Caerin-1.1.1; Caerin-1.1.2; Caerin-
+1.1.4].
+"Antimicrobial peptides from hylid and ranin frogs originated from a
+150-million-year-old ancestral precursor with a conserved signal
+peptide but a hypermutable antimicrobial domain.";
+"Peptides from Australian frogs. The structures of the caerins from
+Litoria caerula.";
+-!- FUNCTION: Antibacterial and antiviral peptides that adopt an alpha
+    helical conformation which can disrupt bacterial membranes. Each
+    caerin displays a different antimicrobial specificity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Secreted by the skin parotoid and/or rostral
+    glands.
+-!- DOMAIN: Contains two amphipathic alpha helix regions separated by
+    a region of less-defined helicity and greater flexibility.
+-!- PTM: The major product is Caerin-1.1; in addition, different
+    peptides are produced that are missing some amino acid residues at
+    the N-terminus or C-terminus. Caerin-1.1.1 and Caerin-1.1.4 are
+    inactive.
+-!- MASS SPECTROMETRY: MW=2582; METHOD=FAB; RANGE=50-74; NOTE=Ref.2.
+-!- MASS SPECTROMETRY: MW=2412; METHOD=FAB; RANGE=52-74; NOTE=Ref.2.
+-!- MASS SPECTROMETRY: MW=2299; METHOD=FAB; RANGE=53-74; NOTE=Ref.2.
+-!- MASS SPECTROMETRY: MW=2333; METHOD=FAB; RANGE=50-72; NOTE=Ref.2.
+-!- SIMILARITY: Belongs to the frog skin active peptide (FSAP) family.
+    Caerin subfamily.
+Amidation; Amphibian defense peptide; Antibiotic; Antimicrobial;
+Antiviral defense; Direct protein sequencing; Signal.
+TMZERO

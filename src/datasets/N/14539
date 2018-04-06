@@ -1,0 +1,20 @@
+AC   P06290;
+ATP synthase B chain (EC 3.6.3.14) (ATPase subunit I).
+"The complete nucleotide sequence of the tobacco chloroplast genome:
+its gene organization and expression.";
+"Occurrence of silent RNA editing in chloroplasts: its species
+specificity and the influence of environmental and developmental
+conditions.";
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a, b and c.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; single-pass membrane protein.
+-!- RNA EDITING: Modified_positions=31.
+-!- SIMILARITY: Belongs to the ATPase B chain family.
+CF(0); Chloroplast; Hydrogen ion transport; Ion transport; Membrane;
+Plastid; RNA editing; Transmembrane; Transport.
+TMONE

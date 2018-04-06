@@ -1,0 +1,18 @@
+AC   Q12198;
+Putative cystathionine gamma-synthase YLL058W (EC 2.5.1.48) (O-
+succinylhomoserine (thiol)-lyase).
+"Sequence of a 37 kb DNA fragment from chromosome XII of Saccharomyces
+cerevisiae including the subtelomeric region of the left arm.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: O-succinyl-L-homoserine + L-cysteine = L-
+    cystathionine + succinate.
+-!- COFACTOR: Pyridoxal phosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-methionine biosynthesis.
+-!- MISCELLANEOUS: Present with 2070 molecules/cell.
+-!- SIMILARITY: Belongs to the trans-sulfuration enzymes family. MET7
+    subfamily.
+ GO:0003962; F:cystathionine gamma-synthase activity; IEA:EC.
+Amino-acid biosynthesis; Complete proteome; Methionine biosynthesis;
+Pyridoxal phosphate; Transferase.
+TMZERO

@@ -1,0 +1,16 @@
+AC   P32026;
+Flower-specific gamma-thionin precursor.
+"A flower-specific cDNA encoding a novel thionin in tobacco.";
+-!- FUNCTION: Involved in floral organogenesis. May play a protective
+    role in flowers by protecting the reproductive organs from
+    potential pathogen attack.
+-!- SUBCELLULAR LOCATION: Cell wall (Potential). Vacuole (Potential).
+    Note=Possibly the cell wall or vacuole.
+-!- TISSUE SPECIFICITY: Flower. Found in petals, stamen and pistils,
+    but not in sepals. In particular, accumulation in a configuration
+    surrounding the inner reproductive whorls.
+-!- DEVELOPMENTAL STAGE: Accumulates in developing flowers and its
+    level drops as flowers mature.
+-!- SIMILARITY: Belongs to the plant defensin family.
+3D-structure; Plant defense; Plant toxin; Signal; Toxin; Vacuole.
+TMZERO

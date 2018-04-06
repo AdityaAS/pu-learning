@@ -1,0 +1,50 @@
+AC   Q94A76; Q9FNY5;
+Potassium channel GORK (Guard cell outward rectifying K(+) channel)
+(AtGORK).
+"GORK, a delayed outward rectifier expressed in guard cells of
+Arabidopsis thaliana, is a K(+)-selective, K(+)-sensing ion channel.";
+"Sequence and analysis of chromosome 5 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"K(+) channel profile and electrical properties of Arabidopsis root
+hairs.";
+"Phylogenetic relationships within cation transporter families of
+Arabidopsis.";
+"The Arabidopsis outward K(+) channel GORK is involved in regulation
+of stomatal movements and plant transpiration.";
+"Regulation of the ABA-sensitive Arabidopsis potassium channel gene
+GORK in response to water stress.";
+-!- FUNCTION: Major selective outward-rectifying potassium channel of
+    the guard cell membrane. Involved in regulation of stomatal
+    movements according to the water status. Assuming opened or closed
+    conformations in response to the voltage difference across the
+    membrane, the channel is activated by depolarization. Conductance
+    of the channel is modulated in a potassium-dependent fashion. May
+    interact with the cytoskeleton or with regulatory proteins.
+-!- SUBUNIT: The potassium channel is probably composed of a homo- or
+    heterotetrameric complex of pore-forming subunits (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in guard cell-containing tissues, in
+    root epidermal cells and in root hairs. Detected in vascular cells
+    of the root and shoot.
+-!- INDUCTION: Up-regulated under drought, salt stress and cold
+    conditions. Induced by abscisic acid (ABA) treatment in roots and
+    shoots but not in guard cells.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids. The
+    pore-forming region H5 is enclosed by the transmembrane segments
+    S5 and S6 in the Shaker-type (1P/6TM) and contains the GYGD
+    signature motif which seems to be involved in potassium
+    selectivity.
+-!- DOMAIN: The KHA domain (rich in hydrophobic and acidic residues)
+    present in the C-terminal part is likely to be important for
+    tetramerization.
+-!- SIMILARITY: Belongs to the potassium channel (TC 1.A.1.4) family.
+-!- SIMILARITY: Contains 6 ANK repeats.
+-!- SIMILARITY: Contains 1 cyclic nucleotide-binding domain.
+-!- SIMILARITY: Contains 1 KHA domain.
+ANK repeat; Ion transport; Ionic channel; Membrane; Potassium;
+Potassium channel; Potassium transport; Repeat; Transmembrane;
+Transport; Voltage-gated channel.
+TMSIX

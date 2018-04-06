@@ -1,0 +1,17 @@
+AC   P0A2V2; P35117;
+Octopine permease ATP-binding protein P.
+"Characterization of a putative periplasmic transport system for
+octopine accumulation encoded by Agrobacterium tumefaciens Ti plasmid
+pTiA6.";
+"Opine transport genes in the octopine (occ) and nopaline (noc)
+catabolic regions in Ti plasmids of Agrobacterium tumefaciens.";
+-!- FUNCTION: Component of the octopine active transport system
+    probably consisting of four subunits: Q, M, P and T.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- INDUCTION: By octopine.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Inner membrane; Membrane; Nucleotide-binding; Plasmid;
+Transport.
+TMZERO

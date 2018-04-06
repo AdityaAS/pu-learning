@@ -1,0 +1,19 @@
+AC   Q4ZUD2;
+Urease alpha subunit 1 (EC 3.5.1.5) (Urea amidohydrolase alpha subunit
+1).
+"Comparison of the complete genome sequences of Pseudomonas syringae
+pv. syringae B728a and pv. tomato DC3000.";
+-!- CATALYTIC ACTIVITY: Urea + H(2)O = CO(2) + 2 NH(3).
+-!- COFACTOR: Binds 2 nickel ions per subunit (By similarity).
+-!- PATHWAY: Nitrogen metabolism; urea degradation; CO(2) and NH(3)
+    from urea (urease route): single step [final step].
+-!- SUBUNIT: May form a heterohexamer of 3 ureC (alpha) and 3 ureAB
+    (gamma/beta) subunits. May also form a heterotrimer of ureA
+    (gamma), ureB (beta) and ureC (alpha) subunits. Three
+    heterotrimers associate to form the active enzyme (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- PTM: Carbamylation allows a single lysine to coordinate two nickel
+    ions (By similarity).
+-!- SIMILARITY: Belongs to the urease family.
+Complete proteome; Hydrolase; Metal-binding; Nickel.
+TMZERO

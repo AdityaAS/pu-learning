@@ -1,0 +1,19 @@
+AC   Q03770;
+Amino-acid permease SSY1.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Mutations in five loci affecting GAP1-independent uptake of neutral
+amino acids in yeast.";
+"Genetic and biochemical analysis of the yeast plasma membrane Ssy1p-
+Ptr3p-Ssy5p sensor of extracellular amino acids.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in amino acid uptake.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0016597; F:amino acid binding; IGI:SGD.
+ GO:0007606; P:sensory perception of chemical stimulus; IGI:SGD.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTWELVE

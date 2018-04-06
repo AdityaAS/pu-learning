@@ -1,0 +1,16 @@
+AC   P58344;
+Electron transport complex protein rnfE.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: May be part of a membrane complex involved in electron
+    transport (By similarity).
+-!- SUBUNIT: Composed of at least six subunits; rnfA, rnfB, rnfC,
+    rnfD, rnfE and rnfG (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the nqrDE/rnfAE family.
+ GO:0009399; P:nitrogen fixation; IEA:HAMAP.
+Complete proteome; Electron transport; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMFIVE

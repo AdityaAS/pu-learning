@@ -1,0 +1,14 @@
+AC   P0A4F9; P35121;
+Octopine-binding periplasmic protein precursor.
+"Catabolism of the guanidino compounds nopaline, octopine, and L-
+arginine in Agrobacterium tumefaciens: enzymes, genes, and
+regulation.";
+-!- FUNCTION: Component of the octopine active transport system
+    probably consisting of four subunits: Q, M, P and T (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- INDUCTION: By octopine (By similarity).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Periplasmic; Plasmid; Signal; Transport.
+TMZERO

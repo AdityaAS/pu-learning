@@ -1,0 +1,36 @@
+AC   P02929; P76831; P94719; P94722; P94726; P94728; P94732; P94736;
+AC   P94739; P97239;
+Protein tonB.
+"DNA sequence of the Escherichia coli tonB gene.";
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Analysis of Escherichia coli TonB membrane topology by use of PhoA
+fusions.";
+"A sequence-specific function for the N-terminal signal-like sequence
+of the TonB protein.";
+"Crystal structure of the dimeric C-terminal domain of TonB reveals a
+novel fold.";
+-!- FUNCTION: Interacts with outer membrane receptor proteins that
+    carry out high-affinity binding and energy dependent uptake into
+    the periplasmic space of specific substrates such as cobalamin,
+    and various iron compounds (such as iron dicitrate, enterochelin,
+    aerobactin, etc.). In the absence of tonB these receptors bind
+    their substrates but do not carry out active transport. TonB also
+    interacts with some colicins and is involved in the energy-
+    dependent, irreversible steps of bacteriophages phi 80 and T1
+    infection. It could act to transduce energy from the cytoplasmic
+    membrane to specific energy-requiring processes in the outer
+    membrane, resulting in the release into the periplasm of ligands
+    bound by these outer membrane proteins.
+-!- SUBUNIT: Homodimer. Forms a complex with the accessory proteins
+    exbB and exbD.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein; periplasmic side.
+-!- SIMILARITY: Belongs to the tonB family.
+3D-structure; Bacteriocin transport; Complete proteome;
+Inner membrane; Membrane; Periplasmic; Phage recognition;
+Protein transport; Repeat; Signal-anchor; Transmembrane; Transport.
+TMONE

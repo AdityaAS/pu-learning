@@ -1,0 +1,13 @@
+AC   Q9PBC2;
+Histidyl-tRNA synthetase (EC 6.1.1.21) (Histidine--tRNA ligase)
+(HisRS).
+"The genome sequence of the plant pathogen Xylella fastidiosa.";
+-!- CATALYTIC ACTIVITY: ATP + L-histidine + tRNA(His) = AMP +
+    diphosphate + L-histidyl-tRNA(His).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

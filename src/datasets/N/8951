@@ -1,0 +1,16 @@
+AC   Q8BXL7;
+ARF-related protein 1.
+"Embryonic lethality caused by apoptosis during gastrulation in mice
+lacking the gene of the ADP-ribosylation factor-related protein 1.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Possibly involved in plasma membrane-related signaling
+    events (By similarity).
+-!- SUBUNIT: Interacts with SYS1 (By similarity).
+-!- SUBCELLULAR LOCATION: Golgi apparatus (By similarity).
+-!- SIMILARITY: Belongs to the small GTPase superfamily. Arf family.
+ GO:0005624; C:membrane fraction; IDA:MGI.
+ GO:0007369; P:gastrulation; IMP:MGI.
+Golgi apparatus; GTP-binding; Nucleotide-binding.
+TMZERO

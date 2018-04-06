@@ -1,0 +1,31 @@
+AC   Q16820; Q670J1;
+Meprin A subunit beta precursor (EC 3.4.24.18) (Endopeptidase-2) (N-
+benzoyl-L-tyrosyl-P-amino-benzoic acid hydrolase subunit beta) (PABA
+peptide hydrolase) (PPH beta).
+"Polarised expression of human intestinal N-benzoyl-L-tyrosyl-p-
+aminobenzoic acid hydrolase (human meprin) alpha and beta subunits in
+Madin-Darby canine kidney cells.";
+"Expression of human meprin beta.";
+"Cloning of the PABA peptide hydrolase alpha subunit (PPH alpha) from
+human small intestine and its expression in COS-1 cells.";
+-!- CATALYTIC ACTIVITY: Hydrolysis of protein and peptide substrates
+    preferentially on carboxyl side of hydrophobic residues.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Homotetramer of alpha or beta subunits; heterotetramer of
+    two alpha and two beta subunits are formed by non-covalent
+    association of two disulfide-linked heterodimers (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- SIMILARITY: Belongs to the peptidase M12A family.
+-!- SIMILARITY: Contains 1 EGF-like domain.
+-!- SIMILARITY: Contains 1 MAM domain.
+-!- SIMILARITY: Contains 1 MATH domain.
+ GO:0005615; C:extracellular space; TAS:ProtInc.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0008270; F:zinc ion binding; TAS:ProtInc.
+ GO:0007586; P:digestion; TAS:ProtInc.
+Direct protein sequencing; EGF-like domain; Glycoprotein; Hydrolase;
+Membrane; Metal-binding; Metalloprotease; Protease; Signal;
+Transmembrane; Zinc; Zymogen.
+TMONE

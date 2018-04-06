@@ -1,0 +1,13 @@
+AC   P44308;
+Transcriptional regulator nadR.
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- FUNCTION: NadR is bifunctional; it interacts with pnuC at low
+    internal NAD levels, permitting transport of NMN intact into the
+    cell. As NAD levels increase within the cell, the affinity of nadR
+    for the operator regions of some genes increases, repressing the
+    transcription of these genes (By similarity).
+3D-structure; Complete proteome; DNA-binding; NAD;
+Pyridine nucleotide biosynthesis; Repressor; Transcription;
+Transcription regulation; Transport.
+TMZERO

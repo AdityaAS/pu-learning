@@ -1,0 +1,15 @@
+AC   Q49XE2;
+Large-conductance mechanosensitive channel.
+"Whole genome sequence of Staphylococcus saprophyticus reveals the
+pathogenesis of uncomplicated urinary tract infection.";
+-!- FUNCTION: Channel that opens in response to stretch forces in the
+    membrane lipid bilayer. May participate in the regulation of
+    osmotic pressure changes within the cell (By similarity).
+-!- SUBUNIT: Homopentamer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the mscL family.
+ GO:0015267; F:channel or pore class transporter activity; IEA:HAMAP.
+Complete proteome; Ion transport; Ionic channel; Membrane;
+Transmembrane; Transport.
+THTHREE

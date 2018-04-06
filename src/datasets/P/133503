@@ -1,0 +1,21 @@
+AC   P09193; P73749;
+Photosystem II 44 kDa reaction center protein (P6 protein) (CP43).
+"Nucleotide sequence of psbC, the gene encoding the CP-43 chlorophyll
+a-binding protein of photosystem II, in the cyanobacterium
+Synechocystis 6803.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+"Molecular analysis of a mutant defective in photosynthetic oxygen
+evolution and isolation of a complementing clone by a novel screening
+procedure.";
+-!- FUNCTION: The 43 kDa protein (p6) is a component of the core of
+    photosystem II. It is a chlorophyll binding protein.
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; multi-pass
+    membrane protein.
+-!- SIMILARITY: Belongs to the psbB/psbC family. PsbC subfamily.
+ GO:0030096; C:photosystem II (sensu Cyanobacteria); IDA:UniProtKB.
+ GO:0015979; P:photosynthesis; NAS:UniProtKB.
+Chlorophyll; Chromophore; Complete proteome; Membrane; Photosynthesis;
+Photosystem II; Thylakoid; Transmembrane.
+TMSEVEN

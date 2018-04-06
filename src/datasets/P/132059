@@ -1,0 +1,26 @@
+AC   P0C0L7; P30848; Q2M6J3;
+Proline/betaine transporter (Proline porter II) (PPII).
+"Isolation and sequencing of Escherichia coli gene proP reveals
+unusual structural features of the osmoregulatory proline/betaine
+transporter, ProP.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Solution structure of the C-terminal antiparallel coiled-coil domain
+from Escherichia coli osmosensor ProP.";
+-!- FUNCTION: Proton symporter that senses osmotic shifts and responds
+    by importing osmolytes such as proline, glycine betaine,
+    stachydrine, pipecolic acid, ectoine and taurine. It is both an
+    osmosensor and an osmoregulator which is available to participate
+    early in the bacterial osmoregulatory response.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+3D-structure; Coiled coil; Complete proteome; Inner membrane;
+Membrane; Symport; Transmembrane; Transport.
+TMTWELVE

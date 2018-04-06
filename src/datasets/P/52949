@@ -1,0 +1,18 @@
+AC   P06970;
+Outer membrane usher protein faeD precursor.
+"Regulation and structure of an Escherichia coli gene coding for an
+outer membrane protein involved in export of K88ab fimbrial
+subunits.";
+"Subcellular localization and topology of the K88 usher FaeD in
+Escherichia coli.";
+"Structure and function of periplasmic chaperone-like proteins
+involved in the biosynthesis of K88 and K99 fimbriae in
+enterotoxigenic Escherichia coli.";
+-!- FUNCTION: Involved in the export and assembly of K88ab fimbrial
+    subunits across the outer membrane.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the fimbrial export usher family.
+Fimbria; Membrane; Outer membrane; Plasmid; Signal; Transmembrane;
+Transport.
+TMZERO

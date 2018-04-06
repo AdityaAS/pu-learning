@@ -1,0 +1,36 @@
+AC   P23975;
+Sodium-dependent noradrenaline transporter (Norepinephrine
+transporter) (NET).
+"Expression cloning of a cocaine- and antidepressant-sensitive human
+noradrenaline transporter.";
+"Molecular cloning and organization of the coding region of the human
+norepinephrine transporter gene.";
+"Functional interaction between monoamine plasma membrane transporters
+and the synaptic PDZ domain-containing protein PICK1.";
+"Orthostatic intolerance and tachycardia associated with
+norepinephrine-transporter deficiency.";
+-!- FUNCTION: Amine transporter. Terminates the action of
+    noradrenaline by its high affinity sodium-dependent reuptake into
+    presynaptic terminals.
+-!- SUBUNIT: Interacts with PRKCABP.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DISEASE: Defects in SLC6A2 are a cause of orthostatic intolerance
+    (OI) [MIM:604715]. OI is a syndrome characterized by
+    lightheadedness, fatigue, altered mentation and syncope. It is
+    associated with postural tachycardia. Plasma norepinephrine
+    concentration is abnormally high.
+-!- MISCELLANEOUS: This protein is the target of psychomotor
+    stimulants such as amphetamines or cocaine.
+-!- SIMILARITY: Belongs to the sodium:neurotransmitter symporter (SNF)
+    family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0008504; F:monoamine transporter activity; IDA:MGI.
+ GO:0005334; F:norephinephrine:sodium symporter activity; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:UniProtKB.
+ GO:0015844; P:monoamine transport; IDA:MGI.
+ GO:0007268; P:synaptic transmission; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Disease mutation; Glycoprotein; Membrane; Neurotransmitter transport;
+Polymorphism; Symport; Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,23 @@
+AC   Q46L21;
+N-acetylmuramic acid 6-phosphate etherase (EC 4.2.-.-) (MurNAc-6-P
+etherase).
+"Complete sequence of Prochlorococcus marinus str. NATL2A.";
+-!- FUNCTION: Specifically catalyzes the cleavage of the D-lactyl
+    ether substituent of MurNAc 6-phosphate, producing GlcNAc 6-
+    phosphate and D-lactate (By similarity).
+-!- CATALYTIC ACTIVITY: N-acetylmuramic acid 6-phosphate + H(2)O = N-
+    acetyl-D-glucosamine 6-phosphate + D-lactate.
+-!- PATHWAY: Carbohydrate metabolism; N-acetylmuramic acid
+    degradation.
+-!- MISCELLANEOUS: A lyase-type mechanism (beta-elimination/hydration)
+    is suggested for the cleavage of the lactyl ether bond of MurNAc
+    6-phosphate, with the formation of a 2,3-unsaturated sugar
+    intermediate, delta2,3-GlcNAc-6P (By similarity).
+-!- SIMILARITY: Belongs to the GCKR-like family. MurNAc-6-P etherase
+    subfamily.
+-!- SIMILARITY: Contains 1 SIS domain.
+ GO:0016835; F:carbon-oxygen lyase activity; IEA:HAMAP.
+ GO:0006040; P:amino sugar metabolism; IEA:HAMAP.
+ GO:0009254; P:peptidoglycan turnover; IEA:HAMAP.
+Carbohydrate metabolism; Complete proteome; Lyase.
+TMZERO

@@ -1,0 +1,32 @@
+AC   P05825; P75722; P76821; P77093;
+Ferrienterobactin receptor precursor (Enterobactin outer-membrane
+receptor).
+"Nucleotide sequence of the gene for the ferrienterochelin receptor
+FepA in Escherichia coli. Homology among outer membrane receptors that
+interact with TonB.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Transcriptional mapping and nucleotide sequence of the Escherichia
+coli fepA-fes enterobactin region. Identification of a unique iron-
+regulated bidirectional promoter.";
+"The Escherichia coli enterobactin biosynthesis gene, entD: nucleotide
+sequence and membrane localization of its protein product.";
+"Molecular analysis of the Escherichia coli ferric enterobactin
+receptor FepA.";
+"Crystal structure of the outer membrane active transporter FepA from
+Escherichia coli.";
+-!- FUNCTION: This protein is involved in the initial step of iron
+    uptake by binding ferrienterobactin (Fe-ENT), an iron chelatin
+    siderophore that allows E.coli to extract iron from the
+    environment. FepA also acts as a receptor for colicins B and D.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+3D-structure; Complete proteome; Ion transport; Iron; Iron transport;
+Membrane; Outer membrane; Receptor; Signal; TonB box; Transmembrane;
+Transport.
+TMZERO

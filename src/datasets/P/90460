@@ -1,0 +1,24 @@
+AC   Q61168; Q60923;
+Lysosomal-associated transmembrane protein 5 (Lysosomal-associated
+multitransmembrane protein 5) (Retinoic acid-inducible E3 protein).
+"LAPTM5: a novel lysosomal-associated multispanning membrane protein
+preferentially expressed in hematopoietic cells.";
+"E3, a hematopoietic-specific transcript directly regulated by the
+retinoic acid receptor alpha.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May have a special functional role during embryogenesis
+    and in adult hematopoietic cells.
+-!- SUBUNIT: Binds to ubiquitin.
+-!- SUBCELLULAR LOCATION: Lysosome; lysosomal membrane; multi-pass
+    membrane protein.
+-!- TISSUE SPECIFICITY: Preferentially expressed in adult
+    hematopoietic tissues. High levels in lymphoid and myeloid
+    tissues.
+-!- DEVELOPMENTAL STAGE: During embryonic development it is expressed
+    in both hematopoietic and nonhematopoietic tissues.
+-!- INDUCTION: By retinoic acid. Likely target of the activated
+    retinoic acid receptor alpha.
+-!- SIMILARITY: Belongs to the LAPTM4/LAPTM5 transporter family.
+Lysosome; Membrane; Transmembrane; Transport.
+TMFIVE

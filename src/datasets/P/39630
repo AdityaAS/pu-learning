@@ -1,0 +1,14 @@
+AC   Q01857;
+C4-dicarboxylate transport protein.
+-!- FUNCTION: Responsible for the transport of dicarboxylates such as
+    succinate, fumarate, and malate from the periplasm across the
+    inner membrane. This transport system plays an important role in
+    the energy supply of rhizobium-legume symbionts (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the sodium:dicarboxylate (SDF) symporter
+    (TC 2.A.23) family.
+ GO:0015293; F:symporter activity; IEA:HAMAP.
+Inner membrane; Membrane; Sugar transport; Symport; Transmembrane;
+Transport.
+TMNINE

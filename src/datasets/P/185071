@@ -1,0 +1,17 @@
+AC   P69424; P27857; P27858; P76765; P76766;
+Sec-independent protein translocase protein tatC.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Required for correct localization of precursor proteins
+    bearing signal peptides with the twin arginine conserved motif
+    S/T-R-R-X-F-L-K. This sec-independent pathway is termed TAT for
+    twin-arginine translocation system. This system mainly transports
+    proteins with bound cofactors that require folding prior to export
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the tatC family.
+Complete proteome; Inner membrane; Membrane; Protein transport;
+Translocation; Transmembrane; Transport.
+TMSIX

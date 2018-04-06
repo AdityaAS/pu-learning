@@ -1,0 +1,40 @@
+AC   Q8R2E9;
+ERO1-like protein beta precursor (EC 1.8.4.-) (ERO1-Lbeta)
+(Oxidoreductin-1-Lbeta) (Endoplasmic oxidoreductin-1-like protein B).
+"Cloning of the two forms of Ero1, alpha and beta and their regulation
+in cultured thyrocytes.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Essential oxidoreductase that oxidizes proteins in the
+    endoplasmic reticulum to produce disulfide bonds. Acts by
+    oxidizing directly P4HB/PDI isomerase through a direct disulfide
+    exchange. Does not act as a direct oxidant of folding substrate,
+    but relies on P4HB/PDI to transfer oxidizing equivalent.
+    Associates with TXNDC4 but not with GRP54, demonstrating that it
+    does not oxidize all PDI related proteins and can discriminate
+    between PDI and related proteins. Its reoxidation probably
+    involves electron transfer to molecular oxygen via FAD. Acts
+    independently of glutathione. May be responsible for a significant
+    proportion of reactive oxygen species (ROS) in the being a source
+    of oxidative stress. Required for the folding of cell, thereby
+    being a source of oxidative stress (By similarity).
+-!- COFACTOR: FAD (By similarity).
+-!- ENZYME REGULATION: Glutathione may be required to regulate its
+    activity in the endoplasmic reticulum (By similarity).
+-!- SUBUNIT: May function both as a monomer and a homodimer (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; peripheral membrane protein; lumenal side (By
+    similarity). Note=The association with TXNDC4 may be essential for
+    its retention in the endoplasmic reticulum (By similarity).
+-!- PTM: N-glycosylated (By similarity).
+-!- PTM: The Cys-90/Cys-95 and Cys-393/Cys-396 disulfide bonds
+    constitute the redox-active center. The Cys-90/Cys-95 disulfide
+    bond may accept electron from P4HB and funnel them to the active
+    site disulfide Cys-393/Cys-396 (By similarity).
+-!- SIMILARITY: Belongs to the EROs family.
+Electron transport; Endoplasmic reticulum; FAD; Flavoprotein;
+Glycoprotein; Membrane; Oxidoreductase; Redox-active center; Signal;
+Transport.
+TMZERO

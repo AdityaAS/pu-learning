@@ -1,0 +1,7 @@
+AC   Q10313; Q7Z990;
+Hypothetical protein C17G8.01c in chromosome I.
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- SIMILARITY: To fungal tRNA ligases.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+Complete proteome; Hypothetical protein; Ligase; tRNA processing.
+TMZERO

@@ -1,0 +1,17 @@
+AC   P42964; P42965; P94436;
+Hypothetical protein ycsG.
+"Determination of a 17,484 bp nucleotide sequence around the 39
+degrees region of the Bacillus subtilis chromosome and similarity
+analysis of the products of putative ORFs.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"The 25 degrees-36 degrees region of the Bacillus subtilis chromosome:
+determination of the sequence of a 146 kb segment and identification
+of 113 genes.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the braC/braZ/brnQ transporter family.
+-!- CAUTION: Ref.1 (BAA07358) sequence differs from that shown due to
+    several frameshifts.
+Complete proteome; Hypothetical protein; Membrane; Transmembrane.
+TMELEVEN

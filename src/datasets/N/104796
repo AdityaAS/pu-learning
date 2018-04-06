@@ -1,0 +1,16 @@
+AC   P34721;
+Modification methylase MboIB (EC 2.1.1.72) (Adenine-specific
+methyltransferase MboIB) (M.MboIB) (M.MboI C).
+"Gene structure and expression of the MboI restriction-modification
+system.";
+-!- FUNCTION: This methylase recognizes the double-stranded sequence
+    GATC, causes specific methylation on A-2 on both strands, and
+    protects the DNA from cleavage by the MboI endonuclease.
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + DNA adenine = S-
+    adenosyl-L-homocysteine + DNA 6-methylaminopurine.
+-!- MISCELLANEOUS: The MboI restriction system has two different
+    methylases.
+-!- SIMILARITY: Belongs to the N4/N6-methyltransferase family.
+ GO:0009007; F:site-specific DNA-methyltransferase (adenin...; IEA:EC.
+Methyltransferase; Restriction system; Transferase.
+TMZERO

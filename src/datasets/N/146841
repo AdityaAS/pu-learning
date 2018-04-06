@@ -1,0 +1,11 @@
+AC   P21586;
+Rathke gland glycoprotein (Fragment).
+"Glycoproteins in Rathke's gland secretions of loggerhead (Caretta
+caretta) and Kemp's ridley (Lepidochelys kempi) sea turtles.";
+-!- FUNCTION: Rathke gland secretions may function as pheromones, as
+    predator repellents, or contribute to the maintenance of the
+    turtle shell.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- PTM: Glycosylated.
+Direct protein sequencing; Glycoprotein.
+TMZERO

@@ -1,0 +1,26 @@
+AC   P28327;
+Rhodopsin kinase precursor (EC 2.7.11.14) (RK) (G protein-coupled
+receptor kinase 1).
+"The receptor kinase family: primary structure of rhodopsin kinase
+reveals similarities to the beta-adrenergic receptor kinase.";
+"Isoprenylation of a protein kinase. Requirement of
+farnesylation/alpha-carboxyl methylation for full enzymatic activity
+of rhodopsin kinase.";
+"Identification of the autophosphorylation sites in rhodopsin
+kinase.";
+-!- FUNCTION: Phosphorylates rhodopsin thereby initiating its
+    deactivation.
+-!- CATALYTIC ACTIVITY: ATP + [rhodopsin] = ADP + [rhodopsin]
+    phosphate.
+-!- SUBCELLULAR LOCATION: Membrane; lipid-anchor.
+-!- TISSUE SPECIFICITY: Retina and pineal gland.
+-!- PTM: Autophosphorylated.
+-!- PTM: Farnesylation is required for full activity.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. GPRK
+    subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+-!- SIMILARITY: Contains 1 RGS domain.
+ATP-binding; Direct protein sequencing; Kinase; Lipoprotein; Membrane;
+Methylation; Nucleotide-binding; Phosphorylation; Prenylation;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

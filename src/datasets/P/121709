@@ -1,0 +1,26 @@
+AC   P07110; Q8RNL0;
+Outer membrane usher protein papC precursor.
+"Nucleotide sequence, regulation and functional analysis of the papC
+gene required for cell surface localization of Pap pili of
+uropathogenic Escherichia coli.";
+"Horizontal gene transfer of the Escherichia coli pap and prs pili
+operons as a mechanism for the development of tissue-specific adhesive
+properties.";
+"Bacterial outer membrane ushers contain distinct targeting and
+assembly domains for pilus biogenesis.";
+"PapD, a periplasmic transport protein in P-pilus biogenesis.";
+"Chaperone-assisted self-assembly of pili independent of cellular
+energy.";
+"The PapC usher forms an oligomeric channel: implications for pilus
+biogenesis across the outer membrane.";
+-!- FUNCTION: Involved in the export and assembly of pili subunits
+    across the outer membrane. Forms a hexameric ring-shaped pore in
+    the outer bacterial membrane. The 2 nanometer-diameter pore allows
+    the passage of the thin tip fibrillum. As for the rod, it probably
+    unwinds into linear fibers which would therefore be narrow enough
+    to pass through the pore.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the fimbrial export usher family.
+Fimbria; Membrane; Outer membrane; Signal; Transmembrane; Transport.
+TMZERO

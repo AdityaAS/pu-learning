@@ -1,0 +1,50 @@
+AC   P08839;
+Phosphoenolpyruvate-protein phosphotransferase (EC 2.7.3.9)
+(Phosphotransferase system, enzyme I).
+"The ptsH, ptsI, and crr genes of the Escherichia coli
+phosphoenolpyruvate-dependent phosphotransferase system: a complex
+operon with several modes of transcription.";
+"Sugar transport by the bacterial phosphotransferase system. Molecular
+cloning and structural analysis of the Escherichia coli ptsH, ptsI,
+and crr genes.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Analysis of the ptsH-ptsI-crr region in Escherichia coli K-12:
+nucleotide sequence of the ptsH gene.";
+"DNA sequences of the cysK regions of Salmonella typhimurium and
+Escherichia coli and linkage of the cysK regions to ptsH.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"The first step in sugar transport: crystal structure of the amino
+terminal domain of enzyme I of the E. coli PEP: sugar
+phosphotransferase system and a model of the phosphotransfer complex
+with HPr.";
+"Solution structure of the 30 kDa N-terminal domain of enzyme I of the
+Escherichia coli phosphoenolpyruvate:sugar phosphotransferase system
+by multidimensional NMR.";
+"Tautomeric state and pKa of the phosphorylated active site histidine
+in the N-terminal domain of enzyme I of the Escherichia coli
+phosphoenolpyruvate:sugar phosphotransferase system.";
+"Solution structure of the 40,000 Mr phosphoryl transfer complex
+between the N-terminal domain of enzyme I and HPr.";
+-!- FUNCTION: This is a component of the phosphoenolpyruvate-dependent
+    sugar phosphotransferase system (PTS), a major carbohydrate active
+    -transport system. Enzyme I transfers the phosphoryl group from
+    phosphoenolpyruvate (PEP) to the phosphoryl carrier protein (HPr).
+    Enzyme I is common to all PTS.
+-!- CATALYTIC ACTIVITY: Phosphoenolpyruvate + protein L-histidine =
+    pyruvate + protein N(pi)-phospho-L-histidine.
+-!- SUBUNIT: Homodimer.
+-!- INTERACTION:
+    P0AA04:ptsH; NbExp=1; IntAct=EBI-551533, EBI-902853;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the PEP-utilizing enzyme family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Complete proteome; Direct protein sequencing; Kinase;
+Phosphorylation; Phosphotransferase system; Sugar transport;
+Transferase; Transport.
+TMZERO

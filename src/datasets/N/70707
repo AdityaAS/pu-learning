@@ -1,0 +1,14 @@
+AC   P82112;
+Hemoglobin subunit alpha-2 (Hemoglobin alpha-2 chain) (Alpha-2-globin)
+(Hb 2).
+"Structural and functional analysis of the two haemoglobins of the
+antarctic seabird Catharacta maccormicki. Characterization of an
+additional phosphate binding site by molecular modelling.";
+-!- FUNCTION: Involved in oxygen transport from the lung to the
+    various peripheral tissues.
+-!- SUBUNIT: Heterotetramer of two alpha chains and two beta chains.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- SIMILARITY: Belongs to the globin family.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

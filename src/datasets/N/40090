@@ -1,0 +1,31 @@
+AC   Q62095; Q9QWS9;
+ATP-dependent RNA helicase DDX3Y (EC 3.6.1.-) (DEAD box protein 3, Y-
+chromosomal) (DEAD-box RNA helicase DEAD2) (mDEAD2) (D1Pas1-related
+sequence 1).
+"The mouse Y chromosome interval necessary for spermatogonial
+proliferation is gene dense with syntenic homology to the human AZFa
+region.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Mouse erythroid cells express multiple putative RNA helicase genes
+exhibiting high sequence conservation from yeast to mammals.";
+"Human DDX3Y, the Y-encoded isoform of RNA helicase DDX3, rescues a
+hamster temperature-sensitive ET24 mutant cell line with a DDX3X
+mutation.";
+-!- FUNCTION: Probable ATP-dependent RNA helicase. May play a role in
+    spermatogenesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus. Note=Shuttles between
+    the nucleus and the cytoplasm in an XPO1-dependent manner.
+-!- TISSUE SPECIFICITY: Found in heart, brain, liver, skeletal muscle,
+    kidney and testis. Low expression detected in lung. In testis,
+    expressed in all types of spermatogenic cells including
+    spermatogonia, spermatocytes, spermatids and somatic Sertoli cells
+    within the seminiferous tubules. Also expressed in Leydig cells
+    and other interstitial cells.
+-!- SIMILARITY: Belongs to the DEAD box helicase family. DDX3/DED1
+    subfamily.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ATP-binding; Helicase; Hydrolase; Nuclear protein; Nucleotide-binding;
+Phosphorylation; RNA-binding.
+TMZERO

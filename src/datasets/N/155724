@@ -1,0 +1,15 @@
+AC   Q5X446;
+Ribonuclease III (EC 3.1.26.3) (RNase III).
+"Evidence in the Legionella pneumophila genome for exploitation of
+host cell functions and high genome plasticity.";
+-!- FUNCTION: Digests double-stranded RNA. Involved in the processing
+    of ribosomal RNA precursors and of some mRNAs (By similarity).
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage to 5'-
+    phosphomonoester.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Contains 1 DRBM (double-stranded RNA-binding) domain.
+-!- SIMILARITY: Contains 1 RNase III domain.
+ GO:0006397; P:mRNA processing; IEA:HAMAP.
+ GO:0006364; P:rRNA processing; IEA:HAMAP.
+Complete proteome; Endonuclease; Hydrolase; Nuclease; RNA-binding.
+TMZERO

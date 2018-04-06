@@ -1,0 +1,21 @@
+AC   Q7ZAM3;
+Tyrosine recombinase xerD.
+"Genome sequence of Oceanobacillus iheyensis isolated from the Iheya
+Ridge and its unexpected adaptive capabilities to extreme
+environments.";
+-!- FUNCTION: Site-specific tyrosine recombinase, which acts by
+    catalyzing the cutting and rejoining of the recombining DNA
+    molecules. The xerC-xerD complex is essential to convert dimers of
+    the bacterial chromosome into monomers to permit their segregation
+    at cell division. It also contributes to the segregational
+    stability of plasmids (By similarity).
+-!- SUBUNIT: Forms a cyclic heterotetrameric complex composed of two
+    molecules of xerC and two molecules of xerD (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the "phage" integrase family. XerD type 1
+    subfamily.
+ GO:0009037; F:tyrosine-based site-specific recombinase ac...; IEA:HAMAP.
+ GO:0006313; P:transposition, DNA-mediated; IEA:HAMAP.
+Cell cycle; Cell division; Chromosome partition; Complete proteome;
+DNA integration; DNA recombination; DNA-binding.
+TMZERO

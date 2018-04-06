@@ -1,0 +1,13 @@
+AC   Q71L78;
+Photosystem II reaction center protein L (PSII-L) (PSII 5 kDa
+protein).
+"Inference of higher-order relationships in the cycads from a large
+chloroplast data set.";
+-!- FUNCTION: Not known, it is however required for PSII activity (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; single-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the psbL family.
+Chloroplast; Membrane; Photosynthesis; Photosystem II; Plastid;
+Reaction center; Thylakoid; Transmembrane.
+TMONE

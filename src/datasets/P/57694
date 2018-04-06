@@ -1,0 +1,28 @@
+AC   P0ABG4; P16457;
+Cell division protein ftsW.
+"Structural similarity among Escherichia coli FtsW and RodA proteins
+and Bacillus subtilis SpoVE protein, which function in cell division,
+cell elongation, and spore formation, respectively.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence involving murG and murC in the mra gene cluster
+region of Escherichia coli.";
+"ftsW is an essential cell-division gene in Escherichia coli.";
+"Identification of FtsW and characterization of a new ftsW division
+mutant of Escherichia coli.";
+"Two polypeptide products of the Escherichia coli cell division gene
+ftsW and a possible role for FtsW in FtsZ function.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: This is a septum-peptidoglycan biosynthetic protein,
+    involved in cell wall formation. Plays a role in the stabilization
+    of the ftsZ ring during cell division.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the ftsW/rodA/spoVE family.
+Cell cycle; Cell division; Cell shape; Cell wall; Complete proteome;
+Inner membrane; Membrane; Peptidoglycan synthesis; Transmembrane.
+TMNINE

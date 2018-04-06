@@ -1,0 +1,43 @@
+AC   O14975;
+Very-long-chain acyl-CoA synthetase (EC 6.2.1.-) (VLCS) (Very-long-
+chain-fatty-acid-CoA ligase) (VLACS) (THCA-CoA ligase) (Fatty-acid-
+coenzyme A ligase, very long-chain 1) (Long-chain-fatty-acid--CoA
+ligase) (EC 6.2.1.3) (Fatty acid transport protein 2) (FATP-2) (Solute
+carrier family 27 member 2).
+"Molecular cloning of a possible human homolog of the rat very-long-
+chain acyl-CoA synthetase cDNA and its chromosomal localization.";
+"Human very-long-chain acyl-CoA synthetase: cloning, topography, and
+relevance to branched-chain fatty acid metabolism.";
+"Participation of two members of the very long-chain acyl-CoA
+synthetase family in bile acid synthesis and recycling.";
+-!- FUNCTION: Acyl-CoA synthetase probably involved in bile acid
+    metabolism. Proposed to activate C27 precurors of bile acids to
+    their CoA thioesters derivatives before side chain cleavage via
+    peroxisomal beta-oxidation occurs. In vitro, activates 3-alpha,7-
+    alpha,12-alpha-trihydroxy-5-beta-cholestanate (THCA), the C27
+    precursor of cholic acid deriving from the de novo synthesis from
+    cholesterol. Does not utilize C24 bile acids as substrates. In
+    vitro, also activates long- and branched-chain fatty acids and may
+    have additional roles in fatty acid metabolism. May be involved in
+    translocation of long-chain fatty acids (LFCA) across membranes
+    (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + a long-chain carboxylic acid + CoA = AMP
+    + diphosphate + an acyl-CoA.
+-!- CATALYTIC ACTIVITY: ATP + a very-long-chain carboxylic acid + CoA
+    = AMP + diphosphate + an acyl-CoA.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein. Peroxisome; peroxisomal
+    membrane; multi-pass membrane protein. Note=Peripheral membrane
+    associated with the lumenal side of peroxisomes.
+-!- TISSUE SPECIFICITY: Expressed in liver, kidney, placenta and
+    pancreas.
+-!- SIMILARITY: Belongs to the ATP-dependent AMP-binding enzyme
+    family.
+ GO:0005783; C:endoplasmic reticulum; TAS:ProtInc.
+ GO:0005782; C:peroxisomal matrix; TAS:ProtInc.
+ GO:0004467; F:long-chain-fatty-acid-CoA ligase activity; TAS:ProtInc.
+ GO:0000038; P:very-long-chain fatty acid metabolism; TAS:ProtInc.
+Acetylation; Endoplasmic reticulum; Fatty acid metabolism; Ligase;
+Lipid metabolism; Membrane; Nucleotide-binding; Peroxisome;
+Transmembrane.
+THTHREE

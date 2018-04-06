@@ -1,0 +1,17 @@
+AC   P60782; P31056; Q2M9E6;
+UPF0078 membrane protein ygiH.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Amplification of the bacA gene confers bacitracin resistance to
+Escherichia coli.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the UPF0078 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane.
+TMFIVE

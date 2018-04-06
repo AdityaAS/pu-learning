@@ -1,0 +1,25 @@
+AC   P40310; Q05721;
+Outward-rectifier potassium channel TOK1 (Two-domain outward rectifier
+K(+) channel YORK).
+"A new family of outwardly rectifying potassium channel proteins with
+two pore domains in tandem.";
+"The S. cerevisiae outwardly-rectifying potassium channel (DUK1)
+identifies a new family of channels with duplicated pore domains.";
+"A pH-sensitive yeast outward rectifier K+ channel with two pore
+domains and novel gating properties.";
+"Sequence and function analysis of a 9.46 kb fragment of Saccharomyces
+cerevisiae chromosome X.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Outwardly rectifying potassium channel.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the two pore domain potassium channel
+    (TC 1.A.1.8) family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0005267; F:potassium channel activity; IDA:SGD.
+ GO:0030007; P:potassium ion homeostasis; IDA:SGD.
+Complete proteome; Ion transport; Ionic channel; Membrane;
+Transmembrane; Transport; Voltage-gated channel.
+TMEIGHT

@@ -1,0 +1,44 @@
+AC   P04840;
+Outer mitochondrial membrane protein porin 1 (Voltage-dependent anion-
+selective channel protein 1) (VDAC 1).
+"Molecular cloning and sequencing of cDNA for yeast porin, an outer
+mitochondrial membrane protein: a search for targeting signal in the
+primary structure.";
+"Molecular genetics of the VDAC ion channel: structural model and
+sequence analysis.";
+"The sequence of a 44 420 bp fragment located on the left arm of
+chromosome XIV from Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Probing the structure of the mitochondrial channel, VDAC, by site-
+directed mutagenesis: a progress report.";
+"Probing for the voltage sensor of the VDAC ion channel by site-
+directed mutagenesis.";
+"The role of yeast VDAC genes on the permeability of the mitochondrial
+outer membrane.";
+-!- FUNCTION: Forms a channel through the cell membrane that allows
+    diffusion of small hydrophilic molecules. The channel adopts an
+    open conformation at low or zero membrane potential and a closed
+    conformation at potentials above 30-40 mV. The open state has a
+    weak anion selectivity whereas the closed state is cation-
+    selective. Is the major permeability fator of the mitochondrial
+    outer membrane.
+-!- INTERACTION:
+    P25453:DMC1; NbExp=1; IntAct=EBI-13686, EBI-5955;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane.
+-!- DOMAIN: Consists mainly of membrane-spanning sided beta-sheets. 19
+    strands distributed along the entire VDAC protein, have the
+    potential to adopt transmembrane beta pleated sheet structures,
+    which rolled together may form a "beta-barrel" type structure,
+    possessing pore dimensions.
+-!- SIMILARITY: Belongs to the eukaryotic mitochondrial porin family.
+ GO:0031307; C:integral to mitochondrial outer membrane; IDA:SGD.
+ GO:0005741; C:mitochondrial outer membrane; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0008308; F:voltage-gated ion-selective channel activity; IDA:SGD.
+ GO:0009060; P:aerobic respiration; IMP:SGD.
+ GO:0006811; P:ion transport; IDA:SGD.
+ GO:0007005; P:mitochondrion organization and biogenesis; IMP:SGD.
+Complete proteome; Direct protein sequencing; Ion transport; Membrane;
+Mitochondrion; Outer membrane; Porin; Transmembrane; Transport.
+TMZERO

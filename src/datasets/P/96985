@@ -1,0 +1,56 @@
+AC   P02916; Q2M6S1;
+Maltose transport system permease protein malF.
+"The nucleotide sequence of the gene for malF protein, an inner
+membrane component of the maltose transport system of Escherichia
+coli. Repeated DNA sequences are found in the malE-malF intercistronic
+region.";
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Sequence of gene malG in E. coli K12: homologies between integral
+membrane components from binding protein-dependent transport
+systems.";
+"The distribution of positively charged residues in bacterial inner
+membrane proteins correlates with the trans-membrane topology.";
+"Genetic analysis of membrane protein topology by a sandwich gene
+fusion approach.";
+"Decoding signals for membrane protein assembly using alkaline
+phosphatase fusions.";
+"Subunit interactions in ABC transporters: a conserved sequence in
+hydrophobic membrane proteins of periplasmic permeases defines an
+important site of interaction with the ATPase subunits.";
+"Unliganded maltose-binding protein triggers lactose transport in an
+Escherichia coli mutant with an alteration in the maltose transport
+system.";
+"Characterization of transmembrane domains 6, 7, and 8 of MalF by
+mutational analysis.";
+"ATP modulates subunit-subunit interactions in an ATP-binding cassette
+transporter (MalFGK2) determined by site-directed chemical cross-
+linking.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Maltose/maltodextrin system of Escherichia coli: transport,
+metabolism, and regulation.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for maltose; probably responsible for the translocation of the
+    substrate across the membrane.
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (malK), two transmembrane proteins (malG and malF) and a solute-
+    binding protein (malE).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein; periplasmic side. Note=A substantial portion of it
+    protrudes into the periplasmic space.
+-!- MISCELLANEOUS: When malF EAA loop mutations are made concomitantly
+    with malG EAA loop mutations, a complete loss of transport and
+    complex formation is observed, except for the Gly-407. This
+    suggests that these interaction malF-malG may be important for the
+    proper assembly and also for the correct function of the
+    transporter.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. MalFG subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMEIGHT

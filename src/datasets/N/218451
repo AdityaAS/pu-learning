@@ -1,0 +1,9 @@
+AC   P66770; Q9A0Z8;
+Hypothetical protein spyM18_0604.
+"Genome sequence and comparative microarray analysis of serotype M18
+group A Streptococcus strains associated with acute rheumatic fever
+outbreaks.";
+-!- SIMILARITY: Belongs to the AdoMet synthetase 2 family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Complete proteome; Hypothetical protein.
+TMZERO

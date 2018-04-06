@@ -1,0 +1,14 @@
+AC   Q5XDU4;
+Oligopeptide transport ATP-binding protein oppF.
+"Progress toward characterization of the group A Streptococcus
+metagenome: complete genome sequence of a macrolide-resistant serotype
+M6 strain.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for oligopeptides. Probably responsible for energy coupling to the
+    transport system.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Membrane; Nucleotide-binding;
+Peptide transport; Protein transport; Transport.
+TMZERO

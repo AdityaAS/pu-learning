@@ -1,0 +1,22 @@
+AC   P0AAD4; P18199; P76309;
+Tyrosine-specific transport protein (Tyrosine permease).
+"DNA sequence of the gene (tyrP) encoding the tyrosine-specific
+transport system of Escherichia coli.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in transporting tyrosine across the cytoplasmic
+    membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Repressed by tyrosine and induced by phenylalanine
+    under the control of regulatory protein tyrR.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family. Mtr/tnaB/tyrP permease subfamily.
+Amino-acid transport; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMELEVEN

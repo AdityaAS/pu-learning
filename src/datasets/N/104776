@@ -1,0 +1,12 @@
+AC   Q01703;
+Homeobox protein MSH-C.
+"Regional expression of three homeobox transcripts in the inner ear of
+zebrafish embryos.";
+"Cloning and evolutionary analysis of msh-like homeobox genes from
+mouse, zebrafish and ascidian.";
+-!- FUNCTION: Involved in the development of the inner ear.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the Msh homeobox family.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+Developmental protein; DNA-binding; Homeobox; Nuclear protein.
+TMZERO

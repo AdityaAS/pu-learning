@@ -1,0 +1,33 @@
+AC   Q99385; O13580; O13581;
+Vacuolar calcium ion transporter (Vacuolar Ca(2+)/H(+) exchanger)
+(High copy number undoes manganese protein 1) (Manganese resistance 1
+protein).
+"The product of HUM1, a novel yeast gene, is required for vacuolar
+Ca2+/H+ exchange and is related to mammalian Na+/Ca2+ exchangers.";
+"Calcineurin inhibits VCX1-dependent H+/Ca2+ exchange and induces Ca2+
+ATPases in Saccharomyces cerevisiae.";
+"A single nucleotide change in the MNR1 (VCX1/HUM1) gene determines
+resistance to Manganese in Saccharomyces cerevisae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Has a role in promoting intracellular calcium ion
+    sequestration via the exchange of calcium ions for hydrogen ions
+    across the vacuolar membrane. Involved also in manganese ion
+    homeostasis via its uptake into the vacuole.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- MISCELLANEOUS: Present with 7770 molecules/cell.
+-!- SIMILARITY: Belongs to the sodium/potassium/calcium exchanger
+    family.
+ GO:0000324; C:vacuole (sensu Fungi); IDA:SGD.
+ GO:0015085; F:calcium ion transporter activity; IDA:SGD.
+ GO:0006874; P:calcium ion homeostasis; IMP:SGD.
+ GO:0006816; P:calcium ion transport; IDA:SGD.
+Acetylation; Calcium; Calcium transport; Complete proteome;
+Ion transport; Manganese; Membrane; Metal-binding; Phosphorylation;
+Transmembrane; Transport.
+TMELEVEN

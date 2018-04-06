@@ -1,0 +1,32 @@
+AC   Q9SQ80; Q9SQ81; Q9SQJ0; Q9XHM4;
+Gibberellin 2-beta-dioxygenase 1 (EC 1.14.11.13) (Gibberellin 2-beta-
+hydroxylase 1) (Gibberellin 2-oxidase 1) (GA 2-oxidase 1) (Protein
+SLENDER).
+"The SLENDER gene of pea encodes a gibberellin 2-oxidase.";
+"Gibberellin 2-oxidation and the SLN gene of Pisum sativum.";
+"Purification and kinetic studies of recombinant gibberellin
+dioxygenases.";
+-!- FUNCTION: Catalyzes the 2-beta-hydroxylation of several
+    biologically active gibberellins, leading to the homeostatic
+    regulation of their endogenous level. Catabolism of gibberellins
+    (GAs) plays a central role in plant development. Converts GA9/GA20
+    to GA51/GA29 and GA4/GA1 to GA34/GA8.
+-!- CATALYTIC ACTIVITY: Gibberellin 1 + 2-oxoglutarate + O(2) = 2-
+    beta-hydroxygibberellin 1 + succinate + CO(2).
+-!- COFACTOR: Iron (By similarity).
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=0.024 uM for GA20;
+      Vmax=4.4 pmol/sec/mg enzyme;
+-!- PATHWAY: Gibberellins catabolism: later steps.
+-!- TISSUE SPECIFICITY: Predominantly expressed in roots, flowers,
+    young fruits and seeds.
+-!- MISCELLANEOUS: Defects in GA2ox1 lead to the slender phenotype,
+    characterized by large amounts of GA20 that cannot be degraded,
+    and is metabolized to excess GA1 on germination, producing plants
+    with a characteristic slender or hyperelongated phenotype.
+-!- SIMILARITY: Belongs to the iron/ascorbate-dependent oxidoreductase
+    family. GA2OX subfamily.
+ GO:0045543; F:gibberellin 2-beta-dioxygenase activity; IEA:EC.
+Dioxygenase; Iron; Metal-binding; Oxidoreductase.
+TMZERO

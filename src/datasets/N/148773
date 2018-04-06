@@ -1,0 +1,31 @@
+AC   P05735;
+60S ribosomal protein L19 (L23) (YL14) (RP33) (RP15L).
+"Analysis of a 17.4 kb DNA segment of yeast chromosome II encompassing
+the ribosomal protein L19 as well as proteins with homologies to
+components of the hnRNP and snRNP complexes and to the human
+proliferation-associated p120 antigen.";
+"Nucleotide sequence and characterization of the Saccharomyces
+cerevisiae RPL19A gene encoding a homolog of the mammalian ribosomal
+protein L19.";
+"Complete DNA sequence of yeast chromosome II.";
+"Yeast ribosomal proteins: VII. Cytoplasmic ribosomal proteins from
+Schizosaccharomyces pombe.";
+"NH2-terminal acetylation of ribosomal proteins of Saccharomyces
+cerevisiae.";
+"Isolation and characterization of the Saccharomyces cerevisiae MIS1
+gene encoding mitochondrial C1-tetrahydrofolate synthase.";
+"Identification of protein coding regions by database similarity
+search.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- MISCELLANEOUS: There are two genes for L19 in yeast. Both copies
+    are on chrII.
+-!- MISCELLANEOUS: Present with 97700 molecules/cell.
+-!- SIMILARITY: Belongs to the ribosomal protein L19e family.
+ GO:0005842; C:cytosolic large ribosomal subunit (sensu Eu...; TAS:SGD.
+ GO:0003735; F:structural constituent of ribosome; TAS:SGD.
+ GO:0043037; P:translation; TAS:SGD.
+3D-structure; Complete proteome; Direct protein sequencing;
+Phosphorylation; Ribonucleoprotein; Ribosomal protein.
+TMZERO

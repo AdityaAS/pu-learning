@@ -1,0 +1,22 @@
+AC   Q6NI36;
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2).
+"The complete genome sequence and analysis of Corynebacterium
+diphtheriae NCTC13129.";
+-!- FUNCTION: Converts 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate
+    into isopentenyl diphosphate (IPP) and dimethylallyl diphosphate
+    (DMAPP) (By similarity).
+-!- CATALYTIC ACTIVITY: Isopentenyl diphosphate + NAD(P)(+) + H(2)O =
+    (E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate + NAD(P)H.
+-!- COFACTOR: Binds 1 3Fe-4S cluster (By similarity).
+-!- PATHWAY: Isoprenoid biosynthesis; dimethylallyl-PP biosynthesis;
+    dimethylallyl-PP from 1-hydroxy-2-methyl-2-butenyl 4-diphosphate:
+    single step [final step].
+-!- PATHWAY: Isoprenoid biosynthesis; isopentenyl-PP biosynthesis via
+    DXP pathway; isopentenyl-PP from 1-deoxy-D-xylulose 5-phosphate:
+    step 6 [final step].
+-!- SIMILARITY: Belongs to the ispH family.
+ GO:0051745; F:4-hydroxy-3-methylbut-2-en-1-yl diphosphate...; IEA:EC.
+ GO:0016114; P:terpenoid biosynthesis; IEA:HAMAP.
+3Fe-4S; Complete proteome; Iron; Iron-sulfur; Isoprene biosynthesis;
+Metal-binding; NADP; Oxidoreductase.
+TMZERO

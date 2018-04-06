@@ -1,0 +1,15 @@
+AC   Q6WGI9;
+Potassium channel toxin alpha-KTx 11.3 (Parabutoxin-10) (PBTx10).
+"A subfamily of acidic alpha-K(+) toxins.";
+-!- FUNCTION: Binds and inhibits voltage-sensitive potassium channels.
+    Inhibits the vertebrate potassium channel Kv1.1 with low affinity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the short scorpion toxin superfamily.
+    Potassium channel inhibitor family. Alpha-KTx 11 subfamily.
+ GO:0005576; C:extracellular region; IDA:UniProtKB.
+ GO:0019870; F:potassium channel inhibitor activity; IDA:UniProtKB.
+ GO:0009405; P:pathogenesis; IDA:UniProtKB.
+Direct protein sequencing; Ionic channel inhibitor; Neurotoxin;
+Potassium channel inhibitor; Toxin.
+TMZERO

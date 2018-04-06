@@ -1,0 +1,28 @@
+AC   P0A843; P25895; P77420;
+Sec-independent protein translocase protein tatE.
+"The biosynthesis of lipoic acid. Cloning of lip, a lipoate
+biosynthetic locus of Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Overlapping functions of components of a bacterial Sec-independent
+protein export pathway.";
+"The Tat protein export pathway.";
+-!- FUNCTION: Required for correct localization of precursor proteins
+    bearing signal peptides with the twin arginine conserved motif
+    S/T-R-R-X-F-L-K. This sec-independent pathway is termed TAT for
+    twin-arginine translocation system. This system mainly transports
+    proteins with bound cofactors that require folding prior to
+    export.
+-!- INTERACTION:
+    P24251:crl; NbExp=1; IntAct=EBI-1112947, EBI-1114986;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the tatA/E family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Inner membrane; Membrane; Protein transport;
+Translocation; Transmembrane; Transport.
+TMONE

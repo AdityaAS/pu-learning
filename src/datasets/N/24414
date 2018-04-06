@@ -1,0 +1,12 @@
+AC   Q7U318;
+10 kDa chaperonin (Protein Cpn10) (groES protein).
+"The complete genome sequence of the carcinogenic bacterium
+Helicobacter hepaticus.";
+-!- FUNCTION: Binds to Cpn60 in the presence of Mg-ATP and suppresses
+    the ATPase activity of the latter.
+-!- SUBUNIT: Heptamer of 7 subunits arranged in a ring (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the groES chaperonin family.
+Chaperone; Complete proteome.
+TMZERO

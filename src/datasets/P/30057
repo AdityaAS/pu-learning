@@ -1,0 +1,14 @@
+AC   P31772;
+Competence protein E precursor (DNA transformation protein comE).
+"Nucleotide sequence of a cluster of genes involved in the
+transformation of Haemophilus influenzae Rd.";
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+"Sequence and transcriptional regulation of com101A, a locus required
+for genetic transformation in Haemophilus influenzae.";
+-!- FUNCTION: Involved in transformation (competence for DNA uptake).
+-!- SUBCELLULAR LOCATION: Cell outer membrane (Probable).
+-!- SIMILARITY: Belongs to the GSP D family.
+Competence; Complete proteome; Membrane; Outer membrane; Signal;
+Transport.
+TMZERO

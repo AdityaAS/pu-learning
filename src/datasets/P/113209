@@ -1,0 +1,53 @@
+AC   Q9UHC9; Q6R3Q4; Q9UHC8;
+Niemann-Pick C1-like protein 1 precursor.
+"Evidence for a Niemann-Pick C (NPC) gene family: identification and
+characterization of NPC1L1.";
+"Niemann-Pick C1 like 1 protein is critical for intestinal cholesterol
+absorption.";
+"Inactivation of NPC1L1 causes multiple lipid transport defects and
+protects against diet-induced hypercholesterolemia.";
+"Reduced cholesterol absorption upon PPARdelta activation coincides
+with decreased intestinal expression of NPC1L1.";
+"The target of ezetimibe is Niemann-Pick C1-like 1 (NPC1L1).";
+"Compound heterozygosity for two non-synonymous polymorphisms in
+NPC1L1 in a non-responder to ezetimibe.";
+-!- FUNCTION: Play a major role in cholesterol homeostasis. Is
+    critical for the uptake of cholesterol across the plasma membrane
+    of the intestinal enterocyte. Is the direct molecular target of
+    ezetimibe, a drug that inhibits cholesterol absorbtion. Lack of
+    activity leads to multiple lipid transport defects. The protein
+    may have a function in the transport of multiple lipids and their
+    homeostasis, and may play a critical role in regulating lipid
+    metabolism.
+-!- SUBCELLULAR LOCATION: Cell membrane; apical cell membrane; multi-
+    pass membrane protein. Cell membrane; multi-pass membrane protein
+    (By similarity). Cytoplasmic vesicle; cytoplasmic vesicle
+    membrane; multi-pass membrane protein. Note=Subfractionation of
+    brush border membranes from proximal enterocytes suggests
+    considerable association with the apical membrane fraction. Exists
+    as a predominantly cell surface membrane expressed protein (By
+    similarity). According to Ref.3, localizes in a subcellular
+    vesicular compartment rich in RAB5.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q9UHC9-1; Sequence=Displayed;
+    Name=2; Synonyms=NPC1L1DELTAE15;
+      IsoId=Q9UHC9-2; Sequence=VSP_015314;
+    Name=3; Synonyms=NPCL1T;
+      IsoId=Q9UHC9-3; Sequence=VSP_015312, VSP_015313;
+-!- TISSUE SPECIFICITY: Widely expressed. Expressed in liver. Also
+    expressed in small intestine, pancreas, kidney, lung, pancreas,
+    spleen, heart, gall bladder, brain, testis, stomach and muscle.
+-!- INDUCTION: Expression is decreased in Caco-2 cells upon PPARD
+    activation.
+-!- PTM: Highly glycosylated (By similarity).
+-!- POLYMORPHISM: Variations in NPC1L1 gene could be associated with
+    non-response to ezetimibe treatment.
+-!- SIMILARITY: Belongs to the patched family.
+-!- SIMILARITY: Contains 1 SSD (sterol-sensing) domain.
+ GO:0015918; P:sterol transport; TAS:ProtInc.
+Alternative splicing; Cholesterol metabolism; Glycoprotein;
+Lipid metabolism; Membrane; Polymorphism; Signal; Steroid metabolism;
+Transmembrane.
+TMTHIRTEEN

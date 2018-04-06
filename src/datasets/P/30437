@@ -1,0 +1,36 @@
+AC   P32798;
+Cobalt uptake protein COT1.
+"COT1, a gene involved in cobalt accumulation in Saccharomyces
+cerevisiae.";
+"Sequencing of a 35.71 kb DNA segment on the right arm of yeast
+chromosome XV reveals regions of similarity to chromosomes I and
+XIII.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Global analysis of protein expression in yeast.";
+"A subset of membrane-associated proteins is ubiquitinated in response
+to mutations in the endoplasmic reticulum degradation machinery.";
+-!- FUNCTION: Probably responsible for the uptake of cobalt ions. It
+    appears to act in a dosage-dependent manner to counteract the
+    adverse effects of cobalt ions on cells. It may participate in the
+    regulation of cobalt levels under normal physiological conditions
+    and may be important in the supply of metal that is required for
+    metalloenzyme or cofactor synthesis. It reduces the toxicity of
+    cobalt and rhodium ions. Other components responsible for cobalt
+    transport exist.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    multi-pass membrane protein. Note=Another possibility exists that
+    it is associated with another unidentified membrane that has been
+    enriched in the mitochondrial membrane fractions.
+-!- MISCELLANEOUS: Present with 2070 molecules/cell.
+-!- SIMILARITY: Belongs to the cation diffusion facilitator (CDF)
+    transporter (TC 2.A.4) family. SLC30A subfamily.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0000324; C:vacuole (sensu Fungi); IDA:SGD.
+ GO:0015087; F:cobalt ion transporter activity; IMP:SGD.
+ GO:0005385; F:zinc ion transporter activity; IGI:SGD.
+ GO:0006824; P:cobalt ion transport; IMP:SGD.
+ GO:0006882; P:zinc ion homeostasis; IMP:SGD.
+ GO:0006829; P:zinc ion transport; IGI:SGD.
+Cobalt; Complete proteome; Membrane; Mitochondrion; Transmembrane;
+Transport; Ubl conjugation.
+TMSIX

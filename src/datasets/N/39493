@@ -1,0 +1,24 @@
+AC   P27989;
+Carbon monoxide dehydrogenase/acetyl CoA synthase subunit beta
+(EC 1.2.7.4) (EC 1.2.99.2) (Carbon monoxide dehydrogenase subunit)
+(CODH/ACS) (CODH subunit).
+"The primary structure of the subunits of carbon monoxide
+dehydrogenase/acetyl-CoA synthase from Clostridium thermoaceticum.";
+"A Ni-Fe-Cu center in a bifunctional carbon monoxide
+dehydrogenase/acetyl-CoA synthase.";
+"Ni-Zn-[Fe4-S4] and Ni-Ni-[Fe4-S4] clusters in closed and open
+subunits of acetyl-CoA synthase/carbon monoxide dehydrogenase.";
+-!- FUNCTION: The beta subunit (this protein) generates CO from CO(2),
+    while the alpha subunit combines the CO with CoA and a methyl
+    group to form acetyl-CoA. The methyl group, which is incorporated
+    into acetyl-CoA, is transferred to the alpha subunit by a
+    corrinoid iron-sulfur protein.
+-!- CATALYTIC ACTIVITY: CO + H(2)O + oxidized ferredoxin = CO(2) +
+    reduced ferredoxin.
+-!- CATALYTIC ACTIVITY: CO + H(2)O + A = CO(2) + AH(2).
+-!- COFACTOR: Binds 1 nickel-iron-sulfur cluster per subunit.
+-!- COFACTOR: Binds 2 4Fe-4S clusters per homodimer.
+-!- SUBUNIT: Tetramer of two alpha and two beta chains.
+3D-structure; 4Fe-4S; Carbon dioxide fixation; Electron transport;
+Iron; Iron-sulfur; Metal-binding; Nickel; Oxidoreductase; Transport.
+TMZERO

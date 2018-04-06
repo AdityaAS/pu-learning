@@ -1,0 +1,14 @@
+AC   P63391; Q11018;
+Hypothetical ABC transporter ATP-binding protein Rv1348/MT1390.
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Hypothetical protein; Membrane;
+Nucleotide-binding; Transmembrane; Transport.
+TMSEVEN

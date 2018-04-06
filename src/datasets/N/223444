@@ -1,0 +1,10 @@
+AC   P40002;
+Uncharacterized protein YEL007W.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Global analysis of protein expression in yeast.";
+-!- MISCELLANEOUS: Present with 1710 molecules/cell.
+-!- SIMILARITY: To yeast YHR177w.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+Complete proteome.
+TMZERO

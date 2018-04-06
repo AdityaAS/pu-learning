@@ -1,0 +1,11 @@
+AC   Q04733;
+Cephamycin export protein cmcT.
+"Genes for a beta-lactamase, a penicillin-binding protein and a
+transmembrane protein are clustered with the cephamycin biosynthetic
+genes in Nocardia lactamdurans.";
+-!- FUNCTION: Involved in cephamycin export.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Antibiotic resistance; Membrane; Transmembrane; Transport.
+TMFOURTEEN

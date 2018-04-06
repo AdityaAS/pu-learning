@@ -1,0 +1,23 @@
+AC   P18313;
+Sapecin precursor.
+"Molecular cloning of cDNA for sapecin and unique expression of the
+sapecin gene during the development of Sarcophaga peregrina.";
+"Purification of three antibacterial proteins from the culture medium
+of NIH-Sape-4, an embryonic cell line of Sarcophaga peregrina.";
+"Determination of the disulfide array in sapecin, an antibacterial
+peptide of Sarcophaga peregrina (flesh fly).";
+"1H nuclear magnetic resonance study of the solution conformation of
+an antibacterial protein, sapecin.";
+-!- FUNCTION: Sapecins, which are potent bactericidal proteins, are
+    produced in response to injury. Sapecin is cytotoxic to Gram-
+    positive bacteria, and to a lesser extent against Gram-negative
+    bacteria.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Hemocytes and fat body.
+-!- INDUCTION: By injury to the larval cell wall.
+-!- SIMILARITY: Belongs to the invertebrate defensin family. Type 1
+    subfamily.
+3D-structure; Antibiotic; Antimicrobial;
+Cleavage on pair of basic residues; Defensin;
+Direct protein sequencing; Immune response; Innate immunity; Signal.
+TMZERO

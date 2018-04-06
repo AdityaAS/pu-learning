@@ -1,0 +1,16 @@
+AC   Q6FRV2;
+Glutathione reductase (EC 1.8.1.7) (GR) (GRase).
+"Genome evolution in yeasts.";
+-!- FUNCTION: Maintains high levels of reduced glutathione in the
+    cytosol (By similarity).
+-!- CATALYTIC ACTIVITY: 2 glutathione + NADP(+) = glutathione
+    disulfide + NADPH.
+-!- COFACTOR: Binds 1 FAD per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- MISCELLANEOUS: The active site is a redox-active disulfide bond
+    (By similarity).
+-!- SIMILARITY: Belongs to the class-I pyridine nucleotide-disulfide
+    oxidoreductase family.
+Complete proteome; FAD; Flavoprotein; NADP; Oxidoreductase;
+Redox-active center.
+TMZERO

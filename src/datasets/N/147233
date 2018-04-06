@@ -1,0 +1,12 @@
+AC   Q97EG5;
+50S ribosomal protein L11.
+"Genome sequence and comparative analysis of the solvent-producing
+bacterium Clostridium acetobutylicum.";
+-!- FUNCTION: This protein binds directly to 23S ribosomal RNA (By
+    similarity).
+-!- PTM: One or more lysine residues are methylated (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L11P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Methylation; Ribonucleoprotein; Ribosomal protein;
+RNA-binding; rRNA-binding.
+TMZERO

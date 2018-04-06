@@ -1,0 +1,13 @@
+AC   P52395;
+Glucan endo-1,3-beta-glucosidase (EC 3.2.1.39) ((1->3)-beta-glucan
+endohydrolase) ((1->3)-beta-glucanase) (Beta-1,3-endoglucanase)
+(Fragment).
+"Binding-protein expression is subject to temporal, developmental and
+stress-induced regulation in terminally differentiated soybean
+organs.";
+-!- CATALYTIC ACTIVITY: Hydrolysis of 1,3-beta-D-glucosidic linkages
+    in 1,3-beta-D-glucans.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 17 family.
+ GO:0042973; F:glucan endo-1,3-beta-D-glucosidase activity; IEA:EC.
+Glycosidase; Hydrolase.
+TMZERO

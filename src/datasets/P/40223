@@ -1,0 +1,37 @@
+AC   P59665; P11479; Q14125;
+Neutrophil defensin 1 precursor (HNP-1) (HP-1) (HP1) (Defensin, alpha
+1) [Contains: HP 1-56; Neutrophil defensin 2 (HNP-2) (HP-2) (HP2)].
+"Isolation and characterization of human defensin cDNA clones.";
+"A myeloid-related sequence that localizes to human chromosome 8q21.1-
+22.";
+"Differentiation stage-specific expression of a gene during
+granulopoiesis.";
+"Inheritance of unequal numbers of the genes encoding the human
+neutrophil defensins HP-1 and HP-3.";
+"The structure of neutrophil defensin genes.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Primary structures of three human neutrophil defensins.";
+"Signal peptide prediction based on analysis of experimentally
+verified cleavage sites.";
+"Determination of the disulfide array in the human defensin HNP-2. A
+covalently cyclized peptide.";
+"The isolation and identification of multiple forms of the neutrophil
+granule peptides from human leukemic cells.";
+"Posttranslational processing of defensins in immature human myeloid
+cells.";
+"NMR studies of defensin antimicrobial peptides. 1. Resonance
+assignment and secondary structure determination of rabbit NP-2 and
+human HNP-1.";
+"NMR studies of defensin antimicrobial peptides. 2. Three-dimensional
+structures of rabbit NP-2 and human HNP-1.";
+-!- FUNCTION: Defensins 1/2 have antibiotic, fungicide and antiviral
+    activities.
+-!- SUBUNIT: Dimer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the alpha-defensin family.
+ GO:0006935; P:chemotaxis; TAS:ProtInc.
+ GO:0006955; P:immune response; TAS:ProtInc.
+3D-structure; Antibiotic; Antimicrobial; Antiviral defense; Defensin;
+Direct protein sequencing; Fungicide; Signal.
+TMZERO

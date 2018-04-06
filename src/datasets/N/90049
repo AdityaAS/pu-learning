@@ -1,0 +1,13 @@
+AC   P13270;
+Labaditin.
+"Labaditin, a novel cyclic decapeptide from the latex of Jatropha
+multifida L. (Euphorbiaceae). Isolation and sequence determination by
+means of two-dimensional NMR.";
+-!- FUNCTION: Labaditin is an active peptide which inhibits the
+    classical pathway of complement activation in vitro. Activity
+    seems to be based on an interaction with C1.
+-!- PTM: This is a cyclic peptide.
+-!- MISCELLANEOUS: Latex of this plant is used in folkloric medicine
+    for treatment of infected wounds, skins infections and scabies.
+Direct protein sequencing.
+TMZERO

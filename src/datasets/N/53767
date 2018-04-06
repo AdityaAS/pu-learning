@@ -1,0 +1,12 @@
+AC   P95735;
+Aminoacyltransferase femB (EC 2.3.2.-).
+"Cloning and characterization of femA and femB from Staphylococcus
+epidermidis.";
+-!- FUNCTION: Catalyzes the incorporation of amino acid(s) into the
+    interchain peptide bridge of peptidoglycan, using aminoacyl-tRNA
+    as amino acid donor (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the femABX family.
+Acyltransferase; Cell shape; Cell wall; Peptidoglycan synthesis;
+Transferase.
+TMZERO

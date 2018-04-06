@@ -1,0 +1,36 @@
+AC   Q9R186;
+Transient receptor potential cation channel subfamily V member 6
+(TrpV6) (Epithelial calcium channel 2) (ECaC2) (Calcium transport
+protein 1) (CaT1).
+"Molecular cloning and characterization of a channel-like transporter
+mediating intestinal calcium absorption.";
+"CaT1 manifests the pore properties of the calcium-release-activated
+calcium channel.";
+-!- FUNCTION: Calcium selective cation channel probably involved in
+    Ca(2+) uptake in various tissues, including Ca(2+) reabsorption in
+    intestine. The channel is activated by low internal calcium level,
+    probably including intracellular calcium store depletion, and the
+    current exhibits an inward rectification. Inactivation includes
+    both, a rapid Ca(2+)-dependent and a slower Ca(2+)-calmodulin-
+    dependent mechanism, the latter may be regulated by
+    phosphorylation. In vitro, is slowly inhibited by Mg(2+) in a
+    voltage-independent manner. Heteromeric assembly with TRPV5 seems
+    to modify channel properties. TRPV5-TRPV6 heteromultimeric
+    concatemers exhibit voltage-dependent gating (By similarity).
+-!- SUBUNIT: Homotetramer and probably heterotetramer with TRPV5.
+    Interacts with TRPV5. Interacts with S100A10 and probably with the
+    ANAX2-S100A10 heterotetramer. The interaction with S100A10 is
+    required for the trafficking to the plasma membrane. Interacts
+    with calmodulin. Interacts with BSPRY (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- TISSUE SPECIFICITY: Expressed in duodenum, proximal jejunum,
+    cecum, and colon.
+-!- PTM: Glycosylated (By similarity).
+-!- SIMILARITY: Belongs to the transient receptor family. TrpV
+    subfamily.
+-!- SIMILARITY: Contains 5 ANK repeats.
+ANK repeat; Calcium; Calcium channel; Calcium transport;
+Calmodulin-binding; Glycoprotein; Ion transport; Ionic channel;
+Membrane; Repeat; Transmembrane; Transport.
+TMSIX

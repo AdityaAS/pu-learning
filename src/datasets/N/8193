@@ -1,0 +1,37 @@
+AC   O95236; Q9BQ82; Q9BQA3;
+Apolipoprotein-L3 (Apolipoprotein L-III) (ApoL-III) (TNF-inducible
+protein CG12-1) (CG12_1).
+"Vascular endothelial genes that are responsive to tumor necrosis
+factor-alpha in vitro are expressed in atherosclerotic lesions,
+including inhibitor of apoptosis protein-1, stannin, and two novel
+genes.";
+"Apolipoprotein L gene family: tissue-specific expression, splicing,
+promoter regions; discovery of a new gene.";
+"The human apolipoprotein L gene cluster: identification,
+classification, and sites of distribution.";
+"A genome annotation-driven approach to cloning the human ORFeome.";
+"The DNA sequence of human chromosome 22.";
+-!- FUNCTION: May affect the movement of lipids in the cytoplasm or
+    allow the binding of lipids to organelles.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=O95236-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O95236-2; Sequence=VSP_000293;
+    Name=3;
+      IsoId=O95236-3; Sequence=VSP_000294;
+-!- TISSUE SPECIFICITY: Widely expressed; the highest levels are in
+    prostate, lung and placenta; also detected in kidney, bone marrow,
+    spleen, thymus, spinal cord, adrenal gland, salivary gland,
+    trachea and mammary gland; levels are low in brain, heart, fetal
+    liver, pancreas and testis.
+-!- INDUCTION: In vitro, is responsive to tumor necrosis factor.
+-!- SIMILARITY: Belongs to the apolipoprotein L family.
+ GO:0005319; F:lipid transporter activity; TAS:ProtInc.
+ GO:0004871; F:signal transducer activity; IMP:UniProtKB.
+ GO:0006954; P:inflammatory response; TAS:ProtInc.
+ GO:0043123; P:positive regulation of I-kappaB kinase/NF-k...; IMP:UniProtKB.
+Alternative splicing; Lipid transport; Transport.
+TMZERO

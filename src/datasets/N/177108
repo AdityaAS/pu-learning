@@ -1,0 +1,18 @@
+AC   Q8ZB04;
+Alkanesulfonate monooxygenase (EC 1.14.14.5) (FMNH2-dependent
+aliphatic sulfonate monooxygenase).
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: Catalyzes the desulfonation of aliphatic sulfonates (By
+    similarity).
+-!- CATALYTIC ACTIVITY: An alkanesufonate (R-CH(2)-SO(3)H) + FMNH(2) +
+    O(2) = an aldehyde (R-CHO) + FMN + sulfite + H(2)O.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- MISCELLANEOUS: FMNH(2) which is absolutely required for this
+    enzymatic reaction, is provided by ssuE (By similarity).
+-!- SIMILARITY: Belongs to the ssuD family.
+ GO:0008726; F:alkanesulfonate monooxygenase activity; IEA:HAMAP.
+Complete proteome; FMN; Monooxygenase; Oxidoreductase.
+TMZERO

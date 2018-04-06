@@ -1,0 +1,14 @@
+AC   P53391;
+High affinity sulfate transporter 1.
+"Plant members of a family of sulfate transporters reveal functional
+subtypes.";
+-!- FUNCTION: High-affinity H(+)/sulfate cotransporter that mediates
+    the uptake of sulfate by plant roots from low concentrations of
+    sulfate in the soil solution.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the SLC26A/SulP transporter (TC 2.A.53)
+    family.
+-!- SIMILARITY: Contains 1 STAS domain.
+Membrane; Transmembrane; Transport.
+TMELEVEN

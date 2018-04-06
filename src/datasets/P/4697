@@ -1,0 +1,17 @@
+AC   Q9Z3R9;
+Alpha-glucoside transport ATP-binding protein aglK.
+"A novel Sinorhizobium meliloti operon encodes an alpha-glucosidase
+and a periplasmic-binding-protein-dependent transport system for
+alpha-glucosides.";
+"Analysis of the chromosome sequence of the legume symbiont
+Sinorhizobium meliloti strain 1021.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for alpha-glucosides such as sucrose, maltose and trehalose.
+    Probably responsible for energy coupling to the transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Inner membrane; Membrane;
+Nucleotide-binding; Sugar transport; Transport.
+TMZERO

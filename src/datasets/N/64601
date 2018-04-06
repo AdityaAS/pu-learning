@@ -1,0 +1,22 @@
+AC   Q43155; O81234;
+Ferredoxin-dependent glutamate synthase, chloroplast (EC 1.4.7.1) (Fd-
+GOGAT).
+"Cloning and sequencing of the gene encoding spinach ferredoxin-
+dependent glutamate synthase.";
+-!- CATALYTIC ACTIVITY: 2 L-glutamate + 2 oxidized ferredoxin = L-
+    glutamine + 2-oxoglutarate + 2 reduced ferredoxin.
+-!- COFACTOR: Binds 1 3Fe-4S cluster.
+-!- COFACTOR: FAD.
+-!- COFACTOR: FMN.
+-!- PATHWAY: Amino-acid metabolism; glutamate metabolism.
+-!- PATHWAY: Energy metabolism; nitrogen metabolism.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast stroma.
+-!- TISSUE SPECIFICITY: Leaves.
+-!- SIMILARITY: Belongs to the glutamate synthase family.
+-!- SIMILARITY: Contains 1 glutamine amidotransferase type-2 domain.
+ GO:0016041; F:glutamate synthase (ferredoxin) activity; IEA:EC.
+3Fe-4S; Amino-acid biosynthesis; Chloroplast;
+Direct protein sequencing; FAD; Flavoprotein; FMN;
+Glutamate biosynthesis; Glutamine amidotransferase; Iron; Iron-sulfur;
+Metal-binding; Oxidoreductase; Plastid.
+TMZERO

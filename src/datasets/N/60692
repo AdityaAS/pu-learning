@@ -1,0 +1,22 @@
+AC   P52951; O43833; Q53RX5; Q9Y5Y1;
+Homeobox protein GBX-2 (Gastrulation and brain-specific homeobox
+protein 2).
+"Characterization and sequence analysis of the human homeobox-
+containing gene GBX2.";
+"Enhanced GBX2 expression induces the growth of human prostate cancer
+cells via transcriptional stimulation of the interleukin-6 gene.";
+"Generation and annotation of the DNA sequences of human chromosomes 2
+and 4.";
+"The HOX complex neighbored by the EVX gene, as well as two other
+homeobox-containing genes, the GBX-class and the EN-class, are located
+on the same chromosomes 2 and 7 in humans.";
+-!- FUNCTION: May act as a transcription factor for cell pluripotency
+    and differentiation in the embryo.
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+ GO:0003700; F:transcription factor activity; TAS:ProtInc.
+ GO:0019735; P:antimicrobial humoral response (sensu Verte...; TAS:ProtInc.
+ GO:0007399; P:nervous system development; TAS:ProtInc.
+DNA-binding; Homeobox; Nuclear protein; Transcription;
+Transcription regulation.
+TMZERO

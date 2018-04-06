@@ -1,0 +1,23 @@
+AC   Q66J96; O13025;
+Nuclear distribution protein nudE homolog 1-A (Mitotic phosphoprotein
+43) (MP43).
+"Systematic identification of mitotic phosphoproteins.";
+"LIS1 regulates CNS lamination by interacting with mNudE, a central
+component of the centrosome.";
+-!- FUNCTION: Required for centrosome duplication and formation and
+    function of the mitotic spindle (By similarity).
+-!- SUBUNIT: Self-associates. Interacts with pafah1b1 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Centrosome (By
+    similarity). Spindle (By similarity). Note=Localizes to the
+    interphase centrosome and to the mitotic spindle (By similarity).
+-!- DEVELOPMENTAL STAGE: Strongly expressed in the eye, branchial
+    arches and telencephalon of stage 26-33 embryos.
+-!- PTM: Phosphorylated in mitosis.
+-!- SIMILARITY: Belongs to the nudE family.
+ GO:0031616; C:spindle pole centrosome; ISS:UniProtKB.
+ GO:0008017; F:microtubule binding; ISS:UniProtKB.
+ GO:0051298; P:centrosome duplication; ISS:UniProtKB.
+ GO:0051227; P:mitotic spindle assembly; ISS:UniProtKB.
+Cell cycle; Cell division; Coiled coil; Cytoskeleton; Microtubule;
+Mitosis; Phosphorylation.
+TMZERO

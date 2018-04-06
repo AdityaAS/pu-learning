@@ -1,0 +1,26 @@
+AC   P68290; P51498;
+Interleukin-2 precursor (IL-2) (T-cell growth factor) (TCGF).
+"Comparative sequence analysis of cytokine genes from human and
+nonhuman primates.";
+-!- FUNCTION: Produced by T-cells in response to antigenic or
+    mitogenic stimulation, this protein is required for T-cell
+    proliferation and other activities crucial to regulation of the
+    immune response. Can stimulate B-cells, monocytes, lymphokine-
+    activated killer cells, natural killer cells, and glioma cells (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the IL-2 family.
+ GO:0005615; C:extracellular space; ISS:UniProtKB.
+ GO:0005134; F:interleukin-2 receptor binding; ISS:UniProtKB.
+ GO:0019209; F:kinase activator activity; ISS:UniProtKB.
+ GO:0006916; P:anti-apoptosis; ISS:UniProtKB.
+ GO:0019735; P:antimicrobial humoral response (sensu Verte...; ISS:UniProtKB.
+ GO:0007155; P:cell adhesion; ISS:UniProtKB.
+ GO:0007267; P:cell-cell signaling; ISS:UniProtKB.
+ GO:0006955; P:immune response; ISS:UniProtKB.
+ GO:0030101; P:natural killer cell activation; ISS:UniProtKB.
+ GO:0030307; P:positive regulation of cell growth; ISS:UniProtKB.
+ GO:0008284; P:positive regulation of cell proliferation; ISS:UniProtKB.
+ GO:0030217; P:T cell differentiation; ISS:UniProtKB.
+Cytokine; Glycoprotein; Growth factor; Immune response; Signal.
+TMZERO

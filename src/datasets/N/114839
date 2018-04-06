@@ -1,0 +1,13 @@
+AC   Q37376;
+NADH-ubiquinone oxidoreductase chain 2 (EC 1.6.5.3) (NADH
+dehydrogenase subunit 2).
+"The mitochondrial DNA of the amoeboid protozoon, Acanthamoeba
+castellanii: complete sequence, gene content and genome
+organization.";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the complex I subunit 2 family.
+Membrane; Mitochondrion; NAD; Oxidoreductase; Transmembrane;
+Ubiquinone.
+TMZERO

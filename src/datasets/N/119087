@@ -1,0 +1,33 @@
+AC   P54789;
+Origin recognition complex subunit 1.
+"Conserved initiator proteins in eukaryotes.";
+"Orp1, a member of the Cdc18/Cdc6 family of S-phase regulators, is
+homologous to a component of the origin recognition complex.";
+"The genome sequence of Schizosaccharomyces pombe.";
+"Identification and reconstitution of the origin recognition complex
+from Schizosaccharomyces pombe.";
+"Purification and characterization of the Schizosaccharomyces pombe
+origin recognition complex: interaction with origin DNA and Cdc18
+protein.";
+-!- FUNCTION: Component of the origin recognition complex (ORC) that
+    binds origins of replication. It has a role in both chromosomal
+    replication and mating type transcriptional silencing. ORC binds
+    to multiple sites within the ars1 origin of DNA replication in an
+    ATP-independent manner.
+-!- SUBUNIT: ORC is composed of six subunits. ORC interacts with
+    cdc18, recruiting it to the ars1 origin of replication.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- DEVELOPMENTAL STAGE: Expressed constitutively during the cell
+    cycle.
+-!- SIMILARITY: Belongs to the ORC1 family.
+-!- SIMILARITY: Contains 1 BAH domain.
+ GO:0000790; C:nuclear chromatin; IDA:GeneDB_SPombe.
+ GO:0005664; C:nuclear origin of replication recognition c...; IDA:UniProtKB.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0005524; F:ATP binding; NAS:UniProtKB.
+ GO:0003688; F:DNA replication origin binding; IDA:UniProtKB.
+ GO:0000076; P:DNA replication checkpoint; IMP:GeneDB_SPombe.
+ GO:0006270; P:DNA replication initiation; NAS:UniProtKB.
+ATP-binding; Complete proteome; DNA replication; DNA-binding;
+Nuclear protein; Nucleotide-binding.
+TMZERO

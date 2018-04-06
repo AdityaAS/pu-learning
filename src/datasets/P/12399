@@ -1,0 +1,27 @@
+AC   Q59385; P78245; Q2MBU3;
+Copper-transporting P-type ATPase (EC 3.6.3.4).
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Small genes/gene-products in Escherichia coli K-12.";
+"CopA: an Escherichia coli Cu(I)-translocating P-type ATPase.";
+"Control of copper homeostasis in Escherichia coli by a P-type ATPase,
+CopA, and a MerR-like transcriptional activator, CopR.";
+"Escherichia coli CopA N-terminal Cys(X)(2)Cys motifs are not required
+for copper resistance or transport.";
+-!- FUNCTION: Involved in copper efflux.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Cu(2+)(In) = ADP + phosphate +
+    Cu(2+)(Out).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- INDUCTION: Transcriptionally regulated by cueR in response to
+    Cu(+) or Ag(+) ions.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IB subfamily.
+-!- SIMILARITY: Contains 2 HMA domains.
+ATP-binding; Complete proteome; Copper; Copper transport;
+Direct protein sequencing; Hydrolase; Ion transport; Magnesium;
+Membrane; Metal-binding; Nucleotide-binding; Phosphorylation; Repeat;
+Transmembrane; Transport.
+TMEIGHT

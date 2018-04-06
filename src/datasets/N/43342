@@ -1,0 +1,11 @@
+AC   Q93R27;
+Chaperone protein dnaK (Heat shock protein 70) (Heat shock 70 kDa
+protein) (HSP70).
+"Characterization and expression analysis of dnaK operon of halophilic
+lactic acid bacterium Tetragenococcus halophila.";
+-!- FUNCTION: Acts as a chaperone (By similarity).
+-!- INDUCTION: By stress conditions e.g. heat shock (By similarity).
+-!- SIMILARITY: Belongs to the heat shock protein 70 family.
+ATP-binding; Chaperone; Heat shock; Nucleotide-binding;
+Phosphorylation.
+TMZERO

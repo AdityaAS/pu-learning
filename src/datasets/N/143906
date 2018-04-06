@@ -1,0 +1,42 @@
+AC   Q9VMD6; Q95U56;
+Protein real-time.
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"A novel family of mitochondrial proteins is represented by the
+Drosophila genes slmo, preli-like and real-time.";
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- TISSUE SPECIFICITY: Restricted to the developing gut and central
+    nervous system (CNS).
+-!- DEVELOPMENTAL STAGE: Detected from at stage 7, where it is
+    expressed in the early germ band. By stage 11, when the germ band
+    is fully extended, it is expressed strongly in the ventral
+    neuroectoderm, which represents the progenitor of the CNS. At this
+    time, a small region of particularly strong expression is visible
+    at the tip of the extended germ band marking the proctodeum (the
+    primordial hindgut) and expression is also visible in the anterior
+    midgut and the foregut primordial region known as the stomodeum.
+    Expression then persists in both the emerging gut and nervous
+    system during the next three developmental stages (12-14). Strong
+    expression in the primordial midgut is rapidly down-regulated
+    prior to stage 15, by when the presumptive midgut has closed both
+    ventrally and dorsally and is largely established. However,
+    expression persists in the hindgut as it continues to develop by
+    projecting towards the antero-dorsal region of the embryo and is
+    also evident in differentiating components of the foregut, which
+    might include the stomatogastric nervous system. Interestingly, it
+    is expressed strongly throughout the developing CNS and the
+    intensity of this staining is maintained through stage 16 during
+    major periods of developmental reorganization, while expression in
+    regions of the gut is rapidly down-regulated. Expression continues
+    in the CNS late into stage 17, but is also clearly reduced by the
+    end of stage 17 immediately prior to hatching. Expressed during
+    all subsequent developmental stages from first instar larvae
+    through to adulthood.
+-!- SIMILARITY: Contains 1 CRAL-TRIO domain.
+-!- SIMILARITY: Contains 1 GOLD domain.
+-!- SIMILARITY: Contains 1 PRELI/MSF1 domain.
+ GO:0005739; C:mitochondrion; IDA:UniProtKB.
+Complete proteome; Mitochondrion.
+TMZERO

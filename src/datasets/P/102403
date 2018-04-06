@@ -1,0 +1,31 @@
+AC   P09833;
+Molybdenum import ATP-binding protein modC (EC 3.6.3.29).
+"Genetic analysis of the modABCD (molybdate transport) operon of
+Escherichia coli.";
+"Molecular analysis of the molybdate uptake operon, modABCD, of
+Escherichia coli and modR, a regulatory gene.";
+"Cloning and nucleotide sequence of the chlD locus.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- FUNCTION: Part of the ABC transporter complex modABC involved in
+    molybdenum import. Responsible for energy coupling to the
+    transport system (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + molybdate(Out) = ADP + phosphate
+    + molybdate(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (modC), two transmembrane proteins (modB) and a solute-binding
+    protein (modA) (Probable).
+-!- INTERACTION:
+    P0A6F5:groL; NbExp=1; IntAct=EBI-1120112, EBI-543750;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family. Molybdate
+    importer (TC 3.A.1.8) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Molybdenum; Nucleotide-binding; Transport.
+TMZERO

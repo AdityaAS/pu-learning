@@ -1,0 +1,43 @@
+AC   Q9QXZ0; P97394; P97395; P97396;
+Microtubule-actin cross-linking factor 1 (Actin cross-linking family
+7).
+"Microtubule actin cross-linking factor (MACF): a hybrid of dystonin
+and dystrophin that can interact with the actin and microtubule
+cytoskeletons.";
+"Cloning and characterization of mouse ACF7, a novel member of the
+dystonin subfamily of actin binding proteins.";
+"Comprehensive identification of phosphorylation sites in postsynaptic
+density preparations.";
+-!- FUNCTION: F-actin-binding protein which may play a role in cross-
+    linking actin to other cytoskeletal proteins. Also binds to
+    microtubules.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=2;
+      IsoId=Q9QXZ0-1; Sequence=Displayed;
+    Name=1;
+      IsoId=Q9QXZ0-2; Sequence=VSP_000717;
+      Note=Incomplete sequence;
+    Name=3;
+      IsoId=Q9QXZ0-3; Sequence=VSP_000718;
+-!- TISSUE SPECIFICITY: Expressed mainly in lung, brain, spinal cord,
+    skeletal and cardiac muscle, and skin.
+-!- SIMILARITY: Contains 1 actin-binding domain.
+-!- SIMILARITY: Contains 2 CH (calponin-homology) domains.
+-!- SIMILARITY: Contains 2 EF-hand domains.
+-!- SIMILARITY: Contains 1 SH3 domain.
+-!- SIMILARITY: Contains 37 spectrin repeats.
+ GO:0015629; C:actin cytoskeleton; IDA:MGI.
+ GO:0015630; C:microtubule cytoskeleton; IDA:MGI.
+ GO:0003779; F:actin binding; IDA:MGI.
+ GO:0008017; F:microtubule binding; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:MGI.
+ GO:0006928; P:cell motility; IMP:MGI.
+ GO:0007163; P:establishment and/or maintenance of cell po...; IMP:MGI.
+ GO:0001707; P:mesoderm formation; IMP:MGI.
+ GO:0006620; P:posttranslational protein targeting to memb...; IMP:MGI.
+ GO:0016055; P:Wnt receptor signaling pathway; IGI:MGI.
+Actin-binding; Alternative splicing; Calcium; Cytoskeleton;
+Phosphorylation; Repeat; SH3 domain.
+TMZERO

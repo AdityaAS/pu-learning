@@ -1,0 +1,48 @@
+AC   P00163; Q35802; Q35807; Q36301; Q9ZZW9;
+Cytochrome b (Ubiquinol-cytochrome-c reductase complex cytochrome b
+subunit) (Complex III subunit CYTB) (Cytochrome b-c1 complex subunit
+CYTB).
+"Assembly of the mitochondrial membrane system. DNA sequence and
+organization of the cytochrome b gene in Saccharomyces cerevisiae
+D273-10B.";
+"Revision of the nucleotide sequence at the last intron of the
+mitochondrial apocytochrome b gene in Saccharomyces cerevisiae.";
+"Limitations to in vivo import of hydrophobic proteins into yeast
+mitochondria. The case of a cytoplasmically synthesized apocytochrome
+b.";
+"The complete sequence of the mitochondrial genome of Saccharomyces
+cerevisiae.";
+"Sequence of introns and flanking exons in wild-type and box3 mutants
+of cytochrome b reveals an interlaced splicing protein coded by an
+intron.";
+"Splice points of the third intron in the yeast mitochondrial
+cytochrome b gene.";
+"Electron-transfer restoration by vitamin K3 in a complex III-
+deficient mutant of S. cerevisiae and sequence of the corresponding
+cytochrome b mutation.";
+"Structure at 2.3 A resolution of the cytochrome bc1 complex from the
+yeast Saccharomyces cerevisiae co-crystallized with an antibody Fv
+fragment.";
+"Crystal structure of the yeast cytochrome bc1 complex with its bound
+substrate cytochrome c.";
+-!- FUNCTION: Component of the ubiquinol-cytochrome c reductase
+    complex (complex III or cytochrome b-c1 complex), which is part of
+    the mitochondrial respiratory chain that generates an
+    electrochemical potential coupled to ATP synthesis. The complex
+    couples electron transfer from ubiquinol to cytochrome c.
+-!- COFACTOR: Binds 2 heme groups non-covalently (By similarity).
+-!- SUBUNIT: Fungi cytochrome b-c1 complex contains 10 subunits; 3
+    respiratory subunits, 2 core proteins and 5 low-molecular weight
+    proteins. Cytochrome b-c1 complex is a homodimer.
+-!- MISCELLANEOUS: Heme 1 (or BL or b562) is low-potential and absorbs
+    at about 562 nm, and heme 2 (or BH or b566) is high-potential and
+    absorbs at about 566 nm (By similarity).
+-!- SIMILARITY: Belongs to the cytochrome b family.
+ GO:0005750; C:respiratory chain complex III (sensu Eukary...; IDA:SGD.
+ GO:0008121; F:ubiquinol-cytochrome-c reductase activity; IDA:SGD.
+ GO:0009060; P:aerobic respiration; IMP:SGD.
+ GO:0006122; P:mitochondrial electron transport, ubiquinol...; IMP:SGD.
+3D-structure; Complete proteome; Electron transport; Heme; Iron;
+Membrane; Metal-binding; Mitochondrion; Respiratory chain;
+Transmembrane; Transport.
+TMZERO

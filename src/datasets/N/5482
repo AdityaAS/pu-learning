@@ -1,0 +1,14 @@
+AC   O57840;
+Fructose-bisphosphate aldolase class 1 (EC 4.1.2.13) (Fructose-
+biphosphate aldolase class I) (FBP aldolase).
+"Complete sequence and gene organization of the genome of a hyper-
+thermophilic archaebacterium, Pyrococcus horikoshii OT3.";
+-!- CATALYTIC ACTIVITY: D-fructose 1,6-bisphosphate = glycerone
+    phosphate + D-glyceraldehyde 3-phosphate.
+-!- ENZYME REGULATION: Activated by citrate (By similarity).
+-!- SUBUNIT: Homooctamer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the deoC/fbaB aldolase family.
+ GO:0004332; F:fructose-bisphosphate aldolase activity; IEA:EC.
+Complete proteome; Glycolysis; Lyase; Schiff base.
+TMZERO

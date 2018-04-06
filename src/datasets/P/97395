@@ -1,0 +1,11 @@
+AC   P01516;
+Mastoparan-C.
+"Isolation and characterization of two new peptides, mastoparan C and
+crabrolin, from the venom of the European hornet, Vespa crabro.";
+-!- FUNCTION: Mast cell degranulating peptide. Activates G proteins
+    that couple to phospholipase C.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the MCD family. Mastoparan subfamily.
+Amidation; Direct protein sequencing; Mast cell degranulation.
+TMZERO

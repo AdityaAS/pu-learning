@@ -1,0 +1,16 @@
+AC   Q00974;
+UDP-N-acetylglucosamine transporter YEA4 (Golgi UDP-GlcNAc
+transporter).
+"Molecular cloning of the Golgi apparatus uridine diphosphate-N-
+acetylglucosamine transporter from Kluyveromyces lactis.";
+"Genome evolution in yeasts.";
+-!- FUNCTION: Sugar transporter that specifically mediates the
+    transport of UDP-N-acetylglucosamine (UDP-GlcNAc) from the cytosol
+    into Golgi vesicles where glycosyltransferases function.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the nucleotide-sugar transporter family.
+    SLC35A subfamily.
+Complete proteome; Golgi apparatus; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTEN

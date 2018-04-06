@@ -1,0 +1,16 @@
+AC   P0C189; P00092;
+Cytochrome c2.
+"Cytochrome c2 of Rhodospirillum rubrum. II. Complete amino acid
+sequence and phylogenetic relationships.";
+"The structure of oxidized cytochrome c2 of Rhodospirillum rubrum.";
+"Atomic coordinates for ferricytochrome c2 of Rhodospirillum rubrum.";
+-!- FUNCTION: Cytochrome c2 is found mainly in purple, non-sulfur,
+    photosynthetic bacteria where it functions as the electron donor
+    to the oxidized bacteriochlorophyll in the photophosphorylation
+    pathway. However, it may also have a role in the respiratory chain
+    and is found in some non-photosynthetic bacteria.
+-!- PTM: Binds 1 heme group per subunit.
+-!- SIMILARITY: Belongs to the cytochrome c family.
+3D-structure; Direct protein sequencing; Electron transport; Heme;
+Iron; Metal-binding; Photosynthesis; Transport.
+TMZERO

@@ -1,0 +1,19 @@
+AC   P03015; Q9T1U8;
+DNA-invertase.
+"DNA inversions in the chromosome of Escherichia coli and in
+bacteriophage Mu: relationship to other site-specific recombination
+systems.";
+"Bacteriophage Mu genome sequence: analysis and comparison with Mu-
+like prophages in Haemophilus, Neisseria and Deinococcus.";
+"Methylation regulates the expression of a DNA-modification function
+encoded by bacteriophage Mu.";
+"The DNA invertase Gin of phage Mu: formation of a covalent complex
+with DNA via a phosphoserine at amino acid position 9.";
+"Isolation and characterization of unusual gin mutants.";
+-!- FUNCTION: This protein catalyzes the inversion of a 3000-bp
+    segment of phage DNA. The inversion results in a modification of
+    the 3'-end of the tail fiber gene and alters the host specificity.
+-!- SIMILARITY: Belongs to the site-specific recombinase resolvase
+    family.
+DNA integration; DNA invertase; DNA recombination; DNA-binding.
+TMZERO

@@ -1,0 +1,30 @@
+AC   P23631; O76456; Q25328;
+Alpha-latrotoxin precursor (Alpha-LTX).
+"Cloning and structure of cDNA encoding alpha-latrotoxin from black
+widow spider venom.";
+"Alpha-latrotoxin action probed with recombinant toxin: receptors
+recruit alpha-latrotoxin but do not transduce an exocytotic signal.";
+"Structure of tryptic fragments of a neurotoxin from black widow
+spider venom.";
+"Tetramerisation of alpha-latrotoxin by divalent cations is
+responsible for toxin-induced non-vesicular release and contributes to
+the Ca(2+)-dependent vesicular exocytosis from synaptosomes.";
+-!- FUNCTION: Binds to high-affinity receptors that are localized in
+    the presynaptic plasma membrane of the nerve terminal. Binding of
+    toxin results in calcium influx into nerve terminals, activation
+    of synaptic vesicle exocytosis, and ATP depletion. May act by
+    forming cation-permeable pore-like tetramers that permeabilize the
+    cell membrane and cause both neurotransmitter release and non
+    vesicular leakage. Binding to receptors and activation of
+    phospholipase C is not sufficient to trigger neurotransmitter
+    release.
+-!- SUBUNIT: Homotetramer; Homotetramerization is triggered by calcium
+    and is responsible for non-vesicular release and calcium-dependent
+    vesicular exocytosis.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- PTM: Alpha-latrotoxin is probably processed at its C-terminus.
+-!- SIMILARITY: Belongs to the latrotoxin family.
+-!- SIMILARITY: Contains 21 ANK repeats.
+ANK repeat; Direct protein sequencing; Neurotoxin;
+Presynaptic neurotoxin; Repeat; Signal; Toxin.
+TMZERO

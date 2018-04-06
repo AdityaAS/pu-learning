@@ -1,0 +1,13 @@
+AC   P47932;
+Prorelaxin 1 precursor [Contains: Relaxin B chain; Relaxin A chain].
+"The mouse relaxin gene: nucleotide sequence and expression.";
+"Mouse relaxin: synthesis and biological activity of the first relaxin
+with an unusual crosslinking pattern.";
+-!- FUNCTION: Relaxin is an ovarian hormone that acts with estrogen to
+    produce dilatation of the birth canal in many mammals.
+-!- SUBUNIT: Heterodimer of a B chain and an A chain linked by two
+    disulfide bonds.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the insulin family.
+Hormone; Signal.
+TMZERO

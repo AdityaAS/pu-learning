@@ -1,0 +1,10 @@
+AC   Q10320;
+UPF0016 protein C17G8.08c.
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the UPF0016 family.
+ GO:0005783; C:endoplasmic reticulum; IDA:GeneDB_SPombe.
+ GO:0005794; C:Golgi apparatus; IDA:GeneDB_SPombe.
+Complete proteome; Membrane; Transmembrane.
+TMSEVEN

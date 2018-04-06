@@ -1,0 +1,10 @@
+AC   P66120; P56048;
+50S ribosomal protein L23.
+"Genomic sequence comparison of two unrelated isolates of the human
+gastric pathogen Helicobacter pylori.";
+-!- FUNCTION: Binds to a specific region on the 23S rRNA (By
+    similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L23P family.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

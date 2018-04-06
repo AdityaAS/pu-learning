@@ -1,0 +1,27 @@
+AC   P36631; O59696; Q9UU71;
+Transcription factor ste11.
+"Schizosaccharomyces pombe ste11+ encodes a transcription factor with
+an HMG motif that is a critical regulator of sexual development.";
+"The genome sequence of Schizosaccharomyces pombe.";
+"Large-scale screening of intracellular protein localization in living
+fission yeast cells by the use of a GFP-fusion genomic DNA library.";
+"Ste11p, a high-mobility-group box DNA-binding protein, undergoes
+pheromone- and nutrient-regulated nuclear-cytoplasmic shuttling.";
+-!- FUNCTION: Key transcription factor for sexual development.
+    Activates the transcription of the matp, matm, mei2, mfm, ste6 and
+    rgs1 genes. Binds specifically to a DNA fragment carrying a 10-
+    base motif 5'-TTCTTTGTTY-3'.
+-!- SUBCELLULAR LOCATION: Nucleus. Cytoplasm. Note=Accumulates in the
+    nucleus under conditions of nitrogen starvation and in the
+    presence of mating pheromones.
+-!- INDUCTION: By nitrogen starvation.
+-!- PTM: Phosphorylation results in inactivation.
+-!- SIMILARITY: Contains 1 HMG box DNA-binding domain.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0003700; F:transcription factor activity; IDA:GeneDB_SPombe.
+ GO:0000747; P:conjugation with cellular fusion; IMP:GeneDB_SPombe.
+ GO:0051039; P:positive regulation of transcription, meiotic; IMP:GeneDB_SPombe.
+Activator; Complete proteome; DNA-binding; Nuclear protein;
+Phosphorylation; Transcription; Transcription regulation.
+TMZERO

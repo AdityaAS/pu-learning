@@ -1,0 +1,16 @@
+AC   Q8YHL9;
+Adenylate kinase (EC 2.7.4.3) (ATP-AMP transphosphorylase).
+"The genome sequence of the facultative intracellular pathogen
+Brucella melitensis.";
+-!- FUNCTION: This small ubiquitous enzyme is essential for
+    maintenance and cell growth.
+-!- CATALYTIC ACTIVITY: ATP + AMP = 2 ADP.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the adenylate kinase family.
+ GO:0004017; F:adenylate kinase activity; IEA:HAMAP.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+ GO:0009165; P:nucleotide biosynthesis; IEA:HAMAP.
+ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+Transferase.
+TMZERO

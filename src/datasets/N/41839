@@ -1,0 +1,31 @@
+AC   Q8C9B9; Q6ZQD7; Q8BMD0; Q8BRG2; Q8CHR5; Q9WV00;
+Death-inducer obliterator 1 (DIO-1) (Death-associated transcription
+factor 1) (DATF-1) (Fragments).
+"DIO-1 is a novel gene involved in onset of apoptosis in vitro, whose
+misexpression disrupts limb development.";
+"The transcriptional landscape of the mammalian genome.";
+"Prediction of the coding sequences of mouse homologues of KIAA gene:
+III. The complete nucleotide sequences of 500 mouse KIAA-homologous
+cDNAs identified by screening of terminal sequences of cDNA clones
+randomly sampled from size-fractionated libraries.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Putative transcription factor, weakly pro-apoptotic when
+    overexpressed.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus. Note=Translocates to the
+    nucleus after pro-apoptotic stimuli.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8C9B9-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8C9B9-2; Sequence=VSP_012363, VSP_012364;
+-!- TISSUE SPECIFICITY: Ubiquitous. Expressed at intermediate levels.
+-!- INDUCTION: Up-regulated during apoptosis.
+-!- SIMILARITY: Contains 1 PHD-type zinc finger.
+ GO:0005737; C:cytoplasm; TAS:MGI.
+ GO:0005634; C:nucleus; IDA:MGI.
+ GO:0006915; P:apoptosis; IDA:MGI.
+3D-structure; Alternative splicing; Apoptosis; Metal-binding;
+Nuclear protein; Phosphorylation; Zinc; Zinc-finger.
+TMZERO

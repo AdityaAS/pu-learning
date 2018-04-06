@@ -1,0 +1,16 @@
+AC   P52875; Q9R292;
+Transmembrane protein 165 (Transmembrane protein TPARL) (TPA-regulated
+locus protein) (Transmembrane protein PFT27).
+"Messenger RNA expressed in mouse teratocarcinoma stem cells and down-
+regulated by a tumor-promoting phorbol ester codes for a novel
+transmembrane protein.";
+"The mouse Clock locus: sequence and comparative analysis of 204 kb
+from mouse chromosome 5.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- DEVELOPMENTAL STAGE: Expressed in undifferentiated mouse F9
+    teratocarcinoma stem cells but disappearing rapidly after
+    treatment with a tumor-promoting phorbol ester.
+-!- SIMILARITY: Belongs to the UPF0016 family.
+Membrane; Transmembrane.
+TMSEVEN

@@ -1,0 +1,23 @@
+AC   Q5QW45;
+Xanthine phosphoribosyltransferase (EC 2.4.2.22) (Xanthine-guanine
+phosphoribosyltransferase) (XGPRT).
+"Genome sequence of the deep-sea gamma-proteobacterium Idiomarina
+loihiensis reveals amino acid fermentation as a source of carbon and
+energy.";
+-!- FUNCTION: Acts on guanine, xanthine and to a lesser extent
+    hypoxanthine (By similarity).
+-!- CATALYTIC ACTIVITY: 9-(5-phospho-beta-D-ribosyl)xanthine +
+    diphosphate = 5-phospho-alpha-D-ribose 1-diphosphate + xanthine.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- COFACTOR: Binds 1 sulfate ion per subunit (By similarity).
+-!- PATHWAY: Purine salvage.
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the purine/pyrimidine
+    phosphoribosyltransferase family. XGPT subfamily.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0000310; F:xanthine phosphoribosyltransferase activity; IEA:HAMAP.
+ GO:0006166; P:purine ribonucleoside salvage; IEA:HAMAP.
+Complete proteome; Glycosyltransferase; Magnesium; Metal-binding;
+Purine salvage; Transferase.
+TMZERO

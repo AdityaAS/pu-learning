@@ -1,0 +1,24 @@
+AC   P94363;
+Citrate/malate transporter (Citrate/malate-proton symporter).
+"Sequencing of a 65 kb region of the Bacillus subtilis genome
+containing the lic and cel loci, and creation of a 177 kb contig
+covering the gnt-sacXY region.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Bacillus subtilis YxkJ is a secondary transporter of the 2-
+hydroxycarboxylate transporter family that transports L-malate and
+citrate.";
+-!- FUNCTION: Proton motive force-driven secondary transporter that
+    catalyzes the uptake of both citrate and malate. Appears to be an
+    electroneutral proton-solute symporter; the number of protons
+    transported is equal to the valence of the transported anions. Is
+    strictly stereoselective, translocating only the (S)-enantiomer of
+    malate.
+-!- ENZYME REGULATION: The uptake activity is inhibited by divalent
+    metal ions such as Ca(2+), Mg(2+) and Ni(2+).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the sodium:citrate (SCF) symporter family.
+Citrate utilization; Complete proteome; Membrane; Symport;
+Transmembrane; Transport.
+TMTEN

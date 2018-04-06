@@ -1,0 +1,22 @@
+AC   P33518; Q9HRK4;
+Cytochrome c oxidase polypeptide 1 (EC 1.9.3.1) (Cytochrome c oxidase
+polypeptide I) (Cytochrome aa3 subunit 1).
+"Molecular cloning of the cytochrome aa3 gene from the archaeon
+(Archaebacterium) Halobacterium halobium.";
+"Genome sequence of Halobacterium species NRC-1.";
+-!- FUNCTION: Cytochrome c oxidase is the component of the respiratory
+    chain that catalyzes the reduction of oxygen to water. Subunits 1-
+    3 form the functional core of the enzyme complex. CO I is the
+    catalytic subunit of the enzyme. Electrons originating in
+    cytochrome c are transferred via the copper A center of subunit 2
+    and heme A of subunit 1 to the bimetallic center formed by heme A3
+    and copper B.
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- PATHWAY: Respiratory chain; terminal step.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the heme-copper respiratory oxidase family.
+Complete proteome; Copper; Direct protein sequencing;
+Electron transport; Heme; Iron; Membrane; Metal-binding;
+Oxidoreductase; Respiratory chain; Transmembrane; Transport.
+TMZERO

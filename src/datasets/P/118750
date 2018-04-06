@@ -1,0 +1,15 @@
+AC   Q45462; O34432;
+Choline-binding protein precursor.
+"Characterization of a chimeric proU operon in a subtilin-producing
+mutant of Bacillus subtilis 168.";
+"Two evolutionarily closely related ABC transporters mediate the
+uptake of choline for synthesis of the osmoprotectant glycine betaine
+in Bacillus subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Member of a high affinity multicomponent binding-
+    protein-dependent transport system for choline.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor (Probable).
+Amino-acid transport; Complete proteome; Lipoprotein; Membrane;
+Palmitate; Signal; Transport.
+TMZERO

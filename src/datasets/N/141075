@@ -1,0 +1,12 @@
+AC   Q9PKU1;
+Ribosome-binding factor A.
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+-!- FUNCTION: Associates with free 30S ribosomal subunits (but not
+    with 30S subunits that are part of 70S ribosomes or polysomes).
+    Essential for efficient processing of 16S rRNA. May interact with
+    the 5'-terminal helix region of 16S rRNA (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the rbfA family.
+Complete proteome; rRNA processing.
+TMZERO

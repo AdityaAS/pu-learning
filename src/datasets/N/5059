@@ -1,0 +1,30 @@
+AC   O88884; O88980;
+A kinase anchor protein 1, mitochondrial precursor (Protein kinase A-
+anchoring protein 1) (PRKA1) (A-kinase anchor protein 121 kDa) (AKAP
+121) (Dual specificity A-kinase-anchoring protein 1) (D-AKAP-1)
+(Spermatid A-kinase anchor protein 84) (S-AKAP84).
+"Expression of a kinase anchor protein 121 is regulated by hormones in
+thyroid and testicular germ cells.";
+-!- FUNCTION: Binds to type I and II regulatory subunits of protein
+    kinase A and anchors them to the cytoplasmic face of the
+    mitochondrial outer membrane.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane
+    (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=AKAP121;
+      IsoId=O88884-1; Sequence=Displayed;
+    Name=2; Synonyms=S-AKAP84;
+      IsoId=O88884-2; Sequence=VSP_002854, VSP_002855;
+-!- TISSUE SPECIFICITY: Testis specific.
+-!- INDUCTION: By thyroid stimulating hormone (TSH) and cAMP or cAMP-
+    analog.
+-!- DOMAIN: RII-alpha binding site, predicted to form an amphipathic
+    helix, could participate in protein-protein interactions with a
+    complementary surface on the R-subunit dimer.
+-!- SIMILARITY: Contains 1 KH domain.
+-!- SIMILARITY: Contains 1 Tudor domain.
+ GO:0019901; F:protein kinase binding; IDA:RGD.
+Alternative splicing; Membrane; Mitochondrion; Outer membrane;
+Phosphorylation; RNA-binding; Transit peptide; Transmembrane.
+TMZERO

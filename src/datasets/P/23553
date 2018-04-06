@@ -1,0 +1,20 @@
+AC   P22522;
+Colicin-V precursor (Microcin-V bacteriocin).
+"Genetic analysis of an MDR-like export system: the secretion of
+colicin V.";
+"Characterization of a hemoglobin protease secreted by the pathogenic
+Escherichia coli strain EB1.";
+"The leader peptide of colicin V shares consensus sequences with
+leader peptides that are common among peptide bacteriocins produced by
+Gram-positive bacteria.";
+"Purification and characterization of colicin V from Escherichia coli
+culture supernatants.";
+-!- FUNCTION: Colicin V kills sensitive cells by disrupting the
+    membrane potential.
+-!- FUNCTION: Colicins are polypeptide toxins produced by, and active
+    against, Escherichia coli and closely related bacteria.
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=Secreted by the
+    cvaAB/tolC export system.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing;
+Plasmid.
+TMZERO

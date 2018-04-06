@@ -1,0 +1,12 @@
+AC   P95677;
+10 kDa chaperonin (Protein Cpn10) (groES protein).
+"Molecular analysis of the Rhodobacter capsulatus chaperonin (groESL)
+operon: purification and characterization of Cpn60.";
+-!- FUNCTION: Binds to Cpn60 in the presence of Mg-ATP and suppresses
+    the ATPase activity of the latter.
+-!- SUBUNIT: Heptamer of 7 subunits arranged in a ring (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the groES chaperonin family.
+Chaperone.
+TMZERO

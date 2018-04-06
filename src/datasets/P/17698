@@ -1,0 +1,39 @@
+AC   P17213; Q9BYZ9; Q9H1L2; Q9H1M8; Q9H203; Q9UD65;
+Bactericidal permeability-increasing protein precursor (BPI) (CAP 57).
+"Cloning of the cDNA of a human neutrophil bactericidal protein.
+Structural and functional correlations.";
+"Bactericidal/permeability-increasing protein and lipopolysaccharide
+(LPS)-binding protein. LPS binding properties and effects on LPS-
+mediated cell activation.";
+"Cloning of cDNA of human bactericidal/permeability-increasing
+protein.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"A 25-kDa NH2-terminal fragment carries all the antibacterial
+activities of the human neutrophil 60-kDa bactericidal/permeability-
+increasing protein.";
+"Antibiotic proteins of human polymorphonuclear leukocytes.";
+"Crystal structure of human BPI and two bound phospholipids at 2.4-A
+resolution.";
+-!- FUNCTION: The cytotoxic action of BPI is limited to many species
+    of Gram-negative bacteria; this specificity may be explained by a
+    strong affinity of the very basic N-terminal half for the
+    negatively charged lipopolysaccharides that are unique to the
+    Gram-negative bacterial outer envelope.
+-!- SUBCELLULAR LOCATION: Note=Membrane-associated in
+    polymorphonuclear Leukocytes (PMN) granules.
+-!- TISSUE SPECIFICITY: Restricted to cells of the myeloid series.
+-!- DOMAIN: The N-terminal region may be exposed to the interior of
+    the granule, whereas the C-terminal portion may be embedded in the
+    membrane. During phagocytosis and degranulation, proteases may be
+    released and activated and cleave BPI at the junction of the N-
+    and C-terminal portions of the molecule, providing controlled
+    release of the N-terminal antibacterial fragment when bacteria are
+    ingested.
+-!- SIMILARITY: Belongs to the BPI/LBP/Plunc superfamily. BPI/LBP
+    family.
+-!- CAUTION: Ref.4 (CAC10453 and CAC27350) sequences differ from that
+    shown due to erroneous gene model prediction.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+3D-structure; Antibiotic; Antimicrobial; Direct protein sequencing;
+Glycoprotein; Membrane; Polymorphism; Signal.
+TMZERO

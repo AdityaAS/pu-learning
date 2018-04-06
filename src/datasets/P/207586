@@ -1,0 +1,27 @@
+AC   P37387; Q2M7M9;
+D-xylose-binding periplasmic protein precursor.
+"The D-xylose binding protein of Escherichia coli.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Molecular genetics of a receptor protein for D-xylose, encoded by the
+gene xylF, in Escherichia coli.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+-!- FUNCTION: Involved in the high-affinity D-xylose membrane
+    transport system. Binds with high affinity to xylose.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- MISCELLANEOUS: E.coli has two D-xylose transport systems that
+    accumulate sugar against a concentration gradient: the xylE system
+    which utilizes the electrochemical gradient of protons and that is
+    insensitive to cold osmotic shock and the xylF system that uses a
+    high-energy phosphate compound and is sensitive to cold osmotic
+    shock.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 2
+    family.
+ GO:0015407; F:monosaccharide-transporting ATPase activity; IEA:EC.
+Complete proteome; Direct protein sequencing; Periplasmic; Signal;
+Sugar transport; Transport.
+TMZERO

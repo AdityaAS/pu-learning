@@ -1,0 +1,22 @@
+AC   O82855;
+Multidrug resistance protein norM (Na(+)/drug antiporter) (Multidrug-
+efflux transporter).
+"NorM, a putative multidrug efflux protein, of Vibrio parahaemolyticus
+and its homolog in Escherichia coli.";
+"Genome sequence of Vibrio parahaemolyticus: a pathogenic mechanism
+distinct from that of V. cholerae.";
+"The multidrug efflux protein NorM is a prototype of a new family of
+transporters.";
+"NorM of Vibrio parahaemolyticus is an Na(+)-driven multidrug efflux
+pump.";
+-!- FUNCTION: Multidrug efflux pump that functions as a Na(+)/drug
+    antiporter. Confers resistance to several drugs, such as
+    norfloxacin, ciprofloxacin, ethidium, kanamycin and streptomycin.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the multi antimicrobial extrusion (MATE)
+    (TC 2.A.66.1) family.
+Antibiotic resistance; Antiport; Complete proteome; Inner membrane;
+Ion transport; Membrane; Sodium; Sodium transport; Transmembrane;
+Transport.
+TMTWELVE

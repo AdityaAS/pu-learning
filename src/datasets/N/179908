@@ -1,0 +1,18 @@
+AC   Q55778;
+Glutamyl-tRNA synthetase (EC 6.1.1.17) (Glutamate--tRNA ligase)
+(GluRS).
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. I. Sequence features in the 1 Mb
+region from map positions 64% to 92% of the genome.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- CATALYTIC ACTIVITY: ATP + L-glutamate + tRNA(Glu) = AMP +
+    diphosphate + L-glutamyl-tRNA(Glu).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

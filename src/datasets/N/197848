@@ -1,0 +1,23 @@
+AC   Q18217;
+NEDD8-activating enzyme E1 regulatory subunit (Ubiquitin-like
+activation protein 1).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+"The NED-8 conjugating system in Caenorhabditis elegans is required
+for embryogenesis and terminal differentiation of the hypodermis.";
+-!- FUNCTION: Regulatory subunit of the dimeric uba-3-ula-1 E1 enzyme.
+    E1 activates NEDD8 by first adenylating its C-terminal glycine
+    residue with ATP, thereafter linking this residue to the side
+    chain of the catalytic cysteine, yielding a NEDD8-Uba-3 thioester
+    and free AMP. E1 finally transfers NEDD8 to the catalytic cysteine
+    of ubc-12.
+-!- PATHWAY: NEDD8 conjugation; first step.
+-!- SUBUNIT: Heterodimer of uba-3 and ula-1. The complex binds NEDD8
+    and ubc-12 (By similarity).
+-!- MISCELLANEOUS: Inactivation of ula-1 results in the formation of
+    an everted vulva in the L4 stage, with the subsequent rupture of
+    the animal during the L4-to-adult molt.
+-!- SIMILARITY: Belongs to the ubiquitin-activating E1 family. ULA1
+    subfamily.
+Complete proteome; Ligase; Ubl conjugation pathway.
+TMZERO

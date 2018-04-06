@@ -1,0 +1,15 @@
+AC   P16482;
+Citrate-proton symporter (Citrate transporter) (Citrate carrier
+protein).
+"DNA sequence of a citrate carrier of Klebsiella pneumoniae.";
+-!- FUNCTION: Uptake of citrate across the boundary membrane with the
+    concomitant transport of protons into the cell (symport system).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: Allows the utilization of citrate as a sole source
+    of carbon and energy.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Citrate utilization; Inner membrane; Membrane; Symport; Transmembrane;
+Transport.
+TMTWELVE

@@ -1,0 +1,18 @@
+AC   P11478;
+Neutrophil cationic peptide 1 type A precursor (GNCP-1A) [Contains:
+Neutrophil cationic peptide 1 (Neutrophil defensin) (GPNP)
+(Corticostatic peptide GP-CS1) (CP-1)].
+"Characterization of cDNA clones encoding guinea pig neutrophil
+cationic peptides.";
+"Purification, primary structure, and antimicrobial activities of a
+guinea pig neutrophil defensin.";
+"Isolation and characterization of corticostatic peptides from guinea
+pig bone marrow.";
+"Purification, primary structure, and biological activity of guinea
+pig neutrophil cationic peptides.";
+-!- FUNCTION: Has antibiotic, anti-fungi and antiviral activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the alpha-defensin family.
+Antibiotic; Antimicrobial; Antiviral defense; Defensin;
+Direct protein sequencing; Fungicide; Signal.
+TMZERO

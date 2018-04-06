@@ -1,0 +1,21 @@
+AC   P32660;
+Probable phospholipid-transporting ATPase DNF1 (EC 3.6.3.1).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: This magnesium-dependent enzyme catalyzes the hydrolysis
+    of ATP coupled with the transport of phospholipids (Potential).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IV subfamily.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0004012; F:phospholipid-translocating ATPase activity; IGI:SGD.
+ GO:0006897; P:endocytosis; IGI:SGD.
+ GO:0030467; P:establishment and/or maintenance of cell po...; IGI:SGD.
+ GO:0006886; P:intracellular protein transport; IGI:SGD.
+ GO:0045332; P:phospholipid translocation; IGI:SGD.
+ATP-binding; Complete proteome; Hydrolase; Magnesium; Membrane;
+Nucleotide-binding; Phosphorylation; Transmembrane.
+TMTEN

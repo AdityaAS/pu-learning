@@ -1,0 +1,92 @@
+AC   P55926; O88762; Q91YB8; Q99NA1;
+Amiloride-sensitive cation channel 2, neuronal (Acid-sensing ion
+channel 1) (ASIC1) (Brain sodium channel 2) (BNaC2).
+"A proton-gated cation channel involved in acid-sensing.";
+"A sensory neuron-specific, proton-gated ion channel.";
+"Molecular and functional characterization of acid-sensing ion channel
+(ASIC) 1b.";
+"Cloning and functional expression of ASIC-beta2, a splice variant of
+ASIC-beta.";
+"The acid-sensitive ionic channel subunit ASIC and the mammalian
+degenerin MDEG form a heteromultimeric H+-gated Na+ channel with novel
+properties.";
+"Isolation of a tarantula toxin specific for a class of proton-gated
+Na+ channels.";
+"Neuropeptide FF and FMRFamide potentiate acid-evoked currents from
+sensory neurons and proton-gated DEG/ENaC channels.";
+"Nonsteroid anti-inflammatory drugs inhibit both the activity and the
+inflammation-induced expression of acid-sensing ion channels in
+nociceptors.";
+"Alternative splicing and interaction with di- and polyvalent cations
+control the dynamic range of acid-sensing ion channel 1 (ASIC1).";
+"Functional implications of the localization and activity of acid-
+sensitive channels in rat peripheral nervous system.";
+"The extracellular domain determines the kinetics of desensitization
+in acid-sensitive ion channel 1.";
+"Neuroprotection in ischemia: blocking calcium-permeable acid-sensing
+ion channels.";
+"Identification of the Ca2+ blocking site of acid-sensing ion channel
+(ASIC) 1: implications for channel gating.";
+-!- FUNCTION: Cation channel with high affinity for sodium, which is
+    gated by extracellular protons and inhibited by the diuretic
+    amiloride. Also permeable for Ca(2+), Li(+) and K(+). Generates a
+    biphasic current with a fast inactivating and a slow sustained
+    phase. Isoform 3 discrimates stronger than isoform 1 between
+    monovalent cations. Isoform 3 can flux Ca(2+) while isoform 1
+    cannot. Heteromeric channels composed of isoform 2 and isoform 3
+    are active but have a lower pH-sensitivity. Mediates glutamate-
+    independent Ca(2+) entry into neurons upon acidosis. This Ca(2+)
+    overloading is toxic for cortical neurons and may be in part
+    responsible for ischemic brain injury. Heteromeric channel
+    assembly seems to modulate channel properties.
+-!- SUBUNIT: Homotetramer or heterotetramer with other ASIC proteins
+    (Probable). Interacts with STOM and PRKCABP (By similarity).
+    Interacts with ACCN1.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity). Note=Localizes in synaptosomes at dendritic
+    synapses of neurons. Colocalizes with DLG4 (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=ASIC-alpha, asic1alpha;
+      IsoId=P55926-1; Sequence=Displayed;
+    Name=2; Synonyms=ASIC-beta2;
+      IsoId=P55926-2; Sequence=VSP_015597, VSP_015598;
+      Note=Inactive;
+    Name=3; Synonyms=ASIC-beta, ASIC1b;
+      IsoId=P55926-3; Sequence=VSP_015597, VSP_015599;
+      Note=Ref.2 (CAA07080) isoform 2 sequence differs from that shown
+      due to frameshifts in position 7 and 14. Ref.2 (CAA07080)
+      sequence is in conflict in position: 128:T->S. Blocked by
+      Ca(2+). Mutagenesis of Asp-465 to Asn reduces Ca(2+) block;
+-!- TISSUE SPECIFICITY: Expressed in dorsal root ganglia and sciatic
+    nerve (at protein level). Widely distributed throughout the brain.
+    Expressed in olfactory bulb, neo and allocortical regions, dentate
+    granule cells, pyramidal cells of CA1-CA3 subfields of the
+    hippocampal formation, habenula, basolateral amygdaloid nuclei,
+    and in the Purkinje and granule cells of the cerebellum. Diffusely
+    detected over most other regions of the basal ganglia, including
+    thalamic nuclei, substantia nigra, striatum and globus pallidus,
+    hypothalamus, midbrain, pons, medulla and choroid plexus. Isoform
+    3 is expressed only in dorsal root ganglion (DRG) while isoform 1
+    is expressed in DRG, spinal chord, trigeminal ganglia and the
+    trigeminal mesencephalic nucleus.
+-!- INDUCTION: Up-regulation upon tissues inflammation is abolished by
+    anti-inflammatory drugs.
+-!- PTM: Phosphorylation by PKA regulates interaction with PRKCABP and
+    subcellular location. Phosphorylation by PKC may regulate the
+    channel (By similarity).
+-!- MISCELLANEOUS: Potentiated by Ca(2+), Mg(2+), Ba(2+), multivalent
+    cations and potentiated by FMRFamide-related neuropeptides. PH
+    dependence may be regulated by serine proteases. Inhibited by
+    anti-inflammatory drugs like salicylic acid. Isoform 1
+    homomultimeric channel is specifically and reversibly inhibited by
+    PcTX1, a tarantula venom toxin, while isoform 2 and other ASICs
+    are insensitive.
+-!- SIMILARITY: Belongs to the amiloride-sensitive sodium channel
+    family.
+ GO:0005216; F:ion channel activity; IDA:RGD.
+ GO:0019233; P:sensory perception of pain; NAS:RGD.
+Alternative splicing; Calcium; Calcium transport; Glycoprotein;
+Ion transport; Ionic channel; Membrane; Phosphorylation; Sodium;
+Sodium channel; Sodium transport; Transmembrane; Transport.
+TMTWO

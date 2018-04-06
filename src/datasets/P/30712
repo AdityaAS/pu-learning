@@ -1,0 +1,19 @@
+AC   Q56408;
+Cytochrome c oxidase subunit 1 (EC 1.9.3.1) (Cytochrome c oxidase
+polypeptide I) (Cytochrome c ba(3) subunit I) (Cytochrome cba3 subunit
+1) (Fragment).
+"Ribosomal protein S15 from Thermus thermophilus -- cloning,
+sequencing, overexpression of the gene and RNA-binding properties of
+the protein.";
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- COFACTOR: Binds 2 heme groups (By similarity).
+-!- COFACTOR: Copper B (By similarity).
+-!- PATHWAY: Respiratory chain; terminal step.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the heme-copper respiratory oxidase family.
+3D-structure; Copper; Electron transport; Heme;
+Hydrogen ion transport; Ion transport; Iron; Membrane; Metal-binding;
+Oxidoreductase; Respiratory chain; Transmembrane; Transport.
+THTHREE

@@ -1,0 +1,14 @@
+AC   P83621;
+Cupiennin-1c.
+"Cupiennin 1, a new family of highly basic antimicrobial peptides in
+the venom of the spider Cupiennius salei (Ctenidae).";
+-!- FUNCTION: Has antimicrobial activity against E.coli, E.faecalis,
+    P.aeruginosa, and S.aureus.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- MASS SPECTROMETRY: MW=3769.75; MW_ERR=0.5; METHOD=Electrospray;
+    RANGE=1-35; NOTE=Ref.1.
+-!- SIMILARITY: Belongs to the cupiennin family.
+Amidation; Antibiotic; Antimicrobial; Cytolysis;
+Direct protein sequencing; Hemolysis; Neurotoxin; Toxin.
+TMZERO

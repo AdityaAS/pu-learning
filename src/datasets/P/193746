@@ -1,0 +1,64 @@
+AC   Q9H1D0; Q8TDL3; Q8WXR8; Q96LC5; Q9H1D1; Q9H296;
+Transient receptor potential cation channel subfamily V member 6
+(TrpV6) (Epithelial calcium channel 2) (ECaC2) (Calcium transport
+protein 1) (CaT1) (CaT-like) (CaT-L).
+"Human calcium transport protein CaT1.";
+"1,25-dihydroxyvitamin D3 increases the expression of the CaT1
+epithelial calcium channel in the Caco-2 human intestinal cell line.";
+"Structural conservation of the genes encoding CaT1, CaT2, and related
+cation channels.";
+"Expression of CaT-like, a novel calcium selective channel, correlates
+with the malignancy of prostate cancer.";
+"A CaT1 splice variant lacking ankyrin repeats.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"Competitive regulation of CaT-like-mediated Ca2+ entry by protein
+kinase C and calmodulin.";
+"Ca2+ dependence of the Ca2+-selective TRPV6 channel.";
+-!- FUNCTION: Calcium selective cation channel probably involved in
+    Ca(2+) uptake in various tissues, including Ca(2+) reabsorption in
+    intestine. The channel is activated by low internal calcium level,
+    probably including intracellular calcium store depletion, and the
+    current exhibits an inward rectification. Inactivation includes
+    both, a rapid Ca(2+)-dependent and a slower Ca(2+)-calmodulin-
+    dependent mechanism, the latter may be regulated by
+    phosphorylation. In vitro, is slowly inhibited by Mg(2+) in a
+    voltage-independent manner. Heteromeric assembly with TRPV5 seems
+    to modify channel properties. TRPV5-TRPV6 heteromultimeric
+    concatemers exhibit voltage-dependent gating (By similarity).
+-!- SUBUNIT: Homotetramer and probably heterotetramer with TRPV5.
+    Interacts with TRPV5. Interacts with S100A10 and probably with the
+    ANAX2-S100A10 heterotetramer. The interaction with S100A10 is
+    required for the trafficking to the plasma membrane. Interacts
+    with BSPRY (By similarity). Interacts with calmodulin.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9H1D0-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9H1D0-2; Sequence=VSP_013439;
+-!- TISSUE SPECIFICITY: Expressed at high levels in the
+    gastrointestinal tract, including esophagus, stomach, duodenum,
+    jejunum, ileum and colon, and in pancreas, placenta, prostate and
+    salivary gland. Expressed at moderate levels in liver, kidney and
+    testis. Expressed in locally advanced prostate cancer, metastatic
+    and androgen-insensitive prostatic lesions but not detected in
+    healthy prostate tissue and benign prostatic hyperplasia.
+-!- PTM: Glycosylated (By similarity).
+-!- PTM: Phosphorylation by PRKCA at the calmodulin binding site
+    delays channel inactivation.
+-!- SIMILARITY: Belongs to the transient receptor family. TrpV
+    subfamily.
+-!- SIMILARITY: Contains 5 ANK repeats.
+ GO:0005887; C:integral to plasma membrane; TAS:UniProtKB.
+ GO:0005262; F:calcium channel activity; IDA:UniProtKB.
+ GO:0005516; F:calmodulin binding; IDA:UniProtKB.
+ GO:0006816; P:calcium ion transport; NAS:UniProtKB.
+ GO:0017158; P:regulation of calcium ion-dependent exocytosis; NAS:UniProtKB.
+Alternative splicing; ANK repeat; Calcium; Calcium channel;
+Calcium transport; Calmodulin-binding; Glycoprotein; Ion transport;
+Ionic channel; Membrane; Phosphorylation; Polymorphism; Repeat;
+Transmembrane; Transport.
+TMSIX

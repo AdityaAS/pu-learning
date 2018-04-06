@@ -1,0 +1,33 @@
+AC   P12330; Q6EQF5;
+Chlorophyll a-b binding protein 1, chloroplast precursor (LHCII type I
+CAB-1) (LHCP).
+"Nucleotide sequences of two genes encoding the light harvesting
+chlorophyll a/b binding protein of rice.";
+"Classification and characterization of cDNA that encodes the light-
+harvesting chlorophyll a/b binding protein of photosystem II from
+rice.";
+"Oryza sativa nipponbare chromosome 9 genomic DNA sequence.";
+"Collection, mapping, and annotation of over 28,000 cDNA clones from
+japonica rice.";
+-!- FUNCTION: The light-harvesting complex (LHC) functions as a light
+    receptor, it captures and delivers excitation energy to
+    photosystems with which it is closely associated.
+-!- COFACTOR: Binds at least 14 chlorophylls (8 Chl-a and 6 Chl-b) and
+    carotenoids such as lutein and neoxanthin (By similarity).
+-!- SUBUNIT: The LHC complex consists of chlorophyll a-b binding
+    proteins.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; multi-pass membrane protein.
+-!- DOMAIN: The N-terminus of the protein extends into the stroma
+    where it is involved with adhesion of granal membranes and post-
+    translational modifications; both are believed to mediate the
+    distribution of excitation energy between photosystems I and II.
+-!- PTM: Photoregulated by reversible phosphorylation of its threonine
+    residues (By similarity).
+-!- SIMILARITY: Belongs to the light-harvesting chlorophyll a/b-
+    binding (LHC) protein family.
+Acetylation; Chlorophyll; Chloroplast; Chromophore; Magnesium;
+Membrane; Metal-binding; Phosphorylation; Photosynthesis;
+Photosystem I; Photosystem II; Plastid; Thylakoid; Transit peptide;
+Transmembrane.
+TMFOUR

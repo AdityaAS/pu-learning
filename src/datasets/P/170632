@@ -1,0 +1,48 @@
+AC   P39742;
+Translocation protein SEC72 (Sec62/63 complex 23 kDa subunit) (p23).
+"Sec72p contributes to the selective recognition of signal peptides by
+the secretory polypeptide translocation complex.";
+"Evidence that GCD6 and GCD7, translational regulators of GCN4, are
+subunits of the guanine nucleotide exchange factor for eIF-2 in
+Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"GSP1 and GSP2, genetic suppressors of the prp20-1 mutant in
+Saccharomyces cerevisiae: GTP-binding proteins involved in the
+maintenance of nuclear organization.";
+"A Sec63p-BiP complex from yeast is required for protein translocation
+in a reconstituted proteoliposome.";
+"Assembly of yeast Sec proteins involved in translocation into the
+endoplasmic reticulum into a membrane-bound multisubunit complex.";
+"Posttranslational protein transport in yeast reconstituted with a
+purified complex of Sec proteins and Kar2p.";
+"Global analysis of protein expression in yeast.";
+"Identification of novel protein-protein interactions at the cytosolic
+surface of the Sec63 complex in the yeast ER membrane.";
+-!- FUNCTION: Acts as non-essential component of the Sec62/63 complex
+    which is involved in SRP-independent posttranslational
+    translocation across the endoplasmic reticulum (ER) and functions
+    together with the Sec61 complex and KAR2 in a channel-forming
+    translocon complex. A cycle of assembly and disassembly of
+    Sec62/63 complex from SEC61 may govern the activity of the
+    translocon. SEC72 may be involved in signal peptide recognition
+    for a defined subset of leader peptides, or may increase the
+    efficiency of unusual or "difficult" secretory precursors to the
+    translocation pore, it may be that this protein binds charged
+    leader peptides to the membrane until they engage the
+    translocation apparatus.
+-!- SUBUNIT: Component of the heterotetrameric Sec62/63complex
+    composed of SEC62, SEC63, SEC71 and SEC72. The Sec62/63 complex
+    associates with the Sec61 complex to form the Sec complex. May
+    interact with protein YLR301W. Part of a complex consisting of
+    KAR2, SEC63, SEC66 and SEC72.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- MISCELLANEOUS: Present with 5290 molecules/cell.
+ GO:0005789; C:endoplasmic reticulum membrane; TAS:SGD.
+ GO:0031207; C:Sec62/Sec63 complex; IPI:SGD.
+ GO:0008565; F:protein transporter activity; TAS:SGD.
+ GO:0006620; P:posttranslational protein targeting to memb...; TAS:SGD.
+Complete proteome; Direct protein sequencing; Protein transport;
+Transport.
+TMZERO

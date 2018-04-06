@@ -1,0 +1,12 @@
+AC   Q6BH66;
+Calpain-like protease palB/RIM13 (EC 3.4.22.-) (Cysteine protease
+RIM13).
+"Genome evolution in yeasts.";
+-!- FUNCTION: Required for the proteolytic cleavage of the
+    transcription factor RIM101 in response to alkaline ambient pH (By
+    similarity).
+-!- SIMILARITY: Belongs to the peptidase C2 family. PalB/RIM13
+    subfamily.
+-!- SIMILARITY: Contains 1 calpain catalytic domain.
+Complete proteome; Hydrolase; Protease; Thiol protease.
+TMZERO

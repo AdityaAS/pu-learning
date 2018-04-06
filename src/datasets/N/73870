@@ -1,0 +1,26 @@
+AC   P10371; P78078;
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]
+imidazole-4-carboxamide isomerase (EC 5.3.1.16)
+(Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide
+isomerase).
+"Structure and function of the Salmonella typhimurium and Escherichia
+coli K-12 histidine operons.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- CATALYTIC ACTIVITY: 1-(5-phosphoribosyl)-5-((5-
+    phosphoribosylamino)methylideneamino)imidazole-4-carboxamide = 5-
+    ((5-phospho-1-deoxyribulos-1-ylamino)methylideneamino)-1-(5-
+    phosphoribosyl)imidazole-4-carboxamide.
+-!- PATHWAY: Amino-acid biosynthesis; L-histidine biosynthesis; L-
+    histidine from 5-phospho-alpha-D-ribose 1-diphosphate: step 4.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the hisA/hisF family.
+ GO:0004640; F:phosphoribosylanthranilate isomerase activity; IEA:HAMAP.
+ GO:0000162; P:tryptophan biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Complete proteome; Histidine biosynthesis;
+Isomerase.
+TMZERO

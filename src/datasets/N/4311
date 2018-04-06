@@ -1,0 +1,26 @@
+AC   Q01976;
+ADP-ribose pyrophosphatase (EC 3.6.1.13) (ADP-ribose diphosphatase)
+(Adenosine diphosphoribose pyrophosphatase) (ADPR-PPase) (ADP-ribose
+phosphohydrolase).
+"Analysis of a 70 kb region on the right arm of yeast chromosome II.";
+"Complete DNA sequence of yeast chromosome II.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Molecular analysis of yeast chromosome II between CMD1 and LYS2: the
+excision repair gene RAD16 located in this region belongs to a novel
+group of double-finger proteins.";
+"Studies on the ADP-ribose pyrophosphatase subfamily of the nudix
+hydrolases and tentative identification of trgB, a gene associated
+with tellurite resistance.";
+"Global analysis of protein expression in yeast.";
+-!- CATALYTIC ACTIVITY: ADP-ribose + H(2)O = AMP + D-ribose 5-
+    phosphate.
+-!- COFACTOR: Divalent ions. Magnesium or manganese.
+-!- MISCELLANEOUS: Present with 7330 molecules/cell.
+-!- SIMILARITY: Belongs to the Nudix hydrolase family. NudF subfamily.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0004636; F:phosphoribosyl-ATP diphosphatase activity; IDA:SGD.
+Complete proteome; Hydrolase; Magnesium; Manganese.
+TMZERO

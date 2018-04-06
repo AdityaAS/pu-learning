@@ -1,0 +1,20 @@
+AC   Q13520;
+Aquaporin-6 (AQP-6) (Aquaporin-2-like) (hKID).
+"cDNA cloning and gene structure of a novel water channel expressed
+exclusively in human kidney: evidence for a gene cluster of aquaporins
+at chromosome locus 12q13.";
+-!- FUNCTION: Forms a water-specific channel that participates in
+    distinct physiological functions such as glomerular filtration,
+    tubular endocytosis and acid-base metabolism (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasmic vesicle; cytoplasmic vesicle
+    membrane; multi-pass membrane protein (By similarity).
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0015250; F:water channel activity; TAS:ProtInc.
+ GO:0007588; P:excretion; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+3D-structure; Membrane; Repeat; Transmembrane; Transport.
+TMSIX

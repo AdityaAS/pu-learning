@@ -1,0 +1,24 @@
+AC   Q8TJC4;
+Acetyl-CoA decarbonylase/synthase complex beta subunit 2 (EC 2.3.1.-)
+(ACDS complex beta subunit 2) (ACDS complex acyltransferase 2).
+"The genome of Methanosarcina acetivorans reveals extensive metabolic
+and physiological diversity.";
+-!- FUNCTION: Part of a complex that catalyzes the reversible cleavage
+    of acetyl-CoA, allowing growth on acetate as sole source of carbon
+    and energy (By similarity).
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + [acetyl-CoA
+    decarbonylase/synthase complex beta subunit] = CoA + acetyl-
+    [acetyl-CoA decarbonylase/synthase complex beta subunit].
+-!- COFACTOR: Binds 1 nickel-iron-sulfur cluster.
+-!- PATHWAY: Methanogenesis from acetate; third step.
+-!- SUBUNIT: Monomer. The ACDS complex is made up of alpha, epsilon,
+    beta, gamma and delta chains with a probable stoichiometry of
+    (alpha(2)epsilon(2))(4)-beta(8)-(gamma(1)delta(1))(8) (Potential).
+-!- SIMILARITY: Belongs to the cdhC family.
+ GO:0016407; F:acetyltransferase activity; IEA:HAMAP.
+ GO:0005506; F:iron ion binding; IEA:HAMAP.
+ GO:0016151; F:nickel ion binding; IEA:HAMAP.
+ GO:0019385; P:methanogenesis, from acetate; IEA:HAMAP.
+Acyltransferase; Complete proteome; Iron; Iron-sulfur; Metal-binding;
+Methanogenesis; Nickel; Transferase.
+TMZERO

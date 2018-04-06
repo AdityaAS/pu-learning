@@ -1,0 +1,15 @@
+AC   P03264;
+Early E2A DNA-binding protein.
+"Nucleotide sequence of the gene encoding adenovirus type 2 DNA
+binding protein.";
+"The sequence of the 3' non-coding region of the hexon mRNA discloses
+a novel adenovirus gene.";
+"Phosphorylation of adenovirus DNA-binding protein.";
+-!- FUNCTION: Binds cooperatively single-stranded DNA in a sequence-
+    independent manner. Involved in DNA-replication, regulation of
+    mRNA formation, and host-range specificity. Zinc is required for
+    DNA binding.
+-!- SUBCELLULAR LOCATION: Nucleus. Note=Accumulates in infected cells.
+DNA-binding; Early protein; Metal-binding; Nuclear protein;
+Phosphorylation; Zinc; Zinc-finger.
+TMZERO

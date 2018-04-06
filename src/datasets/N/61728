@@ -1,0 +1,20 @@
+AC   P97785;
+GDNF family receptor alpha-1 precursor (GFR-alpha-1) (GDNF receptor
+alpha) (GDNFR-alpha) (TGF-beta-related neurotrophic factor receptor
+1).
+-!- FUNCTION: Receptor for GDNF. Mediates the GDNF-induced
+    autophosphorylation and activation of the RET receptor (By
+    similarity).
+-!- SUBUNIT: 2 molecules of GDNFR-alpha are thought to form a complex
+    with the disulfide-linked GDNF dimer and with 2 molecules of RET
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor (By
+    similarity).
+-!- SIMILARITY: Belongs to the GDNFR family.
+ GO:0019898; C:extrinsic to membrane; TAS:MGI.
+ GO:0004872; F:receptor activity; TAS:MGI.
+ GO:0009653; P:morphogenesis; TAS:MGI.
+ GO:0007399; P:nervous system development; IMP:MGI.
+ GO:0007169; P:transmembrane receptor protein tyrosine kin...; TAS:MGI.
+Glycoprotein; GPI-anchor; Lipoprotein; Membrane; Receptor; Signal.
+TMZERO

@@ -1,0 +1,20 @@
+AC   P10061;
+Hemoglobin subunit beta-2 (Hemoglobin beta-2 chain) (Beta-2-globin).
+"Primary structure of the hemoglobins from Sphenodon (Sphenodon
+punctatus, Tuatara, Rynchocephalia). Evidence for the expression of
+alpha D-gene.";
+-!- FUNCTION: Involved in oxygen transport from the lung to the
+    various peripheral tissues.
+-!- SUBUNIT: There are three forms of hemoglobin in Sphenodon: A, A'
+    and D. Hb A is a tetramer of two alpha-A and two beta-1, Hb A' is
+    a tetramer of two alpha-a and two beta-2, Hb D is a tetramer of
+    two alpha-D and two beta-2.
+-!- MISCELLANEOUS: Sphenodon Hbs have properties not found in other
+    reptiles: poor cooperativity, high affinity for oxygen, small Bohr
+    and haldane effects, appreciable phosphate effects (those
+    properties are also found in the Hbs of primitive urodele and
+    caecilian amphibians).
+-!- SIMILARITY: Belongs to the globin family.
+Direct protein sequencing; Heme; Iron; Metal-binding;
+Oxygen transport; Transport.
+TMZERO

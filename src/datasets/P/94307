@@ -1,0 +1,16 @@
+AC   P0ADC5; P75956; Q9R7N7;
+Lipoprotein-releasing system transmembrane protein lolC.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Part of an ATP-dependent transport system lolCDE
+    responsible for the release of lipoproteins targeted to the outer
+    membrane from the inner membrane. Such a release is dependent of
+    the sorting-signal (absence of an Asp at position 2 of the mature
+    lipoprotein) and of lolA (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC-4 integral membrane protein family.
+    LolC/E subfamily.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMFOUR

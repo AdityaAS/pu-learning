@@ -1,0 +1,8 @@
+AC   Q6NCM6;
+UPF0054 protein RPA0446.
+"Complete genome sequence of the metabolically versatile
+photosynthetic bacterium Rhodopseudomonas palustris.";
+-!- SIMILARITY: Belongs to the UPF0054 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

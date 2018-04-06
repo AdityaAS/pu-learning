@@ -1,0 +1,15 @@
+AC   Q10241;
+Mismatch-binding protein cmb1.
+"The high mobility group domain protein cmb1 of Schizosaccharomyces
+pombe binds to cytosines in base mismatches and opposite chemically
+altered guanines.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: Binds to cytosines in base mismatches and opposite
+    chemically altered guanines.
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Contains 1 HMG box DNA-binding domain.
+ GO:0005739; C:mitochondrion; IDA:GeneDB_SPombe.
+ GO:0003684; F:damaged DNA binding; IDA:GeneDB_SPombe.
+ GO:0006281; P:DNA repair; TAS:GeneDB_SPombe.
+Complete proteome; DNA-binding; Nuclear protein.
+TMZERO

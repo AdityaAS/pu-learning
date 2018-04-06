@@ -1,0 +1,9 @@
+AC   Q88PA1;
+UPF0042 protein PP0949.
+"Complete genome sequence and comparative analysis of the
+metabolically versatile Pseudomonas putida KT2440.";
+-!- SIMILARITY: Belongs to the UPF0042 family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+ATP-binding; Complete proteome; Nucleotide-binding.
+TMZERO

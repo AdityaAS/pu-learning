@@ -1,0 +1,12 @@
+AC   Q5XPH7;
+Ferrous iron transport protein B.
+"Isolation and characterization of FecA- and FeoB-mediated iron
+acquisition systems of the spirochete Leptospira biflexa by random
+insertional mutagenesis.";
+-!- FUNCTION: Fe(2+) uptake system, probably driven by GTP (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the feoB (TC 9.A.8) family.
+GTP-binding; Inner membrane; Ion transport; Iron; Iron transport;
+Membrane; Nucleotide-binding; Transmembrane; Transport.
+TMEIGHT

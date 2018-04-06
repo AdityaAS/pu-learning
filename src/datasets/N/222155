@@ -1,0 +1,14 @@
+AC   P41653;
+Protein ycf2.
+"Loss of all ndh genes as determined by sequencing the entire
+chloroplast genome of the black pine Pinus thunbergii.";
+-!- FUNCTION: Probable ATPase of unknown function. Its presence in a
+    non-photosynthetic plant (Epifagus virginiana) and experiments in
+    tobacco indicate that it has an essential function which is
+    probably not related to photosynthesis.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast stroma (By
+    similarity).
+-!- SIMILARITY: Belongs to the ycf2 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+ATP-binding; Chloroplast; Nucleotide-binding; Plastid.
+TMZERO

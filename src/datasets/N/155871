@@ -1,0 +1,9 @@
+AC   P72656;
+Ribonuclease E homolog (EC 3.1.4.-) (RNase E).
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- SIMILARITY: Belongs to the rne family.
+-!- SIMILARITY: Contains 1 S1 motif domain.
+Complete proteome; Endonuclease; Hydrolase; Nuclease.
+TMZERO

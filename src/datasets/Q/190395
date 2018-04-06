@@ -1,0 +1,21 @@
+AC   P0ABV6; P05829;
+Protein tolR.
+"Nucleotide sequence of a gene cluster involved in entry of E colicins
+and single-stranded DNA of infecting filamentous bacteriophages into
+Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Membrane topologies of the TolQ and TolR proteins of Escherichia
+coli: inactivation of TolQ by a missense mutation in the proposed
+first transmembrane segment.";
+-!- FUNCTION: Involved in the tonB-independent uptake of group A
+    colicins (colicins A, E1, E2, E3, and K).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein.
+-!- SIMILARITY: Belongs to the exbD/tolR family.
+Bacteriocin transport; Complete proteome; Inner membrane; Membrane;
+Protein transport; Signal-anchor; Transmembrane; Transport.
+TMONE

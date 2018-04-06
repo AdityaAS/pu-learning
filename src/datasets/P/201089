@@ -1,0 +1,10 @@
+AC   P55981;
+Vacuolating cytotoxin precursor.
+"The complete genome sequence of the gastric pathogen Helicobacter
+pylori.";
+-!- FUNCTION: Induces vacuolation of eukaryotic cells. Causes
+    ulceration and gastric lesions.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+Complete proteome; Signal; Toxin.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q66DT3;
+ATP-dependent Clp protease ATP-binding subunit clpX.
+"Insights into the evolution of Yersinia pestis through whole-genome
+comparison with Yersinia pseudotuberculosis.";
+-!- FUNCTION: ATP-dependent specificity component of the Clp protease.
+    It directs the protease to specific substrates. Can perform
+    chaperone functions in the absence of clpP (By similarity).
+-!- SUBUNIT: Heterodimer of clpP and clpX (By similarity).
+-!- SIMILARITY: Belongs to the clpX chaperone family.
+ GO:0051082; F:unfolded protein binding; IEA:HAMAP.
+ GO:0006457; P:protein folding; IEA:HAMAP.
+ATP-binding; Chaperone; Complete proteome; Metal-binding;
+Nucleotide-binding; Zinc; Zinc-finger.
+TMZERO

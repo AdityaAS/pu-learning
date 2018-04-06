@@ -1,0 +1,14 @@
+AC   O70302;
+Cell death activator CIDE-A (Cell death-inducing DFFA-like effector
+A).
+"CIDE, a novel family of cell death activators with homology to the 45
+kDa subunit of the DNA fragmentation factor.";
+-!- FUNCTION: Activates apoptosis.
+-!- SUBUNIT: Inhibited by DFFB.
+-!- SIMILARITY: Contains 1 CIDE-N domain.
+ GO:0005740; C:mitochondrial envelope; IDA:MGI.
+ GO:0005739; C:mitochondrion; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:MGI.
+ GO:0006629; P:lipid metabolism; IMP:MGI.
+Apoptosis.
+TMZERO

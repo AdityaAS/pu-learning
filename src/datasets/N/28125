@@ -1,0 +1,28 @@
+AC   P08331; Q2M692;
+2',3'-cyclic-nucleotide 2'-phosphodiesterase precursor (EC 3.1.4.16).
+"Isolation and sequence analysis of the gene (cpdB) encoding
+periplasmic 2',3'-cyclic phosphodiesterase.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Transcription and regulation of the cpdB gene in Escherichia coli K12
+and Salmonella typhimurium LT2: evidence for modulation of
+constitutive promoters by cyclic AMP-CRP complex.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+-!- FUNCTION: This bifunctional enzyme catalyzes two consecutive
+    reactions converting 2',3'-cyclic-nucleotide to 3'-nucleotide and
+    then 3'-nucleotide to nucleic acid and phosphate.
+-!- CATALYTIC ACTIVITY: Nucleoside 2',3'-cyclic phosphate + H(2)O =
+    nucleoside 3'-phosphate.
+-!- COFACTOR: Divalent cations (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- MISCELLANEOUS: Two kinetically distinguishable active sites for
+    two corresponding substrates can be identified.
+-!- SIMILARITY: Belongs to the 5'-nucleotidase family.
+Complete proteome; Direct protein sequencing; Hydrolase;
+Metal-binding; Multifunctional enzyme; Nucleotide-binding;
+Periplasmic; Signal.
+TMZERO

@@ -1,0 +1,28 @@
+AC   P32487;
+Lysine-specific permease.
+"Cloning and sequencing of the Saccharomyces cerevisiae gene LYP1
+coding for a lysine-specific permease.";
+"The sequence of a 24,152 bp segment from the left arm of chromosome
+XIV from Saccharomyces cerevisiae between the BNI1 and the POL2
+genes.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Substrate specificity and gene expression of the amino-acid permeases
+in Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"A proteomics approach to understanding protein ubiquitination.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High-affinity permease for lysine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 2580 molecules/cell.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0015174; F:basic amino acid transporter activity; IDA:SGD.
+ GO:0015802; P:basic amino acid transport; IDA:SGD.
+Amino-acid transport; Complete proteome; Membrane; Phosphorylation;
+Transmembrane; Transport.
+TMTWELVE

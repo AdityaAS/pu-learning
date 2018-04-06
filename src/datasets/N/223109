@@ -1,0 +1,18 @@
+AC   P77804; Q47707;
+Protein ydgA precursor.
+"A 570-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 28.0-40.1 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Protein complexes of the Escherichia coli cell envelope.";
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein; periplasmic side. Note=Has been isolated in association
+    with the inner membrane, suggesting it may be tethered to the
+    membrane.
+-!- SIMILARITY: To E.coli yihF and H.influenzae HI1236.
+-!- CAUTION: Ref.1 (AAA68926) sequence differs from that shown due to
+    a frameshift in position 422.
+Complete proteome; Periplasmic; Signal.
+TMZERO

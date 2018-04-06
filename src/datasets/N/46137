@@ -1,0 +1,21 @@
+AC   Q54801; O08440; O08441; O08442; O08443; Q54973;
+Dihydrofolate reductase (EC 1.5.1.3).
+"Mutations in the dihydrofolate reductase gene of trimethoprim-
+resistant isolates of Streptococcus pneumoniae.";
+"Complete genome sequence of a virulent isolate of Streptococcus
+pneumoniae.";
+-!- CATALYTIC ACTIVITY: 5,6,7,8-tetrahydrofolate + NADP(+) = 7,8-
+    dihydrofolate + NADPH.
+-!- PATHWAY: Cofactor biosynthesis; tetrahydrofolate biosynthesis;
+    tetrahydrofolate from 2-amino-4-hydroxy-6-hydroxymethyl-7,8-
+    dihydropteridine diphosphate and 4-aminobenzoate: step 3 [final
+    step].
+-!- MISCELLANEOUS: Strains 1/1, 21, 30, 56 and 92 are trimethoprim
+    resistant.
+-!- MISCELLANEOUS: The reaction catalyzed by this enzyme represents an
+    essential step for de novo glycine and purine synthesis, DNA
+    precursor synthesis, and for the conversion of dUMP to dTMP.
+-!- SIMILARITY: Belongs to the dihydrofolate reductase family.
+Antibiotic resistance; Complete proteome; NADP; One-carbon metabolism;
+Oxidoreductase; Trimethoprim resistance.
+TMZERO

@@ -1,0 +1,19 @@
+AC   P07373; Q45673;
+Stage V sporulation protein E.
+"Revised nucleotide sequence of the sporulation gene spoVE from
+Bacillus subtilis.";
+"Nucleotide sequence of the Bacillus subtilis developmental gene
+spoVE.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"DNA sequence of the murE-murD region of Bacillus subtilis 168.";
+"A Bacillus subtilis morphogene cluster that includes spoVE is
+homologous to the mra region of Escherichia coli.";
+-!- FUNCTION: May play an essential role not only during sporulation,
+    but also during vegetative growth.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the ftsW/rodA/spoVE family.
+-!- CAUTION: Ref.2 (AAA22807) sequence differs from that shown due to
+    a frameshift in position 86.
+Cell shape; Complete proteome; Membrane; Sporulation; Transmembrane.
+TMTEN

@@ -1,0 +1,13 @@
+AC   P71411; Q9HP82;
+Sensory rhodopsin-2 (Sensory rhodopsin II) (SR-II).
+"The primary structures of the Archaeon Halobacterium salinarium blue
+light receptor sensory rhodopsin II and its transducer, a methyl-
+accepting protein.";
+"Genome sequence of Halobacterium species NRC-1.";
+-!- FUNCTION: Involved in the control of phototaxis. Seems to activate
+    a methyl-accepting protein (HTR-II). Photoreceptor for blue light.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the archaeal/bacterial/fungal opsin family.
+Chromophore; Complete proteome; Membrane; Photoreceptor protein;
+Receptor; Retinal protein; Sensory transduction; Transmembrane.
+TMSEVEN

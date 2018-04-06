@@ -1,0 +1,18 @@
+AC   P48770;
+Complement component C9 precursor.
+"Chimeric horse/human recombinant C9 proteins identify the amino acid
+sequence in horse C9 responsible for restriction of hemolysis.";
+-!- FUNCTION: C9 is the final component of the complement system to be
+    added in the assembly of the membrane attack complex. It is able
+    to enter lipid bilayers, forming transmembrane channels.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- PTM: Thrombin cleaves factor C9 to produce C9a and C9b.
+-!- SIMILARITY: Belongs to the complement C6/C7/C8/C9 family.
+-!- SIMILARITY: Contains 1 EGF-like domain.
+-!- SIMILARITY: Contains 1 LDL-receptor class A domain.
+-!- SIMILARITY: Contains 1 MACPF domain.
+-!- SIMILARITY: Contains 1 TSP type-1 domain.
+Complement alternate pathway; Complement pathway; Cytolysis;
+EGF-like domain; Glycoprotein; Immune response; Innate immunity;
+Membrane; Membrane attack complex; Signal; Transmembrane.
+TMTWO

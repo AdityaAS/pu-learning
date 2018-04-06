@@ -1,0 +1,19 @@
+AC   P84614;
+Alpha-toxin Bs-Tx28.
+"Structure-activity relationship of an alpha-toxin Bs-Tx28 from
+scorpion (Buthus sindicus) venom suggests a new alpha-toxin
+subfamily.";
+-!- FUNCTION: Inhibits the inactivation of activated TTX-sensitive
+    sodium channels.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- MASS SPECTROMETRY: MW=7274.3; MW_ERR=2; METHOD=MALDI; RANGE=1-65;
+    NOTE=Ref.1.
+-!- TOXIC DOSE: LD(50) is 0.088 ug/g by subcutaneous injection into
+    mice, 0.0023 ug/g by intracerebroventricular injection into mice
+    and 14.3 ug/g in B.germanica.
+-!- SIMILARITY: Belongs to the long (4 C-C) scorpion toxin
+    superfamily. Sodium channel inhibitor family. Alpha subfamily.
+Amidation; Direct protein sequencing; Ionic channel inhibitor;
+Neurotoxin; Sodium channel inhibitor; Toxin.
+TMZERO

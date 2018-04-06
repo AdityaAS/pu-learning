@@ -1,0 +1,30 @@
+AC   Q9DGE2;
+Mitogen-activated protein kinase 14a (EC 2.7.11.24) (Mitogen-activated
+protein kinase p38a) (MAP kinase p38a) (zp38a).
+"Asymmetric p38 activation in zebrafish: its possible role in
+symmetric and synchronous cleavage.";
+-!- FUNCTION: Responds to activation by environmental stress and
+    cytokines by phosphorylating downstream targets. Required for
+    cytokinesis on the future dorsal side of the blastodisc,
+    suggesting a role in symmetrical and synchronous blastomere
+    cleavage.
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- COFACTOR: Magnesium (By similarity).
+-!- ENZYME REGULATION: Activated by threonine and tyrosine
+    phosphorylation by the dual specificity kinase, MKK3.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- DEVELOPMENTAL STAGE: Expressed as the predominant form of mapk14
+    both maternally and zygotically throughout development.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. MAP
+    kinase subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005737; C:cytoplasm; ISS:UniProtKB.
+ GO:0005634; C:nucleus; ISS:UniProtKB.
+ GO:0008339; F:MP kinase activity; IDA:UniProtKB.
+ GO:0040016; P:embryonic cleavage; IDA:UniProtKB.
+ GO:0007243; P:protein kinase cascade; IDA:UniProtKB.
+ GO:0006950; P:response to stress; IDA:UniProtKB.
+ATP-binding; Developmental protein; Kinase; Nucleotide-binding;
+Phosphorylation; Serine/threonine-protein kinase; Transferase.
+TMZERO

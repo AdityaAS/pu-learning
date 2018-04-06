@@ -1,0 +1,17 @@
+AC   P62241; P09058; Q6IRL7;
+40S ribosomal protein S8.
+"The structure of the human intron-containing S8 ribosomal protein
+gene and determination of its chromosomal location at 1p32-p34.1.";
+"Identification of immuno-peptidmics that are recognized by tumor-
+reactive CTL generated from TIL of colon cancer patients.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Characterization of the human small-ribosomal-subunit proteins by N-
+terminal and internal sequencing, and mass spectrometry.";
+-!- SIMILARITY: Belongs to the ribosomal protein S8e family.
+ GO:0005843; C:cytosolic small ribosomal subunit (sensu Eu...; IDA:UniProtKB.
+ GO:0003723; F:RNA binding; TAS:ProtInc.
+ GO:0003735; F:structural constituent of ribosome; IDA:UniProtKB.
+ GO:0006412; P:protein biosynthesis; IC:UniProtKB.
+Direct protein sequencing; Ribonucleoprotein; Ribosomal protein.
+TMZERO

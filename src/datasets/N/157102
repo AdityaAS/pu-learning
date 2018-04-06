@@ -1,0 +1,12 @@
+AC   P0ACI1; P27292;
+Right origin-binding protein.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Binds to the right arm of the replication origin oriC of
+    the chromosome. Rob binding may influence the formation of the
+    nucleoprotein structure, required for oriC function in the
+    initiation of replication (By similarity).
+-!- SIMILARITY: Contains 1 HTH araC/xylS-type DNA-binding domain.
+Complete proteome; DNA-binding.
+TMZERO

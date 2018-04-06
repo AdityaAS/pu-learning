@@ -1,0 +1,16 @@
+AC   Q8BUB6;
+Uronyl 2-sulfotransferase (EC 2.8.2.-).
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: Sulfotransferase that catalyzes the transfer of sulfate
+    to the position 2 of uronyl residues. Has mainly activity toward
+    iduronyl residues in dermatan sulfate, and weaker activity toward
+    glucuronyl residues of chondroitin sulfate. Has no activity toward
+    desulfated N-resulfated heparin (By similarity).
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type II membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the sulfotransferase 3 family.
+-!- CAUTION: Ref.1 (BAC39625) sequence differs from that shown due to
+    a frameshift in position 318.
+Glycoprotein; Golgi apparatus; Membrane; Signal-anchor; Transferase;
+Transmembrane.
+TMONE

@@ -1,0 +1,23 @@
+AC   P09836; P76728; Q2M7Y0;
+Regulatory protein uhpC.
+"Nucleotide sequence of the uhp region of Escherichia coli.";
+"Structure and function of the uhp genes for the sugar phosphate
+transport system in Escherichia coli and Salmonella typhimurium.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Interplay between the membrane-associated UhpB and UhpC regulatory
+proteins.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: UhpC is required for uhpT expression, it may act jointly
+    with the uhpB signaling protein.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. SLC37A
+    family.
+Complete proteome; Inner membrane; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMTEN

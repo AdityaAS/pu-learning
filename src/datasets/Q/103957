@@ -1,0 +1,26 @@
+AC   Q9C8H0;
+Multidrug resistance-associated protein 13 (EC 3.6.3.44) (Glutathione
+S-conjugate-transporting ATPase 13) (ATP-energized glutathione S-
+conjugate pump 13).
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"The Arabidopsis thaliana ABC protein superfamily, a complete
+inventory.";
+"Multifunctionality of plant ABC transporters - more than just
+detoxifiers.";
+"Family business: the multidrug-resistance related protein (MRP) ABC
+transporter genes in Arabidopsis thaliana.";
+-!- FUNCTION: Pump for glutathione S-conjugates (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + xenobiotic(In) = ADP + phosphate
+    + xenobiotic(Out).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; IEA:EC.
+ATP-binding; Hydrolase; Membrane; Nucleotide-binding; Repeat;
+Transmembrane; Transport.
+TMSIXTEEN

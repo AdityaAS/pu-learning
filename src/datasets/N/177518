@@ -1,0 +1,25 @@
+AC   Q9UPE1; Q13583; Q9UM62;
+Serine/threonine-protein kinase 23 (EC 2.7.11.1) (Muscle-specific
+serine kinase 1) (MSSK-1).
+"Cloning and sequencing of a new human serine kinase gene located in
+human Xq28.";
+"Large-scale methylation analysis of human genomic DNA reveals tissue-
+specific differences between the methylation profiles of genes and
+pseudogenes.";
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9UPE1-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9UPE1-2; Sequence=VSP_004873;
+-!- TISSUE SPECIFICITY: Exclusively expressed in skeletal and heart
+    muscle.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ GO:0005524; F:ATP binding; NAS:UniProtKB.
+ GO:0004674; F:protein serine/threonine kinase activity; NAS:UniProtKB.
+ GO:0006468; P:protein amino acid phosphorylation; NAS:UniProtKB.
+Alternative splicing; ATP-binding; Kinase; Nucleotide-binding;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

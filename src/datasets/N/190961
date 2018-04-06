@@ -1,0 +1,18 @@
+AC   P57936;
+Triosephosphate isomerase (EC 5.3.1.1) (TIM) (Triose-phosphate
+isomerase).
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- CATALYTIC ACTIVITY: D-glyceraldehyde 3-phosphate = glycerone
+    phosphate.
+-!- PATHWAY: Carbohydrate biosynthesis; gluconeogenesis.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; D-glyceraldehyde 3-
+    phosphate from glycerone phosphate: single step.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the triosephosphate isomerase family.
+ GO:0006633; P:fatty acid biosynthesis; IEA:HAMAP.
+ GO:0006094; P:gluconeogenesis; IEA:HAMAP.
+ GO:0006096; P:glycolysis; IEA:HAMAP.
+ GO:0006098; P:pentose-phosphate shunt; IEA:HAMAP.
+Complete proteome; Fatty acid biosynthesis; Gluconeogenesis;
+Glycolysis; Isomerase; Lipid synthesis; Pentose shunt.
+TMZERO

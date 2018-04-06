@@ -1,0 +1,45 @@
+AC   P18013; Q6XVZ1;
+Invasin ipaD (36 kDa membrane antigen).
+"Characterization of invasion plasmid antigen genes (ipaBCD) from
+Shigella flexneri.";
+"Functional organization and nucleotide sequence of virulence region-2
+on the large virulence plasmid in Shigella flexneri 2a.";
+"The virulence plasmid pWR100 and the repertoire of proteins secreted
+by the type III secretion apparatus of Shigella flexneri.";
+"Complete DNA sequence and analysis of the large virulence plasmid of
+Shigella flexneri.";
+"Comparison of two major forms of the Shigella virulence plasmid pINV:
+positive selection is a major force driving the divergence.";
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Nucleotide sequence of the invasion plasmid antigen B and C genes
+(ipaB and ipaC) of Shigella flexneri.";
+"The secretion of the Shigella flexneri Ipa invasins is activated by
+epithelial cells and controlled by IpaB and IpaD.";
+"IpaD of Shigella flexneri is independently required for regulation of
+Ipa protein secretion and efficient insertion of IpaB and IpaC into
+host membranes.";
+-!- FUNCTION: Required for bacterial invasion of host cells. Controls
+    ipaB and ipaC secretion, and the efficiency with which they are
+    physically inserted into target cell membranes. These proteins are
+    exported via TTSS to form a pore in the host membrane that allows
+    the translocation of the other effectors into host cytoplasm.
+    Along with ipaB, is essential for both blocking secretion through
+    the Mxi/Spa translocon in the absence of a secretion-inducing
+    signal, and for controlling the level of secretion in the presence
+    of this signal.
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=Secreted via type III
+    secretion system (TTSS). Associates transiently with ipaB in the
+    bacterial envelope.
+-!- INDUCTION: Synthesis of this immunogen is repressed at 30 degrees
+    Celsius and restored at 37 degrees Celsius.
+-!- MISCELLANEOUS: Deletion of amino acids 1-20 abolishes invasion
+    activity, affects contact-mediated hemolysis activity and ipaD
+    secretion. Deletion of amino acids 41-80 and 81-120 restores
+    invasion activity to a higher level than wild-type and reduces
+    contact-mediated hemolysis activity. Deletion beyond amino acid
+    120 reduces invasion activity and abolishes contact-mediated
+    hemolysis activity.
+-!- SIMILARITY: Belongs to the sipD/ipaD family.
+3D-structure; Complete proteome; Plasmid; Virulence.
+TMZERO

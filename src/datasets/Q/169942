@@ -1,0 +1,27 @@
+AC   Q95165;
+Amiloride-sensitive sodium channel subunit beta (Epithelial Na+
+channel subunit beta) (Beta ENaC) (Nonvoltage-gated sodium channel 1
+subunit beta) (SCNEB) (Beta NaCH) (Fragment).
+"An AvaII PCR/RFLP in an exon of the canine gene for the beta subunit
+of the amiloride-sensitive sodium channel (SCNN1B).";
+-!- FUNCTION: Sodium permeable non-voltage-sensitive ion channel
+    inhibited by the diuretic amiloride. Mediates the electrodiffusion
+    of the luminal sodium (and water, which follows osmotically)
+    through the apical membrane of epithelial cells. Controls the
+    reabsorption of sodium in kidney, colon, lung and sweat glands.
+    Also plays a role in taste perception (By similarity).
+-!- SUBUNIT: Heterotetramer of two alpha, one beta and one gamma
+    subunit. A delta subunit can replace the alpha subunit. Interacts
+    with the WW domains of NEDD4, NEDD4L, WWP1 and WWP2 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; apical cell membrane; multi-
+    pass membrane protein (By similarity). Note=Apical membrane of
+    epithelial cells (By similarity).
+-!- PTM: Phosphorylated on serine and threonine residues (By
+    similarity).
+-!- SIMILARITY: Belongs to the amiloride-sensitive sodium channel
+    family.
+Ion transport; Ionic channel; Membrane; Phosphorylation;
+Sensory transduction; Sodium; Sodium channel; Sodium transport; Taste;
+Transmembrane; Transport.
+TMONE

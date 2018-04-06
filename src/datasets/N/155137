@@ -1,0 +1,24 @@
+AC   P32904;
+60S ribosomal protein L6, mitochondrial precursor (YmL16) (MRP-L6).
+"Molecular cloning and analysis of the nuclear gene MRP-L6 coding for
+a putative mitochondrial ribosomal protein from Saccharomyces
+cerevisiae.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"Identification and characterization of the genes for mitochondrial
+ribosomal proteins of Saccharomyces cerevisiae.";
+"Tag-mediated isolation of yeast mitochondrial ribosome and mass
+spectrometric identification of its new components.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Essential component of the large subunit of
+    mitochondrial ribosome. Indispensable for mitochondrial function.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- MISCELLANEOUS: Present with 5700 molecules/cell.
+-!- SIMILARITY: Belongs to the ribosomal protein L6P family.
+ GO:0005762; C:mitochondrial large ribosomal subunit; IDA:SGD.
+ GO:0003735; F:structural constituent of ribosome; IDA:SGD.
+ GO:0043037; P:translation; IDA:SGD.
+Complete proteome; Direct protein sequencing; Mitochondrion;
+Ribonucleoprotein; Ribosomal protein; RNA-binding; rRNA-binding;
+Transit peptide.
+TMZERO

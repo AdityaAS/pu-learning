@@ -1,0 +1,23 @@
+AC   P38196;
+Uridine permease.
+"The sequence of a 22.4 kb DNA fragment from the left arm of yeast
+chromosome II reveals homologues to bacterial proline synthetase and
+murine alpha-adaptin, as well as a new permease and a DNA-binding
+protein.";
+"Complete DNA sequence of yeast chromosome II.";
+"The ORF YBL042 of Saccharomyces cerevisiae encodes a uridine
+permease.";
+"Nucleoside transporter proteins of Saccharomyces cerevisiae.
+Demonstration of a transporter (FUI1) with high uridine selectivity in
+plasma membranes and a transporter (FUN26) with broad nucleoside
+selectivity in intracellular membranes.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High-affinity transport of uridine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the purine-cytosine permease family.
+ GO:0005886; C:plasma membrane; IGI:SGD.
+ GO:0015213; F:uridine transporter activity; IGI:SGD.
+ GO:0015862; P:uridine transport; IGI:SGD.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTEN

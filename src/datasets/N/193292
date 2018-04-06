@@ -1,0 +1,15 @@
+AC   Q9Z4W9;
+Anthranilate phosphoribosyltransferase 2 (EC 2.4.2.18).
+"Complete genome sequence of the model actinomycete Streptomyces
+coelicolor A3(2).";
+-!- CATALYTIC ACTIVITY: N-(5-phospho-D-ribosyl)-anthranilate +
+    diphosphate = anthranilate + 5-phospho-alpha-D-ribose 1-
+    diphosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-tryptophan biosynthesis; L-
+    tryptophan from chorismate: step 2.
+-!- SIMILARITY: Belongs to the anthranilate phosphoribosyltransferase
+    family.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Complete proteome; Glycosyltransferase; Transferase;
+Tryptophan biosynthesis.
+TMZERO

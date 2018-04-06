@@ -1,0 +1,10 @@
+AC   Q9K965;
+N utilization substance protein B homolog (Protein nusB).
+"Complete genome sequence of the alkaliphilic bacterium Bacillus
+halodurans and genomic sequence comparison with Bacillus subtilis.";
+-!- FUNCTION: Involved in the transcription termination process (By
+    similarity).
+-!- SIMILARITY: Belongs to the nusB family.
+Complete proteome; Transcription; Transcription regulation;
+Transcription termination.
+TMZERO

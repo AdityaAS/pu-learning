@@ -1,0 +1,19 @@
+AC   Q04937;
+Sucrose-6-phosphate hydrolase (EC 3.2.1.26) (Sucrase) (Invertase).
+"Transcriptional regulation of the Tn5276-located Lactococcus lactis
+sucrose operon and characterization of the sacA gene encoding sucrose-
+6-phosphate hydrolase.";
+"Transposon-encoded sucrose metabolism in Lactococcus lactis.
+Purification of sucrose-6-phosphate hydrolase and genetic linkage to
+N5-(L-1-carboxyethyl)-L-ornithine synthase in strain K1.";
+-!- CATALYTIC ACTIVITY: Hydrolysis of terminal non-reducing beta-D-
+    fructofuranoside residues in beta-D-fructofuranosides.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 6.5-7.0;
+-!- PATHWAY: Sucrose metabolism.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 32 family.
+Carbohydrate metabolism; Direct protein sequencing; Glycosidase;
+Hydrolase.
+TMZERO

@@ -1,0 +1,22 @@
+AC   Q2W9F0;
+Lipoyltransferase (EC 2.3.1.-) (Lipoyl-[acyl-carrier-protein]-protein-
+N-lipoyltransferase) (Lipoate-protein ligase B).
+"Complete genome sequence of the facultative anaerobic magnetotactic
+bacterium Magnetospirillum sp. strain AMB-1.";
+-!- FUNCTION: Catalyzes the transfer of the endogenously synthesized
+    lipoate to apoproteins, creating an amide linkage that joins the
+    free carboxyl group of lipoic acid to the epsilon-amino group of a
+    specific lysine residue in lipoate-dependent enzymes. Utilizes
+    lipoyl-acyl-carrier-protein as a source of lipoyl groups, although
+    octanoyl groups from octanoyl-ACP can also be transferred to the
+    lipoyl domain of apoproteins (By similarity).
+-!- CATALYTIC ACTIVITY: Lipoyl-[acyl-carrier-protein] + apo-protein =
+    holo-protein + acyl-carrier-protein.
+-!- PATHWAY: Endogenous lipoate metabolism; lipoylation step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the lipB family.
+ GO:0008415; F:acyltransferase activity; IEA:HAMAP.
+ GO:0017118; F:lipoyltransferase activity; IEA:HAMAP.
+ GO:0018055; P:peptidyl-lysine lipoylation; IEA:HAMAP.
+Acyltransferase; Complete proteome; Transferase.
+TMZERO

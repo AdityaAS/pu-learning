@@ -1,0 +1,19 @@
+AC   P22861; Q92336;
+Glucoamylase 1 precursor (EC 3.2.1.3) (Glucan 1,4-alpha-glucosidase)
+(1,4-alpha-D-glucan glucohydrolase).
+"Cloning of the Schwanniomyces occidentalis glucoamylase gene (GAM1)
+and its expression in Saccharomyces cerevisiae.";
+"Striking structural and functional similarities suggest that
+intestinal sucrase-isomaltase, human lysosomal alpha-glucosidase and
+Schwanniomyces occidentalis glucoamylase are derived from a common
+ancestral gene.";
+-!- FUNCTION: This glucoamylase has a specificity toward both alpha-
+    1,4 and alpha-1,6 linkages.
+-!- CATALYTIC ACTIVITY: Hydrolysis of terminal 1,4-linked alpha-D-
+    glucose residues successively from non-reducing ends of the chains
+    with release of beta-D-glucose.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 31 family.
+ GO:0004339; F:glucan 1,4-alpha-glucosidase activity; IEA:EC.
+Carbohydrate metabolism; Direct protein sequencing; Glycoprotein;
+Glycosidase; Hydrolase; Polysaccharide degradation; Signal.
+TMZERO

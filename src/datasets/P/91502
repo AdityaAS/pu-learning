@@ -1,0 +1,30 @@
+AC   P42838;
+Alkylphosphocholine resistance protein LEM3 (Ro-sensitive 3)
+(Brefeldin-A sensitivity protein 3).
+"Sequencing analysis of a 15.4 kb fragment of yeast chromosome XIV
+identifies the RPD3, PAS8 and KRE1 loci, five new open reading
+frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"A novel membrane protein, Ros3p, is required for phospholipid
+translocation across the plasma membrane in Saccharomyces
+cerevisiae.";
+"Lem3p is essential for the uptake and potency of alkylphosphocholine
+drugs, edelfosine and miltefosine.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Involved in the asymmetrical organization of
+    phosphatidylethanolamine in the plasma membrane.
+-!- SUBUNIT: Monomer.
+-!- INTERACTION:
+    P00330:ADH1; NbExp=1; IntAct=EBI-28396, EBI-2218;
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 2460 molecules/cell.
+-!- SIMILARITY: Belongs to the CDC50/LEM3 family.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005783; C:endoplasmic reticulum; IDA:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0007166; P:cell surface receptor linked signal transdu...; IMP:SGD.
+ GO:0045332; P:phospholipid translocation; IMP:SGD.
+Complete proteome; Glycoprotein; Membrane; Transmembrane.
+TMTWO

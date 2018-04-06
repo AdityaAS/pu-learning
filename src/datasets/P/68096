@@ -1,0 +1,11 @@
+AC   P45755;
+General secretion pathway protein B.
+"Isolation and characterization of a second exe operon required for
+extracellular protein secretion in Aeromonas hydrophila.";
+-!- FUNCTION: Involved in a general secretion pathway (GSP) for the
+    export of proteins.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the exeB/outB/pulB family.
+Inner membrane; Membrane; Transmembrane; Transport.
+TMONE

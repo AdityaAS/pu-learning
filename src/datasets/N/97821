@@ -1,0 +1,11 @@
+AC   Q70D38;
+Maturase K (Intron maturase).
+"Phylogenetic relationships in Nicotiana (Solanaceae) infered from
+multiple plastid regions.";
+-!- FUNCTION: Probably assists in splicing chloroplast group II
+    introns (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the intron maturase 2 family. MatK
+    subfamily.
+Chloroplast; mRNA processing; Plastid.
+TMZERO

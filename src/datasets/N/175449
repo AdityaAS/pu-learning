@@ -1,0 +1,34 @@
+AC   Q9HCB6; O94862; Q8NCD7; Q8WUR5;
+Spondin-1 precursor (F-spondin) (Vascular smooth muscle cell growth-
+promoting factor).
+"Isolation and characterization of vascular smooth muscle cell growth
+promoting factor from bovine ovarian follicular fluid and its cDNA
+cloning from bovine and human ovary.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Prediction of the coding sequences of unidentified human genes. XI.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+"Construction of expression-ready cDNA clones for KIAA genes: manual
+curation of 330 KIAA cDNA clones.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"C-mannosylation and O-fucosylation of thrombospondin type 1
+repeats.";
+-!- FUNCTION: Cell adhesion protein that promotes the attachment of
+    spinal cord and sensory neuron cells and the outgrowth of neurites
+    in vitro. May contribute to the growth and guidance of axons in
+    both the spinal cord and the PNS (By similarity). Major factor for
+    vascular smooth muscle cell.
+-!- SUBUNIT: Binds to the central extracellular domain of APP and
+    inhibits beta-secretase cleavage of APP (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space;
+    extracellular matrix (By similarity).
+-!- TISSUE SPECIFICITY: Highest expression in lung, lower expression
+    in brain, heart, kidney, liver and testis, and lowest expression
+    in pancreas, skeletal muscle and ovary. Not expressed in spleen.
+-!- SIMILARITY: Contains 1 reelin domain.
+-!- SIMILARITY: Contains 1 spondin domain.
+-!- SIMILARITY: Contains 6 TSP type-1 domains.
+Cell adhesion; Extracellular matrix; Glycoprotein; Repeat; Signal.
+TMZERO

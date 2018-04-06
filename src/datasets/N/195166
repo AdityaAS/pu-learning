@@ -1,0 +1,8 @@
+AC   P01738;
+T-cell receptor alpha chain V region PHDS58 precursor.
+"A third rearranged and expressed gene in a clone of cytotoxic T
+lymphocytes.";
+-!- MISCELLANEOUS: This clone was isolated from a cytotoxic T
+    lymphocyte.
+3D-structure; Glycoprotein; Immunoglobulin domain; Receptor; Signal.
+TMZERO

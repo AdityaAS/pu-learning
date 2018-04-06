@@ -1,0 +1,18 @@
+AC   O35227;
+ADAM 7 precursor (A disintegrin and metalloproteinase domain 7).
+"ADAM7, a member of the ADAM (A Disintegrin And Metalloprotease) gene
+family is specifically expressed in the mouse anterior pituitary and
+epididymis.";
+-!- FUNCTION: May play an important role in male reproduction
+    including sperm maturation and gonadotrope function. This is a non
+    catalytic metalloprotease-like protein.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Expressed in the apical region of the proximal
+    caput epididymal epithelium and in the anterior pituitary,
+    specifically, in the gonadotrophes.
+-!- SIMILARITY: Contains 1 disintegrin domain.
+-!- SIMILARITY: Contains 1 peptidase M12B domain.
+ GO:0005886; C:plasma membrane; IDA:MGI.
+Glycoprotein; Membrane; Signal; Transmembrane.
+TMONE

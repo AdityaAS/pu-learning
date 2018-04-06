@@ -1,0 +1,12 @@
+AC   Q45537;
+Protein cotJB.
+"Characterization of cotJ, a sigma E-controlled operon affecting the
+polypeptide composition of the coat of Bacillus subtilis spores.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: The cotJ operon proteins affect spore coat composition.
+    They are either required for the normal formation of the inner
+    layers of the coat or are themselves structural components of the
+    coat.
+Complete proteome.
+TMZERO

@@ -1,0 +1,43 @@
+AC   Q8LBP4; O04665;
+Inner membrane protein ALBINO3, chloroplast precursor.
+"ALBINO3, an Arabidopsis nuclear gene essential for chloroplast
+differentiation, encodes a chloroplast protein that shows homology to
+proteins present in bacterial membranes and yeast mitochondria.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+"Chloroplast Oxa1p homolog albino3 is required for post-translational
+integration of the light harvesting chlorophyll-binding protein into
+thylakoid membranes.";
+"Distinct Albino3-dependent and -independent pathways for thylakoid
+membrane protein insertion.";
+"Chloroplast YidC homolog Albino3 can functionally complement the
+bacterial YidC depletion strain and promote membrane insertion of both
+bacterial and chloroplast thylakoid proteins.";
+"Functional interaction of chloroplast SRP/FtsY with the ALB3
+translocase in thylakoids: substrate not required.";
+-!- FUNCTION: Required for the insertion of some light harvesting
+    chlorophyll-binding proteins (LHCP) into the chloroplast thylakoid
+    membrane. Required for the insertion of LHCB1, LHCB4.1 and LHCB5
+    proteins into thylakoid membrane, while it is not required for
+    insertion of proteins psbX, psbW and psbY.
+-!- SUBUNIT: Forms a complex with CPFTSY and the signal recognition
+    particle (cpSRP).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8LBP4-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8LBP4-2; Sequence=VSP_011358, VSP_011359;
+      Note=Derived from EST data. No experimental confirmation
+      available;
+-!- TISSUE SPECIFICITY: Mainly expressed in organs that contain green
+    tissues such as leaves, flower buds and stems.
+-!- SIMILARITY: Belongs to the OXA1/oxaA family.
+Alternative splicing; Chloroplast; Inner membrane; Membrane; Plastid;
+Transit peptide; Transmembrane.
+TMFIVE

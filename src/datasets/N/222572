@@ -1,0 +1,15 @@
+AC   P25617; Q8NIM2;
+Uncharacterized protein YCR016W.
+"The complete DNA sequence of yeast chromosome III.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+-!- INTERACTION:
+    P33203:PRP40; NbExp=1; IntAct=EBI-375711, EBI-701;
+    P40318:SSM4; NbExp=1; IntAct=EBI-375711, EBI-18208;
+-!- MISCELLANEOUS: Present with 1850 molecules/cell.
+ GO:0005730; C:nucleolus; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome.
+TMZERO

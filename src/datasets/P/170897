@@ -1,0 +1,29 @@
+AC   P0AG99; P33582; Q2M937;
+Protein-export membrane protein secG (Preprotein translocase band 1
+subunit) (P12).
+"A novel membrane protein involved in protein translocation across the
+cytoplasmic membrane of Escherichia coli.";
+"The dihydropteroate synthase gene, folP, is near the leucine tRNA
+gene, leuU, on the Escherichia coli chromosome.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Disruption of the gene encoding p12 (SecG) reveals the direct
+involvement and important function of SecG in the protein
+translocation of Escherichia coli at low temperature.";
+"Band 1 subunit of Escherichia coli preportein translocase and
+integral membrane export factor P12 are the same protein.";
+"A new genetic selection identifies essential residues in SecG, a
+component of the Escherichia coli protein export machinery.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Involved in protein export. Participates in an early
+    event of protein translocation.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the secG family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Inner membrane; Membrane; Protein transport; Translocation;
+Transmembrane; Transport.
+TMTWO

@@ -1,0 +1,9 @@
+AC   Q5FJL5;
+UPF0291 protein LBA1279.
+"Complete genome sequence of the probiotic lactic acid bacterium
+Lactobacillus acidophilus NCFM.";
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the UPF0291 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

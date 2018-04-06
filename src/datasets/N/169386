@@ -1,0 +1,16 @@
+AC   Q5HD55;
+HTH-type transcriptional regulator sarU (Staphylococcal accessory
+regulator U).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Positive regulator of RNAII and RNAIII in a cell
+    density-dependent manner. It can contribute to the expression of
+    virulence genes controlled by agr. May also regulate target genes
+    via an agr-independent pathway (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the sarA family.
+Activator; Complete proteome; DNA-binding; Repeat; Transcription;
+Transcription regulation; Virulence.
+TMZERO

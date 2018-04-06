@@ -1,0 +1,13 @@
+AC   P05223;
+Preprocaerulein type I' precursor (Fragment).
+"Sequence of preprocaerulein cDNAs cloned from skin of Xenopus laevis.
+A small family of precursors containing one, three, or four copies of
+the final product.";
+-!- FUNCTION: The pharmacological activities of caerulein are quite
+    similar to the physiological activities of gastrin and related
+    peptides.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the skin glands.
+-!- SIMILARITY: Belongs to the gastrin/cholecystokinin family.
+Amphibian defense peptide; Cleavage on pair of basic residues; Signal.
+TMZERO

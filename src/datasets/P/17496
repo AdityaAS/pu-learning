@@ -1,0 +1,11 @@
+AC   P28873;
+Benomyl/methotrexate resistance protein.
+"Analysis of a Candida albicans gene that encodes a novel mechanism
+for resistance to benomyl and methotrexate.";
+-!- FUNCTION: Probable transporter. Confers resistance to benomyl and
+    methotrexate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. CAR1
+    family.
+Antibiotic resistance; Membrane; Transmembrane; Transport.
+TMTWELVE

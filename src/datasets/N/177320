@@ -1,0 +1,27 @@
+AC   Q14765; Q96NZ6;
+Signal transducer and activator of transcription 4.
+"The STAT amino-terminal domain mediates cooperative DNA binding and
+confers selective sequence recognition.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"Direct interaction of STAT4 with the IL-12 receptor.";
+"Identification of a STAT4 binding site in the interleukin-12 receptor
+required for signaling.";
+-!- FUNCTION: Carries out a dual function: signal transduction and
+    activation of transcription. Involved in IL12 signaling.
+-!- SUBUNIT: Forms a homodimer or a heterodimer with a related family
+    member (By similarity). The SH2 domain interacts, in vitro, with
+    IL12RB2 via a short cytoplasmic domain.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus. Note=Translocated into
+    the nucleus in response to phosphorylation.
+-!- PTM: Tyrosine phosphorylated. Serine phosphorylation is also
+    required for maximal transcriptional activity (By similarity).
+-!- SIMILARITY: Belongs to the transcription factor STAT family.
+-!- SIMILARITY: Contains 1 SH2 domain.
+ GO:0003700; F:transcription factor activity; TAS:ProtInc.
+ GO:0007259; P:JAK-STAT cascade; TAS:ProtInc.
+Activator; DNA-binding; Nuclear protein; Phosphorylation;
+Polymorphism; SH2 domain; Transcription; Transcription regulation.
+TMZERO

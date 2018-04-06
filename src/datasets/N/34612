@@ -1,0 +1,12 @@
+AC   P13915;
+Convicilin precursor.
+"The sequence of a gene encoding convicilin from pea (Pisum sativum
+L.) shows that convicilin differs from vicilin by an insertion near
+the N-terminus.";
+-!- FUNCTION: Seed storage protein.
+-!- SUBCELLULAR LOCATION: Vacuole; aleurone grain. Vacuole.
+    Note=Cotyledonary membrane-bound vacuolar protein bodies.
+-!- SIMILARITY: Belongs to the 7S seed storage protein family.
+Direct protein sequencing; Seed storage protein; Signal;
+Storage protein; Vacuole.
+TMZERO

@@ -1,0 +1,48 @@
+AC   Q61290;
+Voltage-dependent R-type calcium channel subunit alpha-1E (Voltage-
+gated calcium channel subunit alpha Cav2.3) (Calcium channel, L type,
+alpha-1 polypeptide, isoform 6) (Brain calcium channel II) (BII).
+"Structure and functional characterization of neuronal alpha 1E
+calcium channel subtypes.";
+"Comprehensive identification of phosphorylation sites in postsynaptic
+density preparations.";
+-!- FUNCTION: Voltage-sensitive calcium channels (VSCC) mediate the
+    entry of calcium ions into excitable cells and are also involved
+    in a variety of calcium-dependent processes, including muscle
+    contraction, hormone or neurotransmitter release, gene expression,
+    cell motility, cell division and cell death. The isoform alpha-1E
+    gives rise to R-type calcium currents. R-type calcium channels
+    belong to the "high-voltage activated" (HVA) group and are blocked
+    by nickel, and partially by omega-agatoxin-IIIA (omega-Aga-IIIA).
+    They are however insensitive to dihydropyridines (DHP), omega-
+    conotoxin-GVIA (omega-CTx-GVIA), and omega-agatoxin-IVA (omega-
+    Aga-IVA). Calcium channels contaning alpha-1E subunit could be
+    involved in the modulation of firing patterns of neurons which is
+    important for information processing.
+-!- SUBUNIT: Interacts with EFHC1. Voltage-dependent calcium channels
+    are multisubunit complexes, consisting of alpha-1, alpha-2, beta
+    and delta subunits in a 1:1:1:1 ratio. The channel activity is
+    directed by the pore-forming and voltage-sensitive alpha-1
+    subunit. In many cases, this subunit is sufficient to generate
+    voltage-sensitive calcium channel activity. The auxiliary subunits
+    beta and alpha-2/delta linked by a disulfide bridge regulate the
+    channel activity.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in neuronal tissues, retina, spleen,
+    and pancreatic islet cells.
+-!- DOMAIN: Each of the four internal repeats contains five
+    hydrophobic transmembrane segments (S1, S2, S3, S5, S6) and one
+    positively charged transmembrane segment (S4). S4 segments
+    probably represent the voltage-sensor and are characterized by a
+    series of positively charged amino acids at every third position.
+-!- SIMILARITY: Belongs to the calcium channel alpha-1 subunit family.
+-!- SIMILARITY: Contains 1 EF-hand domain.
+ GO:0005891; C:voltage-gated calcium channel complex; TAS:MGI.
+ GO:0047485; F:protein N-terminus binding; IPI:UniProtKB.
+ GO:0005245; F:voltage-gated calcium channel activity; IMP:MGI.
+ GO:0006816; P:calcium ion transport; IMP:MGI.
+ GO:0042593; P:glucose homeostasis; IMP:MGI.
+Calcium; Calcium channel; Calcium transport; Glycoprotein;
+Ion transport; Ionic channel; Membrane; Phosphorylation; Repeat;
+Transmembrane; Transport; Voltage-gated channel.
+TMTWENTYFOUR

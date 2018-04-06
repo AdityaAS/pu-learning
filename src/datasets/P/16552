@@ -1,0 +1,13 @@
+AC   O30513; Q6FCB3;
+Benzoate transport protein.
+"benK encodes a hydrophobic permease-like protein involved in benzoate
+degradation by Acinetobacter sp. strain ADP1.";
+"Unique features revealed by the genome sequence of Acinetobacter sp.
+ADP1, a versatile and naturally transformation competent bacterium.";
+-!- FUNCTION: Probable uptake of benzoate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

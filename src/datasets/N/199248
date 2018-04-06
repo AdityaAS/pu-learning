@@ -1,0 +1,17 @@
+AC   P69990; P52314; Q667P9;
+Urease subunit beta (EC 3.5.1.5) (Urea amidohydrolase subunit beta).
+"Characterization of the urease locus from Yersinia pestis.";
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- CATALYTIC ACTIVITY: Urea + H(2)O = CO(2) + 2 NH(3).
+-!- PATHWAY: Nitrogen metabolism; urea degradation; CO(2) and NH(3)
+    from urea (urease route): single step [final step].
+-!- SUBUNIT: Heterotrimer of ureA (gamma), ureB (beta) and ureC
+    (alpha) subunits. Three heterotrimers associate to form the active
+    enzyme (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the urease beta subunit family.
+Complete proteome; Hydrolase.
+TMZERO

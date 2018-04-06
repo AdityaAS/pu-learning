@@ -1,0 +1,15 @@
+AC   Q4P9R2;
+UDP-galactose transporter homolog 1.
+"Insights from the genome of the biotrophic fungal plant pathogen
+Ustilago maydis.";
+-!- FUNCTION: May be involved in specific transport of UDP-Gal from
+    the cytosol to the Golgi lumen. Involved in the maintenance of
+    optimal conditions for the folding of secretory pathway proteins
+    in the endoplasmic reticulum (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the nucleotide-sugar transporter family.
+    SLC35B subfamily.
+Endoplasmic reticulum; Glycoprotein; Membrane; Sugar transport;
+Transmembrane; Transport.
+TMNINE

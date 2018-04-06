@@ -1,0 +1,21 @@
+AC   P97458;
+Homeobox protein prophet of Pit-1 (PROP-1) (Pituitary-specific
+homeodomain factor).
+"Pituitary lineage determination by the Prophet of Pit-1 homeodomain
+factor defective in Ames dwarfism.";
+-!- FUNCTION: Possibly involved in the ontogenesis of pituitary
+    gonadotropes, as well as somatotropes, lactotropes and caudomedial
+    thyrotropes.
+-!- INTERACTION:
+    Q02248:Ctnnb1; NbExp=2; IntAct=EBI-937831, EBI-397872;
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the paired homeobox family.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0001568; P:blood vessel development; IMP:MGI.
+ GO:0009953; P:dorsal/ventral pattern formation; IMP:MGI.
+ GO:0048732; P:gland development; IMP:MGI.
+ GO:0043066; P:negative regulation of apoptosis; IMP:MGI.
+ GO:0009887; P:organ morphogenesis; IMP:MGI.
+DNA-binding; Homeobox; Nuclear protein.
+TMZERO

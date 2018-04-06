@@ -1,0 +1,14 @@
+AC   Q48476;
+O-antigen export system ATP-binding protein rfbB.
+"Identification of an ATP-binding cassette transport system required
+for translocation of lipopolysaccharide O-antigen side-chains across
+the cytoplasmic membrane of Klebsiella pneumoniae serotype O1.";
+-!- FUNCTION: May form an ATP-driven O-antigen export apparatus, in
+    association with rfbA.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Inner membrane; Membrane; Nucleotide-binding;
+Polysaccharide transport; Sugar transport; Transport.
+TMZERO

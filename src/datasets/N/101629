@@ -1,0 +1,21 @@
+AC   Q8XCS6; Q7AAW4;
+Membrane-bound lytic murein transglycosylase C precursor (EC 3.2.1.-)
+(Murein hydrolase C).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Murein-degrading enzyme. May play a role in recycling of
+    muropeptides during cell elongation and/or cell division (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Cleavage of the beta-1,4-glycosidic bond
+    between N-acetylmuramic acid and N-acetylglucosamine residues,
+    thereby conserving the energy in a newly synthesized 1,6-
+    anhydrobond in the muramic acid residue.
+-!- SUBCELLULAR LOCATION: Cell outer membrane; lipid-anchor (By
+    similarity).
+-!- SIMILARITY: Belongs to the transglycosylase slt family.
+ GO:0016798; F:hydrolase activity, acting on glycosyl bonds; IEA:HAMAP.
+ GO:0016998; P:cell wall catabolism; IEA:HAMAP.
+Cell wall; Complete proteome; Glycosidase; Hydrolase; Lipoprotein;
+Membrane; Outer membrane; Palmitate; Signal.
+TMZERO

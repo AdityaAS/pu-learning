@@ -1,0 +1,15 @@
+AC   Q8VDW4; Q9D5H3;
+Probable ubiquitin-conjugating enzyme E2 W (EC 6.3.2.19) (Ubiquitin-
+protein ligase W) (Ubiquitin carrier protein W).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Catalyzes the covalent attachment of ubiquitin to other
+    proteins (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + ubiquitin + protein lysine = AMP +
+    diphosphate + protein N-ubiquityllysine.
+-!- PATHWAY: Ubiquitin conjugation; second step.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the ubiquitin-conjugating enzyme family.
+Ligase; Ubl conjugation pathway.
+TMZERO

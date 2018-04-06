@@ -1,0 +1,22 @@
+AC   Q02950;
+Mitochondrial 40S ribosomal protein MRP51 (Mitochondrial ribosomal
+protein 51).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Functional interactions between yeast mitochondrial ribosomes and
+mRNA 5' untranslated leaders.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Involved in mitochondrial genome encoded proteins
+    translation.
+-!- SUBUNIT: Component of the mitochondrial small ribosomal subunit.
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+-!- MISCELLANEOUS: Present with 656 molecules/cell.
+-!- SIMILARITY: Belongs to the ribosomal protein MRP51 family.
+ GO:0005763; C:mitochondrial small ribosomal subunit; IDA:SGD.
+ GO:0003735; F:structural constituent of ribosome; IDA:SGD.
+ GO:0006413; P:translational initiation; IMP:SGD.
+Complete proteome; Mitochondrion; Ribonucleoprotein;
+Ribosomal protein.
+TMZERO

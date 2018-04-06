@@ -1,0 +1,25 @@
+AC   O96000;
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10
+(EC 1.6.5.3) (EC 1.6.99.3) (NADH-ubiquinone oxidoreductase PDSW
+subunit) (Complex I-PDSW) (CI-PDSW).
+"cDNA of eight nuclear encoded subunits of NADH:ubiquinone
+oxidoreductase: human complex I cDNA characterization completed.";
+"One subunit of human NADH-ubiquinone oxidoreductase, hPDSW, located
+at 16p13.3 and down-regulated in a prostate cell line.";
+"Cloning and functional analysis of cDNAs with open reading frames for
+300 previously undefined genes expressed in CD34+ hematopoietic
+stem/progenitor cells.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Transfer of electrons from NADH to the respiratory
+    chain. The immediate electron acceptor for the enzyme is believed
+    to be ubiquinone.
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- CATALYTIC ACTIVITY: NADH + acceptor = NAD(+) + reduced acceptor.
+-!- SUBUNIT: Complex I is composed of 45 different subunits.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    matrix side.
+-!- SIMILARITY: Belongs to the complex I NDUFB10 subunit family.
+ GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; TAS:ProtInc.
+Mitochondrion; NAD; Oxidoreductase; Ubiquinone.
+TMZERO

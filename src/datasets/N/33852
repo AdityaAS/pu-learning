@@ -1,0 +1,20 @@
+AC   Q9NQ40; Q5W1A0; Q5W1A1; Q8NCL7; Q96GD5;
+Uncharacterized protein C20orf54 precursor.
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9NQ40-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9NQ40-2; Sequence=VSP_003814, VSP_003815;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the PERVR family.
+-!- CAUTION: It is uncertain whether Met-1 or Met-5 is the initiator.
+Alternative splicing; Membrane; Signal; Transmembrane.
+TMELEVEN

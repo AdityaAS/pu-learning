@@ -1,0 +1,14 @@
+AC   Q89I09;
+Flagellar L-ring protein 1 precursor (Basal body L-ring protein 1).
+"Complete genomic sequence of nitrogen-fixing symbiotic bacterium
+Bradyrhizobium japonicum USDA110.";
+-!- FUNCTION: Assembles around the rod to form the L-ring and probably
+    protects the motor/basal body from shearing forces during
+    rotation.
+-!- SUBUNIT: The basal body constitutes a major portion of the
+    flagellar organelle and consists of four rings (L,P,S, and M)
+    mounted on a central rod (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane (Probable).
+-!- SIMILARITY: Belongs to the flgH family.
+Complete proteome; Flagellum; Membrane; Outer membrane; Signal.
+TMZERO

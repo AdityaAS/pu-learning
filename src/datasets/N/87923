@@ -1,0 +1,20 @@
+AC   Q8N743; O95056; Q7Z7N4; Q8NHI2; Q8NHI3; Q9UEI4;
+Killer cell immunoglobulin-like receptor 3DL3 precursor (Killer cell
+inhibitory receptor 1) (CD158z antigen).
+"Isotypic variation of novel immunoglobulin-like transcript/killer
+cell inhibitory receptor loci in the leukocyte receptor complex.";
+"Inhibition of natural killer cell activation signals by killer cell
+immunoglobulin-like receptors (CD158).";
+"The DNA sequence and biology of human chromosome 19.";
+"Natural killer immunoglobulin-like receptor (KIR) locus profiles in
+African and South Asian populations.";
+-!- FUNCTION: Receptor on natural killer cells. May inhibit the
+    activity of NK cells thus preventing cell lysis.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- SIMILARITY: Belongs to the immunoglobulin superfamily.
+-!- SIMILARITY: Contains 3 Ig-like C2-type (immunoglobulin-like)
+    domains.
+Glycoprotein; Immunoglobulin domain; Membrane; Polymorphism; Receptor;
+Repeat; Signal; Transmembrane.
+TMONE

@@ -1,0 +1,13 @@
+AC   Q5V212;
+N-(5'-phosphoribosyl)anthranilate isomerase (EC 5.3.1.24) (PRAI).
+"Genome sequence of Haloarcula marismortui: a halophilic archaeon from
+the Dead Sea.";
+-!- CATALYTIC ACTIVITY: N-(5-phospho-beta-D-ribosyl)anthranilate = 1-
+    (2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-tryptophan biosynthesis; L-
+    tryptophan from chorismate: step 3.
+-!- SIMILARITY: Belongs to the trpF family.
+ GO:0000162; P:tryptophan biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Complete proteome; Isomerase; Tryptophan biosynthesis.
+TMZERO

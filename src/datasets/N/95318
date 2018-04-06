@@ -1,0 +1,18 @@
+AC   Q6GK49;
+Antiholin-like protein lrgB.
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- FUNCTION: Inhibits the expression or activity of extracellular
+    murein hydrolases by interacting, possibly with lrgB, with the
+    holin-like proteins cidA and/or cidB. The lrgAB and cidAB proteins
+    may affect the proton motive force of the membrane. May be
+    involved in programmed cell death (PCD), possibly triggering PCD
+    in response to antibiotics and environmental stresses (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the cidB/lrgB family. LrgB subfamily.
+ GO:0019835; P:cytolysis; IEA:HAMAP.
+ GO:0012501; P:programmed cell death; IEA:HAMAP.
+Complete proteome; Cytolysis; Membrane; Transmembrane.
+TMSEVEN

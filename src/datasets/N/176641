@@ -1,0 +1,86 @@
+AC   Q8WYL5; Q6P6C0; Q8N9A7; Q8WYL3; Q8WYL4; Q9P2P8;
+Protein phosphatase Slingshot homolog 1 (EC 3.1.3.48) (EC 3.1.3.16)
+(SSH-1L) (hSSH-1L).
+"Control of actin reorganization by Slingshot, a family of
+phosphatases that dephosphorylate ADF/cofilin.";
+"Prediction of the coding sequences of unidentified human genes. XVI.
+The complete sequences of 150 new cDNA clones from brain which code
+for large proteins in vitro.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Differential activities, subcellular distribution and tissue
+expression patterns of three members of Slingshot family phosphatases
+that dephosphorylate cofilin.";
+"Cell cycle-associated changes in Slingshot phosphatase activity and
+roles in cytokinesis in animal cells.";
+"Control of growth cone motility and morphology by LIM kinase and
+Slingshot via phosphorylation and dephosphorylation of cofilin.";
+"Efficient Salmonella entry requires activity cycles of host ADF and
+cofilin.";
+"Large-scale characterization of HeLa cell nuclear phosphoproteins.";
+"Phosphoinositide 3-kinase-mediated activation of cofilin phosphatase
+Slingshot and its role for insulin-induced membrane protrusion.";
+"A pathway of neuregulin-induced activation of cofilin-phosphatase
+Slingshot and cofilin in lamellipodia.";
+"Interplay between components of a novel LIM kinase-slingshot
+phosphatase complex regulates cofilin.";
+"Calcium signal-induced cofilin dephosphorylation is mediated by
+Slingshot via calcineurin.";
+"Spatial and temporal regulation of cofilin activity by LIM kinase and
+Slingshot is critical for directional cell migration.";
+-!- FUNCTION: Protein phosphatase which regulates actin filament
+    dynamics. Dephosphorylates and activates the actin
+    binding/depolymerizing factor cofilin, which subsequently binds to
+    actin filaments and stimulates their disassembly. Inhibitory
+    phosphorylation of cofilin is mediated by LIMK1, which may also be
+    dephosphorylated and inactivated by this protein.
+-!- CATALYTIC ACTIVITY: Protein tyrosine phosphate + H(2)O = protein
+    tyrosine + phosphate.
+-!- CATALYTIC ACTIVITY: A phosphoprotein + H(2)O = a protein +
+    phosphate.
+-!- SUBUNIT: Interacts with actin and this stimulates phosphatase
+    activity. Also interacts with LIMK1 and with the 14-3-3 proteins
+    YWHAB, YWHAG, YWHAQ, and YWHAZ. Interaction with 14-3-3 proteins
+    inhibits phosphatase activity and also blocks recruitment to
+    lamellipodia and stimulation by actin.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Note=Also recruited to actin rich
+    membrane protrusions such as lamellipodia, which may allow local
+    control of actin dynamics at sites of cell locomotion. Also
+    localized to the cleavage furrow and the midbody during
+    cytokinesis.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=5;
+    Name=1; Synonyms=L;
+      IsoId=Q8WYL5-1; Sequence=Displayed;
+    Name=2; Synonyms=S;
+      IsoId=Q8WYL5-2; Sequence=VSP_016318, VSP_016319;
+    Name=3; Synonyms=B;
+      IsoId=Q8WYL5-3; Sequence=VSP_016312, VSP_016314, VSP_016315,
+                               VSP_016316;
+      Note=No experimental confirmation available;
+    Name=4;
+      IsoId=Q8WYL5-4; Sequence=VSP_016311, VSP_016317;
+    Name=5;
+      IsoId=Q8WYL5-5; Sequence=VSP_016313, VSP_016318, VSP_016319;
+      Note=No experimental confirmation available;
+-!- PTM: Phosphorylated. Inhibitory phosphorylation by PAK4 promotes
+    binding to YWHAZ. Phosphorylation at Ser-978 is decreased by
+    stimuli which promote actin reorganization and lamellipodia
+    formation. Can be dephosphorylated and activated by
+    PPP3CA/calcineurin A. Phosphorylation decreases immediately prior
+    to telophase.
+-!- MISCELLANEOUS: Tyrosine phosphatase activity has not been
+    demonstrated for this protein to date.
+-!- SIMILARITY: Contains 1 tyrosine-protein phosphatase domain.
+ GO:0005737; C:cytoplasm; IDA:UniProtKB.
+ GO:0005886; C:plasma membrane; IDA:UniProtKB.
+ GO:0003779; F:actin binding; IDA:UniProtKB.
+ GO:0004721; F:phosphoprotein phosphatase activity; IDA:UniProtKB.
+ GO:0030036; P:actin cytoskeleton organization and biogenesis; IMP:UniProtKB.
+ GO:0000902; P:cell morphogenesis; IMP:UniProtKB.
+ GO:0006470; P:protein amino acid dephosphorylation; IMP:UniProtKB.
+Actin-binding; Alternative splicing; Cytoskeleton; Hydrolase;
+Phosphorylation; Protein phosphatase.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P07480; Q9TRN1;
+Galanin precursor [Contains: Galanin; Galanin message-associated
+peptide (GMAP)].
+"Construction of a porcine adrenal medullary cDNA library and
+nucleotide sequence analysis of two clones encoding a galanin
+precursor.";
+"Galanin and galanin extended at the N-terminus with seven and nine
+amino acids are produced in and secreted from the porcine adrenal
+medulla in almost equal amounts.";
+"Galanin - a novel biologically active peptide from porcine
+intestine.";
+"Characterization of porcine gastric galanin.";
+-!- FUNCTION: Contracts smooth muscle of the gastrointestinal and
+    genitourinary tract, regulates growth hormone release, modulates
+    insulin release, and may be involved in the control of adrenal
+    secretion.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the galanin family.
+Amidation; Cleavage on pair of basic residues;
+Direct protein sequencing; Hormone; Neuropeptide; Signal.
+TMZERO

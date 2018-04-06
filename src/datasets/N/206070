@@ -1,0 +1,26 @@
+AC   P24335;
+Waglerin-1 (Waglerin I) (Lethal peptide I).
+"Characterization and amino acid sequences of two lethal peptides
+isolated from venom of Wagler's pit viper, Trimeresurus wagleri.";
+"Molecular properties and structure-function relationships of lethal
+peptides from venom of Wagler's pit viper, Trimeresurus wagleri.";
+"A study on the cause of death due to waglerin-I, a toxin from
+Trimeresurus wagleri.";
+"Structure-function studies of waglerin I, a lethal peptide from the
+venom of Wagler's pit viper, Trimeresurus wagleri.";
+"Waglerin-1 selectively blocks the epsilon form of the muscle
+nicotinic acetylcholine receptor.";
+"Determination of three-dimensional solution structure of waglerin I,
+a toxin from Trimeresurus wagleri, using 2D-NMR and molecular dynamics
+simulation.";
+-!- FUNCTION: Elicits tachypnea, ocular proctosis, rapid collapse and
+    spasms in mice. The primary cause of death is respiratory failure.
+    Selectively blocks the epsilon subunit of muscle nicotinic
+    acetylcholine receptor.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- TOXIC DOSE: LD(50) is 0.369 mg/kg by intraperitoneal injection.
+-!- SIMILARITY: Belongs to the waglerin family.
+Acetylcholine receptor inhibitor; Direct protein sequencing;
+Neurotoxin; Postsynaptic neurotoxin; Toxin.
+TMZERO

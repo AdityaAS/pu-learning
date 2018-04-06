@@ -1,0 +1,7 @@
+AC   Q8U053;
+UPF0173 metal-dependent hydrolase PF1764.
+"The complete sequence of the Pyrococcus furiosus genome.";
+-!- SIMILARITY: Belongs to the UPF0173 family.
+ GO:0016787; F:hydrolase activity; IEA:HAMAP.
+Complete proteome; Hydrolase.
+TMZERO

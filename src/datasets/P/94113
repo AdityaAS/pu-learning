@@ -1,0 +1,19 @@
+AC   P97046;
+Multidrug resistance ABC transporter ATP-binding and permease protein
+(EC 3.6.3.44).
+"Multidrug resistance mediated by a bacterial homolog of the human
+multidrug transporter MDR1.";
+-!- FUNCTION: Efflux transporter for a variety of amphiphilic cationic
+    compounds, including antibiotics.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + xenobiotic(In) = ADP + phosphate
+    + xenobiotic(Out).
+-!- SUBUNIT: Homodimer (Potential).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0008559; F:xenobiotic-transporting ATPase activity; IEA:EC.
+Antibiotic resistance; ATP-binding; Hydrolase; Membrane;
+Nucleotide-binding; Transmembrane; Transport.
+TMSIX

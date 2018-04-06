@@ -1,0 +1,29 @@
+AC   P39835; Q2M780; Q6BF35;
+High-affinity gluconate transporter (Gluconate permease) (Gnt-I
+system).
+"Analysis of the Escherichia coli gntT and gntU genes and comparison
+of the products with their homologues.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Molecular characterization of malQ, the structural gene for the
+Escherichia coli enzyme amylomaltase.";
+"Intrinsic and extrinsic approaches for detecting genes in a bacterial
+genome.";
+"Mutations affecting gluconate catabolism in Escherichia coli. Genetic
+mapping of the locus for the thermosensitive gluconokinase.";
+"Molecular genetic characterization of the Escherichia coli gntT gene
+of GntI, the main system for gluconate metabolism.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the gluconate utilization system Gnt-I; high-
+    affinity intake of gluconate.
+-!- PATHWAY: Gluconate utilization.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the gntP permease family.
+Complete proteome; Gluconate utilization; Inner membrane; Membrane;
+Sugar transport; Transmembrane; Transport.
+TMTHIRTEEN

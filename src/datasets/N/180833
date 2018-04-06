@@ -1,0 +1,15 @@
+AC   P07178;
+Histidyl-tRNA synthetase, cytoplasmic (EC 6.1.1.21) (Histidine--tRNA
+ligase) (HisRS).
+"Isolation, structure and expression of mammalian genes for histidyl-
+tRNA synthetase.";
+"Structural analysis of the 5' region of the chromosomal gene for
+hamster histidyl-tRNA synthetase.";
+-!- CATALYTIC ACTIVITY: ATP + L-histidine + tRNA(His) = AMP +
+    diphosphate + L-histidyl-tRNA(His).
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+-!- SIMILARITY: Contains 1 WHEP-TRS domain.
+Aminoacyl-tRNA synthetase; ATP-binding; Ligase; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

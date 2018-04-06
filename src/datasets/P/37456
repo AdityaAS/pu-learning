@@ -1,0 +1,19 @@
+AC   P0ABJ5; P18402;
+Cytochrome o ubiquinol oxidase subunit 3 (EC 1.10.3.-) (Cytochrome o
+ubiquinol oxidase subunit III) (Ubiquinol oxidase chain C).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Cytochrome o terminal oxidase complex is the component
+    of the aerobic respiratory chain that predominates when cells are
+    grown at high aeration (By similarity).
+-!- CATALYTIC ACTIVITY: Ubiquinol-8 + O(2) = Ubiquinone-8 + H(2)O.
+-!- SUBUNIT: Heterooctamer of two A chains, two B chains, two C chains
+    and two D chains (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the cytochrome c oxidase subunit 3 family.
+Complete proteome; Electron transport; Inner membrane; Membrane;
+Oxidoreductase; Transmembrane; Transport.
+TMFIVE

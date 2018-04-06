@@ -1,0 +1,20 @@
+AC   O76808;
+Suppressor of hairless homolog (Su(H)).
+"Suppressor of hairless activates brachyury expression in the Ciona
+embryo.";
+-!- FUNCTION: Transcriptional regulator wich plays a central role in
+    Notch signaling, a signaling pathway involved in cell-cell
+    communications that regulates a broad spectrum of cell-fate
+    determinations. Acts as a transcriptional repressor when it is not
+    associated with Notch proteins. When associated with some Notch
+    protein, it acts as a transcriptional activator that activates
+    transcription of Notch target genes (By similarity). Required for
+    the transcriptional expression of Brachyury, suggesting that it
+    participates in notochord differentiation.
+-!- SUBUNIT: Interacts with activated Notch proteins (By similarity).
+-!- SIMILARITY: Belongs to the Su(H) family.
+-!- SIMILARITY: Contains 1 IPT/TIG domain.
+Activator; Developmental protein; DNA-binding;
+Notch signaling pathway; Nuclear protein; Repeat; Repressor;
+Transcription; Transcription regulation.
+TMZERO

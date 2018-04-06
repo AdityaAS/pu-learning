@@ -1,0 +1,12 @@
+AC   P45410;
+[Citrate [pro-3S]-lyase] ligase (EC 6.2.1.22) (Citrate lyase
+synthetase) (Acetate:SH-citrate lyase ligase).
+"Klebsiella pneumoniae genes for citrate lyase and citrate lyase
+ligase: localization, sequencing, and expression.";
+-!- FUNCTION: Acetylation of prosthetic group (2-(5''-phosphoribosyl)-
+    3'-dephosphocoenzyme-A) of the gamma subunit of citrate lyase.
+-!- CATALYTIC ACTIVITY: ATP + acetate + [citrate (pro-3S)-lyase](thiol
+    form) = AMP + diphosphate + [citrate (pro-3S)-lyase](acetyl form).
+-!- SIMILARITY: Contains 1 N-acetyltransferase domain.
+Ligase.
+TMZERO

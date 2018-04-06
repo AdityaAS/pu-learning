@@ -1,0 +1,23 @@
+AC   Q8VYR7; Q9SHX0;
+Boron transporter 1.
+"Arabidopsis boron transporter for xylem loading.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Endocytosis and degradation of BOR1, a boron transporter of
+Arabidopsis thaliana, regulated by boron availability.";
+-!- FUNCTION: Efflux-type boron transporter for xylem loading. Boron
+    is essential for maintaining the integrity of plants cell walls.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed in root pericycle cells.
+-!- MISCELLANEOUS: Shortly after high-concentration boron application,
+    BOR1 is transferred from the plasma membrane via the endosomes to
+    the vacuole for degradation. This avoid accumulation of toxic
+    levels of boron in shoots under high-boron supply, while
+    protecting the shoot from boron deficiency under boron limitation.
+-!- SIMILARITY: Belongs to the anion exchanger (TC 2.A.31) family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to erroneous
+    gene model prediction.
+Anion exchange; Ion transport; Membrane; Transmembrane; Transport.
+TMTEN

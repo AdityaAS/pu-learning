@@ -1,0 +1,15 @@
+AC   P24427;
+FeMo cofactor biosynthesis protein nifB.
+"Molecular linkage of the nif/fix and nod gene regions in Rhizobium
+leguminosarum biovar trifolii.";
+"The nifA gene product from Rhizobium leguminosarum biovar trifolii
+lacks the N-terminal domain found in other NifA proteins.";
+-!- FUNCTION: Probably involved in the synthesis of the Fe-Mo
+    cofactor.
+-!- COFACTOR: Binds 1 4Fe-4S cluster. The cluster is coordinated with
+    3 cysteines and an exchangeable S-adenosyl-L-methionine (By
+    similarity).
+-!- SIMILARITY: Belongs to the moaA/nifB/pqqE family.
+4Fe-4S; Iron; Iron-sulfur; Metal-binding; Nitrogen fixation; Plasmid;
+S-adenosyl-L-methionine.
+TMZERO

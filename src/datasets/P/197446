@@ -1,0 +1,13 @@
+AC   P0AG81; P10904;
+Glycerol-3-phosphate-binding periplasmic protein precursor.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: sn-glycerol-3-phosphate and glycerophosphoryl diester-
+    binding protein interacts with the binding protein-dependent
+    transport system ugpACE (By similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 1
+    family.
+Complete proteome; Periplasmic; Signal; Transport.
+TMZERO

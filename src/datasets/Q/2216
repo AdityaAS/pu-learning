@@ -1,0 +1,16 @@
+AC   Q9PTS8;
+Neuronal acetylcholine receptor protein subunit alpha-9 precursor
+(Nicotinic acetylcholine receptor subunit alpha 9) (NACHR alpha 9).
+"Cloning and expression of the alpha9 nicotinic acetylcholine receptor
+subunit in cochlear hair cells of the chick.";
+-!- FUNCTION: Ionotropic receptor with a probable role in the
+    modulation of auditory stimuli (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- TISSUE SPECIFICITY: Expressed in hair cells of the cochlea.
+-!- SIMILARITY: Belongs to the ligand-gated ionic channel (TC 1.A.9)
+    family.
+Calcium; Calcium channel; Calcium transport; Glycoprotein;
+Ion transport; Ionic channel; Membrane; Postsynaptic membrane;
+Receptor; Signal; Transmembrane; Transport.
+TMFOUR

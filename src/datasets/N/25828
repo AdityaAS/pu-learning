@@ -1,0 +1,13 @@
+AC   P30578;
+Chitin synthase 3 (EC 2.4.1.16) (Chitin-UDP acetyl-glucosaminyl
+transferase 3) (Class-II chitin synthase 3) (Fragment).
+"Classification of fungal chitin synthases.";
+-!- FUNCTION: Plays a major role in cell wall biogenesis.
+-!- CATALYTIC ACTIVITY: UDP-N-acetyl-D-glucosamine + (1,4-(N-acetyl-
+    beta-D-glucosaminyl))(n) = UDP + (1,4-(N-acetyl-beta-D-
+    glucosaminyl))(n+1).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the chitin synthase family. Class II
+    subfamily.
+Cell wall; Glycosyltransferase; Membrane; Transferase; Transmembrane.
+TMZERO

@@ -1,0 +1,11 @@
+AC   Q9PD69;
+Proline iminopeptidase (EC 3.4.11.5) (PIP) (Prolyl aminopeptidase)
+(PAP).
+"The genome sequence of the plant pathogen Xylella fastidiosa.";
+-!- FUNCTION: Specifically catalyzes the removal of N-terminal proline
+    residues from peptides (By similarity).
+-!- CATALYTIC ACTIVITY: Release of N-terminal proline from a peptide.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the peptidase S33 family.
+Aminopeptidase; Complete proteome; Hydrolase; Protease.
+TMZERO

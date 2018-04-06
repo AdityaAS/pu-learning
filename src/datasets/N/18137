@@ -1,0 +1,137 @@
+AC   Q06187;
+Tyrosine-protein kinase BTK (EC 2.7.10.2) (Bruton tyrosine kinase)
+(Agammaglobulinaemia tyrosine kinase) (ATK) (B cell progenitor kinase)
+(BPK).
+"The gene involved in X-linked agammaglobulinaemia is a member of the
+src family of protein-tyrosine kinases.";
+"Genomic organization and structure of Bruton agammaglobulinemia
+tyrosine kinase: localization of mutations associated with varied
+clinical presentations and course in X chromosome-linked
+agammaglobulinemia.";
+"The genomic structure of human BTK, the defective gene in X-linked
+agammaglobulinemia.";
+"Genomic organization of the Btk gene and exon scanning for mutations
+in patients with X-linked agammaglobulinemia.";
+"Sixty-nine kilobases of contiguous human genomic sequence containing
+the alpha-galactosidase A and Bruton's tyrosine kinase loci.";
+"The DNA sequence of the human X chromosome.";
+"Deficient expression of a B cell cytoplasmic tyrosine kinase in human
+X-linked agammaglobulinemia.";
+"BAP-135, a target for Bruton's tyrosine kinase in response to B cell
+receptor engagement.";
+"Identification and characterization of a novel SH3-domain binding
+protein, Sab, which preferentially associates with Bruton's tyrosine
+kinase (Btk).";
+"Structure of the PH domain and Btk motif from Bruton's tyrosine
+kinase: molecular explanations for X-linked agammaglobulinaemia.";
+"Structure of the PH domain from Bruton's tyrosine kinase in complex
+with inositol 1,3,4,5-tetrakisphosphate.";
+"Solution structure of the SH3 domain from Bruton's tyrosine kinase.";
+"BTKbase, mutation database for X-linked agammaglobulinemia (XLA).";
+"BTKbase, mutation database for X-linked agammaglobulinemia (XLA).";
+"Mutation detection in the X-linked agammaglobulinemia gene, BTK,
+using single strand conformation polymorphism analysis.";
+"Mutation analysis of the Bruton's tyrosine kinase gene in X-linked
+agammaglobulinemia: identification of a mutation which affects the
+same codon as is altered in immunodeficient xid mice.";
+"Screening of genomic DNA to identify mutations in the gene for
+Bruton's tyrosine kinase.";
+"Unique mutations of Bruton's tyrosine kinase in fourteen unrelated X-
+linked agammaglobulinemia families.";
+"Structural basis for chromosome X-linked agammaglobulinemia: a
+tyrosine kinase disease.";
+"Structural basis for pleckstrin homology domain mutations in X-linked
+agammaglobulinemia.";
+"DNA-based mutation analysis of Bruton's tyrosine kinase gene in
+patients with X-linked agammaglobulinaemia.";
+"Identification of Btk mutations in 20 unrelated patients with X-
+linked agammaglobulinaemia (XLA).";
+"Mutation analysis in Bruton's tyrosine kinase, the X-linked
+agammaglobulinaemia gene, including identification of an insertional
+hotspot.";
+"Improved oligonucleotide primer set for molecular diagnosis of X-
+linked agammaglobulinaemia: predominance of amino acid substitutions
+in the catalytic domain of Bruton's tyrosine kinase.";
+"Characterization of germline mutations of the gene encoding Bruton's
+tyrosine kinase in families with X-linked agammaglobulinemia.";
+"A new point mutation involving a highly conserved leucine in the Btk
+SH2 domain in a family with X linked agammaglobulinaemia.";
+"Detection of a novel mutation in the SRC homology domain 2 (SH2) of
+Bruton's tyrosine kinase and direct female carrier evaluation in a
+family with X-linked agammaglobulinemia.";
+"Identification of Bruton's tyrosine kinase (Btk) gene mutations and
+characterization of the derived proteins in 35 X-linked
+agammaglobulinemia families: a nationwide study of Btk deficiency in
+Japan.";
+"Mutations of the Btk gene in 12 unrelated families with X-linked
+agammaglobulinemia in Japan.";
+"Missense mutations affecting a conserved cysteine pair in the TH
+domain of Btk.";
+"Molecular and structural characterization of five novel mutations in
+the Bruton's tyrosine kinase gene from patients with X-linked
+agammaglobulinemia.";
+"Mutations in btk in patients with presumed X-linked
+agammaglobulinemia.";
+"Mutation screening of the BTK gene in 56 families with X-linked
+agammaglobulinemia (XLA): 47 unique mutations without correlation to
+clinical course.";
+"Mutations of the human BTK gene coding for Bruton tyrosine kinase in
+X-linked agammaglobulinemia.";
+"Identification of nine novel mutations in the Bruton's tyrosine
+kinase gene in X-linked agammaglobulinaemia patients.";
+-!- FUNCTION: Plays a crucial role in B-cell ontogeny. Transiently
+    phosphorylates GTF2I on tyrosine residues in response to B-cell
+    receptor cross-linking.
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- COFACTOR: Binds 1 zinc ion per subunit.
+-!- SUBUNIT: Binds GTF2I through the PH domain. Interacts with SH3BP5
+    via the SH3 domain.
+-!- INTERACTION:
+    P30273:FCER1G; NbExp=1; IntAct=EBI-624835, EBI-515289;
+    P78347:GTF2I; NbExp=4; IntAct=EBI-624835, EBI-359622;
+    Q04759:PRKCQ; NbExp=2; IntAct=EBI-624835, EBI-374762;
+    O60239:SH3BP5; NbExp=3; IntAct=EBI-624835, EBI-624860;
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Membrane;
+    peripheral membrane protein (By similarity).
+-!- PTM: Autophosphorylated on Tyr-222 and Tyr-550. The tyrosine
+    phosphorylation of Tyr-222 may create a docking site for a SH2
+    containing protein (By similarity).
+-!- DISEASE: Defects in BTK are the cause of X-linked
+    agammaglobulinemia type 1 (XLA) [MIM:300300]. XLA is a humoral
+    immunodeficiency disease which results in developmental defects in
+    the maturation pathway of B-cells. Affected boys have normal
+    levels of pre-B-cells in their bone marrow but virtually no
+    circulating mature B-lymphocytes. This results in a lack of
+    immunoglobulins of all classes and leads to recurrent bacterial
+    infections like otitis, conjunctivitis, dermatitis, sinusitis in
+    the first few years of life, or even some patients present
+    overwhelming sepsis or meningitis, resulting in death in a few
+    hours. Treatment in most cases is by infusion of intravenous
+    immunoglobulin.
+-!- SIMILARITY: Belongs to the Tyr protein kinase family. TEC
+    subfamily.
+-!- SIMILARITY: Contains 1 Btk-type zinc finger.
+-!- SIMILARITY: Contains 1 PH domain.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+-!- SIMILARITY: Contains 1 SH2 domain.
+-!- SIMILARITY: Contains 1 SH3 domain.
+-!- WEB RESOURCE: NAME=BTKbase; NOTE=BTK mutation db;
+    URL="http://www.uta.fi/imt/bioinfo/BTKbase/".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=BTK".
+ GO:0005737; C:cytoplasm; TAS:ProtInc.
+ GO:0045121; C:lipid raft; IDA:HGNC.
+ GO:0005524; F:ATP binding; TAS:HGNC.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0004713; F:protein-tyrosine kinase activity; TAS:HGNC.
+ GO:0019722; P:calcium-mediated signaling; TAS:HGNC.
+ GO:0008624; P:induction of apoptosis by extracellular sig...; TAS:ProtInc.
+ GO:0007242; P:intracellular signaling cascade; TAS:HGNC.
+ GO:0007498; P:mesoderm development; TAS:ProtInc.
+ GO:0006468; P:protein amino acid phosphorylation; TAS:HGNC.
+3D-structure; Acetylation; ATP-binding; Direct protein sequencing;
+Disease mutation; Kinase; Metal-binding; Nucleotide-binding;
+Phosphorylation; Polymorphism; SH2 domain; SH3 domain; Transferase;
+Tyrosine-protein kinase; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,22 @@
+AC   Q08299;
+Siderophore iron transporter ENB1 (Siderophore iron transporter ARN4)
+(Enterobactin permease).
+"Desferrioxamine-mediated iron uptake in Saccharomyces cerevisiae.
+Evidence for two pathways of iron uptake.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"The response to iron deprivation in Saccharomyces cerevisiae:
+expression of siderophore-based systems of iron uptake.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in the transport of siderophore enterobactin
+    and so has a role in iron homeostasis.
+-!- SUBCELLULAR LOCATION: Endosome; endosomal membrane; multi-pass
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+ GO:0016023; C:cytoplasmic membrane-bound vesicle; TAS:SGD.
+ GO:0005768; C:endosome; TAS:SGD.
+ GO:0015620; F:ferric-enterobactin transporter activity; IMP:SGD.
+ GO:0015685; P:ferric-enterobactin transport; IMP:SGD.
+Complete proteome; Ion transport; Iron; Iron transport; Membrane;
+Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,24 @@
+AC   P41111;
+Translation initiation factor eIF-2B subunit delta (eIF-2B GDP-GTP
+exchange factor subunit delta).
+"Guanine nucleotide exchange factor for eukaryotic initiation factor-
+2. Cloning of cDNA for the delta-subunit of rabbit translation
+initiation factor-2B.";
+-!- FUNCTION: Catalyzes the exchange of eukaryotic initiation factor
+    2-bound GDP for GTP.
+-!- SUBUNIT: Complex of five different subunits; alpha, beta, gamma,
+    delta and epsilon.
+-!- SIMILARITY: Belongs to the EIF-2B alpha/beta/delta subunits
+    family.
+ GO:0005737; C:cytoplasm; ISS:UniProtKB.
+ GO:0005851; C:eukaryotic translation initiation factor 2B...; ISS:UniProtKB.
+ GO:0005515; F:protein binding; ISS:UniProtKB.
+ GO:0051716; P:cellular response to stimulus; ISS:UniProtKB.
+ GO:0042552; P:myelination; ISS:UniProtKB.
+ GO:0014003; P:oligodendrocyte development; ISS:UniProtKB.
+ GO:0001541; P:ovarian follicle development; ISS:UniProtKB.
+ GO:0045946; P:positive regulation of translation; ISS:UniProtKB.
+ GO:0006417; P:regulation of protein biosynthesis; ISS:UniProtKB.
+ GO:0006413; P:translational initiation; ISS:UniProtKB.
+Initiation factor; Protein biosynthesis.
+TMZERO

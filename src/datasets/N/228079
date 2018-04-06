@@ -1,0 +1,19 @@
+AC   P53896;
+Protein PGA1 precursor (Processing of GAS1 and ALP protein 1).
+"The sequence of 36.8 kb from the left arm of chromosome XIV reveals
+24 complete open reading frames: 18 correspond to new genes, one of
+which encodes a protein similar to the human myotonic dystrophy
+kinase.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear envelope; single-pass type
+    I membrane protein.
+-!- MISCELLANEOUS: Present with 6940 molecules/cell.
+ GO:0005635; C:nuclear envelope; IDA:SGD.
+ GO:0045045; P:secretory pathway; IGI:SGD.
+Complete proteome; Membrane; Nuclear protein; Signal; Transmembrane.
+TMONE

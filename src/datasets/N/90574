@@ -1,0 +1,18 @@
+AC   Q04504;
+Lupus La protein homolog (La ribonucleoprotein) (La autoantigen
+homolog) (Fragment).
+"Sjogren's syndrome nuclear antigen B (La): cDNA cloning, structural
+domains, and autoepitopes.";
+-!- FUNCTION: La protein plays a role in the transcription of RNA
+    polymerase III. It is most probably a transcription termination
+    factor. Binds to the 3' termini of virtually all nascent
+    polymerase III transcripts. It is associated with precursor forms
+    of RNA polymerase III transcripts including tRNA and 4.5S, 5S, 7S,
+    and 7-2 RNAs.
+-!- SUBUNIT: Interacts with DDX15. May interact with RUFY1 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (Probable).
+-!- PTM: Phosphorylated (By similarity).
+-!- SIMILARITY: Contains 1 RRM (RNA recognition motif) domain.
+Nuclear protein; Phosphorylation; RNA-binding.
+TMZERO

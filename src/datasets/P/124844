@@ -1,0 +1,24 @@
+AC   O09012;
+Peroxisomal targeting signal 1 receptor (Peroxisome receptor 1)
+(Peroxisomal C-terminal targeting signal import receptor) (PTS1-BP)
+(Peroxin-5) (PTS1 receptor) (PXR1P) (PTS1R).
+"A mouse model for Zellweger syndrome.";
+-!- FUNCTION: Binds to the C-terminal PTS1-type tripeptide peroxisomal
+    targeting signal (SKL-type) and plays an essential role in
+    peroxisomal protein import.
+-!- INTERACTION:
+    Q60680-1:Chuk; NbExp=2; IntAct=EBI-646301, EBI-646260;
+-!- SUBCELLULAR LOCATION: Cytoplasm. Peroxisome; peroxisomal membrane;
+    peripheral membrane protein. Note=Its distribution appears to be
+    dynamic. It is probably a cycling receptor found mainly in the
+    cytoplasm and as well associated to the peroxisomal membrane
+    through a docking factor (PEX13).
+-!- SIMILARITY: Belongs to the peroxisomal targeting signal receptor
+    family.
+-!- SIMILARITY: Contains 7 TPR repeats.
+ GO:0000268; F:peroxisome targeting sequence binding; TAS:MGI.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0001764; P:neuron migration; IMP:MGI.
+ GO:0006625; P:protein targeting to peroxisome; TAS:MGI.
+Peroxisome; Protein transport; Repeat; TPR repeat; Transport.
+TMZERO

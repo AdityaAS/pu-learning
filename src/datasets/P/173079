@@ -1,0 +1,34 @@
+AC   P38925;
+Manganese transporter SMF1.
+"Two related genes encoding extremely hydrophobic proteins suppress a
+lethal mutation in the yeast mitochondrial processing enhancing
+protein.";
+"A yeast manganese transporter related to the macrophage protein
+involved in conferring resistance to mycobacteria.";
+"DNA sequence analysis of a 10 624 bp fragment of the left arm of
+chromosome XV from Saccharomyces cerevisiae reveals a RNA binding
+protein, a mitochondrial protein, two ribosomal proteins and two new
+open reading frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"The family of SMF metal ion transporters in yeast cells.";
+"Saccharomyces cerevisiae expresses three functionally distinct
+homologues of the nramp family of metal transporters.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High-affinity manganese transporter involved in
+    manganese uptake from the extracellular environment. Contributes
+    also to cellular accumulation of other divalent metal ions such as
+    cadmium, cobalt, copper, iron and nickel.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+    Note=Targeted to the vacuolar lumen in presence of excess
+    manganese, where it is degraded.
+-!- SIMILARITY: Belongs to the NRAMP family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0000324; C:vacuole (sensu Fungi); IDA:SGD.
+ GO:0005384; F:manganese ion transporter activity; IMP:SGD.
+ GO:0006828; P:manganese ion transport; IMP:SGD.
+Complete proteome; Manganese; Membrane; Metal-binding;
+Phosphorylation; Transmembrane; Transport.
+TMTEN

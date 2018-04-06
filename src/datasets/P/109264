@@ -1,0 +1,15 @@
+AC   P26235;
+Na(+)/H(+) antiporter.
+"Cloning and disruption of a putative NaH-antiporter gene of
+Enterococcus hirae.";
+"The putative Na+/H+ antiporter (NapA) of Enterococcus hirae is
+homologous to the putative K+/H+ antiporter (KefC) of Escherichia
+coli.";
+-!- FUNCTION: This is a Na(+)/H(+) antiporter. It can mediate sodium
+    uptake when a transmembrane pH gradient is applied.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the monovalent cation:proton antiporter 2
+    (CPA2) transporter (TC 2.A.37) family.
+Antiport; Ion transport; Membrane; Sodium; Sodium transport;
+Transmembrane; Transport.
+TMTWELVE

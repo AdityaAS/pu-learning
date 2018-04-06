@@ -1,0 +1,18 @@
+AC   P52237; Q51754;
+Thiol:disulfide interchange protein dsbE (Cytochrome c biogenesis
+protein ccmG).
+"A cytochrome c biogenesis gene involved in pyoverdine production in
+Pseudomonas fluorescens ATCC 17400.";
+"A chromosomal locus required for copper resistance, competitive
+fitness, and cytochrome c biogenesis in Pseudomonas fluorescens.";
+-!- FUNCTION: Involved in disulfide bond formation. Catalyzes a late,
+    reductive step in the assembly of periplasmic c-type cytochromes,
+    probably the reduction of disulfide bonds of the apocytochrome c
+    to allow covalent linkage with the heme. Possible subunit of a
+    heme lyase (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein; periplasmic side (By similarity).
+-!- SIMILARITY: Belongs to the thioredoxin family. DsbE subfamily.
+Cytochrome c-type biogenesis; Inner membrane; Membrane;
+Redox-active center; Transmembrane.
+TMONE

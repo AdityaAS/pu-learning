@@ -1,0 +1,25 @@
+AC   O32273;
+Teichuronic acid biosynthesis protein tuaB.
+"Teichuronic acid operon of Bacillus subtilis 168.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Might be involved in the translocation of teichuronic
+    acid repeating units from the inner to the outer surface of the
+    membrane.
+-!- PATHWAY: Teichuronic acid biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: By phosphate starvation, via the phoP/phoR two-
+    component regulatory system.
+-!- MISCELLANEOUS: The nature of the anionic polymer present in the
+    cell wall of B.subtilis depends on phosphate availability. Under
+    phosphate-replete growth conditions teichoic acids are present,
+    whereas under phosphate-depleted conditions, at least part of the
+    wall teichoic acid is replaced with teichuronic acid, a non-
+    phosphate containing anionic polymer. The synthesis of teichuronic
+    acid is accompanied by degradation of teichoic acid and
+    reutilization of liberated phosphate for other cellular processes
+    such as nucleic acid synthesis.
+-!- SIMILARITY: Belongs to the polysaccharide synthase family.
+Cell wall; Complete proteome; Membrane; Transmembrane.
+TMELEVEN

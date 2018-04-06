@@ -1,0 +1,45 @@
+AC   P55117; P55116; Q51865; Q51866; Q51867; Q51868; Q798V3; Q798V4;
+AC   Q9EUD4; Q9EV22;
+Leukotoxin (Lkt).
+"Molecular analysis of the leukotoxin determinants from Pasteurella
+haemolytica serotypes 1 to 16.";
+"Characterization of epitopes involved in the neutralization of
+Pasteurella haemolytica serotype A1 leukotoxin.";
+"Sequence diversity and molecular evolution of the leukotoxin (lktA)
+gene in bovine and ovine strains of Mannheimia (Pasteurella)
+haemolytica.";
+"DNA sequence of the carboxy terminal end of leukotoxin A from the T10
+serotype of Pasteurella haemolytica.";
+"DNA sequence of the carboxy terminal end of leukotoxin A from the T3
+serotype of Pasteurella haemolytica.";
+"DNA sequence of the carboxy terminal end of leukotoxin A from the T4
+serotype of Pasteurella haemolytica.";
+"DNA sequence of the carboxy terminal end of leukotoxin A from the T15
+serotype of Pasteurella haemolytica.";
+-!- FUNCTION: Pasteurella leukotoxins are exotoxins that attack host
+    leukocytes and especially polymorphonuclear cells, by causing cell
+    rupture. The leukotoxin binds to the host LFA-1 integrin and
+    induces a signaling cascade leading to many biological effects,
+    including tyrosine phosphorylation of the CD18 tail, elevation of
+    the intracellular Ca(2+) and lysis of the host cell (By
+    similarity). This leukotoxin is a major contributor to the
+    pathogenesis of lung injury in ovine pneumonic pasteurellosis. It
+    has also weak hemolytic activity.
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- DOMAIN: The transmembrane domains are believed to be involved in
+    pore formation in target cells (By similarity).
+-!- DOMAIN: The Gly-rich region is probably involved in calcium
+    binding, which is required for target cell-binding and cytolytic
+    activity (By similarity).
+-!- DOMAIN: The C-terminal domain contains an export signal that is
+    recognized by the ABC transporter complex lktBD (By similarity).
+-!- PTM: Acylated by lktC. The toxin only becomes active when modified
+    (By similarity).
+-!- MISCELLANEOUS: The lktCABD operon has a complex mosaic structure
+    that has been derived by extensive inter- and intraspecies
+    horizontal DNA transfer and intragenic recombination events.
+-!- SIMILARITY: Belongs to the RTX prokaryotic toxin (TC 1.C.11)
+    family.
+Calcium; Cytolysis; Hemolysis; Lipoprotein; Membrane; Repeat; Toxin;
+Transmembrane; Virulence.
+TMFOUR

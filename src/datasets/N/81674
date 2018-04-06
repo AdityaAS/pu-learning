@@ -1,0 +1,18 @@
+AC   Q9JLA2;
+Interleukin-1 family member 6 (IL-1F6) (Interleukin-1 epsilon) (IL-1
+epsilon) (FIL1 epsilon) (Interleukin-1 homolog 1) (IL-1H1).
+"Identification and initial characterization of four novel members of
+the interleukin-1 family.";
+"Two novel IL-1 family members, IL-1 delta and IL-1 epsilon, function
+as an antagonist and agonist of NF-kappa B activation through the
+orphan IL-1 receptor-related protein 2.";
+"The transcriptional landscape of the mammalian genome.";
+-!- SUBCELLULAR LOCATION: Secreted protein (Potential).
+-!- TISSUE SPECIFICITY: Highly expressed in embryonic tissue and in
+    tissues containing epithelial cells.
+-!- MISCELLANEOUS: Binding analysis failed to detect interaction with
+    multiple IL1R family members.
+-!- SIMILARITY: Belongs to the IL-1 family.
+ GO:0006954; P:inflammatory response; TAS:MGI.
+Cytokine.
+TMZERO

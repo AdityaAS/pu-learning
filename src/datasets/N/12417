@@ -1,0 +1,19 @@
+AC   Q9ZT48;
+Arginyl-tRNA--protein transferase 1 (EC 2.3.2.8) (R-transferase 1)
+(Arginyltransferase 1) (Arginine-tRNA--protein transferase 1).
+"Alternative splicing results in differential expression, activity,
+and localization of the two forms of arginyl-tRNA-protein transferase,
+a component of the N-end rule pathway.";
+"Structural analysis of Arabidopsis thaliana chromosome 5. I. Sequence
+features of the 1.6 Mb regions covered by twenty physically assigned
+P1 clones.";
+-!- FUNCTION: Involved in the posttranslational conjugation of
+    arginine to the N-terminal aspartate or glutamate of a protein.
+    This arginylation is required for degradation of the protein via
+    the ubiquitin pathway. Does not arginylate cysteine residues (By
+    similarity).
+-!- CATALYTIC ACTIVITY: L-arginyl-tRNA + protein = tRNA + L-arginyl-
+    protein.
+-!- SIMILARITY: Belongs to the R-transferase family.
+Acyltransferase; Transferase; Ubl conjugation pathway.
+TMZERO

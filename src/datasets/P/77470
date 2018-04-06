@@ -1,0 +1,23 @@
+AC   P25619; Q04556;
+30 kDa heat shock protein.
+"Isolation and sequence of HSP30, a yeast heat-shock gene coding for a
+hydrophobic membrane protein.";
+"The complete DNA sequence of yeast chromosome III.";
+"Global analysis of protein expression in yeast.";
+"A proteomics approach to understanding protein ubiquitination.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Probably cooperates with other heat shock proteins in
+    the translocation of polypeptides through membranes. It may
+    counteract the altering effect of heat shock on the plasma
+    membrane.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DEVELOPMENTAL STAGE: Expressed during the entry into stationary
+    phase resulting from glucose limitation.
+-!- MISCELLANEOUS: Present with 7800 molecules/cell.
+-!- SIMILARITY: Belongs to the archaeal/bacterial/fungal opsin family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0006950; P:response to stress; IDA:SGD.
+Complete proteome; Heat shock; Membrane; Phosphorylation;
+Transmembrane.
+TMSEVEN

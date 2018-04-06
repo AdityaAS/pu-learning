@@ -1,0 +1,28 @@
+AC   P19934;
+Protein tolA.
+"Nucleotide sequences of the tolA and tolB genes and localization of
+their products, components of a multistep translocation system in
+Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"TolA: a membrane protein involved in colicin uptake contains an
+extended helical region.";
+"TolA central domain interacts with Escherichia coli porins.";
+"Filamentous phage infection: crystal structure of g3p in complex with
+its coreceptor, the C-terminal domain of TolA.";
+-!- FUNCTION: Involved in the tonB-independent uptake of group A
+    colicins (colicins A, E1, E2, E3, and K). Necessary for the
+    colicins to reach their respective targets after initial binding
+    to the bacteria. Also involved in the translocation of
+    bacteriophage DNA.
+-!- SUBUNIT: Interacts, via domain II, with porins ompC, phoE and
+    lamB.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type II
+    membrane protein.
+3D-structure; Bacteriocin transport; Complete proteome;
+Inner membrane; Membrane; Protein transport; Repeat; Transmembrane;
+Transport.
+TMONE

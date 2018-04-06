@@ -1,0 +1,14 @@
+AC   Q14805;
+Metaphase chromosomal protein 1 (33 kDa metaphase chromosomal
+protein).
+"Molecular cloning of metaphase chromosome protein 1 (MCP1), a novel
+human autoantigen that associates with condensed chromosomes during
+mitosis.";
+-!- SUBCELLULAR LOCATION: Nucleus. Note=During interphase is dispersed
+    in the nucleus and during mitosis it associates exclusively with
+    condensed chromosomes.
+-!- DISEASE: Sera from patients with systemic lupus erythematosus
+    often contain antibodies that react with this protein.
+ GO:0000794; C:condensed nuclear chromosome; IDA:UniProtKB.
+DNA-binding; Nuclear protein; Systemic lupus erythematosus.
+TMZERO

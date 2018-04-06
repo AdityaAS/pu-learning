@@ -1,0 +1,10 @@
+AC   O63850;
+NADH-ubiquinone oxidoreductase chain 3 (EC 1.6.5.3) (NADH
+dehydrogenase subunit 3).
+"Mitochondrial DNA of the coral Sarcophyton glaucum contains a gene
+for a homologue of bacterial MutS: a possible case of gene transfer
+from the nucleus to the mitochondrion.";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SIMILARITY: Belongs to the complex I subunit 3 family.
+Mitochondrion; NAD; Oxidoreductase; Ubiquinone.
+TMZERO

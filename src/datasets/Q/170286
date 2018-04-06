@@ -1,0 +1,22 @@
+AC   P01487;
+Neurotoxin III (Lqq III) (LqqIII) (Lqq3).
+"Characterization of toxin III of the scorpion Leiurus quinquestriatus
+quinquestriatus: a new type of alpha-toxin highly toxic both to
+mammals and insects.";
+"Scorpion neurotoxins: a family of homologous proteins.";
+"1H-NMR-derived secondary structure and the overall fold of the potent
+anti-mammal and anti-insect toxin III from the scorpion Leiurus
+quinquestriatus quinquestriatus.";
+-!- FUNCTION: Binds to sodium channels and inhibits the inactivation
+    of the activated channels, thereby blocking neuronal transmission.
+    This contractive toxin is highly toxic both to mammals and
+    insects.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- TOXIC DOSE: LD(50) is 50 ug/kg by subcutaneous injection in mouse,
+    60 ng/g in Blatella germanica and 120 ng/g in Musca domestica.
+-!- SIMILARITY: Belongs to the long (4 C-C) scorpion toxin
+    superfamily. Sodium channel inhibitor family. Alpha subfamily.
+3D-structure; Direct protein sequencing; Ionic channel inhibitor;
+Neurotoxin; Sodium channel inhibitor; Toxin.
+TMZERO

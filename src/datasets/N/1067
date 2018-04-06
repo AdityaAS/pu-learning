@@ -1,0 +1,13 @@
+AC   Q60612; Q9WUF9;
+Adenosine A1 receptor.
+"Cloning of two adenosine receptor subtypes from mouse bone marrow-
+derived mast cells.";
+"Characterization of the murine A1 adenosine receptor promoter, potent
+regulation by GATA-4 and Nkx2.5.";
+-!- FUNCTION: Receptor for adenosine. The activity of this receptor is
+    mediated by G proteins which inhibit adenylyl cyclase.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+G-protein coupled receptor; Glycoprotein; Lipoprotein; Membrane;
+Palmitate; Receptor; Transducer; Transmembrane.
+TMSEVEN

@@ -1,0 +1,15 @@
+AC   Q8FD84;
+Phosphoglucosamine mutase (EC 5.4.2.10).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Catalyzes the conversion of glucosamine-6-phosphate to
+    glucosamine-1-phosphate (By similarity).
+-!- CATALYTIC ACTIVITY: Alpha-D-glucosamine 1-phosphate = D-
+    glucosamine 6-phosphate.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the phosphohexose mutase family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0008966; F:phosphoglucosamine mutase activity; IEA:HAMAP.
+Complete proteome; Isomerase; Magnesium; Metal-binding;
+Phosphorylation.
+TMZERO

@@ -1,0 +1,45 @@
+AC   Q9JLL3; Q812G3; Q9JHF1; Q9JJH6; Q9JLL2; Q9QXW7;
+Tumor necrosis factor receptor superfamily member 19 precursor
+(Toxicity and JNK inducer) (TRADE).
+"Characterization of TNFRSF19, a novel member of the tumor necrosis
+factor receptor superfamily.";
+"TAJ, a novel member of the tumor necrosis factor receptor family,
+activates the c-Jun N-terminal kinase pathway and mediates caspase-
+independent cell death.";
+"TROY, a newly identified member of the tumor necrosis factor receptor
+superfamily, exhibits a homology with Edar and is expressed in
+embryonic skin and hair follicles.";
+"TRADE, a novel TNF receptor family member associated with death
+signaling.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Can mediate activation of c-Jun and NF-kappa-B. May
+    promote caspase-independent cell death (By similarity). Isoform 2
+    and isoform 3 may act as decoy receptors.
+-!- SUBUNIT: Associates with TRAF1, TRAF2, TRAF3 and TRAF5 (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Isoform 1: Cell membrane; single-pass type I
+    membrane protein (Probable). Isoform 3: Cell membrane; single-pass
+    type I membrane protein (Probable). Isoform 4: Cell membrane;
+    single-pass type I membrane protein (Probable). Isoform 2:
+    Secreted protein (Probable).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1; Synonyms=TAJ-alphaL;
+      IsoId=Q9JLL3-1; Sequence=Displayed;
+    Name=2; Synonyms=TAJ-beta1;
+      IsoId=Q9JLL3-2; Sequence=VSP_006513, VSP_006514;
+    Name=3; Synonyms=TAJ-alphaS, dTROY;
+      IsoId=Q9JLL3-3; Sequence=VSP_006515, VSP_006516;
+    Name=4;
+      IsoId=Q9JLL3-4; Sequence=VSP_006517, VSP_006518;
+-!- TISSUE SPECIFICITY: Highly expressed in adult brain, and in
+    embryos from day 11-17, but not earlier. Detected in embryonic
+    brain and epithelium, and at lower levels in adult heart, lung and
+    liver. In neonatal mice, mainly in hair follicles and neuron-like
+    cells in the cerebellum, but not in the skin epidermis. Isoform 3
+    was found in embryonic day 17.5 skin but not in brain and liver.
+-!- SIMILARITY: Contains 3 TNFR-Cys repeats.
+Alternative splicing; Glycoprotein; Membrane; Receptor; Repeat;
+Signal; Transmembrane.
+TMONE

@@ -1,0 +1,10 @@
+AC   Q9ZRB2;
+Tubulin beta-1 chain (Beta-1 tubulin).
+"Tubb1, a beta-tubulin cDNA from common wheat.";
+-!- FUNCTION: Tubulin is the major constituent of microtubules. It
+    binds two moles of GTP, one at an exchangeable site on the beta
+    chain and one at a non-exchangeable site on the alpha-chain.
+-!- SUBUNIT: Dimer of alpha and beta chains.
+-!- SIMILARITY: Belongs to the tubulin family.
+GTP-binding; Microtubule; Nucleotide-binding.
+TMZERO

@@ -1,0 +1,23 @@
+AC   P24077; Q2MBL0;
+Enterobactin exporter entS (Protein p43).
+"Nucleotide sequence and genetic organization of the ferric
+enterobactin transport system: homology to other periplasmic binding
+protein-dependent systems in Escherichia coli.";
+"Organization of genes encoding membrane proteins of the Escherichia
+coli ferrienterobactin permease.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Export of the siderophore enterobactin in Escherichia coli:
+involvement of a 43 kDa membrane exporter.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Exports the siderophore enterobactin out of the cell.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. EntS
+    (TC 2.A.1.38) family.
+ GO:0015891; P:siderophore transport; IEA:HAMAP.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMELEVEN

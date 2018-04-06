@@ -1,0 +1,10 @@
+AC   Q54752;
+Photosystem I reaction center subunit VIII.
+"Characterization of psaI and psaL mutants of Synechococcus sp. strain
+PCC 7002: a new model for state transitions in cyanobacteria.";
+-!- FUNCTION: May help in the organization of the psaL subunit.
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; single-pass
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the psaI family.
+Membrane; Photosynthesis; Photosystem I; Thylakoid; Transmembrane.
+TMONE

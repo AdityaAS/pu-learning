@@ -1,0 +1,22 @@
+AC   O57811;
+Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase (EC 2.1.1.-).
+"Complete sequence and gene organization of the genome of a hyper-
+thermophilic archaebacterium, Pyrococcus horikoshii OT3.";
+"A structural approach to gene function and structure quality for
+Pyrococcus horikoshii fibrillarin.";
+-!- FUNCTION: Involved in pre-rRNA and tRNA processing. Utilizes the
+    methyl donor S-adenosyl-L-methionine to catalyze the site-specific
+    2'-hydroxyl methylation of ribose moieties in rRNA and tRNA. Site
+    specificity is provided by a guide RNA that base pairs with the
+    substrate. Methylation occurs at a characteristic distance from
+    the sequence involved in base pairing with the guide RNA (By
+    similarity).
+-!- SUBUNIT: Interacts with nop5. Component of box C/D small
+    ribonucleoprotein (sRNP) particles that contain rpl7ae, flpA and
+    nop5, plus a guide RNA (By similarity).
+-!- SIMILARITY: Belongs to the fibrillarin family.
+ GO:0008168; F:methyltransferase activity; IEA:HAMAP.
+ GO:0008033; P:tRNA processing; IEA:HAMAP.
+3D-structure; Complete proteome; Methyltransferase; RNA-binding;
+rRNA processing; Transferase; tRNA processing.
+TMZERO

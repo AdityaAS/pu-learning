@@ -1,0 +1,16 @@
+AC   Q6H501; Q8L4V1;
+Probable cation transporter HKT6 (OsHKT6).
+"Sodium transport and HKT transporters: the rice model.";
+"Oryza sativa nipponbare chromosome 2 genomic DNA sequence.";
+-!- FUNCTION: Probable cation transporter. May be involved in
+    regulation of K(+)/Na(+) homeostasis.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Weakly expressed.
+-!- DOMAIN: HKT transporters are proposed to contain 4 pore-forming
+    regions enclosed by transmembrane segments with each containing a
+    potassium channel-like selectivity filter motif.
+-!- SIMILARITY: Belongs to the trkH potassium transport family. HKT
+    subfamily.
+Ion transport; Membrane; Transmembrane; Transport.
+TMEIGHT

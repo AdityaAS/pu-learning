@@ -1,0 +1,22 @@
+AC   Q6WV66;
+Histone H2A.
+"Molecular evolutionary characterization of the mussel Mytilus histone
+multigene family: first record of a tandemly repeated unit of five
+histone genes containing an H1 subtype with 'orphon' features.";
+-!- FUNCTION: Core component of nucleosome. Nucleosomes wrap and
+    compact DNA into chromatin, limiting DNA accessibility to the
+    cellular machineries which require DNA as a template. Histones
+    thereby play a central role in transcription regulation, DNA
+    repair, DNA replication and chromosomal stability. DNA
+    accessibility is regulated via a complex set of post-translational
+    modifications of histones, also called histone code, and
+    nucleosome remodelling.
+-!- SUBUNIT: The nucleosome is a histone octamer containing two
+    molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4
+    heterotetramer and two H2A-H2B heterodimers. The octamer wraps
+    approximately 147 bp of DNA.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the histone H2A family.
+Acetylation; Chromosomal protein; DNA-binding; Nuclear protein;
+Nucleosome core.
+TMZERO

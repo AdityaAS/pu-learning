@@ -1,0 +1,23 @@
+AC   Q99ZR0; Q48YV9;
+Ribose-phosphate pyrophosphokinase 2 (EC 2.7.6.1) (RPPK 2)
+(Phosphoribosyl pyrophosphate synthetase 2) (P-Rib-PP synthetase 2)
+(PRPP synthetase 2).
+"Complete genome sequence of an M1 strain of Streptococcus pyogenes.";
+"Evolutionary origin and emergence of a highly successful clone of
+serotype M1 group A Streptococcus involved multiple horizontal gene
+transfer events.";
+-!- CATALYTIC ACTIVITY: ATP + D-ribose 5-phosphate = AMP + 5-phospho-
+    alpha-D-ribose 1-diphosphate.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- PATHWAY: Metabolic intermediate biosynthesis; 5-phospho-alpha-D-
+    ribose 1-diphosphate biosynthesis; 5-phospho-alpha-D-ribose 1-
+    diphosphate from D-ribose 5-phosphate (route I): single step
+    [final step].
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the ribose-phosphate pyrophosphokinase
+    family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0009156; P:ribonucleoside monophosphate biosynthesis; IEA:HAMAP.
+Complete proteome; Kinase; Magnesium; Metal-binding;
+Nucleotide biosynthesis; Transferase.
+TMZERO

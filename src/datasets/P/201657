@@ -1,0 +1,39 @@
+AC   P23968;
+Vacuolar ATP synthase subunit c'' (EC 3.6.3.14) (V-ATPase c'' subunit)
+(Vacuolar proton pump c'' subunit) (V-ATPase 22 kDa proteolipid
+subunit).
+"A yeast protein, homologous to the proteolipid of the chromaffin
+granule proton-ATPase, is important for cell growth.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"VMA11 and VMA16 encode second and third proteolipid subunits of the
+Saccharomyces cerevisiae vacuolar membrane H+-ATPase.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Proton-conducting pore forming subunit of the membrane
+    integral V0 complex of vacuolar ATPase. V-ATPase is responsible
+    for acidifying a variety of intracellular compartments in
+    eukaryotic cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'', d and e). The proteolipid components c, c' and c'' are
+    present as a hexameric ring that forms the proton-conducting pore.
+-!- INTERACTION:
+    P47135:JSN1; NbExp=1; IntAct=EBI-20293, EBI-9422;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the V-ATPase proteolipid subunit family.
+ GO:0000220; C:hydrogen-transporting ATPase V0 domain; TAS:SGD.
+ GO:0016021; C:integral to membrane; IDA:SGD.
+ GO:0008553; F:hydrogen-exporting ATPase activity, phospho...; IDA:MGI.
+ GO:0046961; F:hydrogen-transporting ATPase activity, rota...; TAS:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015991; P:ATP hydrolysis coupled proton transport; IDA:MGI.
+ GO:0007035; P:vacuolar acidification; TAS:SGD.
+ATP synthesis; Complete proteome; Hydrogen ion transport; Hydrolase;
+Ion transport; Membrane; Transmembrane; Transport.
+TMFIVE

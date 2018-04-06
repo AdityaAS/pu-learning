@@ -1,0 +1,32 @@
+AC   Q00973;
+Beta-1,4 N-acetylgalactosaminyltransferase 1 (EC 2.4.1.92) ((N-
+acetylneuraminyl)-galactosylglucosylceramide) (GM2/GD2 synthase)
+(GalNAc-T).
+"Expression cloning of beta 1,4 N-acetylgalactosaminyltransferase
+cDNAs that determine the expression of GM2 and GD2 gangliosides.";
+"Expression cloning of beta 1,4 N-acetylgalactosaminyltransferase
+cDNAs that determine the expression of GM2 and GD2 gangliosides.";
+"Disulfide bonds of GM2 synthase homodimers. Antiparallel orientation
+of the catalytic domains.";
+-!- FUNCTION: Involved in the biosynthesis of gangliosides GM2, GD2
+    and GA2.
+-!- CATALYTIC ACTIVITY: UDP-N-acetyl-D-galactosamine + 1-O-(O-(N-
+    acetyl-alpha-neuraminosyl)-(2->3)-O-beta-D-galactopyranosyl-
+    (1->4)-beta-D-glucopyranosyl)-ceramide = UDP + 1-O-(O-2-
+    (acetylamino)-2-deoxy-beta-D-galactopyranosyl-(1->4)-O-(N-acetyl-
+    alpha-neuraminosyl-(2->3))-O-beta-D-galactopyranosyl-(1->4)-beta-
+    D-glucopyranosyl)-ceramide.
+-!- PATHWAY: Glycosylation.
+-!- SUBUNIT: Homodimer; disulfide-linked.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type II membrane protein.
+-!- SIMILARITY: Belongs to the glycosyltransferase 2 family.
+-!- WEB RESOURCE: NAME=GGDB; NOTE=GlycoGene database";
+    URL="http://ggdb.muse.aist.go.jp/GGDB/index.jsp".
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0003947; F:(N-acetylneuraminyl)-galactosylglucosylcera...; TAS:ProtInc.
+ GO:0005975; P:carbohydrate metabolism; TAS:ProtInc.
+ GO:0006687; P:glycosphingolipid metabolism; TAS:ProtInc.
+Glycoprotein; Glycosyltransferase; Golgi apparatus; Membrane;
+Polymorphism; Signal-anchor; Transferase; Transmembrane.
+TMONE

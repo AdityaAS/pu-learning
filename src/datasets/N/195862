@@ -1,0 +1,41 @@
+AC   P0A884; P00470; Q2MA10;
+Thymidylate synthase (EC 2.1.1.45) (TS) (TSase).
+"Primary structure of the Escherichia coli thyA gene and its
+thymidylate synthase product.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Complete nucleotide sequence of the Escherichia coli recC gene and of
+the thyA-recC intergenic region.";
+"Structure, multiple site binding, and segmental accommodation in
+thymidylate synthase on binding dUMP and an anti-folate.";
+"Characterization of a specific interaction between Escherichia coli
+thymidylate synthase and Escherichia coli thymidylate synthase mRNA.";
+"Amino acid substitution analysis of E. coli thymidylate synthase: the
+study of a highly conserved region at the N-terminus.";
+"Plastic adaptation toward mutations in proteins: structural
+comparison of thymidylate synthases.";
+"Water-mediated substrate/product discrimination: the product complex
+of thymidylate synthase at 1.83 A.";
+"An essential role for water in an enzyme reaction mechanism: the
+crystal structure of the thymidylate synthase mutant E58Q.";
+"Crystal structures of a marginally active thymidylate synthase
+mutant, Arg 126-->Glu.";
+"Inactivity of N229A thymidylate synthase due to water-mediated
+effects: isolating a late stage in methyl transfer.";
+"Site-directed ligand discovery.";
+-!- FUNCTION: Provides the sole de novo source of dTMP for DNA
+    biosynthesis. This protein also binds to its mRNA thus repressing
+    its own translation.
+-!- CATALYTIC ACTIVITY: 5,10-methylenetetrahydrofolate + dUMP =
+    dihydrofolate + dTMP.
+-!- PATHWAY: Nucleotide biosynthesis; deoxyribonucleotide
+    biosynthesis.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- PTM: The N-terminus is carboxylated.
+-!- SIMILARITY: Belongs to the thymidylate synthase family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Methyltransferase; Nucleotide biosynthesis; Repressor; RNA-binding;
+Transferase; Translation regulation.
+TMZERO

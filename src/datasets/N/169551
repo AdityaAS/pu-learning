@@ -1,0 +1,14 @@
+AC   Q38740;
+Squamosa promoter-binding protein 2.
+"A new family of DNA binding proteins includes putative
+transcriptional regulators of the Antirrhinum majus floral meristem
+identity gene SQUAMOSA.";
+-!- FUNCTION: Probable transcriptional factor. Binds to the promoter
+    of the SQUAMOSA gene.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- DOMAIN: The SBP-type zinc finger is required for the binding to
+    DNA (By similarity).
+-!- SIMILARITY: Contains 1 SBP-type zinc finger.
+DNA-binding; Metal-binding; Nuclear protein; Transcription;
+Transcription regulation; Zinc; Zinc-finger.
+TMZERO

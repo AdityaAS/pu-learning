@@ -1,0 +1,35 @@
+AC   P61829; P00841; Q37750;
+ATP synthase protein 9, mitochondrial (EC 3.6.3.14) (Lipid-binding
+protein) (Oligomycin resistance protein 1).
+"Amino acid sequence of the ATPase proteolipid from mitochondria,
+chloroplasts and bacteria (wild type and mutants).";
+"Nucleotide sequence of the mitochondrial structural gene for subunit
+9 of yeast ATPase complex.";
+"Organization of mitochondrial DNA in yeast.";
+"Assembly of the mitochondrial membrane system. The DNA sequence of a
+mitochondrial ATPase gene in Saccharomyces cerevisiae.";
+"Biogenesis of mitochondria: DNA sequence analysis of mit- mutations
+in the mitochondrial oli1 gene coding for mitochondrial ATPase subunit
+9 in Saccharomyces cerevisiae.";
+"The complete sequence of the mitochondrial genome of Saccharomyces
+cerevisiae.";
+"NH2-terminal sequence of the isolated yeast ATP synthase subunit 6
+reveals post-translational cleavage.";
+-!- FUNCTION: This protein is one of the chains of the nonenzymatic
+    membrane component (F0) of mitochondrial ATPase.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. In yeast, the
+    dimeric form of ATP synthase consists of 18 polypeptides: alpha,
+    beta, gamma, delta, epsilon, 4 (B), 5 (OSCP), 6 (A), 8, 9 (C), d,
+    E (Tim11), f, g, h, i, j and k.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    multi-pass membrane protein (Potential).
+-!- SIMILARITY: Belongs to the ATPase C chain family.
+ GO:0000276; C:proton-transporting ATP synthase complex, c...; IPI:SGD.
+ GO:0015986; P:ATP synthesis coupled proton transport; IPI:SGD.
+CF(0); Complete proteome; Direct protein sequencing; Formylation;
+Hydrogen ion transport; Ion transport; Lipid-binding; Membrane;
+Mitochondrion; Transmembrane; Transport.
+TMTWO

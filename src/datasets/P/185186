@@ -1,0 +1,29 @@
+AC   Q47538; Q2MC59;
+Taurine import ATP-binding protein tauB (EC 3.6.3.36).
+"Identification of sulfate starvation-regulated genes in Escherichia
+coli: a gene cluster involved in the utilization of taurine as a
+sulfur source.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Deletion analysis of the Escherichia coli taurine and alkanesulfonate
+transport systems.";
+-!- FUNCTION: Part of the ABC transporter complex tauABC involved in
+    taurine import. Responsible for energy coupling to the transport
+    system.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + taurine(Out) = ADP + phosphate +
+    taurine(In).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (tauB), two transmembrane proteins (tauC) and a solute-binding
+    protein (tauA) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- INDUCTION: Regulated by cysB in response to sulfate starvation.
+-!- SIMILARITY: Belongs to the ABC transporter family. Taurine
+    importer (TC 3.A.1.17.1) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ GO:0015411; F:taurine-transporting ATPase activity; IEA:EC.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Nucleotide-binding; Transport.
+TMZERO

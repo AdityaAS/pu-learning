@@ -1,0 +1,29 @@
+AC   P26902; O34802;
+D-aminopeptidase (EC 3.4.11.-).
+"A Bacillus subtilis dipeptide transport system expressed early during
+sporulation.";
+"Sequence of the Bacillus subtilis genome between xlyA and ykoR.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"The dppA gene of Bacillus subtilis encodes a new D-aminopeptidase.";
+"Structure of the Bacillus subtilis D-aminopeptidase DppA reveals a
+novel self-compartmentalizing protease.";
+-!- FUNCTION: Hydrolyzes N-terminal residues in D-amino acid
+    containing peptides. Among the tested substrates, the highest
+    activities are with D-Ala-D-Ala and D-Ala-Gly-Gly. The
+    physiological role is not clear.
+-!- COFACTOR: Binds 2 zinc ions per subunit.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    pH dependence:
+      Optimum pH is 9-11;
+-!- SUBUNIT: Homodecamer. A 20 Angstroms wide channel runs through the
+    complex, giving access to a central chamber holding the active
+    sites.
+-!- DEVELOPMENTAL STAGE: Expressed early during sporulation.
+-!- INDUCTION: Nutrient deficiency conditions, which also induce
+    sporulation.
+-!- SIMILARITY: Belongs to the peptidase M55 family.
+3D-structure; Aminopeptidase; Complete proteome;
+Direct protein sequencing; Hydrolase; Metal-binding; Metalloprotease;
+Protease; Sporulation; Zinc.
+TMZERO

@@ -1,0 +1,28 @@
+AC   Q9W6A5; Q8AYM9;
+Green-sensitive opsin-1 (Green cone photoreceptor pigment 1) (Opsin-1,
+medium-wave-sensitive 1) (Opsin RH2-1).
+"Cloning and characterization of six zebrafish photoreceptor opsin
+cDNAs and immunolocalization of their corresponding proteins.";
+"Gene duplication and spectral diversification of cone visual pigments
+of zebrafish.";
+-!- FUNCTION: Visual pigments are the light-absorbing molecules that
+    mediate vision. They consist of an apoprotein, opsin, covalently
+    linked to cis-retinal.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Absorption:
+      Abs(max)=467 nm;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Retinal double cone accessory photoreceptor
+    cell outer segments.
+-!- PTM: Phosphorylated on some or all of the serine and threonine
+    residues present in the C-terminal region (By similarity).
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+    Opsin subfamily.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0009881; F:photoreceptor activity; NAS:UniProtKB.
+ GO:0007602; P:phototransduction; IC:UniProtKB.
+ GO:0007601; P:visual perception; NAS:UniProtKB.
+Chromophore; G-protein coupled receptor; Glycoprotein; Membrane;
+Phosphorylation; Photoreceptor protein; Receptor; Retinal protein;
+Sensory transduction; Transducer; Transmembrane; Vision.
+TMSEVEN

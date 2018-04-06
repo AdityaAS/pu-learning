@@ -1,0 +1,29 @@
+AC   Q9H8E8; Q96GW6; Q96IH3; Q9HBF0; Q9UIY5;
+Cysteine-rich protein 2-binding protein (CSRP2-binding protein)
+(CRP2BP) (CRP2-binding partner).
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The cysteine- and glycine-rich LIM domain protein CRP2 specifically
+interacts with a novel human protein.";
+-!- SUBUNIT: Interacts with the LIM 1 domain of CSRP2.
+-!- SUBCELLULAR LOCATION: Nucleus. Cytoplasm. Note=Mainly nuclear.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9H8E8-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9H8E8-2; Sequence=VSP_000070;
+      Note=May be due to an intron retention;
+-!- TISSUE SPECIFICITY: Expressed in skeletal muscle, heart, lung,
+    placenta, brain, liver, pancreas and kidney. High expression in
+    skeletal muscle and heart. Lower expression in lung.
+-!- SIMILARITY: Contains 1 N-acetyltransferase domain.
+-!- CAUTION: Ref.2 (CAB56651) sequence differs from that shown due to
+    erroneous gene model prediction.
+ GO:0005634; C:nucleus; IPI:UniProtKB.
+ GO:0030274; F:LIM domain binding; NAS:UniProtKB.
+Alternative splicing; Nuclear protein; Polymorphism.
+TMZERO

@@ -1,0 +1,100 @@
+AC   P08174; P09679; P78361;
+Complement decay-accelerating factor precursor (CD55 antigen).
+"Cloning of decay-accelerating factor suggests novel use of splicing
+to generate two proteins.";
+"SeattleSNPs. NHLBI HL66682 program for genomic applications, UW-
+FHCRC, Seattle, WA (URL: http://pga.gs.washington.edu).";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Cloning and characterization of cDNAs encoding the complete sequence
+of decay-accelerating factor of human complement.";
+"Decay-acceleration factor (DAF; CD 55) in the brain of Alzheimer's
+disease patients.";
+"Characterization of the decay-accelerating factor gene promoter
+region.";
+"Improved method for the isolation and preliminary characterization of
+human DAF (decay-accelerating factor).";
+"Isolation of two forms of decay-accelerating factor (DAF) from human
+urine.";
+"Glycophospholipid membrane anchor attachment. Molecular analysis of
+the cleavage/attachment site.";
+"Complete determination of disulfide bonds localized within the short
+consensus repeat units of decay accelerating factor (CD55 antigen).";
+"Decay-accelerating factor CD55 is identified as the receptor for
+echovirus 7 using CELICS, a rapid immuno-focal cloning method.";
+"Proteomic analysis of glycosylphosphatidylinositol-anchored membrane
+proteins.";
+"Modification-specific proteomics of plasma membrane proteins:
+identification and characterization of glycosylphosphatidylinositol-
+anchored proteins released upon phospholipase D treatment.";
+"Molecular basis of reduced or absent expression of decay-accelerating
+factor in Cromer blood group phenotypes.";
+"GUTI: a new antigen in the Cromer blood group system.";
+"Biochemical studies on red blood cells from a patient with the Inab
+phenotype (decay-accelerating factor deficiency).";
+"Mapping CD55 function. The structure of two pathogen-binding domains
+at 1.7 A.";
+"Complement regulation at the molecular level: the structure of decay-
+accelerating factor.";
+"Solution structure of a functionally active fragment of decay-
+accelerating factor.";
+-!- FUNCTION: This protein recognizes C4b and C3b fragments that
+    condense with cell-surface hydroxyl or amino groups when nascent
+    C4b and C3b are locally generated during C4 and c3 activation.
+    Interaction of daf with cell-associated C4b and C3b polypeptides
+    interferes with their ability to catalyze the conversion of C2 and
+    factor B to enzymatically active C2a and Bb and thereby prevents
+    the formation of C4b2a and C3bBb, the amplification convertases of
+    the complement cascade.
+-!- FUNCTION: Also acts as the receptor for echovirus 7 and related
+    viruses (echoviruses 13, 21, 29 and 33).
+-!- SUBUNIT: Monomer (major form) and non-disulfide-linked, covalent
+    homodimer (minor form).
+-!- SUBCELLULAR LOCATION: Isoform 2: Cell membrane; lipid-anchor; GPI-
+    anchor.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=2; Synonyms=DAF-2;
+      IsoId=P08174-1; Sequence=Displayed;
+      Note=GPI-anchored form;
+    Name=1; Synonyms=DAF-1;
+      IsoId=P08174-2; Sequence=VSP_001200;
+-!- TISSUE SPECIFICITY: Expressed on the plasma membranes of all cell
+    types that are in intimate contact with plasma complement
+    proteins. It is also found on the surfaces of epithelial cells
+    lining extracellular compartments, and variants of the molecule
+    are present in body fluids and in extracellular matrix.
+-!- DOMAIN: The first Sushi domain (SCR1) is not necessary for
+    function. SCR2 and SCR4 provide the proper conformation for the
+    active site on SCR3 (By similarity).
+-!- PTM: The Ser/Thr-rich domain is heavily O-glycosylated.
+-!- POLYMORPHISM: Responsible for the Cromer blood group system. It
+    consists of at least 8 high-incidence (Cr(a), Tc(a), Dr(a), Es(a),
+    WES(b), UMC, IFC and GUTI) and three low-incidence (Tc(b), Tc(c)
+    and WES(a)) antigens that reside on DAF. In the Cromer phenotypes
+    Dr(a-) and Inab there is reduced or absent expression of DAF,
+    respectively. In the case of the Dr(a-) phenotype, a single
+    nucleotide substitution within exon 5 accounts for two changes: a
+    simple amino acid substitution, Leu-199 that is the basis of the
+    antigenic variation, and an alternative splicing event that
+    underlies the decreased expression of DAF in this phenotype. The
+    Inab phenotype is a very rare one in which the red blood cells
+    lack all Cromer system antigens. The red blood cells of
+    individuals with Inab phenotype have a deficiency of DAF, but
+    these individuals are not known to have any associated hematologic
+    or other abnormalities.
+-!- SIMILARITY: Belongs to the receptors of complement activation
+    (RCA) family.
+-!- SIMILARITY: Contains 4 Sushi (CCP/SCR) domains.
+-!- WEB RESOURCE: NAME=BGMUT;
+    NOTE=Blood group antigen gene mutation database";
+    URL="http://www.ncbi.nlm.nih.gov/projects/mhc/xslcgi.fcgi?cmd=bgmut/systems_info&system=cromer".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005625; C:soluble fraction; TAS:ProtInc.
+3D-structure; Alternative splicing; Blood group antigen;
+Complement pathway; Direct protein sequencing; Glycoprotein;
+GPI-anchor; Immune response; Innate immunity; Lipoprotein; Membrane;
+Polymorphism; Repeat; Signal; Sushi.
+TMZERO

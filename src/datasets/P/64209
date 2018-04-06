@@ -1,0 +1,19 @@
+AC   P0AER2; P11244; Q46727;
+Glycerol uptake facilitator protein (Aquaglyceroporin).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Transporter of glycerol across the cytoplasmic membrane,
+    with limited permeability to water and small uncharged compounds
+    such as polyols (By similarity).
+-!- COFACTOR: Binds 2 magnesium ions per subunit (By similarity).
+-!- SUBUNIT: Homotetramer (Potential).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+Complete proteome; Inner membrane; Magnesium; Membrane; Metal-binding;
+Repeat; Transmembrane; Transport.
+TMEIGHT

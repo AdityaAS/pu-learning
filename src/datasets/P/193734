@@ -1,0 +1,36 @@
+AC   Q9Y5S1; Q9Y670;
+Transient receptor potential cation channel subfamily V member 2
+(TrpV2) (osm-9-like TRP channel 2) (OTRPC2) (Vanilloid receptor-like
+protein 1) (VRL-1).
+"A capsaicin-receptor homologue with a high threshold for noxious
+heat.";
+"Cloning and functional expression of VRL, a vanilloid receptor-like
+gene.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Calcium-permeable, non-selective cation channel with an
+    outward rectification. Seems to be regulated, at least in part, by
+    IGF-I, PDGF and neuropeptide head activator. May transduce
+    physical stimuli in mast cells. Activated by temperatures higher
+    than 52 degrees Celsius; is not activated by vanilloids and acidic
+    pH.
+-!- SUBUNIT: Homotetramer (Probable). Interacts with a cAMP-dependent
+    protein kinase type II regulatory subunit (PRKAR2A or PRKAR2B) and
+    ACBD3. Interacts with RGA (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity). Cytoplasm (By similarity). Note=Translocates from
+    the cytoplasm to the plasma membrane upon ligand stimulation (By
+    similarity).
+-!- PTM: N-glycosylated (By similarity).
+-!- PTM: Phosphorylated by PKA (By similarity).
+-!- SIMILARITY: Belongs to the transient receptor family. TrpV
+    subfamily.
+-!- SIMILARITY: Contains 3 ANK repeats.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005216; F:ion channel activity; TAS:ProtInc.
+ GO:0007600; P:sensory perception; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+3D-structure; ANK repeat; Calcium; Calcium channel; Calcium transport;
+Glycoprotein; Ion transport; Ionic channel; Membrane; Phosphorylation;
+Polymorphism; Repeat; Transmembrane; Transport.
+TMSIX

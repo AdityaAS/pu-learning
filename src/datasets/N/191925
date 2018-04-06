@@ -1,0 +1,12 @@
+AC   Q9BRZ2; Q86VT6; Q8N2H8; Q8NAC0; Q9H031;
+Tripartite motif-containing protein 56 (RING finger protein 109).
+"The DNA sequence of human chromosome 7.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+-!- SIMILARITY: Belongs to the TRIM/RBCC family.
+-!- SIMILARITY: Contains 2 B box-type zinc fingers.
+-!- SIMILARITY: Contains 1 RING-type zinc finger.
+Coiled coil; Metal-binding; Repeat; Zinc; Zinc-finger.
+TMZERO

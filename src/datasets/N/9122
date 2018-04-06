@@ -1,0 +1,29 @@
+AC   Q980X0;
+Acetylglutamate/acetylaminoadipate kinase (EC 2.7.2.8) (EC 2.7.2.-)
+(NAG kinase) (AGK) (N-acetyl-L-glutamate/N-acetyl-L-aminoadipate 5-
+phosphotransferase).
+"The complete genome of the crenarchaeon Sulfolobus solfataricus P2.";
+"The Sulfolobus solfataricus Lrp-like protein LysM regulates lysine
+biosynthesis in response to lysine availability.";
+-!- FUNCTION: Involved in both the arginine and lysine biosynthetic
+    pathways.
+-!- CATALYTIC ACTIVITY: ATP + N-acetyl-L-glutamate = ADP + N-acetyl-L-
+    glutamate 5-phosphate.
+-!- CATALYTIC ACTIVITY: ATP + N-acetyl-L-aminoadipate = ADP + N-
+    acetyl-L-aminoadipate 5-phosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis; 2-N-
+    acetyl-L-ornithine from L-glutamate: step 2.
+-!- PATHWAY: Amino-acid biosynthesis; L-lysine biosynthesis via AAA
+    pathway; L-lysine from L-alpha-aminoadipate (Thermus route): step
+    2.
+-!- PATHWAY: Amino-acid biosynthesis; L-lysine biosynthesis via AAA
+    pathway; L-lysine from L-alpha-aminoadipate (Thermus route): step
+    2.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the acetylglutamate kinase family.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0009085; P:lysine biosynthesis; IEA:HAMAP.
+Amino-acid biosynthesis; Arginine biosynthesis; ATP-binding;
+Complete proteome; Kinase; Lysine biosynthesis; Nucleotide-binding;
+Transferase.
+TMZERO

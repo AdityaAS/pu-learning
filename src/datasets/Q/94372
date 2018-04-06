@@ -1,0 +1,21 @@
+AC   Q8ZFR4;
+Lipoprotein-releasing system ATP-binding protein lolD (EC 3.6.3.-).
+"Genome sequence of Yersinia pestis, the causative agent of plague.";
+"Genome sequence of Yersinia pestis KIM.";
+"Complete genome sequence of Yersinia pestis strain 91001, an isolate
+avirulent to humans.";
+-!- FUNCTION: Part of the ABC transporter complex lolCDE involved in
+    the translocation of mature outer membrane-directed lipoproteins,
+    from the inner membrane to the periplasmic chaperone, lolA.
+    Responsible for the formation of the lolA-lipoprotein complex in
+    an ATP-dependent manner (By similarity).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (lolD) and two transmembrane proteins (lolC and lolE) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. Lipoprotein
+    translocase (TC 3.A.1.125) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Hydrolase; Inner membrane; Membrane;
+Nucleotide-binding; Transport.
+TMZERO

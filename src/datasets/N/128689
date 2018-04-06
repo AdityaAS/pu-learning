@@ -1,0 +1,33 @@
+AC   Q65729;
+Genome polyprotein [Contains: Nuclear inclusion protein A (NI-A) (NIA)
+(EC 3.4.22.44) (49 kDa proteinase) (49 kDa-Pro); Nuclear inclusion
+protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48);
+Coat protein (CP)] (Fragment).
+"Sequence of the 3'-terminal region of the RNA of a mite transmitted
+potyvirus from Hordeum murinum L.";
+"Potyvirus proteins: a wealth of functions.";
+-!- FUNCTION: Nuclear inclusion protein B is a RNA-dependent RNA
+    polymerase that plays an essential role in the virus replication
+    (By similarity).
+-!- FUNCTION: Nuclear inclusion protein A has RNA-binding and
+    proteolytic activities (By similarity).
+-!- CATALYTIC ACTIVITY: Hydrolyzes glutaminyl bonds, and activity is
+    further restricted by preferences for the amino acids in P6 - P1'
+    that vary with the species of potyvirus, e.g. Glu-Xaa-Xaa-Tyr-Xaa-
+    Gln-|-(Ser or Gly) for the enzyme from tobacco etch virus. The
+    natural substrate is the viral polyprotein, but other proteins and
+    oligopeptides containing the appropriate consensus sequence are
+    also cleaved.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- PTM: The viral RNA of potyviruses is expressed as a single
+    polyprotein which undergoes posttranslational proteolytic
+    processing by the main proteinase NIa-pro resulting in the
+    production of at least ten individual proteins (By similarity).
+-!- SIMILARITY: Belongs to the potyviruses polyprotein family.
+-!- SIMILARITY: Contains 1 peptidase C4 domain.
+-!- SIMILARITY: Contains 1 RdRp catalytic domain.
+Capsid protein; Hydrolase; Nucleotide-binding; Nucleotidyltransferase;
+Protease; RNA replication; RNA-directed RNA polymerase;
+Thiol protease; Transferase; Virion protein.
+TMZERO

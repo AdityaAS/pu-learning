@@ -1,0 +1,11 @@
+AC   O48905;
+Malate dehydrogenase, cytoplasmic (EC 1.1.1.37).
+"Alfalfa malate dehydrogenase (MDH): molecular cloning and
+characterization of five different forms reveals a unique nodule-
+enhanced MDH.";
+-!- CATALYTIC ACTIVITY: (S)-malate + NAD(+) = oxaloacetate + NADH.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the LDH/MDH superfamily. MDH type 2 family.
+NAD; Oxidoreductase; Tricarboxylic acid cycle.
+TMZERO

@@ -1,0 +1,24 @@
+AC   P30520; Q96EG7;
+Adenylosuccinate synthetase isozyme 2 (EC 6.3.4.4) (Adenylosuccinate
+synthetase, acidic isozyme) (IMP--aspartate ligase 2) (AdSS 2)
+(AMPSase 2).
+"Cloning and characterization of the cDNA encoding human
+adenylosuccinate synthetase.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Plays an important role in the de novo pathway of purine
+    nucleotide biosynthesis.
+-!- CATALYTIC ACTIVITY: GTP + IMP + L-aspartate = GDP + phosphate + 6-
+    N-(1,2-dicarboxyethyl)-AMP.
+-!- COFACTOR: Binds 1 magnesium ion per subunit (By similarity).
+-!- PATHWAY: Nucleotide biosynthesis; AMP biosynthesis; AMP from IMP:
+    step 1.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm. Note=Partially associated with
+    particulate fractions.
+-!- SIMILARITY: Belongs to the adenylosuccinate synthetase family.
+ GO:0004019; F:adenylosuccinate synthase activity; TAS:ProtInc.
+ GO:0006167; P:AMP biosynthesis; TAS:ProtInc.
+GTP-binding; Ligase; Magnesium; Metal-binding; Nucleotide-binding;
+Purine biosynthesis.
+TMZERO

@@ -1,0 +1,24 @@
+AC   P26287;
+Apocytochrome f precursor.
+"Primary structure of the psbN-psbH-petC-petA gene cluster of the
+cyanobacterium Synechocystis PCC 6803.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- FUNCTION: Component of the cytochrome b6-f complex, which mediates
+    electron transfer between photosystem II (PSII) and photosystem I
+    (PSI), cyclic electron flow around PSI, and state transitions (By
+    similarity).
+-!- SUBUNIT: The 4 large subunits of the cytochrome b6-f complex are
+    cytochrome b6, subunit IV (17 kDa polypeptide, petD), cytochrome f
+    and the Rieske protein, while the 4 small subunits are petG, petL,
+    petM and petN. The complex functions as a dimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cellular thylakoid membrane; single-pass
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the cytochrome f family.
+ GO:0009512; C:cytochrome b6f complex; IDA:UniProtKB.
+ GO:0009767; P:photosynthetic electron transport; NAS:UniProtKB.
+Complete proteome; Electron transport; Heme; Iron; Membrane;
+Metal-binding; Photosynthesis; Signal; Thylakoid; Transmembrane;
+Transport.
+TMONE

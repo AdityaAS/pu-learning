@@ -1,0 +1,48 @@
+AC   P05919;
+Protein Vpu (Viral protein U) (U ORF protein).
+"Complete nucleotide sequences of functional clones of the AIDS
+virus.";
+"The Vpu protein of human immunodeficiency virus type 1 forms cation-
+selective ion channels.";
+-!- FUNCTION: Displays 2 major functions: enhances virion budding,
+    maybe by preventing Pr55gag from being retargeted to internal
+    membranes through endocytosis; and induces human CD4 degradation,
+    by binding it in the endoplasmic reticulum and targeting it to the
+    ubiquitin-dependent degradation pathway. Degradation of CD4 may
+    prevent any catastrophic interactions between viral Env and human
+    CD4 in the endoplasmic reticulum, thereby facilitating proper Env
+    assembly into virions, and perhaps preventing retention of virions
+    at the cell surface. Forms a cation-selective ion channel, thereby
+    enhancing virion budding through an unknown mechanism. Also
+    induces apoptosis, presumably by binding to human BRCP which may
+    induce down-regulation of NF-kappa-B (By similarity).
+-!- ENZYME REGULATION: Ion channel activity is inhibited by
+    hexamethylene amiloride in vitro (By similarity).
+-!- SUBUNIT: May form pentamers or hexamers. Forms a ternary complex
+    by interacting with human CD4 and human BTRCP (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (By similarity).
+-!- DOMAIN: The 2 major functions are related to 2 separable
+    structural domains: the N-terminal and transmembrane domains are
+    required for proper virion budding, whereas the cytoplasmic domain
+    is required for CD4 degradation. The cytoplasmic domain is
+    composed of 2 amphipathic alpha helix (By similarity).
+-!- PTM: Phosphorylated by host CK2. This phosphorylation is necessary
+    for interaction with human BRCP and degradation of CD4, but not
+    for enhancement of virion budding (By similarity).
+-!- MISCELLANEOUS: The function of virion budding enhancement is
+    specific to human lentiviruses. This function may have evolved to
+    counteract an assembly restriction that is present only in human
+    cells.
+-!- MISCELLANEOUS: HIV-1 lineages are divided in three main groups, M
+    (for Major), O (for Outlier), and N (for New, or Non-M, Non-O).
+    The vast majority of strains found worldwide belong to the group
+    M. Group O seems to be endemic to and largely confined to Cameroon
+    and neighboring countries in West Central Africa, where these
+    viruses represent a small minority of HIV-1 strains. The group N
+    is represented by a limited number of isolates from Cameroonian
+    persons. The group M is further subdivided in 9 clades or subtypes
+    (A to D, F to H, J and K).
+AIDS; Apoptosis; Host-virus interaction; Ion transport; Ionic channel;
+Membrane; Phosphorylation; Transmembrane; Transport.
+TMONE

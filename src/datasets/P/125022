@@ -1,0 +1,14 @@
+AC   Q05098;
+Ferric enterobactin receptor precursor.
+"Cloning and characterization of the ferric enterobactin receptor gene
+(pfeA) of Pseudomonas aeruginosa.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+-!- FUNCTION: Specific receptor for the siderophore ferric
+    enterobactin.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- INDUCTION: By iron and enterobactin.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+Complete proteome; Ion transport; Iron; Iron transport; Membrane;
+Outer membrane; Receptor; Signal; TonB box; Transport.
+TMZERO

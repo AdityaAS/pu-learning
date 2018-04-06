@@ -1,0 +1,15 @@
+AC   O84539;
+Apolipoprotein N-acyltransferase (EC 2.3.1.-) (ALP N-acyltransferase).
+"Genome sequence of an obligate intracellular pathogen of humans:
+Chlamydia trachomatis.";
+-!- FUNCTION: Transfers the fatty acyl group on membrane lipoproteins
+    (By similarity).
+-!- PATHWAY: Lipoprotein biosynthesis; third step.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the CN hydrolase family. Apolipoprotein N-
+    acyltransferase subfamily.
+-!- SIMILARITY: Contains 1 CN hydrolase domain.
+Acyltransferase; Complete proteome; Inner membrane; Membrane;
+Transferase; Transmembrane.
+TMEIGHT

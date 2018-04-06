@@ -1,0 +1,20 @@
+AC   P78926; Q10291;
+Pheromone receptor transcription activator (Protein map1).
+"Schizosaccharomyces pombe map1+ encodes a MADS-box-family protein
+required for cell-type-specific gene expression.";
+"The Schizosaccharomyces pombe map1 gene encodes an SRF/MCM1-related
+protein required for P-cell specific gene expression.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: In response to mating-pheromone signaling or nitrogen
+    starvation, it interacts with mat1-Pc. This activates the
+    expression of one of two mating-type-specific genes sxa2 or map3,
+    which leads to inactivation of the P-factor. May also interact
+    with mat1-Mc.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Contains 1 MADS-box domain.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0003700; F:transcription factor activity; TAS:GeneDB_SPombe.
+ GO:0007532; P:regulation of transcription, mating-type sp...; IMP:GeneDB_SPombe.
+Activator; Complete proteome; DNA-binding; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

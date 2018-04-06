@@ -1,0 +1,16 @@
+AC   P38124;
+Fluconazole resistance protein 1.
+"Complete DNA sequence of yeast chromosome II.";
+"AP1-mediated multidrug resistance in Saccharomyces cerevisiae
+requires FLR1 encoding a transporter of the major facilitator
+superfamily.";
+-!- FUNCTION: Probable efflux transporter. Confers resistance to the
+    azole derivative fluconazole (FCZ).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+ GO:0005887; C:integral to plasma membrane; IDA:SGD.
+ GO:0015239; F:multidrug transporter activity; IGI:SGD.
+ GO:0009636; P:response to toxin; IGI:SGD.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTWELVE

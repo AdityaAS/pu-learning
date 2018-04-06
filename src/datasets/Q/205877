@@ -1,0 +1,17 @@
+AC   P60980;
+Voltage sensor toxin 1 (VSTX1).
+"Functional analysis of an archaebacterial voltage-dependent K+
+channel.";
+"A membrane-access mechanism of ion channel inhibition by voltage
+sensor toxins from spider venom.";
+-!- FUNCTION: Inhibits the potassium channel KvAP from A.pernix
+    (APE0955) with very slow apparent binding kinetics. Inhibits
+    through lipid membrane access by partitioning into the lipd
+    membrane.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- PTM: Contains three disulfide bonds.
+-!- SIMILARITY: Belongs to the huwentoxin-1 family.
+Direct protein sequencing; Ionic channel inhibitor; Neurotoxin;
+Potassium channel inhibitor; Toxin.
+TMZERO

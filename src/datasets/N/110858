@@ -1,0 +1,26 @@
+AC   P08049;
+Neprilysin (EC 3.4.24.11) (Neutral endopeptidase) (NEP)
+(Enkephalinase) (Neutral endopeptidase 24.11) (Atriopeptidase) (CD10
+antigen).
+"Amino acid sequence of rabbit kidney neutral endopeptidase 24.11
+(enkephalinase) deduced from a complementary DNA.";
+"An antibody purified with a lambda GT11 fusion protein precipitates
+enkephalinase activity.";
+"Exploration of the catalytic site of endopeptidase 24.11 by site-
+directed mutagenesis. Histidine residues 583 and 587 are essential for
+catalysis.";
+-!- FUNCTION: Thermolysin-like specificity, but is almost confined on
+    acting on polypeptides of up to 30 amino acids. Biologically
+    important in the destruction of opioid peptides such as Met- and
+    Leu-enkephalins by cleavage of a Gly-Phe bond. Involved in the
+    degradation of atrial natriuretic factor (ANF) (By similarity).
+-!- CATALYTIC ACTIVITY: Preferential cleavage of polypeptides between
+    hydrophobic residues, particularly with Phe or Tyr at P1'.
+-!- COFACTOR: Binds 1 zinc ion per subunit.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein.
+-!- SIMILARITY: Belongs to the peptidase M13 family.
+Direct protein sequencing; Glycoprotein; Hydrolase; Membrane;
+Metal-binding; Metalloprotease; Protease; Signal-anchor;
+Transmembrane; Zinc.
+TMONE

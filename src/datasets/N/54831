@@ -1,0 +1,26 @@
+AC   P10955;
+Sensor protein fixL (EC 2.7.13.3).
+"Cascade regulation of nif gene expression in Rhizobium meliloti.";
+"Nucleotide sequence and predicted functions of the entire
+Sinorhizobium meliloti pSymA megaplasmid.";
+"The oxygen sensor FixL of Rhizobium meliloti is a membrane protein
+containing four possible transmembrane segments.";
+"Sensory mechanism of oxygen sensor FixL from Rhizobium meliloti:
+crystallographic, mutagenesis and resonance Raman spectroscopic
+studies.";
+-!- FUNCTION: Putative oxygen sensor; modulates the activity of fixJ,
+    a transcriptional activator of nitrogen fixation fixK gene. FixL
+    probably acts as a kinase that phosphorylates fixJ.
+-!- CATALYTIC ACTIVITY: ATP + protein L-histidine = ADP + protein N-
+    phospho-L-histidine.
+-!- COFACTOR: Binds 1 heme group per subunit.
+-!- ENZYME REGULATION: The heme moiety regulates the kinase activity.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Contains 1 histidine kinase domain.
+-!- SIMILARITY: Contains 1 PAC (PAS-associated C-terminal) domain.
+-!- SIMILARITY: Contains 1 PAS (PER-ARNT-SIM) domain.
+3D-structure; Complete proteome; Heme; Inner membrane; Iron; Kinase;
+Membrane; Metal-binding; Nitrogen fixation; Phosphorylation; Plasmid;
+Transferase; Transmembrane; Two-component regulatory system.
+TMFOUR

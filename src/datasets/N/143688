@@ -1,0 +1,24 @@
+AC   O75628; Q9NP57;
+GTP-binding protein REM 1 (Rad and Gem-like GTP-binding protein 1)
+(GTPase-regulating endothelial cell sprouting).
+"Cloning of the human Rem gene.";
+"Ges, a human GTPase of the Rad/Gem/Kir family, promotes endothelial
+cell sprouting and cytoskeleton reorganization.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Promotes endothelial cell sprouting and actin
+    cytoskeletal reorganization. May be involved in angiogenesis. May
+    function in Ca(2+) signaling.
+-!- SUBUNIT: In vitro, interacts with calmodulin in a calcium-
+    dependent manner.
+-!- TISSUE SPECIFICITY: Most highly expressed in the endothelial
+    lining of the blood vessels in uterus and heart. Lower levels
+    found in spleen, lymph node, kidney and testis. Also found in
+    cells with secretory function such as the islets of Langerhans,
+    lobule/duct epithelium in the breast, bile duct epithelium in the
+    liver, surface epithelium in the endometrial glands of the uterus,
+    colon mucosa and acinar cells in the pancreas and the prostate.
+-!- SIMILARITY: Belongs to the small GTPase superfamily. RGK family.
+Calmodulin-binding; GTP-binding; Nucleotide-binding.
+TMZERO

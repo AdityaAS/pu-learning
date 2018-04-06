@@ -1,0 +1,19 @@
+AC   Q8TB03; Q5JPF5; Q8N941;
+Uncharacterized protein CXorf38.
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q8TB03-1; Sequence=Displayed;
+      Note=No experimental confirmation available;
+    Name=2;
+      IsoId=Q8TB03-2; Sequence=VSP_014620;
+      Note=No experimental confirmation available;
+    Name=3;
+      IsoId=Q8TB03-3; Sequence=VSP_014621, VSP_014622;
+      Note=No experimental confirmation available;
+Alternative splicing.
+TMZERO

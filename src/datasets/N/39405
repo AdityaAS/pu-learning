@@ -1,0 +1,9 @@
+AC   Q7M9A0;
+Deoxycytidine triphosphate deaminase (EC 3.5.4.13) (dCTP deaminase).
+"Complete genome sequence and analysis of Wolinella succinogenes.";
+-!- CATALYTIC ACTIVITY: dCTP + H(2)O = dUTP + NH(3).
+-!- PATHWAY: De novo synthesis of thymidylate.
+-!- SIMILARITY: Belongs to the dCTP deaminase family.
+ GO:0009220; P:pyrimidine ribonucleotide biosynthesis; IEA:HAMAP.
+Complete proteome; Hydrolase; Nucleotide metabolism.
+TMZERO

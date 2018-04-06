@@ -1,0 +1,11 @@
+AC   P52321;
+Serine protease D precursor (EC 3.4.21.-) (SGPD).
+"Protease evolution in Streptomyces griseus. Discovery of a novel
+dimeric enzymes.";
+-!- FUNCTION: Has a primary specificity for large aliphatic or
+    aromatic amino acids.
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the peptidase S1E family.
+Direct protein sequencing; Hydrolase; Protease; Serine protease;
+Signal; Zymogen.
+TMZERO

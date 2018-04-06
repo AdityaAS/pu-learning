@@ -1,0 +1,42 @@
+AC   O70260;
+E3 SUMO-protein ligase PIAS3 (Protein inhibitor of activated STAT
+protein 3) (Potassium channel-associated protein) (KChAP).
+"Cloning and expression of a novel K+ channel regulatory protein,
+KChAP.";
+"A new role for the STAT3 inhibitor, PIAS3: a repressor of
+microphthalmia transcription factor.";
+"The intranuclear prolactin/cyclophilin B complex as a transcriptional
+inducer.";
+-!- FUNCTION: Functions as an E3-type small ubiquitin-like modifier
+    (SUMO) ligase, stabilizing the interaction between UBE2I and the
+    substrate, and as a SUMO-tethering factor. Plays a crucial role as
+    a transcriptional coregulation in various cellular pathways,
+    including the STAT pathway and the steroid hormone signaling
+    pathway. The effects of this transcriptional coregulation,
+    transactivation or silencing, may vary depending upon the
+    biological context.
+-!- PATHWAY: SUMO conjugation; third step.
+-!- SUBUNIT: Binds SUMO1 and UBE2I. Interacts with AR, GFI1, HMGA2,
+    IRF1, MITF, NCOA2, as well as with STAT3, after treatment with
+    IL6, CNTF or OSM and with STAT5, after PRL stimulation (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear speckle (By similarity).
+-!- TISSUE SPECIFICITY: Widely expressed, with highest levels in lung,
+    kidney and spleen.
+-!- DOMAIN: The LXXLL motif is a transcriptional coregulator
+    signature.
+-!- PTM: Sumoylated (By similarity).
+-!- SIMILARITY: Belongs to the PIAS family.
+-!- SIMILARITY: Contains 1 SAP domain.
+-!- SIMILARITY: Contains 1 SP-RING-type zinc finger.
+-!- CAUTION: Has been shown to interact with voltage-gated potassium
+    channels, including the KCNB1 subunit, and to be critical for
+    current enhancement. However, in view of its mostly nuclear
+    subcellular location and its established function as a
+    transcriptional coregulator, promoting the sumoylation of several
+    transcription factors, the effect on potassium channels awaits
+    further experimental confirmation.
+Metal-binding; Nuclear protein; Transcription;
+Transcription regulation; Ubl conjugation; Ubl conjugation pathway;
+Zinc; Zinc-finger.
+TMZERO

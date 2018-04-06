@@ -1,0 +1,21 @@
+AC   P50332;
+Nod factor export ATP-binding protein I (Nodulation ATP-binding
+protein I).
+"Identification of nodulation promoter (nod-box) regions of Rhizobium
+galegae.";
+-!- FUNCTION: Part of the ABC transporter complex nodIJ involved in
+    the export of LCO (lipo-chitin oligosaccharide) and a modified
+    beta-1,4-linked N-acetylglucosamine oligosaccharide. Responsible
+    for energy coupling to the transport system. Therefore this
+    complex is implicated in the nodulation induction process (By
+    similarity).
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (nodI) and two transmembrane proteins (nodJ) (Probable).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+    Lipooligosaccharide exporter (TC 3.A.1.102) subfamily.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Inner membrane; Membrane; Nodulation; Nucleotide-binding;
+Transport.
+TMZERO

@@ -1,0 +1,17 @@
+AC   P29951;
+Mannose-6-phosphate isomerase (EC 5.3.1.8) (Phosphomannose isomerase)
+(PMI) (Phosphohexomutase).
+"Purification, cDNA cloning and heterologous expression of human
+phosphomannose isomerase.";
+-!- FUNCTION: Involved in the synthesis of the GDP-mannose and
+    dolichol-phosphate-mannose required for a number of critical
+    mannosyl transfer reactions.
+-!- CATALYTIC ACTIVITY: D-mannose 6-phosphate = D-fructose 6-
+    phosphate.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- PATHWAY: Glycosylation; early steps of mannosylation.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the mannose-6-phosphate isomerase type 1
+    family.
+Isomerase; Metal-binding; Zinc.
+TMZERO

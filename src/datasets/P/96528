@@ -1,0 +1,23 @@
+AC   P22292; Q5E9W4;
+Mitochondrial 2-oxoglutarate/malate carrier protein (OGCP) (Solute
+carrier family 25 member 11).
+"Sequences of the human and bovine genes for the mitochondrial 2-
+oxoglutarate carrier.";
+"Sequence of the bovine 2-oxoglutarate/malate carrier protein:
+structural relationship to other mitochondrial transport proteins.";
+"Characterization of 954 bovine full-CDS cDNA sequences.";
+-!- FUNCTION: Catalyzes the transport of 2-oxoglutarate across the
+    inner mitochondrial membrane in an electroneutral exchange for
+    malate or other dicarboxylic acids, and plays an important role in
+    several metabolic processes, including the malate-aspartate
+    shuttle, the oxoglutarate/isocitrate shuttle, in gluconeogenesis
+    from lactate, and in nitrogen metabolism.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Heart, liver and brain.
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+Acetylation; Direct protein sequencing; Inner membrane; Membrane;
+Mitochondrion; Repeat; Transmembrane; Transport.
+TMSIX

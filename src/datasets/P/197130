@@ -1,0 +1,37 @@
+AC   O95258; Q9HC60; Q9HC61;
+Brain mitochondrial carrier protein 1 (BMCP-1) (Mitochondrial
+uncoupling protein 5) (UCP 5) (Solute carrier family 25 member 14).
+"BMCP1, a novel mitochondrial carrier with high expression in the
+central nervous system of humans and rodents, and respiration
+uncoupling activity in recombinant yeast.";
+"Characterization of novel UCP5/BMCP1 isoforms and differential
+regulation of UCP4 and UCP5 expression through dietary or temperature
+manipulation.";
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"The DNA sequence of the human X chromosome.";
+-!- FUNCTION: Participates to the mitochondrial proton leak measured
+    in brain mitochondria.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=UCP5L;
+      IsoId=O95258-1; Sequence=Displayed;
+    Name=2; Synonyms=UCP5S;
+      IsoId=O95258-2; Sequence=VSP_003272;
+    Name=3; Synonyms=UCP5SI;
+      IsoId=O95258-3; Sequence=VSP_003272, VSP_003273;
+-!- TISSUE SPECIFICITY: Mainly expressed in brain. Some expression in
+    testis and pituitary.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005739; C:mitochondrion; TAS:ProtInc.
+ GO:0005386; F:carrier activity; TAS:ProtInc.
+ GO:0009060; P:aerobic respiration; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+Alternative splicing; Inner membrane; Membrane; Mitochondrion; Repeat;
+Transmembrane; Transport.
+TMFIVE

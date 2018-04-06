@@ -1,0 +1,23 @@
+AC   O88479;
+Proto-oncogene protein c-fos (Cellular oncogene fos).
+"Differential regulation of c-fos expression in estrogen-induced
+hamster renal tumors compared with kidney not due to creation of an
+estrogen-response element by point mutation in the gene's flanking
+sequence.";
+-!- FUNCTION: Nuclear phosphoprotein which forms a tight but non-
+    covalently linked complex with the JUN/AP-1 transcription factor.
+    Has a critical function in regulating the development of cells
+    destined to form and maintain the skeleton. It is thought to have
+    an important role in signal transduction, cell proliferation and
+    differentiation (By similarity).
+-!- SUBUNIT: Heterodimer. Interacts with DSIPI; this interaction
+    inhibits the binding of active AP1 to its target DNA. Interacts
+    with MAFB (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- INDUCTION: C-fos expression increases upon a variety of stimuli,
+    including growth factors, cytokines, neurotransmitters,
+    polypeptide hormones, stress and cell injury.
+-!- SIMILARITY: Belongs to the bZIP family. Fos subfamily.
+-!- SIMILARITY: Contains 1 bZIP domain.
+DNA-binding; Nuclear protein; Phosphorylation; Proto-oncogene.
+TMZERO

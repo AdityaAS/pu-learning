@@ -1,0 +1,11 @@
+AC   Q89AJ3;
+30S ribosomal protein S1.
+"Reductive genome evolution in Buchnera aphidicola.";
+-!- FUNCTION: Binds mRNA; thus facilitating recognition of the
+    initiation point. It is needed to translate mRNA with a short
+    Shine-Dalgarno (SD) purine-rich sequence (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein S1P family.
+-!- SIMILARITY: Contains 6 S1 motif domains.
+Complete proteome; Repeat; Ribonucleoprotein; Ribosomal protein;
+RNA-binding.
+TMZERO

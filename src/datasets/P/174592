@@ -1,0 +1,19 @@
+AC   P31845;
+Stage V sporulation protein AF.
+"Nucleotide sequence and complementation analysis of a polycistronic
+sporulation operon, spoVA, in Bacillus subtilis.";
+"Systematic sequencing of the 283 kb 210 degrees-232 degrees region of
+the Bacillus subtilis genome containing the skin element and many
+sporulation genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"The organization of the Bacillus subtilis 168 chromosome region
+between the spoVA and serA genetic loci, based on sequence data.";
+"Molecular cloning and analysis of nucleotide sequence of the Bacillus
+subtilis lysA gene region using B. subtilis phage vectors and a multi-
+copy plasmid, pUB110.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the gerABKA family.
+Complete proteome; Membrane; Sporulation; Transmembrane.
+TMSIX

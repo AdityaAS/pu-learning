@@ -1,0 +1,17 @@
+AC   P0AF65; P21498; P72442;
+HTH-type transcriptional repressor nsrR.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Nitric oxide-sensitive repressor of genes involved in
+    protecting the cell against nitrosative stress. May require iron
+    for activity (By similarity).
+-!- COFACTOR: Binds 1 2Fe-2S cluster per subunit (Potential).
+-!- SIMILARITY: Contains 1 HTH rrf2-type DNA-binding domain.
+ GO:0003690; F:double-stranded DNA binding; IEA:HAMAP.
+ GO:0005506; F:iron ion binding; IEA:HAMAP.
+ GO:0003700; F:transcription factor activity; IEA:HAMAP.
+ GO:0006355; P:regulation of transcription, DNA-dependent; IEA:HAMAP.
+2Fe-2S; Complete proteome; DNA-binding; Iron; Iron-sulfur;
+Metal-binding; Repressor; Transcription; Transcription regulation.
+TMZERO

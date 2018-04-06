@@ -1,0 +1,24 @@
+AC   Q13268; Q9H2R2;
+Dehydrogenase/reductase SDR family member 2 (EC 1.1.-.-) (HEP27
+protein) (Protein D).
+"A nuclear protein, synthesized in growth-arrested human
+hepatoblastoma cells, is a novel member of the short-chain alcohol
+dehydrogenase family.";
+"Human Hep27 chromosomal gene.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Identification of a novel nuclear protein synthesized in growth-
+arrested human hepatoblastoma HepG2 cells.";
+-!- FUNCTION: May inhibit cell replication either by catalyzing the
+    oxidation of estrogen and androgen or by converting cortisone in
+    cortisol.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+    (SDR) family.
+ GO:0005634; C:nucleus; IDA:UniProtKB.
+ GO:0004022; F:alcohol dehydrogenase activity; TAS:UniProtKB.
+ GO:0008207; P:C21-steroid hormone metabolism; TAS:UniProtKB.
+ GO:0006118; P:electron transport; TAS:UniProtKB.
+ GO:0045786; P:negative regulation of progression through ...; TAS:UniProtKB.
+Direct protein sequencing; Nuclear protein; Oxidoreductase.
+TMZERO

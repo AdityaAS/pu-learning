@@ -1,0 +1,23 @@
+AC   P30835;
+6-phosphofructokinase, liver type (EC 2.7.1.11) (Phosphofructokinase
+1) (Phosphohexokinase) (Phosphofructo-1-kinase isozyme B) (PFK-B).
+"Rat-liver-type phosphofructokinase mRNA. Structure, tissue
+distribution and regulation.";
+-!- CATALYTIC ACTIVITY: ATP + D-fructose 6-phosphate = ADP + D-
+    fructose 1,6-bisphosphate.
+-!- COFACTOR: Magnesium.
+-!- ENZYME REGULATION: Allosteric enzyme activated by ADP, AMP, or
+    fructose bisphosphate and inhibited by ATP or citrate.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; D-glyceraldehyde 3-
+    phosphate and glycerone phosphate from D-glucose: step 3.
+-!- SUBUNIT: Homotetramer.
+-!- SIMILARITY: Belongs to the phosphofructokinase family. Two domains
+    subfamily.
+ GO:0005945; C:6-phosphofructokinase complex; ISS:UniProtKB.
+ GO:0003872; F:6-phosphofructokinase activity; ISS:UniProtKB.
+ GO:0004331; F:fructose-2,6-bisphosphate 2-phosphatase act...; TAS:RGD.
+ GO:0006002; P:fructose 6-phosphate metabolism; ISS:UniProtKB.
+Allosteric enzyme; ATP-binding; Glycolysis; Kinase; Magnesium;
+Metal-binding; Nucleotide-binding; Phosphorylation; Repeat;
+Transferase.
+TMZERO

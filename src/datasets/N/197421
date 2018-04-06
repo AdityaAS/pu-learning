@@ -1,0 +1,33 @@
+AC   Q6P5E4; Q6NV70;
+UDP-glucose:glycoprotein glucosyltransferase 1 precursor (EC 2.4.1.-)
+(UDP-glucose ceramide glucosyltransferase-like 1) (UDP--
+Glc:glycoprotein glucosyltransferase).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Association between the 15-kDa selenoprotein and UDP-
+glucose:glycoprotein glucosyltransferase in the endoplasmic reticulum
+of mammalian cells.";
+-!- FUNCTION: Recognizes glycoproteins with minor folding defects.
+    Reglucosylates single N-glycans near the misfolded part of the
+    protein, thus providing quality control for protein folding in the
+    endoplasmic reticulum. Reglucosylated proteins are recognized by
+    calreticulin for recycling to the endoplasmic reticulum and
+    refolding or degradation (By similarity).
+-!- COFACTOR: Calcium (By similarity).
+-!- PATHWAY: Glycosylation.
+-!- SUBUNIT: Monomer as well as in a tight complex with SEP15.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    lumen (By similarity). Endoplasmic reticulum-Golgi intermediate
+    compartment (By similarity).
+-!- DOMAIN: The N-terminal non-catalytic domain is assumed to mediate
+    recognition of proteins with partial folding defects (By
+    similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 8 family.
+ GO:0005788; C:endoplasmic reticulum lumen; ISS:UniProtKB.
+ GO:0005793; C:ER-Golgi intermediate compartment; ISS:UniProtKB.
+ GO:0003980; F:UDP-glucose:glycoprotein glucosyltransferas...; ISS:UniProtKB.
+ GO:0051082; F:unfolded protein binding; ISS:UniProtKB.
+ GO:0051084; P:posttranslational protein folding; ISS:UniProtKB.
+Endoplasmic reticulum; Glycoprotein; Glycosyltransferase; Signal;
+Transferase.
+TMZERO

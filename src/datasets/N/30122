@@ -1,0 +1,14 @@
+AC   P55915;
+Concanavalin BR (Con BR).
+"The crystal structure of Canavalia brasiliensis lectin suggests a
+correlation between its quaternary conformation and its distinct
+biological properties from Concanavalin A.";
+-!- FUNCTION: Glucose/D-mannose specific lectin.
+-!- SUBUNIT: Homotetramer.
+-!- MISCELLANEOUS: Binds one manganese (or other transition metal) ion
+    and one calcium ion. The metal ions are essential for the
+    saccharide-binding and cell-agglutinating activities.
+-!- SIMILARITY: Belongs to the leguminous lectin family.
+3D-structure; Calcium; Direct protein sequencing; Lectin; Manganese;
+Metal-binding.
+TMZERO

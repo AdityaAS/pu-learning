@@ -1,0 +1,87 @@
+AC   P04839; Q2PP16;
+Cytochrome b-245 heavy chain (p22 phagocyte B-cytochrome) (Neutrophil
+cytochrome b 91 kDa polypeptide) (CGD91-phox) (gp91-phox) (gp91-1)
+(Heme-binding membrane glycoprotein gp91phox) (Cytochrome b(558)
+subunit beta) (Cytochrome b558 subunit beta) (Superoxide-generating
+NADPH oxidase heavy chain subunit) (NADPH oxidase 2).
+"Cloning the gene for an inherited human disorder -- chronic
+granulomatous disease -- on the basis of its chromosomal location.";
+"CYBB mutation analysis in X-linked chronic granulomatous disease.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The glycoprotein encoded by the X-linked chronic granulomatous
+disease locus is a component of the neutrophil cytochrome b complex.";
+"Nonhomologous recombination between the cytochrome b558 heavy chain
+gene (CYBB) and LINE-1 causes an X-linked chronic granulomatous
+disease.";
+"The X-linked chronic granulomatous disease gene codes for the beta-
+chain of cytochrome b-245.";
+"Evidence that the product of the human X-linked CGD gene, gp91-phox,
+is a voltage-gated H(+) pathway.";
+"A missense mutation in the neutrophil cytochrome b heavy chain in
+cytochrome-positive X-linked chronic granulomatous disease.";
+"Point mutations in the beta-subunit of cytochrome b558 leading to X-
+linked chronic granulomatous disease.";
+"A newly recognized point mutation in the cytochrome b558 heavy chain
+gene replacing alanine57 by glutamic acid, in a patient with
+cytochrome b positive X-linked chronic granulomatous disease.";
+"Two novel point mutations in the cytochrome b 558 heavy chain gene,
+detected in two Japanese patients with X-linked chronic granulomatous
+disease.";
+"A point mutation in gp91-phox of cytochrome b558 of the human NADPH
+oxidase leading to defective translocation of the cytosolic proteins
+p47-phox and p67-phox.";
+"An in-frame triplet deletion within the gp91-phox gene in an adult X-
+linked chronic granulomatous disease patient with residual NADPH-
+oxidase activity.";
+"X-linked chronic granulomatous disease: mutations in the CYBB gene
+encoding the gp91-phox component of respiratory-burst oxidase.";
+"A novel mutation at a probable heme-binding ligand in neutrophil
+cytochrome b558 in atypical X-linked chronic granulomatous disease.";
+"Genetic analysis of 13 families with X-linked chronic granulomatous
+disease reveals a low proportion of sporadic patients and a high
+proportion of sporadic carriers.";
+"Molecular analysis of chronic granulomatous disease caused by defects
+in gp91-phox.";
+"Statistical and mutational analysis of chronic granulomatous disease
+in Japan with special reference to gp91-phox and p22-phox
+deficiency.";
+"Molecular and functional characterization of a new X-linked chronic
+granulomatous disease variant (X91+) case with a double missense
+mutation in the cytosolic gp91phox C-terminal tail.";
+-!- FUNCTION: Critical component of the membrane-bound oxidase of
+    phagocytes that generates superoxide. It is the terminal component
+    of a respiratory chain that transfers single electrons from
+    cytoplasmic NADPH across the plasma membrane to molecular oxygen
+    on the exterior. Also functions as a voltage-gated proton channel
+    that mediates the H(+) currents of resting phagocytes. It
+    participates in the regulation of cellular pH and is blocked by
+    zinc.
+-!- COFACTOR: FAD (Probable).
+-!- SUBUNIT: Composed of a heavy chain (beta) and a light chain
+    (alpha).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- PTM: Glycosylated.
+-!- DISEASE: Defects in CYBB are a cause of X-linked chronic
+    granulomatous disease (X-CGD) [MIM:306400]. X-CGD is characterized
+    by the failure of activated phagocytes to generate superoxide.
+    Patients suffer from life-threatening bacterial/fungal infections.
+    Patients with CYBB dysfunction are generally classified into three
+    groups, namely X91(0) (no expression of the protein); X91(-)
+    (reduced expression) and X91(+) (normal expression).
+-!- SIMILARITY: Contains 1 ferric oxidoreductase domain.
+-!- CAUTION: Ref.5 sequence differs from that shown due to erroneous
+    gene model prediction.
+-!- WEB RESOURCE: NAME=CYBBbase; NOTE=CYBB deficiency database;
+    URL="http://www.uta.fi/imt/bioinfo/CYBBbase/".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=CYBB".
+ GO:0005887; C:integral to plasma membrane; IDA:UniProtKB.
+ GO:0019735; P:antimicrobial humoral response (sensu Verte...; TAS:ProtInc.
+ GO:0006954; P:inflammatory response; TAS:ProtInc.
+Chronic granulomatous disease; Direct protein sequencing;
+Disease mutation; Electron transport; FAD; Glycoprotein; Heme;
+Ion transport; Ionic channel; Iron; Membrane; Metal-binding; NADP;
+Oxidoreductase; Polymorphism; Transmembrane; Transport;
+Voltage-gated channel.
+TMSIX

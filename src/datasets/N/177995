@@ -1,0 +1,18 @@
+AC   O08371;
+Succinyl-CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5)
+(Succinyl-CoA synthetase subunit alpha) (SCS-alpha).
+"Genomic rearrangements during evolution of the obligate intracellular
+parasite Rickettsia prowazekii as inferred from an analysis of 52015
+bp nucleotide sequence.";
+"The genome sequence of Rickettsia prowazekii and the origin of
+mitochondria.";
+-!- CATALYTIC ACTIVITY: ATP + succinate + CoA = ADP + phosphate +
+    succinyl-CoA.
+-!- SUBUNIT: Heterotetramer of two alpha and two beta subunits (By
+    similarity).
+-!- SIMILARITY: Belongs to the succinate/malate CoA ligase alpha
+    subunit family.
+ GO:0004775; F:succinate-CoA ligase (ADP-forming) activity; IEA:EC.
+ATP-binding; Complete proteome; Ligase; Nucleotide-binding;
+Phosphorylation; Tricarboxylic acid cycle.
+TMZERO

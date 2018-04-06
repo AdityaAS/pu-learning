@@ -1,0 +1,94 @@
+AC   Q07817; Q5TE65; Q92976;
+Apoptosis regulator Bcl-X (Bcl-2-like 1 protein).
+"bcl-x, a bcl-2-related gene that functions as a dominant regulator of
+apoptotic cell death.";
+"Identification of a human cDNA encoding a novel Bcl-x isoform.";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"The DNA sequence and comparative analysis of human chromosome 20.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Multiple Bcl-2 family members demonstrate selective dimerizations
+with Bax.";
+"Bax-independent inhibition of apoptosis by Bcl-XL.";
+"PUMA induces the rapid apoptosis of colorectal cancer cells.";
+"Siva-1 binds to and inhibits BCL-X(L)-mediated protection against UV
+radiation-induced apoptosis.";
+"Structure of Bcl-xL-Bak peptide complex: recognition between
+regulators of apoptosis.";
+"X-ray and NMR structure of human Bcl-xL, an inhibitor of programmed
+cell death.";
+"Modulation of cell death by Bcl-xL through caspase interaction.";
+-!- FUNCTION: Potent inhibitor of cell death. Isoform Bcl-X(L) anti-
+    apoptotic activity is inhibited by association with SIVA isoform
+    1. Inhibits activation of caspases (By similarity). Appears to
+    regulate cell death by blocking the voltage-dependent anion
+    channnel (VDAC) by binding to it and preventing the release of the
+    caspase activator, cytochrome c, from the mitochondrial membrane.
+    The Bcl-X(S) isoform promotes apoptosis.
+-!- SUBUNIT: Bcl-X(L) forms heterodimers with BAX, BAK and Bcl-2.
+    Heterodimerization with BAX does not seem to be required for anti-
+    apoptotic activity. Also interacts with BBC3. Isoform Bcl-X(L)
+    binds to Siva isoform 1 (By similarity).
+-!- INTERACTION:
+    Self; NbExp=3; IntAct=EBI-287195, EBI-287195;
+    Q92934:BAD; NbExp=3; IntAct=EBI-287195, EBI-700771;
+    Q61337:Bad (xeno); NbExp=1; IntAct=EBI-78035, EBI-400328;
+    Q61337:Bad (xeno); NbExp=2; IntAct=EBI-287195, EBI-400328;
+    Q16611:BAK1; NbExp=5; IntAct=EBI-287195, EBI-519866;
+    Q07812:BAX; NbExp=1; IntAct=EBI-78035, EBI-516580;
+    Q07812:BAX; NbExp=2; IntAct=EBI-287195, EBI-516580;
+    Q9BXH1:BBC3; NbExp=1; IntAct=EBI-78035, EBI-519884;
+    Q9BXH1:BBC3; NbExp=5; IntAct=EBI-287195, EBI-519884;
+    Q99ML1:Bbc3 (xeno); NbExp=2; IntAct=EBI-287195, EBI-727801;
+    P51572:BCAP31; NbExp=1; IntAct=EBI-78035, EBI-77683;
+    Q64373-1:Bcl2l1 (xeno); NbExp=1; IntAct=EBI-287195, EBI-526380;
+    O43521:BCL2L11; NbExp=4; IntAct=EBI-287195, EBI-526406;
+    O43521-1:BCL2L11; NbExp=1; IntAct=EBI-287195, EBI-526416;
+    O54918:Bcl2l11 (xeno); NbExp=1; IntAct=EBI-287195, EBI-526067;
+    P55957:BID; NbExp=1; IntAct=EBI-78035, EBI-519672;
+    P55957:BID; NbExp=1; IntAct=EBI-287195, EBI-519672;
+    Q13323:BIK; NbExp=1; IntAct=EBI-78035, EBI-700794;
+    Q13323:BIK; NbExp=2; IntAct=EBI-287195, EBI-700794;
+    Q8WYM1:bim-alpha1; NbExp=1; IntAct=EBI-78035, EBI-1002160;
+    Q91ZE9:Bmf (xeno); NbExp=1; IntAct=EBI-78035, EBI-708032;
+    Q91ZE9:Bmf (xeno); NbExp=1; IntAct=EBI-287195, EBI-708032;
+    P30429:ced-4 (xeno); NbExp=2; IntAct=EBI-78035, EBI-494118;
+    O00198:HRK; NbExp=1; IntAct=EBI-78035, EBI-701322;
+    O00198:HRK; NbExp=2; IntAct=EBI-287195, EBI-701322;
+    P04637:TP53; NbExp=2; IntAct=EBI-287195, EBI-366083;
+    P02340:Tp53 (xeno); NbExp=2; IntAct=EBI-287195, EBI-474016;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    single-pass membrane protein (By similarity). Nucleus; nuclear
+    envelope; single-pass membrane protein; cytoplasmic side (By
+    similarity). Note=Mitochondrial membranes and perinuclear envelope
+    (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=Bcl-X(L);
+      IsoId=Q07817-1; Sequence=Displayed;
+    Name=Bcl-X(S);
+      IsoId=Q07817-2; Sequence=VSP_000515;
+    Name=Bcl-X(beta);
+      IsoId=Q07817-3; Sequence=VSP_000516;
+-!- TISSUE SPECIFICITY: Bcl-X(S) is expressed at high levels in cells
+    that undergo a high rate of turnover, such as developing
+    lymphocytes. In contrast, Bcl-X(L) is found in tissues containing
+    long-lived postmitotic cells, such as adult brain.
+-!- DOMAIN: The BH4 motif is required for anti-apoptotic activity. The
+    BH1 and BH2 motifs are required for both heterodimerization with
+    other Bcl-2 family members and for repression of cell death.
+-!- PTM: Proteolytically cleaved by caspases during apoptosis. The
+    cleaved protein, lacking the BH4 motif, has pro-apoptotic
+    activity.
+-!- SIMILARITY: Belongs to the Bcl-2 family.
+ GO:0005741; C:mitochondrial outer membrane; NAS:UniProtKB.
+ GO:0005739; C:mitochondrion; TAS:ProtInc.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+ GO:0006916; P:anti-apoptosis; TAS:ProtInc.
+ GO:0006915; P:apoptosis; TAS:ProtInc.
+ GO:0008637; P:apoptotic mitochondrial changes; TAS:ProtInc.
+ GO:0008634; P:negative regulation of survival gene produc...; TAS:ProtInc.
+3D-structure; Alternative splicing; Apoptosis; Membrane;
+Mitochondrion; Nuclear protein; Transmembrane.
+TMONE

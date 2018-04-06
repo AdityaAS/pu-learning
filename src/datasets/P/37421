@@ -1,0 +1,17 @@
+AC   P17583; P71308; P75695; Q2MC83;
+Cyanate transport protein cynX.
+"Characterization of the cyn operon in Escherichia coli K12.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: This protein is part of an active transport system that
+    transports exogenous cyanate into Escherichia coli cells.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Cyanate
+    porter (TC 2.A.1.17) family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTWELVE

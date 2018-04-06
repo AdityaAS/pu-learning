@@ -1,0 +1,23 @@
+AC   P04978;
+Pertussis toxin subunit 2 precursor (PTX S2) (Islet-activating protein
+S2) (IAP S2).
+"Cloning and sequencing of the pertussis toxin genes: operon structure
+and gene duplication.";
+"Pertussis toxin gene: nucleotide sequence and genetic organization.";
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+"The crystal structure of pertussis toxin.";
+"Crystal structure of the pertussis toxin-ATP complex: a molecular
+sensor.";
+-!- FUNCTION: PTX oligomer B binds to receptors on the eukaryotic cell
+    surface and facilitates the translocation of the toxic subunit
+    across the cell membrane.
+-!- SUBUNIT: Pertussis toxin contains five different chains, S1-S5.
+    They are organized into 2 functional subunits: A, composed of S1
+    (which is toxic) and B, containing S2, S3, S5, and two copies of
+    S4 (B binds to the membrane receptors). Dimers of S2-S4 and S3-S4
+    are held together by S5.
+-!- SIMILARITY: Belongs to the pertussis toxin S2/S3 subunits family.
+3D-structure; Complete proteome; Membrane; Signal; Toxin;
+Whooping cough.
+TMZERO

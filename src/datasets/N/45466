@@ -1,0 +1,9 @@
+AC   Q92JQ6;
+Probable tRNA-dihydrouridine synthase (EC 1.-.-.-).
+"Mechanisms of evolution in Rickettsia conorii and R. prowazekii.";
+-!- FUNCTION: Catalyzes the synthesis of dihydrouridine, a modified
+    base found in the D-loop of most tRNAs (By similarity).
+-!- COFACTOR: FAD (By similarity).
+-!- SIMILARITY: Belongs to the dus family.
+Complete proteome; FAD; Flavoprotein; Oxidoreductase; tRNA processing.
+TMZERO

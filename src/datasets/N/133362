@@ -1,0 +1,52 @@
+AC   P28076; O09085; O09151; Q07704; Q60827; Q64278;
+Proteasome subunit beta type 9 precursor (EC 3.4.25.1) (Proteasome
+chain 7) (Macropain chain 7) (Multicatalytic endopeptidase complex
+chain 7) (RING12 protein) (Low molecular mass protein 2) (LMP-2d).
+"Homology of proteasome subunits to a major histocompatibility
+complex-linked LMP gene.";
+"Genomic organization of the mouse Lmp-2 gene and characteristic
+structure of its promoter.";
+"Molecular basis of genetic polymorphism in major histocompatibility
+complex-linked proteasome gene (Lmp-2).";
+"Genomic organization and tissue expression of mouse proteasome gene
+Lmp-2.";
+"Molecular and serological analysis of polymorphisms in the murine
+major histocompatibility complex-encoded proteasome subunits, LMP-2
+and LMP-7.";
+"Genomic organization of a mouse MHC class II region including the H2-
+M and Lmp2 loci.";
+"Molecular analysis of a recombinational hotspot adjacent to Lmp2 gene
+in the mouse MHC: fine location and chromatin structure.";
+"Sequence of the mouse major histocomaptibility locus class II
+region.";
+"The transcriptional landscape of the mammalian genome.";
+-!- FUNCTION: The proteasome is a multicatalytic proteinase complex
+    which is characterized by its ability to cleave peptides with Arg,
+    Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or
+    slightly basic pH. The proteasome has an ATP-dependent proteolytic
+    activity. This subunit is involved in antigen processing to
+    generate class I binding peptides.
+-!- CATALYTIC ACTIVITY: Cleavage of peptide bonds with very broad
+    specificity.
+-!- SUBUNIT: The proteasome is composed of at least 15 non identical
+    subunits which form a highly ordered ring-shaped structure. This
+    subunit is part of the immunoproteasome where it displaces the
+    equivalent houskeeping subunit PSMB6.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=P28076-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P28076-2; Sequence=VSP_010723, VSP_010724, VSP_010725;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Expressed at high levels in the thymus,
+    spleen, lung, heart and liver. Expressed at moderate levels in the
+    kidney.
+-!- INDUCTION: By interferon gamma.
+-!- SIMILARITY: Belongs to the peptidase T1B family.
+ GO:0019882; P:antigen processing and presentation; IDA:MGI.
+Alternative splicing; Hydrolase; Immune response; Nuclear protein;
+Polymorphism; Protease; Proteasome; Threonine protease; Zymogen.
+TMZERO

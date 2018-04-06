@@ -1,0 +1,17 @@
+AC   P81216;
+Dander allergen Equ c 2.0101 (Fragment).
+"Separation of horse dander allergen proteins by two-dimensional
+electrophoresis -- molecular characterisation and identification of
+Equ c 2.0101 and Equ c 2.0102 as lipocalin proteins.";
+"Biochemical characterization and surfactant properties of horse
+allergens.";
+-!- SUBCELLULAR LOCATION: Secreted protein (Potential).
+-!- MASS SPECTROMETRY: MW=16000; METHOD=Electrospray; RANGE=1-?;
+    NOTE=Ref.2.
+-!- ALLERGEN: Causes an allergic reaction in human. Potent allergen of
+    horse dander.
+-!- SIMILARITY: Belongs to the lipocalin family.
+-!- CAUTION: Equ c 2.0101 and c 2.0102 might be two variants of the
+    same protein.
+Allergen; Direct protein sequencing; Transport.
+TMZERO

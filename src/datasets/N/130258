@@ -1,0 +1,12 @@
+AC   Q5ALW7;
+Protein phosphatase methylesterase 1 (EC 3.1.1.-) (PME-1).
+"The diploid genome sequence of Candida albicans.";
+"Cloning and functional study of CaPPe1 in Candida albicans by using
+Saccharomyces cerevisiae model system.";
+-!- FUNCTION: Demethylates proteins that have been reversibly
+    carboxymethylated. Demethylates the phosphatase PP2A catalytic
+    subunit (By similarity). Involved in the regulation of filamentous
+    growth.
+-!- SIMILARITY: Belongs to the AB hydrolase superfamily.
+Hydrolase; Serine esterase.
+TMZERO

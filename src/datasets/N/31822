@@ -1,0 +1,14 @@
+AC   Q12589;
+Cytochrome P450 52A11 (EC 1.14.14.-) (CYPLIIA11) (Alkane-inducible
+P450-ALK8).
+"CYP52 (cytochrome P450alk) multigene family in Candida maltosa:
+identification and characterization of eight members.";
+-!- FUNCTION: Together with an NADPH cytochrome P450 the enzyme system
+    catalyzes the terminal hydroxylation as the first step in the
+    assimilation of alkanes and fatty acids.
+-!- CATALYTIC ACTIVITY: Hydroxylation of N-alkanes at the terminal
+    position.
+-!- INDUCTION: By N-alkanes.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+Heme; Iron; Membrane; Metal-binding; Monooxygenase; Oxidoreductase.
+TMZERO

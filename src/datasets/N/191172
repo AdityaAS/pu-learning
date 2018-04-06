@@ -1,0 +1,16 @@
+AC   Q25632;
+Tropomyosin (MOv-14) (Ov-tmy-1).
+"Tropomyosin implicated in host protective responses to microfilariae
+in onchocerciasis.";
+"Protective immunity induced by vaccination with Onchocerca volvulus
+tropomyosin in rodents.";
+-!- FUNCTION: Tropomyosin, in association with the troponin complex,
+    plays a central role in the calcium dependent regulation of muscle
+    contraction.
+-!- DEVELOPMENTAL STAGE: Present in all life-cycle stages.
+-!- DOMAIN: The molecule is in a coiled coil structure that is formed
+    by 2 polypeptide chains. The sequence exhibits a prominent seven-
+    residues periodicity.
+-!- SIMILARITY: Belongs to the tropomyosin family.
+Coiled coil; Repeat.
+TMZERO

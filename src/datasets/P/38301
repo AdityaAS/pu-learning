@@ -1,0 +1,11 @@
+AC   O52718;
+D-arabinitol transporter.
+"Substrate recognition domains as revealed by active hybrids between
+the D-arabinitol and ribitol transporters from Klebsiella
+pneumoniae.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family. CsbX subfamily.
+Membrane; Sugar transport; Transmembrane; Transport.
+TMTWELVE

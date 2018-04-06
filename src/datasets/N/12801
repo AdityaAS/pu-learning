@@ -1,0 +1,19 @@
+AC   Q3IR98;
+7-cyano-7-deazaguanine tRNA-ribosyltransferase (EC 2.4.2.-) (Archaeal
+tRNA-guanine transglycosylase).
+"Living with two extremes: conclusions from the genome sequence of
+Natronomonas pharaonis.";
+-!- FUNCTION: Exchanges the guanine residue with 7-cyano-7-
+    deazaguanine (preQ0) at position 15 in the dihydrouridine loop (D-
+    loop) of archaeal tRNAs (By similarity).
+-!- CATALYTIC ACTIVITY: tRNA guanine + 7-cyano-7-deazaguanine = tRNA
+    7-cyano-7-deazaguanine + guanine.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- PATHWAY: Nucleoside biosynthesis; archaeosine biosynthesis;
+    archaeosine-tRNA from GTP; step 2.
+-!- SIMILARITY: Belongs to the archaeosine tRNA-ribosyltransferase
+    family.
+ GO:0008033; P:tRNA processing; IEA:HAMAP.
+Complete proteome; Glycosyltransferase; Metal-binding; Transferase;
+tRNA processing; Zinc.
+TMZERO

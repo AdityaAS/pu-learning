@@ -1,0 +1,11 @@
+AC   Q38135;
+N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28).
+"Sequence analysis and molecular characterization of the temperate
+lactococcal bacteriophage r1t.";
+-!- CATALYTIC ACTIVITY: Hydrolyzes the link between N-acetylmuramoyl
+    residues and L-amino acid residues in certain cell-wall
+    glycopeptides.
+-!- SIMILARITY: Belongs to the N-acetylmuramoyl-L-alanine amidase 2
+    family.
+Cell wall; Hydrolase.
+TMZERO

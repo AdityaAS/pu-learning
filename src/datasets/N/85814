@@ -1,0 +1,154 @@
+AC   P13647; Q6PI71; Q6UBJ0; Q8TA91;
+Keratin, type II cytoskeletal 5 (Cytokeratin-5) (CK-5) (Keratin-5)
+(K5) (58 kDa cytokeratin).
+"The sequence of the human epidermal 58-kD (#5) type II keratin
+reveals an absence of 5' upstream sequence conservation between
+coexpressed epidermal keratins.";
+"Isolation, sequence, and expression of a human keratin K5 gene:
+transcriptional regulation of keratins and insights into pairwise
+control.";
+"Genomic organization and amplification of the human epidermal type II
+keratin genes K1 and K5.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Sequence and expression of a type II keratin, K5, in human epidermal
+cells.";
+"A new keratin 5 mutation (K199T) in a family with Weber-Cockayne
+epidermolysis bullosa simplex.";
+"Isolation and characterization of a cDNA clone coding for human
+epidermal keratin K5. Sequence of the carboxyterminal half of this
+keratin.";
+"A mutation in the conserved helix termination peptide of keratin 5 in
+hereditary skin blistering.";
+"Identification of a leucine-to-proline mutation in the keratin 5 gene
+in a family with the generalized Kobner type of epidermolysis bullosa
+simplex.";
+"Allelic variations of human keratins K4 and K5 provide polymorphic
+markers within the type II keratin gene cluster on chromosome 12.";
+"Clustering of epidermolysis bullosa simplex mutations in relation to
+disease phenotype: data from Weber-Cockayne EBS.";
+"Missing links: Weber-Cockayne keratin mutations implicate the L12
+linker domain in effective cytoskeleton function.";
+"The genetic basis of Weber-Cockayne epidermolysis bullosa simplex.";
+"Mutations in the non-helical linker segment L1-2 of keratin 5 in
+patients with Weber-Cockayne epidermolysis bullosa simplex.";
+"Epidermolysis bullosa simplex: a keratin 5 mutation is a fully
+dominant allele in epidermal cytoskeleton function.";
+"Epidermolysis bullosa simplex (Weber-Cockayne) associated with a
+novel missense mutation of Asp328 to Val in linker 12 domain of
+keratin 5.";
+"Three keratin gene mutations account for the majority of dominant
+simplex epidermolysis bullosa cases within the population of
+Ireland.";
+"A novel keratin K5 gene mutation in Dowling-Meara epidermolysis
+bullosa simplex.";
+"The genetic basis of epidermolysis bullosa simplex with mottled
+pigmentation.";
+"Primers for exon-specific amplification of the KRT5 gene:
+identification of novel and recurrent mutations in epidermolysis
+bullosa simplex patients.";
+"A novel mutation in the helix termination peptide of keratin 5
+causing epidermolysis bullosa simplex Dowling-Meara.";
+"A novel mutation in the L12 domain of keratin 5 in the Koebner
+variant of epidermolysis bullosa simplex.";
+"Novel K5 and K14 mutations in German patients with the Weber-Cockayne
+variant of epidermolysis bullosa simplex.";
+"Epidermolysis bullosa simplex with mottled pigmentation: clinical
+aspects and confirmation of the P24L mutation in the KRT5 gene in
+further patients.";
+"Identification of novel and known mutations in the genes for keratin
+5 and 14 in Danish patients with epidermolysis bullosa simplex:
+correlation between genotype and phenotype.";
+"Laryngeal involvement in the Dowling-Meara variant of epidermolysis
+bullosa simplex with keratin mutations of severely disruptive
+potential.";
+"K5 D328E: a novel missense mutation in the linker 12 domain of
+keratin 5 associated with epidermolysis bullosa simplex (Weber-
+Cockayne).";
+"A novel keratin 5 mutation (K5V186L) in a family with EBS-K: a
+conservative substitution can lead to development of different disease
+phenotypes.";
+"Dominant and recessive compound heterozygous mutations in
+epidermolysis bullosa simplex demonstrate the role of the stutter
+region in keratin intermediate filament assembly.";
+"Epidermolysis bullosa simplex in Israel: clinical and genetic
+features.";
+"Mutation analysis of the entire keratin 5 and 14 genes in patients
+with epidermolysis bullosa simplex and identification of novel
+mutations.";
+"A usual frameshift and delayed termination codon mutation in keratin
+5 causes a novel type of epidermolysis bullosa simplex with migratory
+circinate erythema.";
+"A new mutation in the linker 12 domain of keratin 5 in a Chinese
+family with Weber-Cockayne epidermolysis bullosa simplex.";
+"A mutation (N177S) in the structurally conserved helix initiation
+peptide motif of keratin 5 causes a mild EBS phenotype.";
+"Loss-of-function mutations in the keratin 5 gene lead to Dowling-
+Degos disease.";
+"Novel and recurrent mutations in keratin KRT5 and KRT14 genes in
+epidermolysis bullosa simplex: implications for disease phenotype and
+keratin filament assembly.";
+-!- SUBUNIT: Heterotetramer of two type I and two type II keratins.
+    Keratin-5 associates with keratin-14.
+-!- DISEASE: Defects in KRT5 are a cause of epidermolysis bullosa
+    simplex (EBS) [MIM:131760, 131800, 131900, 131960]. Epidermolysis
+    bullosa (EB) is a mendelian disorder that can be inherited in an
+    autosomal dominant or recessive form and is characterized by
+    blistering or erosion of the skin and mucous membranes as a result
+    of mild trauma. The incidence at birth of all types of the disease
+    is about 1:50,000. Three major clinical subgroups are: simplex
+    (EBS), junctional (EBJ), and dystrophic (EBD). EBS is by far the
+    most prevalent (65%) and it is characterized by blistering within
+    the basal cell layer. Junctional and dystrophic EB are
+    characterized by blistering in the plane of the lamina lucida of
+    the basement membrane zone and below the dermal-epidermal basement
+    membrane at the level of the anchoring fibrils, respectively.
+-!- DISEASE: Defects in KRT5 are a cause of epidermolysis bullosa
+    simplex Dowling-Meara type (DM-EBS) [MIM:131760]. DM-EBS is the
+    most severe of the simplex group and is characterized by
+    generalized herpetiform blistering, milia formation, dystrophic
+    nails, and mucous membrane involvement.
+-!- DISEASE: Defects in KRT5 are the cause of epidermolysis bullosa
+    simplex with migratory circinate erythema [MIM:609352]. EBS with
+    migratory circinate erythema is milder than the DM-EBS phenotype
+    but involves an unusual migratory circinate erythema with multiple
+    vesicles on the area affected by the erythema. The lesions, which
+    appeared from birth primarily on the hands, feet, and legs but
+    spared the nails, ocular epithelia, and mucosae, healed with brown
+    pigmentation but no scarring. Electron microscopy findings were
+    distinct from those seen in the DM-EBS, with no evidence of
+    tonofilament clumping.
+-!- DISEASE: Defects in KRT5 are a cause of epidermolysis bullosa
+    simplex Weber-Cockayne type (WC-EBS) [MIM:131800]. WC-EBS is
+    characterized by blistering in palmar and plantar areas of the
+    skin.
+-!- DISEASE: Defects in KRT5 are a cause of epidermolysis bullosa
+    simplex Koebner type (K-EBS) [MIM:131900]. K-EBS is characterized
+    by generalized blistering as the Dowling-Meara type; the phenotype
+    however is less severe.
+-!- DISEASE: Defects in KRT5 are the cause of epidermolysis bullosa
+    simplex with mottled pigmentation (MP-EBS) [MIM:131960]. MP-EBS is
+    characterized by additional reticular hyperpigmentation.
+-!- DISEASE: Defects in KRT5 are the cause of Dowling-Degos disease
+    (DDD) [MIM:179850]; also known as Dowling-Degos-Kitamura disease
+    or reticulate acropigmentation of Kitamura. DDD is an autosomal
+    dominant genodermatosis. Affected individuals develop a
+    postpubertal reticulate hyperpigmentation that is progressive and
+    disfiguring, and small hyperkeratotic dark brown papules that
+    affect mainly the flexures and great skin folds. Patients usually
+    show no abnormalities of the hair or nails.
+-!- MISCELLANEOUS: There are two types of cytoskeletal and
+    microfibrillar keratin: I (acidic; 40-55 kDa) [K9 to K20] and II
+    (neutral to basic; 56-70 kDa) [K1 to K8].
+-!- SIMILARITY: Belongs to the intermediate filament family.
+-!- WEB RESOURCE: NAME=Human Intermediate Filament Mutation Database;
+    URL="http://www.interfil.org".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=KRT5".
+ GO:0005882; C:intermediate filament; TAS:ProtInc.
+ GO:0005515; F:protein binding; IPI:HGNC.
+ GO:0005200; F:structural constituent of cytoskeleton; TAS:ProtInc.
+ GO:0008544; P:epidermis development; TAS:ProtInc.
+Coiled coil; Disease mutation; Intermediate filament; Keratin;
+Phosphorylation; Polymorphism.
+TMZERO

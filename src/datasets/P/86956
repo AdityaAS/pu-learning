@@ -1,0 +1,62 @@
+AC   P56696; O96025;
+Potassium voltage-gated channel subfamily KQT member 4 (Voltage-gated
+potassium channel subunit Kv7.4) (Potassium channel subunit alpha
+KvLQT4) (KQT-like 4).
+"KCNQ4, a novel potassium channel expressed in sensory outer hair
+cells, is mutated in dominant deafness.";
+"Inhibition of KCNQ1-4 potassium channels expressed in mammalian cells
+via M1 muscarinic acetylcholine receptors.";
+"KCNQ4 channels expressed in mammalian cells: functional
+characteristics and pharmacology.";
+"Mutations in the KCNQ4 gene are responsible for autosomal dominant
+deafness in four DFNA2 families.";
+"Novel mutation in the KCNQ4 gene in a large kindred with dominant
+progressive hearing loss.";
+"Mutations in the KCNQ4 K+ channel gene, responsible for autosomal
+dominant hearing loss, cluster in the channel pore region.";
+-!- FUNCTION: Probably important in the regulation of neuronal
+    excitability. May underlie a potassium current involved in
+    regulating the excitability of sensory cells of the cochlea. KCNQ4
+    channels are blocked by linopirdin, XE991 and bepridil, whereas
+    clofilium is without significant effect. Muscarinic agonist
+    oxotremorine-M strongly suppress KCNQ4 current in CHO cells in
+    which cloned KCNQ4 channels were coexpressed with M1 muscarinnic
+    receptors.
+-!- SUBUNIT: May form heteromultimers with KCNQ3.
+-!- SUBCELLULAR LOCATION: Cell membrane; basal cell membrane; multi-
+    pass membrane protein. Note=Situated at the basal membrane of
+    cochlear outer hair cells (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+      Comment=Additional isoforms seem to exist;
+    Name=1;
+      IsoId=P56696-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P56696-2; Sequence=VSP_001013;
+-!- TISSUE SPECIFICITY: Expressed in the outer, but not the inner,
+    sensory hair cells of the cochlea. Slightly expressed in heart,
+    brain and skeletal muscle.
+-!- DOMAIN: The segment S4 is probably the voltage-sensor and is
+    characterized by a series of positively charged amino acids at
+    every third position (By similarity).
+-!- DISEASE: Defects in KCNQ4 are a cause of nonsyndromic
+    sensorineural deafness type 2 (DFNA2) [MIM:600101]. DFNA2 is an
+    autosomal dominant form of progressive hearing loss.
+-!- MISCELLANEOUS: Mutagenesis experiments were carried out by
+    expressing in Xenopus oocytes KCNQ4 mutants either individually
+    (homomultimers) or in combination with wild-type KCNQ4 (mut/wt
+    homomultimers) in a ratio of 1:1, to mimic the situation in a
+    heterozygous DFNA2 patient.
+-!- SIMILARITY: Belongs to the potassium channel family. KQT
+    subfamily.
+-!- WEB RESOURCE: NAME=Hereditary hearing loss homepage;
+    NOTE=Gene page; URL="http://webhost.ua.ac.be/hhh/".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=KCNQ4".
+ GO:0005267; F:potassium channel activity; TAS:ProtInc.
+ GO:0006813; P:potassium ion transport; TAS:ProtInc.
+ GO:0007605; P:sensory perception of sound; TAS:ProtInc.
+Alternative splicing; Deafness; Disease mutation; Ion transport;
+Ionic channel; Membrane; Potassium; Potassium channel;
+Potassium transport; Transmembrane; Transport; Voltage-gated channel.
+TMSIX

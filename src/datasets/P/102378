@@ -1,0 +1,22 @@
+AC   P37329;
+Molybdate-binding periplasmic protein precursor.
+"Regulation of the molybdate transport operon, modABCD, of Escherichia
+coli in response to molybdate availability.";
+"Molecular analysis of the molybdate uptake operon, modABCD, of
+Escherichia coli and modR, a regulatory gene.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Properties of the periplasmic ModA molybdate-binding protein of
+Escherichia coli.";
+"Crystal structure of the molybdate binding protein ModA.";
+-!- FUNCTION: Involved in the transport of molybdenum into the cell.
+    Binds molybdate with high specificity and affinity.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein modA
+    family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Molybdenum; Periplasmic; Signal; Transport.
+TMZERO

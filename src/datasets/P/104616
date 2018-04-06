@@ -1,0 +1,13 @@
+AC   P23212;
+Erythromycin resistance ATP-binding protein msrA.
+"Inducible erythromycin resistance in staphylococci is encoded by a
+member of the ATP-binding transport super-gene family.";
+-!- FUNCTION: Confers resistance to 14-membered ring macrolides (like
+    erythromycin) and to B streptogramins, by acting as an ATP-
+    dependent efflux pump.
+-!- DOMAIN: Composed of two homologous domains.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+Antibiotic resistance; ATP-binding; Nucleotide-binding; Plasmid;
+Repeat.
+TMZERO

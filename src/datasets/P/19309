@@ -1,0 +1,23 @@
+AC   P31552; Q6IU50;
+Probable crotonobetaine/carnitine-CoA ligase (EC 6.2.1.-).
+"Molecular characterization of the cai operon necessary for carnitine
+metabolism in Escherichia coli.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Rates of DNA sequence evolution in experimental populations of
+Escherichia coli during 20,000 generations.";
+"A new family of CoA-transferases.";
+"Crystal structure of CaiB, a type-III CoA transferase in carnitine
+metabolism.";
+-!- FUNCTION: Could catalyze the transfer of CoA to carnitine,
+    generating the initial carnitinyl-CoA needed for the caiB reaction
+    cycle.
+-!- PATHWAY: Amine and polyamine metabolism; carnitine metabolism.
+-!- SIMILARITY: Belongs to the ATP-dependent AMP-binding enzyme
+    family.
+ GO:0016405; F:CoA-ligase activity; IEA:HAMAP.
+Complete proteome; Ligase.
+TMZERO

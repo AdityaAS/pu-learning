@@ -1,0 +1,10 @@
+AC   Q5X4X3;
+50S ribosomal protein L9.
+"Evidence in the Legionella pneumophila genome for exploitation of
+host cell functions and high genome plasticity.";
+-!- FUNCTION: Binds to the 23S rRNA (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L9P family.
+ GO:0019843; F:rRNA binding; IEA:HAMAP.
+Complete proteome; Ribonucleoprotein; Ribosomal protein; RNA-binding;
+rRNA-binding.
+TMZERO

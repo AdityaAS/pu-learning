@@ -1,0 +1,22 @@
+AC   P27664;
+Rod cGMP-specific 3',5'-cyclic phosphodiesterase alpha-subunit
+(EC 3.1.4.35) (GMP-PDE alpha).
+"Complete cDNA sequences of mouse rod photoreceptor cGMP
+phosphodiesterase alpha- and beta-subunits, and identification of
+beta'-, a putative beta-subunit isozyme produced by alternative
+splicing of the beta-subunit gene.";
+-!- FUNCTION: This protein participates in processes of transmission
+    and amplification of the visual signal.
+-!- CATALYTIC ACTIVITY: Guanosine 3',5'-cyclic phosphate + H(2)O =
+    guanosine 5'-phosphate.
+-!- SUBUNIT: Oligomer composed of two catalytic chains (alpha and
+    beta), an inhibitory chain (gamma) and the delta chain.
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; cytoplasmic
+    side (Potential).
+-!- SIMILARITY: Belongs to the cyclic nucleotide phosphodiesterase
+    family.
+-!- SIMILARITY: Contains 2 GAF domains.
+ GO:0047555; F:3',5'-cyclic-GMP phosphodiesterase activity; IEA:EC.
+cGMP; Hydrolase; Lipoprotein; Membrane; Prenylation; Repeat;
+Sensory transduction; Vision.
+TMZERO

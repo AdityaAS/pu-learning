@@ -1,0 +1,13 @@
+AC   Q46463;
+Ferric uptake regulation protein (Ferric uptake regulator).
+"Characterization of Campylobacter upsaliensis fur and its
+localization in a highly conserved region of the Campylobacter
+genome.";
+-!- FUNCTION: Acts as a global negative controlling element, employing
+    Fe(2+) as a cofactor to bind the operator of the repressed genes
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the Fur family.
+DNA-binding; Iron; Metal-binding; Repressor; Transcription;
+Transcription regulation; Zinc.
+TMZERO

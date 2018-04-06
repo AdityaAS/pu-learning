@@ -1,0 +1,10 @@
+AC   P22486;
+Capsid assembly and DNA maturation protein (Capsid protein VP19C).
+"Identification and characterization of the herpes simplex virus type
+2 gene encoding the essential capsid protein ICP32/VP19c.";
+-!- FUNCTION: Component of the basal layer in which the capsids are
+    embedded. Binds DNA.
+-!- SUBUNIT: Appears to be linked to VP5 by a disulfide bond.
+-!- SIMILARITY: Belongs to the herpesviruses VP19C family.
+Capsid protein; DNA packaging; DNA-binding; Virion protein.
+TMZERO

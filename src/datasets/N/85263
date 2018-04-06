@@ -1,0 +1,34 @@
+AC   Q9WVE9; Q9WVE1;
+Intersectin-1 (EH domain and SH3 domain regulator of endocytosis 1).
+"EHSH1/intersectin, a protein that contains EH and SH3 domains and
+binds to dynamin and SNAP-25. A protein connection between exocytosis
+and endocytosis?";
+-!- FUNCTION: Adapter protein that may provide indirect link between
+    the endocytic membrane traffic and the actin assembly machinery.
+    May regulate the formation of clathrin-coated vesicles.
+-!- SUBUNIT: Interacts with dynamin, CDC42, SNAP25 and SNAP23.
+    Clusters several dynamin in a manner that is regulated by
+    alternative splicing. Also binds clathrin-associated proteins and
+    other components of the endocytic machinery, such as SPIN90,
+    EPS15, EPN1, EPN2 and STN2 (By similarity).
+-!- SUBCELLULAR LOCATION: Intracytoplasmic membrane. Synaptosome.
+    Note=Enriched in synaptosomes.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+      Comment=Additional isoforms seem to exist;
+    Name=1;
+      IsoId=Q9WVE9-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9WVE9-2; Sequence=VSP_004297;
+-!- TISSUE SPECIFICITY: Highly expressed in brain.
+-!- DOMAIN: SH3-3, SH3-4 and SH3-5, but not SH3-1 and SH3-2 domains,
+    bind to dynamin.
+-!- DOMAIN: The KLERQ domain binds to SNAP-25 and SNAP-23.
+-!- SIMILARITY: Contains 2 EF-hand domains.
+-!- SIMILARITY: Contains 2 EH domains.
+-!- SIMILARITY: Contains 5 SH3 domains.
+ GO:0005515; F:protein binding; IDA:RGD.
+ GO:0006887; P:exocytosis; TAS:RGD.
+Alternative splicing; Calcium; Coiled coil; Endocytosis;
+Phosphorylation; Repeat; SH3 domain.
+TMZERO

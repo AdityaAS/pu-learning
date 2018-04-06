@@ -1,0 +1,8 @@
+AC   Q8P588;
+UPF0250 protein XCC3453.
+"Comparison of the genomes of two Xanthomonas pathogens with differing
+host specificities.";
+-!- SIMILARITY: Belongs to the UPF0250 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

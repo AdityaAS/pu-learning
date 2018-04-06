@@ -1,0 +1,13 @@
+AC   P0AG37; P27847;
+Homoserine/homoserine lactone efflux protein.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Conducts the efflux of homoserine and homoserine lactone
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the rht family.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMSIX

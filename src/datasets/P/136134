@@ -1,0 +1,29 @@
+AC   P42909; Q2M972;
+N-acetylgalactosamine-specific phosphotransferase enzyme IIB component
+1 (EC 2.7.1.69) (PTS system N-acetylgalactosamine-specific EIIB
+component 1) (EIIB-Aga).
+"Pathways for the utilization of N-acetyl-galactosamine and
+galactosamine in Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Novel phosphotransferase genes revealed by bacterial genome
+sequencing: a gene cluster encoding a putative N-acetylgalactosamine
+metabolic pathway in Escherichia coli.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in N-acetylgalactosamine
+    transport.
+-!- CATALYTIC ACTIVITY: Protein EIIB N(pi)-phospho-L-
+    histidine/cysteine + sugar = protein EIIB + sugar phosphate.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- DOMAIN: The EIIB domain is phosphorylated by phospho-EIIA on a
+    cysteinyl or histidyl residue, depending on the transported sugar.
+    Then, it transfers the phosphoryl group to the sugar substrate
+    concomitantly with the sugar uptake processed by the EIIC domain.
+-!- SIMILARITY: Contains 1 PTS EIIB type-4 domain.
+Complete proteome; Phosphorylation; Phosphotransferase system;
+Sugar transport; Transferase; Transport.
+TMZERO

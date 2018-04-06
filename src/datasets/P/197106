@@ -1,0 +1,18 @@
+AC   P10861;
+Mitochondrial brown fat uncoupling protein 1 (UCP 1) (Thermogenin)
+(Fragment).
+"Nucleotide sequence of a cDNA encoding bovine brown fat uncoupling
+protein. Homology with ADP binding site of ADP/ATP carrier.";
+-!- FUNCTION: UCP are mitochondrial transporter proteins that create
+    proton leaks across the inner mitochondrial membrane, thus
+    uncoupling oxidative phosphorylation from ATP synthesis. As a
+    result, energy is dissipated in the form of heat.
+-!- SUBUNIT: Acts as a dimer forming a proton channel.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Brown adipose tissue.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+Inner membrane; Membrane; Mitochondrion; Repeat; Transmembrane;
+Transport.
+TMSIX

@@ -1,0 +1,25 @@
+AC   P0AFM2; P14177;
+Glycine betaine-binding periplasmic protein precursor.
+"Nucleotide sequence of the osmoregulatory proU operon of Escherichia
+coli.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Purification and characterization of a glycine betaine binding
+protein from Escherichia coli.";
+"Cation-pi interactions as determinants for binding of the compatible
+solutes glycine betaine and proline betaine by the periplasmic ligand-
+binding protein ProX from Escherichia coli.";
+-!- FUNCTION: Member of a multicomponent binding-protein-dependent
+    transport system (the proU transporter) which serves as the
+    glycine betaine/L-proline transporter.
+-!- INTERACTION:
+    P77165:yagT; NbExp=1; IntAct=EBI-1129961, EBI-1115563;
+-!- SUBCELLULAR LOCATION: Periplasm.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; Amino-acid transport; Complete proteome;
+Direct protein sequencing; Periplasmic; Signal; Transport.
+TMZERO

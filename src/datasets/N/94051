@@ -1,0 +1,58 @@
+AC   P49257; Q12895; Q8N5I7; Q9UQG1; Q9UQG2; Q9UQG3; Q9UQG4; Q9UQG5;
+AC   Q9UQG6; Q9UQG7; Q9UQG8; Q9UQG9; Q9UQH0; Q9UQH1; Q9UQH2;
+ERGIC-53 protein precursor (ER-Golgi intermediate compartment 53 kDa
+protein) (Lectin, mannose-binding 1) (Gp58) (Intracellular mannose-
+specific lectin MR60).
+"ERGIC-53, a membrane protein of the ER-Golgi intermediate
+compartment, carries an ER retention motif.";
+"ERGIC-53, a membrane protein of the endoplasmic reticulum-Golgi
+intermediate compartment, is identical to MR60, an intracellular
+mannose-specific lectin of myelomonocytic cells.";
+"ERGIC-53 gene structure and mutation analysis in 19 combined factors
+V and VIII deficiency families.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Exploring proteomes and analyzing protein processing by mass
+spectrometric identification of sorted N-terminal peptides.";
+"A putative novel class of animal lectins in the secretory pathway
+homologous to leguminous lectins.";
+"Cluster analysis of an extensive human breast cancer cell line
+protein expression map database.";
+"Bleeding due to disruption of a cargo-specific ER-to-Golgi transport
+complex.";
+-!- FUNCTION: Mannose-specific lectin. May recognize sugar residues of
+    glycoproteins, glycolipids, or glycosylphosphatidyl inositol
+    anchors and may be involved in the sorting or recycling of
+    proteins, lipids, or both. The LMAN1-MCFD2 complex forms a
+    specific cargo receptor for the ER-to-Golgi transport of selected
+    proteins.
+-!- SUBUNIT: Forms disulfide-linked dimers and hexamers. Interacts
+    with MCFD2.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum-Golgi intermediate
+    compartment; endoplasmic reticulum-Golgi intermediate compartment
+    membrane; single-pass type I membrane protein.
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- PTM: The N-terminal may be partly blocked.
+-!- MASS SPECTROMETRY: MW=54222.91; METHOD=MALDI; RANGE=31-510;
+    NOTE=Ref.6.
+-!- DISEASE: Defects in LMAN1 are a cause of factor V and factor VIII
+    combined deficiency (F5F8D) [MIM:227300]; also known as multiple
+    coagulation factor deficiency I (MCFD1). F5F8D is an autosomal
+    recessive bleeding disorder characterized by coordinate reduction
+    of both clotting proteins. Affected patients present with a
+    moderate bleeding tendency and have factor V and factor VIII
+    levels in the range of 5-30% of normal.
+-!- SIMILARITY: Contains 1 leguminous lectin-like domain.
+ GO:0005789; C:endoplasmic reticulum membrane; TAS:ProtInc.
+ GO:0005793; C:ER-Golgi intermediate compartment; IDA:UniProtKB.
+ GO:0000139; C:Golgi membrane; TAS:ProtInc.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0005537; F:mannose binding; TAS:ProtInc.
+ GO:0051082; F:unfolded protein binding; TAS:ProtInc.
+ GO:0007596; P:blood coagulation; TAS:ProtInc.
+ GO:0006888; P:ER to Golgi vesicle-mediated transport; TAS:ProtInc.
+ GO:0006457; P:protein folding; TAS:ProtInc.
+Direct protein sequencing; Endoplasmic reticulum; ER-Golgi transport;
+Golgi apparatus; Lectin; Membrane; Polymorphism; Protein transport;
+Signal; Transmembrane; Transport.
+TMONE

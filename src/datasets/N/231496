@@ -1,0 +1,13 @@
+AC   Q8FFC0;
+Cell division protein zipA homolog.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Interacts directly with the cell division protein ftsZ.
+    Probable receptor for the septal ring structure, may anchor it to
+    the inner-membrane (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type I
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the zipA family.
+Cell cycle; Cell division; Complete proteome; Inner membrane;
+Membrane; Septation; Transmembrane.
+TMONE

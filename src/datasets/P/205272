@@ -1,0 +1,71 @@
+AC   P12520;
+Protein Vpr (Viral protein R) (R ORF protein).
+"Vpr protein of human immunodeficiency virus type 1 forms cation-
+selective channels in planar lipid bilayers.";
+"Characterization of a leucine-zipper-like domain in Vpr protein of
+human immunodeficiency virus type 1.";
+"Solution structure of peptides from HIV-1 Vpr protein that cause
+membrane permeabilization and growth arrest.";
+"Structure of human immunodeficiency virus type 1 Vpr(34-51) peptide
+in micelle containing aqueous solution.";
+-!- FUNCTION: Involved in the transport of the viral pre-integration
+    (PIC) complex to the nucleus during the early stages of the
+    infection. This function is crucial for viral infection of non-
+    dividing macrophages. May interact with karyopherin alpha/KPNA1
+    and KPNA2 to increase their affinity for proteins containing
+    basic-type nuclear localization signal, including the viral matrix
+    protein MA, thus facilitating the translocation of the viral
+    genome into the nucleus. May also act directly at the nuclear pore
+    complex, by binding nucleoporins phenylalanine-glycine (FG)-repeat
+    regions. Has an anti-apoptotic effect, whereas high level of
+    expression induces apoptosis. Interacts with mitochondrial
+    permeability transition pore complex (PTPC), presumably through
+    the binding of ANT proteins. This induces a rapid dissipation of
+    the mitochondrial transmembrane potential, and mitochondrial
+    release of apoptogenic proteins such as cytochrome C or apoptosis
+    inducing factors. Prevents infected cells from undergoing mitosis
+    and proliferating, by inducing arrest or delay in the G2 phase of
+    the cell cycle. The arrest in G2 is characterized by low levels of
+    CCNB1-CDC2 complex and corresponding inhibitory phosphorylation of
+    CDC2. Cell cycle arrest creates a favourable environment for
+    maximizing viral expression and production. This may be mediated
+    by interacting with and inhibiting human CDC25C, which normally
+    activates the CCNB1-CDC2 complex, or by binding SF3B2/SAP145. This
+    function is independent of nuclear localization. Cell cycle arrest
+    reportedly occurs within hours of infection and is not blocked by
+    antiviral agents, suggesting that it is initiated by the Vpr
+    carried into the virion. Stimulates gene expression driven by the
+    HIV-1 LTR by interacting with human SP1, TFIIB and TFIID.
+    Moreover, the G2/M cell cycle arrest creates a cellular
+    environment where the HIV-1 LTR is transcriptionally more active.
+    Essential for unintegrated viral DNA expression. Detected in the
+    serum and cerebrospinal fluid of AIDS patient, where it may induce
+    cell death to bystander cells. This necrotic or apoptotic effect
+    might function by entering target cell plasma membrane to form ion
+    channel (By similarity).
+-!- SUBUNIT: Homo-oligomer, may form homodimer. Interacts with p6-gag
+    region of the Pr55 Gag precursor protein through a (Leu-X-X)4
+    motif near the C terminus of the P6gag protein. Interacts with
+    host SLC25A4/ANT1, SLC25A5/ANT2, SLC25A6/ANT3, SP1, CDC25C,
+    RAD23A/HHR23A, COPS6/HVIP, TFIIB, UNG, SF3B2/SAP145, KPNA1 and
+    KPNA2 (By similarity).
+-!- SUBCELLULAR LOCATION: Virion. Nucleus. Secreted protein;
+    extracellular space. Note=Incorporation into virion is dependent
+    on p6 GAG sequences. Lacks a canonical nuclear localization
+    signal, thus import into nucleus may function independently of the
+    human importin pathway. Detected in high quantity in the serum and
+    cerebrospinal fluid of AIDS patient (By similarity).
+-!- MISCELLANEOUS: HIV-1 lineages are divided in three main groups, M
+    (for Major), O (for Outlier), and N (for New, or Non-M, Non-O).
+    The vast majority of strains found worldwide belong to the group
+    M. Group O seems to be endemic to and largely confined to Cameroon
+    and neighboring countries in West Central Africa, where these
+    viruses represent a small minority of HIV-1 strains. The group N
+    is represented by a limited number of isolates from Cameroonian
+    persons. The group M is further subdivided in 9 clades or subtypes
+    (A to D, F to H, J and K).
+3D-structure; Activator; AIDS; Apoptosis; Cell cycle;
+Host-virus interaction; Ion transport; Ionic channel; Nuclear protein;
+Phosphorylation; Transcription; Transcription regulation; Transport;
+Virion protein.
+TMZERO

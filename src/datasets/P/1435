@@ -1,0 +1,43 @@
+AC   O95342; Q9UNB2;
+Bile salt export pump (ATP-binding cassette sub-family B member 11).
+"A gene encoding a liver-specific ABC transporter is mutated in
+progressive familial intrahepatic cholestasis.";
+"Cellular localization and functional characterization of the human
+bile salt export pump (BSEP).";
+"Three hundred twenty-six genetic variations in genes encoding nine
+members of ATP-binding cassette, subfamily B (ABCB/MDR/TAP), in the
+Japanese population.";
+"FIC1 and BSEP defects in Taiwanese patients with chronic intrahepatic
+cholestasis with low gamma-glutamyltranspeptidase levels.";
+-!- FUNCTION: Involved in the ATP-dependent secretion of bile salts
+    into the canaliculus of hepatocytes.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed predominantly, if not exclusively in
+    the liver, where it was further localized to the canalicular
+    microvilli and to subcanalicular vesicles of the hepatocytes by in
+    situ (By similarity).
+-!- DOMAIN: Multifunctional polypeptide with two homologous halves,
+    each containing an hydrophobic membrane-anchoring domain and an
+    ATP binding cassette (ABC) domain.
+-!- DISEASE: Defects in ABCB11 are the cause of progressive familial
+    intrahepatic cholestasis type 2 (PFIC2) [MIM:601847]. PFIC2 is an
+    inherited liver disease of childhood which is characterized by
+    cholestasis and normal serum gamma-glutamyltransferase activity.
+    Defects in ABCB11 are also found in cases of chronic intrahepatic
+    cholestasis without obvious familial history of chronic liver
+    disease.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ABCB11".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0005524; F:ATP binding; TAS:ProtInc.
+ GO:0015432; F:bile acid-exporting ATPase activity; TAS:ProtInc.
+ GO:0008554; F:sodium-exporting ATPase activity, phosphory...; TAS:ProtInc.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+ATP-binding; Disease mutation; Glycoprotein; Membrane;
+Nucleotide-binding; Polymorphism; Repeat; Transmembrane; Transport.
+TMTWELVE

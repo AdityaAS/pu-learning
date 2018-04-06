@@ -1,0 +1,13 @@
+AC   Q05254;
+DNA polymerase (EC 2.7.7.7).
+"DNA sequence, structure and gene expression of mycobacteriophage L5:
+a phage system for mycobacterial genetics.";
+-!- FUNCTION: In addition to polymerase activity, this DNA polymerase
+    seems to exhibit a 3' to 5' exonuclease activity.
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- SIMILARITY: Belongs to the DNA polymerase type-A family.
+-!- SIMILARITY: Contains 1 3'-5' exonuclease domain.
+DNA replication; DNA-binding; DNA-directed DNA polymerase;
+Exonuclease; Hydrolase; Nuclease; Nucleotidyltransferase; Transferase.
+TMZERO

@@ -1,0 +1,10 @@
+AC   Q8EVM0;
+UPF0144 protein MYPE5440.
+"The complete genomic sequence of Mycoplasma penetrans, an
+intracellular bacterial pathogen in humans.";
+-!- SIMILARITY: Belongs to the UPF0144 family.
+-!- SIMILARITY: Contains 1 HD domain.
+-!- SIMILARITY: Contains 1 KH domain.
+ GO:0003723; F:RNA binding; IEA:HAMAP.
+Complete proteome; Membrane; RNA-binding; Transmembrane.
+TMONE

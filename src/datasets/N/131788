@@ -1,0 +1,18 @@
+AC   Q48NL1;
+Glutamate 5-kinase (EC 2.7.2.11) (Gamma-glutamyl kinase) (GK).
+"Whole-genome sequence analysis of Pseudomonas syringae pv.
+phaseolicola 1448A reveals divergence among pathovars in genes
+involved in virulence and transposition.";
+-!- FUNCTION: Catalyzes the transfer of a phosphate group to glutamate
+    to form glutamate 5-phosphate which rapidly cyclizes to 5-
+    oxoproline.
+-!- CATALYTIC ACTIVITY: ATP + L-glutamate = ADP + L-glutamate 5-
+    phosphate.
+-!- PATHWAY: Amino-acid biosynthesis; L-proline biosynthesis; L-
+    glutamate 5-semialdehyde from L-glutamate: step 1.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the glutamate 5-kinase family.
+-!- SIMILARITY: Contains 1 PUA domain.
+Amino-acid biosynthesis; Complete proteome; Kinase;
+Proline biosynthesis; Transferase.
+TMZERO

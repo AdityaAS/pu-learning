@@ -1,0 +1,30 @@
+AC   P0AG82; P06128; P76744; Q2M846;
+Phosphate-binding periplasmic protein precursor (PBP).
+"Structural gene for the phosphate-repressible phosphate-binding
+protein of Escherichia coli has its own promoter: complete nucleotide
+sequence of the phoS gene.";
+"Nucleotide sequence of the phoS gene, the structural gene for the
+phosphate-binding protein of Escherichia coli.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"High specificity of a phosphate transport protein determined by
+hydrogen bonds.";
+"A low energy short hydrogen bond in very high resolution structures
+of protein receptor-phosphate complexes.";
+"Crystal structure of phosphate binding protein labeled with a
+coumarin fluorophore, a probe for inorganic phosphate.";
+-!- FUNCTION: Required for binding-protein-mediated phosphate
+    transport.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- INDUCTION: By phosphate deprivation. Subject to positive control
+    by the phoB gene product and to negative control by the phoR gene
+    product.
+-!- SIMILARITY: Belongs to the pstS family.
+3D-structure; Complete proteome; Direct protein sequencing;
+Periplasmic; Phosphate transport; Signal; Transport.
+TMZERO

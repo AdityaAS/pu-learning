@@ -1,0 +1,35 @@
+AC   P39301; Q2M6B2;
+Ascorbate-specific permease IIC component ulaA (Ascorbate-specific PTS
+system EIIC component).
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Novel phosphotransferases system genes revealed by bacterial genome
+analysis: operons encoding homologues of sugar-specific permease
+domains of the phosphotransferase system and pentose catabolic
+enzymes.";
+"The gene yjfQ encodes the repressor of the yjfR-X regulon (ula),
+which is involved in L-ascorbate metabolism in Escherichia coli.";
+"The ascorbate transporter of Escherichia coli.";
+"Regulation of expression of the divergent ulaG and ulaABCDEF operons
+involved in L-ascorbate dissimilation in Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active-
+    transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in ascorbate transport.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Induced by L-ascorbate. Repressed by ulaR.
+-!- DOMAIN: In classical PTS systems, the EIIC domain forms the
+    translocation channel and contains the specific substrate-binding
+    site. UlaA does not exhibit the topological features of any
+    recognized enzyme IIC.
+-!- SIMILARITY: Belongs to the ulaA family.
+Complete proteome; Inner membrane; Membrane;
+Phosphotransferase system; Sugar transport; Transmembrane; Transport.
+TMTEN

@@ -1,0 +1,20 @@
+AC   P09330; Q63462;
+Ribose-phosphate pyrophosphokinase II (EC 2.7.6.1) (Phosphoribosyl
+pyrophosphate synthetase II) (PRS-II).
+"Nucleotide and deduced amino acid sequences of two distinct cDNAs for
+rat phosphoribosylpyrophosphate synthetase.";
+"Complete cDNA sequence of rat phosphoribosylpyrophosphate synthetase
+subunit II (PRS II).";
+-!- CATALYTIC ACTIVITY: ATP + D-ribose 5-phosphate = AMP + 5-phospho-
+    alpha-D-ribose 1-diphosphate.
+-!- COFACTOR: Magnesium.
+-!- ENZYME REGULATION: Activated by magnesium and inorganic phosphate.
+-!- PATHWAY: Metabolic intermediate biosynthesis; 5-phospho-alpha-D-
+    ribose 1-diphosphate biosynthesis; 5-phospho-alpha-D-ribose 1-
+    diphosphate from D-ribose 5-phosphate (route I): single step
+    [final step].
+-!- SIMILARITY: Belongs to the ribose-phosphate pyrophosphokinase
+    family.
+Direct protein sequencing; Kinase; Magnesium; Metal-binding;
+Nucleotide biosynthesis; Transferase.
+TMZERO

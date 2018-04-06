@@ -1,0 +1,15 @@
+AC   Q8G0G2;
+2-dehydro-3-deoxyphosphooctonate aldolase (EC 2.5.1.55) (Phospho-2-
+dehydro-3-deoxyoctonate aldolase) (3-deoxy-D-manno-octulosonic acid 8-
+phosphate synthetase) (KDO-8-phosphate synthetase) (KDO 8-P synthase)
+(KDOPS).
+"The Brucella suis genome reveals fundamental similarities between
+animal and plant pathogens and symbionts.";
+-!- CATALYTIC ACTIVITY: Phosphoenolpyruvate + D-arabinose 5-phosphate
+    + H(2)O = 2-dehydro-3-deoxy-D-octonate 8-phosphate + phosphate.
+-!- PATHWAY: Lipopolysaccharide biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the kdsA family.
+ GO:0009103; P:lipopolysaccharide biosynthesis; IEA:HAMAP.
+Complete proteome; Lipopolysaccharide biosynthesis; Transferase.
+TMZERO

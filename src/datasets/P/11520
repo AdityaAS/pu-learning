@@ -1,0 +1,16 @@
+AC   P0AAF9; P30858; P77355;
+Arginine transport ATP-binding protein artP.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for arginine. Probably responsible for energy coupling to the
+    transport system (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Amino-acid transport; ATP-binding; Complete proteome; Inner membrane;
+Membrane; Nucleotide-binding; Transport.
+TMZERO

@@ -1,0 +1,10 @@
+AC   P51544;
+Arginine kinase (EC 2.7.3.3) (AK).
+"Evolution of phosphagen kinase. Primary structure of glycocyamine
+kinase and arginine kinase from invertebrates.";
+-!- CATALYTIC ACTIVITY: ATP + L-arginine = ADP + N-phospho-L-arginine.
+-!- SUBUNIT: Monomer.
+-!- SIMILARITY: Belongs to the ATP:guanido phosphotransferase family.
+ GO:0004054; F:arginine kinase activity; IEA:EC.
+Kinase; Transferase.
+TMZERO

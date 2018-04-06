@@ -1,0 +1,23 @@
+AC   Q9Z4N4; P82962;
+Microcin E492 precursor (MccE492).
+"Identification and properties of the genes encoding microcin E492 and
+its immunity protein.";
+"Siderophore peptide, a new type of post-translationally modified
+antibacterial peptide with potent activity.";
+"Microcin E492 forms ion channels in phospholipid bilayer membrane.";
+-!- FUNCTION: Channel-forming bacteriocin. Forms cation-selective
+    channels. Active on enterobacteria.
+-!- PTM: The C-terminal Ser is modified by attachment to a siderophore
+    similar to enterobactin, which can bind one atom of iron. The
+    modification consists of an ester linkage of the serine carboxyl
+    to O6 of a glucose which is linked by a C-glycosidic bond to the
+    5'-benzoyl of a linear triester of N-(2,3-dihydroxybenzoyl)serine.
+-!- MASS SPECTROMETRY: MW=7886.68; MW_ERR=0.52; METHOD=Electrospray;
+    RANGE=20-103; NOTE=Ref.2.
+-!- MASS SPECTROMETRY: MW=7887; METHOD=MALDI; RANGE=20-103; NOTE=Ser-
+    103 unmodified form (Ref.3).
+-!- MASS SPECTROMETRY: MW=8718; METHOD=MALDI; RANGE=20-103; NOTE=Ser-
+    103 modified form (Ref.3).
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing;
+Signal.
+TMZERO

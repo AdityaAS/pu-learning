@@ -1,0 +1,20 @@
+AC   P39738; P96504;
+Flagellar hook-associated protein 2 (HAP2) (Filament cap protein)
+(Flagellar cap protein).
+"The Bacillus subtilis sigma D-dependent operon encoding the flagellar
+proteins FliD, FliS, and FliT.";
+"Sequence of the Bacillus subtilis 168 chromosomal region from 305 to
+307 degree.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Required for the morphogenesis and for the elongation of
+    the flagellar filament by facilitating polymerization of the
+    flagellin monomers at the tip of growing filament. Forms a capping
+    structure, which prevents flagellin subunits (transported through
+    the central channel of the flagellum) from leaking out without
+    polymerization at the distal end (By similarity).
+-!- SUBUNIT: Homopentamer (By similarity).
+-!- SUBCELLULAR LOCATION: Flagellum.
+-!- SIMILARITY: Belongs to the fliD family.
+Coiled coil; Complete proteome; Flagellum.
+TMZERO

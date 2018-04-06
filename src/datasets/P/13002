@@ -1,0 +1,29 @@
+AC   P03961;
+Potassium-transporting ATPase C chain (EC 3.6.3.12) (Potassium-
+translocating ATPase C chain) (ATP phosphohydrolase [potassium-
+transporting] C chain) (Potassium-binding and translocating subunit
+C).
+"Sequence homology between two membrane transport ATPases, the Kdp-
+ATPase of Escherichia coli and the Ca2+-ATPase of sarcoplasmic
+reticulum.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"KdpD and KdpE, proteins that control expression of the kdpABC operon,
+are members of the two-component sensor-effector class of
+regulators.";
+-!- FUNCTION: One of the components of the high-affinity ATP-driven
+    potassium transport (or KDP) system, which catalyzes the
+    hydrolysis of ATP coupled with the exchange of hydrogen and
+    potassium ions. The C subunit may be involved in assembly of the
+    KDP complex.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + K(+)(Out) = ADP + phosphate +
+    K(+)(In).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the kdpC family.
+Complete proteome; Hydrolase; Inner membrane; Ion transport; Membrane;
+Potassium; Potassium transport; Transmembrane; Transport.
+TMONE

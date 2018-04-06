@@ -1,0 +1,18 @@
+AC   Q9Y7J1;
+Sporulation-specific protein 6.
+"The Schizosaccharomyces pombe spo6+ gene encoding a nuclear protein
+with sequence similarity to budding yeast Dbf4 is required for meiotic
+second division and sporulation.";
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- FUNCTION: May act as a kinase regulator. Essential for progression
+    of meiosis II and sporulation.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Contains 1 BRCT domain.
+-!- SIMILARITY: Contains 1 DBF4-type zinc finger.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0007135; P:meiosis II; IMP:GeneDB_SPombe.
+ GO:0030437; P:sporulation (sensu Fungi); IMP:GeneDB_SPombe.
+Complete proteome; Meiosis; Metal-binding; Nuclear protein;
+Sporulation; Zinc; Zinc-finger.
+TMZERO

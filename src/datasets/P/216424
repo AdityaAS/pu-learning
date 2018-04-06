@@ -1,0 +1,12 @@
+AC   P50487; P94653;
+Putative purine permease CPE0397.
+"Complete genome sequence of Clostridium perfringens, an anaerobic
+flesh-eater.";
+"A complex array of Hpr consensus DNA recognition sequences proximal
+to the enterotoxin gene in Clostridium perfringens type A.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the xanthine/uracil permease family.
+Complete proteome; Hypothetical protein; Membrane; Transmembrane;
+Transport.
+TMTWELVE

@@ -1,0 +1,13 @@
+AC   Q6LRA6;
+Nicotinate phosphoribosyltransferase (EC 2.4.2.11) (NAPRTase).
+"Life at depth: Photobacterium profundum genome sequence and
+expression analysis.";
+-!- CATALYTIC ACTIVITY: Nicotinate D-ribonucleotide + diphosphate =
+    nicotinate + 5-phospho-alpha-D-ribose 1-diphosphate.
+-!- PATHWAY: Cofactor biosynthesis; NAD(+) biosynthesis; nicotinate
+    ribonucleotide from nicotinate: single step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the NAPRTase family.
+Complete proteome; Glycosyltransferase;
+Pyridine nucleotide biosynthesis; Transferase.
+TMZERO

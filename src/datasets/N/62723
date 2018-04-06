@@ -1,0 +1,14 @@
+AC   Q6MAS9;
+Glycogen synthase (EC 2.4.1.21) (Starch [bacterial glycogen]
+synthase).
+"Illuminating the evolutionary history of chlamydiae.";
+-!- FUNCTION: Synthesizes alpha-1,4-glucan chains using ADP-glucose.
+-!- CATALYTIC ACTIVITY: ADP-glucose + (1,4-alpha-D-glucosyl)(n) = ADP
+    + (1,4-alpha-D-glucosyl)(n+1).
+-!- PATHWAY: Glycogen biosynthesis; second step.
+-!- SIMILARITY: Belongs to the glycosyltransferase 1 family.
+    Bacterial/plant glycogen synthase subfamily.
+ GO:0005978; P:glycogen biosynthesis; IEA:HAMAP.
+Complete proteome; Glycogen biosynthesis; Glycosyltransferase;
+Transferase.
+TMZERO

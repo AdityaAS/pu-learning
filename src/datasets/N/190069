@@ -1,0 +1,14 @@
+AC   P47948; Q8IGT2; Q9V5V9;
+Troponin C, isoform 2.
+"Drosophila melanogaster genes encoding three troponin-C isoforms and
+a calmodulin-related protein.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- TISSUE SPECIFICITY: Accumulates almost exclusively in larval
+    muscles.
+-!- SIMILARITY: Belongs to the troponin C family.
+-!- SIMILARITY: Contains 4 EF-hand domains.
+Calcium; Complete proteome; Muscle protein; Repeat.
+TMZERO

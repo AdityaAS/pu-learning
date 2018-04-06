@@ -1,0 +1,14 @@
+AC   Q8ES61;
+Putative metal-dependent hydrolase OB0782 (EC 3.-.-.-).
+"Genome sequence of Oceanobacillus iheyensis isolated from the Iheya
+Ridge and its unexpected adaptive capabilities to extreme
+environments.";
+-!- FUNCTION: Possible metal-dependent hydrolase (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the metal hydrolase yfiT family.
+ GO:0016787; F:hydrolase activity; IEA:HAMAP.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Complete proteome; Hydrolase; Metal-binding; Zinc.
+TMZERO

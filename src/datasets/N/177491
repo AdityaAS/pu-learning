@@ -1,0 +1,16 @@
+AC   Q9SID1; Q9C558;
+Salt tolerance-like protein.
+"Identification of a structural motif that confers specific
+interaction with the WD40 repeat domain of Arabidopsis COP1.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+-!- SUBUNIT: Interacts with COP1 WD40 domain.
+-!- INTERACTION:
+    P43254:COP1; NbExp=2; IntAct=EBI-631960, EBI-301649;
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Contains 2 B box-type zinc fingers.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Metal-binding; Nuclear protein; Repeat; Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,7 @@
+AC   P67531; Q8DPZ7; Q97R23;
+Probable tautomerase spr0921 (EC 5.3.2.-).
+"Genome of the bacterium Streptococcus pneumoniae strain R6.";
+-!- SIMILARITY: Belongs to the tautomerase family.
+ GO:0016862; F:intramolecular oxidoreductase activity, int...; IEA:HAMAP.
+Complete proteome; Isomerase.
+TMZERO

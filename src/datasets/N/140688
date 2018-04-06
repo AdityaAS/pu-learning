@@ -1,0 +1,16 @@
+AC   P38545;
+GTP-binding nuclear protein Ran (GTPase Ran) (Ras-like protein TC4).
+"Cloning and expression of a cDNA encoding the homologue of Ran/TC4
+GTP-binding protein from Plasmodium falciparum.";
+"Cloning and characterisation of a Plasmodium falciparum homologue of
+the Ran/TC4 signal transducing GTPase involved in cell cycle
+control.";
+-!- FUNCTION: GTP-binding protein involved in nucleocytoplasmic
+    transport. Required for the import of protein into the nucleus and
+    also for RNA export. Involved in chromatin condensation and
+    control of cell cycle (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the small GTPase superfamily. Ran family.
+GTP-binding; Nuclear protein; Nucleotide-binding; Protein transport;
+Transport.
+TMZERO

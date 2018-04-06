@@ -1,0 +1,16 @@
+AC   P0AGD8; P07019; P77007; P77008;
+Signal recognition particle protein (Fifty-four homolog).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: Necessary for efficient export of extracytoplasmic
+    proteins. Binds to the signal sequence when it emerges from the
+    ribosomes (By similarity).
+-!- SUBUNIT: Signal recognition particle consists of a 4.5 RNA
+    molecule and protein ffh (By similarity).
+-!- DOMAIN: The protein has a two domain structure: the G-domain binds
+    GTP; the M-domain binds the RNA and also binds the signal sequence
+    (By similarity).
+-!- SIMILARITY: Belongs to the GTP-binding SRP family.
+Complete proteome; GTP-binding; Nucleotide-binding; Ribonucleoprotein;
+RNA-binding; Signal recognition particle.
+TMZERO

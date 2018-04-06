@@ -1,0 +1,18 @@
+AC   P00587;
+Diphtheria toxin precursor (DT) (NAD(+)--diphthamide ADP-
+ribosyltransferase) (EC 2.4.2.36) [Contains: Diphtheria toxin fragment
+A; Diphtheria toxin fragment B].
+"The complete nucleotide sequence of the gene coding for diphtheria
+toxin in the corynephage omega (tox+) genome.";
+-!- FUNCTION: Diphtheria toxin, produced by a phage infecting
+    corynebacterium diphtheriae, is a proenzyme that, after
+    activation, catalyzes the covalent attachment of the ADP ribose
+    moiety of NAD to elongation factor 2. Fragment A is responsible
+    for enzymatic ADP-ribosylation of elongation factor 2, while
+    fragment B is responsible for binding of toxin to cell receptors
+    and entry of fragment A.
+-!- CATALYTIC ACTIVITY: NAD(+) + peptide diphthamide = nicotinamide +
+    peptide N-(ADP-D-ribosyl)diphthamide.
+-!- SUBUNIT: Homodimer.
+Glycosyltransferase; NAD; Signal; Toxin; Transferase.
+TMZERO

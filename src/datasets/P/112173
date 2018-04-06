@@ -1,0 +1,18 @@
+AC   Q29075;
+Antimicrobial peptide NK-lysin precursor (NKL) (Fragment).
+"NK-lysin, a novel effector peptide of cytotoxic T and NK cells.
+Structure and cDNA cloning of the porcine form, induction by
+interleukin 2, antibacterial and antitumour activity.";
+"Saposin fold revealed by the NMR structure of NK-lysin.";
+-!- FUNCTION: May be an effector molecule of cytotoxic activity. High
+    activity against E.coli and B.megaterium, moderate against
+    A.calcoaceticus and S.pyogenes. No activity against P.aeruginosa,
+    S.aureus and Salmonella. Has some antifungal activity against
+    C.albicans.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Cytotoxic T and NK cells.
+-!- INDUCTION: By interleukin-2.
+-!- SIMILARITY: Contains 1 saposin B-type domain.
+3D-structure; Antibiotic; Antimicrobial; Direct protein sequencing;
+Fungicide; Signal.
+TMZERO

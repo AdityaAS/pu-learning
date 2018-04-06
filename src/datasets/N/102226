@@ -1,0 +1,15 @@
+AC   Q9K8I7;
+Molybdopterin-converting factor subunit 2 (MPT synthase subunit 2)
+(Molybdopterin synthase subunit 2) (Molybdenum cofactor biosynthesis
+protein E) (Molybdopterin-converting factor large subunit).
+"Complete genome sequence of the alkaliphilic bacterium Bacillus
+halodurans and genomic sequence comparison with Bacillus subtilis.";
+-!- FUNCTION: Converts molybdopterin precursor Z into molybdopterin.
+    This requires the incorporation of two sulfur atoms into precursor
+    Z to generate a dithiolene group (By similarity).
+-!- PATHWAY: Cofactor biosynthesis; molybdopterin biosynthesis.
+-!- SUBUNIT: Heterodimer of 2 moaD subunits and 2 moaE subunits (By
+    similarity).
+-!- SIMILARITY: Belongs to the moaE family.
+Complete proteome; Molybdenum cofactor biosynthesis.
+TMZERO

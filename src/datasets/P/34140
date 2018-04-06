@@ -1,0 +1,23 @@
+AC   P38865;
+Copper transport protein CTR2 (Copper transporter 2).
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+VIII.";
+"Molecular characterization of a putative Arabidopsis thaliana copper
+transporter and its yeast homologue.";
+"Mobilization of intracellular copper stores by the ctr2 vacuolar
+copper transporter.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Provides bioavailable copper via mobilization of
+    vacuolar copper stores and export to the cytoplasm.
+-!- SUBUNIT: Homomultimer.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- SIMILARITY: Belongs to the SLC31A transporter family.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); IDA:SGD.
+ GO:0015088; F:copper uptake transporter activity; IGI:SGD.
+ GO:0015677; P:copper ion import; IGI:SGD.
+ GO:0015680; P:intracellular copper ion transport; IMP:SGD.
+Complete proteome; Copper; Copper transport; Ion transport; Membrane;
+Transmembrane; Transport; Vacuole.
+TMTWO

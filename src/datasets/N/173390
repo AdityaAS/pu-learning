@@ -1,0 +1,26 @@
+AC   Q7ZT42; Q6DEI2; Q7SX79; Q7ZZS7; Q8AXL0;
+Staphylococcal nuclease domain-containing protein 1 (p100 co-
+activator) (100 kDa coactivator) (4SNc-Tudor domain protein).
+"Two variants of zebrafish p100 are expressed during embryogenesis and
+regulated by Nodal signaling.";
+"Danio rerio full mRNA for 4SNc-Tudor domain protein, complete cds.";
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=Q7ZT42-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q7ZT42-2; Sequence=VSP_012670;
+    Name=3;
+      IsoId=Q7ZT42-3; Sequence=VSP_012671, VSP_012669;
+-!- DEVELOPMENTAL STAGE: During the blastula period expressed in all
+    blastomeres. At the onset of gastrulation, expressed more in the
+    embryonic shield than in other regions. As embryos elongate,
+    expression in the shield migrates toward the animal pole and forms
+    a longitudinal band in the dorsal midline. At late gastrulation,
+    expressed in the dorsal midline extending from the tailbud to the
+    animal pole. Expression is under the control of Nodal signals.
+-!- SIMILARITY: Contains 4 TNase-like domains.
+-!- SIMILARITY: Contains 1 Tudor domain.
+Alternative splicing; Repeat.
+TMZERO

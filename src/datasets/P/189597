@@ -1,0 +1,14 @@
+AC   P25256;
+Tylosin resistance ATP-binding protein tlrC.
+"Homology between proteins controlling Streptomyces fradiae tylosin
+resistance and ATP-binding transport.";
+-!- FUNCTION: Responsible for tylosin resistance, and is proposed to
+    be a subunit of a multicomponent export system for the energy-
+    dependent efflux of tylosin.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+Antibiotic resistance; ATP-binding; Membrane; Nucleotide-binding;
+Repeat; Transport.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P15781;
+Pulmonary surfactant-associated protein B (SP-B) (6 kDa protein)
+(Pulmonary surfactant-associated proteolipid SPL(Phe)).
+"Protein sequence analysis studies on the low molecular weight
+hydrophobic proteins associated with bovine pulmonary surfactant.";
+"Characterization of the small hydrophobic proteins associated with
+pulmonary surfactant.";
+-!- FUNCTION: Pulmonary surfactant-associated proteins promote
+    alveolar stability by lowering the surface tension at the air-
+    liquid interface in the peripheral air spaces. SP-B increases the
+    collapse pressure of palmitic acid to nearly 70 millinewtons per
+    meter.
+-!- SUBUNIT: Homodimer; disulfide-linked.
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space.
+-!- MISCELLANEOUS: Pulmonary surfactant consists of 90% lipid and 10%
+    protein. There are 4 surfactant-associated protein: 2 collagenous,
+    carbohydrate-binding glycoproteins (SP-A and SP-D) and 2 small
+    hydrophobic proteins (SP-B and SP-C).
+-!- SIMILARITY: Contains 1 saposin B-type domain.
+Direct protein sequencing; Gaseous exchange; Surface film.
+TMZERO

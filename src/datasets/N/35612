@@ -1,0 +1,7 @@
+AC   Q92IH7;
+Protein cyaY.
+"Mechanisms of evolution in Rickettsia conorii and R. prowazekii.";
+-!- SIMILARITY: Belongs to the frataxin family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

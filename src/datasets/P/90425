@@ -1,0 +1,22 @@
+AC   P08136; Q54093;
+Lantibiotic epidermin precursor.
+"Prepeptide sequence of epidermin, a ribosomally synthesized
+antibiotic with four sulphide-rings.";
+"Analysis of genes involved in the biosynthesis of lantibiotic
+epidermin.";
+"Crystal structure of the peptidyl-cysteine decarboxylase EpiD
+complexed with a pentapeptide substrate.";
+-!- FUNCTION: Lanthionine-containing peptide antibiotic (lantibiotic)
+    active on Gram-positive bacteria. The bactericidal activity of
+    lantibiotics is based on depolarization of energized bacterial
+    cytoplasmic membranes, initiated by the formation of aqueous
+    transmembrane pores.
+-!- PTM: Maturation of lantibiotics involves the enzymic conversion of
+    Thr, and Ser into dehydrated AA and the formation of thioether
+    bonds with cysteine. The C-terminal lanthionine undergoes
+    decarboxylation. This is followed by membrane translocation and
+    cleavage of the modified precursor.
+-!- SIMILARITY: Belongs to the type A lantibiotic family.
+3D-structure; Antibiotic; Antimicrobial; Bacteriocin; D-amino acid;
+Lantibiotic; Plasmid; Thioether bond.
+TMZERO

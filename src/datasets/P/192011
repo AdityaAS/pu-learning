@@ -1,0 +1,21 @@
+AC   P12685;
+High-affinity potassium transport protein.
+"TRK1 encodes a plasma membrane protein required for high-affinity
+potassium transport in Saccharomyces cerevisiae.";
+"Sequencing analysis of a 40.2 kb fragment of yeast chromosome X
+reveals 19 open reading frames including URA2 (5' end), TRK1, PBS2,
+SPT10, GCD14, RPE1, PHO86, NCA3, ASF1, CCT7, GZF3, two tRNA genes,
+three remnant delta elements and a Ty4 transposon.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+-!- FUNCTION: This protein is required for high-affinity potassium
+    transport.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the trkH potassium transport family.
+ GO:0045121; C:lipid raft; IDA:SGD.
+ GO:0015079; F:potassium ion transporter activity; IDA:SGD.
+ GO:0030007; P:potassium ion homeostasis; IDA:SGD.
+ GO:0000723; P:telomere maintenance; IMP:SGD.
+Complete proteome; Glycoprotein; Ion transport; Membrane; Potassium;
+Potassium transport; Transmembrane; Transport.
+TMTWELVE

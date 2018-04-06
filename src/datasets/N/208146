@@ -1,0 +1,9 @@
+AC   P43930;
+Hypothetical RNA pseudouridine synthase HI0042 (EC 5.4.99.-) (RNA-
+uridine isomerase) (RNA pseudouridylate synthase).
+"Whole-genome random sequencing and assembly of Haemophilus influenzae
+Rd.";
+-!- CATALYTIC ACTIVITY: RNA uridine = RNA pseudouridine.
+-!- SIMILARITY: Belongs to the pseudouridine synthase rluA family.
+Complete proteome; Hypothetical protein; Isomerase.
+TMZERO

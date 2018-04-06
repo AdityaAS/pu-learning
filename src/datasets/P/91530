@@ -1,0 +1,38 @@
+AC   P22610;
+Type 4 prepilin-like proteins leader peptide-processing enzyme
+(Protein secretion protein XCPA) (Protein pilD) [Includes: Leader
+peptidase (EC 3.4.23.43) (Prepilin peptidase); N-methyltransferase
+(EC 2.1.1.-)].
+"Products of three accessory genes, pilB, pilC, and pilD, are required
+for biogenesis of Pseudomonas aeruginosa pili.";
+"Protein secretion in Pseudomonas aeruginosa: the xcpA gene encodes an
+integral inner membrane protein homologous to Klebsiella pneumoniae
+secretion function protein PulO.";
+"Complete genome sequence of Pseudomonas aeruginosa PAO1, an
+opportunistic pathogen.";
+"Structure-function relationship of type-IV prepilin peptidase of
+Pseudomonas aeruginosa -- a review.";
+"Posttranslational processing of type IV prepilin and homologs by PilD
+of Pseudomonas aeruginosa.";
+"Identification of active-site cysteines in the conserved domain of
+PilD, the bifunctional type IV pilin leader peptidase/N-
+methyltransferase of Pseudomonas aeruginosa.";
+"Amino acid substitutions in PilD, a bifunctional enzyme of
+Pseudomonas aeruginosa. Effect on leader peptidase and N-
+methyltransferase activities in vitro and in vivo.";
+-!- FUNCTION: Cleaves type-4 fimbrial leader sequence and methylates
+    the N-terminal (generally Phe) residue. Processes the pilin
+    precursor during membrane translocation. Required for the assembly
+    of type IV pili and for secretion of most proteins.
+-!- CATALYTIC ACTIVITY: Typically cleaves a -Gly-|-Phe- bond to
+    release an N-terminal, basic peptide of 5-8 residues from type IV
+    prepilin, and then N-methylates the new N-terminal amino group,
+    the methyl donor being S-adenosyl-L-methionine.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the peptidase A24 family.
+ GO:0008978; F:prepilin peptidase activity; IEA:EC.
+Complete proteome; Hydrolase; Inner membrane; Membrane;
+Methyltransferase; Multifunctional enzyme; Protease; Transferase;
+Transmembrane.
+TMSIX

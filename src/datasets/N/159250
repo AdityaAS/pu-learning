@@ -1,0 +1,14 @@
+AC   Q8U4N1;
+DNA-directed RNA polymerase subunit L (EC 2.7.7.6).
+"The complete sequence of the Pyrococcus furiosus genome.";
+-!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+    of DNA into RNA using the four ribonucleoside triphosphates as
+    substrates.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SIMILARITY: Belongs to the archaeal rpoL/eukaryotic RPB11/RPC19
+    RNA polymerase subunit family.
+ GO:0006351; P:transcription, DNA-dependent; IEA:HAMAP.
+Complete proteome; DNA-directed RNA polymerase;
+Nucleotidyltransferase; Transcription; Transferase.
+TMZERO

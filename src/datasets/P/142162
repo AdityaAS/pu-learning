@@ -1,0 +1,27 @@
+AC   P0C0Y7; P11846; Q9RFD9;
+Reaction center protein H chain (Photosynthetic reaction center H
+subunit).
+"Primary structure of the reaction center from Rhodopseudomonas
+sphaeroides.";
+"Structure of the membrane-bound protein photosynthetic reaction
+center from Rhodobacter sphaeroides.";
+"Structure of the reaction center from Rhodobacter sphaeroides R-26:
+protein-cofactor (quinones and Fe2+) interactions.";
+"Structure of the reaction center from Rhodobacter sphaeroides R-26:
+the protein subunits.";
+"Structural studies of wild-type and mutant reaction centers from an
+antenna-deficient strain of Rhodobacter sphaeroides: monitoring the
+optical properties of the complex from bacterial cell to crystal.";
+-!- FUNCTION: The reaction center is a membrane-bound complex that
+    mediates the initial photochemical event in the electron transfer
+    process of photosynthesis.
+-!- COFACTOR: Binds 4 bacteriochlorophylls per trimer.
+-!- COFACTOR: Binds 2 bacteriopheophytins per trimer.
+-!- COFACTOR: Binds 1 iron ion per trimer.
+-!- COFACTOR: Binds 4 magnesium ions per trimer.
+-!- COFACTOR: Binds 2 ubiquinone per trimer.
+-!- SUBUNIT: Heterotrimer composed of subunits L, M, and H.
+3D-structure; Bacteriochlorophyll; Chlorophyll; Chromophore;
+Electron transport; Membrane; Photosynthesis; Reaction center;
+Transmembrane; Transport.
+TMONE

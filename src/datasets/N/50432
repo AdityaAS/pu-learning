@@ -1,0 +1,15 @@
+AC   Q5EN22;
+Sterol 24-C-methyltransferase (EC 2.1.1.41) (Delta(24)-sterol C-
+methyltransferase).
+-!- FUNCTION: Catalyzes the methyl transfer from S-adenosyl-methionine
+    to the C-24 of zymosterol to form fecosterol (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + 5-alpha-cholesta-
+    8,24-dien-3-beta-ol = S-adenosyl-L-homocysteine + 24-methylene-5-
+    alpha-cholest-8-en-3-beta-ol.
+-!- PATHWAY: Ergosterol biosynthesis.
+-!- SIMILARITY: Belongs to the methyltransferase superfamily. ERG6
+    family.
+ GO:0003838; F:sterol 24-C-methyltransferase activity; IEA:EC.
+Lipid synthesis; Methyltransferase; S-adenosyl-L-methionine;
+Steroid biosynthesis; Sterol biosynthesis; Transferase.
+TMZERO

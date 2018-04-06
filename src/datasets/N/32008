@@ -1,0 +1,23 @@
+AC   Q9UBL6;
+Copine-7 (Copine VII).
+"Characterization of copine VII, a new member of the copine family,
+and its exclusion as a candidate in sporadic breast cancers with loss
+of heterozygosity at 16q24.3.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: May function in membrane trafficking. Exhibits calcium-
+    dependent phospholipid binding properties (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9UBL6-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9UBL6-2; Sequence=VSP_001215;
+      Note=No experimental confirmation available;
+-!- SIMILARITY: Belongs to the copine family.
+-!- SIMILARITY: Contains 2 C2 domains.
+-!- SIMILARITY: Contains 1 VWFA domain.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0006629; P:lipid metabolism; TAS:ProtInc.
+Alternative splicing; Polymorphism; Repeat.
+TMZERO

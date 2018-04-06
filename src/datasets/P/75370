@@ -1,0 +1,27 @@
+AC   P09545; O08197; O08290; Q56641; Q99290; Q9KMU9;
+Hemolysin precursor.
+"Extracellular proteins of Vibrio cholerae: nucleotide sequence of the
+structural gene (hlyA) for the haemolysin of the haemolytic El Tor
+strain O17 and characterization of the hlyA mutation in the non-
+haemolytic classical strain 569B.";
+"Nucleotide sequences and comparison of the hemolysin determinants of
+Vibrio cholerae El Tor RV79(Hly+) and RV79(Hly-) and classical
+569B(Hly-).";
+"Two-step processing for activation of the cytolysin/hemolysin of
+Vibrio cholerae O1 biotype El Tor: nucleotide sequence of the
+structural gene (hlyA) and characterization of the processed
+products.";
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- FUNCTION: Bacterial hemolysins are exotoxins that attack blood
+    cell membranes and cause cell rupture by mechanisms not clearly
+    defined.
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=In the hemolytic
+    biotype El Tor the 80 kDa hemolysin precursor is secreted and
+    extracellularly cleaved, producing active 65 kDa hemolysin.
+-!- INDUCTION: By hemolysin B cytoplasmic protein (Potential).
+-!- SIMILARITY: Belongs to the hlyA hemolysin family.
+-!- SIMILARITY: Contains 1 ricin B-type lectin domain.
+Complete proteome; Cytolysis; Direct protein sequencing; Hemolysis;
+Lectin; Signal; Toxin.
+TMZERO

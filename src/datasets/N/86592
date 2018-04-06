@@ -1,0 +1,21 @@
+AC   Q19143; Q20640;
+NF-kappa-B inhibitor-interacting Ras-like protein (Kappa B-Ras)
+(KappaB-Ras).
+"Genome sequence of the nematode C. elegans: a platform for
+investigating biology.";
+-!- FUNCTION: Atypical Ras-like protein that may act as a regulator of
+    NF-kappa-B activity (By similarity).
+-!- DOMAIN: In contrast to other members of the Ras family, the
+    members of the KappaB-Ras subfamily do not contain the conserved
+    Gly and Gln residues in positions 13 and 65, which are replaced by
+    Lys and Val residues, respectively, and are therefore similar to
+    the constitutively active forms of oncogenic forms of Ras. This
+    suggests that members of this family are clearly different from
+    other small GTPases proteins.
+-!- SIMILARITY: Belongs to the small GTPase superfamily. Ras family.
+    KappaB-Ras subfamily.
+-!- SIMILARITY: Contains 1 Miro domain.
+-!- CAUTION: Ref.1 sequence differs from that shown due to erroneous
+    gene model prediction.
+Complete proteome; GTP-binding; Nucleotide-binding.
+TMZERO

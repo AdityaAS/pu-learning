@@ -1,0 +1,8 @@
+AC   Q9KUP8;
+UPF0301 protein VC0467.
+"DNA sequence of both chromosomes of the cholera pathogen Vibrio
+cholerae.";
+-!- SIMILARITY: Belongs to the UPF0301 (algH) family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+3D-structure; Complete proteome.
+TMZERO

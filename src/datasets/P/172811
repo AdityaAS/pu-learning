@@ -1,0 +1,17 @@
+AC   P69179; P08027;
+Shiga-like toxin I subunit B precursor (Verotoxin 1 subunit B).
+"Nucleotide sequence of the Shiga-like toxin genes of Escherichia
+coli.";
+"Nucleotide sequence and promoter mapping of the Escherichia coli
+Shiga-like toxin operon of bacteriophage H-19B.";
+"Crystal structure of the cell-binding B oligomer of verotoxin-1 from
+E. coli.";
+"Structure of the shiga-like toxin I B-pentamer complexed with an
+analogue of its receptor Gb3.";
+-!- FUNCTION: The B-chain is responsible for binding the holotoxin to
+    specific receptors on the target cell surface.
+-!- SUBUNIT: Shiga toxin contains a single A-chain and five copies of
+    a B-chain.
+-!- SIMILARITY: Belongs to the slt beta family.
+3D-structure; Signal; Toxin.
+TMZERO

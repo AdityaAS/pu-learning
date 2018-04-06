@@ -1,0 +1,20 @@
+AC   P70683;
+Platelet-activating factor acetylhydrolase precursor (EC 3.1.1.47)
+(PAF acetylhydrolase) (PAF 2-acylhydrolase) (LDL-associated
+phospholipase A2) (LDL-PLA(2)) (2-acetyl-1-alkylglycerophosphocholine
+esterase) (1-alkyl-2-acetylglycerophosphocholine esterase).
+"Cloning, expression and characterization of plasma platelet-
+activating factor-acetylhydrolase from guinea pig.";
+-!- FUNCTION: Modulates the action of platelet-activating factor (PAF)
+    by hydrolyzing the sn-2 ester bond to yield the biologically
+    inactive lyso-PAF. Has a specificity for substrates with a short
+    residue at the sn-2 position. It is inactive against long-chain
+    phospholipids.
+-!- CATALYTIC ACTIVITY: 1-alkyl-2-acetyl-sn-glycero-3-phosphocholine +
+    H(2)O = 1-alkyl-sn-glycero-3-phosphocholine + acetate.
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space.
+-!- TISSUE SPECIFICITY: Plasma.
+-!- SIMILARITY: Belongs to the AB hydrolase superfamily. Lipase
+    family.
+Glycoprotein; Hydrolase; Lipid degradation; Signal.
+TMZERO

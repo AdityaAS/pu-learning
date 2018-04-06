@@ -1,0 +1,14 @@
+AC   P0AEQ5; P10344;
+Glutamine-binding periplasmic protein precursor (GlnBP).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Involved in a glutamine-transport system glnHPQ (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Periplasm (By similarity).
+-!- INDUCTION: By lack of glutamine (By similarity).
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Amino-acid transport; Complete proteome; Periplasmic; Signal;
+Transport.
+TMZERO

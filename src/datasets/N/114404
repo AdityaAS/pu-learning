@@ -1,0 +1,17 @@
+AC   Q40531;
+Mitogen-activated protein kinase homolog NTF6 (EC 2.7.11.24) (P43).
+"Molecular cloning, functional expression in Escherichia coli, and
+characterization of multiple mitogen-activated-protein kinases from
+tobacco.";
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- COFACTOR: Magnesium (By similarity).
+-!- ENZYME REGULATION: Activated by tyrosine and threonine
+    phosphorylation (By similarity).
+-!- PTM: Very low autophosphorylation, although dramatically increased
+    when Mn(2+) is added to the reaction instead of Mg(2+).
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. MAP
+    kinase subfamily.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+ATP-binding; Kinase; Nucleotide-binding; Phosphorylation;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

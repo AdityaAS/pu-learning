@@ -1,0 +1,18 @@
+AC   Q8UCE7;
+Putative phosphoribosylaminoimidazole-succinocarboxamide synthase 2
+(EC 6.3.2.6) (SAICAR synthetase 2).
+"The genome of the natural genetic engineer Agrobacterium tumefaciens
+C58.";
+"Genome sequence of the plant pathogen and biotechnology agent
+Agrobacterium tumefaciens C58.";
+-!- CATALYTIC ACTIVITY: ATP + 5-amino-1-(5-phospho-D-
+    ribosyl)imidazole-4-carboxylate + L-aspartate = ADP + phosphate +
+    (S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-
+    carboxamido)succinate.
+-!- PATHWAY: Nucleotide biosynthesis; IMP biosynthesis; 5-amino-1-(5-
+    phospho-D-ribosyl)imidazole-4-carboxamide from 2-N-formyl-1-N-(5-
+    phospho-D-ribosyl)glycinamide: step 4.
+-!- PATHWAY: Context: Purine biosynthesis.
+-!- SIMILARITY: Belongs to the SAICAR synthetase family.
+Complete proteome; Ligase; Purine biosynthesis.
+TMZERO

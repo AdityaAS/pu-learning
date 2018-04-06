@@ -1,0 +1,16 @@
+AC   Q8PVP6;
+Lysyl-tRNA synthetase 2 (EC 6.1.1.6) (Lysine--tRNA ligase 2) (LysRS
+2).
+"The genome of Methanosarcina mazei: evidence for lateral gene
+transfer between Bacteria and Archaea.";
+-!- CATALYTIC ACTIVITY: ATP + L-lysine + tRNA(Lys) = AMP + diphosphate
+    + L-lysyl-tRNA(Lys).
+-!- COFACTOR: Binds 3 magnesium ions per subunit (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-II aminoacyl-tRNA synthetase
+    family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Magnesium; Metal-binding; Nucleotide-binding; Protein biosynthesis.
+TMZERO

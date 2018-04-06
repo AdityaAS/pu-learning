@@ -1,0 +1,13 @@
+AC   Q6D9D2;
+Arginine repressor.
+"Genome sequence of the enterobacterial phytopathogen Erwinia
+carotovora subsp. atroseptica and characterization of virulence
+factors.";
+-!- FUNCTION: Regulates arginine biosynthesis genes (By similarity).
+-!- PATHWAY: Amino-acid biosynthesis; L-arginine biosynthesis
+    [regulation].
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the argR family.
+Amino-acid biosynthesis; Arginine biosynthesis; Complete proteome;
+DNA-binding; Repressor; Transcription; Transcription regulation.
+TMZERO

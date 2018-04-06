@@ -1,0 +1,14 @@
+AC   P26505;
+5-aminolevulinate synthase (EC 2.3.1.37) (5-aminolevulinic acid
+synthase) (Delta-aminolevulinate synthase) (Delta-ALA synthetase).
+"Cloning and nucleotide sequence of the hemA gene of Agrobacterium
+radiobacter.";
+-!- CATALYTIC ACTIVITY: Succinyl-CoA + glycine = 5-aminolevulinate +
+    CoA + CO(2).
+-!- COFACTOR: Pyridoxal phosphate.
+-!- PATHWAY: Cofactor biosynthesis; porphyrin biosynthesis; 5-
+    aminolevulinate from glycine: single step.
+-!- SIMILARITY: Belongs to the class-II pyridoxal-phosphate-dependent
+    aminotransferase family.
+Acyltransferase; Heme biosynthesis; Pyridoxal phosphate; Transferase.
+TMZERO

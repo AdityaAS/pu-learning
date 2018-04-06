@@ -1,0 +1,18 @@
+AC   P33907;
+Autoinducer synthesis protein traI.
+"TraI, a LuxI homologue, is responsible for production of conjugation
+factor, the Ti plasmid N-acylhomoserine lactone autoinducer.";
+"Genetic and sequence analysis of the pTiC58 trb locus, encoding a
+mating-pair formation system related to members of the type IV
+secretion family.";
+"The genome of the natural genetic engineer Agrobacterium tumefaciens
+C58.";
+"Genome sequence of the plant pathogen and biotechnology agent
+Agrobacterium tumefaciens C58.";
+-!- FUNCTION: Required for the synthesis of OHHL (N-(3-oxohexanoyl)-L-
+    homoserine lactone), an autoinducer molecule which binds to traR
+    and thus acts in the control of conjugal transfer.
+-!- SIMILARITY: Belongs to the autoinducer synthetase family.
+Autoinducer synthesis; Complete proteome; Conjugation; Plasmid;
+Quorum sensing.
+TMZERO

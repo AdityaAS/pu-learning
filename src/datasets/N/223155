@@ -1,0 +1,12 @@
+AC   P76187; Q2MB66; Q6BF80;
+Oxidoreductase ydhF (EC 1.-.-.-).
+"The complete genome sequence of Escherichia coli K-12.";
+"Escherichia coli K-12: a cooperatively developed annotation snapshot
+-- 2005.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Crystal structure of Ydhf, an aldo-keto reductase from Escherichia
+coli.";
+-!- SIMILARITY: Belongs to the aldo/keto reductase 2 family.
+3D-structure; Complete proteome; NADP; Oxidoreductase.
+TMZERO

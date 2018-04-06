@@ -1,0 +1,12 @@
+AC   P0A565; O84901; Q57165;
+6 kDa early secretory antigenic target (ESAT-6).
+"Molecular analysis of genetic differences between Mycobacterium bovis
+BCG and virulent M. bovis.";
+"The complete genome sequence of Mycobacterium bovis.";
+-!- FUNCTION: Not known. Elicits high level of IFN-gamma from memory
+    effector cells during the first phase of a protective immune
+    response.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the ESAT-6 (esx) family.
+Complete proteome.
+TMZERO

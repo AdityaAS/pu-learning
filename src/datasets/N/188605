@@ -1,0 +1,13 @@
+AC   Q7VIN8;
+Trigger factor (TF).
+"The complete genome sequence of the carcinogenic bacterium
+Helicobacter hepaticus.";
+-!- FUNCTION: Involved in protein export. Acts as a chaperone by
+    maintaining the newly synthesized protein in an open conformation
+    (By similarity).
+-!- SIMILARITY: Belongs to the FKBP-type PPIase family. Tig subfamily.
+-!- SIMILARITY: Contains 1 PPIase FKBP-type domain.
+ GO:0003755; F:peptidyl-prolyl cis-trans isomerase activity; IEA:HAMAP.
+Cell cycle; Cell division; Chaperone; Complete proteome; Isomerase;
+Rotamase.
+TMZERO

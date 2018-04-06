@@ -1,0 +1,22 @@
+AC   Q95121; Q2KIF6;
+Pigment epithelium-derived factor precursor (PEDF) (Serpin-F1).
+"Pigment epithelium-derived factor behaves like a noninhibitory
+serpin. Neurotrophic activity does not require the serpin reactive
+loop.";
+-!- FUNCTION: Neurotrophic protein; induces extensive neuronal
+    differentiation in retinoblastoma cells. Potent inhibitor of
+    angiogenesis. As it does not undergo the S (stressed) to R
+    (relaxed) conformational transition characteristic of active
+    serpins, it exhibits no serine protease inhibitory activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Retinal pigment epithelial cells. Located in
+    the interphotoreceptor matrix (IPM) which is between the retinal
+    pigment epithelium and the neural retina.
+-!- DOMAIN: The N-terminal (AA 42-139) exhibits neurite outgrowth-
+    inducing activity. The C-terminal exposed loop (AA 380-416) is
+    essential for serpin activity.
+-!- SIMILARITY: Belongs to the serpin family.
+ GO:0005576; C:extracellular region; IDA:UniProtKB.
+ GO:0050769; P:positive regulation of neurogenesis; ISS:UniProtKB.
+Direct protein sequencing; Glycoprotein; Signal.
+TMZERO

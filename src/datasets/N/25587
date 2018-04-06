@@ -1,0 +1,22 @@
+AC   Q5SCY9;
+Light-independent protochlorophyllide reductase iron-sulfur ATP-
+binding protein (EC 1.18.-.-) (LI-POR subunit L) (DPOR subunit L).
+"The first complete chloroplast genome sequence of a lycophyte,
+Huperzia lucidula (Lycopodiaceae).";
+-!- FUNCTION: Uses Mg-ATP and reduced ferredoxin to reduce ring D of
+    protochlorophyllide (Pchlide) to form chlorophyllide a (Chlide)
+    (By similarity). This reaction is light-independent.
+-!- COFACTOR: Binds 1 4Fe-4S cluster per dimer (By similarity).
+-!- PATHWAY: Light-independent chlorophyll biosynthesis.
+-!- SUBUNIT: Protochlorophyllide reductase is thought to be composed
+    of three subunits; chlL, chlN and chlB. Homodimer of chlL subunit
+    (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast.
+-!- SIMILARITY: Belongs to the nifH/bchL/chlL family.
+-!- CAUTION: Arg-129 is present instead of the conserved Cys which is
+    one of the two iron-sulfur binding sites.
+ GO:0030494; P:bacteriochlorophyll biosynthesis; IEA:HAMAP.
+4Fe-4S; ATP-binding; Chlorophyll biosynthesis; Chloroplast; Iron;
+Iron-sulfur; Metal-binding; Nucleotide-binding; Oxidoreductase;
+Photosynthesis; Plastid.
+TMZERO

@@ -1,0 +1,46 @@
+AC   P19556;
+Envelope glycoprotein (Env polyprotein) [Contains: Surface protein
+(SU) (Glycoprotein 62) (gp62); Transmembrane protein (TM)
+(Glycoprotein 40) (gp40)].
+"Nucleotide sequence and genome organization of biologically active
+proviruses of the bovine immunodeficiency-like virus.";
+"Analysis of the transcription pattern and mapping of the putative rev
+and env splice junctions of bovine immunodeficiency-like virus.";
+-!- FUNCTION: The surface protein (SU) attaches the virus to the host
+    cell by binding to its receptor. This interaction triggers the
+    refolding of the transmembrane protein (TM) and is thought to
+    activate its fusogenic potential by unmasking its fusion peptide.
+    Fusion occurs at the host cell plasma membrane (By similarity).
+-!- FUNCTION: The transmembrane protein (TM) acts as a class I viral
+    fusion protein. Under the current model, the protein has at least
+    3 conformational states: pre-fusion native state, pre-hairpin
+    intermediate state, and post-fusion hairpin state. During viral
+    and target cell membrane fusion, the coiled coil regions (heptad
+    repeats) assume a trimer-of-hairpins structure, positioning the
+    fusion peptide in close proximity to the C-terminal region of the
+    ectodomain. The formation of this structure appears to drive
+    apposition and subsequent fusion of viral and target cell
+    membranes. Membranes fusion leads to delivery of the nucleocapsid
+    into the cytoplasm (By similarity).
+-!- SUBUNIT: The mature envelope protein (Env) consists of a trimer of
+    SU-TM heterodimers attached by noncovalent interactions or by a
+    labile interchain disulfide bond (By similarity).
+-!- SUBCELLULAR LOCATION: TM: Virion; virion membrane; single-pass
+    type I membrane protein. Cell membrane; single-pass type I
+    membrane protein. SU: Virion; virion membrane; peripheral membrane
+    protein. Cell membrane; peripheral membrane protein. Note=The
+    surface protein is not anchored to the viral envelope, but
+    associates with the extravirion surface through its binding to TM.
+    Both proteins are thought to be concentrated at the site of
+    budding and incorporated into the virions possibly by contacts
+    between the cytoplasmic tail of Env and the N-terminus of Gag (By
+    similarity).
+-!- PTM: Specific enzymatic cleavages in vivo yield mature proteins.
+    Envelope glycoproteins are synthesized as a inactive precursor
+    that is N-glycosylated and processed likely by host cell furin or
+    by a furin-like protease in the Golgi to yield the mature SU and
+    TM proteins. The cleavage site between SU and TM requires the
+    minimal sequence [KR]-X-[KR]-R (By similarity).
+Cleavage on pair of basic residues; Coiled coil; Envelope protein;
+Fusion protein; Glycoprotein; Membrane; Transmembrane; Virion protein.
+TMONE

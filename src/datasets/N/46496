@@ -1,0 +1,31 @@
+AC   P36912;
+Endo-beta-N-acetylglucosaminidase F2 precursor (EC 3.2.1.96)
+(Mannosyl-glycoprotein endo-beta-N-acetyl-glucosaminidase F2) (Di-N-
+acetylchitobiosyl beta-N-acetylglucosaminidase F2) (Endoglycosidase
+F2).
+"Multiple endoglycosidase F activities expressed by Flavobacterium
+meningosepticum endoglycosidases F2 and F3. Molecular cloning, primary
+sequence, and enzyme expression.";
+"Novel, specific O-glycosylation of secreted Flavobacterium
+meningosepticum proteins. Asp-Ser and Asp-Thr-Thr consensus sites.";
+"Detailed structural analysis of a novel, specific O-linked glycan
+from the prokaryote Flavobacterium meningosepticum.";
+-!- FUNCTION: Endohydrolysis of the di-N-acetylchitobiosyl unit in
+    high-mannose glycopeptides and glycoproteins. Complex biantennary
+    glycans are the preferred substrates. Tri- and tetraantennary
+    glycans are not hydrolyzed, and high mannose glycans are very poor
+    substrates.
+-!- CATALYTIC ACTIVITY: Endohydrolysis of the N,N'-diacetylchitobiosyl
+    unit in high-mannose glycopeptides and glycoproteins containing
+    the -(Man(GlcNAc)(2))Asn-structure. One N-acetyl-D-glucosamine
+    residue remains attached to the protein; the rest of the
+    oligosaccharide is released intact.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- PTM: Carbohydrates at Ser-73, Ser-89 and Ser-143 consist of (2-
+    OMe)Man1-4GlcNAcU1-4GlcU1-4Glc1-4(2-OMe)GlcU1-4[(2-OMe)Rham1-
+    2]Man.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 18 family.
+Direct protein sequencing; Glycoprotein; Glycosidase; Hydrolase;
+Signal.
+TMZERO

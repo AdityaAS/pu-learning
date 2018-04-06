@@ -1,0 +1,26 @@
+AC   P59228; Q39037; Q39038; Q39039; Q42424; Q96298;
+Vacuolar ATP synthase 16 kDa proteolipid subunit 2 (EC 3.6.3.14) (V-
+ATPase 16 kDa proteolipid subunit 2).
+"Several distinct genes encode nearly identical to 16 kDa proteolipids
+of the vacuolar H(+)-ATPase from Arabidopsis thaliana.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+-!- FUNCTION: Proton-conducting pore forming subunit of the membrane
+    integral V0 complex of vacuolar ATPase. V-ATPase is responsible
+    for acidifying a variety of intracellular compartments in
+    eukaryotic cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (main components: subunits A, B,
+    C, D, E, and F) attached to an integral membrane V0 proton pore
+    complex (main component: the proteolipid protein; which is present
+    as a hexamer that forms the proton-conducting pore).
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein. Note=Tonoplast.
+-!- TISSUE SPECIFICITY: Expressed in leaf, root, flower and silique,
+    with lower expression in roots.
+-!- SIMILARITY: Belongs to the V-ATPase proteolipid subunit family.
+ATP synthesis; Hydrogen ion transport; Hydrolase; Ion transport;
+Membrane; Transmembrane; Transport; Vacuole.
+TMFOUR

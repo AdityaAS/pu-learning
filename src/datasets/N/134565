@@ -1,0 +1,14 @@
+AC   Q5SD09;
+Photosystem II reaction center protein Z (PSII-Z).
+"The first complete chloroplast genome sequence of a lycophyte,
+Huperzia lucidula (Lycopodiaceae).";
+-!- FUNCTION: Controls the interaction of photosystem II (PSII) cores
+    with the light-harvesting antenna (By similarity).
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast thylakoid
+    membrane; multi-pass membrane protein (By similarity).
+    Note=Associated with the photosystem II complex (By similarity).
+-!- SIMILARITY: Belongs to the psbZ family.
+ GO:0015979; P:photosynthesis; IEA:HAMAP.
+Chloroplast; Membrane; Photosynthesis; Photosystem II; Plastid;
+Reaction center; Thylakoid; Transmembrane.
+TMTWO

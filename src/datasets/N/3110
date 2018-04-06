@@ -1,0 +1,19 @@
+AC   Q89WV5; Q93Q03;
+Acetyl-coenzyme A synthetase (EC 6.2.1.1) (Acetate--CoA ligase) (Acyl-
+activating enzyme).
+"Complete genomic sequence of nitrogen-fixing symbiotic bacterium
+Bradyrhizobium japonicum USDA110.";
+"Identification of active site residues in Bradyrhizobium japonicum
+acetyl-CoA synthetase.";
+-!- CATALYTIC ACTIVITY: ATP + acetate + CoA = AMP + diphosphate +
+    acetyl-CoA.
+-!- PTM: Acetylated. Deacetylation by the SIR2-homolog deacetylase
+    activates the enzyme (By similarity).
+-!- SIMILARITY: Belongs to the ATP-dependent AMP-binding enzyme
+    family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to a
+    frameshift in position 479.
+ GO:0019427; P:acetyl-CoA biosynthesis from acetate; IEA:HAMAP.
+ GO:0006935; P:chemotaxis; IEA:HAMAP.
+Acetylation; Complete proteome; Ligase.
+TMZERO

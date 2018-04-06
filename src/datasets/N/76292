@@ -1,0 +1,36 @@
+AC   P61324;
+HPr kinase/phosphorylase (EC 2.7.11.-) (EC 2.7.4.-) (HPrK/P) (HPr(Ser)
+kinase/phosphorylase).
+"The genome sequence of the probiotic intestinal bacterium
+Lactobacillus johnsonii NCC 533.";
+-!- FUNCTION: Catalyzes the ATP- as well as the pyrophosphate-
+    dependent phosphorylation of a specific serine residue in HPr, a
+    phosphocarrier protein of the phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS). HprK/P also catalyzes the
+    pyrophosphate-producing, inorganic phosphate-dependent
+    dephosphorylation (phosphorolysis) of seryl-phosphorylated HPr (P-
+    Ser-HPr). The two antagonistic activities of HprK/P are regulated
+    by several intracellular metabolites, which change their
+    concentration in response to the absence or presence of rapidly
+    metabolisable carbon sources (glucose, fructose, etc.) in the
+    growth medium. Therefore, by controlling the phosphorylation state
+    of HPr, HPrK/P is a sensor enzyme that plays a major role in the
+    regulation of carbon metabolism and sugar transport: it mediates
+    carbon catabolite repression (CCR), and regulates PTS-catalyzed
+    carbohydrate uptake and inducer exclusion (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + HPr = ADP + P-Ser-HPr.
+-!- CATALYTIC ACTIVITY: P-Ser-HPr + phosphate = HPr + diphosphate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- SUBUNIT: Homohexamer (By similarity).
+-!- DOMAIN: The Walker A ATP-binding motif also binds Pi and PPi (By
+    similarity).
+-!- MISCELLANEOUS: Both phosphorylation and phosphorolysis are carried
+    out by the same active site and suggest a common mechanism for
+    both reactions (By similarity).
+-!- SIMILARITY: Belongs to the HPrK/P family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0004712; F:protein threonine/tyrosine kinase activity; IEA:HAMAP.
+ATP-binding; Carbohydrate metabolism; Complete proteome; Kinase;
+Magnesium; Metal-binding; Multifunctional enzyme; Nucleotide-binding;
+Serine/threonine-protein kinase; Transferase.
+TMZERO

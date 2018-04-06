@@ -1,0 +1,14 @@
+AC   P69494; Q59AA6;
+I-superfamily conotoxin precursor.
+"Novel conopeptides of the I-superfamily occur in several clades of
+cone snails.";
+-!- FUNCTION: Inhibits the vertebrate potassium channels Kv1.1 and
+    Kv1.3, but not Kv1.2. It has no effect on HERG-type channels,
+    sodium hH1 channels and Kir-type channels (IRK1) (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (By similarity).
+-!- TISSUE SPECIFICITY: Expressed by the venom duct.
+-!- PTM: Contains four disulfide bonds (Probable).
+-!- SIMILARITY: Belongs to the conotoxin I2 superfamily.
+Ionic channel inhibitor; Neurotoxin; Potassium channel inhibitor;
+Signal; Toxin.
+TMZERO

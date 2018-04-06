@@ -1,0 +1,19 @@
+AC   Q6NVC5; Q803L2;
+Mitochondrial Rho GTPase 1 (EC 3.6.5.-) (MIRO-1) (Ras homolog gene
+family member T1).
+-!- FUNCTION: Mitochondrial GTPase involved in mitochondrial
+    trafficking. Probably involved in control of anterograde transport
+    of mitochondria and their subcellular distribution (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    single-pass type IV membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the mitochondrial Rho GTPase family.
+-!- SIMILARITY: Contains 2 EF-hand domains.
+-!- SIMILARITY: Contains 2 Miro domains.
+ GO:0031307; C:integral to mitochondrial outer membrane; ISS:UniProtKB.
+ GO:0006915; P:apoptosis; ISS:UniProtKB.
+ GO:0019725; P:cell homeostasis; ISS:UniProtKB.
+ GO:0047497; P:mitochondrion transport along microtubule; ISS:UniProtKB.
+Calcium; GTP-binding; Hydrolase; Membrane; Mitochondrion;
+Nucleotide-binding; Outer membrane; Repeat; Transmembrane.
+TMONE

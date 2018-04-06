@@ -1,0 +1,23 @@
+AC   Q01662;
+Methionine aminopeptidase 1 precursor (EC 3.4.11.18) (MetAP 1) (MAP 1)
+(Peptidase M 1).
+"Molecular cloning, sequencing, deletion, and overexpression of a
+methionine aminopeptidase gene from Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Yeast methionine aminopeptidase I can utilize either Zn2+ or Co2+ as
+a cofactor: a case of mistaken identity?";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Removes the amino-terminal methionine from nascent
+    proteins.
+-!- CATALYTIC ACTIVITY: Release of N-terminal amino acids,
+    preferentially methionine, from peptides and arylamides.
+-!- COFACTOR: Binds 2 zinc or cobalt ions per subunit. Zinc may be the
+    true cofactor in vivo.
+-!- MISCELLANEOUS: Present with 19600 molecules/cell.
+-!- SIMILARITY: Belongs to the peptidase M24A family.
+ GO:0005830; C:cytosolic ribosome (sensu Eukaryota); IDA:SGD.
+ GO:0004239; F:methionyl aminopeptidase activity; IDA:SGD.
+ GO:0006508; P:proteolysis; IDA:SGD.
+Aminopeptidase; Cobalt; Complete proteome; Direct protein sequencing;
+Hydrolase; Metal-binding; Protease; Zinc.
+TMZERO

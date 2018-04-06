@@ -1,0 +1,15 @@
+AC   Q92052; Q92053;
+Gap junction alpha-7 protein (Connexin-43.4) (Cx43.4).
+"Expression of zebrafish connexin43.4 in the notochord and tail bud of
+wild-type and mutant no tail embryos.";
+-!- FUNCTION: One gap junction consists of a cluster of closely packed
+    pairs of transmembrane channels, the connexons, through which
+    materials of low MW diffuse from one cell to a neighboring cell.
+    Participates in a developmental pathway for formation of the
+    notochord and tail.
+-!- SUBUNIT: A connexon is composed of a hexamer of connexins.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the connexin family. Alpha-type (group II)
+    subfamily.
+Gap junction; Membrane; Transmembrane.
+TMFOUR

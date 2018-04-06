@@ -1,0 +1,13 @@
+AC   O32854; Q46AT8;
+Putative methyltransferase mtx subunit A (EC 2.1.1.-).
+"Identification of the active site histidine in the corrinoid protein
+MtrA of the energy-conserving methyltransferase complex from
+Methanobacterium thermoautotrophicum.";
+"The Methanosarcina barkeri genome: comparative analysis with
+Methanosarcina acetivorans and Methanosarcina mazei reveals extensive
+rearrangement within methanosarcinal genomes.";
+-!- SUBUNIT: May be part of a complex composed of 3 subunits; mtxA,
+    mtxH and mtxX.
+-!- SIMILARITY: Belongs to the mtrA family.
+Complete proteome; Methyltransferase; Transferase.
+TMZERO

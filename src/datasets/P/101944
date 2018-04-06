@@ -1,0 +1,14 @@
+AC   Q55281;
+Manganese transport system ATP-binding protein mntA.
+"Molecular identification of an ABC transporter complex for manganese:
+analysis of a cyanobacterial mutant strain impaired in the
+photosynthetic oxygen evolution process.";
+"Sequence analysis of the genome of the unicellular cyanobacterium
+Synechocystis sp. strain PCC6803. II. Sequence determination of the
+entire genome and assignment of potential protein-coding regions.";
+-!- FUNCTION: Part of an ATP-driven transport system for manganese.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Complete proteome; Manganese; Nucleotide-binding;
+Transport.
+TMZERO

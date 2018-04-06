@@ -1,0 +1,61 @@
+AC   Q07813;
+Apoptosis regulator BAX, membrane isoform alpha.
+"Bcl-2 heterodimerizes in vivo with a conserved homolog, Bax, that
+accelerates programmed cell death.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Accelerates programmed cell death by binding to, and
+    antagonizing the apoptosis repressor BCL2 or its adenovirus
+    homolog E1B 19k protein. Induces the release of cytochrome c,
+    activation of CASP3, and thereby apoptosis. BAX deficiency leads
+    to lymphoid hyperplasia and male sterility, because of the
+    cessation of sperm production.
+-!- SUBUNIT: Homodimers and heterodimers with BCL2, E1B 19K protein,
+    BCL2L1 isoform Bcl-X(L), MCL1 and A1. Binds SH3GLB1 (By
+    similarity).
+-!- INTERACTION:
+    P10415:BCL2 (xeno); NbExp=1; IntAct=EBI-700711, EBI-77694;
+-!- SUBCELLULAR LOCATION: Membrane; single-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=Alpha;
+      IsoId=Q07813-1; Sequence=Displayed;
+    Name=Beta;
+      IsoId=Q07813-2; Sequence=Not described;
+    Name=Gamma;
+      IsoId=Q07813-3; Sequence=Not described;
+-!- TISSUE SPECIFICITY: Expressed in a wide variety of tissues.
+-!- DOMAIN: Intact BH3 motif is required by BIK, BID, BAK, BAD and BAX
+    for their pro-apoptotic activity and for their interaction with
+    anti-apoptotic members of the Bcl-2 family (By similarity).
+-!- SIMILARITY: Belongs to the Bcl-2 family.
+ GO:0005737; C:cytoplasm; IDA:MGI.
+ GO:0044445; C:cytosolic part; IDA:MGI.
+ GO:0005741; C:mitochondrial outer membrane; IDA:MGI.
+ GO:0005739; C:mitochondrion; IDA:MGI.
+ GO:0005625; C:soluble fraction; IDA:MGI.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0046982; F:protein heterodimerization activity; IPI:MGI.
+ GO:0002358; P:B cell homeostatic proliferation; IMP:MGI.
+ GO:0008635; P:caspase activation via cytochrome c; IDA:MGI.
+ GO:0008624; P:induction of apoptosis by extracellular sig...; IMP:MGI.
+ GO:0008629; P:induction of apoptosis by intracellular sig...; IMP:MGI.
+ GO:0008053; P:mitochondrial fusion; IGI:MGI.
+ GO:0048147; P:negative regulation of fibroblast prolifera...; IMP:MGI.
+ GO:0043524; P:negative regulation of neuron apoptosis; IDA:MGI.
+ GO:0007399; P:nervous system development; IMP:MGI.
+ GO:0051402; P:neuron apoptosis; IMP:MGI.
+ GO:0030264; P:nuclear fragmentation; IDA:MGI.
+ GO:0051260; P:protein homooligomerization; IDA:MGI.
+ GO:0001844; P:protein insertion into mitochondrial membra...; IMP:MGI.
+ GO:0043281; P:regulation of caspase activity; IMP:MGI.
+ GO:0001836; P:release of cytochrome c from mitochondria; IDA:MGI.
+ GO:0006974; P:response to DNA damage stimulus; IMP:MGI.
+ GO:0009636; P:response to toxin; IMP:MGI.
+ GO:0009611; P:response to wounding; IMP:MGI.
+ GO:0046666; P:retinal cell programmed cell death; IMP:MGI.
+ GO:0060011; P:Sertoli cell proliferation; IGI:MGI.
+ GO:0007283; P:spermatogenesis; IMP:MGI.
+ GO:0001777; P:T cell homeostatic proliferation; IMP:MGI.
+Alternative splicing; Apoptosis; Membrane; Transmembrane.
+TMONE

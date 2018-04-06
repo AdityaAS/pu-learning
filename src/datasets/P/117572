@@ -1,0 +1,15 @@
+AC   P0A4F8; P35121;
+Octopine-binding periplasmic protein precursor.
+"Characterization of a putative periplasmic transport system for
+octopine accumulation encoded by Agrobacterium tumefaciens Ti plasmid
+pTiA6.";
+"Opine transport genes in the octopine (occ) and nopaline (noc)
+catabolic regions in Ti plasmids of Agrobacterium tumefaciens.";
+-!- FUNCTION: Component of the octopine active transport system
+    probably consisting of four subunits: Q, M, P and T.
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- INDUCTION: By octopine.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 3
+    family.
+Periplasmic; Plasmid; Signal; Transport.
+TMZERO

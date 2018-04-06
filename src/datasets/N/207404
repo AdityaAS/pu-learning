@@ -1,0 +1,61 @@
+AC   P24806; O64956; Q39148; Q39149; Q41904; Q8LDQ0;
+Xyloglucan endotransglucosylase/hydrolase protein 24 precursor
+(EC 2.4.1.207) (At-XTH24) (XTH-24) (Meristem protein 5) (MERI-5
+protein) (MERI5 protein) (Endo-xyloglucan transferase) (Xyloglucan
+endo-1,4-beta-D-glucanase).
+"Molecular cloning and characterization of genes expressed in shoot
+apical meristems.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+"An inventory of 1152 expressed sequence tags obtained by partial
+sequencing of cDNAs from Arabidopsis thaliana.";
+"Differential expression of senescence-associated mRNAs during leaf
+senescence induced by different senescence-inducing factors in
+Arabidopsis.";
+"Characterisation of two tomato fruit-expressed cDNAs encoding
+xyloglucan endo-transglycosylase.";
+"In vitro activities of four xyloglucan endotransglycosylases from
+Arabidopsis.";
+"A comprehensive expression analysis of all members of a gene family
+encoding cell-wall enzymes allowed us to predict cis-regulatory
+regions involved in cell-wall construction in specific organs of
+Arabidopsis.";
+"The ANGUSTIFOLIA gene of Arabidopsis, a plant CtBP gene, regulates
+leaf-cell expansion, the arrangement of cortical microtubules in leaf
+cells and expression of a gene involved in cell-wall formation.";
+"The XTH family of enzymes involved in xyloglucan
+endotransglucosylation and endohydrolysis: current perspectives and a
+new unifying nomenclature.";
+-!- FUNCTION: Catalyzes xyloglucan endohydrolysis (XEH) and/or
+    endotransglycosylation (XET). Cleaves and religates xyloglucan
+    polymers, an essential constituent of the primary cell wall, and
+    thereby participates in cell wall construction of growing tissues.
+    May be required during development to modify the walls of cells
+    under mechanical stress.
+-!- CATALYTIC ACTIVITY: Breaks a beta-(1->4) bond in the backbone of a
+    xyloglucan and transfers the xyloglucanyl segment on to O-4 of the
+    non-reducing terminal glucose residue of an acceptor, which can be
+    a xyloglucan or an oligosaccharide of xyloglucan.
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space;
+    apoplast (Probable).
+-!- TISSUE SPECIFICITY: Highly expressed. Predominantly expressed in
+    stems. Expressed in shoot apical meristems, also found in
+    seedlings and meristems.
+-!- INDUCTION: May be transcriptionally regulated by ANGUSTIFOLIA.
+-!- PTM: Contains at least one intrachain disulfide bond essential for
+    its enzymatic activity (By similarity).
+-!- PTM: N-glycosylated; essential for its enzymatic activity.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 16 family. XTH group
+    2 subfamily.
+-!- CAUTION: Ref.1 sequence differs from that shown due to frameshifts
+    in positions 158, 178, 183, 189, 190, 194 and 199.
+-!- CAUTION: Ref.6 sequence differs from that shown due to frameshifts
+    in positions 93 and 104.
+-!- WEB RESOURCE: NAME=XTH-World;
+    URL="http://labs.plantbio.cornell.edu/XTH/".
+Apoplast; Cell wall; Glycoprotein; Glycosidase; Hydrolase; Signal;
+Transferase.
+TMZERO

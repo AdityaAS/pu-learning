@@ -1,0 +1,42 @@
+AC   Q9UKZ9; Q9BRH3;
+Procollagen C-endopeptidase enhancer 2 precursor (Procollagen COOH-
+terminal proteinase enhancer 2) (Procollagen C-proteinase enhancer 2)
+(PCPE-2).
+"Identification and expression of a novel type I procollagen C-
+proteinase enhancer protein gene from the glaucoma candidate region on
+3q21-q24.";
+"Identification and initial characterization of 5000 expressed
+sequenced tags (ESTs) each from adult human normal and osteoarthritic
+cartilage cDNA libraries.";
+"The secreted protein discovery initiative (SPDI), a large-scale
+effort to identify novel human secreted and transmembrane proteins: a
+bioinformatics assessment.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Signal peptide prediction based on analysis of experimentally
+verified cleavage sites.";
+"PCOLCE2 encodes a functional procollagen C-proteinase enhancer
+(PCPE2) that is a collagen-binding protein differing in distribution
+of expression and post-translational modification from the previously
+described PCPE1.";
+-!- FUNCTION: Binds to the C-terminal propeptide of types I and II
+    procollagens and may enhance the cleavage of that propeptide by
+    BMP1.
+-!- SUBUNIT: Interacts with heparin with high affinity, and type I or
+    II collagen.
+-!- SUBCELLULAR LOCATION: Secreted protein (Probable).
+-!- TISSUE SPECIFICITY: Highly expressed in the heart, trabecular
+    meshwork, pituitary gland, bladder, mammary gland, trachea and
+    placenta and weakly expressed in the brain. Expressed in
+    cartilage.
+-!- PTM: O-glycosylated; contains sialic acid.
+-!- SIMILARITY: Contains 2 CUB domains.
+-!- SIMILARITY: Contains 1 NTR domain.
+-!- CAUTION: Ref.5 (AAH06265) sequence differs from that shown due to
+    a stop codon in position 277 which was translated as Glu to extend
+    the sequence.
+Direct protein sequencing; Glycoprotein; Heparin-binding;
+Polymorphism; Repeat; Signal.
+TMZERO

@@ -1,0 +1,17 @@
+AC   P71119;
+Heme oxygenase (EC 1.14.99.3).
+"Utilization of host iron sources by Corynebacterium diphtheriae:
+identification of a gene whose product is homologous to eukaryotic
+heme oxygenases and is required for acquisition of iron from heme and
+hemoglobin.";
+"The complete genome sequence and analysis of Corynebacterium
+diphtheriae NCTC13129.";
+-!- FUNCTION: Allows the bacteria to use the host heme as an iron
+    source. Involved in the oxidation of heme and subsequent release
+    of iron from the heme moiety.
+-!- CATALYTIC ACTIVITY: Heme + 3 AH(2) + 3 O(2) = biliverdin + Fe(2+)
+    + CO + 3 A + 3 H(2)O.
+-!- SIMILARITY: Belongs to the heme oxygenase family.
+3D-structure; Complete proteome; Heme; Iron; Metal-binding;
+Oxidoreductase.
+TMZERO

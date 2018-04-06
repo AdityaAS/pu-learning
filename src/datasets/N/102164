@@ -1,0 +1,10 @@
+AC   Q9HQ89;
+Probable molybdenum cofactor biosynthesis protein C.
+"Genome sequence of Halobacterium species NRC-1.";
+-!- FUNCTION: Together with moaA, is involved in the conversion of a
+    guanosine derivative (5'-GTP) into molybdopterin precursor Z (By
+    similarity).
+-!- PATHWAY: Cofactor biosynthesis; molybdopterin biosynthesis.
+-!- SIMILARITY: Belongs to the moaC family.
+Complete proteome; Molybdenum cofactor biosynthesis.
+TMZERO

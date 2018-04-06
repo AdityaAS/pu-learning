@@ -1,0 +1,17 @@
+AC   P14299;
+NAD(+)--dinitrogen-reductase ADP-D-ribosyltransferase (EC 2.4.2.37)
+(ADP-ribosyltransferase).
+"Genes coding for the reversible ADP-ribosylation system of
+dinitrogenase reductase from Rhodospirillum rubrum.";
+-!- FUNCTION: Involved in the regulation of the nitrogen fixation
+    activity by the reversible ADP-ribosylation of the dinitrogenase
+    reductase component of the nitrogenase enzyme complex. The ADP-
+    ribosyltransferase (DraT) transfers the ADP-ribose group from NAD
+    to dinitrogenase reductase. The ADP-ribose group is removed
+    through the action of the ADP-ribosylglycohydrolase (DraG).
+-!- CATALYTIC ACTIVITY: NAD(+) + [dinitrogen reductase] = nicotinamide
+    + ADP-D-ribosyl-[dinitrogen reductase].
+ GO:0030701; F:NAD+-dinitrogen-reductase ADP-D-ribosyltran...; IEA:EC.
+Direct protein sequencing; Glycosyltransferase; NAD;
+Nitrogen fixation; Transferase.
+TMZERO

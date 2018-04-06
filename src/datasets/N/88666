@@ -1,0 +1,22 @@
+AC   Q7TSH2;
+Phosphorylase b kinase regulatory subunit beta (Phosphorylase kinase
+subunit beta).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Phosphorylase b kinase catalyzes the phosphorylation of
+    serine in certain substrates, including troponin I. The beta chain
+    acts as a regulatory unit and modulates the activity of the
+    holoenzyme in response to phosphorylation (By similarity).
+-!- ENZYME REGULATION: By phosphorylation of various serine residues
+    (By similarity).
+-!- PATHWAY: Glycogen metabolism.
+-!- SUBUNIT: Polymer of 16 chains, four each of alpha, beta, gamma,
+    and delta. Alpha and beta are regulatory chains, gamma is the
+    catalytic chain, and delta is calmodulin (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; cytoplasmic
+    side (Potential).
+-!- SIMILARITY: Belongs to the phosphorylase b kinase regulatory chain
+    family.
+Calmodulin-binding; Carbohydrate metabolism; Glycogen metabolism;
+Lipoprotein; Membrane; Phosphorylation; Prenylation.
+TMZERO

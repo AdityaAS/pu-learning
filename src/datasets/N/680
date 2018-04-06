@@ -1,0 +1,19 @@
+AC   P28334;
+5-hydroxytryptamine 1B receptor (5-HT-1B) (Serotonin receptor 1B) (5-
+HT1B).
+"Mouse 5HT1B serotonin receptor: cloning, functional expression, and
+localization in motor control centers.";
+-!- FUNCTION: This is one of the several different receptors for 5-
+    hydroxytryptamine (serotonin), a biogenic hormone that functions
+    as a neurotransmitter, a hormone, and a mitogen. The activity of
+    this receptor is mediated by G proteins that inhibit adenylate
+    cyclase activity.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Predominantly expressed in striatum and
+    Purkinje cells.
+-!- PTM: Phosphorylated (By similarity).
+-!- PTM: Palmitoylated (By similarity).
+-!- SIMILARITY: Belongs to the G-protein coupled receptor 1 family.
+G-protein coupled receptor; Glycoprotein; Lipoprotein; Membrane;
+Palmitate; Phosphorylation; Receptor; Transducer; Transmembrane.
+TMSEVEN

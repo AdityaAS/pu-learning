@@ -1,0 +1,14 @@
+AC   Q9A0D8; Q48ZG9;
+Probable thiamine biosynthesis protein thiI.
+"Complete genome sequence of an M1 strain of Streptococcus pyogenes.";
+"Evolutionary origin and emergence of a highly successful clone of
+serotype M1 group A Streptococcus involved multiple horizontal gene
+transfer events.";
+-!- FUNCTION: Required for the synthesis of the thiazole moiety (By
+    similarity).
+-!- PATHWAY: Thiamine biosynthesis.
+-!- SUBCELLULAR LOCATION: Cytoplasm (Potential).
+-!- SIMILARITY: Belongs to the thiI family.
+-!- SIMILARITY: Contains 1 THUMP domain.
+Complete proteome; Thiamine biosynthesis.
+TMZERO

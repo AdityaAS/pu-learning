@@ -1,0 +1,14 @@
+AC   Q87KZ9;
+Phosphatidylserine decarboxylase proenzyme (EC 4.1.1.65) [Contains:
+Phosphatidylserine decarboxylase alpha chain; Phosphatidylserine
+decarboxylase beta chain].
+"Genome sequence of Vibrio parahaemolyticus: a pathogenic mechanism
+distinct from that of V. cholerae.";
+-!- CATALYTIC ACTIVITY: Phosphatidyl-L-serine =
+    phosphatidylethanolamine + CO(2).
+-!- COFACTOR: Pyruvoyl group (By similarity).
+-!- SIMILARITY: Belongs to the phosphatidylserine decarboxylase
+    family. Type 1 subfamily.
+Complete proteome; Decarboxylase; Lyase; Phospholipid biosynthesis;
+Pyruvate; Zymogen.
+TMZERO

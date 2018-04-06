@@ -1,0 +1,68 @@
+AC   Q9H015; O14546;
+Organic cation/carnitine transporter 1 (Solute carrier family 22
+member 4) (Ergothioneine transporter) (ET transporter).
+"Cloning and characterization of a novel human pH-dependent organic
+cation transporter, OCTN1.";
+"Discovery of the ergothioneine transporter.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Novel membrane transporter OCTN1 mediates multispecific,
+bidirectional, and pH-dependent transport of organic cations.";
+"An intronic SNP in a RUNX1 binding site of SLC22A4, encoding an
+organic cation transporter, is associated with rheumatoid arthritis.";
+"Catalog of 238 variations among six human genes encoding solute
+carriers (hSLCs) in the Japanese population.";
+"Functional characterization of human organic cation transporter OCTN1
+single nucleotide polymorphisms in the Japanese population.";
+"Functional variants of OCTN cation transporter genes are associated
+with Crohn disease.";
+-!- FUNCTION: Sodium-ion dependent, low affinity carnitine
+    transporter. Probably transports one sodium ion with one molecule
+    of carnitine. Also transports organic cations such as
+    tetraethylammonium (TEA) without the involvement of sodium.
+    Relative uptake activity ratio of carnitine to TEA is 1.78. A key
+    substrate of this transporter seems to be ergothioneine (ET).
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=0.470 mM for TEA (at 37 degrees Celsius and pH 7.4);
+      Vmax=0.974 nmol/min/mg enzyme toward TEA (at 37 degrees Celsius
+      and pH 7.4);
+    pH dependence:
+      More active at neutral and alkaline pHs than at acidic pHs;
+-!- SUBUNIT: Interacts with PDZK1 (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Widely expressed. Highly expressed in whole
+    blood, bone marrow, trachea and fetal liver. Weakly expressed in
+    kidney, skeletal muscle, prostate, lung, pancreas, placenta,
+    heart, uterus, spleen and spinal cord. Highly expressed in
+    intestinal cell types affected by Crohn disease, including
+    epithelial cells. Expressed in CD68 macrophage and CD43 T-cells
+    but not in CD20 B-cells. Predominantly expressed in CD14 cells in
+    peripheral blood mononuclear cells.
+-!- INDUCTION: Overexpressed upon TNF-alpha treatment.
+-!- DISEASE: Defects in SLC22A4 may be a cause of susceptibility to
+    Crohn disease (CD) [MIM:266600]. CD is a form of remitting
+    inflammatory bowel disease (IBD). CD may involve any part of the
+    gastrointestinal tract, but most frequently the terminal ileum and
+    colon. Bowel inflammation is transmural and discontinuous. CD is
+    commonly classified as an autoimmune disease.
+-!- DISEASE: Defects in SLC22A4 may be a cause of rheumatoid arthritis
+    (RA).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Organic
+    cation transporter family.
+-!- CAUTION: Ref.1 reported that this protein does not transport
+    carnitine, however, experiments were done with the Phe-503
+    variant, which affects the ability to transport carnitine. Ref.7
+    showed that, although weakly, it can also transport carnitine at
+    some level. Its function in carnitine transport is therefore
+    unclear.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005886; C:plasma membrane; TAS:ProtInc.
+ GO:0000166; F:nucleotide binding; TAS:ProtInc.
+ GO:0008513; F:organic cation porter activity; TAS:ProtInc.
+ GO:0007589; P:fluid secretion; TAS:ProtInc.
+ GO:0015695; P:organic cation transport; TAS:ProtInc.
+ATP-binding; Disease mutation; Glycoprotein; Ion transport; Membrane;
+Nucleotide-binding; Polymorphism; Sodium; Sodium transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

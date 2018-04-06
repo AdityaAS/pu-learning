@@ -1,0 +1,14 @@
+AC   P58331;
+Zinc-containing ferredoxin-2.
+"Complete genome sequence of an aerobic thermoacidophilic
+Crenarchaeon, Sulfolobus tokodaii strain7.";
+-!- FUNCTION: Ferredoxins are iron-sulfur proteins that transfer
+    electrons in a wide variety of metabolic reactions (By
+    similarity).
+-!- COFACTOR: Binds 1 3Fe-4S cluster (By similarity).
+-!- COFACTOR: Binds 1 4Fe-4S cluster (By similarity).
+-!- COFACTOR: Binds 1 zinc ion (By similarity).
+-!- SIMILARITY: Contains 2 4Fe-4S type ferredoxin domains.
+3Fe-4S; 4Fe-4S; Complete proteome; Electron transport; Iron;
+Iron-sulfur; Metal-binding; Repeat; Transport; Zinc.
+TMZERO

@@ -1,0 +1,19 @@
+AC   Q58439;
+Magnesium transport protein corA.
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+"Functional similarity between archaeal and bacterial CorA magnesium
+transporters.";
+"Cation hexaammines are selective and potent inhibitors of the CorA
+magnesium transport system.";
+"The CorA Mg2+ transporter is a homotetramer.";
+-!- FUNCTION: Mediates influx of magnesium ions.
+-!- ENZYME REGULATION: Inhibited by cation hexaammines.
+-!- SUBUNIT: Homotetramer (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the corA metal ion transporter (MIT)
+    (TC 1.A.35) family.
+Complete proteome; Ion transport; Magnesium; Membrane; Transmembrane;
+Transport.
+TMTWO

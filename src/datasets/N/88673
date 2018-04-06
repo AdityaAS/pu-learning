@@ -1,0 +1,14 @@
+AC   O42632;
+Protein kinase C-like (EC 2.7.11.13).
+"PKC1, encoding a protein kinase C, and FAT1, encoding a fatty acid
+transporter protein, are neighbors in Cochliobolus heterostrophus.";
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SIMILARITY: Belongs to the Ser/Thr protein kinase family. PKC
+    subfamily.
+-!- SIMILARITY: Contains 2 phorbol-ester/DAG-type zinc fingers.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+-!- SIMILARITY: Contains 2 REM (Hr1) repeats.
+ATP-binding; Kinase; Metal-binding; Nucleotide-binding;
+Phorbol-ester binding; Repeat; Serine/threonine-protein kinase;
+Transferase; Zinc; Zinc-finger.
+TMZERO

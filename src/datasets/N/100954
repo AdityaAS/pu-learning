@@ -1,0 +1,14 @@
+AC   Q8XWB0;
+tRNA delta(2)-isopentenylpyrophosphate transferase (EC 2.5.1.8) (IPP
+transferase) (Isopentenyl-diphosphate:tRNA isopentenyltransferase)
+(IPTase) (IPPT).
+"Genome sequence of the plant pathogen Ralstonia solanacearum.";
+-!- FUNCTION: Catalyzes the first step in the biosynthesis of 2-
+    methylthio-N6-(delta(2)-isopentenyl)-adenosine (MS[2]I[6]A)
+    adjacent to the anticodon of several tRNA species (By similarity).
+-!- CATALYTIC ACTIVITY: Isopentenyl diphosphate + tRNA = diphosphate +
+    tRNA containing 6-isopentenyladenosine.
+-!- SIMILARITY: Belongs to the IPP transferase family.
+ATP-binding; Complete proteome; Nucleotide-binding;
+Nucleotidyltransferase; Transferase; tRNA processing.
+TMZERO

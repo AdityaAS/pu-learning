@@ -1,0 +1,17 @@
+AC   Q37975;
+Holin.
+"Heterogeneous endolysins in Listeria monocytogenes bacteriophages: a
+new class of enzymes and evidence for conserved holin genes within the
+siphoviral lysis cassettes.";
+"Complete nucleotide sequence, molecular analysis and genome structure
+of bacteriophage A118 of Listeria monocytogenes: implications for
+phage evolution.";
+-!- FUNCTION: Induces host cell lysis by causing formation of pores in
+    the membrane.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: There are 2 possible initiation sites, Met-1 and
+    Met-4, which could result in 2 different length proteins. The
+    longer form might inhibit the expression of the shorter.
+Membrane; Phage lysis protein; Transmembrane.
+THTHREE

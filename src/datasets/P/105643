@@ -1,0 +1,17 @@
+AC   P0A4G5; Q9A157; Q9RNI7; Q9RNJ0;
+Metal ABC transporter substrate-binding lipoprotein precursor.
+"Genome sequence of a serotype M3 strain of group A Streptococcus:
+phage-encoded toxins, the high-virulence phenotype, and clone
+emergence.";
+"Genome sequence of an M3 strain of Streptococcus pyogenes reveals a
+large-scale genomic rearrangement in invasive strains and new insights
+into phage evolution.";
+-!- FUNCTION: Part of an ATP-driven transport system for a metal; this
+    protein has affinity for Zn(2+), Fe(3+) and Cu(2+).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor.
+-!- SIMILARITY: Belongs to the bacterial solute-binding protein 9
+    family. Lipoprotein receptor antigen (Lrai) subfamily.
+Complete proteome; Copper; Copper transport; Ion transport; Iron;
+Iron transport; Lipoprotein; Membrane; Palmitate; Signal; Transport;
+Zinc; Zinc transport.
+TMZERO

@@ -1,0 +1,10 @@
+AC   Q44360;
+Conjugal transfer protein traG.
+"The conjugal transfer system of Agrobacterium tumefaciens octopine-
+type Ti plasmids is closely related to the transfer system of an IncP
+plasmid and distantly related to Ti plasmid vir genes.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the virD4/traG family.
+Conjugation; Membrane; Plasmid; Transmembrane.
+TMSIX

@@ -1,0 +1,10 @@
+AC   P10192;
+DNA helicase/primase complex-associated protein.
+"The complete DNA sequence of the long unique region in the genome of
+herpes simplex virus type 1.";
+"Structures of herpes simplex virus type 1 genes required for
+replication of virus DNA.";
+-!- FUNCTION: Probably involved in DNA replication.
+-!- SIMILARITY: Belongs to the herpesviruses HEPA family.
+DNA replication.
+TMZERO

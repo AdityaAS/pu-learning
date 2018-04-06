@@ -1,0 +1,14 @@
+AC   Q48KR3;
+Cell division protein zipA homolog.
+"Whole-genome sequence analysis of Pseudomonas syringae pv.
+phaseolicola 1448A reveals divergence among pathovars in genes
+involved in virulence and transposition.";
+-!- FUNCTION: Interacts directly with the cell division protein ftsZ.
+    Probable receptor for the septal ring structure, may anchor it to
+    the inner-membrane (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass type I
+    membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the zipA family.
+Cell cycle; Cell division; Complete proteome; Inner membrane;
+Membrane; Septation; Transmembrane.
+TMONE

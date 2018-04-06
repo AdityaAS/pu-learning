@@ -1,0 +1,16 @@
+AC   P0C0G6; P50467; P68776;
+Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12) (GAPDH)
+(Plasminogen-binding protein) (Plasmin receptor).
+"Cloning, sequence analysis, and expression in Escherichia coli of a
+streptococcal plasmin receptor.";
+-!- FUNCTION: Also binds human plasminogen.
+-!- CATALYTIC ACTIVITY: D-glyceraldehyde 3-phosphate + phosphate +
+    NAD(+) = 3-phospho-D-glyceroyl phosphate + NADH.
+-!- PATHWAY: Carbohydrate degradation; glycolysis; pyruvate from D-
+    glyceraldehyde 3-phosphate: step 1.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the glyceraldehyde-3-phosphate
+    dehydrogenase family.
+Direct protein sequencing; Glycolysis; NAD; Oxidoreductase.
+TMZERO

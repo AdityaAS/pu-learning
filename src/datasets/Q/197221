@@ -1,0 +1,24 @@
+AC   Q69BK5;
+Ubiquinol-cytochrome c reductase iron-sulfur subunit, mitochondrial
+precursor (EC 1.10.2.2) (Rieske iron-sulfur protein) (RISP).
+"Molecular evolution of the iron sulfur protein and subunit 9 of
+complex III of the electron transport chain in primates.";
+-!- FUNCTION: Component of the ubiquinol-cytochrome c reductase
+    complex (complex III or cytochrome b-c1 complex), which is a
+    respiratory chain that generates an electrochemical potential
+    coupled to ATP synthesis (By similarity).
+-!- CATALYTIC ACTIVITY: QH(2) + 2 ferricytochrome c = Q + 2
+    ferrocytochrome c.
+-!- COFACTOR: Binds 1 2Fe-2S cluster per subunit (By similarity).
+-!- SUBUNIT: The bc1 complex contains 11 subunits; 3 respiratory
+    subunits (cytochrome b, cytochrome c1, Rieske protein), 2 core
+    proteins and 6 low-molecular weight proteins (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane
+    (By similarity).
+-!- MISCELLANEOUS: The Rieske protein is a high potential 2Fe-2S
+    protein.
+-!- SIMILARITY: Contains 1 Rieske domain.
+2Fe-2S; Electron transport; Inner membrane; Iron; Iron-sulfur;
+Membrane; Metal-binding; Mitochondrion; Oxidoreductase;
+Respiratory chain; Transit peptide; Transmembrane; Transport.
+TMZERO

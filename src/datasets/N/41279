@@ -1,0 +1,16 @@
+AC   P47844;
+Carbonyl reductase [NADPH] 1 (EC 1.1.1.184) (NADPH-dependent carbonyl
+reductase 1).
+"Cloning and expression of the cDNA encoding rabbit liver carbonyl
+reductase.";
+-!- FUNCTION: Catalyzes the reduction of a wide variety of carbonyl
+    compounds including the antitumor anthracycline antibiotics.
+-!- CATALYTIC ACTIVITY: R-CHOH-R' + NADP(+) = R-CO-R' + NADPH.
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- TISSUE SPECIFICITY: Present in liver and kidney.
+-!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+    (SDR) family.
+ GO:0004090; F:carbonyl reductase (NADPH) activity; IEA:EC.
+NADP; Oxidoreductase.
+TMZERO

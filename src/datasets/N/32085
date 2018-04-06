@@ -1,0 +1,20 @@
+AC   Q10568;
+Cleavage and polyadenylation specificity factor subunit 2 (Cleavage
+and polyadenylation specificity factor 100 kDa subunit) (CPSF 100 kDa
+subunit).
+"Characterization of cleavage and polyadenylation specificity factor
+and cloning of its 100-kilodalton subunit.";
+-!- FUNCTION: Component of the cleavage and polyadenylation
+    specificity factor (CPSF) complex that play a key role in pre-mRNA
+    3'-end formation, recognizing the AAUAAA signal sequence and
+    interacting with poly(A) polymerase and other factors to bring
+    about cleavage and poly(A) addition (By similarity).
+-!- SUBUNIT: Component of the cleavage and polyadenylation specificity
+    factor (CPSF) complex, composed of CPSF1, CPSF2, CPSF3, CPSF4 and
+    FIP1L1 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- SIMILARITY: Belongs to the RNA-metabolizing metallo-beta-
+    lactamase-like family. CPSF2/YSH1 subfamily.
+Direct protein sequencing; mRNA processing; Nuclear protein;
+Phosphorylation; RNA-binding.
+TMZERO

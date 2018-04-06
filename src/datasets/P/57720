@@ -1,0 +1,24 @@
+AC   P10121; Q2M7C7;
+Cell division protein ftsY.
+"A new cell division operon in Escherichia coli.";
+"Analysis of the Escherichia coli genome. V. DNA sequence of the
+region from 76.0 to 81.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The identification of the Escherichia coli ftsY gene product: an
+unusual protein.";
+"An alternative protein targeting pathway in Escherichia coli: studies
+on the role of FtsY.";
+"Crystal structure of the NG domain from the signal-recognition
+particle receptor FtsY.";
+-!- FUNCTION: Functional homolog of SRP receptor. Probably involved in
+    the reception and insertion of a subset of proteins at the
+    cytoplasmic membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the GTP-binding SRP family.
+3D-structure; Cell cycle; Cell division; Complete proteome;
+GTP-binding; Inner membrane; Membrane; Nucleotide-binding;
+Ribonucleoprotein; RNA-binding; Signal recognition particle.
+TMZERO

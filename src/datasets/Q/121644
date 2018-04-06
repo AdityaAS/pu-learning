@@ -1,0 +1,19 @@
+AC   Q96RD6; Q96RD5; Q9UGX8;
+Pannexin-2.
+"The mammalian pannexin family is homologous to the invertebrate
+innexin gap junction proteins.";
+"The DNA sequence of human chromosome 22.";
+-!- FUNCTION: Structural component of the gap junctions.
+-!- SUBUNIT: Forms heteromeric channels with PANX1. Does not form
+    homomeric channels (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q96RD6-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q96RD6-2; Sequence=VSP_002677;
+-!- SIMILARITY: Belongs to the pannexin family.
+Alternative splicing; Gap junction; Membrane; Transmembrane.
+TMFOUR

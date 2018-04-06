@@ -1,0 +1,34 @@
+AC   P38967;
+Tryptophan permease (Tryptophan amino acid transporter).
+"Two FK506 resistance-conferring genes in Saccharomyces cerevisiae,
+TAT1 and TAT2, encode amino acid permeases mediating tyrosine and
+tryptophan uptake.";
+"SCM2, a tryptophan permease in Saccharomyces cerevisiae, is important
+for cell growth.";
+"Cloning and nucleotide sequence of a gene conferring ability to grow
+at a low temperature on Saccharomyces cerevisiae tryptophan
+auxotroph.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Cysteine uptake by Saccharomyces cerevisiae is accomplished by
+multiple permeases.";
+"Substrate specificity and gene expression of the amino-acid permeases
+in Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Required for high-affinity tryptophan transport. Also
+    transports cysteine, phenyalanine and tyrosine.
+-!- INTERACTION:
+    P10592:SSA2; NbExp=1; IntAct=EBI-18970, EBI-8603;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 752 molecules/cell.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. YAT (TC 2.A.3.10) family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0015173; F:aromatic amino acid transporter activity; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015801; P:aromatic amino acid transport; IDA:SGD.
+ GO:0000723; P:telomere maintenance; IMP:SGD.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTWELVE

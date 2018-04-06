@@ -1,0 +1,12 @@
+AC   P47529;
+Acyl carrier protein homolog (ACP).
+"The minimal gene complement of Mycoplasma genitalium.";
+-!- FUNCTION: Carrier of the growing fatty acid chain in fatty acid
+    biosynthesis (By similarity).
+-!- PATHWAY: De novo fatty acid biosynthesis.
+-!- PTM: 4'-phosphopantetheine is transferred from CoA to a specific
+    serine of the apo-ACP-like protein (Potential).
+-!- SIMILARITY: Contains 1 acyl carrier domain.
+Complete proteome; Fatty acid biosynthesis; Hypothetical protein;
+Lipid synthesis; Phosphopantetheine.
+TMZERO

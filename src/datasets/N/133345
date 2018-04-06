@@ -1,0 +1,25 @@
+AC   P93395;
+Proteasome subunit beta type 6 precursor (EC 3.4.25.1) (Proteasome
+delta chain) (Tobacco cryptogein-induced protein 7) (tcI 7).
+"Cloning of two plant cDNAs encoding a beta-type proteasome subunit
+and a transformer-2-like SR-related protein: early induction of the
+corresponding genes in tobacco cells treated with cryptogein.";
+"Induction of tcI 7, a gene encoding a beta-subunit of proteasome, in
+tobacco plants treated with elicitins, salicylic acid or hydrogen
+peroxide.";
+-!- FUNCTION: The proteasome is a multicatalytic proteinase complex
+    which is characterized by its ability to cleave peptides with Arg,
+    Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or
+    slightly basic pH. The proteasome has an ATP-dependent proteolytic
+    activity.
+-!- CATALYTIC ACTIVITY: Cleavage of peptide bonds with very broad
+    specificity.
+-!- SUBUNIT: The proteasome is composed of at least 15 non identical
+    subunits which form a highly ordered ring-shaped structure.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Nucleus (By
+    similarity).
+-!- INDUCTION: Up-regulated by elicitins (cryptogein and
+    parasiticein), salicylic acid (SA) and hydrogen peroxide.
+-!- SIMILARITY: Belongs to the peptidase T1B family.
+Hydrolase; Protease; Proteasome; Threonine protease; Zymogen.
+TMZERO

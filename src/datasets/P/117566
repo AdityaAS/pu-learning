@@ -1,0 +1,17 @@
+AC   P0A4N5; P35119;
+Octopine transport system permease protein occQ.
+"Characterization of a putative periplasmic transport system for
+octopine accumulation encoded by Agrobacterium tumefaciens Ti plasmid
+pTiA6.";
+"Opine transport genes in the octopine (occ) and nopaline (noc)
+catabolic regions in Ti plasmids of Agrobacterium tumefaciens.";
+-!- FUNCTION: Component of the octopine active transport system
+    probably consisting of four subunits: Q, M, P and T.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- INDUCTION: By octopine.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. HisMQ subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Inner membrane; Membrane; Plasmid; Transmembrane; Transport.
+TMFOUR

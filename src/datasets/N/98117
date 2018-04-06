@@ -1,0 +1,9 @@
+AC   P26034;
+Matrix protein.
+"Subacute sclerosing panencephalitis is typically characterized by
+alterations in the fusion protein cytoplasmic domain of the persisting
+measles virus.";
+-!- FUNCTION: The M protein has a crucial role in virus assembly and
+    interacts with the RNP complex as well as with the viral membrane.
+Envelope protein; Viral matrix protein; Virion protein.
+TMZERO

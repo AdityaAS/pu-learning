@@ -1,0 +1,43 @@
+AC   Q63279; Q5M7V2; Q6S6J4; Q9Z253;
+Keratin, type I cytoskeletal 19 (Cytokeratin-19) (CK-19) (Keratin-19)
+(K19) (Type I keratin Ka19).
+"Cloning and characterization of cytokeratins 8 and 19 in adult rat
+striated muscle. Interaction with the dystrophin glycoprotein
+complex.";
+"Genome sequence of the Brown Norway rat yields insights into
+mammalian evolution.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Sex-dependent expression of keratin 19 in differentiating fetal rat
+gonads. Repressive effect of anti-Mullerian hormone on K19 gene
+transcription.";
+"Switch in the expression of the K19/K18 keratin genes as a very early
+evidence of testicular differentiation in the rat.";
+"Comprehensive analysis of keratin gene clusters in humans and
+rodents.";
+"Quantitative phosphoproteomics of vasopressin-sensitive renal cells:
+regulation of aquaporin-2 phosphorylation at two sites.";
+-!- FUNCTION: Involved in the organization of myofibers. Together with
+    KRT8, helps to link the contractile apparatus to dystrophin at the
+    costameres of striated muscle (By similarity).
+-!- SUBUNIT: Heterotetramer of two type I and two type II keratins.
+    Interacts with PNN (By similarity). Interacts with the actin-
+    binding domain of DMD.
+-!- INTERACTION:
+    P11530:Dmd; NbExp=1; IntAct=EBI-876985, EBI-706166;
+-!- TISSUE SPECIFICITY: Expressed in brain, heart, skin and in
+    costameres of myoplasm at the sarcolemmal membrane in skeletal and
+    cardiac muscle fibers. Undifferentiated gonads and somatic cells
+    of ovarian cords throughout the fetal ovary development.
+-!- DEVELOPMENTAL STAGE: Found in somatic cells of ovarian cords
+    throughout the fetal ovary development.
+-!- DOMAIN: This keratin differs from all other IF proteins in lacking
+    the C-terminal tail domain.
+-!- MISCELLANEOUS: There are two types of cytoskeletal and
+    microfibrillar keratin, I (acidic; 40-55 kDa) [K9 to K20] and II
+    (neutral to basic; 56-70 kDa) [K1 to K8].
+-!- SIMILARITY: Belongs to the intermediate filament family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Coiled coil; Direct protein sequencing; Intermediate filament;
+Keratin; Phosphorylation.
+TMZERO

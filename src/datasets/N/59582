@@ -1,0 +1,36 @@
+AC   Q8MRC9; Q0E950; Q9V7T0;
+Putative polypeptide N-acetylgalactosaminyltransferase 9 (EC 2.4.1.41)
+(Protein-UDP acetylgalactosaminyltransferase 9) (UDP-
+GalNAc:polypeptide N-acetylgalactosaminyltransferase 9) (pp-GaNTase
+9).
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+-!- FUNCTION: May catalyze the initial reaction in O-linked
+    oligosaccharide biosynthesis, the transfer of an N-acetyl-D-
+    galactosamine residue to a serine or threonine residue on the
+    protein receptor (By similarity).
+-!- CATALYTIC ACTIVITY: UDP-N-acetyl-D-galactosamine + polypeptide =
+    UDP + N-acetyl-D-galactosaminyl-polypeptide.
+-!- COFACTOR: Manganese (By similarity).
+-!- COFACTOR: Calcium (By similarity).
+-!- PATHWAY: Glycosylation.
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type II membrane protein (By similarity).
+-!- DOMAIN: There are two conserved domains in the glycosyltransferase
+    region: the N-terminal domain (domain A, also called GT1 motif),
+    which is probably involved in manganese coordination and substrate
+    binding and the C-terminal domain (domain B, also called
+    Gal/GalNAc-T motif), which is probably involved in catalytic
+    reaction and UDP-Gal binding (By similarity).
+-!- DOMAIN: The ricin B-type lectin domain binds to GalNAc and
+    contributes to the glycopeptide specificity (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 2 family. GalNAc-T
+    subfamily.
+-!- SIMILARITY: Contains 1 ricin B-type lectin domain.
+ GO:0004653; F:polypeptide N-acetylgalactosaminyltransfera...; IEA:EC.
+Calcium; Complete proteome; Glycoprotein; Glycosyltransferase;
+Golgi apparatus; Lectin; Manganese; Membrane; Signal-anchor;
+Transferase; Transmembrane.
+TMONE

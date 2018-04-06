@@ -1,0 +1,23 @@
+AC   P35526;
+Chloride intracellular channel protein 5 (Chlorine channel protein
+p64).
+"Molecular cloning and characterization of p64, a chloride channel
+protein from kidney microsomes.";
+"A 29 kDa intracellular chloride channel p64H1 is associated with
+large dense-core vesicles in rat hippocampal neurons.";
+-!- FUNCTION: Voltage-gated chloride channel which mediates the
+    control of membrane potential and the regulation of
+    transepithelial ion absorption and secretion.
+-!- SUBCELLULAR LOCATION: Note=Intracellular organelles.
+-!- TISSUE SPECIFICITY: Expressed in most tissues. Higher levels found
+    in kidney, heart, skeletal muscle, T84 and PANC-1 cells.
+-!- PTM: Phosphorylated (Probable).
+-!- SIMILARITY: Belongs to the chloride channel CLIC family.
+ GO:0016023; C:cytoplasmic membrane-bound vesicle; TAS:UniProtKB.
+ GO:0005792; C:microsome; TAS:UniProtKB.
+ GO:0005886; C:plasma membrane; TAS:UniProtKB.
+ GO:0005254; F:chloride channel activity; TAS:UniProtKB.
+ GO:0006821; P:chloride transport; TAS:UniProtKB.
+Chloride; Chloride channel; Ion transport; Ionic channel;
+Phosphorylation; Repeat; Transport; Voltage-gated channel.
+TMZERO

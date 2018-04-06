@@ -1,0 +1,25 @@
+AC   P48765;
+Sodium/calcium exchanger 1 precursor (Na(+)/Ca(2+)-exchange protein
+1).
+"Cloning and expression of the bovine cardiac sodium-calcium
+exchanger.";
+"Purification and amino-terminal sequence of the bovine cardiac
+sodium-calcium exchanger: evidence for the presence of a signal
+sequence.";
+"Identification of the sodium-calcium exchanger as the major ricin-
+binding glycoprotein of bovine rod outer segments and its localization
+to the plasma membrane.";
+-!- FUNCTION: Rapidly transports Ca(2+) during excitation-contraction
+    coupling. Ca(2+) is extruded from the cell during relaxation so as
+    to prevent overloading of intracellular stores.
+-!- ENZYME REGULATION: By ATP.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Cardiac sarcolemma.
+-!- SIMILARITY: Belongs to the sodium/potassium/calcium exchanger
+    family. SLC8 subfamily.
+-!- SIMILARITY: Contains 2 Calx-beta domains.
+Antiport; Calcium; Calcium transport; Calmodulin-binding;
+Direct protein sequencing; Glycoprotein; Ion transport; Membrane;
+Phosphorylation; Repeat; Signal; Sodium; Sodium transport;
+Transmembrane; Transport.
+TMELEVEN

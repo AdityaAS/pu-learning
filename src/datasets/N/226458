@@ -1,0 +1,9 @@
+AC   P36157;
+Hypothetical 39.9 kDa protein in SIS2-MTD1 intergenic region.
+"Complete DNA sequence of yeast chromosome XI.";
+"Global analysis of protein expression in yeast.";
+-!- MISCELLANEOUS: Present with 861 molecules/cell.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005634; C:nucleus; IDA:SGD.
+Complete proteome; Hypothetical protein.
+TMZERO

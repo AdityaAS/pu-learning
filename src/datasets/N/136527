@@ -1,0 +1,23 @@
+AC   Q8FF26;
+Phosphoribosylformylglycinamidine synthase (EC 6.3.5.3) (FGAM
+synthase) (FGAMS) (Formylglycinamide ribotide amidotransferase)
+(FGARAT) (Formylglycinamide ribotide synthetase).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- CATALYTIC ACTIVITY: ATP + 2-N-formyl-1-N-(5-phospho-D-
+    ribosyl)glycinamide + L-glutamine + H(2)O = ADP + phosphate + 2-
+    (formamido)-1-N-(5-phospho-D-ribosyl)acetamidine + L-glutamate.
+-!- PATHWAY: Nucleotide biosynthesis; IMP biosynthesis; 5-amino-1-(5-
+    phospho-D-ribosyl)imidazole-4-carboxamide from 2-N-formyl-1-N-(5-
+    phospho-D-ribosyl)glycinamide: step 1.
+-!- PATHWAY: Context: Purine biosynthesis.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: In the N-terminal section; belongs to the FGAMS
+    family.
+-!- SIMILARITY: Contains 1 glutamine amidotransferase type-1 domain.
+ GO:0005524; F:ATP binding; IEA:HAMAP.
+ GO:0006164; P:purine nucleotide biosynthesis; IEA:HAMAP.
+ATP-binding; Complete proteome; Glutamine amidotransferase; Ligase;
+Nucleotide-binding; Purine biosynthesis.
+TMZERO

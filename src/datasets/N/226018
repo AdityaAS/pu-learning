@@ -1,0 +1,16 @@
+AC   P47131;
+Hypothetical 11.3 kDa protein in MIR1-STE18 intergenic region.
+"Analysis of a 62 kb DNA sequence of chromosome X reveals 36 open
+reading frames and a gene cluster with a counterpart on chromosome
+XI.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Global analysis of protein expression in yeast.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- MISCELLANEOUS: Present with 2100 molecules/cell.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+Complete proteome; Hypothetical protein; Membrane; Transmembrane.
+THTHREE

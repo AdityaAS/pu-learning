@@ -1,0 +1,28 @@
+AC   Q91VS8; Q3TAP2; Q69ZZ0;
+FERM, RhoGEF and pleckstrin domain-containing protein 2 (FERM domain
+including RhoGEF) (FIR).
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Prediction of the coding sequences of mouse homologues of KIAA gene:
+IV. The complete nucleotide sequences of 500 mouse KIAA-homologous
+cDNAs identified by screening of terminal sequences of cDNA clones
+randomly sampled from size-fractionated libraries.";
+"A novel FERM domain including guanine nucleotide exchange factor is
+involved in Rac signaling and regulates neurite remodeling.";
+"FARP2 triggers signals for Sema3A-mediated axonal repulsion.";
+-!- FUNCTION: Rho-guanine nucleotide exchange factor that activates
+    RAC1. Plays a role in the response to class 3 semaphorins and
+    remodeling of the actin cytoskeleton.
+-!- SUBUNIT: Interacts with PLXNA1. Interaction with PLXNA1 or PIP5K1C
+    lowers its guanine nucleotide exchange activity. Dissociates from
+    PLXNA1 when SEMA3A binds to the receptor. Interacts with PIP5K1C
+    via its FERM domain. The interaction with PIP5K1C is enhanced by
+    SEMA3A binding.
+-!- TISSUE SPECIFICITY: Detected in adult brain, lung and testis.
+    Detected in embryonic hippocampus and brain cortex.
+-!- SIMILARITY: Contains 1 DH (DBL-homology) domain.
+-!- SIMILARITY: Contains 1 FERM domain.
+-!- SIMILARITY: Contains 2 PH domains.
+Guanine-nucleotide releasing factor; Repeat.
+TMZERO

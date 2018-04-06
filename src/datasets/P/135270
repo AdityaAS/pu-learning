@@ -1,0 +1,28 @@
+AC   P0AGH8; P07653; Q2M845;
+Phosphate transport system permease protein pstC.
+"Nucleotide sequence of the genes involved in phosphate transport and
+regulation of the phosphate regulon in Escherichia coli.";
+"Phosphate-specific transport system of Escherichia coli: nucleotide
+sequence and gene-polypeptide relationships.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Mutational analysis of the Escherichia coli phosphate-specific
+transport system, a member of the traffic ATPase (or ABC) family of
+membrane transporters. A role for proline residues in transmembrane
+helices.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for phosphate; probably responsible for the translocation of the
+    substrate across the membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. CysTW subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Complete proteome; Inner membrane; Membrane; Phosphate transport;
+Transmembrane; Transport.
+TMSIX

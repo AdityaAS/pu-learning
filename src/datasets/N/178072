@@ -1,0 +1,17 @@
+AC   O30298;
+Inositol-1-monophosphatase (EC 3.1.3.25) (IMPase) (Inositol-1-
+phosphatase) (I-1-Pase).
+"The complete genome sequence of the hyperthermophilic, sulphate-
+reducing archaeon Archaeoglobus fulgidus.";
+"Overexpression, purification, and analysis of complementation
+behavior of E. coli SuhB protein: comparison with bacterial and
+archaeal inositol monophosphatases.";
+"Crystal structure of a dual activity IMPase/FBPase (AF2372) from
+Archaeoglobus fulgidus. The story of a mobile loop.";
+-!- CATALYTIC ACTIVITY: Myo-inositol phosphate + H(2)O = myo-inositol
+    + phosphate.
+-!- COFACTOR: Magnesium (By similarity).
+-!- SIMILARITY: Belongs to the inositol monophosphatase family.
+ GO:0008934; F:inositol-1(or 4)-monophosphatase activity; IEA:EC.
+3D-structure; Complete proteome; Hydrolase; Magnesium; Metal-binding.
+TMZERO

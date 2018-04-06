@@ -1,0 +1,36 @@
+AC   Q91009;
+High affinity nerve growth factor receptor precursor (EC 2.7.10.1)
+(Neurotrophic tyrosine kinase receptor type 1) (Trk-A) (Fragment).
+"Molecular cloning of the chicken trkA and its expression in early
+peripheral ganglia.";
+-!- FUNCTION: Required for high-affinity binding to nerve growth
+    factor (NGF), neurotrophin-3 and neurotrophin-4/5 but not brain-
+    derived neurotrophic factor (BDNF). Known substrates for the Trk
+    receptors are SHC1, PI 3-kinase, and PLC-gamma-1 (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + a [protein]-L-tyrosine = ADP + a
+    [protein]-L-tyrosine phosphate.
+-!- SUBUNIT: Exists in a dynamic equilibrium between monomeric (low
+    affinity) and dimeric (high affinity) structures (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=1;
+      Comment=2 isoforms are produced;
+    Name=1;
+      IsoId=Q91009-1; Sequence=Displayed;
+-!- DEVELOPMENTAL STAGE: Expressed in the condensing dorsal root
+    ganglia at embryonal day 3, and in the primary sympathetic chain
+    ganglia at embryonal day 4.
+-!- PTM: Ligand-mediated auto-phosphorylation (By similarity).
+-!- SIMILARITY: Belongs to the Tyr protein kinase family. Insulin
+    receptor subfamily.
+-!- SIMILARITY: Contains 2 Ig-like C2-type (immunoglobulin-like)
+    domains.
+-!- SIMILARITY: Contains 2 LRR (leucine-rich) repeats.
+-!- SIMILARITY: Contains 1 protein kinase domain.
+Alternative splicing; ATP-binding; Developmental protein;
+Differentiation; Glycoprotein; Immunoglobulin domain; Kinase;
+Leucine-rich repeat; Membrane; Neurogenesis; Nucleotide-binding;
+Phosphorylation; Receptor; Repeat; Signal; Transferase; Transmembrane;
+Tyrosine-protein kinase.
+TMONE

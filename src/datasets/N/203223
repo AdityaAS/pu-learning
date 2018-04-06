@@ -1,0 +1,11 @@
+AC   P13289;
+Glycoprotein E precursor (Fragment).
+"DNA sequence and genetic content of the HindIII l region in the short
+unique component of the herpes simplex virus type 2 genome:
+identification of the gene encoding glycoprotein G, and evolutionary
+comparisons.";
+-!- MISCELLANEOUS: There are seven external glycoproteins in HSV-1 and
+    2: gH, gB, gC, gG, gD, gI, and gE.
+-!- SIMILARITY: Belongs to the herpesviruses glycoprotein E family.
+Glycoprotein; Signal.
+TMZERO

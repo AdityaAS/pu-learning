@@ -1,0 +1,18 @@
+AC   Q3A2G3;
+Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13) (UDP-
+MurNAc-pentapeptide phosphotransferase).
+"Complete sequence of Pelobacter carbinolicus DSM 2380.";
+-!- FUNCTION: First step of the lipid cycle reactions in the
+    biosynthesis of the cell wall peptidoglycan (By similarity).
+-!- CATALYTIC ACTIVITY: UDP-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-
+    D-Ala) + undecaprenyl phosphate = UMP + Mur2Ac(oyl-L-Ala-gamma-D-
+    Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 4 family. MraY
+    subfamily.
+Cell cycle; Cell division; Cell shape; Cell wall; Complete proteome;
+Inner membrane; Membrane; Peptidoglycan synthesis; Transferase;
+Transmembrane.
+TMTEN

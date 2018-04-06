@@ -1,0 +1,18 @@
+AC   P53099;
+Vitamin B6 transporter TPN1 (Transport of pyridoxine protein 1).
+"Tpn1p, the plasma membrane vitamin B6 transporter of Saccharomyces
+cerevisiae.";
+"Sequencing of a 40.5 kb fragment located on the left arm of
+chromosome VII from Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Thiamine-regulated, high affinity import carrier of
+    pyridoxine, pyridoxal and pyridoxamine.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the purine-cytosine permease family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0051183; F:vitamin transporter activity; IDA:SGD.
+ GO:0051180; P:vitamin transport; IDA:SGD.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTWELVE

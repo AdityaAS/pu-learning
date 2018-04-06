@@ -1,0 +1,11 @@
+AC   P22158;
+Protein E6.
+"A comparative sequence analysis of two human papillomavirus (HPV)
+types 2a and 57.";
+-!- FUNCTION: Transcriptional transactivator. Binds double stranded
+    DNA (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nuclear matrix (By similarity).
+-!- SIMILARITY: Belongs to the papillomaviruses E6 protein family.
+Activator; DNA-binding; Early protein; Metal-binding; Nuclear protein;
+Transcription; Transcription regulation; Zinc; Zinc-finger.
+TMZERO

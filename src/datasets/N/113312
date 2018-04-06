@@ -1,0 +1,19 @@
+AC   Q87PH8;
+NAD-dependent deacetylase (EC 3.5.1.-) (Regulatory protein SIR2
+homolog).
+"Genome sequence of Vibrio parahaemolyticus: a pathogenic mechanism
+distinct from that of V. cholerae.";
+-!- FUNCTION: Modulates the activities of several enzymes which are
+    inactive in their acetylated form (By similarity).
+-!- CATALYTIC ACTIVITY: NAD(+) + an acetylprotein = nicotinamide + O-
+    acetyl-ADP-ribose + a protein.
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- SIMILARITY: Belongs to the sirtuin family.
+-!- SIMILARITY: Contains 1 deacetylase sirtuin-type domain.
+ GO:0019213; F:deacetylase activity; IEA:HAMAP.
+ GO:0017136; F:NAD-dependent histone deacetylase activity; IEA:HAMAP.
+ GO:0030528; F:transcription regulator activity; IEA:HAMAP.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Complete proteome; Hydrolase; Metal-binding; NAD; Zinc.
+TMZERO

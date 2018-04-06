@@ -1,0 +1,33 @@
+AC   P10408; P75642;
+Preprotein translocase secA subunit.
+"Nucleotide sequence of the secA gene and secA(Ts) mutations
+preventing protein export in Escherichia coli.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Sequence analysis, transcriptional organization, and insertional
+mutagenesis of the envA gene of Escherichia coli.";
+"SecA protein hydrolyzes ATP and is an essential component of the
+protein translocation ATPase of Escherichia coli.";
+"Control of SecA and SecM translation by protein secretion.";
+-!- FUNCTION: Involved in protein export. Interacts with the secY/secE
+    subunits. SecA has a central role in coupling the hydrolysis of
+    ATP to the transfer of pre-secretory periplasmic and outer
+    membrane proteins across the membrane.
+-!- SUBUNIT: Part of the prokaryotic protein translocation apparatus
+    which comprise secA, secB, secD, secE, secF, secG and secY.
+-!- INTERACTION:
+    P0AGA2:secY; NbExp=1; IntAct=EBI-543213, EBI-761422;
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein;
+    cytoplasmic side.
+-!- INDUCTION: Repressed under conditions of excess protein secretion
+    capacity and derepressed when protein secretion become limiting.
+    This is regulated by secM.
+-!- SIMILARITY: Belongs to the secA family.
+ GO:0005737; C:cytoplasm; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; ATP-binding; Complete proteome; Membrane;
+Nucleotide-binding; Protein transport; Translocation; Transport.
+TMZERO

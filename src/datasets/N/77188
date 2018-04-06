@@ -1,0 +1,12 @@
+AC   Q7VKB4;
+ATP-dependent protease hslV (EC 3.4.25.-).
+"The complete genome sequence of Haemophilus ducreyi.";
+-!- FUNCTION: Protease subunit of a proteasome-like degradation
+    complex (By similarity).
+-!- SUBUNIT: A double ring-shaped homohexamer of hslV is capped on
+    each side by a ring-shaped hslU homohexamer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the peptidase T1B family. HslV subfamily.
+ GO:0009377; F:HslUV protease activity; IEA:HAMAP.
+Complete proteome; Hydrolase; Protease; Threonine protease.
+TMZERO

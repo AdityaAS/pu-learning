@@ -1,0 +1,25 @@
+AC   P03365;
+Pol polyprotein [Contains: Reverse transcriptase/ribonuclease H
+(EC 2.7.7.49) (EC 3.1.26.4) (RT); Integrase (IN)].
+"Complete nucleotide sequence of a milk-transmitted mouse mammary
+tumor virus: two frameshift suppression events are required for
+translation of gag and pol.";
+"Major pol gene progenitors in the evolution of oncoviruses.";
+-!- FUNCTION: During replicative cycle of retroviruses, the reverse-
+    transcribed viral DNA is integrated into the host chromosome by
+    the viral integrase enzyme. RNase H activity is associated with
+    the reverse transcriptase.
+-!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+    diphosphate + DNA(n+1).
+-!- PTM: Specific enzymatic cleavages in vivo yield mature proteins.
+-!- SIMILARITY: Belongs to the retroviral Pol polyprotein family.
+-!- SIMILARITY: Contains 1 integrase catalytic domain.
+-!- SIMILARITY: Contains 1 integrase-type DNA-binding domain.
+-!- SIMILARITY: Contains 1 integrase-type zinc finger.
+-!- SIMILARITY: Contains 1 reverse transcriptase domain.
+-!- SIMILARITY: Contains 1 RNase H domain.
+DNA integration; DNA recombination; Endonuclease; Hydrolase;
+Metal-binding; Multifunctional enzyme; Nuclease;
+Nucleotidyltransferase; RNA-directed DNA polymerase; Transferase;
+Zinc; Zinc-finger.
+TMZERO

@@ -1,0 +1,14 @@
+AC   Q92SN3;
+Glutathione synthetase (EC 6.3.2.3) (Glutathione synthase) (GSH
+synthetase) (GSH-S) (GSHase).
+"Analysis of the chromosome sequence of the legume symbiont
+Sinorhizobium meliloti strain 1021.";
+-!- CATALYTIC ACTIVITY: ATP + gamma-L-glutamyl-L-cysteine + glycine =
+    ADP + phosphate + glutathione.
+-!- PATHWAY: Sulfur metabolism; glutathione biosynthesis; glutathione
+    from L-cysteine and L-glutamate: step 2 [final step].
+-!- SIMILARITY: Belongs to the prokaryotic GSH synthase family.
+-!- SIMILARITY: Contains 1 ATP-grasp domain.
+ATP-binding; Complete proteome; Glutathione biosynthesis; Ligase;
+Nucleotide-binding.
+TMZERO

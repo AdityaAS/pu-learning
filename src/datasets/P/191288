@@ -1,0 +1,19 @@
+AC   P49133;
+Triose phosphate/phosphate translocator, chloroplast precursor (cTPT).
+"Cloning and in vivo expression of functional triose
+phosphate/phosphate translocators from C3- and C4-plants: evidence for
+the putative participation of specific amino acid residues in the
+recognition of phosphoenolpyruvate.";
+-!- FUNCTION: Mediates the export of fixed carbons from the
+    chloroplasts into the cytosol in the form of triose phosphates. In
+    addition, it can also bind and transport phosphoenolpyruvate,
+    thereby increasing the photosynthetic efficiency of C4-plants.
+-!- SUBUNIT: Homodimer.
+-!- SUBCELLULAR LOCATION: Plastid; chloroplast; chloroplast membrane;
+    multi-pass membrane protein. Note=Located in zones of contact
+    between the inner and outer membrane of the chloroplast.
+-!- SIMILARITY: Belongs to the TPT transporter family. TPT
+    (TC 2.A.7.9.1) subfamily.
+Chloroplast; Direct protein sequencing; Membrane; Plastid;
+Transit peptide; Transmembrane; Transport.
+TMFIVE

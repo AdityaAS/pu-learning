@@ -1,0 +1,21 @@
+AC   Q9QZA1;
+Pleckstrin homology-like domain family A member 1 (Proline- and
+glutamine-rich protein) (PQR protein).
+"A proline- and glutamine-rich protein promotes apoptosis in neuronal
+cells.";
+-!- FUNCTION: Seems to be involved in regulation of apoptosis. May be
+    involved in detachment-mediated programmed cell death. May mediate
+    apoptosis during neuronal development. May be involved in
+    regulation of anti-apoptotic effects of IGF1. May be involved in
+    translational regulation.
+-!- SUBUNIT: Interacts with RPL14, EIF3S7 and PABPC4 (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity). Cytoplasmic
+    vesicle; cytoplasmic vesicle membrane. Nucleus; nucleolus (By
+    similarity). Note=Colocalizes with intracellular vesicles.
+-!- DEVELOPMENTAL STAGE: Expression increases during embryonal
+    development at embryonic days E11, E15 and E17.
+-!- INDUCTION: Induced by FGF in a hippocampal progenitor cell line.
+    Induced by FGF and EGF in a CNS neuronal cell line.
+-!- SIMILARITY: Contains 1 PH domain.
+Apoptosis; Nuclear protein; Repeat.
+TMZERO

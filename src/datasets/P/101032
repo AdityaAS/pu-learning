@@ -1,0 +1,24 @@
+AC   P41821;
+Protein MID1.
+"MID1, a novel Saccharomyces cerevisiae gene encoding a plasma
+membrane protein, is required for Ca2+ influx and mating.";
+"Sequence analysis of a 30 kb DNA segment from yeast chromosome XIV
+carrying a ribosomal protein gene cluster, the genes encoding a plasma
+membrane protein and a subunit of replication factor C, and a novel
+putative serine/threonine protein kinase gene.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Required for calcium influx and for vitality of MATa
+    cells in a late, pheromone-induced event of the mating process
+    requiring calcium induced signaling.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein (Potential).
+-!- MISCELLANEOUS: Present with 3210 molecules/cell.
+-!- SIMILARITY: To S.pombe ehs1.
+ GO:0005783; C:endoplasmic reticulum; IDA:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0005262; F:calcium channel activity; IMP:SGD.
+ GO:0006816; P:calcium ion transport; IDA:SGD.
+Calcium; Complete proteome; Glycoprotein; Membrane; Transmembrane.
+TMONE

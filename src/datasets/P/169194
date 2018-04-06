@@ -1,0 +1,33 @@
+AC   P53969;
+Sorting assembly machinery 50 kDa subunit (TOB complex 55 kDa
+subunit).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"An essential role of Sam50 in the protein sorting and assembly
+machinery of the mitochondrial outer membrane.";
+"Evolutionary conservation of biogenesis of beta-barrel membrane
+proteins.";
+"Assembly of the TOB complex of mitochondria.";
+-!- FUNCTION: Component of the mitochondrial outer membrane sorting
+    assembly machinery (SAM or TOB) complex, which is required for the
+    sorting of proteins with complicated topology, such as beta-barrel
+    proteins, to the mitochondrial outer membrane after import by the
+    TOM complex.
+-!- SUBUNIT: Component of the mitochondrial outer membrane sorting
+    assembly machinery (SAM or TOB) complex, which at least consists
+    of SAM35, SAM37 and SAM50.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial outer membrane;
+    multi-pass membrane protein (By similarity).
+-!- DOMAIN: Its C-terminal part contains many membrane-spanning sided
+    beta-sheets, that have the potential to adopt a transmembrane
+    "beta-barrel" type structure, in which the transmembrane domains
+    can not be predicted by the TMHMM and ESKM prediction programs (By
+    similarity).
+-!- SIMILARITY: Belongs to the SAM50/omp85 family.
+ GO:0001401; C:mitochondrial sorting and assembly machiner...; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0006461; P:protein complex assembly; IMP:SGD.
+ GO:0045040; P:protein import into mitochondrial outer mem...; IMP:SGD.
+Complete proteome; Membrane; Mitochondrion; Outer membrane;
+Protein transport; Transmembrane; Transport.
+TMZERO

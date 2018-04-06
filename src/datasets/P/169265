@@ -1,0 +1,16 @@
+AC   P0A2J3; P36668;
+Peptide transport system permease protein sapB.
+"Molecular genetic analysis of a locus required for resistance to
+antimicrobial peptides in Salmonella typhimurium.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+-!- FUNCTION: Involved in a peptide intake transport system that plays
+    a role in the resistance to antimicrobial peptides.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the binding-protein-dependent transport
+    system permease family. OppBC subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+Complete proteome; Inner membrane; Membrane; Peptide transport;
+Protein transport; Transmembrane; Transport.
+TMSIX

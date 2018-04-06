@@ -1,0 +1,8 @@
+AC   O66958;
+UPF0128 protein aq_756.
+"The complete genome of the hyperthermophilic bacterium Aquifex
+aeolicus.";
+-!- SIMILARITY: Belongs to the UPF0128 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

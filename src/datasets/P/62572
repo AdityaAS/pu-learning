@@ -1,0 +1,23 @@
+AC   Q46839; Q2M9M1;
+Glycolate permease glcA.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The gene yghK linked to the glc operon of Escherichia coli encodes a
+permease for glycolate that is structurally and functionally similar
+to L-lactate permease.";
+"Transport of L-lactate, D-lactate, and glycolate by the LldP and GlcA
+membrane carriers of Escherichia coli.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Transports glycolate across the membrane. Can also
+    transport L-lactate and D-lactate. Seems to be driven by a proton
+    motive force.
+-!- ENZYME REGULATION: Inhibited by carbonyl cyanide m-
+    chlorophenylhydrazone (CCCP).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By glycolate.
+-!- SIMILARITY: Belongs to the lactate permease family.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMTHIRTEEN

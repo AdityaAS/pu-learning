@@ -1,0 +1,19 @@
+AC   Q932G1;
+Dimethyladenosine transferase (EC 2.1.1.-) (S-adenosylmethionine-6-N',
+N'-adenosyl(rRNA) dimethyltransferase) (16S rRNA dimethylase) (High
+level kasugamycin resistance protein ksgA) (Kasugamycin
+dimethyltransferase).
+"Whole genome sequencing of meticillin-resistant Staphylococcus
+aureus.";
+"Nucleotide substitutions in Staphylococcus aureus strains, Mu50, Mu3,
+and N315.";
+-!- FUNCTION: Specifically dimethylates two adjacent adenosines in the
+    loop of a conserved hairpin near the 3'-end of 16S rRNA in the 30S
+    particle. Its inactivation leads to kasugamycin resistance (By
+    similarity).
+-!- SIMILARITY: Belongs to the rRNA adenine N-6-methyltransferase
+    family. KsgA subfamily.
+ GO:0046677; P:response to antibiotic; IEA:HAMAP.
+Antibiotic resistance; Complete proteome; Methyltransferase;
+rRNA processing; Transferase.
+TMZERO

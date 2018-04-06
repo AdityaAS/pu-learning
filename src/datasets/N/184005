@@ -1,0 +1,24 @@
+AC   Q47281;
+Type I restriction enzyme EcoEI R protein (EC 3.1.21.3) (R.EcoEI).
+"Conservation of motifs within the unusually variable polypeptide
+sequences of type I restriction and modification enzymes.";
+-!- FUNCTION: The EcoEI enzyme recognizes 5'-GAGN(7)ATGC-3'. Subunit R
+    is required for both nuclease and ATPase activities, but not for
+    modification.
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of DNA to give random
+    double-stranded fragments with terminal 5'-phosphates; ATP is
+    simultaneously hydrolyzed.
+-!- SUBUNIT: The type I restriction/modification system is composed of
+    three polypeptides R, M and S.
+-!- MISCELLANEOUS: Type I restriction and modification enzymes are
+    complex, multifunctional systems which require ATP, S-adenosyl
+    methionine and magnesium as cofactors and, in addition to their
+    endonucleolytic and methylase activities, are potent DNA-dependent
+    ATPases.
+-!- SIMILARITY: Belongs to the hsdR family.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ GO:0009035; F:Type I site-specific deoxyribonuclease acti...; IEA:EC.
+ATP-binding; DNA-binding; Hydrolase; Nucleotide-binding;
+Restriction system.
+TMZERO

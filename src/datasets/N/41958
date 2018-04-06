@@ -1,0 +1,15 @@
+AC   P31989;
+Disintegrin jararacin (Platelet aggregation activation inhibitor).
+"Characterization of the integrin specificities of disintegrins
+isolated from American pit viper venoms.";
+-!- FUNCTION: Inhibits fibrinogen interaction with platelet receptors
+    expressed on glycoprotein IIb-IIIa complex. Acts by binding to the
+    glycoprotein IIb-IIIa receptor on the platelet surface and
+    inhibits aggregation induced by ADP, thrombin, platelet-activating
+    factor and collagen.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the disintegrin family.
+-!- SIMILARITY: Contains 1 disintegrin domain.
+Blood coagulation; Cell adhesion; Direct protein sequencing.
+TMZERO

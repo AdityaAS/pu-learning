@@ -1,0 +1,21 @@
+AC   Q83KF1; Q7C0V4;
+Pyrimidine-specific ribonucleoside hydrolase rihB (EC 3.2.2.8)
+(Cytidine/uridine-specific hydrolase).
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: Hydrolyzes cytidine or uridine to ribose and cytosine or
+    uracil, respectively. Has a clear preference for cytidine over
+    uridine. Strictly specific for ribonucleosides (By similarity).
+-!- CATALYTIC ACTIVITY: An N-D-ribosylpyrimidine + H(2)O = D-ribose +
+    a pyrimidine.
+-!- COFACTOR: Binds 1 calcium ion per monomer (By similarity).
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the IUNH family. RihB subfamily.
+ GO:0005509; F:calcium ion binding; IEA:HAMAP.
+ GO:0016798; F:hydrolase activity, acting on glycosyl bonds; IEA:HAMAP.
+ GO:0050263; F:ribosylpyrimidine nucleosidase activity; IEA:EC.
+ GO:0006206; P:pyrimidine base metabolism; IEA:HAMAP.
+Calcium; Complete proteome; Glycosidase; Hydrolase; Metal-binding.
+TMZERO

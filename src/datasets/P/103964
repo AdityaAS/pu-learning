@@ -1,0 +1,103 @@
+AC   P33527; O14819; O43333; P78419; Q59GI9; Q9UQ97; Q9UQ99; Q9UQA0;
+Multidrug resistance-associated protein 1 (ATP-binding cassette sub-
+family C member 1) (Leukotriene C(4) transporter) (LTC4 transporter).
+"Overexpression of a transporter gene in a multidrug-resistant human
+lung cancer cell line.";
+"Multidrug resistance-associated protein: sequence correction.";
+"Structure and expression of the messenger RNA encoding the murine
+multidrug resistance protein, an ATP-binding cassette transporter.";
+"Analysis of the intron-exon organization of the human multidrug-
+resistance protein gene (MRP) and alternative splicing of its mRNA.";
+"Genome duplications and other features in 12 Mb of DNA sequence from
+human chromosome 16p and 16q.";
+"Membrane topology of the multidrug resistance protein (MRP). A study
+of glycosylation-site mutants reveals an extracytosolic NH2
+terminus.";
+"Topology mapping of the amino-terminal half of multidrug resistance-
+associated protein by epitope insertion and immunofluorescence.";
+"Epitope insertion favors a six transmembrane domain model for the
+carboxy-terminal portion of the multidrug resistance-associated
+protein.";
+"Characterization of a leukotriene C4 export mechanism in human
+platelets: possible involvement of multidrug resistance-associated
+protein 1.";
+"The leukotriene C(4) transporter MRP1 regulates CCL19 (MIP-3beta,
+ELC)-dependent mobilization of dendritic cells to lymph nodes.";
+"Mutations of the Walker B motif in the first nucleotide binding
+domain of multidrug resistance protein MRP1 prevent conformational
+maturation.";
+"Mutation of a single conserved tryptophan in multidrug resistance
+protein 1 (MRP1/ABCC1) results in loss of drug resistance and
+selective loss of organic anion transport.";
+"Identification of an amino acid residue in multidrug resistance
+protein 1 critical for conferring resistance to anthracyclines.";
+"Mutational analysis of ionizable residues proximal to the cytoplasmic
+interface of membrane spanning domain 3 of the multidrug resistance
+protein, MRP1 (ABCC1): glutamate 1204 is important for both the
+expression and catalytic activity of the transporter.";
+"Transmembrane helix 11 of multidrug resistance protein 1
+(MRP1/ABCC1): identification of polar amino acids important for
+substrate specificity and binding of ATP at nucleotide binding domain
+1.";
+"Mutations in a gene encoding an ABC transporter cause pseudoxanthoma
+elasticum.";
+"Pseudoxanthoma elasticum: mutations in the MRP6 gene encoding a
+transmembrane ATP-binding cassette (ABC) transporter.";
+"Identification of human multidrug resistance protein 1 (MRP1)
+mutations and characterization of a G671V substitution.";
+"Identification of novel polymorphisms in the pM5 and MRP1 (ABCC1)
+genes at locus 16p13.1 and exclusion of both genes as responsible for
+pseudoxanthoma elasticum.";
+"Polymorphism of the ABC transporter genes, MDR1, MRP1 and MRP2/cMOAT,
+in healthy Japanese subjects.";
+-!- FUNCTION: May participate directly in the active transport of
+    drugs into subcellular organelles or influence drug distribution
+    indirectly. Confers resistance to anticancer drugs. Transports
+    LTC4. May protect milk against xenobiotics (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=9;
+      Comment=Additional isoforms seem to exist. Experimental
+      confirmation may be lacking for some isoforms;
+    Name=1; Synonyms=Allexons;
+      IsoId=P33527-1; Sequence=Displayed;
+    Name=2; Synonyms=Delexon-17;
+      IsoId=P33527-2; Sequence=VSP_000037;
+    Name=3; Synonyms=Delexon-18;
+      IsoId=P33527-3; Sequence=VSP_000038;
+    Name=4; Synonyms=Delexon-30;
+      IsoId=P33527-4; Sequence=VSP_000039;
+    Name=5; Synonyms=Delexon-17-18;
+      IsoId=P33527-5; Sequence=VSP_000037, VSP_000038;
+    Name=6; Synonyms=Delexon-17-30;
+      IsoId=P33527-6; Sequence=VSP_000037, VSP_000039;
+    Name=7; Synonyms=Delexon-18-30;
+      IsoId=P33527-7; Sequence=VSP_000038, VSP_000039;
+    Name=8; Synonyms=Delexon-17-18-30;
+      IsoId=P33527-8; Sequence=VSP_000037, VSP_000038, VSP_000039;
+    Name=9;
+      IsoId=P33527-9; Sequence=VSP_017014;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Lung, testis and peripheral blood mononuclear
+    cells.
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+-!- CAUTION: Ref.6 (AAC05808) sequence differs from that shown due to
+    erroneous gene model prediction.
+-!- WEB RESOURCE: NAME=Atlas of Genetics and Cytogenetics in Oncology
+    and Haematology;
+    URL="http://atlasgeneticsoncology.org/Genes/MRPID106.html".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0005524; F:ATP binding; TAS:ProtInc.
+ GO:0016887; F:ATPase activity; IDA:UniProtKB.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; TAS:ProtInc.
+ GO:0005215; F:transporter activity; TAS:ProtInc.
+ GO:0042493; P:response to drug; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+3D-structure; Alternative splicing; ATP-binding; Glycoprotein;
+Membrane; Nucleotide-binding; Polymorphism; Repeat; Transmembrane;
+Transport.
+TMSEVENTEEN

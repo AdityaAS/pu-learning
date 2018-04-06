@@ -1,0 +1,88 @@
+AC   P19545;
+Protein Nef (Negative factor) (F-protein) (3'ORF) [Contains: C-
+terminal core protein].
+"Human immunodeficiency virus type 1 cellular host range, replication,
+and cytopathicity are linked to the envelope region of the viral
+genome.";
+-!- FUNCTION: Early protein that seems to play a role in optimizing
+    the host cell environment for viral replication without causing
+    cell death by apoptosis. Enhances virus infectivity and
+    pathogenicity (By similarity).
+-!- FUNCTION: Down-modulates surface MHC-I molecules. Internalized
+    molecules are sequestred to the trans-Golgi network (TGN). Also
+    decreases cell surface CD4 antigen by interacting with the Src
+    family kinase LCK thereby inducing LCK-CD4 dissociation and by
+    increasing clathrin-dependent endocytosis of this antigen to
+    target it to lysosomal degradation. Peroxisomal acyl-coenzyme A
+    thioester hydrolase 1 (PTE1) seems to be involved in this process.
+    May serve as a direct bridge between CD4 and the cellular
+    endocytic machinery by interacting with beta-COP and adaptins. In
+    consequence, surface MHC-I and CD4 are decreased and infected
+    cells are masked for immune recognition by cytotoxic T
+    lymphocytes. Decreasing the number of viral receptors prevents
+    reinfection by more HIV particles (By similarity).
+-!- FUNCTION: Bypasses host T-cell signaling by inducing a
+    transcriptional program nearly identical to that of anti-CD3 cell
+    activation. Interacts with the TCR-zeta chain to up-regulate the
+    Fas ligand (FasL). Increasing surface FasL molecules and
+    decreasing surface MHC-I molecules send attacking cytotoxic T-cell
+    into apoptosis (By similarity).
+-!- FUNCTION: Protects the infected cell from apoptosis in order to
+    keep it alive until the next virus generation is ready to strike.
+    Inhibits the Fas and TNFR-mediated death signals by blocking
+    MAP3K5. Interacts with p53 and decreases the half-life of the
+    latter, protecting the infected cell against p53-mediated
+    apoptosis. Inhibits the apoptotic signals regulated by the Bcl-2
+    family proteins through the formation of a Nef/PI3-kinase/PAK2
+    complex that induces phosphorylation of Bad (By similarity).
+-!- SUBUNIT: Homodimer. Interacts with various cellular proteins
+    including MAP3K5, beta-COP, PAK2, PACS1, the Src family kinases
+    HCK and LCK, TCR-zeta chain, PTE1 and PI3-kinase. Interaction with
+    PI3-kinase activates the Nef associated p21-activated kinase
+    (PAK2) and leads to increased production of HIV-1. This
+    interaction depends on the C-terminus of both proteins. Interacts
+    and inhibits kinase activity of LCK and MAPK3. Binds to ATP6V1H,
+    this interaction connects Nef to the endocytic machinery and
+    facilitates the internalization of CD4 (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; cytoplasmic
+    side (By similarity). Cytoplasm; perinuclear region (By
+    similarity). Virion (By similarity). Note=Associates with the
+    inner plasma membrane through its N-terminal anchor domain. Also
+    found in the paranuclear area, probably in the TGN. Correct
+    localization requires PACS1. Also incorporated in virions at a
+    rate of about 10 molecules per virion, where it is cleaved (By
+    similarity).
+-!- DOMAIN: The N-terminal anchor domain is composed of the N-
+    myristoyl glycine and of a cluster of positively charged amino
+    acids. It is required for inner plasma membrane targeting of Nef
+    and virion incorporation, and thereby for infectivity. This domain
+    is also involved in binding to p53 (By similarity).
+-!- DOMAIN: The acidic cluster contains sorting information as it
+    binds to the TGN sorting protein PACS1 (By similarity).
+-!- DOMAIN: The SH3-binding domain constituted of PxxP motifs mediates
+    binding to several Src family proteins thereby regulating their
+    tyrosine kinase activity. The same motifs also mediates the
+    association with MAPK3, PI3-kinase and TCR-zeta (By similarity).
+-!- PTM: The virion-associated Nef proteins are cleaved by the viral
+    protease to release the soluble C-terminal core protein. Nef is
+    probably cleaved concomitantly with viral structural proteins on
+    maturation of virus particles (By similarity).
+-!- PTM: Myristoylation is essential for inner plasma membrane
+    targeting of Nef and virion incorporation and thereby for
+    infectivity. Also required to reduce CD4 expression at the cell
+    surface (By similarity).
+-!- PTM: Phosphorylated on serine residues, probably by host PKC.
+-!- MISCELLANEOUS: HIV-1 lineages are divided in three main groups, M
+    (for Major), O (for Outlier), and N (for New, or Non-M, Non-O).
+    The vast majority of strains found worldwide belong to the group
+    M. Group O seems to be endemic to and largely confined to Cameroon
+    and neighboring countries in West Central Africa, where these
+    viruses represent a small minority of HIV-1 strains. The group N
+    is represented by a limited number of isolates from Cameroonian
+    persons. The group M is further subdivided in 9 clades or subtypes
+    (A to D, F to H, J and K).
+-!- SIMILARITY: Belongs to the lentiviruses Nef protein family.
+AIDS; Apoptosis; Early protein; Host-virus interaction; Lipoprotein;
+Membrane; Myristate; Phosphorylation; Repeat; SH3-binding;
+Viral immunoevasion; Virion protein; Virulence.
+TMZERO

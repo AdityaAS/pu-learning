@@ -1,0 +1,10 @@
+AC   P69159; P20390; Q00220; Q00221;
+Somatotropin precursor (Growth hormone).
+"The primary structures of growth hormones of three cyprinid species:
+bighead carp, silver carp, and grass carp.";
+-!- FUNCTION: Growth hormone plays an important role in growth
+    control.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the somatotropin/prolactin family.
+Hormone; Signal.
+TMZERO

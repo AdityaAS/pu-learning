@@ -1,0 +1,10 @@
+AC   P23137;
+Glycine-rich protein precursor.
+"A virus-inducible tobacco gene encoding a glycine-rich protein shares
+putative regulatory elements with the ribulose bisphosphate
+carboxylase small subunit gene.";
+-!- SUBCELLULAR LOCATION: Cell wall.
+-!- INDUCTION: By tobacco mosaic virus infection and by salicylic
+    acid.
+Cell wall; Pathogenesis-related protein; Plant defense; Signal.
+TMZERO

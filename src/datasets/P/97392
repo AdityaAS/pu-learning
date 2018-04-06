@@ -1,0 +1,15 @@
+AC   P42716;
+Mastoparan (MP).
+"Isolation and sequential analysis of peptides on the venom sac of
+Parapolybia indica.";
+"Structural and biological characterization of three novel mastoparan
+peptides from the venom of the neotropical social wasp Protopolybia
+exigua (Saussure).";
+-!- FUNCTION: Mast cell degranulating peptide. Activates G proteins
+    that couple to phospholipase C. Has hemolytic activity.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the MCD family. Mastoparan subfamily.
+Amidation; Cytolysis; Direct protein sequencing; Hemolysis;
+Mast cell degranulation.
+TMZERO

@@ -1,0 +1,12 @@
+AC   P34880;
+Type II restriction enzyme SsoII (EC 3.1.21.4) (Endonuclease SsoII)
+(R.SsoII).
+"Analysis of the nucleotide and derived amino acid sequences of the
+SsoII restriction endonuclease and methyltransferase.";
+-!- FUNCTION: Recognizes the double-stranded sequence CCNGG and
+    cleaves before C-1.
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of DNA to give
+    specific double-stranded fragments with terminal 5'-phosphates.
+ GO:0009036; F:Type II site-specific deoxyribonuclease act...; IEA:EC.
+Endonuclease; Hydrolase; Nuclease; Plasmid; Restriction system.
+TMZERO

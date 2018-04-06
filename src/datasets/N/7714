@@ -1,0 +1,23 @@
+AC   Q2YDH6;
+AP-3 complex subunit sigma-1 (Adapter-related protein complex 3 sigma-
+1 subunit) (Sigma-adaptin 3a) (AP-3 complex sigma-3A subunit) (Sigma-
+3A-adaptin).
+-!- FUNCTION: Part of the AP-3 complex, an adapter-related complex
+    which is not clathrin-associated. The complex is associated with
+    the Golgi region as well as more peripheral structures. It
+    facilitates the budding of vesicles from the Golgi membrane and
+    may be directly involved in trafficking to lysosomes (By
+    similarity).
+-!- SUBUNIT: Adaptor protein complex 3 (AP-3) is an heterotetramer
+    composed of two large adaptins (delta/AP3D1 and beta3A/AP3B2 or
+    beta3B/AP3B1), a medium adaptin (mu3A/AP3M1 or mu3B/AP3M2) and a
+    small adaptin (sigma3A/AP3S1 or sigma3B/AP3S2). Interacts with
+    CENTG2 (By similarity).
+-!- SUBCELLULAR LOCATION: Golgi apparatus. Cytoplasmic vesicle;
+    cytoplasmic vesicle membrane; peripheral membrane protein;
+    cytoplasmic side (By similarity). Note=Component of the coat
+    surrounding the cytoplasmic face of coated vesicles located at the
+    Golgi complex (By similarity).
+-!- SIMILARITY: Belongs to the adaptor complexes small subunit family.
+Golgi apparatus; Protein transport; Transport.
+TMZERO

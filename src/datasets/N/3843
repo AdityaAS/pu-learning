@@ -1,0 +1,27 @@
+AC   Q01341;
+Adenylate cyclase type 6 (EC 4.6.1.1) (Adenylate cyclase type VI) (ATP
+pyrophosphate-lyase 6) (Adenylyl cyclase 6) (Ca(2+)-inhibitable
+adenylyl cyclase).
+"Cloning and expression of a Ca(2+)-inhibitable adenylyl cyclase from
+NCB-20 cells.";
+"Lowered responsiveness of the catalyst of adenylyl cyclase to
+stimulation by GS in heterologous desensitization: a role for
+adenosine 3',5'-monophosphate-dependent phosphorylation.";
+-!- FUNCTION: Membrane-bound, calcium-inhibitable adenylyl cyclase.
+-!- CATALYTIC ACTIVITY: ATP = 3',5'-cyclic AMP + diphosphate.
+-!- COFACTOR: Binds 2 magnesium ions per subunit (By similarity).
+-!- ENZYME REGULATION: Inhibition by calcium in the submicromolar
+    concentration range.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Most abundant in heart but weakly detectable
+    in brain, intestine, lung and spleen.
+-!- SIMILARITY: Belongs to the adenylyl cyclase class-4/guanylyl
+    cyclase family.
+-!- SIMILARITY: Contains 2 guanylate cyclase domains.
+ GO:0005886; C:plasma membrane; TAS:MGI.
+ GO:0004016; F:adenylate cyclase activity; TAS:MGI.
+ GO:0007190; P:adenylate cyclase activation; TAS:MGI.
+ GO:0006171; P:cAMP biosynthesis; TAS:MGI.
+cAMP biosynthesis; Glycoprotein; Lyase; Magnesium; Membrane;
+Metal-binding; Phosphorylation; Repeat; Transmembrane.
+TMTWELVE

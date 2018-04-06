@@ -1,0 +1,18 @@
+AC   Q9QXY4;
+Opioid growth factor receptor (OGFr) (Zeta-type opioid receptor).
+"Cloning, sequencing, expression and function of a cDNA encoding a
+receptor for the opioid growth factor, [Met(5)]enkephalin.";
+"The biology of the opioid growth factor receptor (OGFr).";
+"Quantitative phosphoproteomics of vasopressin-sensitive renal cells:
+regulation of aquaporin-2 phosphorylation at two sites.";
+-!- FUNCTION: Receptor for opioid growth factor (OGF), also known as
+    Met-enkephalin. Seems to be involved in growth regulation.
+-!- SUBCELLULAR LOCATION: Cytoplasm; perinuclear region. Nucleus.
+    Note=The OGF/OGFR complex is probably translocated to the nucleus.
+    Colocalized with OGF in the perinuclear region.
+-!- TISSUE SPECIFICITY: Highly expressed in 6-day old cerebellum and
+    brain. Lower expressed in adult cerebellum. The protein is
+    detected in germinal cells of the cerebellum, in neurons of the
+    deep cerebellar nuclei and in the glia in the medullary layer.
+Growth regulation; Phosphorylation; Receptor; Repeat.
+TMZERO

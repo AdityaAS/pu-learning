@@ -1,0 +1,8 @@
+AC   Q52522;
+Protein nirD precursor.
+"Resolution of the nirD locus for heme d1 synthesis of cytochrome cd1
+(respiratory nitrite reductase) from Pseudomonas stutzeri.";
+-!- FUNCTION: Required for the biosynthesis of heme D1 of nitrite
+    reductase.
+Signal.
+TMZERO

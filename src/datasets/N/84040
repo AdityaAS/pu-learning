@@ -1,0 +1,21 @@
+AC   Q5HJC1;
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase 2
+(EC 2.7.7.60) (4-diphosphocytidyl-2C-methyl-D-erythritol synthase 2)
+(MEP cytidylyltransferase 2) (MCT 2).
+"Insights on evolution of virulence and resistance from the complete
+genome analysis of an early methicillin-resistant Staphylococcus
+aureus strain and a biofilm-producing methicillin-resistant
+Staphylococcus epidermidis strain.";
+-!- FUNCTION: Catalyzes the formation of 4-diphosphocytidyl-2-C-
+    methyl-D-erythritol from CTP and 2-C-methyl-D-erythritol 4-
+    phosphate (MEP) (By similarity).
+-!- CATALYTIC ACTIVITY: CTP + 2-C-methyl-D-erythritol 4-phosphate =
+    diphosphate + 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol.
+-!- PATHWAY: Isoprenoid biosynthesis; isopentenyl-PP biosynthesis via
+    DXP pathway; isopentenyl-PP from 1-deoxy-D-xylulose 5-phosphate:
+    step 2.
+-!- SIMILARITY: Belongs to the ispD family.
+ GO:0016114; P:terpenoid biosynthesis; IEA:HAMAP.
+Complete proteome; Isoprene biosynthesis; Nucleotidyltransferase;
+Transferase.
+TMZERO

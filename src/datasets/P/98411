@@ -1,0 +1,17 @@
+AC   P05528;
+Protein mcbE.
+"The export of the DNA replication inhibitor Microcin B17 provides
+immunity for the host cell.";
+"DNA sequence, products, and transcriptional pattern of the genes
+involved in production of the DNA replication inhibitor microcin
+B17.";
+-!- FUNCTION: Together with two further proteins mcbF and mcbG this
+    protein causes immunity to the peptide antibiotic microcin B17
+    (MccB17), which inhibits DNA replication in enterobacteriaceae.
+    Immunity is determined by two different mechanisms. McbE is
+    involved in the production of extracellular MccB17 and, in a
+    complex with mcbF it also serves as "pump" for the export of
+    active MccB17 from the cytoplasm to the periplasmic space.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+Antibiotic resistance; Membrane; Plasmid; Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,17 @@
+AC   Q9PLM5;
+Preprotein translocase secA subunit.
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+-!- FUNCTION: Involved in protein export. Interacts with the secY/secE
+    subunits. SecA has a central role in coupling the hydrolysis of
+    ATP to the transfer of pre-secretory periplasmic and outer
+    membrane proteins across the membrane (By similarity).
+-!- SUBUNIT: Part of the prokaryotic protein translocation apparatus
+    which comprise secA, secB, secD, secE, secF, secG and secY (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein; cytoplasmic side (By similarity).
+-!- SIMILARITY: Belongs to the secA family.
+ATP-binding; Complete proteome; Membrane; Nucleotide-binding;
+Protein transport; Translocation; Transport.
+TMZERO

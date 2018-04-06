@@ -1,0 +1,21 @@
+AC   P29340;
+Ubiquitin-conjugating enzyme E2-21 kDa (EC 6.3.2.19) (Ubiquitin-
+protein ligase) (Ubiquitin carrier protein) (Peroxin-4).
+"The Pas2 protein essential for peroxisome biogenesis is related to
+ubiquitin-conjugating enzymes.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+-!- FUNCTION: Catalyzes the covalent attachment of ubiquitin to other
+    proteins. Essential for peroxisome biogenesis.
+-!- CATALYTIC ACTIVITY: ATP + ubiquitin + protein lysine = AMP +
+    diphosphate + protein N-ubiquityllysine.
+-!- PATHWAY: Ubiquitin conjugation; second step.
+-!- SUBCELLULAR LOCATION: Peroxisome.
+-!- SIMILARITY: Belongs to the ubiquitin-conjugating enzyme family.
+ GO:0005777; C:peroxisome; IDA:SGD.
+ GO:0016558; P:protein import into peroxisome matrix; IMP:SGD.
+ GO:0006513; P:protein monoubiquitination; TAS:SGD.
+ GO:0000209; P:protein polyubiquitination; TAS:SGD.
+Complete proteome; Ligase; Peroxisome; Ubl conjugation pathway.
+TMZERO

@@ -1,0 +1,23 @@
+AC   P0AFC5; P33597; P77159;
+NADH-quinone oxidoreductase chain A (EC 1.6.99.5) (NADH dehydrogenase
+I, chain A) (NDH-1, chain A) (NUO1).
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain. The
+    immediate electron acceptor for the enzyme in this species is
+    believed to be ubiquinone. Couples the redox reaction to proton
+    translocation (for every two electrons transferred, four hydrogen
+    ions are translocated across the cytoplasmic membrane), and thus
+    conserves the redox energy in a proton gradient (By similarity).
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- SUBUNIT: Composed of 13 different subunits. Subunits nuoA, H, J,
+    K, L, M, N constitute the membrane sector of the complex (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the complex I subunit 3 family.
+Complete proteome; Inner membrane; Membrane; NAD; Oxidoreductase;
+Quinone; Transmembrane; Ubiquinone.
+THTHREE

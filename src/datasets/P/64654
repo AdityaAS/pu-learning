@@ -1,0 +1,18 @@
+AC   P48243;
+Glutamate transport ATP-binding protein gluA.
+"Structure of the gluABCD cluster encoding the glutamate uptake system
+of Corynebacterium glutamicum.";
+"Complete genomic sequence of Corynebacterium glutamicum ATCC 13032.";
+"The complete Corynebacterium glutamicum ATCC 13032 genome sequence
+and its impact on the production of L-aspartate-derived amino acids
+and vitamins.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for glutamate. Probably responsible for energy coupling to the
+    transport system.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+Amino-acid transport; ATP-binding; Complete proteome; Membrane;
+Nucleotide-binding; Transport.
+TMZERO

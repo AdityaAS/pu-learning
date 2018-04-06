@@ -1,0 +1,19 @@
+AC   P25744;
+Multidrug resistance protein mdtG.
+"Multicopy suppression: an approach to understanding intracellular
+functioning of the protein export system.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Analysis of a complete library of putative drug transporter genes in
+Escherichia coli.";
+-!- FUNCTION: Confers resistance to fosfomycin and deoxycholate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. DHA1
+    family. MdtG (TC 2.A.1.2.20) subfamily.
+Antibiotic resistance; Complete proteome; Inner membrane; Membrane;
+Transmembrane; Transport.
+TMTEN

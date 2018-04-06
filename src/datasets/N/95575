@@ -1,0 +1,19 @@
+AC   P57959;
+Lipoprotein signal peptidase (EC 3.4.23.36) (Prolipoprotein signal
+peptidase) (Signal peptidase II) (SPase II).
+"Complete genomic sequence of Pasteurella multocida Pm70.";
+-!- FUNCTION: This protein specifically catalyzes the removal of
+    signal peptides from prolipoproteins (By similarity).
+-!- CATALYTIC ACTIVITY: Release of signal peptides from bacterial
+    membrane prolipoproteins. Hydrolyzes -Xaa-Yaa-Zaa-|-
+    (S,diacylglyceryl)Cys-, in which Xaa is hydrophobic (preferably
+    Leu), and Yaa (Ala or Ser) and Zaa (Gly or Ala) have small,
+    neutral side chains.
+-!- PATHWAY: Lipoprotein biosynthesis; second step.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the peptidase A8 family.
+ GO:0009005; F:signal peptidase II activity; IEA:HAMAP.
+Aspartyl protease; Complete proteome; Hydrolase; Inner membrane;
+Membrane; Protease; Transmembrane.
+TMFOUR

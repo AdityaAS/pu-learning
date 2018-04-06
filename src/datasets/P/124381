@@ -1,0 +1,19 @@
+AC   P35763;
+Perforin-1 precursor (P1) (Lymphocyte pore-forming protein)
+(Cytolysin).
+"Molecular cloning of rat cytolysin.";
+-!- FUNCTION: In the presence of calcium, perforin polymerizes into
+    transmembrane tubules and is capable of lysing non-specifically a
+    variety of target cells.
+-!- SUBCELLULAR LOCATION: Cytoplasmic granule; cytoplasmic granule
+    membrane; multi-pass membrane protein. Note=Cytoplasmic granules
+    of cytolytic T-lymphocytes.
+-!- SIMILARITY: Belongs to the complement C6/C7/C8/C9 family.
+-!- SIMILARITY: Contains 1 C2 domain.
+-!- SIMILARITY: Contains 1 EGF-like domain.
+-!- SIMILARITY: Contains 1 MACPF domain.
+ GO:0005829; C:cytosol; TAS:RGD.
+ GO:0019835; P:cytolysis; TAS:RGD.
+Calcium; Cytolysis; EGF-like domain; Glycoprotein; Membrane; Signal;
+Transmembrane.
+TMTWO

@@ -1,0 +1,17 @@
+AC   P69381; P32159;
+Ferrous-iron efflux pump fieF.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Iron-efflux transporter responsible for iron
+    detoxification. Also able to transport Zn(2+) in a proton-
+    dependent manner (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the cation diffusion facilitator (CDF)
+    transporter (TC 2.A.4) family. FieF subfamily.
+ GO:0005215; F:transporter activity; IEA:HAMAP.
+Complete proteome; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Transmembrane; Transport.
+TMSIX

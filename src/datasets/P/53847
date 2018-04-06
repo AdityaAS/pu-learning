@@ -1,0 +1,26 @@
+AC   P33650; Q2M774; Q6IU42;
+Ferrous iron transport protein B.
+"Characterization of the ferrous iron uptake system of Escherichia
+coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Rates of DNA sequence evolution in experimental populations of
+Escherichia coli during 20,000 generations.";
+"The membrane protein FeoB contains an intramolecular G protein
+essential for Fe(II) uptake in bacteria.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: GTP-driven Fe(2+) uptake system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: Iron uptake is repressed by the global regulator Fur.
+-!- DOMAIN: Contains a guanine-nucleotide-specific nucleotide-binding
+    site that shows slow GTP hydrolysis.
+-!- MISCELLANEOUS: Binding of GTP is required for an efficient Fe(2+)
+    uptake.
+-!- SIMILARITY: Belongs to the feoB (TC 9.A.8) family.
+Complete proteome; GTP-binding; Inner membrane; Ion transport; Iron;
+Iron transport; Membrane; Nucleotide-binding; Transmembrane;
+Transport.
+TMTHIRTEEN

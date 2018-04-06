@@ -1,0 +1,15 @@
+AC   P43443;
+Neuromedin-B precursor.
+"Isolation and sequence of a cDNA encoding the precursor of a
+bombesin-like peptide from brain and early embryos of Xenopus
+laevis.";
+-!- FUNCTION: May be a growth factor required for the high rate of
+    cell division ensuing after fertilization, or may have a role as a
+    secretagogue that triggers the release of stored components.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Brain, intestine, and ovaries and early
+    embryos (stages 2 and 10).
+-!- SIMILARITY: Belongs to the bombesin/neuromedin-B/ranatensin
+    family.
+Amidation; Cleavage on pair of basic residues; Signal.
+TMZERO

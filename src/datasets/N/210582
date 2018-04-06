@@ -1,0 +1,12 @@
+AC   Q58786;
+Putative aminotransferase MJ1391 (EC 2.6.1.-).
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the class-I pyridoxal-phosphate-dependent
+    aminotransferase family.
+Aminotransferase; Complete proteome; Hypothetical protein;
+Pyridoxal phosphate; Transferase.
+TMZERO

@@ -1,0 +1,32 @@
+AC   P69937; P30743; Q2M6F4;
+Quaternary ammonium compound-resistance protein sugE.
+"A novel multicopy suppressor of a groEL mutation includes two nested
+open reading frames transcribed from different promoters.";
+"The entericidin locus of Escherichia coli and its implications for
+programmed bacterial cell death.";
+"Analysis of the Escherichia coli genome VI: DNA sequence of the
+region from 92.8 through 100 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Overexpression of the Escherichia coli sugE gene confers resistance
+to a narrow range of quaternary ammonium compounds.";
+"High level cell-free expression and specific labeling of integral
+membrane proteins.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Quaternary ammonium compound efflux pump. Confers
+    resistance to cetylpyridinium, cetyldimethylethyl ammonium and
+    cetrimide cations.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: Unlike the other members of the SMR family, sugE
+    exhibits a narrow specificity for a very specific class of
+    compounds.
+-!- SIMILARITY: Belongs to the small multidrug resistance (SMR)
+    protein family. SugE (TC 2.A.7.1.4) subfamily.
+-!- CAUTION: Was originally (Ref.1) thought to suppress a groEL
+    mutation and mimic the effect of groE overexpression. This was
+    later shown (Ref.6) to be probably due to an artifact.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMFOUR

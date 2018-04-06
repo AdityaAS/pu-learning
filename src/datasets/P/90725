@@ -1,0 +1,9 @@
+AC   P36962;
+Bacteriocin lactococcin-G subunit beta.
+"A novel lactococcal bacteriocin whose activity depends on the
+complementary action of two peptides.";
+-!- FUNCTION: Kills Lactococci.
+-!- SUBUNIT: Bacteriocin activity requires interaction of alpha and
+    beta peptides in a molar ratio of 7:1 or 8:1 respectively.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing.
+TMZERO

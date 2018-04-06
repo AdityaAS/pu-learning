@@ -1,0 +1,20 @@
+AC   Q9UVL1;
+Nonhistone chromosomal protein 6.
+"CaNHP6 encodes a high mobility group (HMG)-like protein that
+influences cell and colony morphology in Candida albicans.";
+"The diploid genome sequence of Candida albicans.";
+-!- FUNCTION: DNA-binding protein that induces severe bending of DNA.
+    Required for DNA-binding by the FACT complex, a general chromatin
+    factor that acts to reorganize nucleosomes. The FACT complex is
+    involved in multiple processes that require DNA as a template such
+    as mRNA elongation, DNA replication and DNA repair. Also augments
+    the fidelity of transcription by RNA polymerase III independently
+    of any role in the FACT complex (By similarity).
+-!- SUBUNIT: Weakly associates with the stable SPT16-POB3 heterodimer
+    to form the FACT complex (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity).
+-!- SIMILARITY: Belongs to the NHP6 family.
+-!- SIMILARITY: Contains 1 HMG box DNA-binding domain.
+Chromosomal protein; DNA damage; DNA repair; DNA replication;
+DNA-binding; Nuclear protein; Transcription; Transcription regulation.
+TMZERO

@@ -1,0 +1,54 @@
+AC   P0ABB4; P00824; Q2M850;
+ATP synthase subunit beta (EC 3.6.3.14) (ATPase subunit beta) (ATP
+synthase F1 sector subunit beta).
+"DNA sequence around the Escherichia coli unc operon. Completion of
+the sequence of a 17 kilobase segment containing asnA, oriC, unc, glmS
+and phoS.";
+"The atp operon: nucleotide sequence of the genes for the gamma, beta,
+and epsilon subunits of Escherichia coli ATP synthase.";
+"Structure and function of H+-ATPase: what we have learned from
+Escherichia coli H+-ATPase.";
+"Nucleotide sequence of the genes for beta and epsilon subunits of
+proton-translocating ATPase from Escherichia coli.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the genes coding for alpha, beta and gamma
+subunits of the proton-translocating ATPase of Escherichia coli.";
+"Catalytic and noncatalytic nucleotide binding sites of the
+Escherichia coli F1 ATPase. Amino acid sequences of beta-subunit
+tryptic peptides labeled with 2-azido-ATP.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Mutations in Ser174 and the glycine-rich sequence (Gly149, Gly150,
+and Thr156) in the beta subunit of Escherichia coli H(+)-ATPase.";
+"Structural features of the gamma subunit of the Escherichia coli F(1)
+ATPase revealed by a 4.4-A resolution map obtained by X-ray
+crystallography.";
+-!- FUNCTION: Produces ATP from ADP in the presence of a proton
+    gradient across the membrane. The catalytic sites are hosted
+    primarily by the beta subunits.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic
+    core - and CF(0) - the membrane proton channel. CF(1) has five
+    subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0)
+    has three main subunits: a(1), b(2) and c(9-12). The alpha and
+    beta chains form an alternating ring which encloses part of the
+    gamma chain. CF(1) is attached to CF(0) by a central stalk formed
+    by the gamma and epsilon chains, while a peripheral stalk is
+    formed by the delta and b chains.
+-!- INTERACTION:
+    P0ABB0:atpA; NbExp=1; IntAct=EBI-368783, EBI-368707;
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ATPase alpha/beta chains family.
+ GO:0005737; C:cytoplasm; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; ATP synthesis; ATP-binding; CF(1); Complete proteome;
+Direct protein sequencing; Hydrogen ion transport; Hydrolase;
+Inner membrane; Ion transport; Membrane; Nucleotide-binding;
+Transport.
+TMZERO

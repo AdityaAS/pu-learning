@@ -1,0 +1,23 @@
+AC   P26382;
+Fructose permease IID component (PTS system fructose-specific EIID
+component) (EIID-Fru) (p30).
+"Levanase operon of Bacillus subtilis includes a fructose-specific
+phosphotransferase system regulating the expression of the operon.";
+"A 23911 bp region of the Bacillus subtilis genome comprising genes
+located upstream and downstream of the lev operon.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: The phosphoenolpyruvate-dependent sugar
+    phosphotransferase system (PTS), a major carbohydrate active
+    -transport system, catalyzes the phosphorylation of incoming sugar
+    substrates concomitant with their translocation across the cell
+    membrane. This system is involved in fructose transport.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- DOMAIN: The EIID domain, with its homologous EIIC domain, forms
+    the PTS system translocation channel and contains part of its
+    specific substrate-binding site.
+-!- SIMILARITY: Contains 1 PTS EIID domain.
+Complete proteome; Membrane; Phosphotransferase system;
+Sugar transport; Transmembrane; Transport.
+TMFIVE

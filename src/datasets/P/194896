@@ -1,0 +1,32 @@
+AC   P02767;
+Transthyretin precursor (Prealbumin) (TBPA).
+"The primary structure of rabbit and rat prealbumin and a comparison
+with the tertiary structure of human prealbumin.";
+"Rat transthyretin (prealbumin). Molecular cloning, nucleotide
+sequence, and gene expression in liver and brain.";
+"Cloning and nucleotide sequencing of transthyretin (prealbumin) cDNA
+from rat choroid plexus and liver.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Structure and expression of the rat transthyretin (prealbumin)
+gene.";
+"Rat plasma prealbumin. Isolation and partial characterization.";
+"Crystal structure of rat transthyretin at 2.5-A resolution: first
+report on a unique tetrameric structure.";
+-!- FUNCTION: Thyroid hormone-binding protein. Probably transports
+    thyroxine from the bloodstream to the brain.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Most abundant in the choroid plexus. Also
+    present in the liver.
+-!- MISCELLANEOUS: This protein binds retinol-binding protein at
+    levels similar to, and the thyroid hormones at levels much higher
+    than, the human protein.
+-!- SIMILARITY: Belongs to the transthyretin family.
+ GO:0005615; C:extracellular space; IDA:RGD.
+ GO:0042562; F:hormone binding; IDA:RGD.
+ GO:0015349; F:thyroid hormone transporter activity; IPI:RGD.
+ GO:0042403; P:thyroid hormone metabolism; TAS:RGD.
+3D-structure; Direct protein sequencing; Hormone; Retinol-binding;
+Signal; Thyroid hormone; Transport; Vitamin A.
+TMZERO

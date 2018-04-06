@@ -1,0 +1,31 @@
+AC   Q9NJ15; Q9NJ14; Q9NJ16;
+Proprotein convertase subtilisin/kexin type 5 precursor (EC 3.4.21.-)
+(Proprotein convertase PC6-like) (aPC6).
+"Evolution of the prohormone convertases: identification of a
+homologue of PC6 in the protochordate amphioxus.";
+-!- FUNCTION: Likely to represent a widespread endoprotease activity
+    within the constitutive and regulated secretory pathway. Capable
+    of cleavage at the RX(K/R)R consensus motif (By similarity).
+-!- CATALYTIC ACTIVITY: Release of mature proteins from their
+    proproteins by cleavage of Arg-Xaa-Yaa-Arg-|-Zaa bonds, where Xaa
+    can be any amino acid and Yaa is Arg or Lys.
+-!- SUBCELLULAR LOCATION: Isoform A: Secreted protein. Isoform C:
+    Secreted protein. Isoform B: Cell membrane; single-pass type I
+    membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=B;
+      IsoId=Q9NJ15-1; Sequence=Displayed;
+    Name=A;
+      IsoId=Q9NJ15-2; Sequence=VSP_005444, VSP_005445;
+    Name=C;
+      IsoId=Q9NJ15-3; Sequence=VSP_005442, VSP_005443;
+-!- DOMAIN: The propeptide domain acts as an intramolecular chaperone
+    assisting the folding of the zymogen within the endoplasmic
+    reticulum.
+-!- SIMILARITY: Belongs to the peptidase S8 family.
+-!- SIMILARITY: Contains 1 homo B/P domain.
+Alternative splicing; Cleavage on pair of basic residues;
+Glycoprotein; Hydrolase; Membrane; Protease; Repeat; Serine protease;
+Signal; Transmembrane; Zymogen.
+TMONE

@@ -1,0 +1,11 @@
+AC   Q24VA3;
+UPF0078 membrane protein DSY2250.
+"Complete genome sequence of the dehalorespiring bacterium
+Desulfitobacterium hafniense Y51 and comparison with Dehalococcoides
+ethenogenes 195.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the UPF0078 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome; Membrane; Transmembrane.
+TMSIX

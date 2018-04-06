@@ -1,0 +1,14 @@
+AC   P0A0J7; P21191;
+Quinolone resistance protein norA.
+"Nucleotide sequence and characterization of the Staphylococcus aureus
+norA gene, which confers resistance to quinolones.";
+"A point mutation in norA gene is responsible for quinolone resistance
+in Staphylococcus aureus.";
+-!- FUNCTION: Involved in quinolone resistance. May constitute a
+    membrane-associated active efflux pump of hydrophilic quinolones.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the major facilitator superfamily. TCR/tet
+    family.
+Membrane; Transmembrane; Transport.
+TMTWELVE

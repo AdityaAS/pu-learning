@@ -1,0 +1,18 @@
+AC   P79755;
+Complement component C9 precursor.
+"Cloning and sequencing of complement component C9 and its linkage to
+DOC-2 in the pufferfish Fugu rubripes.";
+-!- FUNCTION: C9 is the final component of the complement system to be
+    added in the assembly of the membrane attack complex. It is able
+    to enter lipid bilayers, forming transmembrane channels (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the complement C6/C7/C8/C9 family.
+-!- SIMILARITY: Contains 1 EGF-like domain.
+-!- SIMILARITY: Contains 1 LDL-receptor class A domain.
+-!- SIMILARITY: Contains 1 MACPF domain.
+-!- SIMILARITY: Contains 2 TSP type-1 domains.
+Complement alternate pathway; Complement pathway; Cytolysis;
+EGF-like domain; Glycoprotein; Immune response; Innate immunity;
+Membrane attack complex; Repeat; Signal.
+TMZERO

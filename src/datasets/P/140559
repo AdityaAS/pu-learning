@@ -1,0 +1,16 @@
+AC   P43466;
+Raffinose carrier protein (Raffinose permease) [Includes: Putative
+phosphotransferase enzyme EIIA component (EC 2.7.1.-) (Putative PTS
+system EIIA component)].
+"The sucrose and raffinose operons of Pediococcus pentosaceus
+PPE1.0.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- DOMAIN: The PTS EIIA type-1 domain may serve a regulatory
+    function, through its phosphorylation activity (By similarity).
+-!- SIMILARITY: In the N-terminal section; belongs to the
+    sodium:galactoside symporter family.
+-!- SIMILARITY: Contains 1 PTS EIIA type-1 domain.
+Membrane; Phosphorylation; Sugar transport; Symport; Transferase;
+Transmembrane; Transport.
+TMTWELVE

@@ -1,0 +1,28 @@
+AC   Q96TL7; Q9UTW1; Q9UU15;
+DNA-binding protein rap1.
+"Telomere binding of the Rap1 protein is required for meiosis in
+fission yeast.";
+"spRap1 and spRif1, recruited to telomeres by Taz1, are essential for
+telomere function in fission yeast.";
+"The genome sequence of Schizosaccharomyces pombe.";
+"Large-scale screening of intracellular protein localization in living
+fission yeast cells by the use of a GFP-fusion genomic DNA library.";
+-!- FUNCTION: Involved in the regulation of telomere length,
+    clustering and has a specific role in telomere position effect
+    (TPE). Unlike yeast, exhibits no effect in transcription
+    regulation.
+-!- SUBUNIT: Interacts with taz1. Unlike yeast does not interact with
+    rif1.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- SIMILARITY: Contains 1 BRCT domain.
+ GO:0000781; C:chromosome, telomeric region; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0005515; F:protein binding; IPI:GeneDB_SPombe.
+ GO:0006348; P:chromatin silencing at telomere; IMP:GeneDB_SPombe.
+ GO:0031848; P:protection from non-homologous end joining ...; IGI:GeneDB_SPombe.
+ GO:0045141; P:telomere clustering; IMP:GeneDB_SPombe.
+ GO:0000723; P:telomere maintenance; IGI:GeneDB_SPombe.
+ GO:0031860; P:telomeric 3' overhang formation; IGI:GeneDB_SPombe.
+Chromosomal protein; Complete proteome; DNA-binding; Nuclear protein;
+Telomere.
+TMZERO

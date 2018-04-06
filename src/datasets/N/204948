@@ -1,0 +1,9 @@
+AC   P33429;
+VP4 core protein.
+"Conservation of the segment 4 gene sequence and of a leucine zipper
+motif in VP4 among five US bluetongue viruses.";
+-!- FUNCTION: The VP4 protein is one of the five proteins (with VP1,
+    VP3, VP6 and VP7) which form the inner capsid of the virus.
+-!- SIMILARITY: Belongs to the reoviruses VP4 family.
+Core protein; Virion protein.
+TMZERO

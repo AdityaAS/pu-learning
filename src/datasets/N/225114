@@ -1,0 +1,12 @@
+AC   P45424; Q2M8Z2;
+Hypothetical protein yhcH.
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- INTERACTION:
+    P0A9A6:ftsZ; NbExp=1; IntAct=EBI-1132054, EBI-370963;
+-!- SIMILARITY: Belongs to the yhcH/yiaL/yjgK family.
+-!- SIMILARITY: To H.influenzae HI0227.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Hypothetical protein.
+TMZERO

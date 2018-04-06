@@ -1,0 +1,19 @@
+AC   P26419;
+Flagellar motor switch protein fliN.
+"Flagellar switch of Salmonella typhimurium: gene sequences and
+deduced protein sequences.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"The FliO, FliP, FliQ, and FliR proteins of Salmonella typhimurium:
+putative components for flagellar assembly.";
+-!- FUNCTION: FliN is one of three proteins (fliG, fliN, fliM) that
+    form a switch complex that is proposed to be located at the base
+    of the basal body. This complex interacts with the cheY and cheZ
+    chemotaxis proteins, in addition to contacting components of the
+    motor that determine the direction of flagellar rotation.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the fliN/mopA/spaO family.
+Chemotaxis; Complete proteome; Flagellar rotation; Flagellum;
+Inner membrane; Membrane.
+TMZERO

@@ -1,0 +1,90 @@
+AC   P0A6Y8; P04475;
+Chaperone protein dnaK (Heat shock protein 70) (Heat shock 70 kDa
+protein) (HSP70).
+"Major heat shock gene of Drosophila and the Escherichia coli heat-
+inducible dnaK gene are homologous.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Precursor of mitochondrial aspartate aminotransferase synthesized in
+Escherichia coli is complexed with heat-shock protein DnaK.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+"Nucleotide sequence of the Escherichia coli dnaJ gene and
+purification of the gene product.";
+"The nucleotide sequence of the Escherichia coli K12 dnaJ+ gene. A
+gene that encodes a heat shock protein.";
+"DNA sequence analysis of the dnaK gene of Escherichia coli B and of
+two dnaK genes carrying the temperature-sensitive mutations dnaK7(Ts)
+and dnaK756(Ts).";
+"Involvement of DnaK protein in mini-F plasmid replication:
+temperature-sensitive seg mutations are located in the dnaK gene.";
+"Identification of phosphoproteins in Escherichia coli.";
+"DnaK as a thermometer: threonine-199 is site of autophosphorylation
+and is critical for ATPase activity.";
+"Inhibition of DnaK autophosphorylation by heat shock proteins and
+polypeptide substrates.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Structural analysis of substrate binding by the molecular chaperone
+DnaK.";
+"NMR solution structure of the 21 kDa chaperone protein DnaK substrate
+binding domain: a preview of chaperone-protein interaction.";
+"Structural insights into substrate binding by the molecular chaperone
+DnaK.";
+-!- FUNCTION: Plays an essential role in the initiation of phage
+    lambda DNA replication, where it acts in an ATP-dependent fashion
+    with the dnaJ protein to release lambda O and P proteins from the
+    preprimosomal complex. DnaK is also involved in chromosomal DNA
+    replication, possibly through an analogous interaction with the
+    dnaA protein. Also participates actively in the response to
+    hyperosmotic shock.
+-!- INTERACTION:
+    P37685:aldB; NbExp=1; IntAct=EBI-542092, EBI-1132062;
+    P00811:ampC; NbExp=1; IntAct=EBI-542092, EBI-1134803;
+    P0A9Q9:asd; NbExp=1; IntAct=EBI-542092, EBI-1132825;
+    P0AC38:aspA; NbExp=1; IntAct=EBI-542092, EBI-544200;
+    P16700:cysP; NbExp=1; IntAct=EBI-542092, EBI-560567;
+    P0C0V0:degP; NbExp=1; IntAct=EBI-542092, EBI-547165;
+    P0AAI5:fabF; NbExp=1; IntAct=EBI-542092, EBI-542783;
+    P0AB71:fbaA; NbExp=1; IntAct=EBI-542092, EBI-370916;
+    P10346:glnQ; NbExp=1; IntAct=EBI-542092, EBI-1120383;
+    P0AC81:gloA; NbExp=1; IntAct=EBI-542092, EBI-551143;
+    P37024:hrpB; NbExp=1; IntAct=EBI-542092, EBI-549226;
+    P0A6Z3:htpG; NbExp=1; IntAct=EBI-542092, EBI-369221;
+    P62623:ispH; NbExp=1; IntAct=EBI-542092, EBI-554022;
+    P45578:luxS; NbExp=1; IntAct=EBI-542092, EBI-562313;
+    P28635:metQ; NbExp=1; IntAct=EBI-542092, EBI-1114713;
+    P12282:moeB; NbExp=1; IntAct=EBI-542092, EBI-554435;
+    P30011:nadC; NbExp=1; IntAct=EBI-542092, EBI-551015;
+    P17117:nfsA; NbExp=1; IntAct=EBI-542092, EBI-1120624;
+    P69924:nrdB; NbExp=1; IntAct=EBI-542092, EBI-555196;
+    P00634:phoA; NbExp=1; IntAct=EBI-542092, EBI-552958;
+    P28304:qor; NbExp=1; IntAct=EBI-542092, EBI-556687;
+    P21513:rne; NbExp=1; IntAct=EBI-542092, EBI-549958;
+    P68919:rplY; NbExp=1; IntAct=EBI-542092, EBI-553087;
+    P23721:serC; NbExp=1; IntAct=EBI-542092, EBI-557952;
+    P0A853:tnaA; NbExp=1; IntAct=EBI-542092, EBI-371316;
+    P0AG80:ugpB; NbExp=1; IntAct=EBI-542092, EBI-546637;
+    P69822:ulaB; NbExp=1; IntAct=EBI-542092, EBI-1113922;
+    P76002:ycgK; NbExp=1; IntAct=EBI-542092, EBI-1122554;
+    P0ACX3:ydhR; NbExp=1; IntAct=EBI-542092, EBI-544817;
+    Q46906:ygcP; NbExp=1; IntAct=EBI-542092, EBI-557727;
+    Q46796:ygeP; NbExp=1; IntAct=EBI-542092, EBI-1130615;
+    P36677:yhdN; NbExp=1; IntAct=EBI-542092, EBI-1124572;
+    P0ADX9:yhhF; NbExp=1; IntAct=EBI-542092, EBI-561207;
+    P46853:yhhX; NbExp=1; IntAct=EBI-542092, EBI-1132804;
+    P37342:yjjI; NbExp=1; IntAct=EBI-542092, EBI-548519;
+-!- SUBCELLULAR LOCATION: Cytoplasm. Cell inner membrane; peripheral
+    membrane protein.
+-!- PTM: Autophosphorylated; grpE inhibits the autophosphorylation.
+-!- MISCELLANEOUS: The mutants dnaK756(Ts), seg-1 and seg-2 confer
+    temperature sensitivity.
+-!- SIMILARITY: Belongs to the heat shock protein 70 family.
+ GO:0005737; C:cytoplasm; IDA:UniProtKB.
+ GO:0005515; F:protein binding; IPI:IntAct.
+3D-structure; ATP-binding; Chaperone; Complete proteome;
+Direct protein sequencing; DNA replication; Heat shock;
+Nucleotide-binding; Phosphorylation.
+TMZERO

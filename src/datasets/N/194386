@@ -1,0 +1,15 @@
+AC   Q6GIM7;
+Thioredoxin reductase (EC 1.8.1.9) (TRXR).
+"Complete genomes of two clinical Staphylococcus aureus strains:
+evidence for the rapid evolution of virulence and drug resistance.";
+-!- CATALYTIC ACTIVITY: Thioredoxin + NADP(+) = thioredoxin disulfide
+    + NADPH.
+-!- COFACTOR: Binds 1 FAD per subunit (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- MISCELLANEOUS: The active site is a redox-active disulfide bond.
+-!- SIMILARITY: Belongs to the class-II pyridine nucleotide-disulfide
+    oxidoreductase family.
+Complete proteome; FAD; Flavoprotein; NADP; Oxidoreductase;
+Redox-active center.
+TMZERO

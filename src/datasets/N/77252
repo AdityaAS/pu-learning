@@ -1,0 +1,12 @@
+AC   P84717;
+Putative heat-shock protein PS1 (Fragments).
+"Proteomic comparison of needles from blister rust-resistant and
+susceptible Pinus strobus seedlings reveals upregulation of putative
+disease resistance proteins.";
+-!- FUNCTION: Molecular chaperone (By similarity).
+-!- MISCELLANEOUS: On the 2D-gel the determined pI of this protein is:
+    5.6, its MW is: 97.6 kDa.
+-!- SIMILARITY: Belongs to the heat shock protein 90 family.
+-!- CAUTION: The order of the peptides shown is unknown.
+Chaperone; Direct protein sequencing; Glycoprotein; Heat shock.
+TMZERO

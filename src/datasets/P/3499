@@ -1,0 +1,35 @@
+AC   P32705; Q2M6N7;
+Cation/acetate symporter actP (Acetate transporter actP) (Acetate
+permease).
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The gene yjcG, cotranscribed with the gene acs, encodes an acetate
+permease in Escherichia coli.";
+"Protein complexes of the Escherichia coli cell envelope.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Transports acetate. Also able to transport glycolate.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=5.4 uM for acetate;
+      Vmax=19.6 nmol/min/mg enzyme;
+-!- SUBUNIT: Has been isolated from inner membrane preparations as a
+    homodimer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- MISCELLANEOUS: Although actP belongs to the sodium:solute
+    symporter family, the experiments did not allow to show that
+    acetate transport depends on sodium. The inhibition of acetate
+    transport by the uncoupler CCCP indicates that the driving force
+    used by actP is a transmembrane electrochemical potential.
+    However, it does not allow to discriminate between hydrogen ion or
+    sodium ion-coupled transporters.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+ GO:0015123; F:acetate transporter activity; IEA:HAMAP.
+Complete proteome; Inner membrane; Ion transport; Membrane; Sodium;
+Sodium transport; Symport; Transmembrane; Transport.
+TMTHIRTEEN

@@ -1,0 +1,23 @@
+AC   Q6LM58;
+Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)
+(SIR-FP).
+"Life at depth: Photobacterium profundum genome sequence and
+expression analysis.";
+-!- FUNCTION: Catalyzes the 6-electron reduction of sulfite to
+    sulfide. This is one of several activities required for the
+    biosynthesis of L-cysteine from sulfate. The flavo-protein
+    component catalyzes the electron flow from NADPH -> FAD -> FMN to
+    the hemoprotein component (By similarity).
+-!- CATALYTIC ACTIVITY: H(2)S + 3 NADP(+) + 3 H(2)O = sulfite + 3
+    NADPH.
+-!- COFACTOR: Binds 1 FAD per subunit (By similarity).
+-!- COFACTOR: Binds 1 FMN per subunit (By similarity).
+-!- SUBUNIT: Alpha(8)-beta(8). The alpha component is a flavoprotein,
+    the beta component is a hemoprotein (By similarity).
+-!- SIMILARITY: Contains 1 flavodoxin-like domain.
+ GO:0004783; F:sulfite reductase (NADPH) activity; IEA:HAMAP.
+ GO:0000103; P:sulfate assimilation; IEA:HAMAP.
+Amino-acid biosynthesis; Complete proteome; Cysteine biosynthesis;
+Electron transport; FAD; Flavoprotein; FMN; NADP; Oxidoreductase;
+Transport.
+TMZERO

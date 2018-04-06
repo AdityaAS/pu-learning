@@ -1,0 +1,14 @@
+AC   P41575;
+6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+(Fragment).
+"Intergeneric transfer and recombination of the 6-phosphogluconate
+dehydrogenase gene (gnd) in enteric bacteria.";
+-!- CATALYTIC ACTIVITY: 6-phospho-D-gluconate + NADP(+) = D-ribulose
+    5-phosphate + CO(2) + NADPH.
+-!- PATHWAY: Carbohydrate degradation; pentose phosphate pathway; D-
+    ribulose 5-phosphate from D-glucose 6-phosphate (oxidative stage):
+    step 3.
+-!- SIMILARITY: Belongs to the 6-phosphogluconate dehydrogenase
+    family.
+Gluconate utilization; NADP; Oxidoreductase; Pentose shunt.
+TMZERO

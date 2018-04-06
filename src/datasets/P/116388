@@ -1,0 +1,21 @@
+AC   P0AFD2; P33601;
+NADH-quinone oxidoreductase chain E (EC 1.6.99.5) (NADH dehydrogenase
+I, chain E) (NDH-1, chain E) (NUO5).
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: NDH-1 shuttles electrons from NADH, via FMN and iron-
+    sulfur (Fe-S) centers, to quinones in the respiratory chain. The
+    immediate electron acceptor for the enzyme in this species is
+    believed to be ubiquinone. Couples the redox reaction to proton
+    translocation (for every two electrons transferred, four hydrogen
+    ions are translocated across the cytoplasmic membrane), and thus
+    conserves the redox energy in a proton gradient (By similarity).
+-!- CATALYTIC ACTIVITY: NADH + quinone = NAD(+) + quinol.
+-!- COFACTOR: Binds 1 2Fe-2S cluster (Potential).
+-!- SUBUNIT: Composed of 13 different subunits. Subunits nuoCD, E, F,
+    and G constitute the peripheral sector of the complex (By
+    similarity).
+-!- SIMILARITY: Belongs to the complex I 24 kDa subunit family.
+2Fe-2S; Complete proteome; Iron; Iron-sulfur; Metal-binding; NAD;
+Oxidoreductase; Quinone; Ubiquinone.
+TMZERO

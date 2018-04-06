@@ -1,0 +1,9 @@
+AC   P54933; O30834;
+ATP-binding transport protein smoK (Protein polK).
+"Cloning, nucleotide sequence, and overexpression of smoS, a component
+of a novel operon encoding an ABC transporter and polyol
+dehydrogenases of Rhodobacter sphaeroides Si4.";
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Nucleotide-binding; Transport.
+TMZERO

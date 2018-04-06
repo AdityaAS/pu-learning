@@ -1,0 +1,29 @@
+AC   P16700;
+Thiosulfate-binding protein precursor.
+"Sulfate and thiosulfate transport in Escherichia coli K-12:
+identification of a gene encoding a novel protein involved in
+thiosulfate binding.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Comparing the predicted and observed properties of proteins encoded
+in the genome of Escherichia coli K-12.";
+-!- FUNCTION: Part of the ABC transporter complex cysAWTP
+    (TC 3.A.1.6.1) involved in sulfate/thiosulfate import. This
+    protein specifically binds thiosulfate and is involved in its
+    transmembrane transport.
+-!- SUBUNIT: The complex is composed of two ATP-binding proteins
+    (cysA), two transmembrane proteins (cysT and cysW) and a solute-
+    binding protein (cysP) (Probable).
+-!- INTERACTION:
+    P0A6Y8:dnaK; NbExp=1; IntAct=EBI-560567, EBI-542092;
+-!- SUBCELLULAR LOCATION: Periplasm.
+-!- SIMILARITY: Belongs to the prokaryotic sulfate binding protein
+    family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Direct protein sequencing; Periplasmic; Signal;
+Sulfate transport; Transport.
+TMZERO

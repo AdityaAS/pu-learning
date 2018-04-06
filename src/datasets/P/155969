@@ -1,0 +1,28 @@
+AC   Q52716; O08057; Q52712;
+Electron transport complex protein rnfC (Nitrogen fixation protein
+rnfC).
+"Identification of a new class of nitrogen fixation genes in
+Rhodobacter capsulatus: a putative membrane complex involved in
+electron transport to nitrogenase.";
+"Overexpression in Escherichia coli of the rnf genes from Rhodobacter
+capsulatus -- characterization of two membrane-bound iron-sulfur
+proteins.";
+"Membrane localization, topology, and mutual stabilization of the
+rnfABC gene products in Rhodobacter capsulatus and implications for a
+new family of energy-coupling NADH oxidoreductases.";
+-!- FUNCTION: Required for nitrogen fixation. May be part of a
+    membrane complex functioning as an intermediate in the electron
+    transport to nitrogenase. Stabilizes rnfB.
+-!- COFACTOR: Binds 2 4Fe-4S clusters per subunit (Potential).
+-!- SUBUNIT: Composed of at least six subunits; rnfA, rnfB, rnfC,
+    rnfD, rnfE and rnfG.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein (Probable).
+-!- INDUCTION: Expression is reduced under iron-limiting conditions.
+-!- SIMILARITY: Belongs to the 4Fe4S bacterial-type ferredoxin family.
+    RnfC subfamily.
+ GO:0009399; P:nitrogen fixation; IEA:HAMAP.
+4Fe-4S; Direct protein sequencing; Electron transport; Inner membrane;
+Iron; Iron-sulfur; Membrane; Metal-binding; Nitrogen fixation;
+Transport.
+TMZERO

@@ -1,0 +1,55 @@
+AC   Q92887; Q14022; Q92500; Q92798; Q99663; Q9UMS2;
+Canalicular multispecific organic anion transporter 1 (ATP-binding
+cassette sub-family C member 2) (Multidrug resistance-associated
+protein 2) (Canalicular multidrug resistance protein).
+"A human canalicular multispecific organic anion transporter (cMOAT)
+gene is overexpressed in cisplatin-resistant human cancer cell lines
+with decreased drug accumulation.";
+"cDNA cloning of the hepatocyte canalicular isoform of the multidrug
+resistance protein, cMrp, reveals a novel conjugate export pump
+deficient in hyperbilirubinemic mutant rats.";
+"Exon-intron organization of the human multidrug-resistance protein 2
+(MRP2) gene mutated in Dubin-Johnson syndrome.";
+"Hepatic secretion of conjugated drugs and endogenous substances.";
+"Mutation of Trp1254 in the multispecific organic anion transporter,
+multidrug resistance protein 2 (MRP2) (ABCC2), alters substrate
+specificity and results in loss of methotrexate transport activity.";
+"Mutations in the canilicular multispecific organic anion transporter
+(cMOAT) gene, a novel ABC transporter, in patients with
+hyperbilirubinemia II/Dubin-Johnson syndrome.";
+"Genomic structure of the canalicular multispecific organic anion-
+transporter gene (MRP2/cMOAT) and mutations in the ATP-binding-
+cassette region in Dubin-Johnson syndrome.";
+"Impaired protein maturation of the conjugate export pump multidrug
+resistance protein 2 as a consequence of a deletion mutation in Dubin-
+Johnson syndrome.";
+"Identification and functional analysis of two novel mutations in the
+multidrug resistance protein 2 gene in Israeli patients with Dubin-
+Johnson syndrome.";
+"Polymorphism of the ABC transporter genes, MDR1, MRP1 and MRP2/cMOAT,
+in healthy Japanese subjects.";
+-!- FUNCTION: Mediates hepatobiliary excretion of numerous organic
+    anions. May function as a cellular cisplatin transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Found on the apical membrane of polarized
+    cells in liver, kidney and intestine. The highest expression is
+    found in liver.
+-!- DISEASE: Defects in ABCC2 are the cause of Dubin-Johnson syndrome
+    (DJS) [MIM:237500]. DJS is an autosomal recessive disorder
+    characterized by conjugated hyperbilirubinemia, an increase in the
+    urinary excretion of coproporphyrin isomer I, deposition of
+    melanin-like pigment in hepatocytes, and prolonged retention of
+    sulfobromophthalein, but otherwise normal liver function.
+-!- SIMILARITY: Belongs to the ABC transporter family. Conjugate
+    transporter (TC 3.A.1.208) subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=ABCC2".
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; TAS:ProtInc.
+ GO:0008514; F:organic anion transporter activity; TAS:ProtInc.
+ GO:0006810; P:transport; TAS:ProtInc.
+ATP-binding; Disease mutation; Glycoprotein; Membrane;
+Nucleotide-binding; Polymorphism; Repeat; Transmembrane; Transport.
+TMSEVENTEEN

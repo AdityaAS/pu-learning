@@ -1,0 +1,25 @@
+AC   P12661;
+Interphotoreceptor retinoid-binding protein precursor (IRBP)
+(Interstitial retinol-binding protein) (7S protein).
+"Interphotoreceptor retinoid-binding protein. Gene characterization,
+protein repeat structure, and its evolution.";
+"Synthesis of an immunopathogenic fusion protein derived from a bovine
+interphotoreceptor retinoid-binding protein cDNA clone.";
+"Interspecies conservation of structure of interphotoreceptor
+retinoid-binding protein. Similarities and differences as adjudged by
+peptide mapping and N-terminal sequencing.";
+"Properties of an interphotoreceptor retinoid-binding protein from
+bovine retina.";
+"cDNA clones encoding bovine interphotoreceptor retinoid binding
+protein.";
+-!- FUNCTION: IRBP shuttles 11-cis and all trans retinoids between the
+    retinol isomerase in the pigment epithelium and the visual
+    pigments in the photoreceptor cells of the retina.
+-!- SUBCELLULAR LOCATION: Secreted protein; extracellular space;
+    extracellular matrix; interphotoreceptor matrix.
+    Note=Interphotoreceptor matrix that permeates the space between
+    the retina and the contiguous layer of pigment epithelium cells.
+-!- SIMILARITY: Belongs to the peptidase S41A family.
+Direct protein sequencing; Glycoprotein; Repeat; Signal; Transport;
+Vitamin A.
+TMZERO

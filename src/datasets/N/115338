@@ -1,0 +1,11 @@
+AC   P11992;
+NADH-ubiquinone oxidoreductase chain 4 (EC 1.6.5.3) (NADH
+dehydrogenase subunit 4).
+"Unusual genetic codes and a novel gene structure for tRNA(AGYSer) in
+starfish mitochondrial DNA.";
+"Nucleotide sequence and gene organization of the starfish Asterina
+pectinifera mitochondrial genome.";
+-!- CATALYTIC ACTIVITY: NADH + ubiquinone = NAD(+) + ubiquinol.
+-!- SIMILARITY: Belongs to the complex I subunit 4 family.
+Mitochondrion; NAD; Oxidoreductase; Ubiquinone.
+TMZERO

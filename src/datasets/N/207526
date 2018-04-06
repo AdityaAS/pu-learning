@@ -1,0 +1,18 @@
+AC   P50910;
+Xylose isomerase (EC 5.3.1.5).
+"The sequence of xylose isomerase gene from Streptomyces diastaticus
+No. 7 M1033.";
+"Structure of xylose isomerase from Streptomyces diastaticus no. 7
+strain M1033 at 1.85 A resolution.";
+-!- FUNCTION: Involved in D-xylose catabolism.
+-!- CATALYTIC ACTIVITY: D-xylose = D-xylulose.
+-!- COFACTOR: Binds 2 cobalt ions per subunit.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the xylose isomerase family.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+ GO:0042732; P:D-xylose metabolism; IEA:HAMAP.
+ GO:0006098; P:pentose-phosphate shunt; IEA:HAMAP.
+3D-structure; Carbohydrate metabolism; Cobalt; Isomerase;
+Metal-binding; Pentose shunt; Xylose metabolism.
+TMZERO

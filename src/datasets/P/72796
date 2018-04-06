@@ -1,0 +1,12 @@
+AC   P31499;
+Hemin receptor precursor.
+"Hemin uptake system of Yersinia enterocolitica: similarities with
+other TonB-dependent systems in Gram-negative bacteria.";
+-!- FUNCTION: This protein is involved in the initial step of iron
+    uptake by binding hemin, an iron chelatin siderophore that allows
+    the bacteria to extract iron from the environment.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: Belongs to the tonB-dependent receptor family.
+Ion transport; Iron; Iron transport; Membrane; Outer membrane;
+Receptor; Signal; TonB box; Transport.
+TMZERO

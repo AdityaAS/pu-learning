@@ -1,0 +1,23 @@
+AC   P25180;
+Hemagglutinin-neuraminidase (EC 3.2.1.18).
+"Antigenic and structural properties of a paramyxovirus simian virus
+41 (SV41) reveal a close relationship with human parainfluenza type 2
+virus.";
+-!- FUNCTION: Attaches the virus to sialic acid-containing cell
+    receptors and thereby initiating infection. Binding of HN protein
+    to the receptor induces a conformational change that allows the F
+    protein to trigger virion/cell membranes fusion (By similarity).
+-!- FUNCTION: Neuraminidase activity ensures the efficient spread of
+    the virus by dissociating the mature virions from the neuraminic
+    acid containing glycoproteins (By similarity).
+-!- CATALYTIC ACTIVITY: Hydrolysis of alpha-(2->3)-, alpha-(2->6)-,
+    alpha-(2->8)- glycosidic linkages of terminal sialic residues in
+    oligosaccharides, glycoproteins, glycolipids, colominic acid and
+    synthetic substrates.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type II membrane
+    protein.
+-!- SIMILARITY: Belongs to the paramyxoviruses hemagglutinin-
+    neuraminidase family.
+Envelope protein; Glycoprotein; Hemagglutinin; Hydrolase; Membrane;
+Signal-anchor; Transmembrane; Virion protein.
+TMONE

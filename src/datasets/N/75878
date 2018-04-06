@@ -1,0 +1,18 @@
+AC   P18818;
+DNA-binding protein H-NS (Histone-like protein HLP-II).
+"Characterization of the structural genes for the DNA-binding protein
+H-NS in Enterobacteriaceae.";
+-!- FUNCTION: H-NS binds tightly to ds-DNA, increases its thermal
+    stability and inhibits transcription. It also binds to ss-DNA and
+    RNA but with a much lower affinity. H-NS has possible histone-like
+    function. May be a global transcriptional regulator through its
+    ability to bind to curved DNA sequences, which are found in
+    regions upstream of a certain subset of promoters. It plays a role
+    in the thermal control of pili production. It is subject to
+    transcriptional auto-repression. It binds preferentially to the
+    upstream region of its own gene recognizing two segments of DNA on
+    both sides of a bend centered around -150 (By similarity).
+-!- SUBUNIT: Homodimer.
+-!- SIMILARITY: Belongs to the histone-like protein H-NS family.
+DNA-binding; Repressor; Transcription; Transcription regulation.
+TMZERO

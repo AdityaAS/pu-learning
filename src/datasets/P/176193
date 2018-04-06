@@ -1,0 +1,12 @@
+AC   Q55026; Q7BA83;
+Protein srpB.
+"Genes encoded on a cyanobacterial plasmid are transcriptionally
+regulated by sulfur availability and CysR.";
+"pANL, the large plasmid of Synechococcus elongatus PCC 7942.";
+"Complete sequence of plasmid 1 of Synechococcus elongatus PCC 7942.";
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: By sulfur deprivation.
+-!- SIMILARITY: Belongs to the mgtC/sapB family.
+Complete proteome; Membrane; Plasmid; Transmembrane.
+TMFOUR

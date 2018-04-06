@@ -1,0 +1,18 @@
+AC   P31171;
+Prenyl transferase (EC 2.5.1.-).
+"An ORF323 with homology to crtE, specifying prephytoene pyrophosphate
+dehydrogenase, is encoded by cyanelle DNA in the eukaryotic alga
+Cyanophora paradoxa.";
+"Nucleotide sequence of the cyanelle DNA from Cyanophora paradoxa.";
+"The complete sequence of the cyanelle genome of Cyanophora paradoxa:
+the genetic complexity of a primitive plastid.";
+"The cyanelle S10 spc ribosomal protein gene operon from Cyanophora
+paradoxa.";
+-!- FUNCTION: Possible role in synthesis of the nonaprenyl side chain
+    of plastoquinone or in synthesis of other prenyl chains such as
+    undekaprenyl pyrophosphate.
+-!- SUBCELLULAR LOCATION: Plastid; cyanelle.
+-!- SIMILARITY: Belongs to the FPP/GGPP synthetase family.
+-!- CAUTION: Was originally (Ref.1) called crtE.
+Cyanelle; Isoprene biosynthesis; Photosynthesis; Plastid; Transferase.
+TMZERO

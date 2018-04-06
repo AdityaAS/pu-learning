@@ -1,0 +1,17 @@
+AC   P36498;
+Transport protein comB.
+"Competence for genetic transformation in Streptococcus pneumoniae:
+organization of a regulatory locus with homology to two lactococcin A
+secretion genes.";
+"Complete genome sequence of a virulent isolate of Streptococcus
+pneumoniae.";
+"Genetic transformation in Streptococcus pneumoniae: nucleotide
+sequence analysis shows comA, a gene required for competence
+induction, to be a member of the bacterial ATP-dependent transport
+protein family.";
+"Identification of a purC gene from Streptococcus pneumoniae.";
+-!- FUNCTION: Required for induction of competence.
+-!- SIMILARITY: Belongs to the membrane fusion protein (MFP)
+    (TC 8.A.1) family.
+Competence; Complete proteome; Membrane; Transmembrane; Transport.
+TMONE

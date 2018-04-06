@@ -1,0 +1,8 @@
+AC   Q6F8F4;
+UPF0145 protein ACIAD2946.
+"Unique features revealed by the genome sequence of Acinetobacter sp.
+ADP1, a versatile and naturally transformation competent bacterium.";
+-!- SIMILARITY: Belongs to the UPF0145 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

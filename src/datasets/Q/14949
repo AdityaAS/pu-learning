@@ -1,0 +1,12 @@
+AC   P0ABC1; P03808; P76747; Q47248;
+ATP synthase protein I.
+"Extensive mosaic structure revealed by the complete genome sequence
+of uropathogenic Escherichia coli.";
+-!- FUNCTION: A possible function for this protein is to guide the
+    assembly of the membrane sector of the ATPase enzyme complex.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the bacterial atpI family.
+CF(0); Complete proteome; Hydrogen ion transport; Inner membrane;
+Ion transport; Membrane; Transmembrane; Transport.
+TMFOUR

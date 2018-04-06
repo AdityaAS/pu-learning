@@ -1,0 +1,24 @@
+AC   P13512; Q58AM2;
+Cobalt-zinc-cadmium resistance protein czcD (Cation efflux system
+protein czcD).
+"Expression and nucleotide sequence of a plasmid-determined divalent
+cation efflux system from Alcaligenes eutrophus.";
+"Two-component regulatory system involved in transcriptional control
+of heavy-metal homoeostasis in Alcaligenes eutrophus.";
+"Sequence and features of the Ralstonia metallidurans CH34 heavy
+metals plasmids pMOL28 and pMOL30.";
+"Complete sequence of plasmid pMOL30 of Ralstonia metallidurans
+CH34.";
+-!- FUNCTION: Necessary for activation of the czc determinant; may
+    function as a membrane-bound sensor protein or as a metal ion
+    transporter.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- INDUCTION: Most highly expressed when the upstream czcCBA
+    transcript is not induced.
+-!- SIMILARITY: Belongs to the cation diffusion facilitator (CDF)
+    transporter (TC 2.A.4) family. SLC30A subfamily.
+Cadmium; Cadmium resistance; Cobalt; Complete proteome;
+Inner membrane; Ion transport; Membrane; Plasmid; Transmembrane;
+Transport; Zinc; Zinc transport.
+TMSIX

@@ -1,0 +1,27 @@
+AC   P26587;
+Aquaporin TIP3.1 (Tonoplast intrinsic protein 3.1) (Alpha-tonoplast
+intrinsic protein) (Alpha-TIP).
+"Vegetative and seed-specific forms of tonoplast intrinsic protein in
+the vacuolar membrane of Arabidopsis thaliana.";
+"Sequence and analysis of chromosome 1 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Characterization of a new vacuolar membrane aquaporin sensitive to
+mercury at a unique site.";
+"From genome to function: the Arabidopsis aquaporins.";
+-!- FUNCTION: Water channel required to facilitate the transport of
+    water from the vacuolar compartment to the cytoplasm.
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein. Note=Tonoplast. It is specifically located in
+    the tonoplast of protein storage vacuoles (PSV) of the embryo and
+    endosperm.
+-!- TISSUE SPECIFICITY: Predominantly expressed in developing embryos
+    (seeds). Also expressed in green siliques.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family. TIP
+    subfamily.
+Membrane; Repeat; Transmembrane; Transport; Vacuole.
+TMSIX

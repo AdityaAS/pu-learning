@@ -1,0 +1,17 @@
+AC   Q32AR4;
+Sulfurtransferase tusA (EC 2.8.1.-) (tRNA 2-thiouridine synthesizing
+protein A).
+"Genome dynamics and diversity of Shigella species, the etiologic
+agents of bacillary dysentery.";
+-!- FUNCTION: Part of a sulfur-relay system required for 2-thiolation
+    of 5-methylaminomethyl-2-thiouridine (mnm(5)s(2)U) at tRNA wobble
+    positions. Interacts with iscS and stimulates its activity. Then,
+    accepts a sulfur from iscS and transfers it in turn to tusD (By
+    similarity).
+-!- SUBUNIT: Interacts with iscS (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the UPF0033 family. TusA subfamily.
+ GO:0016783; F:sulfurtransferase activity; IEA:HAMAP.
+ GO:0008033; P:tRNA processing; IEA:HAMAP.
+Complete proteome; Transferase; tRNA processing.
+TMZERO

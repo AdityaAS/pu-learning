@@ -1,0 +1,12 @@
+AC   Q48245;
+Vacuolating cytotoxin precursor.
+"Divergence of genetic sequences for the vacuolating cytotoxin among
+Helicobacter pylori strains.";
+"Purification and characterization of the vacuolating toxin from
+Helicobacter pylori.";
+-!- FUNCTION: Induces vacuolation of eukaryotic cells. Causes
+    ulceration and gastric lesions.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Contains 1 autotransporter (TC 1.B.12) domain.
+3D-structure; Direct protein sequencing; Signal; Toxin.
+TMZERO

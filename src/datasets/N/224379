@@ -1,0 +1,10 @@
+AC   Q9P7Q9;
+Putative glycosyltransferase C1834.05 precursor (EC 2.-.-.-).
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 22 family.
+ GO:0005783; C:endoplasmic reticulum; IDA:GeneDB_SPombe.
+Complete proteome; Endoplasmic reticulum; Glycosyltransferase;
+Hypothetical protein; Membrane; Signal; Transferase; Transmembrane.
+TMNINE

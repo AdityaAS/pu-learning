@@ -1,0 +1,11 @@
+AC   O75564; O75565;
+Jerky protein homolog.
+"JH8, a gene highly homologous to the mouse jerky gene, maps to the
+region for childhood absence epilepsy on 8q24.";
+-!- FUNCTION: May bind DNA (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (Potential).
+-!- TISSUE SPECIFICITY: Expressed ubiquitously.
+-!- SIMILARITY: Contains 1 DDE domain.
+-!- SIMILARITY: Contains 1 HTH CENPB-type DNA-binding domain.
+DNA-binding; Nuclear protein.
+TMZERO

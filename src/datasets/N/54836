@@ -1,0 +1,13 @@
+AC   P05406;
+Protein fixR.
+"The symbiotic nitrogen fixation regulatory operon (fixRnifA) of
+Bradyrhizobium japonicum is expressed aerobically and is subject to a
+novel, nifA-independent type of activation.";
+"Potential symbiosis-specific genes uncovered by sequencing a 410-kb
+DNA region of the Bradyrhizobium japonicum chromosome.";
+"Complete genomic sequence of nitrogen-fixing symbiotic bacterium
+Bradyrhizobium japonicum USDA110.";
+-!- SIMILARITY: Belongs to the short-chain dehydrogenases/reductases
+    (SDR) family.
+Complete proteome; Nitrogen fixation; Oxidoreductase.
+TMZERO

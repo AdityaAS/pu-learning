@@ -1,0 +1,10 @@
+AC   P77536; Q2MCB5;
+Putative electron transport protein ykgF.
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- SIMILARITY: Contains 2 4Fe-4S type ferredoxin domains.
+4Fe-4S; Complete proteome; Electron transport; Hypothetical protein;
+Iron; Iron-sulfur; Metal-binding; Transport.
+TMZERO

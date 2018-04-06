@@ -1,0 +1,10 @@
+AC   P35839;
+Probable formate transporter.
+"Identification of formate dehydrogenase-specific mRNA species and
+nucleotide sequence of the fdhC gene of Methanobacterium formicicum.";
+-!- FUNCTION: May act as a formate transporter.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the FNT transporter (TC 2.A.44) family.
+Membrane; Transmembrane; Transport.
+TMSIX

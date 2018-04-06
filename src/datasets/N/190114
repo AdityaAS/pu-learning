@@ -1,0 +1,45 @@
+AC   P13805; O95472; Q16061;
+Troponin T, slow skeletal muscle (TnTs) (Slow skeletal muscle troponin
+T) (sTnT).
+"Alternative splicing generates variants in important functional
+domains of human slow skeletal troponin T.";
+"A new human slow skeletal troponin T (TnTs) mRNA isoform derived from
+alternative splicing of a single gene.";
+"Close physical linkage of human troponin genes: organization,
+sequence, and expression of the locus encoding cardiac troponin I and
+slow skeletal troponin T.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Isolation and cloning by a polymerase chain reaction of a genomic DNA
+fragment of the human slow skeletal troponin (TNNT1) gene.";
+"A novel nemaline myopathy in the Amish caused by a mutation in
+troponin T1.";
+-!- FUNCTION: Troponin T is the tropomyosin-binding subunit of
+    troponin, the thin filament regulatory complex which confers
+    calcium-sensitivity to striated muscle actomyosin ATPase activity.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1;
+      IsoId=P13805-1; Sequence=Displayed;
+    Name=2;
+      IsoId=P13805-2; Sequence=VSP_006639, VSP_006640;
+    Name=3;
+      IsoId=P13805-3; Sequence=VSP_006640;
+-!- DISEASE: Defects in TNNT1 are the cause of nemaline myopathy type
+    5 (NEM5) [MIM:605355]; also known as Amish nemaline myopathy (ANM)
+    [MIM:605355]. This form of nemaline myopathy (NEM) is common among
+    Old Order Amish with an incidence of approximately 1:500. Affected
+    infants display tremors with hypotonia and mild contractures of
+    the shoulders and hips. Proximal contractures progressively weaken
+    and a pectus carinatum deformity develops before children die of
+    respiratory insufficiency, usually in the second year. A
+    nucleotide replacement in exon 11 causes the protein to be
+    truncated after residue 178.
+-!- SIMILARITY: Belongs to the troponin T family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=TNNT1".
+ GO:0005515; F:protein binding; IPI:MGI.
+ GO:0005523; F:tropomyosin binding; TAS:ProtInc.
+ GO:0006937; P:regulation of muscle contraction; TAS:ProtInc.
+Acetylation; Alternative splicing; Muscle protein; Phosphorylation.
+TMZERO

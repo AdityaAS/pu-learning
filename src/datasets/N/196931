@@ -1,0 +1,13 @@
+AC   Q6P9L4;
+Ubiquitin carboxyl-terminal hydrolase 49 (EC 3.1.2.15) (Ubiquitin
+thioesterase 49) (Ubiquitin-specific-processing protease 49)
+(Deubiquitinating enzyme 49).
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- CATALYTIC ACTIVITY: Ubiquitin C-terminal thioester + H(2)O =
+    ubiquitin + a thiol.
+-!- SIMILARITY: Belongs to the peptidase C19 family.
+-!- SIMILARITY: Contains 1 UBP-type zinc finger.
+Hydrolase; Metal-binding; Protease; Thiol protease;
+Ubl conjugation pathway; Zinc; Zinc-finger.
+TMZERO

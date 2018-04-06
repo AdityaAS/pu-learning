@@ -1,0 +1,15 @@
+AC   Q87EV2;
+tRNA pseudouridine synthase B (EC 5.4.99.-) (tRNA pseudouridine 55
+synthase) (Psi55 synthase) (tRNA-uridine isomerase) (tRNA
+pseudouridylate synthase).
+"Comparative analyses of the complete genome sequences of Pierce's
+disease and citrus variegated chlorosis strains of Xylella
+fastidiosa.";
+-!- FUNCTION: Responsible for synthesis of pseudouridine from uracil-
+    55 in the psi GC loop of transfer RNAs (By similarity).
+-!- CATALYTIC ACTIVITY: tRNA uridine = tRNA pseudouridine.
+-!- SIMILARITY: Belongs to the pseudouridine synthase truB family.
+    Type 1 subfamily.
+ GO:0031119; P:tRNA pseudouridine synthesis; IEA:HAMAP.
+Complete proteome; Isomerase; tRNA processing.
+TMZERO

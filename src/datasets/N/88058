@@ -1,0 +1,30 @@
+AC   P60495; P42967;
+Kinase A inhibitor (Sporulation inhibitor kipI).
+"Determination of a 17,484 bp nucleotide sequence around the 39
+degrees region of the Bacillus subtilis chromosome and similarity
+analysis of the products of putative ORFs.";
+"The 25 degrees-36 degrees region of the Bacillus subtilis chromosome:
+determination of the sequence of a 146 kb segment and identification
+of 113 genes.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Detecting and analyzing DNA sequencing errors: toward a higher
+quality of the Bacillus subtilis genome sequence.";
+"A novel histidine kinase inhibitor regulating development in Bacillus
+subtilis.";
+-!- FUNCTION: Is a potent inhibitor of the autophosphorylation
+    reaction of kinase A and its reverse reaction, but does not
+    inhibit phosphate transfer to the Spo0F response regulator once
+    kinase A is phosphorylated. KipI is an inhibitor of the catalytic
+    domain of kinase A affecting the ATP/ADP reactions and not the
+    phosphotransferase functions of this domain. The inhibition is
+    noncompetitive with respect to ATP.
+-!- SUBUNIT: Interacts with kipA, which prevents the inhibitory action
+    of kipI.
+-!- INDUCTION: Induced by glucose when readily available sources of
+    nitrogen, such as ammonia or glutamine, are scarce.
+-!- CAUTION: Was originally (Ref.1 and Ref.2) thought to be a longer
+    ORF that encodes what is now known to be kipI and kipA.
+ATP-binding; Complete proteome; Nucleotide-binding;
+Protein kinase inhibitor; Sporulation.
+TMZERO

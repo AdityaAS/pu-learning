@@ -1,0 +1,22 @@
+AC   P13181; Q12521;
+Galactose transporter (Galactose permease).
+"Sequence and structure of the yeast galactose transporter.";
+"Yeast galactose permease is related to yeast and mammalian glucose
+transporters.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: GAL2 is a facilitated diffusion transporter required for
+    both the high-affinity galactokinase-dependent and low-affinity
+    galactokinase-independent galactose transport processes.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0005354; F:galactose transporter activity; IMP:SGD.
+ GO:0005355; F:glucose transporter activity; IDA:SGD.
+ GO:0006012; P:galactose metabolism; IMP:SGD.
+ GO:0015757; P:galactose transport; IMP:SGD.
+Complete proteome; Membrane; Sugar transport; Transmembrane;
+Transport.
+TMTWELVE

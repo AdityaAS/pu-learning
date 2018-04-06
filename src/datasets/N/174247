@@ -1,0 +1,14 @@
+AC   O70615;
+Somatotropin precursor (Growth hormone).
+"Cloning and characterisation of the gene encoding mole rat (Spalax
+ehrenbergi) growth hormone.";
+-!- FUNCTION: Plays an important role in growth control. Its major
+    role in stimulating body growth is to stimulate the liver and
+    other tissues to secrete IGF-1. It stimulates both the
+    differentiation and proliferation of myoblasts. It also stimulates
+    amino acid uptake and protein synthesis in muscle and other
+    tissues (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the somatotropin/prolactin family.
+Hormone; Signal.
+TMZERO

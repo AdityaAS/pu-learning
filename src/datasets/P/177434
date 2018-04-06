@@ -1,0 +1,35 @@
+AC   P12866;
+Mating factor A secretion protein STE6 (Multiple drug resistance
+protein homolog) (P-glycoprotein).
+"The yeast STE6 gene encodes a homologue of the mammalian multidrug
+resistance P-glycoprotein.";
+"Saccharomyces cerevisiae STE6 gene product: a novel pathway for
+protein export in eukaryotic cells.";
+"Complete DNA sequence of yeast chromosome XI.";
+"Sequences upstream of the STE6 gene required for its expression and
+regulation by the mating type locus in Saccharomyces cerevisiae.";
+"Mutational analysis of the yeast a-factor transporter STE6, a member
+of the ATP binding cassette (ABC) protein superfamily.";
+"The ABC-transporter Ste6 accumulates in the plasma membrane in a
+ubiquitinated form in endocytosis mutants.";
+"Comparative topology studies in Saccharomyces cerevisiae and in
+Escherichia coli. The N-terminal half of the yeast ABC protein Ste6.";
+"A proteomics approach to understanding protein ubiquitination.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: STE6 is required in yeast MATA cells for production of
+    A-factor pheromone. STE6 is involved in the transport of the
+    farnesyl-derivation of the A-factor pheromone.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- PTM: Degraded via the ubiquitin system.
+-!- SIMILARITY: Belongs to the ABC transporter family. MDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transmembrane type-1 domains.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0005887; C:integral to plasma membrane; TAS:SGD.
+ GO:0043332; C:mating projection tip; IDA:SGD.
+ GO:0042626; F:ATPase activity, coupled to transmembrane m...; IDA:SGD.
+ GO:0000770; P:peptide pheromone export; TAS:SGD.
+ATP-binding; Complete proteome; Glycoprotein; Membrane;
+Nucleotide-binding; Pheromone response; Repeat; Transmembrane;
+Transport; Ubl conjugation.
+TMTWELVE

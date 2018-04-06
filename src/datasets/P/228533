@@ -1,0 +1,11 @@
+AC   Q06131; Q663L2;
+Protein yopD.
+"YopB and YopD constitute a novel class of Yersinia Yop proteins.";
+"Insights into the evolution of Yersinia pestis through whole-genome
+comparison with Yersinia pseudotuberculosis.";
+-!- FUNCTION: Interacts with the target membrane to form channel
+    structures involved either in translocation of yopE into the
+    cytoplasmic space of the target cell or in the cytotoxic effect of
+    the yopE protein.
+3D-structure; Complete proteome; Direct protein sequencing; Plasmid.
+TMZERO

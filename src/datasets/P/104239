@@ -1,0 +1,18 @@
+AC   P0A5K8; O53898;
+Large-conductance mechanosensitive channel.
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+"Structure of the MscL homolog from Mycobacterium tuberculosis: a
+gated mechanosensitive ion channel.";
+-!- FUNCTION: Channel that opens in response to stretch forces in the
+    membrane lipid bilayer. May participate in the regulation of
+    osmotic pressure changes within the cell.
+-!- SUBUNIT: Homopentamer.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the mscL family.
+ GO:0015267; F:channel or pore class transporter activity; IEA:HAMAP.
+3D-structure; Complete proteome; Ion transport; Ionic channel;
+Membrane; Transmembrane; Transport.
+TMTWO

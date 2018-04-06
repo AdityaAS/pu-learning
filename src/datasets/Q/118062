@@ -1,0 +1,15 @@
+AC   P0A3U4; Q45322;
+31 kDa outer-membrane immunogenic protein precursor.
+"Cloning, nucleotide sequence, and expression of the Brucella
+melitensis omp31 gene coding for an immunogenic major outer membrane
+protein.";
+"The genome sequence of the facultative intracellular pathogen
+Brucella melitensis.";
+-!- FUNCTION: Major outer membrane protein associated with
+    peptidoglycans. May function as a porin.
+-!- SUBUNIT: Oligomeric.
+-!- SUBCELLULAR LOCATION: Cell outer membrane.
+-!- SIMILARITY: Belongs to the omp25/ropB family.
+Complete proteome; Ion transport; Membrane; Outer membrane; Porin;
+Signal; Transmembrane; Transport.
+TMZERO

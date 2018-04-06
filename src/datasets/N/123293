@@ -1,0 +1,33 @@
+AC   P05459;
+Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290).
+"Divergent transcription of pdxB and homology between the pdxB and
+serA gene products in Escherichia coli K-12.";
+"Construction of a contiguous 874-kb sequence of the Escherichia coli-
+K12 genome corresponding to 50.0-68.8 min on the linkage map and
+analysis of its sequence features.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Structural features of the hisT operon of Escherichia coli K-12.";
+"Structural analysis of the Escherichia coli K-12 hisT operon by using
+a kanamycin resistance cassette.";
+"4-phospho-hydroxy-L-threonine is an obligatory intermediate in
+pyridoxal 5'-phosphate coenzyme biosynthesis in Escherichia coli K-
+12.";
+"Involvement of the gapA- and epd (gapB)-encoded dehydrogenases in
+pyridoxal 5'-phosphate coenzyme biosynthesis in Escherichia coli K-
+12.";
+"Positive growth rate-dependent regulation of the pdxA, ksgA, and pdxB
+genes of Escherichia coli K-12.";
+-!- CATALYTIC ACTIVITY: 4-phospho-D-erythronate + NAD(+) = (3R)-3-
+    hydroxy-2-oxo-4-phosphonooxybutanoate + NADH.
+-!- PATHWAY: Cofactor biosynthesis; pyridoxine 5'-phosphate
+    biosynthesis; pyridoxine 5'-phosphate from D-erythrose 4-
+    phosphate: step 2.
+-!- INDUCTION: During growth rate.
+-!- SIMILARITY: Belongs to the D-isomer specific 2-hydroxyacid
+    dehydrogenase family.
+ GO:0016491; F:oxidoreductase activity; IEA:HAMAP.
+ GO:0008615; P:pyridoxine biosynthesis; IEA:HAMAP.
+Complete proteome; NAD; Oxidoreductase; Pyridoxine biosynthesis.
+TMZERO

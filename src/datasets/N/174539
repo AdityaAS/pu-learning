@@ -1,0 +1,15 @@
+AC   Q8XIR5;
+Anti-sigma F factor (EC 2.7.11.1) (Stage II sporulation protein AB).
+"Complete genome sequence of Clostridium perfringens, an anaerobic
+flesh-eater.";
+-!- FUNCTION: Binds to sigma F and blocks its ability to form an RNA
+    polymerase holoenzyme (E-sigma F). Phosphorylates SpoIIAA on a
+    serine residue. This phosphorylation may enable SpoIIAA to act as
+    an anti-anti-sigma factor that counteracts SpoIIAB and thus
+    releases sigma F from inhibition (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + a protein = ADP + a phosphoprotein.
+-!- SIMILARITY: Belongs to the anti-sigma-factor family.
+ GO:0045449; P:regulation of transcription; IEA:HAMAP.
+ GO:0030436; P:sporulation (sensu Bacteria); IEA:HAMAP.
+Complete proteome; Kinase; Sporulation; Transferase.
+TMZERO

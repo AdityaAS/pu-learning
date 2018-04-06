@@ -1,0 +1,35 @@
+AC   P32897;
+Mitochondrial import inner membrane translocase subunit TIM23
+(Mitochondrial protein import protein 3) (Mitochondrial protein import
+protein MAS6) (Membrane import machinery protein MIM23).
+"MAS6 encodes an essential inner membrane component of the yeast
+mitochondrial protein import pathway.";
+"Identification of MIM23, a putative component of the protein import
+machinery of the mitochondrial inner membrane.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"The polytopic mitochondrial inner membrane proteins MIM17 and MIM23
+operate at the same preprotein import site.";
+"Tim23 links the inner and outer mitochondrial membranes.";
+"Global analysis of protein expression in yeast.";
+"Mitochondrial presequence translocase: switching between TOM
+tethering and motor recruitment involves Tim21 and Tim17.";
+-!- FUNCTION: Essential component of the TIM23 complex, a complex that
+    mediates the translocation of transit peptide-containing proteins
+    across the mitochondrial inner membrane.
+-!- SUBUNIT: Component of the TIM23 complex, at least composed of
+    TIM23, TIM17, TIM50 and TIM21. The complex interacts with the
+    TIM44 component of the PAM complex.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein. Mitochondrion; mitochondrial outer
+    membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 1440 molecules/cell.
+-!- SIMILARITY: Belongs to the Tim17/Tim22/Tim23 family.
+ GO:0005744; C:mitochondrial inner membrane presequence tr...; TAS:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0008565; F:protein transporter activity; TAS:SGD.
+ GO:0030150; P:protein import into mitochondrial matrix; TAS:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Outer membrane; Protein transport; Translocation; Transmembrane;
+Transport.
+TMFIVE

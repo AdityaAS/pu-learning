@@ -1,0 +1,22 @@
+AC   P30605;
+Myo-inositol transporter 1.
+"Isolation and characterization of two distinct myo-inositol
+transporter genes of Saccharomyces cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+"A proteomics approach to understanding protein ubiquitination.";
+"A subset of membrane-associated proteins is ubiquitinated in response
+to mutations in the endoplasmic reticulum degradation machinery.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Major transporter for myo-inositol.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the major facilitator superfamily. Sugar
+    transporter (TC 2.A.1.1) family.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0005365; F:myo-inositol transporter activity; IMP:SGD.
+ GO:0015798; P:myo-inositol transport; IMP:SGD.
+Complete proteome; Glycoprotein; Membrane; Phosphorylation;
+Sugar transport; Transmembrane; Transport; Ubl conjugation.
+TMTWELVE

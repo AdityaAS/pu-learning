@@ -1,0 +1,13 @@
+AC   P24584;
+Polysialic acid transport protein kpsM.
+"Molecular analysis of the Escherichia coli K5 kps locus:
+identification and characterization of an inner-membrane capsular
+polysaccharide transport system.";
+-!- FUNCTION: KpsM and kpsT constitute a system for the transport of
+    polysialic acid across the cytoplasmic membrane.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC-2 integral membrane protein family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-2 domain.
+Inner membrane; Membrane; Transmembrane; Transport.
+TMSIX

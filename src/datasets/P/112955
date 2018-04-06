@@ -1,0 +1,13 @@
+AC   Q9F5N7;
+Multidrug resistance protein norM (Multidrug-efflux transporter).
+"Cloning and characterization of the Burkholderia vietnamiensis norM
+gene encoding a multi-drug efflux protein.";
+-!- FUNCTION: Multidrug efflux pump. Confers probably resistance to
+    the cationic peptide polymyxin B (PMB).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the multi antimicrobial extrusion (MATE)
+    (TC 2.A.66.1) family.
+Antibiotic resistance; Antiport; Inner membrane; Ion transport;
+Membrane; Sodium; Sodium transport; Transmembrane; Transport.
+TMELEVEN

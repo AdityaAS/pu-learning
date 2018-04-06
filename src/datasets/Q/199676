@@ -1,0 +1,11 @@
+AC   Q03307;
+Transmembrane protein HWLF3.
+"Characterization of a structurally tricistronic gene of human
+cytomegalovirus composed of U(s)18, U(s)19, and U(s)20.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- DEVELOPMENTAL STAGE: Expressed 18 hours post-infection. A second
+    initiation codon (Met-89) is probably used at 34 hours post-
+    infection.
+-!- SIMILARITY: Belongs to the cytomegaloviruses US12 family.
+Glycoprotein; Late protein; Membrane; Transmembrane.
+TMSEVEN

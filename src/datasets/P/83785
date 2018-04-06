@@ -1,0 +1,27 @@
+AC   P63253; O15110; P48049;
+Inward rectifier potassium channel 2 (Potassium channel, inwardly
+rectifying subfamily J member 2) (Inward rectifier K(+) channel
+Kir2.1) (Cardiac inward rectifier potassium channel) (IRK1).
+"Inwardly rectifying potassium channels in lens epithelium are from
+the IRK1 (Kir 2.1) family.";
+-!- FUNCTION: Probably participates in establishing action potential
+    waveform and excitability of neuronal and muscle tissues. Inward
+    rectifier potassium channels are characterized by a greater
+    tendency to allow potassium to flow into the cell rather than out
+    of it. Their voltage dependence is regulated by the concentration
+    of extracellular potassium; as external potassium is raised, the
+    voltage range of the channel opening shifts to more positive
+    voltages. The inward rectification is mainly due to the blockage
+    of outward current by internal magnesium. Can be blocked by
+    extracellular barium or cesium.
+-!- SUBUNIT: Homomultimeric and heteromultimeric association with
+    Kir2.3, resulting in an enhanced G-protein-induced current.
+    Association, via its PDZ-recognition domain, with LIN7A, LIN7B,
+    LIN7C, DLG1, CASK and APBA1 plays a key role in its localization
+    and trafficking (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the inward rectifier-type potassium channel
+    family.
+Ion transport; Ionic channel; Membrane; Potassium;
+Potassium transport; Transmembrane; Transport; Voltage-gated channel.
+TMTWO

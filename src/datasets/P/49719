@@ -1,0 +1,13 @@
+AC   P81007;
+Cytolytic protein enterolobin.
+"Determination of the amino acid sequence of the plant cytolysin
+enterolobin.";
+"Homology between the seed cytolysin enterolobin and bacterial
+aerolysins.";
+-!- FUNCTION: Cytolytic protein with insecticidal activity. Acts as a
+    proinflammatory agent.
+-!- SUBUNIT: Oligomerizes as a hexamer.
+-!- PTM: The N-terminus is blocked.
+-!- SIMILARITY: Belongs to the aerolysin family.
+Cytolysis; Direct protein sequencing.
+TMZERO

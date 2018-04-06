@@ -1,0 +1,19 @@
+AC   O07002;
+Aspartate-proton symporter (L-aspartate transporter).
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Identification of the L-aspartate transporter in Bacillus subtilis.";
+-!- FUNCTION: Uptake of L-aspartate with the concomitant import of a
+    proton. Can also transport aspartate hydroxamate and L-glutamate
+    with lower affinity and efficiency.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Allows enhanced growth with L-aspartate as a sole
+    source nitrogen source.
+-!- MISCELLANEOUS: Inhibited by carbonyl cyanide m-
+    chlorophenylhydrazone and carbonyl cyanide 4-trifluoro-
+    methoxyphenylhydrazone.
+-!- SIMILARITY: Belongs to the amino acid-polyamine-organocation (APC)
+    superfamily. AGT (TC 2.A.3.11) family.
+Amino-acid transport; Complete proteome; Membrane; Symport;
+Transmembrane; Transport.
+TMFOURTEEN

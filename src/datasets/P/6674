@@ -1,0 +1,20 @@
+AC   P54146;
+Ammonia channel (Ammonia transporter).
+"Functional and genetic characterization of the (methyl)ammonium
+uptake carrier of Corynebacterium glutamicum.";
+"Complete genomic sequence of Corynebacterium glutamicum ATCC 13032.";
+"The complete Corynebacterium glutamicum ATCC 13032 genome sequence
+and its impact on the production of L-aspartate-derived amino acids
+and vitamins.";
+"Cloning and nucleotide sequence of the phosphoenolpyruvate
+carboxylase-coding gene of Corynebacterium glutamicum ATCC13032.";
+-!- FUNCTION: Involved in the uptake of ammonia and methylammonia.
+    Utilizes uniport of ammonium and uses the membrane potential as
+    driving force.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- INDUCTION: By nitrogen starvation.
+-!- SIMILARITY: Belongs to the ammonium transporter (TC 2.A.49)
+    family.
+Ammonia transport; Complete proteome; Membrane; Transmembrane;
+Transport.
+TMTWELVE

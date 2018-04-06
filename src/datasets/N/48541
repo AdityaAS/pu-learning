@@ -1,0 +1,40 @@
+AC   P26378; Q96J74;
+ELAV-like protein 4 (Paraneoplastic encephalomyelitis antigen HuD)
+(Hu-antigen D).
+"HuD, a paraneoplastic encephalomyelitis antigen, contains RNA-binding
+domains and is homologous to Elav and Sex-lethal.";
+"Novel products of the HuD, HuC, NNP-1 and alpha-internexin genes
+identified by autologous antibody screening of a pediatric
+neuroblastoma library.";
+"The DNA sequence and biological annotation of human chromosome 1.";
+"CARM1 regulates proliferation of PC12 cells by methylating HuD.";
+-!- FUNCTION: May play a role in neuron-specific RNA processing.
+    Protects CDKN1A mRNA from decay by binding to its 3'-UTR (By
+    similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=HUD1PRO;
+      IsoId=P26378-1; Sequence=Displayed;
+    Name=2; Synonyms=HUD1;
+      IsoId=P26378-2; Sequence=VSP_005791;
+    Name=3; Synonyms=HUD4;
+      IsoId=P26378-3; Sequence=VSP_014150, VSP_005791;
+-!- TISSUE SPECIFICITY: Brain.
+-!- PTM: Methylation at Arg-243 by CARM1 weakens protective binding to
+    the 3'-UTR of CDKN1A mRNA and down-regulates CDKN1A protein
+    expression, thereby maintaining cells in a proliferative state.
+    Methylation is inhibited by NGF, which facilitates neurite
+    outgrowth (By similarity).
+-!- DISEASE: Paraneoplastic encephalomyelitis sensory neuropathy is
+    associated with small cell lung cancer and is characterized by
+    dementia, sensory loss, and other neurological disabilities. It
+    may result from an immune response primarily directed against a
+    small cell lung tumor antigen which is misdirected against similar
+    antigens expressed in brain.
+-!- SIMILARITY: Belongs to the RNP elav family.
+-!- SIMILARITY: Contains 3 RRM (RNA recognition motif) domains.
+ GO:0003730; F:mRNA 3'-UTR binding; TAS:ProtInc.
+ GO:0003723; F:RNA binding; TAS:ProtInc.
+ GO:0006397; P:mRNA processing; TAS:ProtInc.
+3D-structure; Alternative splicing; Methylation; Repeat; RNA-binding.
+TMZERO

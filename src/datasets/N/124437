@@ -1,0 +1,32 @@
+AC   P91697; P91692; P91693; P91694; P91695; P91696;
+Period circadian protein (Fragment).
+"Interspecific and intraspecific comparisons of the period locus in
+the Drosophila willistoni sibling species.";
+-!- FUNCTION: Essential for biological clock functions. Determines the
+    period length of circadian and ultradian rhythms; an increase in
+    PER dosage leads to shortened circadian rhythms and a decrease
+    leads to lengthened circadian rhythms. Essential for the circadian
+    rhythmicity of locomotor activity, eclosion behavior, and for the
+    rhythmic component of the male courtship song that originates in
+    the thoracic nervous system. The biological cycle depends on the
+    rhythmic formation and nuclear localization of the TIM-PER
+    complex. Light induces the degradation of TIM, which promotes
+    elimination of PER. Nuclear activity of the heterodimer
+    coordinatively regulates PER and TIM transcription through a
+    negative feedback loop. Behaves as a negative element in circadian
+    transcriptional loop. Does not appear to bind DNA, suggesting
+    indirect transcriptional inhibition (By similarity).
+-!- SUBUNIT: Forms heterodimer with timeless (TIM); the complex then
+    translocates into the nucleus (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus (By similarity). Cytoplasm;
+    perinuclear region (By similarity). Note=Nuclear at specific
+    periods of the day. First accumulates in the perinuclear region
+    about one hour before translocation into the nucleus. Interaction
+    with Tim is required for nuclear localization (By similarity).
+-!- PTM: Phosphorylated with a circadian rhythmicity, probably by the
+    double-time protein (dbt). Phosphorylation could be implicated in
+    the stability of per monomer and in the formation of heterodimer
+    per-tim (By similarity).
+Biological rhythms; Nuclear protein; Phosphorylation; Polymorphism;
+Repeat.
+TMZERO

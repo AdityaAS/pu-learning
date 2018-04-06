@@ -1,0 +1,42 @@
+AC   P13866;
+Sodium/glucose cotransporter 1 (Na(+)/glucose cotransporter 1) (High
+affinity sodium-glucose cotransporter).
+"Homology of the human intestinal Na+/glucose and Escherichia coli
+Na+/proline cotransporters.";
+"Structure of the human Na+/glucose cotransporter gene SGLT1.";
+"A genome annotation-driven approach to cloning the human ORFeome.";
+"The DNA sequence of human chromosome 22.";
+"Membrane topology of the human Na+/glucose cotransporter SGLT1.";
+"Glucose/galactose malabsorption caused by a defect in the Na+/glucose
+cotransporter.";
+"Missense mutations in SGLT1 cause glucose-galactose malabsorption by
+trafficking defects.";
+"A missense mutation in the Na(+)/glucose cotransporter gene SGLT1 in
+a patient with congenital glucose-galactose malabsorption: normal
+trafficking but inactivation of the mutant protein.";
+-!- FUNCTION: Actively transports glucose into cells by Na(+)
+    cotransport with a Na(+) to glucose coupling ratio of 2:1.
+    Efficient substrate transport in mammalian kidney is provided by
+    the concerted action of a low affinity high capacity and a high
+    affinity low capacity Na(+)/glucose cotransporter arranged in
+    series along kidney proximal tubules.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- TISSUE SPECIFICITY: Expressed mainly in intestine and kidney.
+-!- PTM: N-glycosylation is not necessary for the cotransporter
+    function.
+-!- DISEASE: Defects in SLC5A1 are the cause of congenital
+    glucose/galactose malabsorption (GGM) [MIM:606824]. GGM is an
+    intestinal monosaccharide transporter deficiency. It is an
+    autosomal recessive disorder manifesting itself within the first
+    weeks of life. It is characterized by severe diarrhea and
+    dehydration which are usually fatal unless glucose and galactose
+    are eliminated from the diet.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005412; F:glucose:sodium symporter activity; IDA:MGI.
+ GO:0015758; P:glucose transport; IMP:MGI.
+Disease mutation; Glycoprotein; Ion transport; Membrane; Polymorphism;
+Sodium; Sodium transport; Sugar transport; Symport; Transmembrane;
+Transport.
+TMFOURTEEN

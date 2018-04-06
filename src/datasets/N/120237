@@ -1,0 +1,47 @@
+AC   Q32P28; Q7KZR4; Q96BR8; Q96SK8; Q96SL5; Q96SN3; Q9H6K3; Q9HC86;
+AC   Q9HC87;
+Prolyl 3-hydroxylase 1 precursor (EC 1.14.11.7) (Leucine- and proline-
+enriched proteoglycan 1) (Leprecan-1) (Growth suppressor 1).
+"Gros1, a potential growth suppressor on chromosome 1: its identity to
+basement membrane-associated proteoglycan, leprecan.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"HRI human cDNA sequencing project.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+-!- FUNCTION: Basement membrane-associated chondroitin sulfate
+    proteoglycan (CSPG). Has prolyl 3-hydroxylase activity catalyzing
+    the posttranslational formation of 3-hydroxyproline in -Xaa-Pro-
+    Gly- sequences in collagens, especially types IV and V. May be
+    involved in the secretory pathway of cells. Has growth suppressive
+    activity in fibroblasts.
+-!- CATALYTIC ACTIVITY: Procollagen L-proline + 2-oxoglutarate + O(2)
+    = procollagen trans-3-hydroxy-L-proline + succinate + CO(2).
+-!- COFACTOR: Iron (By similarity).
+-!- COFACTOR: Ascorbate (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum (By similarity).
+    Secreted protein; extracellular space; extracellular matrix (By
+    similarity). Note=Secreted into the extracellular matrix as a
+    chondroitin sulfate proteoglycan (CSPG).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=GROS1-L;
+      IsoId=Q32P28-1; Sequence=Displayed;
+    Name=2; Synonyms=GROS1-S;
+      IsoId=Q32P28-2; Sequence=VSP_019346, VSP_019347;
+    Name=3;
+      IsoId=Q32P28-3; Sequence=VSP_019348;
+      Note=No experimental confirmation available;
+-!- PTM: O-glycosylated; chondroitin sulfate (By similarity).
+-!- SIMILARITY: Belongs to the leprecan family.
+-!- SIMILARITY: Contains 1 PKHD (prolyl/lysyl hydroxylase) domain.
+-!- SIMILARITY: Contains 4 TPR repeats.
+-!- CAUTION: Ref.4 (AAI08312) sequence differs from that shown due to
+    intron retention.
+ GO:0008285; P:negative regulation of cell proliferation; NAS:UniProtKB.
+Alternative splicing; Coiled coil; Dioxygenase; Endoplasmic reticulum;
+Glycoprotein; Iron; Metal-binding; Oxidoreductase; Repeat; Signal;
+TPR repeat; Vitamin C.
+TMZERO

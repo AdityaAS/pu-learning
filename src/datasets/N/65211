@@ -1,0 +1,12 @@
+AC   Q09681;
+Probable alpha-1,2-galactosyltransferase gmh2 (EC 2.4.1.-).
+"The genome sequence of Schizosaccharomyces pombe.";
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    single-pass type II membrane protein (Potential).
+-!- SIMILARITY: Belongs to the glycosyltransferase 34 family.
+ GO:0009272; P:cell wall biosynthesis (sensu Fungi); TAS:GeneDB_SPombe.
+ GO:0042125; P:protein amino acid galactosylation; TAS:GeneDB_SPombe.
+Complete proteome; Glycoprotein; Glycosyltransferase; Golgi apparatus;
+Hypothetical protein; Membrane; Signal-anchor; Transferase;
+Transmembrane.
+TMONE

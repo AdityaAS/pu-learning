@@ -1,0 +1,9 @@
+AC   Q6D2Q8;
+UPF0304 protein ECA3037.
+"Genome sequence of the enterobacterial phytopathogen Erwinia
+carotovora subsp. atroseptica and characterization of virulence
+factors.";
+-!- SIMILARITY: Belongs to the UPF0304 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

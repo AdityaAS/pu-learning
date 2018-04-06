@@ -1,0 +1,11 @@
+AC   P70664;
+Guanylin precursor (Guanylate cyclase activator 2A).
+"Sequence of guinea pig guanylin and guanylyl cyclase C (GC-C) cDNA:
+expression and tissue distribution.";
+-!- FUNCTION: Endogenous activator of intestinal guanylate cyclase. It
+    stimulates this enzyme through the same receptor binding region as
+    the heat-stable enterotoxins.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the guanylin family.
+Signal.
+TMZERO

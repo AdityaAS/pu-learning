@@ -1,0 +1,45 @@
+AC   Q9NZ94; Q8NCD0; Q9NZ95; Q9NZ96; Q9NZ97; Q9P248;
+Neuroligin-3 precursor (Gliotactin homolog).
+"The structure and expression of the human neuroligin-3 gene.";
+"Prediction of the coding sequences of unidentified human genes. XVII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro.";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Binding of neuroligins to PSD-95.";
+"Mutations of the X-linked genes encoding neuroligins NLGN3 and NLGN4
+are associated with autism.";
+-!- FUNCTION: Neuronal cell surface protein thought to be involved in
+    cell-cell-interactions by forming intercellular junctions through
+    binding to beta-neurexins. May play a role in formation or
+    maintenance of synaptic junctions. May also play a role in glia-
+    glia or glia-neuron interactions in the developing peripheral
+    nervous system.
+-!- SUBUNIT: Interacts with neurexin 1-beta, neurexin 2-beta and
+    neurexin 3-beta (By similarity). Probably interacts through its C-
+    terminus with DLG4/PSD-95 third PDZ domain.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein (Potential).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=HNL3s;
+      IsoId=Q9NZ94-1; Sequence=Displayed;
+    Name=2; Synonyms=HNL3;
+      IsoId=Q9NZ94-2; Sequence=VSP_007534;
+-!- DISEASE: Defects in NLGN3 may be the cause of susceptibility to X-
+    linked autism 1 (AUTSX1) [MIM:300425]. AUTSX1 is a pervasive
+    developmental disorder (PDD), prototypically characterized by
+    impairments in reciprocal social interaction and communication,
+    restricted and stereotyped patterns of interests and activities,
+    and the presence of developmental abnormalities by 3 years of age.
+-!- DISEASE: Defects in NLGN3 may be the cause of susceptibility to X-
+    linked Asperger syndrome 1 (ASPGX1) [MIM:300494]. ASPGX1 is
+    considered to be a form of childhood autism.
+-!- SIMILARITY: Belongs to the type-B carboxylesterase/lipase family.
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=NLGN3".
+ GO:0042043; F:neurexin binding; TAS:UniProtKB.
+ GO:0007155; P:cell adhesion; TAS:ProtInc.
+Alternative splicing; Cell adhesion; Disease mutation; Glycoprotein;
+Membrane; Signal; Transmembrane.
+TMONE

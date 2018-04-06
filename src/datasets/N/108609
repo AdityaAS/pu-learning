@@ -1,0 +1,16 @@
+AC   O66973;
+L-aspartate oxidase (EC 1.4.3.16) (LASPO) (Quinolinate synthetase B).
+"The complete genome of the hyperthermophilic bacterium Aquifex
+aeolicus.";
+-!- FUNCTION: Catalyzes the oxidation of L-aspartate to
+    iminoaspartate.
+-!- CATALYTIC ACTIVITY: L-aspartate + H(2)O + O(2) = oxaloacetate +
+    NH(3) + H(2)O(2).
+-!- COFACTOR: FAD.
+-!- PATHWAY: NAD biosynthesis; aspartate to NaMN; first step.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the FAD-dependent oxidoreductase 2 family.
+    NadB subfamily.
+Complete proteome; FAD; Flavoprotein; Oxidoreductase;
+Pyridine nucleotide biosynthesis.
+TMZERO

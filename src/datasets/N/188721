@@ -1,0 +1,18 @@
+AC   Q5P2I9;
+tRNA(Ile)-lysidine synthase (EC 6.3.4.-) (tRNA(Ile)-lysidine
+synthetase) (tRNA(Ile)-2-lysyl-cytidine synthase).
+"The genome sequence of an anaerobic aromatic-degrading denitrifying
+bacterium, strain EbN1.";
+-!- FUNCTION: Ligates lysine onto the cytidine present at position 34
+    of the AUA codon-specific tRNA(Ile) that contains the anticodon
+    CAU, in an ATP-dependent manner. Cytidine is converted to
+    lysidine, thus changing the amino acid specificity of the tRNA
+    from methionine to isoleucine (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (Probable).
+-!- DOMAIN: The N-terminal region contains the highly conserved SGGXDS
+    motif, predicted to be a P-loop motif involved in ATP binding.
+-!- SIMILARITY: Belongs to the tRNA(Ile)-lysidine synthase family.
+ GO:0016549; P:tRNA editing; IEA:HAMAP.
+ATP-binding; Complete proteome; Ligase; Nucleotide-binding;
+tRNA processing.
+TMZERO

@@ -1,0 +1,15 @@
+AC   P55089;
+Urocortin precursor.
+"Cloning and characterization of human urocortin.";
+"The structures of the mouse and human urocortin genes (Ucn and
+UCN).";
+-!- FUNCTION: Acts in vitro to stimulate the secretion of
+    adrenocorticotropic hormone (ACTH). Binds with high affinity to
+    CRF Receptor types 1, 2-alpha, and 2-beta.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the sauvagine/corticotropin-releasing
+    factor/urotensin I family.
+ GO:0005184; F:neuropeptide hormone activity; TAS:ProtInc.
+ GO:0007186; P:G-protein coupled receptor protein signalin...; TAS:ProtInc.
+Amidation; Cleavage on pair of basic residues; Hormone; Signal.
+TMZERO

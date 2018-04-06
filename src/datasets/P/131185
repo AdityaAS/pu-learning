@@ -1,0 +1,57 @@
+AC   P23907; Q5ECG0; Q6V638; Q6V654; Q712W2; Q712W3; Q7JGT4;
+Major prion protein precursor (PrP) (CD230 antigen).
+"Two alleles of a neural protein gene linked to scrapie in sheep.";
+"Homozygosity for prion protein alleles encoding glutamine-171 renders
+sheep susceptible to natural scrapie.";
+"Complete genomic sequence and analysis of the prion protein gene
+region from three mammalian species.";
+"PrP (prion) gene expression in sheep may be modulated by alternative
+polyadenylation of its messenger RNA.";
+"Identification of a novel ovine PrP polymorphism and scrapie-
+resistant genotypes for St. Croix White and a related composite
+breed.";
+"Prion protein gene polymorphisms in healthy and scrapie affected
+sheep in Greece.";
+"PrP allelic variants associated with natural scrapie.";
+"A set of genotyping controls for 15 haplotype combinations of ovine
+PRNP codons 136, 154, and 171.";
+"The crystal structure of the globular domain of sheep prion
+protein.";
+"Insight into the PrPC-->PrPSc conversion from the structures of
+antibody-bound ovine prion scrapie-susceptibility variants.";
+"Prion protein NMR structures of cats, dogs, pigs, and sheep.";
+"Different scrapie-associated fibril proteins (PrP) are encoded by
+lines of sheep selected for different alleles of the Sip gene.";
+"PrP polymorphisms associated with natural scrapie discovered by
+denaturing gradient gel electrophoresis.";
+"Identification of five allelic variants of the sheep PrP gene and
+their association with natural scrapie.";
+"PrP genotype contributes to determining survival times of sheep with
+natural scrapie.";
+-!- FUNCTION: The function of PrP is not known. PrP is encoded in the
+    host genome and is expressed both in normal and infected cells.
+-!- SUBUNIT: PrP has a tendency to aggregate yielding polymers called
+    "rods".
+-!- SUBCELLULAR LOCATION: Cell membrane; lipid-anchor; GPI-anchor.
+-!- DISEASE: Polymorphism at position 171 may be related to the
+    alleles of scrapie incubation-control (SIC) gene in this species.
+-!- DISEASE: Found in high quantity in the brain of humans and animals
+    infected with degenerative neurological diseases such as kuru,
+    Creutzfeldt-Jakob disease (CJD), Gerstmann-Straussler syndrome
+    (GSS), scrapie, bovine spongiform encephalopathy (BSE),
+    transmissible mink encephalopathy (TME), etc.
+-!- DISEASE: Scrapie is a transmissible neurodegenerative disorder of
+    sheep and goats. Most sheep that contract the disease naturally
+    die between 24 and 50 months of age. The incubation period in
+    sheep depends on the strain(s) of the infecting pathogen, sheep
+    age at exposure, and the sheep genotype. The survival time is
+    mainly determined by a single genetic locus, SIP, which has two
+    alleles, susceptible (sa) and resistant (pa). Short incubation
+    period is conferred by the partially dominant sa allele. Scrapie
+    can be spread between flockmates, or it can be transmitted from an
+    infected ewe to its lamb.
+-!- SIMILARITY: Belongs to the prion family.
+ GO:0008017; F:microtubule binding; ISS:AgBase.
+3D-structure; Disease mutation; Glycoprotein; GPI-anchor; Lipoprotein;
+Membrane; Polymorphism; Prion; Repeat; Signal.
+TMZERO

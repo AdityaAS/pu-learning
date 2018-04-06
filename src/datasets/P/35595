@@ -1,0 +1,23 @@
+AC   P27838; Q2M8B2;
+Protein cyaY.
+"The complete nucleotide sequence of the adenylate cyclase gene of
+Escherichia coli.";
+"Comparative analysis of the cya locus in enterobacteria and related
+Gram-negative facultative anaerobes.";
+"Analysis of the Escherichia coli genome: DNA sequence of the region
+from 84.5 to 86.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Phylogeny of adenylyl cyclases.";
+"Knock-out of the cyaY gene in Escherichia coli does not affect
+cellular iron content and sensitivity to oxidants.";
+"Crystal structure of Escherichia coli CyaY protein reveals a
+previously unidentified fold for the evolutionarily conserved frataxin
+family.";
+-!- FUNCTION: Not known; its knock out does not affect cellular iron
+    content.
+-!- SIMILARITY: Belongs to the frataxin family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+3D-structure; Complete proteome.
+TMZERO

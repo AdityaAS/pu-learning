@@ -1,0 +1,19 @@
+AC   Q9C4Z5;
+Aquaporin aqpM.
+"Rapid amplification of a water channel-like gene and its flanking
+sequences from the Methanothermobacter marburgensis genome using a
+single primer PCR strategy.";
+"Functional expression and characterization of an archaeal aquaporin.
+AqpM from Methanothermobacter marburgensis.";
+-!- FUNCTION: Channel that permits osmotically driven movement of
+    water in both directions. It mediates rapid entry or exit of water
+    in response to abrupt changes in osmolarity. Exhibits also a
+    transient but reproducible increase in the initial glycerol flux.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+3D-structure; Membrane; Repeat; Transmembrane; Transport.
+TMSIX

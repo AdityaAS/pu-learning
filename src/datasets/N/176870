@@ -1,0 +1,13 @@
+AC   Q5RCD7;
+Translocon-associated protein subunit gamma (TRAP-gamma) (Signal
+sequence receptor subunit gamma) (SSR-gamma).
+-!- FUNCTION: TRAP proteins are part of a complex whose function is to
+    bind calcium to the ER membrane and thereby regulate the retention
+    of ER resident proteins (By similarity).
+-!- SUBUNIT: Heterotetramer of TRAP-alpha, TRAP-beta, TRAP-delta and
+    TRAP-gamma (By similarity).
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the TRAP-gamma family.
+Endoplasmic reticulum; Membrane; Phosphorylation; Transmembrane.
+TMFOUR

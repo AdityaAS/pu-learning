@@ -1,0 +1,49 @@
+AC   Q8N196;
+Homeobox protein SIX5 (DM locus-associated homeodomain protein).
+"A novel homeodomain-encoding gene is associated with a large CpG
+island interrupted by the myotonic dystrophy unstable (CTG)n repeat.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Complete sequencing and characterization of 21,243 full-length human
+cDNAs.";
+"Characterization of the expression of DMPK and SIX5 in the human eye
+and implications for pathogenesis in myotonic dystrophy.";
+"Functional analysis of the homeodomain protein SIX5.";
+"Six and Eya expression during human somitogenesis and MyoD gene
+family activation.";
+-!- FUNCTION: Transcription factor that is thought to be involved in
+    regulation of organogenesis. May be involved in determination and
+    maintenance of retina formation. Binds a 5'-GGTGTCAG-3' motif
+    present in the ARE regulatory element of ATP1A1. Binds a 5'-
+    TCA[AG][AG]TTNC-3' motif present in the MEF3 element in the
+    myogenin promoter, and in the IGFBP5 promoter (By similarity).
+    Thought to be regulated by association with Dach and Eya proteins,
+    and seems to be coactivated by EYA1, EYA2 and EYA3 (By
+    similarity).
+-!- SUBUNIT: Probably binds DNA dimer. Interacts with EYA3, and
+    probably EYA1 and EYA2 (By similarity).
+-!- INTERACTION:
+    P54253:ATXN1; NbExp=1; IntAct=EBI-946167, EBI-930964;
+-!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q8N196-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q8N196-2; Sequence=VSP_010072;
+-!- TISSUE SPECIFICITY: Expressed in adult but not in fetal eyes.
+    Found in corneal epithelium and endothelium, lens epithelium,
+    ciliary body epithelia, cellular layers of the retina and the
+    sclera.
+-!- DEVELOPMENTAL STAGE: At the begin of fourth week of development
+    detected in cytoplasm of somite cells, and at the end of fourth
+    week is accumulated in the nucleus. Between the sixth and eighth
+    week of development detected in the nucleus of limb bud cells.
+-!- SIMILARITY: Belongs to the SIX/Sine oculis homeobox family.
+-!- SIMILARITY: Contains 1 homeobox DNA-binding domain.
+-!- CAUTION: The region from 1 to 184 was deduced from the genomic
+    sequence and ESTs.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Activator; Alternative splicing; Developmental protein; DNA-binding;
+Homeobox; Nuclear protein; Transcription; Transcription regulation.
+TMZERO

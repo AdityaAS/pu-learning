@@ -1,0 +1,20 @@
+AC   Q06945;
+Transcription factor SOX-4.
+"Characterization and mapping of the human SOX4 gene.";
+"The DNA sequence and analysis of human chromosome 6.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"A conserved family of genes related to the testis determining gene,
+SRY.";
+"Ubc9 interacts with SOX4 and represses its transcriptional
+activity.";
+-!- FUNCTION: Transcriptional activator that binds with high affinity
+    to the T-cell enhancer motif 5'-AACAAAG-3' motif.
+-!- SUBUNIT: Interacts with UBE2I.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- TISSUE SPECIFICITY: Testis, brain, and heart.
+-!- SIMILARITY: Contains 1 HMG box DNA-binding domain.
+ GO:0003700; F:transcription factor activity; TAS:ProtInc.
+Activator; DNA-binding; Nuclear protein; Phosphorylation;
+Transcription; Transcription regulation.
+TMZERO

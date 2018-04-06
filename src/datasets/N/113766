@@ -1,0 +1,52 @@
+AC   P03474;
+Neuraminidase (EC 3.2.1.18).
+"Complete nucleotide sequence of the neuraminidase gene of influenza B
+virus.";
+"Site-directed mutagenesis of catalytic residues of influenza virus
+neuraminidase as an aid to drug design.";
+"Neuraminidase inhibitors for influenza.";
+"Structures of aromatic inhibitors of influenza virus neuraminidase.";
+"Novel aromatic inhibitors of influenza virus neuraminidase make
+selective interactions with conserved residues and water molecules in
+the active site.";
+"A benzoic acid inhibitor induces a novel conformational change in the
+active site of Influenza B virus neuraminidase.";
+-!- FUNCTION: Catalyzes the removal of terminal sialic acid residues
+    from viral and cellular glycoconjugates. Cleaves off the terminal
+    sialic acids on the glycosylated HA during virus budding to
+    facilitate virus release. Additionally helps virus spread through
+    the circulation by further removing sialic acids from the cell
+    surface. These cleavages prevent self-aggregation and ensure the
+    efficient spread of the progeny virus from cell to cell.
+    Otherwise, infection would be limited to one round of replication.
+    Described as a receptor-destroying enzyme because it cleaves a
+    terminal sialic acid from the cellular receptors. May facilitate
+    viral invasion of the upper airways by cleaving the sialic acid
+    moities on the mucin of the airway epithelial cells (By
+    similarity).
+-!- CATALYTIC ACTIVITY: Hydrolysis of alpha-(2->3)-, alpha-(2->6)-,
+    alpha-(2->8)- glycosidic linkages of terminal sialic residues in
+    oligosaccharides, glycoproteins, glycolipids, colominic acid and
+    synthetic substrates.
+-!- ENZYME REGULATION: Inhibited by the neuraminidase inhibitors
+    zanamivir (Relenza) and oseltamivir (Tamiflu). These drugs
+    interfere with the release of progeny virus from infected cells
+    and are effective against all influenza strains. Resistance to
+    neuraminidase inhibitors is quite rare.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Virion; virion membrane (By similarity).
+    Cell membrane; apical cell membrane; single-pass type II membrane
+    protein (By similarity). Note=Preferentially accumulates at the
+    apical plasma membrane in infected polarized epithelial cells,
+    which is the virus assembly site. In the virion, forms a mushroom-
+    shaped spike on the surface of the membrane (By similarity).
+-!- PTM: N-glycosylated (By similarity).
+-!- MISCELLANEOUS: The influenza B genome consist of 8 RNA segments.
+    Genetic variation of hemagglutinin and/or neuraminidase genes
+    results in the emergence of new influenza strains. The mechanism
+    of variation can be the result of point mutations or the result of
+    genetic reassortment between segments of two different strains.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 34 family.
+3D-structure; Glycoprotein; Glycosidase; Hydrolase; Membrane;
+Signal-anchor; Transmembrane; Virion protein.
+TMONE

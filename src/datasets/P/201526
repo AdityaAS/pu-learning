@@ -1,0 +1,53 @@
+AC   P22203;
+Vacuolar ATP synthase subunit E (EC 3.6.3.14) (V-ATPase E subunit)
+(Vacuolar proton pump E subunit) (V-ATPase 27 kDa subunit).
+"The 31-kDa polypeptide is an essential subunit of the vacuolar ATPase
+in Saccharomyces cerevisiae.";
+"Sequence of 29 kb around the PDR10 locus on the right arm of
+Saccharomyces cerevisiae chromosome XV: similarity to part of
+chromosome I.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Isolation of vacuolar membrane H(+)-ATPase-deficient yeast mutants;
+the VMA5 and VMA4 genes are essential for assembly and activity of the
+vacuolar H(+)-ATPase.";
+"Resolution of subunit interactions and cytoplasmic subcomplexes of
+the yeast vacuolar proton-translocating ATPase.";
+"Characterization of a temperature-sensitive yeast vacuolar ATPase
+mutant with defects in actin distribution and bud morphology.";
+"Skp1 forms multiple protein complexes, including RAVE, a regulator of
+V-ATPase assembly.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"Defined sites of interaction between subunits E (Vma4p), C (Vma5p),
+and G (Vma10p) within the stator structure of the vacuolar H(+)-
+ATPase.";
+"Mutational analysis of the stator subunit E of the yeast V-ATPase.";
+-!- FUNCTION: Subunit of the peripheral V1 complex of vacuolar ATPase
+    essential for assembly or catalytic function. V-ATPase is
+    responsible for acidifying a variety of intracellular compartments
+    in eukaryotic cells.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate +
+    H(+)(Out).
+-!- SUBUNIT: V-ATPase is an heteromultimeric enzyme composed of a
+    peripheral catalytic V1 complex (components A to H) attached to an
+    integral membrane V0 proton pore complex (components: a, c, c',
+    c'', d and e). VMA4 forms a homodimer within this complex and
+    interacts directly with VMA5 and VMA10. Interacts with RAV1 and
+    RAV2 components of the RAVE complex, which are essential for the
+    stability and assembly of V-ATPase.
+-!- INTERACTION:
+    P47104:RAV1; NbExp=1; IntAct=EBI-20268, EBI-25471;
+    P32366:VMA6; NbExp=1; IntAct=EBI-20268, EBI-20201;
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; peripheral
+    membrane protein.
+-!- MISCELLANEOUS: Present with 16134 molecules/cell.
+-!- SIMILARITY: Belongs to the V-ATPase E subunit family.
+ GO:0000221; C:hydrogen-transporting ATPase V1 domain; TAS:SGD.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); TAS:SGD.
+ GO:0046961; F:hydrogen-transporting ATPase activity, rota...; TAS:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0007035; P:vacuolar acidification; TAS:SGD.
+Acetylation; ATP synthesis; Coiled coil; Complete proteome;
+Direct protein sequencing; Hydrogen ion transport; Hydrolase;
+Ion transport; Transport.
+TMZERO

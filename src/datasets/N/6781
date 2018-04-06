@@ -1,0 +1,12 @@
+AC   O76265;
+Alpha-amylase-related protein precursor (EC 3.2.1.1).
+-!- CATALYTIC ACTIVITY: Endohydrolysis of 1,4-alpha-D-glucosidic
+    linkages in oligosaccharides and polysaccharides.
+-!- COFACTOR: Binds 1 calcium ion per subunit (By similarity).
+-!- COFACTOR: Binds 1 chloride ion per subunit (By similarity).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein (Probable).
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 13 family.
+Calcium; Carbohydrate metabolism; Chloride; Glycosidase; Hydrolase;
+Metal-binding; Pyrrolidone carboxylic acid; Signal.
+TMZERO

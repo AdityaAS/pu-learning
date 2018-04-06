@@ -1,0 +1,17 @@
+AC   P39145;
+ComF operon protein 1 (EC 3.6.1.-) (ATP-dependent helicase comFA).
+"comF, a Bacillus subtilis late competence locus, encodes a protein
+similar to ATP-dependent RNA/DNA helicases.";
+"Sequence of the Bacillus subtilis 168 chromosomal region from 305 to
+307 degree.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Involved in transformation (competence for DNA uptake).
+    Required for DNA uptake but not for binding. May provide the
+    driving force for transport of DNA through an aqueous channel.
+-!- SIMILARITY: Belongs to the helicase family.
+-!- SIMILARITY: Contains 1 helicase ATP-binding domain.
+-!- SIMILARITY: Contains 1 helicase C-terminal domain.
+ATP-binding; Competence; Complete proteome; Helicase; Hydrolase;
+Nucleotide-binding.
+TMZERO

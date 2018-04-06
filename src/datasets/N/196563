@@ -1,0 +1,18 @@
+AC   Q71Y84;
+Menaquinone biosynthesis methyltransferase ubiE (EC 2.1.1.-).
+"Whole genome comparisons of serotype 4b and 1/2a strains of the food-
+borne pathogen Listeria monocytogenes reveal new insights into the
+core genome components of this species.";
+-!- FUNCTION: Methyltransferase required for the conversion of
+    dimethylmenaquinone (DMKH2) to menaquinone (MKH2) (By similarity).
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + demethylmenaquinol =
+    s-adenosyl-L-homocysteine + menaquinol.
+-!- PATHWAY: Cofactor biosynthesis; menaquinone biosynthesis;
+    menaquinone from chorismate: step 7 [final step].
+-!- SIMILARITY: Belongs to the methyltransferase superfamily. UbiE
+    family.
+ GO:0008425; F:2-polyprenyl-6-methoxy-1,4-benzoquinone met...; IEA:HAMAP.
+ GO:0009060; P:aerobic respiration; IEA:HAMAP.
+Complete proteome; Menaquinone biosynthesis; Methyltransferase;
+Transferase.
+TMZERO

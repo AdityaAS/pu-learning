@@ -1,0 +1,15 @@
+AC   Q04648;
+Probable cytochrome c biosynthesis protein.
+"A plant mitochondrial gene encodes a protein involved in cytochrome c
+biogenesis.";
+-!- FUNCTION: Could be involved in assembly and maturation of
+    cytochromes c. May play a role in guidance of apocytochromes and
+    heme groups for the covalent linkage introduced by the cytochrome-
+    c-heme lyase.
+-!- RNA EDITING: Modified_positions=10, 13, 33, 46, 48, 51, 86, 88,
+    106, 112, 119, 128, 133, 134, 142, 160, 187, 203, 236, 239, 244,
+    252, 259, 263, 268, 306, 325, 368, 424, 433, 439, 444, 450, 461,
+    467, 481, 488.
+-!- SIMILARITY: Belongs to the ccmF/cycK/ccl1/nrfE/ccsA family.
+Cytochrome c-type biogenesis; Mitochondrion; RNA editing.
+TMZERO

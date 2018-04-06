@@ -1,0 +1,18 @@
+AC   P77377; O08001; O08002;
+Lipopolysaccharide biosynthesis protein wzxC.
+"Organization of the Escherichia coli K-12 gene cluster responsible
+for production of the extracellular polysaccharide colanic acid.";
+"A 460-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 40.1-50.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- PATHWAY: Lipopolysaccharide biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the polysaccharide synthase family.
+Complete proteome; Inner membrane; Lipopolysaccharide biosynthesis;
+Membrane; Transmembrane.
+TMTWELVE

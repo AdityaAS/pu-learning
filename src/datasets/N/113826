@@ -1,0 +1,12 @@
+AC   Q65JA6; Q62UR3;
+Protein nrdI.
+"The complete genome sequence of Bacillus licheniformis DSM13, an
+organism with great industrial potential.";
+"Complete genome sequence of the industrial bacterium Bacillus
+licheniformis and comparisons with closely related Bacillus species.";
+-!- FUNCTION: Not known; probably involved in ribonucleotide reductase
+    function.
+-!- SIMILARITY: Belongs to the nrdI family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

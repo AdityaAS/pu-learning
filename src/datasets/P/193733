@@ -1,0 +1,96 @@
+AC   O35433; Q920B3; Q920B4; Q9JLM0; Q9JM56; Q9JM57;
+Transient receptor potential cation channel subfamily V member 1
+(TrpV1) (osm-9-like TRP channel 1) (OTRPC1) (Vanilloid receptor 1)
+(Vanilloid receptor type 1-like) (Capsaicin receptor).
+"The capsaicin receptor: a heat-activated ion channel in the pain
+pathway.";
+"Molecular cloning of an N-terminal splice variant of the capsaicin
+receptor. Loss of N-terminal domain suggests functional divergence
+among capsaicin receptor subtypes.";
+"Propofol activates vanilloid receptor channels expressed in human
+embryonic kidney 293 cells.";
+"The genomic organization of the gene encoding the vanilloid receptor:
+evidence for multiple splice variants.";
+"Identification of an aspartic residue in the P-loop of the vanilloid
+receptor that modulates pore properties.";
+"Induction of vanilloid receptor channel activity by protein kinase
+C.";
+"Biochemical characterization of the vanilloid receptor 1 expressed in
+a dorsal root ganglia derived cell line.";
+"Bradykinin and nerve growth factor release the capsaicin receptor
+from PtdIns(4,5)P2-mediated inhibition.";
+"Direct phosphorylation of capsaicin receptor VR1 by protein kinase
+Cepsilon and identification of two target serine residues.";
+"Protein kinase C(alpha) is required for vanilloid receptor 1
+activation. Evidence for multiple signaling pathways.";
+"cAMP-dependent protein kinase regulates desensitization of the
+capsaicin receptor (VR1) by direct phosphorylation.";
+"Structural determinant of TRPV1 desensitization interacts with
+calmodulin.";
+"Protein kinase C phosphorylation sensitizes but does not activate the
+capsaicin receptor transient receptor potential vanilloid 1 (TRPV1).";
+"A modular PIP2 binding site as a determinant of capsaicin receptor
+sensitivity.";
+"Modulation of TRPV1 by nonreceptor tyrosine kinase, c-Src kinase.";
+"Agonist recognition sites in the cytosolic tails of vanilloid
+receptor 1.";
+"Phosphorylation of vanilloid receptor 1 by Ca2+/calmodulin-dependent
+kinase II regulates its vanilloid binding.";
+"Molecular determinants of vanilloid sensitivity in TRPV1.";
+"TRPV1 acts as proton channel to induce acidification in nociceptive
+neurons.";
+"Interaction between protein kinase Cmu and the vanilloid receptor
+type 1.";
+"Identification of a tetramerization domain in the C-terminus of the
+vanilloid receptor.";
+-!- FUNCTION: Receptor-activated non-selective calcium permeant cation
+    channel involved in detection of noxious chemical and thermal
+    stimuli. Seems to mediate proton influx and may be involved in
+    intracellular acidosis in nociceptive neurons. May be involved in
+    mediation of inflammatory pain and hyperalgesia. Sensitized by a
+    phosphatidylinositol second messenger system activated by receptor
+    tyrosine kinases, which involves PKC isozymes and PCL. Activation
+    by vanilloids, like capsaicin, and temperatures higher than 42
+    degrees Celsius, exhibits a time- and Ca(2+)-dependent outward
+    rectification, followed by a long-lasting refractory state. Mild
+    extracellular acidic pH (6.5) potentiates channel activation by
+    noxious heat and vanilloids, whereas acidic conditions (pH <6)
+    directly activate the channel. Can be activated by endogenous
+    compounds, including 12-hydroperoxytetraenoic acid, and
+    endocannabinoids, like anandamide, and bradykinin.
+-!- SUBUNIT: Self-associates. Probably homotetramer. May also form a
+    heteromeric channel with TRPV3. Interacts with calmodulin, PRKCM
+    and CSK. Interacts with PRKCG and NTRK1, probably by forming a
+    trimeric complex.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=3;
+    Name=1; Synonyms=VR1L1;
+      IsoId=O35433-1; Sequence=Displayed;
+    Name=2; Synonyms=VR1L2;
+      IsoId=O35433-2; Sequence=VSP_013432;
+    Name=3; Synonyms=VR.5'sv;
+      IsoId=O35433-3; Sequence=VSP_013431, VSP_013432;
+      Note=Inactive;
+-!- TISSUE SPECIFICITY: Predominantly expressed in trigeminal and
+    dorsal root sensory ganglia. Isoform 1 and isoform 3 are also
+    expressed in brain and peripheral blood mononuclear cells.
+-!- DOMAIN: The association domain (AD) is necessary for self-
+    association.
+-!- PTM: Phosphorylation by PKA reverses capsaicin-induced
+    dephosphorylation at multiple sites, probably including Ser-116 as
+    a major phosphorylation site. Phoshphorylation by CAMKII seems to
+    regulate binding to vanilloids. Phosphorylated and modulated by
+    PKCM and probably PKCZ. Dephosphorylation by calcineurin seems to
+    lead to receptor desensitization and phosphorylation by CAMKII
+    recovers activity.
+-!- MISCELLANEOUS: Responses evoked by capsaicin, but not by low pH
+    and heat, can be antagonized by capsazepine.
+-!- SIMILARITY: Belongs to the transient receptor family. TrpV
+    subfamily.
+-!- SIMILARITY: Contains 3 ANK repeats.
+Alternative splicing; ANK repeat; Calcium; Calcium channel;
+Calcium transport; Calmodulin-binding; Glycoprotein; Ion transport;
+Ionic channel; Membrane; Phosphorylation; Repeat; Transmembrane;
+Transport.
+TMSIX

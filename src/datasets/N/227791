@@ -1,0 +1,15 @@
+AC   P42846;
+Uncharacterized protein YNL308C.
+"Sequencing analysis of a 24.7 kb fragment of yeast chromosome XIV
+identifies six known genes, a new member of the hexose transporter
+family and ten new open reading frames.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XIV
+and its evolutionary implications.";
+"Global analysis of protein expression in yeast.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- MISCELLANEOUS: Present with 1780 molecules/cell.
+ GO:0005730; C:nucleolus; IDA:SGD.
+ GO:0007046; P:ribosome biogenesis; IDA:SGD.
+Complete proteome; Phosphorylation.
+TMZERO

@@ -1,0 +1,25 @@
+AC   Q9Y2S0; Q5TBX2;
+DNA-directed RNA polymerase I subunit D (EC 2.7.7.6) (DNA-directed RNA
+polymerase I 16 kDa polypeptide) (RPA16).
+"Human RNA polymerase I 16-kDa subunit.";
+"The DNA sequence and analysis of human chromosome 13.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: DNA-dependent RNA polymerase catalyzes the transcription
+    of DNA into RNA using the four ribonucleoside triphosphates as
+    substrates. RNA polymerase I is essentially used to transcribe
+    ribosomal DNA units.
+-!- CATALYTIC ACTIVITY: Nucleoside triphosphate + RNA(n) = diphosphate
+    + RNA(n+1).
+-!- SUBUNIT: Each class of RNA polymerase is assembled from 9 to 14
+    different polypeptides.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- MISCELLANEOUS: Three distinct zinc-containing RNA polymerases are
+    found in eukaryotic nuclei: polymerase I for the ribosomal RNA
+    precursor, polymerase II for the mRNA precursor, and polymerase
+    III for 5S and tRNA genes.
+-!- SIMILARITY: Belongs to the archaeal rpoL/eukaryotic RPB11/RPC19
+    RNA polymerase subunit family.
+DNA-directed RNA polymerase; Nuclear protein; Nucleotidyltransferase;
+Transcription; Transferase.
+TMZERO

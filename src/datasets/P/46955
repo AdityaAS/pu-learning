@@ -1,0 +1,21 @@
+AC   Q945F0; Q9SVJ0;
+Enhanced disease susceptibility 5 (Eds5) (Salicylic acid induction
+deficient 1) (Sid1).
+"EDS5, an essential component of salicylic acid-dependent signaling
+for disease resistance in Arabidopsis, is a member of the MATE
+transporter family.";
+"Sequence and analysis of chromosome 4 of the plant Arabidopsis
+thaliana.";
+-!- FUNCTION: Plays an essential function in the salicylic acid-
+    dependent pathway of plant defense against pathogens. Might be
+    part of the functional mechanism for the induction of salicylic
+    acid biosynthesis. Might be a transporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- INDUCTION: By salicylic acid, UV-C light and pathogens.
+-!- SIMILARITY: Belongs to the multi antimicrobial extrusion (MATE)
+    (TC 2.A.66.1) family.
+-!- CAUTION: Ref.2 sequences differ from that shown due to erroneous
+    gene model prediction.
+Coiled coil; Membrane; Plant defense; Transmembrane; Transport.
+TMTEN

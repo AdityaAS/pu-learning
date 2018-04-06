@@ -1,0 +1,26 @@
+AC   P08456;
+CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+(Phosphatidylserine synthase).
+"Nucleotide sequence and characterization of the yeast PSS gene
+encoding phosphatidylserine synthase.";
+"Primary structure and product characterization of the Saccharomyces
+cerevisiae CHO1 gene that encodes phosphatidylserine synthase.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Phosphoproteome analysis by mass spectrometry and its application to
+Saccharomyces cerevisiae.";
+"A proteomics approach to understanding protein ubiquitination.";
+"Quantitative phosphoproteomics applied to the yeast pheromone
+signaling pathway.";
+-!- CATALYTIC ACTIVITY: CDP-diacylglycerol + L-serine = CMP + 3-O-sn-
+    phosphatidyl-L-serine.
+-!- PATHWAY: Lipid metabolism; glycerophospholid metabolism.
+-!- SUBCELLULAR LOCATION: Microsome. Mitochondrion; mitochondrial
+    outer membrane; peripheral membrane protein.
+-!- SIMILARITY: Belongs to the CDP-alcohol phosphatidyltransferase
+    class-I family.
+ GO:0003882; F:CDP-diacylglycerol-serine O-phosphatidyltra...; IDA:SGD.
+ GO:0006659; P:phosphatidylserine biosynthesis; IDA:SGD.
+Complete proteome; Direct protein sequencing; Endoplasmic reticulum;
+Membrane; Microsome; Mitochondrion; Phospholipid biosynthesis;
+Phosphorylation; Transferase.
+TMZERO

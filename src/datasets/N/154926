@@ -1,0 +1,14 @@
+AC   Q759D1;
+Ribosome biogenesis protein RLP24.
+"The Ashbya gossypii genome as a tool for mapping the ancient
+Saccharomyces cerevisiae genome.";
+-!- FUNCTION: Involved in the biogenesis of the 60S ribosomal subunit.
+    Ensures the docking of NOG1 to pre-60S particles (By similarity).
+-!- SUBUNIT: Associated with nucleolar and cytoplasmic pre-60S
+    particles. At the end of biogenesis it dissociates from
+    cytoplasmic pre-60S particles and is likely to be exchanged for
+    its ribosomal homologue, RPL24 (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus (By similarity).
+-!- SIMILARITY: Belongs to the ribosomal protein L24e family.
+Complete proteome; Nuclear protein; Ribosome biogenesis.
+TMZERO

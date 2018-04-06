@@ -1,0 +1,16 @@
+AC   P0ABG9; P13409; P15035;
+Rod shape-determining protein rodA.
+"Genome sequence of Shigella flexneri 2a: insights into pathogenicity
+through comparison with genomes of Escherichia coli K12 and O157.";
+"Complete genome sequence and comparative genomics of Shigella
+flexneri serotype 2a strain 2457T.";
+-!- FUNCTION: This is one of the proteins responsible for the rod
+    shape of E.coli. Is required for the expression of the enzymatic
+    activity of PBP2, which is thought to synthesize peptidoglycan in
+    the step of initiation of cell elongation (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ftsW/rodA/spoVE family.
+Cell shape; Complete proteome; Inner membrane; Membrane;
+Transmembrane.
+TMNINE

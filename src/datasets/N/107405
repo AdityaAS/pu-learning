@@ -1,0 +1,13 @@
+AC   P57633;
+DNA mismatch repair protein mutL.
+"Genome sequence of the endocellular bacterial symbiont of aphids
+Buchnera sp. APS.";
+-!- FUNCTION: This protein is involved in the repair of mismatches in
+    DNA. It is required for dam-dependent methyl-directed DNA mismatch
+    repair. May act as a "molecular matchmaker", a protein that
+    promotes the formation of a stable complex between two or more
+    DNA-binding proteins in an ATP-dependent manner without itself
+    being part of a final effector complex (By similarity).
+-!- SIMILARITY: Belongs to the DNA mismatch repair mutL/hexB family.
+Complete proteome; DNA damage; DNA repair.
+TMZERO

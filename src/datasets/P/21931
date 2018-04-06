@@ -1,0 +1,25 @@
+AC   Q9BXT2;
+Voltage-dependent calcium channel gamma-6 subunit (Neuronal voltage-
+gated calcium channel gamma-6 subunit).
+"A cluster of three novel Ca(2+) channel gamma subunit genes on
+chromosome 19q13.4: evolution and expression profile of the gamma
+subunit gene family.";
+"Calcium channel gamma subunits provide insights into the evolution of
+this gene family.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Thought to stabilize the calcium channel in an
+    inactivated (closed) state (By similarity).
+-!- SUBUNIT: The L-type calcium channel is composed of five subunits:
+    alpha-1, alpha-2/delta, beta and gamma.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- SIMILARITY: Belongs to the PMP-22/EMP/MP20 family. CACNG
+    subfamily.
+ GO:0005891; C:voltage-gated calcium channel complex; NAS:UniProtKB.
+ GO:0005245; F:voltage-gated calcium channel activity; NAS:UniProtKB.
+ GO:0006816; P:calcium ion transport; NAS:UniProtKB.
+Calcium; Calcium channel; Calcium transport; Ion transport;
+Ionic channel; Membrane; Transmembrane; Transport;
+Voltage-gated channel.
+TMFOUR

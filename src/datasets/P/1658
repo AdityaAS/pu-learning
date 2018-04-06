@@ -1,0 +1,34 @@
+AC   Q9LF79; Q9LU75;
+Calcium-transporting ATPase 8, plasma membrane-type (EC 3.6.3.8)
+(Ca(2+)-ATPase isoform 8).
+"At-ACA8 encodes a plasma membrane-localized Ca2+-ATPase of
+Arabidopsis with a calmodulin-binding domain at the N-terminus.";
+"Structural analysis of Arabidopsis thaliana chromosome 5. X. Sequence
+features of the regions of 3,076,755 bp covered by sixty P1 and TAC
+clones.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Phosphoproteomics of the Arabidopsis plasma membrane and a new
+phosphorylation site database.";
+-!- FUNCTION: This magnesium-dependent enzyme catalyzes the hydrolysis
+    of ATP coupled with the translocation of calcium from the cytosol
+    out of the cell.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Ca(2+)(Cis) = ADP + phosphate +
+    Ca(2+)(Trans).
+-!- ENZYME REGULATION: Activated by calmodulin (By similarity).
+-!- INTERACTION:
+    P62157:CALM (xeno); NbExp=2; IntAct=EBI-980643, EBI-397403;
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- DOMAIN: The N-terminus contains an autoinhibitory calmodulin-
+    binding domain, which binds calmodulin in a calcium-dependent
+    fashion.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIB subfamily.
+-!- CAUTION: Ref.2 sequence differs from that shown due to erroneous
+    gene model prediction.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ATP-binding; Calcium; Calcium transport; Calmodulin-binding;
+Direct protein sequencing; Hydrolase; Ion transport; Magnesium;
+Membrane; Metal-binding; Nucleotide-binding; Phosphorylation;
+Transmembrane; Transport.
+TMTEN

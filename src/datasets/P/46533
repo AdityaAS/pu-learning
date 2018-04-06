@@ -1,0 +1,16 @@
+AC   O31791; Q9R9H9;
+Multidrug resistance protein ebrB.
+"A two-component multidrug efflux pump, EbrAB, in Bacillus subtilis.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+-!- FUNCTION: Part of a multidrug efflux pump. Confers resistance to
+    cationic lipophilic dyes such as ethidium bromide, acriflavine,
+    pyronine Y and safranin O. The efflux is probably coupled to an
+    influx of protons.
+-!- SUBUNIT: The efflux pump is composed of ebrA and ebrB (Probable).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the small multidrug resistance (SMR)
+    protein family. EbrA/ebrB (TC 2.A.7.1.6) subfamily.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMFOUR

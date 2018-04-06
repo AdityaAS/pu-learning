@@ -1,0 +1,10 @@
+AC   P41267;
+Nucleocapsid protein (Nucleoprotein) (Fragment).
+"Genetic identification of a new Puumala virus strain causing severe
+hemorrhagic fever with renal syndrome in Germany.";
+-!- SUBCELLULAR LOCATION: Virion. Note=Internal protein of virus
+    particle.
+-!- SIMILARITY: Belongs to the hantaviruses nucleocapsid protein
+    family.
+RNA-binding; Viral nucleoprotein; Virion protein.
+TMZERO

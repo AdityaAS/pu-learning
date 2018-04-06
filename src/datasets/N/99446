@@ -1,0 +1,53 @@
+AC   P32585;
+RNA polymerase II mediator complex subunit 18 (Suppressor of RNA
+polymerase B 5).
+"A multisubunit complex associated with the RNA polymerase II CTD and
+TATA-binding protein in yeast.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"A multiprotein mediator of transcriptional activation and its
+interaction with the C-terminal repeat domain of RNA polymerase II.";
+"An activator target in the RNA polymerase II holoenzyme.";
+"The structural and functional organization of the yeast mediator
+complex.";
+"Structure of the yeast RNA polymerase II holoenzyme: mediator
+conformation and polymerase interaction.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"A unified nomenclature for protein subunits of mediator complexes
+linking transcriptional regulators to RNA polymerase II.";
+-!- FUNCTION: Component of the mediator complex, a coactivator
+    involved in regulated gene transcription of nearly all RNA
+    polymerase II-dependent genes. The mediator functions as a bridge
+    to convey information from gene-specific regulatory proteins to
+    the basal RNA polymerase II transcription machinery. The mediator
+    complex, having a compact conformation in its free form, is
+    recruited to promoters by direct interactions with regulatory
+    proteins and serves for the assembly of a functional preinitiation
+    complex with RNA polymerase II and the general transcription
+    factors. The mediator complex unfolds to an extended conformation
+    and partially surrounds RNA polymerase II, specifically
+    interacting with the unphosphorylated form of the C-terminal
+    domain (CTD) of RNA polymerase II. The mediator complex
+    dissociates from the RNA polymerase II holoenzyme and stays at the
+    promoter when transcriptional elongation begins.
+-!- SUBUNIT: The RNA polymerase II mediator complex is composed of at
+    least 21 subunits that form three structurally distinct
+    submodules. The mediator head module contains MED6, MED8, MED11,
+    SRB4/MED17, SRB5/MED18, ROX3/MED19, SRB2/MED20 and SRB6/MED22, the
+    middle module contains MED1, MED4, NUT1/MED5, MED7, CSE2/MED9,
+    NUT2/MED10, SRB7/MED21 and SOH1/MED31, and the tail module
+    contains MED2, PGD1/MED3, RGR1/MED14, GAL11/MED15 and SIN4/MED16.
+    The head and the middle modules interact directly with RNA
+    polymerase II, whereas the elongated tail module interacts with
+    gene-specific regulatory proteins. SRB5/MED18 interacts directly
+    with MED8 and SRB2/MED20.
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- MISCELLANEOUS: Present with 1011 molecules/cell.
+-!- SIMILARITY: Belongs to the mediator complex subunit 18 family.
+ GO:0016592; C:Srb-mediator complex; IDA:SGD.
+ GO:0016455; F:RNA polymerase II transcription mediator ac...; IDA:SGD.
+ GO:0000723; P:telomere maintenance; IMP:SGD.
+ GO:0006366; P:transcription from RNA polymerase II promoter; IDA:SGD.
+3D-structure; Activator; Complete proteome; Nuclear protein;
+Transcription; Transcription regulation.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P09132; Q96FG6;
+Signal recognition particle 19 kDa protein (SRP19).
+"Isolation and characterization of a cDNA clone encoding the 19 kDa
+protein of signal recognition particle (SRP): expression and binding
+to 7SL RNA.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Crystal structure of an early protein-RNA assembly complex of the
+signal recognition particle.";
+-!- FUNCTION: Signal-recognition-particle assembly, binds directly to
+    7S RNA and mediates binding of the 54 kDa subunit of the SRP.
+-!- SUBUNIT: Signal recognition particle consists of a 7S RNA molecule
+    of 300 nucleotides and six protein subunits: SRP72, SRP68, SRP54,
+    SRP19, SRP14 and SRP9.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the SRP19 family.
+ GO:0005786; C:signal recognition particle (sensu Eukaryota); TAS:ProtInc.
+ GO:0006613; P:cotranslational protein targeting to membrane; TAS:ProtInc.
+3D-structure; Direct protein sequencing; Polymorphism;
+Ribonucleoprotein; RNA-binding; Signal recognition particle.
+TMZERO

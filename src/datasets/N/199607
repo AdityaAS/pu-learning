@@ -1,0 +1,14 @@
+AC   Q87N09;
+Uridine kinase (EC 2.7.1.48) (Uridine monophosphokinase) (Cytidine
+monophosphokinase).
+"Genome sequence of Vibrio parahaemolyticus: a pathogenic mechanism
+distinct from that of V. cholerae.";
+-!- CATALYTIC ACTIVITY: ATP + uridine = ADP + UMP.
+-!- CATALYTIC ACTIVITY: ATP + cytidine = ADP + CMP.
+-!- PATHWAY: Pyrimidine salvage pathway.
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the uridine kinase family.
+ GO:0008655; P:pyrimidine salvage; IEA:HAMAP.
+ATP-binding; Complete proteome; Kinase; Nucleotide-binding;
+Transferase.
+TMZERO

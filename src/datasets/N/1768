@@ -1,0 +1,22 @@
+AC   Q9PKC9;
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+(EC 6.4.1.2) (Acetyl-CoA carboxylase carboxyltransferase subunit
+alpha) (ACCase subunit alpha).
+"Genome sequences of Chlamydia trachomatis MoPn and Chlamydia
+pneumoniae AR39.";
+-!- FUNCTION: Component of the acetyl coenzyme A carboxylase (ACC)
+    complex. First, biotin carboxylase catalyzes the carboxylation of
+    biotin on its carrier protein (BCCP) and then the CO(2) group is
+    transferred by the carboxyltransferase to acetyl-CoA to form
+    malonyl-CoA (By similarity).
+-!- CATALYTIC ACTIVITY: ATP + acetyl-CoA + HCO(3)(-) = ADP + phosphate
+    + malonyl-CoA.
+-!- PATHWAY: Long-chain fatty acid biosynthesis; first step.
+-!- SUBUNIT: Acetyl-CoA carboxylase is an heterohexamer composed of
+    biotin carboxyl carrier protein (accB), biotin carboxylase (accC)
+    and two subunits each of ACCase subunit alpha (accA) and ACCase
+    subunit beta (accD) (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the accA family.
+Complete proteome; Fatty acid biosynthesis; Ligase; Lipid synthesis.
+TMZERO

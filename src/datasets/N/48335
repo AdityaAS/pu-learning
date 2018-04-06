@@ -1,0 +1,19 @@
+AC   P15217; P15218; P15219;
+Exogastrula-inducing polypeptide precursor (EGIP) [Contains:
+Exogastrula-inducing peptide C (EGIP-C); Exogastrula-inducing peptide
+D (EGIP-D); Exogastrula-inducing peptide A (EGIP-A); EGIP-X].
+"Molecular cloning of a cDNA that encodes the precursor to several
+exogastrula-inducing peptides, epidermal-growth-factor-related
+polypeptides of the sea urchin Anthocidaris crassispina.";
+"The exogastrula-inducing peptides in embryos of the sea urchin,
+Anthocidaris crassispina -- isolation and determination of the primary
+structure.";
+"Amino acid sequence of exogastrula-inducing peptide C from the sea
+urchin, Anthocidaris crassispina.";
+-!- FUNCTION: The EGIP peptides are factors effective to extrude the
+    archenteron toward outside of embryos. May have a role in the
+    induction of gastrulation.
+-!- SIMILARITY: Contains 4 EGF-like domains.
+Developmental protein; Direct protein sequencing; EGF-like domain;
+Extracellular matrix; Gastrulation; Repeat; Signal.
+TMZERO

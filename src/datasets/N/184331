@@ -1,0 +1,20 @@
+AC   P08764;
+Type III restriction-modification system EcoPI enzyme res
+(EC 3.1.21.5).
+"Type III DNA restriction and modification systems EcoP1 and EcoP15.
+Nucleotide sequence of the EcoP1 operon, the EcoP15 mod gene and some
+EcoP1 mod mutants.";
+"Genome of bacteriophage P1.";
+-!- FUNCTION: This protein cuts the DNA some 25 base-pairs to the 3'-
+    end of the recognition site. It is only required for restriction
+    but needs the presence of the modification enzyme.
+-!- CATALYTIC ACTIVITY: Endonucleolytic cleavage of DNA to give
+    specific double-stranded fragments with terminal 5'-phosphates.
+-!- COFACTOR: Magnesium.
+-!- SUBUNIT: Contains two different subunits: res and mod.
+-!- SIMILARITY: Belongs to the type III restriction-modification
+    system res protein family.
+ GO:0015668; F:Type III site-specific deoxyribonuclease ac...; IEA:EC.
+ATP-binding; Endonuclease; Helicase; Hydrolase; Nuclease;
+Nucleotide-binding; Restriction system.
+TMZERO

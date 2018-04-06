@@ -1,0 +1,53 @@
+AC   P11584; Q8MYX9; Q9W3L2;
+Integrin beta-PS precursor (Position-specific antigen beta chain)
+(Protein myospheroid) (Protein olfactory C).
+"The lethal myospheroid gene of Drosophila encodes a membrane protein
+homologous to vertebrate integrin beta subunits.";
+"Functions of the cytoplasmic domain of the beta PS integrin subunit
+during Drosophila development.";
+"The genome sequence of Drosophila melanogaster.";
+"Annotation of the Drosophila melanogaster euchromatic genome: a
+systematic review.";
+"A Drosophila full-length cDNA resource.";
+"Genetic analysis of olfC demonstrates a role for the position-
+specific integrins in the olfactory system of Drosophila
+melanogaster.";
+-!- FUNCTION: Integrin alpha-PS1/beta-PS is a receptor for laminin.
+    Integrin alpha-PS2/beta-PS is a receptor for Tig (Tiggrin). Also
+    binds to wb (wing blister) and Ten-m (Tenascin major). Required
+    for many embryonic (dorsal closure and somatic muscle attachments)
+    and post-embryonic developmental processes (attachment between
+    cell layers of imaginal disks, organization of ommatidial arrays
+    and flight muscle development). Involved in the function and/or
+    development of the olfactory system.
+-!- SUBUNIT: Heterodimer of an alpha and a beta subunit. Beta-PS
+    associates with either alpha-PS1, alpha-PS2 or alpha-PS3.
+-!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+    protein.
+-!- TISSUE SPECIFICITY: Embryonic dorsal cuticle, larval eye and wing
+    imaginal disk.
+-!- MISCELLANEOUS: The absence of the beta-PS subunit results in
+    detachment and rounding up of the muscles, thus the gene encoding
+    beta-PS is called myospheroid.
+-!- SIMILARITY: Belongs to the integrin beta chain family.
+-!- SIMILARITY: Contains 1 VWFA domain.
+ GO:0008305; C:integrin complex; NAS:FlyBase.
+ GO:0050839; F:cell adhesion molecule binding; TAS:FlyBase.
+ GO:0004872; F:receptor activity; TAS:FlyBase.
+ GO:0007475; P:apposition of dorsal and ventral wing surfaces; NAS:FlyBase.
+ GO:0007411; P:axon guidance; IMP:FlyBase.
+ GO:0016339; P:calcium-dependent cell-cell adhesion; TAS:FlyBase.
+ GO:0007155; P:cell adhesion; IMP:FlyBase.
+ GO:0007160; P:cell-matrix adhesion; TAS:FlyBase.
+ GO:0007417; P:central nervous system development; IMP:FlyBase.
+ GO:0007391; P:dorsal closure; TAS:FlyBase.
+ GO:0007157; P:heterophilic cell adhesion; TAS:FlyBase.
+ GO:0007494; P:midgut development; TAS:FlyBase.
+ GO:0016203; P:muscle attachment; TAS:FlyBase.
+ GO:0008360; P:regulation of cell shape; IMP:FlyBase.
+ GO:0007427; P:tracheal epithelial cell migration (sensu I...; TAS:FlyBase.
+ GO:0007426; P:tracheal outgrowth (sensu Insecta); TAS:FlyBase.
+Behavior; Cell adhesion; Complete proteome; Flight; Glycoprotein;
+Integrin; Membrane; Olfaction; Phosphorylation; Receptor; Repeat;
+Sensory transduction; Signal; Transmembrane; Vision.
+TMONE

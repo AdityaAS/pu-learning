@@ -1,0 +1,39 @@
+AC   O15400; Q5SZW2; Q96ES9;
+Syntaxin-7.
+"Human syntaxin 7: a Pep12p/Vps6p homologue implicated in vesicle
+trafficking to lysosomes.";
+"The DNA sequence and analysis of human chromosome 6.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Exploring proteomes and analyzing protein processing by mass
+spectrometric identification of sorted N-terminal peptides.";
+"Differential roles of syntaxin 7 and syntaxin 8 in endosomal
+trafficking.";
+"Syntaxin 7 mediates endocytic trafficking to late endosomes.";
+-!- FUNCTION: May be involved in protein trafficking from the plasma
+    membrane to the early endosome (EE) as well as in homotypic fusion
+    of endocytic organelles. Mediates the endocytic trafficking from
+    early endosomes to late endosomes and lysosomes.
+-!- SUBUNIT: Forms a SNARE complex with VTI1B, STX8 and VAMP8 which
+    functions in the homotypic fusion of late endosomes. Interacts
+    with VPS33A. Found in a complex with VAMP8 and VTI1B in the liver.
+    Part of the SNARE core complex containing VAMP8, STX8 and VTI1B
+    (By similarity). Interacts with VPS11, VPS16 and VPS18.
+-!- SUBCELLULAR LOCATION: Endosome; early endosome; early endosomal
+    membrane; single-pass type IV membrane protein (By similarity).
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O15400-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O15400-2; Sequence=VSP_012938;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Highest expression is found in placenta
+    followed by heart, skeletal muscle, kidney and brain. Low
+    expression is found in pancreas, lung and liver.
+-!- SIMILARITY: Belongs to the syntaxin family.
+-!- SIMILARITY: Contains 1 t-SNARE coiled-coil homology domain.
+ GO:0006892; P:post-Golgi vesicle-mediated transport; TAS:ProtInc.
+Acetylation; Alternative splicing; Coiled coil;
+Direct protein sequencing; Membrane; Phosphorylation; Transmembrane.
+TMONE

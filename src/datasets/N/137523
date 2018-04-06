@@ -1,0 +1,22 @@
+AC   P53294;
+Pseudouridylate synthase 6 (EC 5.4.99.-) (Pseudouridine synthase 6)
+(tRNA pseudouridine 31 synthase) (PSI31 synthase) (Uracil hydrolyase).
+"Sequence analysis of 203 kilobases from Saccharomyces cerevisiae
+chromosome VII.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Identification and characterization of the tRNA:Psi 31-synthase
+(Pus6p) of Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Catalyzes the formation of pseudouridine at position 31
+    in the psi GC loop of tRNAS.
+-!- CATALYTIC ACTIVITY: RNA uridine = RNA pseudouridine.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Mitochondrion.
+-!- MISCELLANEOUS: Present with 377 molecules/cell.
+-!- SIMILARITY: Belongs to the pseudouridine synthase rluA family.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0004730; F:pseudouridylate synthase activity; IDA:SGD.
+ GO:0001522; P:pseudouridine synthesis; IDA:SGD.
+ GO:0006400; P:tRNA modification; IDA:SGD.
+Complete proteome; Isomerase; Mitochondrion; tRNA processing.
+TMZERO

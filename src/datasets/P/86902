@@ -1,0 +1,33 @@
+AC   O14649;
+Potassium channel subfamily K member 3 (Acid-sensitive potassium
+channel protein TASK-1) (TWIK-related acid-sensitive K(+) channel 1)
+(Two pore potassium channel KT3.1).
+"TASK, a human background K+ channel to sense external pH variations
+near physiological pH.";
+"Proton block and voltage-gating are potassium-dependent in the
+cardiac leak channel Kcnk3.";
+"Inhalational anesthetics activate two-pore-domain background K+
+channels.";
+"TASK-5, a novel member of the tandem pore K+ channel family.";
+-!- FUNCTION: pH-dependent, voltage-insensitive, background potassium
+    channel protein. Rectification direction results from potassium
+    ion concentration on either side of the membrane. Acts as an
+    outward rectifier when external potassium concentration is low.
+    When external potassium concentration is high, current is inward.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- TISSUE SPECIFICITY: Widespread expression in adult. Strongest
+    expression in pancreas and placenta. Lower expression in brain,
+    lung, prostate, heart, kidney, uterus, small intestine and colon.
+-!- MISCELLANEOUS: Inhibited by external acidification. Activated by
+    halothane and isoflurane.
+-!- SIMILARITY: Belongs to the two pore domain potassium channel
+    (TC 1.A.1.8) family.
+ GO:0005887; C:integral to plasma membrane; TAS:ProtInc.
+ GO:0005267; F:potassium channel activity; TAS:ProtInc.
+ GO:0006813; P:potassium ion transport; TAS:ProtInc.
+ GO:0007268; P:synaptic transmission; TAS:ProtInc.
+Glycoprotein; Ion transport; Ionic channel; Membrane; Potassium;
+Potassium channel; Potassium transport; Transmembrane; Transport;
+Voltage-gated channel.
+TMFOUR

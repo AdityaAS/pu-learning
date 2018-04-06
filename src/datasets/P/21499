@@ -1,0 +1,15 @@
+AC   Q47087;
+Achromobactin transport ATP-binding protein cbrD.
+"Differential expression of two siderophore-dependent iron-acquisition
+pathways in Erwinia chrysanthemi 3937: characterization of a novel
+ferrisiderophore permease of the ABC transporter family.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    cbrABCD for uptake of the siderophore achromobactin. Probably
+    responsible for energy coupling to the transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Inner membrane; Ion transport; Iron; Iron transport;
+Membrane; Nucleotide-binding; Transport.
+TMZERO

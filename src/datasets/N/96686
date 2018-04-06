@@ -1,0 +1,17 @@
+AC   P92524; Q8GUT8;
+Hypothetical mitochondrial protein AtMg00880 (ORF187).
+"The mitochondrial genome of Arabidopsis thaliana contains 57 genes in
+366,924 nucleotides.";
+"Sequence and analysis of chromosome 2 of the plant Arabidopsis
+thaliana.";
+"Analysis of the cDNAs of hypothetical genes on Arabidopsis chromosome
+2 reveals numerous transcript variants.";
+-!- SUBCELLULAR LOCATION: Mitochondrion (Potential).
+-!- MISCELLANEOUS: A stretch of 270 kb of the mitochondrial genome is
+    duplicated within the centromer of chromosome 2 resulting in the
+    duplication of the gene. The expression of this duplicated gene
+    (At2g07682) is demonstrated.
+-!- CAUTION: Ref.2 and Ref.3 sequences differ from that shown due to a
+    frameshift in position 180.
+Hypothetical protein; Mitochondrion.
+TMZERO

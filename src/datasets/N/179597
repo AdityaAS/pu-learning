@@ -1,0 +1,13 @@
+AC   Q2YQ56;
+Glutamyl-tRNA synthetase 1 (EC 6.1.1.17) (Glutamate--tRNA ligase 1)
+(GluRS 1).
+"Whole-genome analyses of speciation events in pathogenic Brucellae.";
+-!- CATALYTIC ACTIVITY: ATP + L-glutamate + tRNA(Glu) = AMP +
+    diphosphate + L-glutamyl-tRNA(Glu).
+-!- SUBUNIT: Monomer (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Nucleotide-binding; Protein biosynthesis.
+TMZERO

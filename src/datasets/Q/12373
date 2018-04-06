@@ -1,0 +1,12 @@
+AC   P54209;
+Cation-transporting ATPase CA1 (EC 3.6.3.-).
+"Molecular cloning of a P-type Ca(2+)-ATPase from the halotolerant
+alga Dunaliella bioculata.";
+-!- FUNCTION: Could possibly be a calcium ATPase.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O = ADP + phosphate.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIA subfamily.
+ATP-binding; Hydrolase; Magnesium; Membrane; Nucleotide-binding;
+Phosphorylation; Transmembrane.
+TMTEN

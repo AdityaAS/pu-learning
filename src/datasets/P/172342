@@ -1,0 +1,11 @@
+AC   Q9ZHC9;
+Putative cation efflux system protein silA.
+"Molecular basis for resistance to silver cations in Salmonella.";
+-!- FUNCTION: Component of the sil cation-efflux system that confers
+    resistance to silver. May be part of a three-component
+    cation/proton antiporter.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the acrB/acrD/acrF (TC 2.A.6) family.
+Antiport; Inner membrane; Membrane; Plasmid; Transmembrane; Transport.
+TMFOURTEEN

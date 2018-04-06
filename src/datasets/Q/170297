@@ -1,0 +1,15 @@
+AC   P60266;
+Toxin Css IV (CssIV).
+"Scorpion toxins specific for Na+-channels.";
+"Purification and chemical and biological characterizations of seven
+toxins from the Mexican scorpion, Centruroides suffusus suffusus.";
+-!- FUNCTION: Binds voltage-independently to sodium channels and shift
+    the voltage of activation toward more negative potentials (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- SIMILARITY: Belongs to the long (4 C-C) scorpion toxin
+    superfamily. Sodium channel inhibitor family. Beta subfamily.
+Amidation; Direct protein sequencing; Ionic channel inhibitor;
+Neurotoxin; Sodium channel inhibitor; Toxin.
+TMZERO

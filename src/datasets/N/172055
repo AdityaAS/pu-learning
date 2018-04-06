@@ -1,0 +1,45 @@
+AC   Q99962; Q9NQK5;
+SH3-containing GRB2-like protein 2 (EC 2.3.1.-) (Endophilin-1)
+(Endophilin-A1) (SH3 domain protein 2A) (EEN-B1).
+"A novel SH3-containing human gene family preferentially expressed in
+the central nervous system.";
+"A family of EEN-like genes coding for SH3-domain containing proteins
+are preferentially expressed in human brain.";
+"Cloning of human full open reading frames in Gateway(TM) system entry
+vector (pDONR201).";
+"Cloning of human full-length CDSs in BD Creator(TM) system donor
+vector.";
+"DNA sequence and analysis of human chromosome 9.";
+"The SH3 domains of endophilin and amphiphysin bind to the proline-
+rich region of synaptojanin 1 at distinct sites that display an
+unconventional binding specificity.";
+-!- FUNCTION: Plays a role in synaptic vesicle recycling, in
+    particular in clathrin-mediated vesicle endocytosis. Exhibits
+    lysophosphatidic acid acyltransferase activity (LPAAT).
+-!- ENZYME REGULATION: The lysophosphatidic acid acyltransferase
+    activity increases upon phosphorylation (By similarity).
+-!- SUBUNIT: Interacts with SYNJ1 and DNM1. Also associates with
+    MAP4K3. This interaction appears to regulate MAP4K3-mediated JNK
+    activation.
+-!- INTERACTION:
+    Self; NbExp=1; IntAct=EBI-77938, EBI-77938;
+    Q13444:ADAM15; NbExp=1; IntAct=EBI-77938, EBI-77818;
+    Q13443:ADAM9; NbExp=1; IntAct=EBI-77938, EBI-77903;
+    Q99700:ATXN2; NbExp=4; IntAct=EBI-77938, EBI-697691;
+    P50402:EMD; NbExp=1; IntAct=EBI-77938, EBI-489887;
+    Q99963:SH3GL3; NbExp=1; IntAct=EBI-77938, EBI-473910;
+-!- SUBCELLULAR LOCATION: Cytoplasm. Membrane; peripheral membrane
+    protein. Note=Concentrated in presynaptic nerve terminals in
+    neurons.
+-!- TISSUE SPECIFICITY: Brain, mostly in frontal cortex. Expressed at
+    high level in fetal cerebellum.
+-!- PTM: Phosphorylated (By similarity).
+-!- SIMILARITY: Belongs to the endophilin family.
+-!- SIMILARITY: Contains 1 BAR domain.
+-!- SIMILARITY: Contains 1 SH3 domain.
+ GO:0042802; F:identical protein binding; IPI:IntAct.
+ GO:0007417; P:central nervous system development; TAS:ProtInc.
+ GO:0007165; P:signal transduction; TAS:ProtInc.
+3D-structure; Acyltransferase; Coiled coil; Lipid-binding;
+Phosphorylation; SH3 domain; Transferase.
+TMZERO

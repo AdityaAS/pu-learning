@@ -1,0 +1,13 @@
+AC   P04926; P06718;
+Malaria protein EXP-1 precursor (Exported antigen AG 5.1).
+"A malaria protein exported into a new compartment within the host
+erythrocyte.";
+"The gene for an exported antigen of the malaria parasite Plasmodium
+falciparum cloned and expressed in Escherichia coli.";
+-!- MISCELLANEOUS: This protein is addressed to a new compartment
+    within the cytoplasm of the infected red cell. It also surrounds
+    the parasite, probably in the parasitophorous vacuole membrane.
+-!- MISCELLANEOUS: This antigen and the circumsporozoite protein
+    appear to have a common epitope.
+Malaria; Membrane; Signal; Sporozoite; Transmembrane.
+TMONE

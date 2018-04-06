@@ -1,0 +1,28 @@
+AC   P40074;
+Vacuolar amino acid transporter 6.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome V.";
+"Sequence, map position and genome organization of the RPL17B gene,
+encoding ribosomal protein L17b in Saccharomyces cerevisiae.";
+"A family of yeast proteins mediating bidirectional vacuolar amino
+acid transport.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: Involved in amino acid efflux from the vacuole to the
+    cytoplasm. Capable of transporting aspartate and glutamate.
+    Requires ATP for function.
+-!- INTERACTION:
+    P02829:HSP82; NbExp=1; IntAct=EBI-22666, EBI-8659;
+-!- SUBCELLULAR LOCATION: Vacuole; vacuolar membrane; multi-pass
+    membrane protein.
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family.
+ GO:0000329; C:vacuolar membrane (sensu Fungi); IMP:SGD.
+ GO:0005773; C:vacuole; IDA:SGD.
+ GO:0015183; F:L-aspartate transporter activity; IMP:SGD.
+ GO:0005313; F:L-glutamate transporter activity; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006865; P:amino acid transport; IMP:SGD.
+ GO:0007034; P:vacuolar transport; IMP:SGD.
+Amino-acid transport; Complete proteome; Membrane; Transmembrane;
+Transport; Vacuole.
+TMELEVEN

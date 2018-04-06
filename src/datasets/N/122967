@@ -1,0 +1,15 @@
+AC   P14644;
+cAMP-specific 3',5'-cyclic phosphodiesterase 4C (EC 3.1.4.17) (DPDE1)
+(Fragment).
+"Differential CNS expression of alternative mRNA isoforms of the
+mammalian genes encoding cAMP-specific phosphodiesterases.";
+"Molecular cloning of rat homologues of the Drosophila melanogaster
+dunce cAMP phosphodiesterase: evidence for a family of genes.";
+-!- CATALYTIC ACTIVITY: Adenosine 3',5'-cyclic phosphate + H(2)O =
+    adenosine 5'-phosphate.
+-!- ENZYME REGULATION: Inhibited by rolipram.
+-!- PATHWAY: Cyclic nucleotide metabolism.
+-!- SIMILARITY: Belongs to the cyclic nucleotide phosphodiesterase
+    family.
+cAMP; Hydrolase.
+TMZERO

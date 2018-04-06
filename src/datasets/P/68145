@@ -1,0 +1,11 @@
+AC   P15747;
+General secretion pathway protein H precursor (Pullulanase secretion
+protein pulH).
+"Five additional genes in the pulC-O operon of the Gram-negative
+bacterium Klebsiella oxytoca UNF5023 which are required for
+pullulanase secretion.";
+-!- FUNCTION: Involved in a general secretion pathway (GSP) for the
+    export of proteins. Required for the translocation of pullulanase.
+-!- SIMILARITY: Belongs to the GSP H family.
+Methylation; Transport.
+TMZERO

@@ -1,0 +1,13 @@
+AC   Q7SF55;
+Acetate non-utilizing protein 9, mitochondrial precursor.
+"What's in the genome of a filamentous fungus? Analysis of the
+Neurospora genome sequence.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: Involved in the regulation of enzymes involved in
+    acetate assimilation like gluconeogenesis, the glyoxylate cycle,
+    and acetyl-CoA metabolism (By similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial intermembrane
+    space (By similarity).
+-!- SIMILARITY: Belongs to the ACN9 family.
+Gluconeogenesis; Mitochondrion; Transit peptide.
+TMZERO

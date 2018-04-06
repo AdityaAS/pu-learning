@@ -1,0 +1,28 @@
+AC   P11006;
+Magainins precursor [Contains: Small acidic peptide; Magainin-1
+(Magainin I); Magainin-2 (Magainin II)].
+"The cDNA sequence coding for prepro-PGS (prepro-magainins) and
+aspects of the processing of this prepro-polypeptide.";
+"Magainins, a class of antimicrobial peptides from Xenopus skin:
+isolation, characterization of two active forms, and partial cDNA
+sequence of a precursor.";
+"Antimicrobial peptides in the stomach of Xenopus laevis.";
+"Structure and orientation of the antibiotic peptide magainin in
+membranes by solid-state nuclear magnetic resonance spectroscopy.";
+-!- FUNCTION: Antimicrobial peptides that inhibit the growth of
+    numerous species of bacteria and fungi and induce osmotic lysis of
+    protozoa. Magainins are membrane lytic agents.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Synthesized in the stomach and stored in a
+    novel granular multinucleated cell in the gastric mucosa. It is
+    stored as active, processed peptides in large granules within the
+    granular gland secretions of the skin.
+-!- SIMILARITY: Belongs to the gastrin/cholecystokinin family.
+    Magainin subfamily.
+-!- WEB RESOURCE: NAME=Protein Spotlight;
+    NOTE=When a frog swallows a fly - Issue 7 of February 2001;
+    URL="http://www.expasy.org/spotlight/back_issues/sptlt007.shtml".
+3D-structure; Antibiotic; Antimicrobial;
+Cleavage on pair of basic residues; Cytolysis;
+Direct protein sequencing; Fungicide; Hemolysis; Repeat; Signal.
+TMZERO

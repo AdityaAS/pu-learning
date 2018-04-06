@@ -1,0 +1,16 @@
+AC   P0AAD7; P36559;
+Serine transporter.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Involved in the import of serine into the cell. May be
+    required for phage C1 adsorption by interacting with drcB. May
+    also be involved in ampicillin sensitivity (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- INDUCTION: By leucine and by growth in rich medium (By
+    similarity).
+-!- SIMILARITY: Belongs to the amino acid/polyamine transporter 2
+    family. SdaC/tdcC subfamily.
+Complete proteome; Inner membrane; Membrane; Transmembrane; Transport.
+TMELEVEN

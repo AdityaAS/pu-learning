@@ -1,0 +1,12 @@
+AC   P43492;
+Cytochrome P450 116 (EC 1.14.-.-).
+"Degradation of the thiocarbamate herbicide EPTC (S-ethyl
+dipropylcarbamothioate) and biosafening by Rhodococcus sp. strain
+NI86/21 involve an inducible cytochrome P-450 system and aldehyde
+dehydrogenase.";
+-!- FUNCTION: Degradation of thiocarbamate herbicides.
+-!- INDUCTION: By EPTC (S-ethyl dipropylcarbamothioate).
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+Direct protein sequencing; Heme; Iron; Metal-binding; Monooxygenase;
+Oxidoreductase.
+TMZERO

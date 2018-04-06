@@ -1,0 +1,10 @@
+AC   P63221; P35265;
+40S ribosomal protein S21.
+"Evaluation and characterization of a porcine small intestine cDNA
+library.";
+-!- SIMILARITY: Belongs to the ribosomal protein S21e family.
+ GO:0005840; C:ribosome; ISS:UniProtKB.
+ GO:0043022; F:ribosome binding; ISS:UniProtKB.
+ GO:0008283; P:cell proliferation; ISS:UniProtKB.
+Acetylation; Ribonucleoprotein; Ribosomal protein.
+TMZERO

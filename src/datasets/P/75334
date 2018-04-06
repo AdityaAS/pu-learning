@@ -1,0 +1,16 @@
+AC   Q07227;
+Gamma-hemolysin component C precursor (H-gamma-1) (H-gamma-I).
+"The gamma-hemolysin locus of Staphylococcus aureus comprises three
+linked genes, two of which are identical to the genes for the F and S
+components of leukocidin.";
+"Molecular cloning and genetic analysis of the determinant for gamma-
+lysin, a two-component toxin of Staphylococcus aureus.";
+-!- FUNCTION: Toxin that seems to act by forming pores in the membrane
+    of the cell. Has a hemolytic and a leucotoxic activity.
+-!- SUBUNIT: Toxicity requires sequential binding and synergistic
+    association of a class S and a class F component which form
+    heterooligomeric complexes. HlgC (class S) associates with hlgB
+    (class F) thus forming an CB toxin.
+-!- SIMILARITY: Belongs to the aerolysin family.
+Cytolysis; Hemolysis; Signal; Toxin.
+TMZERO

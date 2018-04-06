@@ -1,0 +1,18 @@
+AC   Q9Z224; Q9D6Q0;
+Molybdenum cofactor synthesis protein 2 small subunit (Molybdopterin
+synthase small subunit) (MOCS2A).
+"Human molybdopterin synthase gene: identification of a bicistronic
+transcript with overlapping reading frames.";
+-!- FUNCTION: Converts molybdopterin precursor Z into molybdopterin.
+    This requires the incorporation of two sulfur atoms into precursor
+    Z to generate a dithiolene group.
+-!- PATHWAY: Cofactor biosynthesis; molybdopterin biosynthesis.
+-!- SUBUNIT: Heterodimer of a large and a small subunit (By
+    similarity).
+-!- MISCELLANEOUS: This protein is produced by a bicistronic gene
+    which also produces the large subunit from an overlapping reading
+    frame.
+-!- SIMILARITY: Belongs to the moaD family.
+ GO:0042802; F:identical protein binding; IPI:MGI.
+Molybdenum cofactor biosynthesis.
+TMZERO

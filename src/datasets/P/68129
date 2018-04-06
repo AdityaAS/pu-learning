@@ -1,0 +1,12 @@
+AC   P15745;
+General secretion pathway protein F (Pullulanase secretion protein
+pulF).
+"Pullulanase secretion in Escherichia coli K-12 requires a cytoplasmic
+protein and a putative polytopic cytoplasmic membrane protein.";
+-!- FUNCTION: Involved in a general secretion pathway (GSP) for the
+    export of proteins. Required for the translocation of pullulanase.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Probable).
+-!- SIMILARITY: Belongs to the GSP F family.
+Inner membrane; Membrane; Transmembrane; Transport.
+THTHREE

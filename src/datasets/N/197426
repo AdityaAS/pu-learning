@@ -1,0 +1,32 @@
+AC   Q9RC92;
+Unsaturated glucuronyl hydrolase (EC 3.2.1.-) (UGL) (Glycuronidase)
+(Unsaturated uronic acid hydrolase) (Glycosaminoglycan hydrolase).
+"Unsaturated glucuronyl hydrolase of Bacillus sp. GL1: novel enzyme
+prerequisite for metabolism of unsaturated oligosaccharides produced
+by polysaccharide lyases.";
+"Crystal structure of unsaturated glucuronyl hydrolase, responsible
+for the degradation of glycosaminoglycan, from Bacillus sp. GL1 at 1.8
+A resolution.";
+-!- FUNCTION: Catalyzes the hydrolysis of oligosaccharides with
+    unsaturated glucuronyl residues at the nonreducing terminal, to a
+    sugar or an amino sugar, and an unsaturated D-glucuronic acid
+    (GlcA), which is nonenzymatically converted immediately to alpha-
+    keto acid.
+-!- ENZYME REGULATION: Partially inhibited by divalent metal ions such
+    as calcium, copper, iron and mercury.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=90 uM for gellan lyase product;
+      KM=200 uM for chondroitin lyase product;
+      KM=226 uM for hyaluronate lyase product;
+      Note= At 30 degrees Celsius and pH 6.5;
+    pH dependence:
+      Optimum pH is 6.0-6.5;
+    Temperature dependence:
+      Optimum temperature is 45 degrees Celsius;
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the glycosyl hydrolase 88 family.
+3D-structure; Carbohydrate metabolism; Direct protein sequencing;
+Glycosidase; Hydrolase; Polysaccharide degradation.
+TMZERO

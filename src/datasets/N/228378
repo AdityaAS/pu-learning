@@ -1,0 +1,8 @@
+AC   Q5PNL7;
+UPF0181 protein yoaH.
+"Comparison of genome degradation in Paratyphi A and Typhi, human-
+restricted serovars of Salmonella enterica that cause typhoid.";
+-!- SIMILARITY: Belongs to the UPF0181 family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

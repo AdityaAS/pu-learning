@@ -1,0 +1,18 @@
+AC   Q9KAN8;
+Peptide methionine sulfoxide reductase msrA (EC 1.8.4.11) (Protein-
+methionine-S-oxide reductase) (Peptide-methionine (S)-S-oxide
+reductase) (Peptide Met(O) reductase).
+"Complete genome sequence of the alkaliphilic bacterium Bacillus
+halodurans and genomic sequence comparison with Bacillus subtilis.";
+-!- FUNCTION: Has an important function as a repair enzyme for
+    proteins that have been inactivated by oxidation. Catalyzes the
+    reversible oxidation-reduction of methionine sulfoxide in proteins
+    to methionine (By similarity).
+-!- CATALYTIC ACTIVITY: Peptide-L-methionine + thioredoxin disulfide +
+    H(2)O = peptide-L-methionine (S)-S-oxide + thioredoxin.
+-!- CATALYTIC ACTIVITY: L-methionine + thioredoxin disulfide + H(2)O =
+    L-methionine (S)-S-oxide + thioredoxin.
+-!- SIMILARITY: Belongs to the msrA Met sulfoxide reductase family.
+ GO:0006464; P:protein modification; IEA:HAMAP.
+Complete proteome; Oxidoreductase.
+TMZERO

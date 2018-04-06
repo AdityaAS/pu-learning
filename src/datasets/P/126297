@@ -1,0 +1,17 @@
+AC   P15710; Q7RV96;
+Phosphate-repressible phosphate permease.
+"Nucleotide sequence of pho-4+, encoding a phosphate-repressible
+phosphate permease of Neurospora crassa.";
+"The genome sequence of the filamentous fungus Neurospora crassa.";
+-!- FUNCTION: When the organism is grown under conditions of limiting
+    phosphorus, a number of derepressible enzymes are synthesized that
+    are necessary for scavenging phosphorus from the environment.
+    These include this high-affinity phosphate permease, which is part
+    of a functional entity called ptsII. Probably a sodium-phosphate
+    symporter.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the pho-4 transporter (TC 2.A.20.2.1)
+    family.
+Membrane; Phosphate transport; Symport; Transmembrane; Transport.
+TMTWELVE

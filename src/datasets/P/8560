@@ -1,0 +1,48 @@
+AC   P60844; P48838; P75827; Q47159;
+Aquaporin Z (Bacterial nodulin-like intrinsic protein).
+"Molecular cloning and characterization of AqpZ, a water channel from
+Escherichia coli.";
+"Cloning and expression of a new member of aquaporin water channel
+family of E. coli.";
+"Isolation of a gene encoding nodulin-like intrinsic protein of
+Escherichia coli.";
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Visualization of AqpZ-mediated water permeability in Escherichia coli
+by cryoelectron microscopy.";
+"Functional reconstitution and characterization of AqpZ, the E. coli
+water channel protein.";
+"Highly selective water channel activity measured by voltage clamp:
+Analysis of planar lipid bilayers reconstituted with purified AqpZ.";
+"Structure of the water channel AqpZ from Escherichia coli revealed by
+electron crystallography.";
+"High resolution AFM topographs of the Escherichia coli water channel
+aquaporin Z.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+"Architecture and selectivity in aquaporins: 2.5 A X-ray structure of
+aquaporin Z.";
+"The Escherichia coli aquaporin-Z water channel.";
+-!- FUNCTION: Channel that permits osmotically driven movement of
+    water in both directions. It is involved in the osmoregulation and
+    in the maintenance of cell turgor during volume expansion in
+    rapidly growing cells. It mediates rapid entry or exit of water in
+    response to abrupt changes in osmolarity.
+-!- SUBUNIT: Homotetramer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- INDUCTION: By extracellular hypoosmotic conditions, especially
+    during the mid-logarithmic phase of growth.
+-!- DOMAIN: Aquaporins contain two tandem repeats each containing
+    three membrane-spanning domains and a pore-forming loop with the
+    signature motif Asn-Pro-Ala (NPA).
+-!- MISCELLANEOUS: It is a remarkably rigid tetramer that does not
+    dissociate even when solubilized in SDS.
+-!- SIMILARITY: Belongs to the MIP/aquaporin (TC 1.A.8) family.
+ GO:0015250; F:water channel activity; IEA:HAMAP.
+3D-structure; Complete proteome; Inner membrane; Membrane; Repeat;
+Transmembrane; Transport.
+TMSIX

@@ -1,0 +1,45 @@
+AC   Q06143; P87332;
+Mitochondrial dicarboxylate transporter (Dicarboxylate carrier 1)
+(DTP).
+"Identification of a novel gene encoding the yeast mitochondrial
+dicarboxylate transport protein via overexpression, purification, and
+characterization of its protein product.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+"Characterization, purification and properties of the yeast
+mitochondrial dicarboxylate carrier (Saccharomyces cerevisiae).";
+"Bacterial overexpression of putative yeast mitochondrial transport
+proteins.";
+"The mitochondrial dicarboxylate carrier is essential for the growth
+of Saccharomyces cerevisiae on ethanol or acetate as the sole carbon
+source.";
+"Biogenesis of the dicarboxylate carrier (DIC): translocation across
+the mitochondrial outer membrane and subsequent release from the TOM
+channel are membrane potential-independent.";
+"Global analysis of protein localization in budding yeast.";
+"Global analysis of protein expression in yeast.";
+"The proteome of Saccharomyces cerevisiae mitochondria.";
+"The carboxyl-terminal third of the dicarboxylate carrier is crucial
+for productive association with the inner membrane twin-pore
+translocase.";
+-!- FUNCTION: Mitochondrial dicarboxylic transporter catalyzing the
+    exchange of dicarboxylic acids like malate and succinate for
+    inorganic phosphate. Required for growth on ethanol and acetate.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=1.55 mM for malonate;
+      Vmax=3 umol/min/mg enzyme;
+-!- SUBUNIT: Homodimer. Binds to the TIM22 translocation complex
+    during import.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- DOMAIN: The C-terminal Solcar repeat is required for association
+    with the TIM22 translocation complex during import.
+-!- MISCELLANEOUS: Present with 3390 molecules/cell.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005740; C:mitochondrial envelope; IDA:SGD.
+ GO:0005310; F:dicarboxylic acid transporter activity; IDA:SGD.
+ GO:0006835; P:dicarboxylic acid transport; IDA:SGD.
+Antiport; Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Phosphate transport; Repeat; Transmembrane; Transport.
+TMFIVE

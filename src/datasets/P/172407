@@ -1,0 +1,29 @@
+AC   Q56026; Q56033; Q7CPX2;
+Cell invasion protein sipD (Salmonella invasion protein D).
+"Salmonella typhimurium secreted invasion determinants are homologous
+to Shigella Ipa proteins.";
+"Identification of two targets of the type III protein secretion
+system encoded by the inv and spa loci of Salmonella typhimurium that
+have homology to the Shigella IpaD and IpaA proteins.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"The invasion-associated type III system of Salmonella typhimurium
+directs the translocation of Sip proteins into the host cell.";
+"The putative invasion protein chaperone SicA acts together with InvF
+to activate the expression of Salmonella typhimurium virulence
+genes.";
+"Salmonella type III secretion-associated protein InvE controls
+translocation of effector proteins into host cells.";
+-!- FUNCTION: Required for translocation of effector proteins via the
+    type III secretion system SPI-1, which is essential for an
+    efficient bacterial internalization. Probably acts by modulating
+    the secretion of sipA, sipB, and sipC.
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=Secreted via the type
+    III secretion system 1 (SPI-1 TTSS).
+-!- INDUCTION: Transcriptionally regulated by sicA and invF. Also
+    regulated by invE.
+-!- SIMILARITY: Belongs to the sipD/ipaD family.
+-!- CAUTION: Ref.2 sequence differs from that shown due to a
+    frameshift in position 333.
+Complete proteome; Virulence.
+TMZERO

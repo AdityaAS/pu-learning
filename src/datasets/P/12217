@@ -1,0 +1,38 @@
+AC   P54708;
+Potassium-transporting ATPase alpha chain 2 (EC 3.6.3.10) (Proton
+pump) (Non-gastric H(+)/K(+) ATPase subunit alpha).
+"Isolation and characterization of a cDNA encoding the putative distal
+colon H+,K(+)-ATPase. Similarity of deduced amino acid sequence to
+gastric H+,K(+)-ATPase and Na+,K(+)-ATPase and mRNA expression in
+distal colon, kidney, and uterus.";
+"A novel N-terminal splice variant of the rat H+-K+-ATPase alpha2
+subunit. Cloning, functional expression, and renal adaptive response
+to chronic hypokalemia.";
+"Ouabain-sensitive H,K-ATPase: tissue-specific expression of the
+mammalian genes encoding the catalytic alpha subunit.";
+-!- FUNCTION: Catalyzes the hydrolysis of ATP coupled with the
+    exchange of H(+) and K(+) ions across the plasma membrane.
+    Responsible for potassium absorption in various tissues.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) + K(+)(Out) = ADP +
+    phosphate + H(+)(Out) + K(+)(In).
+-!- SUBUNIT: Composed of two subunits: alpha (catalytic) and beta.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=Long; Synonyms=2a;
+      IsoId=P54708-1; Sequence=Displayed;
+    Name=Short; Synonyms=2b;
+      IsoId=P54708-2; Sequence=VSP_000414;
+-!- TISSUE SPECIFICITY: Expressed at high levels in distal colon,
+    coagulating and preputial glands; at much lower levels in proximal
+    colon, kidney, uterus, brain, placenta and lung; and at trace
+    levels in heart and forestomach.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family. Type IIC subfamily.
+ GO:0008900; F:hydrogen:potassium-exchanging ATPase activity; NAS:RGD.
+ GO:0006813; P:potassium ion transport; NAS:RGD.
+Alternative splicing; ATP-binding; Hydrogen ion transport; Hydrolase;
+Ion transport; Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+Phosphorylation; Potassium; Potassium transport; Transmembrane;
+Transport.
+TMTEN

@@ -1,0 +1,12 @@
+AC   Q58047;
+Putative phosphate permease MJ0630.
+"Complete genome sequence of the methanogenic archaeon, Methanococcus
+jannaschii.";
+-!- FUNCTION: Potential transporter for phosphate.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the pho-4 transporter (TC 2.A.20.3.1)
+    family.
+Complete proteome; Hypothetical protein; Membrane;
+Phosphate transport; Transmembrane; Transport.
+TMNINE

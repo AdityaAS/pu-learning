@@ -1,0 +1,17 @@
+AC   P10149;
+Shiga toxin A-chain precursor (EC 3.2.2.22) (rRNA N-glycosidase).
+"Cloning and sequencing of the genes for Shiga toxin from Shigella
+dysenteriae type 1.";
+"Cloning and primary structure of Shigella toxin genes.";
+"The primary structure of the operons coding for Shigella dysenteriae
+toxin and temperature phage H30 shiga-like toxin.";
+-!- FUNCTION: The A chain is responsible for inhibiting protein
+    synthesis through the catalytic inactivation of 60S ribosomal
+    subunits.
+-!- CATALYTIC ACTIVITY: Endohydrolysis of the N-glycosidic bond at one
+    specific adenosine on the 28S rRNA.
+-!- SUBUNIT: Shiga toxin contains a single A-chain and five copies of
+    B-chain.
+-!- SIMILARITY: Belongs to the ribosome-inactivating protein family.
+Hydrolase; Protein synthesis inhibitor; Signal; Toxin.
+TMZERO

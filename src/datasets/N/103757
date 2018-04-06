@@ -1,0 +1,9 @@
+AC   Q9ZCY1;
+Protein mraZ.
+"The genome sequence of Rickettsia prowazekii and the origin of
+mitochondria.";
+-!- SUBUNIT: Homooctamer. Forms a ring (By similarity).
+-!- SIMILARITY: Belongs to the mraZ family.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

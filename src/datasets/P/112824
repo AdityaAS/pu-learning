@@ -1,0 +1,14 @@
+AC   P25197; P25198; P25199;
+Nodulation protein nolG precursor.
+"Six nodulation genes of nod box locus 4 in Rhizobium meliloti are
+involved in nodulation signal production: nodM codes for D-glucosamine
+synthetase.";
+"Nucleotide sequence and predicted functions of the entire
+Sinorhizobium meliloti pSymA megaplasmid.";
+-!- FUNCTION: Involved in the production of Medicago-specific
+    nodulation signal molecule.
+-!- CAUTION: Ref.1 (CAA41489) sequence differs from that shown due to
+    several frameshifts. Therefore, it was thought to be three
+    separate ORFs named nolG, nolH and nolI.
+Complete proteome; Nodulation; Plasmid; Signal.
+TMZERO

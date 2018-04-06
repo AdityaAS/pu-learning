@@ -1,0 +1,41 @@
+AC   P17443;
+UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide)
+pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+(EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc
+transferase).
+"Nucleotide sequence involving murG and murC in the mra gene cluster
+region of Escherichia coli.";
+"Systematic sequencing of the Escherichia coli genome: analysis of the
+0-2.4 min region.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Nucleotide sequence of the cell-envelope murG gene of Escherichia
+coli.";
+"The murG gene of Escherichia coli codes for the UDP-N-
+acetylglucosamine: N-acetylmuramyl-(pentapeptide) pyrophosphoryl-
+undecaprenol N-acetylglucosamine transferase involved in the membrane
+steps of peptidoglycan synthesis.";
+"The final step of peptidoglycan subunit assembly in Escherichia coli
+occurs in the cytoplasm.";
+"The 1.9 A crystal structure of Escherichia coli MurG, a membrane-
+associated glycosyltransferase involved in peptidoglycan
+biosynthesis.";
+-!- FUNCTION: Cell wall formation. Catalyzes the transfer of a GlcNAc
+    subunit on undecaprenyl-pyrophosphoryl-MurNAc-pentapeptide (lipid
+    intermediate I) to form undecaprenyl-pyrophosphoryl-MurNAc-
+    (pentapeptide)GlcNAc (lipid intermediate II).
+-!- CATALYTIC ACTIVITY: UDP-N-acetylglucosamine + Mur2Ac(oyl-L-Ala-
+    gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol = UDP +
+    GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-
+    diphosphoundecaprenol.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the glycosyltransferase 28 family. MurG
+    subfamily.
+ GO:0009252; P:peptidoglycan biosynthesis; IEA:HAMAP.
+3D-structure; Cell cycle; Cell division; Cell shape; Cell wall;
+Complete proteome; Direct protein sequencing; Glycosyltransferase;
+Inner membrane; Membrane; Peptidoglycan synthesis; Transferase.
+TMZERO

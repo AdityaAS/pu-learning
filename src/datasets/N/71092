@@ -1,0 +1,10 @@
+AC   P02114;
+Hemoglobin subunit beta (Hemoglobin beta chain) (Beta-globin).
+"Nucleotide sequence analysis of a cloned duck beta-globin cDNA.";
+-!- FUNCTION: Involved in oxygen transport from the lung to the
+    various peripheral tissues.
+-!- SUBUNIT: Heterotetramer of two alpha chains and two beta chains.
+-!- TISSUE SPECIFICITY: Red blood cells.
+-!- SIMILARITY: Belongs to the globin family.
+Heme; Iron; Metal-binding; Oxygen transport; Transport.
+TMZERO

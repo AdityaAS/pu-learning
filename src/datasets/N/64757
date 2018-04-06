@@ -1,0 +1,16 @@
+AC   Q88DX4;
+Glutamyl-Q tRNA(Asp) synthetase (EC 6.1.1.-) (Glu-Q-RSs).
+"Complete genome sequence and comparative analysis of the
+metabolically versatile Pseudomonas putida KT2440.";
+-!- FUNCTION: Catalyzes the tRNA-independent activation of glutamate
+    in presence of ATP and the subsequent transfer of glutamate onto a
+    tRNA(Asp). Glutamate is transferred on the 2-amino-5-(4,5-
+    dihydroxy-2-cyclopenten-1-yl) moiety of the queuosine in the
+    wobble position of the QUC anticodon (By similarity).
+-!- COFACTOR: Binds 1 zinc ion per subunit (By similarity).
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family. GluQ subfamily.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+Aminoacyl-tRNA synthetase; ATP-binding; Complete proteome; Ligase;
+Metal-binding; Nucleotide-binding; tRNA processing; Zinc.
+TMZERO

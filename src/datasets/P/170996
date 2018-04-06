@@ -1,0 +1,19 @@
+AC   P28542; Q5V1U5;
+Preprotein translocase secY subunit (Protein transport protein SEC61
+subunit alpha homolog).
+"The genes for ribosomal protein L15 and the protein equivalent to
+secY in the archaebacterium Haloarcula (Halobacterium) marismortui.";
+"Genome sequence of Haloarcula marismortui: a halophilic archaeon from
+the Dead Sea.";
+-!- FUNCTION: Involved in protein export. Interacts with secE to allow
+    the translocation of proteins across the plasma membrane, by
+    forming part of a channel (By similarity).
+-!- SUBUNIT: Component of the protein translocase complex.
+    Heterotrimer consisting of alpha (secY), beta (secG) and gamma
+    (secE) subunits. Can form oligomers of the heterotrimer (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the secY/SEC61-alpha family.
+Complete proteome; Membrane; Protein transport; Translocation;
+Transmembrane; Transport.
+TMELEVEN

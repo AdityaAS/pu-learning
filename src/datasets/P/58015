@@ -1,0 +1,20 @@
+AC   P05316;
+Uracil permease.
+"Primary structure of the uracil transport protein of Saccharomyces
+cerevisiae.";
+"The complete sequence of a 33 kb fragment on the right arm of
+chromosome II from Saccharomyces cerevisiae reveals 16 open reading
+frames, including ten new open reading frames, five previously
+identified genes and a homologue of the SCO1 gene.";
+"Complete DNA sequence of yeast chromosome II.";
+-!- FUNCTION: Transport of uracil.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- PTM: Glycosylated (possible); but there is not yet direct
+    biochemical evidence for it.
+-!- SIMILARITY: Belongs to the purine-cytosine permease family.
+ GO:0045121; C:lipid raft; IDA:SGD.
+ GO:0005886; C:plasma membrane; IDA:SGD.
+ GO:0015505; F:uracil permease activity; IDA:SGD.
+ GO:0015857; P:uracil transport; IDA:SGD.
+Complete proteome; Membrane; Transmembrane; Transport.
+TMTWELVE

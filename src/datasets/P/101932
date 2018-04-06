@@ -1,0 +1,17 @@
+AC   P35724;
+Manganese resistance protein MNR2.
+"Sequence of a 28.6 kb region of yeast chromosome XI includes the FBA1
+and TOA2 genes, an open reading frame (ORF) similar to a
+translationally controlled tumour protein, one ORF containing motifs
+also found in plant storage proteins and 13 ORFs with weak or no
+homology to known proteins.";
+"Complete DNA sequence of yeast chromosome XI.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 259 molecules/cell.
+-!- SIMILARITY: Belongs to the corA metal ion transporter (MIT)
+    (TC 1.A.35) family.
+Complete proteome; Membrane; Transmembrane.
+TMTWO

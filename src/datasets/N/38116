@@ -1,0 +1,29 @@
+AC   P54692;
+D-alanine aminotransferase (EC 2.6.1.21) (D-aspartate
+aminotransferase) (D-amino acid aminotransferase) (D-amino acid
+transaminase) (DAAT).
+"Nucleotide sequence of the Bacillus licheniformis ATCC 10716 dat gene
+and comparison of the predicted amino acid sequence with those of
+other bacterial species.";
+-!- FUNCTION: Acts on the D-isomers of alanine, leucine, aspartate,
+    glutamate, aminobutyrate, norvaline and asparagine. The enzyme
+    transfers an amino group from a substrate D-amino acid to the
+    pyridoxal phosphate cofactor to form pyridoxamine and an alpha-
+    keto acid in the first half-reaction. The second half-reaction is
+    the reverse of the first, transferring the amino group from the
+    pyridoxamine to a second alpha-keto acid to form the product D-
+    amino acid via a ping-pong mechanism. This is an important process
+    in the formation of D-alanine and D-glutamate, which are essential
+    bacterial cell wall components (By similarity).
+-!- CATALYTIC ACTIVITY: D-alanine + 2-oxoglutarate = pyruvate + D-
+    glutamate.
+-!- COFACTOR: Pyridoxal phosphate (By similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SIMILARITY: Belongs to the class-IV pyridoxal-phosphate-dependent
+    aminotransferase family.
+ GO:0047810; F:D-alanine transaminase activity; ISS:UniProtKB.
+ GO:0030170; F:pyridoxal phosphate binding; ISS:UniProtKB.
+ GO:0046437; P:D-amino acid biosynthesis; ISS:UniProtKB.
+ GO:0019478; P:D-amino acid catabolism; ISS:UniProtKB.
+Aminotransferase; Pyridoxal phosphate; Transferase.
+TMZERO

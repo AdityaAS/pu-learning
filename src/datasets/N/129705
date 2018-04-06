@@ -1,0 +1,12 @@
+AC   Q8XIY6;
+Putative pyrophosphatase ppaX (EC 3.6.1.1).
+"Complete genome sequence of Clostridium perfringens, an anaerobic
+flesh-eater.";
+-!- CATALYTIC ACTIVITY: Diphosphate + H(2)O = 2 phosphate.
+-!- COFACTOR: Magnesium (Potential).
+-!- SIMILARITY: Belongs to the HAD-like hydrolase superfamily. PpaX
+    family.
+ GO:0004427; F:inorganic diphosphatase activity; IEA:HAMAP.
+ GO:0000287; F:magnesium ion binding; IEA:HAMAP.
+Complete proteome; Hydrolase; Magnesium.
+TMZERO

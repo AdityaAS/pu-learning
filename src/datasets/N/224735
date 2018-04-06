@@ -1,0 +1,15 @@
+AC   P53159;
+Hypothetical 44.6 kDa protein in RPL7A-HSF1 intergenic region.
+"Sequence analysis of 203 kilobases from Saccharomyces cerevisiae
+chromosome VII.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+-!- INTERACTION:
+    Q04477:YMR117C; NbExp=4; IntAct=EBI-23834, EBI-27228;
+ GO:0005635; C:nuclear envelope; IDA:SGD.
+ GO:0005816; C:spindle pole body; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0005200; F:structural constituent of cytoskeleton; IMP:SGD.
+ GO:0000090; P:mitotic anaphase; TAS:SGD.
+ GO:0007103; P:spindle pole body duplication in nuclear en...; TAS:SGD.
+Complete proteome; Hypothetical protein; Membrane; Transmembrane.
+TMONE

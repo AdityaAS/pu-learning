@@ -1,0 +1,22 @@
+AC   O23826;
+125 kDa kinesin-related protein.
+"TKRP125, a kinesin-related protein involved in the centrosome-
+independent organization of the cytokinetic apparatus in tobacco BY-2
+cells.";
+"Isolation of polypeptides with microtubule-translocating activity
+from phragmoplasts of tobacco BY-2 cells.";
+-!- FUNCTION: Responsible for microtubule translocation. May be
+    important for the organization of phragmoplast-specific arrays of
+    microtubules.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Cytoplasm; cytoskeleton.
+    Note=Microtubule-associated.
+-!- DEVELOPMENTAL STAGE: Expressed during S phase. Expression
+    increases as cell moves from S phase to M phase and then decreases
+    rapidly as cell enters the G1 phase. Expression increases again
+    during the G2 phase.
+-!- SIMILARITY: Belongs to the kinesin-like protein family. BimC
+    subfamily.
+-!- SIMILARITY: Contains 1 kinesin-motor domain.
+ATP-binding; Coiled coil; Direct protein sequencing; Microtubule;
+Motor protein; Nucleotide-binding.
+TMZERO

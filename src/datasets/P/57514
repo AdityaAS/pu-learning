@@ -1,0 +1,12 @@
+AC   P0A9R9; P10115;
+Cell division ATP-binding protein ftsE.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: Not known. Is coded in an operon essential for cell
+    division (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Cell cycle; Cell division; Complete proteome;
+Nucleotide-binding.
+TMZERO

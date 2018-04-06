@@ -1,0 +1,72 @@
+AC   Q7G193; O49155; O64417;
+Aldehyde oxidase 1 (EC 1.2.3.1) (AO-1) (AtAO-1) (AtAO1).
+"Biochemical and genetic characterization of three molybdenum cofactor
+hydroxylases in Arabidopsis thaliana.";
+"Molecular cloning and characterization of aldehyde oxidases in
+Arabidopsis thaliana.";
+"Sequence and analysis of chromosome 5 of the plant Arabidopsis
+thaliana.";
+"Higher activity of an aldehyde oxidase in the auxin-overproducing
+superroot1 mutant of Arabidopsis thaliana.";
+"Production of homo- and hetero-dimeric isozymes from two aldehyde
+oxidase genes of Arabidopsis thaliana.";
+"Functional expression of two Arabidopsis aldehyde oxidases in the
+yeast Pichia pastoris.";
+"Abscisic aldehyde oxidase in leaves of Arabidopsis thaliana.";
+"Comparative studies on the Arabidopsis aldehyde oxidase (AAO) gene
+family revealed a major role of AAO3 in ABA biosynthesis in seeds.";
+-!- FUNCTION: In higher plants aldehyde oxidases (AO) appear to be
+    homo- and heterodimeric assemblies of AO subunits with probably
+    different physiological functions. AO-alpha may be involved in the
+    biosynthesis of auxin, and in biosynthesis of abscisic acid (ABA)
+    in seeds. In vitro, AO-alpha uses heptaldehyde,
+    protocatechualdehyde, benzaldehyde, indole-3-aldehyde (IAld),
+    indole-3-acetaldehyde (IAAld), cinnamaldehyde and citral as
+    substrates; AO-beta uses IAAld, IAld and naphtaldehyde as
+    substrates.
+-!- CATALYTIC ACTIVITY: An aldehyde + H(2)O + O(2) = a carboxylic acid
+    + H(2)O(2).
+-!- COFACTOR: Binds 2 2Fe-2S clusters (By similarity).
+-!- COFACTOR: FAD (By similarity).
+-!- COFACTOR: Molybdopterin (By similarity).
+-!- ENZYME REGULATION: Strongly inhibited by iodoacetate and potassium
+    cyanide (KCN). Weakly inhibited by 2-mercaptoethanol,
+    dithiothreitol (DTT), menadione, estradiol, 4'-(9-
+    acridinylamino)methanesulfon-m-anisidine (mAMSA), allopurinol and
+    tritonX-100. Not affected by p-chloromercuribenzoate.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=14 uM for heptaldehyde;
+      KM=19 uM for protocatechualdehyde;
+      KM=0.74 uM for benzaldehyde;
+      KM=4.4 uM for indole-3-aldehyde;
+      KM=39 uM for indole-3-acetaldehyde;
+      KM=20 uM for cinnamaldehyde;
+      KM=22 uM for citral;
+      Vmax=7.1 nmol/min/mg enzyme with heptaldehyde as substrate;
+      Vmax=8.0 nmol/min/mg enzyme with protocatechualdehyde as
+      substrate;
+      Vmax=17 nmol/min/mg enzyme with benzaldehyde as substrate;
+      Vmax=6.9 nmol/min/mg enzyme with IAld as substrate;
+      Vmax=7.3 nmol/min/mg enzyme with IAAld as substrate;
+      Vmax=3.8 nmol/min/mg enzyme with cinnamaldehyde as substrate;
+      Vmax=38 nmol/min/mg enzyme with citral as substrate;
+      Note=Kinetic values were obtained with the AO-alpha dimer;
+    pH dependence:
+      Optimum pH is 8;
+    Temperature dependence:
+      Optimum temperature is 65 degrees Celsius;
+-!- SUBUNIT: Aldehyde oxidases (AO) are homo- and heterodimers of AO
+    subunits. AO-alpha is an AAO1 homodimer; AO-beta is an AAO1-AAO2
+    heterodimer.
+-!- TISSUE SPECIFICITY: Predominantly expressed in roots, seedlings,
+    mature siliques and seeds, and to lower extent in stems and
+    rosettes. In seedlings, mostly expressed in lower part of
+    hypocotyls and roots.
+-!- SIMILARITY: Belongs to the xanthine dehydrogenase family.
+-!- SIMILARITY: Contains 1 2Fe-2S ferredoxin-type domain.
+ GO:0004031; F:aldehyde oxidase activity; IEA:EC.
+2Fe-2S; Abscisic acid biosynthesis; Auxin biosynthesis; FAD;
+Flavoprotein; Iron; Iron-sulfur; Metal-binding; Molybdenum; NAD;
+Oxidoreductase.
+TMZERO

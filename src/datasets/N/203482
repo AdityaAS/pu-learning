@@ -1,0 +1,15 @@
+AC   O21945;
+Single-stranded DNA-binding protein (Helix-destabilizing protein)
+(Gp32) (Fragment).
+-!- FUNCTION: Binds preferentially to single-stranded DNA and
+    therefore, destabilizes double-stranded DNA. It is involved in DNA
+    replication, repair and recombination. Binds ss-DNA as the
+    replication fork advances and stimulates the replisome
+    processivity and accuracy.
+-!- SUBUNIT: Homodimer in the absence of DNA, monomer when binding DNA
+    (By similarity).
+-!- MISCELLANEOUS: Interacts with the polymerase and the uvsX and uvsY
+    proteins (By similarity).
+DNA damage; DNA recombination; DNA repair; DNA replication;
+DNA-binding; Metal-binding; Zinc; Zinc-finger.
+TMZERO

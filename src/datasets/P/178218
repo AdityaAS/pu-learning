@@ -1,0 +1,20 @@
+AC   P68580; O30671; O31988; O64034;
+Sublancin 168-processing and transport ATP-binding protein sunT
+(EC 3.4.22.-).
+"Nucleotide sequence of the Bacillus subtilis temperate bacteriophage
+SPbetac2.";
+-!- FUNCTION: SunT (TC 3.A.1.112.4) is required for production of the
+    lantibiotic sublancin 168, probably by both processing the signal
+    peptide and exporting the resulting mature lantibiotic (By
+    similarity).
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Probable).
+-!- SIMILARITY: Belongs to the ABC transporter family. SunT subfamily.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+-!- SIMILARITY: Contains 1 peptidase C39 domain.
+Antibiotic biosynthesis; ATP-binding; Bacteriocin transport;
+Hydrolase; Membrane; Nucleotide-binding; Protease; Protein transport;
+Thiol protease; Transmembrane; Transport.
+TMSIX

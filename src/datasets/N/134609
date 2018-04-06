@@ -1,0 +1,18 @@
+AC   O75832;
+26S proteasome non-ATPase regulatory subunit 10 (26S proteasome
+regulatory subunit p28) (Gankyrin).
+"cDNA cloning and functional analysis of p28 (Nas6p) and p40.5
+(Nas7p), two novel regulatory subunits of the 26S proteasome.";
+"Enhanced expression of a novel tumour marker in the human
+hepatomas.";
+"The DNA sequence of the human X chromosome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- FUNCTION: Acts as a regulatory subunit of the 26S proteasome which
+    is involved in the ATP-dependent degradation of ubiquitinated
+    proteins.
+-!- SUBUNIT: Component of the PA700 complex.
+-!- SIMILARITY: Contains 5 ANK repeats.
+ GO:0005838; C:proteasome regulatory particle (sensu Eukar...; TAS:ProtInc.
+3D-structure; ANK repeat; Proteasome; Repeat.
+TMZERO

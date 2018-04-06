@@ -1,0 +1,36 @@
+AC   P13586;
+Calcium-transporting ATPase 1 (EC 3.6.3.8) (Golgi Ca(2+)-ATPase).
+"The yeast secretory pathway is perturbed by mutations in PMR1, a
+member of a Ca2+ ATPase family.";
+"A putative helicase, the SUA5, PMR1, tRNALys1 genes and four open
+reading frames have been detected in the DNA sequence of an 8.8 kb
+fragment of the left arm of chromosome VII of Saccharomyces
+cerevisiae.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Isolation and characterization of SUA5, a novel gene required for
+normal growth in Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: This magnesium-dependent enzyme catalyzes the hydrolysis
+    of ATP coupled with the transport of calcium. Has a role in the
+    secretory pathway.
+-!- CATALYTIC ACTIVITY: ATP + H(2)O + Ca(2+)(Cis) = ADP + phosphate +
+    Ca(2+)(Trans).
+-!- SUBCELLULAR LOCATION: Golgi apparatus; Golgi apparatus membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 6900 molecules/cell.
+-!- SIMILARITY: Belongs to the cation transport ATPase (P-type)
+    family.
+ GO:0000139; C:Golgi membrane; IDA:SGD.
+ GO:0005509; F:calcium ion binding; IDA:SGD.
+ GO:0005388; F:calcium-transporting ATPase activity; IDA:SGD.
+ GO:0015410; F:manganese-transporting ATPase activity; IDA:SGD.
+ GO:0006816; P:calcium ion transport; IDA:SGD.
+ GO:0006828; P:manganese ion transport; IDA:SGD.
+ GO:0006486; P:protein amino acid glycosylation; IMP:SGD.
+ GO:0045045; P:secretory pathway; IMP:SGD.
+ATP-binding; Calcium; Calcium transport; Complete proteome;
+Golgi apparatus; Hydrolase; Ion transport; Magnesium; Membrane;
+Nucleotide-binding; Phosphorylation; Transmembrane; Transport.
+TMEIGHT

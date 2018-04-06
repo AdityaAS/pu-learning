@@ -1,0 +1,22 @@
+AC   Q9YHV4;
+Follistatin precursor (FS) (Activin-binding protein).
+"Follistatin and noggin are excluded from the zebrafish organizer.";
+-!- FUNCTION: Binds directly to activin and functions as an activin
+    antagonist. Probable inhibitor of bone morphogenetic proteins
+    (BMP) signaling during later stages of development including late
+    phases of dorsoventral patterning, to refine the early pattern set
+    up by the interaction of chordino and BMP2/4. Not involved in
+    organizer function or early phases of dorsoventral pattern
+    formation. Specific inhibitor of the biosynthesis and secretion of
+    pituitary follicle stimulating hormone (FSH).
+-!- SUBUNIT: Monomer (Potential).
+-!- DEVELOPMENTAL STAGE: Expression starts at mid-gastrula stages.
+    Expression in gastrulating embryos are confined to anterior and
+    paraxial regions which give rise to head mesoderm and the first
+    five somites. A transient expression is seen in a subset of cells
+    in the posterior notochord anlage. Later expression is seen in
+    brain, eyes and somites.
+-!- SIMILARITY: Contains 3 follistatin-like domains.
+-!- SIMILARITY: Contains 3 Kazal-like domains.
+Glycoprotein; Repeat; Signal.
+TMZERO

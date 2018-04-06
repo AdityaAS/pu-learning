@@ -1,0 +1,15 @@
+AC   Q01937;
+Lactose transport ATP-binding protein lacK.
+"Molecular analysis of the lac operon encoding the binding-protein-
+dependent lactose transport system and beta-galactosidase in
+Agrobacterium radiobacter.";
+-!- FUNCTION: Part of the binding-protein-dependent transport system
+    for lactose. Probably responsible for energy coupling to the
+    transport system.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; peripheral membrane
+    protein.
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Inner membrane; Membrane; Nucleotide-binding;
+Sugar transport; Transport.
+TMZERO

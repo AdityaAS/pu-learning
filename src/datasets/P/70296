@@ -1,0 +1,11 @@
+AC   P50505;
+High affinity potassium transporter.
+"A potassium transporter of the yeast Schwanniomyces occidentalis
+homologous to the Kup system of Escherichia coli has a high
+concentrative capacity.";
+-!- FUNCTION: Major high-affinity potassium uptake protein.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the HAK/KUP transporter (TC 2.A.72) family.
+Glycoprotein; Ion transport; Membrane; Potassium; Potassium transport;
+Transmembrane; Transport.
+TMTWELVE

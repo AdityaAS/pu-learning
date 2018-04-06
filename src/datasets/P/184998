@@ -1,0 +1,50 @@
+AC   P69428; O65938; P27856; Q2M8E1;
+Sec-independent protein translocase protein tatA.
+"Overlapping functions of components of a bacterial Sec-independent
+protein export pathway.";
+"A novel and ubiquitous system for membrane targeting and secretion of
+cofactor-containing proteins.";
+"Analysis of the Escherichia coli genome: DNA sequence of the region
+from 84.5 to 86.5 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"TatB and TatC form a functional and structural unit of the twin-
+arginine translocase from Escherichia coli.";
+"The Tat protein export pathway.";
+"Purified components of the Escherichia coli Tat protein transport
+system form a double-layered ring structure.";
+"Characterization and membrane assembly of the TatA component of the
+Escherichia coli twin-arginine protein transport system.";
+"The Escherichia coli twin-arginine translocation apparatus
+incorporates a distinct form of TatABC complex, spectrum of modular
+TatA complexes and minor TatAB complex.";
+"The core TatABC complex of the twin-arginine translocase in
+Escherichia coli: TatC drives assembly whereas TatA is essential for
+stability.";
+"The TatA component of the twin-arginine protein transport system
+forms channel complexes of variable diameter.";
+-!- FUNCTION: Required for correct localization of precursor proteins
+    bearing signal peptides with the twin arginine conserved motif
+    S/T-R-R-X-F-L-K. This sec-independent pathway is termed TAT for
+    twin-arginine translocation system. This system mainly transports
+    proteins with bound cofactors that require folding prior to
+    export. TatA seems to form the protein-conducting channel of the
+    TAT system.
+-!- SUBUNIT: So far, according to different studies, three types of
+    complexes have been observed. A tatABC complex, a spectrum of
+    homooligomeric tatA complexes and a complex containing only tatA
+    and tatB. TatA forms a transmembrane channel with a lid structure
+    on the cytoplasmic side. The number of tatA protomers can vary so
+    that the channel can adopt different diameters to accommodate
+    substrates of various sizes. This enable tatA to pack tightly
+    around substrate and prevent ion leakage during transport.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; single-pass membrane
+    protein; cytoplasmic side.
+-!- MISCELLANEOUS: Absence of tatA from the tatBC complex leads to the
+    instability of the complex and the specific breakdown of tatB.
+-!- SIMILARITY: Belongs to the tatA/E family.
+ GO:0009306; P:protein secretion; IEA:HAMAP.
+Complete proteome; Direct protein sequencing; Inner membrane;
+Membrane; Protein transport; Translocation; Transmembrane; Transport.
+TMONE

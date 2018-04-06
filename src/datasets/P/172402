@@ -1,0 +1,39 @@
+AC   Q56019; Q56024; Q7CPX0;
+Cell invasion protein sipB (Effector protein sipB).
+"Homologs of the Shigella IpaB and IpaC invasins are required for
+Salmonella typhimurium entry into cultured epithelial cells.";
+"Complete genome sequence of Salmonella enterica serovar Typhimurium
+LT2.";
+"Salmonella typhimurium secreted invasion determinants are homologous
+to Shigella Ipa proteins.";
+"The Salmonella invasin SipB induces macrophage apoptosis by binding
+to caspase-1.";
+"Membrane fusion activity of purified SipB, a Salmonella surface
+protein essential for mammalian cell invasion.";
+"The Salmonella type III secretion translocon protein SspC is inserted
+into the epithelial cell plasma membrane upon infection.";
+"Salmonella type III secretion-associated protein InvE controls
+translocation of effector proteins into host cells.";
+"Topology of the Salmonella invasion protein SipB in a model
+bilayer.";
+"A Salmonella protein causes macrophage cell death by inducing
+autophagy.";
+-!- FUNCTION: Required for entry into the host cell through
+    presentation or delivery of sipC at the host cell plasma membrane.
+    Along with sipC, is necessary for the transfer of other effector
+    proteins into the host cell. Induces macrophage apoptosis either
+    by binding and activating the proapoptotic enzyme caspase-1
+    (caspase-1 dependent), resulting in the release of interleukin-1
+    beta active form, or by disrupting mitochondria and inducing
+    autophagy (caspase-1 independent). The former is dependent of its
+    membrane-fusion activity. The sipBC complex, in association with
+    its chaperone sicA, is regulated by binding of invE.
+-!- SUBUNIT: Homotrimer.
+-!- SUBCELLULAR LOCATION: Secreted protein. Note=Secreted via the type
+    III secretion system 1 (SPI-1 TTSS), inserted into the phagosomal
+    membrane and subsequently released into the host cell cytoplasm.
+-!- DOMAIN: SipB membrane integration requires both hydrophobic
+    domains and the helical C-terminal region.
+-!- SIMILARITY: Belongs to the sipB/ipaB family.
+Coiled coil; Complete proteome; Membrane; Transmembrane; Virulence.
+TMTWO

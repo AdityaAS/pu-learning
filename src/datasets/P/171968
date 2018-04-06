@@ -1,0 +1,18 @@
+AC   P96169;
+Sodium/glucose cotransporter (Na(+)/glucose symporter).
+"Sequence of a Na+/glucose symporter gene and its flanking regions of
+Vibrio parahaemolyticus.";
+"Molecular characterization of Vibrio parahaemolyticus vSGLT: a model
+for sodium-coupled sugar cotransporters.";
+"Proteomics on full-length membrane proteins using mass
+spectrometry.";
+-!- FUNCTION: Actively transports glucose into cells by Na(+)
+    cotransport (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- MASS SPECTROMETRY: MW=60680; METHOD=Electrospray; RANGE=1-543;
+    NOTE=Ref.3.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+Ion transport; Membrane; Sodium; Sodium transport; Sugar transport;
+Symport; Transmembrane; Transport.
+TMFOURTEEN

@@ -1,0 +1,14 @@
+AC   P0A311; P35619; P80097;
+Bacteriocin curvacin-A precursor.
+"Cloning and sequencing of curA encoding curvacin A, the bacteriocin
+produced by Lactobacillus curvatus LTH1174.";
+"Characterization of the bacteriocins curvacin A from Lactobacillus
+curvatus LTH1174 and sakacin P from L. sake LTH673.";
+-!- FUNCTION: Bactericidal activity; inhibits closely related
+    Lactobacilli, Listeria monocytogenes and ivanovvi, Enterococcus
+    faecalis, Carnobacterium sp and Brocothrix thermosphacta.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the bacteriocin class IIA/YGNGV family.
+Antibiotic; Antimicrobial; Bacteriocin; Direct protein sequencing;
+Plasmid.
+TMZERO

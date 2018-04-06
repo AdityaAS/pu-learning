@@ -1,0 +1,14 @@
+AC   P32718; Q2M6L9;
+D-allose kinase (EC 2.7.1.55) (Allokinase).
+"Analysis of the Escherichia coli genome. IV. DNA sequence of the
+region from 89.2 to 92.8 minutes.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The D-allose operon of Escherichia coli K-12.";
+-!- CATALYTIC ACTIVITY: ATP + D-allose = ADP + D-allose 6-phosphate.
+-!- PATHWAY: D-allose metabolism. Not essential for this pathway.
+-!- SIMILARITY: Belongs to the ROK (nagC/xylR) family.
+ GO:0008787; F:allose kinase activity; IEA:EC.
+Carbohydrate metabolism; Complete proteome; Kinase; Transferase.
+TMZERO

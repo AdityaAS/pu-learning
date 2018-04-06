@@ -1,0 +1,18 @@
+AC   P0A8H3; P24198; Q2M9G0;
+Zinc transporter zupT.
+"Nucleotide sequence of a region duplicated in Escherichia coli toc
+mutants.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"ZupT is a Zn(II) uptake system in Escherichia coli.";
+-!- FUNCTION: Mediates zinc uptake. May also transport other divalent
+    cations such as copper and cadmium ions.
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ZIP transporter (TC 2.A.5) family. ZupT
+    subfamily.
+ GO:0006829; P:zinc ion transport; IEA:HAMAP.
+Complete proteome; Ion transport; Membrane; Transmembrane; Transport;
+Zinc; Zinc transport.
+TMEIGHT

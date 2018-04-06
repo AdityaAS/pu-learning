@@ -1,0 +1,48 @@
+AC   P40341;
+Mitochondrial respiratory chain complexes assembly protein RCA1
+(EC 3.4.24.-) (TAT-binding homolog 12).
+"A new member of a family of ATPases is essential for assembly of
+mitochondrial respiratory chain and ATP synthetase complexes in
+Saccharomyces cerevisiae.";
+"Identification of a set of yeast genes coding for a novel family of
+putative ATPases with high similarity to constituents of the 26S
+protease complex.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome
+XIII.";
+"The YTA10-12 complex, an AAA protease with chaperone-like activity in
+the inner membrane of mitochondria.";
+"The formation of respiratory chain complexes in mitochondria is under
+the proteolytic control of the m-AAA protease.";
+"Global analysis of protein expression in yeast.";
+-!- FUNCTION: Acts as component of the m-AAA protease complex which is
+    a ATP-dependent metalloprotease mediating degradation of non-
+    assembled mitochondrial inner membrane proteins. The complex is
+    necessary for the assembly of mitochondrial respiratory chain and
+    ATPase complexes. Function both in posttranslational assembly and
+    in the turnover of mistranslated or misfolded polypeptides.
+-!- COFACTOR: Binds 1 zinc ion (Potential).
+-!- SUBUNIT: Component of the 850 kDa m-AAA protease complex (YTA10-
+    12) which consists of multiple copies of RCA1 AND AFG3.
+-!- INTERACTION:
+    P39925:AFG3; NbExp=1; IntAct=EBI-14858, EBI-2317;
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial membrane;
+    multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 11500 molecules/cell.
+-!- SIMILARITY: In the N-terminal section; belongs to the AAA ATPase
+    family.
+-!- SIMILARITY: In the C-terminal section; belongs to the peptidase
+    M41 family.
+ GO:0005737; C:cytoplasm; IDA:SGD.
+ GO:0005745; C:m-AAA complex; IDA:SGD.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0008237; F:metallopeptidase activity; IMP:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0006461; P:protein complex assembly; IMP:SGD.
+ GO:0045041; P:protein import into mitochondrial intermemb...; TAS:SGD.
+ GO:0006508; P:proteolysis; IMP:SGD.
+ GO:0006465; P:signal peptide processing; IMP:SGD.
+ GO:0043037; P:translation; IMP:SGD.
+ATP-binding; Complete proteome; Hydrolase; Membrane; Metal-binding;
+Metalloprotease; Mitochondrion; Nucleotide-binding; Protease;
+Transmembrane; Zinc.
+TMTWO

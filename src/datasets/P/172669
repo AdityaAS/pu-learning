@@ -1,0 +1,10 @@
+AC   P35825;
+S-layer protein precursor (Surface layer protein).
+"Sequence analysis of the sbsA gene encoding the 130-kDa surface-layer
+protein of Bacillus stearothermophilus strain PV72.";
+-!- FUNCTION: The S-layer is a paracrystalline mono-layered assembly
+    of proteins which coat the surface of bacteria.
+-!- SUBCELLULAR LOCATION: Cell wall. Note=This bacterium is covered by
+    a S-layer with hexagonal symmetry.
+Cell wall; S-layer; Signal.
+TMZERO

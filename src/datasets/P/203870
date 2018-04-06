@@ -1,0 +1,11 @@
+AC   P0A3W9; P07544; Q9JN10;
+Single-strand DNA-binding protein.
+"Sequence analysis of the vir-region from Agrobacterium tumefaciens
+octopine Ti plasmid pTi15955.";
+-!- FUNCTION: Involved in DNA transformation; mediates the nuclear
+    uptake of single-stranded DNA copies of the transferred DNA (T-
+    DNA) element. Binds single-stranded but not double-stranded DNA
+    regardless of nucleotide sequence composition (By similarity).
+-!- SUBCELLULAR LOCATION: Host nucleus (By similarity).
+Crown gall tumor; DNA-binding; Plasmid.
+TMZERO

@@ -1,0 +1,20 @@
+AC   Q9MA96; O65203;
+Probable signal peptidase complex subunit 3 (EC 3.4.-.-) (Microsomal
+signal peptidase 22 kDa subunit) (SPase 22 kDa subunit) (SPC22).
+"Sequence and analysis of chromosome 3 of the plant Arabidopsis
+thaliana.";
+"Empirical analysis of transcriptional activity in the Arabidopsis
+genome.";
+"Full-length cDNA from Arabidopsis thaliana.";
+-!- FUNCTION: Microsomal signal peptidase is a membrane-bound
+    endoproteinase that removes signal peptides from nascent proteins
+    as they are translocated into the lumen of the endoplasmic
+    reticulum (By similarity).
+-!- SUBUNIT: Complex of five different proteins: SEC11L1, SEC11L3,
+    SPCS1, SPCS2 and SPCS3 (By similarity).
+-!- SUBCELLULAR LOCATION: Microsome; microsomal membrane; single-pass
+    type II membrane protein (Potential).
+-!- SIMILARITY: Belongs to the SPCS3 family.
+Endoplasmic reticulum; Glycoprotein; Hydrolase; Membrane; Microsome;
+Protease; Signal-anchor; Transmembrane.
+TMONE

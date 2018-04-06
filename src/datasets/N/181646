@@ -1,0 +1,16 @@
+AC   Q5KND6; Q55Z20;
+Protein SYM1.
+"The genome of the basidiomycetous yeast and human pathogen
+Cryptococcus neoformans.";
+-!- FUNCTION: May be involved in cellular response to stress. Required
+    to maintain mitochondrial DNA (mtDNA) integrity and stability (By
+    similarity).
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein (By similarity).
+-!- SIMILARITY: Belongs to the peroxisomal membrane protein PXMP2/4
+    family. MPV17 subfamily.
+-!- CAUTION: Ref.1 (AAW41425) sequence differs from that shown due to
+    erroneous gene model prediction.
+Complete proteome; Inner membrane; Membrane; Mitochondrion;
+Transmembrane.
+TMFOUR

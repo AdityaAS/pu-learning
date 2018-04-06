@@ -1,0 +1,12 @@
+AC   Q8BMJ2; Q8BKW9;
+Leucyl-tRNA synthetase, cytoplasmic (EC 6.1.1.4) (Leucine--tRNA
+ligase) (LeuRS).
+"The transcriptional landscape of the mammalian genome.";
+-!- CATALYTIC ACTIVITY: ATP + L-leucine + tRNA(Leu) = AMP +
+    diphosphate + L-leucyl-tRNA(Leu).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase
+    family.
+Aminoacyl-tRNA synthetase; ATP-binding; Ligase; Nucleotide-binding;
+Protein biosynthesis.
+TMZERO

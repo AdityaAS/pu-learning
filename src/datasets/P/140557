@@ -1,0 +1,13 @@
+AC   P16552;
+Raffinose permease.
+"Nucleotide sequences and operon structure of plasmid-borne genes
+mediating uptake and utilization of raffinose in Escherichia coli.";
+-!- FUNCTION: Responsible for transport of raffinose into the cell,
+    with the concomitant import of a proton (symport system).
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the lacY/rafB permease family.
+Inner membrane; Membrane; Plasmid; Sugar transport; Symport;
+Transmembrane; Transport.
+TMTWELVE

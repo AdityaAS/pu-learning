@@ -1,0 +1,34 @@
+AC   P40897;
+Oligopeptide transporter 1 (High affinity glutathione transporter 1).
+"Sequence analysis of a 40.2 kb DNA fragment located near the left
+telomere of yeast chromosome X.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Enkephalins are transported by a novel eukaryotic peptide uptake
+system.";
+"Hgt1p, a high affinity glutathione transporter from the yeast
+Saccharomyces cerevisiae.";
+"Global analysis of protein expression in yeast.";
+"A global topology map of the Saccharomyces cerevisiae membrane
+proteome.";
+-!- FUNCTION: High affinity transporter for glutathione. Also
+    transports tetra- and pentapeptides like the opioids leucine
+    enkephalin (Tyr-Gly-Gly-Phe-Leu) and methionine enkephalin (Tyr-
+    Gly-Gly_Phe-Met) across the cell membrane.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Kinetic parameters:
+      KM=53.9 uM for glutathione;
+      KM=310 uM for leucine enkephalin;
+      Vmax=10 nmol/min/mg enzyme for glutathione;
+    pH dependence:
+      Optimum pH is 5.5;
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- MISCELLANEOUS: Present with 2870 molecules/cell.
+-!- SIMILARITY: Belongs to the oligopeptide OPT transporter family.
+ GO:0005783; C:endoplasmic reticulum; IDA:SGD.
+ GO:0005887; C:integral to plasma membrane; IMP:SGD.
+ GO:0015198; F:oligopeptide transporter activity; IMP:SGD.
+ GO:0006790; P:sulfur metabolism; IEP:SGD.
+Complete proteome; Glycoprotein; Membrane; Peptide transport;
+Protein transport; Transmembrane; Transport.
+TMFOURTEEN

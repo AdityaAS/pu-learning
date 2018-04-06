@@ -1,0 +1,30 @@
+AC   Q9FQ20; Q8W1Y1; Q8W1Y2; Q9FKS2;
+Sister chromatid cohesion 1 protein 2 (SCC1 homolog 2) (AtRAD21-1).
+"Cloning and characterization of two Arabidopsis genes that belong to
+the RAD21/REC8 family of chromosome cohesin proteins.";
+"Functional analysis of the three Arabidopsis RAD21 homologs.";
+"Structural analysis of Arabidopsis thaliana chromosome 5. V. Sequence
+features of the regions of 1,381,565 bp covered by twenty one
+physically assigned P1 and TAC clones.";
+-!- FUNCTION: May be involved in sister chromatid cohesion during
+    mitosis.
+-!- SUBUNIT: Component of the cohesin complex (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=Q9FQ20-1; Sequence=Displayed;
+    Name=2;
+      IsoId=Q9FQ20-2; Sequence=VSP_007493;
+      Note=Intron 9 uses an acceptor splice site 3 nucleotides
+      downstream of the one used in isoform 1;
+-!- TISSUE SPECIFICITY: Low expression in shoots, buds, siliques,
+    leaves and roots. Found in, but not limitted to, actively dividing
+    cells: in procambium, protoderm and ground meristem in roots, and
+    in shoot and floral meristems.
+-!- SIMILARITY: Belongs to the rad21 family.
+-!- CAUTION: Ref.3 sequence differs from that shown due to erroneous
+    gene model prediction.
+Alternative splicing; Cell cycle; Cell division; Chromosome partition;
+Mitosis; Nuclear protein.
+TMZERO

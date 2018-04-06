@@ -1,0 +1,18 @@
+AC   O84373;
+Chorismate synthase (EC 4.2.3.5) (5-enolpyruvylshikimate-3-phosphate
+phospholyase).
+"Genome sequence of an obligate intracellular pathogen of humans:
+Chlamydia trachomatis.";
+-!- CATALYTIC ACTIVITY: 5-O-(1-carboxyvinyl)-3-phosphoshikimate =
+    chorismate + phosphate.
+-!- COFACTOR: Reduced flavin (By similarity).
+-!- PATHWAY: Metabolic intermediate biosynthesis; chorismate
+    biosynthesis; chorismate from D-erythrose 4-phosphate and PEP:
+    step 7 [final step].
+-!- PATHWAY: Context: Aromatic amino acids biosynthesis.
+-!- SUBUNIT: Homotetramer (By similarity).
+-!- SIMILARITY: Belongs to the chorismate synthase family.
+ GO:0016089; P:aromatic amino acid family biosynthesis, sh...; IEA:HAMAP.
+Amino-acid biosynthesis; Aromatic amino acid biosynthesis;
+Complete proteome; Lyase.
+TMZERO

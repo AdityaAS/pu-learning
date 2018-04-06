@@ -1,0 +1,13 @@
+AC   P22152;
+Nitrate transporter (Nitrate permease).
+"crnA encodes a nitrate transporter in Aspergillus nidulans.";
+"Molecular biology of a family of nitrate and nitrite transporters
+found in bacteria, fungi and plants.";
+-!- FUNCTION: Permease for nitrate uptake.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein.
+-!- INDUCTION: Subject to nitrate and nitrite induction, and nitrogen
+    metabolite repression. CrnA expression is mediated by the products
+    of nirA, areA, and niaD.
+-!- SIMILARITY: Belongs to the major facilitator superfamily.
+Membrane; Nitrate assimilation; Transmembrane; Transport.
+TMTEN

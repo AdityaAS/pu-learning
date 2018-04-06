@@ -1,0 +1,18 @@
+AC   Q99373;
+Protein PET20, mitochondrial precursor (Petite colonies protein 20).
+"The sequence of 55 kb on the left arm of yeast chromosome XVI
+identifies a small nuclear RNA, a new putative protein kinase and two
+new putative regulators.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Phenotypes of yeast mutants lacking the mitochondrial protein
+Pet20p.";
+-!- FUNCTION: Required for respiratory growth, stability of the
+    mitochondrial genome and for proper assembly or maintenance of
+    mitochondrial proteins.
+-!- INTERACTION:
+    Q06410:ATG17; NbExp=1; IntAct=EBI-32536, EBI-30856;
+    P47135:JSN1; NbExp=1; IntAct=EBI-32536, EBI-9422;
+-!- SUBCELLULAR LOCATION: Mitochondrion.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Mitochondrion; Transit peptide.
+TMZERO

@@ -1,0 +1,18 @@
+AC   Q8PY83;
+CoB--CoM heterodisulfide reductase 1 subunit B (EC 1.8.98.1).
+"The genome of Methanosarcina mazei: evidence for lateral gene
+transfer between Bacteria and Archaea.";
+-!- FUNCTION: Part of a complex that catalyzes the reversible
+    reduction of CoM-S-S-CoB to the thiol-coenzymes H-S-CoM (coenzyme
+    M) and H-S-CoB (coenzyme B). HdrB may have a function in energy
+    transduction (By similarity).
+-!- CATALYTIC ACTIVITY: Coenzyme B + coenzyme M + methanophenazine =
+    N-(7-((2-sulfoethyl)dithio)heptanoyl)-3-O-phospho-L-threonine +
+    dihydromethanophenazine.
+-!- PATHWAY: Methanogenesis from carbon dioxide; eighth (last) step.
+-!- SUBUNIT: The heterodisulfide reductase 1 is composed of three
+    subunits; hdrA, hdrB and hdrC (By similarity).
+-!- SIMILARITY: Belongs to the hdrB family.
+ GO:0051912; F:CoB--CoM heterodisulfide reductase activity; IEA:EC.
+Complete proteome; Methanogenesis; Oxidoreductase.
+TMZERO

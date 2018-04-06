@@ -1,0 +1,31 @@
+AC   P37585; P18578; Q59247;
+UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide)
+pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+(EC 2.4.1.227) (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc
+transferase).
+"Sequence of the Bacillus subtilis homolog of the Escherichia coli
+cell-division gene murG.";
+"A Bacillus subtilis morphogene cluster that includes spoVE is
+homologous to the mra region of Escherichia coli.";
+"The complete genome sequence of the Gram-positive bacterium Bacillus
+subtilis.";
+"Nucleotide sequence and insertional inactivation of a Bacillus
+subtilis gene that affects cell division, sporulation, and temperature
+sensitivity.";
+-!- FUNCTION: Cell wall formation. Catalyzes the transfer of a GlcNAc
+    subunit on undecaprenyl-pyrophosphoryl-MurNAc-pentapeptide (lipid
+    intermediate I) to form undecaprenyl-pyrophosphoryl-MurNAc-
+    (pentapeptide)GlcNAc (lipid intermediate II).
+-!- CATALYTIC ACTIVITY: UDP-N-acetylglucosamine + Mur2Ac(oyl-L-Ala-
+    gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol = UDP +
+    GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-
+    diphosphoundecaprenol.
+-!- PATHWAY: Glycan biosynthesis; peptidoglycan biosynthesis.
+-!- SUBCELLULAR LOCATION: Cell membrane; peripheral membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the glycosyltransferase 28 family. MurG
+    subfamily.
+ GO:0009252; P:peptidoglycan biosynthesis; IEA:HAMAP.
+Cell cycle; Cell division; Cell shape; Cell wall; Complete proteome;
+Glycosyltransferase; Membrane; Peptidoglycan synthesis; Transferase.
+TMZERO

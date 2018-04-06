@@ -1,0 +1,15 @@
+AC   P31687;
+4-coumarate--CoA ligase 2 (EC 6.2.1.12) (4CL 2) (4-coumaroyl-CoA
+synthase 2) (Clone 4CL16).
+"Molecular cloning and expression of 4-coumarate:coenzyme A ligase, an
+enzyme involved in the resistance response of soybean (Glycine max L.)
+against pathogen attack.";
+-!- CATALYTIC ACTIVITY: ATP + 4-coumarate + CoA = AMP + diphosphate +
+    4-coumaroyl-CoA.
+-!- PATHWAY: Secondary metabolite metabolism; stilbene, coumarine and
+    lignin biosynthesis.
+-!- SIMILARITY: Belongs to the ATP-dependent AMP-binding enzyme
+    family.
+ GO:0016207; F:4-coumarate-CoA ligase activity; IEA:EC.
+Ligase; Phenylpropanoid metabolism.
+TMZERO

@@ -1,0 +1,15 @@
+AC   P11092;
+Protein cyaE precursor.
+"Secretion of cyclolysin, the calmodulin-sensitive adenylate cyclase-
+haemolysin bifunctional protein of Bordetella pertussis.";
+"Comparative analysis of the genome sequences of Bordetella pertussis,
+Bordetella parapertussis and Bordetella bronchiseptica.";
+-!- FUNCTION: CyaE is necessary for transport of calmodulin-sensitive
+    adenylate cyclase-hemolysin (cyclolysin).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; peripheral membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the outer membrane factor (OMF) (TC 1.B.17)
+    family.
+Complete proteome; Cytolysis; Hemolysis; Membrane; Outer membrane;
+Signal; Transport.
+TMZERO

@@ -1,0 +1,33 @@
+AC   P77239;
+Cation efflux system protein cusB precursor.
+"A 718-kb DNA sequence of the Escherichia coli K-12 genome
+corresponding to the 12.7-28.0 min region on the linkage map.";
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"Identification of a copper-responsive two-component system on the
+chromosome of Escherichia coli K-12.";
+"The independent cue and cus systems confer copper tolerance during
+aerobic and anaerobic growth in Escherichia coli.";
+"The product of the ybdE gene of the Escherichia coli chromosome is
+involved in detoxification of silver ions.";
+"Molecular analysis of the copper-transporting efflux system CusCFBA
+of Escherichia coli.";
+-!- FUNCTION: Part of a cation efflux system that mediates resistance
+    to copper and silver.
+-!- SUBUNIT: The cus efflux system is composed of cusA, cusB, cusC and
+    cusF.
+-!- INTERACTION:
+    P46850:rtcB; NbExp=1; IntAct=EBI-1118842, EBI-1115171;
+-!- INDUCTION: Transcriptionally regulated by cusR in response to
+    copper and silver ions.
+-!- MISCELLANEOUS: The cus system plays an important role in copper
+    tolerance under anaerobic growth and, under extreme copper stress,
+    in aerobic growth.
+-!- SIMILARITY: Belongs to the membrane fusion protein (MFP)
+    (TC 8.A.1) family.
+ GO:0005515; F:protein binding; IPI:IntAct.
+Complete proteome; Copper; Copper transport; Ion transport; Signal;
+Transport.
+TMZERO

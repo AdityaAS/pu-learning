@@ -1,0 +1,12 @@
+AC   P77397; P71203; P77047; Q2MC77;
+3-(3-hydroxy-phenyl)propionate hydroxylase (EC 1.14.13.-).
+"Sequence of minutes 4-25 of Escherichia coli.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+-!- COFACTOR: FAD (By similarity).
+-!- PATHWAY: 3-hydroxyphenylpropionate degradation.
+-!- SIMILARITY: Belongs to the pheA/tfdB FAD monooxygenase family.
+Aromatic hydrocarbons catabolism; Complete proteome; FAD;
+Flavoprotein; Oxidoreductase.
+TMZERO

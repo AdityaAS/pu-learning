@@ -1,0 +1,8 @@
+AC   Q9HLJ2;
+Protein Ta0236.
+"The genome sequence of the thermoacidophilic scavenger Thermoplasma
+acidophilum.";
+-!- SIMILARITY: Contains 1 AMMECR1 domain.
+ GO:0003674; F:molecular_function; IEA:HAMAP.
+Complete proteome.
+TMZERO

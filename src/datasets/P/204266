@@ -1,0 +1,87 @@
+AC   O76090; O75904; Q53YQ9; Q8IUR9; Q8IZ80;
+Bestrophin-1 (Vitelliform macular dystrophy protein 2) (TU15B).
+"Mutations in a novel gene, VMD2, encoding a protein of unknown
+properties cause juvenile-onset vitelliform macular dystrophy (Best's
+disease).";
+"Identification of the gene responsible for Best macular dystrophy.";
+"Structure-function analysis of the bestrophin family of anion
+channels.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"The vitelliform macular dystrophy protein defines a new family of
+chloride channels.";
+"Bestrophin gene mutations in patients with Best vitelliform macular
+dystrophy.";
+"The mutation spectrum of the bestrophin protein -- functional
+implications.";
+"Evaluation of the Best disease gene in patients with age-related
+macular degeneration and other maculopathies.";
+"A novel spontaneous missense mutation in VMD2 gene is a cause of a
+Best macular dystrophy sporadic case.";
+"Mutation analysis of 3 genes in patients with Leber congenital
+amaurosis.";
+"Allelic variation in the VMD2 gene in best disease and age-related
+macular degeneration.";
+"Identification of novel VMD2 gene mutations in patients with Best
+vitelliform macular dystrophy.";
+"Best's vitelliform macular dystrophy caused by a new mutation
+(Val89Ala) in the VMD2 gene.";
+"Identification of a novel VMD2 mutation in Japanese patients with
+Best disease.";
+"Use of denaturing HPLC and automated sequencing to screen the VMD2
+gene for mutations associated with Best's vitelliform macular
+dystrophy.";
+"Ten novel mutations in VMD2 associated with Best macular dystrophy
+(BMD).";
+"Phenotype and genotype correlations in two best families.";
+"Gene Symbol: VMD2. Disease: Best vitelliform macular dystrophy
+(VMD2).";
+-!- FUNCTION: Forms calcium-sensitive chloride channels. May conduct
+    other physiologically significant anions such as bicarbonate.
+-!- SUBUNIT: Tetramer or pentamers. May interact with PPP2CB and
+    PPP2R1B (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=4;
+    Name=1;
+      IsoId=O76090-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O76090-2; Sequence=VSP_000540;
+      Note=May be due to a competing donnor splice site;
+    Name=3;
+      IsoId=O76090-3; Sequence=VSP_008973, VSP_008974;
+    Name=4;
+      IsoId=O76090-4; Sequence=VSP_008973, VSP_008975;
+-!- TISSUE SPECIFICITY: Predominantly expressed in the basolateral
+    membrane of the retinal pigment epithelium.
+-!- PTM: Phosphorylated by PP2A (By similarity).
+-!- DISEASE: Defects in BEST1 are the cause of Best macular dystrophy
+    (BMD) [MIM:153700]; also known as vitelliform macular dystrophy
+    type 2. BMD is an autosomal dominant disease characterized by
+    typical "egg-yolk" macular lesions due to abnormal accumulation of
+    lipofuscin within and beneath the retinal pigment epithelium
+    cells. Progression of the disease leads to destruction of the
+    retinal pigment epithelium and vision loss.
+-!- DISEASE: Defects in BEST1 are a cause of juvenile-onset
+    vitelliform macular dystrophy (VMD) [MIM:153700].
+-!- DISEASE: Defects in BEST1 are a cause of adult-onset vitelliform
+    macular dystrophy (AVMD) [MIM:608161].
+-!- DISEASE: Defects in BEST1 may be a cause of bull's eye maculopathy
+    [MIM:153870].
+-!- SIMILARITY: Belongs to the bestrophin family.
+-!- WEB RESOURCE: NAME=VMD2 mutation database;
+    URL="http://www.uni-wuerzburg.de/humangenetics/vmd2.html".
+-!- WEB RESOURCE: NAME=Mutations of the VMD2 gene;
+    NOTE=Retina International's Scientific Newsletter;
+    URL="http://www.retina-international.com/sci-news/vmd2mut.htm".
+-!- WEB RESOURCE: NAME=GeneReviews;
+    URL="http://www.genetests.org/query?gene=VMD2".
+ GO:0016323; C:basolateral plasma membrane; IDA:UniProtKB.
+ GO:0016021; C:integral to membrane; TAS:ProtInc.
+ GO:0005624; C:membrane fraction; TAS:ProtInc.
+ GO:0007601; P:visual perception; TAS:ProtInc.
+Alternative splicing; Calcium; Chloride; Chloride channel;
+Disease mutation; Ion transport; Ionic channel; Membrane;
+Phosphorylation; Polymorphism; Sensory transduction; Transmembrane;
+Transport; Vision.
+TMFOUR

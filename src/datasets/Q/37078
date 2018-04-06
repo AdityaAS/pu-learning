@@ -1,0 +1,33 @@
+AC   P00137;
+Cytochrome c3 (Cytochrome c7) (Cytochrome c551.5).
+"The amino acid sequence of cytochrome c551.5 (cytochrome c-7) from
+the green photosynthetic bacterium Chloropseudomonas ethylica.";
+"The Desulfuromonas acetoxidans triheme cytochrome c7 produced in
+Desulfovibrio desulfuricans retains its metal reductase activity.";
+"Assignment of the ligand geometry and redox potentials of the trihaem
+ferricytochrome c3 from Desulfuromonas acetoxidans.";
+"The metal reductase activity of some multiheme cytochromes c: NMR
+structural characterization of the reduction of chromium(VI) to
+chromium(III) by cytochrome c7.";
+"Structure of cytochrome c7 from Desulfuromonas acetoxidans at 1.9 A
+resolution.";
+"NMR characterization and solution structure determination of the
+oxidized cytochrome c7 from Desulfuromonas acetoxidans.";
+"800 MHz 1H NMR solution structure refinement of oxidized cytochrome
+c7 from Desulfuromonas acetoxidans.";
+"A proton-NMR investigation of the fully reduced cytochrome c7 from
+Desulfuromonas acetoxidans: comparison between the reduced and the
+oxidized forms.";
+"A quick solution structure determination of the fully oxidized double
+mutant K9-10A cytochrome c7 from Desulfuromonas acetoxidans and
+mechanistic implications.";
+-!- FUNCTION: Participates in sulfate respiration coupled with
+    phosphorylation by transferring electrons from the enzyme
+    dehydrogenase to ferredoxin.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Redox potential:
+      E(0) are -140 mV, -210 mV and -240 mV;
+-!- PTM: Binds 3 heme groups per subunit.
+3D-structure; Direct protein sequencing; Electron transport; Heme;
+Iron; Metal-binding; Sulfate respiration; Transport.
+TMZERO

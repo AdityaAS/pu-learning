@@ -1,0 +1,27 @@
+AC   P33303;
+Succinate/fumarate mitochondrial transporter (Regulator of acetyl-CoA
+synthetase activity).
+"ACR1, a gene encoding a protein related to mitochondrial carriers, is
+essential for acetyl-CoA synthetase activity in Saccharomyces
+cerevisiae.";
+"Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+X.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Identification of the yeast ACR1 gene product as a succinate-fumarate
+transporter essential for growth on ethanol or acetate.";
+-!- FUNCTION: Transports cytoplasmic succinate, derived from
+    isocitrate by the action of isocitrate lyase in the cytosol, into
+    the mitochondrial matrix in exchange for fumarate.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- INDUCTION: By ethanol or acetate as sole carbon sources. Repressed
+    by glucose.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0005469; F:succinate:fumarate antiporter activity; IDA:SGD.
+ GO:0015741; P:fumarate transport; IDA:SGD.
+ GO:0015744; P:succinate transport; IDA:SGD.
+Complete proteome; Inner membrane; Membrane; Mitochondrion; Repeat;
+Transmembrane; Transport.
+TMFOUR

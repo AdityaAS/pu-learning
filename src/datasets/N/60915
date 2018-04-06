@@ -1,0 +1,113 @@
+AC   Q03330; Q6B165;
+Histone acetyltransferase GCN5 (EC 2.3.1.48).
+"Two distinct yeast transcriptional activators require the function of
+the GCN5 protein to promote normal levels of transcription.";
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+"Creation of the YFLEX clone resource: cloning of Saccharomyces
+cerevisiae ORFs in the Gateway recombinational cloning system.";
+"Analysis of a 17.9 kb region from Saccharomyces cerevisiae chromosome
+VII reveals the presence of eight open reading frames, including BRF1
+(TFIIIB70) and GCN5 genes.";
+"Sequence analysis of a 10.5 kb DNA fragment from the yeast chromosome
+VII reveals the presence of three new open reading frames and of a
+tRNAThr gene.";
+"Functional similarity and physical association between GCN5 and ADA2:
+putative transcriptional adaptors.";
+"ADA1, a novel component of the ADA/GCN5 complex, has broader effects
+than GCN5, ADA2, or ADA3.";
+"The ATM-related cofactor Tra1 is a component of the purified SAGA
+complex.";
+"Expanded lysine acetylation specificity of Gcn5 in native
+complexes.";
+"The ADA complex is a distinct histone acetyltransferase complex in
+Saccharomyces cerevisiae.";
+"GCN5-related N-acetyltransferases: a structural overview.";
+"Highly specific antibodies determine histone acetylation site usage
+in yeast heterochromatin and euchromatin.";
+"The novel SLIK histone acetyltransferase complex functions in the
+yeast retrograde response pathway.";
+"SALSA, a variant of yeast SAGA, contains truncated Spt7, which
+correlates with activated transcription.";
+"Global analysis of protein expression in yeast.";
+"Chd1 chromodomain links histone H3 methylation with SAGA- and SLIK-
+dependent acetylation.";
+"Telomeric heterochromatin boundaries require NuA4-dependent
+acetylation of histone variant H2A.Z in Saccharomyces cerevisiae.";
+"Acetylation of H2AZ Lys 14 is associated with genome-wide gene
+activity in yeast.";
+"Crystal structure and mechanism of histone acetylation of the yeast
+GCN5 transcriptional coactivator.";
+"Molecular architecture of the S. cerevisiae SAGA complex.";
+-!- FUNCTION: Acetylates 'Lys-11' and 'Lys-16' of histone H2B; 'Lys-
+    9', 'Lys-14', 'Lys-18', 'Lys-23' and 'Lys-27' of histone H3; 'Lys-
+    8' and 'Lys-16' of histone H4 with a lower preference, and
+    contributes to HTZ1 acetylation. Acetylation of histones gives a
+    specific tag for epigenetic transcription activation. Operates in
+    concert with certain DNA-binding transcriptional activators such
+    as GCN4 or HAP2/3/4. Its acetylteransferase activity seems to be
+    dependent on the association in different multisubunit complexes.
+    Functions as histone acetyltransferase component of the
+    transcription regulatory histone acetylation (HAT) complexes SAGA,
+    SALSA and ADA. SAGA is involved in RNA polymerase II-dependent
+    transcriptional regulation of approximately 10% of yeast genes. At
+    the promoters, SAGA is required for recruitment of the basal
+    transcription machinery. It influences RNA polymerase II
+    transcriptional activity through different activities such as TBP
+    interaction (SPT3, SPT8 and SPT20) and promoter selectivity,
+    interaction with transcription activators (GCN5, ADA2, ADA3 and
+    TRA1), and chromatin modification through histone acetylation
+    (GCN5) and deubiquitination (UBP8). SAGA acetylates nucleosomal
+    histone H3 to some extent at 'Lys-9', 'Lys-14', 'Lys-18' and 'Lys-
+    23'. SAGA interacts with DNA via upstream activating sequences
+    (UASs). SALSA, an altered form of SAGA, may be involved in
+    positive transcriptional regulation. The ADA histone
+    acetyltransferase complex, preferentially acetylates nucleosomal
+    histones H3 (at 'Lys-14' and 'Lys-18') and H2B, leading to
+    transcription regulation. SLIK is proposed to have partly
+    overlapping functions with SAGA. It preferentially acetylates
+    methylated histone H3, at least after activation at the GAL1-10
+    locus.
+-!- CATALYTIC ACTIVITY: Acetyl-CoA + histone = CoA + acetylhistone.
+-!- SUBUNIT: Component of the 1.8 MDa SAGA complex, which consists of
+    at least of TRA1, CHD1, SPT7, TAF5, ADA3, SGF73, SPT20/ADA5, SPT8,
+    TAF12, TAF6, HFI1/ADA1, UBP8, GCN5, ADA2, SPT3, SGF29, TAF10,
+    TAF9, SGF11 and SUS1. TAF5, TAF6, TAF9, TAF19, TAF12 and ADA1 seem
+    to be present in 2 copies. SAGA is built of 5 distinct domains
+    with specialized functions. Domain I (containing TRA1) probably
+    represents the activator interaction surface. Domain II
+    (containing TAF5 and TAF6, and probably TAF9 and TAF10), domain
+    III (containing GCN5, TAF10, SPT7, TAF5 and ADA1, and probably
+    ADA2, ADA3 and TAF12), and domain IV (containing HFI1/ADA1 and
+    TAF6, and probably TAF9) are believed to play primarily an
+    architectural role. Domain III also harbors the HAT activity.
+    Domain V (containing SPT3 and SPT20, and probably SPT8) represents
+    the TBP-interacting module, which may be associated transiently
+    with SAGA. SUS1 associates with the SAC3-THP1 complex. Component
+    of the SALSA complex, which consists of at least TRA1, SPT7 (C-
+    terminal truncated form), TAF5, ADA3, SPT20, TAF12, TAF6, HFI1,
+    GCN5, ADA2 and SPT3. Component of the SLIK complex, which of at
+    least TRA1, CHD1, SPT7, TAF5, ADA3, SPT20, RTG2, TAF12, TAF6,
+    HFI1, UBP8, GCN5, ADA2, SPT3, SGF29, TAF10 and TAF9. Component of
+    the ADA/GCN5 complex, that consists of HFI1/ADA1, ADA2, ADA3,
+    SPT20/ADA5 and GCN5 and is probably a subcomplex of SAGA.
+    Component of the 0.8 MDa ADA complex, which at least consists of
+    ADA2, ADA3, AHC1 and GCN5. GCN5 interacts with ADA2.
+-!- INTERACTION:
+    P39940:RSP5; NbExp=1; IntAct=EBI-7458, EBI-16219;
+-!- SUBCELLULAR LOCATION: Nucleus.
+-!- MISCELLANEOUS: Present with 1180 molecules/cell.
+-!- SIMILARITY: Belongs to the GCN5 family.
+-!- SIMILARITY: Contains 1 bromo domain.
+-!- SIMILARITY: Contains 1 N-acetyltransferase domain.
+ GO:0005671; C:Ada2/Gcn5/Ada3 transcription activator complex; IPI:SGD.
+ GO:0000124; C:SAGA complex; IDA:SGD.
+ GO:0046695; C:SLIK (SAGA-like) complex; IPI:SGD.
+ GO:0004402; F:histone acetyltransferase activity; TAS:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0003713; F:transcription coactivator activity; TAS:SGD.
+ GO:0016568; P:chromatin modification; TAS:SGD.
+ GO:0016573; P:histone acetylation; TAS:SGD.
+3D-structure; Activator; Acyltransferase; Bromodomain;
+Chromatin regulator; Complete proteome; Nuclear protein;
+Transcription; Transcription regulation; Transferase.
+TMZERO

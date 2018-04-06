@@ -1,0 +1,30 @@
+AC   P19502;
+Protein Rev (Regulator of expression of viral proteins).
+"Sequence analysis and acute pathogenicity of molecularly cloned
+SIVSMM-PBj14.";
+"Molecular clones from a non-acutely pathogenic derivative of
+SIVsmmPBj14: characterization and comparison to acutely pathogenic
+clones.";
+-!- FUNCTION: Escorts unspliced or incompletely spliced viral pre-
+    mRNAs (late transcripts) out of the nucleus of infected cells.
+    These pre-mRNAs carry a recognition sequence called Rev responsive
+    element (RRE) located in the env gene, that is not present in
+    fully spliced viral mRNAs (early transcripts). This function is
+    essential since most viral proteins are translated from unspliced
+    or partially spliced pre-mRNAs which cannot exit the nucleus by
+    the pathway used by fully processed cellular mRNAs (By
+    similarity).
+-!- SUBUNIT: Homomultimer; when bound to the RRE. Multimeric assembly
+    is essential for activity (By similarity).
+-!- SUBCELLULAR LOCATION: Nucleus; nucleolus. Cytoplasm. Note=The
+    presence of both nuclear import and nuclear export signals leads
+    to continuous shuttling between the nucleus and cytoplasm (By
+    similarity).
+-!- DOMAIN: The RNA-binding motif binds to the RRE, a stem-and-loop
+    structure present in incompletely spliced viral pre-mRNAs. This
+    region also contains the NLS which mediates nuclear localization.
+    These overlapping functions prevent Rev bound to RRE from
+    undesirable return to the nucleus. When Rev binds the RRE, the NLS
+    becomes masked while the NES remains accessible (By similarity).
+mRNA transport; Nuclear protein; RNA-binding; Transport.
+TMZERO

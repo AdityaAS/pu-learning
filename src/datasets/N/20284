@@ -1,0 +1,46 @@
+AC   P04653; Q69B23; Q9TS03; Q9TS48;
+Alpha-S1-casein precursor.
+"Construction and identification of recombinant plasmids carrying
+cDNAs coding for ovine alpha S1-, alpha S2-, beta-, kappa-casein and
+beta-lactoglobulin. Nucleotide sequence of alpha S1-casein cDNA.";
+"Primary structure of ovine alpha s1-caseins: localization of
+phosphorylation sites and characterization of genetic variants A, C
+and D.";
+"Single nucleotide polymorphisms in the ovine casein genes detected by
+polymerase chain reaction-single strand conformation polymorphism.";
+-!- FUNCTION: Important role in the capacity of milk to transport
+    calcium phosphate.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1; Synonyms=Long;
+      IsoId=P04653-2; Sequence=Displayed;
+    Name=2; Synonyms=Short;
+      IsoId=P04653-1; Sequence=VSP_012408;
+-!- TISSUE SPECIFICITY: Mammary gland specific. Secreted in milk.
+-!- MASS SPECTROMETRY: MW=23638.14; MW_ERR=3.0; METHOD=Electrospray;
+    RANGE=16-214 (P04653-2; Allele A); NOTE=With eleven phosphate
+    groups (Ref.2).
+-!- MASS SPECTROMETRY: MW=22620.0; MW_ERR=1.6; METHOD=Electrospray;
+    RANGE=16-214 (P04653-1; Allele A); NOTE=With eleven phosphate
+    groups (Ref.2).
+-!- MASS SPECTROMETRY: MW=23561.8; MW_ERR=2.3; METHOD=Electrospray;
+    RANGE=16-214 (P04653-2; Allele C); NOTE=With ten phosphate groups
+    (Ref.2).
+-!- MASS SPECTROMETRY: MW=22551.8; MW_ERR=2.2; METHOD=Electrospray;
+    RANGE=16-214 (P04653-1; Allele C); NOTE=With ten phosphate groups
+    (Ref.2).
+-!- MASS SPECTROMETRY: MW=23290.2; MW_ERR=2.9; METHOD=Electrospray;
+    RANGE=16-214 (P04653-2; Allele D); NOTE=With six phosphate groups
+    (Ref.2).
+-!- MASS SPECTROMETRY: MW=22629.0; MW_ERR=1.6; METHOD=Electrospray;
+    RANGE=16-214 (P04653-1; Allele D); NOTE=With six phosphate groups
+    (Ref.2).
+-!- POLYMORPHISM: At least four alleles are known. The sequence shown
+    is that of allele A. The frequency of variant Thr-209 is 0.263,
+    0.122 and 0.191 in Italian breeds Comisana, Sarda and
+    Sopravissana, respectively.
+-!- SIMILARITY: Belongs to the alpha-casein family.
+Alternative splicing; Direct protein sequencing; Phosphorylation;
+Polymorphism; Signal.
+TMZERO

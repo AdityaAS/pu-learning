@@ -1,0 +1,35 @@
+AC   P23608;
+Poly-beta-hydroxybutyrate polymerase (EC 2.3.1.-) (Poly(3-
+hydroxybutyrate) polymerase) (PHB polymerase) (PHB synthase) (Poly(3-
+hydroxyalkanoate) polymerase) (PHA polymerase) (PHA synthase)
+(Polyhydroxyalkanoic acid synthase).
+"Poly-beta-hydroxybutyrate (PHB) biosynthesis in Alcaligenes eutrophus
+H16. Identification and characterization of the PHB polymerase gene
+(phbC).";
+"Molecular analysis of the Alcaligenes eutrophus poly(3-
+hydroxybutyrate) biosynthetic operon: identification of the N-terminus
+of poly(3-hydroxybutyrate) synthase and identification of the
+promoter.";
+-!- FUNCTION: Polymerizes d(-)-3-hydroxybutyryl-CoA to create PHB
+    which consists of thousands of hydroxybutyrate molecules linked
+    end to end. PHB serves as an intracellular energy reserve material
+    when cells grow under conditions of nutrient limitation.
+-!- PATHWAY: Poly-beta-hydroxybutyrate biosynthesis; third step.
+-!- SUBUNIT: Monomer (Probable).
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- BIOTECHNOLOGY: Forms a biodegradable plastic that is degraded
+    naturally and completely by bacteria into carbon dioxide and
+    water. Utilized in the medical industry. Plates made from PHA-
+    based plastics can be left in place to help heal fractured bones.
+    After the bone has healed, the plastic slowly breaks down in the
+    body. Utilized by Imperial Chemical Industries (ICI) to produce a
+    PHB-PHV (poly-B-valerate) copolymer sold under the trade name
+    'Biopol'. Biopol is used as packaging material. The PHB-PHV
+    copolymer consists of approximately 20% PHV and 80% PHB. It can be
+    synthesized by incorporating glucose and valeric acid into the
+    medium. PHB-PHV is stronger and more flexible than regular PHB.
+    Under industrial conditions, 80% or higher of the cell dry weight
+    of A.eutrophus usually consists of the PHB-PHV copolymer.
+-!- SIMILARITY: Belongs to the PHA/PHB synthase family.
+Acyltransferase; PHB biosynthesis; Transferase.
+TMZERO

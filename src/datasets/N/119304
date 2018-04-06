@@ -1,0 +1,18 @@
+AC   Q9ER64; Q8R510; Q99NF5;
+Oxysterol-binding protein-related protein 5 (OSBP-related protein 5)
+(ORP-5) (Oxysterol-binding protein homolog 1).
+"Sequence and functional comparison in the Beckwith-Wiedemann region:
+implications for a novel imprinting centre and extended imprinting.";
+"Unique imprinted status of mouse Obph1 gene and no imprimted status
+of the human homologue in placenta.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+-!- SIMILARITY: Belongs to the OSBP family.
+-!- SIMILARITY: Contains 1 PH domain.
+ GO:0005829; C:cytosol; ISS:UniProtKB.
+ GO:0008142; F:oxysterol binding; ISS:UniProtKB.
+ GO:0008203; P:cholesterol metabolism; ISS:UniProtKB.
+ GO:0030301; P:cholesterol transport; ISS:UniProtKB.
+ GO:0006893; P:Golgi to plasma membrane transport; ISS:UniProtKB.
+Lipid transport; Transport.
+TMZERO

@@ -1,0 +1,21 @@
+AC   P0A564; O84901; Q57165;
+6 kDa early secretory antigenic target (ESAT-6).
+"Recall of long-lived immunity to Mycobacterium tuberculosis infection
+in mice.";
+"Purification and characterization of a low-molecular-mass T-cell
+antigen secreted by Mycobacterium tuberculosis.";
+"ESAT-6 gene of a clinical isolate of Mycobacterium tuberculosis from
+India.";
+"Deciphering the biology of Mycobacterium tuberculosis from the
+complete genome sequence.";
+"Whole-genome comparison of Mycobacterium tuberculosis clinical and
+laboratory strains.";
+"A Mycobacterium tuberculosis operon encoding ESAT-6 and a novel low-
+molecular-mass culture filtrate protein (CFP-10).";
+-!- FUNCTION: Not known. Elicits high level of IFN-gamma from memory
+    effector cells during the first phase of a protective immune
+    response.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- SIMILARITY: Belongs to the ESAT-6 (esx) family.
+3D-structure; Complete proteome; Direct protein sequencing.
+TMZERO

@@ -1,0 +1,28 @@
+AC   Q86LR2;
+Hydralysin-1.
+"Hydralysin, a novel animal group-selective paralytic and cytolytic
+protein from a noncnidocystic origin in hydra.";
+"Hydralysins, a new category of beta-pore-forming toxins in
+cnidaria.";
+-!- FUNCTION: Induces an immediate fast muscle contraction followed by
+    flaccid paralysis when injected into blowfly larvae. The paralytic
+    effect is lower in mice and fish. Has strong cytolytic activity
+    against insect Sf9 cells and human HeLa cells, weak activity
+    against human JAR cells, and no activity against human HEK293
+    cells. Binds to erythrocyte membranes and has weak hemolytic
+    activity, probably mediated by oligomerization and pore formation.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Found in whole body extract but not in the
+    cnidocyst.
+-!- TOXIC DOSE: PD(50) is 0.36 mg/kg by injection in blowfly larvae,
+    in Ref.1.
+-!- TOXIC DOSE: PD(50) is 0.557 mg/kg by injection in blowfly larvae,
+    in Ref.2.
+-!- SIMILARITY: Belongs to the hydralysin family.
+ GO:0005576; C:extracellular region; IDA:UniProtKB.
+ GO:0019835; P:cytolysis; IDA:UniProtKB.
+ GO:0019836; P:hemolysis of host red blood cells; IDA:UniProtKB.
+ GO:0009405; P:pathogenesis; IDA:UniProtKB.
+Cytolysis; Direct protein sequencing; Hemolysis; Membrane; Neurotoxin;
+Toxin.
+TMZERO

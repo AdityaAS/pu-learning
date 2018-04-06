@@ -1,0 +1,12 @@
+AC   P36180;
+Probable cytochrome c biosynthesis protein.
+"Gene organization deduced from the complete sequence of liverwort
+Marchantia polymorpha mitochondrial DNA. A primitive form of plant
+mitochondrial genome.";
+-!- FUNCTION: Could be involved in assembly and maturation of
+    cytochromes c. May play a role in guidance of apocytochromes and
+    heme groups for the covalent linkage introduced by the cytochrome-
+    c-heme lyase.
+-!- SIMILARITY: Belongs to the ccmF/cycK/ccl1/nrfE/ccsA family.
+Cytochrome c-type biogenesis; Mitochondrion.
+TMZERO

@@ -1,0 +1,44 @@
+AC   P06446; P27567; Q91UL5; Q9YIJ5; Q9YIM6; Q9YNG5; Q9YNG6; Q9YNG7;
+AC   Q9YNG8; Q9YNG9; Q9YNH0; Q9YZ78;
+Matrix protein (M protein).
+"Nucleotide sequence of a Sendai virus genome region covering the
+entire M gene and the 3' proximal 1013 nucleotides of the F gene.";
+"Nucleotide sequence analyses of the genes encoding the HN, M, NP, P,
+and L proteins of two host range mutants of Sendai virus.";
+"Pneumotropic revertants derived from a pantropic mutant, F1-R, of
+Sendai virus.";
+"Budding site of Sendai virus in polarized epithelial cells is one of
+the determinants for tropism and pathogenicity in mice.";
+"Determinants of pantropism of the F1-R mutant of Sendai virus:
+specific mutations involved are in the F and M genes.";
+"Microscopy of internal structures of Sendai virus associated with the
+cytoplasmic surface of host membranes.";
+"Phosphorylation of the Sendai virus M protein is not essential for
+virus replication either in vitro or in vivo.";
+"Assembly of Sendai virus: M protein interacts with F and HN proteins
+and with the cytoplasmic tail and transmembrane domain of F protein.";
+"Alteration of Sendai virus morphogenesis and nucleocapsid
+incorporation due to mutation of cysteine residues of the matrix
+protein.";
+"Interaction of cellular tubulin with Sendai virus M protein regulates
+transcription of viral genome.";
+-!- FUNCTION: Plays a crucial role in virion assembly and budding.
+    Forms a shell at the inner face of the plasma membrane and
+    concentrates the HN and F glycoproteins. Acts as a negative
+    regulator for transcription and replication by sticking to the
+    nucleocapsid. This effect might be regulated by the cytoplasmic
+    interaction with tubulin that dissociates the M protein from the
+    nucleocapsid.
+-!- SUBUNIT: Homomultimer. Binds to the cytoplasmic regions of F and
+    HN proteins. Interacts with nucleocapsid. Interacts with human
+    alpha-tubulin and beta-tubulin.
+-!- SUBCELLULAR LOCATION: Cytoplasm. Note=During bud formation,
+    associates at the inner side of the plasma membrane of infected
+    cells.
+-!- PTM: A large portion is phosphorylated in the cytoplasm, but not
+    in virion. However, this phosphorylation is not essential for
+    virus replication.
+-!- SIMILARITY: Belongs to the paramyxoviruses M protein family.
+Host-virus interaction; Membrane; Phosphorylation;
+Viral matrix protein; Virion protein.
+TMZERO

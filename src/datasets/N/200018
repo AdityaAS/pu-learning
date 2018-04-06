@@ -1,0 +1,25 @@
+AC   Q829X3;
+UvrABC system protein A (UvrA protein) (Excinuclease ABC subunit A).
+"Genome sequence of an industrial microorganism Streptomyces
+avermitilis: deducing the ability of producing secondary
+metabolites.";
+"Complete genome sequence and comparative analysis of the industrial
+microorganism Streptomyces avermitilis.";
+-!- FUNCTION: The UvrABC repair system catalyzes the recognition and
+    processing of DNA lesions. UvrA is an ATPase and a DNA-binding
+    protein. A damage recognition complex composed of 2 uvrA and 2
+    uvrB subunits scans DNA for abnormalities. When the presence of a
+    lesion has been verified by uvrB, the uvrA molecules dissociate
+    (By similarity).
+-!- SUBUNIT: Forms a heterotetramer with uvrB during the search for
+    lesions (By similarity).
+-!- SUBCELLULAR LOCATION: Cytoplasm (By similarity).
+-!- SIMILARITY: Belongs to the ABC transporter family. UvrA subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0003677; F:DNA binding; IEA:HAMAP.
+ GO:0008270; F:zinc ion binding; IEA:HAMAP.
+ GO:0009432; P:SOS response; IEA:HAMAP.
+ATP-binding; Complete proteome; DNA damage; DNA excision; DNA repair;
+DNA-binding; Excision nuclease; Metal-binding; Nucleotide-binding;
+Repeat; SOS response; Zinc; Zinc-finger.
+TMZERO

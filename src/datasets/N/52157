@@ -1,0 +1,35 @@
+AC   P19540;
+Coagulation factor IX precursor (EC 3.4.21.22) (Christmas factor)
+[Contains: Coagulation factor IXa light chain; Coagulation factor IXa
+heavy chain].
+"Phenotypic correction of factor IX deficiency in skin fibroblasts of
+hemophilic dogs.";
+"Molecular cloning of a cDNA encoding canine factor IX.";
+"Canine hemophilia B resulting from a point mutation with unusual
+consequences.";
+-!- FUNCTION: Factor IX is a vitamin K-dependent plasma protein that
+    participates in the intrinsic pathway of blood coagulation by
+    converting factor X to its active form in the presence of Ca(2+)
+    ions, phospholipids, and factor VIIIa.
+-!- CATALYTIC ACTIVITY: Selective cleavage of Arg-|-Ile bond in factor
+    X to form factor Xa.
+-!- SUBUNIT: Heterodimer of a light chain and a heavy chain;
+    disulfide-linked.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Synthesized primarily in the liver and
+    secreted in plasma.
+-!- DOMAIN: Calcium binds to the gamma-carboxyglutamic acid (Gla)
+    residues and, with stronger affinity, to another site, beyond the
+    Gla domain.
+-!- PTM: Activated by factor XIa, which excises the activation
+    peptide.
+-!- DISEASE: Defects in F9 are the cause of hemophilia B (HEMB).
+-!- SIMILARITY: Belongs to the peptidase S1 family.
+-!- SIMILARITY: Contains 2 EGF-like domains.
+-!- SIMILARITY: Contains 1 Gla (gamma-carboxy-glutamate) domain.
+-!- SIMILARITY: Contains 1 peptidase S1 domain.
+ GO:0003803; F:coagulation factor IXa activity; IEA:EC.
+Blood coagulation; Calcium; Disease mutation; EGF-like domain;
+Gamma-carboxyglutamic acid; Glycoprotein; Hemophilia; Hydrolase;
+Hydroxylation; Protease; Repeat; Serine protease; Signal; Zymogen.
+TMZERO

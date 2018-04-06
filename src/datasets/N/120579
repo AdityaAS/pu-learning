@@ -1,0 +1,41 @@
+AC   P59071;
+Phospholipase A2 VRV-PL-VIIIa (EC 3.1.1.4) (Phosphatidylcholine 2-
+acylhydrolase) (DPLA2).
+"Primary sequence determination of the most basic myonecrotic
+phospholipase A2 from the venom of Vipera russelli.";
+"Purification and characterization of a major phospholipase A2 from
+Russell's viper (Vipera russelli) venom.";
+"Three-dimensional structure of a presynaptic neurotoxic phospholipase
+A2 from Daboia russelli pulchella at 2.4 A resolution.";
+"Regulation of catalytic function by molecular association: structure
+of phospholipase A2 from Daboia russelli pulchella (DPLA2) at 1.9 A
+resolution.";
+"Design of specific peptide inhibitors of phospholipase A2: structure
+of a complex formed between Russell's viper phospholipase A2 and a
+designed peptide Leu-Ala-Ile-Tyr-Ser (LAIYS).";
+"Structural basis of phospholipase A2 inhibition for the synthesis of
+prostaglandins by the plant alkaloid aristolochic acid from a 1.7 A
+crystal structure.";
+"Crystal structure of a complex formed between a snake venom
+phospholipase A(2) and a potent peptide inhibitor Phe-Leu-Ser-Tyr-Lys
+at 1.8 A resolution.";
+-!- FUNCTION: PA2 catalyzes the calcium-dependent hydrolysis of the 2-
+    acyl groups in 3-sn-phosphoglycerides. This toxin shows neurotoxic
+    symptoms and damages vital organs such as lung, liver and kidney.
+    Displays edema-inducing activities when injected into the foot
+    pads of mice and induces necrosis of muscle cells when injected
+    into the thigh muscle.
+-!- CATALYTIC ACTIVITY: Phosphatidylcholine + H(2)O = 1-
+    acylglycerophosphocholine + a carboxylate.
+-!- COFACTOR: Binds 1 calcium ion.
+-!- SUBUNIT: Monomer.
+-!- SUBCELLULAR LOCATION: Secreted protein.
+-!- TISSUE SPECIFICITY: Expressed by the venom gland.
+-!- TOXIC DOSE: LD(50) is 5.3 mg/kg body weight by intraperitoneal
+    injection into mice.
+-!- SIMILARITY: Belongs to the phospholipase A2 family. Group II
+    subfamily.
+3D-structure; Calcium; Direct protein sequencing; Hydrolase;
+Lipid degradation; Metal-binding; Neurotoxin; Presynaptic neurotoxin;
+Toxin.
+TMZERO

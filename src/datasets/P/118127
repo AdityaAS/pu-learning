@@ -1,0 +1,13 @@
+AC   P24305;
+Outer membrane porin protein 32 precursor (OMP32).
+"Nucleotide and derived amino acid sequences of the major porin of
+Comamonas acidovorans and comparison of porin primary structures.";
+-!- FUNCTION: Forms anion selective channels.
+-!- SUBUNIT: Homotrimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell outer membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: To bacterial outer membrane proteins and porins.
+3D-structure; Direct protein sequencing; Ion transport; Membrane;
+Outer membrane; Porin; Pyrrolidone carboxylic acid; Signal;
+Transmembrane; Transport.
+TMZERO

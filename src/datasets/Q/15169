@@ -1,0 +1,36 @@
+AC   Q08409; O94147;
+ATP-dependent permease AUS1.
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+"Transcriptional profiling identifies two members of the ATP-binding
+cassette transporter superfamily required for sterol uptake in
+yeast.";
+-!- FUNCTION: Transporter involved in the uptake of sterol.
+-!- INTERACTION:
+    P80210:ADE12; NbExp=1; IntAct=EBI-35723, EBI-14267;
+    P00925:ENO2; NbExp=1; IntAct=EBI-35723, EBI-6475;
+    P08524:FPP1; NbExp=1; IntAct=EBI-35723, EBI-7069;
+    Q12326:GPM3; NbExp=1; IntAct=EBI-35723, EBI-13526;
+    P00817:IPP1; NbExp=1; IntAct=EBI-35723, EBI-9338;
+    P30952:MLS1; NbExp=1; IntAct=EBI-35723, EBI-10428;
+    Q01560:NOP3; NbExp=1; IntAct=EBI-35723, EBI-12114;
+    P39683:NPT1; NbExp=1; IntAct=EBI-35723, EBI-12218;
+    P41816:OYE3; NbExp=1; IntAct=EBI-35723, EBI-12734;
+    P38787:PAN5; NbExp=1; IntAct=EBI-35723, EBI-12913;
+    P54885:PRO2; NbExp=1; IntAct=EBI-35723, EBI-13872;
+    P35202:THI80; NbExp=1; IntAct=EBI-35723, EBI-19195;
+    P38081:YBR056W; NbExp=1; IntAct=EBI-35723, EBI-21453;
+    P25561:YCL021W; NbExp=1; IntAct=EBI-35723, EBI-21696;
+    P47137:YJR096W; NbExp=1; IntAct=EBI-35723, EBI-25572;
+    P36068:YKL130C; NbExp=1; IntAct=EBI-35723, EBI-26866;
+    Q04336:YMR196W; NbExp=1; IntAct=EBI-35723, EBI-27435;
+    Q08686:YOR251C; NbExp=1; IntAct=EBI-35723, EBI-19264;
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein
+    (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family. PDR subfamily.
+-!- SIMILARITY: Contains 2 ABC transporter domains.
+ GO:0005739; C:mitochondrion; IDA:SGD.
+ GO:0005515; F:protein binding; IPI:IntAct.
+ GO:0015918; P:sterol transport; IMP:SGD.
+ATP-binding; Complete proteome; Membrane; Nucleotide-binding; Repeat;
+Transmembrane; Transport.
+TMTHIRTEEN

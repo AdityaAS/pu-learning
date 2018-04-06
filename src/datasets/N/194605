@@ -1,0 +1,16 @@
+AC   Q9UUG9;
+Tuberous sclerosis 2 protein homolog.
+"The genome sequence of Schizosaccharomyces pombe.";
+"Tsc1+ and tsc2+ regulate arginine uptake and metabolism in
+Schizosaccharomyces pombe.";
+-!- FUNCTION: Regulates arginine uptake and metabolism.
+-!- SIMILARITY: Contains 1 Rap-GAP domain.
+ GO:0005737; C:cytoplasm; IDA:GeneDB_SPombe.
+ GO:0005829; C:cytosol; IDA:GeneDB_SPombe.
+ GO:0005634; C:nucleus; IDA:GeneDB_SPombe.
+ GO:0006995; P:cellular response to nitrogen starvation; IMP:GeneDB_SPombe.
+ GO:0006886; P:intracellular protein transport; IMP:GeneDB_SPombe.
+ GO:0043091; P:L-arginine import; IGI:GeneDB_SPombe.
+ GO:0009935; P:nutrient import; IMP:GeneDB_SPombe.
+Arginine metabolism; Complete proteome; GTPase activation.
+TMZERO

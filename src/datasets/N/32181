@@ -1,0 +1,25 @@
+AC   Q55080;
+Cytochrome P450 119 (EC 1.14.14.-).
+"Cloning of a potential cytochrome P450 from the archaeon Sulfolobus
+solfataricus.";
+"Characterization of a cytochrome P450 from the acidothermophilic
+archaea Sulfolobus solfataricus.";
+"The active site of the thermophilic CYP119 from Sulfolobus
+solfataricus.";
+"Crystallization and preliminary X-ray diffraction analysis of a
+cytochrome P450 (CYP119) from Sulfolobus solfataricus.";
+"Crystal structure of a thermophilic cytochrome P450 from the archaeon
+Sulfolobus solfataricus.";
+-!- FUNCTION: Catalyzes the H(2)O(2)-dependent epoxidation of styrene,
+    cis-beta-methylstyrene, and cis-stilbene with retention of
+    stereochemistry.
+-!- BIOPHYSICOCHEMICAL PROPERTIES:
+    Temperature dependence:
+      Stable at up to 85 degrees Celsius;
+-!- SUBCELLULAR LOCATION: Cytoplasm.
+-!- SIMILARITY: Belongs to the cytochrome P450 family.
+-!- CAUTION: Does not seem to exist in the complete genome of P2
+    strain.
+3D-structure; Heme; Iron; Metal-binding; Monooxygenase;
+Oxidoreductase.
+TMZERO

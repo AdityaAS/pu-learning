@@ -1,0 +1,18 @@
+AC   Q73YL6;
+Probable cytochrome c oxidase polypeptide 4 (EC 1.9.3.1) (Cytochrome c
+oxidase polypeptide IV) (Cytochrome aa3 subunit 4).
+"The complete genome sequence of Mycobacterium avium subspecies
+paratuberculosis.";
+-!- FUNCTION: Part of cytochrome c oxidase, its function is unknown
+    (By similarity).
+-!- CATALYTIC ACTIVITY: 4 ferrocytochrome c + O(2) = 4 ferricytochrome
+    c + 2 H(2)O.
+-!- SUBUNIT: Associates with subunits I, II and III to form cytochrome
+    c oxidase (By similarity).
+-!- SUBCELLULAR LOCATION: Cell membrane; multi-pass membrane protein
+    (By similarity).
+-!- SIMILARITY: Belongs to the cytochrome c oxidase bacterial subunit
+    ctaF family.
+ GO:0004129; F:cytochrome-c oxidase activity; IEA:EC.
+Complete proteome; Membrane; Oxidoreductase; Transmembrane.
+TMFOUR

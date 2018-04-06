@@ -1,0 +1,18 @@
+AC   P0A0A2; Q9L6H5;
+Pyruvate dehydrogenase E1 component subunit beta (EC 1.2.4.1).
+"Genome and virulence determinants of high virulence community-
+acquired MRSA.";
+-!- FUNCTION: The pyruvate dehydrogenase complex catalyzes the overall
+    conversion of pyruvate to acetyl-CoA and CO(2). It contains
+    multiple copies of three enzymatic components: pyruvate
+    dehydrogenase (E1), dihydrolipoamide acetyltransferase (E2) and
+    lipoamide dehydrogenase (E3) (By similarity).
+-!- CATALYTIC ACTIVITY: Pyruvate + [dihydrolipoyllysine-residue
+    acetyltransferase] lipoyllysine = [dihydrolipoyllysine-residue
+    acetyltransferase] S-acetyldihydrolipoyllysine + CO(2).
+-!- COFACTOR: Thiamine pyrophosphate (By similarity).
+-!- SUBUNIT: Heterodimer of an alpha and a beta chain.
+ GO:0004739; F:pyruvate dehydrogenase (acetyl-transferring...; IEA:EC.
+Complete proteome; Flavoprotein; Glycolysis; Oxidoreductase; Pyruvate;
+Thiamine pyrophosphate.
+TMZERO

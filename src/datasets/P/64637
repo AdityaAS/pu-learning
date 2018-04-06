@@ -1,0 +1,23 @@
+AC   P0AER8; P19933; Q2M7W6;
+Sodium/glutamate symport carrier protein (Glutamate permease).
+"Nucleotide sequence of gltS, the Na+/glutamate symport carrier gene
+of Escherichia coli B.";
+"Characterization of the Escherichia coli K12 gltS glutamate permease
+gene.";
+"DNA sequence and analysis of 136 kilobases of the Escherichia coli
+genome: organizational symmetry around the origin of replication.";
+"The complete genome sequence of Escherichia coli K-12.";
+"Highly accurate genome sequences of Escherichia coli K-12 strains
+MG1655 and W3110.";
+"The nucleotide sequence of recG, the distal spo operon gene in
+Escherichia coli K-12.";
+"Global topology analysis of the Escherichia coli inner membrane
+proteome.";
+-!- FUNCTION: Catalyzes the sodium-dependent uptake of extracellular
+    glutamate.
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein.
+-!- SIMILARITY: Belongs to the gltS symporter family.
+Complete proteome; Inner membrane; Ion transport; Membrane; Sodium;
+Sodium transport; Symport; Transmembrane; Transport.
+TMTWELVE

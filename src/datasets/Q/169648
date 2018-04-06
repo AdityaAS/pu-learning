@@ -1,0 +1,42 @@
+AC   Q8BGY9; Q99PK3; Q9ESW5;
+High-affinity choline transporter 1 (Solute carrier family 5 member 7)
+(Hemicholinium-3-sensitive choline transporter) (CHT).
+"Molecular cloning and characterization of a murine hemicholinium-3-
+sensitive choline transporter.";
+"Molecular cloning of the human and murine high affinity choline
+transporters and characterization of the human gene structure.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Regulation of choline transporter surface expression and
+phosphorylation by protein kinase C and protein phosphatase 1/2A.";
+"Lethal impairment of cholinergic neurotransmission in hemicholinium-
+3-sensitive choline transporter knockout mice.";
+-!- FUNCTION: Imports choline from the extracellular space to the
+    neuron with high affinity. Rate-limiting step in acetylcholine
+    synthesis. Sodium ion and chloride ion dependent.
+-!- PATHWAY: Acetylcholine biosynthesis.
+-!- SUBCELLULAR LOCATION: Membrane; multi-pass membrane protein (By
+    similarity).
+-!- TISSUE SPECIFICITY: Found in spinal cord, brain-stem, mid-brain
+    and striatum. Specific for cholinergic neurons.
+-!- PTM: Phosphorylated by PKC and dephosphorylated by PP1/PP2A.
+-!- MISCELLANEOUS: Although morphologically normal at birth, knockout
+    mice become immobile, breathe irregularly, appear cyanotic, and
+    die within an hour. Mice had developmental changes in
+    neuromuscular junction morphology reminiscent of changes in mutant
+    mice lacking ACh synthesis.
+-!- MISCELLANEOUS: Specifically inhibited by nanomolar concentrations
+    of hemicholinium 3.
+-!- SIMILARITY: Belongs to the sodium:solute symporter (SSF)
+    (TC 2.A.21) family.
+ GO:0016021; C:integral to membrane; NAS:UniProtKB.
+ GO:0015220; F:choline transporter activity; IMP:UniProtKB.
+ GO:0008292; P:acetylcholine biosynthesis; IMP:UniProtKB.
+ GO:0015871; P:choline transport; IMP:MGI.
+ GO:0007274; P:neuromuscular synaptic transmission; IMP:MGI.
+ GO:0007271; P:synaptic transmission, cholinergic; IMP:MGI.
+Glycoprotein; Ion transport; Membrane; Neurotransmitter biosynthesis;
+Phosphorylation; Sodium; Sodium transport; Symport; Transmembrane;
+Transport.
+TMTWELVE

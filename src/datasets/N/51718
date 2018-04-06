@@ -1,0 +1,37 @@
+AC   Q5IGR8;
+Exostosin-1a (EC 2.4.1.224) (EC 2.4.1.225) (Glucuronosyl-N-
+acetylglucosaminyl-proteoglycan/N-acetylglucosaminyl-proteoglycan 4-
+alpha-N-acetylglucosaminyltransferase 1a) (Multiple exostoses protein
+1 homolog a).
+"Distinct tissue-specificity of three zebrafish ext1 genes encoding
+proteoglycan modifying enzymes and their relationship to somitic Sonic
+hedgehog signaling.";
+-!- FUNCTION: Glycosyltransferase required for the biosynthesis of
+    heparan-sulfate (By similarity).
+-!- CATALYTIC ACTIVITY: UDP-N-acetyl-D-glucosamine + beta-D-
+    glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-proteoglycan =
+    UDP + N-acetyl-alpha-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-
+    (1->4)-N-acetyl-alpha-D-glucosaminyl-proteoglycan.
+-!- CATALYTIC ACTIVITY: UDP-alpha-D-glucuronate + N-acetyl-alpha-D-
+    glucosaminyl-(1->4)-beta-D-glucuronosyl-proteoglycan = UDP + beta-
+    D-glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-(1->4)-beta-D-
+    glucuronosyl-proteoglycan.
+-!- PATHWAY: Glycosylation.
+-!- SUBCELLULAR LOCATION: Endoplasmic reticulum; endoplasmic reticulum
+    membrane; single-pass type II membrane protein (By similarity).
+-!- DEVELOPMENTAL STAGE: Expressed both maternally and zygotically.
+    During gastrulation, expressed in the neuroectoderm. At the 3-
+    somite stage, expressed in the prospective forebrain, hindbrain
+    and tailbud. From the 5-somite stage, expressed in the somitic
+    mesoderm. At the 16-somite stage, also expressed in the dorsal
+    neural tube, the eye and the Kupffer's vesicle. At 48 hours-post-
+    fertilization (hpf), expression continues in the dorsal
+    diencephalon and cerebellum and is observed in the otic vesicle.
+-!- SIMILARITY: Belongs to the glycosyltransferase 47 family.
+ GO:0030176; C:integral to endoplasmic reticulum membrane; ISS:UniProtKB.
+ GO:0050508; F:glucuronosyl-N-acetylglucosaminyl-proteogly...; ISS:UniProtKB.
+ GO:0050509; F:N-acetylglucosaminyl-proteoglycan 4-beta-gl...; ISS:UniProtKB.
+ GO:0015012; P:heparan sulfate proteoglycan biosynthesis; ISS:UniProtKB.
+Endoplasmic reticulum; Glycoprotein; Glycosyltransferase; Membrane;
+Signal-anchor; Transferase; Transmembrane.
+TMONE

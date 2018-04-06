@@ -1,0 +1,17 @@
+AC   O33481;
+Modification methylase PspPI (EC 2.1.1.37) (Cytosine-specific
+methyltransferase PspPI) (M.PspPI).
+"Cloning and characterization of the gene encoding PspPI
+methyltransferase from the Antarctic psychrotroph Psychrobacter sp.
+strain TA137. Predicted interactions with DNA and organization of the
+variable region.";
+-!- FUNCTION: This methylase recognizes the double-stranded sequence
+    GGNCC, causes specific methylation on C-4 on both strands, and
+    protects the DNA from cleavage by the PspPI endonuclease.
+-!- CATALYTIC ACTIVITY: S-adenosyl-L-methionine + DNA = S-adenosyl-L-
+    homocysteine + DNA containing 5-methylcytosine.
+-!- SIMILARITY: Belongs to the C5-methyltransferase family.
+ GO:0003886; F:DNA (cytosine-5-)-methyltransferase activity; IEA:EC.
+Methyltransferase; Restriction system; S-adenosyl-L-methionine;
+Transferase.
+TMZERO

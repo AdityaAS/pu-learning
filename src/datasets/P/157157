@@ -1,0 +1,15 @@
+AC   P0ABG8; P13409; P15035;
+Rod shape-determining protein rodA.
+"Genome sequence of enterohaemorrhagic Escherichia coli O157:H7.";
+"Complete genome sequence of enterohemorrhagic Escherichia coli
+O157:H7 and genomic comparison with a laboratory strain K-12.";
+-!- FUNCTION: This is one of the proteins responsible for the rod
+    shape of E.coli. Is required for the expression of the enzymatic
+    activity of PBP2, which is thought to synthesize peptidoglycan in
+    the step of initiation of cell elongation (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (By similarity).
+-!- SIMILARITY: Belongs to the ftsW/rodA/spoVE family.
+Cell shape; Complete proteome; Inner membrane; Membrane;
+Transmembrane.
+TMNINE

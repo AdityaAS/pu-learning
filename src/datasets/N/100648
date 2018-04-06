@@ -1,0 +1,30 @@
+AC   O35678; Q3V2R0; Q9D9G8;
+Monoglyceride lipase (EC 3.1.1.23) (MGL).
+"cDNA cloning, tissue distribution, and identification of the
+catalytic triad of monoglyceride lipase. Evolutionary relationship to
+esterases, lysophospholipases, and haloperoxidases.";
+"Exon-intron organization and chromosomal localization of the mouse
+monoglyceride lipase gene.";
+"The transcriptional landscape of the mammalian genome.";
+"The status, quality, and expansion of the NIH full-length cDNA
+project: the Mammalian Gene Collection (MGC).";
+"Endogenously nitrated proteins in mouse brain: links to
+neurodegenerative disease.";
+-!- FUNCTION: Hydrolyzes 2-arachidonoylglycerol, a putative
+    endocannabinoid (By similarity). Converts monoacylglycerides to
+    free fatty acids and glycerol.
+-!- CATALYTIC ACTIVITY: Hydrolyzes glycerol monoesters of long-chain
+    fatty acids.
+-!- PATHWAY: Triglyceride lipolysis; last step.
+-!- ALTERNATIVE PRODUCTS:
+    Event=Alternative splicing; Named isoforms=2;
+    Name=1;
+      IsoId=O35678-1; Sequence=Displayed;
+    Name=2;
+      IsoId=O35678-2; Sequence=VSP_010315;
+      Note=No experimental confirmation available;
+-!- TISSUE SPECIFICITY: Ubiquitous.
+-!- SIMILARITY: Belongs to the AB hydrolase superfamily.
+    Monoacylglycerol lipase family.
+Alternative splicing; Hydrolase; Nitration; Serine esterase.
+TMZERO

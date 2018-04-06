@@ -1,0 +1,25 @@
+AC   Q12482;
+Mitochondrial aspartate-glutamate transporter AGC1 (Aspartate-
+glutamate carrier 1).
+"The nucleotide sequence of Saccharomyces cerevisiae chromosome XVI.";
+"Phylogenetic classification of the mitochondrial carrier family of
+Saccharomyces cerevisiae.";
+"Identification and metabolic role of the mitochondrial aspartate-
+glutamate transporter in Saccharomyces cerevisiae.";
+"The proteome of Saccharomyces cerevisiae mitochondria.";
+-!- FUNCTION: Calcium-dependent mitochondrial aspartate and glutamate
+    carrier. Transport of glutamate in mitochondria is required for
+    mitochondrial transamination reactions and ornithine synthesis.
+    Plays also a role in malate-aspartate NADH shuttle, which is
+    critical for growth on acetate and fatty acids.
+-!- SUBCELLULAR LOCATION: Mitochondrion; mitochondrial inner membrane;
+    multi-pass membrane protein.
+-!- SIMILARITY: Belongs to the mitochondrial carrier family.
+-!- SIMILARITY: Contains 3 Solcar repeats.
+ GO:0015183; F:L-aspartate transporter activity; IDA:SGD.
+ GO:0005313; F:L-glutamate transporter activity; IDA:SGD.
+ GO:0015810; P:aspartate transport; IDA:SGD.
+ GO:0015813; P:glutamate transport; IDA:SGD.
+Amino-acid transport; Calcium; Complete proteome; Inner membrane;
+Membrane; Mitochondrion; Repeat; Transmembrane; Transport.
+THTHREE

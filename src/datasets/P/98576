@@ -1,0 +1,20 @@
+AC   Q9X2W0;
+Microcin J25 export ATP-binding/permease protein mcjD (Microcin J25
+secretion ATP-binding protein mcjD) (Microcin J25 immunity protein).
+"Sequence analysis of the four plasmid genes required to produce the
+circular peptide antibiotic microcin J25.";
+"Genetic analysis of plasmid determinants for microcin J25 production
+and immunity.";
+-!- FUNCTION: Is able to protect a cell, which harbors the plasmid
+    pTUC100 encoding microcin J25, against microcin J25. Is required
+    for microcin J25 export out of the producing cells.
+-!- SUBUNIT: Homodimer (By similarity).
+-!- SUBCELLULAR LOCATION: Cell inner membrane; multi-pass membrane
+    protein (Potential).
+-!- SIMILARITY: Belongs to the ABC transporter family.
+-!- SIMILARITY: Contains 1 ABC transmembrane type-1 domain.
+-!- SIMILARITY: Contains 1 ABC transporter domain.
+ATP-binding; Bacteriocin immunity; Bacteriocin transport;
+Inner membrane; Membrane; Nucleotide-binding; Plasmid;
+Protein transport; Transmembrane; Transport.
+TMSIX
