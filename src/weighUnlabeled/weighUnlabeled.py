@@ -1,0 +1,124 @@
+import numpy as np
+
+class WeighUnlabeled(object):
+    
+    def __init__(self, estimator, hold_out_ratio=0.1, precomputed_kernel=False):
+        self.estimator = estimator
+        self.c = 1.0
+        self.hold_out_ratio = hold_out_ratio
+        
+        self.labelled = labelled
+        self.unlabelled = unlabelled
+
+        if precomputed_kernel:
+            self.fit = self.__fit_precomputed_kernel
+        else:
+            self.fit = self.__fit_no_precomputed_kernel
+        self.estimator_fitted = False
+        
+    def __str__(self):
+        return 'Estimator:' + str(self.estimator) + '\n' + 'p(s=1|y=1,x) ~= ' + str(self.c) + '\n' + \
+            'Fitted: ' + str(self.estimator_fitted)
+        
+    def __fit_precomputed_kernel(self, X, s):
+        positives = np.where(s == 1.)[0]
+        hold_out_size = np.ceil(len(positives) * self.hold_out_ratio)
+
+        if len(positives) <= hold_out_size:
+            raise('Not enough positive examples to estimate p(s=1|y=1,x). Need at least ' + str(hold_out_size + 1) + '.')
+        
+        np.random.shuffle(positives)
+        hold_out = positives[:hold_out_size]
+        
+        #Hold out test kernel matrix
+        X_test_hold_out = X[hold_out]
+        keep = list(set(np.arange(len(y))) - set(hold_out))
+        X_test_hold_out = X_test_hold_out[:,keep]
+        
+        #New training kernel matrix
+        X = X[:, keep]
+        X = X[keep]
+
+        s = np.delete(s, hold_out)
+        
+        self.estimator.fit(X, s)
+        
+        hold_out_predictions = self.estimator.predict_proba(X_test_hold_out)
+        
+        try:
+            hold_out_predictions = hold_out_predictions[:,1]
+        except:
+            pass
+        
+        c = np.mean(hold_out_predictions)
+        self.c = c
+        
+        self.estimator_fitted = True
+            
+    def __fit_no_precomputed_kernel(self, X, s):
+
+        # Fits a traditional classifier to the non traditional dataset. Calculates P(s=1|x) and estimates P(s=1|y=1) by using the hold out dataset.
+        positives = np.where(y == 1.)[0]
+        hold_out_size = np.ceil(len(positives) * self.hold_out_ratio)
+
+        if len(positives) <= hold_out_size:
+            raise('Not enough positive examples to estimate p(s=1|y=1,x). Need at least ' + str(hold_out_size + 1) + '.')
+        
+        np.random.shuffle(positives)
+        hold_out = positives[:hold_out_size]
+        X_hold_out = X[hold_out]
+
+        X = np.delete(X, hold_out,0)
+        s = np.delete(s, hold_out)
+        
+        self.estimator.fit(X, s)
+        
+        hold_out_predictions = self.estimator.predict_proba(X_hold_out)
+        
+        try:
+            hold_out_predictions = hold_out_predictions[:,1]
+        except:
+            pass
+        
+        c = np.mean(hold_out_predictions)
+        
+        self.c = c
+
+        self.estimator_fitted = True
+    
+    # Returns E[y] which is P(y=1)
+        def estimateEy(self, G):
+
+        n = self.labelled
+        m = self.labelled + self.unlabelled
+
+        # The input to this method is the P(s=1|x) vector which is the output of the traditional classifier --------> G
+        # self.c = P(s=1|y=1)
+        W = (G/(1-G))*((1-self.c)/self.c)
+
+        return (float(n) + float(W.sum()))/float(m)
+
+
+    def predict_proba(self, X):
+        if not self.estimator_fitted:
+            raise Exception('The estimator must be fitted before calling predict_proba(...).')
+        
+        # self.estimator.predict_proba gives the probability of P(s=1|x) for x belongs to P or U    
+        probabilistic_predictions = self.estimator.predict_proba(X) 
+
+        yEstimate = self.estimateEy(probabilistic_predictions)
+
+        try:
+            probabilistic_predictions = probabilistic_predictions[:,1]
+        except:
+            pass
+        
+        return (probabilistic_predictions * (self.c * yEstimate * (len(P) + len(U)))) / len(P) 
+    
+
+    def predict(self, X, treshold=0.5):
+        if not self.estimator_fitted:
+            raise Exception('The estimator must be fitted before calling predict(...).')
+
+        return np.array([1. if p > treshold else -1. for p in self.predict_proba(X)])
+
