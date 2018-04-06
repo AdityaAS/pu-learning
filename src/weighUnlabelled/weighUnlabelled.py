@@ -1,19 +1,15 @@
 import numpy as np
 
-class WeighUnlabeled(object):
+class WeighUnlabelled(object):
     
-    def __init__(self, estimator, hold_out_ratio=0.1, precomputed_kernel=False):
+    def __init__(self, estimator, labelled, unlabelled, hold_out_ratio=0.1, precomputed_kernel=False):
         self.estimator = estimator
         self.c = 1.0
         self.hold_out_ratio = hold_out_ratio
         
         self.labelled = labelled
         self.unlabelled = unlabelled
-
-        if precomputed_kernel:
-            self.fit = self.__fit_precomputed_kernel
-        else:
-            self.fit = self.__fit_no_precomputed_kernel
+        self.fit = self.__fit_no_precomputed_kernel
         self.estimator_fitted = False
         
     def __str__(self):
@@ -22,7 +18,7 @@ class WeighUnlabeled(object):
         
     def __fit_precomputed_kernel(self, X, s):
         positives = np.where(s == 1.)[0]
-        hold_out_size = np.ceil(len(positives) * self.hold_out_ratio)
+        hold_out_size = int(np.ceil(len(positives) * self.hold_out_ratio))
 
         if len(positives) <= hold_out_size:
             raise('Not enough positive examples to estimate p(s=1|y=1,x). Need at least ' + str(hold_out_size + 1) + '.')
@@ -58,8 +54,8 @@ class WeighUnlabeled(object):
     def __fit_no_precomputed_kernel(self, X, s):
 
         # Fits a traditional classifier to the non traditional dataset. Calculates P(s=1|x) and estimates P(s=1|y=1) by using the hold out dataset.
-        positives = np.where(y == 1.)[0]
-        hold_out_size = np.ceil(len(positives) * self.hold_out_ratio)
+        positives = np.where(s == 1.)[0]
+        hold_out_size = int(np.ceil(len(positives) * self.hold_out_ratio))
 
         if len(positives) <= hold_out_size:
             raise('Not enough positive examples to estimate p(s=1|y=1,x). Need at least ' + str(hold_out_size + 1) + '.')
@@ -87,7 +83,7 @@ class WeighUnlabeled(object):
         self.estimator_fitted = True
     
     # Returns E[y] which is P(y=1)
-        def estimateEy(self, G):
+    def estimateEy(self, G):
 
         n = self.labelled
         m = self.labelled + self.unlabelled
@@ -103,6 +99,8 @@ class WeighUnlabeled(object):
         if not self.estimator_fitted:
             raise Exception('The estimator must be fitted before calling predict_proba(...).')
         
+        n = self.labelled
+        m = self.labelled + self.unlabelled
         # self.estimator.predict_proba gives the probability of P(s=1|x) for x belongs to P or U    
         probabilistic_predictions = self.estimator.predict_proba(X) 
 
@@ -113,7 +111,7 @@ class WeighUnlabeled(object):
         except:
             pass
         
-        return (probabilistic_predictions * (self.c * yEstimate * (len(P) + len(U)))) / len(P) 
+        return (probabilistic_predictions * (self.c * yEstimate * m)) / float(n) 
     
 
     def predict(self, X, treshold=0.5):

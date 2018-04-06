@@ -8,10 +8,10 @@ class TransformTraditional(object):
         self.c = 1.0
         self.hold_out_ratio = hold_out_ratio
         
-        if precomputed_kernel:
-            self.fit = self.__fit_precomputed_kernel
-        else:
-            self.fit = self.__fit_no_precomputed_kernel
+        # if precomputed_kernel:
+        #     self.fit = self.__fit_precomputed_kernel
+        # else:
+        self.fit = self.__fit_no_precomputed_kernel
 
         self.estimator_fitted = False
         
@@ -54,8 +54,9 @@ class TransformTraditional(object):
             
     def __fit_no_precomputed_kernel(self, X, y):
         positives = np.where(y == 1.)[0]
-        hold_out_size = np.ceil(len(positives) * self.hold_out_ratio)
-
+        print len(positives)
+        hold_out_size = int(np.ceil(len(positives) * self.hold_out_ratio))
+        print hold_out_size
         if len(positives) <= hold_out_size:
             raise('Not enough positive examples to estimate p(s=1|y=1,x). Need at least ' + str(hold_out_size + 1) + '.')
         
