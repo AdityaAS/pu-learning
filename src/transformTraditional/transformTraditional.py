@@ -7,56 +7,18 @@ class TransformTraditional(object):
         self.estimator = estimator
         self.c = 1.0
         self.hold_out_ratio = hold_out_ratio
-        
-        # if precomputed_kernel:
-        #     self.fit = self.__fit_precomputed_kernel
-        # else:
         self.fit = self.__fit_no_precomputed_kernel
-
         self.estimator_fitted = False
         
     def __str__(self):
         return 'Estimator:' + str(self.estimator) + '\n' + 'p(s=1|y=1,x) ~= ' + str(self.c) + '\n' + \
             'Fitted: ' + str(self.estimator_fitted)
-    
-    def __fit_precomputed_kernel(self, X, y):
-        positives = np.where(y == 1.)[0]
-        hold_out_size = np.ceil(len(positives) * self.hold_out_ratio)
 
-        if len(positives) <= hold_out_size:
-            raise('Not enough positive examples to estimate p(s=1|y=1,x). Need at least ' + str(hold_out_size + 1) + '.')
-        
-        np.random.shuffle(positives)
-        hold_out = positives[:hold_out_size]
-        
-        X_test_hold_out = X[hold_out]
-        keep = list(set(np.arange(len(y))) - set(hold_out))
-        X_test_hold_out = X_test_hold_out[:,keep]
-        
-        X = X[:, keep]
-        X = X[keep]
-
-        y = np.delete(y, hold_out)
-        
-        self.estimator.fit(X, y)
-        
-        hold_out_predictions = self.estimator.predict_proba(X_test_hold_out)
-        
-        try:
-            hold_out_predictions = hold_out_predictions[:,1]
-        except:
-            pass
-        
-        c = np.mean(hold_out_predictions)
-        self.c = c
-        
-        self.estimator_fitted = True
-            
     def __fit_no_precomputed_kernel(self, X, y):
         positives = np.where(y == 1.)[0]
-        print len(positives)
+
         hold_out_size = int(np.ceil(len(positives) * self.hold_out_ratio))
-        print hold_out_size
+
         if len(positives) <= hold_out_size:
             raise('Not enough positive examples to estimate p(s=1|y=1,x). Need at least ' + str(hold_out_size + 1) + '.')
         
@@ -76,6 +38,7 @@ class TransformTraditional(object):
             pass
         
         c = np.mean(hold_out_predictions)
+
         
         self.c = c
 
@@ -93,7 +56,6 @@ class TransformTraditional(object):
             pass
         
         return probabilistic_predictions / self.c
-    
 
     def predict(self, X, treshold=0.5):
         if not self.estimator_fitted:

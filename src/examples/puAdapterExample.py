@@ -1,14 +1,8 @@
-#!/usr/bin/env python
-#-*- coding:utf-8 -*-
-"""
-Created on Dec 21, 2012
-
-@author: Alexandre
-"""
-from puLearning.puAdapter import PUAdapter
+from transformTraditional.transformTraditional import TransformTraditional
 from sklearn.svm import SVC
 from sklearn.datasets import make_classification
 import numpy as np
+
 
 if __name__ == '__main__':
     X,y = make_classification(n_samples=3000, 
@@ -33,7 +27,7 @@ if __name__ == '__main__':
                     kernel='rbf',
                     gamma=0.4,
                     probability=True)
-    pu_estimator = PUAdapter(estimator, hold_out_ratio=0.2)
+    pu_estimator = TransformTraditional(estimator, hold_out_ratio=0.2)
     
     pu_estimator.fit(X, y)
     
